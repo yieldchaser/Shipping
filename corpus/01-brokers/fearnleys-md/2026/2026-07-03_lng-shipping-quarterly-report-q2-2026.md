@@ -1,10 +1,21 @@
+---
+title: "LNG Shipping - Quarterly Report Q2 2026"
+issue_date: "2026-07-03"
+year: 2026
+department: "LNG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "d673e9de-e5bb-46ef-8aeb-b758087b1563"
+images_count: 28
+local_pdf: "../pdfs/2026/2026-07-03_lng-shipping-quarterly-report-q2-2026.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf"
+---
 # LNG Shipping - Quarterly Report Q2 2026
 
-**Date**: 2026-07-03 | **Department**: LNG
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf)
+**Date:** 2026-07-03 | **Department:** LNG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2026/2026-07-03_lng-shipping-quarterly-report-q2-2026.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf)  
 
 ---
-
 
 ## Summary
 
@@ -23,7 +34,7 @@ Two vessels were sold for demolition, while we estimate 20 idle vessels off Labu
 Two projects reached FID during the quarter: Delfin LNG (4.4 MTPA floating LNG) and Commonwealth LNG (9.5 MTPA). Both are US-based developments targeting first LNG by 2030.
 
 
-![Spot charter rates and JKM](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/gas price and rates.png)
+![Spot charter rates and JKM](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/gas price and rates.png)
 *Figure: Spot charter rates and JKM*
 
 
@@ -36,27 +47,27 @@ Basin spreads remained elevated, with Atlantic rates consistently above Middle E
 The term market has corrected from a durable contango structure in Q1, when the 1-year rate briefly traded above the 7-year TC. This structure has since normalised, with the 1-year now priced below the 7-year rate, although still above the 3- and 5-year tenors, unlike the pre-war market. Movements in term rates remained broadly flat during the quarter, with overall liquidity continuing to be relatively limited.
 
 
-![Two-stroke spot charter rates by region](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/by region.png)
+![Two-stroke spot charter rates by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/by region.png)
 *Figure: Two-stroke spot charter rates by region*
 
 
-![Average spot charter rates](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/spot avg.png)
+![Average spot charter rates](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/spot avg.png)
 *Figure: Average spot charter rates*
 
 
-![1-year charter rates](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/1 year.png)
+![1-year charter rates](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/1 year.png)
 *Figure: 1-year charter rates*
 
 
-![Term charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/longterm.png)
+![Term charter rates (two-stroke)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/longterm.png)
 *Figure: Term charter rates (two-stroke)*
 
 
-![Monthly spot charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str mntly.png)
+![Monthly spot charter rates (two-stroke)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str mntly.png)
 *Figure: Monthly spot charter rates (two-stroke)*
 
 
-![Quarterly spot charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str qrt.png)
+![Quarterly spot charter rates (two-stroke)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str qrt.png)
 *Figure: Quarterly spot charter rates (two-stroke)*
 
 
@@ -64,32 +75,32 @@ The term market has corrected from a durable contango structure in Q1, when the 
 
 Fixing activity remained elevated, with the total number of short-term fixtures being only 10 fixtures less than in Q1, which itself was an all-time high. Compared to Q2 last year, the spot fixture count increased by 15%. Despite operating in a high gas price environment, which typically reduces fixture volumes due to limited sublet availability, activity has been supported by increased participation from independent owners. As a result, the usual decline in fixing activity at high gas prices has not materialised. In addition, several sublets have originated from Qatari entities, reflecting their reduced shipping demand.
 
-The share of multi-month fixtures (90–365 days) increased this quarter, accounting for 20% of all short-term fixtures, compared to 9% in the previous quarter. In the 1–2 year segment, six deals were concluded, all but one involving two-stroke vessels. 
+The share of multi-month fixtures (90-365 days) increased this quarter, accounting for 20% of all short-term fixtures, compared to 9% in the previous quarter. In the 1-2 year segment, six deals were concluded, all but one involving two-stroke vessels. 
 
 Liquidity in the TFDE segment has increased markedly year-to-date. In H1, 100 TFDE spot fixtures were concluded, representing the highest level since 2017. Two-stroke vessels have recorded the same number of spot fixtures as last year, and total activity remains elevated relative to pre-2025 levels. The increase in TFDE fixtures reflect vessel ownership structures: independent owners control a larger share of TFDE tonnage, allowing these vessels to remain available in the spot market, whereas two-stroke availability is more constrained by charterer-controlled portfolios and their strategies in a high gas price environment.
 
 
-![Short-term fixture activity (< 3 years)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/fixt activithy.png)
+![Short-term fixture activity (< 3 years)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/fixt activithy.png)
 *Figure: Short-term fixture activity (< 3 years)*
 
 
-![Short term fixtures by sublet vs independent owners](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep.png)
+![Short term fixtures by sublet vs independent owners](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep.png)
 *Figure: Short term fixtures by sublet vs independent owners*
 
 
-![Spot fixtures by propulsion](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/Spot by prop.png)
+![Spot fixtures by propulsion](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/Spot by prop.png)
 *Figure: Spot fixtures by propulsion*
 
 
-![2026 spot fixtures by propulsion and owner type (1H)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep by prop.png)
+![2026 spot fixtures by propulsion and owner type (1H)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep by prop.png)
 *Figure: 2026 spot fixtures by propulsion and owner type (1H)*
 
 
-![Short-term fixtures in Q2 (count)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 count.png)
+![Short-term fixtures in Q2 (count)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 count.png)
 *Figure: Short-term fixtures in Q2 (count)*
 
 
-![Short-term fixtures in Q2 (fixed days)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 days.png)
+![Short-term fixtures in Q2 (fixed days)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 days.png)
 *Figure: Short-term fixtures in Q2 (fixed days)*
 
 
@@ -105,63 +116,63 @@ Total European imports are down 13 MT from Q1, and 4 MT compared to Q2 last year
 
 The Indian sub-continent is very dependent on Qatar volumes through the Strait of Hormuz, and Pakistan, Bangladesh and India has 99%, 60% and 46% of their total LNG imports from Qatar last year, respectively. Despite this, Indian imports reached 6.7 MT in Q2, which is the highest seen since the 7 MT in Q2 2024. The lost Qatari volumes were compensated for through cargoes from the United States.  Bangladesh was also able to largely compensate for lost Middle Eastern volumes through increased flow from United States and Africa. Pakistan on the other hand only imported eight cargoes in Q2 (0.5 MT), of which all but two were from Qatar. Total imports ended around one third of Q1, with a year-on-year reduction of 75%. 
 
-China was the largest importer in Q2, taking 29 cargoes more than Japan. Reloads from China increased substantially at the end of last quarter, with 17 reloads, but their strategy has since changed, and volumes are being kept domestically. For 1H 2026, Japan is marginally ahead of China as the top LNG importer. 
+China was the largest importer in Q2, taking 29 cargoes more than Japan. Reloads from China increased substantially at the end of last quarter, with 17 reloads, but their strategy has since changed, and volumes are being kept domestically. For 1H 2026, Japan is marginally ahead of China as the top LNG importer.
 
 
-![Quarterly loaded LNG](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded q.png)
+![Quarterly loaded LNG](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded q.png)
 *Figure: Quarterly loaded LNG*
 
 
-![Monthly loaded LNG](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded m.png)
+![Monthly loaded LNG](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded m.png)
 *Figure: Monthly loaded LNG*
 
 
-![LNG imports to the Indian sub-continent](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/indian subcont.png)
+![LNG imports to the Indian sub-continent](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indian subcont.png)
 *Figure: LNG imports to the Indian sub-continent*
 
 
-![Q2 imports by region](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 imports.png)
+![Q2 imports by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 imports.png)
 *Figure: Q2 imports by region*
 
 
-![Destination of US LNG](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/us abs.png)
+![Destination of US LNG](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/us abs.png)
 *Figure: Destination of US LNG*
 
 
-![Destination of US LNG, share](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/us share.png)
+![Destination of US LNG, share](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/us share.png)
 *Figure: Destination of US LNG, share*
 
 
-![Routes of US to Asia voyages](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/routes.png)
+![Routes of US to Asia voyages](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/routes.png)
 *Figure: Routes of US to Asia voyages*
 
 
 ## LNGC Fleet
 
 
-![LNGC fleet by status](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/by status.png)
+![LNGC fleet by status](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/by status.png)
 *Figure: LNGC fleet by status*
 
-There are 84 LNGCs above 20 years of age, and 15 LNGCs above 30 years (of which six are currently in layup). In addition, 55 vessels fall within the 120–140k cbm size segment, which is becoming increasingly commercially unattractive for both trading and conversion purposes.
+There are 84 LNGCs above 20 years of age, and 15 LNGCs above 30 years (of which six are currently in layup). In addition, 55 vessels fall within the 120-140k cbm size segment, which is becoming increasingly commercially unattractive for both trading and conversion purposes.
 
 A total of 20 vessels were ordered in Q2, roughly half the level seen in Q1, although still exceeding any quarterly total recorded in 2025. Deliveries remained elevated, with 21 vessels delivered during the quarter, just below the quarterly record of 22 achieved in 2025. This leaves 52 newbuilds scheduled for delivery over the remainder of the year, equivalent to approximately two vessels per week.
 
 Newbuilding prices have remained broadly stable at around USD 250 million depending on specification, while yard capacity is largely filled until H2 2029. The orderbook-to-fleet ratio now stands at 38%.
 
 
-![LNGC orders](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/orders.png)
+![LNGC orders](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/orders.png)
 *Figure: LNGC orders*
 
 
-![LNGC newbuild prices](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/nb price.png)
+![LNGC newbuild prices](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/nb price.png)
 *Figure: LNGC newbuild prices*
 
 
-![LNGC orderbook by category](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/ob deliveries.png)
+![LNGC orderbook by category](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/ob deliveries.png)
 *Figure: LNGC orderbook by category*
 
 
-![LNGC fleet composition (current orderbook and forecast on vessels leaving trading fleet)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/fleet com new.png)
+![LNGC fleet composition (current orderbook and forecast on vessels leaving trading fleet)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/fleet com new.png)
 *Figure: LNGC fleet composition (current orderbook and forecast on vessels leaving trading fleet)*
 
 
@@ -182,13 +193,13 @@ The graph below illustrates our fleet balance forecast. Fleet growth is based on
 The timing of this tightening remains highly dependent on LNG project start-up schedules. While our analysis assumes projects commence broadly in line with current guidance, commissioning timelines can change and delays are common across the industry. Historically, vessel deliveries have tended to arrive more reliably than new LNG supply volumes, resulting in periods where fleet growth temporarily outpaces cargo growth. The ongoing delay to Qatar's expansion project is a current example of this dynamic. Consequently, further project delays would likely push the expected market rebalancing beyond our current forecast.
 
 
-![LNG demand forecast by region](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/demand fcast.png)
+![LNG demand forecast by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/demand fcast.png)
 *Figure: LNG demand forecast by region*
 
 
-![LNG supply forecast by region](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/supply fcast.png)
+![LNG supply forecast by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/supply fcast.png)
 *Figure: LNG supply forecast by region*
 
 
-![Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/balance.png)
+![Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/balance.png)
 *Figure: Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)*

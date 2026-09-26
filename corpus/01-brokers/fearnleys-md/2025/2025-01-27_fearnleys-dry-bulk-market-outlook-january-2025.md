@@ -1,34 +1,44 @@
+---
+title: "Fearnleys Dry Bulk Market Outlook"
+issue_date: "2025-01-27"
+year: 2025
+department: "BULK"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "01426bff-ac6c-4213-8295-c50bf84a4f4c"
+images_count: 32
+local_pdf: "../pdfs/2025/2025-01-27_fearnleys-dry-bulk-market-outlook-january-2025.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/report.pdf"
+---
 # Fearnleys Dry Bulk Market Outlook
 
-**Date**: 2025-01-27 | **Department**: BULK
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/report.pdf)
+**Date:** 2025-01-27 | **Department:** BULK | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2025/2025-01-27_fearnleys-dry-bulk-market-outlook-january-2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/report.pdf)  
 
 ---
 
-
-### SUMMARY AND OUTLOOK 
+### SUMMARY AND OUTLOOK
 
 In our previous report published in December, we wrote the following: 
 
 *Our market viewpoints always start by analyzing shipment volume growth against supply growth, as the other factors are more uncertain. Since Q4 last year, our view has been that shipment volume growth would drop below supply growth during the first half of 2025, so downside risk would escalate during the second half of 2025. We still seem on track for that development, which is a little worrying considering where earnings are now. On the other hand, as shipment volume growth remains positive it could mean that markets will rebound strongly after the Chinese New Year next year if sailing distances, congestion, and sailing speeds go in owners favor.*
 
-The part about “worrisome” is so far playing out, with Pacific earnings around all-time lows for all segments. Record high coal inventories in China and a much slower-than-usual grain harvest in South America could mean the weakness will persist for a few more weeks after the Chinese New Year. A positive point is that China’s iron ore consumption is higher than last year, but it remains below 2023 levels and inventories in ports and steel mills are higher than last year.  
+The part about "worrisome" is so far playing out, with Pacific earnings around all-time lows for all segments. Record high coal inventories in China and a much slower-than-usual grain harvest in South America could mean the weakness will persist for a few more weeks after the Chinese New Year. A positive point is that China's iron ore consumption is higher than last year, but it remains below 2023 levels and inventories in ports and steel mills are higher than last year.  
 
-The fundamental outlook for 2025 remains bearish in our view. There are no clear signs yet that China's recent stimulus announcements are translating into higher credit growth. Next month’s release of the January lending numbers will be important in this respect, as that is when lending figures are the highest. Should that figure be at record high one can perhaps start counting down to when a recovery will take hold, but in any case, there is always a lag until it impacts dry bulk markets. Manufacturing activity in the World ex-China remains dull, with all PMIs hovering around 50 and most countries’ readings below 50. These readings are likely to remain around 50 at best as long as China's growth is low, the dollar remains strong and interest rates remain relatively high. 
+The fundamental outlook for 2025 remains bearish in our view. There are no clear signs yet that China's recent stimulus announcements are translating into higher credit growth. Next month's release of the January lending numbers will be important in this respect, as that is when lending figures are the highest. Should that figure be at record high one can perhaps start counting down to when a recovery will take hold, but in any case, there is always a lag until it impacts dry bulk markets. Manufacturing activity in the World ex-China remains dull, with all PMIs hovering around 50 and most countries' readings below 50. These readings are likely to remain around 50 at best as long as China's growth is low, the dollar remains strong and interest rates remain relatively high. 
 
-As it is hard to find factors suggesting strong demand growth in any country or region this year, earnings are likely to average lower than in 2023, as in that year China's demand improved strongly. We expect the cycle to bottom at some point between Q4 this year and Q2 2026 and are therefore tentatively bullish for 2H 2026 and 2027. The below earnings forecasts reflects these views. 
-
-
-
-![Earnings Forecasts ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/Rate forecasts.png)
-*Figure: Earnings Forecasts *
+As it is hard to find factors suggesting strong demand growth in any country or region this year, earnings are likely to average lower than in 2023, as in that year China's demand improved strongly. We expect the cycle to bottom at some point between Q4 this year and Q2 2026 and are therefore tentatively bullish for 2H 2026 and 2027. The below earnings forecasts reflects these views.
 
 
-![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/supply vs demand.png)
+![Earnings Forecasts](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/Rate forecasts.png)
+*Figure: Earnings Forecasts*
+
+
+![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/supply vs demand.png)
 *Figure: Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)*
 
 
-## SUPPLY OUTLOOK 
+## SUPPLY OUTLOOK
 
 **Total fleet statistics**
 
@@ -102,32 +112,31 @@ Handysize 25-50kdwt          8.5%
 2026: About 2.0%
 
 
-
 ### Fleet Growth and Forward Gross Estimates
 
 
-![Total Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/total fleet growth.png)
-*Figure: Total Fleet Growth Including Estimate *
+![Total Fleet Growth Including Estimate](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/total fleet growth.png)
+*Figure: Total Fleet Growth Including Estimate*
 
 
-![Cape/Newc Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/capesize fleet growth.png)
-*Figure: Cape/Newc Fleet Growth Including Estimate *
+![Cape/Newc Fleet Growth Including Estimate](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/capesize fleet growth.png)
+*Figure: Cape/Newc Fleet Growth Including Estimate*
 
 
-![VLOC Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/vloc fleet growth.png)
-*Figure: VLOC Fleet Growth Including Estimate *
+![VLOC Fleet Growth Including Estimate](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/vloc fleet growth.png)
+*Figure: VLOC Fleet Growth Including Estimate*
 
 
-![Panamax/Kamsarmax Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax fleet growth.png)
-*Figure: Panamax/Kamsarmax Fleet Growth Including Estimate *
+![Panamax/Kamsarmax Fleet Growth Including Estimate](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax fleet growth.png)
+*Figure: Panamax/Kamsarmax Fleet Growth Including Estimate*
 
 
-![Supramax/Ultramax Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/supramax fleet growth.png)
-*Figure: Supramax/Ultramax Fleet Growth Including Estimate *
+![Supramax/Ultramax Fleet Growth Including Estimate](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/supramax fleet growth.png)
+*Figure: Supramax/Ultramax Fleet Growth Including Estimate*
 
 
-![Handysize Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize fleet growth.png)
-*Figure: Handysize Fleet Growth Including Estimate *
+![Handysize Fleet Growth Including Estimate](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize fleet growth.png)
+*Figure: Handysize Fleet Growth Including Estimate*
 
 
 ## PERIOD RATES AND ASSET VALUES
@@ -148,71 +157,70 @@ A 10-year-old vessel has to fall to the high teens, or the 1-year-TC rate has to
 
 **Handysize:**
 
-A 10-year-old vessel has to fall to the mid-teens, or the 1-year-TC rate has to rise to the mid teens. 
+A 10-year-old vessel has to fall to the mid-teens, or the 1-year-TC rate has to rise to the mid teens.
 
 
+### Asset Values vs Period Rates
 
-### Asset Values vs Period Rates 
 
-
-![Capesize 1 Year TC vs Capesize 10 Year Old](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/cape1yr tc vs asset.png)
+![Capesize 1 Year TC vs Capesize 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/cape1yr tc vs asset.png)
 *Figure: Capesize 1 Year TC vs Capesize 10 Year Old*
 
 
-![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax 1 yr tc vs asset.png)
+![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax 1 yr tc vs asset.png)
 *Figure: Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old*
 
 
-![Supramax 1 Year TC vs Supramax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/supramax 1 yr tc vs asset.png)
-*Figure: Supramax 1 Year TC vs Supramax 10 Year Old *
+![Supramax 1 Year TC vs Supramax 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/supramax 1 yr tc vs asset.png)
+*Figure: Supramax 1 Year TC vs Supramax 10 Year Old*
 
 
-![Handysize 1 Year TC vs Handysize 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize 1yr tc vs asset.png)
-*Figure: Handysize 1 Year TC vs Handysize 10 Year Old *
+![Handysize 1 Year TC vs Handysize 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize 1yr tc vs asset.png)
+*Figure: Handysize 1 Year TC vs Handysize 10 Year Old*
 
 
 ### Asset Values vs Spot Earnings Averages
 
 
-![Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/cape spot lead.png)
-*Figure: Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old *
+![Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/cape spot lead.png)
+*Figure: Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old*
 
 
-![Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax spot lead.png)
-*Figure: Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old *
+![Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax spot lead.png)
+*Figure: Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old*
 
 
-![Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/supramax spot lead.png)
-*Figure: Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old *
+![Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/supramax spot lead.png)
+*Figure: Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old*
 
 
-![Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize spot lead.png)
-*Figure: Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old *
+![Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize spot lead.png)
+*Figure: Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old*
 
 
-### Asset Values vs Commodity Prices 
+### Asset Values vs Commodity Prices
 
 Industrial metals prices often leads the change in second-hand values by around 6 months. The charts below display the preceding 6 months' change in the price of copper (the curve is shifted 6 months forward) against the preceding 6 months' change in Capesize, Kamsarmax, and Supramax 10-year-old second-hand values. 
-The price of copper rebounded earlier this year but has since dropped back. The lead thus indicates a stabilization in second-hand values around the middle of this year. However, before that the indication is bearish. 
+The price of copper rebounded earlier this year but has since dropped back. The lead thus indicates a stabilization in second-hand values around the middle of this year. However, before that the indication is bearish.
 
 
-![Copper Price Change vs Capesize 10 Year Old Change ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
-*Figure: Copper Price Change vs Capesize 10 Year Old Change *
+![Copper Price Change vs Capesize 10 Year Old Change](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
+*Figure: Copper Price Change vs Capesize 10 Year Old Change*
 
 
-![Copper Price Change vs Kamsarmax 10 Year Old Change ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
-*Figure: Copper Price Change vs Kamsarmax 10 Year Old Change *
+![Copper Price Change vs Kamsarmax 10 Year Old Change](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
+*Figure: Copper Price Change vs Kamsarmax 10 Year Old Change*
 
 
-![Copper Price Change vs Supramax 10 Year Old Change ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
-*Figure: Copper Price Change vs Supramax 10 Year Old Change *
+![Copper Price Change vs Supramax 10 Year Old Change](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
+*Figure: Copper Price Change vs Supramax 10 Year Old Change*
 
 
-![Dry Bulk Newbuilding Prices](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/NB prices.png)
+![Dry Bulk Newbuilding Prices](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/NB prices.png)
 *Figure: Dry Bulk Newbuilding Prices*
 
 
-## TRADE FLOWS 
+## TRADE FLOWS
 
 **2024 Trade Flow Statistics**
 
@@ -304,31 +312,30 @@ Minor bulks shipment growth is likely to be lower than last year, as economic in
 
 **Total Supply Growth: 3.2%**
 
-This year we expect supply growth of around 3.0%, and shipment volume growth around 0.0%. 
+This year we expect supply growth of around 3.0%, and shipment volume growth around 0.0%.
 
 
-
-![Capesize/Newcastlemax Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/capenewc tontime vs supply.png)
-*Figure: Capesize/Newcastlemax Ton-Time Growth vs Supply Growth *
-
-
-![Panamax/Kamsarmax Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax tontime.png)
-*Figure: Panamax/Kamsarmax Ton-Time Growth vs Supply Growth *
+![Capesize/Newcastlemax Ton-Time Growth vs Supply Growth](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/capenewc tontime vs supply.png)
+*Figure: Capesize/Newcastlemax Ton-Time Growth vs Supply Growth*
 
 
-![Supramax/Ultramax Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/Supramax tontime.png)
-*Figure: Supramax/Ultramax Ton-Time Growth vs Supply Growth *
+![Panamax/Kamsarmax Ton-Time Growth vs Supply Growth](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/panamax tontime.png)
+*Figure: Panamax/Kamsarmax Ton-Time Growth vs Supply Growth*
 
 
-![Handysize Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize tontime.png)
-*Figure: Handysize Ton-Time Growth vs Supply Growth *
+![Supramax/Ultramax Ton-Time Growth vs Supply Growth](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/Supramax tontime.png)
+*Figure: Supramax/Ultramax Ton-Time Growth vs Supply Growth*
 
 
-![Global Iron Ore Discharges, 2023 vs 2024](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/global iron ore discharges.png)
+![Handysize Ton-Time Growth vs Supply Growth](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/handysize tontime.png)
+*Figure: Handysize Ton-Time Growth vs Supply Growth*
+
+
+![Global Iron Ore Discharges, 2023 vs 2024](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/global iron ore discharges.png)
 *Figure: Global Iron Ore Discharges, 2023 vs 2024*
 
 
-![Global Coal Discharges, 2023 vs 2024](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/global coal discharges.png)
+![Global Coal Discharges, 2023 vs 2024](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/global coal discharges.png)
 *Figure: Global Coal Discharges, 2023 vs 2024*
 
 
@@ -338,21 +345,21 @@ The charts shown below paints a bearish picture for fundamentals going forward.
 
 Top left chart:
 
-China’s credit growth is a smoothed average change of the monthly total social financing numbers, a figure that includes all financing to the “real economy” i.e. excluding interbank financing. This curve is shifted 12 months forward, as it leads the Baltic Dry Index year on year by roughly that time period. Through the displayed period, there was only one major deviation between the two series, in the middle of 2019. As the credit growth rate continued to fall through the second half of last year, it suggests that the Baltic Dry Index year on year change will remain negative through 2025. The monthly total social financing numbers for January will be released in a few weeks, and will be a very important indication as to whether all the recent stimulus announcements from Chinese officials is starting to translate into increased credit growth. 
+China's credit growth is a smoothed average change of the monthly total social financing numbers, a figure that includes all financing to the "real economy" i.e. excluding interbank financing. This curve is shifted 12 months forward, as it leads the Baltic Dry Index year on year by roughly that time period. Through the displayed period, there was only one major deviation between the two series, in the middle of 2019. As the credit growth rate continued to fall through the second half of last year, it suggests that the Baltic Dry Index year on year change will remain negative through 2025. The monthly total social financing numbers for January will be released in a few weeks, and will be a very important indication as to whether all the recent stimulus announcements from Chinese officials is starting to translate into increased credit growth. 
 
 Top right chart:
 
-The China Economic Growth Index is an average of key economic data, which in our opinion gives a more accurate measure of China’s growth rates rather than GDP. The average growth rate of that index since 2020 has been a mere 1.2%, and last year the index was negative at -2.1%. These figures are far below the reported GDP numbers. 
+The China Economic Growth Index is an average of key economic data, which in our opinion gives a more accurate measure of China's growth rates rather than GDP. The average growth rate of that index since 2020 has been a mere 1.2%, and last year the index was negative at -2.1%. These figures are far below the reported GDP numbers. 
 The index have correlated tightly with total dry bulk shipment volume growth (all countries and commodities) the last 15 years. However, last year there was a deviation, as inventory building in China drove import demand rather than underlying fundamentals. Maybe a cause for concern as the previous year there was such a deviation was in 2014. 
 
 Middle left chart:
 
 We have covered this chart in previous reports. Here is the text from our November report:
 
-*China’s currency trades under a so-called ‘managed float’, which means the central bank is heavily involved in trying to keep it trading around a desired level. This process sometimes obviously involves buying Yuan against the USD, and vice versa. The USDCNY is therefore an important part of the domestic liquidity situation. Recent stimulus measures in China will naturally involve expanding the domestic money supply to fund infrastructure projects as well as trying to revive the property sector. That, along with weaker domestic economic growth rates means there should be heavy downward pressure on the Yuan.
+*China's currency trades under a so-called 'managed float', which means the central bank is heavily involved in trying to keep it trading around a desired level. This process sometimes obviously involves buying Yuan against the USD, and vice versa. The USDCNY is therefore an important part of the domestic liquidity situation. Recent stimulus measures in China will naturally involve expanding the domestic money supply to fund infrastructure projects as well as trying to revive the property sector. That, along with weaker domestic economic growth rates means there should be heavy downward pressure on the Yuan.
 
-To counteract this downward pressure, the central bank has to buy increasing amounts of Yuan to keep the currency stable, with the flipside of this being that it nullifies other liquidity-increasing factors. That is why there is a very high correlation between the 9-month lead of the year-on-year change of the USDCNY and China’s year-on-year growth of dry bulk imports. The chart displaying this relationship is shown in the middle left below. Over the last year, the Yuan has strengthened relative to the USD, which strongly suggests China’s dry bulk import growth will continue to fall over the coming 9 months. In our view, China’s government has to allow the Yuan to weaken considerably going forward for the stimulus measures to succeed.*
-Since the November update, the correlation continues to hold, as China’s import growth trends down. The USDCNY year on year change have increased a bit, but is not yet indicative of higher import growth over the next 9 months.* 
+To counteract this downward pressure, the central bank has to buy increasing amounts of Yuan to keep the currency stable, with the flipside of this being that it nullifies other liquidity-increasing factors. That is why there is a very high correlation between the 9-month lead of the year-on-year change of the USDCNY and China's year-on-year growth of dry bulk imports. The chart displaying this relationship is shown in the middle left below. Over the last year, the Yuan has strengthened relative to the USD, which strongly suggests China's dry bulk import growth will continue to fall over the coming 9 months. In our view, China's government has to allow the Yuan to weaken considerably going forward for the stimulus measures to succeed.*
+Since the November update, the correlation continues to hold, as China's import growth trends down. The USDCNY year on year change have increased a bit, but is not yet indicative of higher import growth over the next 9 months.* 
 
 Middle right chart:
 
@@ -364,29 +371,28 @@ The chart shows total iron ore inventories in Chinese ports and at Chinese steel
 
 Bottom right chart:
 
-Daily imported iron ore consumption in China, and the year on year change. Consumption remains below the peak levels of 2022 and 2023, but at least the year on year change have started to turn positive. The post CNY seasonal upturn will be interesting to watch over the next two months. 
+Daily imported iron ore consumption in China, and the year on year change. Consumption remains below the peak levels of 2022 and 2023, but at least the year on year change have started to turn positive. The post CNY seasonal upturn will be interesting to watch over the next two months.
 
 
-
-![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/CHINA CREDIT vs BDI.png)
+![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/CHINA CREDIT vs BDI.png)
 *Figure: Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)*
 
 
-![China Economic Growth Index vs Global Dry Bulk Shipments Growth](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/CHINA ECONOMIC GROWTH INDEX VS DRY BULK DEMAND GROWTH.png)
+![China Economic Growth Index vs Global Dry Bulk Shipments Growth](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/CHINA ECONOMIC GROWTH INDEX VS DRY BULK DEMAND GROWTH.png)
 *Figure: China Economic Growth Index vs Global Dry Bulk Shipments Growth*
 
 
-![USDCNY YoY, 9 Months Lead vs China Bulk Commodity Imports YoY](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/USDCNY vs China Import Growth Lead.png)
+![USDCNY YoY, 9 Months Lead vs China Bulk Commodity Imports YoY](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/USDCNY vs China Import Growth Lead.png)
 *Figure: USDCNY YoY, 9 Months Lead vs China Bulk Commodity Imports YoY*
 
 
-![Gas, Oil and Coal Price Change Lead vs BDI Year on Year Change ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/Energy vs BDI.png)
-*Figure: Gas, Oil and Coal Price Change Lead vs BDI Year on Year Change *
+![Gas, Oil and Coal Price Change Lead vs BDI Year on Year Change](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/Energy vs BDI.png)
+*Figure: Gas, Oil and Coal Price Change Lead vs BDI Year on Year Change*
 
 
-![China Ports and Steel Mills' Iron Ore Inventories Divided by Daily Imported Iron Ore Consumption](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/CHINA IRON ORE INVENTORIES DAYS OF CONSUMPTION.png)
+![China Ports and Steel Mills' Iron Ore Inventories Divided by Daily Imported Iron Ore Consumption](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/CHINA IRON ORE INVENTORIES DAYS OF CONSUMPTION.png)
 *Figure: China Ports and Steel Mills' Iron Ore Inventories Divided by Daily Imported Iron Ore Consumption*
 
 
-![China Daily Imported Iron Ore Consumption ](https://pbrkapp.blob.core.windows.net/report/01426bff-ac6c-4213-8295-c50bf84a4f4c/china imported iron ore consumption.png)
-*Figure: China Daily Imported Iron Ore Consumption *
+![China Daily Imported Iron Ore Consumption](../images/01426bff-ac6c-4213-8295-c50bf84a4f4c/china imported iron ore consumption.png)
+*Figure: China Daily Imported Iron Ore Consumption*

@@ -1,19 +1,30 @@
+---
+title: "VLGC Quarterly Market Report - Q3 2024"
+issue_date: "2024-10-17"
+year: 2024
+department: "LPG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "c4b10204-5de1-4b9b-bd96-015cf85a0d07"
+images_count: 14
+local_pdf: "../pdfs/2024/2024-10-17_vlgc-quarterly-market-report-q3-2024.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/report.pdf"
+---
 # VLGC Quarterly Market Report - Q3 2024
 
-**Date**: 2024-10-17 | **Department**: LPG
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/report.pdf)
+**Date:** 2024-10-17 | **Department:** LPG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2024/2024-10-17_vlgc-quarterly-market-report-q3-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/report.pdf)  
 
 ---
-
 
 ### Earnings
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3 Baltic.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3 Baltic.JPG)
 *Figure: Indicator Chart*
 
 
@@ -30,7 +41,7 @@ August: 80 in total/20 being spot fixtures
 September: 70 in total/19 being spot fixtures
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb vs BLPG3.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb vs BLPG3.JPG)
 *Figure: Indicator Chart*
 
 **The VLGC earnings level is normally highly correlated to the arbitrage window from the West to the East.** However, as the graph clearly illustrates, this has not been the case in recent months. The graph specifically compares the Houston-Chiba index (BLPG3) with the arbitrage. Several factors have contributed to this situation.
@@ -38,11 +49,11 @@ September: 70 in total/19 being spot fixtures
 During the summer, the U.S. export market experienced disruptions due to maintenance activities as well as hurricane Beryl, which led to delays in loadings. Such incidents usually create a ripple effect, impacting the period following the occurrence. This resulted in fewer spot fixtures from the region and generally higher FOB activity. Consequently, shipping activity was lower than desired, and the impact of an expanded fleet became evident in the position lists, causing a long shipping market.
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG)
 *Figure: Indicator Chart*
 
 Due to the changing availability and restrictions at the Panama Canal, there has been a significant shift in the sailing patterns of VLGCs over the past 12 months. These patterns have become a crucial variable in terms of fleet capacity and availability.
@@ -55,35 +66,35 @@ There are still no ships sailing through the Suez Canal due to the security situ
 ### Exports & Imports
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG)
 *Figure: Indicator Chart*
 
 For volumes lifted on VLGCs, the **United States** remains the dominating party, who **increased their exports by 4.9% quarter-on-quarter**. Year-on-year, the U.S. has exported 2 million tonnes more this year, with a total of 38.4 million tonnes so far in 2024. This is equivalent to a growth of 6%. Quarter-on-quarter, they displayed an 8% increase in exports.
 
 The Middle East is expected to increase their production and exports levels in 2025 & 2026, mainly from Qatar & the United Arab Emirates.
 
-All top five importing countries increased their imports in Q3 2024 compared to Q3 2023. China, being the main driver, has imported 25.5 million tonnes so far this year, which is an increase of 1 million tonnes from the same period last year. China's strong import demand is likely to continue further, as the new PDH capacity additions added in 2024 & 2025 will result in a 64% growth from 2022 levels. 
+All top five importing countries increased their imports in Q3 2024 compared to Q3 2023. China, being the main driver, has imported 25.5 million tonnes so far this year, which is an increase of 1 million tonnes from the same period last year. China's strong import demand is likely to continue further, as the new PDH capacity additions added in 2024 & 2025 will result in a 64% growth from 2022 levels.
 
 
 ### U.S. Propane Inventories
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG)
 *Figure: Indicator Chart*
 
 
 ### Fleet & Orderbook
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet developmentQ3.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet developmentQ3.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC VLAC OB.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC VLAC OB.JPG)
 *Figure: Indicator Chart*
 
 It is therefore uncertain whether another substantial influx of vessels can be absorbed similarly. To achieve a more balanced market, export volumes must rise. There is already positive sentiment from the U.S., with several terminals expanding their capacity. However, the production levels forecasted by the EIA will be crucial. Their projections, to be published next quarter, will provide valuable insights into the expected export levels from the U.S. for 2025 and 2026. 
@@ -96,19 +107,19 @@ The anticipated incremental Clean Ammonia Capacity to come before the next decad
 ### Yard Status
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB Yards.JPG)
+![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB Yards.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG)
+![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG)
+![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG)
 *Figure: Indicator Chart*
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG)
+![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG)
 *Figure: Indicator Chart*
 
 *LPG is categorized under "others", but their total share is around 5%.*

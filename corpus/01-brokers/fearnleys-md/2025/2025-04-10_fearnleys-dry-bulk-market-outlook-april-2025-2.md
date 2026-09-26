@@ -1,12 +1,23 @@
+---
+title: "Fearnleys Dry Bulk Market Outlook"
+issue_date: "2025-04-10"
+year: 2025
+department: "BULK"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "dad29fc8-49ad-449d-afcc-67b85d82f8b6"
+images_count: 32
+local_pdf: "../pdfs/2025/2025-04-10_fearnleys-dry-bulk-market-outlook-april-2025-2.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/report.pdf"
+---
 # Fearnleys Dry Bulk Market Outlook
 
-**Date**: 2025-04-10 | **Department**: BULK
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/report.pdf)
+**Date:** 2025-04-10 | **Department:** BULK | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2025/2025-04-10_fearnleys-dry-bulk-market-outlook-april-2025-2.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/report.pdf)  
 
 ---
 
-
-### SUMMARY AND OUTLOOK 
+### SUMMARY AND OUTLOOK
 
 Adding Trump's trade war to other factors, this year looks more bearish than before. Potentially much more bearish. 
 
@@ -26,18 +37,18 @@ Concerning dry bulk markets, cyclical indicators like energy costs, interest rat
 
 Regarding estimates for earnings averages, we previously held the view that this year looked weaker than 2023. One could cling to the hope that the "direct effect" on dry bulk volumes is not too significant (USA exports made up 6% of the global total last year). But this is meaningless in a highly interconnected World economy. 
 
-The outlook remains bearish until there is an end to the trade war. We hope for a swift resolution of ongoing events. 
+The outlook remains bearish until there is an end to the trade war. We hope for a swift resolution of ongoing events.
 
 
-![Earnings Averages](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/EARNINGS AVERAGES.png)
+![Earnings Averages](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/EARNINGS AVERAGES.png)
 *Figure: Earnings Averages*
 
 
-![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](https://pbrkapp.blob.core.windows.net/report/e7ce9f64-11c8-4356-af43-7f5bbcb4d7e0/supply vs demand.png)
+![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](../images/e7ce9f64-11c8-4356-af43-7f5bbcb4d7e0/supply vs demand.png)
 *Figure: Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)*
 
 
-## SUPPLY OUTLOOK 
+## SUPPLY OUTLOOK
 
 **Total fleet statistics**
 
@@ -111,32 +122,31 @@ Handysize 25-50kdwt          8.3%
 2026: About 2.0%
 
 
-
 ### Fleet Growth and Forward Gross Estimates
 
 
-![Total Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/total fleet growth.png)
-*Figure: Total Fleet Growth Including Estimate *
+![Total Fleet Growth Including Estimate](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/total fleet growth.png)
+*Figure: Total Fleet Growth Including Estimate*
 
 
-![Cape/Newc Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/capesize fleet growth.png)
-*Figure: Cape/Newc Fleet Growth Including Estimate *
+![Cape/Newc Fleet Growth Including Estimate](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/capesize fleet growth.png)
+*Figure: Cape/Newc Fleet Growth Including Estimate*
 
 
-![VLOC Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/vloc fleet growth.png)
-*Figure: VLOC Fleet Growth Including Estimate *
+![VLOC Fleet Growth Including Estimate](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/vloc fleet growth.png)
+*Figure: VLOC Fleet Growth Including Estimate*
 
 
-![Panamax/Kamsarmax Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax fleet growth.png)
-*Figure: Panamax/Kamsarmax Fleet Growth Including Estimate *
+![Panamax/Kamsarmax Fleet Growth Including Estimate](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax fleet growth.png)
+*Figure: Panamax/Kamsarmax Fleet Growth Including Estimate*
 
 
-![Supramax/Ultramax Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax fleet growth.png)
-*Figure: Supramax/Ultramax Fleet Growth Including Estimate *
+![Supramax/Ultramax Fleet Growth Including Estimate](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax fleet growth.png)
+*Figure: Supramax/Ultramax Fleet Growth Including Estimate*
 
 
-![Handysize Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize fleet growth.png)
-*Figure: Handysize Fleet Growth Including Estimate *
+![Handysize Fleet Growth Including Estimate](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize fleet growth.png)
+*Figure: Handysize Fleet Growth Including Estimate*
 
 
 ## PERIOD RATES AND ASSET VALUES
@@ -157,70 +167,69 @@ A 10-year-old vessel has to fall to the high teens, or the 1-year-TC rate has to
 
 **Handysize:**
 
-A 10-year-old vessel has to fall to the mid-teens, or the 1-year-TC rate has to rise to the mid teens. 
+A 10-year-old vessel has to fall to the mid-teens, or the 1-year-TC rate has to rise to the mid teens.
 
 
+### Asset Values vs Period Rates
 
-### Asset Values vs Period Rates 
 
-
-![Capesize 1 Year TC vs Capesize 10 Year Old](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/cape1yr tc vs asset.png)
+![Capesize 1 Year TC vs Capesize 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/cape1yr tc vs asset.png)
 *Figure: Capesize 1 Year TC vs Capesize 10 Year Old*
 
 
-![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax 1 yr tc vs asset.png)
+![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax 1 yr tc vs asset.png)
 *Figure: Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old*
 
 
-![Supramax 1 Year TC vs Supramax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax 1 yr tc vs asset.png)
-*Figure: Supramax 1 Year TC vs Supramax 10 Year Old *
+![Supramax 1 Year TC vs Supramax 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax 1 yr tc vs asset.png)
+*Figure: Supramax 1 Year TC vs Supramax 10 Year Old*
 
 
-![Handysize 1 Year TC vs Handysize 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize 1yr tc vs asset.png)
-*Figure: Handysize 1 Year TC vs Handysize 10 Year Old *
+![Handysize 1 Year TC vs Handysize 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize 1yr tc vs asset.png)
+*Figure: Handysize 1 Year TC vs Handysize 10 Year Old*
 
 
 ### Asset Values vs Spot Earnings Averages
 
 
-![Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/cape spot lead.png)
-*Figure: Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old *
+![Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/cape spot lead.png)
+*Figure: Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old*
 
 
-![Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax spot lead.png)
-*Figure: Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old *
+![Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax spot lead.png)
+*Figure: Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old*
 
 
-![Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax spot lead.png)
-*Figure: Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old *
+![Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax spot lead.png)
+*Figure: Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old*
 
 
-![Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize spot lead.png)
-*Figure: Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old *
+![Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize spot lead.png)
+*Figure: Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old*
 
 
-### Asset Values vs Commodity Prices 
+### Asset Values vs Commodity Prices
 
-Industrial metal prices often precede the change in second-hand values by around six months. The charts below display the price of copper against second-hand values since 2014. The correlation is high because the price of copper is a barometer of industrial activity and also reflects inflationary or deflationary periods. 
-
-
-![Copper Price vs Capesize 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/copper vs capesize.png)
-*Figure: Copper Price vs Capesize 10 Year Old *
+Industrial metal prices often precede the change in second-hand values by around six months. The charts below display the price of copper against second-hand values since 2014. The correlation is high because the price of copper is a barometer of industrial activity and also reflects inflationary or deflationary periods.
 
 
-![Copper Price vs Kamsarmax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/kamsarmax vs copper.png)
-*Figure: Copper Price vs Kamsarmax 10 Year Old *
+![Copper Price vs Capesize 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/copper vs capesize.png)
+*Figure: Copper Price vs Capesize 10 Year Old*
 
 
-![Copper Price vs Supramax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/copper vs supramax.png)
-*Figure: Copper Price vs Supramax 10 Year Old *
+![Copper Price vs Kamsarmax 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/kamsarmax vs copper.png)
+*Figure: Copper Price vs Kamsarmax 10 Year Old*
 
 
-![Dry Bulk Newbuilding Prices](https://pbrkapp.blob.core.windows.net/report/e7ce9f64-11c8-4356-af43-7f5bbcb4d7e0/NB prices.png)
+![Copper Price vs Supramax 10 Year Old](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/copper vs supramax.png)
+*Figure: Copper Price vs Supramax 10 Year Old*
+
+
+![Dry Bulk Newbuilding Prices](../images/e7ce9f64-11c8-4356-af43-7f5bbcb4d7e0/NB prices.png)
 *Figure: Dry Bulk Newbuilding Prices*
 
 
-## TRADE FLOWS 
+## TRADE FLOWS
 
 **Q1 2025 vs Q1 2024 Trade Flow Statistics**
 
@@ -303,28 +312,27 @@ Minor bulk shipment growth ex Bauxite is likely to be much lower than last year 
 **This year, we expect total supply growth of around 3.0% and total shipment volume growth to end negative**
 
 
-
-![Capesize/Newcastlemax Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/capesize market balance.png)
-*Figure: Capesize/Newcastlemax Ton-Time Growth vs Supply Growth *
-
-
-![Panamax/Kamsarmax Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax market balance.png)
-*Figure: Panamax/Kamsarmax Ton-Time Growth vs Supply Growth *
+![Capesize/Newcastlemax Ton-Time Growth vs Supply Growth](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/capesize market balance.png)
+*Figure: Capesize/Newcastlemax Ton-Time Growth vs Supply Growth*
 
 
-![Supramax/Ultramax Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax market balance.png)
-*Figure: Supramax/Ultramax Ton-Time Growth vs Supply Growth *
+![Panamax/Kamsarmax Ton-Time Growth vs Supply Growth](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/panamax market balance.png)
+*Figure: Panamax/Kamsarmax Ton-Time Growth vs Supply Growth*
 
 
-![Handysize Ton-Time Growth vs Supply Growth ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize market balance.png)
-*Figure: Handysize Ton-Time Growth vs Supply Growth *
+![Supramax/Ultramax Ton-Time Growth vs Supply Growth](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/supramax market balance.png)
+*Figure: Supramax/Ultramax Ton-Time Growth vs Supply Growth*
 
 
-![Global Iron Ore Loadings, 2024 and 2025 YTD](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/iron ore 24 25.png)
+![Handysize Ton-Time Growth vs Supply Growth](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/handysize market balance.png)
+*Figure: Handysize Ton-Time Growth vs Supply Growth*
+
+
+![Global Iron Ore Loadings, 2024 and 2025 YTD](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/iron ore 24 25.png)
 *Figure: Global Iron Ore Loadings, 2024 and 2025 YTD*
 
 
-![Global Coal Loadings, 2024 and 2025 YTD](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/coal shipments 23 24.png)
+![Global Coal Loadings, 2024 and 2025 YTD](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/coal shipments 23 24.png)
 *Figure: Global Coal Loadings, 2024 and 2025 YTD*
 
 
@@ -358,28 +366,28 @@ Given China's weak import growth, the global economic cycle is not suggested to 
 
 Bottom right chart:
 
-Can currency indicators be trusted like before? What does global trade wars mean for the US dollar? Will a weak dollar signify that global liquidity conditions have improved, or does it reflect flight or diversification away from the dollar? As of now, the "old regime" still suggest tight global liquidity, which in turn is bearish for dry bulk markets. 
+Can currency indicators be trusted like before? What does global trade wars mean for the US dollar? Will a weak dollar signify that global liquidity conditions have improved, or does it reflect flight or diversification away from the dollar? As of now, the "old regime" still suggest tight global liquidity, which in turn is bearish for dry bulk markets.
 
 
-![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CHINA CREDIT vs BDI.png)
+![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CHINA CREDIT vs BDI.png)
 *Figure: Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)*
 
 
-![China Economic Growth Index vs Global Dry Bulk Shipments Growth](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CHINA ECONOMIC GROWTH INDEX VS DRY BULK DEMAND GROWTH.png)
+![China Economic Growth Index vs Global Dry Bulk Shipments Growth](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CHINA ECONOMIC GROWTH INDEX VS DRY BULK DEMAND GROWTH.png)
 *Figure: China Economic Growth Index vs Global Dry Bulk Shipments Growth*
 
 
-![USDCNY YoY, 9 Months Lead vs China Bulk Commodity Imports YoY](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/USDCNY vs China Import Growth Lead.png)
+![USDCNY YoY, 9 Months Lead vs China Bulk Commodity Imports YoY](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/USDCNY vs China Import Growth Lead.png)
 *Figure: USDCNY YoY, 9 Months Lead vs China Bulk Commodity Imports YoY*
 
 
-![# of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CENTRAL BANK RATES VS KAMSARMAX 1 YEAR TC.png)
-*Figure: # of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change *
+![# of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CENTRAL BANK RATES VS KAMSARMAX 1 YEAR TC.png)
+*Figure: # of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change*
 
 
-![China Bulk Imports Growth (12 Months Lead) vs OECD G-20 Economic Indicator ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CHINA IMPORTS VS OECD.png)
-*Figure: China Bulk Imports Growth (12 Months Lead) vs OECD G-20 Economic Indicator *
+![China Bulk Imports Growth (12 Months Lead) vs OECD G-20 Economic Indicator](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/CHINA IMPORTS VS OECD.png)
+*Figure: China Bulk Imports Growth (12 Months Lead) vs OECD G-20 Economic Indicator*
 
 
-![Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth ](https://pbrkapp.blob.core.windows.net/report/dad29fc8-49ad-449d-afcc-67b85d82f8b6/dollar vs dry bulk demand.png)
-*Figure: Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth *
+![Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth](../images/dad29fc8-49ad-449d-afcc-67b85d82f8b6/dollar vs dry bulk demand.png)
+*Figure: Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth*

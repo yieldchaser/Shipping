@@ -1,10 +1,21 @@
+---
+title: "FSRU Quarterly - Q1/25"
+issue_date: "2025-04-04"
+year: 2025
+department: "LNG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "e01bf497-94d1-44fc-ab0e-6e5262df5ae4"
+images_count: 5
+local_pdf: "../pdfs/2025/2025-04-04_lng-fsru-report-q125.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/report.pdf"
+---
 # FSRU Quarterly - Q1/25
 
-**Date**: 2025-04-04 | **Department**: LNG
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/report.pdf)
+**Date:** 2025-04-04 | **Department:** LNG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2025/2025-04-04_lng-fsru-report-q125.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/report.pdf)  
 
 ---
-
 
 ## Market reflections
 
@@ -25,11 +36,11 @@ Overall activity at operational FSRUs has been firm during Q1 with average month
 While the absolute levels for each region may not provide a whole lot of information, our read is that the end users seem relatively unphased from changes in commodity prices as the likes of price-sensitive buyers such as Pakistan, Bangladesh and Turkey are steadily importing volumes. From a fundamental perspective, we' re also encouraged to see the percentage of LNG going to FSRUs remaining steady/increasing slightly - adding support to more FSRUs needed as global LNG supply enters the next growth spurt in the coming years.
 
 
-![Global volumes imported through FSRUs (2022-2025YTD)](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/Global_volumes_Y-o-Y_2.png)
+![Global volumes imported through FSRUs (2022-2025YTD)](../images/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/Global_volumes_Y-o-Y_2.png)
 *Figure: Global volumes imported through FSRUs (2022-2025YTD)*
 
 
-![Monthly volumes imported through FSRUs by region (2025)](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/Monthly_volumes_by_region_2.png)
+![Monthly volumes imported through FSRUs by region (2025)](../images/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/Monthly_volumes_by_region_2.png)
 *Figure: Monthly volumes imported through FSRUs by region (2025)*
 
 
@@ -39,7 +50,7 @@ While the absolute levels for each region may not provide a whole lot of informa
 ### Notable FSRU movements
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/FSRU_Map_2.png)
+![Indicator Chart](../images/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/FSRU_Map_2.png)
 *Figure: Indicator Chart*
 
 The most notable movements for FSRUs during the quarter has been **Energos Power** and her sister **Energos Force**. **Energos Power** was moved from Mukran terminal following termination of the contract and subsequently sailed to Skaw, Denmark for orders. **Energos Force** had been idling in the German Bight for an extended period of time in anticipation of connecting to Stade terminal, but also she has been sent to Skaw for orders.
@@ -56,11 +67,11 @@ Germany's third FSRU-in-waiting is **Excelsior** which has been in Ferrol S.Y. f
 ### Asset values: Newbuildings and Conversion candidates
 
 
-![FSRU conversion candidates: Secondhand values](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/SH Values.png)
+![FSRU conversion candidates: Secondhand values](../images/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/SH Values.png)
 *Figure: FSRU conversion candidates: Secondhand values*
 
 
-![FSRU Newbuild prices](https://pbrkapp.blob.core.windows.net/report/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/FSRU_NB_VALUE.png)
+![FSRU Newbuild prices](../images/e01bf497-94d1-44fc-ab0e-6e5262df5ae4/FSRU_NB_VALUE.png)
 *Figure: FSRU Newbuild prices*
 
 With an FSRU market that is expected to remain tight in the near- to medium-term, the number of players looking at adding capacity is in no shortage. However, deciding to move from window shopping and planning to pulling out the credit card remains a challenge for most as many market participants prefer to take a back-to-back approach as opposed to a speculative position. This strategy has thus far proven wise in light of declining secondhand values for conversion candidates. The list of prospective sales candidates in the ST segment with 138,000-155,000 cargo capacity is getting longer by the day, allowing those looking for FSRU (and FSU) conversion candidates to be selective. Pricewise the situation is the same for TFDE with arrows pointing lower, but the number of candidates is fewer and further between although we would not be surprised to see the list grow into summer.

@@ -1,10 +1,21 @@
+---
+title: "LNG Shipping - Quarterly Report Q3 2024"
+issue_date: "2024-10-07"
+year: 2024
+department: "LNG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13"
+images_count: 33
+local_pdf: "../pdfs/2024/2024-10-07_lng-shipping-quarterly-report-q3-2024.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/report.pdf"
+---
 # LNG Shipping - Quarterly Report Q3 2024
 
-**Date**: 2024-10-07 | **Department**: LNG
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/report.pdf)
+**Date:** 2024-10-07 | **Department:** LNG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2024/2024-10-07_lng-shipping-quarterly-report-q3-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/report.pdf)  
 
 ---
-
 
 ## Summary
 
@@ -17,7 +28,7 @@ The JKM LNG price has been in the range 11.7 to 14.4 $/MMBtu throughout the quar
 A shadow fleet has emerged for the first time in LNG, following other segments which have practiced sanctioned trade for years. So far, six cargoes have been lifted from the sanctioned Arctic LNG-2 project, and none have reached international markets. The operation of these vessels has been far from conventional, as two vessels have transited the Northern Sea Route without any ice class, two vessels completed open-sea ship-to-ship transfers and one recently crossed the Red Sea and the Bab el Mandeb strait. India has announced that they are not willing to take sanctioned cargoes, and with current relatively low LNG prices, most are not willing to risk sanctions for a slightly cheaper cargo. Most of the LNG from Arctic LNG-2 is currently stored in the two 360kcbm FSUs located in Murmansk and Kamchatka, and it remains to be seen if the cargoes can find an import market.
 
 
-![Spot charter rates and JKM](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/gas price and rates.png)
+![Spot charter rates and JKM](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/gas price and rates.png)
 *Figure: Spot charter rates and JKM*
 
 
@@ -27,42 +38,42 @@ Spot charter rates in the Atlantic were increasing at the start of the quarter, 
 
 Term charter rates have also been on a downward trend throughout the quarter, although no big changes. Longer term rates are reducing mainly due to reduced finance cost, but also due to 20+ speculative orders and an orderbook that will see deliveries arrive before volumes. Current forecasts indicate a rebalancing/tightening in the second half of the decade, which has been clear for a while. Therefore, a lot of the reduction has been taken out already, and we do not see significant softening from current levels unless there is further softening in financing cost or newbuild prices. 
 
-On the shorter-term, the one-year rate has also seen a drop despite the slight increases in Q2 as the focus on winter fixing increased slightly. While owners are keen to fix multi-month to a year, to avoid idling in the shoulder months in an oversupplied 2025, charterers are likely thinking that winter coverage can be secured relatively cheap in the spot market. 
+On the shorter-term, the one-year rate has also seen a drop despite the slight increases in Q2 as the focus on winter fixing increased slightly. While owners are keen to fix multi-month to a year, to avoid idling in the shoulder months in an oversupplied 2025, charterers are likely thinking that winter coverage can be secured relatively cheap in the spot market.
 
 
-![Two-stroke spot charter rates (East/West)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/east west.png)
+![Two-stroke spot charter rates (East/West)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/east west.png)
 *Figure: Two-stroke spot charter rates (East/West)*
 
 
-![Average spot charter rates](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/spot.png)
+![Average spot charter rates](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/spot.png)
 *Figure: Average spot charter rates*
 
 
-![1-year charter rates](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1year.png)
+![1-year charter rates](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1year.png)
 *Figure: 1-year charter rates*
 
 
-![Term charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/longterm.png)
+![Term charter rates (two-stroke)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/longterm.png)
 *Figure: Term charter rates (two-stroke)*
 
 
-![Prompt LNGC availability](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/avail.png)
+![Prompt LNGC availability](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/avail.png)
 *Figure: Prompt LNGC availability*
 
 
-![Quarterly spot charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qrt 2str.png)
+![Quarterly spot charter rates (two-stroke)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qrt 2str.png)
 *Figure: Quarterly spot charter rates (two-stroke)*
 
 
-![Monthly spot charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/mntly 2str.png)
+![Monthly spot charter rates (two-stroke)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/mntly 2str.png)
 *Figure: Monthly spot charter rates (two-stroke)*
 
 
-![Quarterly spot charter rates (TFDE)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qrt tfde.png)
+![Quarterly spot charter rates (TFDE)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qrt tfde.png)
 *Figure: Quarterly spot charter rates (TFDE)*
 
 
-![Monthly spot charter rates (TFDE)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/mntly tfde.png)
+![Monthly spot charter rates (TFDE)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/mntly tfde.png)
 *Figure: Monthly spot charter rates (TFDE)*
 
 
@@ -72,30 +83,30 @@ While spot activity in July was very high, activity has since dropped to much lo
 
 Spot fixtures have on average been much shorter than in recent years: the Q3 spot fixture count is up by 71% YoY, but the number of fixed days is only up by 38%. On longer term charters, both multi-month and short-term up to 3 years, activity is significantly lower than previous years. Three one-year charters were concluded in Q3, so less than half those seen in Q3 last year, and the same as in 2022. In the 3-5 year range, only one fixture was concluded, and hence the focus on securing term tonnage for coming winters has eased. 
 
-80% of short-term fixtures were sublets, and while the wave of redeliveries which has already started could change that, the majority of redeliveries are 138k steamers which are increasingly difficult to charter out. Nonetheless, the share of short-term fixtures done for steamers increased from 9% in Q2, to 24% in Q3. Of these, 60% (12 fixtures) were 138k vessels, and the majority of duration less than 30 days. 
+80% of short-term fixtures were sublets, and while the wave of redeliveries which has already started could change that, the majority of redeliveries are 138k steamers which are increasingly difficult to charter out. Nonetheless, the share of short-term fixtures done for steamers increased from 9% in Q2, to 24% in Q3. Of these, 60% (12 fixtures) were 138k vessels, and the majority of duration less than 30 days.
 
 
-![Short-term fixture activity (< 3 years)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/count short term new.png)
+![Short-term fixture activity (< 3 years)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/count short term new.png)
 *Figure: Short-term fixture activity (< 3 years)*
 
 
-![Short term fixtures by sublet vs independent owners](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/indep.png)
+![Short term fixtures by sublet vs independent owners](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/indep.png)
 *Figure: Short term fixtures by sublet vs independent owners*
 
 
-![Short-term fixtures Q3 (count)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/q3 count new.png)
+![Short-term fixtures Q3 (count)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/q3 count new.png)
 *Figure: Short-term fixtures Q3 (count)*
 
 
-![Short-term fixtures Q3 (fixed days)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/fixed days new.png)
+![Short-term fixtures Q3 (fixed days)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/fixed days new.png)
 *Figure: Short-term fixtures Q3 (fixed days)*
 
 
-![1-year term deals](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1yr deals.png)
+![1-year term deals](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1yr deals.png)
 *Figure: 1-year term deals*
 
 
-![Top companies Q1-Q3 2024 (< 3 years)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/top comp new.png)
+![Top companies Q1-Q3 2024 (< 3 years)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/top comp new.png)
 *Figure: Top companies Q1-Q3 2024 (< 3 years)*
 
 
@@ -109,77 +120,77 @@ European storage levels are at 94% full, and since they were relatively full at 
 
 There has been some increase in LNGC transits via the Panama Canal, due to low European demand and an open inter-basin arbitrage. However, levels are still much lower than last year despite US to Asia flows being 33% higher for Q3. Red Sea transits are still avoided (Suez transits have mainly been to discharge in Aqaba and Ain Sukhna), so combined with limited Panama Canal use, the activity around Cape of Good Hope remains high. LNG fleet distances are therefore high, which has been driving tonne-miles higher than previous years. Tonne-time on the other hand, is relatively similar to last year despite the long distances, driven by slightly higher speeds. 
 
-The open arbitrage has resulted in 9 MT of US LNG heading to Asia in Q3, which is 43% and the highest levels seen since 2021. The trend for Qatar cargoes has continued, with only 10% heading to Europe (compared to an historical average of 20%). 
+The open arbitrage has resulted in 9 MT of US LNG heading to Asia in Q3, which is 43% and the highest levels seen since 2021. The trend for Qatar cargoes has continued, with only 10% heading to Europe (compared to an historical average of 20%).
 
 
-![EU storage levels](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/strg.png)
+![EU storage levels](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/strg.png)
 *Figure: EU storage levels*
 
 
-![LNGC waypoint transits](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/waypoint new.png)
+![LNGC waypoint transits](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/waypoint new.png)
 *Figure: LNGC waypoint transits*
 
 
-![Loaded LNG](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/loadings.png)
+![Loaded LNG](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/loadings.png)
 *Figure: Loaded LNG*
 
 
-![Q3 imports by region](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/Q3 imports by region.png)
+![Q3 imports by region](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/Q3 imports by region.png)
 *Figure: Q3 imports by region*
 
 
-![Destination of US LNG](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/us lng new.png)
+![Destination of US LNG](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/us lng new.png)
 *Figure: Destination of US LNG*
 
 
-![Destination of Qatar LNG](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qatar new.png)
+![Destination of Qatar LNG](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qatar new.png)
 *Figure: Destination of Qatar LNG*
 
 
-![Average fleet distance (laden)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/distance.png)
+![Average fleet distance (laden)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/distance.png)
 *Figure: Average fleet distance (laden)*
 
 
-![Tonne-miles](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/tmi.png)
+![Tonne-miles](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/tmi.png)
 *Figure: Tonne-miles*
 
 
-![Average fleet speed](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/speed.png)
+![Average fleet speed](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/speed.png)
 *Figure: Average fleet speed*
 
 
-![Tonne-time](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/tti.png)
+![Tonne-time](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/tti.png)
 *Figure: Tonne-time*
 
 
 ## LNGC Fleet
 
 
-![LNGC fleet by status](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/status new.png)
+![LNGC fleet by status](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/status new.png)
 *Figure: LNGC fleet by status*
 
 That leaves 16 ships that are older than 30 years old, 93 which are older than 20. In addition to the numerous steamers redelivered to owners so far this year, another 21 are scheduled to redeliver in Q4 according to our records, of which 80% are 138k cbm or smaller. 
 
-2025 is still the year where the most deliveries are expected, currently 88 scheduled deliveries. 2026 is also fully booked with 84 scheduled deliveries, and only very limited slots could be made available in 2027. 24 ships in the orderbook are charter-free, of which the majority deliver in 2026 and 2027. 71% of the orderbook is being built in South Korea, and 28% in China. 
+2025 is still the year where the most deliveries are expected, currently 88 scheduled deliveries. 2026 is also fully booked with 84 scheduled deliveries, and only very limited slots could be made available in 2027. 24 ships in the orderbook are charter-free, of which the majority deliver in 2026 and 2027. 71% of the orderbook is being built in South Korea, and 28% in China.
 
 
-![LNGC orders](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/orders new 2.png)
+![LNGC orders](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/orders new 2.png)
 *Figure: LNGC orders*
 
 
-![LNGC deliveries](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/deliveries new.png)
+![LNGC deliveries](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/deliveries new.png)
 *Figure: LNGC deliveries*
 
 
-![Orderbook by propulsion](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/prop new.png)
+![Orderbook by propulsion](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/prop new.png)
 *Figure: Orderbook by propulsion*
 
 
-![Orderbook by yard](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/yard new.png)
+![Orderbook by yard](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/yard new.png)
 *Figure: Orderbook by yard*
 
 
-![Fleet evolution (considering current orderbook and phase-out at 25 years)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/fleet evol.png)
+![Fleet evolution (considering current orderbook and phase-out at 25 years)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/fleet evol.png)
 *Figure: Fleet evolution (considering current orderbook and phase-out at 25 years)*
 
 
@@ -191,8 +202,8 @@ In addition to the seasonally higher production levels, some commissioning cargo
 
 Environmental regulations are an increasing part of discussions, with the EU ETS already in force and FuelEU Maritime just months away. The FuelEU Maritime will affect LNGCs trading to Europe already from January, 2025, and some of the most modern vessels will be affected by 2034.
 
-There has been a clear slow-down in project FIDs, both in the United States due to the pause in approvals, but also in the rest of the world. While more FIDs are expected, we do not see any significant upside to the currently planned (FIDd) volumes this decade. That should bring LNG liquefaction capacity to about 660 by 2030 (of which historically 85% is actually produced), which is well in line with several LNG demand forecasts. 
+There has been a clear slow-down in project FIDs, both in the United States due to the pause in approvals, but also in the rest of the world. While more FIDs are expected, we do not see any significant upside to the currently planned (FIDd) volumes this decade. That should bring LNG liquefaction capacity to about 660 by 2030 (of which historically 85% is actually produced), which is well in line with several LNG demand forecasts.
 
 
-![Fleet balance (at different phase-out ages)](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/balance new.png)
+![Fleet balance (at different phase-out ages)](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/balance new.png)
 *Figure: Fleet balance (at different phase-out ages)*

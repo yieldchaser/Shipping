@@ -1,10 +1,21 @@
+---
+title: "LNG Shipping - Annual Report 2024"
+issue_date: "2025-01-13"
+year: 2025
+department: "LNG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "995010c6-8b2b-43c4-bac0-8381de5c7609"
+images_count: 38
+local_pdf: "../pdfs/2025/2025-01-13_lng-shipping-annual-report-2024.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/report.pdf"
+---
 # LNG Shipping - Annual Report 2024
 
-**Date**: 2025-01-13 | **Department**: LNG
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/report.pdf)
+**Date:** 2025-01-13 | **Department:** LNG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2025/2025-01-13_lng-shipping-annual-report-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/report.pdf)  
 
 ---
-
 
 ## Summary
 
@@ -14,10 +25,10 @@ While this situation may appear surprising, especially given the long distances 
 
 On the volume side, ENI's Congo FLNG and New Fortress Energy's Fast LNG Altamira have each loaded six cargoes, some of which were partial. Although commissioning cargoes were expected from Corpus Christi Stage 3 and Plaquemines towards the end of the year, this has been postponed to early 2025. Despite limited volumes from new projects, there have been fewer outages, and production during the summer months has been higher than in 2023. However, it is evident that the increase in tonne-miles is primarily due to the distances rather than the volume of cargo.
 
-Ordering activity this year has been robust, primarily driven by the final orders of vessels for the Qatar North Field Expansion Phase 2. However, speculative ordering has slowed due to the muted market and persistently high newbuild prices. The orderbook remains substantial, representing 46% of the trading fleet, with 321 vessels scheduled for delivery between 2025 and 2031. Shipyards are now largely booked until the end of 2027, with potential fleet growth possible from 2028 onwards. While seven vessels being sold for demolition is not substantial given the muted market, there was still a strong signal when four vessels aged 24 years were recently sold for demolition when LNGCs historically have been scrapped at 35-40 years. 
+Ordering activity this year has been robust, primarily driven by the final orders of vessels for the Qatar North Field Expansion Phase 2. However, speculative ordering has slowed due to the muted market and persistently high newbuild prices. The orderbook remains substantial, representing 46% of the trading fleet, with 321 vessels scheduled for delivery between 2025 and 2031. Shipyards are now largely booked until the end of 2027, with potential fleet growth possible from 2028 onwards. While seven vessels being sold for demolition is not substantial given the muted market, there was still a strong signal when four vessels aged 24 years were recently sold for demolition when LNGCs historically have been scrapped at 35-40 years.
 
 
-![Spot charter rates and JKM](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/gas price and rates.png)
+![Spot charter rates and JKM](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/gas price and rates.png)
 *Figure: Spot charter rates and JKM*
 
 
@@ -32,39 +43,39 @@ For longer-term charters (three years and up), there have been no rate increases
 Availability has been higher than in previous years for the majority of 2024, with a good mix of ship technologies. While most of the two-stroke availability has been from subletters, who either went long during the unprecedented times in previous years or are still waiting for delayed term volumes, there is increasing availability of steamers from independent owners, which have redelivered from their long-term charters.
 
 
-![Two-stroke spot charter rates (East/West)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/east west.png)
+![Two-stroke spot charter rates (East/West)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/east west.png)
 *Figure: Two-stroke spot charter rates (East/West)*
 
 
-![Average spot charter rates](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/spot avg.png)
+![Average spot charter rates](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/spot avg.png)
 *Figure: Average spot charter rates*
 
 
-![1-year charter rates](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/1year.png)
+![1-year charter rates](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/1year.png)
 *Figure: 1-year charter rates*
 
 
-![Term charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/longterm.png)
+![Term charter rates (two-stroke)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/longterm.png)
 *Figure: Term charter rates (two-stroke)*
 
 
-![Prompt LNGC availability](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/avails.png)
+![Prompt LNGC availability](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/avails.png)
 *Figure: Prompt LNGC availability*
 
 
-![Quarterly spot charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/2str q.png)
+![Quarterly spot charter rates (two-stroke)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/2str q.png)
 *Figure: Quarterly spot charter rates (two-stroke)*
 
 
-![Monthly spot charter rates (two-stroke)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/2str m.png)
+![Monthly spot charter rates (two-stroke)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/2str m.png)
 *Figure: Monthly spot charter rates (two-stroke)*
 
 
-![Quarterly spot charter rates (TFDE)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/tfde q.png)
+![Quarterly spot charter rates (TFDE)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/tfde q.png)
 *Figure: Quarterly spot charter rates (TFDE)*
 
 
-![Monthly spot charter rates (TFDE)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/tfde m.png)
+![Monthly spot charter rates (TFDE)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/tfde m.png)
 *Figure: Monthly spot charter rates (TFDE)*
 
 
@@ -75,27 +86,27 @@ In Q4, fixing activity increased compared to Q3, resulting in more than 360 spot
 The share of short-term fixtures involving sublets was 73% in Q4, slightly down from the Q1-Q3 average of 82%. Availability clearly remains predominantly with the subletters rather than independent owners. Most availability from independent owners has been in the form of small steamers, which have proven difficult to charter out.
 
 
-![Short-term fixture activity (< 3 years)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/shot term fixtures.png)
+![Short-term fixture activity (< 3 years)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/shot term fixtures.png)
 *Figure: Short-term fixture activity (< 3 years)*
 
 
-![Short term fixtures by sublet vs independent owners](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/indep vs sublet.png)
+![Short term fixtures by sublet vs independent owners](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/indep vs sublet.png)
 *Figure: Short term fixtures by sublet vs independent owners*
 
 
-![Short-term fixtures yearly (count)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/yearly fixt count.png)
+![Short-term fixtures yearly (count)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/yearly fixt count.png)
 *Figure: Short-term fixtures yearly (count)*
 
 
-![Short-term fixtures yearly (fixed days)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/yearly fixed days.png)
+![Short-term fixtures yearly (fixed days)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/yearly fixed days.png)
 *Figure: Short-term fixtures yearly (fixed days)*
 
 
-![1-year term deals](https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1yr deals.png)
+![1-year term deals](../images/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1yr deals.png)
 *Figure: 1-year term deals*
 
 
-![Top companies Q1-Q3 2024 (< 3 years)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/top comp new.png)
+![Top companies Q1-Q3 2024 (< 3 years)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/top comp new.png)
 *Figure: Top companies Q1-Q3 2024 (< 3 years)*
 
 
@@ -109,61 +120,61 @@ A cold start to the European winter resulted in high storage withdrawals, and an
 
 Despite the increase in inter-basin trade towards the end of the year, distances remain long due to the slim-to-no use of either of the canals. Due to the long distances, tonne-miles have been high throughout the entire year, at higher levels than the previous year for every month except November, when both production and distances dropped. With record high production levels in December, tonne-miles then reached new records, but despite this, fleet utilization is still lower than  has been seen in December in previous years. This is explained by the rapid fleet growth, which has increased the fleet capacity more than enough to absorb the tonne-mile growth. However, despite what the rates may show, the long distances have kept tonne-miles high enough that on average, the fleet utilization in 2024 was marginally higher than previous years. It is therefore clear that the oversupply from previous years, which was not really reflected in the charter rates due to cargo values and the focus on energy security, has now made an impact on the market - it is this overhanging oversupply in addition to the 2024 fleet additions that has driven rates down. 
 
-Average speeds have actually been slightly higher than in 2023, which compensates for the higher tonne-miles. However, speeds are still well below what they were in for example 2021, and once again an indication of shipping oversupply, where plenty more shipping capacity could be available by speeding up. 
+Average speeds have actually been slightly higher than in 2023, which compensates for the higher tonne-miles. However, speeds are still well below what they were in for example 2021, and once again an indication of shipping oversupply, where plenty more shipping capacity could be available by speeding up.
 
 
-![EU storage levels](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/storage.png)
+![EU storage levels](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/storage.png)
 *Figure: EU storage levels*
 
 
-![Yearly loaded LNG](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/loaded yrly new.png)
+![Yearly loaded LNG](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/loaded yrly new.png)
 *Figure: Yearly loaded LNG*
 
 
-![Monthly loaded LNG](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/loaded mnthly.png)
+![Monthly loaded LNG](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/loaded mnthly.png)
 *Figure: Monthly loaded LNG*
 
 
-![2024 imports by region](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/2024 imports by region.png)
+![2024 imports by region](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/2024 imports by region.png)
 *Figure: 2024 imports by region*
 
 
-![Yearly exports of top 5 exporting markets](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/top 5 exporters.png)
+![Yearly exports of top 5 exporting markets](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/top 5 exporters.png)
 *Figure: Yearly exports of top 5 exporting markets*
 
 
-![Yearly imports of top 5 importing markets](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/top 5 importers.png)
+![Yearly imports of top 5 importing markets](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/top 5 importers.png)
 *Figure: Yearly imports of top 5 importing markets*
 
 
-![Destination of US LNG](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/US LNG dest.png)
+![Destination of US LNG](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/US LNG dest.png)
 *Figure: Destination of US LNG*
 
 
-![Destination of Qatar LNG](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/qatar dest 2.png)
+![Destination of Qatar LNG](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/qatar dest 2.png)
 *Figure: Destination of Qatar LNG*
 
 
-![Average fleet distance (laden)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/avg distances.png)
+![Average fleet distance (laden)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/avg distances.png)
 *Figure: Average fleet distance (laden)*
 
 
-![Tonne-miles](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/tonne miles.png)
+![Tonne-miles](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/tonne miles.png)
 *Figure: Tonne-miles*
 
 
-![Average fleet speed](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/speed.png)
+![Average fleet speed](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/speed.png)
 *Figure: Average fleet speed*
 
 
-![Tonne-time](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/tonnetime.png)
+![Tonne-time](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/tonnetime.png)
 *Figure: Tonne-time*
 
 
 ## LNGC Fleet
 
 
-![LNGC fleet by status](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/status.png)
+![LNGC fleet by status](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/status.png)
 *Figure: LNGC fleet by status*
 
 The first "new" Chinese yard delivered its first LNGC, with Al Shelila delivered to ADNOC from Jiangnan in November. This marks the yard's first large-scale LNGC, with seven more in the orderbook. Dalian is also scheduled to deliver its first large-scale LNGCs in the second half of 2025. Hudong-Zhonghua is the only yard that has taken orders for delivery in 2030 and beyond, currently having 33 vessels on order for the Qatar North Field Expansion (three already delivered), with deliveries extending well into 2031.
@@ -171,27 +182,27 @@ The first "new" Chinese yard delivered its first LNGC, with Al Shelila delivered
 In the coming year, the newbuild deliveries scheduled amount to 93 vessels, although nine of these are for Arctic LNG-2, where several were pushed to 2025 as deliveries in 2024 did not occur. It is highly unlikely that these vessels will hit the market in 2025 either, so 84 newbuild deliveries may be a more realistic expectation. Twenty-six vessels in the orderbook are available/charter-free, with deliveries in 2025 (two), 2026 (12), and 2027 (12).
 
 
-![LNGC orders](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/orders.png)
+![LNGC orders](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/orders.png)
 *Figure: LNGC orders*
 
 
-![LNGC deliveries](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/deliveries.png)
+![LNGC deliveries](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/deliveries.png)
 *Figure: LNGC deliveries*
 
 
-![Orderbook by propulsion](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/ob by prop.png)
+![Orderbook by propulsion](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/ob by prop.png)
 *Figure: Orderbook by propulsion*
 
 
-![Orderbook by yard](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/ob by yard2.png)
+![Orderbook by yard](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/ob by yard2.png)
 *Figure: Orderbook by yard*
 
 
-![Fleet composition by propulsion (end year, considering current orderbook and phase-out at 25 years)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/evolution by prop.png)
+![Fleet composition by propulsion (end year, considering current orderbook and phase-out at 25 years)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/evolution by prop.png)
 *Figure: Fleet composition by propulsion (end year, considering current orderbook and phase-out at 25 years)*
 
 
-![Fleet composition by propulsion (end year, considering current orderbook and phase-out at 25 years)](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/fleet evol prop pct.png)
+![Fleet composition by propulsion (end year, considering current orderbook and phase-out at 25 years)](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/fleet evol prop pct.png)
 *Figure: Fleet composition by propulsion (end year, considering current orderbook and phase-out at 25 years)*
 
 
@@ -204,13 +215,13 @@ If current project schedules hold, the market should see some tightening towards
 One might have expected the muted 2024 market to have led to more vessels being laid up and scrapped. Although not officially in layup, we note that around 15 LNGCs have exhibited slow speeds and limited draft developments over the past months. With further redeliveries expected in 2025 and a continued low charter market, we anticipate this trend to become more pronounced. While conservative owners may initially opt for layup, we believe the oldest steamers, nearing their 25-year drydock and smaller than 140k cbm, have limited life left as trading LNGCs. This will be an intriguing topic to follow throughout the year!
 
 
-![Fleet balance](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/blance new.png)
+![Fleet balance](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/blance new.png)
 *Figure: Fleet balance*
 
 
-![LNG supply forecast by region](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/lng supply 2.png)
+![LNG supply forecast by region](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/lng supply 2.png)
 *Figure: LNG supply forecast by region*
 
 
-![LNG demand forecast by region](https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/lng demand.png)
+![LNG demand forecast by region](../images/995010c6-8b2b-43c4-bac0-8381de5c7609/lng demand.png)
 *Figure: LNG demand forecast by region*

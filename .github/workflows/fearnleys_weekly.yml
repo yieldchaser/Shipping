@@ -52,7 +52,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/derived/time_charter_rates_fearnleys.csv data/derived/fearnleys_series_monthly.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json
+          git add data/derived/time_charter_rates_fearnleys.csv data/derived/fearnleys_series_monthly.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json corpus/01-brokers/fearnleys-md
           if git diff --staged --quiet; then
             echo "No Fearnleys TC changes to commit."
             exit 0

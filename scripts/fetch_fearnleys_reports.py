@@ -2,8 +2,8 @@
 fetch_fearnleys_reports.py
 Harvests all historical Fearnleys weekly market research reports from Hasura GraphQL backend.
 Saves:
-  1. reports/fearnleys_reports_catalog.json & data/reports/fearnleys_reports_catalog.json
-  2. reports/fearnleys/{date}_{slug}.md & data/reports/fearnleys/{date}_{slug}.md
+  1. data/reports/fearnleys_reports_catalog.json
+  2. corpus/01-brokers/fearnleys-md/{year}/{date}_{slug}.md
 """
 
 import json
@@ -92,7 +92,6 @@ def blocks_to_markdown(report: dict) -> str:
 def fetch_all_reports():
     dirs = [
         os.path.join("..", "corpus", "01-brokers", "fearnleys-md"),
-        os.path.join("..", "data", "reports", "fearnleys"),
     ]
     for d in dirs:
         os.makedirs(d, exist_ok=True)
@@ -151,7 +150,7 @@ def fetch_all_reports():
                 f.write(md_content)
         count_saved += 1
 
-    print(f"Successfully generated {count_saved} markdown reports in reports/fearnleys/ and data/reports/fearnleys/\n", flush=True)
+    print(f"Successfully generated {count_saved} markdown reports in corpus/01-brokers/fearnleys-md/\n", flush=True)
     return len(all_reports)
 
 

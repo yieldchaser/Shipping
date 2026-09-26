@@ -1,10 +1,21 @@
+---
+title: "LNG SnP report - January & February"
+issue_date: "2025-03-03"
+year: 2025
+department: "LNG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "f17a6927-c7e2-4e86-8c98-c5fcba7f3140"
+images_count: 12
+local_pdf: "../pdfs/2025/2025-03-03_lng-snp-report-janfeb2025.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/report.pdf"
+---
 # LNG SnP report - January & February
 
-**Date**: 2025-03-03 | **Department**: LNG
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/report.pdf)
+**Date:** 2025-03-03 | **Department:** LNG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2025/2025-03-03_lng-snp-report-janfeb2025.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/report.pdf)  
 
 ---
-
 
 ## Market reflections
 
@@ -15,16 +26,15 @@ One trend among market participants is an increased focus on strategic timing fo
 The market outlook remains cautiously optimistic, though. Activity in recent months suggests a healthy demand for vessels despite the challenges. The expected sale of more vessels in the near future supports this optimism. Stakeholders must stay vigilant and adaptable to navigate the complexities of market timings and price expectations in order to capitalize on emerging opportunities.
 
 
-
-![Recent sales](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest sales.png)
+![Recent sales](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest sales.png)
 *Figure: Recent sales*
 
 
-![Yearly sales](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly sales.png)
+![Yearly sales](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly sales.png)
 *Figure: Yearly sales*
 
 
-![Asset values](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset values.png)
+![Asset values](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset values.png)
 *Figure: Asset values*
 
 
@@ -33,17 +43,15 @@ The market outlook remains cautiously optimistic, though. Activity in recent mon
 The newbuilding market in general has started the year with a lack of inertia, in stark contrast to the container sector's continued activity. Across most segments, a "wait-and-see" stance prevails, with shipyards, owners, and charterers all showing caution. This uncertainty has widened the gap in pricing between yards, reflecting their varying levels of slot availability and risk appetite. Aside from notable orders from Celsius at SHI and Hanwha Shipping at their own facility, both order books and inquiry pipelines remain notably subdued.
 
 
-
-
-![Recent orders](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest orders.png)
+![Recent orders](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest orders.png)
 *Figure: Recent orders*
 
 
-![Deliveries incl. orderbook](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly deliveries.png)
+![Deliveries incl. orderbook](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly deliveries.png)
 *Figure: Deliveries incl. orderbook*
 
 
-![LNGC orders](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly orders.png)
+![LNGC orders](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly orders.png)
 *Figure: LNGC orders*
 
 
@@ -54,32 +62,31 @@ The flurry of activity seen since inauguration of the 47th president of the Unit
 A number of central banks have already commenced interest rate cuts (US, Eurozone), and while still citing inflation as the "guiding star" it feels as if growth prospects may become a central theme in the near-term. Of course, in the case of slower growth we can only hope that inflation tails off too, as market pundits have begun to whisper about stagflation scenarios. While our last comment included Mr. Powell's wait-and-see attitude, the sentiment seems to be more action than inaction these days and as such it would not be a surprise if we see a further slide interest rates.
 
 
-
-![Interest rate (90 day avg. SOFR)](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
+![Interest rate (90 day avg. SOFR)](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
 *Figure: Interest rate (90 day avg. SOFR)*
 
 
-![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](https://pbrkapp.blob.core.windows.net/report/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
+![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
 *Figure: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
 
 
 ## Recycling
 
 
-![Demolition price (large tanker)](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo price.png)
+![Demolition price (large tanker)](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo price.png)
 *Figure: Demolition price (large tanker)*
 
 
 ## World fleet at a glance
 
 
-![Live fleet by propulsion](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live by prop.png)
+![Live fleet by propulsion](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live by prop.png)
 *Figure: Live fleet by propulsion*
 
 
-![Total fleet](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet by status.png)
+![Total fleet](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet by status.png)
 *Figure: Total fleet*
 
 
-![LNGC fleet by propulsion and delivery year](https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by prop and delivery.png)
+![LNGC fleet by propulsion and delivery year](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by prop and delivery.png)
 *Figure: LNGC fleet by propulsion and delivery year*

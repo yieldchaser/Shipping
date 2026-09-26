@@ -1,12 +1,23 @@
+---
+title: "Fearnleys Dry Bulk Market Outlook"
+issue_date: "2026-06-26"
+year: 2026
+department: "BULK"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "62118945-2965-4faa-a7d1-c2f7c220f56b"
+images_count: 23
+local_pdf: "../pdfs/2026/2026-06-26_fearnleys-dry-bulk-market-outlook-june-2026-3.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/report.pdf"
+---
 # Fearnleys Dry Bulk Market Outlook
 
-**Date**: 2026-06-26 | **Department**: BULK
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/report.pdf)
+**Date:** 2026-06-26 | **Department:** BULK | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2026/2026-06-26_fearnleys-dry-bulk-market-outlook-june-2026-3.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/report.pdf)  
 
 ---
 
-
-### SUMMARY AND OUTLOOK 
+### SUMMARY AND OUTLOOK
 
 In our previous update sent in late May, we wrote:
 
@@ -17,11 +28,11 @@ Since our previous report, **oil prices** have dropped significantly. Based on t
 In the second half of last year, the Capesize index averaged about 30.000 USD pd, the Kamsarmax index averaged about 16.000 USD pd, the Ultramax index averaged about 17.250 USD pd, and the Handysize index averaged about 14.000 USD pd. The way we see fundamentals now, we find it hard to expect higher averages than that in the second half of this year.
 
 
-![Earnings Forecasts 26 and 27](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/Designer.jpg)
+![Earnings Forecasts 26 and 27](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/Designer.jpg)
 *Figure: Earnings Forecasts 26 and 27*
 
 
-![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/supply vs demand.png)
+![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/supply vs demand.png)
 *Figure: Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)*
 
 
@@ -31,7 +42,7 @@ In the second half of last year, the Capesize index averaged about 30.000 USD pd
 ### Fleet Statistics (In Million DWT)
 
 
-![Indicator Chart](https://pbrkapp.blob.core.windows.net/report/436c0724-14ee-4032-bd46-544971cf69bf/SHIP SAILING.jfif)
+![Indicator Chart](../images/436c0724-14ee-4032-bd46-544971cf69bf/SHIP SAILING.jfif)
 *Figure: Indicator Chart*
 
 
@@ -41,28 +52,28 @@ In the second half of last year, the Capesize index averaged about 30.000 USD pd
 ## Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)
 
 
-![Total Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/total fleet growth.png)
-*Figure: Total Fleet Growth Including Estimate *
+![Total Fleet Growth Including Estimate](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/total fleet growth.png)
+*Figure: Total Fleet Growth Including Estimate*
 
 
-![Cape/Newc Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/capenewc fleet growth.png)
-*Figure: Cape/Newc Fleet Growth Including Estimate *
+![Cape/Newc Fleet Growth Including Estimate](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/capenewc fleet growth.png)
+*Figure: Cape/Newc Fleet Growth Including Estimate*
 
 
-![VLOC Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/vloc fleet growth.png)
-*Figure: VLOC Fleet Growth Including Estimate *
+![VLOC Fleet Growth Including Estimate](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/vloc fleet growth.png)
+*Figure: VLOC Fleet Growth Including Estimate*
 
 
-![Panamax/Kamsarmax Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/panamax fleet growth.png)
-*Figure: Panamax/Kamsarmax Fleet Growth Including Estimate *
+![Panamax/Kamsarmax Fleet Growth Including Estimate](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/panamax fleet growth.png)
+*Figure: Panamax/Kamsarmax Fleet Growth Including Estimate*
 
 
-![Supramax/Ultramax Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/supramax fleet growth.png)
-*Figure: Supramax/Ultramax Fleet Growth Including Estimate *
+![Supramax/Ultramax Fleet Growth Including Estimate](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/supramax fleet growth.png)
+*Figure: Supramax/Ultramax Fleet Growth Including Estimate*
 
 
-![Handysize Fleet Growth Including Estimate ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/handysize fleet growth.png)
-*Figure: Handysize Fleet Growth Including Estimate *
+![Handysize Fleet Growth Including Estimate](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/handysize fleet growth.png)
+*Figure: Handysize Fleet Growth Including Estimate*
 
 
 ---
@@ -75,29 +86,29 @@ In our previous report in late May, we wrote
 *"Values have generally ticked up a bit further since our previous report. Some vintages we assess a bit higher in value than the 2024 peak. We think further upside from here is highly limited, with sideways movement most likely over the next 2-3 months."* 
 
 Values have risen above the heights of 2024, following the development in 1-year TC rates. Further value increases now are hard to expect, given the correction in chartering markets. Newbuilding prices keep increasing, and going forward, the next year and a half, we do not see any major change to the general asset value situation/regime. If we are correct that chartering markets are in for a weaker period, the downside should be limited to the lows seen last year. 
-In the case of Capes and Newcs, the situation is different and more complicated. As values kept climbing last year despite lower average earnings than in 2024, comparisons are harder to make. Capes/Newcs values have tracked the longer end of the futures curve in the last 5 years, so it seems a significant change has to happen there for there to be a significant change to values. 
+In the case of Capes and Newcs, the situation is different and more complicated. As values kept climbing last year despite lower average earnings than in 2024, comparisons are harder to make. Capes/Newcs values have tracked the longer end of the futures curve in the last 5 years, so it seems a significant change has to happen there for there to be a significant change to values.
 
 
-![Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/cape1yr tc vs asset.png)
+![Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/cape1yr tc vs asset.png)
 *Figure: Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)*
 
 
-![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/panamax 1 yr tc vs asset.png)
+![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/panamax 1 yr tc vs asset.png)
 *Figure: Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)*
 
 
-![Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/supramax 1 yr tc vs asset.png)
+![Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/supramax 1 yr tc vs asset.png)
 *Figure: Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)*
 
 
-![Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/handysize 1yr tc vs asset.png)
+![Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/handysize 1yr tc vs asset.png)
 *Figure: Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)*
 
 
 ---
 
 
-### Asset Values vs Commodity Prices 
+### Asset Values vs Commodity Prices
 
 April monthly:
 
@@ -110,29 +121,29 @@ May Monthly:
 
 *The charts below still suggest the peak in values will likely be between this month and July.* 
 
-No change to the views given in the last few months. 
+No change to the views given in the last few months.
 
 
-![Copper Price 6 Months Change (Lead 6 Months) vs Capesize 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
-*Figure: Copper Price 6 Months Change (Lead 6 Months) vs Capesize 10 Year Old *
+![Copper Price 6 Months Change (Lead 6 Months) vs Capesize 10 Year Old](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
+*Figure: Copper Price 6 Months Change (Lead 6 Months) vs Capesize 10 Year Old*
 
 
-![Copper Price 6 Months Change (Lead 6 Months) vs Kamsarmax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
-*Figure: Copper Price 6 Months Change (Lead 6 Months) vs Kamsarmax 10 Year Old *
+![Copper Price 6 Months Change (Lead 6 Months) vs Kamsarmax 10 Year Old](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
+*Figure: Copper Price 6 Months Change (Lead 6 Months) vs Kamsarmax 10 Year Old*
 
 
-![Copper Price vs Supramax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
-*Figure: Copper Price vs Supramax 10 Year Old *
+![Copper Price vs Supramax 10 Year Old](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
+*Figure: Copper Price vs Supramax 10 Year Old*
 
 
-![Copper Price vs Handysize 10 Year Old](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png)
+![Copper Price vs Handysize 10 Year Old](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png)
 *Figure: Copper Price vs Handysize 10 Year Old*
 
 
 ---
 
 
-## TRADE FLOWS YEAR ON YEAR GROWTH 
+## TRADE FLOWS YEAR ON YEAR GROWTH
 
 
 ---
@@ -166,28 +177,28 @@ The OECD diffusion index correlation with the BDI is very high, as usual. The OE
 
 Bottom right chart:
 
-The weakening dollar momentum has stalled in the last few months, along with what seems to be peak volume growth rate. Recently, the dollar has started to strengthen, suggesting volume growth will continue falling. 
+The weakening dollar momentum has stalled in the last few months, along with what seems to be peak volume growth rate. Recently, the dollar has started to strengthen, suggesting volume growth will continue falling.
 
 
-![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/CHINA CREDIT vs BDI.png)
+![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/CHINA CREDIT vs BDI.png)
 *Figure: Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)*
 
 
-![China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth ](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/INTEREST RATES VS DRY BULK DEMAND.png)
-*Figure: China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth *
+![China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/INTEREST RATES VS DRY BULK DEMAND.png)
+*Figure: China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth*
 
 
-![WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/CRUDE OIL PRICE LEAD VS BDI.png)
+![WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/CRUDE OIL PRICE LEAD VS BDI.png)
 *Figure: WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY*
 
 
-![OECD Diffusion Index 6 Months Change vs BDI YoY](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/OECD Diffusion Index 6m change 6m lead vs BDI YoY.png)
+![OECD Diffusion Index 6 Months Change vs BDI YoY](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/OECD Diffusion Index 6m change 6m lead vs BDI YoY.png)
 *Figure: OECD Diffusion Index 6 Months Change vs BDI YoY*
 
 
-![OECD G-20 Diffusion Index vs BDI YoY](https://pbrkapp.blob.core.windows.net/report/62118945-2965-4faa-a7d1-c2f7c220f56b/OECD Diffusion Index vs BDI YoY.png)
+![OECD G-20 Diffusion Index vs BDI YoY](../images/62118945-2965-4faa-a7d1-c2f7c220f56b/OECD Diffusion Index vs BDI YoY.png)
 *Figure: OECD G-20 Diffusion Index vs BDI YoY*
 
 
-![Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth ](https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/dollar vs dry bulk demand.png)
-*Figure: Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth *
+![Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth](../images/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/dollar vs dry bulk demand.png)
+*Figure: Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth*

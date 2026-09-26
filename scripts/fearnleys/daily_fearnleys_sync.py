@@ -439,8 +439,26 @@ def sync_reports():
 
     catalog.sort(key=lambda r: (r.get("date") or "", r.get("created_at") or ""), reverse=True)
     for path in REPORTS_CATALOG_COPIES:
-        with open(path, "w", encoding="utf-8", newline="\n") as f:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        tmp_path = path + ".tmp"
+        with open(tmp_path, "w", encoding="utf-8") as f:
             json.dump(catalog, f, indent=2, ensure_ascii=False)
+        os.replace(tmp_path, path)
+
+    # Download any new chart images locally so they are embedded offline
+    try:
+        from acquire.cache_fearnleys_report_images import gather_image_targets, download_images, CATALOG_PATH
+        targets = gather_image_targets(CATALOG_PATH)
+        download_images(targets, delay=0.1)
+    except Exception as e:
+        print(f"    [WARN] Could not cache new fearnleys report images: {e}", flush=True)
+
+    # Keep corpus/01-brokers/fearnleys-md normalized with frontmatter and INDEX.md updated
+    try:
+        from extract.publishers.run_fearnleys_md_normalized import normalize_all
+        normalize_all()
+    except Exception as e:
+        print(f"    [WARN] Could not update fearnleys-md normalized corpus: {e}", flush=True)
 
     return len(unseen)
 

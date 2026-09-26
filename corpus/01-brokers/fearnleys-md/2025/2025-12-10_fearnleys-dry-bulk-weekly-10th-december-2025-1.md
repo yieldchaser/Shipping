@@ -1,10 +1,21 @@
+---
+title: "Fearnleys Dry Bulk Weekly"
+issue_date: "2025-12-10"
+year: 2025
+department: "BULK"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "176a0091-59e2-4532-8b23-04180b889723"
+images_count: 12
+local_pdf: "../pdfs/2025/2025-12-10_fearnleys-dry-bulk-weekly-10th-december-2025-1.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/report.pdf"
+---
 # Fearnleys Dry Bulk Weekly
 
-**Date**: 2025-12-10 | **Department**: BULK
- | **PDF**: [report.pdf](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/report.pdf)
+**Date:** 2025-12-10 | **Department:** BULK | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2025/2025-12-10_fearnleys-dry-bulk-weekly-10th-december-2025-1.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/report.pdf)  
 
 ---
-
 
 ## Capesize/Newcastlemax
 
@@ -13,29 +24,29 @@ The Jan/Feb low season is approaching, so the spot market will continue falling 
 **Top left chart:** Hot metal output in China usually lags steel mill profitability by a few weeks. We pointed to this as a downside risk for the market, but falling output has been counteracted by inventory building. Output is suggested to continue falling in the coming weeks. 
 **Top right chart:** Higher backwardation = more urgency to buy, and vice versa. The iron ore futures curve suggested headwinds for Capes in Q4. Why these headwinds did not impact the market negatively is due to the mentioned inventory building, along with Bauxite and Coal volumes. The futures curve is now suggesting tailwinds for Capes in Q1, however, as it is suggesting iron ore consumption could rise again. 
 **Bottom left chart:** The price of copper is a good barometer of global industrial activity, and leads asset values with high accuracy. The suggestion is for further upside in values in the next months. 
-**Bottom right chart:** The iron ore spot price served as a very good leading indicator of the market direction for a few years - until the middle of this year. Why did the market rally this summer even as the iron ore spot price lead suggested it would continue to be weak? The futures curve lead was backwardated during the same period, along with a preference for higher grades of iron ore, supporting ton-miles. 
+**Bottom right chart:** The iron ore spot price served as a very good leading indicator of the market direction for a few years - until the middle of this year. Why did the market rally this summer even as the iron ore spot price lead suggested it would continue to be weak? The futures curve lead was backwardated during the same period, along with a preference for higher grades of iron ore, supporting ton-miles.
 
 
-![Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
+![Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output](../images/176a0091-59e2-4532-8b23-04180b889723/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 *Figure: Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output*
 
 
-![Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/IRON ORE FUTURES LEAD VS CAPE.png)
+![Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/176a0091-59e2-4532-8b23-04180b889723/IRON ORE FUTURES LEAD VS CAPE.png)
 *Figure: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average*
 
 
-![Copper Price Lead vs Capesize 10-Year Old ](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
-*Figure: Copper Price Lead vs Capesize 10-Year Old *
+![Copper Price Lead vs Capesize 10-Year Old](../images/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png)
+*Figure: Copper Price Lead vs Capesize 10-Year Old*
 
 
-![Iron Ore Price - 3 Months Lead vs C5TC](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
+![Iron Ore Price - 3 Months Lead vs C5TC](../images/176a0091-59e2-4532-8b23-04180b889723/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 *Figure: Iron Ore Price - 3 Months Lead vs C5TC*
 
 
 ---
 
 
-## Panamax/Kamsarmax 
+## Panamax/Kamsarmax
 
 Indicators suggest the same as last week. Overall weaker market, with the North Atlantic performing relatively better than other routes. 
 
@@ -45,46 +56,46 @@ Indicators suggest the same as last week. Overall weaker market, with the North 
 **Bottom right chart:** Last week's comment still applies *"The indicator is made by subtracting the number of vessels able to make Santos within 10 days from the ones able to make Santos within 30 days. Hence, a higher reading reflects less vessel supply in the basin relative to other regions, and vice versa. The suggestion going forward is for a slight downtrend in P6."*
 
 
-![Copper Price Lead vs Kamsarmax 10 Year Old ](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
-*Figure: Copper Price Lead vs Kamsarmax 10 Year Old *
+![Copper Price Lead vs Kamsarmax 10 Year Old](../images/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png)
+*Figure: Copper Price Lead vs Kamsarmax 10 Year Old*
 
 
-![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/P5 vs Newcastle Coal Futures Spread Lead.png)
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/176a0091-59e2-4532-8b23-04180b889723/P5 vs Newcastle Coal Futures Spread Lead.png)
 *Figure: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
 
 
-![North Atlantic net Vessel Change vs P1A minus P5](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/p1a minus p5.png)
+![North Atlantic net Vessel Change vs P1A minus P5](../images/9318cc69-55a4-4e54-8555-c8957db7e395/p1a minus p5.png)
 *Figure: North Atlantic net Vessel Change vs P1A minus P5*
 
 
-![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](https://pbrkapp.blob.core.windows.net/report/176a0091-59e2-4532-8b23-04180b889723/P6 vs SATL Tightness.png)
+![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](../images/176a0091-59e2-4532-8b23-04180b889723/P6 vs SATL Tightness.png)
 *Figure: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6*
 
 
 ---
 
 
-## Supramax/Ultramax 
+## Supramax/Ultramax
 
 The price of copper, and industrial metals in general, serves as accurate barometers of global industrial activity. The below charts show a high degree of correlation between copper, industrial metals, and the Supra/Ultra market. The firm trend is suggested to continue, although there will of course be seasonal weakness in Jan/Feb. 
 
 **Top left chart:** The three-month change of the price of copper, with the curve shifted forward three months, vs the three months change of S11TC. There will be some seasonal weakness in Jan/Feb related to CNY, but the copper price is suggesting positive momentum in Q1. 
 **Top right chart:** Same as with the top left chart, but here illustrated a bit differently, and against 1 year TC. Rising momentum suggested through Q1. 
 **Bottom left chart:** An industrial metals index including other metals as well, like Aluminium, Zinc and Nickel. This index is now at the highest level since Q2 2022. Will we therefore see the highest 1-year TC rates since Q2 2022 in the next months? It is a strong possibility. 
-**Bottom left chart:** The price of copper is a good barometer of global industrial activity, and leads asset values with high accuracy. The suggestion is for further upside in values in the next months. 
+**Bottom left chart:** The price of copper is a good barometer of global industrial activity, and leads asset values with high accuracy. The suggestion is for further upside in values in the next months.
 
 
-![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](https://pbrkapp.blob.core.windows.net/report/1af71b34-ea9e-488a-be44-cbf070e85f6c/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
+![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
 *Figure: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC*
 
 
-![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change ](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change *
+![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
+*Figure: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change*
 
 
-![Industrial Metals Index vs Ultramax 1 Year TC ](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial Metals Index vs Ultramax 1 Year TC.png)
-*Figure: Industrial Metals Index vs Ultramax 1 Year TC *
+![Industrial Metals Index vs Ultramax 1 Year TC](../images/9318cc69-55a4-4e54-8555-c8957db7e395/Industrial Metals Index vs Ultramax 1 Year TC.png)
+*Figure: Industrial Metals Index vs Ultramax 1 Year TC*
 
 
-![Copper Price Lead vs Supramax 10-Year Old ](https://pbrkapp.blob.core.windows.net/report/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
-*Figure: Copper Price Lead vs Supramax 10-Year Old *
+![Copper Price Lead vs Supramax 10-Year Old](../images/9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png)
+*Figure: Copper Price Lead vs Supramax 10-Year Old*
