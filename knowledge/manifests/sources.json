@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:00:10Z",
+  "generated_at": "2026-09-26T18:43:39Z",
   "counts": {
     "breakwave": {
       "drybulk": 210,
@@ -24,7 +24,7 @@
       "shipbuilding": 378
     },
     "broker_reports": {
-      "broker_report": 151
+      "broker_report": 155
     },
     "poten": {
       "tankers": 1096
