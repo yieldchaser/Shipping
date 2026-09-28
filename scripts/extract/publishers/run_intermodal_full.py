@@ -72,6 +72,7 @@ CURRENCIES_CSV = OUT_SERIES_DIR / "intermodal_currencies_series.csv"
 
 SALES_SERIES_CSV = OUT_SERIES_DIR / "intermodal_sales_series.csv"
 NB_SERIES_CSV = OUT_SERIES_DIR / "intermodal_newbuilding_series.csv"
+NB_PRICES_CSV = OUT_SERIES_DIR / "intermodal_newbuilding_prices_series.csv"
 DEMO_SERIES_CSV = OUT_SERIES_DIR / "intermodal_demolition_series.csv"
 
 INITIAL_CREDITS = 9100
@@ -256,6 +257,10 @@ def unpack_compressed_row(cells: List[str]) -> Optional[List[List[str]]]:
 
 def extract_grids(raw_text: str) -> List[List[List[str]]]:
     raw_text = re.sub(r'(<tr[^>]*>\s*)td>', r'\1<td>', raw_text, flags=re.I)
+    # Some pages lose the opening '<' on EVERY cell, not just the first: the whole data
+    # block then parses as one cell per row and the values are silently lost (measured:
+    # 101 such lines in intermodal_2021_W38, 14 in 2021_W30). Repair them all.
+    raw_text = re.sub(r'(?m)^(\s*)td>', r'\1<td>', raw_text)
     grids: List[List[List[str]]] = []
     soup = BeautifulSoup(raw_text, "html.parser")
     for table in soup.find_all("table"):
@@ -299,6 +304,29 @@ def extract_grids(raw_text: str) -> List[List[List[str]]]:
 # ---------------------------------------------------------------------------
 # Table Parsers (Cover-to-Cover)
 # ---------------------------------------------------------------------------
+# Indicative Newbuilding Prices: a size cell is "205k" / "82K"; a fused cell is
+# "Newcastlemax 205k". A fused header artefact ("VesselBulkersTankersGas",
+# "SizeNewcastlemax") is not a vessel and must never be published.
+_NB_SIZE_RX = re.compile(r"^\d+(?:\.\d+)?\s*[kK]$")
+_NB_FUSED_SIZE_RX = re.compile(r"^(.*?)\s+(\d+(?:\.\d+)?\s*[kK])$")
+_NB_FUSED_RX = re.compile(r"vessel|bulkers|tankers|^size|markets|^current$|^previous$|^change$", re.I)
+# The section label is NOT reliable: in intermodal_2021_W38 the publisher prints the
+# "Bulkers"/"Tankers"/"Gas" rows AFTER the data rows, so a positional sector labelled all
+# 13 rows "Bulkers". Derive the sector from the vessel name itself and fall back to the
+# label only for a name the map does not know.
+_NB_SECTOR_BY_NAME = (
+    ("Newcastlemax", "Bulkers"), ("Capesize", "Bulkers"), ("Kamsarmax", "Bulkers"),
+    ("Ultramax", "Bulkers"), ("Handysize", "Bulkers"),
+    ("VLCC", "Tankers"), ("Suezmax", "Tankers"), ("Aframax", "Tankers"), ("MR", "Tankers"),
+    ("LNG", "Gas"), ("LGC", "Gas"), ("MGC", "Gas"), ("SGC", "Gas"),
+)
+
+
+def _nb_sector(v_type: str) -> str:
+    for name, sec in _NB_SECTOR_BY_NAME:
+        if v_type == name or v_type.startswith(name + " "):
+            return sec
+    return ""
 _NUM_ONLY = re.compile(r"^-?\d+(?:\.\d+)?$")
 _MISSING = re.compile(r"^#(?:DIV/0!|N/A|REF!|VALUE!|NAME\?|NULL!|NUM!)$", re.I)
 
@@ -779,39 +807,72 @@ def parse_all_intermodal_tables(
             and "date" not in hdr_any[:3]
         ):
             cur_sec = "Bulkers"
+            # --- content-anchored parse, fixed 2026-09-28 -------------------
+            # The vessel NAME and the vessel SIZE print in one or two cells and the shape
+            # changes between eras (all measured from the cached markdown):
+            #   2021/2022  8 cells : name | size | cur | prev | +/-% | 2020 | 2019 | 2018
+            #   2023_W18   8 cells : "Newcastlemax 205k" | cur | prev | +/-% | 2022 | 2021 | 2020
+            #   2023_W20+ 13 cells : "Bulkers" fused with the row | name | size | cur | prev | +/-% | ...
+            #   2023_W48+ 12 cells : name | size | cur | prev | +/-% | YTD H | YTD L | 5Y H | 5Y L | 2022 | 2021 | 2020
+            # The previous version read cols[1..5] unconditionally. On the 8/12/13-cell shapes
+            # that is a one-column left shift: it published the vessel SIZE as the price and the
+            # printed +/-% as the previous price, on EVERY row (measured: 3,194 rows). Anchor on
+            # the +/-% cell - the one landmark present in every era - then walk back to the
+            # name/size cells.
+            _SEC_LABELS = ("Bulkers", "Tankers", "Gas", "Containers")
             for cols in grid[1:]:
                 if len(cols) < 3:
                     continue
                 col0 = cols[0].strip()
-                if col0 in ("Bulkers", "Tankers", "Gas", "Containers"):
+                if col0 in _SEC_LABELS:
+                    # the section label sometimes shares its row with that section's first data
+                    # row (2023_W20: "Bulkers | Newcastlemax | 205k | 65.0 | ..."), so set the
+                    # sector and keep parsing the row rather than skipping it.
                     cur_sec = col0
-                v_type = cols[1].strip() if len(cols) > 1 and cols[1].strip() else col0
-                if v_type.startswith("Size"):
-                    v_type = v_type[4:].strip()
-                if not v_type or v_type in ("Bulkers", "Tankers", "Gas", "Containers", "Vessel", "Markets"):
+                pct_idx = next((i for i in range(1, len(cols)) if "%" in cols[i]), None)
+                if pct_idx is not None and pct_idx >= 3:
+                    cur_i, prev_i, pct_i = pct_idx - 2, pct_idx - 1, pct_idx
+                else:
+                    j = next((i for i in range(1, len(cols))
+                              if _NB_SIZE_RX.match(cols[i].strip()) or _NB_FUSED_SIZE_RX.match(cols[i].strip())), None)
+                    if j is None:
+                        continue
+                    cur_i, prev_i, pct_i = j + 1, j + 2, j + 3
+                pre = [c.strip() for c in cols[:cur_i] if c.strip() and c.strip() not in _SEC_LABELS]
+                if not pre:
                     continue
-                size = cols[2].strip() if len(cols) > 2 else ""
-                curr_p = parse_float(cols[3]) if len(cols) > 3 else parse_float(cols[1])
-                prev_p = parse_float(cols[4]) if len(cols) > 4 else parse_float(cols[2])
-                pct = cols[5].strip() if len(cols) > 5 else ""
-
-                if curr_p and curr_p > 1000 and len(cols) > 3:
-                    m_p = re.search(r"(?:[A-Za-z]{3}-\d{2})?(\d+(?:\.\d+)?)", cols[3].strip())
-                    if m_p:
-                        try:
-                            curr_p = float(m_p.group(1))
-                        except ValueError:
-                            pass
-
-                if curr_p is None:
+                last = pre[-1]
+                if _NB_SIZE_RX.match(last):
+                    size = last
+                    v_type = pre[-2] if len(pre) >= 2 else ""
+                else:
+                    _mm = _NB_FUSED_SIZE_RX.match(last)
+                    if _mm:
+                        v_type, size = _mm.group(1).strip(), _mm.group(2).strip()
+                    else:
+                        v_type, size = last, ""
+                if not v_type or _NB_FUSED_RX.search(v_type):
                     continue
+                _row_sec = _nb_sector(v_type) or cur_sec
+                curr_p = parse_float(cols[cur_i]) if cur_i < len(cols) else None
+                prev_p = parse_float(cols[prev_i]) if prev_i < len(cols) else None
+                pct = cols[pct_i].strip() if pct_i < len(cols) and "%" in cols[pct_i] else ""
+                if curr_p is None or not (0 < curr_p < 2000):
+                    continue
+                # Self-check: the printed +/-% must reproduce from (cur-prev)/prev. LlamaParse
+                # rotates cells across rows in a handful of issues; those rows are grid
+                # corruption, and a wrong value is worse than a missing one.
+                if prev_p and pct:
+                    _pr = parse_float(pct)
+                    if _pr is not None and abs((curr_p - prev_p) / prev_p * 100.0 - _pr) > max(0.2, 0.3 * abs(_pr)):
+                        continue
 
                 nb_prices.append({
                     "issue_date": issue_date,
                     "report_week": report_week,
                     "record_type": "indicative_price",
                     "units": "",
-                    "sector": cur_sec,
+                    "sector": _row_sec,
                     "vessel_type": v_type,
                     "size": size,
                     "price_current_usd_m": curr_p,
@@ -1022,6 +1083,14 @@ NB_COLUMNS = [
     "units", "yard", "delivery", "buyer", "price_raw", "comments", "source_file"
 ]
 
+# The indicative-newbuilding-price slice of NB_COLUMNS. This file is the one the
+# register counts as a deliverable; nothing wrote it before 2026-09-28 (the artefact
+# existed but had no producer), so the runner now emits it from the same rows.
+NB_PRICES_COLUMNS = [
+    "issue_date", "report_week", "sector", "vessel_type", "size",
+    "price_current_usd_m", "price_previous_usd_m", "pct_change", "source_file"
+]
+
 DEMO_COLUMNS = [
     "issue_date", "report_week", "record_type", "sector", "country",
     "price_current_usd_per_ldt", "price_previous_usd_per_ldt", "pct_change",
@@ -1051,7 +1120,7 @@ def write_series_csv(path: pathlib.Path, columns: List[str], rows: List[Dict[str
         deduped.append(r)
     sorted_rows = deduped
     with open(path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=columns)
+        w = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore")
         w.writeheader()
         w.writerows(sorted_rows)
 
@@ -1119,6 +1188,36 @@ def recover_missing_prev_month(rows: List[Dict[str, Any]]) -> int:
     return fixed
 
 
+def recover_nb_previous(rows: List[Dict[str, Any]]) -> int:
+    """Fill/correct the indicative-newbuilding `previous` price from the report's OWN text layer.
+
+    LlamaParse dropped the previous cell on 7 rows that the PDF does print. The page prints
+    cur, prev, +/-% consecutively, so anchor on [cur, <one number>, pct] and require EXACTLY
+    ONE match in the document's numeric stream. No unique match -> leave the row alone; a
+    wrong value is worse than a missing one. Same doctrine as recover_missing_prev_month().
+    """
+    fixed = 0
+    for r in rows:
+        if r.get("record_type") != "indicative_price":
+            continue
+        cur = parse_float(r.get("price_current_usd_m"))
+        chg = parse_float(r.get("pct_change"))
+        if cur is None or chg is None:
+            continue
+        seq = _pdf_number_stream(str(r.get("source_file", "")))
+        if not seq:
+            continue
+        cands = [seq[i + 1] for i in range(len(seq) - 2)
+                 if abs(seq[i] - cur) < 1e-9 and abs(seq[i + 2] - chg) < 1e-9]
+        if len(cands) != 1:
+            continue
+        old = parse_float(r.get("price_previous_usd_m"))
+        if old is None or abs(old - cands[0]) > 1e-9:
+            r["price_previous_usd_m"] = cands[0]
+            fixed += 1
+    return fixed
+
+
 def build_all_series_from_sidecars():
     """Aggregate all sidecars in data/extracted/md/intermodal into the 8 series CSVs."""
     sidecar_files = sorted(OUT_MD_DIR.glob("*.tables.json"))
@@ -1155,6 +1254,10 @@ def build_all_series_from_sidecars():
     write_series_csv(CURRENCIES_CSV, CURRENCIES_COLUMNS, all_currencies)
     write_series_csv(SALES_SERIES_CSV, SALES_COLUMNS, all_sales)
     write_series_csv(NB_SERIES_CSV, NB_COLUMNS, all_nb)
+    _nbfix = recover_nb_previous(all_nb)
+    print(f"  [recover] newbuilding previous prices filled from the PDF text layer: {_nbfix}")
+    write_series_csv(NB_PRICES_CSV, NB_PRICES_COLUMNS,
+                    [r for r in all_nb if r.get("record_type") == "indicative_price"])
     write_series_csv(DEMO_SERIES_CSV, DEMO_COLUMNS, all_demo)
 
     print(f"\n[Stack Complete] Aggregated from {len(sidecar_files)} sidecars:")
@@ -1165,6 +1268,7 @@ def build_all_series_from_sidecars():
     print(f"  intermodal_currencies_series.csv:      {len(all_currencies):,} rows")
     print(f"  intermodal_sales_series.csv:           {len(all_sales):,} rows")
     print(f"  intermodal_newbuilding_series.csv:     {len(all_nb):,} rows")
+    print(f"  intermodal_newbuilding_prices_series.csv: {sum(1 for r in all_nb if r.get('record_type') == 'indicative_price'):,} rows")
     print(f"  intermodal_demolition_series.csv:      {len(all_demo):,} rows")
 
 
