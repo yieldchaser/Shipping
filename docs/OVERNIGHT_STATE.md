@@ -4,6 +4,22 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
+**THIS RUN (2026-09-28 21:xx, supervisor 345bc8db9233): ledger 4.5 CLOSED - star_asia_deals
+date columns normalised.** `arrival_date` / `beaching_date` held the publisher's European
+`DD.MM.YYYY` plus STATUS words (`AWAITING`, `ARRESTED`), so no ISO date join could see them.
+Measured, not assumed: 77/77 of the non-canonical values are VERBATIM in the source PDF text
+layer, and for the 63 that are not real dates a same-page glyph-advance control (ratio
+0.93-1.05 vs clean dates in the same font) proves no glyph was dropped - **the publisher's own
+page prints `05.02.206`**. Nothing was guessed. 4,417 date cells are now ISO; 966 typed STATUS;
+63 quarantined with the printed value kept; 6 empty. Fix is one call to the new
+`scripts/extract/publishers/star_asia_dates.py` at the single choke point in
+`run_star_asia_tables.py`, so future full runs are correct too. Verifier
+`scripts/extract/verify_star_asia_deals_dates.py` = PASS (3,327 rows unchanged, 39,924 context
+cells byte-identical, 0 raw-vs-old mismatches). Evidence: `docs/star_asia_deals_dates_verdict.md`.
+**Still open and next: 4.4 fake dates `2026-00-00` (230 rows) - or 4.3 `intermodal_macro_series.csv`
+(1,290 of 3,739 rows with a non-reproducible stated change, blank on 2,075; not yet verified
+against the page - verify BEFORE fixing).**
+
 **CURRENT STATE - 2026-09-28 17:1x. Both old leads are now CLOSED - do NOT reopen them.**
 
 * `corpus/07-signal` is **DONE**: 442 market articles extracted (253 monitors / 179
@@ -419,3 +435,29 @@ done
   No tesseract / no OCR. LLaMA Parse (paid) is NOT installed.
 - User has ~1,155 uncommitted files in the working tree - **do not disturb them**
   and do not `git checkout`/`git stash` broadly.
+
+---
+
+**THIS RUN (2026-09-28 21:2x): ledger 4.4 CLOSED - and it was BIGGER than the ledger said.**
+The `2026-00-00` fake dates (230 rows) were the visible tip; the same builders had also written a
+WRONG date on 251 further rows, because they searched the report's BODY PROSE instead of its
+cover line. `intermodal_2022_W06` was shipped as **2021-10-07** (cover: 15 February 2022);
+`intermodal_2023_W08` as **2025-03-31** (cover: 28 February 2023). Three builders, one bug each:
+`run_intermodal_full.py`, `run_intermodal_finance.py`, `run_xclusiv_vector_charts.py` (the last
+accepted only a `YYYY_MM_DD` filename; xclusiv uses `DD_MM_YYYY`).
+Fix = parse the publisher's own cover line first (present and unique on page 0 of **252/252**
+intermodal reports), then the filename, then loose text; an unknown date is written BLANK, never a
+zero month. Three ORPHAN series (`intermodal_demo_sales`, `intermodal_demolition_prices`,
+`intermodal_newbuilding_orders` - no current writer, stale to 2026-09-27) now come off the same
+code path. No API spend (cached markdown; `--reparse-only` / `--stack-only`).
+Verified: **40,636 / 40,636 intermodal rows across 16 series have `issue_date` == the document's
+own cover line (0 wrong, 0 fake)**; `report_week` == the cover week on 252/252; control = 110 of
+119 series CSVs byte-identical. Row counts otherwise unchanged.
+One count moved and is explained: `intermodal_newbuilding_orders_series.csv` 1,786 -> 1,833 (all
+1,833 rows are in the union file, which the old split file was 47 rows short of).
+Evidence: **`docs/intermodal_issue_date_verdict.md`**. NOTE: the intermodal stack rebuild hangs on
+non-daemon threads AFTER writing its files - judge completion by the file mtimes, not by exit.
+
+**STILL OPEN (pick one): 4.3 `intermodal_macro_series.csv`** (1,290 of 3,739 rows with a
+non-reproducible stated change, blank on 2,075 - VERIFY against the page before fixing), and the
+residual ism agreement tail (1,178 rows, outlier reports drawn on a different axis).

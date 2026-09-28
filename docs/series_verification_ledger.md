@@ -264,3 +264,64 @@ value. Recommend not spending extraction time here.
   2,727** non-empty values; `beaching_date` holds STATUS text on 557 distinct values
   (AWAITING 901, ARRESTED 24, the source's own typo AWATIING 17, plus real dates).
   Both confirmed real.
+
+---
+
+# CLOSED 2026-09-28 21:35 IST - 4.5 star_asia_deals date columns FIXED (supervisor 345bc8db9233)
+
+`docs/star_asia_deals_dates_verdict.md` has the full evidence. Headline: the defect was REAL
+but the extractor was FAITHFUL (77/77 non-canonical values appear verbatim in the source PDF
+text layer, and a same-page glyph-advance control on the 63 unparseable ones shows no dropped
+glyph - the publisher's own page prints `05.02.206`). Fix = reformat only.
+4,417 date cells are now ISO-joinable (was 0); 966 cells typed as STATUS; 63 unparsed and
+quarantined in `data/extracted/audit/star_asia_deals_dates_quarantine.json`; 6 empty.
+Independent verifier `scripts/extract/verify_star_asia_deals_dates.py`: PASS - 3,327 rows
+unchanged, 39,924 context cells byte-identical, 0 raw-vs-old mismatches.
+Still open in this ledger: 4.4 fake dates (230 rows, re-measured) and 4.3 intermodal_macro.
+
+---
+
+# CLOSED 2026-09-28 21:2x IST - 4.4 (fake dates) FIXED, and re-diagnosed: the fake rows were the
+# SMALLER half. Full evidence: `docs/intermodal_issue_date_verdict.md`
+
+4.4 was recorded as "230 rows with a fake `2026-00-00`". Measured against the publishers' own
+cover lines, the same builders had also written a **wrong** date on 251 further rows: their date
+parser searched the report's BODY PROSE instead of its cover.
+
+| before | rows | wrong date | fake `2026-00-00` |
+|---|---|---|---|
+| intermodal_bunkers / macro / maritime_stocks | 9,118 | 109 | 218 |
+| intermodal_demo_sales / demolition_prices / newbuilding_orders | 4,379 | 142 | 0 |
+| xclusiv_bulk_carrier_charts / xclusiv_demolition_charts | 498 | 0 | 12 |
+
+Three root causes, one per builder:
+1. `run_intermodal_full.py` - loose `LONG_DATE_RX` over pages 0-1 matched body prose
+   ("On Friday, February 9th, the BDTI settled at..."), so 9 documents were mis-dated. Worst:
+   `intermodal_2022_W06` shipped **2021-10-07** (cover: 15 February 2022) and
+   `intermodal_2023_W08` shipped **2025-03-31** (cover: 28 February 2023).
+2. `run_intermodal_finance.py` - same loose regex, and a literal `"2026-00-00"` fallback.
+3. `run_xclusiv_vector_charts.py` - accepted only the `YYYY_MM_DD` filename form; xclusiv names
+   files `DD_MM_YYYY`, so it fell through to `"2026-00-00"`.
+
+Fix: the publisher's own cover line (`Week NN | <Weekday><D><ord> <Month> <YYYY>`, present and
+unique on page 0 of **252/252** intermodal reports) is parsed FIRST, then the filename, then loose
+text; an unknown date is written BLANK, never a zero month. The cover outranks the filename (one
+document's filename says `23_09_2026` while its cover says 22 September 2026). Three orphan series
+(`intermodal_demo_sales`, `intermodal_demolition_prices`, `intermodal_newbuilding_orders`) had no
+current writer and were stale to 2026-09-27; they are now written by
+`build_all_series_from_sidecars()` with the same rule. No API spend (cached markdown).
+
+**Verification: 40,636 / 40,636 intermodal rows across 16 series now carry `issue_date` == the
+document's own cover line (0 wrong, 0 fake); `report_week` == the cover's `Week NN` on 252/252.
+Control: 110 of 119 series CSVs byte-identical (md5), only the intermodal files differ.
+Row counts unchanged vs the ledger (tc_rates 5,020 / indicative_values 2,333 / ... ).**
+
+One count MOVED and it is explained, not drift: `intermodal_newbuilding_orders_series.csv`
+1,786 -> **1,833**. All 1,833 rows are present in the union file
+`intermodal_newbuilding_series.csv` (1,833 `reported_order` rows); the old split file was 47 rows
+short of the union. The two are now consistent.
+
+**Lesson: `2026-00-00` was the visible tip. The dangerous half was 251 rows carrying a plausible
+ISO date lifted from body prose - invisible to every count-based check. When a fake-date defect is
+found in a source, re-derive EVERY date in it from the publisher's own cover; do not just blank
+the fakes.**

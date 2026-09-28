@@ -74,6 +74,9 @@ SALES_SERIES_CSV = OUT_SERIES_DIR / "intermodal_sales_series.csv"
 NB_SERIES_CSV = OUT_SERIES_DIR / "intermodal_newbuilding_series.csv"
 NB_PRICES_CSV = OUT_SERIES_DIR / "intermodal_newbuilding_prices_series.csv"
 DEMO_SERIES_CSV = OUT_SERIES_DIR / "intermodal_demolition_series.csv"
+DEMO_SALES_CSV = OUT_SERIES_DIR / "intermodal_demo_sales_series.csv"
+DEMO_PRICES_CSV = OUT_SERIES_DIR / "intermodal_demolition_prices_series.csv"
+NB_ORDERS_CSV = OUT_SERIES_DIR / "intermodal_newbuilding_orders_series.csv"
 
 INITIAL_CREDITS = 9100
 CREDITS_PER_PAGE = 3  # cost_effective tier
@@ -94,6 +97,15 @@ LONG_DATE_RX = re.compile(
     r"November|December)\s+(\d{4})\b", re.I
 )
 DATE_HDR_RX = re.compile(r"(\d{2})/(\d{2})/(\d{2}|\d{4})")
+# The publisher's own cover line, e.g. "Week 06 | Tuesday13th February 2024".
+# Verified present and unique on page 0 of 252/252 intermodal reports.
+# It is the AUTHORITATIVE issue date; the loose LONG_DATE_RX below also fires on
+# body prose ("On Friday, February 9th, the BDTI settled at...") and mis-dated 9 docs.
+COVER_RX = re.compile(
+    r"Week\s*(\d{1,2})\s*\|\s*[A-Za-z]+\s*(\d{1,2})(?:st|nd|rd|th)?\s+"
+    r"(January|February|March|April|May|June|July|August|September|October|"
+    r"November|December)\s+(20\d{2})", re.I
+)
 
 
 # ---------------------------------------------------------------------------
@@ -142,12 +154,28 @@ def extract_report_metadata(pdf_path: pathlib.Path) -> Tuple[int, str]:
                 break
 
     # 2. Issue Date
+    # Priority 1 is the publisher's own cover line. It is the report's statement of
+    # its own date, it is unique on page 0, and it is immune to the body prose that
+    # the loose regexes below also match ("On Friday, February 9th, the BDTI ...").
     issue_date: Optional[str] = None
-    m_dmy = re.search(r"(\d{1,2})_(\d{1,2})_(\d{4})", fn)
-    if m_dmy:
-        d, m, y = int(m_dmy.group(1)), int(m_dmy.group(2)), int(m_dmy.group(3))
-        issue_date = f"{y:04d}-{m:02d}-{d:02d}"
-    else:
+    for pg in doc[:2]:
+        m_cov = COVER_RX.search(pg.get_text())
+        if m_cov:
+            issue_date = (
+                f"{int(m_cov.group(4)):04d}-{MONTHS[m_cov.group(3).lower()]:02d}"
+                f"-{int(m_cov.group(2)):02d}"
+            )
+            break
+
+    # Priority 2: a date embedded in the filename.
+    if not issue_date:
+        m_dmy = re.search(r"(\d{1,2})_(\d{1,2})_(\d{4})", fn)
+        if m_dmy:
+            d, m, y = int(m_dmy.group(1)), int(m_dmy.group(2)), int(m_dmy.group(3))
+            issue_date = f"{y:04d}-{m:02d}-{d:02d}"
+
+    # Priority 3: loose in-text dates.
+    if not issue_date:
         for pg in doc[:2]:
             t = pg.get_text()
             m_dt = LONG_DATE_RX.search(t)
@@ -179,7 +207,7 @@ def extract_report_metadata(pdf_path: pathlib.Path) -> Tuple[int, str]:
         except Exception:
             pass
 
-    return wk or 1, issue_date or "2026-01-01"
+    return wk or 1, issue_date or ""
 
 
 # ---------------------------------------------------------------------------
@@ -1097,6 +1125,24 @@ DEMO_COLUMNS = [
     "vessel_name", "dwt", "ldt", "year_built", "yard", "vessel_type",
     "price_raw", "price_usd_per_ldt", "buyer_breakers", "comments", "source_file"
 ]
+# The three per-table splits below were previously written by a runner that no
+# longer exists, so they went stale (mtime 2026-09-27) while the union files
+# intermodal_demolition_series / intermodal_newbuilding_series were rebuilt.
+# They are projections of the SAME sidecar tables, so they are written here to
+# keep every register deliverable on one code path and one issue_date rule.
+DEMO_SALES_COLUMNS = [
+    "issue_date", "report_week", "vessel_name", "vessel_type", "dwt", "ldt",
+    "year_built", "yard", "price_usd_per_ldt", "buyer_breakers", "comments", "source_file",
+]
+DEMO_PRICES_COLUMNS = [
+    "issue_date", "report_week", "sector", "country", "price_current_usd_per_ldt",
+    "price_previous_usd_per_ldt", "pct_change", "source_file",
+]
+NB_ORDERS_COLUMNS = [
+    "issue_date", "report_week", "sector", "vessel_type", "units", "size", "yard",
+    "delivery", "buyer", "price_raw", "comments", "source_file",
+]
+
 
 
 def write_series_csv(path: pathlib.Path, columns: List[str], rows: List[Dict[str, Any]]):
@@ -1229,6 +1275,9 @@ def build_all_series_from_sidecars():
     all_sales = []
     all_nb = []
     all_demo = []
+    all_demo_sales = []
+    all_demo_prices = []
+    all_nb_orders = []
 
     for sf in sidecar_files:
         try:
@@ -1242,6 +1291,9 @@ def build_all_series_from_sidecars():
             all_sales.extend(tbls.get("secondhand_sales", []))
             all_nb.extend(tbls.get("indicative_newbuilding", []) + tbls.get("newbuilding_orders", []))
             all_demo.extend(tbls.get("indicative_demolition", []) + tbls.get("demolition_sales", []))
+            all_demo_sales.extend(tbls.get("demolition_sales", []))
+            all_demo_prices.extend(tbls.get("indicative_demolition", []))
+            all_nb_orders.extend(tbls.get("newbuilding_orders", []))
         except Exception as e:
             print(f"Error reading sidecar {sf.name}: {e}")
 
@@ -1259,6 +1311,9 @@ def build_all_series_from_sidecars():
     write_series_csv(NB_PRICES_CSV, NB_PRICES_COLUMNS,
                     [r for r in all_nb if r.get("record_type") == "indicative_price"])
     write_series_csv(DEMO_SERIES_CSV, DEMO_COLUMNS, all_demo)
+    write_series_csv(DEMO_SALES_CSV, DEMO_SALES_COLUMNS, all_demo_sales)
+    write_series_csv(DEMO_PRICES_CSV, DEMO_PRICES_COLUMNS, all_demo_prices)
+    write_series_csv(NB_ORDERS_CSV, NB_ORDERS_COLUMNS, all_nb_orders)
 
     print(f"\n[Stack Complete] Aggregated from {len(sidecar_files)} sidecars:")
     print(f"  intermodal_tanker_spot_series.csv:     {len(all_tanker_spot):,} rows")
