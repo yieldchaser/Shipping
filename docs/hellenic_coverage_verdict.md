@@ -72,3 +72,16 @@ same-document text reconciliation, stated as such):
 against `corpus.duckdb` AND the source's own md tier AND the feeds - never
 against a single `md/` glob.** Stem-matching alone also undercounts, because
 different pipelines named the same document differently.
+
+## 01-brokers: the 212 unmatched, resolved
+
+| bucket | n | status |
+|---|---|---|
+| `corpus/01-brokers/fearnleys-md/pdfs/` | 176 | **DUPLICATE FOLDER** - a fearnleys md run wrote its PDFs *into the corpus* (176 PDFs + an `images/` dir of 200+ extracted rasters). fearnleys is user-SKIPPED. These are dupes, not gaps. Flagged: this folder should not live under `corpus/`. |
+| ssy | 10 | Atlantic/Pacific Capesize reports - already fetched separately (`data/clarksons/2026*-Atlantic/Pacific-Capesize-Report.pdf`) |
+| affinity | 5 | **COVERED** - all 5 are `_nan_` duplicate downloads; the md exists under the non-`_nan_` name (07.08 / 14.08 / 21.08 / 28.08 / 04.09.2026). affinity md = 245 for 250 PDFs. |
+| xclusiv 5, clarksons 4, star_asia 4, agora 2, advanced_shipping 1, banchero 1, carriers 1, fearnleys 1, intermodal 1, ism 1 | 21 | all stem-convention mismatches or the W38-2026 file added after the run; each source's own tier is DONE |
+
+**No real gap found in 01-brokers either.** Every corpus folder now measured; the
+only genuinely new content discovered in this pass was the two 2026-09-19
+demolition reports.
