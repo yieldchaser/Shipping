@@ -18,6 +18,23 @@ CLOSED). Its row counts match the artefacts exactly (273,254 rows / 98 CSVs, ver
    tail (p90 20-43%, only 69-74% within 2%) - a subset of its series are mis-keyed.
    NOT yet investigated. That is the next verification target.
 Also open: 10 series CSVs carry exact duplicate rows (bancosta_commodities 106/2,319 worst).
+
+**2026-09-28 12:15 - verification ledger written: `docs/series_verification_ledger.md`.**
+Register row counts MATCH the artefacts (273,254 rows / 98 CSVs). Four real defects, all
+measured, none fixed yet - next run picks one:
+1. `intermodal_indicative_values_series.csv` - one-column shift on 295 rows (the vessel SIZE
+   `180k` was read as the price in $M). Proven against the printed page. Fix = realign the
+   `Vessel 5 yrs old` table where sector and size share a cell.
+2. `carriers_tanker_tce_series.csv` - 510/768 rows where `week_change` != current-prev; the
+   TCE family is in thousands while the change is in units (1000x-class mix).
+3. `intermodal_newbuilding_prices/series` - 893 rows with `price_previous = 0.0` (missing
+   written as zero).
+4. `intermodal_macro_series.csv` - 1,290 rows whose stated change is not reproducible from
+   latest/prior; change blank on 2,075.
+5. `ism` merged series - key omits the panel entity (`docs/ism_agreement_tail.md`); this one
+   is worth fixing because ism's route rates are NOT held data.
+DO NOT chase `intermodal_tanker_spot_series.csv` - its 3.8% score was my checker pairing the
+change with the WS column instead of TCE. The file is correct.
 There is NO vision tool in the cron session - substitute the same-document text
 reconciliation (section 5 of the intermodal verdict) and say so.
 
