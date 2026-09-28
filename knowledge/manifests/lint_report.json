@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T16:35:51Z",
+  "generated_at": "2026-09-28T19:03:49Z",
   "current_date": "2026-09-28",
-  "warning_count": 6,
+  "warning_count": 5,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,53 +12,10 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 6
+      "watch": 5
     }
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "china_steel_and_iron_ore",
-      "message": "China Steel and Iron Ore shows recent tone divergence: baltic reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "china_steel_and_iron_ore",
-        "title": "China Steel and Iron Ore",
-        "severity": "watch",
-        "score_diff": 0.75,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "cautiously_bearish",
-            "doc_count": 6,
-            "latest_date": "2026-09-24"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
-            "doc_count": 3,
-            "latest_date": "2026-09-15"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-25"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-25"
-          }
-        ],
-        "message": "China Steel and Iron Ore shows recent tone divergence: baltic reads constructive while hellenic reads neutral."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -89,7 +46,7 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-09-28"
           },
           {
             "source": "baltic",
@@ -132,7 +89,7 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-09-28"
           },
           {
             "source": "breakwave",
@@ -165,17 +122,17 @@
           },
           {
             "source": "breakwave",
-            "avg_tone_score": 0.25,
+            "avg_tone_score": 0.3,
             "dominant_tone": "neutral",
-            "doc_count": 6,
+            "doc_count": 5,
             "latest_date": "2026-09-15"
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.42,
+            "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-09-28"
           },
           {
             "source": "baltic",
@@ -208,17 +165,17 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.38,
-            "dominant_tone": "neutral",
+            "avg_tone_score": 0.5,
+            "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-23"
+            "latest_date": "2026-09-26"
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-09-28"
           },
           {
             "source": "breakwave",
@@ -261,7 +218,7 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-24"
+            "latest_date": "2026-09-28"
           },
           {
             "source": "breakwave",
