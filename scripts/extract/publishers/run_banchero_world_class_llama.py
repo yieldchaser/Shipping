@@ -685,6 +685,9 @@ parsed_engine: "LlamaParse tier=cost_effective version=latest"
 
 # --- commodity-table anchors (layout-independent; see the commodity branch below) ---
 _UNIT_RX = re.compile(r"^[A-Za-z]{2,4}\s*/\s*[A-Za-z0-9]{1,8}$")
+# Container-TC row labels: "ConTex" and "NNNN teu (1Y, geared)". Used as a CONTENT
+# anchor so a container table is claimed even when its heading carries no "VHSS".
+_VHSS_ROW_RX = re.compile(r"^(?:ConTex|\d{3,4}\s*teu)\b", re.I)
 _NUMSHAPE_RX = re.compile(r"^[+-]?[0-9][0-9,]*(\.[0-9]+)?$")
 _COMMODITY_HEADER_WORDS = {
     "category", "item", "unit", "route", "benchmark", "location",
@@ -1000,7 +1003,7 @@ def extract_structured_tables_from_md(
                         })
 
             # 7. VHSS ConTex
-            elif "VHSS" in ctx or "contex" in header_str:
+            elif "VHSS" in ctx or "contex" in header_str or any(_VHSS_ROW_RX.match(re.sub(r"[*_`]", "", (r[0] if r else "")).strip()) for r in rows):
                 for r in rows:
                     if len(r) >= 3:
                         result["vhss_contex"].append({
@@ -1014,7 +1017,7 @@ def extract_structured_tables_from_md(
                         })
 
             # 8. Freightos
-            elif "FREIGHTOS" in ctx:
+            elif "FREIGHTOS" in ctx or "freightos" in header_str:
                 for r in rows:
                     if len(r) >= 3:
                         result["freightos_index"].append({
@@ -1031,7 +1034,8 @@ def extract_structured_tables_from_md(
             # Row anchor: the same heading also carries a transposed CHART table
             # ("| JPY/USD EXCHANGE RATE | Feb-22 | Jun-22 | Oct-22 |" / "| 110 | 120 | 150 |"),
             # which was published as currency_pair="110". Only accept a real XXX/YYY row.
-            elif "EXCHANGE RATES" in ctx or "currencies" in header_str:
+            elif ("EXCHANGE RATES" in ctx or "CURRENC" in ctx or "currencies" in header_str) and any(
+                    re.fullmatch(r"[A-Z]{3}/[A-Z]{3}", (r[0] or "").strip()) for r in rows if r):
                 for r in rows:
                     if len(r) >= 3 and re.fullmatch(r"[A-Z]{3}/[A-Z]{3}", (r[0] or "").strip()):
                         result["currencies"].append({
@@ -1057,7 +1061,9 @@ def extract_structured_tables_from_md(
             # NB: the gate is "unit"+"w-o-w", NOT the word "category" - the md renders the
             # commodity CHARTS as "| Category | Date | Value |" tables, so matching on
             # "category" parsed chart points as prices (item "Jul-20", unit 380).
-            elif "COMMODITY PRICES" in ctx and "unit" in header_str and ("w-o-w" in header_str or "y-o-y" in header_str):
+            elif "COMMODITY PRICES" in ctx and ("w-o-w" in header_str or "y-o-y" in header_str) and (
+                    "unit" in header_str
+                    or any(_UNIT_RX.match(re.sub(r"[*_`]", "", c).strip()) for r in rows for c in r)):
                 _h0 = headers[0].strip() if headers else ""
                 _has_cat_col = _h0.lower() == "category"
                 if _h0 and not _has_cat_col and _h0.lower() not in _COMMODITY_HEADER_WORDS                         and not _NUMSHAPE_RX.match(_h0):
@@ -1111,8 +1117,36 @@ def extract_structured_tables_from_md(
                     _dedup.append(_r)
                 result["commodity_prices"] = _dedup
 
+            # 10c. Commodity CHART point tables. Under the COMMODITY PRICES heading the md renders
+            # each embedded chart as a small table ("| Commodity / Fuel | 14-Jun | 7-Jun | W-o-W |
+            # Y-o-Y |" with "| Brent | 75 | 85 | 80 | 70 |"). Its header has no Unit column and
+            # its rows carry no unit cell, so branch 10's gate missed it and branch 11 published
+            # the chart points as DRY_BULK freight benchmarks. They are chart series, not rates
+            # (chart Brent 70 vs the printed table's 93.0 on 2022_W35), so they go to chart_series.
+            # Banner rows (all cells empty but the first, e.g. "| BUNKER PRICES @ SINGAPORE (USD/T) |")
+            # are dropped rather than published.
+            elif "COMMODITY PRICES" in ctx and ("w-o-w" in header_str or "y-o-y" in header_str):
+                _cname = ctx.replace(" / ", "_").strip("_") or "COMMODITY_PRICES"
+                for r in rows:
+                    cells = [re.sub(r"[*_`]", "", c).strip() for c in r]
+                    if len(cells) < 2 or not cells[0] or not any(cells[1:]):
+                        continue
+                    if all(re.fullmatch(r":?-{2,}:?", c) for c in cells if c):
+                        continue
+                    result["chart_series"].append({
+                        "issue_date": issue_date,
+                        "report_week": report_week,
+                        "chart_name": _cname,
+                        "date": cells[0],
+                        "values": cells[1:],
+                        "source_file": source_file,
+                    })
+
             # 11. Freight Benchmarks (Capesize, Panamax, Supramax, Handysize, Crude Tankers, Product Tankers)
             elif any(k in header_str for k in ["w-o-w", "y-o-y"]) and any(k in header_str for k in ["unit", "20-", "27-", "13-", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]):
+                if os.environ.get("BC_DUMP_B11"):
+                    with open(os.environ["BC_DUMP_B11"], "a", encoding="utf-8") as _f:
+                        _f.write(json.dumps({"doc": source_file, "ctx": ctx, "hdr": header_str, "headers": headers, "nrows": len(rows), "rows": rows[:40]}) + chr(10))
                 sector = "DRY_BULK"
                 if "CAPESIZE" in ctx:
                     sector = "CAPESIZE"
