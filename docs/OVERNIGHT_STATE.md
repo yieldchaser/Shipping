@@ -19,9 +19,19 @@ from the FX tier 7 -> 0. CONTROL: 19 of 245 sidecars changed and the diff is con
 differ. Left VERBATIM (not repaired): 2025_W30's 32 garbled tenor labels (ul-25/lug-25/iep-25/...),
 which are in LlamaParse's own raw read, so they come from the page - mapping them would be a guess.
 Evidence **`docs/bancosta_ffa_verdict.md`**.
-STILL OPEN in bancosta: the freight_rates residue (numeric unit / DRY_BULK rows, branch 11) and the
-LlamaParse credit block (HTTP 402 - only the user can rotate the key). HELLENIC is owned by a separate
-live session - do not collide.
+STILL OPEN in bancosta: the LlamaParse credit block (HTTP 402 - only the user can rotate the key).
+NEXT TARGET, measured this run (do NOT delete these rows - they are NOT duplicates): the
+`bancosta_freight_rates_series.csv` DRY_BULK residue is **80 rows / 10 docs**, all misrouted by branch 11
+(the same ctx-only gating root cause), in FIVE classes: FX rows (currency pair) 8 rows/2 docs
+(2021_W46/W47 - and they are shifted one column: `unit` holds the rate); chart rows whose `unit` is a
+NUMBER 25/5 docs; **commodity table rows with a real unit 13/2 docs (2023_W39, 2024_W24 - REAL commodity
+data that is MISSING from the commodity tier: those tables' header is `| Benchmark | <d> | <d> | W-o-W |
+Y-o-Y |` with no `Unit` column, so the commodity branch's `"unit" in header_str` gate fails and branch 11
+grabs them)**; container TC / index rows 24/2 docs (2022_W43, 2026_W38 - REAL container TC data missing
+from the container tier); table/heading rows with no unit 10/3 docs. Measured with
+`scratch/bancosta_fb_classes.py`. The chart-class rows carry DIFFERENT numbers from the printed
+commodity table (chart Brent 70 vs printed 93.00), so they are chart points, not duplicates.
+HELLENIC is owned by a separate live session - do not collide.
 
 **THIS RUN (2026-09-28 22:1x): ledger 4.3 CLOSED - intermodal_macro_series.csv had a REAL defect.**
 It was recorded as "stated change not reproducible on 1,290 of 3,739 rows, blank on 2,075".
