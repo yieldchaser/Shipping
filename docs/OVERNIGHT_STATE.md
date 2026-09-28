@@ -4,6 +4,24 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
+Last updated: 2026-09-28 12:50 IST (banchero BLOCKED - LlamaParse credits exhausted, see
+ACTIVE JOB below; ism merged-series defect FIXED - see `docs/ism_series_fix_verdict.md`)
+
+**2026-09-28 12:50 note for the next run - READ BEFORE TOUCHING banchero:**
+The banchero LlamaParse escalation is **243/244 done and BLOCKED**, not running and not
+dead-by-crash. The last document (`banchero_costa_2026_W38_Bancosta-Weekly-2026-38`, 2
+ciphered pages, ~6 credits) returns **HTTP 402: "You've exceeded the maximum number of
+credits for your plan"** - the free-tier account in the Hermes .env is spent. Only the
+user can supply a fresh key (`python3 scripts/tools/set_llama_key.py --key llx-...`).
+Do NOT keep restarting it. The ground-truth gate still passes 13/13 on 2026_W03, so the
+tier is fine - this is purely a billing wall.
+The routing map was rebuilt this run and now covers **244** docs (was 243 - W38 was
+missing from it, which is why the runner would have skipped it).
+Also: `scripts/tools/watch_banchero_run.sh` restarts with a bare `python3`, which in the
+cron environment resolves to the Hermes venv whose `pydantic_core` is a cp311 `.pyd` -
+it crashes on import every 30 min. Use the explicit Python 3.14 interpreter instead.
+Earlier line follows:
+
 Last updated: 2026-09-28 11:40 IST (intermodal Baltic chart series VERDICT: superseded - see
 `docs/intermodal_baltic_series_verdict.md`; all broker sources built per `docs/EXTRACTION_REGISTER.md`)
 
@@ -50,7 +68,10 @@ commands. This file (OVERNIGHT_STATE) covers only what is in flight right now.
 
 ## ACTIVE JOB RIGHT NOW - do NOT duplicate
 
-**LlamaParse escalation run for banchero_costa is RUNNING.**
+**LlamaParse escalation run for banchero_costa is STOPPED - BLOCKED ON CREDITS.**
+
+State: 243/244 docs done, 0 failed. The only remaining doc needs ~6 credits and the
+account is out of them (HTTP 402). Nothing to do until the user rotates the key.
 
 - Process: `run_banchero_llamaparse.py --tier cost_effective` (resumable, 243 docs)
 - State:   `data/extracted/llamaparse_banchero/_run_state.json`
@@ -115,7 +136,7 @@ Method for every source, in order:
 | xclusiv | 266/266 | `data/extracted/md/xclusiv/` | 3 passes; prose-anchored rates, 69% labelled, 0 duplicates/stray. `docs/xclusiv_verdict.md`. |
 | affinity | 250/250 | `data/extracted/md/affinity/` | 4 cards (BDTI/BCTI, BDA, TCE DIRTY, TCE CLEAN), 0 charts, ISO numbers. Independent verify: 250/250 docs, 0 unaccounted panel values, panel rect constant in 250/250. `docs/affinity_verdict.md`. |
 | agora | 213/213 | `data/extracted/md/agora/` | 10,002 rows, 42,013 value words, 3 unaccounted in the whole corpus, 53s, 0 failures. Independent verify: 0 failures, 426/426 semantic crude/Brent gates, 212/212 BDI. US/EU convention switch mid-2022 - derived PER DOCUMENT. `docs/agora_verdict.md`. |
-| ism | 112/112 | `data/extracted/md/ism/` | **charts only, NO tables** (measured). 444 charts, 1,678 series, 84,035 weekly points, 0 failures, ~35 s. 96.8% labelled, 0 mislabelled, 0 unverified axes, 443/444 linear x. `docs/ism_verdict.md` (12 defects found+fixed), `docs/ism_survey.md`. |
+| ism | 112/112 | `data/extracted/md/ism/` | **charts only, NO tables** (measured). SERIES RE-KEYED 2026-09-28: entity key + multi-year axis fix, 32,114 -> 29,948 rows, rows >10% spread 2,269 -> 1,178. `docs/ism_series_fix_verdict.md`. 444 charts, 1,678 series, 84,035 weekly points, 0 failures, ~35 s. 96.8% labelled, 0 mislabelled, 0 unverified axes, 443/444 linear x. `docs/ism_verdict.md` (12 defects found+fixed), `docs/ism_survey.md`. |
 | lion | 43/44 (1 skipped) | `data/extracted/md/lion/` + `data/extracted/lion_deals.parquet` + `lion_demometer.parquet` | 1,145 deal rows, 516 demometer rows, runner `scripts/extract/publishers/run_lion.py`. The 44th file is a star-asia reprint (RESTATEMENT, skipped). Verification found and fixed **3 en-bloc pricing defects in 38 of 1,145 rows**; demometer recall 736/736 printed numbers, 0 mismatches. `docs/lion_verdict.md`. |
 | fearnleys | SKIPPED | `data/extracted/md/fearnleys/` (record only) | **User decision 03:05: the publisher is already ingested structurally** (Hasura: 11,732 comments, 62MB fixtures, route dailies, T/C, S and P) - the PDFs are a worse copy. An extraction was already in flight and completed anyway: 257/257, 16,326 rows, 267s, 0 failures. Kept as `docs/fearnleys_extraction_record.md` (7 transferable defects). Do NOT re-extract and do NOT treat it as new data. |
 

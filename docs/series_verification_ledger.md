@@ -127,3 +127,32 @@ carriers_dry_weighted_routes (605, 98.7%), carriers_indices (638, 98.3%).
 `intermodal_tanker_spot_series.csv` scored 3.8% because my checker paired `change_pct` with
 `ws_points_current`; the report's change belongs to the TCE column (`VLCC 265k MEG-SPORE`:
 WS 32/33, TCE -5195/-775, change -570.3% = the TCE pair). The file is correct.
+
+---
+
+# UPDATE 2026-09-28 ~12:4x - defect 4.2 (ism) is FIXED; re-measured
+
+The ism merged series were re-keyed and rebuilt (no re-extraction). Full detail in
+`docs/ism_series_fix_verdict.md`. Summary against this ledger's own gate:
+
+| file | rows | p90 spread | within 2% | rows >10% |
+|---|---|---|---|---|
+| ism_coaster_freight_series.csv | 13,281 -> **12,319** | 43.34% -> **6.06%** | 74.3% -> **83.4%** | 1,233 -> **481** |
+| ism_handy_freight_series.csv | 18,833 -> **17,629** | 20.59% -> **11.83%** | 69.1% -> **73.9%** | 1,036 -> **697** |
+
+Two root causes, both in the merger, both measured:
+1. the key omitted the panel ENTITY (as diagnosed in `docs/ism_agreement_tail.md`) - fixed by
+   deriving the entity from the chart's own sibling labels;
+2. **new finding** - multi-year COMPARATIVE charts plot several years on one repeating
+   52-week x axis (154 points = 52+52+50 = 2021,2022,2023, confirmed by the chart's own tick
+   labels), and the merger assigned the year from the week number alone, fusing three years
+   onto one date. This was the larger of the two.
+Also fixed: the 2,356 `% of freight costs in CFR price` rows carried unit `$/t`; now `%`.
+
+**This ledger's section 1 counts are now stale.** Re-measured across `data/extracted/series/`:
+**100 CSVs, 277,005 data rows** (was recorded as 98 CSVs / 273,254 rows). The ism change alone
+removes 2,166 rows; the other files have grown since that count was taken.
+
+Still open here: the residual ism tail (1,178 rows) is a DIFFERENT class - outlier reports
+drawn on a different axis (e.g. `2023_W38` uses ticks `71,64,...,15` where every other report
+uses `75,65,...,15`), plus some TCT route series. Not fixed, not dropped.
