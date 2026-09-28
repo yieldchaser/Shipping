@@ -7,9 +7,13 @@ live state it tells you to check, then continue. Do not restart finished work.
 **NEXT SOURCE - corrected 2026-09-28 15:2x:** `corpus/09-ppa` is **COMPLETE** - all three
 families built and verified (`docs/ppa_verdict.md`, `docs/ppa_survey.md`; runners
 `scripts/extract/publishers/run_ppa.py` and `run_ppa_vessels.py`). Do NOT redo them.
-NEXT TARGET = **`corpus/02-hellenic` ~2,798 without md** - run the three-baseline test per
-sub-publication FIRST (the register already claims 992 hellenic series, so much of it may
-already be ours; `scripts/extract_demolition_pdfs.py` already consumes part of it).
+NEXT TARGET = **`corpus/02-hellenic` ~2,798 without md** - run the FOUR-baseline test per
+sub-publication FIRST (feeds, our own extraction, the app, AND `corpus.duckdb`). The register
+already claims 992 hellenic series and `scripts/extract_demolition_pdfs.py` consumes part of
+it. `docs/corpus_coverage_gaps.md` has been corrected at its head: its 09-ppa row was wrong
+because it only globbed `data/extracted/md/*` and never queried the DB. **Always query
+`data/extracted/corpus/db/corpus.duckdb` before calling any corpus a gap** - measured there:
+228,280 ppa cells / 297 docs, including 133/133 of the Hedland iron-ore monthly totals.
 Earlier lead (still true) - do NOT start `corpus/04-poten`. It was the
 suggested "biggest first" target but the three-baseline test shows it is ALREADY fully
 extracted (1,087/1,087 md + tables.json, 1,087-row opinions metadata, already in the app,

@@ -145,3 +145,35 @@ Both readings are kept.
 `corpus/09-ppa/ppa_pdf/a2c617ad59c5.pdf` (2016-02, 9 pages) - its header prints no `Vessel`
 column, so the vessel names have no label. Left unlabelled rather than guessed, per the
 project rule that a wrong value is worse than a missing one. 1 of 152 documents.
+
+---
+
+# CORRECTION - the fourth baseline (added 2026-09-28 15:3x, same run)
+
+This run's brief called `corpus/09-ppa` "493 PDFs with ZERO output - largest fully-unbuilt
+PDF corpus". **That is false, and it was false the way the skill warns about**: the claim
+came from a `glob` of `data/extracted/md/*` only, which cannot see the DuckDB corpus.
+
+Measured against the fourth baseline, `data/extracted/corpus/db/corpus.duckdb`:
+
+| measure | value |
+|---|---|
+| ppa cells in the DB | **228,280** |
+| distinct ppa documents in the DB | **297** (264 family A/other, 20 Dampier, 13 GRT/DWT) |
+| family A Iron Ore monthly LOAD totals that already exist as a DB cell | **133 / 133** |
+
+So the TABLE CONTENT of this corpus was largely already extracted by the generic pipeline
+before this run. What this run adds is not new cells; it is:
+
+1. a **series-shaped, deduplicated, date-keyed** artefact (4,591 + 4,344 + 38,097 rows)
+   where the DB holds a raw `(page, table_idx, row_idx, col_idx, value)` dump;
+2. **arithmetic reconciliation of every parsed table against its own printed totals**
+   (7,083 checks, 100% pass) - the DB carries a `text_verified` ratio, not a totals check;
+3. the **cross-family control** (family C per-vessel sum vs family A country total, exact
+   on 128/132 months), which no single-table extraction can produce;
+4. explicit routing of 3 junk files and documentation of 5 restatement months.
+
+The correct classification of `corpus/09-ppa` is therefore **ALREADY_IN_DB (cell level),
+REPRESENTED_AS_SERIES (this run)** - not CONSTRUCT. `docs/corpus_coverage_gaps.md` has been
+corrected at its head. The lesson is the one already in the skill: an audit that reads a
+derived artefact measures the artefact, not the collection.

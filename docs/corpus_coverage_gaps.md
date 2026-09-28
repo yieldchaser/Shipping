@@ -21,6 +21,15 @@ path references after the corpus migration.
 **Verdict: SKIP.** Building a poten extractor would have duplicated 1,087
 documents of existing work.
 
+> **CORRECTION 2026-09-28 15:3x - the 09-ppa row below is WRONG.** The table in this file
+> was built from a `glob` of `data/extracted/md/*` and never queried the DuckDB corpus. The
+> fourth baseline (`data/extracted/corpus/db/corpus.duckdb`) holds **228,280 ppa cells across
+> 297 documents**, and **133/133** of the Port Hedland Iron Ore monthly LOAD totals were
+> already present as DB cells before the 2026-09-28 extraction. `09-ppa` is
+> ALREADY_IN_DB at the cell level, not a zero-output gap. See `docs/ppa_verdict.md`
+> ("CORRECTION - the fourth baseline") and `docs/PPA_ALREADY_EXTRACTED_FINDING.md`.
+> Any future coverage table MUST query the DB as well as the filesystem.
+
 ## Measured coverage of every corpus folder
 
 | corpus | PDFs | extraction output | gap |
