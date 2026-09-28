@@ -267,7 +267,7 @@ value. Recommend not spending extraction time here.
 
 ---
 
-# CLOSED 2026-09-28 21:35 IST - 4.5 star_asia_deals date columns FIXED (supervisor 345bc8db9233)
+# CLOSED 2026-09-28 21:31 IST - 4.5 star_asia_deals date columns FIXED (supervisor 345bc8db9233)
 
 `docs/star_asia_deals_dates_verdict.md` has the full evidence. Headline: the defect was REAL
 but the extractor was FAITHFUL (77/77 non-canonical values appear verbatim in the source PDF
@@ -325,3 +325,55 @@ short of the union. The two are now consistent.
 ISO date lifted from body prose - invisible to every count-based check. When a fake-date defect is
 found in a source, re-derive EVERY date in it from the publisher's own cover; do not just blank
 the fakes.**
+
+---
+
+# CLOSED 2026-09-28 21:31 IST - 4.4 fake dates: the COUNT does not reproduce, the real 12 are fixed
+
+`docs/xclusiv_charts_dates_verdict.md`. Measured across **119 series CSVs / 334,358
+date-shaped cells**, only **12** calendar-invalid date cells ever existed, all `2026-00-00` in
+`xclusiv_bulk_carrier_charts` (8) and `xclusiv_demolition_charts` (4). The **218 rows this entry
+attributed to intermodal_macro (92) / intermodal_maritime_stocks (72) / intermodal_bunkers (54)
+are not in those files** - all three are 100% well-formed ISO on 3,739 / 3,119 / 2,260 rows,
+and the read-only corpus DB has no `2026-00-00` in any date column. State the population before
+believing a count. Fixed 12 fake + 4 WRONG dates (a plausible `2025-12-10` on
+`xclusiv-2026_04_20.pdf`) and a second defect the entry missed: `report_week` was `0` on all
+498 chart rows. Verifier `scratch/sup/verify_xclusiv_charts.py` = PASS; 0 invalid dates remain
+corpus-wide. Still open: 4.3 `intermodal_macro_series.csv` (change not reproducible on 1,290 of
+3,739 rows, blank on 2,075 - VERIFY against the page before fixing).
+
+---
+
+# CLOSED 2026-09-28 22:1x IST - 4.3 intermodal_macro_series.csv FIXED (real defect)
+
+The ledger called it "1,290 of 3,739 rows whose stated change is not reproducible from
+latest/prior, blank on 2,075". Re-measured: 1,379 non-reproducible, 2,075 blank. The real
+defect was **every POSITIVE change being silently dropped**: 2,075 blanks, and of the 1,664
+survivors **0 were positive**, while the publisher prints a change on essentially every row.
+
+Root cause: the macro regex's greedy middle group `(?:[\s\n]+[0-9.,]+)*` swallowed a bare
+positive number (`1.7%`), leaving `%` with no preceding whitespace so the trailing
+`([-+]?[0-9.]+%)` group never matched. A negative change survives only because `[0-9.,]+`
+cannot start with `-`. A second fault: a value cell can be TEXT (`mrkt closed` 23x,
+`market closed` 3x, `mrkt close` 1x), which stopped the number-only scan mid-row.
+
+Fix = content-anchored row parse (anchor on the label + the next cell being a value; read
+forward to the `%` cell, skipping text value cells). NONNUM derived from the corpus, not guessed.
+
+| measured | before | after |
+|---|---|---|
+| rows | 3,739 | 3,739 |
+| blank wow_change_pct | 2,075 | **0** |
+| positive changes | 0 | **2,061** |
+| latest_value changed | - | 0 |
+| prior_value changed | - | 6 (all `''` -> a value printed on the page) |
+| change strings verbatim in source page text | 1,664/3,739 | **3,739/3,739** |
+
+Control: 125 of 126 series CSVs byte-identical; only macro differs. Key diffs vs a pre-run
+snapshot are the earlier 4.4 date fix, not this change.
+Cross-document control: the printed W-O-W reconciles with the previous report's own Friday
+close on **3,160/3,447 = 91.7%** (95-100% for 12 of 16 indicators). **Nikkei 52% and Xetra Dax
+57% fit NO reference hypothesis** - their values and changes are verbatim on the page, so that
+is a publisher-side inconsistency, left as printed.
+Evidence: **`docs/intermodal_macro_verdict.md`**. Nothing open in this ledger's defect list
+except the residual ism agreement tail.

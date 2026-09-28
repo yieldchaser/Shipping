@@ -1,10 +1,34 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-28 22:1x): ledger 4.3 CLOSED - intermodal_macro_series.csv had a REAL defect.**
+It was recorded as "stated change not reproducible on 1,290 of 3,739 rows, blank on 2,075".
+The blank column was real and 5x the story: **EVERY positive change was silently dropped** -
+2,075 blanks, and of the 1,664 survivors **0 were positive**, while the publisher prints a
+change on essentially every row. Root cause = the macro regex's greedy middle group
+`(?:[\s
+]+[0-9.,]+)*` swallowed a bare positive number (`1.7%`), leaving `%` with no
+preceding whitespace so the trailing `([-+]?[0-9.]+%)` group never matched; a negative change
+survives only because `[0-9.,]+` cannot start with `-`. Second fault: a value cell can be TEXT
+(`mrkt closed` 23x, `market closed` 3x, `mrkt close` 1x) which stopped the number-only scan
+mid-row. Fix = content-anchored row parse in `run_intermodal_finance.py`; NONNUM derived from
+the corpus, not guessed. **Measured: blanks 2,075 -> 0; positive changes 0 -> 2,061; rows
+3,739 unchanged; latest_value 0 changed; prior_value 6 changed (all '' -> a value the page
+prints); change strings verbatim in the source page text 1,664/3,739 -> 3,739/3,739.**
+Control: 125 of 126 series CSVs byte-identical (md5) - only macro differs, and stocks/bunkers
+are byte-identical, proving the other branches were untouched. The (issue_date, indicator) key
+diffs vs a pre-run snapshot are the earlier 4.4 date fix, not this change.
+Cross-document control: the printed W-O-W reconciles with the previous report's own Friday
+close on **3,160/3,447 = 91.7%** (95-100% for 12 of 16 indicators). **Nikkei 52% and Xetra Dax
+57% fit NO reference hypothesis** - values and changes are verbatim on the page, so it is a
+publisher-side inconsistency, left as printed. Evidence: `docs/intermodal_macro_verdict.md`.
+**NEXT: the only defect left in `docs/series_verification_ledger.md` is the residual ism
+agreement tail** (1,178 rows, outlier reports drawn on a different axis). banchero is still
+BLOCKED on LlamaParse credits (243/244, HTTP 402) - only the user can rotate the key.
 **Purpose:** if the machine sleeps, a session dies, or a new context starts with no
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-**THIS RUN (2026-09-28 21:xx, supervisor 345bc8db9233): ledger 4.5 CLOSED - star_asia_deals
+**THIS RUN (2026-09-28 21:31, supervisor 345bc8db9233): ledger 4.5 CLOSED - star_asia_deals
 date columns normalised.** `arrival_date` / `beaching_date` held the publisher's European
 `DD.MM.YYYY` plus STATUS words (`AWAITING`, `ARRESTED`), so no ISO date join could see them.
 Measured, not assumed: 77/77 of the non-canonical values are VERBATIM in the source PDF text
@@ -16,9 +40,23 @@ page prints `05.02.206`**. Nothing was guessed. 4,417 date cells are now ISO; 96
 `run_star_asia_tables.py`, so future full runs are correct too. Verifier
 `scripts/extract/verify_star_asia_deals_dates.py` = PASS (3,327 rows unchanged, 39,924 context
 cells byte-identical, 0 raw-vs-old mismatches). Evidence: `docs/star_asia_deals_dates_verdict.md`.
-**Still open and next: 4.4 fake dates `2026-00-00` (230 rows) - or 4.3 `intermodal_macro_series.csv`
-(1,290 of 3,739 rows with a non-reproducible stated change, blank on 2,075; not yet verified
-against the page - verify BEFORE fixing).**
+**ALSO THIS RUN: ledger 4.4 CLOSED - and its headline number does NOT reproduce.**
+Measured across 119 series CSVs / 334,358 date-shaped cells, only **12** calendar-invalid date
+cells ever existed (`2026-00-00` x12 in the two Xclusiv CHART files); the 218 rows the entry
+blamed on intermodal_macro / maritime_stocks / bunkers are not in those files at all (100%
+well-formed ISO; the read-only corpus DB has none either). Fixed 12 fake + **4 wrong** dates (a
+plausible `2025-12-10` on `xclusiv-2026_04_20.pdf`), plus `report_week`, which was `0` on all
+498 chart rows and is now derived from the issue date (agrees with the tables-tier control on
+257/261 = 98.5% of shared documents). Root cause worth remembering: `run_xclusiv_vector_charts.py`
+was ALREADY patched at 20:47 but **the patch had never been run** - a fixed parser with stale
+output looks exactly like an unfixed defect. Evidence `docs/xclusiv_charts_dates_verdict.md`,
+verifier `scratch/sup/verify_xclusiv_charts.py` = PASS. Note: 0 invalid date cells remain
+corpus-wide, so any future "fake date" claim needs a stated population.
+
+**Still open and next: 4.3 `intermodal_macro_series.csv` - 1,290 of 3,739 rows whose stated
+change is not reproducible from `latest_value`/`prior_value`, blank on 2,075. NOT yet verified
+against the page: verify BEFORE fixing (the last three "defects" looked real and were
+faithful).**
 
 **CURRENT STATE - 2026-09-28 17:1x. Both old leads are now CLOSED - do NOT reopen them.**
 

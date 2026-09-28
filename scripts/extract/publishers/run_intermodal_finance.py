@@ -215,7 +215,16 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
                 "source_file": source_file,
             })
 
-    # 3. Macro Indicators
+    # 3. Macro Indicators - content-anchored row parse.
+    # The previous regex required a SIGN on the change and let its greedy middle
+    # group swallow a bare positive number, so EVERY positive change was dropped:
+    # 2,075 of 3,739 rows carried a blank wow_change_pct and 0 of the 1,664
+    # survivors were positive, while the publisher prints a change on essentially
+    # every row ("S&P 500 ... 1.7%"). A value cell can also be TEXT
+    # ("market closed" on US holidays), which broke the old number-only scan.
+    # Anchored on the label plus the cell after it being a value - never on row
+    # order or geometry. Measured on the PDF text layer; see
+    # docs/intermodal_macro_verdict.md.
     INDICATORS = [
         ("10year US Bond", "Bonds"),
         ("S&P 500", "Stock Indices"),
@@ -234,32 +243,60 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
         ("Brent", "Commodities"),
         ("WTI", "Commodities"),
     ]
+    IND_CAT = dict(INDICATORS)
+    NUM_RX = re.compile(r"^[-+]?[\d,]+(?:\.\d+)?$")
+    PCT_RX = re.compile(r"^[-+]?\d+(?:\.\d+)?%$")
+    # A value column the publisher left blank with words rather than a number.
+    # The publisher spells a holiday value cell "mrkt closed" (23x), "market closed"
+    # (3x) and once "mrkt close". Measured across 252 documents.
+    NONNUM = {"mrkt closed", "mrkt close", "market closed", "n/a", "na", "closed", "-", "--"}
+    # A value can also carry a doubled period ("2..756"); normalise it.
+    DOTS_RX = re.compile(r"[.]{2,}")
 
     def parse_float_safe(s: Optional[str]) -> Optional[float]:
-        if not s: return None
-        s_clean = re.sub(r"\.{2,}", ".", s.replace(",", "")).strip()
-        m_num = re.search(r"[-+]?\d+(?:\.\d+)?", s_clean)
+        if not s:
+            return None
+        m_num = re.search(r"[-+]?\d+(?:\.\d+)?", s.replace(",", ""))
         return float(m_num.group(0)) if m_num else None
 
-    for ind, cat in INDICATORS:
-        pattern = re.escape(ind) + r"[\s\n]+([0-9.,]+)[\s\n]+([0-9.,]+)?(?:[\s\n]+[0-9.,]+)*(?:[\s\n]+([-+]?[0-9.]+%))?"
-        m = re.search(pattern, full_text)
-        if m:
-            val1 = parse_float_safe(m.group(1))
-            val2 = parse_float_safe(m.group(2))
-            pct = m.group(3)
-            if val1 is not None:
-                macro.append({
-                    "issue_date": issue_date,
-                    "report_week": report_week,
-                    "category": cat,
-                    "indicator": ind,
-                    "latest_value": val1,
-                    "prior_value": val2,
-                    "wow_change_pct": pct,
-                    "source_file": source_file,
-                })
-
+    lines = [l.strip() for l in full_text.splitlines() if l.strip()]
+    for i, lab in enumerate(lines):
+        cat = IND_CAT.get(lab)
+        if cat is None:
+            continue
+        nxt = lines[i + 1] if i + 1 < len(lines) else ""
+        # Anchor: the cell right after the label must be a value or a known
+        # non-numeric marker. This rejects a prose mention of the index name.
+        if not (NUM_RX.match(nxt) or nxt.lower() in NONNUM):
+            continue
+        vals: List[str] = []
+        pct = None
+        j = i + 1
+        while j < len(lines) and j <= i + 14:
+            cell = DOTS_RX.sub(".", lines[j])
+            if PCT_RX.match(cell):
+                pct = cell
+                break
+            if NUM_RX.match(cell):
+                vals.append(cell)
+            elif cell.lower() in NONNUM:
+                pass  # a text value cell ("market closed") keeps the row going
+            else:
+                break  # next label / prose -> end of this row
+            j += 1
+        val1 = parse_float_safe(vals[0]) if len(vals) >= 1 else None
+        val2 = parse_float_safe(vals[1]) if len(vals) >= 2 else None
+        if val1 is not None:
+            macro.append({
+                "issue_date": issue_date,
+                "report_week": report_week,
+                "category": cat,
+                "indicator": lab,
+                "latest_value": val1,
+                "prior_value": val2,
+                "wow_change_pct": pct,
+                "source_file": source_file,
+            })
     return stocks, bunkers, macro
 
 
