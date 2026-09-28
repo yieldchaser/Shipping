@@ -185,3 +185,39 @@ the source markdown has no size cell for them - values right, label short, not g
 
 Also settled: this file's 4 `#DIV/0!` rows show the publisher's spreadsheet error is
 rendered INTO the PDF, so no value exists on the page for those cells - NULL is correct.
+
+
+---
+
+# UPDATE 2026-09-28 ~18:4x - defect 7.3 (intermodal newbuilding prices) FIXED; the
+# ledger's own diagnosis of it was WRONG and 5x too small
+
+7.3 was recorded here as "893 rows (28.0%) have `price_previous_usd_m = 0.0`". Measured
+against the cached LlamaParse markdown, the real defect is a **one-column left shift on
+every row of the file**: `vessel_type` held the vessel SIZE (the name was dropped),
+`size` held the current price, `price_current` held the previous, `price_previous` held the
+printed ±%, and `pct_change` held the 2020 average. The `0.0` that was noticed was just the
+±% of an unchanged price - which is why a count-based check saw a "missing previous" rather
+than a shift. 1,603 of the 3,194 rows were still internally consistent (when prev == cur the
+shift adds up), so every gate passed.
+
+| measure | before | after |
+|---|---|---|
+| `intermodal_newbuilding_prices_series.csv` rows | 3,194 | **3,134** |
+| `vessel_type` holding a size/price instead of a name | 1,408 | **0** |
+| blank `previous` | 60 | **0** |
+| (cur, prev, pct) self-consistent | 1,603 | **3,112** |
+| `intermodal_newbuilding_series.csv` rows | 5,027 | **4,967** |
+
+Verification: the `(current, previous)` pair was found as a consecutive numeric run in the
+source PDF's OWN text layer in **3,132 / 3,134 rows = 99.94%** (252 docs). The 2 misses are
+one comma-decimal issue (value correct) and one genuine single-cell loss
+(`intermodal_2024_W31` VLCC `previous` 129.5, should be 129.0 - reported, not patched).
+Control: all 10 other intermodal series CSVs byte-identical. Full evidence:
+**`docs/intermodal_newbuilding_verdict.md`**. Also fixed in the same pass: a malformed
+`<td` repair that had been losing 2021_W38's whole table, and 40 mislabelled sector rows.
+
+**Lesson for this ledger: a "missing value written as a zero" is a symptom to re-measure,
+not a diagnosis.** The same shape of error (a plausible one-column shift) has now appeared
+twice in this source - see 7.1 and this one. Before fixing a "missing/zero" defect, print
+the source row next to the published row.

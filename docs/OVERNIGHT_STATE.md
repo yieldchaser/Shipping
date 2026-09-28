@@ -16,7 +16,26 @@ live state it tells you to check, then continue. Do not restart finished work.
   `docs/hellenic_coverage_verdict.md` (176 = the fearnleys-md duplicate folder, the rest
   stem-convention/_nan_ dupes). No gap. **Do not re-audit.**
 
-**THIS RUN (2026-09-28 17:1x): intermodal indicative-values defect FIXED and verified.**
+**THIS RUN (2026-09-28 18:4x): intermodal NEWBUILDING-PRICES defect FIXED and verified.**
+The ledger recorded it as "893 rows with price_previous = 0.0"; that diagnosis was wrong
+and 5x too small. Every row of `intermodal_newbuilding_prices_series.csv` was shifted one
+column LEFT - vessel_type held the vessel SIZE, size held the current price, current held
+the previous, previous held the printed +/-%, pct held the 2020 average. Rebuilt from the
+**cached** LlamaParse markdown (no API spend; 252/252, 0 failures, 72 s).
+3,194 -> **3,134** rows; vessel_type-as-a-size 1,408 -> **0**; blank previous 60 -> **0**;
+(cur,prev,pct) self-consistent 1,603 -> **3,112**. Verification: the (current, previous)
+pair is a consecutive numeric run in the source PDF's OWN text layer in **3,132/3,134 =
+99.94%** (252 docs). Control: all 10 other intermodal series CSVs byte-identical. Also
+fixed: a malformed `<td` repair that was losing 2021_W38's whole table, and 40 mislabelled
+sector rows. Full evidence: **`docs/intermodal_newbuilding_verdict.md`**.
+
+Run it with Python312 - `llama_parse` is NOT importable from Python314:
+`/c/Users/Dell/AppData/Local/Programs/Python/Python312/python.exe scripts/extract/publishers/run_intermodal_full.py --year all --reparse-only`
+
+NOTE FOR THE NEXT RUN: xclusiv is 266/266 DONE (`docs/xclusiv_verdict.md`, 2026-09-26) and
+ALL broker sources are CLOSED in the register. The prompt's "next source" list (fearnleys,
+affinity, agora, ism, lion, banchero...) is stale - every one of those is built. Work the
+open ledger defects below, one at a time.
 `docs/series_verification_ledger.md` 7.1 (a one-column shift that published the vessel
 SIZE as the price on 537 rows) and 4.3 (75 exact duplicate rows) are closed. Fix is in
 `scripts/extract/publishers/run_intermodal_full.py`, rebuilt from the **cached** LlamaParse
@@ -29,8 +48,8 @@ intermodal series CSVs are byte-identical (control). Full evidence:
 1. `carriers_tanker_tce_series.csv` - 510 of 768 rows where `week_change` !=
    `current - prev`; the TCE family is in thousands while the change is in units (a
    1000x-class mix inside one row). Baltic rows in the same file are fine.
-2. `intermodal_newbuilding_prices_series.csv` - 893 rows (28.0%) with
-   `price_previous_usd_m = 0.0` (a missing previous written as a zero, not a blank).
+2. ~~`intermodal_newbuilding_prices_series.csv`~~ - **FIXED 2026-09-28 18:4x**: it was a
+   one-column shift on every row, not a zero. `docs/intermodal_newbuilding_verdict.md`.
 3. `intermodal_macro_series.csv` - 1,290 of 3,739 rows whose stated change is not
    reproducible from `latest_value`/`prior_value`, and blank on 2,075.
 4. `star_asia_deals_series.csv` - `arrival_date` is European `DD.MM.YYYY` (2,727 rows a
@@ -50,7 +69,7 @@ tier IS genuinely 0 pct (no data/extracted/md/ppa*). PPA is already DISPLAYED vi
 `docs/PPA_ALREADY_EXTRACTED_FINDING.md`, `data/extracted/supervisor_verify_20260928_1420.json`,
 file list `scratch/supervisor_verify/ppa_42_files.json`. Scope the PPA work to 42 docs.
 
-Last updated: 2026-09-28 15:25 IST (ppa COMPLETE - families A+B+C, 0 failures; family C cross-checked against family A exact to the tonne on 128/132 months) (banchero BLOCKED - LlamaParse credits exhausted, see
+Last updated: 2026-09-28 18:50 IST (intermodal NEWBUILDING PRICES fixed - one-column shift on all 3,194 rows, 99.94% text-verified; ppa COMPLETE - families A+B+C, 0 failures; family C cross-checked against family A exact to the tonne on 128/132 months) (banchero BLOCKED - LlamaParse credits exhausted, see
 ACTIVE JOB below; ism merged-series defect FIXED - see `docs/ism_series_fix_verdict.md`)
 
 **2026-09-28 12:50 note for the next run - READ BEFORE TOUCHING banchero:**
