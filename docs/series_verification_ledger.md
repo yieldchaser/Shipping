@@ -156,3 +156,32 @@ removes 2,166 rows; the other files have grown since that count was taken.
 Still open here: the residual ism tail (1,178 rows) is a DIFFERENT class - outlier reports
 drawn on a different axis (e.g. `2023_W38` uses ticks `71,64,...,15` where every other report
 uses `75,65,...,15`), plus some TCT route series. Not fixed, not dropped.
+
+
+---
+
+# UPDATE 2026-09-28 ~17:1x - defects 7.1 (intermodal one-column shift) and 4.3 (exact
+# duplicate rows, intermodal) are FIXED
+
+Fixed in `scripts/extract/publishers/run_intermodal_full.py` (rebuilt from the cached
+LlamaParse markdown, no API spend) and verified. Full detail:
+**`docs/intermodal_indicative_verdict.md`**.
+
+| measure | before | after |
+|---|---|---|
+| `intermodal_indicative_values_series.csv` rows | 2,409 | **2,333** |
+| exact duplicate rows | 75 | **0** |
+| rows where `change` != (cur-prev)/prev | 554 (23.0%) | **10 (0.43%)** |
+| prices equal to a vessel SIZE (180.0 / 82.0 / 63.0 / 37.0) | 537 | **0** |
+| published `$0m` prices (from the literal `#DIV/0!` in the PDF) | 4 | **0** (NULL) |
+| empty prev-month values | 0 (they were WRONG) | **0** (14 recovered from the page text) |
+| `intermodal_tc_rates_series.csv` exact duplicates | 48 | **0** (5,068 -> 5,020 rows) |
+
+Independent check: for 24 documents across 2021-2026, the extracted value tuple was
+found as a consecutive numeric run in the PDF's OWN text layer in 219/219 rows (100%).
+The remaining 10 inconsistent rows differ by 0.26-0.31 pp = the publisher's own
+one-decimal rounding, not a defect. Four rows keep a size-less key (`LR1`, `MR`) because
+the source markdown has no size cell for them - values right, label short, not guessed.
+
+Also settled: this file's 4 `#DIV/0!` rows show the publisher's spreadsheet error is
+rendered INTO the PDF, so no value exists on the page for those cells - NULL is correct.

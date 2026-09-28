@@ -4,32 +4,41 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-**NEXT SOURCE - corrected 2026-09-28 15:5x (hellenic MEASURED, not a gap):**
-`corpus/02-hellenic` was the lead. It is **~99.9 pct COVERED - do NOT build a runner.**
-Measured this run: 3,969 PDFs -> **2,236 distinct contents**; `corpus.duckdb`
-`source='hellenic'` already holds **2,057 docs / 57,351 cells**. Of the 180 unmatched,
-170 are breakwave (fully covered by `data/extracted/md/breakwave/`, verified 170/170),
-3 iron_ore already have md, and 5 of the 7 demolition ones have a feed row within 2 days.
-Only **2 documents were genuinely new** - the 2026-09-19 demolition reports. The GMS one
-was appended to `data/derived/scrappage_prices.csv` (380 -> 381 rows, 7 values verified
-against the page's own text table). Best Oasis prints its prices as a CHART - named, not
-extracted. Full evidence: **`docs/hellenic_coverage_verdict.md`**.
-The old "~2,798 without md" figure came from globbing `data/extracted/md/*` and never
-querying the DB - the SAME error class as the 09-ppa row. **This is now the second time.**
+**CURRENT STATE - 2026-09-28 17:1x. Both old leads are now CLOSED - do NOT reopen them.**
 
-**THE METHOD THAT WORKS (use it before calling ANY corpus a gap):** hash the PDFs to
-distinct contents, then test each against ALL FOUR baselines - `corpus.duckdb` stems, the
-source's own `data/extracted/md/<pub>/` tier, `data/**/*.csv` feeds, and `index.html`.
-A stem-only DB match ALSO undercounts (pipelines named the same doc differently), so check
-the md tier before concluding. Measured coverage of every corpus folder is now in
-`docs/hellenic_coverage_verdict.md` (bottom table): 01-brokers 2703/2915, 03-breakwave
-297/302, 04-poten 1083/1087, 05-seabrokers 96/97, 06-drewry 276/276, 09-ppa 297/493
-(154 byte-dupes + 42 built), archive 722/724, books 12/12.
+* `corpus/07-signal` is **DONE**: 442 market articles extracted (253 monitors / 179
+  newsroom / 10 newsletters) into `data/extracted/md/signal/`, register row `CLOSED`.
+  The 9 PDFs the earlier note called "unmatched" are 3 one-off reference PDFs (IMO GHG
+  study, GreenVoyage efficiency guide, a 175p Indonesian ministerial report) plus 6
+  files that are **HTML served with a .pdf name** (923-byte `	<head>` bodies) or EU
+  webpage printouts. Excluded per user prompt. **No runner to build.**
+* `corpus/01-brokers`'s 212 unmatched are **resolved** in
+  `docs/hellenic_coverage_verdict.md` (176 = the fearnleys-md duplicate folder, the rest
+  stem-convention/_nan_ dupes). No gap. **Do not re-audit.**
 
-**NEXT REAL TARGET = `corpus/07-signal` (9 PDFs, only 1 matched) - small, then re-audit
-`corpus/01-brokers`'s 212 unmatched by md-tier date match before believing they are gaps.**
-Earlier lead (still true) - do NOT start `corpus/04-poten`; it is fully extracted
-(1,087/1,087 md + tables.json, already in the app, `CLOSED` in the register).
+**THIS RUN (2026-09-28 17:1x): intermodal indicative-values defect FIXED and verified.**
+`docs/series_verification_ledger.md` 7.1 (a one-column shift that published the vessel
+SIZE as the price on 537 rows) and 4.3 (75 exact duplicate rows) are closed. Fix is in
+`scripts/extract/publishers/run_intermodal_full.py`, rebuilt from the **cached** LlamaParse
+markdown - no API spend, 252 docs, 0 failures, 35.5 s. 2,409 -> 2,333 rows; inconsistency
+23.0% -> 0.43%; 14 prev-month values recovered from the PDF text layer; the other 6
+intermodal series CSVs are byte-identical (control). Full evidence:
+**`docs/intermodal_indicative_verdict.md`**.
+
+**NEXT TARGET - pick ONE from the still-open ledger defects** (all measured, none fixed):
+1. `carriers_tanker_tce_series.csv` - 510 of 768 rows where `week_change` !=
+   `current - prev`; the TCE family is in thousands while the change is in units (a
+   1000x-class mix inside one row). Baltic rows in the same file are fine.
+2. `intermodal_newbuilding_prices_series.csv` - 893 rows (28.0%) with
+   `price_previous_usd_m = 0.0` (a missing previous written as a zero, not a blank).
+3. `intermodal_macro_series.csv` - 1,290 of 3,739 rows whose stated change is not
+   reproducible from `latest_value`/`prior_value`, and blank on 2,075.
+4. `star_asia_deals_series.csv` - `arrival_date` is European `DD.MM.YYYY` (2,727 rows a
+   date-join silently drops) and `beaching_date` holds STATUS text, not dates.
+5. Fake dates `2026-00-00` - 226 rows (intermodal_macro 92, maritime_stocks 72,
+   bunkers 54, xclusiv_bulk_carrier_charts 8).
+Check each against the source's own PDF page text BEFORE fixing, as this run did.
+
 
 **PPA IS 87.6 PCT ALREADY EXTRACTED - 2026-09-28 14:33 (supervisor 345bc8db9233).** Do NOT build a from-zero
 493-document PPA runner. Measured read-only: corpus/09-ppa holds 493 files but only
