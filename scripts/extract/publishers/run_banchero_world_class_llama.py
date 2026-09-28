@@ -827,7 +827,31 @@ def extract_structured_tables_from_md(
                         result["reported_sales"].append(deal)
 
             # 2. FFA Assessments
+            # Anchored on the TABLE, never on ctx alone. The EXCHANGE RATES table and the
+            # FFA forward-curve CHART tables also sit under the FFA heading in many issues
+            # (the heading tracker keeps h1 = "DRY BULK FFA ASSESSMENTS" while h2/h3 move
+            # on), so a bare ctx test swallowed them. Measured over 244 docs / 1,881
+            # FFA-branch tables: 7 currency tables (28 rows) were filed as FFA assessments
+            # AND were missing from bancosta_fx_series.csv; 3 chart tables published curve
+            # titles ("CAPESIZE FORWARD CURVE (USD/DAY)", "JPY/USD EXCHANGE RATE") as tenors
+            # (9 rows); 4 all-empty section rows ("Capesize | | | ...") were emitted as
+            # assessments; and 2026_W19's table has no Tenor column at all, so a positional
+            # read shifted every value one place.
             elif "FFA" in ctx or "PREMIUM" in header_str:
+                if os.environ.get("BC_DUMP_FFA"):
+                    with open(os.environ["BC_DUMP_FFA"], "a", encoding="utf-8") as _f:
+                        _f.write(json.dumps({"doc": source_file, "ctx": ctx, "hdr": header_str, "rows": len(rows), "row0": (rows[0] if rows else None)}) + chr(10))
+                _h0 = headers[0].strip().lower() if headers else ""
+                _data = [r for r in rows if any(c.strip() for c in r)]
+                # Uppercase on purpose: the FX table's codes are USD/EUR, CNY/USD, ...
+                # while a rate UNIT is "usd/day" - a case-insensitive test matched the unit.
+                _ccy = re.compile(r"[A-Z]{3}/[A-Z]{3}")
+                _is_fx = _h0 == "currencies" or (len(_data) > 0 and all(_ccy.fullmatch((r[0] or "").strip()) for r in _data))
+                # 2026_W19: the publisher's table lost its Tenor column entirely (the parse
+                # returns "Unit | 11-May | 4-May | W-o-W | Premium"), so cell 0 is the UNIT,
+                # not a tenor - read it that way instead of shifting the row left.
+                _no_tenor_col = _h0 == "currency" and "premium" in header_str and "unit" not in header_str
+
                 v_class = "Capesize"
                 if "PANAMAX" in ctx:
                     v_class = "Panamax"
@@ -836,7 +860,19 @@ def extract_structured_tables_from_md(
                 elif "HANDY" in ctx:
                     v_class = "Handysize"
 
-                if "date" in header_str and "value" in header_str:
+                if _is_fx:
+                    # Exchange-rate table that shares the FFA heading -> its own tier
+                    for r in _data:
+                        if len(r) >= 3:
+                            result["currencies"].append({
+                                "issue_date": issue_date,
+                                "report_week": report_week,
+                                "currency_pair": r[0].strip(),
+                                "rate_current": r[1].strip(),
+                                "rate_previous": r[2].strip(),
+                                "source_file": source_file
+                            })
+                elif "date" in header_str and "value" in header_str:
                     # FFA Forward Curve Chart
                     for r in rows:
                         if len(r) >= 2:
@@ -848,9 +884,38 @@ def extract_structured_tables_from_md(
                                 "value": r[1].strip(),
                                 "source_file": source_file
                             })
+                elif _no_tenor_col:
+                    for r in _data:
+                        if len(r) >= 4 and any(c.strip() for c in r[1:]):
+                            result["ffa_assessments"].append({
+                                "issue_date": issue_date,
+                                "report_week": report_week,
+                                "vessel_class": v_class,
+                                "tenor": "",
+                                "unit": r[0].strip(),
+                                "rate_current": r[1].strip(),
+                                "rate_previous": r[2].strip(),
+                                "change_wow": r[3].strip() if len(r) > 3 else "",
+                                "premium": r[4].strip() if len(r) > 4 else "",
+                                "source_file": source_file
+                            })
+                elif "premium" not in header_str:
+                    # A chart table under the FFA heading (header is "Category" + dates, or a
+                    # lone curve title). Its rows are chart points, not assessments - keep
+                    # them as chart series instead of publishing curve titles as tenors.
+                    for r in _data:
+                        if len(r) >= 2 and r[0].strip().lower() not in ("date", "value", "category"):
+                            result["chart_series"].append({
+                                "issue_date": issue_date,
+                                "report_week": report_week,
+                                "category": f"FFA_{v_class}_Forward_Curve",
+                                "date_or_tenor": r[0].strip(),
+                                "value": r[1].strip(),
+                                "source_file": source_file
+                            })
                 else:
-                    for r in rows:
-                        if len(r) >= 4:
+                    for r in _data:
+                        if len(r) >= 4 and any(c.strip() for c in r[1:]):
                             tenor = r[0].strip()
                             unit = r[1].strip() if len(r) > 1 else "usd/day"
                             curr_val = r[2].strip() if len(r) > 2 else ""
@@ -963,9 +1028,12 @@ def extract_structured_tables_from_md(
                         })
 
             # 9. Currencies / FX
+            # Row anchor: the same heading also carries a transposed CHART table
+            # ("| JPY/USD EXCHANGE RATE | Feb-22 | Jun-22 | Oct-22 |" / "| 110 | 120 | 150 |"),
+            # which was published as currency_pair="110". Only accept a real XXX/YYY row.
             elif "EXCHANGE RATES" in ctx or "currencies" in header_str:
                 for r in rows:
-                    if len(r) >= 3:
+                    if len(r) >= 3 and re.fullmatch(r"[A-Z]{3}/[A-Z]{3}", (r[0] or "").strip()):
                         result["currencies"].append({
                             "issue_date": issue_date,
                             "report_week": report_week,

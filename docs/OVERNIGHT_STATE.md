@@ -1,5 +1,28 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 01:2x): bancosta FFA/FX tier - 5 mis-parse defects FOUND, FIXED and VERIFIED.**
+The previous run's leftovers ("93 FFA rows whose tenor is a currency pair; 60 FFA rows with a %
+in rate_previous") re-measured to 5 distinct causes in the FFA branch, all from one root: the branch
+keyed on `ctx` alone, and the heading tracker keeps h1='DRY BULK FFA ASSESSMENTS' while h2/h3 move on.
+Measured 1,881 FFA-branch firings / 244 docs. (1) 7 EXCHANGE RATES tables (28 rows) were filed as FFA
+with a one-column shift AND those 7 docs were entirely MISSING from bancosta_fx_series.csv (236 md docs
+carry a CURRENCIES table; exactly 7 were absent). (2) 16 chart tables (curve titles / date matrices)
+were published as assessments - 9 junk tenor rows. (3) 4 all-empty section rows ('Capesize | | | ...').
+(4) 2026_W19's FFA table has NO tenor column in the page read (LlamaParse), so every value sat one
+column left. (5) a transposed chart table under EXCHANGE RATES published currency_pair='110'.
+FIX = content anchors (uppercase XXX/YYY row test, 'premium' column required for an assessment, unit
+cell when the tenor column is absent), never ctx or geometry alone. Rebuilt from the CACHED markdown -
+**no API spend**. MEASURED: ffa 7,659 -> **7,618** rows (currency-pair tenors 28->0, curve-title tenors
+9->0, blank-unit rows 4->0, W19 32 rows corrected verbatim 32/32); fx 941 -> **968** rows; docs missing
+from the FX tier 7 -> 0. CONTROL: 19 of 245 sidecars changed and the diff is confined to 3 keys
+(ffa_assessments/currencies/chart_series); **8 of 10 series CSVs byte-identical** - only ffa and fx
+differ. Left VERBATIM (not repaired): 2025_W30's 32 garbled tenor labels (ul-25/lug-25/iep-25/...),
+which are in LlamaParse's own raw read, so they come from the page - mapping them would be a guess.
+Evidence **`docs/bancosta_ffa_verdict.md`**.
+STILL OPEN in bancosta: the freight_rates residue (numeric unit / DRY_BULK rows, branch 11) and the
+LlamaParse credit block (HTTP 402 - only the user can rotate the key). HELLENIC is owned by a separate
+live session - do not collide.
+
 **THIS RUN (2026-09-28 22:1x): ledger 4.3 CLOSED - intermodal_macro_series.csv had a REAL defect.**
 It was recorded as "stated change not reproducible on 1,290 of 3,739 rows, blank on 2,075".
 The blank column was real and 5x the story: **EVERY positive change was silently dropped** -

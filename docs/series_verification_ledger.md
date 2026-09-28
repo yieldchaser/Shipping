@@ -426,3 +426,30 @@ Dirty 28/28, Clean 27/27); 2023 and 2024 documents went from **0 to 35** commodi
 **Still open in this source (measured, not fixed):** 93 FFA rows whose `tenor` is a currency
 pair; 60 FFA rows with a `%` in `rate_previous` (32 from `2026_W19`); 33 numeric `unit` values
 and 80 `DRY_BULK` rows left in freight_rates.
+
+
+---
+
+# CLOSED 2026-09-29 01:2x IST - bancosta FFA/FX tier: the '93 currency-pair tenors / 60 % in rate_previous'
+# leftovers re-measured to 5 causes and FIXED. Evidence `docs/bancosta_ffa_verdict.md`.
+
+Root cause: the FFA branch gated on `ctx` alone and the heading tracker keeps h1='DRY BULK FFA ASSESSMENTS'
+while h2/h3 move on, so the EXCHANGE RATES table and several CHART tables were parsed as FFA assessments.
+Measured: 1,881 FFA-branch tables across 244 docs.
+
+| measure | before | after |
+|---|---|---|
+| bancosta_ffa_series.csv rows | 7,659 | **7,618** |
+| currency-pair `tenor` rows | 28 | **0** |
+| curve-title `tenor` rows | 9 | **0** |
+| blank-`unit` assessment rows | 4 | **0** |
+| 2026_W19 rows read one column left | 32 | **0** (32 corrected, verbatim 32/32) |
+| bancosta_fx_series.csv rows | 941 | **968** |
+| docs missing from the FX tier (of 236 with a CURRENCIES table) | 7 | **0** |
+| junk `currency_pair` values | 1 | **0** |
+
+Control: 19/245 sidecars changed, diff confined to ffa_assessments / currencies / chart_series;
+**8 of 10 series CSVs byte-identical**. Rebuilt from cached markdown - no API spend.
+Left verbatim (page-side, not repaired): 2025_W30's 32 garbled tenor labels; 2026_W19's corrected rows
+carry a blank tenor because the page read has no tenor column.
+STILL OPEN: the bancosta freight_rates residue (numeric unit / DRY_BULK, branch 11).
