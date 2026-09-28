@@ -45,17 +45,20 @@ intermodal series CSVs are byte-identical (control). Full evidence:
 **`docs/intermodal_indicative_verdict.md`**.
 
 **NEXT TARGET - pick ONE from the still-open ledger defects** (all measured, none fixed):
-1. `carriers_tanker_tce_series.csv` - 510 of 768 rows where `week_change` !=
-   `current - prev`; the TCE family is in thousands while the change is in units (a
-   1000x-class mix inside one row). Baltic rows in the same file are fine.
+1. ~~`carriers_tanker_tce_series.csv`~~ - **CLOSED 2026-09-28 19:0x as FAITHFUL, not a
+   defect.** The source page prints `VLCC TCE in $ 25.290 / Week Ch. -4098 / Previous
+   29.388` verbatim; the unit switch is the publisher's own. Do not spend time here.
 2. ~~`intermodal_newbuilding_prices_series.csv`~~ - **FIXED 2026-09-28 18:4x**: it was a
    one-column shift on every row, not a zero. `docs/intermodal_newbuilding_verdict.md`.
 3. `intermodal_macro_series.csv` - 1,290 of 3,739 rows whose stated change is not
    reproducible from `latest_value`/`prior_value`, and blank on 2,075.
-4. `star_asia_deals_series.csv` - `arrival_date` is European `DD.MM.YYYY` (2,727 rows a
-   date-join silently drops) and `beaching_date` holds STATUS text, not dates.
-5. Fake dates `2026-00-00` - 226 rows (intermodal_macro 92, maritime_stocks 72,
-   bunkers 54, xclusiv_bulk_carrier_charts 8).
+4. `star_asia_deals_series.csv` - `arrival_date` is European `DD.MM.YYYY` on **2,680 of
+   2,727** non-empty values (a date-join silently drops them) and `beaching_date` holds STATUS
+   text (AWAITING 901, ARRESTED 24, the source's own typo AWATIING 17, plus real dates).
+   CONFIRMED REAL 2026-09-28.
+5. Fake dates `2026-00-00` - **230** rows (re-measured; the original sweep missed
+   xclusiv_demolition_charts): intermodal_macro 92, maritime_stocks 72, bunkers 54,
+   xclusiv_bulk_carrier_charts 8, xclusiv_demolition_charts 4.
 Check each against the source's own PDF page text BEFORE fixing, as this run did.
 
 
