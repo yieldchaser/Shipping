@@ -24,6 +24,33 @@ publisher-side inconsistency, left as printed. Evidence: `docs/intermodal_macro_
 **NEXT: the only defect left in `docs/series_verification_ledger.md` is the residual ism
 agreement tail** (1,178 rows, outlier reports drawn on a different axis). banchero is still
 BLOCKED on LlamaParse credits (243/244, HTTP 402) - only the user can rotate the key.
+**THIS RUN (2026-09-29 00:2x): ledger section 3 CLOSED - bancosta_commodities_series.csv was
+BADLY mis-parsed (55% of rows) and is now FIXED; bancosta_ffa was verified FAITHFUL and left alone.**
+The ledger flagged these two only for a low cross-issue continuity score. Reading the pages:
+FFA's low score is the PUBLISHER's (it restates the prior week's FFA point by 17% between issues;
+both sidecars are verbatim; column swap ruled out 7,475/7,500). Commodities was a REAL defect:
+the parser assumed every row has a leading category cell, true for BUNKERS and false for
+OIL & GAS / AGRICULTURAL / COAL / IRON ORE & STEEL, so those rows shifted one column right and
+lost the item label; the gate also matched the word "category", which is the header of the
+commodity CHARTS, so chart points were parsed as prices (1,297 junk rows); and the eras whose
+price header is `| BUNKERS | Unit | ... |` fell through to freight_benchmarks as sector=DRY_BULK.
+Fix = unit-cell anchor + gate on unit+w-o-w + block name from header/heading/real Category column
++ numeric-current + per-document dedupe, in `run_banchero_world_class_llama.py`. Rebuilt from the
+CACHED markdown - no API spend. Measured: commodities 2,319 -> **8,435** rows; numeric unit
+1,285 -> 0; % in previous 611 -> 0; empty current 273 -> 0; chart junk 984 -> 0; duplicates
+106 -> 0; GENERAL 1,297 -> 33; freight_rates 25,715 -> **20,329**. Controls: 2022_W02 page-12
+values 4/4 exact; unmodified parser reproduces the sidecars byte-exact; **2 of 132 series CSVs
+changed, 130 byte-identical**; every genuine freight sector count unchanged; 2023/2024 docs went
+from 0 to 35 commodity rows. Evidence **`docs/bancosta_commodities_verdict.md`**.
+NOTE: `data/extracted/` is gitignored, so the rebuilt sidecars/CSVs are on disk only - the parser
+is the committed artefact. NOTE: `run_banchero_world_class_llama.py` was UNTRACKED (34 sibling
+runners are tracked); it is now committed.
+STILL OPEN in bancosta (measured): 93 FFA rows whose tenor is a currency pair; 60 FFA rows with a
+% in rate_previous (32 from 2026_W19); 33 numeric units + 80 DRY_BULK rows in freight_rates.
+banchero LlamaParse is STILL credit-blocked (watchdog 23:29 alive=0 credits=0) - only the user can
+rotate the key. HELLENIC is being worked by a separate live session (scratch/sup_alibra, runners
+started 23:29) - do not collide with it.
+
 **Purpose:** if the machine sleeps, a session dies, or a new context starts with no
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.

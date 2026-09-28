@@ -377,3 +377,52 @@ close on **3,160/3,447 = 91.7%** (95-100% for 12 of 16 indicators). **Nikkei 52%
 is a publisher-side inconsistency, left as printed.
 Evidence: **`docs/intermodal_macro_verdict.md`**. Nothing open in this ledger's defect list
 except the residual ism agreement tail.
+
+
+---
+
+# CLOSED 2026-09-29 00:2x IST - section 3's two "check first" files: FFA is FAITHFUL, COMMODITIES was badly mis-parsed (FIXED)
+
+`docs/bancosta_commodities_verdict.md` has the full evidence.
+
+**`bancosta_ffa_series.csv` - not a defect.** Its 23.8% continuity score is the publisher's:
+the printed `previous` column does not reproduce the prior issue's own `current` column
+(`2021_W26` prints `Aug-21 2-Jul=31,643`; `2021_W27` prints `Aug-21 2-Jul=37,107` - a 17%
+restatement of the same date). Both sidecars store their own page verbatim. A column swap is
+ruled out: `sign(current-previous)` matches the printed W-o-W on 7,475/7,500 rows (99.67%).
+The file was NOT touched (byte-identical).
+
+**`bancosta_commodities_series.csv` - a real defect, 55% of rows affected.**
+The parser assumed every commodity row carries a leading category cell. BUNKERS does
+(`<cat>|<item>|<unit>|...`); OIL & GAS / AGRICULTURAL / COAL / IRON ORE & STEEL do not
+(`<item>|<unit>|...`) - so those rows shifted one column right and lost the item label.
+Page 12 of `2022_W02` prints `Crude Oil Shanghai | rmb/bbl | 533.4 | 515.7 | +3.4%`; the
+sidecar stored `item="rmb/bbl", unit=533.4, current=515.7, previous="+3.4%"`. Two more faults
+in the same path: the branch gate matched the word "category", which is the header of the
+commodity CHARTS (`| Category | Date | Value |`), so chart points were parsed as prices; and
+the eras whose price header is `| BUNKERS | Unit | ... |` never matched the gate at all, so the
+real table was filed into `freight_benchmarks` as `sector="DRY_BULK"`.
+
+Fix = unit-cell anchor (layout-independent), gate on "unit"+"w-o-w", block name from header /
+heading context / real Category column, numeric-current requirement, per-document dedupe.
+Rebuilt from cached markdown - no API spend.
+
+| measure | before | after |
+|---|---|---|
+| commodities rows | 2,319 | **8,435** |
+| numeric `unit` (shift signature) | 1,285 | **0** |
+| `%` in `price_previous` | 611 | **0** |
+| empty `price_current` | 273 | **0** |
+| chart-axis junk rows | 984 | **0** |
+| exact duplicates | 106 | **0** |
+| `category=GENERAL` | 1,297 | **33** |
+| freight_rates rows | 25,715 | **20,329** |
+
+Controls: 2022_W02 page-12 values 4/4 exact against the printed text; the unmodified parser
+reproduces the on-disk sidecars byte-exact; **2 of 132 series CSVs changed, 130 byte-identical**;
+every genuine freight sector count unchanged (Capesize 6/6, Panamax 6/6, Supramax 19/19,
+Dirty 28/28, Clean 27/27); 2023 and 2024 documents went from **0 to 35** commodity rows each.
+
+**Still open in this source (measured, not fixed):** 93 FFA rows whose `tenor` is a currency
+pair; 60 FFA rows with a `%` in `rate_previous` (32 from `2026_W19`); 33 numeric `unit` values
+and 80 `DRY_BULK` rows left in freight_rates.
