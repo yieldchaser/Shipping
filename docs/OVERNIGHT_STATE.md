@@ -4,25 +4,32 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-**NEXT SOURCE - corrected 2026-09-28 15:2x:** `corpus/09-ppa` is **COMPLETE** - all three
-families built and verified (`docs/ppa_verdict.md`, `docs/ppa_survey.md`; runners
-`scripts/extract/publishers/run_ppa.py` and `run_ppa_vessels.py`). Do NOT redo them.
-NEXT TARGET = **`corpus/02-hellenic` ~2,798 without md** - run the FOUR-baseline test per
-sub-publication FIRST (feeds, our own extraction, the app, AND `corpus.duckdb`). The register
-already claims 992 hellenic series and `scripts/extract_demolition_pdfs.py` consumes part of
-it. `docs/corpus_coverage_gaps.md` has been corrected at its head: its 09-ppa row was wrong
-because it only globbed `data/extracted/md/*` and never queried the DB. **Always query
-`data/extracted/corpus/db/corpus.duckdb` before calling any corpus a gap** - measured there:
-228,280 ppa cells / 297 docs, including 133/133 of the Hedland iron-ore monthly totals.
-Earlier lead (still true) - do NOT start `corpus/04-poten`. It was the
-suggested "biggest first" target but the three-baseline test shows it is ALREADY fully
-extracted (1,087/1,087 md + tables.json, 1,087-row opinions metadata, already in the app,
-already `CLOSED` in the register). Measured coverage of every corpus folder is in
-`docs/corpus_coverage_gaps.md`. The real gaps, in order: ~~`corpus/09-ppa` 493 PDFs
-with ZERO output~~ **DONE 2026-09-28** (families A+B; family C still open - see the top of
-this file), then **`corpus/02-hellenic` ~2,798 without md** (run the three-baseline test per
-sub-publication FIRST - the register already claims 992 hellenic series, so much of it may
-already be ours).
+**NEXT SOURCE - corrected 2026-09-28 15:5x (hellenic MEASURED, not a gap):**
+`corpus/02-hellenic` was the lead. It is **~99.9 pct COVERED - do NOT build a runner.**
+Measured this run: 3,969 PDFs -> **2,236 distinct contents**; `corpus.duckdb`
+`source='hellenic'` already holds **2,057 docs / 57,351 cells**. Of the 180 unmatched,
+170 are breakwave (fully covered by `data/extracted/md/breakwave/`, verified 170/170),
+3 iron_ore already have md, and 5 of the 7 demolition ones have a feed row within 2 days.
+Only **2 documents were genuinely new** - the 2026-09-19 demolition reports. The GMS one
+was appended to `data/derived/scrappage_prices.csv` (380 -> 381 rows, 7 values verified
+against the page's own text table). Best Oasis prints its prices as a CHART - named, not
+extracted. Full evidence: **`docs/hellenic_coverage_verdict.md`**.
+The old "~2,798 without md" figure came from globbing `data/extracted/md/*` and never
+querying the DB - the SAME error class as the 09-ppa row. **This is now the second time.**
+
+**THE METHOD THAT WORKS (use it before calling ANY corpus a gap):** hash the PDFs to
+distinct contents, then test each against ALL FOUR baselines - `corpus.duckdb` stems, the
+source's own `data/extracted/md/<pub>/` tier, `data/**/*.csv` feeds, and `index.html`.
+A stem-only DB match ALSO undercounts (pipelines named the same doc differently), so check
+the md tier before concluding. Measured coverage of every corpus folder is now in
+`docs/hellenic_coverage_verdict.md` (bottom table): 01-brokers 2703/2915, 03-breakwave
+297/302, 04-poten 1083/1087, 05-seabrokers 96/97, 06-drewry 276/276, 09-ppa 297/493
+(154 byte-dupes + 42 built), archive 722/724, books 12/12.
+
+**NEXT REAL TARGET = `corpus/07-signal` (9 PDFs, only 1 matched) - small, then re-audit
+`corpus/01-brokers`'s 212 unmatched by md-tier date match before believing they are gaps.**
+Earlier lead (still true) - do NOT start `corpus/04-poten`; it is fully extracted
+(1,087/1,087 md + tables.json, already in the app, `CLOSED` in the register).
 
 **PPA IS 87.6 PCT ALREADY EXTRACTED - 2026-09-28 14:33 (supervisor 345bc8db9233).** Do NOT build a from-zero
 493-document PPA runner. Measured read-only: corpus/09-ppa holds 493 files but only
