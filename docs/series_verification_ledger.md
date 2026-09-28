@@ -88,3 +88,42 @@ python3 scratch/dup_sweep.py           # section 4.3
 python3 scratch/baddate2.py            # section 4.4
 python3 scratch/score_all_indices.py   # intermodal chart series vs the held feeds
 ```
+
+## 7. Internal consistency sweep: does each file's change column equal current - previous?
+
+Run over every series CSV carrying a (current, previous, change) triple, 20+ rows:
+**11 files are 98.3-100% consistent** - bancosta_freight_rates (24,685 rows, 99.7%),
+advanced_shipping_secondhand_matrix (7,968, 99.6%), bancosta_ffa (7,648, 99.1%),
+intermodal_tc_rates (5,051, 99.9%), intermodal_maritime_stocks (3,118, 99.5%),
+intermodal_demolition_prices and intermodal_demolition (1,996 each, 100.0%),
+intermodal_baltic_indices (1,237, 99.8%), intermodal_currencies (652, 98.9%),
+carriers_dry_weighted_routes (605, 98.7%), carriers_indices (638, 98.3%).
+**Four files are not:**
+
+1. **intermodal_indicative_values_series.csv - one-column shift on 295 rows.**
+   The report prints `| Capesize | 180k | 37.5 | 37.1 | 1.0% | 27.6 | 31.1 | 36.1 |` (Vessel 5
+   yrs old, Jul-21 avg / Jun-21 avg / +/-% / 2020 / 2019 / 2018). The series row is
+   `current=180.0, prev_month=37.5, change=37.1` - the vessel SIZE was consumed as the price
+   and the whole triple shifted one column left (implied change (37.5-37.1)/37.1 = 1.08% vs
+   the printed 1.0%). Of 554 inconsistent rows, **295 fit the shift exactly**; the remaining
+   259 (tanker table, other age profiles) are unexplained. The result looks plausible - 180 $M
+   for a 5-year Capesize is high, not absurd - which is why no count-based check caught it.
+2. **carriers_tanker_tce_series.csv - 510 of 768 rows.** `week_change` does not equal
+   `current_value - prev_value`. The TCE family is scaled in thousands while the change is in
+   units: `VLCC TCE 25.29 / 29.388 / -4098`, `SUEZ TCE 55.492 / 77.385 / -21893`. A
+   1000x-class unit mix inside one row. The Baltic index rows in the same file are fine
+   (`1373 / 1447 / -74`).
+3. **intermodal_newbuilding_prices_series.csv - 893 rows (28.0%) have
+   `price_previous_usd_m = 0.0`**, and `intermodal_newbuilding_series.csv` repeats the same
+   893 rows (17.8%). A missing previous price written as a zero, not a blank: any derived
+   percentage from it is undefined, and the register's own `pct_change` column sits beside it.
+4. **intermodal_macro_series.csv - 1,290 of 3,739 rows** state a change that cannot be
+   reproduced from `latest_value` and `prior_value` (`10year US Bond 1.431 / 1.48 / -6.8%` where
+   the pair implies -3.31%; `CAC40 6552.86 / 6553.82 / -1.1%` implies -0.01%), and the change
+   is **blank on 2,075 rows**. Either the printed change is over a different window than the
+   prior column, or the columns are mis-paired.
+
+**One flag was my own instrument, not a defect - recorded so nobody chases it.**
+`intermodal_tanker_spot_series.csv` scored 3.8% because my checker paired `change_pct` with
+`ws_points_current`; the report's change belongs to the TCE column (`VLCC 265k MEG-SPORE`:
+WS 32/33, TCE -5195/-775, change -570.3% = the TCE pair). The file is correct.
