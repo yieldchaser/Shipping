@@ -1,5 +1,38 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 02:3x): bancosta_freight_rates DRY_BULK residue CLOSED - 80 rows routed, 0 left.**
+The 80 misrouted rows re-measured EXACTLY as briefed (FX 8/2, chart 25/5, commodity-with-unit 13/2,
+container TC 24/2, banners 10/3). Root cause = branch 11 gates on the HEADER STRING alone and sectors
+from ctx alone, while the specific branches' gates were CTX-ONLY (VHSS sits under CONTAINERSHIP MARKET;
+the FREIGHTOS table has no heading; the 2021 FX heading is INTEREST RATES / CURRENCIES, not EXCHANGE
+RATES). FIX = content anchors only: (1) branch 9 requires a real XXX/YYY row + accepts CURRENC in ctx;
+(2) branch 7 row anchor ^(ConTex|NNNN teu); (3) branch 8 accepts freightos in the table's own header;
+(4) branch 10 also fires when the unit sits INSIDE each row (the 2023/24 "| Benchmark | <d> | <d> | W-o-W
+| Y-o-Y |" era); (5) new branch 10c sends the commodity CHART tables to chart_series and DROPS all-empty
+banner rows. Rebuilt from the CACHED markdown - **no API spend**. MEASURED: freight_rates 20,329 ->
+**20,249** (-80); sector DRY_BULK 80 -> **0** (the file now has NO DRY_BULK at all - it was only ever the
+misroute fallback); fx 968 -> 976; vhss 3,413 -> 3,427; commodities 8,435 -> 8,447; sidecar freightos_index
+2,261 -> 2,271; chart_series 38,204 -> 39,425. CONTROLS: function-level diff (HEAD parser vs fixed, all 244
+docs) shows the ONLY key that loses rows anywhere is freight_benchmarks, on EXACTLY the 10 named docs,
+-80 total - nothing else lost a single row; series md5 **4 of 10 changed** (freight_rates/fx/vhss/
+commodities), **6 byte-identical**. Every routed value reconciled cell-by-cell against the document's own
+cached page text (no vision tool in this session): 2021_W46 FX, 2022_W43 VHSS+FREIGHTOS, 2026_W38 VHSS,
+2024_W24 commodity - all exact. The +1,221 chart_series rows are a SECOND measured fix, not noise: making
+branch 9 content-anchored stopped it claiming the FX heading's own chart table, which it read and silently
+DISCARDED (194 docs recover rows, e.g. 2026_W24 JPY/USD EXCHANGE RATE). Evidence
+**`docs/bancosta_freight_rates_residue_verdict.md`**. NOTE: the BC_DUMP_B11 env dump was added to branch 11
+(same pattern as BC_DUMP_FFA).
+NEXT TARGETS, both measured this run and NOT fixed:
+(1) chart tables published as container indices (same root cause in branches 7/8): `freightos_index`
+502 of 2,271 rows / 145 docs and `vhss_contex` 1,713 of 3,427 rows / 218 docs have a unit cell that is
+neither a unit token nor a period label (e.g. segment Jul-20, unit 8000);
+(2) a SECOND residue in freight_rates itself: **125 rows / 52 docs** whose `unit` is not a unit - a leaked
+sub-header row ("AFRAMAX | Unit | 3-Jul | 26-Jun | W-o-W | Y-o-Y" published as data; the `category unit`
+header shape, 25 firings corpus-wide), the 2021 era's 7-column `Category | Name | Unit | ...` table where
+the label spans two cells (28 rows on 2021_W46 alone), and empty rows. **These PRE-DATE the fix** (the
+function-level control proves this run removed exactly 80 rows and added none).
+HELLENIC is owned by a separate live session - do not collide.
+
 **THIS RUN (2026-09-29 01:2x): bancosta FFA/FX tier - 5 mis-parse defects FOUND, FIXED and VERIFIED.**
 The previous run's leftovers ("93 FFA rows whose tenor is a currency pair; 60 FFA rows with a %
 in rate_previous") re-measured to 5 distinct causes in the FFA branch, all from one root: the branch
