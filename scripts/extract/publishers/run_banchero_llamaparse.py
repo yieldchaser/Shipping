@@ -200,7 +200,20 @@ def main():
     pdfs = sorted(glob.glob(str(ROOT / 'corpus/01-brokers/banchero_costa/*/*.pdf')))
     if a.only:
         pdfs = [p for p in pdfs if a.only in os.path.basename(p)]
-    todo = [p for p in pdfs if os.path.basename(p)[:-4] not in st['done']]
+    # Do not re-spend on a document that already has output on disk. This runner's own
+    # state file is NOT the whole picture: a second runner (run_banchero_scale.py, state
+    # _scale_state.json) completed 243/244 docs, so trusting _run_state.json alone made
+    # this runner re-attempt 78 finished documents. Verified by content, not by state.
+    def _already_done(doc):
+        if doc in st['done']:
+            return True
+        md = OUTDIR / f'{doc}.md'
+        try:
+            return md.exists() and len(md.read_text(encoding='utf-8')) > 1000
+        except Exception:
+            return False
+
+    todo = [p for p in pdfs if not _already_done(os.path.basename(p)[:-4])]
     if a.limit:
         todo = todo[:a.limit]
 

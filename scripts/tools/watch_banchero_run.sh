@@ -61,9 +61,23 @@ if [ "$DONE" -ge "$((TOTAL - 1))" ] 2>/dev/null; then
 fi
 
 # ---- dead: report and restart ----
-echo "$(stamp) DEAD done=$DONE/$TOTAL - restarting" >> "$WATCHLOG"
+echo "$(stamp) DEAD done=$DONE/$TOTAL - checking" >> "$WATCHLOG"
+# A credit wall is not a crash: restarting cannot fix it and only spams the log.
+if tail -c 4000 "$LOG" 2>/dev/null | grep -q "exceeded the maximum number of credits"; then
+  echo "$(stamp) BLOCKED done=$DONE/$TOTAL - LlamaParse credits exhausted; not restarting" >> "$WATCHLOG"
+  echo "banchero LlamaParse is BLOCKED at $DONE/$TOTAL docs: the account is out of credits (HTTP 402).
+The remaining doc needs ~6 credits. Supply a fresh key with
+  python3 scripts/tools/set_llama_key.py --key llx-...
+then re-run the watchdog. The routing map already covers all 244 docs."
+  exit 0
+fi
+
+# The bare `python3` in the cron environment resolves to the Hermes venv, whose
+# pydantic_core is a cp311 .pyd and crashes on import. Pin the working interpreter.
+PYBIN="${BANCHERO_PY:-/c/Users/Dell/AppData/Local/Programs/Python/Python314/python.exe}"
+[ -x "$PYBIN" ] || PYBIN=python3
 export PYTHONUNBUFFERED=1
-nohup python3 scripts/extract/publishers/run_banchero_llamaparse.py --tier cost_effective >> "$LOG" 2>&1 &
+"$PYBIN" scripts/extract/publishers/run_banchero_llamaparse.py --tier cost_effective >> "$LOG" 2>&1 &
 NEWPID=$!
 echo "$(stamp) restarted pid $NEWPID" >> "$WATCHLOG"
 
