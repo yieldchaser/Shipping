@@ -4,6 +4,15 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
+**NEXT SOURCE - corrected 2026-09-28 13:2x:** do NOT start `corpus/04-poten`. It was the
+suggested "biggest first" target but the three-baseline test shows it is ALREADY fully
+extracted (1,087/1,087 md + tables.json, 1,087-row opinions metadata, already in the app,
+already `CLOSED` in the register). Measured coverage of every corpus folder is in
+`docs/corpus_coverage_gaps.md`. The real gaps, in order: **`corpus/09-ppa` 493 PDFs with
+ZERO output** (start from zero - survey, runner, trial, bulk-run), then **`corpus/02-hellenic`
+~2,798 without md** (run the three-baseline test per sub-publication FIRST - the register
+already claims 992 hellenic series, so much of it may already be ours).
+
 Last updated: 2026-09-28 12:50 IST (banchero BLOCKED - LlamaParse credits exhausted, see
 ACTIVE JOB below; ism merged-series defect FIXED - see `docs/ism_series_fix_verdict.md`)
 
