@@ -221,3 +221,46 @@ Control: all 10 other intermodal series CSVs byte-identical. Full evidence:
 not a diagnosis.** The same shape of error (a plausible one-column shift) has now appeared
 twice in this source - see 7.1 and this one. Before fixing a "missing/zero" defect, print
 the source row next to the published row.
+
+
+---
+
+# UPDATE 2026-09-28 ~19:0x - defect 7.2 (carriers TCE) is NOT an extraction defect.
+# Verified against the page. Do not "fix" it.
+
+The ledger recorded 7.2 as "510 of 768 rows where `week_change` != `current - prev`; a
+1000x-class unit mix inside one row". That is a correct description of the FILE, but it is
+**not an extraction error** - the publisher prints exactly those numbers. Read from
+`corpus/01-brokers/carriers/2023/carriers_2023_W46_WK-46-23-CARRIERS_SP-MARKET-REPORT.pdf`,
+page 2, "Wet Baltic Indices & TCE Full Route plus Baltic LPG":
+
+```
+                 This WK     Week Ch.   Previous
+Baltic DIRTY          1373         -74       1447
+Baltic CLEAN           785           3        782
+VLCC  TCE in $      25.290       -4098     29.388
+SUEZ  TCE in $      55.492      -21893     77.385
+AFRA  TCE in $      68.497       -1035     69.532
+MR ATLANTIC in $    34.805        6018     28.787
+LPG Index           14.766         200     14.566
+```
+
+Every published value is the printed value, to the digit. The mismatch is the publisher's
+own: the TCE columns are in $000/day (25.290 = $25,290/day) while its `Week Ch.` is in
+$/day (-4098), and the Baltic index rows are unitless. `25.290 - 29.388 = -4.098` x 1000 =
+-4098 exactly, so the row is internally coherent once the unit switch is understood.
+
+**Verdict: CLOSED as faithful.** The value is not wrong, so there is nothing to correct.
+If the mixed unit is a problem downstream, the fix is an explicit unit column (or a
+normalised change column added BESIDE the printed one), never a rewrite of the printed
+value. Recommend not spending extraction time here.
+
+# Re-measured this run (still open)
+
+* 4.4 fake dates: **230** rows, not 226 - intermodal_bunkers 54, intermodal_macro 92,
+  intermodal_maritime_stocks 72, xclusiv_bulk_carrier_charts 8, **xclusiv_demolition_charts 4**
+  (the last file was not in the original sweep).
+* 4.5 star_asia_deals_series.csv: `arrival_date` is European `DD.MM.YYYY` on **2,680 of its
+  2,727** non-empty values; `beaching_date` holds STATUS text on 557 distinct values
+  (AWAITING 901, ARRESTED 24, the source's own typo AWATIING 17, plus real dates).
+  Both confirmed real.
