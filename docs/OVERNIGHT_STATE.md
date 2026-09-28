@@ -4,7 +4,22 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-Last updated: 2026-09-24 ~13:30 IST (LlamaParse banchero run IN FLIGHT - do not restart it; lion COMPLETE + verified + committed - all broker sources now built)
+Last updated: 2026-09-28 11:40 IST (intermodal Baltic chart series VERDICT: superseded - see
+`docs/intermodal_baltic_series_verdict.md`; all broker sources built per `docs/EXTRACTION_REGISTER.md`)
+
+**2026-09-28 note for the next run:** the live status ledger is now
+`docs/EXTRACTION_REGISTER.md` (last written 2026-09-28 02:23, all 18 publishers marked
+CLOSED). Its row counts match the artefacts exactly (273,254 rows / 98 CSVs, verified
+2026-09-28). Two of its claims do NOT hold under measurement:
+1. intermodal's chart-derived `intermodal_baltic_tc_series.csv` (20,348 rows) is held data,
+   25-53% off the feed, stale to 2026-08-30 and fails the agreement gate at 59.3% - it is
+   not a deliverable (`docs/intermodal_baltic_series_verdict.md`). The table layer IS exact.
+2. ism's merged series pass the agreement gate at the median (0.22-0.34%) but have a bad
+   tail (p90 20-43%, only 69-74% within 2%) - a subset of its series are mis-keyed.
+   NOT yet investigated. That is the next verification target.
+Also open: 10 series CSVs carry exact duplicate rows (bancosta_commodities 106/2,319 worst).
+There is NO vision tool in the cron session - substitute the same-document text
+reconciliation (section 5 of the intermodal verdict) and say so.
 
 ---
 

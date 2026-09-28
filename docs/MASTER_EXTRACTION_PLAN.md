@@ -21,8 +21,13 @@ Before building any extraction or chart pipeline for a source, ask what the data
    tab — STOP. Do not extract its charts.** Restating a held value is effort spent for
    zero information, and it is the single largest waste risk in this corpus.
 2. **The held set, measured 2026-09-24:**
-   - **BDI / BCI / BPI / BSI / BHSI** — `data/extracted/series/intermodal_baltic_tc_series.csv`,
-     **19,691 rows, 2,189 points per index, 2020-08 → 2026-08.**
+   - **BDI / BCI / BPI / BSI / BHSI** — **`data/indices/*.csv`** (`bdiy_historical.csv`
+     10,521 pts 1985→2026-09-21; `cape_historical`/`panama_historical`/`suprama_historical`/
+     `handysize_historical` 4,319-4,341 pts each, 2008→2026-09-21).
+     **CORRECTED 2026-09-28:** this entry used to cite
+     `data/extracted/series/intermodal_baltic_tc_series.csv` as the held set. That file is a
+     broker chart RE-READ, is 25-53% off the feed and is not a deliverable —
+     `docs/intermodal_baltic_series_verdict.md`.
    - **1 / 5 / 7 / 10-year time-charter averages** — same file (AVR 5TC BPI, AVR 7TC BHSI,
      AVR 10TC BSI) plus `corpus/02-hellenic/dry_charter`.
    - **Fearnleys Hasura** — the API already carries what the reports reprint. This is
