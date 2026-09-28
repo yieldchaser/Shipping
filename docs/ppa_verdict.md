@@ -74,3 +74,74 @@ conflicting values for 2016-10. That is a corpus restatement, not an extraction 
 5. This session had **no vision tool**. Substituted: the arithmetic self-check above (every
    printed total reconciled against the numbers it totals) plus the independent-extractor
    control. No claim here rests on an unverified rendering.
+
+---
+
+# Family C - the per-vessel register (added 2026-09-28, same run)
+
+Runner: `scripts/extract/publishers/run_ppa_vessels.py`. The 152 `Cargo, GRT and DWT
+Statistics by Commodity Group` PDFs (Port Hedland), 5-10 pages each, no ruling lines.
+
+## Result
+
+| measured | value |
+|---|---|
+| documents parsed | **151 / 152** (1 skipped, see below) |
+| failures | **0** |
+| pages parsed | **1,122** |
+| rows extracted | **41,875** -> **38,097** unique after dedupe |
+| vessel rows with an unparseable date | 3 (rejected) |
+| vessel rows with no numeric GRT/DWT | 0 |
+| unique vessel names | **4,253** |
+| months | **138**, 2015-01 -> 2026-08 |
+| cargo groups | Iron Ore 33,383 / General 980 / Containers 891 / Hydrocarbon 891 / Salt 648 / Manganese Ore 316 / Spodumene Concentrate 288 / Copper Concentrates 256 / +9 smaller |
+| wall time | 104.6 s |
+| output | `data/extracted/ppa/ppa_hedland_vessel_calls.csv` |
+
+Grain: `(date, cargo_group, vessel, country, arrival_date, departure_date, import_volume,
+export_volume, grt, dwt)`. Rows carrying `export_volume` are LOAD (destination country);
+rows carrying `import_volume` are DISCHARGE (origin country). The 2015-era files also carry
+`arrival_no` (`PHPA-2015-00210`).
+
+## The control that makes this trustworthy
+
+Family C is a **per-vessel** table; family A is a **per-country** table, in a different
+document, parsed by a different code path. Summing family C's individual Iron Ore
+`export_volume` cells for a month must therefore reproduce family A's Iron Ore LOAD total.
+
+| measured | value |
+|---|---|
+| months compared | 132 |
+| **exact to the tonne (diff < 1 t)** | **128 / 132** |
+| max relative difference | 0.73% |
+| disagreements | 4 |
+
+The 4 disagreements (2017-11, 2018-11, 2021-09, 2022-11) are **corpus restatements, not
+parse errors**: for each, the two families come from two DIFFERENT documents that state
+different figures for the same month, and each document is internally consistent (family A's
+country rows sum exactly to its own printed Total; family C's vessel rows sum to its own).
+Both readings are kept.
+
+## Defects found and fixed by the trial (each cost a re-measure)
+
+1. `cargo_group` was always NULL - the group label sits alone ~20 pt above its first vessel
+   row, so it belonged to no date-anchored row and was dropped. Leftover words now form
+   their own rows.
+2. Group state was reset on every page. The label appears only where a group STARTS, so
+   continuation pages lost it: Iron Ore exports read 1.84 M t against a true 49.88 M t.
+3. `Arrival No.` (the 2015 layout) was written into `arrival_date` and overwrote the real
+   date, because a dict-order walk let a later band win. Fields are now assigned in band
+   order and never overwritten.
+4. Vessel names were truncated to the first word (`WUGANG` for `WUGANG HAOYUN`): column
+   bands were assigned by containment, and the narrow `Vessel` header band (47.6-72.5 pt)
+   did not reach the second word. Assignment is now by column START.
+5. The header anchor was the word `Vessel`; one 2016-02 file prints no `Vessel` header at
+   all, and `min(y)` of the anchors picked the TITLE line (`Cargo, GRT and DWT ...`).
+   The anchor is now the lowest header word above the first data row, with the
+   reporting-period line excluded.
+
+## Skipped document (named)
+
+`corpus/09-ppa/ppa_pdf/a2c617ad59c5.pdf` (2016-02, 9 pages) - its header prints no `Vessel`
+column, so the vessel names have no label. Left unlabelled rather than guessed, per the
+project rule that a wrong value is worse than a missing one. 1 of 152 documents.

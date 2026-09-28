@@ -4,13 +4,12 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-**NEXT SOURCE - corrected 2026-09-28 14:5x:** `corpus/09-ppa` families A+B are now BUILT
-and verified (`docs/ppa_verdict.md`, `docs/ppa_survey.md`, runner
-`scripts/extract/publishers/run_ppa.py`). Do NOT redo them. The remaining work on this
-source is **family C - the 152 per-vessel "Cargo, GRT and DWT Statistics by Commodity
-Group" PDFs (5-10 pages each, borderless, Vessel / Arrival / Departure / Import / Export /
-GRT / DWT / Destination-Origin / Cargo)** - a genuinely missing grain (vessel-level port
-calls) that needs its own measured pipeline. Then `corpus/02-hellenic` ~2,798 without md.
+**NEXT SOURCE - corrected 2026-09-28 15:2x:** `corpus/09-ppa` is **COMPLETE** - all three
+families built and verified (`docs/ppa_verdict.md`, `docs/ppa_survey.md`; runners
+`scripts/extract/publishers/run_ppa.py` and `run_ppa_vessels.py`). Do NOT redo them.
+NEXT TARGET = **`corpus/02-hellenic` ~2,798 without md** - run the three-baseline test per
+sub-publication FIRST (the register already claims 992 hellenic series, so much of it may
+already be ours; `scripts/extract_demolition_pdfs.py` already consumes part of it).
 Earlier lead (still true) - do NOT start `corpus/04-poten`. It was the
 suggested "biggest first" target but the three-baseline test shows it is ALREADY fully
 extracted (1,087/1,087 md + tables.json, 1,087-row opinions metadata, already in the app,
@@ -31,7 +30,7 @@ tier IS genuinely 0 pct (no data/extracted/md/ppa*). PPA is already DISPLAYED vi
 `docs/PPA_ALREADY_EXTRACTED_FINDING.md`, `data/extracted/supervisor_verify_20260928_1420.json`,
 file list `scratch/supervisor_verify/ppa_42_files.json`. Scope the PPA work to 42 docs.
 
-Last updated: 2026-09-28 14:55 IST (ppa families A+B BUILT + verified, 0 failures, 100% arithmetic pass - see docs/ppa_verdict.md) (banchero BLOCKED - LlamaParse credits exhausted, see
+Last updated: 2026-09-28 15:25 IST (ppa COMPLETE - families A+B+C, 0 failures; family C cross-checked against family A exact to the tonne on 128/132 months) (banchero BLOCKED - LlamaParse credits exhausted, see
 ACTIVE JOB below; ism merged-series defect FIXED - see `docs/ism_series_fix_verdict.md`)
 
 **2026-09-28 12:50 note for the next run - READ BEFORE TOUCHING banchero:**
@@ -169,6 +168,7 @@ Method for every source, in order:
 | agora | 213/213 | `data/extracted/md/agora/` | 10,002 rows, 42,013 value words, 3 unaccounted in the whole corpus, 53s, 0 failures. Independent verify: 0 failures, 426/426 semantic crude/Brent gates, 212/212 BDI. US/EU convention switch mid-2022 - derived PER DOCUMENT. `docs/agora_verdict.md`. |
 | ism | 112/112 | `data/extracted/md/ism/` | **charts only, NO tables** (measured). SERIES RE-KEYED 2026-09-28: entity key + multi-year axis fix, 32,114 -> 29,948 rows, rows >10% spread 2,269 -> 1,178. `docs/ism_series_fix_verdict.md`. 444 charts, 1,678 series, 84,035 weekly points, 0 failures, ~35 s. 96.8% labelled, 0 mislabelled, 0 unverified axes, 443/444 linear x. `docs/ism_verdict.md` (12 defects found+fixed), `docs/ism_survey.md`. |
 | lion | 43/44 (1 skipped) | `data/extracted/md/lion/` + `data/extracted/lion_deals.parquet` + `lion_demometer.parquet` | 1,145 deal rows, 516 demometer rows, runner `scripts/extract/publishers/run_lion.py`. The 44th file is a star-asia reprint (RESTATEMENT, skipped). Verification found and fixed **3 en-bloc pricing defects in 38 of 1,145 rows**; demometer recall 736/736 printed numbers, 0 mismatches. `docs/lion_verdict.md`. |
+| ppa family C (per-vessel) | 151/152 (1 skipped, named in the verdict) | `data/extracted/ppa/ppa_hedland_vessel_calls.csv` (38,097 rows, 4,253 vessels, 138 months 2015-01..2026-08) | Runner `scripts/extract/publishers/run_ppa_vessels.py`, 0 failures, 104.6 s. Cross-family control: per-vessel Iron Ore export summed per month reproduces family A's country-matrix total **exactly on 128/132 months**; the 4 others are corpus restatements (two different documents, each internally consistent). 5 defects found by the trial and fixed. |
 | ppa (families A+B) | 255 + 83 | `data/extracted/ppa/ppa_hedland_trade_series.csv` (4,591 rows, 133 months 2015-01..2026-08) + `ppa_dampier_fy_series.csv` (4,344 rows, 290 months, FY2002-03..FY2026-27) | Runner `scripts/extract/publishers/run_ppa.py`. 0 failures; arithmetic self-check 6,210/6,210 + 873/873 (100%). Independent control vs the pre-existing `australia_ppa_iron_ore.csv`: Hedland 126/126 months, Dampier 289/290 (the 1 = a documented 2016-10 restatement between two Wayback snapshots). Family C (152 per-vessel PDFs) NOT built. `docs/ppa_verdict.md`, `docs/ppa_survey.md`. |
 | fearnleys | SKIPPED | `data/extracted/md/fearnleys/` (record only) | **User decision 03:05: the publisher is already ingested structurally** (Hasura: 11,732 comments, 62MB fixtures, route dailies, T/C, S and P) - the PDFs are a worse copy. An extraction was already in flight and completed anyway: 257/257, 16,326 rows, 267s, 0 failures. Kept as `docs/fearnleys_extraction_record.md` (7 transferable defects). Do NOT re-extract and do NOT treat it as new data. |
 

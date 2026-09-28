@@ -73,3 +73,22 @@ what the new runner produces.
 * `_root_pdfs/test_download.pdf` - an **ASX site access/terms page** (HTML served as PDF).
 
 All three are skipped by content check, never parsed.
+
+## Family C fingerprint (measured 2026-09-28)
+
+Header columns, counted over all 152 docs:
+`Vessel | Arrival Date | Departure Date (spelled "Depature" in 82 of them) | Import Volume |
+Export Volume | GRT | DWT | Destination/Origin Country | [Cargo Complete] | <first cargo
+group>`. The 2015-era files (7 docs) use the older order
+`Arrival No. | Vessel | Arrival Date | Departure Date | Import Volume | Export Volume |
+GRT | DWT`. One 2016-02 file prints no `Vessel` header word at all.
+
+* **No ruling lines** (1-2 drawings per page) - the table is defined by text alignment.
+* Row pitch ~11.3 pt, but the **Export Volume glyphs sit ~2.9 pt lower** than the rest of
+  their row (baseline offset). A fixed y band splits them off; rows must be grouped on the
+  date/vessel words and the remaining words attached to the nearest row.
+* A CARGO GROUP label ("Iron Ore", "Containers") sits alone on its own row and applies to
+  every vessel row beneath it, **including across pages** - continuation pages carry the
+  header but no label.
+* A vessel appears several times for the same arrival, once per country. Rows carrying
+  Export Volume are LOAD (destination), rows carrying Import Volume are DISCHARGE (origin).
