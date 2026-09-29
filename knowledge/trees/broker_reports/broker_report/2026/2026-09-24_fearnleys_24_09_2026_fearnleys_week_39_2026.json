@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026",
+  "parent_id": null,
+  "title": "Fearnleys Week 39 2026",
+  "section_path": [
+    "Fearnleys Week 39 2026"
+  ],
+  "section_path_text": "Fearnleys Week 39 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Week 39 2026\n**Broker**: Fearnleys\n**Published Date**: 24/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-39-2026/](https://www.hellenicshippingnews.com/fearnleys-week-39-2026/)\n\nMarket Report Content\nFearnleys\nWeekly Report\nWeek 39 - September 23, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nAfter last weeks fixing frenzy with rates jumping into the WS 800's for Fujairah-GOO\neastbound cargoes things have calmed down this week. That is not to say that rates\nare set for a downward spiral, but the immediate upward pressure has eased and\nsome \"profit taking\" is to be expected. But even if rates were to drop, say 100 points, a\nWS 700 Fujairah-GOO/East is nevertheless historically highs and if you add 3 zero's,\ndaily earnings are not far off the WS number.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3280,
+  "source_path": "reports/broker_reports/2026/fearnleys_24_09_2026_fearnleys_week_39_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/fearnleys-week-39-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026__s01_fearnleys_week_39_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026__root",
+      "title": "Fearnleys Week 39 2026",
+      "section_path": [
+        "Fearnleys Week 39 2026"
+      ],
+      "section_path_text": "Fearnleys Week 39 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Fearnleys\n**Published Date**: 24/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-39-2026/](https://www.hellenicshippingnews.com/fearnleys-week-39-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/fearnleys-week-39-2026",
+        "broker",
+        "date",
+        "fearnleys",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-24_fearnleys_24_09_2026_fearnleys_week_39_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fearnleys\nWeekly Report\nWeek 39 - September 23, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nAfter last weeks fixing frenzy with rates jumping into the WS 800's for Fujairah-GOO\neastbound cargoes things have calmed down this week. That is not to say that rates\nare set for a downward spiral, but the immediate upward pressure has eased and\nsome \"profit taking\" is to be expected.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3202,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

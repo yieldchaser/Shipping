@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 47"
+date: "2023-11-24"
+display_date: "24 November 2023"
+year: 2023
+week: 47
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-47.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 771
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-11-24_bulk-report-week-47_dry.html"
+---
+
+# Bulk Report – Week 47
+
+**Date:** 24 November 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-47.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-47.html)  
+
+---
+
+### Capesize
+
+For the first half of the week, the market faced subdued activity, particularly in the Pacific with a slight downward movement on rates on C5. The Atlantic market also experienced limited activity, with discussions on C3 reflecting a somewhat subdued sentiment. As the week progressed, the Pacific saw lower trading volumes, resulting in a decline in market activity and increased pressure, with rates on C5 dropping by approximately a further 85 cents. However, the Atlantic witnessed heightened activity late in the day, particularly originating from South Brazil and West Africa to the Far East. A positive shift occurred in the pacific on Thursday, with two out of three miners actively participating in the market, accompanied by a handful of operator-controlled cargoes, halting the rate decline on C5 and leading to a notable recovery of lost ground. As the week draws to a close, all three miners have been present and C5 has surged by $1.35. The Atlantic market also saw increased activity, contributing to significant rate recovery, especially from South Brazil and West Africa to the Far East routes, with the early arrival demanding a significant premium. The North Atlantic, although relatively quiet, maintained positive sentiment due to a fresh influx of cargoes and constrained tonnage supply, resulting in significantly stronger fixtures towards the end of the week. The BCI 5TC started the week at $22,447 and dropped to $20,029 by mid-week to close today at $28,071.
+
+### Panamax
+
+Another week of upward momentum in the Panamax market, with the North Atlantic trips seeing the largest gains. In the Pacific, healthy coal enquiry from Australia and Indonesia kept rates relatively stable on the week, whilst solid grain demand ex NoPac also lent support in the north of the basin. There has been slower trade volume from South America, although an 81,000-dwt delivery Singapore fixed at $14,250 for a trip via EC South America redelivery Far East. In the east ex Australia, an 81,000 dwt delivery Japan achieved a shade over $15,000 for an Australian mineral round trip whilst from Indonesia some contrasting rates, with a 75,000 dwt vessel agreeing to $14,000 for an Indonesia to China trip. In the early part of the week, a 75,000 dwt vessel fixed at $12,500 for a similar run. A flurry of period fixtures, including reports of an 82,000 dwt delivery Japan-China achieving $14,500 for two years employment.
+
+### Ultramax/Supramax
+
+The positive momentum continued throughout the week despite the holiday in the United States and Japan. The Atlantic saw sustained demand from key areas such as the US Gulf and it was a similar story from South America, with a 53,000 dwt heard to have fixed delivery Santos for a fronthaul in the mid $15,000s plus mid $500,000s ballast bonus. In the US Gulf a 56,000 dwt fixed at $30,000 for a trip to the United Kingdom. Mixed signals from the Asian arena but overall it remained cautiously optimistic. A 61,000 dwt open North China fixing an Australian round at $11,500, while further south, a 58,000 dwt open Sarawak was fixed for a trip via Indonesia redelivery China at $13,000. Sustained demand in the Indian Ocean saw a 63,000 dwt fixing delivery Visakhapatnam for a trip via South Africa for a fronthaul at around $14,500. It was also worth noting that period activity increased a 63,000-dwt open Italy was heard for 3 to 5 months trading at $18,500.
+
+### Handysize
+
+The Atlantic saw daily improvements due to limited tonnage availability. On the US East Coast, charterers continued to source tonnage from further afield with a 38,000 dwt fixing from Tyne, UK via St Lawrence to the Continent-Mediterranean at $18,000 whilst a 38,000 dwt opening in Casablanca was fixed basis delivery Escoumins via Quebec to the UK-Continent at $27,500. In the Mediterranean, a 39,000 dwt fixed from Nemrut Bay to the US Gulf at 12,000 for the first 45 days and $13,500 for the balance. In the South Atlantic, a large handy was rumoured to have been bid in the upper teens for a trip from Recalada to North Coast South America. In Asia, sentiment was also showing signs of positivity but at present limited information had yet to surface. Period activity was said to be limited as owners look to maximise income from the present improved markets, although a 35,000 dwt opening in Mundra was fixed for 2 to 3 LL at $9,900.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

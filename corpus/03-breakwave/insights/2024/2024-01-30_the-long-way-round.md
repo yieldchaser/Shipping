@@ -1,0 +1,42 @@
+---
+title: "The Long Way Round"
+date: "2024-01-30"
+display_date: "January 30, 2024"
+year: 2024
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2024/1/30/the-long-way-round"
+images_count: 2
+word_count: 621
+source_file: "corpus/03-breakwave/insights/2024/2024-01-30_the-long-way-round.html"
+---
+
+# The Long Way Round
+
+**Date:** January 30, 2024  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2024/1/30/the-long-way-round](https://www.breakwaveadvisors.com/insights/2024/1/30/the-long-way-round)  
+
+---
+
+![Gibson Report](assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
+
+> **Figure 1: Gibson Report**  
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
+
+## The Long Way Round
+
+As Europe steps into spring having survived its first full winter without Russian diesel, the Continents fuel supply is once again disrupted. Ultimately, the world appears sufficiently supplied with refined products, however, with freight costs, delivery times and product prices all being dramatically impacted by the Red Sea crisis, the clean trade is set for another shift, even if it proves to be just a temporary one.
+
+Disruptions in the Red Sea coincide with the start of global refining maintenance season, with US outages projected to peak in February and European overhauls around March. Given lower domestic output from the US and Europe, it makes supplies from East of Suez even more vital to the Europe’s energy security in the near term.
+
+Logically, the disruptions to the Red Sea route should increase the attractiveness of barrels from the US Gulf particularly given healthy distillate stocks in the region. However seasonal maintenance will tighten balances, limiting the Gulfs ability to redirect supplies, particularly if recent attacks on Russian refineries impacts product flows into Latin America. Last year, the Middle East and India supplied over 1 million b/d of refined products into Europe, most of which transited via the Suez Canal. The United States supplied over 280kbd out of total exports of 2.3mbd, suggesting that although the States could in theory supply Europe, it would need to divert barrels away from its core Americas markets to do so. It is also worth noting that despite new logistical challenges for exporters in the Middle East and India, the region has a large product surplus that will be exported, if not West, then to Eastern destinations. Supplies into the West from the Far East may also increase. Long haul barrels from Asia are now less disadvantaged compared to Middle Eastern supplies than they were before the crisis. Accounting for the Cape of Good Hope routing, the delivery time from Singapore vs. the Middle East Gulf is just 1.5 days longer. Although cargoes are more likely to come from North Asia than the Singapore market, it increases the chance of higher flows from China and Korea to Europe. Yet for these flows to materialise, Europe has to price itself above both local Asian and West Coast Latin American demand, which has drawn increased volumes from North Asia in recent months due to Panama bottlenecks.
+
+The biggest challenge for traders now is that rates have risen to such an extent that in some cases, it no longer makes sense to move the product. To overcome this barrier, something will have to give either in terms of commodity prices or freight costs. Ultimately, the Red Sea crisis will continue to add volatility to the market. Whilst the current strength of clean tanker rates is unlikely to be sustainable, being driven in part but the uneven supply of tonnage across the globe, the rate floor has been set higher, all the while the Red Sea remains off limits for many tanker owners.
+
+![Screenshot 2024 01 30 10.08.57](assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
+
+> **Figure 2: Screenshot 2024 01 30 10.08.57**  
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
+
+Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

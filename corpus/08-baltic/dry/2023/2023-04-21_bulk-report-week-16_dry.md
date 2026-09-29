@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 16"
+date: "2023-04-21"
+display_date: "21 April 2023"
+year: 2023
+week: 16
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-16.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 685
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-04-21_bulk-report-week-16_dry.html"
+---
+
+# Bulk Report – Week 16
+
+**Date:** 21 April 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-16.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-16.html)  
+
+---
+
+### Capesize
+
+This week the market saw a slow start, with a healthy supply of tonnage in the Pacific and limited enquiry, particularly from East Coast Australia to China. The market continued to deteriorate on thin volume. By the middle of the week all three majors were in the market from West Australia to China, albeit briefly, and fresh enquiry began to emerge from East Coast Australia to China. A positive paper market also helped to create optimistic sentiment, although towards the end of the week sources had said there had been some profit taking which resulted in rates losing ground. The North Atlantic appeared to be tight on tonnage and at the start of the week and there was a noticeable lack of activity. However, during the week, more enquiry surfaced and stronger fixtures from the North Atlantic were being concluded. As the week comes to an end, most of the activity today has been in the Pacific, mainly from West Australia to China with iron ore, several vessels have been fixed, all at firmer levels. Overall, it has been a positive end to the week.
+
+### Panamax
+
+Slow and small gains was the story on the week for the Panamax market. The Atlantic appeared tonnage tight and very positional for the most part with grain trades paying a premium still. Further south, index dates ex EC/NC South America found some levels of support with rates hovering around the $16,000 mark basis route P6 criteria. Asia returned a mixed bag, the north of the arena failed to produce any meaningful demand, allied with an increasing tonnage count the week ended with Charterers seemingly holding the trump cards. Conversely, the south saw a good flow of mineral demand both ex Indonesia and Australia with rates slowing improving as the week progressed, $12,500 concluded several times via Indonesia to China on 76,000-dwt tonnage with this mark now closer to $13,000. Period rates remained steady all week with several deals concluded, $18,000 agreed a few times for one-year period on 82,000-dwt types.
+
+### Ultramax/Supramax
+
+A more positive week for the sector. In the Atlantic stronger numbers were seen from the US Gulf with a shift in tonnage to enquiry balance. Similarly, from East Coast South America, brokers spoke of a tightness in supply of open tonnage. From Asia, with the Eid holidays approaching, there was more coal enquiry from Indonesia which in turn saw an uptick in rates. Further north, demand was steady from the NoPac and there was continued interest for backhaul cargoes. From the US Gulf, a 63,000-dwt was heard to have fixed a petcoke run to India at $30,000. Elsewhere, a 63,000-dwt fixed delivery Recalada for a trip to China at $16,500 plus $650,000 ballast bonus. From Asia, an Ultramax was rumoured fixed for steels run to the Continent basis delivery Kashima at $11,500. From the south, a 59,000-dwt fixed delivery Bahodopi trip via Indonesia redelivery China at $14,250.
+
+### Handysize
+
+Despite widespread holidays at the beginning of the week, positivity continued in the Atlantic and returned to the Asia markets, with brokers speaking of more enquiry across both basins and some areas seeing limited tonnage availability. In the US Gulf, a 37,000-dwt was fixed for a trip from SW Pass to the Eastern Mediterranean with an intended cargo of grains at $13,000. In the Mediterranean, a 32,000-dwt was fixed from Antalya to the Caribbean at a rate between $11,500 to $12,000 and a 36,000-dwt was fixed from Samsun via Constantza to Spain-Portugal range at $15,500.  In Asia, a 40,000-dwt open in Zhoushan to the Continent-Mediterranean range with an intended cargo of Steels at $12,500. Another 40,000-dwt was fixed from North China via Australia to the Continent-Mediterranean range with an intended cargo of concentrates at $11,500. A 33,000-dwt fixed from Samalaju via Western Australia to East Coast India with Redelivery passing Penang at $9,500.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

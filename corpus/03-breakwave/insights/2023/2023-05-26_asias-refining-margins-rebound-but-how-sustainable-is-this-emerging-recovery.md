@@ -1,0 +1,59 @@
+---
+title: "Asia’s refining margins rebound but how sustainable is this emerging recovery?"
+date: "2023-05-26"
+display_date: "May 26, 2023"
+year: 2023
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2023/5/25/asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery"
+images_count: 3
+word_count: 1187
+source_file: "corpus/03-breakwave/insights/2023/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery.html"
+---
+
+# Asia’s refining margins rebound but how sustainable is this emerging recovery?
+
+**Date:** May 26, 2023  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2023/5/25/asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery](https://www.breakwaveadvisors.com/insights/2023/5/25/asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery)  
+
+---
+
+## Asia’s Refining Margins Are Firming Somewhat But Competition From New Middle East and African Refineries Could Limit Any Strength.
+
+*By*[*Serena Huang*](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABLKb1YBSSkHNePCJagWajiyco7RH63bTuY&keywords=serena%20huang&origin=RICH_QUERY_SUGGESTION&position=0&searchId=c9cdbb5b-88b5-475f-a981-23b129e1b8dd&sid=CSy)
+
+Asia’s refining margins are showing early signs of recovery in mid-May after a slowdown in the first four months of this year, but any sustained period of strength is far from guaranteed. Robust demand and an expected tightening of clean product inventories in the region amid heavy refinery turnarounds could strengthen margins further in the weeks ahead, but a re-opening of arbitrage options to the West of Suez will be key to lift margins higher. Historically, Asian refiners have capitalised on these arbitrage opportunities during the third-quarter seasonal demand uptick from the west, but rising Middle East supplies due to new capacity ramp-ups are limiting the prospects this year.
+
+## Southeast Asia’s Transportation Fuel Demand Resilient So Far
+
+Transportation fuel demand in several Asian countries has proven resilient this year, despite the challenges of high inflationary pressures, rising interest rates and mounting debt issues. Combined imports of gasoline, jet/kero and diesel/gasoil into Southeast Asia (excluding Singapore and Malaysia) are up 8% year-on-year between January and April, with the upward trend persisting into May, based on Vortexa’s preliminary data. The strength in imports has been underpinned by flourishing manufacturing activities in countries like the Philippines, Thailand, and Vietnam, and robust road travel due to government fuel subsidies, which seem likely to continue.
+
+![Southeast Asia Cpp Imports Chart](assets/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery_img_southeast-asia-cpp-imports-chart_189cd9e34da1.png)
+
+> **Figure 1: Southeast Asia Cpp Imports Chart**  
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-05-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22c%22%2C%22v_o%22%2C%22sts%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%229256907ba7e4ed11ff03aa297a7e62e14484ce5a85c8118c7495b9120ad0e268%22%2C%22d72edbab2b5e2e249d8c216909945922a02eb017dd200f90876fee6fa180c743%22%2C%22deda35eb9ca56b54e74f0ff370423f9a8c61cf6a3796fcb18eaeeb32a8c290bb%22%5D&tabId=550a00b0-d1fa-4166-9940-ed0ba587b717&timeSeriesProperty=destination_country&to=%5B%221020a49b41b8d5180b49f12abfb8932fe1ef56ca254755a34a0f96fec1d6b6d0%22%2C%225ad0e75a5119ff6de36d3fab783202c0224e685aa48461aed16aa72aa3960d21%22%2C%2213b1475cbe243903914ceaa33c2335db2d7e0c23c79e0df8a0da7d8d311944ee%22%2C%22612eeab9024bfb733a1bb626524d40d7ace1c637097bf76d36d9395e269f4170%22%2C%22a17c19d4f322a201c1d136e828f69673ed2a7428f28f217f330379c5decefd1d%22%2C%22065aab207e6fe875caf93419bd6cfedcbb0933098c75e52a6702b75bdfe71c53%22%2C%22e1638e7a3cb9bd9c9b75f8903770c6fb3abe09f3aebca59447b2750c73b77fd5%22%2C%22833d6983cdb9e4c6c12bf3022bdae163f91a51f1cf9876c955137e5f996f9763%22%5D&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery_img_southeast-asia-cpp-imports-chart_189cd9e34da1.png)
+
+## East Asia’s Clean Product Exports to Slow, India Supplements Southeast Asia’s Demand
+
+Although clean product exports from East Asia recorded a month-on-month rebound of 20% over 1-18 May, exports could slow in the weeks ahead amid the region’s heavy refinery maintenance. China is slated to take at least 1mbd of refining capacity offline in June, with Japan and South Korea planning a combined 1mbd of maintenance in the same month. Lower exports to major markets in Southeast Asia and Oceania (i.e. Australia and New Zealand) will likely be compensated by increased volumes from India. The two region’s imports of clean products from India have been rising steadily over the past two months, up between 65 – 70kbd each during this period. In spite of this, light and middle distillate inventories in Singapore have reportedly tightened in May, buoying regional cracks.
+
+![East Asia’s Clean Product Exports (Kbd](assets/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery_img_east-asia-cpp-exp-and-imports-from-i_db945cb01468.png)
+
+> **Figure 2: East Asia’s Clean Product Exports (Kbd**  
+> *East Asia’s clean product exports (kbd, LHS)andSoutheast Asia and Oceania’s clean product imports from India (kbd, RHS)*  
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-05-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22sts%22%2C%22w%22%5D&from=%5B%22212fb4cfc862391faeacc63aa3ceb446a1c5ba6073da2a4e514a496e4c850635%22%5D&geoBreakdownDestinationGlobal=shipping_region&metric=bpd&page=Flows&products=%5B%22deda35eb9ca56b54e74f0ff370423f9a8c61cf6a3796fcb18eaeeb32a8c290bb%22%2C%22d72edbab2b5e2e249d8c216909945922a02eb017dd200f90876fee6fa180c743%22%2C%229256907ba7e4ed11ff03aa297a7e62e14484ce5a85c8118c7495b9120ad0e268%22%5D&tabId=26cd0253-eecc-4072-8fb3-7f3c8e3e912d&timeSeriesProperty=origin_country&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery_img_east-asia-cpp-exp-and-imports-from-i_db945cb01468.png)
+
+## East Asia’s Arbitrage to West of Suez Under Threat
+
+The Middle East’s new big refineries – Jizan and Al Zour – have been raising crude runs, adding over 240kbd of seaborne clean product exports to the market in the first four months of this year. Compared to East Asian refineries, these new refineries have the competitive advantages of cheaper feedstock, lower operational costs and more importantly, closer proximity to import markets such as Europe, Africa and Latin America.
+
+Furthermore, Nigeria’s Dangote refinery, which is reportedly being commissioned this week, may contribute to supplies, although exports may only materialise in the fourth quarter or some time next year. East Asian refiners have exported around 430kbd of clean products to the West of Suez in the third quarter of the last two years. However, they may have to adjust their expectations this year given increased competition from the Middle East, the Nigerian wild card, as well as concerns on the health of product demand in the Atlantic Basin amidst currently high refinery runs in Europe and the US.
+
+![Jizan and Al-Zour Refinery Clean Product Exports (Kbd](assets/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery_img_jizan-al-zour-cpp-exp-chart-1_38f94907839e.png)
+
+> **Figure 3: Jizan and Al-Zour Refinery Clean Product Exports (Kbd**  
+> *Jizan and Al-Zour refinery clean product exports (kbd, LHS)andEast Asia clean product exports to West of Suez (kbd, RHS)*  
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2022-01-01T00%3A00%3A00.000Z__2023-05-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22c%22%2C%22v_o%22%2C%22sts%22%5D&from=%5B%22ca08823d38fba070b19ee3e0fa8b5a6bd294a78dff5bca85388988438f444dda%22%2C%223a50f821c26544790da24371bbc85eb25b55b956f069f309018b54cfb2ab2c9a%22%5D&metric=bpd&page=Flows&products=%5B%229256907ba7e4ed11ff03aa297a7e62e14484ce5a85c8118c7495b9120ad0e268%22%2C%22d72edbab2b5e2e249d8c216909945922a02eb017dd200f90876fee6fa180c743%22%2C%22deda35eb9ca56b54e74f0ff370423f9a8c61cf6a3796fcb18eaeeb32a8c290bb%22%2C%223e4db72ef7027de928ce55703a213a546fd86d2debe6f2e9c85f3a5f9d53e8dd%22%5D&tabId=550a00b0-d1fa-4166-9940-ed0ba587b717&timeSeriesProperty=origin_port&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery_img_jizan-al-zour-cpp-exp-chart-1_38f94907839e.png)
+
+Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)

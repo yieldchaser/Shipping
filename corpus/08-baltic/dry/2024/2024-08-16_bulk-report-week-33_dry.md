@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 33"
+date: "2024-08-16"
+display_date: "16 August 2024"
+year: 2024
+week: 33
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-33.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 670
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2024/2024-08-16_bulk-report-week-33_dry.html"
+---
+
+# Bulk Report – Week 33
+
+**Date:** 16 August 2024  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-33.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-33.html)  
+
+---
+
+### Capesize
+
+This week the capesize market saw a strong start in the Pacific, with consistent activity from all three major miners driving rates upward. Early in the week, the C5 index showed solid gains and this positive momentum continued through to Wednesday as rates climbed steadily, with the C5 index reaching $11.03. There were also notable gains in the Atlantic markets with the C3 index peaking at $25.55. However, the end of the week saw a shift in sentiment, with a noticeable drop in activity as the paper market turned negative. This led to decreased fixing levels, particularly on Thursday, where both the C5 and C3 indices fell, reflecting the softer market conditions. Despite the positive start, the week ended on a somewhat more subdued note as rates in the Pacific stablised. The BCI 5TC index closed at $21,037, reflecting a slight dip of just $47, after beginning the week at $20,008.
+
+### Panamax
+
+The Panamax market provided further losses this week and is showing little signs of abating. Despite a steady level of activity, this failed to stem the tide with the Atlantic yielding sizeable losses. The Atlantic saw rates erode for a further successive week as pressure from the nearby and committed ships continued to underpin the market. From East Coast South America, the focus this week was on early September arrival with APS load port rates now hovering around the $17,500 + $750,000 mark but limited activity played out for route P6 arrival dates. Conversely, Asia witnessed a week of steady gains, with steady demand on the longer round trips including early season US Gulf stems adding limited support to rates. There were reports midweek of an 82,000-dwt delivery China achieving $13,000 for an Australian round trip, which was around the mean average for the week. There was limited period activity but this included an 81,500-dwt vessel agreeing $14,000 for a 10/12 month charter.
+
+### Ultramax/Supramax
+
+As the holiday season continued, it was another rather uninspiring week for the sector. The Atlantic was a split affair with limited fresh enquiry appearing from the US Gulf putting downward pressure on rates. A 57,000-dwt was heard fixed delivery US Gulf for a trip WC India at $23,500. From the South Atlantic, a slightly more balanced week as demand trickled into the market. Elsewhere it was described as positional, with a 56,000-dwt fixing delivery West Africa for a trip redelivery EC India – China at $16,000. From Asia, as the week progressed, it became clear that the recent lull in activity had slowed as more enquiry entered into play and positive sentiment returned. A 56,000-dwt open Singapore fixing a trip via Indonesia redelivery China in the mid $15,000s. Further north, a 61,000-dwt open Japan fixed a trip via the NoPac redelivery Baltic at $12,000. Period activity started to surface again, with a 63,000-dwt open Singapore fixing about seven months to maximum 10 months trading at $17,000.
+
+### Handysize
+
+What can only be described as a positional week for the sector as the lacklustre feel continued. The Continent – Mediterranean regions had limited support although a 33,000-dwt was heard fixed for a scrap run from the Baltic to the East Mediterranean in the low to mid $10,000s. Rates from the South Atlantic remained rather flat, but a 38,000-dwt was fixed from EC South America to the West Mediterranean in the mid $18,000s. The US Gulf saw limited interest, with a 35,000-dwt fixing a trans-Atlantic run from Tampa in the mid $15,000s. In the Pacific market, activity remained unmoved with the demand-supply spread at an equilibrium with rates generally remaining unchanged. Although some felt that there was slightly better levels of fresh enquiry appearing as the week came to a close, it remained to be seen if this would yield any change in fortunes for the owning side.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

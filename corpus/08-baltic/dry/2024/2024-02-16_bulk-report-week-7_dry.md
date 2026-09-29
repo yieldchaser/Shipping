@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 7"
+date: "2024-02-16"
+display_date: "16 February 2024"
+year: 2024
+week: 7
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-7.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 743
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2024/2024-02-16_bulk-report-week-7_dry.html"
+---
+
+# Bulk Report – Week 7
+
+**Date:** 16 February 2024  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-7.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-7.html)  
+
+---
+
+### Capesize
+
+The week started on a subdued note as Asia observed Lunar New Year holidays, all three major mining companies active in the Pacific, contributing to an upbeat sentiment despite minimal activity elsewhere. Conditions were notably calm from South Brazil and West Africa to the Far East at the early part of the week, leading to a noticeable disparity between the bid and offer prices on C3. By mid-week it was rather a mixed market, the overall sentiment leaned towards a slight softening in the Pacific. Activity in the Atlantic picked up as the week progressed, tonnage in the North Atlantic region had been tight all week, resulting in a robust fixture from East Coast Canada to the Far East which led to a noticeable uptick in the C9 index. Conditions in South Brazil and West Africa started to stabilize towards the end of the week, with reports of a major fixing at $24.00, from Tubarao to China resulting in C3 index settling at $24.275 on the day. Towards the end of the week, there has been a decline in overall activity. However, in the Pacific, owners displayed resistance, a move that seems to have been rewarded as the C5 index increased by 0.65, reaching $9.70 today to end the week on a positive note.
+
+### Panamax
+
+An energetic week with EC South America claiming the headlines with activity stepping up for March arrivals. Index type tonnage fixing at around $16,000-$16,500 was achieved several times basis delivery India via EC South America redelivery Singapore-Japan whilst the scrubber fitted fleet commanded premium levels. By comparison demand was slow in the north with many of the ballasters continuing to price competitively for NC South America grain business. In large parts of Asia, it was a shortened week which created a little confusion, however sentiment returned firm with all three major loading origins returning small increments in rates. This was aided by staunch support from the Americas and a robust period time charter market. A mix of rates seen for trips via NoPac including reports of a 75,000-dwt delivery Japan for a NoPac round trip at $11,750. Various period rumours including an 82,000-dwt delivery South China fixing basis one year at $18,250.
+
+### Ultramax/Supramax
+
+A rather protracted week with the Asian arena lacking fresh impetus during the first part dominated by the Chinese New Year holidays. Having said that the week ended with stronger demand and rates were being seen from the region. The Atlantic similarly had a rather positional feel about it. The recent gains made from key areas such as the US Gulf being driven back with limited fresh enquiry as the weekend approached. Period cover remained in play, a 63,000-dwt open China fixing one year at $16,500, whilst another 63,000-dwt open Arabian Gulf fixed five to seven months trading at around $17,000. From the Atlantic, a 64,000-dwt was fixed from the US Gulf to Asia at $30,500. A 61,000-dwt fixed from Spain to the US East Coast in the upper $10,000s. The Indian Ocean remained active, a 58,000-dwt fixing from Karachi to South Asia in the mid $20,000s. From South Africa, a 63,000-dwt fixed for a trip to China at $24,000 plus a $240,000 ballast bonus.
+
+### Handysize
+
+Despite limited visible activity across the handy sector, pockets of positivity remained. On the Continent improving levels of scrap and lumber requirements brought gains for Owners, a 30,000-dwt semi-open hatch box-shaped vessel fixing from Riga to Houston with a cargo of lumber at around $11,000, whilst a 39,000-dwt was fixed from Flushing to West Africa at $13,000.  Levels In the Mediterranean remained balanced, as a 35,000-dwt fixed from Alexandria to the Spanish Mediterranean at $12,000.  With Carnival in Brazil activity was minimal and improvements were expected next week.  The US Gulf remained under pressure with limited cargo availability for the remainder of February, a 38,000-dwt was fixed from the US Gulf for a trip to Morocco with an intended cargo of coal at $10,750. In Asia, despite the widespread holidays levels had remained steady.  Period interest also remained as a 35,000-dwt opening in Morocco was fixed for three to five months with worldwide redelivery at $15,000.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

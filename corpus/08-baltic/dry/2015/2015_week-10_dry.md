@@ -1,0 +1,47 @@
+---
+title: "Week 10"
+date: "2015-03-06"
+display_date: "06 March 2015"
+year: 2015
+week: 10
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/week-10.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 621
+sections_count: 3
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2015/2015_week-10_dry.html"
+---
+
+# Week 10
+
+**Date:** 06 March 2015  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/week-10.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/week-10.html)  
+
+---
+
+### Capesize
+
+A good volume of fixing in the East and on one day alone over a dozen ships fixed from west Australia to China, but rates remained locked around $4.50. These levels showed very poor returns on time charter and although owners were prepared to fix voyage business they would not do the equivalent time charter rate. An Eco 180,000 toner fixed a round in the East at $5,000 daily. Voyages rates for coal too were at low levels with Dalrymple bay/China under $5.00.
+
+Brazil/China trades were slow although a 20-30 March cargo fixed at $10.50.There was very little North Atlantic activity and rates continued to slip, with talk that a 175,000-tonne 10% cargo from Ponta da Madeira to Gijon was fixed in the low $5.00 range.
+
+### Panamax
+
+Atlantic trading remained very slow with new business this week failing to absorb much of the early tonnage. There was some pressure for charterers with US Gulf cargoes but here too the market now appeared evenly matched. The most active area remained east coast South America, but this was largely for forward business with the list growing from April onwards. However there remained a long list of ships for March and rates for the early positions remained week with rates in the $10,000 daily range plus $100,0000. For later dates levels appeared to be creeping back over $11,000 daily and low $100,000 bonus.
+
+Rates appear to be picking up in the Pacific for trips but still have some way to go for owners to be sure of covering running costs. Period interest too was in evidence with a standard Panamax agreeing $7,000 daily for a short period.
+
+### Supramax / Handysize
+
+A more encouraging week for the owners as rates started to improve in most areas. In the US-Gulf a nicely described 2012 built 58,600 dwt unit was booked for a trip to Singapore-Japan at about $13,000 daily or maybe a shade less. A report also emerged of a 2009 built 56,900 dwt ‘Dolphin’ type being fixed from the US Atlantic to the Continent with wood pellets at around $10,000 daily. From this side, a 1996 built 45,400 dwt ‘Tess 45’ type was reported to have been fixed delivery north Spain via the Baltic with cement to the US-Gulf at $7,000 daily. A better rate even bearing in mind the trade involved. Handysizes remain tight on the Continent with charterers compelled to look further afield, a 33,000 tonner ballasting from the Mediterranean secured $9,500 daily with delivery passing Gibraltar for a trip via north France to West Africa. In addition a 32,000-dwt also in ballast from the Med went for a trip via Morocco to Brazil around $5,000 daily.
+       
+In the East the market also started to show signs of improvement from the recent lows. A new-building 58,000 dwt ‘Tess 58’ type was booked delivery ex-yard Cebu for a trip via south-east Asia to west coast India at $7,000 daily. There was also some encouragement resulting from the appearance of one or two period fixtures. Japanese interests were reported to have fixed a 2007 built 55,600 dwt vessel delivery Tianjin for about 3 to 4 months trading at about $7,750 daily. Although handysize fixtures in the Pacific are hard to come by, there does appear to have been more activity this week which in turn has led owners to become more positive with their ideas.
+
+For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

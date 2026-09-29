@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 20"
+date: "2024-05-17"
+display_date: "17 May 2024"
+year: 2024
+week: 20
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-20.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 691
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2024/2024-05-17_bulk-report-week-20_dry.html"
+---
+
+# Bulk Report – Week 20
+
+**Date:** 17 May 2024  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-20.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-20.html)  
+
+---
+
+### Capesize
+
+This week, the Capesize market saw a steady decline, with the BCI 5TC beginning at $25,773 and dropping daily, except for a modest rise of $962 today, ending the week at $22,180. Despite healthy cargo volumes in the Pacific, market activity was sluggish as the week got under way, partly due to holidays in Asia. The derailment of a Rio Tinto train in Western Australia did not significantly impact the market. Activity in the Pacific increased significantly throughout the week, leading to the market finding a level and a positive turn by the week's end. The C5 index rose by 0.521, closing at $10.656. In the Atlantic, the South Brazil and West Africa to China market also softened, at the early part of the week with an increasing list of available tonnage in ballast, which contributed to declining rates. However, the week ends on a positive note, with reports of improved fixtures on C3, causing the index to rise by 0.314, reaching $25.094.
+
+### Panamax
+
+A lacklustre week for the Panamax market more noticeably in the Atlantic as limited demand was met with an increasing tonnage count. The Atlantic lacked trans-Atlantic demand and returned a predominantly fronthaul led basin with a steady grains and mineral flow from most origins, reports of an 81,000-dwt delivery Continent achieving $26,000 for a trip via US East coast redelivery China. There was little to report on trans-Atlantic, some mineral voyage stems covered, equating to extremely low time charter equivalents. In Asia, a mixed week with the NoPac market lacking any kind of support rates consequently drifted, demand ex Australia picked up over the week with improved levels seen on the nearby position, reports midweek of an 82,000-dwt delivery South China agreeing a rate of $18,750 for trip via EC Australia redelivery China. There was limited period reporting but it did include rumors of an 82,000-dwt delivery Japan fixed basis 10/12 months at $18,500.
+
+### Ultramax/Supramax
+
+A rather subdued week overall which saw rates slip lower. Little in the way of fresh enquiry was seen in the US Gulf and the Continent-Mediterranean lacked fresh impetus with prompt tonnage readily available. A 57,000-dwt was heard fixed delivery Turkey for a trip via Black Sea readily West Mediterranean in the low $13,000s. From East Coast South America brokers spoke of little fresh enquiry for end of May dates which again kept rates in check. A 58,000-dwt went from Santos to Bangladesh at around $17,000 plus $700,000.  In the East, a further lack of fresh enquiry from Southeast Asia also meant rates remained lower than of late. However, the Indian Ocean seemingly gained momentum and some stronger levels were seen. A 63,000-dwt fixed delivery Port Elizabeth for a trip to China in the mid $20,000s plus mid $200,000s ballast bonus. Period activity was limited, a 63,000-dwt open Philippines was fixed for 3 to months trading at $20,500.
+
+### Handysize
+
+Limited cargo availability remained an underlying issue across the Atlantic, whilst in the Mediterranean a 37,000-dwt was placed on subjects basis passing Canakkale via the Black Sea to Barcelona at $8,000.  In the South Atlantic, a 36,000-dwt was fixed for a trip basis delivery Recalada with prompt dates for a trip to West Coast Central America at $23,000, whilst a 38,000-dwt fixed from delivery in the River Plate for a trip to Algeria at $17,000.  Further North a 40,000-dwt was liked to fixing from Vila Do Conde to Norway with an intended cargo of alumina at $14,000 plus a $60,000 ballast bonus. In Asia, a 37,000-dwt logs-fitted vessel was fixed basis delivery in Southern China for a round trip via New Zealand with an intended cargo of logs at $16,000. Period activity also remained as a scrubber fitted 38,000-dwt was fixed for 3 to 5 months at $16,000 with 40% of the scrubber for Charterer's benefit.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

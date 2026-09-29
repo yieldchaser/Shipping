@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 48"
+date: "2025-11-28"
+display_date: "28 November 2025"
+year: 2025
+week: 48
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-48.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 638
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2025/2025-11-28_bulk-report-week-48_dry.html"
+---
+
+# Bulk Report – Week 48
+
+**Date:** 28 November 2025  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-48.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-48.html)  
+
+---
+
+### Capesize
+
+The Capesize market delivered a robust and increasingly confident performance this week, with the BCI 5TC climbing steadily from the low $30,000s to close the week in the $37,000s. The Pacific set the tone early, where consistent miner participation and a busy slate of operator cargoes tightened the tonnage list and pushed C5 progressively higher, with fixtures advancing from the mid-$10s to the high-$11s to $12.00 by the week’s end. Despite occasional dips in the index, underlying demand in the basin remained firm, and sentiment strengthened as supply grew noticeably thinner. In the Atlantic, early hesitancy gave way to a more constructive tone as fundamentals improved. South Brazil to China saw patchier enquiry and date-sensitive bids, with rates holding mostly in the mid-$23s to mid-$24s before lifting to $25 at the close. This was complemented by an increasingly active North Atlantic, where improving fundamentals and stronger fronthaul fixtures added meaningful support. The sharp rise in C8 and C9 underscored the tightening of nearby positions and a marked improvement in sentiment across the northern basin.
+
+### Panamax
+
+The market held a steady tone through the week, supported by firm fundamentals in the US Gulf and US East Coast, while fronthaul grains continued to underpin Atlantic sentiment. The BPI timecharter average opened at $17,498 on Monday and edged up $157 to $17,655 by Thursday. In Asia, tight prompt tonnage supply and active Indonesian demand kept the Pacific well-supported, although by mid-week owners’ offers were being met rather than pushed higher. By Thursday, sentiment had turned more mixed, with some sensing the market was becoming toppy in the Atlantic and that prompt fronthaul routes may be nearing a ceiling especially when coupled with national holidays in motion. A two-tier structure also emerged in Asia, with modern tonnage commanding premiums in Indonesia–Japan trades, while short Indonesian round voyages drew softer bids. Period activity was noted, although many fixtures remained short on detail.
+
+### Ultramax/Supramax
+
+A staggered week with the Atlantic seeing a dip in activity with the Thanksgiving period at the end. The US Gulf saw a slight weakening in rates as the week progressed whilst the South Atlantic remained relatively balanced. A 66,000 dwt fixing delivery Recalada trip to the Arabian Gulf/SE Asia at $17,400 plus $740,000 ballast bonus. The Continent-Mediterranean lacked fresh impetus and confidence feel, although a 64,000 dwt was heard fixed delivery Continent trip via lower Baltic redelivery Brazil at $22,000. The Asian basin remained relatively active, with brokers saying a reasonable amount of enquiry was seen from the South whilst North Asia remained relatively flat. A 61,000 dwt fixing delivery Singapore trip via Indonesia redelivery India at $21,000. Further north, a 56,000 dwt fixed delivery Dalian trip with steels redelivery SE Asia at $14,000. The Indian Ocean gained momentum, with a 63,000-dwt fixing delivery Mina Saqr for a trip redelivery WC India at $24,500.
+
+### Handysize
+
+The market remained broadly steady this week, with slight gains in some regions and subdued conditions in others. In the Continent and Mediterranean, enquiry remained limited and sentiment softened midweek as prompt tonnage increased, although rates ultimately held firm. Among the reported fixtures, a 35,000-dwt was fixed for delivery Antwerp via North France to Abidjan with grain at $12,000, reflecting the generally steady trading environment in the region. The South Atlantic and US Gulf were firmer ahead of the Thanksgiving period, supported by healthier demand. Notable fixtures included a 38,000-dwt fixed for a trip from Recalada to West Coast South America at $26,000. In Asia, the market remained quiet throughout the week. Activity was muted, and with tonnage and cargo staying broadly balanced, rates showed little movement.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

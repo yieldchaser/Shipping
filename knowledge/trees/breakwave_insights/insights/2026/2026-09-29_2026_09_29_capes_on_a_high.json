@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high__root",
+  "doc_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high",
+  "parent_id": null,
+  "title": "Capes on a High",
+  "section_path": [
+    "Capes on a High"
+  ],
+  "section_path_text": "Capes on a High",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe Capesize market has emerged as one of the clearest examples of how improved cargo demand, stronger tonne-mile fundamentals and tighter vessel availability can translate into materially better freight earnings and asset values. Based on Signal Ocean data, between 1 January and 25 September 2026, Capesize dry bulk movements reached 1,198.68 million MT across 9,555 voyages, up 4.4% from 1,148.06 million MT and 9,367 voyages during the same period of 2025. Australia remained the dominant loading origin, with volumes rising 3.9% to 658.42 million MT, while Guinea recorded the most significant expansion, increasing 36.9% to 149.88 million MT and overtaking Brazil, where volumes slipped 1.4% to 133.82 million MT.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "japan",
+    "bauxite",
+    "million",
+    "usd",
+    "during",
+    "earnings"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2310,
+  "source_path": "reports/breakwave/2026/2026-09-29_capes-on-a-high.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/29/capes-on-a-high",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high",
+      "parent_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe Capesize market has emerged as one of the clearest examples of how improved cargo demand, stronger tonne-mile fundamentals and tighter vessel availability can translate into materially better freight earnings and asset values. Based on Signal Ocean data, between 1 January and 25 September 2026, Capesize dry bulk movements reached 1,198.68 million MT across 9,555 voyages, up 4.4% from 1,148.06 million MT and 9,367 voyages during the same period of 2025.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "japan",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 895,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high__s02_linked_asset_2026_09_29_capes_on_a_high_img_pexels_vasu27_5520019_d99490a74a25_jpg",
+      "doc_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high",
+      "parent_id": "breakwave_insights_insights_2026-09-29_2026_09_29_capes_on_a_high__root",
+      "title": "Linked asset: 2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg\n\nLinked image asset: 2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\n- * t a i \"<r ae en 34 bas Stas ,\nUre Be es ne ef 5 ot Sr ; s a ot ; y \"‘\nEe Baad rs ; Ree - -\nPeay \"a - \" ry i my *- ath ud nye ay K 3 EC\nSein. eres ava eee seiestuliilla Bo '\n: : : ‘ a\n‘ bi ee yah : ,\n% * a a ; o : ie with '\n\"i ih age aa ai EES It -- = ‘\n: Shy\n.",
+      "keywords": [
+        "capesize",
+        "eee",
+        "cae",
+        "asset",
+        "ate",
+        "ees",
+        "image",
+        "ree"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1378,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

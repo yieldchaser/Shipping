@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-28_2026_09_28_the_global_economy_has_entered_a_new_phase__root",
+  "doc_id": "breakwave_insights_insights_2026-09-28_2026_09_28_the_global_economy_has_entered_a_new_phase",
+  "parent_id": null,
+  "title": "The global economy has entered a new phase",
+  "section_path": [
+    "The global economy has entered a new phase"
+  ],
+  "section_path_text": "The global economy has entered a new phase",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThe global economy has entered a new phase in which resilience is no longer measured by the absence of shocks, but by the ability to absorb one after another without losing momentum. The latest OECD Economic Outlook captures this unusual balance well: global growth has moderated, yet remained more resilient than initially expected; inflation is rising again, yet underlying pressures remain relatively contained; energy markets have been severely disrupted, yet significant shortages have so far been avoided; and financial conditions remain broadly supportive despite long-term borrowing costs reaching their highest levels in 15 years in many advanced economies. The difficulty is that resilience is not an infinite resource.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "grain",
+    "crude_oil",
+    "gas",
+    "global",
+    "energy",
+    "can",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1532,
+  "source_path": "reports/breakwave/2026/2026-09-28_the-global-economy-has-entered-a-new-phase.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/28/the-global-economy-has-entered-a-new-phase",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-28_2026_09_28_the_global_economy_has_entered_a_new_phase__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-28_2026_09_28_the_global_economy_has_entered_a_new_phase",
+      "parent_id": "breakwave_insights_insights_2026-09-28_2026_09_28_the_global_economy_has_entered_a_new_phase__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThe global economy has entered a new phase in which resilience is no longer measured by the absence of shocks, but by the ability to absorb one after another without losing momentum. The latest OECD Economic Outlook captures this unusual balance well: global growth has moderated, yet remained more resilient than initially expected; inflation is rising again, yet underlying pressures remain relatively contained; energy markets have been severely disrupted, yet significant shortages have so far been avoided; and financial conditions remain broadly supportive despite long-term borrowing costs reaching their highest levels in 15 years in many advanced economies.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1530,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

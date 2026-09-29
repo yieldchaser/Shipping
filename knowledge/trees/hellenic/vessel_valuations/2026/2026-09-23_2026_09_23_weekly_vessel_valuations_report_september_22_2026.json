@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, September 22 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, September 22 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, September 22 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers\nBulker S&P values held broadly stable across the board this week, with recent Panamax and Ultramaxresale activity trading at modest premiums. Panamax BW Japan (81,600 DWT, May 2019, Tsuneishi Cebu) sold to Great Eastern Shipping for USD 38.25 mil, VV Value USD 36.56 mil. Ultramax Hull 297 (63,500 DWT, Jan 2027, Jiangsu Haitong) sold to an undisclosed buyer for USD 39.0 mil, VV Value USD 37.52 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "singapore",
+    "japan",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1091,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-23_weekly-vessel-valuations-report-september-22-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-22-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers\nBulker S&P values held broadly stable across the board this week, with recent Panamax and Ultramaxresale activity trading at modest premiums. Panamax BW Japan (81,600 DWT, May 2019, Tsuneishi Cebu) sold to Great Eastern Shipping for USD 38.25 mil, VV Value USD 36.56 mil.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "container",
+        "china",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 587,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026__s02_linked_asset_2026_09_23_weekly_vessel_valuations_report_september_22_2026_23092026ee_79dc6298164e_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-23_2026_09_23_weekly_vessel_valuations_report_september_22_2026__root",
+      "title": "Linked asset: 2026-09-23_weekly-vessel-valuations-report-september-22-2026_23092026ee_79dc6298164e.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-23_weekly-vessel-valuations-report-september-22-2026_23092026ee_79dc6298164e.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-23_weekly-vessel-valuations-report-september-22-2026_23092026ee_79dc6298164e.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-23_weekly-vessel-valuations-report-september-22-2026_23092026ee_79dc6298164e.jpg\n\nLinked image asset: 2026-09-23_weekly-vessel-valuations-report-september-22-2026_23092026ee_79dc6298164e.jpg\n\nImage metadata: JPEG 687x303 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n(D) VesselsVabuse § A @ABB@aaaaaammmm)]_U)_mmmm\n22 September 2026 VV Mini Matrix - Weekly Change\nTankers Malicers Containers\nYear vice Seee ira ua ox Cape reas Supra Maney Pont Pus reas Maney Peat\n47% wa 13% 5% 8% 10% v8 am 43% 10.2% 2% 49% 14%\n: je Cad us m soe ad a on ca noo ae us 100\nam oa a om 9% + +19 Crd 19% 102% 2m ww am\n. Je cd ie ™ me we me oo et too ae us 100\n180% 42% na% 05% rad +a +3 cod ate 10.9% 20% am 28%\na it th ie ma soe ih Leal a a noo ae hed ie\nrd we as + wm ted ed a Cad Oe ay we am\n* jt i ue m a Cd Lael o« am 0 ase ns 10\ns9.9%% \"10% \"0% 05% om 10% am 9% 5% 109% am v4 4a\n~ cy i ie a a at me 5 Ea noo ae se tee\nas 10.7% Am 0am 8% +h +886 2at ora 10 nm +s 4%\n* wae ua 08a hd ed ial al Lal 600 0 se 100",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "container",
+        "noo",
+        "asset",
+        "cad",
+        "image",
+        "maney"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 462,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

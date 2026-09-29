@@ -1,0 +1,57 @@
+---
+title: "Bulk Report – Week 49 2015"
+date: "2015-12-04"
+display_date: "04 December 2015"
+year: 2015
+week: 49
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/bulk-report-week492015.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 894
+sections_count: 3
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2015/2015_bulk-report-week492015_dry.html"
+---
+
+# Bulk Report – Week 49 2015
+
+**Date:** 04 December 2015  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/bulk-report-week492015.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/bulk-report-week492015.html)  
+
+---
+
+### Capesize
+
+A typical end to the week with little fresh enquiry, but talk of FMG fixing Australia to China at $4.20, although others have suggested possibly a lower level. This was a shade over $5.00 at the start of the week. Brazil/China similarly lost a little value during the week, but some brokers were suggesting perhaps the Atlantic was bottoming out. There were a few timecharter fixtures concluded with the *Ormond* 181,000 blt 2015 managing to achieve $11,000 for an Australian ore round voyage on her maiden trip, but levels are now more in the $7,000 region. The *Mount Uluru* 181,513 blt 2014 fixed delivery Rotterdam spot for a trip via Narivk to Hamburg at around $11,000 on subjects with EdF Trading, earlier in the week the *Philippos A* 175,108 blt 2011 fixed delivery Malta prompt for a transatlantic round voyage at a shade under $10,700 with K-Line.
+
+### Panamax
+
+Still a downward trend over the week across the board with a stagnant feel in the Atlantic basin and easing in the Pacific, with owners trying to secure cover in the build up to the Christmas and New Year break.
+
+Generally very little period activity, the highlight of the week seemed to be a 75,491 dwt 2011 built in the East being fixed for four to eight months trading at $5,150 daily. Another slightly smaller 74,000 in the East was said to have secured in the upper $4,000’s for three to five months trading. On the larger size an 81,000 dwt 2013 built was secured at $6,400 daily for four to seven months worldwide trading.
+
+Within the Atlantic a 77,000 dwt 2006 built was covered basis delivery Norfolk mid-December dates for a grains run to the East at $9,750 + $90,000 gross ballast bonus whilst from the other side of the pond a 74,020 dwt 2000 built was covered basis delivery Gibraltar for a trip via the US Gulf redelivery in Spain with grains at $3,900 daily. From Brazil a modern 77,079 dwt 2015 was taken basis aps Tubarao mid-December for a trip redelivery Far East at $6,000 daily + $185,000 ballast bonus.
+
+In the East there was activity but this did little to raise owners expectations. An 81,068 dwt 2013 built covered for a trip basis delivery EC Australia 17-22 September for a coal run to India at $4,000 daily + $100,000 ballast bonus. From South East Asia an 83,000 dwt 2014 built managed to secure $4,000 daily for a trip delivery South China via Indonesia to East Coast India with coal. Whilst further north a 93,549 dwt 2008 built fixed basis delivery China early December via EC Australia redelivery Singapore-Japan $4,250 daily.
+
+With the holidays getting even closer next week owners and operators appear to be taking the path of least resistance.
+
+### Supramax / Handysize
+
+December started off on low note with brokers continuing to talk about too many ships and not enough cargoes but various port delays helping a tad. The BSI time charter average closed at $4,917 yesterday which coincides this week with a Mitsui 56 fixing for eight months charter at $5,000, probably the lowest we have seen this year. Little else reported on period recently with rates being so low owners are not so keen to dive in.
+
+This week saw a 58,000 dwt fixing US Gulf trip Black Sea at $9,000 daily while a Tess 52 accepted $7,500 daily for the same trade. A 66,000 dwt secured $7,500 with a European Grain house from the US Gulf to NC South America. The same rate being paid for a 55,000 dwt from the US Gulf to Spain with Danish charterers. Further south, EC South America/Indonesia paid $9,000 daily plus a $90,000 ballast bonus on a 61,309 dwt vessel and a 58,616 dwt fixed Villa Do Conde trip China $9,500 daily. The *Roadrunner* a 54,057 dwt headed for the coast to Recalada and fixed to Bejaia at $7,250 daily.
+
+Jorf Lasfar/US Gulf paid $3,000 with a 61,400 dwt. A trip to West Africa delivery Rotterdam demanded a daily rate of $6,500 with a 55,464 dwt 2014 built vessel. The *Peaceful Seas* 63,300 dwt managed $7,900 delivery Canakkale via Black Sea to India.
+
+A 56,758 dwt fixed delivery Singapore for Australia round voyage redelivery North China at $5,000 with a South China option at $5,600. A Tess 58 took $5,000 daily delivery Singapore via Indonesia to Philippines. The *Bulk Orion* a Mitsui 56 covered Surabaya to WC India at $6,700 daily. On the slightly smaller sizes a 46,702 dwt concluded Singapore trip CJK at $4,400 daily. Back haul was said covered at $3,900 daily first 65 days with balance at $6,000 delivery North China to Continent on a 56,719 dwt 2011 built ship.
+
+From Chile the *Dynasty Shang* 56,573 dwt secured $8,000 daily for a trip to the Middle East Gulf.
+
+For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

@@ -1,0 +1,61 @@
+---
+title: "Week 26"
+date: "2015-06-26"
+display_date: "26 June 2015"
+year: 2015
+week: 26
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/week-26.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 857
+sections_count: 3
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2015/2015_week-26_dry.html"
+---
+
+# Week 26
+
+**Date:** 26 June 2015  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/week-26.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2015/week-26.html)  
+
+---
+
+### Capesize
+
+The capesizes this week started firm but dropped over the last two days. Tubarao to China was briefly marked in the $13s (which we have not seen before this year) with the *Voge Master* fixing mid-week around $13.80 basis loading from CSN with Cargill. Unfortunately this route has ended the week marked a shade under $13.
+
+On the other main ore route from west Australia to China despite a number of vessels being fixed, the rates have remained at a similar level as end last week of around $5.60. Whilst there were a few fixtures concluded at slightly higher levels, like the *Red Cherry* which fixed 7/13 July with Noble at $5.90 and the *Taurus* which fixed at $6.00, but this was basis June cancelling – the rates have settled back down again.
+
+The timecharter rates had a similar look with levels for transatlantic round voyages jumping from around $8,500 to over $10,500 and similar gains were made on the fronthaul, where there are still some cargoes to cover for Seven Islands loading and Brazil. Sentiment is still suggesting some resistance from owners to further drop their ideas.
+
+In the Pacific, the round voyages have hovered around $8,500 depending on the vessel size and delivery. The *Antonis Angelicoussis* 177,855 dwt built 2007 open Dangjin 1 July fixed at $8,500 with Intergis. Whilst Hyundai Glovis fixed the *Alpha Confidence* 176,320 dwt built 2011 at $9,000.
+
+A backhaul fixture was concluded on SwissMarine tonnage for Dalrymple Bay + Hay Point to Flushing & Dunkirk for first half July loading at $12.25.
+
+### Panamax
+
+South America continues to play a significant role with a number of vessels in ballast from the Indian Ocean and the East looking towards South America. Levels at one stage slipped but appear to have made up the ground lost.
+
+Earlier in the week an 82,000 dwt kamsarmax type, open Hong Kong, went for a South American round at $7,000 daily. Latterly a ten year old 75,000 dwt open EC India agreed around $7,000 daily and a 75,500 dwt built 2010 obtained $7,500 daily from Singapore both for South American rounds to the East.
+
+For those ships nearer to the loading area, a 76,000 dwt was closely working in the mid $12,000s with a bonus of $275,000 ECSAmerica/Far East.
+
+Levels in the North Atlantic have tightened with short trips giving support, a 75,000 dwt reportedly trading a trip from the Baltic to the Mediterranean in the high $9000s. An 83,000 dwt built 2006, open Lisbon, fixed a trip via Kamsar redelivery Gibraltar-Skaw at $10,000 daily and another kamsarmax fixed from Gibraltar for a round voyage via South America to Egypt with redelivery Passero at $8,000 daily.
+
+The Pacific market appears to be a difficult market to call, as owners ponder whether to undertake the long ballast to South America rather than stay in Asian waters, although levels to India appeared to be reasonable.  An 81,000 dwt, open China, fixed a trip via Indonesia to India at $9,500 daily and a similar size open mid China obtained $8,000 daily for a trip via Nopac with coal to India. Otherwise on period a 75,000 dwt went for short period around $6,600 daily, the vessel was open China.
+
+### Supramax / Handysize
+
+The momentum generated last week in the US Gulf area, where some much firmer rates were agreed didn’t appear to be maintained, although the market seemed steady enough. Front-haul business was thought to have been concluded on a 56,000 dwt unit at about $14,500 daily and a nice 2010 built 61,000 dwt ultramax was reported to have been booked for similar business at $16,000 daily. On this side the east Med/Black Sea markets showed some improvement with reports of a 2014 built 61,000 dwt ship being fixed for a trip with grains via the Black Sea to Singapore-Japan at a better $11,500 daily.
+
+Decent levels on the Continent appeared to be on the table for handysizes, a 34,000 tonner was reported to have obtained around $12,000 daily for a scrap run loading Denmark to Turkey and a five year old 35,000 dwt went for a longer trip with timber from the Baltic to Egypt in the mid $9,000s.
+
+The lack of reported activity in the East told its own story as rates started to soften, although in some areas only marginally. In south east Asia, a 2010 built 57,000 dwt ‘Dolphin’ type was reportedly booked for a trip from Singapore via Indonesia to China at $6,000 daily. Earlier in the week, there was some interest being shown in booking tonnage for short period with reports of a 2010 built 61,400 dwt unit open Dafeng being fixed for about three/five months trading at a slightly easier $8,000 daily.
+
+For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

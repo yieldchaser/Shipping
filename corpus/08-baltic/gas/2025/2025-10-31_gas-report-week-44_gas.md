@@ -1,0 +1,45 @@
+---
+title: "Gas Report - Week 44"
+date: "2025-10-31"
+display_date: "31 October 2025"
+year: 2025
+week: 44
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-44.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 316
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2025/2025-10-31_gas-report-week-44_gas.html"
+---
+
+# Gas Report - Week 44
+
+**Date:** 31 October 2025  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-44.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-44.html)  
+
+---
+
+### LNG
+
+The LNG market saw a notable surge this week, with rates climbing sharply across all major routes amid tightening vessel availability and renewed spot interest heading into the winter period.
+
+On the BLNG1-174g Australia–Japan route, rates jumped $10,800 to $42,200/day, buoyed by increased Pacific demand and limited prompt tonnage.
+
+The BLNG2-174g US Gulf–Continent route surged $20,400 to $60,600/day, while the BLNG3-174g US Gulf–Japan route climbed $20,100 to $66,500/day, with both Atlantic routes supported by strong US export activity and firmer chartering sentiment.
+
+For 160,000 cbm vessels, the BLNG1g Australia–Japan route rose $6,000 to $27,000/day, the BLNG2g US Gulf–Continent route gained $16,000 to $39,900/day, and the BLNG3g US Gulf–Japan route increased $17,500 to $43,200/day, echoing the broader uptrend in the larger segment.
+
+In the period market, the six-month rate firmed $550 to $31,450/day, the 12-month rate advanced $650 to $34,150/day, and the three-year rate increased $1,250 to $53,250/day, reflecting strengthening fundamentals and improved sentiment ahead of peak winter demand.
+
+### LPG
+
+The LPG market strengthened this week, with rates firming across all major routes as increased chartering activity and the US and China trade tensions eased. On the BLPG1 Ras Tanura–Chiba route, rates rose $5.75 to $57.50 per metric tonne, with TCE earnings climbing $6,506 to $43,211/day.
+
+The BLPG2 Houston–Flushing route gained $5.25 to $66.00 per metric tonne, while daily returns rose $7,451 to $70,175/day, driven by higher enquiry levels and stronger export volumes. The BLPG3 Houston–Chiba route also firmed this week, up $9.75 to $121.67 per metric tonne, with TCE earnings improving by $7,791 to $54,181/day, supported by firmer sentiment.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

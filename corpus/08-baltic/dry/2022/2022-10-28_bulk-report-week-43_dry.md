@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 43"
+date: "2022-10-28"
+display_date: "28 October 2022"
+year: 2022
+week: 43
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-43.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 688
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2022/2022-10-28_bulk-report-week-43_dry.html"
+---
+
+# Bulk Report – Week 43
+
+**Date:** 28 October 2022  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-43.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-43.html)  
+
+---
+
+### Capesize
+
+The Capesize market is in need of a large cargo injection to rally rates in the run-up to the end of the year. Activity levels showed small pockets of strength, yet fixing values have continued to decline throughout the week. The Capesize 5TC now stands at $13,852, a decline of 3323. The only constant throughout the week was the expected West Australian flow. However, while charterers applied pressure and owners resisted as best they could, the rates seem only to have one direction as the C5 declined slowly to $8.64 with the Transpacific C10 valuing weeks end at $11,105. The Brazilian market was slow to start the week yet had reasonable activity heard with varied destinations. Charterers looked to be taking advantage of the current weakness to secure their Q4 tonnage needs. The C3 now stands at $19.95 while the Ballaster C14 route closed at $8,650. The China Congress has ended, but there is seemingly no change to the cargo demand or any guidance from China that the Cape market can rally behind.
+
+### Panamax
+
+With confined demand globally, it proved to be a challenging week for owners with a slow and steady erosion of rates in the Panamax market culminating in the 5TC average losing $2,669 to end the week at $16,350. In Asia, decent specification 82,000-dwt types for trips via NoPac were able to achieve rates well into the $19,000s during the early part of the week. But with limited mineral trade, this had eroded down to rates in the $17,000s as the week ended. With limited action of note in the Atlantic, rates here came under the most pressure with charterers largely able to pick off tonnage at will with APS & BB deals reported a few times for Transatlantic rounds highlighting the negative market trend here. Period news included talk of an 81,000-dwt delivery China agreeing $19,250 for six to eight months, but this appeared unrepeatable as market confidence continued to subside.
+
+### Ultramax/Supramax
+
+A turbulent week overall for the sector. The Asian arena saw a big correction with a severe lack of fresh enquiry in most areas. Prompt tonnage was building up and owners were discounting to get cover as charterers remained firmly in the driving seat. The Atlantic generally remained positional. However, as the week closed there were signs of a softening trend. Limited period activity surfaced but a 60,000-dwt open Singapore was rumoured fixed for 14 to 17 months trading at $17,000. From the Atlantic, a 57,000-dwt open West Africa was heard fixed for a trip to China at $20,500. Further north, a little more scrap enquiry. A 55,000-dwt fixing delivery passing Skaw via the North Continent redelivery East Mediterranean at around $22,000. Poor reading from Asia, as Supramax vessels were heard to be fixing around $8,000-$9,000 for trips from North China to Southeast Asia. There was limited fresh enquiry further south, with a 56,000-dwt fixing delivery Kosichang via Indonesia redelivery China at $12,000.
+
+### Handysize
+
+Limited enquiry across Asia resulted in further reductions as levels of open tonnage continued to grow. Sources spoke of a reduction in logs enquiry which also added pressure in the region. A 38,000-dwt open in Humen fixed via Australia to Japan with an intended cargo of Sugar at $12,000. Meanwhile, a 38,000-dwt open in East Australia fixed a trip to Singapore-Japan Range at $16,250 with an intended cargo of concentrates. A 34,000-dwt open in Port Lincoln fixed a trip to China with an intended cargo of alumina at $18,000 with some waiting time for the Owners account. The Atlantic had shown more positivity of late with a 33,000-dwt fixing from Paranagua to Lisbon at $28,000. The Continent has shown signs of slowing, but the Mediterranean remained firm with a steady flow of steel enquiry. A 39,000-dwt fixed from Turkey to the US Gulf at $21,000 with an intended cargo of steel.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

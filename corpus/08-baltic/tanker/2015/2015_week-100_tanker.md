@@ -1,0 +1,59 @@
+---
+title: "Week 10"
+date: "2015-03-06"
+display_date: "06 March 2015"
+year: 2015
+week: 10
+category: "tanker"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-100.html"
+tags: ['Baltic Exchange', 'Tankers', 'Freight Rates', 'VLCC', 'Suezmax', 'Aframax', 'Clean', 'Dirty']
+word_count: 685
+sections_count: 5
+tables_count: 0
+source_file: "corpus/08-baltic/tanker/2015/2015_week-100_tanker.html"
+---
+
+# Week 10
+
+**Date:** 06 March 2015  
+**Publisher:** Baltic Exchange | **Category:** Tankers  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-100.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-100.html)  
+
+---
+
+### VLCCs
+
+The Middle East Gulf continued to weaken with S-Oil fixing 272,000 tonnes to Onsan at WS 49.5 and China discharge went at both WS 52 and 53 level, while Korean discharge is understood to have been covered at WS50.5 and now rumoured a shade less at WS 49. Trips to Thailand and Singapore have been covered at WS 54.5, all basis 270,000 tonnes cargo size. Going west, 280,000 tonnes has been fixed at WS 27 Suez/Suez or WS 28 cape/cape.
+
+Rates for 260,000 West Africa to China followed similar trend with WS 53 and also 54 being fixed, with talk of excess Chinese controlled tonnage competing for cargoes. Off the UK-Continent, Shell took the ‘Ellinis’ for Hound Point/Korea at $7.5 million while a fuel oil run from Rotterdam to Singapore is understood to have been covered at $6 million. Rates dipped further in the Caribbean, with ST taking the ‘Taqah’ for a Covenas/Singapore voyage at $6.725 million, representing a drop of just over half a million dollars from last week..
+
+### Suezmaxes
+
+In West Africa, a slow start to the week saw rates drift down to WS 85 to Europe and a USAC discharge covered at WS 80. Later in the week as enquiries increased rates jumped from the mid WS 90S to WS 107.5/110. The sustained activity for shorthaul trips in the Caribbean has continued to deplete the West Africa list.
+
+In the Black Sea, despite minimal delays in the Turkish Straits, a very active week saw rates rise sharply. After Chevtex took the ‘Genmar Argus’ at WS 92.5 for 135,000 tonnes to Europe, levels continued to firm with WS 102.5 being paid. Long haul business for crude and fuel oil from both Mediterranean and Black Sea respectively has again thinned the tonnage list. Shorter trips from East Med/UKC-Med have also seen good activity with rates here rising. Petrogal paid WS 115 for 130,000 tonnes from Ceyhan to Portugal which is up over 10 points from last week and there is still outstanding enquiry from Med and West Africa.
+
+### Aframaxes
+
+In the Mediterranean, levels have remained steady between WS 100/105 cross Med depending on the voyage. Libya has been busier this week with rates here in the low/mid WS 120s but this is not deemed a true reflection of the market. The prompt tonnage list is thin however and a Black Sea replacement cargo loading 21 March is reported fixed at WS 130.
+
+In the Baltic, rates for 100,000 tonnes no heat have remained stable  at WS 82.5 while the 80,000 tonne cross North Sea market has been ticking over at WS 95.
+
+Although the Caribbean market for 70,000 tonnes going up coast has been the star performer recently for owners, levels here now are coming under pressure with a growing list of early tonnage and have edged down to low/mid WS 180s. That said , there were fog delays earlier in the week in US Gulf and brokers’ feeling is that replacement business could still see rates potentially firm again.
+
+### Panamaxes
+
+The market from Continent to US Gulf has been a story of fixing and failing with tonnage still open Mid March and levels remain unchanged at around WS 125 for 55,000 tonnes to US Gulf.
+
+### Clean
+
+The market saw a high of WS 187.5 for 37,000 tonnes from Continent to USAC. Thereafter a build up of tonnage and slow down in enquiry has seen rates come off, with the last reported here now at WS 160.
+
+The 38,000 tonne backhaul route from US Gulf to UK Continent saw levels peak at WS 125 but has now eased to around WS 120, though it should be said that the main enquiry just recently from US Gulf has been more for Brazil or Mexico discharge rather than going transatlantic.
+
+For daily tanker market assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Tankers, Freight Rates, VLCC, Suezmax, Aframax, Clean, Dirty  

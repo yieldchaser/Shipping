@@ -1,0 +1,43 @@
+---
+title: "Gas Report - Week 45"
+date: "2023-11-10"
+display_date: "10 November 2023"
+year: 2023
+week: 45
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-45.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 537
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2023/2023-11-10_gas-report-week-45_gas.html"
+---
+
+# Gas Report - Week 45
+
+**Date:** 10 November 2023  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-45.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-45.html)  
+
+---
+
+### LNG
+
+With Australia-Japan BLNG1g hovering with a close of $146,642 (a rise of just shy of $2,000) on the week, there have been firm enquiries made for Australia liftings in December with a few other FOB cargoes reported in the AG. Tonnage is available with sublet ships being shown, while currently major players are well covered on their own programs.
+
+The US market saw some drops on the indices but there is no doubt the VLGC auction price is playing on people’s minds. With ships looking at huge premiums for the canal transits BLNG3g likely will come under pressure should rates fall further, owners and charterers alike are not going to wish to eat up the extra tonne miles or swallow higher costs. Continued warm weather has further swelled gas storage in Europe and tanks are almost at tank tops. This lack of requirement is not ideal and rates on the spot are much weaker than they were at this time last year. Rates themselves for BLNG2g Houston-Isle of Grain closed at $160,254, a fall of $1,925. The Houston-Japan rates fell by $7,092 to close at $174,540.
+
+The period has been active with reports of several long-term charters against some new builds, while two confirmed fixtures for one year with delivery in January 2024 has been done in the low $100,000s per day on a 175,000 CBM 2-stroke vessel.
+
+### LPG
+
+The LPG indices this week have been quite flat, with the AG market for BLPG1 Ras Tanura-Chiba moving up slowly to finish at $146.143 with the last few days of the week seeing no change at all. This gave the TCE earning a value of $133,942, which though flat is still healthy. The main point of note for the LPG market has certainly been the Panama Canal transits and the huge sum paid by Ineos on a neo Panamax VLGC, which dwarfed previous auctions. With tonnage now rerouting via the Suez and potentially the Cape it has the potential to impact the tonnage list giving the Eastern market an expansive tonnage list with almost all ships routing via the AG at one point.
+
+In the West the LPG index was not sure how to manage the report from the auction house at the Panama Canal. With Ineos paying a record breaking $3.975 million to transit the canal and the authorities reducing the number of crossings per day once again, there is uncertainty as to if VLGC ships can afford to ballast through and those US refiners who use the route to get to Asia quicker will be rethinking delivery schedules. The trade could very well shift, but it is likely that routing will 100% be affected and non-neo Panama ships are in high demand.
+
+Rates did not react though. The BLPG2 Houston-Chiba saw a $2 rise to close at $134, while BLPG3 Houston-Chiba barely moved, and finished up $0.214 at $238.571. Tonnage remains tight for the West, with ships now coming via the Suez or Cape the dearth in available ships will impact cargoes trying to work prior to the end of the year.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

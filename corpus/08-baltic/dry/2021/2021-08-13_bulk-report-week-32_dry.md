@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 32"
+date: "2021-08-13"
+display_date: "13 August 2021"
+year: 2021
+week: 32
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2021/bulk-report-week-32.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 683
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2021/2021-08-13_bulk-report-week-32_dry.html"
+---
+
+# Bulk Report – Week 32
+
+**Date:** 13 August 2021  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2021/bulk-report-week-32.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2021/bulk-report-week-32.html)  
+
+---
+
+### Capesize
+
+The week had a quiet start due to Singapore’s National Day on Monday (9 August). By the end of the week both 5TC and BCI reached a new high since mid-May, at 4,766 and $39,526 respectively. The Atlantic appeared to be more active towards the weekend with C3 Brazil to China run jumping from $30,195 at one point to $32,025 on Friday. An early September stem from Tubarao to Qingdao was fixed at $32,500 and a second half September stem from Sudeste to Qingdao was fixed at $33,000. Brazilian activity also added support to C9 rate to record $58,250 on a standard Baltic type from the Continent back to the Far East. On the Pacific side, C5 west Australia to Qingdao went below $14,000 in mid of the week but climbed back to $14,677, whilst the related time charter route was marked at $45,513 by close of the week.
+
+### Panamax
+
+A positive week in general with gains in both the Atlantic and Asian basins.  A 82,000-dwt open in Kosichang being fixed basis Delivery DOP via East Coast south America to Singapore-Japan range for an intended cargo of grains at $34,000.   On the Continent a 83,000-dwt was rumored to have been fixed for a Baltic to China cargo at around $50,000. In Asia, we see a firm market due to congestion and lack of tonnage, where a 85,000-dwt open China was fixed for a trip via Australia to China with Bauxite at $34,800. Period has been active with a 82,000-dwt open China prompt fixing six to eight months with worldwide redelivery at $29,000 and a 82, 000-dwt open between December 2021 and April 2022 being fixed for two years at $18,250 with worldwide redelivery and a 81,000-dwt open Japan fixed for 11 to 13 months redelivery worldwide at $28,000.
+
+### Ultramax/Supramax
+
+With the flow of tonnage being affected by new quarantine measures in China, tight supply has led to rates pushing up certainly in the Asian sector whilst demand remained strong from other areas. Period activity evident with a 56,000-dwt open Indian Ocean fixing in the low-mid $30,000s for eight to ten months trading. From the Atlantic despite many being away for summer holidays rates held.  From South America a 53,000-dwt fixing a trip to Chittagong at $30,000 plus $1.4 million ballast bonus. Elsewhere a 52,000-dwt open west Africa was heard fixed for a trip to the Black Sea at $30,000. From Asia for NoPac rounds a 63,000-dwt was fixed delivery South Korea for a round voyage redelivery south east Asia at $32,500. Whilst further south a 56,000-dwt open Thailand was fixed for a trip via Indonesia to China at $40,000.  Activity remained from the Indian Ocean with a 61,000-dwt open Arabian Gulf fixing a trip to west coast India at $53,000.
+
+### Handysize
+
+Due to congestion and quarantine regulations in China, we have seen the Asia markets make strong moves due to a lack of tonnage with a 38,000-dwt open in South Korea fixing a steel cargo via Japan to Thailand at $40,000 and another 38,000-dwt in South Korea fixing a trip via West Coast Australia to China with a cargo of spodumene at $40,000. The Black Sea rates have also improved with a 40,000-dwt fixing a cargo of concentrates to the Far East at $48,000 and a 38,000-dwt open at Canakkale fixing a trip to East Coast Mexico at $39,000. In South America, activity has been limited of late but a 32,000-dwt open in South Brazil fixed a trip to the Continent at $31,250. This period has been less active but a 34,000-dwt open in Turkey was fixed for a minimum three months to a maximum 13 January 2022 with Atlantic redelivery at $32,750.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

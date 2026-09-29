@@ -1,0 +1,43 @@
+---
+title: "Gas Report - Week 51"
+date: "2024-12-20"
+display_date: "20 December 2024"
+year: 2024
+week: 51
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2024/gas-report-week-51.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 463
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2024/2024-12-20_gas-report-week-51_gas.html"
+---
+
+# Gas Report - Week 51
+
+**Date:** 20 December 2024  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2024/gas-report-week-51.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2024/gas-report-week-51.html)  
+
+---
+
+### LNG
+
+As the year-end festivities are in full swing, the LNG market has had a challenging year, with 2024 proving tougher than many anticipated. While macroeconomic events have influenced certain market dynamics, other factors contributing to the downturn have been less clear. This week has seen minimal movement across most routes.
+
+The BLNG1 174k CBM 2-Stroke index rose modestly by $1,100 to close at $22,300. Meanwhile, the BLNG1 160k CBM TFDE index remained largely flat, with only a $200 decrease, ending the week at $14,000. In the Atlantic, the trend was similarly subdued. BLNG2 Houston–Continent for 174k CBM 2-Stroke ships saw a small rise of $800, closing at $23,200, while the 160k CBM TFDE equivalent dropped by $600 to settle at $14,000. BLNG3 Houston–Japan followed suit, with the 174k CBM 2-Stroke route up by $1000 to $29,400, while the 160k CBM TFDE route fell by $400, ending at $17,000. Tonnage length and a lack of enquiry kept rates under bearish pressure, albeit with marginal declines for the TFDE.
+
+The period market remained quiet as expected, with owners pausing to reassess strategies ahead of the new year. Rates for six-month charters dropped to $25,600 per day, while one-year periods declined to $33,067 per day. The steepest drop was observed in three-year terms, which fell by $10,250 to $43,600 per day. As brokers and owners close the books on 2024, many are eager for a fresh start in the new year, hoping for renewed opportunities and more favourable market conditions.
+
+### LPG
+
+As Christmas draws near and Saudi acceptances were released this week, the market anticipated a strong upward movement despite the ongoing festive celebrations. Although rates increased, the rise fell short of expectations. A reported fixture at $67 failed to significantly influence the broader market to push rates higher.
+
+The BLPG1 Ras Tanura–Chiba route recorded a gain of $3.084, closing the week at $62.667. This continued its recent upward trend, with TCE earnings rising to $45,216 per day. In contrast, BLPG3 Houston–Chiba faced challenges despite ongoing cargo activity and a tight tonnage list for West cargoes. The route fell by $3.5, publishing at $110.167. This decline reflected spot deals concluded at lower-than-previous levels, which hindered recovery. As a result, daily TCE earnings for this route dropped by $3,134 to end the week at $44,936 per day.
+
+Meanwhile, BLPG2 Houston–Flushing saw limited activity, with one reported fixture including an option to discharge in the UK Continent. The index slipped by $2.25, settling at $0.75. TCE earnings for this route remained robust at $61,274 per day, despite the lack of significant movements.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

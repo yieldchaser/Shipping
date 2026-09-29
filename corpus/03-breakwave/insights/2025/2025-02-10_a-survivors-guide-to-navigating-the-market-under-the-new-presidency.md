@@ -1,0 +1,110 @@
+---
+title: "A survivor’s guide to navigating the market under the new presidency"
+date: "2025-02-10"
+display_date: "February 10, 2025"
+year: 2025
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2025/2/10/a-survivors-guide-to-navigating-the-market-under-the-new-presidency"
+tags: ["Macro", "Economy", "Markets"]
+images_count: 3
+word_count: 1830
+source_file: "corpus/03-breakwave/insights/2025/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency.html"
+---
+
+# A survivor’s guide to navigating the market under the new presidency
+
+**Date:** February 10, 2025  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2025/2/10/a-survivors-guide-to-navigating-the-market-under-the-new-presidency](https://www.breakwaveadvisors.com/insights/2025/2/10/a-survivors-guide-to-navigating-the-market-under-the-new-presidency)  
+
+---
+
+The three things investors should know this week:
+
+1. **Trump 2.0 is markedly different from Trump 1.0, in terms of speed and depth of changes. Also, the new government generates an inordinate amount of economic and investment “noise” as it tries to shift the global status quo.**
+2. **The best way for money managers to approach things, thus, is to focus on the undeniable parts of the agenda where there’s broader political support, at least within the ruling party: Tax cuts, deregulation, expenditure control, limiting immigration, improving US competitiveness across the board.**
+3. **The agenda also includes pressuring Europe to up defence spending. This could inadvertently lead to Germany saving itself and reducing some Eurozone imbalances by spending more. (a longer piece coming up).**
+
+----------------------------------------------
+
+### Summary
+
+The US president has certainly kept financial markets and business leaders on their toes in the past few weeks. Analysts and investment managers know that systemic risks are rising, especially given the sea change in Washington itself. But, truth be told, the deluge of information makes analysis difficult. How can money managers even approach that level of chaos?
+
+As fund managers with fiduciary duties our job is to find the economic and investment “signal” which will hide much deeper than in the past within what we know will be a deluge of “noise”. One way would be to start pricing in eventualities. But with too many possible outcomes, no one scenario would weigh enough to be worth an overweight. So that would mean business as usual. Another way would be to wait and observe the outcome. The problem with that approach is that it would not leave much room for “Alpha” (a strategy’s ability to generate excess returns versus benchmark) in the portfolio, as the whole market would move simultaneously, usually in a very volatile way, one that may even invite interventions from central banks. The best way to approach things, thus, is to focus on the undeniable parts of the agenda where there’s broader political support, at least within the ruling party. That includes deregulation for certain sectors (Banks, Energy, Tech and maybe Pharma), targeting some federal spending for reduction, decreasing corporate and other taxes, limiting immigration, improving US competitiveness, increasing America’s global footprint and testing the limits of Presidential prerogative.
+
+### Week Ahead
+
+Tariffs again will take centre stage this week, as China, aluminium and steel come in the president’s crosshairs. Artificial intelligence investment will also be a hot topic of discussion and the Paris AI Action Summit kicks off today. Already, France announced €109bn worth of AI investment. In terms of macro, US CPI numbers on Wednesday (exp 2.9%), British GDP (exp +0.1% for December and 1.1% for Q4) on Thursday and US January retail sales on Friday (exp -0.1%) will likely draw investor attention.
+
+-------------------------------
+
+*By*[*George Lagarias*](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+
+We have often said that we expected Trump 2.0 to be markedly different to Trump 1.0. In the last weeks, the theme is playing out. The US president has certainly kept financial markets and business leaders on their toes in the past few weeks. In a very short space of time, he imposed tariffs on Mexico, Canada and Colombia, only to temporarily rescind them. He also froze parts of the Federal spending agenda, only to rescind the memo. Tariffs on China remain and tariffs on aluminium and steel are coming up, but it is becoming clear that tariffs are means to an end and not necessarily the only tool for the US to regain its competitive advantage. Financial markets presently choose to ignore various territorial aspirations.
+
+Of course, analysts and investment managers know that systemic risks are rising, especially given the sea change in Washington itself.
+
+But, truth be told, the deluge of information makes analysis difficult. The modern-day information apparatus is designed to produce noise, even at the expense of critical thinking. In the good old days of publishing, people would get the news from a newspaper, once a day, usually around their morning coffee. Then, they would act upon said information throughout the day. As consumers could not afford more than one or two newspapers daily, the news flow was manageable. Nowadays, every impulse is news and every piece of news generates myriads more in articles, comments, social media videos etc. The information “noise” can be so intense that it can completely overwhelm the capacity of human brains (and surely a few AIs) and severely limit critical thinking. When the noise is coming out of Washington, then taking the easy way out and ignoring it is not a solution for analysts and policymakers who have no choice but to dive in in search of signals.
+
+**How portfolio managers should think about this.**
+
+How can money managers even approach that level of chaos?
+
+One way would be to**start pricing in eventualities**. But with**too many possible outcomes**, no one scenario would weigh enough to be worth an overweight. So that would mean business as usual.
+
+Another way would be to**wait and observe the outcome**. Markets are a mechanism of separating the signal from the noise, so they remain unperturbed. This means that they will likely dismiss concerns as noise until they become actual signals. So markets, and the central bank, will become more reactive and less proactive, as they will likely not price in various policy announcements until they actually happen.
+
+The problem with that approach**is that it would not leave much room for “Alpha” (a strategy’s ability to generate excess returns versus benchmark) in the portfolio, as the whole market would move simultaneously, usually in a very volatile way, one that may even invite interventions from central banks**. This is what happened during the COVID-19 crisis in February 2020. Initially, it was dismissed as a “SARS-like” risk, which would be dealt with like it was in 2002-2003 with some population curbs and rapid development of anti-viral drugs. Then, even when China was entering lockdowns, markets were largely calm, as the country had a good track record of border control. However, even when it was obvious that full containment was impossible, markets had remained fairly unperturbed. Only when actual evidence of containment failure became apparent when deaths began to spread beyond Chinese borders, did US and global large caps move. They lost a third of their value within a month, forcing the Fed to intervene.
+
+The best way to approach things, thus,**is to focus on the undeniable parts of the agenda where there’s broader political support, at least within the ruling party**.
+
+That includes
+
+### -Deregulation for Certain Sectors (Banks, Energy, Tech and Maybe Pharma)
+
+### -Targeting Some Federal Spending for Reduction
+
+### -Decreasing Corporate and Other Taxes
+
+### -Limiting Immigration
+
+### -Improving Us Competitiveness and Increasing Its Global Footprint
+
+### -Testing the Limits of Presidential Prerogative
+
+As for the economy? As we said, all eventualities are open. We have already focused on the upside risks for inflation in previous editions, due to tariffs (?) and immigration curbs. But there are positive outcomes possible as well. Over the short term, growth could pick up, and inflation might not be as bad if the energy sector helps prices go down, at least according to Scott Bessent, the Treasury Secretary who seems to be a good source of information for investors. More drilling (although the US oil output is at an all-time high), may act as a counterweight to immigration and tariff-related inflation.
+
+![Market Chart 1](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
+
+> **Figure 1: Market Chart 1**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
+
+If tariffs are not imposed on an industrial scale, then lower prices at the pump may well bring down long-term inflation expectations, at least according to the[Treasury Secretary](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_bessent-says-trump-is-focused-on-the_c6ef896c03bf.html). Treasury yields were already down last week to below 4.5% and rate cut expectations picked up.
+
+![Market Chart 2](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
+
+> **Figure 2: Market Chart 2**  
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
+
+And pressing allies to increase their meagre defence spending to match the US’s might have a very positive effect. Germany and France alone would need to add $120bn to their spending, which, with a bit of creative accounting, can include a lot of infrastructure spending.
+
+![Στιγμιότυπο Οθόνης 2025 02 10 162229](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
+
+> **Figure 3: Στιγμιότυπο Οθόνης 2025 02 10 162229**  
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
+
+That should help Germany out of its recession, even[at the cost of](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/)its 0.35% borrowing cap.
+
+Bottom line, the key to survival in the next four years, is not to ignore, deflect, consider business as usual, be too data-driven, or front-run the powers that be. As fund managers with fiduciary duties, it is “[not ours to reason why](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade)” or judge the politics in political and communication terms.**It is to find the economic and investment “signal” which will hide much deeper than in the past within what we know will be a deluge of “noise”. Especially if we consider noise generation as a purposeful strategy, or at least a necessary part of the journey, that would take some of the public pressure off Washington, where the deeper changes are likely to happen.**
+
+**So we need to focus on the straightforward Republican items part of the agenda. A shift in spending priorities, reducing bureaucracy, deregulation, and lower corporate taxes. The agenda also includes pressuring Europe to up defence spending. This could inadvertently lead to Germany saving itself and reducing some Eurozone imbalances by spending more (a longer piece coming up).**
+
+And the only question to answer is: how much of this sprawling, ambitious agenda will Mr Trump will actually bring into policy?
+
+So there, it took a couple of weeks, but we now have a framework moving forward to work within the Trump era.
+
+---
+
+**Tags:** Macro, Economy, Markets  

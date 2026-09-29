@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 4"
+date: "2023-01-27"
+display_date: "27 January 2023"
+year: 2023
+week: 4
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-4.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 634
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-01-27_bulk-report-week-4_dry.html"
+---
+
+# Bulk Report – Week 4
+
+**Date:** 27 January 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-4.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-4.html)  
+
+---
+
+### Capesize
+
+The Capesize timecharter average (5TC) lost more than 50% of its value since the middle of last week. The spot rates in both basins continued their descent throughout the week after the lunar New Year holidays. The 5TC closed the week at $4,433, which reached its lowest level in five months and lower by over $1,200 compared with the same period last year. Both the Brazil to Qingdao run and the west Australia to Qingdao run diminished in contrast to the end of January 2022, settling at $16.883 and $6.30 respectively on Friday. Despite oversupplied tonnage across the board, some observations suggested owners had started to resist with anticipation that perhaps the market was finding a floor.
+
+### Panamax
+
+Despite something of a midweek push from first-half February grain demand ex NCSA, it returned an uninspiring week. Quelled by various holidays in Asia, market values eroded further with minimal support seen throughout. However, the week ends on a slightly optimistic note. Transatlantic activity was slow all week and despite some talk that a floor may have been found, committed and ballaster tonnage continued to underpin rates. The standout rate on fronthaul trips was an 82,000-dwt delivery Continent via NC South America redelivery Singapore-Japan at $18,250. Asia made for a tediously slow first half of the week, but activity appears to have picked up slightly in the past couple of days and there is talk here of a floor being found. It was a flat week in the FFA market, but it did appear to have lent some support to period appetite. Deals reported included an 81,000-dwt achieving $14,500 levels for one year.
+
+### Ultramax/Supramax
+
+A rather stagnant week with the Atlantic generally lacking fresh enquiry. Due to the Lunar New Year holidays in Asia, rates struggled to gain much uplift. Pressure remained from key areas in the Atlantic as prompt tonnage remained relatively abundant. In contrast, positive sentiment returned to Southeast Asia with better levels of enquiry. However, this was tempered by a lack of fresh enquiry further north. This lead to tonnage open there to secure employment further south. In the Atlantic, a 56,000-dwt fixed delivery Aratu for a trip to Algeria at $10,000. Elsewhere, a 63,000-dwt fixed delivery US Gulf trip to the Far East at $16,500. From Asia, a 61,000-dwt open Singapore fixed a trip via Indonesia redelivery China at $9,100. A little more activity surfaced from the Indian Ocean and a 61,000-dwt fixed delivery Port Elizabeth to the Far East at $14,000 plus $150,000 ballast bonus. With the return to work for many it will be interesting to see the direction of travel in the upcoming week.
+
+### Handysize
+
+With many celebrating Lunar New Year, activity was limited in Asia. However, some regions of the Atlantic were showing signs of resistance to further reductions. A 34,000-dwt was rumoured to have been fixed for a trip from Necochea to Atlantic Columbia at $10,250. Meanwhile, a 34,000-dwt fixed from Klaipeda to Morocco with an intended cargo of grains at $7,250. A 40,000-dwt was rumoured to have been placed on subjects for a trip from Santos to West Coast South America in the mid teens, but further details had yet to emerge. In Asia, a 35,000-dwt was rumoured to have been placed on subjects for a trip Chiba via South Australia to East Coast India at $6,000 whilst a 38,000-dwt fixed from Singapore via Australia to Singapore – Japan Range in the low $6,000s. A 38,000-dwt fixed from CJK to South East Asia with an intended cargo of steels in the low $5,000s.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

@@ -1,0 +1,35 @@
+---
+title: "Gas Report - Week 15"
+date: "2023-04-14"
+display_date: "14 April 2023"
+year: 2023
+week: 15
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-15.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 290
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2023/2023-04-14_gas-report-week-15_gas.html"
+---
+
+# Gas Report - Week 15
+
+**Date:** 14 April 2023  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-15.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-15.html)  
+
+---
+
+### LNG
+
+A particularly quiet week for spot LNG with one Unipec cargo reported out of Australia on a 170 CBM vsl in the low $70,000s in mid May making the market mark for the week on BLNG1g with adjustments for the 160 CBM. BLNG2g and BLNG3g saw some of the lowest adjustments we have with a loss of $98 on BLNG2g to close at $40,924, while a BLNG3g run lost $215 to finish at $48,596. A bank holiday compounded an already quiet market with rates moving marginally over the week. Sentiment and market activity remains flat and this is expected to continue looking ahead. This week no period rates, which are now available on the website to view, with six month, 12 Months, and 3-Year available.
+
+### LPG
+
+Rates on all tree LPG routes have risen, some fixing and potential tighter tonnage has pushed rates higher. Out in the East, rates fared well with an increase of $3.429 over the week. With cargoes released there was some fixing out into early May with most of April completely covered. The rise in rates pushed TCE earnings up as well from $55,056 to $58,354 and sentiment remains positive. The Western markets have seen similar rises, where BLPG3 Houston-Chiba had big gains of $9.286, a rise of 7.95% over the week. A tight tonnage list with little shown for early May, and mid May onwards still looking tight, supports the recent rise. Charterers have kept cards close to their chest with new stems expected in the coming days. BLPG2 Houston-Flushing rose from $70.8 to $74.6 an increase of $5141 on TCE earnings for a round voyage trip closing at $77,696.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

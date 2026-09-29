@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 22"
+date: "2026-05-29"
+display_date: "29 May 2026"
+year: 2026
+week: 22
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-22.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 662
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2026/2026-05-29_W22_bulk-report-week-22_dry.html"
+---
+
+# Bulk Report – Week 22
+
+**Date:** 29 May 2026  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-22.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-22.html)  
+
+---
+
+### Capesize
+
+The market strengthened over the course of the week, with sentiment increasingly underpinned by robust Pacific activity and a late-week improvement in Atlantic fundamentals. Despite a fragmented trading environment caused by public holidays in both the UK and Singapore, the market demonstrated resilience, with the BCI 182 5TC climbing above the $50,000 mark by Thursday. The Pacific remained the primary driver throughout, supported by consistent participation from all three major miners, a healthy flow of operator-controlled cargoes, and additional tender activity. Strong fixing volumes helped absorb available tonnage and steadily lifted C5 rates, with sentiment improving as the week progressed and fixtures gradually pushed into the high $16.00s and, in some cases, above $17.00. However, as the week drew to a close, conditions in the Pacific eased marginally despite continued activity, with rates slipping back from Thursday’s highs into the low to mid $16.00s. While the Atlantic began the week in a relatively subdued state, momentum improved notably towards the latter stages. South Brazil and West Africa to China cargoes gradually strengthened, with C3 moving from the high $36.00s range towards the upper $37.00s and low $38.00s levels for index dates. Transatlantic earnings improved on the back of a limited number of stronger fixtures, while Front Haul activity remained relatively quiet.
+
+### Panamax-Kamsarmax
+
+The Panamax market saw a gradual improvement through the week, though conditions diverged regionally. The Atlantic lacked clear momentum, with supply steadily building and activity failing to absorb the growing tonnage list. While some fronthaul interest persisted, it was largely forward focused, leaving prompt vessels under pressure and forcing owners to soften rate expectations. In contrast, the Pacific remained firm and was the primary driver of gains. Strong export demand from Australia and Indonesia supported increased competition for prompt tonnage, with rates steadily firming, particularly on Australia round voyages. Overall, the P5TC index rose from $20,318 on Tuesday to $21,086 by Friday, driven mainly by Pacific momentum, while period interest was also reported to have remained present throughout the week.
+
+### Ultramax/Supramax
+
+The Supramax market ended the week with a familiar split between a firmer Atlantic and a softer Asia. The US Gulf remained the main source of support, with brokers reporting steady fresh cargo and better transatlantic demand, helping to keep sentiment positive and underpinning rate ideas. The Continent–Mediterranean stayed balanced to slightly positive, though some felt the market may have reached a near-term ceiling, while the South Atlantic remained finely poised. In contrast, Asia lost momentum as limited enquiry and holiday disruptions across the Indian Ocean and Singapore weighed on activity and sentiment. Fixtures reflected this divergence, with stronger Atlantic numbers discussed, a 63,000-dwt fixing Newark to Thailand at $28,000, while Asian business remained more subdued with a 57,000-dwt fixed a trip delivery Indonesia redelivery EC India at $23,750. Overall, the 11TC average was relatively resilient despite midweek softness, finishing at $19,827 confirming an end-week tone of Atlantic strength offset by Asian weakness.
+
+### Handysize
+
+The Handy market ended the week on a mixed but broadly steady footing, with regional trends continuing to shape sentiment. The Continent and Mediterranean remained largely balanced, with rates holding close to previous levels, while the South Atlantic stayed under pressure amid limited fresh demand and a growing supply of prompt tonnage. A 35,000-dwt vessel fixed for a trip from Skaw via the Continent to the Dakar-Abidjan range with grains at $12,000. By contrast, the US Gulf maintained a firmer tone throughout the week, supported by improving demand, particularly for larger sizes. A 40,000-dwt vessel was reported fixed for a trip from Houston to the Inter-Caribbean at $23,000. Asia also remained resilient, underpinned by tighter vessel availability and a steady cargo flow. A 40,000-dwt vessel fixed for a trip from Lanshan to the SE Asia with steels at $19,500.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

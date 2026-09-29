@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 40"
+date: "2022-10-07"
+display_date: "07 October 2022"
+year: 2022
+week: 40
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-40.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 736
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2022/2022-10-07_bulk-report-week-40_dry.html"
+---
+
+# Bulk Report – Week 40
+
+**Date:** 07 October 2022  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-40.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-40.html)  
+
+---
+
+### Capesize
+
+The Capesize market inched higher this week as increased activity continues to lift expectations with the 5TC closing at $19,874, up 3,660 over the week. The Atlantic remains the more optimistic region. However, closing the week it looks like the Fronthaul routes may have become a little overheated as the C9 route lost $3001 to settle at $39,813. Iron ore out of Brazil to the Far East is seeing the laycan on the C3 route split on loading dates. The C3 rose 0.128 on Friday to close at $24.667. In the Pacific, there were only a couple of major charterers around looking for tonnage to end the week, as such rates remained relatively steady. The West Australia to Qingdao C5 route closed at $9.06 while the Transpacific C10 dropped $455 to close out at $12,636. Backhaul has been an interesting route to watch this week as several coal cargoes out of Australia heading to Europe have pushed the C16 up to healthy levels. The route now at $6,611 is a far cry from the aggressive negative rates that were witnessed several weeks ago. Owners will now have an eye on when the next voyage will end as time ticks down to the end of this quarter and the beginning of the historically seasonal lows of Q1.
+
+### Panamax
+
+After a muted opening, the Panamax Atlantic market rallied mid week. With golden week - and other Asian holidays - it returned a mostly inactive week. However, come Thursday some life was visible in the Asian market, predominantly NoPac centric with a host of deals concluded at rates better than last done. Back to the Atlantic and several deals concluded in excess of $31,000 on fronthaul trips basis delivery this side, as tonnage tightness from the the Continent and Mediterranean combined with strong demand led to a firmer market. Limited activity from Indonesia this week with holidays impacting, but rates rose slightly as the week ended. NoPac saw a mixture of rates over the course of the week, ranging from low $16,000s with the high at $20,000. However, the mean average returned around the $18,000 mark throughout the week. A flurry of FFA activity lent some support mid week to some period appetite, with several deals concluded.
+
+### Ultramax/Supramax
+
+With the widespread holidays during the week, action mainly centred around the Atlantic basin. As the Asian arena lacked fresh impetus generally, the area remained relatively steady with many players happy to wait until the holidays finished. Period activity was seen with a 58,000-dwt open Indonesia fixing for six to eight months trading at $19,000. The Atlantic saw increased activity for many areas. The US Gulf bounced back after a recent lull, with ultramax size now seeing in the upper $20,000s for trips to Singapore-Japan. Similarly, stronger rates from South America. A 63,000-dwt fixing close to $20,000 plus $1 million ballast bonus for trip to the Arabian Gulf. From Asia, a slight easing in rates. A 61,000-dwt open Cebu was fixed for a trip Via Indonesia to China at around $21,000. Meanwhile, from the north, a 63,000-dwt with delivery North China fixed a trip to West Coast India at $18,000. With eyes fixed on the upcoming week, the BSI closed at 1,706 with the 10 TC weighted average now standing at $18,763.
+
+### Handysize
+
+A split week with sentiment remaining positive in the Atlantic, whilst from Asia positive sentiment remained in short supply. Period activity surfaced and a 37,000-dwt opening China fixing at 108 percent of BHSI for 11 to 13 months trading. Rates remained strong in many regions of the Atlantic. From South America a 41,000-dwt was heard fixed for a coastal run in the mid $30,000s, whilst from North Coast South America a 37,000-dwt fixed in the upper $20,000s for a trip to Norway. Elsewhere activity from the Mediterranean saw a 35,000-dwt fixing a trip delivery East Mediterranean via the Black Sea (excluding Russia/Ukraine) redelivery USA in the high teens. With the holidays in Asia, rates lowered. A 28,000-dwt open Hong Kong was heard fixed for an Australian round at around $14,500. BSHI finished proceedings at 1,033 and the 7TC weighted average now standing at $18,588.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

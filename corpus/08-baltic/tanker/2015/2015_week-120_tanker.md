@@ -1,0 +1,61 @@
+---
+title: "Week 12"
+date: "2015-03-20"
+display_date: "20 March 2015"
+year: 2015
+week: 12
+category: "tanker"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-120.html"
+tags: ['Baltic Exchange', 'Tankers', 'Freight Rates', 'VLCC', 'Suezmax', 'Aframax', 'Clean', 'Dirty']
+word_count: 777
+sections_count: 5
+tables_count: 0
+source_file: "corpus/08-baltic/tanker/2015/2015_week-120_tanker.html"
+---
+
+# Week 12
+
+**Date:** 20 March 2015  
+**Publisher:** Baltic Exchange | **Category:** Tankers  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-120.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-120.html)  
+
+---
+
+### VLCCs
+
+In the Middle East Gulf, the market has been under further pressure this week. A significant overhang of tonnage going into April leaves charterers in the driving seat and rates have eased accordingly with S-Oil covering trips to Onsan at both WS 45.5 and WS 45 for 274,000 and 270,000 tonne cargoes respectively, while 270,000 tonnes to China/Taiwan has been covered at WS 50 and a run to Thailand went at WS 52.5. The last done cape/cape for 280,000 tonnes to the US Gulf is understood to be at WS 26.
+
+Rates for 260,000 West Africa to China held steady at the start of the week with Unipec taking the *Sandra* at WS 52 for 12 April loading. Thereafter the *Overseas Rosalyn* is understood to have possibly  taken a Trafigura cargo at WS 50 for the East, while Shell meantime have reportedly fixed the *Kimolos* for a shorter West Africa/Cilacap run at WS 57.5.
+
+Off the continent, fuel oil has been covered at both $5.5 million and subsequently also at $5.1 million, although the latter deal is now believed to have failed. The Caribbean/Singapore-China trade has been very quiet, and the only activity in the Caribbean has been to WC India where $5.6 million was paid and also another deal reportedly has now been concluded at a softer $5.25 million.
+
+### Suezmaxes
+
+In West Africa, the market has been in steady decline. A  slow week saw enquiries receive a good response with 6/7 offers being registered each time and after starting the week at WS 97.5, rates eased down to WS 90 and have continued to fall, presently sitting at WS 85 for Europe discharge.
+
+In the Black Sea, the market has softened in sympathy with West Africa. A healthy tonnage list together with minimal delays in  the Turkish straits and a lack of bad weather in the Mediterranean have not helped owners’ cause here either. Rates for 135,000 tonnes to Europe started the week at around WS 105 with Chevtex taking Besiktas tonnage. Thereafter the market dropped further and the last done here is Trafigura taking the *Eurovision* at WS 92.5. With Petrogal taking *Pinnacle Spirit* at WS 87.5 for 130,000 tonnes from Sidi Kerir to Portugal, the feeling from brokers is that Med and Black Sea rates could well come under renewed pressure.
+
+### Aframaxes
+
+The Mediterranean has been the star performer this week as a surge of enquiry saw a clear out of tonnage with rates initially increasing by around 20 WS points. Rates rose to WS 127.5 for Black Sea loading and Petroineos reportedly paid WS 125 from Ceyhan. The market however now seems to have calmed down and Arcadia tonnage is understood to have agreed WS 115 for Ceyhan to Castellon for BP. There would appear to be almost no outstanding enquiry in the Mediterranean.
+
+In the Baltic, rates for 100,000 tonnes no heat have been stagnant and remain unchanged  at WS 77.5 while the 80,000 tonne cross North Sea market has been steady at WS 95.
+
+A lack of enquiry and a build-up of tonnage in the Caribbean market saw rates for 70,000 tonnes going up coast soften further down to WS 130.
+
+### Panamaxes
+
+The market from Continent to the US Gulf has been under renewed pressure. With panamax rates in the Caribbean sliding over 30 WS points, ballasters tend to focus more on the Continent/Transatlantic runs and rates today are around WS 115 for 55,000 tonnes to the US Gulf, representing a drop of around 10 points from last week.
+
+### Clean
+
+Rates for 37,000 tonnes from Continent to USAC fell significantly. After starting the week around WS 185, Repsol covered a North Spain load at WS 160 as tonnage from West Med showed a willingness to compete here. There is even a rumour that WS 155 may now be on subjects as a surplus of tonnage and lack of enquiry combine to pressurise rates further.
+
+The 38,000 tonne backhaul route from the US Gulf to UK-Cont has been quiet this week with the main enquiry from the US Gulf being either for Caribbean or South America discharge. A short voyage from the US Gulf to Pozos Colorados went at a healthy $835,000 lump sum. That said, the market to UK-Cont has risen modestly, with the last seen being Valero paying WS 125.
+
+For daily tanker market assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Tankers, Freight Rates, VLCC, Suezmax, Aframax, Clean, Dirty  

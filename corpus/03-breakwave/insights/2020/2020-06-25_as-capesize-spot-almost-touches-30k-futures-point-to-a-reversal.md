@@ -1,0 +1,64 @@
+---
+title: "As Capesize spot almost touches 30k, futures point to a reversal"
+date: "2020-06-25"
+display_date: "June 25, 2020"
+year: 2020
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2020/6/25/as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal"
+tags: ["Shipping", "Panamax", "Dry Bulk"]
+images_count: 3
+word_count: 820
+source_file: "corpus/03-breakwave/insights/2020/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal.html"
+---
+
+# As Capesize spot almost touches 30k, futures point to a reversal
+
+**Date:** June 25, 2020  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2020/6/25/as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal](https://www.breakwaveadvisors.com/insights/2020/6/25/as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal)  
+
+---
+
+![Ship26](assets/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal_img_ship26_5f0b2d91676d.jpg)
+
+> **Figure 1: Ship26**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal_img_ship26_5f0b2d91676d.jpg)
+
+Spot indices continue to advance, but the rate of increase has slowed down and small cracks are showing up in certain routes that might drag the spot indices lower next week. The futures market has anticipating such move for days now, as Capesize futures for the third quarter are trading at the sharpest discount to spot in at least five years, now at a staggering 30%(it is not unheard off to see such discounts during the fourth quarter, as seasonally the first quarter of each year is much weaker than the fourth and thus Q1 usually trades at a discount to spot. However, the third quarter is seasonally strong, so the discount here appears excessive versus history).
+
+There are a lot of reasons to remain constructive on Capesizes, and as a result, on the broader dry bulk market. One driver of recent increases in rates that has not been much talked about is the**significant port congestion**in China. Congestion reduces effective supply as ships wait in ports to unload.
+
+BRS currently sees more than 80 Capes waiting outside China’s major ports, one of the highest levels versus history:
+
+![There Is Growing Evidence That the Industrial Sector in China Is](assets/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal_img_congestionbrs_1bb2f807d047.jpeg)
+
+> **Figure 2: There Is Growing Evidence That the Industrial Sector in China Is**  
+> *There is growing evidence that the industrial sector in China is preparing for another round of stimulus; steel production surged to hit an all-time high in May, and the daily output edged higher towards a new record during the first twenty days of June. Excavator sales, which is a reliable early indicator of future construction activity, jumped by 68% year-on-year last month, after rising by 60% in April. Construction PMI and its sub-indices surged to their highest since June 2017 and the strongest level for May since 2014 - both periods correspond to the previous two stimulus programmes that China implemented. By contrast, iron ore inventories continued to decline and hit their lowest level since October 2016.*  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal_img_congestionbrs_1bb2f807d047.jpeg)
+
+In addition, globally, Capesize congestion has increased to multi-year highs and is approaching 12%,**the highest level in at least 5 years**, based on Clarksons research data. This is a short term bullish sign for the Capesize market that can continue to support strong rates over the next few weeks.
+
+Arrow Research also remains constructive on dry bulk for the second half of the year, as China’s economy improves and thus demand for steel and iron ore increases at a time when iron ore inventories remain at 4-year lows.
+
+From Arrow:
+
+Although the level of rates at a given supply/demand balance is difficult to pinpoint, it is fair to say that there has been significant improvements versus the first half of this year, and given all the incremental drivers versus last year (stimulus, low inventories, congestion, Brazilian capacity, etc) the second half of 2020 should**at least match**(we believe exceed) last year’s levels.
+
+Currently, freight futures are pricing average Capesize rates for the second half of the year at 18,000/day; in 2019, average realized Capesize rate during the second half was approximately 26,000/day. This 45% difference basically reflects the very weak market we have experienced so far this year that is still alive and well in the memory of most market participants.
+
+Consequently, the above reasons are causing the significant discount that the prompt quarter futures (Q3 Capesize futures) are trading at versus spot:
+
+![There Are Still Headwinds](assets/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal_img_frontqtospot_c690dd5b2e1b.jpg)
+
+> **Figure 3: There Are Still Headwinds**  
+> *There are still headwinds, no doubt, and the recovery is highly uncertain. However, it is probably safe to say the worst is over for the dry bulk market. We expect the freight market to remain volatile in 2H, but with stronger rates across the board compared to 1H. Further improvements in the supply-demand balance should push vessel earnings higher in 2021.*  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal_img_frontqtospot_c690dd5b2e1b.jpg)
+
+Finally, with Capesize spot rates now at almost 30,000/day, the relevant levels have clearly changed and although volatility will remain elevated, a stronger dry bulk market is likely ahead of us.
+
+As Arrow concludes:
+
+---
+
+**Tags:** Shipping, Panamax, Dry Bulk  

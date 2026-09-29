@@ -1533,6 +1533,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-10,Aframax / LR2,71.5
 2026-09-09,S&P,WET-10,Aframax / LR2,71.5
 2026-09-16,S&P,WET-10,Aframax / LR2,71.5
+2026-09-23,S&P,WET-10,Aframax / LR2,71.5
 1976-01-01,S&P,WET-5,Aframax / LR2,6.0
 1976-02-01,S&P,WET-5,Aframax / LR2,6.0
 1976-03-01,S&P,WET-5,Aframax / LR2,6.0
@@ -2437,6 +2438,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-5,Aframax / LR2,82.0
 2026-09-09,S&P,WET-5,Aframax / LR2,82.0
 2026-09-16,S&P,WET-5,Aframax / LR2,82.0
+2026-09-23,S&P,WET-5,Aframax / LR2,82.0
 2020-01-27,S&P,WET-RESALE,Aframax / LR2,53.5
 2020-02-03,S&P,WET-RESALE,Aframax / LR2,53.5
 2020-02-10,S&P,WET-RESALE,Aframax / LR2,53.5
@@ -2748,6 +2750,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-RESALE,Aframax / LR2,92.0
 2026-09-09,S&P,WET-RESALE,Aframax / LR2,92.0
 2026-09-16,S&P,WET-RESALE,Aframax / LR2,92.0
+2026-09-23,S&P,WET-RESALE,Aframax / LR2,92.0
 1986-12-01,S&P,DRY-10,Capesize,8.0
 1987-01-01,S&P,DRY-10,Capesize,8.0
 1987-02-01,S&P,DRY-10,Capesize,8.0
@@ -8107,6 +8110,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-10,MR,40.0
 2026-09-09,S&P,WET-10,MR,40.0
 2026-09-16,S&P,WET-10,MR,40.0
+2026-09-23,S&P,WET-10,MR,41.0
 1976-01-01,S&P,WET-5,MR,7.4
 1976-02-01,S&P,WET-5,MR,7.3
 1976-03-01,S&P,WET-5,MR,7.2
@@ -9010,6 +9014,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-5,MR,50.0
 2026-09-09,S&P,WET-5,MR,50.0
 2026-09-16,S&P,WET-5,MR,50.0
+2026-09-23,S&P,WET-5,MR,51.0
 2020-01-27,S&P,WET-RESALE,MR,39.0
 2020-02-03,S&P,WET-RESALE,MR,39.0
 2020-02-10,S&P,WET-RESALE,MR,39.0
@@ -9320,6 +9325,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-RESALE,MR,60.0
 2026-09-09,S&P,WET-RESALE,MR,60.0
 2026-09-16,S&P,WET-RESALE,MR,60.0
+2026-09-23,S&P,WET-RESALE,MR,61.0
 2004-01-01,NEWBUILDING,PRICES,Newcastlemax,47.0
 2004-01-07,NEWBUILDING,PRICES,Newcastlemax,47.0
 2004-01-14,NEWBUILDING,PRICES,Newcastlemax,47.0
@@ -13020,6 +13026,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-10,Suezmax,88.0
 2026-09-09,S&P,WET-10,Suezmax,88.0
 2026-09-16,S&P,WET-10,Suezmax,88.0
+2026-09-23,S&P,WET-10,Suezmax,96.0
 1976-01-01,S&P,WET-5,Suezmax,10.0
 1976-02-01,S&P,WET-5,Suezmax,9.5
 1976-03-01,S&P,WET-5,Suezmax,9.0
@@ -13924,6 +13931,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-5,Suezmax,103.0
 2026-09-09,S&P,WET-5,Suezmax,103.0
 2026-09-16,S&P,WET-5,Suezmax,103.0
+2026-09-23,S&P,WET-5,Suezmax,113.0
 2020-01-27,S&P,WET-RESALE,Suezmax,68.0
 2020-02-03,S&P,WET-RESALE,Suezmax,68.0
 2020-02-10,S&P,WET-RESALE,Suezmax,68.0
@@ -14235,6 +14243,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-RESALE,Suezmax,118.0
 2026-09-09,S&P,WET-RESALE,Suezmax,118.0
 2026-09-16,S&P,WET-RESALE,Suezmax,118.0
+2026-09-23,S&P,WET-RESALE,Suezmax,128.0
 2004-01-01,NEWBUILDING,PRICES,Ultramax,22.75
 2004-02-01,NEWBUILDING,PRICES,Ultramax,24.0
 2004-03-01,NEWBUILDING,PRICES,Ultramax,26.0
@@ -17803,6 +17812,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-10,VLCC,122.0
 2026-09-09,S&P,WET-10,VLCC,122.0
 2026-09-16,S&P,WET-10,VLCC,122.0
+2026-09-23,S&P,WET-10,VLCC,145.0
 1977-12-01,S&P,WET-5,VLCC,10.1
 1978-01-01,S&P,WET-5,VLCC,9.9
 1978-02-01,S&P,WET-5,VLCC,9.0
@@ -18564,6 +18574,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-5,VLCC,152.0
 2026-09-09,S&P,WET-5,VLCC,152.0
 2026-09-16,S&P,WET-5,VLCC,152.0
+2026-09-23,S&P,WET-5,VLCC,170.0
 2020-01-27,S&P,WET-RESALE,VLCC,103.0
 2020-02-03,S&P,WET-RESALE,VLCC,103.0
 2020-02-10,S&P,WET-RESALE,VLCC,100.0
@@ -18875,6 +18886,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,WET-RESALE,VLCC,182.0
 2026-09-09,S&P,WET-RESALE,VLCC,182.0
 2026-09-16,S&P,WET-RESALE,VLCC,182.0
+2026-09-23,S&P,WET-RESALE,VLCC,195.0
 2023-10-18,S&P,DRY-5,Handysize,25.0
 2023-10-25,S&P,DRY-5,Handysize,25.0
 2023-11-01,S&P,DRY-5,Handysize,25.0
@@ -19541,6 +19553,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-JP,Newcastlemax (Japanese),102.0
 2026-09-09,S&P,DRY-RESALE-JP,Newcastlemax (Japanese),105.0
 2026-09-16,S&P,DRY-RESALE-JP,Newcastlemax (Japanese),105.0
+2026-09-23,S&P,DRY-RESALE-JP,Newcastlemax (Japanese),105.0
 2026-02-04,S&P,DRY-RESALE-JP,Capesize (Japanese),80.0
 2026-02-11,S&P,DRY-RESALE-JP,Capesize (Japanese),80.0
 2026-02-18,S&P,DRY-RESALE-JP,Capesize (Japanese),80.0
@@ -19574,6 +19587,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-JP,Capesize (Japanese),81.0
 2026-09-09,S&P,DRY-RESALE-JP,Capesize (Japanese),83.0
 2026-09-16,S&P,DRY-RESALE-JP,Capesize (Japanese),83.0
+2026-09-23,S&P,DRY-RESALE-JP,Capesize (Japanese),83.0
 2026-02-04,S&P,DRY-RESALE-JP,Ultramax (Japanese),40.0
 2026-02-11,S&P,DRY-RESALE-JP,Ultramax (Japanese),40.0
 2026-02-18,S&P,DRY-RESALE-JP,Ultramax (Japanese),41.0
@@ -19607,6 +19621,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-JP,Ultramax (Japanese),44.0
 2026-09-09,S&P,DRY-RESALE-JP,Ultramax (Japanese),44.0
 2026-09-16,S&P,DRY-RESALE-JP,Ultramax (Japanese),44.0
+2026-09-23,S&P,DRY-RESALE-JP,Ultramax (Japanese),44.0
 2026-02-04,S&P,DRY-RESALE-JP,Handysize (Japanese),34.5
 2026-02-11,S&P,DRY-RESALE-JP,Handysize (Japanese),34.5
 2026-02-18,S&P,DRY-RESALE-JP,Handysize (Japanese),35.0
@@ -19640,6 +19655,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-JP,Handysize (Japanese),38.0
 2026-09-09,S&P,DRY-RESALE-JP,Handysize (Japanese),38.0
 2026-09-16,S&P,DRY-RESALE-JP,Handysize (Japanese),38.0
+2026-09-23,S&P,DRY-RESALE-JP,Handysize (Japanese),38.0
 2026-02-04,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),41.0
 2026-02-11,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),41.0
 2026-02-18,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),42.0
@@ -19673,6 +19689,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),47.0
 2026-09-09,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),47.0
 2026-09-16,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),47.0
+2026-09-23,S&P,DRY-RESALE-JP,Kamsarmax (Japanese),47.0
 2026-02-04,S&P,DRY-RESALE-CN,Capesize (Chinese),75.0
 2026-02-11,S&P,DRY-RESALE-CN,Capesize (Chinese),75.0
 2026-02-18,S&P,DRY-RESALE-CN,Capesize (Chinese),76.0
@@ -19706,6 +19723,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-CN,Capesize (Chinese),78.0
 2026-09-09,S&P,DRY-RESALE-CN,Capesize (Chinese),80.0
 2026-09-16,S&P,DRY-RESALE-CN,Capesize (Chinese),80.0
+2026-09-23,S&P,DRY-RESALE-CN,Capesize (Chinese),80.0
 2026-02-04,S&P,DRY-RESALE-CN,Ultramax (Chinese),35.0
 2026-02-11,S&P,DRY-RESALE-CN,Ultramax (Chinese),35.0
 2026-02-18,S&P,DRY-RESALE-CN,Ultramax (Chinese),36.0
@@ -19739,6 +19757,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-CN,Ultramax (Chinese),38.0
 2026-09-09,S&P,DRY-RESALE-CN,Ultramax (Chinese),39.0
 2026-09-16,S&P,DRY-RESALE-CN,Ultramax (Chinese),39.0
+2026-09-23,S&P,DRY-RESALE-CN,Ultramax (Chinese),39.0
 2026-02-04,S&P,DRY-RESALE-CN,Handysize (Chinese),31.5
 2026-02-11,S&P,DRY-RESALE-CN,Handysize (Chinese),31.5
 2026-02-18,S&P,DRY-RESALE-CN,Handysize (Chinese),32.0
@@ -19772,6 +19791,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-CN,Handysize (Chinese),35.0
 2026-09-09,S&P,DRY-RESALE-CN,Handysize (Chinese),35.0
 2026-09-16,S&P,DRY-RESALE-CN,Handysize (Chinese),35.0
+2026-09-23,S&P,DRY-RESALE-CN,Handysize (Chinese),35.0
 2026-02-04,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),85.0
 2026-02-11,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),85.0
 2026-02-18,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),85.0
@@ -19805,6 +19825,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),97.0
 2026-09-09,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),100.0
 2026-09-16,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),100.0
+2026-09-23,S&P,DRY-RESALE-CN,Newcastlemax (Chinese),100.0
 2026-02-04,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),38.0
 2026-02-11,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),38.0
 2026-02-18,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),39.0
@@ -19838,6 +19859,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),43.0
 2026-09-09,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),43.0
 2026-09-16,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),43.0
+2026-09-23,S&P,DRY-RESALE-CN,Kamsarmax (Chinese),43.0
 2026-02-04,S&P,DRY-5-JP,Newcastlemax (Japanese),74.0
 2026-02-11,S&P,DRY-5-JP,Newcastlemax (Japanese),74.0
 2026-02-18,S&P,DRY-5-JP,Newcastlemax (Japanese),74.0
@@ -19871,6 +19893,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-JP,Newcastlemax (Japanese),82.0
 2026-09-09,S&P,DRY-5-JP,Newcastlemax (Japanese),85.0
 2026-09-16,S&P,DRY-5-JP,Newcastlemax (Japanese),85.0
+2026-09-23,S&P,DRY-5-JP,Newcastlemax (Japanese),85.0
 2026-02-04,S&P,DRY-5-CN,Newcastlemax (Chinese),70.0
 2026-02-11,S&P,DRY-5-CN,Newcastlemax (Chinese),70.0
 2026-02-18,S&P,DRY-5-CN,Newcastlemax (Chinese),70.0
@@ -19904,6 +19927,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-CN,Newcastlemax (Chinese),77.0
 2026-09-09,S&P,DRY-5-CN,Newcastlemax (Chinese),80.0
 2026-09-16,S&P,DRY-5-CN,Newcastlemax (Chinese),80.0
+2026-09-23,S&P,DRY-5-CN,Newcastlemax (Chinese),80.0
 2026-02-04,S&P,DRY-5-JP,Capesize (Japanese),65.0
 2026-02-11,S&P,DRY-5-JP,Capesize (Japanese),65.0
 2026-02-18,S&P,DRY-5-JP,Capesize (Japanese),67.5
@@ -19937,6 +19961,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-JP,Capesize (Japanese),71.0
 2026-09-09,S&P,DRY-5-JP,Capesize (Japanese),73.0
 2026-09-16,S&P,DRY-5-JP,Capesize (Japanese),73.0
+2026-09-23,S&P,DRY-5-JP,Capesize (Japanese),73.0
 2026-02-04,S&P,DRY-5-CN,Capesize (Chinese),60.0
 2026-02-11,S&P,DRY-5-CN,Capesize (Chinese),60.0
 2026-02-18,S&P,DRY-5-CN,Capesize (Chinese),63.5
@@ -19970,6 +19995,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-CN,Capesize (Chinese),68.0
 2026-09-09,S&P,DRY-5-CN,Capesize (Chinese),70.0
 2026-09-16,S&P,DRY-5-CN,Capesize (Chinese),70.0
+2026-09-23,S&P,DRY-5-CN,Capesize (Chinese),70.0
 2026-02-04,S&P,DRY-5-CN,Handysize (Chinese),23.5
 2026-02-11,S&P,DRY-5-CN,Handysize (Chinese),23.5
 2026-02-18,S&P,DRY-5-CN,Handysize (Chinese),24.5
@@ -20003,6 +20029,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-CN,Handysize (Chinese),27.5
 2026-09-09,S&P,DRY-5-CN,Handysize (Chinese),27.5
 2026-09-16,S&P,DRY-5-CN,Handysize (Chinese),27.5
+2026-09-23,S&P,DRY-5-CN,Handysize (Chinese),28.0
 2026-02-04,S&P,DRY-5-CN,Ultramax (Chinese),29.0
 2026-02-11,S&P,DRY-5-CN,Ultramax (Chinese),29.0
 2026-02-18,S&P,DRY-5-CN,Ultramax (Chinese),31.0
@@ -20036,6 +20063,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-CN,Ultramax (Chinese),33.0
 2026-09-09,S&P,DRY-5-CN,Ultramax (Chinese),34.0
 2026-09-16,S&P,DRY-5-CN,Ultramax (Chinese),34.0
+2026-09-23,S&P,DRY-5-CN,Ultramax (Chinese),34.0
 2026-02-04,S&P,DRY-5-CN,Kamsarmax (Chinese),29.0
 2026-02-11,S&P,DRY-5-CN,Kamsarmax (Chinese),29.0
 2026-02-18,S&P,DRY-5-CN,Kamsarmax (Chinese),31.5
@@ -20069,6 +20097,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-CN,Kamsarmax (Chinese),36.0
 2026-09-09,S&P,DRY-5-CN,Kamsarmax (Chinese),36.0
 2026-09-16,S&P,DRY-5-CN,Kamsarmax (Chinese),36.0
+2026-09-23,S&P,DRY-5-CN,Kamsarmax (Chinese),36.0
 2026-02-04,S&P,DRY-5-JP,Ultramax (Japanese),32.5
 2026-02-11,S&P,DRY-5-JP,Ultramax (Japanese),32.5
 2026-02-18,S&P,DRY-5-JP,Ultramax (Japanese),35.5
@@ -20102,6 +20131,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-JP,Ultramax (Japanese),38.0
 2026-09-09,S&P,DRY-5-JP,Ultramax (Japanese),39.0
 2026-09-16,S&P,DRY-5-JP,Ultramax (Japanese),39.0
+2026-09-23,S&P,DRY-5-JP,Ultramax (Japanese),39.0
 2026-02-04,S&P,DRY-5-JP,Kamsarmax (Japanese),32.5
 2026-02-11,S&P,DRY-5-JP,Kamsarmax (Japanese),32.5
 2026-02-18,S&P,DRY-5-JP,Kamsarmax (Japanese),34.5
@@ -20135,6 +20165,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-JP,Kamsarmax (Japanese),41.0
 2026-09-09,S&P,DRY-5-JP,Kamsarmax (Japanese),41.0
 2026-09-16,S&P,DRY-5-JP,Kamsarmax (Japanese),41.0
+2026-09-23,S&P,DRY-5-JP,Kamsarmax (Japanese),41.0
 2026-02-04,S&P,DRY-5-JP,Handysize (Japanese),27.0
 2026-02-11,S&P,DRY-5-JP,Handysize (Japanese),27.0
 2026-02-18,S&P,DRY-5-JP,Handysize (Japanese),27.5
@@ -20168,6 +20199,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-5-JP,Handysize (Japanese),31.0
 2026-09-09,S&P,DRY-5-JP,Handysize (Japanese),31.0
 2026-09-16,S&P,DRY-5-JP,Handysize (Japanese),31.0
+2026-09-23,S&P,DRY-5-JP,Handysize (Japanese),31.0
 2026-02-18,S&P,DRY-15-JP,Capesize (Japanese),34.0
 2026-02-25,S&P,DRY-15-JP,Capesize (Japanese),34.0
 2026-03-04,S&P,DRY-15-JP,Capesize (Japanese),34.0
@@ -20199,6 +20231,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-JP,Capesize (Japanese),37.0
 2026-09-09,S&P,DRY-15-JP,Capesize (Japanese),39.0
 2026-09-16,S&P,DRY-15-JP,Capesize (Japanese),39.0
+2026-09-23,S&P,DRY-15-JP,Capesize (Japanese),40.0
 2026-02-18,S&P,DRY-15-CN,Capesize (Chinese),32.0
 2026-02-25,S&P,DRY-15-CN,Capesize (Chinese),32.0
 2026-03-04,S&P,DRY-15-CN,Capesize (Chinese),32.0
@@ -20230,6 +20263,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-CN,Capesize (Chinese),34.0
 2026-09-09,S&P,DRY-15-CN,Capesize (Chinese),35.0
 2026-09-16,S&P,DRY-15-CN,Capesize (Chinese),35.0
+2026-09-23,S&P,DRY-15-CN,Capesize (Chinese),37.5
 2026-02-18,S&P,DRY-15-JP,Newcastlemax (Japanese),37.0
 2026-02-25,S&P,DRY-15-JP,Newcastlemax (Japanese),37.0
 2026-03-04,S&P,DRY-15-JP,Newcastlemax (Japanese),40.0
@@ -20261,6 +20295,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-JP,Newcastlemax (Japanese),42.0
 2026-09-09,S&P,DRY-15-JP,Newcastlemax (Japanese),45.0
 2026-09-16,S&P,DRY-15-JP,Newcastlemax (Japanese),45.0
+2026-09-23,S&P,DRY-15-JP,Newcastlemax (Japanese),45.0
 2026-02-18,S&P,DRY-15-CN,Newcastlemax (Chinese),33.0
 2026-02-25,S&P,DRY-15-CN,Newcastlemax (Chinese),33.0
 2026-03-04,S&P,DRY-15-CN,Newcastlemax (Chinese),35.0
@@ -20292,6 +20327,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-CN,Newcastlemax (Chinese),36.0
 2026-09-09,S&P,DRY-15-CN,Newcastlemax (Chinese),39.0
 2026-09-16,S&P,DRY-15-CN,Newcastlemax (Chinese),39.0
+2026-09-23,S&P,DRY-15-CN,Newcastlemax (Chinese),39.0
 2026-02-18,S&P,DRY-15-CN,Panamax (Chinese),12.5
 2026-02-25,S&P,DRY-15-CN,Panamax (Chinese),12.5
 2026-03-04,S&P,DRY-15-CN,Panamax (Chinese),12.5
@@ -20323,6 +20359,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-CN,Panamax (Chinese),15.0
 2026-09-09,S&P,DRY-15-CN,Panamax (Chinese),15.0
 2026-09-16,S&P,DRY-15-CN,Panamax (Chinese),15.0
+2026-09-23,S&P,DRY-15-CN,Panamax (Chinese),15.0
 2026-02-18,S&P,DRY-15-JP,Panamax (Japanese),16.5
 2026-02-25,S&P,DRY-15-JP,Panamax (Japanese),16.5
 2026-03-04,S&P,DRY-15-JP,Panamax (Japanese),16.5
@@ -20354,6 +20391,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-JP,Panamax (Japanese),19.5
 2026-09-09,S&P,DRY-15-JP,Panamax (Japanese),19.5
 2026-09-16,S&P,DRY-15-JP,Panamax (Japanese),19.5
+2026-09-23,S&P,DRY-15-JP,Panamax (Japanese),19.5
 2026-02-04,S&P,DRY-10-JP,Panamax (Japanese),20.0
 2026-02-11,S&P,DRY-10-JP,Panamax (Japanese),20.0
 2026-02-18,S&P,DRY-10-JP,Panamax (Japanese),22.0
@@ -20387,6 +20425,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-JP,Panamax (Japanese),27.0
 2026-09-09,S&P,DRY-10-JP,Panamax (Japanese),27.0
 2026-09-16,S&P,DRY-10-JP,Panamax (Japanese),27.0
+2026-09-23,S&P,DRY-10-JP,Panamax (Japanese),27.0
 2026-02-04,S&P,DRY-10-CN,Panamax (Chinese),16.0
 2026-02-11,S&P,DRY-10-CN,Panamax (Chinese),16.0
 2026-02-18,S&P,DRY-10-CN,Panamax (Chinese),18.0
@@ -20420,6 +20459,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-CN,Panamax (Chinese),23.5
 2026-09-09,S&P,DRY-10-CN,Panamax (Chinese),23.5
 2026-09-16,S&P,DRY-10-CN,Panamax (Chinese),23.5
+2026-09-23,S&P,DRY-10-CN,Panamax (Chinese),23.5
 2026-02-18,S&P,DRY-15-JP,Kamsarmax (Japanese),18.0
 2026-02-25,S&P,DRY-15-JP,Kamsarmax (Japanese),18.0
 2026-03-04,S&P,DRY-15-JP,Kamsarmax (Japanese),21.0
@@ -20451,6 +20491,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-JP,Kamsarmax (Japanese),22.0
 2026-09-09,S&P,DRY-15-JP,Kamsarmax (Japanese),22.0
 2026-09-16,S&P,DRY-15-JP,Kamsarmax (Japanese),22.0
+2026-09-23,S&P,DRY-15-JP,Kamsarmax (Japanese),22.0
 2026-02-18,S&P,DRY-15-CN,Kamsarmax (Chinese),14.0
 2026-02-25,S&P,DRY-15-CN,Kamsarmax (Chinese),14.0
 2026-03-04,S&P,DRY-15-CN,Kamsarmax (Chinese),17.0
@@ -20482,6 +20523,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-CN,Kamsarmax (Chinese),18.0
 2026-09-09,S&P,DRY-15-CN,Kamsarmax (Chinese),18.0
 2026-09-16,S&P,DRY-15-CN,Kamsarmax (Chinese),18.0
+2026-09-23,S&P,DRY-15-CN,Kamsarmax (Chinese),18.0
 2026-02-18,S&P,DRY-15-CN,Ultramax (Chinese),13.0
 2026-02-25,S&P,DRY-15-CN,Ultramax (Chinese),13.0
 2026-03-04,S&P,DRY-15-CN,Ultramax (Chinese),13.0
@@ -20513,6 +20555,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-CN,Ultramax (Chinese),15.0
 2026-09-09,S&P,DRY-15-CN,Ultramax (Chinese),15.5
 2026-09-16,S&P,DRY-15-CN,Ultramax (Chinese),15.5
+2026-09-23,S&P,DRY-15-CN,Ultramax (Chinese),15.5
 2026-02-18,S&P,DRY-15-JP,Ultramax (Japanese),19.5
 2026-02-25,S&P,DRY-15-JP,Ultramax (Japanese),19.5
 2026-03-04,S&P,DRY-15-JP,Ultramax (Japanese),16.5
@@ -20544,6 +20587,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-JP,Ultramax (Japanese),21.5
 2026-09-09,S&P,DRY-15-JP,Ultramax (Japanese),21.5
 2026-09-16,S&P,DRY-15-JP,Ultramax (Japanese),21.5
+2026-09-23,S&P,DRY-15-JP,Ultramax (Japanese),21.5
 2026-02-18,S&P,DRY-15-JP,Handysize (Japanese),14.5
 2026-02-25,S&P,DRY-15-JP,Handysize (Japanese),14.5
 2026-03-04,S&P,DRY-15-JP,Handysize (Japanese),14.5
@@ -20575,6 +20619,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-JP,Handysize (Japanese),15.5
 2026-09-09,S&P,DRY-15-JP,Handysize (Japanese),15.5
 2026-09-16,S&P,DRY-15-JP,Handysize (Japanese),15.5
+2026-09-23,S&P,DRY-15-JP,Handysize (Japanese),17.0
 2026-02-18,S&P,DRY-15-CN,Handysize (Chinese),11.5
 2026-02-25,S&P,DRY-15-CN,Handysize (Chinese),11.5
 2026-03-04,S&P,DRY-15-CN,Handysize (Chinese),11.5
@@ -20606,6 +20651,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-15-CN,Handysize (Chinese),12.0
 2026-09-09,S&P,DRY-15-CN,Handysize (Chinese),12.0
 2026-09-16,S&P,DRY-15-CN,Handysize (Chinese),12.0
+2026-09-23,S&P,DRY-15-CN,Handysize (Chinese),13.0
 2026-02-04,S&P,DRY-10-JP,Newcastlemax (Japanese),56.5
 2026-02-11,S&P,DRY-10-JP,Newcastlemax (Japanese),56.5
 2026-02-18,S&P,DRY-10-JP,Newcastlemax (Japanese),56.5
@@ -20639,6 +20685,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-JP,Newcastlemax (Japanese),62.0
 2026-09-09,S&P,DRY-10-JP,Newcastlemax (Japanese),65.0
 2026-09-16,S&P,DRY-10-JP,Newcastlemax (Japanese),65.0
+2026-09-23,S&P,DRY-10-JP,Newcastlemax (Japanese),65.0
 2026-02-04,S&P,DRY-10-CN,Newcastlemax (Chinese),52.5
 2026-02-11,S&P,DRY-10-CN,Newcastlemax (Chinese),52.5
 2026-02-18,S&P,DRY-10-CN,Newcastlemax (Chinese),52.5
@@ -20672,6 +20719,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-CN,Newcastlemax (Chinese),57.0
 2026-09-09,S&P,DRY-10-CN,Newcastlemax (Chinese),60.0
 2026-09-16,S&P,DRY-10-CN,Newcastlemax (Chinese),60.0
+2026-09-23,S&P,DRY-10-CN,Newcastlemax (Chinese),60.0
 2026-02-04,S&P,DRY-10-JP,Capesize (Japanese),47.5
 2026-02-11,S&P,DRY-10-JP,Capesize (Japanese),47.5
 2026-02-18,S&P,DRY-10-JP,Capesize (Japanese),52.5
@@ -20705,6 +20753,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-JP,Capesize (Japanese),56.0
 2026-09-09,S&P,DRY-10-JP,Capesize (Japanese),58.0
 2026-09-16,S&P,DRY-10-JP,Capesize (Japanese),58.0
+2026-09-23,S&P,DRY-10-JP,Capesize (Japanese),58.0
 2026-02-04,S&P,DRY-10-CN,Capesize (Chinese),42.5
 2026-02-11,S&P,DRY-10-CN,Capesize (Chinese),42.5
 2026-02-18,S&P,DRY-10-CN,Capesize (Chinese),48.5
@@ -20738,6 +20787,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-CN,Capesize (Chinese),53.0
 2026-09-09,S&P,DRY-10-CN,Capesize (Chinese),54.5
 2026-09-16,S&P,DRY-10-CN,Capesize (Chinese),54.5
+2026-09-23,S&P,DRY-10-CN,Capesize (Chinese),54.5
 2026-02-04,S&P,DRY-10-CN,Kamsarmax (Chinese),21.0
 2026-02-11,S&P,DRY-10-CN,Kamsarmax (Chinese),21.0
 2026-02-18,S&P,DRY-10-CN,Kamsarmax (Chinese),21.5
@@ -20771,6 +20821,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-CN,Kamsarmax (Chinese),28.0
 2026-09-09,S&P,DRY-10-CN,Kamsarmax (Chinese),28.0
 2026-09-16,S&P,DRY-10-CN,Kamsarmax (Chinese),28.0
+2026-09-23,S&P,DRY-10-CN,Kamsarmax (Chinese),28.0
 2026-02-04,S&P,DRY-10-JP,Kamsarmax (Japanese),26.0
 2026-02-11,S&P,DRY-10-JP,Kamsarmax (Japanese),26.0
 2026-02-18,S&P,DRY-10-JP,Kamsarmax (Japanese),27.0
@@ -20804,6 +20855,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-JP,Kamsarmax (Japanese),32.0
 2026-09-09,S&P,DRY-10-JP,Kamsarmax (Japanese),32.0
 2026-09-16,S&P,DRY-10-JP,Kamsarmax (Japanese),32.0
+2026-09-23,S&P,DRY-10-JP,Kamsarmax (Japanese),32.0
 2026-02-04,S&P,DRY-10-JP,Ultramax (Japanese),24.5
 2026-02-11,S&P,DRY-10-JP,Ultramax (Japanese),24.5
 2026-02-18,S&P,DRY-10-JP,Ultramax (Japanese),27.0
@@ -20837,6 +20889,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-JP,Ultramax (Japanese),30.0
 2026-09-09,S&P,DRY-10-JP,Ultramax (Japanese),30.0
 2026-09-16,S&P,DRY-10-JP,Ultramax (Japanese),30.0
+2026-09-23,S&P,DRY-10-JP,Ultramax (Japanese),30.0
 2026-02-04,S&P,DRY-10-CN,Ultramax (Chinese),23.0
 2026-02-11,S&P,DRY-10-CN,Ultramax (Chinese),23.0
 2026-02-18,S&P,DRY-10-CN,Ultramax (Chinese),24.0
@@ -20870,6 +20923,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-CN,Ultramax (Chinese),26.5
 2026-09-09,S&P,DRY-10-CN,Ultramax (Chinese),27.0
 2026-09-16,S&P,DRY-10-CN,Ultramax (Chinese),27.0
+2026-09-23,S&P,DRY-10-CN,Ultramax (Chinese),27.0
 2026-02-04,S&P,DRY-10-CN,Handysize (Chinese),17.0
 2026-02-11,S&P,DRY-10-CN,Handysize (Chinese),17.0
 2026-02-18,S&P,DRY-10-CN,Handysize (Chinese),18.0
@@ -20903,6 +20957,7 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-CN,Handysize (Chinese),19.5
 2026-09-09,S&P,DRY-10-CN,Handysize (Chinese),19.5
 2026-09-16,S&P,DRY-10-CN,Handysize (Chinese),19.5
+2026-09-23,S&P,DRY-10-CN,Handysize (Chinese),20.0
 2026-02-04,S&P,DRY-10-JP,Handysize (Japanese),19.0
 2026-02-11,S&P,DRY-10-JP,Handysize (Japanese),19.0
 2026-02-18,S&P,DRY-10-JP,Handysize (Japanese),21.5
@@ -20936,3 +20991,4 @@ date,category,tenor_type,vessel_class,valuation_usd_m
 2026-09-02,S&P,DRY-10-JP,Handysize (Japanese),23.0
 2026-09-09,S&P,DRY-10-JP,Handysize (Japanese),23.0
 2026-09-16,S&P,DRY-10-JP,Handysize (Japanese),23.0
+2026-09-23,S&P,DRY-10-JP,Handysize (Japanese),24.0

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-22_2026_09_22_he_risk_of_renewed_inflation__root",
+  "doc_id": "breakwave_insights_insights_2026-09-22_2026_09_22_he_risk_of_renewed_inflation",
+  "parent_id": null,
+  "title": "Τhe risk of renewed inflation",
+  "section_path": [
+    "Τhe risk of renewed inflation"
+  ],
+  "section_path_text": "Τhe risk of renewed inflation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nTwo years ago this week, the Fed commanded global attention by cutting interest rates for the first time in four years, delivering a bold 50 basis point reduction that brought target range down to 4.75-5.00 percent. At the time, the move was framed as a balancing act - an attempt to nurture economic recovery while inflation remained above target. Markets welcomed the signal with enthusiasm: Wall Street surged to record highs.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "europe",
+    "japan",
+    "crude_oil",
+    "inflation",
+    "percent",
+    "energy",
+    "can",
+    "its",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1636,
+  "source_path": "reports/breakwave/2026/2026-09-22_he-risk-of-renewed-inflation.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/22/he-risk-of-renewed-inflation",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-22_2026_09_22_he_risk_of_renewed_inflation__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-22_2026_09_22_he_risk_of_renewed_inflation",
+      "parent_id": "breakwave_insights_insights_2026-09-22_2026_09_22_he_risk_of_renewed_inflation__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nTwo years ago this week, the Fed commanded global attention by cutting interest rates for the first time in four years, delivering a bold 50 basis point reduction that brought target range down to 4.75-5.00 percent. At the time, the move was framed as a balancing act - an attempt to nurture economic recovery while inflation remained above target.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "europe",
+        "japan",
+        "crude_oil",
+        "inflation",
+        "percent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1634,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

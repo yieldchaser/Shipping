@@ -1,0 +1,48 @@
+---
+title: "Coal India's Stockpiles Continue to Climb"
+date: "2026-01-16"
+display_date: "January 16, 2026"
+year: 2026
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2026/1/16/coal-indias-stockpiles-continue-to-climb"
+tags: ["Drybulk", "Coal", "Capesizes"]
+images_count: 3
+word_count: 338
+source_file: "corpus/03-breakwave/insights/2026/2026-01-16_coal-indias-stockpiles-continue-to-climb.html"
+---
+
+# Coal India's Stockpiles Continue to Climb
+
+**Date:** January 16, 2026  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2026/1/16/coal-indias-stockpiles-continue-to-climb](https://www.breakwaveadvisors.com/insights/2026/1/16/coal-indias-stockpiles-continue-to-climb)  
+
+---
+
+*By*[*Jeffrey Landsberg*](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/)
+
+As we discussed in Commodore Research's most recent Weekly Executive Report, Coal India (which is responsible for over 75% of India’s coal output) produced 75.7 million tons of coal last month. This is up month-on-month by 7.7 million tons (11%) and up year-on-year by 3.3 million tons (5%). Coal India’s production has now grown on a year-on-year basis for two straight months. Previously, it had contracted on a year-on-year basis during eight of the prior ten months. Significant is that India’s coal-derived electricity generation has now fared better than coal output in three of the last six months.
+
+![Chart 1](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart1_d6b8ada5df82.jpg)
+
+> **Figure 1: Chart 1**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart1_d6b8ada5df82.jpg)
+
+Offtake (the amount sent to customers) totaled 64.9 million tons, which is up month-on-month by 2.2 million tons (4%) but down year-on-year by 3.7 million tons (-5%). Offtake has now come in under production for two straight months. Previously, it had exceeded production for seven straight months.
+
+![Chart 2](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart2_359f8b4df570.jpg)
+
+> **Figure 2: Chart 2**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart2_359f8b4df570.jpg)
+
+Stockpiles have rebounded further with production again exceeding offtake. They now stand at approximately 106 million tons. This is just 9 million tons (-8%) less than March’s record 115 million tons and up year-on-year by 29 million tons (38%).
+
+![Chart 3](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart3_6cb30c7f79da.jpg)
+
+> **Figure 3: Chart 3**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart3_6cb30c7f79da.jpg)
+
+---
+
+**Tags:** Drybulk, Coal, Capesizes  

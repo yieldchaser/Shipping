@@ -1,0 +1,45 @@
+---
+title: "Inflation Expectations on the Rise – Commodity Prices Are the Likely Beneficiaries"
+date: "2021-02-23"
+display_date: "February 23, 2021"
+year: 2021
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2021/2/22/inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries"
+tags: ["Global Economy"]
+images_count: 2
+word_count: 650
+source_file: "corpus/03-breakwave/insights/2021/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries.html"
+---
+
+# Inflation Expectations on the Rise – Commodity Prices Are the Likely Beneficiaries
+
+**Date:** February 23, 2021  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2021/2/22/inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries](https://www.breakwaveadvisors.com/insights/2021/2/22/inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries)  
+
+---
+
+![By Ulf Bergman](assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_image-asset_8fbb0fd6d30e.jpeg)
+
+> **Figure 1: By Ulf Bergman**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_image-asset_8fbb0fd6d30e.jpeg)
+
+Inflation expectations are on the rise across the globe, as the world economy looks set to emerge from the pandemic induced recession. The extensive fiscal stimulus will see debt levels rising considerably and are driving investors expectations of higher inflation rates. Additionally, a rapidly recovering global economy is likely to add to the upward pressure on prices with rising demand and supply-chain bottle necks causing shortages. The recent dearth of available shipping containers and the extended waiting times for container vessels in many ports have helped push freight rates higher in recent months, which could lead to increased inflation rates if they remain elevated for an extended period. A study by the Kansas City Federal Reserve have estimated that a fifteen percent increase in shipping rates for inbound goods would add 0.10 percentage points to the annual core inflation in the US.
+
+The rising inflation prospects have seen bond yields recovering, with US 10-year bond yields back at the levels last seen a year ago. In Europe, bond yields have risen as well, prompting the ECB president to say that the bank is monitoring the situation. The statement suggests that the European Central Bank could increase the bond buying scheme to suppress higher yields, which could threaten a fragile recovery.
+
+While it is probably a bit premature to start worrying about high inflation rates, investors are nevertheless starting to look for ways to hedge against future rises in prices. Especially, as the Federal Reserve is unlikely to act anytime soon with rate hikes to moderate rising prices. Hence, there is a risk the economy could see a degree of over-heating as a result. If history is any guide, commodities are well placed to cater for any hedging needs against rising inflation.
+
+![Ulf 70](assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_ulf70_0b48ea3c3a05.jpg)
+
+> **Figure 2: Ulf 70**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_ulf70_0b48ea3c3a05.jpg)
+
+The rising interest in the reflation/inflation trade has pushed many commodities higher, with copper trading above 9,000 USD per tonne for the first time in nine years and iron ore back above 170 dollar per tonne. Copper is also benefitting from the push towards clean energy, where the metal is a key component. Investors in agricultural commodities are equally bullish, with the net positions in grains and oilseed CBOT futures at a ten-year high for this time of the year. Money-managers have also been net-long since August last year, as diminishing stockpiles and strong Chinese demand, especially for soybeans and corn, have driven prices higher. Some strategists are also expecting agricultural commodities to be among the most efficient inflation hedges going forward and the bullish sentiment is likely to remain in place for some time as a result.
+
+The increasing interest in the reflation/inflation trade among investors, in combination with the recovery of the global economy, is likely to keep fuelling rising commodity prices and we may well be in the early stages of the feted super-cycle. The popularity of the trade may turn out to be the largest threat to the cycle, with commodity prices rising to unsustainable level and killing off a fragile global recovery. However, in the short to medium-term the danger of such a scenario appears to be limited with the global economy on the path to recovery on the back of extensive government stimulus packages and commodity demand remaining high.
+
+---
+
+**Tags:** Global Economy  

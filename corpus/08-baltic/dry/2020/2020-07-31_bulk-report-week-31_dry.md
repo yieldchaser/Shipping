@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 31"
+date: "2020-07-31"
+display_date: "31 July 2020"
+year: 2020
+week: 31
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-31.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 636
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2020/2020-07-31_bulk-report-week-31_dry.html"
+---
+
+# Bulk Report – Week 31
+
+**Date:** 31 July 2020  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-31.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-31.html)  
+
+---
+
+### Capesize
+
+A quiet end to the week could not disguise the improved sentiment in the capesize market, with several brokers suggesting that this may simply represent a precursor to another move upwards. The timecharter average climbed $1,282 to close at $18,296, driven predominantly by the Brazil and Australian round voyages on continued iron ore demand strength. The C3 Brazil-China route gained $1.53 to close at $17.47, whilst the C5 Australia-China route posted $1.16 to close at $7.155 on the week. Sentiment was also such that a brace of weak backhaul fixtures from Richards Bay into Turkey could not dissuade the market from marking the C16 relative to the shorter duration and the repositioning benefit of the Black Sea. These things are rarely linear of course. But one does get the distinct impression that the capesize market remains poised to buy into the positive, rather than sell the negative. Next week may well prove telling.
+
+### Panamax
+
+The panamax market proved to be quite a contrasting week, with rates globally for the early part still severely under pressure. By midweek, sentiment and fresh enquiry - noticeably from EC South America - had improved. However, there were still many early ships remaining unfixed - particularly in the Atlantic - thus maintaining in places a lid on any rapid rate rises.  Similarly, in Asia improved NoPac demand led the turn around in fortunes for owners, accompanied with a solid cargo base from both Australia and Indonesia. Minor gains were seen on the short week, with national holiday in Singapore on Friday. Trans-Atlantic round trips ex NC South America were seen earlier in the week going at region $12,750 delivery Aps loadport. By Thursday this was more akin to $14,250 for the 82,000dwt type. Median rates for Australia and NoPac rounds hovered around the $11,000 mark for much of the week for index type tonnage.
+
+### Ultramax/Supramax
+
+A poor week overall for the BSI with the index falling 36 points from Monday. Little in the way of period activity was reported with Owners reluctant to commit. From the Atlantic, pressure was seen in many areas with tonnage building up and limited fresh enquiry. With the ready supply of tonnage east coast South America, there was a drop in rates. A 63,000-dwt trading around $17,000 for a trip to west coast South America. Other areas remained positional. From west Africa a 52,000-dwt was fixed for a trip to China at $21,000. From the Mediterranean, ultramax size were fixing around $12,000 for clinker runs to west Africa. With the Eid holiday many areas in the Indian Ocean and Asia saw limited fresh enquiry. Nevertheless, a 55,600-dwt fixed delivery east coast India redelivery China in the upper $14,000s. Meanwhile, a 63,000-dwt fixed delivery north China for an Australian round at $11,000.
+
+### Handy
+
+The overall index BHSI continued climbing since early May and remained at the highest level of the year this week. However, it also showed a minor decline for the first time in the last three months. The market was largely flat with limited cargoes from east coast South America and limited activity in the Pacific, although brokers saw an uptrend from the Skaw-Passero range with better rates discussed. A small-sized delivery Canakkale was fixed for a trip via the Black Sea to Morocco at $7,000. A 34,000-dwt delivery Recalada in early August was fixed for a trip to central Mediterranean with grain at $12,500. In the East, an Imabari 38 type delivery in the Far East was fixed for a Nopac run at $7,500, and a 37,000-dwt open Southeast Asia was fixed for a trip to the Philippines at $8,000.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

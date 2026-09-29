@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T17:17:58Z",
-  "current_date": "2026-09-21",
-  "warning_count": 1,
+  "generated_at": "2026-09-29T17:19:17Z",
+  "current_date": "2026-09-29",
+  "warning_count": 5,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,51 +12,223 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 1
+      "watch": 5
     }
   },
   "warnings": [
     {
       "severity": "watch",
       "kind": "topic_divergence",
-      "key": "china_steel_and_iron_ore",
-      "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "key": "coal_and_grain_flows",
+      "message": "Coal and Grain Flows shows recent tone divergence: baltic reads constructive while hellenic reads neutral.",
       "details": {
-        "topic_id": "china_steel_and_iron_ore",
-        "title": "China Steel and Iron Ore",
+        "topic_id": "coal_and_grain_flows",
+        "title": "Coal and Grain Flows",
         "severity": "watch",
         "score_diff": 0.75,
         "source_scores": [
           {
             "source": "hellenic",
             "avg_tone_score": 0.0,
-            "dominant_tone": "cautiously_bearish",
+            "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-21"
+            "latest_date": "2026-09-23"
           },
           {
             "source": "breakwave",
-            "avg_tone_score": 0.5,
+            "avg_tone_score": 0.45,
             "dominant_tone": "constructive",
-            "doc_count": 3,
-            "latest_date": "2026-09-15"
+            "doc_count": 5,
+            "latest_date": "2026-09-29"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.54,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-29"
           },
           {
             "source": "baltic",
-            "avg_tone_score": 0.62,
+            "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-18"
+            "latest_date": "2026-09-25"
+          }
+        ],
+        "message": "Coal and Grain Flows shows recent tone divergence: baltic reads constructive while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "oil_and_opec",
+      "message": "Oil and OPEC shows recent tone divergence: breakwave reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "oil_and_opec",
+        "title": "Oil and OPEC",
+        "severity": "watch",
+        "score_diff": 0.83,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-23"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": -0.04,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-25"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.54,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-29"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 4,
+            "latest_date": "2026-09-22"
+          }
+        ],
+        "message": "Oil and OPEC shows recent tone divergence: breakwave reads constructive while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "panamax_and_supramax",
+      "message": "Panamax and Supramax shows recent tone divergence: baltic reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "panamax_and_supramax",
+        "title": "Panamax and Supramax",
+        "severity": "watch",
+        "score_diff": 0.83,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-23"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.38,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-29"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-21"
+            "latest_date": "2026-09-29"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-25"
           }
         ],
-        "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+        "message": "Panamax and Supramax shows recent tone divergence: baltic reads constructive while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "tanker_market",
+      "message": "Tanker Market shows recent tone divergence: breakwave reads constructive while baltic reads neutral.",
+      "details": {
+        "topic_id": "tanker_market",
+        "title": "Tanker Market",
+        "severity": "watch",
+        "score_diff": 0.79,
+        "source_scores": [
+          {
+            "source": "baltic",
+            "avg_tone_score": -0.04,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-25"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.5,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-29"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.54,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-29"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 2,
+            "latest_date": "2026-09-22"
+          }
+        ],
+        "message": "Tanker Market shows recent tone divergence: breakwave reads constructive while baltic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "vlcc_and_suezmax",
+      "message": "VLCC and Suezmax shows recent tone divergence: breakwave reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "vlcc_and_suezmax",
+        "title": "VLCC and Suezmax",
+        "severity": "watch",
+        "score_diff": 0.83,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-23"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": -0.04,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-25"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.54,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-29"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 5,
+            "latest_date": "2026-09-22"
+          }
+        ],
+        "message": "VLCC and Suezmax shows recent tone divergence: breakwave reads constructive while hellenic reads neutral."
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "ticker": "BWET",
-  "updated": "2026-09-21",
+  "updated": "2026-09-29",
   "data": [
     {
       "date": "2023-05-04",
@@ -11845,6 +11845,90 @@
       "flow_20d": 94670000.0,
       "regime": "BALANCED",
       "pressure": 24.5501
+    },
+    {
+      "date": "2026-09-21",
+      "usd_flow": -4146000.0,
+      "nav": 829.11,
+      "perf_pct": -0.0003,
+      "cumulative_flow": 140842000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -4146000.0,
+      "flow_zscore": -0.5366,
+      "flow_5d": 8472000.0,
+      "flow_20d": 55647000.0,
+      "regime": "BALANCED",
+      "pressure": -5.4145
+    },
+    {
+      "date": "2026-09-22",
+      "usd_flow": -7288000.0,
+      "nav": 728.74,
+      "perf_pct": -0.1211,
+      "cumulative_flow": 133554000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -7288000.0,
+      "flow_zscore": -0.7002,
+      "flow_5d": 1184000.0,
+      "flow_20d": 22650000.0,
+      "regime": "BALANCED",
+      "pressure": -11.504
+    },
+    {
+      "date": "2026-09-23",
+      "usd_flow": -62264000.0,
+      "nav": 732.5,
+      "perf_pct": 0.0052,
+      "cumulative_flow": 71290000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -62264000.0,
+      "flow_zscore": -3.0751,
+      "flow_5d": -49540000.0,
+      "flow_20d": -53526000.0,
+      "regime": "DISTRIBUTION",
+      "pressure": -92.8774
+    },
+    {
+      "date": "2026-09-24",
+      "usd_flow": -16216000.0,
+      "nav": 810.8,
+      "perf_pct": 0.1069,
+      "cumulative_flow": 55074000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -16216000.0,
+      "flow_zscore": -0.8437,
+      "flow_5d": -77473000.0,
+      "flow_20d": -53160000.0,
+      "regime": "BALANCED",
+      "pressure": -39.092
+    },
+    {
+      "date": "2026-09-25",
+      "usd_flow": 7375000.0,
+      "nav": 737.45,
+      "perf_pct": -0.0905,
+      "cumulative_flow": 62449000.0,
+      "daily_inflow": 7375000.0,
+      "daily_outflow": 0.0,
+      "flow_zscore": 0.2639,
+      "flow_5d": -82539000.0,
+      "flow_20d": -5675000.0,
+      "regime": "BALANCED",
+      "pressure": -1.4037
+    },
+    {
+      "date": "2026-09-28",
+      "usd_flow": -22090000.0,
+      "nav": 736.32,
+      "perf_pct": -0.0015,
+      "cumulative_flow": 40359000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -22090000.0,
+      "flow_zscore": -1.056,
+      "flow_5d": -100483000.0,
+      "flow_20d": -8627000.0,
+      "regime": "BALANCED",
+      "pressure": -38.3999
     }
   ]
 }

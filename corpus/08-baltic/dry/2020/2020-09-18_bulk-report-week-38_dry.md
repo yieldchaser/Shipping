@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 38"
+date: "2020-09-18"
+display_date: "18 September 2020"
+year: 2020
+week: 38
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-38.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 731
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2020/2020-09-18_bulk-report-week-38_dry.html"
+---
+
+# Bulk Report – Week 38
+
+**Date:** 18 September 2020  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-38.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-38.html)  
+
+---
+
+### Capesize
+
+It was all heavy swell for the Capesize market this week as rate levels swung with no clear direction. The Capesize 5TC opened the week at $15,248 to close at $15,761. The Pacific basin was seen to gain traction throughout the beginning of the week, supplying positive sentiment into other parts of the market before it fell away mid-week as charterers took the upper hand. It was a short-lived drop as the Pacific steadied itself by weeks end. West Australia to China C5 settled Friday at $7.082. The Brazil to China C3 fed off the early positive sentiment to be very active this week fixing tonnage for laycans throughout October. The route closed with a week on week increase of 69 cents to settle at $16.295. The North Atlantic was largely inactive before a stronger fixture was heard, which helped to lift spirits in the region. It still remains thinly traded and unconvincing. The market, now largely trading laycans for Q4, remains largely rudderless and susceptible to bursts of trading activity. Cargo levels out of Brazil are said to be healthy with solid projections for the remainder of the year and iron prices still well above the $100 level. Yet there still seems no clear path for the market to have a traditional Q4 rally - yet.
+
+### Panamax
+
+It proved to be a flat week in the Panamax market with the Panamax 5TC average gaining $87 to end the week at $11,835. In the Atlantic and North Sea region there appeared to be a mid-week clear out of spot positions leading to a small rise in sentiment as some of the Baltic round trips found an improved level with $10,500 getting achieved on an 81,000-dwt. But this was pegged back a little by end week with some cheaper fixtures. Rumoured private fixing ex EC South America failed to deliver any significant rise and the early arrival dates appeared under pressure. In Asia it was a tale of a two-tier market with the north region proving to be solid during the week as several NoPac round trips were concluded, the highlight being $13,000 on an 82,000-dwt delivery North China. Further south cargo flow was slow - particularly ex Indonesia - and rates consequently eased.
+
+### Ultramax/Supramax
+
+As the week progressed the BSI gained momentum, helped by strong rates being seen from Asia due to a lack of prompt tonnage. The Atlantic was rather lacklustre, with some areas seeing stronger demand such as the Continent, where a 55,000-dwt fixed at $16,500 delivery Continent via Baltic to the east Mediterranean. Whilst from east coast South America it remained rather flat, a 60,000-dwt fixing a trip to the Far East at $14,500 plus $450,000 ballast bonus. Limited period activity surfaced with a standoff between expectations from owners and charterers. In Asia, there was an increase in demand for Indonesia/India coal, where a 60,000-dwt open Manila fixed in the mid $12,000’s via Indonesia redelivery west coast India. A 53,000-dwt open Hong Kong was fixed for two laden legs redelivery Singapore-Japan at $11,000. A little more activity from the Indian Ocean, a 63,000-dwt fixing delivery Richards Bay for a trip to Sri Lanka at $12,300 plus $230,000 ballast bonus.
+
+### Handysize
+
+There were ups and downs for both time charter average and BHSI throughout the week with consistent support from the East. The Continent/Mediterranean market remained in negative territory whilst in the US Gulf and east coast South America levels appeared to be on the rise towards the end of the week. A 32,000-dwt was fixed from the US Gulf for a transatlantic trip at $10,000. Inter US Gulf was reported at $11,000 on a small sized vessel. A 35,000-dwt fixed delivery east coast South America for a trip to Norway in the $13,000/$14,000 region. In the Pacific, a 1994 built 43,000-dwt was fixed basis passing Busan for a trip via Vanino to South Korea at $7,750. Same level was fixed on a 33,000-dwt delivery mid China for an Indonesia round voyage, whilst a 38,000-dwt open CJK was fixed for a trip to Japan at low $6,000s.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

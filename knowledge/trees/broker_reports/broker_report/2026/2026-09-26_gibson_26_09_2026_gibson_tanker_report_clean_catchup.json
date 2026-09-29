@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup__root",
+  "doc_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup",
+  "parent_id": null,
+  "title": "Gibson tanker report - Clean Catchup",
+  "section_path": [
+    "Gibson tanker report - Clean Catchup"
+  ],
+  "section_path_text": "Gibson tanker report - Clean Catchup",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gibson tanker report - Clean Catchup\n**Broker**: Gibson\n**Published Date**: 26/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/](https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/)\n\nMarket Report Content\nin Weekly Shipbrokers Reports\n26/09/2026\nThe global CPP market remains firmly supported this week, with the same forces driving the crude complex now clearly\nSource: GIBSON SHIPBROKERS LTD",
+  "keywords": [
+    "gibson",
+    "https",
+    "shipbrokers",
+    "source",
+    "www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup",
+    "broker",
+    "catchup",
+    "clean",
+    "clearly",
+    "complex",
+    "content",
+    "cpp"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 126,
+  "source_path": "reports/broker_reports/2026/gibson_26_09_2026_gibson_tanker_report_clean_catchup.md",
+  "source_url": "https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup__s01_gibson_tanker_report_clean_catchup",
+      "doc_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup",
+      "parent_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup__root",
+      "title": "Gibson tanker report - Clean Catchup",
+      "section_path": [
+        "Gibson tanker report - Clean Catchup"
+      ],
+      "section_path_text": "Gibson tanker report - Clean Catchup",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Gibson\n**Published Date**: 26/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/](https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup",
+        "broker",
+        "date",
+        "gibson",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup",
+      "parent_id": "broker_reports_broker_report_2026-09-26_gibson_26_09_2026_gibson_tanker_report_clean_catchup__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "in Weekly Shipbrokers Reports\n26/09/2026\nThe global CPP market remains firmly supported this week, with the same forces driving the crude complex now clearly\nSource: GIBSON SHIPBROKERS LTD",
+      "keywords": [
+        "shipbrokers",
+        "clearly",
+        "complex",
+        "cpp",
+        "crude",
+        "driving",
+        "firmly",
+        "forces"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 9.22.2026",
+  "section_path": [
+    "Breakwave Tanker Report 9.22.2026"
+  ],
+  "section_path_text": "Breakwave Tanker Report 9.22.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nEastern Disruptions Support Atlantic Tightness - The East continues to lead VLCC freight strength, with steady enquiry\nSource: Breakwave Advisors\n\nLinked asset: 2026-09-22_breakwave-tanker-report-9-22-2026_breakwavetankersseptember222026repor_d4caf0b198fb.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-09-22_breakwave-tanker-report-9-22-2026_breakwavetankersseptember222026repor_d4caf0b198fb.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### September 22, 2026\n\n- **Eastern Disruptions Support Atlantic Tightness -** The East continues to lead VLCC freight strength, with steady enquiry and declining prompt availability **keeping** **owners in control**. Damage to Saudi Arabia's East-West pipeline has disrupted the Yanbu bypass, while Houthi attacks have made Red Sea security risk an active constraint on export routes. Aramco has reportedly suspended contracted crude supplies to Indian refiners, increasing replacement requirements and procurement costs, although **limited Saudi spot cargoes** may still reach India through traders.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude",
+    "funds"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1910,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-22_breakwave-tanker-report-9-22-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-22-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026",
+      "parent_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Eastern Disruptions Support Atlantic Tightness - The East continues to lead VLCC freight strength, with steady enquiry\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "continues",
+        "disruptions",
+        "east",
+        "eastern",
+        "enquiry",
+        "lead"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026__s02_linked_asset_2026_09_22_breakwave_tanker_report_9_22_2026_breakwavetankersseptember222026repor_d4caf0b198fb_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026",
+      "parent_id": "hellenic_shipbuilding_2026-09-22_2026_09_22_breakwave_tanker_report_9_22_2026__root",
+      "title": "Linked asset: 2026-09-22_breakwave-tanker-report-9-22-2026_breakwavetankersseptember222026repor_d4caf0b198fb.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-22_breakwave-tanker-report-9-22-2026_breakwavetankersseptember222026repor_d4caf0b198fb.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-22_breakwave-tanker-report-9-22-2026_breakwavetankersseptember222026repor_d4caf0b198fb.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-22_breakwave-tanker-report-9-22-2026_breakwavetankersseptember222026repor_d4caf0b198fb.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### September 22, 2026\n\n- **Eastern Disruptions Support Atlantic Tightness -** The East continues to lead VLCC freight strength, with steady enquiry and declining prompt availability **keeping** **owners in control**. Damage to Saudi Arabia's East-West pipeline has disrupted the Yanbu bypass, while Houthi attacks have made Red Sea security risk an active constraint on export routes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1837,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

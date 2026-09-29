@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 41"
+date: "2025-10-10"
+display_date: "10 October 2025"
+year: 2025
+week: 41
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-41.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 680
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2025/2025-10-10_bulk-report-week-41_dry.html"
+---
+
+# Bulk Report – Week 41
+
+**Date:** 10 October 2025  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-41.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-41.html)  
+
+---
+
+### Capesize
+
+The Capesize market experienced a week of two halves, with steady gains early on followed by a loss of momentum as sentiment turned softer. The BCI 5TC opened at $23,453 on Monday, peaked midweek at $24,252, before slipping and closing the week at $23,216. Firm demand in the Pacific, where miners remained active, supported early gains with rates pushing beyond $9.50 on C5. In contrast, the South Brazil and West Africa to China routes struggled to gain traction, with limited inquiry and softer C3 fixtures reflecting a lack of fresh demand. The North Atlantic initially found support from firmer transatlantic and fronthaul fixtures, but sentiment eased toward the week’s end amid thinner activity. Although underlying demand remained firm and continued to underpin the market, sentiment was tempered by fresh geopolitical headlines as China announced new port fees on U.S.-linked vessels in retaliation for similar U.S. measures, marking an escalation in trade tensions.
+
+### Panamax
+
+After an inauspicious opening to the week, activities in the Panamax market slowly but surely improved as confidence grew in both basins. The North Atlantic grew in Owner’s favour throughout the week with solid demand see ex US Gulf and US east coast load both for fronthaul and trans-Atlantic business. South America saw a brief rally mid-week for end October arrival dates, with reports of an 81,000-dwt achieving $17,500 delivery retro Singapore for a trip via EC South America redelivery Singapore-Japan. Following various holidays this and end of last week, Asia returned with increased confidence with a surge of fresh demand particularly ex NoPac creating quite a stir. $16,000 was achieved several times for said run on 82,000-dwt delivery China. Demand ex Australia remained steady all week and rates improved steadily rather than spectacularly as fundamentals edged towards Owners having the upper hand. Period activity included reports of an 82,000-dwt delivery SE Asia fixing at $15,500 basis 10/12 months.
+
+### Ultramax/Supramax
+
+With widespread holidays in Asia during the week it was rather poor week for the sector as limited fresh enquiry and a build-up of prompt tonnage kept rates in check. The recent strong demand from the US Gulf came to an end and rates fell away. Similarly, the Soth Atlantic lacked impetus, a 63,000-dwt heard fixed in the mid $15,000s plus mid $500,000s ballast bonus from EC South America to SE Asia. The Continent did however remain robust with scrap demand, a 63,000-dwt fixing in the low $30,000s from North Continent to the East Mediterranean. In Asia, it was a slow start, although as the week came to a close a slight air of optimism was felt.  Backhaul remained limited although a 63,000-dwt was heard fixed delivery North China trip to West Africa at $13,000. Elsewhere a 61,000-dwt was fixed basis delivery Mongla for a trip via South Kalimantan redelivery WC India in the mid $14,000s.
+
+### Handysize
+
+This week, the market showed a mixed performance with only minor movements across both basins. The Continent and Mediterranean regions maintained their positive tone, with rates edging slightly higher and the market remaining well supported. For example, a 38,000-dwt vessel was fixed for a trip from Amsterdam via the UK to the East Mediterranean with scrap at $25,500. In the South Atlantic and U.S. Gulf, conditions appeared balanced, with steady demand and modest rate improvements. Reported fixtures included a 36,000-dwt open at Barranquilla on 6 October fixed for a trip from Vila do Conde to Norway with alumina at $25,000, and a 40,000-dwt fixed delivery Southwest Pass 11 October for an inter-Caribbean trip at $23,500. In Asia, the market remained quiet due to holidays in China and South Korea, though rates held largely steady with no major change in fundamentals. A 40,000-dwt reported fixed for a trip delivery Ganyu via Japan to Manzanillo with steel coils at $14,000.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

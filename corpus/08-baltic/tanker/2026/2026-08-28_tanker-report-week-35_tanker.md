@@ -1,0 +1,69 @@
+---
+title: "Tanker Report - Week 35"
+date: "2026-08-28"
+display_date: "28 August 2026"
+year: 2026
+week: 35
+category: "tanker"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2026/tanker-report-week-35.html"
+tags: ['Baltic Exchange', 'Tankers', 'Freight Rates', 'VLCC', 'Suezmax', 'Aframax', 'Clean', 'Dirty']
+word_count: 818
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/tanker/2026/2026-08-28_tanker-report-week-35_tanker.html"
+---
+
+# Tanker Report - Week 35
+
+**Date:** 28 August 2026  
+**Publisher:** Baltic Exchange | **Category:** Tankers  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2026/tanker-report-week-35.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2026/tanker-report-week-35.html)  
+
+---
+
+### Clean
+
+*LR2*
+
+The TC1 75kt MEG/Japan index strengthened slightly this week, climbing 3.33 points to WS540 as sentiment improved in the East. A voyage west weakened, with the TC20 90kt MEG/UK-Continent index decreasing by $187,500 to $9.24 million. In Europe, the TC15 80kt Mediterranean/East index gained $433,000 to $6.02 million, with the corresponding Baltic round-trip TCE rising by $7,942 to $39,378/day via Suez.
+
+*LR1*
+
+MEG LR1s differ this week depending on the discharge location. The TC5 55kt MEG/Japan index rose 13.75 points to WS579.38, reflecting firmer sentiment for fixtures going East. A run west on TC8, 65kt MEG/UK-Continent weakened slightly, with the index down 2.31 points to WS112.64.
+
+*MR*
+
+The TC17 35kt MEG/East Africa index firmed this week from WS507.86 to WS525.00, this took the Baltic TCE for the run to $60,783/day round trip. On the UK-Continent, MRs can be seen coming off with TC2 37kt ARA/US-Atlantic Coast dropping 5.00 points to WS100.63. The Baltic TCE for the round trip is now at -$4,225/day. The TC14 38kt US Gulf/UK-Continent index went from WS230.71 to WS213.57. The Baltic round trip TCE for the run is now at $19,742/day. The Caribbean voyage on TC21, 38kt US Gulf/Caribbean followed the same pattern and is currently at $647,857. The corresponding TCE is now at $14,224/day on Baltic description. The MR Atlantic Triangulation Basket TCE settled at $22,939/day.
+
+*Handymax*
+
+In the Mediterranean, Handymax rates came off circa 1.11 points this week. The TC6 30kt Cross-Mediterranean index is now at WS165.00 generating a Baltic TCE of $8,489/day. The TC23 30kt Cross UK-Continent rose to WS180.00 this week, taking returns to $8,889/day on Baltic description.
+
+### VLCC
+
+The rate for the TD3C route (270,000mt Middle East Gulf to China) is now assessed another 54 points stronger than last Friday, at WS623, which corresponds to a daily round-trip TCE of just over $647,000 for the standard Baltic VLCC. TD34 (Gulf of Oman/China) was almost 6 points higher than a week ago at WS232.5, giving a round-trip TCE of over $219,400/day.
+
+In the Atlantic market, the rate for the 260,000mt West Africa to China route (TD15) was weakened by 17 points to about WS205, giving a round voyage TCE of $179,600/day, while the US Gulf to China route (TD22) fell by just over $1 million to $24,600,000, which gives a daily round trip TCE of just shy of $171,000.
+
+### Suezmax
+
+In the Suezmax sector, rates were a lot softer across the board. The rate for the 130,000mt Nigeria/UK Continent voyage (TD20) slumped 86 points to WS237.78, which translates into a daily round-trip TCE of about $110,700. The TD27 route (Guyana to UK Continent basis 130,000mt) dropped 78 points to WS250, giving a daily round trip TCE of $120,080. The 145,000mt USG/UKC (TD33) fell by about 70 points to WS193.33, which gives a round-trip TCE of just over $103,000/day.
+
+In the Black Sea, the news over the last week or so has ‘calmed’ the market, and rates for the TD6 route of 135,000mt CPC/Augusta have fallen 135 points to the WS400 level, which shows a daily round-trip TCE of just under $284,250.
+
+### Aframax
+
+In the North Sea, the rate for the 80,000mt Cross-UK Continent route (TD7) improved by almost 11 points to about WS214, showing a daily round-trip TCE of about $107,000 basis Hound Point to Wilhelmshaven.
+
+In the Mediterranean, the rate for 80,000mt Cross-Mediterranean (TD19) firmed by another 11 points to WS268. Basis Ceyhan to Lavera, this shows a daily round trip TCE of $86,377.
+
+Across the Atlantic, the charterers have managed to get a better hold of the market. The 70,000mt East Coast Mexico/US Gulf route (TD26) plummeted 182 points to WS200, giving a daily round-trip TCE of $36,900 while the 70,000mt Covenas/US Gulf route (TD9) was driven down 163 points to WS197, translating into a daily round trip TCE of about $39,600.
+
+The rate for the transatlantic route of 70,000mt US Gulf/UK Continent (TD25) dropped 117 points this week, to WS201.67, which gives a round trip TCE basis Houston/Rotterdam of a little below $40,000.
+
+On the Vancouver exports, the TD28 (80,000mt crude oil Vancouver to China) slipped $12,500 to $3,116,667 (giving a round trip TCE of just under $43,900/day) while TD29 (80,000mt crude oil Vancouver to Pacific Area Lightering point off the USWC) remains at WS250.
+
+---
+
+**Tags:** Baltic Exchange, Tankers, Freight Rates, VLCC, Suezmax, Aframax, Clean, Dirty  

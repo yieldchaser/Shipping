@@ -1,0 +1,40 @@
+---
+title: "Chinese Coal Import Demand Strengthening"
+date: "2021-07-21"
+display_date: "July 21, 2021"
+year: 2021
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2021/7/19/chinese-coal-import-demand-strengthening"
+tags: ["China", "Shipping", "Coal"]
+images_count: 1
+word_count: 468
+source_file: "corpus/03-breakwave/insights/2021/2021-07-21_chinese-coal-import-demand-strengthening.html"
+---
+
+# Chinese Coal Import Demand Strengthening
+
+**Date:** July 21, 2021  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2021/7/19/chinese-coal-import-demand-strengthening](https://www.breakwaveadvisors.com/insights/2021/7/19/chinese-coal-import-demand-strengthening)  
+
+---
+
+*By Jeffrey Landsberg*
+
+Recently released data shows that China's coal production totaled only 323.2 million tons in June. This is down month-on-month by 3.1 million tons (-1%) and is down year-on-year by 10.1 million tons (-3%). Overall, it remains very bullish for the seaborne coal and dry bulk shipping markets that China's coal-derived electricity generation growth has continued to fare much better than coal production growth. Coal-derived electricity generation in June totaled 481.3 billion kilowatt hours. This is up month-on-month by 31.2 billion kilowatt hours (7%) and is up year-on-year by 49 billion kilowatt hours (11%).
+
+China's coal-derived electricity generation during the last four months has increased year-on-year by 14%. In comparison, domestic coal production during the last four months has contracted year-on-year by 0.2%. Also of note is that China's overall electricity production in June rose year-on-year by 9% and hydropower output contracted year-on-year by 6%. The contraction in hydropower output is a new positive issue for the seaborne coal and dry bulk shipping markets. Hydropower output previously increased on a year-on-year basis in May and April (and prior to June, it had contracted on a year-on-year basis only twice during the last twelve months).
+
+As we recently discussed in our July 5th Weekly China Report, much of southern China (where the majority of China's hydropower is produced) had been receiving less rainfall than usual in June -- and as we discussed in today's Weekly China Report, rainfall was lower than usual again last week. China's hydropower output could still end up experiencing year-on-year growth this month as new hydropower stations continue to come online, but it nevertheless is helpful for the coal and dry bulk markets that rainfall has stayed relatively low.
+
+Going forward, the prospects for Chinese coal imports remain promising. China's coal import demand has continued to increase this month and is poised to strengthen further. Of note is that the government has been releasing some state coal reserves into the market in recent months, but they will be unable to meet China’s coal shortage. State reserves now total only approximately 40 million tons and the nation needs a great deal more coal. Also of note is that yet another coal mine accident occurred last week, and the nation's coal production is all but certain to remain under government-directed pressure in the near term.
+
+![A1.png Twra](assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
+
+> **Figure 1: A1.png Twra**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
+
+---
+
+**Tags:** China, Shipping, Coal  

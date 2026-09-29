@@ -1,0 +1,53 @@
+---
+title: "Locked Strait"
+date: "2026-03-16"
+display_date: "March 16, 2026"
+year: 2026
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2026/3/16/locked-strait"
+tags: ["Crude", "Markets", "Shipping"]
+images_count: 2
+word_count: 1036
+source_file: "corpus/03-breakwave/insights/2026/2026-03-16_locked-strait.html"
+---
+
+# Locked Strait
+
+**Date:** March 16, 2026  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2026/3/16/locked-strait](https://www.breakwaveadvisors.com/insights/2026/3/16/locked-strait)  
+
+---
+
+![Istock 485480338](assets/2026-03-16_locked-strait_img_istock-485480338_ce7742c70ec8.jpg)
+
+> **Figure 1: Istock 485480338**  
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_istock-485480338_ce7742c70ec8.jpg)
+
+The crisis in the Middle East shows no signs of abating. Attacks on oil infrastructure in the region have continued, and multiple vessels have been hit. Transit through the SOH remains effectively blocked, with just a few tankers crossing Hormuz since the outset of hostilities. With storage filling up, Gulf countries have been forced to shut production and refining capacity. The IEA report released yesterday assesses that the region’s crude production has been cut by at least 10 mbd. Global oil supply as a result is projected to fall by 8 mbd this month, as some production increases are expected elsewhere. The latest estimates of regional refining capacity shut-ins range between 2.35 and 3 mbd.
+
+With Asia heavily dependent on Middle East supply, refining runs there have also been progressively curtailed, whilst the list of force majeure declarations by the petrochemical sector continues to grow. Earlier this week China announced an immediate ban on exports of clean and dirty refined products in March. The IEA agreed to release a record 400 million barrels from the SPR, the US Treasury authorised Russian oil sales through April 11 and is considering a temporary waiver of the Jones Act. Yet, this is failing to cool the markets, with Brent trading up 9% week-on-week.
+
+The key question is: what comes next for tanker markets? With developments in the Middle East evolving rapidly, uncertainty prevails. One thing is clear: the longer the current crisis keeps flows locked in, the more bearish the outlook becomes.
+
+Should the bulk of Gulf barrels remain constrained for an extended period, VLCCs and LRs are naturally the most exposed. It remains highly uncertain whether US security guarantees, insurance cover and military convoys will allow flows to return to pre-28 February levels. Reuters reported on Tuesday that the US Navy is declining near-daily industry requests for Hormuz escorts, citing the attack risk as too high. Commercial traffic never fully resumed in the Red Sea despite considerable military efforts, with Houthi attacks continuing largely unabated until a ceasefire was reached. Whilst some high-risk owners may be willing to transit through the SOH subject to war-risk insurance and military escorts, there will equally be many operators unwilling to trade into the Gulf whilst missiles continue to fly.
+
+Of course, there are barrels increasingly trading outside the Gulf. The most notable example here is Yanbu. There has been a significant increase in VLCC fixture activity since the start of the month, following Aramco’s announcement that it will be redirecting all Arab Light volumes there (which averaged 2.15 mbd from Saudi Arabia’s East Coast in 2025) and more recently suggesting that the East-West pipeline could soon be operating at its full 7 mbd capacity. Saudi Arabia’s West Coast is also home to substantial refining capacity. Other outlets for crude include Fujairah, via the 1.5 mbd ADCOP pipeline, with exports around 1.2 mbd last year, and Mina Al-Fahal, with exports averaging 1 mbd in 2025. However, these ports are at greater risk of attacks and the related disruptions. It remains to be seen how large an actual increase in shipments from Yanbu will be. Nonetheless, even if volumes increase substantially, a significant portion of Gulf barrels will remain shut in.
+
+On the freight front, we have seen a correction in rates, but an uneven one. Rates originating from the Middle East still command a significant premium due to the obvious risks. A sharper correction has been seen in the West, particularly for crude tanker rates. Yet, freight remains expensive, potentially denting demand from Asian refiners for Atlantic Basin barrels. However, if the situation in the Middle East remains unchanged, there is likely to be an increase in ballasters heading to the Atlantic, and the reality is that there are simply not enough cargoes for the number of vessels that will be available. VLCC rates for Atlantic Basin loadings will come under substantial downward pressure. This will inevitably drag Suezmax rates lower as well. A similar dynamic will materialise in the clean market. LRs are the most vulnerable, but the downward pressure will eventually filter down to smaller sizes.
+
+It is impossible to predict how long the conflict in the Middle East will last. Perhaps the Trump administration had hoped for a swift resolution following targeted strikes on senior military leadership (similar to the rapid outcome seen in Venezuela). However, Iran is clearly digging in. The IRGC said on Tuesday that they would not allow “one litre of oil” to be shipped through the SOH if US and Israel attacks continue, whilst Iran’s new supreme leader has called for the SOH to “remain closed” in his first statement. Another question is how likely it is that Trump reverses course on Iran. The longer the war continues, the more catastrophic the consequences for the world become.
+
+However, the longer-term picture is somewhat more constructive. Once the situation in the Middle East stabilises and crude flows resume, we are likely to see pent-up demand as refiners move to replenish both commercial and strategic inventories. The longer-term picture is also becoming more positive. If there is a regime change in Iran, this would bring Iranian barrels back onto mainstream VLCCs and Suezmaxes, with this incremental demand helping to offset the increasing volume of new tanker deliveries expected in 2026 and 2027. Furthermore, the prolonged absence of Middle Eastern barrels from global supply reduces the risk of a heavy oversupply scenario that could ultimately have triggered global production cutbacks.
+
+![Στιγμιότυπο Οθόνης 2026 03 16 100612](assets/2026-03-16_locked-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6cdc6e614b5.png)
+
+> **Figure 2: Στιγμιότυπο Οθόνης 2026 03 16 100612**  
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6cdc6e614b5.png)
+
+Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
+
+---
+
+**Tags:** Crude, Markets, Shipping  

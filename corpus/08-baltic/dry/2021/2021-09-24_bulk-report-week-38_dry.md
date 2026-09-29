@@ -1,0 +1,49 @@
+---
+title: "Bulk Report – Week 38"
+date: "2021-09-24"
+display_date: "24 September 2021"
+year: 2021
+week: 38
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2021/bulk-report-week-38.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 720
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2021/2021-09-24_bulk-report-week-38_dry.html"
+---
+
+# Bulk Report – Week 38
+
+**Date:** 24 September 2021  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2021/bulk-report-week-38.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2021/bulk-report-week-38.html)  
+
+---
+
+### Capesize
+
+The Capesize market continued its assertive rally this past week reaching new highs in dramatic fashion. The Capesize 5TC opened the week at $53,240 and never looked like taking a backward step as it closed out the week a staggering $8,069 up settling Friday at $61,309. The main driving force for the market came from the Pacific, as West Australian charterers were caught early on in the week dealing with a slim selection of choices and troubled vessel schedules resulting from the previous week’s weather in eastern China. The West Australia to China C5 leapt up $3,759 at the beginning of the week to $20,145 before regressing on Friday to $19,082. Meanwhile, the Transpacific C10 closed the week out at a hefty $67,000, off the previous day’s high of $70,742.
+
+Heading west into the Atlantic it’s heard that owners are on the hunt for fronthaul cargoes to the detriment of Transatlantic business as we are firmly into Q4 Atlantic strategy.  Transatlantic C8 are now prices at $69,215, while the Fronthaul C9 commands a $81,775 price tag allowing owners to cash in on their premium position for the price of repositioning to the Pacific.
+
+### Panamax
+
+Not quite as sensational as the Cape market and despite varying holidays throughout the week the Panamax market returned to positive territory. Stable fundamentals pitched against tonnage tightness made for the perfect storm with strong gains seen in the Atlantic with most major loading origins seeing solid demand. East coast South America saw good support for second half October arrivals, with talk of an 81,000-dwt accomplishing $36,500 for a trip via east coast South America with delivery in Singapore. Asia, despite holidays, witnessed steady gains. NoPac grain demand returned as the main driver in the north, with a $35,500 agreed on an 81,000-dwt delivery Japan for a NoPac round trip the high on the week.  Stronger levels too from both Indonesia and Australia to India on the coal trips, with $38,250 the high rate on an 82,000-dwt delivery Malaysia for a trip via Indonesia to India. Period activity saw an 81,000-dwt achieve $34,000 for four to six months.
+
+### Ultramax/Supramax
+
+With widespread holidays in Asia the week started on a relatively slow note. However, sentiment remained strong in most areas as more enquiry was seen. Period activity included a 63,000-dwt open Southeast Asia fixing five to seven months trading in the low $40,000s. Better demand was seen from the Mediterranean for Atlantic business, with a 56,000-dwt fixing a trip from Turkey to West Africa at $52,000. From the US Gulf an Ultramax was heard to have been fixed for a trip to the far east in the low $50,000s. Further south from east coast South America, limited activity was reported with some seeing tonnage supply growing.
+
+From Asia, a 63,000-dwt open Kosichang was fixed for an Indonesian coal run to China in the low $40,000s and Ultramax size also open Southeast Asia were seeing in the low $40,000s for Australian round voyages. From the Indian Ocean, a 63,000-dwt open Kandla was fixed for a trip to the Continent at $40,000.
+
+### Handysize
+
+A week of positive gains on the BHSI, despite holidays in the Asia region causing activity to be limited, resulting in a new yearly high of 1925 points. East coast South America continues its revival, with a 37,000-dwt fixing a trip from Vila Do Conde to Norway with an intended cargo of alumina at $37,000, plus a 28,000-dwt fixing from Santos to Morocco with an intended cargo of sugar at $34,000.
+
+A 35,000-dwt was also fixed from Morocco to Bangladesh at $45,250. In the Mediterranean a 37,000-dwt was fixed for a trip from Turkey to the US Gulf with an intended cargo of steels at $41,000.  In Asia a 32,000-dwt was fixed from Vietnam to China with an intended cargo of clinker at around $39,000.  Period has been active with a 32,000-dwt open in Brazil being fixed for four to five months with worldwide redelivery at $35,000.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

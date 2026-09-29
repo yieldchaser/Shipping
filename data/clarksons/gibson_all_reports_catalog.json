@@ -1,9 +1,16 @@
 {
-  "harvested_at": "2026-09-21T14:19:43.593160+00:00",
-  "total_reports": 550,
-  "online_reports_count": 155,
+  "harvested_at": "2026-09-29T14:13:16.629808+00:00",
+  "total_reports": 551,
+  "online_reports_count": 156,
   "report_downloads_count": 395,
   "online_reports": [
+    {
+      "id": 20216,
+      "date": "2026-09-25T16:12:24",
+      "title": "Clean Catchup",
+      "slug": "clean-catchup",
+      "link": "https://www.gibsons.co.uk/report/clean-catchup/"
+    },
     {
       "id": 20127,
       "date": "2026-09-18T15:59:54",

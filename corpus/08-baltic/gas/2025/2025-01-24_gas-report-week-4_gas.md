@@ -1,0 +1,43 @@
+---
+title: "Gas Report - Week 4"
+date: "2025-01-24"
+display_date: "24 January 2025"
+year: 2025
+week: 4
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-4.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 476
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2025/2025-01-24_gas-report-week-4_gas.html"
+---
+
+# Gas Report - Week 4
+
+**Date:** 24 January 2025  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-4.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-4.html)  
+
+---
+
+### LNG
+
+The LNG shipping market has seen a further decline in sentiment. Driven by excess tonnage, a lack of cargoes and delays at Freeport, the market experienced another downturn, with the most recent fixture involving a 2-stroke deal being made at sub-$10,000 and less than 100% round-trip earnings.
+
+The BLNG1 Australia–Japan route for both 160k cbm TFDE and 174k cbm 2-Stroke vessels saw declines, with rates dropping by $1,600 and $1,800 respectively. The TFDE index closed at $8,600, while the 2-Stroke index ended at $15,400. Despite these declines, The Pacific market performed better than the Atlantic, where both the BLNG2 and BLNG3 routes saw even sharper drops.
+
+For BLNG2 Houston–Continent, the 174k cbm 2-Stroke index fell by $8,100, closing at $9,500, while the 160k cbm TFDE equivalent dropped by $5,400 to $4,400. This represents some of the lowest rates recorded in LNG market history. The BLNG3 Houston–Japan route recorded the largest decline of the week, with the 174k cbm 2-Stroke index falling by $8,900 to $14,200, and the 160k cbm TFDE index dropping by $7,800 to close at $7,100.
+
+The term market also saw very little change. Short-term rates increased slightly by $450, settling at $25,200 for six-month charters. One-year rates decreased by $600, closing at $30,725, while three-year rates saw a modest increase of $1,700 to $48,250. These minimal fluctuations reflect the lack of interest in longer-term charters. With the growing supply of vessels, period rates are not expected to recover soon.
+
+### LPG
+
+This week, the LPG market experienced a noticeable bearish shift, with declines observed across key routes. BLPG1 Ras Tanura to Chiba saw a sharp drop, with rates falling by $12, closing at $47.33. This decrease also impacted daily TCE earnings, which fell by $12,573, settling at $27,075. The drop in rates highlights a weaker demand for vessels in this route, further adding to the overall negative sentiment.
+
+In the Atlantic, both BLPG2 and BLPG3 faced downward pressure as a softer bearish sentiment took hold. BLPG2 Houston–Flushing saw a decrease of $2.63, closing at $53.25. Daily TCE earnings also saw a decline, falling by $3,488 to close at $49,002. This reflects the broader trend of diminishing activity in the Atlantic basin. Meanwhile, BLPG3 Houston–Chiba experienced a $1.92 drop, largely attributed to vessels being listed with no inquiries, pointing to a further weakening in demand for this route. The Baltic final published rate for BLPG3 settled at $97.58, with TCE earnings of $33,160. The overall outlook for the market remains cautious, as these declines suggest a period of reduced activity and potential further pressure on rates in the near term.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

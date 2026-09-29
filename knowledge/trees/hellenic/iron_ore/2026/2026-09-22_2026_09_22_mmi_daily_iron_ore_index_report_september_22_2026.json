@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report September 22 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report September 22 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report September 22 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nToday brought two bearish threads and one clear floor beneath them. The first is fundamental: maintenance losses have been revised up again- on SMM's latest review basis, hot metal lost to blast furnace maintenance is 1.5267 million mt this week (Sep 19 25), up 56,000 mt WoW, rising a further 46,600 mt to 1.5733 million next week (Sep 26-Oct 2), each figure 24,500 mt above the Sep 21 weekly summary. Set against the Sep 14 print (1.4157 million this week, falling to 1.3734 million next), the direction has completely reversed: sustained mill losses are translating into steadily wider output cuts, and SMM says explicitly that the support this gives ore prices is weakening.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "iron_ore",
+    "smm",
+    "ore",
+    "million",
+    "sep",
+    "daily",
+    "port",
+    "fines"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5361,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-22-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026",
+      "parent_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Today brought two bearish threads and one clear floor beneath them. The first is fundamental: maintenance losses have been revised up again- on SMM's latest review basis, hot metal lost to blast furnace maintenance is 1.5267 million mt this week (Sep 19 25), up 56,000 mt WoW, rising a further 46,600 mt to 1.5733 million next week (Sep 26-Oct 2), each figure 24,500 mt above the Sep 21 weekly summary.",
+      "keywords": [
+        "china",
+        "million",
+        "smm",
+        "maintenance",
+        "not",
+        "sep",
+        "are",
+        "floor"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 493,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__s02_linked_asset_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026_22092026chinesepng_c4c5619dc917_jpg",
+      "doc_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026",
+      "parent_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__root",
+      "title": "Linked asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_22092026chinesepng_c4c5619dc917.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_22092026chinesepng_c4c5619dc917.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_22092026chinesepng_c4c5619dc917.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_22092026chinesepng_c4c5619dc917.jpg\n\nLinked image asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_22092026chinesepng_c4c5619dc917.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n| u SMM Iron Ore Price Index All five MMi as of Sep 22 - vs Sep 21\nMMi 61% Port Spot _ Daily MMi 58% Port Spot Daily MMi 65% Port Spot _ Daily\n687 yuan/wmt 644 yuan/wmt 841 yuan/wmt\nv-1 -0.15% v-1 -0.16% v-1 -0.12%\nMTD avg 696 MTD avg 649 MTD avg 839\nMMi 61% Seaborne Index _ Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index\nDaily\n96.35 UsD/dmt 1 1 3.00 USD/dmt 837.61 sian\nv-0. -0.227\n0.35 -0.36% 0.25 -0.22% ¥-8.33 -0.98%\nMTD avg 97.09 MTD avg 115.12 MTD avg 841.26\nwww.mmiprices.com jarek@mmiprices.com",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "avg",
+        "daily",
+        "mmi",
+        "mtd",
+        "port",
+        "v-1"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 369,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__s03_linked_asset_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026_mmi_daily_iron_ore_report_for_22th_s_f7eb62eaf90a_pdf",
+      "doc_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026",
+      "parent_id": "hellenic_iron_ore_2026-09-22_2026_09_22_mmi_daily_iron_ore_index_report_september_22_2026__root",
+      "title": "Linked asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf\n\nSMM IRON ORE D A I LY\n\n2026-09-22 Tuesday · Imported & Domestic Ore · Prices · Supply-Demand · Inventory · Commentary\n\nSource SMM Data-pro\n\n### Futures ContractsClosing price\n\nSGX Iron Ore Most-traded Contract Daily DCE Iron Ore Most-traded I2701 Daily\n\n# 97.21USD/dmt 708.0yuan/mt\n\n#### - 0.00 0.00% ▼ -7.0-0.98%\n\nMTD avg 97.99 MTD avg 720.8 As of Sep 21 · vs Sep 19\n\n### SMM Iron Ore Price IndexAll five MMi as of Sep 22 · vs Sep 21\n\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n\n## 687 yuan/wmt 644 yuan/wmt 841 yuan/wmt\n\n▼ -1-0.15% ▼ -1-0.16% ▼ -1-0.12% MTD avg 696 MTD avg 649 MTD avg 839\n\nMMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index Daily\n\n## 96.35 USD/dmt 113.00 USD/dmt 837.61 yuan/mt\n\n▼ -0.35-0.36% ▼ -0.25-0.22% ▼ -8.33-0.98% MTD avg 97.09 MTD avg 115.12 MTD avg 841.26 index as of Sep 18 · vs Sep 17\n\n### Key View\n\nToday brought two bearish threads and one clear floor beneath them. The first is fundamental: maintenance losses have been revised up again",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "iron_ore",
+        "smm",
+        "ore",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4399,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

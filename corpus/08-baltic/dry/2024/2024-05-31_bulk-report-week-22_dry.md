@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 22"
+date: "2024-05-31"
+display_date: "31 May 2024"
+year: 2024
+week: 22
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-22.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 710
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2024/2024-05-31_bulk-report-week-22_dry.html"
+---
+
+# Bulk Report – Week 22
+
+**Date:** 31 May 2024  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-22.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2024/bulk-report-week-22.html)  
+
+---
+
+### Capesize
+
+After a slow start due to a UK Bank Holiday, the market quickly regained momentum. The Pacific was notably active, with all three major miners actively fixing throughout the week. Initially rates struggled to gain traction as brokers reported an oversupply of early vessels. However, towards the latter part of the week, the Pacific benefited from an uptick in coal cargoes from Indonesia and East Coast Australia, and operator activity, driving freight rates higher, as a result the C5 index rose by $1.15 this week, closing at $11.135. Early in the week, activity in the Atlantic was limited, but a tightening of tonnage was noted in the North. Midweek saw positive sentiment bolstered by increased fresh cargoes and strong fronthaul fixtures from East Coast Canada to China, leading to substantial gains in the C9 index, which climbed $3,129 on the week, closing at $48,563. The South Brazil and West Africa to China routes experienced downward pressure due to an abundance of ballasting vessels, however, towards the end of the week some marginal gains were made. The week concluded positively, with the BCI 5TC increasing by $581 to close at $23,389.
+
+### Panamax
+
+It proved to be a negative week for the Panamax market with rates easing across the board. The Atlantic remained predominantly fronthaul led with a steady grain cargo flow ex NC South America, continuing the recent theme of decent mineral demand ex US east coast to India, reports circulated mid-week of an 81,000-dwt delivery Gibraltar at $25,100 for said run. However, with an easing trans-Atlantic market the plentiful ships available in the North came under pressure with reduced rates appearing, with no obvious signs of any floor. In Asia, sound volume of mineral demand ex Australia along with NoPac grains kept rates steady, but with South America not offering much support seeds of doubt were experienced across the basin. An 82,000-dwt delivery South Korea was able to achieve $17,250 for a trip via Australia redelivery China, whilst ex Indonesia an 81,500-dwt delivery Thailand agreed a shade below $18,000 for a trip via Indonesia redelivery South Korea.
+
+### Ultramax/Supramax
+
+Another rather lackluster week as many areas saw little fresh enquiry compounding a rather dull market. The Atlantic saw limited opportunities from the Continent-Mediterranean, elsewhere the South Atlantic similarly saw little action. Despite little fixing information emerging some felt that a bottom may have been reached from the US Gulf as the week closed. A similar story from the Asian arena with lower cargo flows also affecting timecharter rates. In the Atlantic, A 51,000-dwt open Ireland was fixed for a trip via Russian Baltic to South Brazil at $14,000. Otherwise, a 61,000-dwt fixed delivery Recalada for a trip to West Africa at $18,000. In Asia, a 55,000-dwt open South China fixed a trip via Indonesia redelivery EC India in the low $15,000s and a 58,000-dwt open Taiwan fixed a trip via Indonesia to China in the low $16,000s. The Indian Ocean remained active although again sentiment remained poor, a 61,000-dwt fixed delivery Port Elizabeth trip to China at $21,000 plus $210,000 ballast bonus.
+
+### Handysize
+
+In a week of limited visible activity, a feeling of positivity was seen in sections of the handy sector. The South Atlantic began in a positive fashion, with adequate cargo availability, with a 38,000-dwt fixing from Recalada to Denmark with an intended cargo of grains at $19,250 but as the week progressed, levels of fresh enquiry slowed and numbers were said to have stabilized. The Continent and Mediterranean continued to struggle for cargo availability, and a 33,000-dwt fixed for a trip from North France to West Africa intention Abidjan with an intended cargo of grains at $8,750. The Pacific markets remained positive with fresh enquiry visible from Australia, Indonesia, China and the Pacific North West. A 38,000-dwt opening in Manzanillo was fixed for a trip to Singapore-Japan in the mid teens whilst a 37,000-dwt was fixed from Chilie to Singapore-Japan at around $17,000 but further details had yet to surface.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

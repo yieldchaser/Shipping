@@ -1,0 +1,41 @@
+---
+title: "“Controlled Hormuz”"
+date: "2026-04-01"
+display_date: "April 01, 2026"
+year: 2026
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2026/3/31/controlled-hormuz"
+tags: ["Shipping", "Markets", "Geopolitics"]
+images_count: 1
+word_count: 647
+source_file: "corpus/03-breakwave/insights/2026/2026-04-01_controlled-hormuz.html"
+---
+
+# “Controlled Hormuz”
+
+**Date:** April 01, 2026  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2026/3/31/controlled-hormuz](https://www.breakwaveadvisors.com/insights/2026/3/31/controlled-hormuz)  
+
+---
+
+![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-04-01_controlled-hormuz_img_unsplash-image-1a1sbme8ovi_ab058a0cb9cb.jpg)
+
+> **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
+> *ByEirini Diamantara&Dimitris Roumeliotis*  
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-01_controlled-hormuz_img_unsplash-image-1a1sbme8ovi_ab058a0cb9cb.jpg)
+
+The Strait of Hormuz is no longer simply a chokepoint. It is gradually being reshaped into a controlled corridor where access is conditional, selective, and increasingly political. What began as a wartime disruption is now evolving into a structural shift, with Iran attempting to formalise its influence over one of the most critical arteries of global energy trade. The introduction of an “approved passage” system, whether through formal coordination, diplomatic channels, or reportedly even financial arrangements, signals a transition from disruption to governance, albeit one that challenges long-standing norms of free navigation.
+
+Traffic data already illustrates the scale of the shock. Transits have collapsed, and what little activity remains is heavily skewed towards “non-hostile” nations. Asian-linked flows dominate, while Western-linked cargoes are effectively absent, reinforcing a fragmentation of global trade routes along geopolitical lines. At the same time, reports of vessels reflagging or routing through diplomatic backchannels underline a market that is rapidly adapting, but at a cost — operationally, financially, and structurally. What is particularly notable is that Iran’s approach is not one of full closure, but of selective reopening. Countries such as China, India, Pakistan, and increasingly others like Vietnam and Malaysia, are being granted passage on a case-by-case basis. Even within Europe, Spain has emerged as a potential exception, highlighting how geopolitical positioning is now directly influencing commercial shipping access. This is a clear signal that control over Hormuz is being used not only as a defensive tool, but as a lever of diplomatic and economic influence. For the tanker market, this has translated into an extraordinary two-phase rally. The first phase, running through January and February, was fundamentally driven, with VLCC earnings rising by roughly 349% to around $177,000/day, while Suezmax and Aframax followed at a more moderate pace, up about 70% and 58% respectively. The second phase, post-28 February, has been entirely geopolitical. The effective removal of tonnage, with hundreds of vessels stranded or rerouted, has created an immediate supply shock, tightening availability across all segments.
+
+From the start of the year to 25 March, VLCC earnings surged by 430%, moving from about $39.5K/day to over $209K/day, with a peak recorded at $318.7K/day in early March. Suezmax rates climbed even more aggressively in the second phase, up around 256% overall to roughly $269.7K/day, marking fresh historical highs. Aframax followed a similar trajectory, gaining about 338% to around $216.9K/day, also reaching record levels by late March. This divergence highlights a key dynamic: while VLCCs led the initial rally, smaller segments ultimately captured the dislocation-driven upside. At the same time, the broader implications for the industry are becoming clearer. Increased war risk premiums, alternative routing via the Cape, & longer tonne-miles are all reinforcing freight strength, while also embedding higher costs into the system. The market is not just reacting, it’s being structurally repriced to reflect a new level of geopolitical risk.
+
+Looking ahead, the key question is whether this “controlled Hormuz” becomes a temporary wartime mechanism or a longer-term reality. If Iran continues to institutionalise selective access, the industry may be forced to operate in a more fragmented and politically mediated trading environment. In that scenario, flexibility, relationships, and strategic positioning will matter as much as fleet size or efficiency. For now, one thing is clear: the market is no longer pricing risk as an exception. It is pricing it as the baseline.
+
+Data source:[Xclusiv Shipbrokers Inc.](https://www.linkedin.com/company/xclusiv-shipbrokers-inc/)
+
+---
+
+**Tags:** Shipping, Markets, Geopolitics  
