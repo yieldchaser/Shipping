@@ -1,28 +1,32 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
-**THIS RUN (2026-09-29 11:4x): bancosta freight_rates SECOND residue CLOSED - 125 non-unit rows -> 0.**
-The residue the last run measured as "125 rows / 52 docs whose `unit` is not a unit" split into three
-classes, all in branch 11: 68 leaked sub-header rows (`AFRAMAX | Unit | 3-Jul | ...` published as data),
-21 empty rows, and 33 SHIFTED rows. Root cause = a FIXED column index in a table that redesigns across
-years: 2021-2022 publish a 7-col `| Category | Name | Unit | <d> | <d> | W-o-W | Y-o-Y |` grid and the
-`DELAYS AT TURKISH STRAITS` block an 8-col one (`| Northbound | | days | 2.0 | 2.0 | +0.0% | +100.0% |`),
-so the Name landed in `unit`, the unit in `rate_current`, and W-o-W/Y-o-Y were DROPPED. FIX = content
-anchor: locate the UNIT column by token (`FREIGHT_UNIT_TOKENS`), a row with no unit token is a
-header/banner/empty row; join `<code>`+`<name>` hyphenating a leading `TCE` (the page prints `TC1-TCE`).
-Rebuilt from the CACHED markdown - **no API spend**. MEASURED: freight_rates 20,249 -> **20,321** rows;
-non-unit `unit` rows 125 -> **0**; leaked headers 68 -> 0; empty 21 -> 0; distinct units 44 -> **6**.
-CONTROLS: (1) a cache-only rebuild reproduces all 10 series CSVs byte-exact BEFORE the patch;
-(2) AFTER, **9 of 10 byte-identical** - only freight_rates differs; (3) **all 196 added rows verified
-verbatim** - current+previous+wow each appear in the publisher's own PDF text layer or the LlamaParse
-read (196/196, 0 misses); (4) the 124 removed rows = 62 headers + 35 shifted (re-aligned) + 21 empty +
-6 dupes, **0 real route codes lost**, no doc lost a real route; (5) ground truth read from the rendered
-page text of 2021_W46 page 6 - all 27 CLEAN_TANKER rows now match exactly. Evidence
-**`docs/bancosta_freight_rates_residue2_verdict.md`**.
-NEXT TARGET (measured, NOT fixed): bancosta target #1, the same fixed-index root cause in branches 7/8 -
-chart tables published as container indices: `freightos_index` 502 of 2,271 rows / 145 docs and
-`vhss_contex` 1,713 of 3,427 rows / 218 docs have a `unit` cell that is neither a unit token nor a
-period label. NOTE: this run could NOT use vision (no image tool in the cron session) - substituted the
-same-document text reconciliation against BOTH the PDF text layer and the LlamaParse markdown.
+**THIS RUN (2026-09-29 11:5x): BOTH bancosta residues CLOSED (the state file's two NEXT TARGETS).**
+(1) freight_rates SECOND residue - the "125 rows / 52 docs whose `unit` is not a unit" split into 68 leaked
+sub-header rows, 21 empty rows and 33 SHIFTED rows, all in branch 11. Root cause = a FIXED column index in a
+table that redesigns across years: 2021-2022 publish a 7-col `| Category | Name | Unit | <d> | <d> | W-o-W |
+Y-o-Y |` grid and `DELAYS AT TURKISH STRAITS` an 8-col one, so the Name landed in `unit`, the unit in
+`rate_current`, and W-o-W/Y-o-Y were DROPPED. FIX = content anchor (`FREIGHT_UNIT_TOKENS`); a row with no
+unit token is a header/banner/empty row; join `<code>`+`<name>` hyphenating a leading `TCE` (the page prints
+`TC1-TCE`). MEASURED: freight_rates 20,249 -> **20,321**; non-unit rows 125 -> **0**; distinct units 44 -> **6**.
+(2) branches 7/8 (VHSS ConTex + Freightos) - the SAME defect: heading-only gate + fixed index, so the
+container CHARTS under the same heading (`| Date | 4250 | 3500 | 2700 |` / `| Jul-20 | 8000 | 8000 | 8000 |`)
+were published as container indices, and the Freightos banners (`Services:`) as routes. FIX = require a real
+unit token (`_INDEX_UNITS`); a chart table then falls through to branch 12 (chart_series). MEASURED:
+vhss_contex 3,427 -> **1,714**; freightos_index 2,271 -> **1,769**; non-unit rows 2,215 -> **0**;
+chart_series 39,425 -> **42,403** (0 removed, +2,970 added). NOTE `chart_series` is a SIDECAR-only artefact
+(not one of the 10 stacked series CSVs).
+CONTROLS (both): (a) a cache-only rebuild reproduces all 10 series CSVs byte-exact BEFORE either patch;
+(b) after, **8 of 10 byte-identical** - only freight_rates and vhss differ; (c) EVERY added row verified
+verbatim - 196/196 (freight), 1,714/1,714 (vhss) + 1,769/1,769 (freightos) + 2,970/2,970 (chart), all
+reconciled against the publisher's own PDF text layer or the LlamaParse pixel-read; (d) every removed row
+CLASSIFIED, **0 removed rows carried a unit token / 0 real route codes lost**; (e) ground truth read from
+the rendered page text of 2021_W46 page 6 and 2021_W26 container page. Rebuilt from the CACHED markdown -
+**no API spend**. Evidence **`docs/bancosta_freight_rates_residue2_verdict.md`**,
+**`docs/bancosta_container_index_chart_verdict.md`**.
+METHOD NOTE: this run had NO vision tool (no image tool in the cron session) - substituted same-document
+text reconciliation against BOTH the PDF text layer and the LlamaParse markdown, and read the rendered page
+TEXT. Both bancosta residues are now closed; the only bancosta blocker left is the LlamaParse credit wall
+(HTTP 402) for the final 1 doc of 244 - only the user can rotate the key.
 HELLENIC is owned by a separate live session - do not collide.
 
 **THIS RUN (2026-09-29 02:3x): bancosta_freight_rates DRY_BULK residue CLOSED - 80 rows routed, 0 left.**
