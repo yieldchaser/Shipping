@@ -34,6 +34,23 @@ issues). Residual >10% spread flags: **665 handy / 453 coaster** - a record of t
 restatement band. Evidence **`docs/ism_series_value_provenance_verdict.md`**; the earlier
 `docs/ism_residual_verdict.md` is annotated (its median RECOMMENDATION was measured wrong and not
 followed).
+**NEXT TARGET SCOPED AND CLOSED THIS RUN - poten (`corpus/04-poten`, 1,087 PDFs, 2004-2026).**
+Three-baseline test done, so the next run does NOT re-derive it: poten is PROSE-FIRST (a report is
+ONE page, ~3,400 chars; only **49 of 1,087** reports contain any table at all). Coverage is
+already complete - metadata **1,087 rows = 100%** of the corpus; `knowledge/chunks/poten_tankers_<year>.jsonl`
+for EVERY year 2004-2026; the app consumes ONLY those RAG chunks (the two series CSVs are not
+displayed). **Every one of the 49 tabular reports has charterer rows (49/49, 0 missing)**; 36 of them
+carry exactly ONE table (charterers only) so they legitimately have no fixture rows, and
+`poten_fixtures_series.csv` covers exactly the reports that printed a fixtures table - its last date
+**2014-03-14 is the publisher retiring the feature, NOT a missing extraction**. The charterers table
+is sporadic, not monthly: 2 reports/year in 2024/2025/2026. **Do NOT build a from-zero poten runner.**
+Only open thread: `tables_count` comes from the metadata extractor so it could undercount (a text
+scan of all 285 reports 2020-2026 found 2 table-phrase hits, matching the metadata - suggestive, not
+proof). Evidence **`docs/poten_survey.md`**. Remaining unbuilt non-broker corpora after poten:
+`corpus/06-drewry` 276 (has an existing fetcher), `corpus/02-hellenic` 3,969 (OWNED BY ANOTHER LIVE
+SESSION - do not collide), `corpus/03-breakwave` 302 / `corpus/08-baltic` 3,038 / `corpus/07-signal`
+(existing fetchers, signal CLOSED).
+
 **NOTE:** xclusiv is 266/266 and every broker source is CLOSED - the prompt's "next source" list is
 stale. banchero_costa now has **245** `.md` on disk (was 243). HELLENIC is owned by a separate live
 session - do not collide.
