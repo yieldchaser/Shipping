@@ -89,13 +89,90 @@ def chart_entity(labels: List[str]) -> str:
     return ""
 
 
+
+
+
+def axis_range(chart) -> Tuple[Optional[float], Optional[float]]:
+    """The chart's OWN printed y-axis span, from its tick labels."""
+    ax = (chart.get("axes") or {}).get("primary") or {}
+    vals = []
+    for t in ax.get("raw") or []:
+        t = str(t).replace("%", "").replace(",", "").strip()
+        try:
+            vals.append(float(t))
+        except Exception:
+            pass
+    if not vals:
+        return None, None
+    return min(vals), max(vals)
+
+
+def pick_observation(obs, iso_dt: str):
+    """The publisher's statement of a week, from the BEST issue that carries it.
+
+    ism redraws every chart every week over a rolling 52-week window, so one
+    (route, label, week) is restated by up to 45 issues. The restatements are
+    NOT interchangeable (measured on the TCT chart: 24.6% of restated points
+    differ by >2% between the week's own issue and the latest one, 14.6% by
+    >10%), and both window edges are unreliable - the newest point of the week's
+    own issue is provisional (2024-W21 prints 17,035 for a week every later
+    issue prints as 19,546) and the oldest point of a later issue is expiring.
+
+    Convention, in order:
+      1. prefer an observation that is NOT the first/last point of its series;
+      2. among those, the issue nearest the observation date (ties -> earlier);
+      3. if every observation is an edge, fall back to the nearest issue anyway.
+    The chosen value is verbatim from the named issue; the full restatement band
+    is kept in min_value/max_value/value_sd/n_reports.
+    """
+    try:
+        tgt = dt.date.fromisoformat(iso_dt)
+    except Exception:
+        tgt = None
+
+    def dist(o):
+        try:
+            return abs((dt.date.fromisoformat(o[1]) - tgt).days) if tgt else 0
+        except Exception:
+            return 10 ** 6
+
+    interior = [o for o in obs if not o[6]]
+    pool = interior or obs
+    return min(pool, key=lambda o: (dist(o), o[1]))
+
+
+def unit_for(title: str, labels: List[str]) -> str:
+    """Unit of a chart, derived from the PAGE (label suffix, else title).
+
+    The old code read a leaked loop variable `title` inside build_rows, so the
+    unit came from whichever chart happened to be processed LAST: measured
+    16,985 of 29,948 rows (57%) carried unit='$/day' on a chart whose own title
+    and series label both end in '$/t'.
+    """
+    joined = " ".join(labels)
+    if "%" in joined:
+        return "%"
+    low = title.lower()
+    if "$/day" in joined:
+        return "$/day"
+    if "$/t" in joined or "eur/t" in joined.lower():
+        return "EUR/t" if "eur/t" in joined.lower() else "$/t"
+    if "$/day" in low or "tce" in low or "tct" in low or "rates dynamics" in low:
+        return "$/day"
+    if "eur" in low or "€" in title:
+        return "EUR/t"
+    if "$/t" in low:
+        return "$/t"
+    return "$/t"
+
+
 def main() -> None:
     chart_files = sorted(ISM_DIR.glob("*.charts.json"))
     print(f"[ism] Processing {len(chart_files)} .charts.json files from {ISM_DIR}...")
 
-    # (segment, route_title, series_label, iso_date) -> list of values
-    readings_coaster: Dict[Tuple[str, str, str, str], List[float]] = defaultdict(list)
-    readings_handy: Dict[Tuple[str, str, str, str], List[float]] = defaultdict(list)
+    # (segment, route_title, series_label, iso_date) -> list of (value, report_iso, unit)
+    readings_coaster: Dict[Tuple[str, str, str, str], List[Tuple[float, str, str, str, Optional[float], Optional[float], bool]]] = defaultdict(list)
+    readings_handy: Dict[Tuple[str, str, str, str], List[Tuple[float, str, str, str, Optional[float], Optional[float], bool]]] = defaultdict(list)
     raw_points_count = 0
 
     for cf in chart_files:
@@ -106,6 +183,7 @@ def main() -> None:
             continue
 
         rep_yr, rep_wk = parse_doc_meta(cf, data)
+        rep_iso = week_to_iso(rep_yr, rep_wk) or cf.name
         is_handy_doc = "handy" in cf.name.lower() or "supramax" in cf.name.lower()
 
         for ch in data.get("charts", []):
@@ -129,6 +207,10 @@ def main() -> None:
                 label = (s.get("label") or "").strip()
                 if not label:
                     continue
+                # unit is a property of the SERIES, not the chart: a CFR-weight
+                # chart carries a '%' line AND a 'Freight rate, ..., $/t' line.
+                chart_unit = unit_for(title, [label])
+                ax_lo, ax_hi = axis_range(ch)
 
                 weeks = s.get("weeks", [])
                 vals = s.get("values", [])
@@ -169,36 +251,50 @@ def main() -> None:
                     if not iso_dt:
                         continue
 
-                    target_readings[(segment, panel, label, iso_dt)].append(val_float)
+                    target_readings[(segment, panel, label, iso_dt)].append(
+                        (val_float, rep_iso, cf.name, chart_unit, ax_lo, ax_hi,
+                         idx == 0 or idx == len(vals) - 1))
                     raw_points_count += 1
 
     print(f"[ism] Total raw points extracted: {raw_points_count:,}")
     print(f"[ism] Distinct coaster keys: {len(readings_coaster):,}, handy keys: {len(readings_handy):,}")
 
-    def build_rows(readings_dict: Dict[Tuple[str, str, str, str], List[float]]) -> List[Dict[str, Any]]:
+    def build_rows(readings_dict: Dict[Tuple[str, str, str, str], List[Tuple[float, str, str, str, Optional[float], Optional[float], bool]]]) -> List[Dict[str, Any]]:
         rows = []
-        for (seg, panel, label, iso_dt), v_list in sorted(readings_dict.items()):
-            med_val = round(statistics.median(v_list), 2)
-            min_val = round(min(v_list), 2)
-            max_val = round(max(v_list), 2)
-            stdev = round(statistics.stdev(v_list), 2) if len(v_list) > 1 else 0.0
+        for (seg, panel, label, iso_dt), obs in sorted(readings_dict.items()):
+            # A point drawn OUTSIDE its own chart's printed axis is an
+            # extrapolation, not a value the publisher stated: measured 14 such
+            # observations corpus-wide, all negative freight rates.
+            inr = [o for o in obs
+                   if o[4] is None or o[5] is None or (o[4] <= o[0] <= o[5])]
+            if not inr:
+                continue
+            obs = inr
+            vals = [o[0] for o in obs]
+            min_val = round(min(vals), 2)
+            max_val = round(max(vals), 2)
+            stdev = round(statistics.stdev(vals), 2) if len(vals) > 1 else 0.0
 
-            unit = "$/t"
-            if "%" in label:
-                unit = "%"
-            elif "$/day" in title or "TCE" in title or "$/day" in label:
-                unit = "$/day"
-            elif "EUR" in title or "€" in title:
-                unit = "EUR/t"
+            # The value is the one the publisher printed in the best issue
+            # carrying that week (see pick_observation) - verbatim, never a
+            # median across restatements that contradict each other.
+            chosen = pick_observation(obs, iso_dt)
+            value = round(chosen[0], 2)
+            value_report = chosen[2]
+
+            units = [o[3] for o in obs]
+            unit = max(set(units), key=units.count)
 
             rows.append({
                 "date": iso_dt,
                 "segment": seg,
                 "route_title": panel,
                 "series_name": label,
-                "value": med_val,
+                "value": value,
                 "unit": unit,
-                "n_reports": len(v_list),
+                "n_reports": len(obs),
+                "value_edge": int(bool(chosen[6])),
+                "value_report": value_report,
                 "min_value": min_val,
                 "max_value": max_val,
                 "value_sd": stdev,
@@ -207,7 +303,7 @@ def main() -> None:
 
     fieldnames = [
         "date", "segment", "route_title", "series_name", "value", "unit",
-        "n_reports", "min_value", "max_value", "value_sd"
+        "n_reports", "value_edge", "value_report", "min_value", "max_value", "value_sd"
     ]
 
     # 1. Write Coaster series

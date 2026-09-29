@@ -1,5 +1,43 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 12:3x): ism residual tail CLOSED - 2 REAL DEFECTS FIXED, spread is the PUBLISHER's.**
+Ledger's last open item. Rebuilt from the CACHED `.charts.json` - **no API spend**. Row counts
+unchanged (handy 17,629 / coaster 12,319 / 29,948), so `EXTRACTION_REGISTER.md` stays valid.
+(1) **`unit` was wrong on 16,985 of 29,948 rows (57%)** - `build_rows()` read a variable named
+`title` that is NOT a parameter; it is `main()`'s chart-loop variable, resolved at call time, so
+every row got the unit of whichever chart was processed LAST. `$/t` never appeared at all before,
+though 16,985 rows carry a title AND a label ending in `$/t`. FIX = `unit_for(title,[label])`,
+page-derived (label suffix first - a CFR chart carries a `%` line AND a `$/t` line, so the unit is
+per-SERIES). MEASURED: handy `%`1,058/`$/day`16,571 -> `%`1,058/`$/t`14,668/`$/day`1,903; coaster
+`%`1,130/`$/day`11,189 -> `%`1,130/`$/t`7,637/`$/day`3,296/`EUR/t`256. CONTROL 24,409 rows checked
+against their own printed unit suffix: **0 real mismatches**.
+(2) **`value` was a MEDIAN across restatements that contradict each other** - a number no page ever
+printed. ism redraws each chart weekly over a rolling 52-week window; of 1,495 restated TCT points
+**24.6% differ >2%** between the week's own issue and the latest, **14.6% by >10%**; and BOTH window
+edges are unreliable (the week's own issue prints a PROVISIONAL newest point: `ism_2024_W21` prints
+17,035 for a week every later issue prints as 19,546; the oldest point of a later issue is expiring).
+FIX = `pick_observation()`: drop points drawn outside their own chart's printed axis (14 corpus-wide,
+all negative freight rates), prefer a NON-edge point, then the issue nearest the observation date.
+MEASURED CONTROL: **29,948/29,948 = 100.00% of emitted values are verbatim in the issue named by the
+new `value_report` column**; 0 negative `value`, 0 negative `min_value`. Change is surgical: p50
+0.0000, p90 0.0016/0.0033, only **736 rows** move >5% (465 handy + 271 coaster). New columns
+`value_edge` (0/1) and `value_report`; `min_value`/`max_value`/`value_sd`/`n_reports` still carry
+the restatement band.
+**THE SPREAD IS THE PUBLISHER's, read off the PAGES (not geometry):** (a) the publisher RELABELS its
+own year-comparison lines - chart `Fertilizers, 4,000t, Klaipeda - N.Spain (2500x/2500x), $/t` prints
+legend `2020/2021/2022 year` in `ism_2023_W50` and `2022/2023/2024 year` in `ism_2024_W01`, and the
+line W50 calls `2021 year` carries EXACTLY the values W01 calls `2022 year` (labels are matched by
+stroke COLOUR, so this is not an order mis-join); (b) ONE TCT line changes level mid-2025 while its
+five siblings stay identical to the digit (at 2025-03-31: W18 14,246.6 vs W22 7,999.5 vs W26 7,999.4
+for `Supramax, ECSA - Cont (bss dely APS)`, all five others within 0.2 units across the three
+issues). Residual >10% spread flags: **665 handy / 453 coaster** - a record of the publisher's own
+restatement band. Evidence **`docs/ism_series_value_provenance_verdict.md`**; the earlier
+`docs/ism_residual_verdict.md` is annotated (its median RECOMMENDATION was measured wrong and not
+followed).
+**NOTE:** xclusiv is 266/266 and every broker source is CLOSED - the prompt's "next source" list is
+stale. banchero_costa now has **245** `.md` on disk (was 243). HELLENIC is owned by a separate live
+session - do not collide.
+
 **THIS RUN (2026-09-29 11:5x): BOTH bancosta residues CLOSED (the state file's two NEXT TARGETS).**
 (1) freight_rates SECOND residue - the "125 rows / 52 docs whose `unit` is not a unit" split into 68 leaked
 sub-header rows, 21 empty rows and 33 SHIFTED rows, all in branch 11. Root cause = a FIXED column index in a
