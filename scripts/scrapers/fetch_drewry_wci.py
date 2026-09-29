@@ -146,6 +146,23 @@ def extract_assessments(html_text):
         # nearest the label there is the CHANGE, which is a 10x-class error, so a
         # value introduced by "to" outranks a nearer one that is not.
         to_rx = re.compile(r"\bto\s*$", re.I)
+        # The 2021-2024 era also uses a positional list:
+        # "...rates on Shanghai to Los Angeles, Rotterdam to Shanghai and Los
+        # Angeles to Shanghai increased by 6% to $2,100, 3% to $466 and 1% to
+        # $774 per feu respectively." Labels and VALUES are clustered in the
+        # same order there, so proximity pairs them wrongly (it gave Los
+        # Angeles the $466 that belongs to Rotterdam-Shanghai). Pair the k-th
+        # label with the k-th value in reading order instead.
+        if len(pairs) >= 2 and 'respectively' in text.lower():
+            ordered_pairs = sorted(pairs, key=lambda t: t[1])
+            vals = sorted(cands, key=lambda c: c[0])
+            to_only = [c for c in vals if to_rx.search(text[max(0, c[0] - 8):c[0]])]
+            if len(to_only) >= len(ordered_pairs):
+                vals = to_only
+            for (col, _ls, _le), (vs, _ve, val) in zip(ordered_pairs, vals):
+                if col not in values:
+                    values[col] = val
+            return
         scored = []
         for col, ls, le in pairs:
             for vs, ve, val in cands:
