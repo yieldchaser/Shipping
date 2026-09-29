@@ -1,5 +1,60 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 14:5x) - BIGGER FINDING, FOUND WHILE FIXING THE ABOVE: 138 of the 145
+DISPLAYED Drewry-WCI rows were FABRICATED. PURGED. Real history backfilling now.**
+
+`data/indices/drewry_wci_historical.csv` is fetched by `index.html`. Commit `22c0a870a` ADDED
+`generate_canonical_wci_history()` inside `scripts/scrapers/fetch_drewry_wci.py` and wired it into
+the failure path (`if not primary: csv_path = update_csv()`), so whenever the live page was
+unparseable the scraper WROTE INVENTED DATA - a sine/cosine trend starting at 2,100 with a fake
+`2800 * exp(-((i-28)**2)/60)` "Red Sea crisis spike". A later commit reduced it to a stub whose
+comment says *"no values synthesized"* - **but nothing removed the 138 rows it had already
+written.**
+**PROOF 1 (formula):** reproduced the removed generator verbatim (grid 2024-01-04..2026-08-20,
+freq 7D, n=138): **138 of 138 rows on that grid reproduce it exactly** on all six columns
+(tol 0.051 = the publisher's 1 dp). That is 138 of the file's 145 rows.
+**PROOF 2 (the publisher, decisive):** parsed the publisher's own archived pages with the fixed
+parser - 2024-07-04 prints composite **5,868** (CSV said **4,893.0**), 2025-07-10 prints **2,672**
+(CSV **3,167.0**), 2026-03-05 prints **1,958** (CSV **3,761.6**) - and in every case the CSV's
+number is EXACTLY the formula's output.
+**ACTION:** the 138 rows are MOVED (not deleted) to
+**`data/audit/drewry_wci_synthetic_quarantine.csv`** (committed evidence); the displayed CSV now
+holds **7 rows**, the only ones ever really scraped, each verified against the publisher's own
+markdown. No fabricated value remains in a displayed artefact. Evidence
+**`docs/drewry_wci_fabrication_verdict.md`**.
+
+**THE PARSER NEEDED TWO MORE ERA FIXES BEFORE ANY BACKFILL** (the trial is what caught them - the
+7 repaired rows only exercised the 2026 prose):
+(1) **change before level** - 2021-2024 pages print *"rates from Shanghai to New York increased 17%
+or $1,331 to $9,158 per 40ft container"*, so "nearest number to the label" returned the CHANGE:
+Shanghai-Rotterdam came out **734** instead of **8,056** (a 10x-class error in the plausible
+direction). Fix: a value introduced by `to` outranks a nearer value that is not.
+(2) **positional "respectively" list** - *"rates on Shanghai to Los Angeles, Rotterdam to Shanghai
+and Los Angeles to Shanghai increased by 6% to $2,100, 3% to $466 and 1% to $774 per feu
+respectively"* - labels and values cluster in the same order, so proximity gave Los Angeles the
+$466 that belongs to Rotterdam-Shanghai. Fix: k-th label -> k-th value.
+TRIALED against the sentence printed on each page: **2023-12-21** R1667/G1956/LA2100/NY3074/comp1661,
+**2024-07-04** R8056/G7573/LA7472/NY9158/comp5868, **2025-01-10** R4375/G5210/LA5476/NY7085/comp3986,
+**2026-09-12** R3997/G4216/LA7352/NY9726/comp4476 - all four match the page. The 2026 one is the
+control: it reproduces the same four values as the markdown the 7 surviving rows came from.
+WATCH OUT: my own first patch wrote a literal **backspace byte** for `\b` (a non-raw string in the
+patch script) and doubled `\s`, which silently disabled the new date anchor; caught only by the
+trial. **Build replacement text with `chr(92)`, never with backslashes inside a heredoc.**
+
+**NEXT / IN FLIGHT:** `scripts/scrapers/backfill_wci_history.py` (new, committed) rebuilds REAL
+history from the publisher's archived pages - one capture per ISO week, append-only JSONL
+checkpoint (`--resume`), no row written unless all five core values parsed. Launched as a
+background job; **231 weekly snapshots to fetch**. `--stack` emits
+`data/audit/drewry_wci_real_rows_from_wayback.csv`. Judge it by the advancing checkpoint
+(`wc -l data/extracted/wci_backfill/checkpoint.jsonl`), never by `ps`. When it is done, stack it
+into the displayed CSV and re-verify a sample against the page prose.
+
+**STILL OPEN (measured, not fixed):** the 7 `data/indices/capital_link_*.csv` files carry
+`open == high == low == close` on 100% of 5,525-5,612 rows and `volume = 0.0` on 100% (42
+column-pairs); the publisher's own master has ONLY a close, so those columns are placeholders.
+MEASURED severity: not user-visible (`index.html` reads only `r.close` + `change_pct` for
+`capital_link: true` products). Left unchanged deliberately. Detector `scratch/sweep_fused_cols.py`.
+
 **THIS RUN (2026-09-29 14:0x): NO source is unbuilt - so I audited what the APP SHOWS and found a
 REAL, user-visible defect in a displayed index. FIXED + verified.**
 
