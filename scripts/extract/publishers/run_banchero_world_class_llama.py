@@ -53,6 +53,13 @@ logging.basicConfig(
 )
 logger = logging.getLogger("banchero_llama")
 
+# Unit tokens a freight-rate row can carry. Used to locate the UNIT column by
+# CONTENT (not by index) because the freight table redesigns across years.
+FREIGHT_UNIT_TOKENS = {
+    "ws", "usd/day", "usd/mt", "usd/t", "days", "usd mln",
+    "usd/feu", "points", "index", "idx", "cbm",
+}
+
 # Account pool for concurrent workers (Accounts 5 to 9)
 ACCOUNTS = [
     {
@@ -1163,12 +1170,28 @@ def extract_structured_tables_from_md(
 
                 for r in rows:
                     if len(r) >= 4:
-                        route_name = r[0].strip()
-                        unit = r[1].strip() if len(r) > 1 else ""
-                        rate_curr = r[2].strip() if len(r) > 2 else ""
-                        rate_prev = r[3].strip() if len(r) > 3 else ""
-                        wow = r[4].strip() if len(r) > 4 else ""
-                        yoy = r[5].strip() if len(r) > 5 else ""
+                        # Content anchor (layout-independent): this table redesigns
+                        # across years. 2021-2022 publish a 7-col
+                        # `Category | Name | Unit | <d> | <d> | W-o-W | Y-o-Y` grid and
+                        # the Turkish-straits block an 8-col one, so a FIXED index read
+                        # put the Name in `unit`, the unit in `rate_current` and dropped
+                        # W-o-W/Y-o-Y. Anchor on the cell that IS a unit token; a row with
+                        # no unit token is a leaked header/banner/empty row, not data.
+                        ui = next((k for k, c in enumerate(r)
+                                   if c.strip().lower() in FREIGHT_UNIT_TOKENS), None)
+                        if ui is None:
+                            continue
+                        _parts = [x.strip() for x in r[:ui] if x.strip()]
+                        route_name = _parts[0] if _parts else ""
+                        for _extra in _parts[1:]:
+                            # the publisher writes the TCE sub-route as "<code>-TCE <name>"
+                            # (2021 splits it across two cells: "TC1" + "TCE MEG-Japan (75k)")
+                            route_name += ("-" if _extra.upper().startswith("TCE") else " ") + _extra
+                        unit = r[ui].strip()
+                        rate_curr = r[ui + 1].strip() if len(r) > ui + 1 else ""
+                        rate_prev = r[ui + 2].strip() if len(r) > ui + 2 else ""
+                        wow = r[ui + 3].strip() if len(r) > ui + 3 else ""
+                        yoy = r[ui + 4].strip() if len(r) > ui + 4 else ""
 
                         if route_name and not route_name.lower().startswith("category") and not route_name.lower().startswith("clean") and not route_name.lower().startswith("dirty"):
                             result["freight_benchmarks"].append({
