@@ -1,5 +1,36 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 17:xx) - WCI BACKFILL SHIPPED: the parser was fixed on measured page evidence and the displayed series went 17 -> 75 rows. The previous run's recorded diagnosis was WRONG.**
+
+The state file said a route was "assigned to the first line that mentions it" and prescribed
+"make the assignment global across lines". FALSE: the 2024-04-18 assessment is **ONE text line**,
+so no line-scoping change could matter. The real bug was the `respectively` rule pairing the k-th
+label with the k-th `$` across a **multi-sentence paragraph** (Genoa got the $2,291 of
+Rotterdam-New York). Five shapes were found and fixed, each on a real archived page: (1) sentence
+scope; (2) ordinal over EVERY lane named, not just tracked ones (2024-04-25: LA took 2214/3,395);
+(3) clause-local pairing (2026-03-05 LA/NY swapped, 2026-07-30 R/G swapped); (4) ordinal pool must
+prefer "to|at|reach"-introduced LEVELS, never the "or $X" change (2025-01-30); (5) a clause holding
+only a change takes its level from the next lane-less clause ("diminished 3% or $16 **and stood at
+$500**"), and en-dash lane lists must be enumerated too (2023-09-07/14).
+**MEASURED:** 231 snapshots re-parsed from a LOCAL CACHE (`scratch/wci/raw/`, no re-fetch needed),
+121 with all five values, 68 gate-passers. Controls: **publisher markdown 40/40** (8 WCI md files,
+unchanged before AND after every fix), **7/7 page trials exact**, and an independent **% control
+(127/128 = 99.22%, was 87.5%)** that reproduces the % the PUBLISHER prints for each lane from two
+different weeks' documents. `data/indices/drewry_wci_historical.csv`: **17 -> 75 rows**, 2023-01-05
+.. 2026-09-24, 0 dupes / 0 fused / 0 composite-equals-route; exactly **1 correction** (2026-07-30
+R/G unswapped); the 8 md-tier rows >= 2026-08-01 byte-identical; the 10 previously committed rows
+byte-identical. Evidence **`docs/drewry_wci_backfill_verdict.md`**.
+**WITHHELD, stated not implied:** 2021-2022 (30 records) stays behind the hard pre-2023 gate - that
+era's prose is untrialed and parses to garbage; 1 fetch failure; 109 captures without all five
+values. The 5 gaps > 45 days are the ARCHIVE's coverage (~38 captures/year), not the parser's.
+**NEXT (small, precise):** (a) the 2021-2022 era could now be trialed the same way - the cache is
+local and free, so trial one 2021 page against its printed sentence before touching the gate;
+(b) the live site is still HTTP 429 from this box, so any further history is a Wayback collection
+job; (c) 2026-08-24 exists as an md-tier print and is still NOT displayed (it duplicates 08-25).
+NOTE for whoever edits the parser next: build replacement text with `chr(92)` - a `\b` written
+through the tool transport arrived as a literal BACKSPACE byte and silently disabled `label_rx`;
+and keep heredocs under ~5 KB or the shell eats them.
+
 **THIS RUN (2026-09-29 15:2x) - WCI backfill FINISHED; displayed file now holds only REAL rows.**
 
 `backfill_wci_history.py --fetch` ran to completion: **231 archived weekly captures** (2021-2026,

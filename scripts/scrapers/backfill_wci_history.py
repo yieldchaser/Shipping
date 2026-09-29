@@ -37,6 +37,8 @@ CDX = os.path.join(REPO, 'scratch', 'wci_cdx.json')
 STATE_DIR = os.path.join(REPO, 'data', 'extracted', 'wci_backfill')
 CKPT = os.path.join(STATE_DIR, 'checkpoint.jsonl')
 STAGE = os.path.join(REPO, 'data', 'audit', 'drewry_wci_real_rows_from_wayback.csv')
+RAW_DIR = os.path.join(REPO, 'scratch', 'wci', 'raw')  # local HTML cache (gitignored)
+PARSER_VERSION = 5  # 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause (2026-09-29)
 KEYS = ('composite_index', 'shanghai_rotterdam', 'shanghai_genoa', 'shanghai_la', 'shanghai_ny')
 COLS = ['date'] + list(KEYS) + ['rotterdam_shanghai', 'source_snapshot']
 HDR = {'User-Agent': 'Mozilla/5.0'}
@@ -95,42 +97,11 @@ def load_done():
     return done
 
 
-def do_fetch(sleep_s=1.0):
-    os.makedirs(STATE_DIR, exist_ok=True)
-    snaps = one_per_week(load_cdx())
-    done = load_done()
-    todo = [s for s in snaps if s[0] not in done]
-    print('[+] snapshots: %d total, %d already done, %d to fetch'
-          % (len(snaps), len(done), len(todo)))
-    ok = 0
-    with io.open(CKPT, 'a', encoding='utf-8', newline='') as out:
-        for i, (ts, orig) in enumerate(todo, 1):
-            url = 'https://web.archive.org/web/%sid_/%s' % (ts, orig)
-            rec = {'ts': ts}
-            try:
-                r = requests.get(url, headers=HDR, timeout=90)
-                if r.status_code != 200:
-                    rec['error'] = 'HTTP %d' % r.status_code
-                else:
-                    v, pdate, _ = extract_assessments(r.text)
-                    rec['page_date'] = pdate
-                    rec['values'] = {k: v.get(k) for k in KEYS + ('rotterdam_shanghai',)}
-                    have = all(rec['values'].get(k) for k in KEYS)
-                    rec['complete'] = bool(have)
-                    ok += 1 if have else 0
-            except Exception as exc:
-                rec['error'] = '%s: %s' % (type(exc).__name__, exc)
-            out.write(json.dumps(rec) + '\n')
-            out.flush()
-            if i % 10 == 0 or i == len(todo):
-                print('    %d/%d  complete=%d  last=%s' % (i, len(todo), ok, ts), flush=True)
-            time.sleep(sleep_s)
-    print('[OK] fetch pass done: %d complete rows in checkpoint' % ok)
-
-
-def do_stack():
-    rows = {}
-    withheld = 0
+def latest_by_ts():
+    """ts -> the last record written for it (a --refresh appends corrected parses)."""
+    out = {}
+    if not os.path.exists(CKPT):
+        return out
     with io.open(CKPT, encoding='utf-8') as fh:
         for line in fh:
             line = line.strip()
@@ -140,66 +111,178 @@ def do_stack():
                 rec = json.loads(line)
             except ValueError:
                 continue
-            if not rec.get('complete') or not rec.get('page_date'):
+            if rec.get('ts'):
+                out[rec['ts']] = rec
+    return out
+
+
+def fetch_html(ts, orig, sleep_s=1.0, attempts=4):
+    """Wayback fetch with a local cache and backoff.
+
+    The cache means a parser change re-parses offline. Wayback intermittently
+    refuses connections (WinError 10061) when hit too fast, so retry with
+    backoff rather than writing an error over a parse that already worked.
+    """
+    os.makedirs(RAW_DIR, exist_ok=True)
+    cache = os.path.join(RAW_DIR, '%s.html' % ts)
+    if os.path.exists(cache) and os.path.getsize(cache) > 1000:
+        with io.open(cache, encoding='utf-8', errors='replace') as fh:
+            return fh.read(), None
+    url = 'https://web.archive.org/web/%sid_/%s' % (ts, orig)
+    last = None
+    for k in range(attempts):
+        try:
+            r = requests.get(url, headers=HDR, timeout=90)
+            if r.status_code == 200 and len(r.text) > 1000:
+                with io.open(cache, 'w', encoding='utf-8') as fh:
+                    fh.write(r.text)
+                time.sleep(sleep_s)
+                return r.text, None
+            last = 'HTTP %d' % r.status_code
+        except Exception as exc:
+            last = '%s: %s' % (type(exc).__name__, exc)
+        time.sleep(sleep_s + 3.0 * k)
+    return None, last
+
+
+def do_fetch(sleep_s=1.0, refresh=False, limit=None):
+    os.makedirs(STATE_DIR, exist_ok=True)
+    snaps = one_per_week(load_cdx())
+    done = load_done()
+    latest = latest_by_ts()
+    if refresh:
+        # Re-parse only what has no GOOD record from the CURRENT parser version.
+        # A --refresh must not re-buy a page that already parsed, and a failed
+        # fetch must never erase the parse it replaced (see do_stack).
+        todo = [s for s in snaps
+                if not (latest.get(s[0], {}).get('pv') == PARSER_VERSION
+                        and not latest[s[0]].get('error'))]
+    else:
+        todo = [s for s in snaps if s[0] not in done]
+    if limit:
+        todo = todo[:limit]
+    lack = sum(1 for t in snaps
+               if not (latest.get(t[0], {}).get('pv') == PARSER_VERSION
+                       and not latest[t[0]].get('error')))
+    print('[+] snapshots: %d total, %d done, %d lack a good v%d parse, %d to fetch (refresh=%s)'
+          % (len(snaps), len(done), lack, PARSER_VERSION, len(todo), refresh), flush=True)
+    ok = 0
+    with io.open(CKPT, 'a', encoding='utf-8', newline='') as out:
+        for i, (ts, orig) in enumerate(todo, 1):
+            rec = {'ts': ts, 'pv': PARSER_VERSION}
+            try:
+                html, err = fetch_html(ts, orig, sleep_s)
+                if err:
+                    rec['error'] = err
+                else:
+                    v, pdate, _ = extract_assessments(html)
+                    rec['page_date'] = pdate
+                    rec['values'] = {k: v.get(k) for k in KEYS + ('rotterdam_shanghai',)}
+                    have = all(rec['values'].get(k) for k in KEYS)
+                    rec['complete'] = bool(have)
+                    ok += 1 if have else 0
+            except Exception as exc:
+                rec['error'] = '%s: %s' % (type(exc).__name__, exc)
+            out.write(json.dumps(rec) + '\n')
+            out.flush()
+            if i % 25 == 0 or i == len(todo):
+                print('    %d/%d  complete=%d  last=%s' % (i, len(todo), ok, ts), flush=True)
+    print('[OK] fetch pass done: %d complete rows in this pass' % ok)
+
+def do_stack(era_from='2026-01-01'):
+    # Last parse wins per snapshot timestamp (a --refresh appends a corrected
+    # record for the same ts), then ONE row per print date from the EARLIEST
+    # snapshot of that date.
+    by_ts, order = {}, []
+    with io.open(CKPT, encoding='utf-8') as fh:
+        for line in fh:
+            line = line.strip()
+            if not line:
                 continue
-            # GATES. (1) era: prose shapes before 2023 were NOT trialed - the
-            # 2021 captures parse to garbage (a route value of 78) and are
-            # withheld rather than guessed. (2) numeric: the four Shanghai
-            # routes are one trade family, so their spread is bounded, and the
-            # composite is a weighted average of them.
-            if rec['page_date'] < '2023-01-01':
-                continue
-            core = [rec['values'].get(k) for k in KEYS[1:]]
-            if any((c is None or c <= 0) for c in core):
-                continue
-            if max(core) / min(core) > 5.0:
-                continue
-            comp = rec['values'].get('composite_index')
-            if not comp or not (0.35 * min(core) <= comp <= 2.5 * max(core)):
-                continue
-            # (3) contamination tells measured on the staged set: a value with two
-            # decimals is a methodology number, not a printed level, and a route
-            # value equal to the composite means the parser grabbed the headline.
-            # Both are 0 on the 7 known-real rows and 0 on the 138 synthetic ones.
-            raws = [rec['values'].get(k) for k in KEYS] + [rec['values'].get('rotterdam_shanghai')]
-            if any((str(x).rstrip('0').rstrip('.').split('.')[-1] != '0' and '.' in str(x)
-                    and len(str(x).split('.')[1]) > 1) for x in raws if x is not None):
-                continue
-            if any(abs(comp - c) < 0.01 for c in core):
-                continue
-            # (4) ERA GATE: 2023-2025 rows still mis-assign a route on some 2024
-            # prose shapes (2024-04-18 gives Genoa 2291 where the page prints
-            # 3577), so they are counted but WITHHELD from the displayed file
-            # until that shape is fixed. 2026 rows are md-verified 3/3.
-            rec['_ship'] = rec['page_date'] >= '2026-01-01'
-            v = rec['values']
-            d = rec['page_date']
-            if not rec.get('_ship'):
-                withheld += 1
-                continue
-            if d not in rows or rec['ts'] < rows[d]['source_snapshot']:
-                rows[d] = {'date': d}
-                rows[d].update({k: v.get(k) for k in KEYS + ('rotterdam_shanghai',)})
-                rows[d]['source_snapshot'] = rec['ts']
+            try:
+                rec = json.loads(line)
+            except ValueError:
+                continue                 # torn last line from a crash - normal
+            if rec.get('ts'):
+                if rec['ts'] not in by_ts:
+                    order.append(rec['ts'])
+                    by_ts[rec['ts']] = rec
+                elif rec.get('values') or not by_ts[rec['ts']].get('values'):
+                    # A re-parse wins; a FAILED fetch (no 'values') never erases
+                    # the parse it was meant to replace.
+                    by_ts[rec['ts']] = rec
+    rows = {}
+    n = {'snapshots': len(by_ts), 'fetch_failed': 0, 'incomplete': 0, 'pre_era': 0,
+         'numeric': 0, 'composite': 0, 'contam': 0, 'withheld': 0}
+    for ts in order:
+        rec = by_ts[ts]
+        if not rec.get('values'):
+            n['fetch_failed'] += 1
+            continue
+        if not rec.get('complete') or not rec.get('page_date'):
+            n['incomplete'] += 1
+            continue
+        # GATES. (1) era: prose shapes before 2023 were NOT trialed - the 2021
+        # captures parse to garbage (a route value of 78) and are withheld rather
+        # than guessed. (2) numeric: the four Shanghai routes are one trade
+        # family, so their spread is bounded and the composite is a weighted
+        # average of them.
+        if rec['page_date'] < '2023-01-01':
+            n['pre_era'] += 1
+            continue
+        core = [rec['values'].get(k) for k in KEYS[1:]]
+        if any((c is None or c <= 0) for c in core) or max(core) / min(core) > 5.0:
+            n['numeric'] += 1
+            continue
+        comp = rec['values'].get('composite_index')
+        if not comp or not (0.35 * min(core) <= comp <= 2.5 * max(core)):
+            n['composite'] += 1
+            continue
+        # (3) contamination tells measured on the staged set: a value with two
+        # decimals is a methodology number, not a printed level, and a route
+        # value equal to the composite means the parser grabbed the headline.
+        raws = [rec['values'].get(k) for k in KEYS] + [rec['values'].get('rotterdam_shanghai')]
+        if any((str(x).rstrip('0').rstrip('.').split('.')[-1] != '0' and '.' in str(x)
+                and len(str(x).split('.')[1]) > 1) for x in raws if x is not None):
+            n['contam'] += 1
+            continue
+        if any(abs(comp - c) < 0.01 for c in core):
+            n['contam'] += 1
+            continue
+        # (4) ERA GATE: rows older than `era_from` are counted but WITHHELD from
+        # the displayed file until their prose shape has been trialed against the
+        # page. Widen only after a trial passes - never by assumption.
+        if rec['page_date'] < era_from:
+            n['withheld'] += 1
+            continue
+        d, v = rec['page_date'], rec['values']
+        if d not in rows or rec['ts'] < rows[d]['source_snapshot']:
+            rows[d] = {'date': d}
+            rows[d].update({k: v.get(k) for k in KEYS + ('rotterdam_shanghai',)})
+            rows[d]['source_snapshot'] = rec['ts']
     os.makedirs(os.path.dirname(STAGE), exist_ok=True)
     with io.open(STAGE, 'w', encoding='utf-8', newline='') as fh:
         w = csv.DictWriter(fh, fieldnames=COLS, lineterminator='\n')
         w.writeheader()
         for d in sorted(rows):
             w.writerow(rows[d])
-    print('[OK] staged %d SHIPPABLE real prints -> %s (%d withheld as unverified era)'
-          % (len(rows), STAGE, withheld))
-
-
+    print('[OK] staged %d SHIPPABLE real prints -> %s   (era_from=%s)' % (len(rows), STAGE, era_from))
+    print('     gate census: %s' % json.dumps(n))
+    print('     date range  : %s .. %s' % (min(rows), max(rows)) if rows else '     (empty)')
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('--fetch', action='store_true')
     ap.add_argument('--stack', action='store_true')
+    ap.add_argument('--refresh', action='store_true',
+                    help='re-fetch/re-parse EVERY snapshot, not just the missing ones')
+    ap.add_argument('--limit', type=int, default=None, help='cap the fetch pass (trial runs)')
     ap.add_argument('--sleep', type=float, default=1.0)
+    ap.add_argument('--era-from', default='2026-01-01',
+                    help='rows older than this are counted but withheld from the staged file')
     a = ap.parse_args()
     if a.fetch:
-        do_fetch(a.sleep)
+        do_fetch(a.sleep, refresh=a.refresh, limit=a.limit)
     if a.stack:
-        do_stack()
+        do_stack(a.era_from)
     if not a.fetch and not a.stack:
         ap.print_help()

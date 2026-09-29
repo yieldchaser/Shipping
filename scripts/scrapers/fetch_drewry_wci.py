@@ -123,68 +123,176 @@ def extract_assessments(html_text):
         if val:
             values["composite_index"] = val
 
-    # Route values: a route label's value is the '$N' NEAREST that label.
-    # A single sentence can name TWO routes ("...Shanghai to Genoa fell 3% to
-    # $4,216 ... while they decreased 2% to $3,997 ... from Shanghai to
-    # Rotterdam"), so taking the FIRST '$' on the line hands the second route
-    # the first route's value. Measured 2026-09-29 against the publisher's own
-    # page: 7 of the 8 newest rows in data/indices/drewry_wci_historical.csv
-    # were corrupted exactly that way (shanghai_rotterdam == shanghai_genoa,
-    # shanghai_ny == shanghai_la). Assign greedily by label->value distance so
-    # one number can be claimed by at most one route.
     value_rx = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)")
+    # A LEVEL is introduced by "to" ("...to $4,453"), but this publisher also
+    # writes "to reach $11,173" and "held steady at $7,904": the absolute CHANGE
+    # ("increased 17% or $1,331 to $9,158") is nearer the label and would be a
+    # 10x-class error, so an introduced value outranks a nearer one that is not.
+    to_rx = re.compile(r"\b(?:to|at|reach)\s*$", re.I)
+    # "increased 17% or $1,331" - the CHANGE, never the level.
+    or_rx = re.compile(r"\bor\s*$", re.I)
+    sent_rx = re.compile(r"(?<=[.!?])\s+")
+    # Clause boundaries. MEASURED on 231 archived pages (scratch/wci/census_shapes.py):
+    # 75 multi-lane sentences are one-clause-per-lane ("A dropped 8% or $999 to
+    # reach $11,173 and B fell 5% or $739 to $15,110"), where distance alone
+    # crosses the boundary.
+    split_rx = re.compile(
+        r"(?:;\s*|,\s*|\s+)(?:and|but|while|whereas|however|conversely|also|"
+        r"similarly|likewise|furthermore|moreover|followed\s+by|"
+        r"on\s+the\s+other\s+hand)\b|;\s*|\n", re.I)
+    # ANY route named in a sentence, tracked or not: a "respectively" list can
+    # name a lane we do not keep, and dropping it shifts every ordinal in it.
+    label_rx = re.compile(
+        r"\b([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)\s*(?:to|[\u2013\u2014])\s*"
+        r"([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)")
+    # The publisher's own port vocabulary, DERIVED from ROUTE_PATTERNS (never
+    # hardcoded). A match whose every word is not a port name is prose
+    # ("According to Drewry"), not a lane, and must not consume an ordinal.
+    PORT_WORDS = set()
+    for _pat, _col in ROUTE_PATTERNS:
+        PORT_WORDS.update(re.findall(r"[a-z]{2,}", _pat))
     max_dist = 120
 
+    def is_route_mention(seg):
+        words = re.findall(r"[A-Za-z]+", seg)
+        return bool(words) and all(w.lower() in PORT_WORDS for w in words)
+
+    def label_col(seg):
+        for pat, col in ROUTE_PATTERNS:
+            if re.search(pat, seg, re.I):
+                return col
+        return None
+
+    def sentences(text):
+        """[(sentence, offset_into_text)] - the delimiter stays on its left."""
+        out, pos = [], 0
+        for part in sent_rx.split(text):
+            idx = text.find(part, pos)
+            if idx < 0:
+                idx = pos
+            out.append((part, idx))
+            pos = idx + len(part)
+        return out
+
+    def clauses(sent):
+        """[(start, end)] runs of one sentence between clause conjunctions."""
+        out, pos = [], 0
+        for m in split_rx.finditer(sent):
+            out.append((pos, m.start()))
+            pos = m.end()
+        out.append((pos, len(sent)))
+        return out
+
+    def gap(le, ls, c):
+        """Chars between a label and a value."""
+        if c[0] >= le:
+            return c[0] - le
+        if c[1] <= ls:
+            return ls - c[1]
+        return 0
+
     def assign_route_values(text, pairs):
-        # pairs: [(col, label_start, label_end)] within `text`
-        cands = [(mo.start(), mo.end(), clean_number(mo.group(1)))
-                 for mo in value_rx.finditer(text)]
-        cands = [c for c in cands if c[2] is not None]
-        # WCI prints a LEVEL introduced by "to" and, in the 2021-2024 era, the
-        # absolute CHANGE before it as well: "Freight rates from Shanghai to New
-        # York increased 17% or $1,331 to $9,158 per 40ft container." The number
-        # nearest the label there is the CHANGE, which is a 10x-class error, so a
-        # value introduced by "to" outranks a nearer one that is not.
-        to_rx = re.compile(r"\bto\s*$", re.I)
-        # The 2021-2024 era also uses a positional list:
-        # "...rates on Shanghai to Los Angeles, Rotterdam to Shanghai and Los
-        # Angeles to Shanghai increased by 6% to $2,100, 3% to $466 and 1% to
-        # $774 per feu respectively." Labels and VALUES are clustered in the
-        # same order there, so proximity pairs them wrongly (it gave Los
-        # Angeles the $466 that belongs to Rotterdam-Shanghai). Pair the k-th
-        # label with the k-th value in reading order instead.
-        if len(pairs) >= 2 and 'respectively' in text.lower():
-            ordered_pairs = sorted(pairs, key=lambda t: t[1])
-            vals = sorted(cands, key=lambda c: c[0])
-            to_only = [c for c in vals if to_rx.search(text[max(0, c[0] - 8):c[0]])]
-            if len(to_only) >= len(ordered_pairs):
-                vals = to_only
-            for (col, _ls, _le), (vs, _ve, val) in zip(ordered_pairs, vals):
+        """Give each route the value its OWN sentence and clause give it.
+
+        Three measured defects drove this shape; all three were on pages whose
+        whole assessment is ONE text line, so none is a line-splitting problem.
+
+        (a) SENTENCE SCOPE. 2024-04-18: "...Shanghai to New York decreased 5%
+            or $257 to $4,453 ... Shanghai to Los Angeles dropped 4% or $147 to
+            $3,487 ... rates on Shanghai to Rotterdam and Shanghai to Genoa
+            declined 2% to $2,989 and $3,577 per feu respectively. Conversely,
+            rates from Rotterdam to New York increased by 3% or $67 to $2,291."
+            Pairing k-th label with k-th value across the paragraph gave Genoa
+            the $2,291 that belongs to Rotterdam-New York.
+        (b) ORDINAL OVER UNTRACKED LANES. 2024-04-25: "...from Rotterdam to New
+            York and Shanghai to Los Angeles decreased 3% to $2,214 and $3,395
+            respectively." Rotterdam-New York is not a column we keep, so
+            pairing only TRACKED labels gave Los Angeles the $2,214.
+        (c) CLAUSE SCOPE. 2026-07-30: "spot rates declined 6% to $5,630 per 40ft
+            container from Shanghai to Genoa and decreased 3% to $4,677 per 40ft
+            container on Shanghai to Rotterdam." Genoa's own level is the
+            $5,630 of its clause; the $4,677 of the NEXT clause sits closer.
+        """
+        for sent, off in sentences(text):
+            local = []
+            for col, ls, le in pairs:
+                if ls < off or le > off + len(sent):
+                    continue
+                local.append((col, ls - off, le - off))
+            if not local:
+                continue
+            cands = [(mo.start(), mo.end(), clean_number(mo.group(1)))
+                     for mo in value_rx.finditer(sent)]
+            cands = [c for c in cands if c[2] is not None]
+            if not cands:
+                continue
+            low = sent.lower()
+            all_labels = [(m.start(), m.end(), label_col(sent[m.start():m.end()]))
+                          for m in label_rx.finditer(sent)
+                          if is_route_mention(m.group(0))]
+            to_vals = [c for c in cands
+                       if to_rx.search(sent[max(0, c[0] - 8):c[0]])]
+            parallel = (len(all_labels) >= 2
+                        and max(l[1] for l in all_labels) <= cands[0][0])
+            if len(all_labels) >= 2 and ('respectively' in low or parallel):
+                free = [c for c in cands
+                        if not or_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                vals = (to_vals if len(to_vals) == len(all_labels)
+                        else free if len(free) == len(all_labels)
+                        else cands if len(cands) == len(all_labels) else None)
+                if vals:
+                    for (_ls, _le, col), (_vs, _ve, val) in zip(all_labels, vals):
+                        if col and col not in values:
+                            values[col] = val
+                    continue
+            cls = clauses(sent)
+            for ci, (a, b) in enumerate(cls):
+                cl_lab = [(ls, le, col) for col, ls, le in local
+                          if ls >= a and le <= b]
+                cl_val = [c for c in cands if a <= c[0] < b]
+                if not cl_lab or not cl_val:
+                    continue
+                if len(cl_lab) == 1:
+                    ls, le, col = cl_lab[0]
+                    lev = [c for c in cl_val
+                           if to_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                    if not lev and ci + 1 < len(cls):
+                        # "...diminished 3% or $16 and stood at $500": the
+                        # clause carries only the CHANGE, and the level is the
+                        # value of the next lane-less clause.
+                        na, nb = cls[ci + 1]
+                        if not [1 for _c, l2, l3 in local
+                                if l2 >= na and l3 <= nb]:
+                            lev = [c for c in cands if na <= c[0] < nb
+                                   and to_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                    pool = lev or cl_val
+                    pick = min(pool, key=lambda c: gap(le, ls, c))
+                    if col not in values:
+                        values[col] = pick[2]
+                elif len(cl_lab) == len(cl_val):
+                    for (ls, le, col), (_vs, _ve, val) in zip(
+                            sorted(cl_lab, key=lambda t: t[0]),
+                            sorted(cl_val, key=lambda c: c[0])):
+                        if col not in values:
+                            values[col] = val
+            scored = []
+            for col, ls, le in local:
+                if col in values:
+                    continue
+                for vs, ve, val in cands:
+                    dist = gap(le, ls, (vs, ve, val))
+                    if dist <= max_dist:
+                        pref = 1 if to_rx.search(sent[max(0, vs - 8):vs]) else 0
+                        scored.append((-pref, dist, col, vs, val))
+            scored.sort(key=lambda t: (t[0], t[1], t[2], t[3]))
+            used_cols, used_vals = set(), set()
+            for _pref, dist, col, vs, val in scored:
+                if col in used_cols or vs in used_vals:
+                    continue
+                used_cols.add(col)
+                used_vals.add(vs)
                 if col not in values:
                     values[col] = val
-            return
-        scored = []
-        for col, ls, le in pairs:
-            for vs, ve, val in cands:
-                if vs >= le:
-                    dist = vs - le
-                elif ve <= ls:
-                    dist = ls - ve
-                else:
-                    dist = 0
-                if dist <= max_dist:
-                    pref = 1 if to_rx.search(text[max(0, vs - 8):vs]) else 0
-                    scored.append((-pref, dist, col, vs, val))
-        scored.sort(key=lambda t: (t[0], t[1], t[2], t[3]))
-        used_cols, used_vals = set(), set()
-        for _pref, dist, col, vs, val in scored:
-            if col in used_cols or vs in used_vals:
-                continue
-            used_cols.add(col)
-            used_vals.add(vs)
-            if col not in values:
-                values[col] = val
-
     # Rendered tables first (label cell next to the value cell)
     for table in soup.find_all("table"):
         for row in table.find_all("tr"):
@@ -200,19 +308,21 @@ def extract_assessments(html_text):
             if pairs:
                 assign_route_values(row_text, pairs)
 
-    # Free-text fallback for routes the tables did not carry
+    # Free-text fallback for routes the tables did not carry. EVERY mention of a
+    # route in the page is a candidate, scored inside its own sentence; a mention
+    # that carries no number ("...and New York to Rotterdam remained stable")
+    # therefore cannot block a later mention that does.
     if len(values) < len(CSV_COLUMNS):
-        for line in flat_text.splitlines():
-            line_low = line.lower()
+        for sent, _off in sentences(flat_text):
             pairs = []
             for pat, col in ROUTE_PATTERNS:
                 if col in values:
                     continue
-                rm = re.search(pat, line_low)
+                rm = re.search(pat, sent, re.I)
                 if rm:
                     pairs.append((col, rm.start(), rm.end()))
             if pairs:
-                assign_route_values(line, pairs)
+                assign_route_values(sent, pairs)
 
     # As-of date on the page
     page_date = None
