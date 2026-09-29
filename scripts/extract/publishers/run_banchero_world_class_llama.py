@@ -694,6 +694,11 @@ parsed_engine: "LlamaParse tier=cost_effective version=latest"
 _UNIT_RX = re.compile(r"^[A-Za-z]{2,4}\s*/\s*[A-Za-z0-9]{1,8}$")
 # Container-TC row labels: "ConTex" and "NNNN teu (1Y, geared)". Used as a CONTENT
 # anchor so a container table is claimed even when its heading carries no "VHSS".
+# Unit tokens a VHSS-ConTex / Freightos index row can carry. Used to tell a real
+# index row from a container CHART point, which the same heading also carries
+# (chart rows put a NUMBER where the unit goes). Content anchor, never an index.
+_INDEX_UNITS = {"index", "idx", "points", "usd/day", "usd/feu", "usd/mt", "usd/t", "usd", "$", "ws"}
+
 _VHSS_ROW_RX = re.compile(r"^(?:ConTex|\d{3,4}\s*teu)\b", re.I)
 _NUMSHAPE_RX = re.compile(r"^[+-]?[0-9][0-9,]*(\.[0-9]+)?$")
 _COMMODITY_HEADER_WORDS = {
@@ -1010,9 +1015,13 @@ def extract_structured_tables_from_md(
                         })
 
             # 7. VHSS ConTex
-            elif "VHSS" in ctx or "contex" in header_str or any(_VHSS_ROW_RX.match(re.sub(r"[*_`]", "", (r[0] if r else "")).strip()) for r in rows):
+            elif ("VHSS" in ctx or "contex" in header_str or any(_VHSS_ROW_RX.match(re.sub(r"[*_`]", "", (r[0] if r else "")).strip()) for r in rows))                     and any(len(r) > 1 and r[1].strip().lower() in _INDEX_UNITS for r in rows):
+                # The container CHARTS sit under this same heading as markdown tables
+                # (| Date | 4250 | 3500 | 2700 | / | Jul-20 | 8000 | 8000 | 8000 |).
+                # A fixed index published their chart points as segments; the gate above
+                # requires a real unit token so those tables fall through to chart_series.
                 for r in rows:
-                    if len(r) >= 3:
+                    if len(r) >= 3 and r[1].strip().lower() in _INDEX_UNITS:
                         result["vhss_contex"].append({
                             "issue_date": issue_date,
                             "report_week": report_week,
@@ -1024,9 +1033,11 @@ def extract_structured_tables_from_md(
                         })
 
             # 8. Freightos
-            elif "FREIGHTOS" in ctx or "freightos" in header_str:
+            elif ("FREIGHTOS" in ctx or "freightos" in header_str)                     and any(len(r) > 1 and r[1].strip().lower() in _INDEX_UNITS for r in rows):
+                # Same defect as branch 7: the Freightos CHART tables under this heading
+                # were published as routes. Require a real unit token.
                 for r in rows:
-                    if len(r) >= 3:
+                    if len(r) >= 3 and r[1].strip().lower() in _INDEX_UNITS:
                         result["freightos_index"].append({
                             "issue_date": issue_date,
                             "report_week": report_week,
