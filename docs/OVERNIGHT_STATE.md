@@ -1,5 +1,53 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 14:0x): NO source is unbuilt - so I audited what the APP SHOWS and found a
+REAL, user-visible defect in a displayed index. FIXED + verified.**
+
+xclusiv is 266/266 and every broker source is CLOSED (`EXTRACTION_REGISTER.md`: all 27 rows). The
+ledger's last item (ism tail) closed at 12:3x. The prompt's "next source" list is stale, and poten
+is closed. So this run went after an artefact that is actually **rendered**: `index.html` fetches
+`data/indices/drewry_wci_historical.csv`.
+
+**DEFECT: Drewry WCI route columns were FUSED on the 7 newest rows (14 cells).**
+`shanghai_rotterdam == shanghai_genoa` and `shanghai_ny == shanghai_la` - so the app drew
+Rotterdam/Genoa as ONE line and LA/New York as ONE line. 2026-09-18 printed 4016/4016/7712/7712
+where the publisher's own page says **3626 / 4016 / 7712 / 10394**.
+**ROOT CAUSE (reproduced, not guessed):** the page carries **no `<table>` at all** - the
+assessments are PROSE with **TWO routes in one sentence** ("...Shanghai to Genoa fell 3% to $4,216
+... while they decreased 2% to $3,997 ... from Shanghai to Rotterdam"). The scraper's free-text
+fallback took the **FIRST `$` on the line for EVERY route named on it**, so the second route got the
+first route's value. Reproduced against Wayback snapshot `20260912113125` (the LIVE site returns
+**HTTP 429** from this box).
+**FIX:** `assign_route_values()` in `scripts/scrapers/fetch_drewry_wci.py` - every `$N` on the line
+is a candidate, a route claims the **nearest** one (<=120 chars), assigned greedily so a number is
+used at most once. Content-anchored, no geometry. Also fixed the date parser: `%B` rejected `Sep`,
+so the page's own `assessment for Thursday, 10 Sep 2026` never matched and the regex fell through
+to an UNRELATED date elsewhere on the page (`2026-09-29` on the 09-12 snapshot).
+**VERIFIED:** parser now returns 3997/4216/7352/9726 on the 09-12 snapshot (all distinct, matching
+the prose sentence it had read); all 14 corrected cells are **verbatim in the publisher's own**
+`corpus/06-drewry/opinions/2026/*wci*.md` (14/14); 145 rows unchanged; **0** fused rows remain;
+CSV diff is exactly 14 lines; the repair is **idempotent** (2nd run changes 0 cells).
+Evidence **`docs/drewry_wci_display_verdict.md`**.
+STILL OPEN there (stated, not implied): the file is **one week stale** (newest 2026-09-20; the
+verified 2026-09-27 snapshot exists but was NOT added - that is a collection job with its own date
+convention). The 138 rows older than 2026-08-25 have no ground truth in this repo; they are clean
+of THIS defect by construction (the bug always yields `rotterdam == genoa`).
+
+**GENERALISED THE FINDING - swept all 22 `data/indices/*.csv` for the fused-column signature.**
+One class flagged: the 7 `capital_link_*` files carry `open == high == low == close` on
+**100%** of 5,525-5,612 rows and `volume = 0.0` on 100% (42 column-pairs). The publisher's own
+`capital_link_indices_master.csv` has **only a close** (0 rows with 4 distinct OHLC), so the extra
+columns are **fabricated placeholders**. MEASURED severity: **NOT user-visible** - `index.html`
+reads only `r.close` + `change_pct` for `capital_link: true` products (the only `volume` read,
+line 18709, is the SGX futures block). Left UNCHANGED on purpose: blanking columns could break
+`build_views.py` / `build_provenance_manifest.py`, and nothing renders them.
+No other index file has the signature. Detector: `scratch/sweep_fused_cols.py`.
+
+LESSON: a **scraper** writing prose-derived numbers needs the same discipline as a PDF extractor -
+anchor on content (the value NEAREST its label), never on position (the first number on the line).
+And when an artefact is DISPLAYED, a plausible wrong number is invisible to every count-based
+check: 145 well-formed rows and a valid CSV both look perfectly healthy.
+
 **THIS RUN (2026-09-29 12:3x): ism residual tail CLOSED - 2 REAL DEFECTS FIXED, spread is the PUBLISHER's.**
 Ledger's last open item. Rebuilt from the CACHED `.charts.json` - **no API spend**. Row counts
 unchanged (handy 17,629 / coaster 12,319 / 29,948), so `EXTRACTION_REGISTER.md` stays valid.
