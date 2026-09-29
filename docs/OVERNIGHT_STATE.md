@@ -27,6 +27,17 @@ METHOD NOTE: this run had NO vision tool (no image tool in the cron session) - s
 text reconciliation against BOTH the PDF text layer and the LlamaParse markdown, and read the rendered page
 TEXT. Both bancosta residues are now closed; the only bancosta blocker left is the LlamaParse credit wall
 (HTTP 402) for the final 1 doc of 244 - only the user can rotate the key.
+NEXT TARGET RE-MEASURED (2026-09-29 12:0x, so the next run does not re-derive it): the residual ism
+agreement tail is SMALLER than `docs/ism_agreement_tail.md` records (it says 2,269 rows / 17.5%; the file is
+STALE - the 2026-09-28 re-key already took it to 1,178). Measured NOW on the two merged files:
+ism_handy 6,116 multi-report rows / **723 >10% spread (11.8%)**; ism_coaster 5,876 / **485 (8.3%)** = 1,208
+total. The top offenders are NO LONGER `% of freight costs in CFR price` (which the entity re-key fixed);
+they are (a) `'TCT rates dynamics, $/day' / 'Supramax, ECSA - Cont (bss dely APS)'` 84 rows and
+`'Handysize, BlSea - EMed ...'` 73 - the entity sits in `series_name` and the spread may be genuine
+publisher restatement; and (b) `'<route> ... $/t' / '2021 year'|'2025 year'|'2024 year'` (52/41/41) - the
+multi-year chart axis, i.e. the year series plotted against a date axis. VERIFY each against the ism page
+BEFORE fixing (three previous "defects" looked real and were faithful). ism route rates are NOT held data,
+so this fix is worth doing. ism runners: `scripts/extract/publishers/run_ism.py` + `run_ism_series.py`.
 HELLENIC is owned by a separate live session - do not collide.
 
 **THIS RUN (2026-09-29 02:3x): bancosta_freight_rates DRY_BULK residue CLOSED - 80 rows routed, 0 left.**
