@@ -140,6 +140,12 @@ def extract_assessments(html_text):
         cands = [(mo.start(), mo.end(), clean_number(mo.group(1)))
                  for mo in value_rx.finditer(text)]
         cands = [c for c in cands if c[2] is not None]
+        # WCI prints a LEVEL introduced by "to" and, in the 2021-2024 era, the
+        # absolute CHANGE before it as well: "Freight rates from Shanghai to New
+        # York increased 17% or $1,331 to $9,158 per 40ft container." The number
+        # nearest the label there is the CHANGE, which is a 10x-class error, so a
+        # value introduced by "to" outranks a nearer one that is not.
+        to_rx = re.compile(r"\bto\s*$", re.I)
         scored = []
         for col, ls, le in pairs:
             for vs, ve, val in cands:
@@ -150,10 +156,11 @@ def extract_assessments(html_text):
                 else:
                     dist = 0
                 if dist <= max_dist:
-                    scored.append((dist, col, vs, val))
-        scored.sort(key=lambda t: (t[0], t[1], t[2]))
+                    pref = 1 if to_rx.search(text[max(0, vs - 8):vs]) else 0
+                    scored.append((-pref, dist, col, vs, val))
+        scored.sort(key=lambda t: (t[0], t[1], t[2], t[3]))
         used_cols, used_vals = set(), set()
-        for dist, col, vs, val in scored:
+        for _pref, dist, col, vs, val in scored:
             if col in used_cols or vs in used_vals:
                 continue
             used_cols.add(col)
@@ -193,7 +200,7 @@ def extract_assessments(html_text):
     # As-of date on the page
     page_date = None
     dm = re.search(
-        r"assessment\s+for[^0-9]{0,40}?(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4})",
+        r"assessment\s+for[^0-9]{0,40}?\b(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4})\b",
         flat_text,
         re.I,
     ) or re.search(
