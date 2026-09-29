@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T19:07:59Z",
+ "generated_at": "2026-09-29T14:53:48Z",
  "compiler_version": 2,
  "count": 104,
  "files": [
@@ -92,7 +92,7 @@
    "path": "knowledge/chunks/breakwave_drybulk_2026.jsonl",
    "stem": "breakwave_drybulk_2026",
    "year": 2026,
-   "bytes": 41188
+   "bytes": 48474
   },
   {
    "file": "breakwave_insights_insights.jsonl",
