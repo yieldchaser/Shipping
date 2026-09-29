@@ -1,5 +1,31 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 15:2x) - WCI backfill FINISHED; displayed file now holds only REAL rows.**
+
+`backfill_wci_history.py --fetch` ran to completion: **231 archived weekly captures** (2021-2026,
+Wayback, one per ISO week), **81 with all five values parsed**, **30 passing the numeric +
+contamination gates**. `--stack` then applied an era gate and
+**`data/indices/drewry_wci_historical.csv` is now 17 rows, ALL 2026** - the 7
+publisher-markdown-verified prints + 10 backfilled. Controls on the merged file: 0 fused
+`rotterdam == genoa`, 0 rows where composite == a route value, 0 two-decimal values.
+**2026 IS TRIALED** (4 captures re-parsed and read against their own printed sentences, all
+matching, plus a **3/3 all-five-values match with the publisher markdown**: the 2026-09-03 capture
+reproduces the md's 4,465/4,092/4,368/7,185/9,587 exactly).
+**2021-2025 IS NOT - 71 complete captures are WITHHELD, measured not assumed:** 2024-04-18 prints
+*"rates on Shanghai to Rotterdam and Shanghai to Genoa declined 2% to $2,989 and $3,577 per feu
+respectively"* and the parser gives Genoa **2,291** instead of 3,577 (2024-02-29 and 2025-01-23
+sample correctly). Cause: `assign_route_values()` assigns each route to the **FIRST line that
+mentions it**, so a stray earlier mention blocks the correct later assignment.
+**NEXT ACTION (precise):** make the assignment global - score every line's candidate for a route,
+then pick the best across lines - re-run `--stack`, re-trial 2024-04-18 + two more 2024/2025
+captures against their printed sentences, and only then widen the era gate in `do_stack()`
+(`rec['_ship'] = rec['page_date'] >= '2026-01-01'`). Checkpoint:
+`data/extracted/wci_backfill/checkpoint.jsonl` (231 records, resumable). Staging:
+`data/audit/drewry_wci_real_rows_from_wayback.csv`. Evidence:
+`docs/drewry_wci_fabrication_verdict.md`.
+NOTE: the live Drewry site returns **HTTP 429** from this box - the scraper is Wayback-only
+until that clears.
+
 **THIS RUN (2026-09-29 14:5x) - BIGGER FINDING, FOUND WHILE FIXING THE ABOVE: 138 of the 145
 DISPLAYED Drewry-WCI rows were FABRICATED. PURGED. Real history backfilling now.**
 
