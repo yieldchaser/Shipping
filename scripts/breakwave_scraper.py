@@ -179,8 +179,8 @@ def download(url: str, dest: Path, dry_run: bool) -> bool:
         return True
 
     if dest.exists() and dest.stat().st_size > 10_000:
-        print(f"    ✓ skip (exists): {dest.name}")
-        return True
+        print(f"    ✓ skip (exists): {dest.name}", flush=True)
+        return True, False
 
     dest.parent.mkdir(parents=True, exist_ok=True)
 
@@ -196,22 +196,22 @@ def download(url: str, dest: Path, dry_run: bool) -> bool:
                     val = tag.get(attr, "")
                     if val and is_pdf(val):
                         return download(urljoin(url, val), dest, dry_run)
-            print(f"    ✗ Not a PDF ({ct}): {url}")
-            return False
+            print(f"    ✗ Not a PDF ({ct}): {url}", flush=True)
+            return False, False
 
         with open(dest, "wb") as f:
             for chunk in r.iter_content(65536):
                 f.write(chunk)
 
         kb = dest.stat().st_size / 1024
-        print(f"    ↓ {dest.name}  ({kb:.0f} KB)")
-        return True
+        print(f"    ↓ {dest.name}  ({kb:.0f} KB)", flush=True)
+        return True, True
 
     except Exception as e:
-        print(f"    ✗ {e}")
+        print(f"    ✗ {e}", flush=True)
         if dest.exists():
             dest.unlink()
-        return False
+        return False, False
 
 
 # ──────────────────────── Page parsers ───────────────────────────────────────
@@ -402,14 +402,18 @@ def run(category: str, dry_run: bool, year_filter: int | None):
         print(f"     PDF: {pdf_url[:80]}")
 
         dest = folder_root / str(date.year) / make_filename(category, date, pdf_url)
-        success = download(pdf_url, dest, dry_run)
+        res = download(pdf_url, dest, dry_run)
+        if isinstance(res, tuple):
+            success, downloaded = res
+        else:
+            success, downloaded = bool(res), False
 
         if success:
             ok += 1
         else:
             fail += 1
 
-        if not dry_run:
+        if not dry_run and downloaded:
             time.sleep(DOWNLOAD_DELAY)
 
     print(f"\n  {'─'*40}")

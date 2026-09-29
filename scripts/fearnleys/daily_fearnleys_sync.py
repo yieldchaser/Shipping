@@ -460,6 +460,13 @@ def sync_reports():
     except Exception as e:
         print(f"    [WARN] Could not update fearnleys-md normalized corpus: {e}", flush=True)
 
+    # Run dynamic pitch-perfect chart extraction and update master CSV series & Excel
+    try:
+        from extract.publishers.run_fearnleys_md_full_power import run_fearnleys_md_pipeline
+        run_fearnleys_md_pipeline()
+    except Exception as e:
+        print(f"    [WARN] Could not run fearnleys-md dynamic chart extraction: {e}", flush=True)
+
     return len(unseen)
 
 
@@ -521,6 +528,17 @@ def main():
         import build_series_cache
         build_series_cache.main()
     guarded("series monthly cache", rebuild_series_cache)
+
+    def rebuild_tanker_routes():
+        import build_tanker_routes_daily
+        payload = build_tanker_routes_daily.build_payload(build_tanker_routes_daily.SRC)
+        build_tanker_routes_daily.emit(payload, build_tanker_routes_daily.OUT)
+    guarded("tanker routes daily", rebuild_tanker_routes)
+
+    def rebuild_dry_routes():
+        import fetch_dry_routes_ts
+        fetch_dry_routes_ts.run("refresh")
+    guarded("dry routes daily", rebuild_dry_routes)
 
     elapsed = time.time() - t0
     print(f"Daily Sync Complete in {elapsed:.1f}s.")

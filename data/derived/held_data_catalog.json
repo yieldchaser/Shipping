@@ -1,0 +1,6235 @@
+[
+  {
+    "path": "data/_quarantine/brazil_ore_envelope.csv",
+    "name": "brazil_ore_envelope.csv",
+    "category": "_quarantine",
+    "rows": 116,
+    "columns": [
+      "date",
+      "year",
+      "month",
+      "volume_kt",
+      "hist_5y_min",
+      "hist_5y_max",
+      "hist_5y_mean"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2017-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/_quarantine/guinea_bauxite_envelope.csv",
+    "name": "guinea_bauxite_envelope.csv",
+    "category": "_quarantine",
+    "rows": 116,
+    "columns": [
+      "date",
+      "year",
+      "month",
+      "volume_kt",
+      "hist_5y_min",
+      "hist_5y_max",
+      "hist_5y_mean"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2017-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/_quarantine/upstream_freight_drivers.csv",
+    "name": "upstream_freight_drivers.csv",
+    "category": "_quarantine",
+    "rows": 116,
+    "columns": [
+      "date",
+      "year",
+      "month",
+      "brazil_ore_export_kt",
+      "brazil_5y_avg_kt",
+      "guinea_bauxite_export_kt",
+      "guinea_5y_avg_kt",
+      "port_hedland_ore_mt",
+      "china_port_inventory_mt",
+      "long_haul_ton_miles_bn"
+    ],
+    "n_cols": 10,
+    "date_col": "date",
+    "start_sample": "2017-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/bunkers/bix_history.csv",
+    "name": "bix_history.csv",
+    "category": "bunkers",
+    "rows": 3975,
+    "columns": [
+      "observation_date",
+      "index_code",
+      "grade",
+      "price_usd",
+      "change_usd",
+      "change_pct",
+      "low_usd",
+      "high_usd",
+      "unit",
+      "source"
+    ],
+    "n_cols": 10,
+    "date_col": "observation_date",
+    "start_sample": "2025-09-09",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/bunkers/bunker_bix_macro_benchmarks.csv",
+    "name": "bunker_bix_macro_benchmarks.csv",
+    "category": "bunkers",
+    "rows": 150,
+    "columns": [
+      "observation_date",
+      "index_code",
+      "grade",
+      "price_usd",
+      "change_usd",
+      "change_pct",
+      "low_usd",
+      "high_usd",
+      "unit",
+      "source"
+    ],
+    "n_cols": 10,
+    "date_col": "observation_date",
+    "start_sample": "2026-09-18",
+    "end_sample": "2026-09-07"
+  },
+  {
+    "path": "data/bunkers/bunker_forward_curves_12m.csv",
+    "name": "bunker_forward_curves_12m.csv",
+    "category": "bunkers",
+    "rows": 72,
+    "columns": [
+      "as_of_date",
+      "port",
+      "month_offset",
+      "contract_month",
+      "ifo380_usd",
+      "vlsfo_usd",
+      "mgo_usd",
+      "source"
+    ],
+    "n_cols": 8,
+    "date_col": "as_of_date",
+    "start_sample": "2026-09-21",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/bunkers/bunker_master_historical.csv",
+    "name": "bunker_master_historical.csv",
+    "category": "bunkers",
+    "rows": 488107,
+    "columns": [
+      "observation_date",
+      "port_code",
+      "port_name",
+      "grade",
+      "delivery_term",
+      "price_usd",
+      "change_usd",
+      "high_usd",
+      "low_usd",
+      "spread_usd"
+    ],
+    "n_cols": 12,
+    "date_col": "observation_date",
+    "start_sample": "2018-02-12",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/bunkers/bunker_physical_sales_volumes.csv",
+    "name": "bunker_physical_sales_volumes.csv",
+    "category": "bunkers",
+    "rows": 106,
+    "columns": [
+      "indicator_id",
+      "period",
+      "port",
+      "metric",
+      "volume_mt",
+      "frequency",
+      "source"
+    ],
+    "n_cols": 7,
+    "date_col": "period",
+    "start_sample": "2024-09",
+    "end_sample": "2025"
+  },
+  {
+    "path": "data/bunkers/bunker_prices_daily.csv",
+    "name": "bunker_prices_daily.csv",
+    "category": "bunkers",
+    "rows": 840,
+    "columns": [
+      "date",
+      "port",
+      "fuel_grade",
+      "price_usd_mt"
+    ],
+    "n_cols": 4,
+    "date_col": "date",
+    "start_sample": "2026-08-22",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/cftc_statements/parsed/bdry_monthly_cftc_ledger.csv",
+    "name": "bdry_monthly_cftc_ledger.csv",
+    "category": "parsed",
+    "rows": 101,
+    "columns": [
+      "fund",
+      "period_ended",
+      "source_url",
+      "local_file_path",
+      "sha256_checksum",
+      "file_size_bytes",
+      "opening_nav_dollars",
+      "sales_of_shares_dollars",
+      "redemptions_of_shares_dollars",
+      "net_share_activity_dollars"
+    ],
+    "n_cols": 31,
+    "date_col": "period_ended",
+    "start_sample": "March-2018",
+    "end_sample": "July  31, 2026"
+  },
+  {
+    "path": "data/cftc_statements/parsed/bwet_monthly_cftc_ledger.csv",
+    "name": "bwet_monthly_cftc_ledger.csv",
+    "category": "parsed",
+    "rows": 39,
+    "columns": [
+      "fund",
+      "period_ended",
+      "source_url",
+      "local_file_path",
+      "sha256_checksum",
+      "file_size_bytes",
+      "opening_nav_dollars",
+      "sales_of_shares_dollars",
+      "redemptions_of_shares_dollars",
+      "net_share_activity_dollars"
+    ],
+    "n_cols": 31,
+    "date_col": "period_ended",
+    "start_sample": "May-2023",
+    "end_sample": "July 31, 2026"
+  },
+  {
+    "path": "data/cftc_statements/parsed/statement_text_audit.csv",
+    "name": "statement_text_audit.csv",
+    "category": "parsed",
+    "rows": 138,
+    "columns": [
+      "fund",
+      "filename",
+      "filesize",
+      "char_count",
+      "is_digital_text",
+      "has_nav_tokens"
+    ],
+    "n_cols": 6,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/clarksons/drewry_airfreight_price_index.csv",
+    "name": "drewry_airfreight_price_index.csv",
+    "category": "clarksons",
+    "rows": 24,
+    "columns": [
+      "date",
+      "composite_airfreight_rate_usd_kg",
+      "asia_us_eastbound_usd_kg",
+      "asia_europe_westbound_usd_kg",
+      "europe_us_westbound_usd_kg"
+    ],
+    "n_cols": 5,
+    "date_col": "date",
+    "start_sample": "2024-09-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/clarksons/drewry_breakbulk_transport_indices.csv",
+    "name": "drewry_breakbulk_transport_indices.csv",
+    "category": "clarksons",
+    "rows": 49,
+    "columns": [
+      "date",
+      "project_cargo_index",
+      "general_cargo_index"
+    ],
+    "n_cols": 3,
+    "date_col": "date",
+    "start_sample": "2022-08-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/clarksons/drewry_intra_asia_container_index.csv",
+    "name": "drewry_intra_asia_container_index.csv",
+    "category": "clarksons",
+    "rows": 24,
+    "columns": [
+      "date",
+      "composite_iaci",
+      "shanghai_nehru_port",
+      "shanghai_tanjung_pelepas",
+      "shanghai_singapore",
+      "shanghai_yokohama",
+      "jakarta_shanghai",
+      "busan_shanghai",
+      "ho_chi_minh_shanghai",
+      "yokohama_shanghai"
+    ],
+    "n_cols": 10,
+    "date_col": "date",
+    "start_sample": "2026-04-10",
+    "end_sample": "2026-09-17"
+  },
+  {
+    "path": "data/clarksons/drewry_port_throughput_indices.csv",
+    "name": "drewry_port_throughput_indices.csv",
+    "category": "clarksons",
+    "rows": 25,
+    "columns": [
+      "month",
+      "global_port_throughput_index",
+      "greater_china_pt_index",
+      "north_america_pt_index",
+      "european_pt_index"
+    ],
+    "n_cols": 5,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/clarksons/fearnleys_benchmark_rates_continuous.csv",
+    "name": "fearnleys_benchmark_rates_continuous.csv",
+    "category": "clarksons",
+    "rows": 14263,
+    "columns": [
+      "date",
+      "MEG/Japan-China VLCC (TD3/TD3C transition) [worldscale] (tsid_1)",
+      "MEG/Singapore VLCC (TD2) [worldscale] (tsid_2)",
+      "WAF/China VLCC (TD15) [worldscale] (tsid_3)",
+      "WAF/UKC Suezmax (TD20) [worldscale] (tsid_4)",
+      "Market Brief (Dirty Tanker) [worldscale] (tsid_5)",
+      "Cross Med Aframax (TD19) [worldscale] (tsid_6)",
+      "Unverified Spot Route (mislabelled 1 Year TC - VLCC) [worldscale] (tsid_7)",
+      "Unverified Spot Route (mislabelled 1 Year TC - Suezmax) [worldscale] (tsid_8)",
+      "Unverified Spot Route (mislabelled 1 Year TC - Aframax) [worldscale] (tsid_9)"
+    ],
+    "n_cols": 35,
+    "date_col": "date",
+    "start_sample": "1985-01-04",
+    "end_sample": "2026-09-10"
+  },
+  {
+    "path": "data/clarksons/gibson_tanker_rates_continuous_daily.csv",
+    "name": "gibson_tanker_rates_continuous_daily.csv",
+    "category": "clarksons",
+    "rows": 1505,
+    "columns": [
+      "Date",
+      "COGH",
+      "CPP",
+      "Crude/DPP",
+      "Dark",
+      "East MRs",
+      "LR2 Middle East - UK Cont (Clean)",
+      "Last Quote Close",
+      "Mainstream",
+      "Med/Med 30kt"
+    ],
+    "n_cols": 28,
+    "date_col": "Date",
+    "start_sample": "2020-01-03",
+    "end_sample": "2026-12-04"
+  },
+  {
+    "path": "data/clarksons/panama_gatun_lake_water_level_history.csv",
+    "name": "panama_gatun_lake_water_level_history.csv",
+    "category": "clarksons",
+    "rows": 22531,
+    "columns": [
+      "DATE_LOG",
+      "GATUN_LAKE_LEVEL(FEET)"
+    ],
+    "n_cols": 2,
+    "date_col": "DATE_LOG",
+    "start_sample": "1965-01-01",
+    "end_sample": "2026-09-08"
+  },
+  {
+    "path": "data/clarksons/panama_gatun_water_level_projection.csv",
+    "name": "panama_gatun_water_level_projection.csv",
+    "category": "clarksons",
+    "rows": 63,
+    "columns": [
+      "The estimated maximum drafts shown in the Gatun Water Level Projection graph are only estimates and shall be used for reference purposes only."
+    ],
+    "n_cols": 1,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/commodities/argentina_grain_exports_monthly.csv",
+    "name": "argentina_grain_exports_monthly.csv",
+    "category": "commodities",
+    "rows": 55,
+    "columns": [
+      "date",
+      "total_grain_mt",
+      "corn_mt",
+      "wheat_mt",
+      "soybeans_mt",
+      "soymeal_pellets_mt",
+      "barley_mt",
+      "sorghum_mt",
+      "sunflower_mt",
+      "other_grains_mt"
+    ],
+    "n_cols": 16,
+    "date_col": "date",
+    "start_sample": "2022-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/argentina_grain_ports_breakdown.csv",
+    "name": "argentina_grain_ports_breakdown.csv",
+    "category": "commodities",
+    "rows": 394,
+    "columns": [
+      "date",
+      "port",
+      "basin",
+      "total_tonnes",
+      "share_of_national_pct",
+      "source_url"
+    ],
+    "n_cols": 6,
+    "date_col": "date",
+    "start_sample": "2022-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/australia_ppa_iron_ore.csv",
+    "name": "australia_ppa_iron_ore.csv",
+    "category": "commodities",
+    "rows": 423,
+    "columns": [
+      "date",
+      "port",
+      "total_throughput_mt",
+      "iron_ore_exports_mt",
+      "destinations_t",
+      "mom_pct",
+      "yoy_pct",
+      "provenance"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2015-08-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/commodities/australia_req_commodity_exports.csv",
+    "name": "australia_req_commodity_exports.csv",
+    "category": "commodities",
+    "rows": 725,
+    "columns": [
+      "date",
+      "quarter",
+      "commodity",
+      "export_volume_mt",
+      "export_value_aud_b",
+      "primary_vessel_class",
+      "provenance"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "1990-03-01",
+    "end_sample": "2026-03-01"
+  },
+  {
+    "path": "data/commodities/australia_req_exports.csv",
+    "name": "australia_req_exports.csv",
+    "category": "commodities",
+    "rows": 50,
+    "columns": [
+      "date",
+      "quarter",
+      "commodity",
+      "export_volume_mt",
+      "export_value_aud_b",
+      "primary_vessel_class"
+    ],
+    "n_cols": 6,
+    "date_col": "date",
+    "start_sample": "2024-03-31",
+    "end_sample": "2026-06-30"
+  },
+  {
+    "path": "data/commodities/brazil_comexstat_exports.csv",
+    "name": "brazil_comexstat_exports.csv",
+    "category": "commodities",
+    "rows": 580,
+    "columns": [
+      "date",
+      "year",
+      "month",
+      "commodity",
+      "ncm",
+      "metric_tonnes",
+      "fob_usd",
+      "source",
+      "method"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2017-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/commodities/brazil_exports_monthly.csv",
+    "name": "brazil_exports_monthly.csv",
+    "category": "commodities",
+    "rows": 124,
+    "columns": [
+      "commodity",
+      "date",
+      "volume_kt",
+      "usd_fob",
+      "source"
+    ],
+    "n_cols": 5,
+    "date_col": "date",
+    "start_sample": "2024-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/china_customs_guinea_bauxite_partner_usd.csv",
+    "name": "china_customs_guinea_bauxite_partner_usd.csv",
+    "category": "commodities",
+    "rows": 107,
+    "columns": [
+      "period",
+      "date",
+      "guinea_usd",
+      "china_total_usd",
+      "guinea_value_share",
+      "source"
+    ],
+    "n_cols": 6,
+    "date_col": "period",
+    "start_sample": "2017-01",
+    "end_sample": "2026-07"
+  },
+  {
+    "path": "data/commodities/china_customs_monthly_imports.csv",
+    "name": "china_customs_monthly_imports.csv",
+    "category": "commodities",
+    "rows": 957,
+    "columns": [
+      "date",
+      "hs_code",
+      "commodity",
+      "flow",
+      "shipping_class",
+      "value_usd",
+      "partner_count",
+      "top_partner_1",
+      "top_partner_2",
+      "top_partner_3"
+    ],
+    "n_cols": 13,
+    "date_col": "date",
+    "start_sample": "2021-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/commodities/guinea_bauxite_exports.csv",
+    "name": "guinea_bauxite_exports.csv",
+    "category": "commodities",
+    "rows": 155,
+    "columns": [
+      "date",
+      "tonnes",
+      "vessels",
+      "company",
+      "source_url",
+      "publisher",
+      "source_quote",
+      "method",
+      "import_volume_t",
+      "avg_cif_usd_t"
+    ],
+    "n_cols": 11,
+    "date_col": "date",
+    "start_sample": "2015-12-31",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/indonesia_coal_exports_monthly.csv",
+    "name": "indonesia_coal_exports_monthly.csv",
+    "category": "commodities",
+    "rows": 103,
+    "columns": [
+      "date",
+      "volume_mt",
+      "bituminous_mt",
+      "other_coal_mt",
+      "lignite_mt",
+      "headline_coal_mt",
+      "total_coal_and_lignite_mt",
+      "value_usd",
+      "seaborne_mt",
+      "top_destination_1"
+    ],
+    "n_cols": 16,
+    "date_col": "date",
+    "start_sample": "2018-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/major_miners_quarterly_shipments.csv",
+    "name": "major_miners_quarterly_shipments.csv",
+    "category": "commodities",
+    "rows": 40,
+    "columns": [
+      "date",
+      "quarter",
+      "miner",
+      "production_mt_100pct",
+      "production_mt_equity_share",
+      "shipments_mt_100pct",
+      "shipments_mt_equity_share",
+      "pilbara_production_mt",
+      "pilbara_shipments_mt",
+      "ore_mined_mt"
+    ],
+    "n_cols": 19,
+    "date_col": "date",
+    "start_sample": "2024-03-31",
+    "end_sample": "2026-06-30"
+  },
+  {
+    "path": "data/commodities/minor_bulks_monthly.csv",
+    "name": "minor_bulks_monthly.csv",
+    "category": "commodities",
+    "rows": 662,
+    "columns": [
+      "date",
+      "period",
+      "commodity",
+      "trade_flow",
+      "reporter_country",
+      "partner_country",
+      "hs_code",
+      "metric_tonnes",
+      "value_usd",
+      "vessel_demand_impact"
+    ],
+    "n_cols": 17,
+    "date_col": "date",
+    "start_sample": "2022-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/newcastle_coal_exports.csv",
+    "name": "newcastle_coal_exports.csv",
+    "category": "commodities",
+    "rows": 103,
+    "columns": [
+      "date",
+      "port",
+      "export_tonnes_mt",
+      "coal_grade",
+      "vessels_loaded_count",
+      "primary_destinations"
+    ],
+    "n_cols": 6,
+    "date_col": "date",
+    "start_sample": "2018-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/commodities/newcastle_coal_monthly.csv",
+    "name": "newcastle_coal_monthly.csv",
+    "category": "commodities",
+    "rows": 96,
+    "columns": [
+      "date",
+      "port",
+      "export_tonnes_mt",
+      "coal_grade",
+      "vessels_loaded_count",
+      "primary_destinations"
+    ],
+    "n_cols": 6,
+    "date_col": "date",
+    "start_sample": "2024-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/commodities/panama_canal_draft_and_slots.csv",
+    "name": "panama_canal_draft_and_slots.csv",
+    "category": "commodities",
+    "rows": 16,
+    "columns": [
+      "date",
+      "max_draft_feet",
+      "neo_panamax_slots",
+      "panamax_slots",
+      "gatun_level_feet",
+      "status"
+    ],
+    "n_cols": 6,
+    "date_col": "date",
+    "start_sample": "2022-01-15",
+    "end_sample": "2026-08-20"
+  },
+  {
+    "path": "data/commodities/sgx_iron_ore_62_fef_historical.csv",
+    "name": "sgx_iron_ore_62_fef_historical.csv",
+    "category": "commodities",
+    "rows": 95894,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/commodities/sgx_iron_ore_65_m65f_historical.csv",
+    "name": "sgx_iron_ore_65_m65f_historical.csv",
+    "category": "commodities",
+    "rows": 61832,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-12-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/commodities/sgx_iron_ore_continuous_daily.csv",
+    "name": "sgx_iron_ore_continuous_daily.csv",
+    "category": "commodities",
+    "rows": 2237,
+    "columns": [
+      "date",
+      "fef_m1_contract",
+      "fef_m1_price",
+      "fef_m1_volume",
+      "fef_m1_oi",
+      "fef_m2_contract",
+      "fef_m2_price",
+      "fef_m2_volume",
+      "fef_m2_oi",
+      "fef_m3_contract"
+    ],
+    "n_cols": 27,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/commodities/sgx_iron_ore_forward_curve.csv",
+    "name": "sgx_iron_ore_forward_curve.csv",
+    "category": "commodities",
+    "rows": 40,
+    "columns": [
+      "date",
+      "tenor",
+      "delivery_month",
+      "delivery_year",
+      "fef_ticker",
+      "fef_settle",
+      "fef_oi",
+      "fef_volume",
+      "m65f_ticker",
+      "m65f_settle"
+    ],
+    "n_cols": 20,
+    "date_col": "date",
+    "start_sample": "2026-09-18",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/commodities/sgx_iron_ore_lump_lpf_historical.csv",
+    "name": "sgx_iron_ore_lump_lpf_historical.csv",
+    "category": "commodities",
+    "rows": 41636,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/commodities/un_comtrade_guinea_bauxite.csv",
+    "name": "un_comtrade_guinea_bauxite.csv",
+    "category": "commodities",
+    "rows": 24,
+    "columns": [
+      "date",
+      "period",
+      "commodity",
+      "hs_code",
+      "reporter",
+      "partner",
+      "import_volume_mt",
+      "cif_usd",
+      "avg_cif_usd_t"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2023-01-01",
+    "end_sample": "2024-12-01"
+  },
+  {
+    "path": "data/commodities/us_eia_weekly_crude_exports.csv",
+    "name": "us_eia_weekly_crude_exports.csv",
+    "category": "commodities",
+    "rows": 1858,
+    "columns": [
+      "date",
+      "us_total_crude_exports_kbpd",
+      "crude_4w_avg_kbpd"
+    ],
+    "n_cols": 3,
+    "date_col": "date",
+    "start_sample": "1991-02-08",
+    "end_sample": "2026-09-11"
+  },
+  {
+    "path": "data/commodities/usda_fas_outstanding_export_sales.csv",
+    "name": "usda_fas_outstanding_export_sales.csv",
+    "category": "commodities",
+    "rows": 68350,
+    "columns": [
+      "date",
+      "week",
+      "month",
+      "year",
+      "country",
+      "commodity",
+      "type",
+      "outstanding_sales_total"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-09-03T00:00:00.000",
+    "end_sample": "1999-09-02T00:00:00.000"
+  },
+  {
+    "path": "data/commodities/usda_grain_vessel_loading.csv",
+    "name": "usda_grain_vessel_loading.csv",
+    "category": "commodities",
+    "rows": 3306,
+    "columns": [
+      "date",
+      "week",
+      "month",
+      "year",
+      "port",
+      "loading",
+      "waiting_to_load",
+      "in_port",
+      "in_port_4yr_avg",
+      "loaded_7_days"
+    ],
+    "n_cols": 13,
+    "date_col": "date",
+    "start_sample": "1995-01-04",
+    "end_sample": "2026-09-10"
+  },
+  {
+    "path": "data/commodities/usda_grain_vessel_loading_queues.csv",
+    "name": "usda_grain_vessel_loading_queues.csv",
+    "category": "commodities",
+    "rows": 3306,
+    "columns": [
+      "date",
+      "week",
+      "month",
+      "year",
+      "port",
+      "port_region",
+      "loading",
+      "waiting_to_load",
+      "in_port",
+      "in_port_4yr_avg"
+    ],
+    "n_cols": 15,
+    "date_col": "date",
+    "start_sample": "1995-01-04",
+    "end_sample": "2026-09-10"
+  },
+  {
+    "path": "data/commodities/usda_us_vs_brazil_landed_costs.csv",
+    "name": "usda_us_vs_brazil_landed_costs.csv",
+    "category": "commodities",
+    "rows": 650,
+    "columns": [
+      "Date",
+      "Year",
+      "Quarter",
+      "Origin",
+      "Destination",
+      "Truck",
+      "Barge",
+      "Rail",
+      "Ocean",
+      "Farm Value"
+    ],
+    "n_cols": 11,
+    "date_col": "Date",
+    "start_sample": "09/30/2005",
+    "end_sample": "12/31/2025"
+  },
+  {
+    "path": "data/commodities/usda_ytd_grain_inspections_top20.csv",
+    "name": "usda_ytd_grain_inspections_top20.csv",
+    "category": "commodities",
+    "rows": 50127,
+    "columns": [
+      "date",
+      "grain",
+      "class",
+      "subclass",
+      "destination",
+      "ams_reg",
+      "mt",
+      "week",
+      "month",
+      "year"
+    ],
+    "n_cols": 10,
+    "date_col": "date",
+    "start_sample": "2026-09-10T00:00:00.000",
+    "end_sample": "2023-01-05T00:00:00.000"
+  },
+  {
+    "path": "data/commodities/world_crude_steel_monthly.csv",
+    "name": "world_crude_steel_monthly.csv",
+    "category": "commodities",
+    "rows": 31,
+    "columns": [
+      "date",
+      "world_total_mt",
+      "china_mt",
+      "india_mt",
+      "japan_mt",
+      "united_states_mt",
+      "russia_mt",
+      "south_korea_mt",
+      "germany_mt",
+      "turkiye_mt"
+    ],
+    "n_cols": 17,
+    "date_col": "date",
+    "start_sample": "2024-01-01",
+    "end_sample": "2026-07-01"
+  },
+  {
+    "path": "data/congestion/chokepoint_transits_daily.csv",
+    "name": "chokepoint_transits_daily.csv",
+    "category": "congestion",
+    "rows": 78764,
+    "columns": [
+      "date",
+      "portname",
+      "portid",
+      "year",
+      "month",
+      "day",
+      "n_container",
+      "n_dry_bulk",
+      "n_general_cargo",
+      "n_roro"
+    ],
+    "n_cols": 20,
+    "date_col": "date",
+    "start_sample": "2019-01-01",
+    "end_sample": "2026-09-13"
+  },
+  {
+    "path": "data/congestion/chokepoints_master.csv",
+    "name": "chokepoints_master.csv",
+    "category": "congestion",
+    "rows": 28,
+    "columns": [
+      "portid",
+      "portname",
+      "country",
+      "ISO3",
+      "continent",
+      "fullname",
+      "lat",
+      "lon",
+      "vessel_count_total",
+      "vessel_count_container"
+    ],
+    "n_cols": 23,
+    "date_col": "share_country_maritime_import",
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/congestion/port_arrival_envelope_matrix.csv",
+    "name": "port_arrival_envelope_matrix.csv",
+    "category": "congestion",
+    "rows": 20100,
+    "columns": [
+      "date",
+      "port_locode",
+      "asset_class",
+      "live_calls",
+      "hist_min",
+      "hist_max",
+      "hist_mean"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2019-01-06",
+    "end_sample": "2026-09-13"
+  },
+  {
+    "path": "data/congestion/port_calls_daily.csv",
+    "name": "port_calls_daily.csv",
+    "category": "congestion",
+    "rows": 179506,
+    "columns": [
+      "year",
+      "month",
+      "day",
+      "portid",
+      "portname",
+      "country",
+      "ISO3",
+      "portcalls_container",
+      "portcalls_dry_bulk",
+      "portcalls_general_cargo"
+    ],
+    "n_cols": 30,
+    "date_col": "date",
+    "start_sample": "2020-10-12",
+    "end_sample": "2026-09-11"
+  },
+  {
+    "path": "data/congestion/port_calls_daily_expanded.csv",
+    "name": "port_calls_daily_expanded.csv",
+    "category": "congestion",
+    "rows": 524510,
+    "columns": [
+      "date",
+      "year",
+      "month",
+      "day",
+      "portid",
+      "portname",
+      "country",
+      "ISO3",
+      "portcalls_container",
+      "portcalls_dry_bulk"
+    ],
+    "n_cols": 30,
+    "date_col": "date",
+    "start_sample": "2026-01-01",
+    "end_sample": "2026-09-11"
+  },
+  {
+    "path": "data/congestion/portwatch_disruptions.csv",
+    "name": "portwatch_disruptions.csv",
+    "category": "congestion",
+    "rows": 132,
+    "columns": [
+      "eventid",
+      "eventtype",
+      "eventname",
+      "htmlname",
+      "htmldescription",
+      "alertlevel",
+      "country",
+      "fromdate",
+      "year",
+      "todate"
+    ],
+    "n_cols": 22,
+    "date_col": "fromdate",
+    "start_sample": "2019-03-09",
+    "end_sample": "2026-08-14"
+  },
+  {
+    "path": "data/congestion/portwatch_port_congestion.csv",
+    "name": "portwatch_port_congestion.csv",
+    "category": "congestion",
+    "rows": 120453,
+    "columns": [
+      "date",
+      "portid",
+      "portname",
+      "country",
+      "hub_code",
+      "daily_port_calls_total",
+      "daily_port_calls_dry_bulk",
+      "daily_port_calls_tanker",
+      "daily_port_calls_container",
+      "import_dry_bulk_kt"
+    ],
+    "n_cols": 13,
+    "date_col": "date",
+    "start_sample": "2019-01-01",
+    "end_sample": "2026-09-11"
+  },
+  {
+    "path": "data/demolition/shipandbunker_demolition_fixtures.csv",
+    "name": "shipandbunker_demolition_fixtures.csv",
+    "category": "demolition",
+    "rows": 254,
+    "columns": [
+      "year",
+      "week",
+      "published_date",
+      "sale_date",
+      "vessel_name",
+      "vessel_type",
+      "build_date",
+      "seller",
+      "source"
+    ],
+    "n_cols": 9,
+    "date_col": "published_date",
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/bunker_fuel_spreads.csv",
+    "name": "bunker_fuel_spreads.csv",
+    "category": "derived",
+    "rows": 6,
+    "columns": [
+      "port",
+      "region",
+      "vlsfo_price_usd_mt",
+      "hsfo_price_usd_mt",
+      "mgo_price_usd_mt",
+      "hi5_spread_usd_mt",
+      "cape_scrubber_tce_premium_usd_d",
+      "vlcc_scrubber_tce_premium_usd_d",
+      "eu_ets_co2_price_eur_mt",
+      "eu_ets_daily_penalty_usd_d"
+    ],
+    "n_cols": 10,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/cascade_dry_run/advanced_shipping_table_reconciled.csv",
+    "name": "advanced_shipping_table_reconciled.csv",
+    "category": "cascade_dry_run",
+    "rows": 3,
+    "columns": [
+      "vessel_name",
+      "type",
+      "dwt",
+      "yob",
+      "ldt",
+      "price_usd_ldt",
+      "destination",
+      "implied_gross_usd",
+      "confidence",
+      "domain_check"
+    ],
+    "n_cols": 11,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/cascade_dry_run/star_asia_chart_reconciled.csv",
+    "name": "star_asia_chart_reconciled.csv",
+    "category": "cascade_dry_run",
+    "rows": 147,
+    "columns": [
+      "date",
+      "series",
+      "val_geom_mt",
+      "val_vlm_mt",
+      "reconciled_mt",
+      "delta_pct",
+      "confidence",
+      "reconciled_by_debate",
+      "audit_status"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2022-08-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/derived/cascade_dry_run/star_asia_chart_v2_reconciled.csv",
+    "name": "star_asia_chart_v2_reconciled.csv",
+    "category": "cascade_dry_run",
+    "rows": 147,
+    "columns": [
+      "date",
+      "series",
+      "val_geom_mt",
+      "val_landmark_mt",
+      "val_integral_mt",
+      "final_reconciled_mt",
+      "confidence",
+      "audit_status",
+      "decision_reason"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2022-08-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/derived/cascade_dry_run/star_asia_chart_v3_reconciled.csv",
+    "name": "star_asia_chart_v3_reconciled.csv",
+    "category": "cascade_dry_run",
+    "rows": 147,
+    "columns": [
+      "date",
+      "series",
+      "val_geom_mt",
+      "val_vlm_ensemble_mt",
+      "val_trajectory_mt",
+      "final_reconciled_mt",
+      "confidence",
+      "is_intersection_zone",
+      "audit_status",
+      "decision_reason"
+    ],
+    "n_cols": 10,
+    "date_col": "date",
+    "start_sample": "2022-08-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/derived/cascade_dry_run/star_asia_chart_v4_reconciled.csv",
+    "name": "star_asia_chart_v4_reconciled.csv",
+    "category": "cascade_dry_run",
+    "rows": 147,
+    "columns": [
+      "date",
+      "series",
+      "val_geom_mt",
+      "val_vlm_ensemble_mt",
+      "val_trajectory_mt",
+      "final_reconciled_mt",
+      "confidence",
+      "uncertainty_score",
+      "is_intersection_zone",
+      "audit_status"
+    ],
+    "n_cols": 11,
+    "date_col": "date",
+    "start_sample": "2022-08-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/derived/chokepoint_transit_metrics.csv",
+    "name": "chokepoint_transit_metrics.csv",
+    "category": "derived",
+    "rows": 10,
+    "columns": [
+      "chokepoint",
+      "region",
+      "daily_transit_count",
+      "pre_disruption_baseline_count",
+      "diverted_pct",
+      "avg_rerouting_voyage_days_added",
+      "implied_tonne_mile_expansion_pct",
+      "max_draft_feet",
+      "queue_waiting_days",
+      "disruption_status"
+    ],
+    "n_cols": 10,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/eu_ets_carbon_daily.csv",
+    "name": "eu_ets_carbon_daily.csv",
+    "category": "derived",
+    "rows": 2990,
+    "columns": [
+      "date",
+      "eua_carbon_price_eur_tco2",
+      "source_created_at",
+      "singapore_vlsfo_usd_mt",
+      "singapore_hsfo_usd_mt",
+      "singapore_hi5_spread_usd_mt",
+      "rotterdam_hi5_spread_usd_mt",
+      "houston_hi5_spread_usd_mt",
+      "capesize_scrubber_savings_usd_day",
+      "vlcc_scrubber_savings_usd_day"
+    ],
+    "n_cols": 12,
+    "date_col": "date",
+    "start_sample": "2010-01-05",
+    "end_sample": "2026-09-03"
+  },
+  {
+    "path": "data/derived/fearnleys_broker_comments.csv",
+    "name": "fearnleys_broker_comments.csv",
+    "category": "derived",
+    "rows": 11740,
+    "columns": [
+      "id",
+      "date",
+      "comment_type",
+      "comment_subtype",
+      "comment_name",
+      "text",
+      "created_at",
+      "comment_meta_id"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-09-03",
+    "end_sample": "2026-09-23"
+  },
+  {
+    "path": "data/derived/fearnleys_catalog.csv",
+    "name": "fearnleys_catalog.csv",
+    "category": "derived",
+    "rows": 356,
+    "columns": [
+      "id",
+      "unit",
+      "rate_type",
+      "rate_subtype",
+      "route",
+      "count",
+      "min_date",
+      "max_date"
+    ],
+    "n_cols": 8,
+    "date_col": "min_date",
+    "start_sample": "1970-01-01",
+    "end_sample": "2022-06-01"
+  },
+  {
+    "path": "data/derived/fearnleys_fixtures_full.csv",
+    "name": "fearnleys_fixtures_full.csv",
+    "category": "derived",
+    "rows": 552660,
+    "columns": [
+      "id",
+      "date",
+      "charterer",
+      "owner",
+      "vessel",
+      "imo",
+      "rate",
+      "period",
+      "route",
+      "segment"
+    ],
+    "n_cols": 16,
+    "date_col": "date",
+    "start_sample": "2019-03-21",
+    "end_sample": "2026-09-24"
+  },
+  {
+    "path": "data/derived/fearnleys_snp_transactions.csv",
+    "name": "fearnleys_snp_transactions.csv",
+    "category": "derived",
+    "rows": 2642,
+    "columns": [
+      "id",
+      "created_at",
+      "vessel",
+      "built",
+      "yard",
+      "dwt",
+      "segment",
+      "price",
+      "buyer",
+      "comment"
+    ],
+    "n_cols": 10,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/fearnpulse_dry_routes_full.csv",
+    "name": "fearnpulse_dry_routes_full.csv",
+    "category": "derived",
+    "rows": 34852,
+    "columns": [
+      "tsid",
+      "label",
+      "klass",
+      "route",
+      "unit",
+      "date",
+      "value",
+      "raw_pair_meta"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "1999-03-01",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/derived/fearnpulse_rates_full.csv",
+    "name": "fearnpulse_rates_full.csv",
+    "category": "derived",
+    "rows": 306446,
+    "columns": [
+      "label",
+      "rate_type",
+      "rate_subtype",
+      "route",
+      "unit",
+      "date",
+      "rate"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "1977-01-26",
+    "end_sample": "2026-10-01"
+  },
+  {
+    "path": "data/derived/fleet_orderbook_matrix.csv",
+    "name": "fleet_orderbook_matrix.csv",
+    "category": "derived",
+    "rows": 13,
+    "columns": [
+      "vessel_class",
+      "sector",
+      "active_fleet_count",
+      "active_fleet_dwt_m",
+      "orderbook_count",
+      "orderbook_dwt_m",
+      "orderbook_to_fleet_pct",
+      "deliveries_2026_h2_dwt_m",
+      "deliveries_2027_dwt_m",
+      "deliveries_2028_dwt_m"
+    ],
+    "n_cols": 14,
+    "date_col": "avg_shipyard_lead_time_months",
+    "start_sample": "34",
+    "end_sample": "34"
+  },
+  {
+    "path": "data/derived/intermodal_tc_rates.csv",
+    "name": "intermodal_tc_rates.csv",
+    "category": "derived",
+    "rows": 49,
+    "columns": [
+      "date",
+      "vlcc_1y_tc",
+      "vlcc_3y_tc",
+      "suezmax_1y_tc",
+      "suezmax_3y_tc",
+      "aframax_1y_tc",
+      "aframax_3y_tc",
+      "lr1_1y_tc",
+      "lr1_3y_tc",
+      "mr_1y_tc"
+    ],
+    "n_cols": 22,
+    "date_col": "date",
+    "start_sample": "2025-03-07",
+    "end_sample": "2026-09-11"
+  },
+  {
+    "path": "data/derived/iron_ore_restocking.csv",
+    "name": "iron_ore_restocking.csv",
+    "category": "derived",
+    "rows": 1270,
+    "columns": [
+      "date",
+      "cfr_62",
+      "cfr_65",
+      "port_stock_62",
+      "port_stock_65",
+      "inventories_mt",
+      "steel_production_mt",
+      "steel_inventories_mt"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-07-03",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/derived/lng_charter_rates.csv",
+    "name": "lng_charter_rates.csv",
+    "category": "derived",
+    "rows": 786,
+    "columns": [
+      "date",
+      "lngc_174k_7y_tc",
+      "lngc_174k_10y_tc",
+      "lngc_80k_nb_price",
+      "lngc_30k_nb_price",
+      "lngc_7k_nb_price",
+      "lngc_174k_nb_price"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2013-12-29",
+    "end_sample": "2026-09-23"
+  },
+  {
+    "path": "data/derived/lpg_charter_rates.csv",
+    "name": "lpg_charter_rates.csv",
+    "category": "derived",
+    "rows": 366,
+    "columns": [
+      "date",
+      "vlgc_84k_tc",
+      "mgc_38k_tc",
+      "hdy_22k_tc"
+    ],
+    "n_cols": 4,
+    "date_col": "date",
+    "start_sample": "2019-07-01",
+    "end_sample": "2026-09-23"
+  },
+  {
+    "path": "data/derived/lpg_spot_rates.csv",
+    "name": "lpg_spot_rates.csv",
+    "category": "derived",
+    "rows": 1159,
+    "columns": [
+      "date",
+      "vlgc_spot",
+      "mgc_spot"
+    ],
+    "n_cols": 3,
+    "date_col": "date",
+    "start_sample": "2004-01-07",
+    "end_sample": "2026-09-23"
+  },
+  {
+    "path": "data/derived/macro_health_score_backtest.csv",
+    "name": "macro_health_score_backtest.csv",
+    "category": "derived",
+    "rows": 2011,
+    "columns": [
+      "date",
+      "bdi",
+      "bdry",
+      "p1_momentum",
+      "p2_term_structure",
+      "p3_futures_basis",
+      "p4_port_restock",
+      "p4_inv_pctl",
+      "p5_asset_safety",
+      "p5_margin_pctl"
+    ],
+    "n_cols": 26,
+    "date_col": "date",
+    "start_sample": "2018-03-22",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/derived/port_stress_matrix.csv",
+    "name": "port_stress_matrix.csv",
+    "category": "derived",
+    "rows": 20100,
+    "columns": [
+      "date",
+      "week",
+      "year",
+      "port_locode",
+      "portid",
+      "portname",
+      "country",
+      "asset_class",
+      "live_weekly_calls",
+      "hist_min"
+    ],
+    "n_cols": 16,
+    "date_col": "date",
+    "start_sample": "2019-01-06",
+    "end_sample": "2026-09-13"
+  },
+  {
+    "path": "data/derived/regional_commodity_arbitrage.csv",
+    "name": "regional_commodity_arbitrage.csv",
+    "category": "derived",
+    "rows": 7,
+    "columns": [
+      "arbitrage_metric",
+      "route_or_pair",
+      "unit",
+      "current_value",
+      "1y_avg",
+      "5y_percentile",
+      "arbitrage_signal",
+      "freight_implication"
+    ],
+    "n_cols": 8,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/scrappage_prices.csv",
+    "name": "scrappage_prices.csv",
+    "category": "derived",
+    "rows": 380,
+    "columns": [
+      "date",
+      "dry_india",
+      "dry_bangla",
+      "dry_pak",
+      "dry_turkey",
+      "tanker_india",
+      "tanker_bangla",
+      "tanker_pak",
+      "container_india"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2021-07-03",
+    "end_sample": "2026-09-08"
+  },
+  {
+    "path": "data/derived/seabrokers_osv_dayrates.csv",
+    "name": "seabrokers_osv_dayrates.csv",
+    "category": "derived",
+    "rows": 371,
+    "columns": [
+      "date",
+      "report_month",
+      "category",
+      "avg_dayrate_gbp",
+      "prev_year_dayrate_gbp",
+      "yoy_change_pct",
+      "min_dayrate_gbp",
+      "max_dayrate_gbp",
+      "med_psv_util",
+      "large_psv_util"
+    ],
+    "n_cols": 12,
+    "date_col": "date",
+    "start_sample": "2026-08-01",
+    "end_sample": "2018-05-01"
+  },
+  {
+    "path": "data/derived/tanker_forward_curves.csv",
+    "name": "tanker_forward_curves.csv",
+    "category": "derived",
+    "rows": 16,
+    "columns": [
+      "snapshot_date",
+      "forward_month",
+      "contract_label",
+      "vlcc_td3c",
+      "vlcc_eco_td3c",
+      "suezmax_td20",
+      "aframax_td25",
+      "lr1_tc5",
+      "lr1_eco_tc5",
+      "mr_tc2"
+    ],
+    "n_cols": 15,
+    "date_col": "snapshot_date",
+    "start_sample": "2026-09-16",
+    "end_sample": "2026-09-16"
+  },
+  {
+    "path": "data/derived/tanker_forward_curves_history.csv",
+    "name": "tanker_forward_curves_history.csv",
+    "category": "derived",
+    "rows": 116,
+    "columns": [
+      "snapshot_date",
+      "forward_month",
+      "contract_label",
+      "vlcc_td3c",
+      "vlcc_eco_td3c",
+      "suezmax_td20",
+      "aframax_td25",
+      "lr1_tc5",
+      "lr1_eco_tc5",
+      "mr_tc2"
+    ],
+    "n_cols": 15,
+    "date_col": "snapshot_date",
+    "start_sample": "2026-08-12",
+    "end_sample": "2026-09-16"
+  },
+  {
+    "path": "data/derived/time_charter_rates.csv",
+    "name": "time_charter_rates.csv",
+    "category": "derived",
+    "rows": 2086,
+    "columns": [
+      "date",
+      "source",
+      "capesize_4_6m_atl",
+      "capesize_4_6m_pac",
+      "capesize_4_6m_avg",
+      "capesize_1y_atl",
+      "capesize_1y_pac",
+      "capesize_1y_avg",
+      "capesize_2y_atl",
+      "capesize_2y_pac"
+    ],
+    "n_cols": 66,
+    "date_col": "date",
+    "start_sample": "2000-01-05",
+    "end_sample": "2026-09-16"
+  },
+  {
+    "path": "data/derived/time_charter_rates_fearnleys.csv",
+    "name": "time_charter_rates_fearnleys.csv",
+    "category": "derived",
+    "rows": 2519,
+    "columns": [
+      "date",
+      "capesize_1y_avg",
+      "panamax_1y_avg",
+      "supramax_1y_avg",
+      "handysize_1y_avg",
+      "vlcc_1y",
+      "suezmax_1y",
+      "aframax_1y"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "1970-01-01",
+    "end_sample": "2026-09-16"
+  },
+  {
+    "path": "data/derived/timesfm_probe_results.csv",
+    "name": "timesfm_probe_results.csv",
+    "category": "derived",
+    "rows": 1760,
+    "columns": [
+      "date_origin",
+      "origin_idx",
+      "context",
+      "horizon",
+      "target",
+      "model",
+      "covariates",
+      "is_timesfm",
+      "is_mock",
+      "forecast"
+    ],
+    "n_cols": 24,
+    "date_col": "date_origin",
+    "start_sample": "2020-01-02",
+    "end_sample": "2024-10-09"
+  },
+  {
+    "path": "data/derived/usda_bulk_vessel_fleet_history.csv",
+    "name": "usda_bulk_vessel_fleet_history.csv",
+    "category": "derived",
+    "rows": 92,
+    "columns": [
+      "Year",
+      "Name",
+      "Size",
+      "Number",
+      "Capacity"
+    ],
+    "n_cols": 5,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/usda_bunker_fuel_daily.csv",
+    "name": "usda_bunker_fuel_daily.csv",
+    "category": "derived",
+    "rows": 1961,
+    "columns": [
+      "Day",
+      "Month",
+      "Year",
+      "VLSFO Fuel Oil, IMO 2020 Grade, 0.5%",
+      "Marine Gas Oil",
+      "Intermdiate Fuel Oil, 180cSt",
+      "Intermdiate Fuel Oil, 380cSt"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/usda_grain_vessel_rates_japan.csv",
+    "name": "usda_grain_vessel_rates_japan.csv",
+    "category": "derived",
+    "rows": 368,
+    "columns": [
+      "Date",
+      "Month",
+      "Year",
+      "Gulf_To_Japan",
+      "PNW_To_Japan",
+      "Gulf_PNW_Spread"
+    ],
+    "n_cols": 6,
+    "date_col": "Date",
+    "start_sample": "January 1996",
+    "end_sample": "August 2026"
+  },
+  {
+    "path": "data/derived/usda_us_vs_brazil_cost_spreads.csv",
+    "name": "usda_us_vs_brazil_cost_spreads.csv",
+    "category": "derived",
+    "rows": 80,
+    "columns": [
+      "date",
+      "year",
+      "quarter",
+      "minneapolis_to_shanghai",
+      "north_mt_to_shanghai",
+      "south_go_to_shanghai",
+      "davenport_to_shanghai",
+      "north_mt_minus_minneapolis",
+      "north_mt_minus_davenport",
+      "south_go_minus_minneapolis"
+    ],
+    "n_cols": 11,
+    "date_col": "date",
+    "start_sample": "03/31/2006",
+    "end_sample": "12/31/2025"
+  },
+  {
+    "path": "data/derived/vessel_valuations.csv",
+    "name": "vessel_valuations.csv",
+    "category": "derived",
+    "rows": 20937,
+    "columns": [
+      "date",
+      "category",
+      "tenor_type",
+      "vessel_class",
+      "valuation_usd_m"
+    ],
+    "n_cols": 5,
+    "date_col": "date",
+    "start_sample": "1970-12-01",
+    "end_sample": "2026-09-16"
+  },
+  {
+    "path": "data/derived/vessel_valuations_matrix.csv",
+    "name": "vessel_valuations_matrix.csv",
+    "category": "derived",
+    "rows": 9,
+    "columns": [
+      "vessel_class",
+      "sector",
+      "dwt",
+      "price_newbuild_usd_m",
+      "price_5y_usd_m",
+      "price_10y_usd_m",
+      "price_15y_usd_m",
+      "scrap_demolition_usd_m",
+      "ratio_5y_to_newbuild_pct",
+      "implied_1y_charter_yield_pct"
+    ],
+    "n_cols": 10,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/derived/xclusiv_chart_series.csv",
+    "name": "xclusiv_chart_series.csv",
+    "category": "derived",
+    "rows": 936,
+    "columns": [
+      "period",
+      "report_date",
+      "report_year",
+      "chart_series",
+      "panel",
+      "period_label",
+      "value_usd_per_day",
+      "is_latest",
+      "source_file"
+    ],
+    "n_cols": 9,
+    "date_col": "period",
+    "start_sample": "2019-10",
+    "end_sample": "2026-04"
+  },
+  {
+    "path": "data/equities/foreign_maritime_financials.csv",
+    "name": "foreign_maritime_financials.csv",
+    "category": "equities",
+    "rows": 55041,
+    "columns": [
+      "metric",
+      "period_date",
+      "value",
+      "user_ticker",
+      "symbol",
+      "statement"
+    ],
+    "n_cols": 6,
+    "date_col": "period_date",
+    "start_sample": "2025-12-31 00:00:00",
+    "end_sample": "2021-12-31 00:00:00"
+  },
+  {
+    "path": "data/equities/foreign_maritime_metrics.csv",
+    "name": "foreign_maritime_metrics.csv",
+    "category": "equities",
+    "rows": 82,
+    "columns": [
+      "user_ticker",
+      "symbol",
+      "name",
+      "sector",
+      "currency",
+      "market_cap",
+      "enterprise_value",
+      "trailing_pe",
+      "forward_pe",
+      "price_to_book"
+    ],
+    "n_cols": 15,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/equities/maritime_universe_catalog.csv",
+    "name": "maritime_universe_catalog.csv",
+    "category": "equities",
+    "rows": 175,
+    "columns": [
+      "user_ticker",
+      "target_symbol",
+      "sector",
+      "company_name",
+      "is_sec"
+    ],
+    "n_cols": 5,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/equities/sec_exhibit99_announcements.csv",
+    "name": "sec_exhibit99_announcements.csv",
+    "category": "equities",
+    "rows": 688,
+    "columns": [
+      "user_ticker",
+      "sec_symbol",
+      "company_name",
+      "form",
+      "filing_date",
+      "accession_no",
+      "announcement_desc"
+    ],
+    "n_cols": 7,
+    "date_col": "filing_date",
+    "start_sample": "2024-11-12",
+    "end_sample": "2026-03-19"
+  },
+  {
+    "path": "data/equities/sec_form4_insider_trades.csv",
+    "name": "sec_form4_insider_trades.csv",
+    "category": "equities",
+    "rows": 741,
+    "columns": [
+      "user_ticker",
+      "sec_symbol",
+      "company_name",
+      "filing_date",
+      "accession_no",
+      "reporting_owner",
+      "form"
+    ],
+    "n_cols": 7,
+    "date_col": "filing_date",
+    "start_sample": "2020-10-05",
+    "end_sample": "2026-09-03"
+  },
+  {
+    "path": "data/equities/sec_master_filing_catalog.csv",
+    "name": "sec_master_filing_catalog.csv",
+    "category": "equities",
+    "rows": 92200,
+    "columns": [
+      "user_ticker",
+      "sec_symbol",
+      "cik",
+      "company_name",
+      "sector",
+      "form",
+      "filing_date",
+      "accession_no",
+      "document_url"
+    ],
+    "n_cols": 9,
+    "date_col": "filing_date",
+    "start_sample": "2026-05-15",
+    "end_sample": "2023-11-01"
+  },
+  {
+    "path": "data/equities/sec_xbrl_financials.csv",
+    "name": "sec_xbrl_financials.csv",
+    "category": "equities",
+    "rows": 10462,
+    "columns": [
+      "index",
+      "concept",
+      "label",
+      "standard_concept",
+      "2025-06-30 (FY)",
+      "2024-06-30 (FY)",
+      "level",
+      "abstract",
+      "dimension",
+      "is_breakdown"
+    ],
+    "n_cols": 49,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/BDRY_Daily.csv",
+    "name": "BDRY_Daily.csv",
+    "category": "etf",
+    "rows": 2136,
+    "columns": [
+      "Rate Date",
+      "Premium/Discount"
+    ],
+    "n_cols": 2,
+    "date_col": "Rate Date",
+    "start_sample": "2018-03-21",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/bdry_daily_dollar_decomposition.csv",
+    "name": "bdry_daily_dollar_decomposition.csv",
+    "category": "etf",
+    "rows": 38,
+    "columns": [
+      "fund",
+      "prev_date",
+      "date",
+      "reconciliation_status",
+      "nav_sh_prev",
+      "nav_sh_curr",
+      "r_official_pct",
+      "prior_total_fund_nav_dollars",
+      "futures_vm_retained_dollars",
+      "simulated_fund_ret_pct"
+    ],
+    "n_cols": 17,
+    "date_col": "prev_date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-08-12"
+  },
+  {
+    "path": "data/etf/bdry_daily_return_backtest.csv",
+    "name": "bdry_daily_return_backtest.csv",
+    "category": "etf",
+    "rows": 38,
+    "columns": [
+      "fund",
+      "prev_date",
+      "date",
+      "nav_prev",
+      "nav_curr",
+      "mkt_curr",
+      "r_official_pct",
+      "r_futures_pct",
+      "r_market_pct",
+      "tracking_basis_pct"
+    ],
+    "n_cols": 13,
+    "date_col": "prev_date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-08-12"
+  },
+  {
+    "path": "data/etf/BDRY_flows.csv",
+    "name": "BDRY_flows.csv",
+    "category": "etf",
+    "rows": 2126,
+    "columns": [
+      "date",
+      "usd_flow",
+      "nav",
+      "perf_pct",
+      "cumulative_flow",
+      "daily_inflow",
+      "daily_outflow"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2018-03-23",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/bdry_holdings.csv",
+    "name": "bdry_holdings.csv",
+    "category": "etf",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/bdry_holdings_history.csv",
+    "name": "bdry_holdings_history.csv",
+    "category": "etf",
+    "rows": 1023,
+    "columns": [
+      "date",
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/bdry_liquidity.csv",
+    "name": "bdry_liquidity.csv",
+    "category": "etf",
+    "rows": 2135,
+    "columns": [
+      "date",
+      "close",
+      "volume"
+    ],
+    "n_cols": 3,
+    "date_col": "date",
+    "start_sample": "2018-03-22",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/BWET_Daily.csv",
+    "name": "BWET_Daily.csv",
+    "category": "etf",
+    "rows": 971,
+    "columns": [
+      "Rate Date",
+      "Premium/Discount"
+    ],
+    "n_cols": 2,
+    "date_col": "Rate Date",
+    "start_sample": "2023-01-05",
+    "end_sample": "2026-12-08"
+  },
+  {
+    "path": "data/etf/bwet_daily_dollar_decomposition.csv",
+    "name": "bwet_daily_dollar_decomposition.csv",
+    "category": "etf",
+    "rows": 38,
+    "columns": [
+      "fund",
+      "prev_date",
+      "date",
+      "reconciliation_status",
+      "nav_sh_prev",
+      "nav_sh_curr",
+      "r_official_pct",
+      "prior_total_fund_nav_dollars",
+      "futures_vm_retained_dollars",
+      "simulated_fund_ret_pct"
+    ],
+    "n_cols": 17,
+    "date_col": "prev_date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-08-12"
+  },
+  {
+    "path": "data/etf/bwet_daily_return_backtest.csv",
+    "name": "bwet_daily_return_backtest.csv",
+    "category": "etf",
+    "rows": 38,
+    "columns": [
+      "fund",
+      "prev_date",
+      "date",
+      "nav_prev",
+      "nav_curr",
+      "mkt_curr",
+      "r_official_pct",
+      "r_futures_pct",
+      "r_market_pct",
+      "tracking_basis_pct"
+    ],
+    "n_cols": 13,
+    "date_col": "prev_date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-08-12"
+  },
+  {
+    "path": "data/etf/BWET_flows.csv",
+    "name": "BWET_flows.csv",
+    "category": "etf",
+    "rows": 846,
+    "columns": [
+      "date",
+      "usd_flow",
+      "nav",
+      "perf_pct",
+      "cumulative_flow",
+      "daily_inflow",
+      "daily_outflow"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2023-05-04",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/bwet_holdings.csv",
+    "name": "bwet_holdings.csv",
+    "category": "etf",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/bwet_holdings_history.csv",
+    "name": "bwet_holdings_history.csv",
+    "category": "etf",
+    "rows": 728,
+    "columns": [
+      "date",
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/bwet_liquidity.csv",
+    "name": "bwet_liquidity.csv",
+    "category": "etf",
+    "rows": 848,
+    "columns": [
+      "date",
+      "close",
+      "volume"
+    ],
+    "n_cols": 3,
+    "date_col": "date",
+    "start_sample": "2023-05-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-21.csv",
+    "name": "2026-06-21.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-22.csv",
+    "name": "2026-06-22.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-23.csv",
+    "name": "2026-06-23.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-24.csv",
+    "name": "2026-06-24.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-25.csv",
+    "name": "2026-06-25.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-26.csv",
+    "name": "2026-06-26.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-29.csv",
+    "name": "2026-06-29.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-06-30.csv",
+    "name": "2026-06-30.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-01.csv",
+    "name": "2026-07-01.csv",
+    "category": "BDRY",
+    "rows": 11,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-02.csv",
+    "name": "2026-07-02.csv",
+    "category": "BDRY",
+    "rows": 11,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-03.csv",
+    "name": "2026-07-03.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-06.csv",
+    "name": "2026-07-06.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-07.csv",
+    "name": "2026-07-07.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-08.csv",
+    "name": "2026-07-08.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-09.csv",
+    "name": "2026-07-09.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-10.csv",
+    "name": "2026-07-10.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-13.csv",
+    "name": "2026-07-13.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-14.csv",
+    "name": "2026-07-14.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-15.csv",
+    "name": "2026-07-15.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-16.csv",
+    "name": "2026-07-16.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-17.csv",
+    "name": "2026-07-17.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-20.csv",
+    "name": "2026-07-20.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-21.csv",
+    "name": "2026-07-21.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-22.csv",
+    "name": "2026-07-22.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-23.csv",
+    "name": "2026-07-23.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-24.csv",
+    "name": "2026-07-24.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-27.csv",
+    "name": "2026-07-27.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-28.csv",
+    "name": "2026-07-28.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-29.csv",
+    "name": "2026-07-29.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-30.csv",
+    "name": "2026-07-30.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-07-31.csv",
+    "name": "2026-07-31.csv",
+    "category": "BDRY",
+    "rows": 20,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-03.csv",
+    "name": "2026-08-03.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-04.csv",
+    "name": "2026-08-04.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-05.csv",
+    "name": "2026-08-05.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-07.csv",
+    "name": "2026-08-07.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-10.csv",
+    "name": "2026-08-10.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-11.csv",
+    "name": "2026-08-11.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-12.csv",
+    "name": "2026-08-12.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-13.csv",
+    "name": "2026-08-13.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-14.csv",
+    "name": "2026-08-14.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-17.csv",
+    "name": "2026-08-17.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-19.csv",
+    "name": "2026-08-19.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-20.csv",
+    "name": "2026-08-20.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-21.csv",
+    "name": "2026-08-21.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-24.csv",
+    "name": "2026-08-24.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-25.csv",
+    "name": "2026-08-25.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-26.csv",
+    "name": "2026-08-26.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-27.csv",
+    "name": "2026-08-27.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-28.csv",
+    "name": "2026-08-28.csv",
+    "category": "BDRY",
+    "rows": 17,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-08-31.csv",
+    "name": "2026-08-31.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-01.csv",
+    "name": "2026-09-01.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-02.csv",
+    "name": "2026-09-02.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-03.csv",
+    "name": "2026-09-03.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-04.csv",
+    "name": "2026-09-04.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-08.csv",
+    "name": "2026-09-08.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-09.csv",
+    "name": "2026-09-09.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-10.csv",
+    "name": "2026-09-10.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-11.csv",
+    "name": "2026-09-11.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-14.csv",
+    "name": "2026-09-14.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-15.csv",
+    "name": "2026-09-15.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-16.csv",
+    "name": "2026-09-16.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-17.csv",
+    "name": "2026-09-17.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BDRY/2026-09-18.csv",
+    "name": "2026-09-18.csv",
+    "category": "BDRY",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/bdry_holdings_raw_2026-08-14.csv",
+    "name": "bdry_holdings_raw_2026-08-14.csv",
+    "category": "raw_holdings",
+    "rows": 657,
+    "columns": [
+      "date",
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-08-13"
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-21.csv",
+    "name": "2026-06-21.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-22.csv",
+    "name": "2026-06-22.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-23.csv",
+    "name": "2026-06-23.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-24.csv",
+    "name": "2026-06-24.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-25.csv",
+    "name": "2026-06-25.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-26.csv",
+    "name": "2026-06-26.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-29.csv",
+    "name": "2026-06-29.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-06-30.csv",
+    "name": "2026-06-30.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-01.csv",
+    "name": "2026-07-01.csv",
+    "category": "BWET",
+    "rows": 8,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-02.csv",
+    "name": "2026-07-02.csv",
+    "category": "BWET",
+    "rows": 8,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-03.csv",
+    "name": "2026-07-03.csv",
+    "category": "BWET",
+    "rows": 8,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-06.csv",
+    "name": "2026-07-06.csv",
+    "category": "BWET",
+    "rows": 8,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-07.csv",
+    "name": "2026-07-07.csv",
+    "category": "BWET",
+    "rows": 8,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-08.csv",
+    "name": "2026-07-08.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-09.csv",
+    "name": "2026-07-09.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-10.csv",
+    "name": "2026-07-10.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-13.csv",
+    "name": "2026-07-13.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-14.csv",
+    "name": "2026-07-14.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-15.csv",
+    "name": "2026-07-15.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-16.csv",
+    "name": "2026-07-16.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-17.csv",
+    "name": "2026-07-17.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-20.csv",
+    "name": "2026-07-20.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-21.csv",
+    "name": "2026-07-21.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-22.csv",
+    "name": "2026-07-22.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-23.csv",
+    "name": "2026-07-23.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-24.csv",
+    "name": "2026-07-24.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-27.csv",
+    "name": "2026-07-27.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-28.csv",
+    "name": "2026-07-28.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-29.csv",
+    "name": "2026-07-29.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-30.csv",
+    "name": "2026-07-30.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-07-31.csv",
+    "name": "2026-07-31.csv",
+    "category": "BWET",
+    "rows": 14,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-03.csv",
+    "name": "2026-08-03.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-04.csv",
+    "name": "2026-08-04.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-05.csv",
+    "name": "2026-08-05.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-07.csv",
+    "name": "2026-08-07.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-10.csv",
+    "name": "2026-08-10.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-11.csv",
+    "name": "2026-08-11.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-12.csv",
+    "name": "2026-08-12.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-13.csv",
+    "name": "2026-08-13.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-14.csv",
+    "name": "2026-08-14.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-17.csv",
+    "name": "2026-08-17.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-19.csv",
+    "name": "2026-08-19.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-20.csv",
+    "name": "2026-08-20.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-21.csv",
+    "name": "2026-08-21.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-24.csv",
+    "name": "2026-08-24.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-25.csv",
+    "name": "2026-08-25.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-26.csv",
+    "name": "2026-08-26.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-27.csv",
+    "name": "2026-08-27.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-28.csv",
+    "name": "2026-08-28.csv",
+    "category": "BWET",
+    "rows": 12,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-08-31.csv",
+    "name": "2026-08-31.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-01.csv",
+    "name": "2026-09-01.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-02.csv",
+    "name": "2026-09-02.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-03.csv",
+    "name": "2026-09-03.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-04.csv",
+    "name": "2026-09-04.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-08.csv",
+    "name": "2026-09-08.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-09.csv",
+    "name": "2026-09-09.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-10.csv",
+    "name": "2026-09-10.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-11.csv",
+    "name": "2026-09-11.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-14.csv",
+    "name": "2026-09-14.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-15.csv",
+    "name": "2026-09-15.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-16.csv",
+    "name": "2026-09-16.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-17.csv",
+    "name": "2026-09-17.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/BWET/2026-09-18.csv",
+    "name": "2026-09-18.csv",
+    "category": "BWET",
+    "rows": 10,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 7,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/etf/raw_holdings/bwet_holdings_raw_2026-08-14.csv",
+    "name": "bwet_holdings_raw_2026-08-14.csv",
+    "category": "raw_holdings",
+    "rows": 468,
+    "columns": [
+      "date",
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-06-21",
+    "end_sample": "2026-08-13"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-13.csv",
+    "name": "amplify_master_2026-08-13.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-13",
+    "end_sample": "2026-08-13"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-14.csv",
+    "name": "amplify_master_2026-08-14.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-14",
+    "end_sample": "2026-08-14"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-17.csv",
+    "name": "amplify_master_2026-08-17.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-17",
+    "end_sample": "2026-08-17"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-19.csv",
+    "name": "amplify_master_2026-08-19.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-19",
+    "end_sample": "2026-08-19"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-20.csv",
+    "name": "amplify_master_2026-08-20.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-20",
+    "end_sample": "2026-08-20"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-21.csv",
+    "name": "amplify_master_2026-08-21.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-21",
+    "end_sample": "2026-08-21"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-24.csv",
+    "name": "amplify_master_2026-08-24.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-24",
+    "end_sample": "2026-08-24"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-25.csv",
+    "name": "amplify_master_2026-08-25.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-25",
+    "end_sample": "2026-08-25"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-26.csv",
+    "name": "amplify_master_2026-08-26.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-26",
+    "end_sample": "2026-08-26"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-27.csv",
+    "name": "amplify_master_2026-08-27.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-27",
+    "end_sample": "2026-08-27"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-28.csv",
+    "name": "amplify_master_2026-08-28.csv",
+    "category": "raw_sources",
+    "rows": 29,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-28",
+    "end_sample": "2026-08-28"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-08-31.csv",
+    "name": "amplify_master_2026-08-31.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-08-31",
+    "end_sample": "2026-08-31"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-01.csv",
+    "name": "amplify_master_2026-09-01.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-01",
+    "end_sample": "2026-09-01"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-02.csv",
+    "name": "amplify_master_2026-09-02.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-02",
+    "end_sample": "2026-09-02"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-03.csv",
+    "name": "amplify_master_2026-09-03.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-03",
+    "end_sample": "2026-09-03"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-04.csv",
+    "name": "amplify_master_2026-09-04.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-04",
+    "end_sample": "2026-09-04"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-08.csv",
+    "name": "amplify_master_2026-09-08.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-08",
+    "end_sample": "2026-09-08"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-09.csv",
+    "name": "amplify_master_2026-09-09.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-09",
+    "end_sample": "2026-09-09"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-10.csv",
+    "name": "amplify_master_2026-09-10.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-10",
+    "end_sample": "2026-09-10"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-11.csv",
+    "name": "amplify_master_2026-09-11.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-11",
+    "end_sample": "2026-09-11"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-14.csv",
+    "name": "amplify_master_2026-09-14.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-14",
+    "end_sample": "2026-09-14"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-15.csv",
+    "name": "amplify_master_2026-09-15.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-15",
+    "end_sample": "2026-09-15"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-16.csv",
+    "name": "amplify_master_2026-09-16.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-16",
+    "end_sample": "2026-09-16"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-17.csv",
+    "name": "amplify_master_2026-09-17.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-17",
+    "end_sample": "2026-09-17"
+  },
+  {
+    "path": "data/etf/raw_sources/amplify_master_2026-09-18.csv",
+    "name": "amplify_master_2026-09-18.csv",
+    "category": "raw_sources",
+    "rows": 24,
+    "columns": [
+      "Name",
+      "Ticker",
+      "CUSIP",
+      "Lots",
+      "Price",
+      "Market_Value",
+      "Weightings",
+      "Account",
+      "Date"
+    ],
+    "n_cols": 9,
+    "date_col": "Date",
+    "start_sample": "2026-09-18",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/etf/sec_filings/shipping_etf_sec_filings.csv",
+    "name": "shipping_etf_sec_filings.csv",
+    "category": "sec_filings",
+    "rows": 30,
+    "columns": [
+      "ticker",
+      "company_name",
+      "cik",
+      "form",
+      "filing_date",
+      "accession_no",
+      "document_url"
+    ],
+    "n_cols": 7,
+    "date_col": "filing_date",
+    "start_sample": "2026-05-15",
+    "end_sample": "2024-11-08"
+  },
+  {
+    "path": "data/ffa_live/daily.csv",
+    "name": "daily.csv",
+    "category": "ffa_live",
+    "rows": 120,
+    "columns": [
+      "date",
+      "segment",
+      "tenor",
+      "settle",
+      "open",
+      "high",
+      "low",
+      "last",
+      "first_ts",
+      "last_ts"
+    ],
+    "n_cols": 12,
+    "date_col": "date",
+    "start_sample": "2026-09-14",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/ffa_live/ticks/2026-09.csv",
+    "name": "2026-09.csv",
+    "category": "ticks",
+    "rows": 3065,
+    "columns": [
+      "ts_utc",
+      "segment",
+      "tenor",
+      "price",
+      "settle"
+    ],
+    "n_cols": 5,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/futures/bdryff_history.csv",
+    "name": "bdryff_history.csv",
+    "category": "futures",
+    "rows": 4166,
+    "columns": [
+      "date",
+      "value"
+    ],
+    "n_cols": 2,
+    "date_col": "date",
+    "start_sample": "28-02-2010",
+    "end_sample": "21-09-2026"
+  },
+  {
+    "path": "data/futures/bwetff_history.csv",
+    "name": "bwetff_history.csv",
+    "category": "futures",
+    "rows": 2467,
+    "columns": [
+      "date",
+      "value"
+    ],
+    "n_cols": 2,
+    "date_col": "date",
+    "start_sample": "22-12-2016",
+    "end_sample": "21-09-2026"
+  },
+  {
+    "path": "data/futures/sgx_cape_futures.csv",
+    "name": "sgx_cape_futures.csv",
+    "category": "futures",
+    "rows": 9559,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2024-12-27",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_cape_futures_history.csv",
+    "name": "sgx_cape_futures_history.csv",
+    "category": "futures",
+    "rows": 183569,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "18-09-2026"
+  },
+  {
+    "path": "data/futures/sgx_handysize_futures.csv",
+    "name": "sgx_handysize_futures.csv",
+    "category": "futures",
+    "rows": 11047,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2024-12-30",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_handysize_futures_history.csv",
+    "name": "sgx_handysize_futures_history.csv",
+    "category": "futures",
+    "rows": 82340,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2021-04-21",
+    "end_sample": "18-09-2026"
+  },
+  {
+    "path": "data/futures/sgx_iron_ore_fef.csv",
+    "name": "sgx_iron_ore_fef.csv",
+    "category": "futures",
+    "rows": 40,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-09-18",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_iron_ore_fef_history.csv",
+    "name": "sgx_iron_ore_fef_history.csv",
+    "category": "futures",
+    "rows": 95894,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_iron_ore_lump_lpf.csv",
+    "name": "sgx_iron_ore_lump_lpf.csv",
+    "category": "futures",
+    "rows": 16,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-09-18",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_iron_ore_lump_lpf_history.csv",
+    "name": "sgx_iron_ore_lump_lpf_history.csv",
+    "category": "futures",
+    "rows": 41636,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_iron_ore_m65f.csv",
+    "name": "sgx_iron_ore_m65f.csv",
+    "category": "futures",
+    "rows": 28,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2026-09-18",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_iron_ore_m65f_history.csv",
+    "name": "sgx_iron_ore_m65f_history.csv",
+    "category": "futures",
+    "rows": 61832,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-12-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_panamax_futures.csv",
+    "name": "sgx_panamax_futures.csv",
+    "category": "futures",
+    "rows": 11143,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2024-12-30",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_panamax_futures_history.csv",
+    "name": "sgx_panamax_futures_history.csv",
+    "category": "futures",
+    "rows": 66245,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2020-01-02",
+    "end_sample": "18-09-2026"
+  },
+  {
+    "path": "data/futures/sgx_supramax_futures.csv",
+    "name": "sgx_supramax_futures.csv",
+    "category": "futures",
+    "rows": 4591,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2024-08-09",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/futures/sgx_supramax_futures_history.csv",
+    "name": "sgx_supramax_futures_history.csv",
+    "category": "futures",
+    "rows": 188674,
+    "columns": [
+      "contract",
+      "expiry_month",
+      "expiry_year",
+      "date",
+      "price",
+      "volume",
+      "open_interest",
+      "expiry_date"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2018-01-19",
+    "end_sample": "18-09-2026"
+  },
+  {
+    "path": "data/geospatial/portwatch_ports_master.csv",
+    "name": "portwatch_ports_master.csv",
+    "category": "geospatial",
+    "rows": 2065,
+    "columns": [
+      "portid",
+      "portname",
+      "country",
+      "ISO3",
+      "continent",
+      "fullname",
+      "lat",
+      "lon",
+      "vessel_count_total",
+      "vessel_count_container"
+    ],
+    "n_cols": 23,
+    "date_col": "share_country_maritime_import",
+    "start_sample": "0.42",
+    "end_sample": "0.0"
+  },
+  {
+    "path": "data/geospatial/signal_ports_by_asset_class.csv",
+    "name": "signal_ports_by_asset_class.csv",
+    "category": "geospatial",
+    "rows": 98,
+    "columns": [
+      "asset_class",
+      "port_name",
+      "country",
+      "locode",
+      "lat",
+      "lon",
+      "role",
+      "is_exact_image_pin",
+      "pixel_x",
+      "pixel_y"
+    ],
+    "n_cols": 10,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/geospatial/ui_voyage_vectors.csv",
+    "name": "ui_voyage_vectors.csv",
+    "category": "geospatial",
+    "rows": 2657,
+    "columns": [
+      "vessel_name",
+      "imo_number",
+      "trajectory_sequence_json",
+      "current_port",
+      "current_status"
+    ],
+    "n_cols": 5,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/geospatial/vessel_voyage_tracks_master.csv",
+    "name": "vessel_voyage_tracks_master.csv",
+    "category": "geospatial",
+    "rows": 24485,
+    "columns": [
+      "imo_number",
+      "vessel_name",
+      "asset_class",
+      "port_locode",
+      "portname",
+      "arrival_date",
+      "departure_date",
+      "transit_days",
+      "distance_nm",
+      "lat"
+    ],
+    "n_cols": 12,
+    "date_col": "arrival_date",
+    "start_sample": "2025-12-01",
+    "end_sample": "2019-05-12"
+  },
+  {
+    "path": "data/geospatial/voyage_history_fixturegrounded.csv",
+    "name": "voyage_history_fixturegrounded.csv",
+    "category": "geospatial",
+    "rows": 358690,
+    "columns": [
+      "leg_sequence",
+      "vessel",
+      "imo",
+      "vessel_class",
+      "commodity",
+      "load_port",
+      "load_locode",
+      "load_portid",
+      "load_match",
+      "discharge_port"
+    ],
+    "n_cols": 15,
+    "date_col": "leg_date",
+    "start_sample": "2025-08-15",
+    "end_sample": "2025-11-19"
+  },
+  {
+    "path": "data/indices/bai_historical.csv",
+    "name": "bai_historical.csv",
+    "category": "indices",
+    "rows": 460,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "01-01-2018",
+    "end_sample": "21-09-2026"
+  },
+  {
+    "path": "data/indices/bdiy_historical.csv",
+    "name": "bdiy_historical.csv",
+    "category": "indices",
+    "rows": 10521,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "1985-01-04",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/indices/blng_historical.csv",
+    "name": "blng_historical.csv",
+    "category": "indices",
+    "rows": 121,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "13-03-2026",
+    "end_sample": "21-09-2026"
+  },
+  {
+    "path": "data/indices/blpg_fearnleys_historical.csv",
+    "name": "blpg_fearnleys_historical.csv",
+    "category": "indices",
+    "rows": 1135,
+    "columns": [
+      "date",
+      "blpg",
+      "blpg_2",
+      "blpg_3"
+    ],
+    "n_cols": 4,
+    "date_col": "date",
+    "start_sample": "2019-01-02",
+    "end_sample": "2023-07-18"
+  },
+  {
+    "path": "data/indices/blpg_historical.csv",
+    "name": "blpg_historical.csv",
+    "category": "indices",
+    "rows": 121,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "13-03-2026",
+    "end_sample": "21-09-2026"
+  },
+  {
+    "path": "data/indices/cape_historical.csv",
+    "name": "cape_historical.csv",
+    "category": "indices",
+    "rows": 4341,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "2008-10-06",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/indices/capital_link_container_clci.csv",
+    "name": "capital_link_container_clci.csv",
+    "category": "indices",
+    "rows": 5610,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_drybulk_cldbi.csv",
+    "name": "capital_link_drybulk_cldbi.csv",
+    "category": "indices",
+    "rows": 5610,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_indices_master.csv",
+    "name": "capital_link_indices_master.csv",
+    "category": "indices",
+    "rows": 5612,
+    "columns": [
+      "date",
+      "CLCI",
+      "CLDBI",
+      "CLLG",
+      "CLMFI",
+      "CLMI",
+      "CLMLP",
+      "CLTI"
+    ],
+    "n_cols": 8,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_lng_lpg_cllg.csv",
+    "name": "capital_link_lng_lpg_cllg.csv",
+    "category": "indices",
+    "rows": 5610,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_maritime_clmi.csv",
+    "name": "capital_link_maritime_clmi.csv",
+    "category": "indices",
+    "rows": 5612,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_mixed_fleet_clmfi.csv",
+    "name": "capital_link_mixed_fleet_clmfi.csv",
+    "category": "indices",
+    "rows": 5610,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_mlp_clmlp.csv",
+    "name": "capital_link_mlp_clmlp.csv",
+    "category": "indices",
+    "rows": 5525,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-05-05",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/capital_link_tanker_clti.csv",
+    "name": "capital_link_tanker_clti.csv",
+    "category": "indices",
+    "rows": 5610,
+    "columns": [
+      "date",
+      "index_name",
+      "index_code",
+      "close",
+      "open",
+      "high",
+      "low",
+      "volume",
+      "change_pct"
+    ],
+    "n_cols": 9,
+    "date_col": "date",
+    "start_sample": "2005-01-03",
+    "end_sample": "2026-09-18"
+  },
+  {
+    "path": "data/indices/cleantanker_historical.csv",
+    "name": "cleantanker_historical.csv",
+    "category": "indices",
+    "rows": 4513,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "2008-01-02",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/indices/dirtytanker_historical.csv",
+    "name": "dirtytanker_historical.csv",
+    "category": "indices",
+    "rows": 4528,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "2007-12-05",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/indices/drewry_wci_historical.csv",
+    "name": "drewry_wci_historical.csv",
+    "category": "indices",
+    "rows": 145,
+    "columns": [
+      "date",
+      "composite_index",
+      "shanghai_rotterdam",
+      "shanghai_genoa",
+      "shanghai_la",
+      "shanghai_ny",
+      "rotterdam_shanghai"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2024-01-04",
+    "end_sample": "2026-09-20"
+  },
+  {
+    "path": "data/indices/fbx_historical.csv",
+    "name": "fbx_historical.csv",
+    "category": "indices",
+    "rows": 121,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "13-03-2026",
+    "end_sample": "21-09-2026"
+  },
+  {
+    "path": "data/indices/handysize_historical.csv",
+    "name": "handysize_historical.csv",
+    "category": "indices",
+    "rows": 4319,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "2008-10-06",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/indices/panama_historical.csv",
+    "name": "panama_historical.csv",
+    "category": "indices",
+    "rows": 4341,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "2008-10-06",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/indices/sec_shipping_universe_status.csv",
+    "name": "sec_shipping_universe_status.csv",
+    "category": "indices",
+    "rows": 19,
+    "columns": [
+      "category",
+      "ticker",
+      "cik",
+      "name",
+      "latest_form",
+      "latest_filing_date"
+    ],
+    "n_cols": 6,
+    "date_col": "latest_filing_date",
+    "start_sample": "2026-05-15",
+    "end_sample": "2026-08-19"
+  },
+  {
+    "path": "data/indices/suprama_historical.csv",
+    "name": "suprama_historical.csv",
+    "category": "indices",
+    "rows": 4340,
+    "columns": [
+      "Date",
+      "Index",
+      "% Change"
+    ],
+    "n_cols": 3,
+    "date_col": "Date",
+    "start_sample": "2008-10-06",
+    "end_sample": "2026-09-21"
+  },
+  {
+    "path": "data/macro/commodities_monthly.csv",
+    "name": "commodities_monthly.csv",
+    "category": "macro",
+    "rows": 800,
+    "columns": [
+      "date",
+      "iron_ore",
+      "coal_australian",
+      "crude_brent",
+      "natgas_eu",
+      "lng_japan",
+      "fertilizer_dap",
+      "maize",
+      "wheat_srw",
+      "rice_thai"
+    ],
+    "n_cols": 18,
+    "date_col": "date",
+    "start_sample": "1960-01-01",
+    "end_sample": "2026-08-01"
+  },
+  {
+    "path": "data/reference/fearnpulse_rates.csv",
+    "name": "fearnpulse_rates.csv",
+    "category": "reference",
+    "rows": 44187,
+    "columns": [
+      "label",
+      "route",
+      "date",
+      "rate"
+    ],
+    "n_cols": 4,
+    "date_col": "date",
+    "start_sample": "2026-09-02",
+    "end_sample": "2018-01-06"
+  },
+  {
+    "path": "data/reference/fearnpulse_rates_full.csv",
+    "name": "fearnpulse_rates_full.csv",
+    "category": "reference",
+    "rows": 305098,
+    "columns": [
+      "label",
+      "rate_type",
+      "rate_subtype",
+      "route",
+      "unit",
+      "date",
+      "rate"
+    ],
+    "n_cols": 7,
+    "date_col": "date",
+    "start_sample": "2026-09-02",
+    "end_sample": "2022-06-01"
+  },
+  {
+    "path": "data/reports/bunkerindex_historical_articles.csv",
+    "name": "bunkerindex_historical_articles.csv",
+    "category": "reports",
+    "rows": 319,
+    "columns": [
+      "article_id",
+      "title",
+      "url",
+      "source"
+    ],
+    "n_cols": 4,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  },
+  {
+    "path": "data/reports/shipandbunker_market_news.csv",
+    "name": "shipandbunker_market_news.csv",
+    "category": "reports",
+    "rows": 10,
+    "columns": [
+      "published_date",
+      "title",
+      "url",
+      "summary",
+      "source"
+    ],
+    "n_cols": 5,
+    "date_col": "published_date",
+    "start_sample": "Fri, 04 Sep 2026 23:40:46 +0000",
+    "end_sample": "Fri, 04 Sep 2026 05:53:29 +0000"
+  },
+  {
+    "path": "data/supply/fleet_orderbook_and_age_profile.csv",
+    "name": "fleet_orderbook_and_age_profile.csv",
+    "category": "supply",
+    "rows": 11,
+    "columns": [
+      "vessel_segment",
+      "sector",
+      "active_vessel_count",
+      "active_dwt_million",
+      "average_age_years",
+      "age_0_to_4_years_dwt_m",
+      "age_5_to_9_years_dwt_m",
+      "age_10_to_14_years_dwt_m",
+      "age_15_to_19_years_dwt_m",
+      "age_20_plus_years_dwt_m"
+    ],
+    "n_cols": 22,
+    "date_col": null,
+    "start_sample": null,
+    "end_sample": null
+  }
+]
