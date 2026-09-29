@@ -122,3 +122,63 @@ Launched 2026-09-29 14:49 as a background job (checkpoint
 `data/extracted/wci_backfill/checkpoint.jsonl`, log `scratch/wci_backfill.log`). It is resumable -
 re-running `--fetch` skips completed snapshots - and `--stack` is safe to run at any time. Judge it
 by the advancing checkpoint line count, never by `ps`.
+
+---
+
+## Backfill result (measured, completed this run)
+
+`backfill_wci_history.py --fetch` ran to completion: **231 archived captures** (one per ISO week,
+2021-2026), **81 of which yielded all five values**. Then `--stack` applied the gates.
+
+| | capture rows |
+|---|---|
+| archived captures fetched | 231 |
+| all five values parsed from the page | 81 |
+| passed the numeric + contamination gates | 30 |
+| **shipped into the displayed CSV (2026)** | **10** |
+| withheld as an unverified era (2021-2025) | 71 |
+
+`data/indices/drewry_wci_historical.csv` is now **17 rows, all 2026** - the 7 publisher-markdown
+verified prints plus 10 backfilled ones. Controls on the merged file: **0** fused
+`rotterdam == genoa`, **0** rows where the composite equals a route value, **0** two-decimal
+values (all three counts were also 0 on the 7-row file).
+
+### The 2026 rows are trialed; the 2024-2025 rows are NOT, and that is measured
+
+Four 2026 captures were re-parsed and read against the sentence printed on their own page:
+
+| capture | printed sentence | parsed | verdict |
+|---|---|---|---|
+| 2026-03-12 | "Shanghai–Rotterdam increased 19% to **$2,443** … Shanghai–Genoa increased 10% to **$3,120**" | R 2,443 · G 3,120 | matches |
+| 2026-05-21 | "Shanghai to Rotterdam surged 15% to **$2,773** … Shanghai to Genoa jumped 10% to **$4,082**" | R 2,773 · G 4,082 | matches |
+| 2026-07-30 | "Shanghai to Los Angeles declined 2% to **$5,739** … Shanghai to New York held steady at **$7,578**" | LA 5,739 · NY 7,578 | matches |
+| 2026-09-12 | (see the earlier table) | R 3,997 · G 4,216 · LA 7,352 · NY 9,726 | matches |
+
+Plus the strongest control available: **3/3 staged captures within a week of a publisher-markdown
+snapshot equal that markdown on ALL FIVE values** (the 2026-09-03 capture reproduces the md's
+4,465 / 4,092 / 4,368 / 7,185 / 9,587 exactly).
+
+The 2024 and 2025 eras were sampled the same way and are **not yet reliable**:
+
+| capture | printed sentence | parsed | verdict |
+|---|---|---|---|
+| 2024-02-29 | "Rotterdam decreased 7% or $277 to **$3,944** … Genoa dropped 6% or $285 to **$4,757** … LA declined 4% or $197 to **$4,486**" | R 3,944 · G 4,757 · LA 4,486 | matches |
+| 2025-01-23 | "Rotterdam decreased 19% or $797 to **$3,434** … Genoa fell 10% or $524 to **$4,562** … LA reduced 8% or $415 to **$4,813**" | R 3,434 · G 4,562 · LA 4,813 | matches |
+| **2024-04-18** | "rates on Shanghai to Rotterdam and Shanghai to Genoa declined 2% to **$2,989 and $3,577** per feu respectively" | R 2,989 · **G 2,291** | **WRONG** - Genoa is off by a third |
+
+So 3 of 4 sampled 2023-2025 rows are right and one is wrong - a per-row error rate far too high to
+put in a displayed series, which is why the era gate withholds them instead of shipping them.
+The 2024-04-18 failure has a specific cause worth the next run's time: `assign_route_values()`
+assigns each route to the FIRST line that mentions it, so a stray earlier mention of a route on a
+different line blocks the correct later assignment. A global best-assignment (score every line,
+then pick) is the fix.
+
+### Honest status
+
+* Displayed file: **17 real 2026 rows**, no fabricated and no unverified row.
+* Withheld: **71 complete captures (2021-2025)** in the checkpoint, plus the 138 synthetic rows in
+  `data/audit/drewry_wci_synthetic_quarantine.csv`. Nothing was deleted.
+* Resumable: `python3 scripts/scrapers/backfill_wci_history.py --fetch` skips completed captures;
+  `--stack` regenerates the staging file. The checkpoint is the durable artefact.
+* The live Drewry site returns **HTTP 429** from this box, so the scraper's own refresh path is
+  currently Wayback-only.

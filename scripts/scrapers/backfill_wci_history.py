@@ -130,6 +130,7 @@ def do_fetch(sleep_s=1.0):
 
 def do_stack():
     rows = {}
+    withheld = 0
     with io.open(CKPT, encoding='utf-8') as fh:
         for line in fh:
             line = line.strip()
@@ -156,8 +157,26 @@ def do_stack():
             comp = rec['values'].get('composite_index')
             if not comp or not (0.35 * min(core) <= comp <= 2.5 * max(core)):
                 continue
+            # (3) contamination tells measured on the staged set: a value with two
+            # decimals is a methodology number, not a printed level, and a route
+            # value equal to the composite means the parser grabbed the headline.
+            # Both are 0 on the 7 known-real rows and 0 on the 138 synthetic ones.
+            raws = [rec['values'].get(k) for k in KEYS] + [rec['values'].get('rotterdam_shanghai')]
+            if any((str(x).rstrip('0').rstrip('.').split('.')[-1] != '0' and '.' in str(x)
+                    and len(str(x).split('.')[1]) > 1) for x in raws if x is not None):
+                continue
+            if any(abs(comp - c) < 0.01 for c in core):
+                continue
+            # (4) ERA GATE: 2023-2025 rows still mis-assign a route on some 2024
+            # prose shapes (2024-04-18 gives Genoa 2291 where the page prints
+            # 3577), so they are counted but WITHHELD from the displayed file
+            # until that shape is fixed. 2026 rows are md-verified 3/3.
+            rec['_ship'] = rec['page_date'] >= '2026-01-01'
             v = rec['values']
             d = rec['page_date']
+            if not rec.get('_ship'):
+                withheld += 1
+                continue
             if d not in rows or rec['ts'] < rows[d]['source_snapshot']:
                 rows[d] = {'date': d}
                 rows[d].update({k: v.get(k) for k in KEYS + ('rotterdam_shanghai',)})
@@ -168,7 +187,8 @@ def do_stack():
         w.writeheader()
         for d in sorted(rows):
             w.writerow(rows[d])
-    print('[OK] staged %d real weekly prints -> %s' % (len(rows), STAGE))
+    print('[OK] staged %d SHIPPABLE real prints -> %s (%d withheld as unverified era)'
+          % (len(rows), STAGE, withheld))
 
 
 if __name__ == '__main__':
