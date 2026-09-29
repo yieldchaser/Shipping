@@ -141,6 +141,21 @@ def do_stack():
                 continue
             if not rec.get('complete') or not rec.get('page_date'):
                 continue
+            # GATES. (1) era: prose shapes before 2023 were NOT trialed - the
+            # 2021 captures parse to garbage (a route value of 78) and are
+            # withheld rather than guessed. (2) numeric: the four Shanghai
+            # routes are one trade family, so their spread is bounded, and the
+            # composite is a weighted average of them.
+            if rec['page_date'] < '2023-01-01':
+                continue
+            core = [rec['values'].get(k) for k in KEYS[1:]]
+            if any((c is None or c <= 0) for c in core):
+                continue
+            if max(core) / min(core) > 5.0:
+                continue
+            comp = rec['values'].get('composite_index')
+            if not comp or not (0.35 * min(core) <= comp <= 2.5 * max(core)):
+                continue
             v = rec['values']
             d = rec['page_date']
             if d not in rows or rec['ts'] < rows[d]['source_snapshot']:
