@@ -71,7 +71,7 @@ jobs:
         run: |
           # Internal planning and research notes are not part of the site.
           rm -rf docs/megaprompts docs/research docs/*.md docs/*.yaml docs/*.ipynb docs/*.docx
-          rm -rf reports scratch knowledge/docs knowledge/trees knowledge/manifests .agents .claude .code-review-graph .codex .cursor .gemini .kiro .qoder .vscode
+          rm -rf corpus data/extracted reports scratch knowledge/docs knowledge/trees knowledge/manifests .agents .claude .code-review-graph .codex .cursor .gemini .kiro .qoder .vscode
           # knowledge/derived is ~135 MB; the frontend only needs the compact
           # breakwave_signals.json (62 KB) from it. Deleting the heavy files but
           # keeping that one lets the Signals tab use its fast relative-path load
