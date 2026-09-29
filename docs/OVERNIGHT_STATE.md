@@ -1,5 +1,30 @@
 # OVERNIGHT STATE - read this FIRST, then resume
 
+**THIS RUN (2026-09-29 11:4x): bancosta freight_rates SECOND residue CLOSED - 125 non-unit rows -> 0.**
+The residue the last run measured as "125 rows / 52 docs whose `unit` is not a unit" split into three
+classes, all in branch 11: 68 leaked sub-header rows (`AFRAMAX | Unit | 3-Jul | ...` published as data),
+21 empty rows, and 33 SHIFTED rows. Root cause = a FIXED column index in a table that redesigns across
+years: 2021-2022 publish a 7-col `| Category | Name | Unit | <d> | <d> | W-o-W | Y-o-Y |` grid and the
+`DELAYS AT TURKISH STRAITS` block an 8-col one (`| Northbound | | days | 2.0 | 2.0 | +0.0% | +100.0% |`),
+so the Name landed in `unit`, the unit in `rate_current`, and W-o-W/Y-o-Y were DROPPED. FIX = content
+anchor: locate the UNIT column by token (`FREIGHT_UNIT_TOKENS`), a row with no unit token is a
+header/banner/empty row; join `<code>`+`<name>` hyphenating a leading `TCE` (the page prints `TC1-TCE`).
+Rebuilt from the CACHED markdown - **no API spend**. MEASURED: freight_rates 20,249 -> **20,321** rows;
+non-unit `unit` rows 125 -> **0**; leaked headers 68 -> 0; empty 21 -> 0; distinct units 44 -> **6**.
+CONTROLS: (1) a cache-only rebuild reproduces all 10 series CSVs byte-exact BEFORE the patch;
+(2) AFTER, **9 of 10 byte-identical** - only freight_rates differs; (3) **all 196 added rows verified
+verbatim** - current+previous+wow each appear in the publisher's own PDF text layer or the LlamaParse
+read (196/196, 0 misses); (4) the 124 removed rows = 62 headers + 35 shifted (re-aligned) + 21 empty +
+6 dupes, **0 real route codes lost**, no doc lost a real route; (5) ground truth read from the rendered
+page text of 2021_W46 page 6 - all 27 CLEAN_TANKER rows now match exactly. Evidence
+**`docs/bancosta_freight_rates_residue2_verdict.md`**.
+NEXT TARGET (measured, NOT fixed): bancosta target #1, the same fixed-index root cause in branches 7/8 -
+chart tables published as container indices: `freightos_index` 502 of 2,271 rows / 145 docs and
+`vhss_contex` 1,713 of 3,427 rows / 218 docs have a `unit` cell that is neither a unit token nor a
+period label. NOTE: this run could NOT use vision (no image tool in the cron session) - substituted the
+same-document text reconciliation against BOTH the PDF text layer and the LlamaParse markdown.
+HELLENIC is owned by a separate live session - do not collide.
+
 **THIS RUN (2026-09-29 02:3x): bancosta_freight_rates DRY_BULK residue CLOSED - 80 rows routed, 0 left.**
 The 80 misrouted rows re-measured EXACTLY as briefed (FX 8/2, chart 25/5, commodity-with-unit 13/2,
 container TC 24/2, banners 10/3). Root cause = branch 11 gates on the HEADER STRING alone and sectors
