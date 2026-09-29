@@ -123,46 +123,86 @@ def extract_assessments(html_text):
         if val:
             values["composite_index"] = val
 
-    # Route values from rendered tables first (label cell next to $ cell)
+    # Route values: a route label's value is the '$N' NEAREST that label.
+    # A single sentence can name TWO routes ("...Shanghai to Genoa fell 3% to
+    # $4,216 ... while they decreased 2% to $3,997 ... from Shanghai to
+    # Rotterdam"), so taking the FIRST '$' on the line hands the second route
+    # the first route's value. Measured 2026-09-29 against the publisher's own
+    # page: 7 of the 8 newest rows in data/indices/drewry_wci_historical.csv
+    # were corrupted exactly that way (shanghai_rotterdam == shanghai_genoa,
+    # shanghai_ny == shanghai_la). Assign greedily by label->value distance so
+    # one number can be claimed by at most one route.
+    value_rx = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)")
+    max_dist = 120
+
+    def assign_route_values(text, pairs):
+        # pairs: [(col, label_start, label_end)] within `text`
+        cands = [(mo.start(), mo.end(), clean_number(mo.group(1)))
+                 for mo in value_rx.finditer(text)]
+        cands = [c for c in cands if c[2] is not None]
+        scored = []
+        for col, ls, le in pairs:
+            for vs, ve, val in cands:
+                if vs >= le:
+                    dist = vs - le
+                elif ve <= ls:
+                    dist = ls - ve
+                else:
+                    dist = 0
+                if dist <= max_dist:
+                    scored.append((dist, col, vs, val))
+        scored.sort(key=lambda t: (t[0], t[1], t[2]))
+        used_cols, used_vals = set(), set()
+        for dist, col, vs, val in scored:
+            if col in used_cols or vs in used_vals:
+                continue
+            used_cols.add(col)
+            used_vals.add(vs)
+            if col not in values:
+                values[col] = val
+
+    # Rendered tables first (label cell next to the value cell)
     for table in soup.find_all("table"):
         for row in table.find_all("tr"):
             cells = [c.get_text(" ", strip=True) for c in row.find_all(["td", "th"])]
             row_text = " | ".join(cells)
+            pairs = []
             for pat, col in ROUTE_PATTERNS:
                 if col in values:
                     continue
                 rm = re.search(pat, row_text, re.I)
-                if not rm:
-                    continue
-                vm = re.search(r"\$\s*([\d,]+(?:\.\d+)?)", row_text)
-                if vm:
-                    val = clean_number(vm.group(1))
-                    if val:
-                        values[col] = val
+                if rm:
+                    pairs.append((col, rm.start(), rm.end()))
+            if pairs:
+                assign_route_values(row_text, pairs)
 
-    # Free-text fallback for routes missing from tables
+    # Free-text fallback for routes the tables did not carry
     if len(values) < len(CSV_COLUMNS):
         for line in flat_text.splitlines():
             line_low = line.lower()
+            pairs = []
             for pat, col in ROUTE_PATTERNS:
                 if col in values:
                     continue
-                if re.search(pat, line_low):
-                    vm = re.search(r"\$\s*([\d,]+(?:\.\d+)?)", line)
-                    if vm:
-                        val = clean_number(vm.group(1))
-                        if val:
-                            values[col] = val
+                rm = re.search(pat, line_low)
+                if rm:
+                    pairs.append((col, rm.start(), rm.end()))
+            if pairs:
+                assign_route_values(line, pairs)
 
     # As-of date on the page
     page_date = None
     dm = re.search(
+        r"assessment\s+for[^0-9]{0,40}?(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4})",
+        flat_text,
+        re.I,
+    ) or re.search(
         r"(?:as\s*of|published|assessment\s*date|dated)[:\s]*([A-Za-z]+ \d{1,2},? \d{4})",
         flat_text,
         re.I,
     ) or re.search(r"\b(\d{1,2}\s+[A-Za-z]+\s+\d{4})\b", flat_text)
     if dm:
-        for fmt in ("%B %d, %Y", "%B %d %Y", "%d %B %Y"):
+        for fmt in ("%B %d, %Y", "%B %d %Y", "%d %B %Y", "%d %b %Y"):
             try:
                 page_date = datetime.strptime(dm.group(1).replace(",", ""), fmt.replace(",", "")).strftime("%Y-%m-%d")
                 break
