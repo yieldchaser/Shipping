@@ -137,7 +137,7 @@ def main():
     # Step 3: Git commit and push
     logging.info("Step 3: Staging updated data and pushing to GitHub repository...")
     try:
-        subprocess.run(["git", "add", "data/views/signal/", "data/geospatial/", "data/derived/", "data/reference/"], cwd=str(REPO_ROOT), check=True)
+        subprocess.run(["git", "add", "data/views/signal/", "data/geospatial/", "data/derived/gas_port_arrivals.json", "data/derived/port_stress_summary.json", "data/reference/"], cwd=str(REPO_ROOT), check=True)
         status_res = subprocess.run(["git", "status", "--porcelain"], cwd=str(REPO_ROOT), capture_output=True, text=True)
         if not status_res.stdout.strip():
             logging.info("No data changes detected to commit.")
