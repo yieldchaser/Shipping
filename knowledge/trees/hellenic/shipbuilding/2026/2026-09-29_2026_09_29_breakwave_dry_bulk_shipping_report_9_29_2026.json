@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 9.29.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 9.29.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 9.29.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWhat If: The Bear Case for Dry Bulk - As we enter the seasonally strong fourth quarter, dry bulk shipping spot rates\nSource: Breakwave Advisors\n\nLinked asset: 2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### September 29, 2026\n\n- **What If: The Bear Case for Dry Bulk -** As we enter the seasonally strong fourth quarter, dry bulk **shipping spot rates** remain exceptionally **robust**, with full-year averages on track to reach multi-year highs. Market consensus remains firmly bullish, with **little indication of an imminent correction**, an **outlook we share** given the absence of near-term catalysts to disrupt current rate stability. Nevertheless, several potential **developments** could trigger a **downward** **adjustment** that would catch the broader industry off guard.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1647,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-29-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026",
+      "parent_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "What If: The Bear Case for Dry Bulk - As we enter the seasonally strong fourth quarter, dry bulk shipping spot rates\nSource: Breakwave Advisors",
+      "keywords": [
+        "bear",
+        "case",
+        "enter",
+        "fourth",
+        "quarter",
+        "seasonally",
+        "source",
+        "strong"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__s02_linked_asset_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026_breakwavedryseptember292026report_e20b41a2f1b2_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026",
+      "parent_id": "hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__root",
+      "title": "Linked asset: 2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### September 29, 2026\n\n- **What If: The Bear Case for Dry Bulk -** As we enter the seasonally strong fourth quarter, dry bulk **shipping spot rates** remain exceptionally **robust**, with full-year averages on track to reach multi-year highs. Market consensus remains firmly bullish, with **little indication of an imminent correction**, an **outlook we share** given the absence of near-term catalysts to disrupt current rate stability.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1565,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
