@@ -81,3 +81,67 @@ lane pair was still swapped, because the failure needed the publisher's *hyphena
 which appears on only a few 2021 pages. **Recall controls cannot see a swap**: both numbers are on
 the page, both are plausible, and the row is well formed. Only reading the sentence against the
 parsed lanes found it - the fifth time in this project that a "clean" file was wrong inside.
+
+---
+
+# SAME RUN, CONTINUED: the fused-lane defect FIXED (pv9)
+
+The two prints this run had to withhold by the `fused` gate (2021-07-01) and the two the PREVIOUS
+run withheld by it (2023-02-23, 2023-09-21) were the same sentence shape. All four are now fixed and
+shipped: **104 -> 107 rows**, and the `fused` gate has nothing left to reject (census `fused: 3 -> 0`).
+
+## TWO distinct causes, both measured on the pages
+
+**(1) A LEADING PROSE WORD WAS ABSORBED INTO THE LANE LABEL.** 2023-02-23: *"**On** Shanghai - New
+York and Shanghai - Rotterdam, rates fell by 4% to $2,881 and $1,633 per feu, respectively."* The
+label regex's optional second word took group1 as `"On Shanghai"`, and `is_route_mention` then threw
+the whole label away (`on` is not a port name) - so the sentence counted **ONE** lane instead of two
+and the `respectively` rule could never fire. Fix: trim leading non-port words off the match and keep
+the rest.
+
+**(2) THE POOLS COULD NOT SEPARATE A DOLLAR CHANGE FROM A DOLLAR LEVEL.** 2021-07-01: *"rates on
+Shanghai-Los Angeles and Shanghai - New York grew **$617 and $539** to **$9,165 and $11,719** per feu,
+respectively"*; 2023-09-21: *"...dropped 10% or **$167 and $127** to **$1,531 and $1,172**..."*. With
+k=2 lanes and 4 dollar values, none of the three value pools held exactly k members (the `or` filter
+strips only the FIRST change), so the row fell through to proximity and the SECOND lane was handed
+the FIRST lane's level - which is exactly what the `fused` gate then caught. Fix: **(d) TO-ANCHORED
+SUFFIX** - the LEVELS are the consecutive run that STARTS at the value the publisher introduced with
+`to|at|reach`. This rule is a LAST RESORT (only reached when the three existing pools all fail), so
+every case that parsed right before still takes the same branch.
+
+## Control on pv9 (all 230 cached pages re-parsed in process, nothing written)
+
+**225/230 snapshots unchanged.** The 5 that moved, each read against its own page - **all 5 are
+improvements**, 3 of them prints that were previously gated out entirely:
+
+| date | cell | before | after | page prints |
+|---|---|---|---|---|
+| 2021-07-01 | `shanghai_ny` | 9165 | **11719** | *"...grew $617 and $539 to $9,165 and $11,719"* |
+| 2021-07-22 | `shanghai_genoa` | 13066 | **12773** | *"Shanghai to Rotterdam and Shanghai to Genoa increased 1% or $112 and $88 to stand at $13,066 and $12,773"* |
+| 2023-02-23 | `shanghai_rotterdam` | 2881 | **1633** | *"...rates fell by 4% to $2,881 and $1,633 per feu, respectively"* |
+| 2023-09-21 | `shanghai_rotterdam` | 1531 | **1172** | *"...dropped 10% or $167 and $127 to $1,531 and $1,172"* |
+| 2024-02-15 | `shanghai_ny` / `rotterdam_shanghai` | 709 / 4288 | **6170 / 958** | *"...declined by 2% or $17 and $98 to $709 and $6,170 per feu"* + *"...decreased by 3% or $138 and $32 to $4,288 and $958"* |
+
+Two of those five pages still do not ship, and both are correctly WITHHELD as incomplete (not as
+wrong): **2021-07-22** prints New York as *"remain stable at previous weeks level"* with no number,
+**2024-02-15** prints Shanghai-Los Angeles as *"remained stable"*. Neither is a missing value we can
+recover - the publisher did not print one.
+
+## Final controls on the shipped 107 rows
+
+| control | measured |
+|---|---|
+| rows | **104 -> 107** (0 lost, 0 of the 104 previously displayed rows changed) |
+| every displayed value verbatim on **its own** page | **558/558 = 100.00%** |
+| change arithmetic (independent of the parser) | pre-2023 printed **$ 45/45**, **% 43/45**; 2023+ **$ 56/56**, **% 49/56** |
+| parsed composite == the page's own headline level | **30/30** |
+| every new date a Thursday carrying the page's own cover line | **25/25** |
+| fused / `composite == a route` / repeated value in a row | **0 / 0 / 0** |
+| gate census after pv9 | `incomplete 107, numeric 6, fused 0, withheld 0, pre_era 0` |
+
+**STILL OPEN (named, measured):** `to_rx` matches `to|at|reach` but NOT `reached`/`reaches`
+(*"increased 2% or $220 and **reached** $9,953"* on 2021-07-22 returns the $220 change). Fixing it
+would not ship that row (New York is not printed that week), and it needs its own corpus control.
+Also: the 2021-05-20 numeric-gate reject (**$889/$350 changes** returned instead of the levels, which
+the page introduces with *"new high of"* / *"an increase of"*) and the stale derived metadata
+(`data/provenance/manifest.json`, `data/derived/held_data_catalog.json` still say `row_count 145`).

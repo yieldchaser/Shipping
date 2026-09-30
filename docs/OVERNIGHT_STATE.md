@@ -1,3 +1,39 @@
+**SAME RUN, CONTINUED (pv9) - THE OPEN FUSED-LANE SHAPE IS FIXED, not just withheld: displayed 104 -> 107 rows, 558/558 page-reconciled, `fused` census 3 -> 0.**
+
+The item this run left as "NEXT (precise)" is done. The 2021-07-01 print AND the two the previous run
+had gated out (2023-02-23, 2023-09-21) were ONE shape with TWO distinct causes, both measured on pages:
+(1) **a leading prose word absorbed into the lane label** - *"**On** Shanghai - New York and Shanghai -
+Rotterdam, rates fell by 4% to ..."* matched group1 as "On Shanghai", which `is_route_mention` then threw
+away, so the sentence counted ONE lane instead of two and `respectively` could never fire; fix = trim
+leading non-port words off the match. (2) **the pools could not separate a dollar CHANGE from a dollar
+LEVEL** - *"grew $617 and $539 to $9,165 and $11,719"*, *"dropped 10% or $167 and $127 to $1,531 and
+$1,172"*: with k=2 and 4 dollar values none of the three pools held exactly k (the `or` filter strips
+only the FIRST change), so the row fell through to proximity and lane 2 got lane 1's level - the very
+thing the `fused` gate was catching; fix = **(d) TO-ANCHORED SUFFIX** (the levels are the run starting
+at the value introduced by to|at|reach), used ONLY as a last resort after the three existing pools.
+**CONTROL:** all 230 cached pages re-parsed in process (nothing written): **225/230 unchanged**; the 5
+that moved were each read against their pages and **all 5 are improvements** - 2021-07-01 NY 9165->11719,
+2021-07-22 G 13066->12773, 2023-02-23 R 2881->1633, 2023-09-21 R 1531->1172, 2024-02-15 NY 709->6170 and
+RS 4288->958. Two of those pages still do not ship and BOTH are correctly withheld as **incomplete, not
+wrong** (2021-07-22 prints New York as "remain stable at previous weeks level"; 2024-02-15 prints
+Shanghai-Los Angeles as "remained stable") - the publisher printed no number.
+**FINAL CONTROLS on the 107 rows:** 0 of the 104 previously displayed rows changed; **558/558 = 100.00%**
+of displayed values verbatim on their own page; change arithmetic pre-2023 $ **45/45** and % **43/45**,
+2023+ $ **56/56** and % **49/56**; composite == page headline level **30/30**; new dates are Thursdays
+carrying the cover line **25/25**; 0 fused / 0 `composite == a route` / 0 repeated value in a row.
+Evidence `docs/drewry_wci_era2021_verdict.md` (both sections).
+**NEXT (precise, in order):** (1) `to_rx` matches `to|at|reach` but NOT **reached/reaches** -
+*"increased 2% or $220 and reached $9,953"* (2021-07-22) returns the CHANGE; needs its own corpus
+control (it would not ship that row - New York is unprinted that week). (2) 2021-05-20 numeric-gate
+reject: the page introduces the levels with *"new high of"* / *"an increase of"*, so the parser returns
+the **$889/$350 changes** - do NOT add `of` blindly, it introduces real changes too. (3) the stale
+derived metadata (`data/provenance/manifest.json` and `data/derived/held_data_catalog.json` still say
+`row_count 145` for `data/indices/drewry_wci_historical.csv`) - regenerate, never hand-edit.
+**LESSON (repeat of the project's most expensive one):** the previous run's fused-gate reject, the
+`fused` pair, and two of these five wrong cells were all "well-formed and plausible" - only reading
+the sentence against the parsed lanes found them. A recall check cannot see a swap and a gate cannot
+see a value that is merely the CHANGE instead of the LEVEL.
+
 **THIS RUN (2026-09-30 09:0x) - THE 2021-2022 ERA IS SHIPPED: WCI displayed series 80 -> 104 rows, 542/542 values page-reconciled. The "NEXT (precise)" item of the previous run is DONE.**
 
 The hard `page_date < '2023-01-01'` cut was moved to `TRIALED_FROM = '2021-01-01'` - and only after
