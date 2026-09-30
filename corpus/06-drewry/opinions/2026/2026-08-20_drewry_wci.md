@@ -1,21 +1,21 @@
 ---
-title: "Drewry World Container Index Snapshot - 2026-08-24"
-date: "2026-08-24"
+title: "Drewry World Container Index Snapshot - 2026-08-20"
+date: "2026-08-20"
 source: "drewry"
 category: "containers"
 source_url: "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry"
 ---
 
-# Drewry World Container Index Snapshot - 2026-08-24
+# Drewry World Container Index Snapshot - 2026-08-20
 
 ## Assessed Values ($/40ft)
 
 | Metric | Value |
 | --- | --- |
 | composite_index | 4526.0 |
-| shanghai_rotterdam | 4955.0 |
+| shanghai_rotterdam | 4401.0 |
 | shanghai_genoa | 4955.0 |
-| shanghai_la |  |
+| shanghai_la | 6802.0 |
 | shanghai_ny | 9507.0 |
 | rotterdam_shanghai |  |
 
