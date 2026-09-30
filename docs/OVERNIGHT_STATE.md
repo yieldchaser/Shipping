@@ -1,3 +1,46 @@
+**THIS RUN (2026-09-30 12:3x) - FOUND AND REPAIRED A SOURCE THAT HAD BEEN COLLECTING NOTHING FOR WEEKS WHILE ITS PIPELINE REPORTED SUCCESS. Found by auditing collection liveness (nothing named it); main was NOT touched.**
+
+**THE FINDING: poten's live collection is dead on the Actions runner, and it is invisible from this box.**
+`scripts/scrapers/fetch_poten_direct.py` line 488 puts a backslash inside an f-string expression
+(`title.replace('\"', '')`), which is legal only from Python 3.12 (PEP 701). The runner is **3.11**,
+so the module is a SyntaxError before it runs - while the local box (3.14) executes the same file
+fine. Every poten run since 2026-09-11 died that way; every run since 2026-08-29 before it ended
+`Total in catalog: 0`. **All of them concluded `success`**, because the step is
+`python scripts/scrapers/fetch_poten_direct.py || true`. Reproduced read-only with
+`Python311/python.exe -m py_compile`. MEASURED EFFECT: `corpus/04-poten` and `data/extracted/md/poten`
+both end at **2026-09-18** while the publisher's own feed lists **2026-09-26** ("Do We Need To Plan For
+A Diesel Export Ban?") - one weekly issue missing from corpus, md tier and RAG chunks.
+**FIXED (branch only):** quote-stripping hoisted out of the f-string; controls: `build_markdown()`
+HEAD-vs-fixed **5/5 byte-identical** (a first edit silently dropped the `Poten Tanker Opinion: `
+prefix - the control caught it, restored, re-verified). Repo-wide 3.11 sweep: **444 compiled / 3 failed
+-> 446 compiled / 0 failed** (same defect in `fetch_poten_archive_backfill.py:265`; a nested-quote
+f-string in `current_book_scenario_ui.py:39`). **`origin/main` STILL CARRIES THE BUG** (verified after
+`git fetch`), so Friday 2026-10-02 17:00 UTC will crash identically - merging is the user's call.
+**NOT fixed by this:** the missing issue itself - poten.com returns **HTTP 403** to this box on both
+listing URLs (the repo's own fetcher reproduces it), so only the runner's egress can fetch it; and the
+step's `|| true` should be replaced by an assertion that the catalog is non-empty.
+Evidence **`docs/poten_collection_outage_verdict.md`**.
+
+**ALSO THIS RUN: `docs/source_freshness_audit.md` - every source's collection freshness measured from
+FILENAMES (never mtime), with the population stated.** 16 of 17 broker sources are current and their
+extraction lag is **0 days**; the archive publishers are measured dead (allied 961 d, golden_destiny
+674 d, gibson 1,097 d, other 1,087 d, anchor 1,374 d) so BACKFILL_ONLY stands on measurement, not on a
+note. Three `DUE` readings were FALSE ALARMS and one was a bug in my own script: clarksons looked 12 days
+stale because the parser did not strip the ordinal in `25th-Sept-2026` (**the fourth confidently wrong
+detector in this project**); agora's missing W39 **404s on HSN** (site search's newest is week 38);
+seabrokers' own site lists nothing newer than `markedsrapport-juli-2026`. `DUE` is a pointer to look, not
+a finding.
+**STALE POINTER RETIRED (do not act on it):** the 11:4x entry's "trial a median-preferring pick" for ism.
+Measured (`scratch/ism_edge_baseline.py`, `scratch/ism_edge_attrib.py`): the edge fraction is 71.3%
+(handy, baseline 44.7%) and 65.6% (coaster, baseline 52.4%) - real, but it is the documented
+nearest-issue/first-print policy (`pick_observation`) plus the trivial n=2 case (**100% of "own week" rows
+are edges by construction**), not a defect in choosing among restatements. All 29,948 values are verbatim
+from the named issue; re-picking them optimises the very gate you would measure. Filter on `value_sd`
+downstream instead.
+**NEXT:** (1) the poten issue (runner-side only; a 403 diagnosis on the runner and an assertion instead of
+`|| true`); (2) a merge of the branch fix to main when the user allows it; (3) the drewry WCI ledger items
+unchanged (107 snapshots incomplete + 4 numeric-gated + 1 fetch failure, all pre-2023).
+
 **THIS RUN (2026-09-30 11:4x) - the last open ledger item (the ism agreement tail) is CLOSED as MEASURED, and it is the PUBLISHER'S AXIS, not our parse. Plus a latent breakage fixed that would have silently emptied both ism series.**
 
 The previous run's instruction was "name the failing REPORTS and read them". Done. Two documents were read against
