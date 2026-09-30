@@ -61,7 +61,15 @@ jobs:
           else
             python scripts/scrapers/fetch_drewry_wci.py || true
           fi
-          python scripts/scrapers/fetch_poten_direct.py || true
+          # Poten's step is deliberately NOT `|| true`: the crawl's exit code
+          # and its whole log are captured, and a final step asserts the
+          # listing parsed and the catalog is non-empty. A silent zero already
+          # cost this project a multi-week collection outage (2026-08-29..
+          # 2026-09-30) while every run concluded `success`.
+          poten_rc=0
+          python scripts/scrapers/fetch_poten_direct.py > poten_run.log 2>&1 || poten_rc=$?
+          echo "poten_rc=$poten_rc" >> "$GITHUB_ENV"
+          cat poten_run.log
           python scripts/scrapers/fetch_drewry_canva_indices.py || true
           python scripts/scrapers/fetch_drewry_ais_weekly.py || true
           python scripts/scrapers/fetch_drewry_opinions_incremental.py || true
@@ -82,3 +90,28 @@ jobs:
             sleep 10
           done
           exit 1
+
+      # A zero here must never pass silently again. Three measured failure
+      # modes looked identical from the outside: an HTTP 403 from poten.com,
+      # an empty listing parse, and a Python-3.11 SyntaxError in the script
+      # itself (2026-09-11..2026-09-30 - the module raised before it ran on
+      # the runner while this box's 3.14 executed the same file fine).
+      - name: Assert the Poten collection actually ran
+        if: always()
+        run: |
+          if [ ! -f poten_run.log ]; then
+            echo "poten_run.log absent - the ingestion step did not run; nothing to assert."
+            exit 0
+          fi
+          echo "poten exit code: ${poten_rc:-unknown}"
+          if ! grep -qE '^Found [1-9][0-9]* articles on page 1' poten_run.log; then
+            echo "::error::poten: the Tanker Opinions listing yielded NO articles this run - the crawler never reached or never parsed the listing, so corpus/04-poten is not being extended. Last lines of the crawl log:"
+            tail -20 poten_run.log
+            exit 1
+          fi
+          if grep -q 'Total in catalog: 0' poten_run.log; then
+            echo "::error::poten: the crawl finished with an EMPTY catalog."
+            tail -20 poten_run.log
+            exit 1
+          fi
+          echo "poten: the listing parsed and the catalog is non-empty."
