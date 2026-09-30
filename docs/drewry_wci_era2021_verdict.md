@@ -164,3 +164,61 @@ printed as *"remain stable at previous weeks level"* with no number.
 verbatim on their own page; 0 of the 80 rows that were displayed at the start of this run changed;
 numeric-gate rejects 6 -> 5; `fused` 3 -> 0.** Gate census: `incomplete 107, numeric 5, fused 0,
 withheld 0, pre_era 0`.
+
+
+# SAME RUN, pv11: the LEVEL PHRASE introducer - and a latent backspace bug found on the way
+
+**Displayed 108 -> 109 rows; 569/569 = 100.00% of displayed values verbatim on their own page.**
+
+## What was wrong (read off the page, not off a metric)
+
+2021-05-20 was the last named numeric-gate reject. Its page prints the levels with a PHRASE, not
+with the bare `to|at|reach` the parser knew:
+
+* *"Freight rates from Shanghai to Rotterdam soared 10% or $889 and **reached a new high of**
+  $9,865 for a 40ft container."* -> the parser returned the **CHANGE 889** for a level of **9,865**.
+* *"Similarly, Shanghai to Los Angeles rates surged 7% - an increase of $350 **to touch** $5,605 per
+  40ft box."* -> the parser returned the **CHANGE 350** for a level of **5,605**.
+
+Both wrong numbers ARE on the page, so every recall control passed - the same
+change-vs-level family as pv10 (and the same reason both are dangerous: `889` and `350` are
+well-formed values in the plausible direction). The other three lanes and the composite were
+already right: Genoa 9,477 / New York 7,366 / Rotterdam-Shanghai 1,546 / composite 6,135.44.
+
+## The fix (2 changes, measured SEPARATELY)
+
+1. `to_rx` alternation + `to\s+touch(es|ed)?` and `(a\s+)?new\s+(high|low)\s+of`.
+2. `INTRO_WIN = 32` replaces the hardcoded 8-char look-back: *"a new high of "* is 13 chars, so an
+   8-char window could not hold it. The introducer is anchored at the window END, so a `to` earlier
+   in the sentence still cannot leak in - widening admits multi-word introducers only.
+3. **A latent bug found while checking the file for the transport trap: `COMPOSITE_AVG_RX` carried
+   two literal 0x08 BACKSPACE bytes where `\b` was intended, so its `\bytd\b` alternative NEVER
+   matched.** The file now contains 0 backspace bytes and `\bytd\b` is live.
+
+## Control (`scratch/wci/diff_vs_pv.py`, all 230 cached pages re-parsed in process, nothing written)
+
+* the backspace repair alone: **0 / 230 pages moved** (measured as stage A, before the introducer
+  change was applied) - a dead alternative that decides nothing on this corpus.
+* the phrase introducer: **exactly 1 / 230 pages moved - 2021-05-20**, `shanghai_rotterdam`
+  889 -> 9865 and `shanghai_la` 350 -> 5605, both matching its page verbatim.
+
+## Shipped controls (none of them reuses the parser)
+
+`--fetch --refresh` (offline, from the local cache - no network, no spend) then
+`--stack --era-from 2021-01-01`: stage **102 -> 103** prints, numeric-gate census **5 -> 4** rejects
+(the one that left it is 2021-05-20), contam 0, fused 0. `merge_display.py`: **0 cell corrections,
+1 row added**, md-tier (>= 2026-08-01) untouched, 2026-08-06 still skipped as the same week as the
+2026-07-30 md print. On the displayed file: 0 rows lost, **0 of the 108 previously displayed rows
+changed**, dates unique and strictly increasing, **569/569 = 100.00%** of displayed values verbatim
+on their own page (was 563/563), **0 fused pairs**, **0 composite == a route**, pre-2023 rows
+**26/26 Thursdays** and **26/26 carrying the page's own cover line**, md-tier byte-identical.
+Date range **2021-05-20 .. 2026-09-24**.
+
+## Still open (unchanged)
+
+107 snapshots incomplete + 4 numeric-gated + 1 fetch failure (pre-existing; each means the publisher
+printed no number, or the row is a genuine parse reject - named in the gate census output).
+`data/derived/held_data_catalog.json` still says `rows: 145` with the fabricated 2024-01-04 ..
+2026-09-20 span. **MEASURED this run: it is an ORPHAN - `index.html` and `methodology.html` do not
+mention it, no builder for it exists in `scripts/`, and nothing in the repo reads it.** Do not
+hand-edit it and do not re-list it as a defect; regenerate it only if a builder turns up.

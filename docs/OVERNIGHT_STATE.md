@@ -1,3 +1,26 @@
+**THIS RUN (2026-09-30 10:2x) - THE LAST NAMED NUMERIC-GATE REJECT IS SHIPPED: WCI displayed 108 -> 109 rows, 569/569 = 100.00% page-reconciled. Plus one latent parser bug found while checking.**
+
+The 2021-05-20 page introduces its levels with a PHRASE, not with the bare `to|at|reach` the parser knew:
+*"soared 10% or $889 and **reached a new high of** $9,865"* and *"an increase of $350 **to touch** $5,605"* -
+so the parser returned the **CHANGES** (889 / 350) for levels of 9,865 / 5,605. Both wrong numbers are ON the
+page, so every recall control passed: the same change-vs-level family as pv10.
+**FIX:** `to_rx` also accepts `to touch` and `a new low|high of`; the look-back window is `INTRO_WIN = 32`
+(*"a new high of "* is 13 chars, so the old 8-char window could not hold it), anchored at the window END so a
+`to` earlier in the sentence still cannot leak in. **ALSO REPAIRED: `COMPOSITE_AVG_RX` carried two literal
+0x08 BACKSPACE bytes where `\b` was intended, so its `\bytd\b` alternative never matched** (the transport
+trap this file already warned about). `PARSER_VERSION` 10 -> 11.
+**CONTROLS, measured separately on all 230 cached pages re-parsed in process, nothing written:** the backspace
+repair alone moves **0/230**; the phrase introducer moves **exactly 1/230 - 2021-05-20** (Rotterdam 889 -> 9865,
+Los Angeles 350 -> 5605, both read against the page). Shipped: stage 102 -> 103 prints, numeric-gate rejects
+**5 -> 4**, merge 0 corrections / 1 row added, md-tier untouched; displayed file 0 rows lost, **0 of the 108
+previously displayed rows changed**, dates unique/increasing, **569/569 = 100.00%** verbatim on their own page,
+0 fused, 0 composite == a route, pre-2023 **26/26 Thursdays with cover line 26/26**, md-tier byte-identical.
+Evidence `docs/drewry_wci_era2021_verdict.md` (pv11 section). Commits `2ce8d7294` (code) + `897a81e79` (data).
+**RESOLVED, do not re-list:** `data/derived/held_data_catalog.json` (still says `rows: 145`) is an **ORPHAN** -
+`index.html`/`methodology.html` do not mention it, there is no builder for it in `scripts/`, nothing reads it.
+**STILL OPEN:** 107 snapshots incomplete + 4 numeric-gated + 1 fetch failure (pre-existing, all pre-2023 - each
+means the publisher printed no number or the row is a genuine reject, named in the gate census).
+
 **SAME RUN, pv10 - the `reached` introducer: displayed 107 -> 108 rows (80 -> 108 for the run).**
 
 `to_rx` accepted `to|at|reach` but not the PAST TENSE, so a level introduced by *"and reached"* lost to
