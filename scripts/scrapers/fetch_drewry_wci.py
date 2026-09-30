@@ -470,6 +470,68 @@ def extract_assessments(html_text):
             if pairs:
                 assign_route_values(sent, pairs)
 
+    # ==============================================================
+    # pv15 CANDIDATE - additive and monotone: fills EMPTY columns only.
+    # A sentence may name the origin in its OPENING lane and then re-state
+    # the lanes with the origin ELIDED, as a "respectively" list:
+    #   2026-02-12 "Spot rates from Shanghai to major US destinations
+    #   declined slightly due to low cargo volume, with spot rates to Los
+    #   Angeles and New York falling 1% to $2,214 and $2,800 per 40ft
+    #   container, respectively."
+    # MEASURED on that page: ROUTE_PATTERNS matches NOTHING in the sentence
+    # and label_rx matches NOTHING either (its "destination" is the
+    # lowercase GROUP phrase "major US destinations", not a capitalised
+    # port pair), so the sentence never entered the lane logic at all and
+    # both printed levels were dropped. The origin is printed too - the
+    # module's own elided_rx already captures "Shanghai" from "rates from
+    # Shanghai"; it was simply never used AS an origin.
+    # ==============================================================
+    if len(values) < len(CSV_COLUMNS):
+        for sent, _off in sentences(flat_text):
+            if "respectively" not in sent.lower():
+                continue
+            if any(re.search(p, sent, re.I) for p, _c in ROUTE_PATTERNS):
+                continue                  # the normal path owns this sentence
+            origin, dest_start, dests = None, None, []
+            for em in elided_rx.finditer(sent):
+                if not is_route_mention(em.group(1)):
+                    continue
+                toks = em.group(0).split()
+                conn = toks[1].lower() if len(toks) > 1 else ""
+                if conn in ("from", "on"):
+                    if origin is None:
+                        origin = em.group(1)
+                    continue
+                if conn in ("to", "for") and not dests:
+                    dests.append(em.group(1))
+                    dest_start = em.start(1)
+                    rest = sent[em.end():]
+                    while True:
+                        cm = cont_rx.match(rest)
+                        if not cm or not is_route_mention(cm.group(1)):
+                            break
+                        dests.append(cm.group(1))
+                        rest = rest[cm.end():]
+            if not origin or not dests:
+                continue
+            cols = [lane_col(origin, d) for d in dests]
+            if any(c is None for c in cols) or any(c in values for c in cols):
+                continue
+            vals = []
+            for mo in value_rx.finditer(sent):
+                if mo.start() < (dest_start or 0):
+                    continue
+                if or_rx.search(sent[max(0, mo.start() - INTRO_WIN):mo.start()]):
+                    continue              # a CHANGE, not a level
+                n = clean_number(mo.group(1))
+                if n is not None:
+                    vals.append(n)
+            if len(vals) != len(cols):
+                continue
+            for c, val in zip(cols, vals):
+                if c not in values:
+                    values[c] = val
+
     # As-of date on the page
     page_date = None
     dm = re.search(
