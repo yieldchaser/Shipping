@@ -60,3 +60,31 @@ Also open (unchanged): the 4 numeric-gated prints, the 1 never-fetched capture
 (`20251006233302`, HTTP 404), the 2021-07-01 "k labels, 2k numbers" print, and
 `upsert_wci_rows()`'s date-only dedupe (a Thursday assertion would stop a
 dropped print from ever reappearing silently).
+
+## Display path, probed headlessly (not asserted)
+
+`python312 -m http.server 8777` + Playwright/Chromium on
+`index.html?test=1` (the app's own test bypass), then driving the app's OWN
+functions - no re-implementation:
+
+* `window.loadSignalsData()` fetches `data/indices/drewry_wci_historical.csv`
+  -> **HTTP 200**, and `DATA.drewry_wci` holds **118** rows,
+  `2021-05-20 .. 2026-09-24`;
+* the app's own parsed row for the print:
+  `{dateStr: '2026-02-12', composite: 1933, rm: 2127, gn: 2965, la: 2214, ny: 2800}`;
+* clicking the real `Cargo & Trade Flows` tab builds **32 canvases** with no
+  page errors. Screenshots: `scratch/wci/pv15d/display_probe_indices.png`.
+
+**FINDING while probing, measured and worth knowing:** nothing in `index.html`
+READS `DATA.drewry_wci` / `DATA.wciTracker` - the only mentions are the
+declaration (`wciTracker: []`), the fetch, and
+`window.renderDrewryChart = renderContainerIndexChart`, which plots **CLCI and
+FBX**, never the WCI lanes (its datasets are CLCI/FBX; the WCI canvas
+`wciChart` is only a fallback target that does not exist in the DOM). So this
+series reaches the USER through **`scripts/generate_brief.py`** section 10a (it
+reads the file's LAST row) and through `gap_matrix` / `audit_manifest_staleness`
+/ `build_provenance_manifest` - not through a chart. Adding a row is therefore
+correct and useful, but it is not pixel-visible in the current UI.
+
+No vision tool in this session: the look-substitute is the headless drive above
+plus the verbatim page reconciliation in the controls table.
