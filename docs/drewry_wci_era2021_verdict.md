@@ -1,0 +1,83 @@
+# Drewry WCI - the 2021-2022 era SHIPPED (measured 2026-09-30)
+
+`data/indices/drewry_wci_historical.csv` (fetched by `index.html`): **80 -> 104 rows**,
+**2021-06-24 .. 2026-09-24**. The hard `page_date < '2023-01-01'` cut that sat ABOVE the era gate
+was moved to `2021-01-01` (`TRIALED_FROM`) - and only after the era was trial-verified against its
+own pages, print by print. This is the "NEXT (precise)" item the previous run named.
+
+## The trial (the work that earned the cut move)
+
+28 snapshots (24 distinct print dates) pass all four gates. Every one was read **lane-by-lane
+against the sentence printed on its own cached page** (`scratch/wci/era2021_trial.py` ->
+`scratch/wci/era2021_trial.txt`). **27 of 24 dates were right; ONE print was wrong:**
+
+* **2021-06-24 - New York and Los Angeles SWAPPED.** Page: *"rates on Shanghai-New York and
+  Shanghai-Los Angeles soared 39% and 34% to $11,180 and $8,548 per feu, respectively"* -> NY 11,180,
+  LA 8,548. The parser gave LA 11,180 / NY 8,548 - two plausible numbers, handed to the wrong lanes.
+* **ROOT CAUSE (reproduced):** `label_rx` in `scripts/scrapers/fetch_drewry_wci.py` separates a lane
+  with `to` or an EN/EM DASH - **the plain hyphen was not in the class**, so `Shanghai-New York` was
+  never a label. With no labels, the ordinal/`respectively` rule could not fire and proximity gave
+  Los Angeles the first `$` after it. MEASURED: 30 hyphenated lane tokens across the 2021 pages
+  (`Shanghai-Genoa` 7, `Shanghai-Los` 6, `Rotterdam-New` 5, `Shanghai-Rotterdam` 5, ...); the
+  non-lane hyphenated forms (`East-West`, `Intra-Asia`, `Ro-Ro`, `Y-o-Y`, `Hapag-Lloyd`) are
+  rejected by `is_route_mention`'s port vocabulary, not by the separator.
+* **FIX:** the separator class now includes `-` (`PARSER_VERSION` 7 -> 8).
+
+## The control on that fix (it must not move anything else)
+
+All 230 cached snapshots re-parsed offline (`--fetch --refresh`, no network, no API spend) and
+compared pv7 vs pv8 (`scratch/wci/diff_pv7_pv8.py`): **exactly 2 snapshots moved corpus-wide - both
+captures of the same 2021-06-24 print, both the NY/LA swap - and 0 snapshots changed after 2023.**
+No completeness was gained or lost.
+
+## Controls on the shipped file
+
+| control | measured |
+|---|---|
+| rows | **80 -> 104** (0 lost, dates unique, strictly increasing) |
+| every displayed value verbatim on **its own** page | **542/542 = 100.00%** (`scratch/wci/final_verify.py`) |
+| parsed composite == the page's **own headline level** (parser not reused) | **30/30** (`scratch/wci/era2021_comp_ctl.py`) |
+| change arithmetic on consecutive weeks, pre-2023 | printed **$ 45/45**, printed **% 43/45** |
+| same control on the 2023+ rows (unchanged) | printed **$ 56/56**, printed **% 49/56** |
+| post-2023 stage, pv7 vs pv8 | **byte-identical** |
+| previously displayed rows changed | **0** (only additions) |
+| new dates are Thursdays AND carry the page's own cover line | **24/24** (`scratch/wci/ship_check.py`) |
+| fused pair (`rotterdam == genoa`), `composite == a route`, repeated value in a row | **0 / 0 / 0** |
+| md-tier authority for dates >= 2026-08-01 | 2026-09-03 / 09-10 / 09-24 untouched |
+
+## Withheld, stated not implied
+
+Of the 79 pre-2023 snapshots: **49 parse without all five core values** (the publisher printed only
+the composite or a route subset that week), **1 fails the numeric spread gate**, **1 fails the fused
+gate**, 28 ship:
+
+* **2021-05-20 (numeric gate) - correctly withheld, and it is a real parse defect.** The page prints
+  *"freight rates from Shanghai to Rotterdam soared 10% or $889 and reached a new high of $9,865"* -
+  the parser returned the **$889 change**. The level there is introduced by *"new high of"*, not by
+  `to|at|reach`. Same shape on Los Angeles (*"an increase of $350 to touch $5,605"*). Adding `of` as
+  an introducer is unsafe (it also introduces genuine changes), so the row stays withheld.
+* **2021-07-01 (fused gate) - correctly withheld.** *"rates on Shanghai-Los Angeles and Shanghai -
+  New York grew $617 and $539 to $9,165 and $11,719 per feu, respectively"* - the parser gave
+  **both lanes $9,165**. This is the known-open **"k labels, 2k numbers, changes first"** lane shape
+  (same family as 2023-02-23 and 2023-09-21); the fused gate rejects it, so no wrong value ships.
+
+## Files / commands
+
+* `scripts/scrapers/fetch_drewry_wci.py` - `label_rx` separator class + hyphen; `PARSER_VERSION` 8.
+* `scripts/scrapers/backfill_wci_history.py` - `TRIALED_FROM = '2021-01-01'` (was a hard `'2023-01-01'`).
+* Rebuild: `python3 scripts/scrapers/backfill_wci_history.py --fetch --refresh` then
+  `--stack --era-from 2021-01-01`, then `python3 scratch/wci/merge_display.py --apply`.
+* Probes (gitignored): `scratch/wci/era2021_trial.py`, `era2021_comp_ctl.py`, `diff_pv7_pv8.py`,
+  `ship_check.py`, `which_withheld.py`, `bak8/` (pre-change sources, checkpoint, stage, display).
+* Known-stale derived metadata NOT regenerated by this run: `data/provenance/manifest.json` and
+  `data/derived/held_data_catalog.json` still say `row_count 145` for this file (stale since the
+  138-row fabrication purge, not introduced here; neither is rendered).
+
+## Lesson
+
+The composite fix of the previous run made the 2021-2022 prose look parseable, and the pre-trial
+control (change arithmetic, verbatim recall) passed on **every** pre-2023 print - yet exactly one
+lane pair was still swapped, because the failure needed the publisher's *hyphenated* lane spelling,
+which appears on only a few 2021 pages. **Recall controls cannot see a swap**: both numbers are on
+the page, both are plausible, and the row is well formed. Only reading the sentence against the
+parsed lanes found it - the fifth time in this project that a "clean" file was wrong inside.

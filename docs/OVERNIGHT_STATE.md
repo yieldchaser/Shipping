@@ -1,3 +1,42 @@
+**THIS RUN (2026-09-30 09:0x) - THE 2021-2022 ERA IS SHIPPED: WCI displayed series 80 -> 104 rows, 542/542 values page-reconciled. The "NEXT (precise)" item of the previous run is DONE.**
+
+The hard `page_date < '2023-01-01'` cut was moved to `TRIALED_FROM = '2021-01-01'` - and only after
+the era was trial-verified print by print against its own cached pages.
+**THE TRIAL FOUND ONE REAL DEFECT (the reason the cut existed is not the reason it was fixed):**
+**2021-06-24 had New York and Los Angeles SWAPPED.** Page: *"rates on Shanghai-New York and Shanghai-Los
+Angeles soared 39% and 34% to $11,180 and $8,548 per feu, respectively"* -> NY 11,180 / LA 8,548; the
+parser returned LA 11,180 / NY 8,548 - **two plausible numbers handed to the wrong lanes**, so every
+recall control passed (both values ARE on the page).
+**ROOT CAUSE (reproduced):** `label_rx` separated a lane with `to` or an EN/EM DASH - **the plain
+hyphen was NOT in the class**, so the publisher's 2021 spelling `Shanghai-New York` was never a label,
+the ordinal/`respectively` rule could never fire and proximity gave Los Angeles the first `$`.
+MEASURED: 30 hyphenated lane tokens on the 2021 pages; the non-lane ones (East-West, Intra-Asia,
+Ro-Ro, Y-o-Y, Hapag-Lloyd) are rejected by `is_route_mention`'s port vocabulary.
+**FIX:** separator class + `-`; `PARSER_VERSION` 7 -> 8.
+**CONTROL ON THE FIX:** all 230 cached snapshots re-parsed offline (no network, no spend) and
+diffed pv7 vs pv8: **exactly 2 snapshots moved corpus-wide - both captures of that same 2021-06-24
+print, both the swap - and 0 post-2023 snapshots moved.**
+**SHIPPED CONTROLS:** 80 -> 104 rows (0 lost, dates unique, strictly increasing); **542/542 = 100.00%
+of displayed values appear verbatim on their own page**; parsed composite == the page's **own
+headline level 30/30** (independent regex, parser not reused); printed **$ change 45/45** and **%
+43/45** on pre-2023 consecutive weeks (2023+ unchanged at 56/56 and 49/56); **post-2023 stage
+byte-identical**; **0 previously displayed rows changed** (additions only); new dates are Thursdays
+**24/24** and carry the page's own cover line **24/24**; 0 fused, 0 `composite == a route`, 0 rows
+with a repeated value; md-tier (>= 2026-08-01) untouched. Evidence `docs/drewry_wci_era2021_verdict.md`.
+**WITHHELD, named:** of 79 pre-2023 snapshots, 49 lack all five values, **2021-05-20** fails the
+numeric gate (the parser returns the printed **$889/$350 CHANGES**; the level there is introduced by
+*"new high of"*/*"an increase of"*, not by to|at|reach) and **2021-07-01** fails the fused gate
+(*"grew $617 and $539 to $9,165 and $11,719 ... respectively"* -> both lanes got $9,165).
+**NEXT (precise):** that last one is the still-open **"k labels, 2k numbers, changes first"** lane
+shape - the SAME family as the two post-2023 rejects 2023-02-23 and 2023-09-21. Fixing it would
+recover 3 named prints (1 pre-2023 + 2 post-2023) and would let the `fused` gate stop rejecting
+them. Start by reading those three sentences off their cached pages, then trial the rule on them.
+**ALSO OPEN:** `data/provenance/manifest.json` and `data/derived/held_data_catalog.json` still say
+`row_count 145` for `data/indices/drewry_wci_historical.csv` (stale since the 138-row fabrication
+purge, NOT introduced by this run; neither file is rendered). Regenerate, do not hand-edit.
+NOTE: `git checkout` of this worktree had been moved to `main` by the fleet-sync automation at
+08:59; it was restored to `benchmark/extraction-comparison` before any commit.
+
 **THIS RUN (2026-09-30 07:4x) - A DISPLAYED DEFECT FIXED: the Drewry WCI composite was the publisher's YEAR-TO-DATE AVERAGE on 6 displayed rows (worst +21.0%). 75 -> 80 rows, 408/408 = 100.00% page-reconciled.**
 
 `data/indices/drewry_wci_historical.csv` is fetched by `index.html`. Six of its 75 rows carried a
