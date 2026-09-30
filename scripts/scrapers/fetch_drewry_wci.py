@@ -54,11 +54,23 @@ ROUTE_PATTERNS = [
     (r"shanghai\s*[-\u2013\u2014to]+\s*new\s*york", "shanghai_ny"),
     (r"rotterdam\s*[-\u2013\u2014to]+\s*shanghai", "rotterdam_shanghai"),
 ]
+# The composite's unit is printed right after the level, so requiring the unit
+# is what separates a LEVEL from the change ("increased 4.7% or $255 to
+# $5,726.99 per 40ft container"). MEASURED on 228 archived pages: the previous
+# pattern forbade a PERIOD anywhere in its gap, so every page whose headline
+# change carries a decimal failed the headline and fell through to the
+# publisher's own YEAR-TO-DATE AVERAGE sentence ("The average composite index
+# of the WCI ... year-to-date, is $5,143 per 40ft container") - the wrong level
+# on 49 pages, 6 of them present in the displayed CSV (up to +21.0% out).
+# Averages are now excluded by word, not by the absence of a period.
 COMPOSITE_PAT = re.compile(
-    r"(?:world\s*container\s*index|wci|composite\s*index)[^.]{0,120}?"
+    r"(?:world\s*container\s*index|wci|composite\s*index)[\s\S]{0,220}?"
     r"\$\s*([\d,]+(?:\.\d+)?)\s*(?:per|/)?\s*(?:40\s*(?:ft|foot)|40')",
     re.I,
 )
+# "average" / "year-to-date" / "YTD" mark the publisher's own average statement,
+# never the week's level.
+COMPOSITE_AVG_RX = re.compile(r"average|year[\s-]?to[\s-]?date|ytd", re.I)
 ROUTE_VALUE_PAT = re.compile(
     r"([a-z][a-z\s]*?)\s*[-\u2013\u2014to]+\s*([a-z][a-z\s]*?)\D{0,60}?"
     r"\$\s*([\d,]+(?:\.\d+)?)",
@@ -117,11 +129,14 @@ def extract_assessments(html_text):
 
     values = {}
 
-    m = COMPOSITE_PAT.search(flat_text)
-    if m:
+    for m in COMPOSITE_PAT.finditer(flat_text):
         val = clean_number(m.group(1))
-        if val:
-            values["composite_index"] = val
+        if not val:
+            continue
+        if COMPOSITE_AVG_RX.search(flat_text[max(0, m.start() - 90):m.start()]):
+            continue            # the publisher's own average, not the week's level
+        values["composite_index"] = val
+        break
 
     value_rx = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)")
     # A LEVEL is introduced by "to" ("...to $4,453"), but this publisher also

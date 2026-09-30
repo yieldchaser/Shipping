@@ -38,7 +38,7 @@ STATE_DIR = os.path.join(REPO, 'data', 'extracted', 'wci_backfill')
 CKPT = os.path.join(STATE_DIR, 'checkpoint.jsonl')
 STAGE = os.path.join(REPO, 'data', 'audit', 'drewry_wci_real_rows_from_wayback.csv')
 RAW_DIR = os.path.join(REPO, 'scratch', 'wci', 'raw')  # local HTML cache (gitignored)
-PARSER_VERSION = 5  # 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause (2026-09-29)
+PARSER_VERSION = 7  # 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause, 6=composite anchored on the week headline level not the YTD average (2026-09-30), 7=re-parse of every cached snapshot under 6
 KEYS = ('composite_index', 'shanghai_rotterdam', 'shanghai_genoa', 'shanghai_la', 'shanghai_ny')
 COLS = ['date'] + list(KEYS) + ['rotterdam_shanghai', 'source_snapshot']
 HDR = {'User-Agent': 'Mozilla/5.0'}
@@ -213,7 +213,7 @@ def do_stack(era_from='2026-01-01'):
                     by_ts[rec['ts']] = rec
     rows = {}
     n = {'snapshots': len(by_ts), 'fetch_failed': 0, 'incomplete': 0, 'pre_era': 0,
-         'numeric': 0, 'composite': 0, 'contam': 0, 'withheld': 0}
+         'numeric': 0, 'composite': 0, 'contam': 0, 'fused': 0, 'withheld': 0}
     for ts in order:
         rec = by_ts[ts]
         if not rec.get('values'):
@@ -241,10 +241,29 @@ def do_stack(era_from='2026-01-01'):
         # (3) contamination tells measured on the staged set: a value with two
         # decimals is a methodology number, not a printed level, and a route
         # value equal to the composite means the parser grabbed the headline.
-        raws = [rec['values'].get(k) for k in KEYS] + [rec['values'].get('rotterdam_shanghai')]
+        # The 2-decimal tell applies to the ROUTE values only. MEASURED on the
+        # archived pages: every route is printed as a whole dollar ("$1,313 per
+        # 40ft box") while the composite is printed to 2 dp ("$1,535.75 per 40ft
+        # container"). Including the composite dropped 12 real prints - all 12
+        # with a 2-dp value in the composite alone (scratch/wci/gate_probe.py).
+        raws = [rec['values'].get(k) for k in KEYS[1:]] + [rec['values'].get('rotterdam_shanghai')]
         if any((str(x).rstrip('0').rstrip('.').split('.')[-1] != '0' and '.' in str(x)
                 and len(str(x).split('.')[1]) > 1) for x in raws if x is not None):
             n['contam'] += 1
+            continue
+        # (3b) FUSED PAIR. Two tracked lanes cannot carry the same level on one
+        # page unless the publisher prints them equal. MEASURED 2026-09-30 on
+        # the 76 staged prints: exactly 2 rows carry an equal tracked pair and
+        # BOTH are the parser handing one lane the other lane's level -
+        # 2023-02-23 "On Shanghai - New York and Shanghai - Rotterdam, rates fell
+        # by 4% to $2,881 and $1,633 per feu, respectively" (Rotterdam got
+        # 2,881) and 2023-09-21 "Freight Rates on Shanghai - Genoa and Shanghai -
+        # Rotterdam dropped 10% or $167 and $127 to $1,531 and $1,172 per 40ft
+        # container" (Rotterdam got 1,531). Reject the row - a wrong value is
+        # worse than a missing one. The lane rule for that shape is still open.
+        rv = [x for x in raws if x is not None]
+        if len(rv) != len(set(rv)):
+            n['fused'] += 1
             continue
         if any(abs(comp - c) < 0.01 for c in core):
             n['contam'] += 1
