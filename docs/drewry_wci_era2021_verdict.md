@@ -145,3 +145,22 @@ would not ship that row (New York is not printed that week), and it needs its ow
 Also: the 2021-05-20 numeric-gate reject (**$889/$350 changes** returned instead of the levels, which
 the page introduces with *"new high of"* / *"an increase of"*) and the stale derived metadata
 (`data/provenance/manifest.json`, `data/derived/held_data_catalog.json` still say `row_count 145`).
+
+---
+
+# SAME RUN, pv10: the `reached` introducer (one more displayed row)
+
+`to_rx` accepted `to|at|reach` but not the past tense, so a level the publisher introduced with
+*"and reached"* lost to the nearby CHANGE. MEASURED on the corpus (all 230 cached pages re-parsed in
+process): **228/230 unchanged, exactly 2 moved, both read against their page and both improvements** -
+**2021-07-22** `shanghai_la` **220 -> 9953** (*"Spot rates on Shanghai to Los Angeles increased 2% or
+$220 and **reached** $9,953 for a 40ft box"*) and **2023-09-28** `shanghai_rotterdam` **120 -> 1052**
+(*"Shanghai to Rotterdam nosedived 10% or $120 for two consecutive weeks, and **reached** $1,052 which
+is lowest since Jun 2016"*). The 2023-09-28 print SHIPS (it had been withheld by the numeric gate,
+whose spread tell was reading the $120 change); 2021-07-22 stays withheld as INCOMPLETE - New York is
+printed as *"remain stable at previous weeks level"* with no number.
+
+**Final state of the displayed series: 108 rows, 80 -> 108 this run; 563/563 = 100.00% of values
+verbatim on their own page; 0 of the 80 rows that were displayed at the start of this run changed;
+numeric-gate rejects 6 -> 5; `fused` 3 -> 0.** Gate census: `incomplete 107, numeric 5, fused 0,
+withheld 0, pre_era 0`.

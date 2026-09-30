@@ -1,3 +1,22 @@
+**SAME RUN, pv10 - the `reached` introducer: displayed 107 -> 108 rows (80 -> 108 for the run).**
+
+`to_rx` accepted `to|at|reach` but not the PAST TENSE, so a level introduced by *"and reached"* lost to
+the nearby CHANGE. MEASURED over all 230 cached pages re-parsed in process: **228/230 unchanged,
+exactly 2 moved, both read against their pages, both improvements** - 2021-07-22 `shanghai_la`
+**220 -> 9953** (*"increased 2% or $220 and **reached** $9,953"*) and 2023-09-28 `shanghai_rotterdam`
+**120 -> 1052** (*"nosedived 10% or $120 for two consecutive weeks, and **reached** $1,052"*). The
+2023-09-28 print now SHIPS (the numeric gate had been reading its $120 change; the spread tell caught
+it, so nothing wrong was ever displayed); 2021-07-22 stays withheld as INCOMPLETE - New York is printed
+as *"remain stable at previous weeks level"* with no number.
+**CONTROLS, final for this run:** 108 rows (80 at the start), 0 of those 80 changed, **563/563 =
+100.00%** of displayed values verbatim on their own page, 0 lost, dates unique/increasing/Thursdays
+with cover lines 25/25 pre-2023, 0 fused, 0 `composite == a route`, 0 repeated value in a row,
+numeric rejects 6 -> 5, `fused` 3 -> 0, md-tier (>= 2026-08-01) untouched.
+**STILL OPEN (unchanged from the pv9 note):** 2021-05-20 (page introduces its levels with *"new high
+of"* / *"an increase of"*, so the parser returns the **$889/$350 changes**); the stale derived
+metadata (`data/provenance/manifest.json`, `data/derived/held_data_catalog.json` still say
+`row_count 145`); 107 snapshots incomplete + 5 numeric-gated + 1 fetch failure, all pre-existing.
+
 **SAME RUN, CONTINUED (pv9) - THE OPEN FUSED-LANE SHAPE IS FIXED, not just withheld: displayed 104 -> 107 rows, 558/558 page-reconciled, `fused` census 3 -> 0.**
 
 The item this run left as "NEXT (precise)" is done. The 2021-07-01 print AND the two the previous run
