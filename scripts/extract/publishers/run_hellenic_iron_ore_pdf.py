@@ -1933,7 +1933,7 @@ def generate_report_markdown(sidecar: Dict[str, Any]) -> str:
 
     p5_parts = [f"""<!-- Page 5 -->\n\n# Steel Spot Market & Mill Profitability\n\n## Chinese Domestic Steel Spot Market Prices\n{stl_block}\n\n## Chinese Steel Mill Cost & Profitability Model\n{pnl_block}"""]
     if sc_block:
-        p5_parts.append(f"## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022–2026)\n{sc_block}")
+        p5_parts.append(f"## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)\n{sc_block}")
     p5 = "\n\n".join(p5_parts)
 
     # PAGE 6: Specifications & Directory
