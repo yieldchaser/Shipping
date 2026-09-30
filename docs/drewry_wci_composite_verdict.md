@@ -110,6 +110,12 @@ the changes come first": `dropped 10% or $167 and $127 to $L1 and $L2`.
   Starting evidence that the trial will now go better: the 2021-2022 pages carry the full route
   prose (so the parser's route layer is fine - 4/4 correct on the two pages read by eye), and the
   composite on those pages was the SAME year-to-date-average defect, now fixed.
+* **Pre-trial of the 2021-2022 era, run AFTER the fix (measurement only, nothing shipped):**
+  68 cached pre-2023 prints; on 45 consecutive-week pairs the printed $ change is reproduced
+  **45/45** and the printed % **43/45**, and every value of the first 40 pre-2023 prints appears
+  verbatim on its own page (0 missing) - `scratch/wci/era2021_ctl.py`. For comparison the same
+  control on the 2023+ prints is 56/56 and 49/56. That is the trial's precondition met, not the
+  trial: the 30 gate-passing records still need their lane values read against the pages.
 * 107 snapshots parse without all five core values (the publisher printed only the composite, or
   only a route subset, that week) and 5 fail the numeric spread gate.
 * 1 snapshot failed to fetch.

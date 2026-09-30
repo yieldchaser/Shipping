@@ -34,7 +34,12 @@ Evidence **`docs/drewry_wci_composite_verdict.md`**.
 era gate - MEASURED: `--era-from 2021-01-01` still yields 2023-01-05..2026-09-24 and a byte-identical
 stage. Trial the 30 complete 2021-2022 records against their pages, then remove that cut. They now
 look parseable: their pages carry the full route prose (4/4 correct on two pages read by eye) and
-their composite was the same YTD-average defect, now fixed. Then: the open lane-fusion shape.
+their composite was the same YTD-average defect, now fixed.
+**PRE-TRIAL ALREADY MEASURED (after the fix, nothing shipped):** on the 68 cached pre-2023 prints,
+45 consecutive-week pairs reproduce the printed $ change **45/45** and the printed % **43/45**, and
+every value of the first 40 pre-2023 prints appears verbatim on its own page (0 missing)
+(`scratch/wci/era2021_ctl.py`). The 30 gate-passing records still need their lane values read
+against the pages. Then: the open lane-fusion shape.
 
 # OVERNIGHT STATE - read this FIRST, then resume
 
