@@ -437,6 +437,15 @@ def process_single_pdf(
             specialized_result = extract_star_asia(pdf_path, dry_run=dry_run)
         except Exception as e:
             print(f"  [!] Note: specialized star_asia failed ({e}), falling back to universal pipeline.")
+    elif pub == "banchero_costa":
+        try:
+            import subprocess
+            if not dry_run:
+                print(f"  [banchero_costa] Invoking LlamaParse for {pdf_path.name}...")
+                subprocess.run(["python", str(ROOT / "scripts" / "extract" / "publishers" / "run_banchero_llamaparse.py"), "--only", pdf_path.stem])
+            specialized_result = {"specialized": True, "year": "2026"}
+        except Exception as e:
+            print(f"  [!] Note: specialized banchero_costa failed ({e}), falling back to universal pipeline.")
 
 
     # 2. Chart Signature Probing & Screenshot Clipping

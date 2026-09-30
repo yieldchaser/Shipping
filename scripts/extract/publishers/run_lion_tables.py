@@ -508,7 +508,7 @@ def render_markdown(doc_data):
     md.append(f'report_week: {w}')
     md.append(f'year: {yr}')
     md.append('broker: "Lion Shipbrokers"')
-    md.append('source: "lion_shipbrokers"')
+    md.append('source: "lion"')
     if doc_data['quote_text']:
         q_esc = doc_data['quote_text'].replace('"', '\\"')
         md.append(f'quote_of_the_week: "{q_esc}"')
@@ -710,8 +710,8 @@ def main():
     # 1. Gather all 43 PDFs
     pdfs = sorted(glob.glob(os.path.join(PDF_DIR, '*', '*.pdf')))
     # 2. Gather W37 and W38 digests
-    digest_w37 = os.path.join(DIGEST_DIR, 'lion_shipbrokers_12_09_2026_lion_shipbrokers_weekly_market_report_week_37_2026.md')
-    digest_w38 = os.path.join(DIGEST_DIR, 'lion_shipbrokers_18_09_2026_lion_shipbrokers_weekly_market_report_week_38_2026.md')
+    digest_w37 = os.path.join(DIGEST_DIR, 'lion_12_09_2026_lion_weekly_market_report_week_37_2026.md')
+    digest_w38 = os.path.join(DIGEST_DIR, 'lion_18_09_2026_lion_weekly_market_report_week_38_2026.md')
 
     all_jobs = [(p, 'pdf') for p in pdfs]
     if os.path.exists(digest_w37):
