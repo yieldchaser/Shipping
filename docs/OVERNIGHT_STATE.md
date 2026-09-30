@@ -20,6 +20,15 @@ f-string in `current_book_scenario_ui.py:39`). **`origin/main` STILL CARRIES THE
 listing URLs (the repo's own fetcher reproduces it), so only the runner's egress can fetch it; and the
 step's `|| true` should be replaced by an assertion that the catalog is non-empty.
 Evidence **`docs/poten_collection_outage_verdict.md`**.
+**SAME RUN, SECOND POTEN DEFECT (verified while verifying the first):** `extract_year()` in
+`fetch_poten_archive_backfill.py` could not see the archive's compact `Tanker_Opinion_YYYYMMDD.pdf`
+form, so it took the year from the ARTICLE TITLE - **564 of 1,087 poten PDFs (52%)** returned
+`unknown` under the old code, and *"The Outlook for Energy: A View to 2030"* (PDF dated 20071109) was
+written as `poten_2030-01-01_...md` and now sits in the app's knowledge tier as
+`knowledge/chunks/poten_tankers_2030.jsonl` (exactly 2 future-dated records exist in
+`knowledge/chunks/**/*.jsonl`, both this file). FIXED on the branch (compact date read first; control
+over all 1,087 filenames: only the 564 `unknown -> correct year` change). The duplicate corpus file
+and the chunk rebuild are left to the corpus/knowledge owners - commands are in the verdict doc.
 
 **ALSO THIS RUN: `docs/source_freshness_audit.md` - every source's collection freshness measured from
 FILENAMES (never mtime), with the population stated.** 16 of 17 broker sources are current and their

@@ -116,3 +116,56 @@ python3 scratch/poten_fix_control.py         # 5/5 byte-identical vs HEAD
 gh run view 36184254920 --log | grep -E "SyntaxError|Total in catalog"
 python3 scratch/cadence_audit3.py            # the per-source freshness table
 ```
+
+---
+
+## 8. A SECOND poten defect, found while verifying the first: a 52% year-parse failure
+
+`extract_year()` in `scripts/scrapers/fetch_poten_archive_backfill.py` was:
+
+```python
+def extract_year(filename, text=""):
+    m = re.search(r'\b(20\d\d)\b', filename)   # misses Tanker_Opinion_20071109.pdf
+    if m: return m.group(1)
+    m2 = re.search(r'\b(20\d\d)\b', text)      # ... so it takes the TITLE's year
+    if m2: return m2.group(1)
+    return "unknown"
+```
+
+**`Tanker_Opinion_20071109.pdf` contains no word-bounded 4-digit year**: `_` and the
+following digits are both word characters, so neither `\b` boundary exists. Measured over the
+**1,087 poten PDF filenames on disk** (control `scratch/poten_year_control.py`, read-only), the
+old function returns `unknown` for **564 of them (52%)** - every file in the archive's compact
+`Tanker_Opinion_YYYYMMDD.pdf` form.
+
+Two visible consequences, both real:
+
+1. **A title-derived date.** The article *"The Outlook for Energy: A View to 2030"* (PDF
+   `Tanker_Opinion_20071109.pdf`, i.e. 2007-11-09) fell through to the title, whose only year is
+   **2030**, and was written as
+   `corpus/04-poten/2007/poten_2030-01-01_the_outlook_for_energy_a_view_to_2030.md` with
+   `date: "2030-01-01"` and `**Published Date**: 2030-01-01` in the body. It duplicates an
+   article the corpus already holds correctly (`poten_2007-11-09_...md`, from
+   `poten_clean_v2`).
+2. **A phantom year partition in the app's knowledge tier.** The corpus-wide scan of
+   `knowledge/chunks/**/*.jsonl` finds exactly **two** future-dated records, both in
+   `knowledge/chunks/poten_tankers_2030.jsonl` - that same article, served with
+   `Published Date: 2030-01-01`.
+
+**Fix (branch, this run):** a compact `yyyymmdd` in the PDF's own name is read FIRST
+(`COMPACT_DATE_RX`), the word-boundary pattern second, the title only as a last resort; and the
+markdown's `date_str` now prefers the compact date instead of falling back to `{year}-01-01`.
+**Control:** over the same 1,087 filenames, the 564 `unknown -> correct year` changes are the only
+ones, and the two named cases behave - `Tanker_Opinion_20071109.pdf` + a "2030" title now returns
+**2007**, a filename with no date at all + a "2030" title still returns 2030 (last-resort
+behaviour deliberately unchanged).
+
+**Left for the owner of the corpus (not done here - the file was written by another live session
+at 00:01 today and the knowledge tier is rebuilt by its own workflow):**
+
+```bash
+# 1. the duplicate, mis-dated corpus file (the 2007-11-09 file is the authoritative one)
+rm corpus/04-poten/2007/poten_2030-01-01_the_outlook_for_energy_a_view_to_2030.md
+# 2. regenerate the knowledge tier (never hand-edit it), which drops poten_tankers_2030.jsonl
+python scripts/process_knowledge.py
+```
