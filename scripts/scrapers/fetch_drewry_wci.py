@@ -140,10 +140,13 @@ def extract_assessments(html_text):
 
     value_rx = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)")
     # A LEVEL is introduced by "to" ("...to $4,453"), but this publisher also
-    # writes "to reach $11,173" and "held steady at $7,904": the absolute CHANGE
+    # writes "to reach $11,173", "and REACHED $1,052 which is lowest since Jun
+    # 2016" and "held steady at $7,904" - MEASURED: the past tense was missing
+    # from the alternation, so ""nosedived 10% or $120 ... and reached $1,052""
+    # returned the $120 CHANGE on 2023-09-28 and $220 on 2021-07-22. The absolute CHANGE
     # ("increased 17% or $1,331 to $9,158") is nearer the label and would be a
     # 10x-class error, so an introduced value outranks a nearer one that is not.
-    to_rx = re.compile(r"\b(?:to|at|reach)\s*$", re.I)
+    to_rx = re.compile(r"\b(?:to|at|reach(?:es|ed)?)\s*$", re.I)
     # "increased 17% or $1,331" - the CHANGE, never the level.
     or_rx = re.compile(r"\bor\s*$", re.I)
     sent_rx = re.compile(r"(?<=[.!?])\s+")
