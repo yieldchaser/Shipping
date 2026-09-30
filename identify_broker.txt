@@ -1,0 +1,45 @@
+
+      return "[PDF Extraction Error: no extractable text]"
+  
+> def identify_broker(title, text):
+      t_lower = (title + " " + text[:500]).lower()
+      if "allied" in t_lower:
+          return "allied"
+      elif "bancosta" in t_lower or "banchero costa" in t_lower:
+          return "banchero_costa"
+      elif "carriers chartering" in t_lower or "carriers.gr" in t_lower or "snp@carriers" in t_lower:
+          return "carriers"
+      elif "intermodal" in t_lower:
+          return "intermodal"
+      elif "xclusiv" in t_lower:
+          return "xclusiv"
+      elif "advanced" in t_lower or "advansh" in t_lower:
+          return "advanced_shipping"
+      elif "compass" in t_lower:
+          return "compass_maritime"
+      elif "lion shipbrokers" in t_lower or "lion-shipbrokers" in t_lower or "lion weekly" in t_lower:
+          return "lion"
+      elif "optima" in t_lower:
+          return "optimaship"
+      elif "anchor" in t_lower:
+          return "anchor_shipbroking"
+      elif "fearnleys" in t_lower or "fearnley" in t_lower:
+          return "fearnleys"
+      elif "ssy" in t_lower or "simpson spence" in t_lower:
+          return "ssy"
+      elif "affinity" in t_lower:
+          return "affinity"
+      elif "gibson" in t_lower:
+          return "gibson"
+      elif "golden destiny" in t_lower:
+          return "golden_destiny"
+      elif "star asia" in t_lower:
+          return "star_asia"
+      elif "agora" in t_lower:
+          return "agora"
+      elif "ism" in t_lower or "intership" in t_lower:
+          return "ism"
+      elif "clarksons" in t_lower or "clarkson" in t_lower or "clarksons hellas" in t_lower:
+          return "clarksons"
+      return "general_broker"
+

@@ -591,13 +591,19 @@ def run_pipeline():
     if os.path.exists(RAW_OPINIONS_DIR):
         raw_opinions = sorted(glob.glob(os.path.join(RAW_OPINIONS_DIR, "*.md")))
         raw_opinions = [f for f in raw_opinions if not os.path.basename(f).startswith("_")]
-        raw_wci = sorted(glob.glob(os.path.join(DIR_2026, "*wci*.md")))
+        # Collect WCI snapshots from ALL year dirs, not just the current year
+        raw_wci = []
+        for ydir_name in sorted(os.listdir(OPINIONS_DIR)):
+            ydir_path = os.path.join(OPINIONS_DIR, ydir_name)
+            if os.path.isdir(ydir_path) and ydir_name.isdigit():
+                raw_wci.extend(sorted(glob.glob(os.path.join(ydir_path, "*wci*.md"))))
         all_targets = raw_opinions + raw_wci
         print(f"[*] Found {len(raw_opinions)} unsegregated opinions in opinions/opinions/")
-        print(f"[*] Found {len(raw_wci)} WCI snapshots in 2026/")
+        print(f"[*] Found {len(raw_wci)} WCI snapshots across all year dirs")
     else:
         all_targets = []
-        for y in range(2017, 2027):
+        current_year = datetime.now().year
+        for y in range(2017, current_year + 1):
             ydir = os.path.join(OPINIONS_DIR, str(y))
             if os.path.exists(ydir):
                 all_targets.extend(sorted(glob.glob(os.path.join(ydir, "*.md"))))

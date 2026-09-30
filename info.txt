@@ -1,0 +1,2230 @@
+=== IDENTIFY_BROKER ===
+
+      return "[PDF Extraction Error: no extractable text]"
+  
+> def identify_broker(title, text):
+      t_lower = (title + " " + text[:500]).lower()
+      if "allied" in t_lower:
+          return "allied"
+      elif "bancosta" in t_lower or "banchero costa" in t_lower:
+          return "banchero_costa"
+      elif "carriers chartering" in t_lower or "carriers.gr" in t_lower or "snp@carriers" in t_lower:
+          return "carriers"
+      elif "intermodal" in t_lower:
+          return "intermodal"
+      elif "xclusiv" in t_lower:
+          return "xclusiv"
+      elif "advanced" in t_lower or "advansh" in t_lower:
+          return "advanced_shipping"
+      elif "compass" in t_lower:
+          return "compass_maritime"
+      elif "lion shipbrokers" in t_lower or "lion-shipbrokers" in t_lower or "lion weekly" in t_lower:
+          return "lion"
+      elif "optima" in t_lower:
+          return "optimaship"
+      elif "anchor" in t_lower:
+          return "anchor_shipbroking"
+      elif "fearnleys" in t_lower or "fearnley" in t_lower:
+          return "fearnleys"
+      elif "ssy" in t_lower or "simpson spence" in t_lower:
+          return "ssy"
+      elif "affinity" in t_lower:
+          return "affinity"
+      elif "gibson" in t_lower:
+          return "gibson"
+      elif "golden destiny" in t_lower:
+          return "golden_destiny"
+      elif "star asia" in t_lower:
+          return "star_asia"
+      elif "agora" in t_lower:
+          return "agora"
+      elif "ism" in t_lower or "intership" in t_lower:
+          return "ism"
+      elif "clarksons" in t_lower or "clarkson" in t_lower or "clarksons hellas" in t_lower:
+          return "clarksons"
+      return "general_broker"
+  
+  def process_article(article_url, title, date_str):
+      try:
+          html = fetch_url(article_url).decode("utf-8", errors="ignore")
+          soup = BeautifulSoup(html, "html.parser")
+          
+          content_div = soup.find("div", class_="entry-content") or soup.find("article") or soup
+          pdf_links = []
+          for a in content_div.find_all("a", href=True):
+              if a["href"].lower().endswith(".pdf"):
+
+
+=== STORAGE_PATH ===
+
+          slug = re.sub(r'[^a-zA-Z0-9_\-]+', '_', f"{broker}_{date_str}_{title}"[:80]).strip('_').lower()
+          
+>         # Persist raw unprocessed PDF to corpus/01-brokers/
+          local_pdf_path = ""
+          if pdf_bytes:
+              try:
+                  raw_pdf_dir = REPO_ROOT / "corpus" / "01-brokers" / broker / year
+                  raw_pdf_dir.mkdir(parents=True, exist_ok=True)
+                  pdf_target = raw_pdf_dir / f"{slug}.pdf"
+                  # Never write a wall as a .pdf. Measured 2026-09-22: 68 files in
+                  # this repo carry a .pdf extension without a PDF header because
+                  # the extension came from the link and the bytes were never
+                  # checked - they read as corrupt PDFs to the extractor and were
+
+
+=== ORCHESTRATOR ===
+
+  
+  # ---------------------------------------------------------------------------
+  # Primary Key Upsert Utility (Guarantees Zero Overwrite)
+  # ---------------------------------------------------------------------------
+  
+> def upsert_rows_to_csv(
+      csv_path: Path,
+      new_rows: List[Dict[str, Any]],
+      fieldnames: List[str],
+      key_fields: List[str],
+  ) -> int:
+      """
+      Appends new_rows to csv_path, deduplicating based on tuple of key_fields.
+      Returns count of newly added rows. Never truncates existing data.
+      """
+      if not new_rows:
+          return 0
+  
+      csv_path.parent.mkdir(parents=True, exist_ok=True)
+      existing_keys: Set[Tuple[str, ...]] = set()
+      existing_rows: List[Dict[str, Any]] = []
+  
+      if csv_path.exists() and csv_path.stat().st_size > 0:
+          with open(csv_path, "r", encoding="utf-8", errors="replace") as f:
+              reader = csv.DictReader(f)
+              if reader.fieldnames:
+  
+  # ---------------------------------------------------------------------------
+  # Date and Year Resolution Engine
+  # ---------------------------------------------------------------------------
+  
+> def resolve_document_date_and_year(doc: fitz.Document, file_path: Path) -> Tuple[str, str]:
+      """Tiered Date Resolution: Header -> Filename -> Metadata."""
+      for pno in range(min(2, len(doc))):
+          text = doc[pno].get_text("text")[:2000]
+          m_iso = DATE_ISO_RX.search(text)
+          if m_iso:
+              y, m, d = m_iso.groups()
+              return f"{y}-{m.zfill(2)}-{d.zfill(2)}", y
+  
+          m_week = re.search(r"week\s+(\d{1,2})\s*[-–/]\s*(\d{4})", text, re.I)
+          if m_week:
+              y = m_week.group(2)
+              return f"{y}-01-01", y
+  
+      fn = file_path.name
+      m_iso = DATE_ISO_RX.search(fn)
+      if m_iso:
+          y, m, d = m_iso.groups()
+          return f"{y}-{m.zfill(2)}-{d.zfill(2)}", y
+  
+      m_eu = DATE_EU_RX.search(fn)
+  # ---------------------------------------------------------------------------
+  # Tracked Chart Signature Catalog
+  # ---------------------------------------------------------------------------
+  
+  class ChartSignature:
+>     def __init__(
+          self,
+          broker: str,
+          slug: str,
+          title: str,
+          keywords: List[str],
+          target_csv: Path,
+          key_fields: List[str],
+          fieldnames: List[str],
+          min_drawings: int = 10,
+      ):
+          self.broker = broker
+          self.slug = slug
+          self.title = title
+          self.keywords = [k.lower() for k in keywords]
+          self.target_csv = target_csv
+          self.key_fields = key_fields
+          self.fieldnames = fieldnames
+          self.min_drawings = min_drawings
+  
+>     def match_page(self, text: str, num_drawings: int, num_images: int) -> bool:
+          t_low = text.lower()
+          if (num_drawings + num_images * 5) < self.min_drawings:
+              return False
+          return any(kw in t_low for kw in self.keywords)
+  
+  
+  SIGNATURE_CATALOG = [
+      ChartSignature(
+          broker="fearnleys",
+          slug="coal_spread",
+          title="P5 vs Newcastle Coal Futures Spread Lead",
+          keywords=["p5 vs newcastle", "coal futures spread", "kamsarmax indonesia rv"],
+          target_csv=SERIES_DIR / "fearnleys_md_coal_futures_spread_series.csv",
+          key_fields=["issue_date", "chart_title"],
+          fieldnames=[
+              "issue_date", "year", "department", "report_title",
+              "p5_kamsarmax_indonesia_rv_usd_day", "p5_4w_prev_usd_day",
+              "newcastle_coal_futures_spread_lead_2m", "coal_spread_4w_prev",
+              "lead_tenor", "chart_title", "source_image", "report_id"
+          ],
+  
+  # ---------------------------------------------------------------------------
+  # Specialized Publisher Handlers (High-Fidelity Extraction)
+  # ---------------------------------------------------------------------------
+  
+> def extract_xclusiv(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+      """Specialized extraction for Xclusiv Shipbrokers."""
+      import run_xclusiv_tables as xclusiv
+      res = xclusiv.process_pdf(pdf_path)
+      if not dry_run:
+          upsert_rows_to_csv(
+              SERIES_DIR / "xclusiv_sales_series.csv",
+              res.get("sales", []),
+              xclusiv.SALES_COLUMNS,
+              ["issue_date", "NAME", "DWT"]
+          )
+          upsert_rows_to_csv(
+              SERIES_DIR / "xclusiv_demolition_series.csv",
+              res.get("demo_prices", []),
+              xclusiv.DEMO_PRICES_COLUMNS,
+              ["issue_date", "segment", "country"]
+          )
+          upsert_rows_to_csv(
+              SERIES_DIR / "xclusiv_secondhand_series.csv",
+              res.get("sh_prices", []),
+              xclusiv.SECONDHAND_COLUMNS,
+              ["issue_date", "NAME"]
+          )
+      return res
+  
+  
+> def extract_advanced_shipping(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+      """Specialized extraction for Advanced Shipping & Trading."""
+      import run_advanced_shipping_tables as adv
+      res = adv.process_document(pdf_path)
+      if not dry_run:
+          upsert_rows_to_csv(
+              SERIES_DIR / "advanced_shipping_sales_series.csv",
+              res.get("sales_rows", []),
+              adv.SALES_COLUMNS,
+              ["issue", "NAME", "DWT"]
+          )
+          upsert_rows_to_csv(
+              SERIES_DIR / "advanced_shipping_newbuilding_series.csv",
+              res.get("nb_rows", []),
+              adv.NB_COLUMNS,
+              ["issue_date", "yard", "units", "capacity_raw"]
+          )
+          upsert_rows_to_csv(
+              SERIES_DIR / "advanced_shipping_demolition_series.csv",
+              res.get("demo_prices_rows", []),
+              adv.DEMO_COLUMNS,
+              ["issue_date", "sector", "vessel_class", "age"]
+          )
+      return res
+  
+  
+> def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+      """Specialized extraction for Star Asia Shipbroking."""
+      import run_star_asia_tables as sa
+      import star_asia_dates as SAD
+  
+      doc = fitz.open(pdf_path)
+      report_week, issue_date = sa.extract_meta(doc, pdf_path)
+      ind_records, clean_ind = sa.extract_indicative_scrap_table(doc, issue_date, report_week, pdf_path.name)
+      deals = sa.extract_demolition_deals(doc, issue_date, report_week, pdf_path.name)
+      deals_norm = [SAD.normalise_deal_dates(d) for d in deals]
+      doc.close()
+  
+      year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+      dest_dir = MD_DIR / "star_asia" / year_str
+      
+      if not dry_run:
+          dest_dir.mkdir(parents=True, exist_ok=True)
+          sidecar_data = {
+              "stem": pdf_path.stem,
+              "issue_date": issue_date,
+              "report_week": report_week,
+  
+  # ---------------------------------------------------------------------------
+  # Incremental Document Processor
+  # ---------------------------------------------------------------------------
+  
+> def process_single_pdf(
+      pdf_path: Path,
+      pub: str,
+      dry_run: bool = False
+  ) -> Dict[str, Any]:
+      """
+      Universal Single-Document Processor:
+      - Delegates to specialized publisher extractors if available.
+      - Captures and clips 200 DPI PNG screenshots of periodic charts.
+      - Upserts series data cleanly with primary key deduplication.
+      - Embeds screenshots into markdown reports.
+      """
+      stem = pdf_path.stem
+  
+      # 1. Specialized Publisher Delegation
+      specialized_result: Optional[Dict[str, Any]] = None
+      if pub == "xclusiv":
+          try:
+              specialized_result = extract_xclusiv(pdf_path, dry_run=dry_run)
+          except Exception as e:
+              print(f"  [!] Note: specialized xclusiv failed ({e}), falling back to universal pipeline.")
+  
+  # ---------------------------------------------------------------------------
+  # Corpus Ingestion Orchestration Loop
+  # ---------------------------------------------------------------------------
+  
+> def run_orchestration(
+      broker_filter: Optional[str] = None,
+      specific_file: Optional[Path] = None,
+      dry_run: bool = False,
+      force: bool = False
+  ):
+      print("=" * 80)
+      print(f"INCREMENTAL INGESTION & CHART FINGERPRINTING ENGINE ({'DRY RUN' if dry_run else 'LIVE'})")
+      print("=" * 80)
+  
+      if specific_file:
+          pub = specific_file.parent.parent.name if specific_file.parent.name.isdigit() else specific_file.parent.name
+          pdfs_to_process = [(pub, specific_file)]
+      else:
+          pdfs_to_process = []
+          for pub_dir in sorted(CORPUS_DIR.iterdir()):
+              if not pub_dir.is_dir() or pub_dir.name.startswith("_"):
+                  continue
+              if broker_filter and pub_dir.name != broker_filter:
+                  continue
+  
+
+
+    import run_xclusiv_tables as xclusiv
+    import run_advanced_shipping_tables as adv
+    import run_star_asia_tables as sa
+def run_orchestration(
+    run_orchestration(
+
+
+=== INTERMODAL STATE ===
+{
+  "done": {
+    "intermodal_2026_W03_Intermodal-Report-Week-03-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 37985,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W04_Intermodal-Report-Week-04-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 43407,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W05_Intermodal-Report-Week-05-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 43608,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W02_Intermodal-Report-Week-02-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 45919,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W09_Intermodal-Report-Week-09-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 37491,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W06_Intermodal-Report-Week-06-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 37666,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W08_Intermodal-Report-Week-08-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 41091,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W10_Intermodal-Report-Week-10-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 39382,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W07_Intermodal-Report-Week-07-2026": {
+      "timestamp": "2026-09-30T14:03:16Z",
+      "pages": 8,
+      "bytes": 41091,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W11_Intermodal-Report-Week-11-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 40802,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W14_Intermodal-Report-Week-14-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 41234,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W12_Intermodal-Report-Week-12-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 46614,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W13_Intermodal-Report-Week-13-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 42705,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W16_Intermodal-Report-Week-16-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 41241,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W18_Intermodal-Report-Week-18-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 40523,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W17_Intermodal-Report-Week-17-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 43809,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W19_Intermodal-Report-Week-19-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 38624,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W22_Intermodal-Report-Week-22-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 38492,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W21_Intermodal-Report-Week-21-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 41444,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W20_Intermodal-Report-Week-20-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 40143,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W23_Intermodal-Report-Week-23-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 45941,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W24_Intermodal-Report-Week-24-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 37811,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W25_Intermodal-Report-Week-25-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 40749,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W26_Intermodal-Report-Week-26-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 37461,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W27_Intermodal-Report-Week-27-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 39113,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W28_Intermodal-Report-Week-28-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 39002,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W30_Intermodal-Report-Week-30-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 40205,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W29_Intermodal-Report-Week-29-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 41557,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W31_Intermodal-Report-Week-31-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 39031,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W33_Intermodal-Report-Week-33-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 41279,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W34_Intermodal-Report-Week-34-2026": {
+      "timestamp": "2026-09-30T14:03:17Z",
+      "pages": 8,
+      "bytes": 37730,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W35_Intermodal-Report-Week-35-2026": {
+      "timestamp": "2026-09-30T14:03:18Z",
+      "pages": 8,
+      "bytes": 41792,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi": {
+      "timestamp": "2026-09-30T14:03:18Z",
+      "pages": 8,
+      "bytes": 40142,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W04_Intermodal-Report-Week-04-2025": {
+      "timestamp": "2026-09-28T20:48:46Z",
+      "pages": 8,
+      "bytes": 38668,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W05_Intermodal-Report-Week-05-2025": {
+      "timestamp": "2026-09-28T20:48:46Z",
+      "pages": 8,
+      "bytes": 36023,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W03_Intermodal-Report-Week-03-2025": {
+      "timestamp": "2026-09-28T20:48:46Z",
+      "pages": 8,
+      "bytes": 38285,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W02_Intermodal-Report-Week-02-2025": {
+      "timestamp": "2026-09-28T20:48:46Z",
+      "pages": 8,
+      "bytes": 37437,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W07_Intermodal-Report-Week-07-2025": {
+      "timestamp": "2026-09-28T20:48:47Z",
+      "pages": 8,
+      "bytes": 37557,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W06_Intermodal-Report-Week-06-2025": {
+      "timestamp": "2026-09-28T20:48:47Z",
+      "pages": 8,
+      "bytes": 41664,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W08_Intermodal-Report-Week-08-2025": {
+      "timestamp": "2026-09-28T20:48:49Z",
+      "pages": 8,
+      "bytes": 40604,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W09_Intermodal-Report-Week-09-2025": {
+      "timestamp": "2026-09-28T20:48:49Z",
+      "pages": 8,
+      "bytes": 40134,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W10_Intermodal-Report-Week-10-2025": {
+      "timestamp": "2026-09-28T20:48:49Z",
+      "pages": 8,
+      "bytes": 41480,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W11_Intermodal-Report-Week-11-2025": {
+      "timestamp": "2026-09-28T20:48:50Z",
+      "pages": 8,
+      "bytes": 37983,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W12_Intermodal-Report-Week-12-2025": {
+      "timestamp": "2026-09-28T20:48:50Z",
+      "pages": 8,
+      "bytes": 39257,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W13_Intermodal-Report-Week-13-2025": {
+      "timestamp": "2026-09-28T20:48:50Z",
+      "pages": 8,
+      "bytes": 36559,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W14_Intermodal-Report-Week-14-2025": {
+      "timestamp": "2026-09-28T20:48:51Z",
+      "pages": 8,
+      "bytes": 41645,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W17_Intermodal-Report-Week-17-2025": {
+      "timestamp": "2026-09-28T20:48:51Z",
+      "pages": 8,
+      "bytes": 39132,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W15_Intermodal-Report-Week-15-2025": {
+      "timestamp": "2026-09-28T20:48:51Z",
+      "pages": 8,
+      "bytes": 46614,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W19_Intermodal-Report-Week-19-2025": {
+      "timestamp": "2026-09-28T20:48:51Z",
+      "pages": 8,
+      "bytes": 36616,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W18_Intermodal-Report-Week-18-2025": {
+      "timestamp": "2026-09-28T20:48:51Z",
+      "pages": 8,
+      "bytes": 37937,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W20_Intermodal-Report-Week-20-2025": {
+      "timestamp": "2026-09-28T20:48:51Z",
+      "pages": 8,
+      "bytes": 38050,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W21_Intermodal-Report-Week-21-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 39737,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W23_Intermodal-Report-Week-23-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 39231,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W24_Intermodal-Report-Week-24-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 41488,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W22_Intermodal-Report-Week-22-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 40109,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W25_Intermodal-Report-Week-25-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 39721,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W26_Intermodal-Report-Week-26-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 37423,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W27_Intermodal-Report-Week-27-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 40941,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W28_Intermodal-Report-Week-28-2025": {
+      "timestamp": "2026-09-28T20:48:52Z",
+      "pages": 8,
+      "bytes": 42186,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W29_Intermodal-Report-Week-29-2025": {
+      "timestamp": "2026-09-28T20:48:53Z",
+      "pages": 8,
+      "bytes": 43021,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W30_Intermodal-Report-Week-30-2025": {
+      "timestamp": "2026-09-28T20:48:53Z",
+      "pages": 8,
+      "bytes": 46089,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W33_Intermodal-Report-Week-33-2025": {
+      "timestamp": "2026-09-28T20:48:53Z",
+      "pages": 8,
+      "bytes": 40731,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W31_Intermodal-Report-Week-31-2025": {
+      "timestamp": "2026-09-28T20:48:53Z",
+      "pages": 8,
+      "bytes": 40378,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W34_Intermodal-Report-Week-34-2025": {
+      "timestamp": "2026-09-28T20:48:54Z",
+      "pages": 8,
+      "bytes": 36621,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W35_Intermodal-Report-Week-35-2025": {
+      "timestamp": "2026-09-28T20:48:54Z",
+      "pages": 8,
+      "bytes": 39963,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W36_Intermodal-Report-Week-36-2025": {
+      "timestamp": "2026-09-28T20:48:54Z",
+      "pages": 8,
+      "bytes": 45639,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W37_Intermodal-Report-Week-37-2025": {
+      "timestamp": "2026-09-28T20:48:54Z",
+      "pages": 8,
+      "bytes": 39137,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W38_Intermodal-Report-Week-38-2025": {
+      "timestamp": "2026-09-28T20:48:55Z",
+      "pages": 8,
+      "bytes": 38837,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W39_Intermodal-Report-Week-39-2025": {
+      "timestamp": "2026-09-28T20:48:55Z",
+      "pages": 8,
+      "bytes": 41144,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W40_Intermodal-Report-Week-40-2025": {
+      "timestamp": "2026-09-28T20:48:55Z",
+      "pages": 8,
+      "bytes": 41585,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W42_Intermodal-Report-Week-42-2025": {
+      "timestamp": "2026-09-28T20:48:56Z",
+      "pages": 8,
+      "bytes": 41762,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W41_Intermodal-Report-Week-41-2025": {
+      "timestamp": "2026-09-28T20:48:55Z",
+      "pages": 8,
+      "bytes": 39164,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W43_Intermodal-Report-Week-43-2025": {
+      "timestamp": "2026-09-28T20:48:56Z",
+      "pages": 8,
+      "bytes": 40704,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W44_Intermodal-Report-Week-44-2025": {
+      "timestamp": "2026-09-28T20:48:57Z",
+      "pages": 8,
+      "bytes": 39716,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W45_Intermodal-Report-Week-45-2025": {
+      "timestamp": "2026-09-28T20:48:57Z",
+      "pages": 8,
+      "bytes": 41203,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W46_Intermodal-Report-Week-46-2025": {
+      "timestamp": "2026-09-28T20:48:58Z",
+      "pages": 8,
+      "bytes": 40807,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed": {
+      "timestamp": "2026-09-28T20:48:58Z",
+      "pages": 8,
+      "bytes": 41494,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W48_Intermodal-Report-Week-48-2025": {
+      "timestamp": "2026-09-28T20:48:58Z",
+      "pages": 8,
+      "bytes": 41381,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W50_Intermodal-Report-Week-50-2025": {
+      "timestamp": "2026-09-28T20:48:58Z",
+      "pages": 8,
+      "bytes": 42178,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W49_Intermodal-Report-Week-49-2025": {
+      "timestamp": "2026-09-28T20:48:58Z",
+      "pages": 8,
+      "bytes": 41853,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2025_W51_Intermodal-Report-Week-51-2025": {
+      "timestamp": "2026-09-28T20:48:59Z",
+      "pages": 8,
+      "bytes": 40505,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W01_Intermodal-Report-Week-01-2024": {
+      "timestamp": "2026-09-28T20:48:38Z",
+      "pages": 8,
+      "bytes": 37789,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W03_Intermodal-Report-Week-03-2024": {
+      "timestamp": "2026-09-28T20:48:39Z",
+      "pages": 8,
+      "bytes": 40543,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W02_Intermodal-Report-Week-02-2024": {
+      "timestamp": "2026-09-28T20:48:39Z",
+      "pages": 8,
+      "bytes": 40182,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W04_Intermodal-Report-Week-04-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 42044,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W07_Intermodal-Report-Week-07-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 39169,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W06_Intermodal-Report-Week-06-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 39011,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W08_Intermodal-Report-Week-08-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 46388,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W05_Intermodal-Report-Week-05-2024": {
+      "timestamp": "2026-09-28T20:48:39Z",
+      "pages": 8,
+      "bytes": 38141,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W12_Intermodal-Report-Week-12-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 40612,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W11_Intermodal-Report-Week-11-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 39469,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W10_Intermodal-Report-Week-10-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 38251,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W09_Intermodal-Report-Week-09-2024": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 41793,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W13_Intermodal-Report-Week-13-2024-1": {
+      "timestamp": "2026-09-28T20:48:40Z",
+      "pages": 8,
+      "bytes": 36816,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W15_Intermodal-Report-Week-15-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 42493,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W14_Intermodal-Report-Week-14-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 39919,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W16_Intermodal-Report-Week-16-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 38694,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W17_Intermodal-Report-Week-17-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 39218,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W18_Intermodal-Report-Week-18-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 39840,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W20_Intermodal-Report-Week-20-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 40790,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W19_Intermodal-Report-Week-19-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 41423,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W21_Intermodal-Report-Week-21-2024": {
+      "timestamp": "2026-09-28T20:48:41Z",
+      "pages": 8,
+      "bytes": 39286,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W22_Intermodal-Report-Week-22-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 38181,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W24_Intermodal-Report-Week-24-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 37745,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W25_Intermodal-Report-Week-25-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 36168,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W26_Intermodal-Report-Week-26-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 36004,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W27_Intermodal-Report-Week-27-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 38544,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W28_Intermodal-Report-Week-28-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 41699,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W29_Intermodal-Report-Week-29-2024": {
+      "timestamp": "2026-09-28T20:48:42Z",
+      "pages": 8,
+      "bytes": 38419,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W30_Intermodal-Report-Week-30-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 39656,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W33_Intermodal-Report-Week-33-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 43624,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W31_Intermodal-Report-Week-31-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 36048,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W34_Intermodal-Report-Week-34-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 38964,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W35_Intermodal-Report-Week-35-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 38608,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W36_Intermodal-Report-Week-36-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 47165,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W37_Intermodal-Report-Week-37-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 39022,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W38_Intermodal-Report-Week-38-2024": {
+      "timestamp": "2026-09-28T20:48:43Z",
+      "pages": 8,
+      "bytes": 36787,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W39_Intermodal-Report-Week-39-2024": {
+      "timestamp": "2026-09-28T20:48:44Z",
+      "pages": 8,
+      "bytes": 40415,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W40_Intermodal-Report-Week-40-2024": {
+      "timestamp": "2026-09-28T20:48:44Z",
+      "pages": 8,
+      "bytes": 35440,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W41_Intermodal-Report-Week-41-2024": {
+      "timestamp": "2026-09-28T20:48:44Z",
+      "pages": 8,
+      "bytes": 37646,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W42_Intermodal-Report-Week-42-2024": {
+      "timestamp": "2026-09-28T20:48:44Z",
+      "pages": 8,
+      "bytes": 39918,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W43_Intermodal-Report-Week-43-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 38047,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W44_Intermodal-Report-Week-44-2024": {
+      "timestamp": "2026-09-28T20:48:44Z",
+      "pages": 8,
+      "bytes": 40396,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W45_Intermodal-Report-Week-45-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 38755,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W46_Intermodal-Report-Week-46-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 44661,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W47_Intermodal-Report-Week-47-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 38929,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W48_Intermodal-Report-Week-48-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 40700,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W51_Intermodal-Report-Week-51-2024": {
+      "timestamp": "2026-09-28T20:48:46Z",
+      "pages": 8,
+      "bytes": 47284,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W50_Intermodal-Report-Week-50-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 40144,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2024_W49_Intermodal-Report-Week-49-2024": {
+      "timestamp": "2026-09-28T20:48:45Z",
+      "pages": 8,
+      "bytes": 36193,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W01_Intermodal-Report-Week-01-2023": {
+      "timestamp": "2026-09-28T20:48:28Z",
+      "pages": 8,
+      "bytes": 62281,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W03_Intermodal-Report-Week-03-2023": {
+      "timestamp": "2026-09-28T20:48:28Z",
+      "pages": 8,
+      "bytes": 60805,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W04_Intermodal-Report-Week-04-2023": {
+      "timestamp": "2026-09-28T20:48:29Z",
+      "pages": 8,
+      "bytes": 55915,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W02_Intermodal-Report-Week-02-2023": {
+      "timestamp": "2026-09-28T20:48:28Z",
+      "pages": 8,
+      "bytes": 64936,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W06_Intermodal-Report-Week-06-2023": {
+      "timestamp": "2026-09-28T20:48:29Z",
+      "pages": 8,
+      "bytes": 64089,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W05_Intermodal-Report-Week-05-2023": {
+      "timestamp": "2026-09-28T20:48:29Z",
+      "pages": 8,
+      "bytes": 61811,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W08_Intermodal-Report-Week-08-2023": {
+      "timestamp": "2026-09-28T20:48:30Z",
+      "pages": 8,
+      "bytes": 59041,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W07_Intermodal-Report-Week-07-2023": {
+      "timestamp": "2026-09-28T20:48:30Z",
+      "pages": 8,
+      "bytes": 64271,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W10_Intermodal-Report-Week-10-2023": {
+      "timestamp": "2026-09-28T20:48:31Z",
+      "pages": 8,
+      "bytes": 64644,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W09_Intermodal-Report-Week-09-2023": {
+      "timestamp": "2026-09-28T20:48:31Z",
+      "pages": 8,
+      "bytes": 66362,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W11_Intermodal-Report-Week-11-2023": {
+      "timestamp": "2026-09-28T20:48:32Z",
+      "pages": 8,
+      "bytes": 66378,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W12_Intermodal-Report-Week-12-2023": {
+      "timestamp": "2026-09-28T20:48:32Z",
+      "pages": 8,
+      "bytes": 66119,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W14_Intermodal-Report-Week-14-2023": {
+      "timestamp": "2026-09-28T20:48:32Z",
+      "pages": 8,
+      "bytes": 54756,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W13_Intermodal-Report-Week-13-2023": {
+      "timestamp": "2026-09-28T20:48:32Z",
+      "pages": 8,
+      "bytes": 70186,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W16_Intermodal-Report-Week-16-2023": {
+      "timestamp": "2026-09-28T20:48:32Z",
+      "pages": 8,
+      "bytes": 57703,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W17_Intermodal-Report-Week-17-2023": {
+      "timestamp": "2026-09-28T20:48:33Z",
+      "pages": 8,
+      "bytes": 63541,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W18_Intermodal-Report-Week-18-2023": {
+      "timestamp": "2026-09-28T20:48:33Z",
+      "pages": 8,
+      "bytes": 60983,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W19_Intermodal-Report-Week-19-2023": {
+      "timestamp": "2026-09-28T20:48:33Z",
+      "pages": 8,
+      "bytes": 54395,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W20_Intermodal-Report-Week-20-2023": {
+      "timestamp": "2026-09-28T20:48:33Z",
+      "pages": 8,
+      "bytes": 39347,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W21_Intermodal-Report-Week-21-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 41400,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W22_Intermodal-Report-Week-22-2023": {
+      "timestamp": "2026-09-28T20:48:33Z",
+      "pages": 8,
+      "bytes": 42562,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W23_Intermodal-Report-Week-23-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 39064,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W25_Intermodal-Report-Week-25-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 39089,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W24_Intermodal-Report-Week-24-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 39632,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W26_Intermodal-Report-Week-26-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 39028,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W29_Intermodal-Report-Week-29-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 35695,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W27_Intermodal-Report-Week-27-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 37689,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W28_Intermodal-Report-Week-28-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 39770,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W30_Intermodal-Report-Week-30-2023": {
+      "timestamp": "2026-09-28T20:48:34Z",
+      "pages": 8,
+      "bytes": 39896,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W31_Intermodal-Report-Week-31-2023": {
+      "timestamp": "2026-09-28T20:48:35Z",
+      "pages": 8,
+      "bytes": 35756,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W33_Intermodal-Report-Week-33-2023": {
+      "timestamp": "2026-09-28T20:48:35Z",
+      "pages": 8,
+      "bytes": 38519,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W34_Intermodal-Report-Week-34-2023": {
+      "timestamp": "2026-09-28T20:48:35Z",
+      "pages": 8,
+      "bytes": 38267,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W37_Intermodal-Report-Week-37-2023": {
+      "timestamp": "2026-09-28T20:48:35Z",
+      "pages": 8,
+      "bytes": 36314,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W38_Intermodal-Report-Week-38-2023": {
+      "timestamp": "2026-09-28T20:48:36Z",
+      "pages": 8,
+      "bytes": 40283,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W36_Intermodal-Report-Week-36-2023": {
+      "timestamp": "2026-09-28T20:48:35Z",
+      "pages": 8,
+      "bytes": 39774,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W35_Intermodal-Report-Week-35-2023": {
+      "timestamp": "2026-09-28T20:48:35Z",
+      "pages": 8,
+      "bytes": 39380,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W39_Intermodal-Report-Week-39-2023": {
+      "timestamp": "2026-09-28T20:48:36Z",
+      "pages": 8,
+      "bytes": 39503,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W41_Intermodal-Report-Week-41_2023": {
+      "timestamp": "2026-09-28T20:48:36Z",
+      "pages": 8,
+      "bytes": 38564,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W42_Intermodal-Report-Week-42-2023": {
+      "timestamp": "2026-09-28T20:48:37Z",
+      "pages": 8,
+      "bytes": 38282,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W40_Intermodal-Report-Week-40-2023": {
+      "timestamp": "2026-09-28T20:48:36Z",
+      "pages": 8,
+      "bytes": 41464,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W43_Intermodal-Report-Week-43-2023": {
+      "timestamp": "2026-09-28T20:48:37Z",
+      "pages": 8,
+      "bytes": 37822,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W45_Intermodal-Report-Week-45-2023": {
+      "timestamp": "2026-09-28T20:48:37Z",
+      "pages": 8,
+      "bytes": 41386,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W46_Intermodal-Report-Week-46-2023": {
+      "timestamp": "2026-09-28T20:48:37Z",
+      "pages": 8,
+      "bytes": 41739,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W44_Intermodal-Report-Week-44-2023": {
+      "timestamp": "2026-09-28T20:48:37Z",
+      "pages": 8,
+      "bytes": 44416,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W47_Intermodal-Report-Week-47-2023": {
+      "timestamp": "2026-09-28T20:48:37Z",
+      "pages": 8,
+      "bytes": 42290,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W49_Intermodal-Report-Week-49-2023": {
+      "timestamp": "2026-09-28T20:48:38Z",
+      "pages": 8,
+      "bytes": 40939,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W48_Intermodal-Report-Week-48-2023": {
+      "timestamp": "2026-09-28T20:48:38Z",
+      "pages": 8,
+      "bytes": 40109,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2023_W50_Intermodal-Report-Week-50-2023": {
+      "timestamp": "2026-09-28T20:48:38Z",
+      "pages": 8,
+      "bytes": 40251,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W02_Intermodal-Report-Week-02-2022": {
+      "timestamp": "2026-09-28T20:48:11Z",
+      "pages": 8,
+      "bytes": 60145,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W01_Intermodal-Report-Week-01-2022": {
+      "timestamp": "2026-09-28T20:48:11Z",
+      "pages": 8,
+      "bytes": 56217,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W03_Intermodal-Report-Week-03-2022": {
+      "timestamp": "2026-09-28T20:48:11Z",
+      "pages": 8,
+      "bytes": 67313,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "allied_2022_W04_Intermodal-Report-Week-04-2022": {
+      "timestamp": "2026-09-28T20:48:11Z",
+      "pages": 8,
+      "bytes": 67800,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W06_Intermodal-Report-Week-06-2022": {
+      "timestamp": "2026-09-28T20:48:12Z",
+      "pages": 8,
+      "bytes": 64963,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W05_Intermodal-Report-Week-05-2022": {
+      "timestamp": "2026-09-28T20:48:12Z",
+      "pages": 8,
+      "bytes": 55067,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W08_Intermodal-Report-Week-08-2022": {
+      "timestamp": "2026-09-28T20:48:14Z",
+      "pages": 8,
+      "bytes": 63224,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W07_Intermodal-Report-Week-07-2022": {
+      "timestamp": "2026-09-28T20:48:12Z",
+      "pages": 8,
+      "bytes": 63491,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W09_Intermodal-Report-Week-09-2022": {
+      "timestamp": "2026-09-28T20:48:14Z",
+      "pages": 8,
+      "bytes": 63000,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W10_Intermodal-Report-Week-10-2022": {
+      "timestamp": "2026-09-28T20:48:14Z",
+      "pages": 8,
+      "bytes": 61465,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W11_Intermodal-Report-Week-11-2022": {
+      "timestamp": "2026-09-28T20:48:15Z",
+      "pages": 8,
+      "bytes": 65835,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W12_Intermodal-Report-Week-12-2022": {
+      "timestamp": "2026-09-28T20:48:16Z",
+      "pages": 8,
+      "bytes": 68891,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W14_Intermodal-Report-Week-14-2022": {
+      "timestamp": "2026-09-28T20:48:16Z",
+      "pages": 8,
+      "bytes": 61264,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W13_Intermodal-Report-Week-13-2022": {
+      "timestamp": "2026-09-28T20:48:16Z",
+      "pages": 8,
+      "bytes": 62314,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W17_Intermodal-Report-Week-17-2022": {
+      "timestamp": "2026-09-28T20:48:18Z",
+      "pages": 8,
+      "bytes": 63039,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W15_Intermodal-Report-Week-15-2022": {
+      "timestamp": "2026-09-28T20:48:17Z",
+      "pages": 8,
+      "bytes": 63895,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W18_Intermodal-Report-Week-18-2022": {
+      "timestamp": "2026-09-28T20:48:17Z",
+      "pages": 8,
+      "bytes": 55440,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W19_Intermodal-Report-Week-19-2022": {
+      "timestamp": "2026-09-28T20:48:17Z",
+      "pages": 8,
+      "bytes": 58982,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W20_Intermodal-Report-Week-20-2022": {
+      "timestamp": "2026-09-28T20:48:19Z",
+      "pages": 8,
+      "bytes": 60813,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W21_Intermodal-Report-Week-21-2022": {
+      "timestamp": "2026-09-28T20:48:19Z",
+      "pages": 8,
+      "bytes": 56740,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W22_Intermodal-Report-Week-22-2022": {
+      "timestamp": "2026-09-28T20:48:19Z",
+      "pages": 8,
+      "bytes": 63929,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W23_Intermodal-Report-Week-23-2022": {
+      "timestamp": "2026-09-28T20:48:20Z",
+      "pages": 8,
+      "bytes": 56372,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W24_Intermodal-Report-Week-24-2022": {
+      "timestamp": "2026-09-28T20:48:20Z",
+      "pages": 8,
+      "bytes": 63881,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W25_Intermodal-Report-Week-25-2022": {
+      "timestamp": "2026-09-28T20:48:20Z",
+      "pages": 8,
+      "bytes": 61683,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W27_Intermodal-Report-Week-27-2022": {
+      "timestamp": "2026-09-28T20:48:21Z",
+      "pages": 8,
+      "bytes": 63391,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W26_Intermodal-Report-Week-26-2022": {
+      "timestamp": "2026-09-28T20:48:21Z",
+      "pages": 8,
+      "bytes": 65690,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W28_Intermodal-Report-Week-28-2022": {
+      "timestamp": "2026-09-28T20:48:21Z",
+      "pages": 8,
+      "bytes": 55192,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W29_Intermodal-Report-Week-29-2022": {
+      "timestamp": "2026-09-28T20:48:21Z",
+      "pages": 8,
+      "bytes": 66638,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W31_Intermodal-Report-Week-31-2022": {
+      "timestamp": "2026-09-28T20:48:22Z",
+      "pages": 8,
+      "bytes": 62553,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W30_Intermodal-Report-Week-30-2022": {
+      "timestamp": "2026-09-28T20:48:22Z",
+      "pages": 8,
+      "bytes": 62160,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W33_Intermodal-Report-Week-33-2022": {
+      "timestamp": "2026-09-28T20:48:23Z",
+      "pages": 8,
+      "bytes": 63762,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W34_Intermodal-Report-Week-34-2022": {
+      "timestamp": "2026-09-28T20:48:23Z",
+      "pages": 8,
+      "bytes": 63770,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W35_Intermodal-Report-Week-35-2022": {
+      "timestamp": "2026-09-28T20:48:23Z",
+      "pages": 8,
+      "bytes": 65242,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W36_Intermodal-Report-Week-36-2022": {
+      "timestamp": "2026-09-28T20:48:23Z",
+      "pages": 8,
+      "bytes": 58090,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W37_Intermodal-Report-Week-37-2022": {
+      "timestamp": "2026-09-28T20:48:23Z",
+      "pages": 8,
+      "bytes": 52517,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W38_Intermodal-Report-Week-38-2022": {
+      "timestamp": "2026-09-28T20:48:23Z",
+      "pages": 8,
+      "bytes": 55480,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W39_Intermodal-Report-Week-39-2022": {
+      "timestamp": "2026-09-28T20:48:24Z",
+      "pages": 8,
+      "bytes": 55393,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W40_Intermodal-Report-Week-40-2022": {
+      "timestamp": "2026-09-28T20:48:24Z",
+      "pages": 8,
+      "bytes": 61352,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W43_Intermodal-Report-Week-43-2022": {
+      "timestamp": "2026-09-28T20:48:26Z",
+      "pages": 8,
+      "bytes": 55157,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W42_Intermodal-Report-Week-42-2022": {
+      "timestamp": "2026-09-28T20:48:25Z",
+      "pages": 8,
+      "bytes": 57814,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W41_Intermodal-Report-Week-41-2022": {
+      "timestamp": "2026-09-28T20:48:25Z",
+      "pages": 8,
+      "bytes": 56059,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W44_Intermodal-Report-Week-44-2022": {
+      "timestamp": "2026-09-28T20:48:26Z",
+      "pages": 8,
+      "bytes": 66064,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W45_Intermodal-Report-Week-45-2022": {
+      "timestamp": "2026-09-28T20:48:26Z",
+      "pages": 8,
+      "bytes": 60356,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W46_Intermodal-Report-Week-46-2022": {
+      "timestamp": "2026-09-28T20:48:27Z",
+      "pages": 8,
+      "bytes": 61457,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W47_Intermodal-Report-Week-47-2022": {
+      "timestamp": "2026-09-28T20:48:27Z",
+      "pages": 8,
+      "bytes": 57944,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W49_Intermodal-Report-Week-49-2022": {
+      "timestamp": "2026-09-28T20:48:27Z",
+      "pages": 8,
+      "bytes": 59989,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W50_Intermodal-Report-Week-50-2022": {
+      "timestamp": "2026-09-28T20:48:28Z",
+      "pages": 8,
+      "bytes": 52986,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W48_Intermodal-Report-Week-48-2022": {
+      "timestamp": "2026-09-28T20:48:27Z",
+      "pages": 8,
+      "bytes": 56430,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2022_W51_Intermodal-Report-Week-51-2022": {
+      "timestamp": "2026-09-28T20:48:27Z",
+      "pages": 8,
+      "bytes": 51132,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W29_Intermodal-Report-Week-29-2021": {
+      "timestamp": "2026-09-28T20:48:02Z",
+      "pages": 8,
+      "bytes": 60427,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W28_Intermodal-Report-Week-28-2021": {
+      "timestamp": "2026-09-28T20:48:02Z",
+      "pages": 8,
+      "bytes": 60450,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W27_Intermodal-Report-Week-27-2021": {
+      "timestamp": "2026-09-28T20:48:02Z",
+      "pages": 8,
+      "bytes": 53713,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W26_Intermodal-Report-Week-26-2021": {
+      "timestamp": "2026-09-28T20:48:02Z",
+      "pages": 8,
+      "bytes": 65364,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W30_Intermodal-Report-Week-30-2021-2": {
+      "timestamp": "2026-09-28T20:48:03Z",
+      "pages": 8,
+      "bytes": 62296,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W31_Intermodal-Report-Week-31-2021": {
+      "timestamp": "2026-09-28T20:48:03Z",
+      "pages": 8,
+      "bytes": 57293,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W34_Intermodal-Report-Week-34-2021": {
+      "timestamp": "2026-09-28T20:48:04Z",
+      "pages": 8,
+      "bytes": 59027,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W33_Intermodal-Report-Week-33-2021": {
+      "timestamp": "2026-09-28T20:48:03Z",
+      "pages": 8,
+      "bytes": 54109,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W35_Intermodal-Report-Week-35-2021-1": {
+      "timestamp": "2026-09-28T20:48:05Z",
+      "pages": 8,
+      "bytes": 57682,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W37_Intermodal-Report-Week-37-2021": {
+      "timestamp": "2026-09-28T20:48:05Z",
+      "pages": 8,
+      "bytes": 59243,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W36_Intermodal-Report-Week-36-2021": {
+      "timestamp": "2026-09-28T20:48:04Z",
+      "pages": 8,
+      "bytes": 60247,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W38_Intermodal-Report-Week-38-2021": {
+      "timestamp": "2026-09-28T20:48:06Z",
+      "pages": 8,
+      "bytes": 51170,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W39_Intermodal-Report-Week-39-2021": {
+      "timestamp": "2026-09-28T20:48:06Z",
+      "pages": 8,
+      "bytes": 67112,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W40_Intermodal-Report-Week-40-2021": {
+      "timestamp": "2026-09-28T20:48:06Z",
+      "pages": 8,
+      "bytes": 60183,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W42_Intermodal-Report-Week-42-2021": {
+      "timestamp": "2026-09-28T20:48:07Z",
+      "pages": 8,
+      "bytes": 65161,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W41_Intermodal-Report-Week-41-2021": {
+      "timestamp": "2026-09-28T20:48:06Z",
+      "pages": 8,
+      "bytes": 60412,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W43_Intermodal-Report-Week-43-2021": {
+      "timestamp": "2026-09-28T20:48:07Z",
+      "pages": 8,
+      "bytes": 58759,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W44_Intermodal-Report-Week-44-2021": {
+      "timestamp": "2026-09-28T20:48:08Z",
+      "pages": 8,
+      "bytes": 55740,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W45_Intermodal-Report-Week-45-2021": {
+      "timestamp": "2026-09-28T20:48:07Z",
+      "pages": 8,
+      "bytes": 65262,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W46_Intermodal-Report-Week-46-2021": {
+      "timestamp": "2026-09-28T20:48:09Z",
+      "pages": 8,
+      "bytes": 59666,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W48_Intermodal-Report-Week-48-2021": {
+      "timestamp": "2026-09-28T20:48:09Z",
+      "pages": 8,
+      "bytes": 63683,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W47_Intermodal-Report-Week-47-2021": {
+      "timestamp": "2026-09-28T20:48:09Z",
+      "pages": 8,
+      "bytes": 54883,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W49_Intermodal-Report-Week-49-2021": {
+      "timestamp": "2026-09-28T20:48:09Z",
+      "pages": 8,
+      "bytes": 59906,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W50_Intermodal-Report-Week-50-2021-1": {
+      "timestamp": "2026-09-28T20:48:09Z",
+      "pages": 8,
+      "bytes": 47724,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2021_W51_Intermodal-Report-Week-51-2021": {
+      "timestamp": "2026-09-28T20:48:11Z",
+      "pages": 8,
+      "bytes": 65026,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W37_Intermodal-Report-Week-37-2026": {
+      "timestamp": "2026-09-30T14:03:18Z",
+      "pages": 8,
+      "bytes": 41172,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W36_Intermodal-Report-Week-36-2026": {
+      "timestamp": "2026-09-30T14:03:18Z",
+      "pages": 8,
+      "bytes": 40279,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_2026_W38_Intermodal-Report-Week-38-2026": {
+      "timestamp": "2026-09-30T14:03:18Z",
+      "pages": 8,
+      "bytes": 39884,
+      "cached": true,
+      "tier": "cost_effective"
+    },
+    "intermodal_30_09_2026_intermodal_weekly_market_report_week_39_2026_broker_s_insi": {
+      "timestamp": "2026-09-30T14:03:18Z",
+      "pages": 8,
+      "bytes": 38973,
+      "cached": true,
+      "tier": "cost_effective"
+    }
+  },
+  "failed": {},
+  "pages_parsed": 2026,
+  "credits_estimated": 6078,
+  "credits_remaining": 9637,
+  "tier": "cost_effective",
+  "credits_used_active_key": 96
+}
+
+=== COUNTS ===
+advanced_shipping|253|253|0
+--- advanced_shipping CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+affinity|254|254|0
+--- affinity CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+agora|215|215|6
+--- agora CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+banchero_costa|247|251|17
+--- banchero_costa CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+carriers|136|137|0
+--- carriers CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+clarksons|9|179|3
+--- clarksons CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+fearnleys|261|261|5
+--- fearnleys CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+fearnleys-md|176|181|0
+--- fearnleys-md CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+intermodal|256|256|24
+--- intermodal CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+ism|115|115|1
+--- ism CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+lion|46|46|0
+--- lion CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+ssy|530|530|2
+--- ssy CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+star_asia|199|200|60
+--- star_asia CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+xclusiv|271|271|0
+--- xclusiv CSVs ---
+advanced_shipping_demo_sales_series.csv
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,country,comments,page,source_file
+2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+advanced_shipping_demolition_series.csv
+issue,report_week,segment,country,price_usd_per_ldt,source_file
+2026-09-25,39,Tankers,Turkey,285.0,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
