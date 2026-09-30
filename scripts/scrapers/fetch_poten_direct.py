@@ -484,8 +484,12 @@ def build_markdown(title, date_str, article_url, author, dek, provenance, pdf_ur
     completeness = "full_pdf_archived" if pdf_url else "standfirst"
     pdf_fm = f'pdf_url: "{pdf_url}"\npdf_file: "{pdf_file}"\n' if pdf_url else ""
     pdf_body = f"**Full PDF Report**: [{pdf_file}]({pdf_url})\n" if pdf_url else ""
+    # PEP 701: a backslash inside an f-string expression is a SyntaxError on
+    # Python <= 3.11 (the Actions runner's version), which made this whole
+    # module fail to import there and the poten fetch collect nothing.
+    title_clean = title.replace(chr(34), "")
     return f"""---
-title: "Poten Tanker Opinion: {title.replace('\"', '')}"
+title: "Poten Tanker Opinion: {title_clean}"
 date: "{date_str}"
 source: "poten"
 category: "tankers"

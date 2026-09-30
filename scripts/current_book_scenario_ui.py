@@ -36,7 +36,11 @@ def render_scenario_summary(res: Dict[str, Any]) -> str:
     lines.append(f"  Base Futures Notional: {format_currency(res['total_base_notional_dollars'])}")
     lines.append(f"  Total Delta NAV ($)  : {format_currency(res['total_delta_nav_dollars'])} ({'+' if res['total_delta_nav_dollars'] >= 0 else ''}{res['total_delta_nav_dollars']:,.2f})")
     lines.append(f"  Same-Date Shares     : {res['dated_official_shares'] if res['dated_official_shares'] else 'UNAVAILABLE (Unobserved on interim snapshot dates)'}")
-    lines.append(f"  Per-Share NAV Impact : {f'${res['delta_nav_per_share_dollars']:+.4f}/sh' if res['delta_nav_per_share_dollars'] is not None else 'UNAVAILABLE (Strictly Excluded without dated shares)'}")
+    # PEP 701 only: the nested f-string below reuses its enclosing quote type and is a
+    # SyntaxError on Python <= 3.11.  Computed into a plain variable instead.
+    _dns = res['delta_nav_per_share_dollars']
+    _dns_txt = f"${_dns:+.4f}/sh" if _dns is not None else 'UNAVAILABLE (Strictly Excluded without dated shares)'
+    lines.append(f"  Per-Share NAV Impact : {_dns_txt}")
     lines.append(f"  Share Status Flag    : {res['share_conversion_status']}")
     lines.append("----------------------------------------------------------------------------------------------------")
     lines.append("  EXPLICIT UNRESOLVED RESIDUAL FLAGS:")

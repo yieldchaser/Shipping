@@ -261,8 +261,11 @@ def process_page(page_num, use_category=False, delay=1.5):
                 md_target.parent.mkdir(parents=True, exist_ok=True)
                 dek_m = re.search(r'\b(\d{1,2}\s+[A-Za-z]+\s+20\d\d\s*:[^<\n\r]+)', art_html or "")
                 dek_text = dek_m.group(1) if dek_m else title
+                # PEP 701: a backslash inside an f-string expression is a SyntaxError
+                # on Python <= 3.11 (the Actions runner's version).
+                title_clean = title.replace(chr(34), "")
                 md_content = f"""---
-title: "Poten Tanker Opinion: {title.replace('\"', '')}"
+title: "Poten Tanker Opinion: {title_clean}"
 date: "{date_str}"
 source: "poten"
 category: "tankers"
