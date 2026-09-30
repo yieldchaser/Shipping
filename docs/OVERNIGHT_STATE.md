@@ -1,3 +1,32 @@
+**THIS RUN (2026-09-30 11:4x) - the last open ledger item (the ism agreement tail) is CLOSED as MEASURED, and it is the PUBLISHER'S AXIS, not our parse. Plus a latent breakage fixed that would have silently emptied both ism series.**
+
+The previous run's instruction was "name the failing REPORTS and read them". Done. Two documents were read against
+their own pages, and in BOTH the extractor is exact:
+* `ism_2024_W42` Izmail/Odesa-Bari/Ortona: recomputing by hand from the page's own printed y labels (100@292.9 ...
+  20@432.9, 17.5pt/10 units, axis line 437.1) and the drawn grey `2022 year` path gives week 1 = **45.0** and
+  week 10 = **37.0**, exactly the CSV. The CSV's 21-week "hole" is the publisher's own line break (one path, two subpaths).
+* `ism_2026_W19` vs `ism_2026_W23` Corn/soybeans POC-Alexandria/Beirut: the page prints y labels **45..10** in W19 and
+  **50..15** in W23 at essentially the same pixels (top label y 673.7 vs 675.7), and the extractor records each page's
+  own labels exactly. An independent calibration fitted only from the printed labels + the drawn path reproduces the
+  CSV on both pages (W19 2025 line 18.6/18.0/18.0/18.8; W23 2024 36.5/29.5/23.5/22.0, 2025 23.0/22.5/22.0/23.0).
+  So the ~4-5 unit disagreement between issues is a publisher-side one-tick label shift; no re-extraction can remove it.
+CENSUS (calendar-year overlays only, `scratch/ism_tail_census2.py`): 4,489 comparable keys, **1,231 rows = 8.5%** off the
+cross-report median, **65 of 84** contributing reports never an outlier; concentrate in `ism_2026_W19` 121/122 (99%),
+`ism_2023_W27` 120/125, `ism_2023_W36` and `ism_2023_W38` 127/140 each, `ism_2024_W41` 139/286, `ism_2025_W41` 111/265,
+`ism_2025_W44` 114/268, `ism_2026_W06` 81/199, `ism_2024_W48` 53/110, `ism_2024_W50` 55/266, `ism_2023_W50` 48/204,
+`ism_2024_W01` 48/154.
+**THE ONE LEVER THAT IS OURS, measured and NOT applied:** the pooled `value` sits at the cluster EDGE (`min`/`max`) on
+**1,139/1,598 (71%)** of the >2%-spread multi-report rows in handy and **635/969 (66%)** in coaster (n>=3 subset: 925/1,384
+and 363/697). Next run: trial a median-preferring pick, re-measure the gate before/after; never hand-edit the CSV.
+**FIXED + PROVEN THIS RUN:** a parallel process re-organised `data/extracted/md/ism/` into `2023/..2026/` subdirs at 11:35
+today; `run_ism_series.py` globbed `*.charts.json` NON-recursively and would have found **0** charts and rewritten both
+CSVs empty. Now `rglob`; re-run finds all **114** and reproduces both files **byte-identically** (sha256 `021d2a5f7498...`
+coaster, `85bf1052b538...` handy). Same latent breakage (top-level `*.md` = 0, recursive = 271 / 247) fixed in the working
+tree for `normalize_xclusiv_md.py` and `build_banchero_series.py` - both are UNTRACKED files belonging to another agent,
+so the fix is left uncommitted beside them rather than landing their unpublished file.
+Commit `248ae3174` (docs + runner). Evidence: `docs/ism_agreement_tail.md` section 3.
+**NOTE: this dir tree is shared - 114 files moved while this run was measuring them. Always glob recursively.**
+
 **THIS RUN (2026-09-30 10:2x) - THE LAST NAMED NUMERIC-GATE REJECT IS SHIPPED: WCI displayed 108 -> 109 rows, 569/569 = 100.00% page-reconciled. Plus one latent parser bug found while checking.**
 
 The 2021-05-20 page introduces its levels with a PHRASE, not with the bare `to|at|reach` the parser knew:
