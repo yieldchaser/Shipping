@@ -1,0 +1,29 @@
+---
+title: "Face off in Venezuela"
+subtitle: "Tanker owners should closely follow the developments"
+issue_date: "2019-01-25"
+year: 2019
+author: "Poten & Partners"
+source: "poten"
+category: "tankers"
+pages: 1
+source_file: "corpus/04-poten/pdfs/2019/Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf"
+tables_count: 0
+parser: "poten_clean_v2"
+---
+
+# Face off in Venezuela
+
+### Tanker owners should closely follow the developments
+
+On Wednesday, Mr. Juan Guaido, the head of the country's National Assembly, declared himself interim president of Venezuela. He declared the incumbent, Mr. Maduro illegitimate and invoked a constitutional rule that transfers power to the head of the National Assembly if the presidency is vacated. Mr. Guaido was immediately recognized by the United States, Canada, the United Kingdom, the Organization of American States and most Latin American Governments. However, major backers of the Maduro regime, such as Russia, China and Turkey as well as regional supporters Cuba, Nicaragua and Bolivia continue to support the incumbent. So far Venezuela's military has also thrown its support behind Mr. Maduro. Depending on how it plays out, the leadership crisis in Venezuela could have a significant impact on the tanker market.
+
+Even though diplomatic relationships between Venezuela and the U.S. have been frosty for years, commercial ties remained quite strong. The U.S. is traditionally a large buyer of Venezuelan crude oil and while import volumes have dwindled in recent years, primarily due to the production problems in Venezuela, the U.S. remains the largest customer of PDVSA (Venezuela's state-owned oil company). We estimate that Venezuela exported about 1.4 million barrels per day (mb/d) in 2018, down from 1.75 mb/d in 2017 and 1.9 mb/d in 2016. About one third of Venezuela's exports go to refineries in the U.S. (including PDVSA subsidiary CITGO), while India takes about 21% and China another 18%. Venezuela is maximizing exports to the U.S. because these clients pay for the crude in hard currency. Most of the Venezuelan crude going to Asia is sent as repayment for loans that have been extended to the country over the years. Venezuela is therefore highly reliant on their U.S. customers for foreign exchange.
+
+Venezuela also relies on U.S. refiners in a different way. The same economic turmoil that has led to a collapse of Venezuela's crude oil production has also impacted the refineries in the country. A lack of maintenance and investment has led to a dramatic fall in refinery utilization. As a result, the Latin American country has been importing increasing volumes of refined products from the United States. In 2018, the U.S. exported an average of more than 100,000 b/d of unfinished oils, distillates and gasoline & blending components to the embattled country. Venezuela also imports significant volumes of naphtha to blend into its heavy crudes. This naphtha is primarily coming from the U.S.
+
+What are the possible next steps? Maduro could step aside and facilitate a peaceful transition of power, but that seems unlikely. It is more probable that we will have a standoff for a period of *Including Caribbean Terminals (Aruba, Curacao, Bonaire) time where the players on both sides are waiting for a response from the other before they decide on their next steps.
+
+One of these next steps could be additional sanctions from the U.S., including a ban on crude oil imports from Venezuela and/or a prohibition on product exports. Each of these steps would add significant pressure to the regime of Mr. Maduro. PDVSA would be hard-pressed to replace the volumes that it currently ships to the U.S. India and China are possible destinations, but they are less attractive customers, unless they will pay cash for the incremental volumes. A switch from the U.S. to Asia will also reshuffle the tanker markets. It will significantly add to tanker ton-mile demand with long-haul VLCC trips replacing short-haul Aframax voyages. Under this scenario, U.S. refiners will need to look for cargoes to replace the heavy Venezuelan crudes. Heavy crude oil production in Mexico has been in decline and getting Canadian heavy grades to the U.S. Gulf has also been a challenge. U.S. refiners could end up importing more heavy Middle Eastern grades, which would be another boost for VLCC demand.
+
+On the product side, the situation is rather similar. If Venezuela can no longer rely on U.S. supplies, it may need to import additional refined products from Europe, which is a much longer voyage. Alternative sources of supply, including refiners in the Middle East or Asia would generate even more ton- miles and could trigger a switch from MR's to LR1's.

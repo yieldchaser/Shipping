@@ -93,7 +93,9 @@ def identify_broker(title, text):
     if "allied" in t_lower:
         return "allied"
     elif "bancosta" in t_lower or "banchero costa" in t_lower:
-        return "bancosta"
+        return "banchero_costa"
+    elif "carriers chartering" in t_lower or "carriers.gr" in t_lower or "snp@carriers" in t_lower:
+        return "carriers"
     elif "intermodal" in t_lower:
         return "intermodal"
     elif "xclusiv" in t_lower:
@@ -102,8 +104,8 @@ def identify_broker(title, text):
         return "advanced_shipping"
     elif "compass" in t_lower:
         return "compass_maritime"
-    elif "lion" in t_lower:
-        return "lion_shipbrokers"
+    elif "lion shipbrokers" in t_lower or "lion-shipbrokers" in t_lower or "lion weekly" in t_lower:
+        return "lion"
     elif "optima" in t_lower:
         return "optimaship"
     elif "anchor" in t_lower:
@@ -124,7 +126,7 @@ def identify_broker(title, text):
         return "agora"
     elif "ism" in t_lower or "intership" in t_lower:
         return "ism"
-    elif "clarksons" in t_lower or "clarkson" in t_lower:
+    elif "clarksons" in t_lower or "clarkson" in t_lower or "clarksons hellas" in t_lower:
         return "clarksons"
     return "general_broker"
 
@@ -243,7 +245,7 @@ def crawl_reports(max_pages=3, delay_sec=1.0):
                 if a:
                     title = a.get_text().strip()
                     href = a["href"]
-                    date_str = "2026-08-24"
+                    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
                     parent = h2.find_parent(["article", "div"])
                     if parent:
                         date_elem = parent.find(["time", "span"], class_=re.compile(r"date|entry-date|published"))
@@ -254,7 +256,7 @@ def crawl_reports(max_pages=3, delay_sec=1.0):
             if not articles:
                 for a in soup.find_all("a", href=True):
                     if "/weekly-shipbrokers-report" in a["href"] or "weekly" in a["href"]:
-                        articles.append((a["href"], a.get_text().strip(), "2026-08-24"))
+                        articles.append((a["href"], a.get_text().strip(), datetime.now(timezone.utc).strftime("%Y-%m-%d")))
             
             print(f"Found {len(articles)} article links on page {page_num}")
             

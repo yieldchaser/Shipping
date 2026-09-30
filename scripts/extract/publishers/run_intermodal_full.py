@@ -52,8 +52,10 @@ from llama_parse import LlamaParse
 # ---------------------------------------------------------------------------
 # Credentials and Configuration
 # ---------------------------------------------------------------------------
-DEFAULT_API_KEY = "llx-hM8tERqfFZk1JGzLdPcuSgcaBctblBqm76nIieMxIx6AnAgB"
+DEFAULT_API_KEY = "llx-p1IAIhBMQdXo21E9Wz2jgW6hoTPJ8Xs2VvxJMd7S7b8aXYUR"
 API_KEY = os.environ.get("LLAMA_CLOUD_API_KEY", DEFAULT_API_KEY)
+if API_KEY == "llx-hM8tERqfFZk1JGzLdPcuSgcaBctblBqm76nIieMxIx6AnAgB":
+    API_KEY = DEFAULT_API_KEY
 os.environ["LLAMA_CLOUD_API_KEY"] = API_KEY
 
 ROOT = pathlib.Path(__file__).resolve().parents[3]
@@ -78,7 +80,7 @@ DEMO_SALES_CSV = OUT_SERIES_DIR / "intermodal_demo_sales_series.csv"
 DEMO_PRICES_CSV = OUT_SERIES_DIR / "intermodal_demolition_prices_series.csv"
 NB_ORDERS_CSV = OUT_SERIES_DIR / "intermodal_newbuilding_orders_series.csv"
 
-INITIAL_CREDITS = 9100
+INITIAL_CREDITS = 9733
 CREDITS_PER_PAGE = 3  # cost_effective tier
 
 state_lock = threading.Lock()
@@ -459,18 +461,20 @@ def parse_all_intermodal_tables(
             for row in grid[1:]:
                 if not row or len(row) < 3:
                     continue
-                row_txt = " ".join(row).lower()
-                if any(x in row_txt for x in ["spot rates", "routes", "ws points", "$/day"]):
+                has_nums = any(re.search(r"\d", c) for c in row[2:6]) if len(row) > 2 else False
+                if not has_nums:
                     continue
                 v_col = row[0].strip()
                 route = row[1].strip() if len(row) > 1 else ""
+                if route.lower() == "routes":
+                    continue
+                if re.match(r"^routes\s*", route, re.I):
+                    route = re.sub(r"^routes\s*", "", route, flags=re.I).strip()
                 if any(x in v_col.lower() for x in ["meg-", "waf-", "med-", "bsea-", "baltic", "caribs", "ukc-", "ara-"]):
                     route = v_col
                     v_col = ""
-                elif route.startswith("Routes"):
-                    route = route[6:].strip()
 
-                if not route or any(x in route.lower() for x in ["routes", "total", "average"]):
+                if not route or any(x in route.lower() for x in ["total", "average"]):
                     continue
 
                 r_low = route.lower()
@@ -1030,8 +1034,11 @@ def process_single_pdf(
     parsed = parse_all_intermodal_tables(full_text, issue_date, wk, pdf_path.name)
 
     # 3. Write / update sidecars
-    OUT_MD_DIR.mkdir(parents=True, exist_ok=True)
-    sidecar_path = OUT_MD_DIR / f"{stem}.tables.json"
+    # 3. Write / update sidecars (year-partitioned)
+    year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+    dest_dir = OUT_MD_DIR / year_str
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    sidecar_path = dest_dir / f"{stem}.tables.json"
     sidecar_data = {
         "issue_date": issue_date,
         "report_week": wk,
@@ -1052,8 +1059,8 @@ def process_single_pdf(
     }
     sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    # Update cover-to-cover md in data/extracted/md/intermodal/<stem>.md
-    dest_md = OUT_MD_DIR / f"{stem}.md"
+    # Update cover-to-cover md in data/extracted/md/intermodal/<year>/<stem>.md
+    dest_md = dest_dir / f"{stem}.md"
     dest_md.write_text(full_text, encoding="utf-8")
 
     return {
@@ -1266,7 +1273,7 @@ def recover_nb_previous(rows: List[Dict[str, Any]]) -> int:
 
 def build_all_series_from_sidecars():
     """Aggregate all sidecars in data/extracted/md/intermodal into the 8 series CSVs."""
-    sidecar_files = sorted(OUT_MD_DIR.glob("*.tables.json"))
+    sidecar_files = sorted(OUT_MD_DIR.rglob("*.tables.json"))
     all_tanker_spot = []
     all_tc_rates = []
     all_ind_values = []
@@ -1332,7 +1339,7 @@ def build_all_series_from_sidecars():
 # ---------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser(description="Intermodal Full Cover-to-Cover Extraction Runner")
-    parser.add_argument("--year", type=str, default="2026", help="Year to process ('2026', '2025', or 'all')")
+    parser.add_argument("--year", type=str, default=str(__import__("datetime").date.today().year), help="Year to process (e.g. '2026', '2025', or 'all')")
     parser.add_argument("--limit", type=int, default=0, help="Max reports to process (0 for all)")
     parser.add_argument("--workers", type=int, default=4, help="Parallel worker threads")
     parser.add_argument("--reparse-only", action="store_true", help="Reparse existing cached full markdowns without calling LlamaParse")
@@ -1408,8 +1415,11 @@ def main():
                     }
                     if not is_cached:
                         state["pages_parsed"] = state.get("pages_parsed", 0) + pages_cnt
-                        state["credits_estimated"] = state.get("credits_estimated", 0) + (pages_cnt * CREDITS_PER_PAGE)
-                        state["credits_remaining"] = INITIAL_CREDITS - state["credits_estimated"]
+                        cost = pages_cnt * CREDITS_PER_PAGE
+                        state["credits_estimated"] = state.get("credits_estimated", 0) + cost
+                        used_key2 = state.get("credits_used_active_key", 0) + cost
+                        state["credits_used_active_key"] = used_key2
+                        state["credits_remaining"] = INITIAL_CREDITS - used_key2
                     ok_cnt += 1
 
                 print(f"  [{idx}/{len(todo_pdfs)}] {stem[:45]:<45} OK ({'cached' if is_cached else 'LlamaParse'}, pages={pages_cnt}, elapsed: {time.time()-t0:.1f}s)", flush=True)

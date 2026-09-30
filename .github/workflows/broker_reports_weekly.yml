@@ -33,7 +33,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc
+        run: pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf pillow
 
       - name: Configure Git identity
         run: |
@@ -52,10 +52,12 @@ jobs:
           python scripts/fearnleys/build_tanker_routes_daily.py --build --verify || true
           python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
+          python scripts/extract/orchestrate_incremental_ingest.py || true
+          python scripts/sync_extraction_register.py || true
 
       - name: Commit & Push New Broker Reports
         run: |
-          git add corpus/01-brokers/_digests/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json data/clarksons/ data/derived/scrappage_prices.csv data/derived/fearnleys_tanker_routes_daily.json data/views/routes/ || true
+          git add corpus/01-brokers/ data/extracted/md/ data/extracted/series/ data/extracted/charts/ data/extracted/EXTRACTION_REGISTER.json docs/EXTRACTION_REGISTER.md data/derived/ data/views/ data/clarksons/ || true
           if git diff --staged --quiet; then
             echo "No new broker reports found."
             exit 0

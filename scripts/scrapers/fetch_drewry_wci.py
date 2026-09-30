@@ -187,6 +187,20 @@ def extract_assessments(html_text):
     label_rx = re.compile(
         r"\b([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)\s*(?:to|[\u2013\u2014-])\s*"
         r"([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)")
+    # Continuation of a lane list after a conjunction: ", and|or|& [from|to] Port".
+    cont_rx = re.compile(
+        r"\s*(?:\band\b|\bor\b|,|&)\s*(?:(?:from|to)\s+)?"
+        r"([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)")
+    # A separator followed by a port is a NEW PAIR, not a continuation: it marks
+    # the captured words as an ORIGIN ("...and Shanghai to Rotterdam").
+    pair_sep_rx = re.compile(r"\s*(?:to|[\u2013\u2014-])\s*[A-Z][A-Za-z]+")
+    # The ORIGIN CAN BE ELIDED on a re-statement of the same lane family:
+    # "...rates from Shanghai to New York falling 6% to $2,735 per 40ft container
+    # and rates to Los Angeles reducing 4% to $2,089" (2025-11-27). Used ONLY as
+    # a monotone fallback that fills a lane still EMPTY after the sentence's own
+    # logic - it can never move or overwrite a value another rule found.
+    elided_rx = re.compile(
+        r'\b(?:rates|those)\s+(?:to|on|from|for)\s+([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)')
     # The publisher's own port vocabulary, DERIVED from ROUTE_PATTERNS (never
     # hardcoded). A match whose every word is not a port name is prose
     # ("According to Drewry"), not a lane, and must not consume an ordinal.
@@ -202,6 +216,15 @@ def extract_assessments(html_text):
     def label_col(seg):
         for pat, col in ROUTE_PATTERNS:
             if re.search(pat, seg, re.I):
+                return col
+        return None
+
+    def lane_col(origin, dest):
+        """The column "<origin> to <dest>" names, or None. DERIVED from
+        ROUTE_PATTERNS (the publisher's own lane vocabulary), never hardcoded."""
+        probe = "%s to %s" % (origin, dest)
+        for pat, col in ROUTE_PATTERNS:
+            if re.fullmatch(pat, probe, re.I):
                 return col
         return None
 
@@ -275,7 +298,19 @@ def extract_assessments(html_text):
             # port-vocabulary guard, so the sentence counted ONE lane instead of
             # two and the respectively rule could not fire. Trim leading non-port
             # words off the match and keep the rest.
+            # A SECOND DESTINATION THAT SHARES THE ORIGIN is written as a BARE
+            # PORT after a conjunction - "rates from Shanghai to New York and
+            # Los Angeles increasing 9% to $9,507 and $6,802 per 40ft container,
+            # respectively" (2026-08-20). label_rx needs a separator before the
+            # port, so the second lane was INVISIBLE: the sentence counted ONE
+            # lane and its value was dropped. MEASURED: 8 of the 26 cached 2026
+            # capture pages leave at least one lane unparsed this way. A
+            # continuation is taken ONLY when it starts IMMEDIATELY after the
+            # label and is not itself the origin of a new pair ("...and Shanghai
+            # to Rotterdam" keeps its own label), and its column is DERIVED from
+            # ROUTE_PATTERNS by reconstructing "<origin> to <dest>".
             all_labels = []
+            label_origins = {}
             for m in label_rx.finditer(sent):
                 seg = m.group(0)
                 while seg and not is_route_mention(seg):
@@ -284,8 +319,26 @@ def extract_assessments(html_text):
                         seg = ''
                         break
                     seg = parts[1]
-                if seg and is_route_mention(seg):
-                    all_labels.append((m.end() - len(seg), m.end(), label_col(seg)))
+                if not (seg and is_route_mention(seg)):
+                    continue
+                all_labels.append((m.end() - len(seg), m.end(), label_col(seg)))
+                _parts = re.split(r"\s*(?:to|[\u2013\u2014-])\s*", seg)
+                _origin, _dest = _parts[0], _parts[-1]
+                label_origins[(m.end() - len(seg), m.end())] = (_origin, _dest)
+                rest = sent[m.end():]
+                while True:
+                    cm = cont_rx.match(rest)
+                    if not cm:
+                        break
+                    dseg = cm.group(1)
+                    after = rest[cm.end():]
+                    if (not is_route_mention(dseg)
+                            or dseg.strip().lower() == _dest.strip().lower()
+                            or pair_sep_rx.match(after)):
+                        break
+                    all_labels.append((m.end() + cm.start(1), m.end() + cm.end(1),
+                                       lane_col(_origin, dseg)))
+                    rest = after
             to_vals = [c for c in cands
                        if to_rx.search(sent[max(0, c[0] - INTRO_WIN):c[0]])]
             parallel = (len(all_labels) >= 2
@@ -359,6 +412,33 @@ def extract_assessments(html_text):
                 used_vals.add(vs)
                 if col not in values:
                     values[col] = val
+            # ELIDED ORIGIN, monotone: only a lane still EMPTY after the whole
+            # sentence's logic can be filled here, so no existing assignment can
+            # move or be overwritten. The value is the level of the elided
+            # mention's OWN clause, taken nearest to it.
+            for cm in elided_rx.finditer(sent):
+                dseg = cm.group(1)
+                if not is_route_mention(dseg) or pair_sep_rx.match(sent[cm.end():]):
+                    continue
+                for ls, le, col in all_labels:
+                    if col is None or col not in values:
+                        continue
+                    origin, ldest = label_origins.get((ls, le), (None, None))
+                    if not origin or dseg.strip().lower() == (ldest or '').strip().lower():
+                        continue
+                    ncol = lane_col(origin, dseg)
+                    if ncol is None or ncol in values:
+                        continue
+                    cl = None
+                    for ca, cb in clauses(sent):
+                        if ca <= cm.start(1) and cm.end(1) <= cb:
+                            cl = (ca, cb)
+                            break
+                    pool = [c for c in cands
+                            if (cl is None or cl[0] <= c[0] < cl[1])
+                            and to_rx.search(sent[max(0, c[0] - INTRO_WIN):c[0]])]
+                    if pool:
+                        values[ncol] = min(pool, key=lambda c: gap(cm.end(1), cm.start(1), c))[2]
     # Rendered tables first (label cell next to the value cell)
     for table in soup.find_all("table"):
         for row in table.find_all("tr"):
