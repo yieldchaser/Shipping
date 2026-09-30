@@ -167,7 +167,9 @@ def unit_for(title: str, labels: List[str]) -> str:
 
 
 def main() -> None:
-    chart_files = sorted(ISM_DIR.glob("*.charts.json"))
+    # md tier is organised by YEAR subdirectory (2023/, 2024/, ...); a non-recursive
+    # glob silently finds 0 charts and rewrites both CSVs empty. Found 2026-09-30.
+    chart_files = sorted(ISM_DIR.rglob("*.charts.json"))
     print(f"[ism] Processing {len(chart_files)} .charts.json files from {ISM_DIR}...")
 
     # (segment, route_title, series_label, iso_date) -> list of (value, report_iso, unit)
