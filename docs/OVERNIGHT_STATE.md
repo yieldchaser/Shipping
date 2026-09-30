@@ -1,3 +1,28 @@
+**THIS RUN (2026-09-30 15:3x) - CLOSED the md-tier item the 14:2x run left open. `corpus/06-drewry/opinions/2026/*_drewry_wci.md`: 9 files -> 5 files, one per print, 0 fused lanes, 0 duplicate prints, 0 non-Thursday names.**
+
+The WCI md tier carried the SAME two pre-fix defects as the CSV, plus a third the CSV never had:
+(1) **9/9 named with the RUN date**, (2) **9/9 `shanghai_rotterdam == shanghai_genoa`**, **7/9 `shanghai_la == shanghai_ny`**,
+**2/9 a lane blank** - so the tier held **5 prints in 9 files** and every file carried its neighbour lane's level
+(the 3 Sep file read Rotterdam 4,368 / New York 7,185 where the page prints 4,092 / 9,587).
+**IT MATTERS because `scratch/wci/merge_display.py` gives this tier AUTHORITY for dates >= 2026-08-01** - a re-run of the
+display merge would have re-imported the fused numbers over the repaired CSV.
+**FIX:** new `scripts/scrapers/repair_wci_md_tier.py` - print date from the page's own phrase (content-anchored, Thursday,
+unique), values from the repaired CSV row for that print, then rename to the print's date; same-print files collapsed
+**only after their bodies are proven identical**. 25 lines changed total (15 date/title lines + 10 value cells), 4 duplicate
+files removed. Evidence `docs/drewry_wci_md_tier_verdict.md`.
+**CONTROLS:** every value printed VERBATIM in the file's OWN commentary prose (5/5 files, 5/5 values each) - the witness a
+CSV-side check cannot use; git HEAD as the before-witness (exactly 5 lines differ per file, commentary byte-identical 5/5);
+table == CSV 5/5; every name a Thursday == its own page phrase; idempotent (2nd run changes 0); cached-page re-parse
+reproduces 09-03 / 09-10 / 09-24 exactly (4/5 on 08-20, see below). No network, no API spend, no vision tool in session.
+**NEW OPEN ITEM (measured, named):** the parser leaves >=1 lane unparsed on **8 of the 26 cached 2026 capture pages**
+(08-20 la; 04-16 la x2; 03-26 rotterdam+la; 04-30 rotterdam; 02-12 la+ny; 2025-12-25 la+ny). This is **RECALL only** - the
+displayed CSV has 0 blank cells, and the value IS printed on the page ($6,802 for 08-20, verified against that print's own
+prose). Shape: a second lane named after `and` ("rates from Shanghai to New York and Los Angeles increasing 9% to $9,507
+and $6,802").
+**NEXT (in order):** (1) that lane-recall shape in `extract_assessments`; (2) `upsert_wci_rows()` - dedupe by date only, add a
+Thursday assertion; (3) the 2021-07-01 "k labels, 2k numbers" lane shape; (4) poten runner-side HTTP 403 + replace `|| true`
+with a non-empty-catalog assertion.
+
 **THIS RUN (2026-09-30 12:3x) - FOUND AND REPAIRED A SOURCE THAT HAD BEEN COLLECTING NOTHING FOR WEEKS WHILE ITS PIPELINE REPORTED SUCCESS. Found by auditing collection liveness (nothing named it); main was NOT touched.**
 
 **THE FINDING: poten's live collection is dead on the Actions runner, and it is invisible from this box.**

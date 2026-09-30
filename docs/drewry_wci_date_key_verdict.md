@@ -104,3 +104,12 @@ repair works entirely from page text already held in the repo.
 3. The standing ledger items are unchanged: 107 snapshots incomplete +
    4 numeric-gated + 1 fetch failure (all pre-2023, all named in the stack's gate
    census), and the 2021-07-01 "k labels, 2k numbers" lane shape.
+
+## FOLLOW-UP 2026-09-30 15:4x - open item 1 is FIXED
+
+The md tier was repaired by `scripts/scrapers/repair_wci_md_tier.py`:
+**9 files -> 5 files, one per print, 0 fused lanes, 0 duplicate prints**.
+The paths named above are now keyed by the print's own date (`2026-09-18` ->
+`2026-09-17_drewry_wci.md`; `2026-09-20`/`2026-09-06`/`2026-09-07`/`2026-08-25`
+removed as bodies identical to their kept print). Evidence and controls:
+`docs/drewry_wci_md_tier_verdict.md`.
