@@ -21,6 +21,13 @@ Evidence `docs/drewry_wci_era2021_verdict.md` (pv11 section). Commits `2ce8d7294
 **STILL OPEN:** 107 snapshots incomplete + 4 numeric-gated + 1 fetch failure (pre-existing, all pre-2023 - each
 means the publisher printed no number or the row is a genuine reject, named in the gate census).
 
+**SAME RUN, CONTINUED (11:0x) - LEDGER AUDIT: the two items the previous run left as "pick one" were ALREADY CLOSED. Verified today by measurement, and the "open" pointer was stale.**
+
+* **4.5 `star_asia_deals_series.csv` - closed 2026-09-28. MEASURED today:** 3,358 rows; `arrival_date` ISO **2,708**, old European `DD.MM.YYYY` shape **0**; `beaching_date` ISO **1,747**, old shape **0**, the status text now in `beaching_date_status` (AWAITING 958 / ARRESTED 24 / blank 2,374). 63 publisher-corrupt years (`29.02.2022`) stay blank and are inventoried with page evidence. Do not re-chase.
+* **4.3 `intermodal_macro_series.csv` - closed 2026-09-28, and the ledger's premise is WRONG BY DESIGN.** `prior_value` is the page's SECOND SESSION column (1-Jul-21) while the publisher's `W-O-W Change %` is week-over-week, so nothing about it should be expected to reproduce. MEASURED today: 2,833/3,739 (75.8%) do not reproduce from latest/prior, **0** blanks; but the printed % DOES reproduce from the same indicator's latest in the PREVIOUS REPORT on **3,266/3,723 = 87.7%** (exact 7-day gaps: **3,149/3,383 = 93.1%**), and fails only where the gap is 14/21 days - the true base is a report we do not hold. My probe on the page's own five value columns reproduces it on **1/795**. **Do NOT rewrite latest/prior to force reproduction.**
+* **Section 2 of the ledger is stale; re-measured with its own instrument today:** ism_handy p90 20.59 -> **11.76%** (within 2% 69.1 -> **74.1%**), ism_coaster p90 43.34 -> **5.67%** (74.3 -> **83.7%**), ssy reference 87.1%, intermodal_baltic unchanged at 3.2% (held-data verdict stands).
+**THE ONLY OPEN ITEM LEFT in the ledger is the ism residual tail** (within-2% 74.1% / 83.7%): name the failing REPORTS and read them, do not re-run the gate.
+
 **SAME RUN, pv10 - the `reached` introducer: displayed 107 -> 108 rows (80 -> 108 for the run).**
 
 `to_rx` accepted `to|at|reach` but not the PAST TENSE, so a level introduced by *"and reached"* lost to
