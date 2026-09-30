@@ -157,8 +157,15 @@ def extract_assessments(html_text):
         r"on\s+the\s+other\s+hand)\b|;\s*|\n", re.I)
     # ANY route named in a sentence, tracked or not: a "respectively" list can
     # name a lane we do not keep, and dropping it shifts every ordinal in it.
+    # SEPARATOR CLASS INCLUDES THE PLAIN HYPHEN (2026-09-30): the 2021-era pages
+    # write "rates on Shanghai-New York and Shanghai-Los Angeles soared 39% and
+    # 34% to $11,180 and $8,548 per feu, respectively". With the hyphen absent
+    # NO label matched, so the ordinal rule never fired and proximity handed Los
+    # Angeles the level of New York. MEASURED: 30 hyphenated lane tokens on the
+    # 2021 pages; the non-lane forms (East-West, Intra-Asia, Ro-Ro, Y-o-Y) are
+    # rejected by is_route_mention (port vocabulary), not by the separator.
     label_rx = re.compile(
-        r"\b([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)\s*(?:to|[\u2013\u2014])\s*"
+        r"\b([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)\s*(?:to|[\u2013\u2014-])\s*"
         r"([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)")
     # The publisher's own port vocabulary, DERIVED from ROUTE_PATTERNS (never
     # hardcoded). A match whose every word is not a port name is prose

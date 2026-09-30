@@ -38,7 +38,12 @@ STATE_DIR = os.path.join(REPO, 'data', 'extracted', 'wci_backfill')
 CKPT = os.path.join(STATE_DIR, 'checkpoint.jsonl')
 STAGE = os.path.join(REPO, 'data', 'audit', 'drewry_wci_real_rows_from_wayback.csv')
 RAW_DIR = os.path.join(REPO, 'scratch', 'wci', 'raw')  # local HTML cache (gitignored)
-PARSER_VERSION = 7  # 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause, 6=composite anchored on the week headline level not the YTD average (2026-09-30), 7=re-parse of every cached snapshot under 6
+PARSER_VERSION = 8  # 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause, 6=composite anchored on the week headline level not the YTD average (2026-09-30), 7=re-parse of every cached snapshot under 6, 8=label_rx accepts the plain HYPHEN so 2021-era "Shanghai-New York" lanes are ordinalised
+# The oldest print this parser's prose shapes have been TRIAL-VERIFIED against.
+# Moved 2023-01-01 -> 2021-01-01 on 2026-09-30 (docs/drewry_wci_era2021_verdict.md):
+# every gate-passing 2021-2022 print was read lane-by-lane against its own cached
+# page. Captures older than this stay counted-but-withheld, never guessed.
+TRIALED_FROM = '2021-01-01'
 KEYS = ('composite_index', 'shanghai_rotterdam', 'shanghai_genoa', 'shanghai_la', 'shanghai_ny')
 COLS = ['date'] + list(KEYS) + ['rotterdam_shanghai', 'source_snapshot']
 HDR = {'User-Agent': 'Mozilla/5.0'}
@@ -222,12 +227,14 @@ def do_stack(era_from='2026-01-01'):
         if not rec.get('complete') or not rec.get('page_date'):
             n['incomplete'] += 1
             continue
-        # GATES. (1) era: prose shapes before 2023 were NOT trialed - the 2021
-        # captures parse to garbage (a route value of 78) and are withheld rather
-        # than guessed. (2) numeric: the four Shanghai routes are one trade
-        # family, so their spread is bounded and the composite is a weighted
-        # average of them.
-        if rec['page_date'] < '2023-01-01':
+        # GATES. (1) era: prose shapes before TRIALED_FROM are NOT trialed and are
+        # withheld rather than guessed. TRIALED_FROM was 2023-01-01 until
+        # 2026-09-30, when the 2021-2022 era was trial-verified: 28 gate-passing
+        # prints read lane-by-lane against their own pages, composite 30/30 ==
+        # the page's own headline level. (2) numeric: the four Shanghai routes are
+        # one trade family, so their spread is bounded and the composite is a
+        # weighted average of them.
+        if rec['page_date'] < TRIALED_FROM:
             n['pre_era'] += 1
             continue
         core = [rec['values'].get(k) for k in KEYS[1:]]
