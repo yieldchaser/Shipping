@@ -47,7 +47,9 @@ STATE = OUT / "_run_state.json"
 
 import pymupdf  # noqa: E402
 
-XCUT = 205.0          # table column starts here
+XCUT = 205.0          # fallback table left edge, for pages with no rows
+NL = chr(10)
+BS = chr(92)
 SIZE_MAX = 9.5        # table spans are 9pt; prose is 10pt
 ROW_TOL = 8.0         # cluster tolerance; observed row pitch is ~15pt
 
@@ -110,14 +112,62 @@ def detect_table_size(spans) -> float:
     return sizes.most_common(1)[0][0] if sizes else 9.0
 
 
-def table_rows(pg):
-    """Self-calibrating SSY row extraction.
+def _assemble(rows_y, merged, tsz, tol, xmin=None):
+    out = []
+    for grp in merged:
+        ylo, yhi = min(grp), max(grp) + 3
+        cells = []
+        for y, items in rows_y.items():
+            if not (ylo <= y < yhi):
+                continue
+            for bb, t, sz in items:
+                if abs(sz - tsz) > tol:
+                    continue
+                if len(t) > 44 or (PROSEY.search(t) and len(t) > 24):
+                    continue
+                if xmin is not None and bb[0] < xmin:
+                    continue
+                cells.append((round(bb[0]), round(bb[1]), round(bb[2]), t))
+        if not cells:
+            continue
+        cells.sort()
+        seen, row = set(), []
+        for x0, y, x1, t in cells:
+            if (x0, y, t) in seen:
+                continue
+            seen.add((x0, y, t))
+            row.append((x0, x1, t))
+        # A data row must carry a LABEL. Without this the chart's own
+        # x-axis year labels (2019 2020 2021, side by side in one y-band)
+        # are >=2 numeric cells and become a fake data row - measured
+        # 2026-09-24: 181 such rows in 181 of 519 documents, in the old
+        # output too. A row of pure numbers names no entity and is not
+        # keyable as a series, so it is not a table row.
+        if (sum(1 for c in row if is_numeric_cell(c[2])) >= 2
+                and any(not is_numeric_cell(c[2]) for c in row)):
+            out.append({"y": min(grp), "cells": row})
+    return out
+
+
+def page_rows(pg):
+    """Self-calibrating SSY row extraction -> (rows, meta).
 
     2021/2023 put the table in the RIGHT column (routes at x~208) while 2026
     puts route names in the LEFT column at x~12, so a fixed x-cut deletes them.
     This anchors on y-rows that hold >=2 numeric cells and then takes every span
-    on that row at the page's own table size - so route names are found wherever
-    they sit, and the prose column (always a larger size) is excluded.
+    on that row at the page's own table size.
+
+    The page's own table LEFT EDGE (`tx`) is derived in a first pass as the MODAL
+    x0 of each row's leftmost cell, so prose that shares a row's y-band cannot
+    move it. Rows are then re-assembled excluding spans left of `tx` - measured
+    2026-09-24: in the 2023/2024 era the prose is 8.8pt, the SAME size as the
+    table, so the old size-only test let one prose line into the
+    QUEENSLAND/JAPAN row of ssy_2023_20231103-Pacific-Capesize-Report and shifted
+    every value one column left in the typed record (10.0 -> 9.00 instead of
+    9.00 -> 9.20).
+
+    `meta["headers"]` carries the page's own header bands (the two column DATES
+    and the units), which the .md previously dropped entirely.
     """
     spans = spans_of(pg)
     tsz = detect_table_size(spans)
@@ -139,38 +189,50 @@ def table_rows(pg):
         else:
             merged.append([y])
 
-    out = []
+    first = _assemble(rows_y, merged, tsz, tol)
+    tx = (Counter(r["cells"][0][0] for r in first).most_common(1)[0][0]
+          if first else XCUT)
+    rows = _assemble(rows_y, merged, tsz, tol, xmin=tx - 2.0)
+
+    # header bands: same size as the table, inside its x-range, no numeric cell,
+    # and not inside a data row's y-band
+    taken = set()
     for grp in merged:
         ylo, yhi = min(grp), max(grp) + 3
-        cells = []
-        for y, items in rows_y.items():
-            if not (ylo <= y < yhi):
-                continue
-            for bb, t, sz in items:
-                if abs(sz - tsz) > tol:
-                    continue
-                if len(t) > 44 or (PROSEY.search(t) and len(t) > 24):
-                    continue
-                cells.append((round(bb[0]), round(bb[1]), t))
-        if not cells:
+        for y in rows_y:
+            if ylo <= y < yhi:
+                taken.add(y)
+    hb = {}
+    for y, items in rows_y.items():
+        if y in taken:
             continue
-        cells.sort()
-        seen, row = set(), []
-        for x, y, t in cells:
-            if (x, y, t) in seen:
+        for bb, t, sz in items:
+            if abs(sz - tsz) > tol or is_numeric_cell(t) or bb[0] < tx - 2.0:
                 continue
-            seen.add((x, y, t))
-            row.append(t)
-        if sum(1 for c in row if is_numeric_cell(c)) >= 2:
-            out.append(row)
-    return out
+            hb.setdefault(y, []).append((round(bb[0]), round(bb[2]), t))
+    headers = [{"y": y, "cells": sorted(v)} for y, v in sorted(hb.items())]
+
+    ys = [r["y"] for r in rows]
+    gaps = [b - a for a, b in zip(ys, ys[1:]) if 0 < b - a < 40]
+    pitch = sorted(gaps)[len(gaps) // 2] if gaps else 12.5
+    return rows, {"tsz": tsz, "tx": tx, "pitch": pitch, "headers": headers}
 
 
-def prose(pg):
-    """The prose column - kept separately so the .md holds it as text, not as
-    a mangled table cell."""
+def prose(pg, tx, tsz):
+    """The prose column - text that sits entirely LEFT of the table's own left
+    edge, kept separately so the .md holds it as text, not as a mangled cell.
+
+    Measured 2026-09-24: a fixed `sz >= 9.5` floor is wrong for the 2023/2024
+    era, where the prose is set at 8.8pt - the SAME size as the table. That
+    floor dropped the whole commentary paragraph from 14 documents. The floor is
+    now the page's own table size: prose is never smaller than the table text
+    (in 2021 that excludes the 8.0pt address block, which the old floor also
+    excluded).
+    """
     body = [(bb, t) for bb, t, sz in spans_of(pg)
-            if bb[0] < XCUT and sz >= 9.5]
+            if sz >= tsz - 0.65
+            and (bb[0] < tx - 2.0
+                 or (bb[0] < XCUT and sz > tsz + 1.5))]
     body.sort(key=lambda s: (s[0][1], s[0][0]))
     lines, cur, cy = [], [], None
     for bb, t in body:
@@ -186,10 +248,60 @@ def prose(pg):
     return [l for l in lines if l.strip()]
 
 
-def build_md(pdf: Path):
+def _header_cells(bands, rows):
+    """Place the header spans into the data columns by maximum x-overlap."""
+    widest = max(rows, key=lambda r: len(r["cells"]))
+    cols = [(c[0], c[1]) for c in widest["cells"]]
+    out = [""] * len(cols)
+    for b in bands:
+        for x0, x1, t in b["cells"]:
+            best, bi = 0.0, -1
+            for i, (a, z) in enumerate(cols):
+                ov = min(x1, z) - max(x0, a)
+                if ov > best:
+                    best, bi = ov, i
+            if bi >= 0 and best > 0:
+                out[bi] = f"{out[bi]} {t}".strip()
+    return out
+
+
+def md_blocks(rows, meta):
+    """Group the page's data rows into blocks, each with its own column header.
+
+    The header text is ON the page (2021-2024 stack two header rows: the two
+    column DATES, then the units) but was never carried into the .md - measured
+    2026-09-24: 0 of 519 SSY .md files contained a dd/mm/yyyy column date, so
+    nothing in the output said which weeks the two $/t columns are. A block
+    starts at a data row that has its own header band immediately above it,
+    which is also what separates the bottom $/Day block from the $/t block.
+    """
+    adj = 1.5 * meta["pitch"]
+    blocks, prev_y = [], None
+    for r in rows:
+        sel = sorted((h for h in meta["headers"]
+                      if (prev_y is None or h["y"] > prev_y) and h["y"] < r["y"]),
+                     key=lambda h: -h["y"])
+        keep, lim = [], r["y"]
+        for h in sel:
+            if lim - h["y"] <= adj:
+                keep.append(h)
+                lim = h["y"]
+            else:
+                break
+        if keep or not blocks:
+            blocks.append({"headers": list(reversed(keep)), "rows": [r]})
+        else:
+            blocks[-1]["rows"].append(r)
+        prev_y = r["y"]
+    for b in blocks:
+        b["header_cells"] = _header_cells(b["headers"], b["rows"])
+    return blocks
+
+
+def build_md(pdf: Path, rows=None, meta=None):
     """Markdown from the page's own text layer, with the table rendered as a
-    proper pipe table and the prose as prose - rather than hoping a converter
-    guesses the column boundary."""
+    proper pipe table (its own column headers included) and the prose as prose
+    - rather than hoping a converter guesses the column boundary."""
     try:
         ref = pdf.resolve().relative_to(ROOT).as_posix()
     except ValueError:
@@ -197,43 +309,68 @@ def build_md(pdf: Path):
     out = [f"# {pdf.stem}", "", f"source: `{ref}`", ""]
     with pymupdf.open(pdf) as d:
         for i, pg in enumerate(d, start=1):
-            out.append(f"\n## Page {i}\n")
-            with pymupdf.open(pdf) as _:
-                pass
-            rows = table_rows(pg)
-            pr = prose(pg)
+            out.append(NL + "## Page " + str(i) + NL)
+            rws, mt = (rows, meta) if (i == 1 and rows is not None) else page_rows(pg)
+            pr = prose(pg, mt["tx"], mt["tsz"])
             if pr:
-                out.append("### Commentary\n")
+                out.append("### Commentary" + NL)
                 out.extend(f"- {l}" for l in pr)
                 out.append("")
-            if rows:
-                out.append("### Data\n")
-                w = max(len(r) for r in rows)
-                for ri, r in enumerate(rows):
-                    cells = [c.replace("|", "\\|") for c in r]
-                    cells += [""] * (w - len(cells))
-                    out.append("| " + " | ".join(cells) + " |")
-                    if ri == 0:
-                        out.append("|" + "---|" * w)
-                out.append("")
-    return "\n".join(out)
+            if rws:
+                out.append("### Data" + NL)
+                blocks = md_blocks(rws, mt)
+                w = max(len(r["cells"]) for blk in blocks for r in blk["rows"])
+                w = max(w, max(len(blk["header_cells"]) for blk in blocks))
+                for b in blocks:
+                    hdr = b["header_cells"] + [""] * (w - len(b["header_cells"]))
+                    out.append("| " + " | ".join(hdr) + " |")
+                    out.append("|" + "---|" * w)
+                    for r in b["rows"]:
+                        cells = [c[2].replace("|", BS + "|") for c in r["cells"]]
+                        cells += [""] * (w - len(cells))
+                        out.append("| " + " | ".join(cells) + " |")
+                    out.append("")
+    return NL.join(out)
+
+
+PERCENT = re.compile(r"^\d+(?:[.,]\d+)?\s*%$")
 
 
 def typed_table(rows):
-    """Rows -> typed records where the shape is known, otherwise the raw grid."""
-    rec = {"trade_rates": [], "index": {}, "raw_rows": rows}
+    """Rows -> typed records where the shape is known, otherwise the raw grid.
+
+    The page holds TWO blocks that share row labels but not units: the freight
+    block ($/t) and, at the bottom, a $/Day timecharter block under its own
+    $/Day header. Measured 2026-09-24: keying on the label alone put the $/Day
+    value in weight_pct and the previous day-rate in rate_prev, with rate_curr
+    NULL, on 707 of 5,920 rows across all 519 documents - one route label
+    carrying a $/t and a $/day value in the same list, which any series keyed on
+    (route, field) would fuse. The weight cell is always a percentage, so its
+    SHAPE separates the two blocks.
+    """
+    rec = {"trade_rates": [], "timecharter_day_rates": [], "index": {},
+           "raw_rows": rows}
     for r in rows:
         if not r:
             continue
         head = r[0]
         if ("/" in head or head.startswith("T/C")) and len(r) >= 4:
-            rec["trade_rates"].append({
-                "route": head,
-                "cargo_size": r[1] if len(r) > 1 else None,
-                "weight_pct": r[2] if len(r) > 2 else None,
-                "rate_prev": parse_iso(r[3]) if len(r) > 3 else None,
-                "rate_curr": parse_iso(r[4]) if len(r) > 4 else None,
-            })
+            weight = (r[2] or "").strip() if len(r) > 2 else ""
+            if PERCENT.match(weight):
+                rec["trade_rates"].append({
+                    "route": head,
+                    "cargo_size": r[1] if len(r) > 1 else None,
+                    "weight_pct": weight,
+                    "rate_prev": parse_iso(r[3]) if len(r) > 3 else None,
+                    "rate_curr": parse_iso(r[4]) if len(r) > 4 else None,
+                })
+            else:
+                rec["timecharter_day_rates"].append({
+                    "route": head,
+                    "cargo_size": r[1] if len(r) > 1 else None,
+                    "day_rate_prev": parse_iso(r[2]) if len(r) > 2 else None,
+                    "day_rate_curr": parse_iso(r[3]) if len(r) > 3 else None,
+                })
         elif head.strip().lower() == "calculated index":
             rec["index"]["value_prev"] = parse_iso(r[1]) if len(r) > 1 else None
             rec["index"]["value_curr"] = parse_iso(r[2]) if len(r) > 2 else None
@@ -247,20 +384,22 @@ def typed_table(rows):
     return rec
 
 
-def process(pdf: Path):
+def process(pdf: Path, out=None):
+    out_dir = Path(out) if out else OUT
     with pymupdf.open(pdf) as d:
         npages = d.page_count
-        rows = table_rows(d[0])
-    md = build_md(pdf)
-    typed = typed_table(rows)
+        rows, meta = page_rows(d[0])
+    md = build_md(pdf, rows, meta)
+    typed = typed_table([[c[2] for c in r["cells"]] for r in rows])
     stem = pdf.stem
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
-    (OUT / f"{stem}.tables.json").write_text(
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / f"{stem}.md").write_text(md, encoding="utf-8")
+    (out_dir / f"{stem}.tables.json").write_text(
         json.dumps({"convention": "iso", "n_rows": len(rows), "typed": typed},
                    indent=2, ensure_ascii=False), encoding="utf-8")
     return {"pages": npages, "rows": len(rows),
             "routes": len(typed["trade_rates"]),
+            "day_rates": len(typed["timecharter_day_rates"]),
             "index_keys": len(typed["index"]),
             "md_bytes": len(md)}
 

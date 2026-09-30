@@ -1015,3 +1015,266 @@ choose that scope - it is the human call, and the affected list is in this entry
   `scripts/extract/extract_all.py` and this log. I did not pull main: the tree is shared and mid-edit.
 * The previous run's log entry (02:32 IST, currency-space fix) was sitting uncommitted; it is included
   in this commit so the audit trail is not lost.
+
+## 2026-09-30 06:35 UTC (12:05 IST) - deep review: the working tree lost the fixes again, and a rebuild from it would REGRESS 36,956 cells
+
+Job: "Extraction deep review + fix (3-hourly)". Read-only diagnosis plus one new check
+script. No document re-extracted, nothing written under data/extracted/corpus/, no batch
+started, no push to main.
+
+### What I measured
+
+verify_extraction.py --out data/extracted --state data/extracted/corpus_state.json
+--checkpoint data/extracted/corpus_checkpoint.jsonl --json: checkpoint_rows 7,816 /
+checkpoint_unique 7,816, doc_dirs 17,658, empty_by_design 114, empty_after_ok_status 0,
+empty_after_failure 0, empty_unexpected 0, empty_not_in_checkpoint 856, crash_recovered_docs
+249 / crash_rows_resolved 253, failure_kinds not-a-pdf 74 + no-extractable-content 1,
+golden 15/15, disk_free_gb 30.2.
+
+Liveness checked rather than assumed: the ONE action ("state file is 11532 min old") is the
+stale-lag artefact of the tail rerun that owned corpus_state.json (done 880 / planned 882,
+updated 2026-09-22T05:41Z). Get-CimInstance Win32_Process shows no run_batch, no
+batch_worker, no extract_all - only the two Hermes gateways - so there is no duplicate batch
+and nothing to kill. Corpus completeness was established on 2026-09-22 and is unchanged:
+7,816 of 7,816 unique PDFs carry a terminal row.
+
+Golden gate re-run for real, not quoted: sha256 of scripts/analysis/golden_matrix.json is
+99cdcf6cca1e0ab90920cffc9b4f2558dfe0eba29053891e93ed74ad879634d7, identical to HEAD -
+star_asia camelot-stream 13/15, pdfplumber 13/15, plumber-text 15/15, pymupdf-text 15/15;
+ssy_atlantic camelot 14/14; breakwave plumber-text 6/6. The gate rewrote the file with LF
+endings; it was restored and git diff on it is empty.
+
+### Finding 1 (VERIFIED BY EXECUTION, unchanged): the working tree still does not hold the measured rules
+
+The 02:44 UTC entry restored four fixes onto branch auto/extract-fixes-2026-09-30. The tree
+is no longer on that branch (it is on benchmark/extraction-comparison), so the rules are
+absent from disk again. I did not take that from git history - I ran the tree's own parser:
+
+    to_number("209.523")    -> 209.523   (must be 209,523 dwt)
+    to_number("60.000")     -> 60.0      (must be 60,000)
+    to_number("1.460")      -> 1.46      (must be 1,460, a BDI level)
+    to_number("$ 15,648")   -> None      (must be 15,648)
+    to_number("11.118.522") -> None      (must be 11,118,522)
+    to_number("34,5")       -> 34.5      (correct, comma decimal)
+    to_number("1.234,5")    -> 1234.5    (correct, European full form)
+
+### Finding 2 (NEW, and it changes the pending decision): rebuilding from this tree would LOSE 36,956 already-correct cells
+
+Measured with the tree's parser over every distinct value in the live store that is numeric
+today and carries a currency marker plus a space:
+
+* 36,956 cells (9,233 distinct values, 389 documents) are numeric in corpus.duckdb and
+  would become NON-NUMERIC under a rebuild from the current tree - 100 percent of them, zero
+  exceptions. Largest: "$ 50,000" (230 cells), "$ 45,000" (138), "$ 33,500" (116),
+  "$ 10,319" (113) - the broker $/day TCE columns.
+* the branch parser loses 0 of them.
+
+So the currency-space rule IS baked into the store built 2026-09-23 13:33 (the 02:32 IST fix),
+and a rebuild from the current tree would regress it. The 02:44 UTC note framed a rebuild as
+"no improvement plus a 1,000x penalty"; the accurate framing is that it is also a regression
+of 36,956 cells. A rebuild must run from a tree that carries the rules.
+
+### Finding 3 (NEW): the penalty is about twice the figure recorded this morning
+
+SQL over the live store (6,946,400 cells). Period-shaped cells (d.ddd, three-digit groups)
+in the three publishers whose convention was measured:
+
+| publisher | cells | documents | pages |
+|---|---|---|---|
+| advanced_shipping | 28,686 | 248 | 1,422 |
+| agora | 986 | 95 | 95 |
+| star_asia | 65 | 29 | 34 |
+| **total** | **29,737** | | |
+
+By column header: Dwt 12,523, no header resolved 7,897, Teu 1,586, Actual last 735, Cbm 700,
+Demolition Sales Ldt 416, Ldt 384, LDT 42, Baltic Indices Bulkers 333, plus/minus USD 203,
+plus/minus percent 142, remainder under date headers. The tonnage-header subset alone
+(dwt/ldt/teu/cbm = 13,365) is what the 02:44 UTC entry counted as 15,146 including
+non-whitelisted publishers; the publisher rule reaches roughly twice that.
+
+It reached the promoted layer: shipbrokers|vlcc|dwt|b1 has a daily row for 2026-07-27 whose
+value is 299.999 while its own value_max is 319911.000, and the series mixes 296887 (a week
+whose dwt column printed comma-thousands) with 296.887 (a week that printed periods). 294
+shipbrokers series and 24 hellenic series carry at least one daily value below 10 against a
+maximum above 100.
+
+### Finding 4 (NEW, and it de-risks the fix): the whitelist direction holds on pages the fix never read
+
+Read from the PDFs own text layers, three documents chosen from the same publishers, none of
+them the document the 09-23 rule was derived from:
+
+* advanced_shipping_2026_W22 (rule measured on W38): p1 chart y-axis ticks "10.000 20.000 ...
+  60.000" (a $/day TCE scale), p2 dwt "53.712" and "181.221", p3 "180.000" with newbuild
+  "$ 252m" - period is thousands.
+* star_asia_2026_W21 (rule measured on 2024 W02): p1 prints "BDI: 2,991" with a COMMA, p2
+  carries "the Beltiger 63/2017" whose cell is 63.027 - one publication, both separators,
+  both thousands, which is what the rule assumes.
+* agora_2026_W22 (rule measured on 2026 W18): p2 prints indices and levels as "3.226 / 5.517 /
+  2.331 / $46.538" and ratios as "88,90 / 8,84% / 4,455%". Quantities use period-thousands,
+  ratios use comma-decimals, and the rule fires only on three-digit groups, so the ratio
+  columns cannot be inflated 1000x by it.
+
+Also checked: advanced_shipping has zero cells carrying both separators, so the ambiguous
+branch of the parser never fires for it (28,686 period-shaped against 145 comma-thousands;
+for comparison star_asia is 65 against 28,996, agora 986 against 1,326).
+
+### What I changed
+
+One new file, scripts/extract/check_measured_rules.py, committed as 47134dbc0 on branch
+auto/extract-fixes-2026-09-30 (today branch, which already holds the restored rules). It
+asserts the 11 measurable number-format cases, each with a document+page citation so the case
+can be re-derived from the PDF instead of trusted from the file, and exits 1 naming the
+absent rule. Verified both ways, same script, two parsers:
+
+    python scripts/extract/check_measured_rules.py <path to build_table_db.py>
+      branch parser -> "all 11 measured rules present", exit 0
+      tree parser   -> 7/11 MISSING, exit 1
+
+Committed through a temporary index (git hash-object / read-tree / write-tree / commit-tree /
+update-ref) so HEAD stayed on benchmark/extraction-comparison - git checkout would have
+carried or refused another agent modified tracked files. Verified afterwards: the branch diff
+against 6074ff4b3 is exactly one file added, and nothing was written into the working tree by
+the commit.
+
+Why a file rather than another log paragraph: this same failure - a fix that is committed,
+silently absent from the tree, and invisible to every recall and plausibility check - has now
+been found by hand three times (09-24, 09-30 02:44, 09-30 06:35). The script makes the fourth
+time mechanical.
+
+### HUMAN DECISION (one item, with a corrected number)
+
+Order matters - check the parser before spending a rebuild on it:
+
+    python scripts/extract/check_measured_rules.py    # must report all 11 measured rules present
+    python scripts/extract/build_table_db.py --out data/extracted/corpus --rebuild
+    python scripts/extract/build_series_sql.py
+
+Run from a tree that carries the rules (merge or check out branch auto/extract-fixes-2026-09-30
+or equivalent). From the current tree it would turn 36,956 numeric cells non-numeric
+(Finding 2) and leave 29,737 period-shaped cells 1000x low (Finding 3). Nothing above is
+applied. The affected documents are 248 advanced_shipping + 95 agora + 29 star_asia.
+
+### Deliberately not changed
+
+* corpus_checkpoint.jsonl - never written. Nothing under data/extracted/corpus/ was written,
+  moved or deleted.
+* No DB rebuild, no series rebuild, no document re-extracted, no batch started or killed.
+* scripts/analysis/golden_matrix.json - rewritten by the gate run, then restored; git diff empty.
+* The 2026-09-21..09-28 fix branches were not merged into the current branch: the tree is
+  shared and mid-edit by other agents (modified scripts/scrapers/fetch_drewry_wci.py and
+  backfill_wci_history.py, about 70 untracked files under scripts/extract/), so branch topology
+  is a human call, not mine.
+* Observed but not touched: all 7,816 checkpoint rows still record their pre-reorg path
+  (reports/shipbrokers/...), which no longer exists after the corpus/ migration - an
+  explicit-path-field that silently 404s for anything reading the checkpoint as an index.
+* No push to main.
+
+## 2026-09-30 10:33 UTC (16:03 IST) - deep review: the four fixes are now IN the working tree, and the garbled-route loss is ~1,400 pages, not 181
+
+### What I measured first
+
+No batch is running: zero python processes matching run_batch / batch_worker / extract_all,
+and checkpoints last written 2026-09-22 11:12 IST (state_age_min 11,811). verify_extraction.py:
+done 880 / planned 882, ok 876, no-extractable-content 1, error 3, checkpoint 7,816 rows all
+unique, 17,658 doc dirs, quality over the last 40 docs = median 634 blocks / 37 tables / 2
+images, mean text_verified 0.861, crash-recovered 249, golden 15/15, db "not built yet",
+disk free 36.6 GB.
+
+### Finding 1 (fixed): the same four fixes were AGAIN absent from the working tree
+
+The recurring one, now with the mechanism named. The tree is on benchmark/extraction-comparison
+and its blob for each file is an OLDER revision than the fix:
+
+  file                     tree/HEAD blob   commits with it             fix blob
+  build_table_db.py        c004cae1d        aa5bc7b5b (09-22)           ac6878465
+  extract_all.py           9eb858ffc        b20829464 (09-23)           a09e9aa1d (4764f1512)
+  publishers/run_ssy.py    3032ccbb6        c837886ac (09-24)           686b2d7a7 (5dbe6da77)
+
+Every previous repair wrote a commit through a temporary index, which by design leaves the
+tree alone, so the tree kept regressing the moment anything ran from it. Before: from the tree,
+check_measured_rules.py reported 7/11 measured rules MISSING (5 of them as a to_number()
+signature error). After: "all 11 measured rules present", exit 0.
+
+Fixed by applying the three files from 6074ff4b3 (verified there to be "main plus that fix
+only") into the WORKING TREE, and committing that tree to a new branch
+auto/extract-fixes-2026-09-30-tree (commit 1bd53067), HEAD left on
+benchmark/extraction-comparison so no other agent's checkout is disturbed. The working tree now
+carries the fixes, which is what actually runs.
+
+Evidence after applying, all measured this run:
+
+* check_measured_rules.py from the tree: 11/11, exit 0 (was 4/11).
+* golden_matrix.py output byte-identical before and after; star_asia camelot-stream 13/15,
+  plumber-text 15/15, pymupdf-text 15/15 - no recall change. scripts/analysis/golden_matrix.json
+  was rewritten by the gate run and restored; git diff empty.
+* build_table_db.py, 8-document pool (advanced_shipping W22 and W44 2021, allied W12 2022,
+  carriers W46 2023, golden_destiny W31 2022, star_asia W21 2026 and W02 2024, one seabrokers
+  month), old parser vs new on identical tables.jsonl:
+    - distinct table contents 369 vs 369, 0 lost; 690 cells dropped as duplicates and all 690
+      have an identical (doc,page,engine,row,col,value) twin still present;
+    - 267 cells corrected by exactly 1000x ("1.460" 1.46 -> 1460.0; "1.000" 1.0 -> 1000.0);
+    - 565 cells became numeric that were not (548 of them the "$ 15,648" currency-space shape,
+      e.g. "$ 15,648" -> 15648.0), 17 period-thousands.
+* extract_all.py, allied_2022_W11 SnP Statistics, same PDF, everything else identical
+  (9 pages, routes {garbled 5, scanned 1, image-heavy 3}, 300 blocks, 80 images): tables
+  7 -> 26. Pages 2-6, i.e. all five garbled-routed pages, went from 0 stored tables to 19.
+  The recovered page-2 grid is 80 rows x 8 cols, text_verified 1.0, garbled_cells 0, and reads
+  real SnP totals: "903" vessels sold, "61,002,799" DWT, "12" avg age, "$ 9,510.2m" invested
+  capital; 184 of its 210 digit-carrying cells are present verbatim in the page text layer.
+
+### Finding 2 (measured, needs a human decision): the garbled-route skip is far wider than 181 docs
+
+The 09-28 note recorded "page 7 of every hellenic demolition weekly (181 documents)". Measured
+properly, across every document that has a pages.jsonl, the population is:
+
+  1,520 garbled-routed pages in 717 documents, concentrated in four RECURRING sources -
+  shipbrokers 743 pages / 314 docs, ppa_pdf 387 / 126, hellenic 181 / 181, seabrokers 96 / 96
+  (the rest are one-off books and wayback filings).
+
+Sampling 40 of those pages and probing the SOURCE PDF (the stored text.jsonl fuses numbers into
+prose, so a block-level test cannot see them): 37 of 40 (92.5%) are table-shaped at the PDF
+level, >=5 y-bands each holding >=2 numeric tokens, mean 30.1 numeric rows per page - and 0 of
+those 37 pages stored a single table record. Examples: allied_2022_W11 p2 (42 numeric rows),
+ppa_pdf/31a3d8838b75 p2 (44), ppa_pdf/4ca4100fd3dd p4 (44), seabrokers 2022-01 p6 (11),
+hellenic 2022-07-11_gms-week-27 p7 (13).
+
+Scaling the measured rate over that population gives ~1,400 table-shaped pages whose tables were
+never stored - an estimate from a 40-page sample, not a count. The allied before/after above is
+the measured unit cost: 19 tables on 5 pages.
+
+The tree now carries the fix, so any future extraction recovers these. The stored corpus does
+not, and applying it means re-extracting 717 documents - a human decision, and NOT the whole
+corpus. The command I would run (blast radius: writes 717 existing doc dirs under
+data/extracted/corpus/, leaves the checkpoint alone, so --resume will not redo them):
+
+  python scripts/extract/extract_all.py --inventory <the 717 (source, doc) rows> --out data/extracted
+
+Before spending it: check whether the affected source has already been re-parsed by its own
+bespoke runner (several exist - run_seabrokers_llamaparse.py, run_hellenic_demolition.py,
+run_ppa*), in which case the extract_all tables are not what the series read and the re-run is
+worth less. I did NOT verify that per source; it is the first thing to check.
+
+### What I changed
+
+* scripts/extract/build_table_db.py, scripts/extract/extract_all.py,
+  scripts/extract/publishers/run_ssy.py - applied from 6074ff4b3 to the working tree; byte
+  identical to that commit (git diff empty).
+* scripts/extract/check_measured_rules.py - added to the tree (it existed only on
+  auto/extract-fixes-2026-09-30), so the gate can be run before any rebuild is believed.
+* Branch auto/extract-fixes-2026-09-30-tree, commit 1bd53067, four files vs HEAD.
+* Append-only edit to this log.
+
+### Deliberately not changed
+
+* corpus_checkpoint.jsonl - never written. Nothing under data/extracted/corpus/ written, moved
+  or deleted; the only reads were opens. No document re-extracted. No DB rebuild (the DB is
+  still empty, data/extracted/db is 0 files) and no series rebuild - both remain human calls.
+* run_intermodal_full.py and run_star_asia_tables.py carry other agents' uncommitted edits; left
+  alone.
+* The 1,520 garbled pages were not fixed: that needs re-extraction (above), not a code change.
+* The 7,816 checkpoint rows still carry pre-reorg paths (reports/shipbrokers/...): still open,
+  still only an explicit-path-field that a reader would 404 on.
+* scripts/analysis/golden_matrix.json - restored to HEAD after the gate run rewrote it.
+* I did not merge any auto/extract-fixes-2026-* branch into benchmark/extraction-comparison or
+  main. The tree now carries the fixes; branch topology is a human call.
+* No push to main.

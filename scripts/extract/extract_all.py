@@ -538,7 +538,24 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
                     p_rows[-1]["ocr_queue"] = (
                         "glyph-mojibake text layer (%d/%d blocks)"
                         % (n_garbled, len(page_blocks)))
-        if route in ("text", "image-heavy"):
+        # Table extraction is gated on CONTENT, not on the route label.
+        # Measured 2026-09-28: route_page() calls a page "garbled" when fewer
+        # than 25% of the first 2000 characters are alphabetic - which is what a
+        # NUMBER-DENSE TABLE PAGE looks like, not what broken text looks like.
+        # Of the 1,520 garbled pages in the collected corpus, 0 of 99 sampled
+        # carry real mojibake (is_garbled_text fires on none of them) and 1,360
+        # are table-shaped (>=5 y-bands holding >=2 numeric tokens). On that
+        # 99-page sample camelot-stream returned a grid on 93, at ~300 numeric
+        # cells and text_verified ~1.0. Excluding the route dropped those tables
+        # silently: page 7 of every hellenic demolition weekly (181 documents)
+        # and all 7 table pages of ppa_pdf/31a3d8838b75 stored 0 tables, against
+        # 34 and 4 tables stored for the same documents' non-garbled pages.
+        # A page whose text the mojibake detector ALREADY flagged (ocr_queue set
+        # on p_rows[-1] above) is still skipped: its digits are glyphed, not
+        # typed, so a grid read from it would carry garbage values.
+        tabular_page = route in ("text", "image-heavy") or (
+            route == "garbled" and not p_rows[-1].get("ocr_queue"))
+        if tabular_page:
             page_tables = extract_tables_union(pdf_path, pno, skip_tables)
             if gated_layout and (not page_tables or needs_layout(pdf_path, pno, page_tables)):
                 page_tables.extend(layout_tables(page, pdf_path, pno))

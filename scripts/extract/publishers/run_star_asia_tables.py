@@ -495,7 +495,11 @@ def process_star_asia_corpus() -> Dict[str, Any]:
 
     for idx, pdf in enumerate(pdfs, 1):
         stem = pdf.stem
-        sidecar_path = OUT_MD / f"{stem}.tables.json"
+        year_str = pdf.parent.name if pdf.parent.name.isdigit() else "2026"
+        target_dir = OUT_MD / year_str
+        sidecar_path = target_dir / f"{stem}.tables.json"
+        if not sidecar_path.exists() and (OUT_MD / f"{stem}.tables.json").exists():
+            sidecar_path = OUT_MD / f"{stem}.tables.json"
         
         with pymupdf.open(pdf) as doc:
             report_week, issue_date = extract_meta(doc, pdf)
@@ -554,6 +558,7 @@ def process_star_asia_corpus() -> Dict[str, Any]:
                 indicative_tables_repaired += 1
 
             # Save updated sidecar
+            sidecar_path.parent.mkdir(parents=True, exist_ok=True)
             sidecar_path.write_text(json.dumps(new_tables, indent=2, ensure_ascii=False), encoding="utf-8")
             sidecars_updated += 1
 

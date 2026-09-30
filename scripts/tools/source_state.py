@@ -28,12 +28,12 @@ def main():
         rows.append({
             "source": src,
             "pdfs": n(f"{p}/**/*.pdf"),
-            "md": n(f"{MD}/{src}/*.md"),
-            "md_charts": n(f"{MD}/{src}/*.charts.json"),
-            "ext_charts": n(f"{CHARTS}/{src}/*.charts.json"),
-            "sidecar_tables": n(f"{MD}/{src}/*table*.json"),
-            "csv": n(f"{MD}/{src}/*.csv"),
-            "parquet": n(f"{MD}/{src}/*.parquet"),
+            "md": n(f"{MD}/{src}/**/*.md"),
+            "md_charts": n(f"{MD}/{src}/**/*.charts.json"),
+            "ext_charts": n(f"{CHARTS}/{src}/**/*.charts.json"),
+            "sidecar_tables": n(f"{MD}/{src}/**/*table*.json"),
+            "csv": n(f"{MD}/{src}/**/*.csv"),
+            "parquet": n(f"{MD}/{src}/**/*.parquet"),
         })
     hdr = ("source", "pdfs", "md", "md_charts", "ext_charts", "sidecar_tables", "csv", "parquet")
     w = max(len(r["source"]) for r in rows) + 1
