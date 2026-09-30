@@ -1,3 +1,233 @@
+**THIS RUN (2026-09-30 15:3x) - CLOSED the md-tier item the 14:2x run left open. `corpus/06-drewry/opinions/2026/*_drewry_wci.md`: 9 files -> 5 files, one per print, 0 fused lanes, 0 duplicate prints, 0 non-Thursday names.**
+
+The WCI md tier carried the SAME two pre-fix defects as the CSV, plus a third the CSV never had:
+(1) **9/9 named with the RUN date**, (2) **9/9 `shanghai_rotterdam == shanghai_genoa`**, **7/9 `shanghai_la == shanghai_ny`**,
+**2/9 a lane blank** - so the tier held **5 prints in 9 files** and every file carried its neighbour lane's level
+(the 3 Sep file read Rotterdam 4,368 / New York 7,185 where the page prints 4,092 / 9,587).
+**IT MATTERS because `scratch/wci/merge_display.py` gives this tier AUTHORITY for dates >= 2026-08-01** - a re-run of the
+display merge would have re-imported the fused numbers over the repaired CSV.
+**FIX:** new `scripts/scrapers/repair_wci_md_tier.py` - print date from the page's own phrase (content-anchored, Thursday,
+unique), values from the repaired CSV row for that print, then rename to the print's date; same-print files collapsed
+**only after their bodies are proven identical**. 25 lines changed total (15 date/title lines + 10 value cells), 4 duplicate
+files removed. Evidence `docs/drewry_wci_md_tier_verdict.md`.
+**CONTROLS:** every value printed VERBATIM in the file's OWN commentary prose (5/5 files, 5/5 values each) - the witness a
+CSV-side check cannot use; git HEAD as the before-witness (exactly 5 lines differ per file, commentary byte-identical 5/5);
+table == CSV 5/5; every name a Thursday == its own page phrase; idempotent (2nd run changes 0); cached-page re-parse
+reproduces 09-03 / 09-10 / 09-24 exactly (4/5 on 08-20, see below). No network, no API spend, no vision tool in session.
+**NEW OPEN ITEM (measured, named):** the parser leaves >=1 lane unparsed on **8 of the 26 cached 2026 capture pages**
+(08-20 la; 04-16 la x2; 03-26 rotterdam+la; 04-30 rotterdam; 02-12 la+ny; 2025-12-25 la+ny). This is **RECALL only** - the
+displayed CSV has 0 blank cells, and the value IS printed on the page ($6,802 for 08-20, verified against that print's own
+prose). Shape: a second lane named after `and` ("rates from Shanghai to New York and Los Angeles increasing 9% to $9,507
+and $6,802").
+**NEXT (in order):** (1) that lane-recall shape in `extract_assessments`; (2) `upsert_wci_rows()` - dedupe by date only, add a
+Thursday assertion; (3) the 2021-07-01 "k labels, 2k numbers" lane shape; (4) poten runner-side HTTP 403 + replace `|| true`
+with a non-empty-catalog assertion.
+
+**THIS RUN (2026-09-30 12:3x) - FOUND AND REPAIRED A SOURCE THAT HAD BEEN COLLECTING NOTHING FOR WEEKS WHILE ITS PIPELINE REPORTED SUCCESS. Found by auditing collection liveness (nothing named it); main was NOT touched.**
+
+**THE FINDING: poten's live collection is dead on the Actions runner, and it is invisible from this box.**
+`scripts/scrapers/fetch_poten_direct.py` line 488 puts a backslash inside an f-string expression
+(`title.replace('\"', '')`), which is legal only from Python 3.12 (PEP 701). The runner is **3.11**,
+so the module is a SyntaxError before it runs - while the local box (3.14) executes the same file
+fine. Every poten run since 2026-09-11 died that way; every run since 2026-08-29 before it ended
+`Total in catalog: 0`. **All of them concluded `success`**, because the step is
+`python scripts/scrapers/fetch_poten_direct.py || true`. Reproduced read-only with
+`Python311/python.exe -m py_compile`. MEASURED EFFECT: `corpus/04-poten` and `data/extracted/md/poten`
+both end at **2026-09-18** while the publisher's own feed lists **2026-09-26** ("Do We Need To Plan For
+A Diesel Export Ban?") - one weekly issue missing from corpus, md tier and RAG chunks.
+**FIXED (branch only):** quote-stripping hoisted out of the f-string; controls: `build_markdown()`
+HEAD-vs-fixed **5/5 byte-identical** (a first edit silently dropped the `Poten Tanker Opinion: `
+prefix - the control caught it, restored, re-verified). Repo-wide 3.11 sweep: **444 compiled / 3 failed
+-> 446 compiled / 0 failed** (same defect in `fetch_poten_archive_backfill.py:265`; a nested-quote
+f-string in `current_book_scenario_ui.py:39`). **`origin/main` STILL CARRIES THE BUG** (verified after
+`git fetch`), so Friday 2026-10-02 17:00 UTC will crash identically - merging is the user's call.
+**NOT fixed by this:** the missing issue itself - poten.com returns **HTTP 403** to this box on both
+listing URLs (the repo's own fetcher reproduces it), so only the runner's egress can fetch it; and the
+step's `|| true` should be replaced by an assertion that the catalog is non-empty.
+Evidence **`docs/poten_collection_outage_verdict.md`**.
+**SAME RUN, SECOND POTEN DEFECT (verified while verifying the first):** `extract_year()` in
+`fetch_poten_archive_backfill.py` could not see the archive's compact `Tanker_Opinion_YYYYMMDD.pdf`
+form, so it took the year from the ARTICLE TITLE - **564 of 1,087 poten PDFs (52%)** returned
+`unknown` under the old code, and *"The Outlook for Energy: A View to 2030"* (PDF dated 20071109) was
+written as `poten_2030-01-01_...md` and now sits in the app's knowledge tier as
+`knowledge/chunks/poten_tankers_2030.jsonl` (exactly 2 future-dated records exist in
+`knowledge/chunks/**/*.jsonl`, both this file). FIXED on the branch (compact date read first; control
+over all 1,087 filenames: only the 564 `unknown -> correct year` change). The duplicate corpus file
+and the chunk rebuild are left to the corpus/knowledge owners - commands are in the verdict doc.
+
+**ALSO THIS RUN: `docs/source_freshness_audit.md` - every source's collection freshness measured from
+FILENAMES (never mtime), with the population stated.** 16 of 17 broker sources are current and their
+extraction lag is **0 days**; the archive publishers are measured dead (allied 961 d, golden_destiny
+674 d, gibson 1,097 d, other 1,087 d, anchor 1,374 d) so BACKFILL_ONLY stands on measurement, not on a
+note. Three `DUE` readings were FALSE ALARMS and one was a bug in my own script: clarksons looked 12 days
+stale because the parser did not strip the ordinal in `25th-Sept-2026` (**the fourth confidently wrong
+detector in this project**); agora's missing W39 **404s on HSN** (site search's newest is week 38);
+seabrokers' own site lists nothing newer than `markedsrapport-juli-2026`. `DUE` is a pointer to look, not
+a finding.
+**STALE POINTER RETIRED (do not act on it):** the 11:4x entry's "trial a median-preferring pick" for ism.
+Measured (`scratch/ism_edge_baseline.py`, `scratch/ism_edge_attrib.py`): the edge fraction is 71.3%
+(handy, baseline 44.7%) and 65.6% (coaster, baseline 52.4%) - real, but it is the documented
+nearest-issue/first-print policy (`pick_observation`) plus the trivial n=2 case (**100% of "own week" rows
+are edges by construction**), not a defect in choosing among restatements. All 29,948 values are verbatim
+from the named issue; re-picking them optimises the very gate you would measure. Filter on `value_sd`
+downstream instead.
+**NEXT:** (1) the poten issue (runner-side only; a 403 diagnosis on the runner and an assertion instead of
+`|| true`); (2) a merge of the branch fix to main when the user allows it; (3) the drewry WCI ledger items
+unchanged (107 snapshots incomplete + 4 numeric-gated + 1 fetch failure, all pre-2023).
+
+**THIS RUN (2026-09-30 11:4x) - the last open ledger item (the ism agreement tail) is CLOSED as MEASURED, and it is the PUBLISHER'S AXIS, not our parse. Plus a latent breakage fixed that would have silently emptied both ism series.**
+
+The previous run's instruction was "name the failing REPORTS and read them". Done. Two documents were read against
+their own pages, and in BOTH the extractor is exact:
+* `ism_2024_W42` Izmail/Odesa-Bari/Ortona: recomputing by hand from the page's own printed y labels (100@292.9 ...
+  20@432.9, 17.5pt/10 units, axis line 437.1) and the drawn grey `2022 year` path gives week 1 = **45.0** and
+  week 10 = **37.0**, exactly the CSV. The CSV's 21-week "hole" is the publisher's own line break (one path, two subpaths).
+* `ism_2026_W19` vs `ism_2026_W23` Corn/soybeans POC-Alexandria/Beirut: the page prints y labels **45..10** in W19 and
+  **50..15** in W23 at essentially the same pixels (top label y 673.7 vs 675.7), and the extractor records each page's
+  own labels exactly. An independent calibration fitted only from the printed labels + the drawn path reproduces the
+  CSV on both pages (W19 2025 line 18.6/18.0/18.0/18.8; W23 2024 36.5/29.5/23.5/22.0, 2025 23.0/22.5/22.0/23.0).
+  So the ~4-5 unit disagreement between issues is a publisher-side one-tick label shift; no re-extraction can remove it.
+CENSUS (calendar-year overlays only, `scratch/ism_tail_census2.py`): 4,489 comparable keys, **1,231 rows = 8.5%** off the
+cross-report median, **65 of 84** contributing reports never an outlier; concentrate in `ism_2026_W19` 121/122 (99%),
+`ism_2023_W27` 120/125, `ism_2023_W36` and `ism_2023_W38` 127/140 each, `ism_2024_W41` 139/286, `ism_2025_W41` 111/265,
+`ism_2025_W44` 114/268, `ism_2026_W06` 81/199, `ism_2024_W48` 53/110, `ism_2024_W50` 55/266, `ism_2023_W50` 48/204,
+`ism_2024_W01` 48/154.
+**THE ONE LEVER THAT IS OURS, measured and NOT applied:** the pooled `value` sits at the cluster EDGE (`min`/`max`) on
+**1,139/1,598 (71%)** of the >2%-spread multi-report rows in handy and **635/969 (66%)** in coaster (n>=3 subset: 925/1,384
+and 363/697). Next run: trial a median-preferring pick, re-measure the gate before/after; never hand-edit the CSV.
+**FIXED + PROVEN THIS RUN:** a parallel process re-organised `data/extracted/md/ism/` into `2023/..2026/` subdirs at 11:35
+today; `run_ism_series.py` globbed `*.charts.json` NON-recursively and would have found **0** charts and rewritten both
+CSVs empty. Now `rglob`; re-run finds all **114** and reproduces both files **byte-identically** (sha256 `021d2a5f7498...`
+coaster, `85bf1052b538...` handy). Same latent breakage (top-level `*.md` = 0, recursive = 271 / 247) fixed in the working
+tree for `normalize_xclusiv_md.py` and `build_banchero_series.py` - both are UNTRACKED files belonging to another agent,
+so the fix is left uncommitted beside them rather than landing their unpublished file.
+Commit `248ae3174` (docs + runner). Evidence: `docs/ism_agreement_tail.md` section 3.
+**NOTE: this dir tree is shared - 114 files moved while this run was measuring them. Always glob recursively.**
+
+**THIS RUN (2026-09-30 10:2x) - THE LAST NAMED NUMERIC-GATE REJECT IS SHIPPED: WCI displayed 108 -> 109 rows, 569/569 = 100.00% page-reconciled. Plus one latent parser bug found while checking.**
+
+The 2021-05-20 page introduces its levels with a PHRASE, not with the bare `to|at|reach` the parser knew:
+*"soared 10% or $889 and **reached a new high of** $9,865"* and *"an increase of $350 **to touch** $5,605"* -
+so the parser returned the **CHANGES** (889 / 350) for levels of 9,865 / 5,605. Both wrong numbers are ON the
+page, so every recall control passed: the same change-vs-level family as pv10.
+**FIX:** `to_rx` also accepts `to touch` and `a new low|high of`; the look-back window is `INTRO_WIN = 32`
+(*"a new high of "* is 13 chars, so the old 8-char window could not hold it), anchored at the window END so a
+`to` earlier in the sentence still cannot leak in. **ALSO REPAIRED: `COMPOSITE_AVG_RX` carried two literal
+0x08 BACKSPACE bytes where `\b` was intended, so its `\bytd\b` alternative never matched** (the transport
+trap this file already warned about). `PARSER_VERSION` 10 -> 11.
+**CONTROLS, measured separately on all 230 cached pages re-parsed in process, nothing written:** the backspace
+repair alone moves **0/230**; the phrase introducer moves **exactly 1/230 - 2021-05-20** (Rotterdam 889 -> 9865,
+Los Angeles 350 -> 5605, both read against the page). Shipped: stage 102 -> 103 prints, numeric-gate rejects
+**5 -> 4**, merge 0 corrections / 1 row added, md-tier untouched; displayed file 0 rows lost, **0 of the 108
+previously displayed rows changed**, dates unique/increasing, **569/569 = 100.00%** verbatim on their own page,
+0 fused, 0 composite == a route, pre-2023 **26/26 Thursdays with cover line 26/26**, md-tier byte-identical.
+Evidence `docs/drewry_wci_era2021_verdict.md` (pv11 section). Commits `2ce8d7294` (code) + `897a81e79` (data).
+**RESOLVED, do not re-list:** `data/derived/held_data_catalog.json` (still says `rows: 145`) is an **ORPHAN** -
+`index.html`/`methodology.html` do not mention it, there is no builder for it in `scripts/`, nothing reads it.
+**STILL OPEN:** 107 snapshots incomplete + 4 numeric-gated + 1 fetch failure (pre-existing, all pre-2023 - each
+means the publisher printed no number or the row is a genuine reject, named in the gate census).
+
+**SAME RUN, CONTINUED (11:0x) - LEDGER AUDIT: the two items the previous run left as "pick one" were ALREADY CLOSED. Verified today by measurement, and the "open" pointer was stale.**
+
+* **4.5 `star_asia_deals_series.csv` - closed 2026-09-28. MEASURED today:** 3,358 rows; `arrival_date` ISO **2,708**, old European `DD.MM.YYYY` shape **0**; `beaching_date` ISO **1,747**, old shape **0**, the status text now in `beaching_date_status` (AWAITING 958 / ARRESTED 24 / blank 2,374). 63 publisher-corrupt years (`29.02.2022`) stay blank and are inventoried with page evidence. Do not re-chase.
+* **4.3 `intermodal_macro_series.csv` - closed 2026-09-28, and the ledger's premise is WRONG BY DESIGN.** `prior_value` is the page's SECOND SESSION column (1-Jul-21) while the publisher's `W-O-W Change %` is week-over-week, so nothing about it should be expected to reproduce. MEASURED today: 2,833/3,739 (75.8%) do not reproduce from latest/prior, **0** blanks; but the printed % DOES reproduce from the same indicator's latest in the PREVIOUS REPORT on **3,266/3,723 = 87.7%** (exact 7-day gaps: **3,149/3,383 = 93.1%**), and fails only where the gap is 14/21 days - the true base is a report we do not hold. My probe on the page's own five value columns reproduces it on **1/795**. **Do NOT rewrite latest/prior to force reproduction.**
+* **Section 2 of the ledger is stale; re-measured with its own instrument today:** ism_handy p90 20.59 -> **11.76%** (within 2% 69.1 -> **74.1%**), ism_coaster p90 43.34 -> **5.67%** (74.3 -> **83.7%**), ssy reference 87.1%, intermodal_baltic unchanged at 3.2% (held-data verdict stands).
+**THE ONLY OPEN ITEM LEFT in the ledger is the ism residual tail** (within-2% 74.1% / 83.7%): name the failing REPORTS and read them, do not re-run the gate.
+
+**SAME RUN, pv10 - the `reached` introducer: displayed 107 -> 108 rows (80 -> 108 for the run).**
+
+`to_rx` accepted `to|at|reach` but not the PAST TENSE, so a level introduced by *"and reached"* lost to
+the nearby CHANGE. MEASURED over all 230 cached pages re-parsed in process: **228/230 unchanged,
+exactly 2 moved, both read against their pages, both improvements** - 2021-07-22 `shanghai_la`
+**220 -> 9953** (*"increased 2% or $220 and **reached** $9,953"*) and 2023-09-28 `shanghai_rotterdam`
+**120 -> 1052** (*"nosedived 10% or $120 for two consecutive weeks, and **reached** $1,052"*). The
+2023-09-28 print now SHIPS (the numeric gate had been reading its $120 change; the spread tell caught
+it, so nothing wrong was ever displayed); 2021-07-22 stays withheld as INCOMPLETE - New York is printed
+as *"remain stable at previous weeks level"* with no number.
+**CONTROLS, final for this run:** 108 rows (80 at the start), 0 of those 80 changed, **563/563 =
+100.00%** of displayed values verbatim on their own page, 0 lost, dates unique/increasing/Thursdays
+with cover lines 25/25 pre-2023, 0 fused, 0 `composite == a route`, 0 repeated value in a row,
+numeric rejects 6 -> 5, `fused` 3 -> 0, md-tier (>= 2026-08-01) untouched.
+**STILL OPEN (unchanged from the pv9 note):** 2021-05-20 (page introduces its levels with *"new high
+of"* / *"an increase of"*, so the parser returns the **$889/$350 changes**); the stale derived
+metadata (`data/provenance/manifest.json`, `data/derived/held_data_catalog.json` still say
+`row_count 145`); 107 snapshots incomplete + 5 numeric-gated + 1 fetch failure, all pre-existing.
+
+**SAME RUN, CONTINUED (pv9) - THE OPEN FUSED-LANE SHAPE IS FIXED, not just withheld: displayed 104 -> 107 rows, 558/558 page-reconciled, `fused` census 3 -> 0.**
+
+The item this run left as "NEXT (precise)" is done. The 2021-07-01 print AND the two the previous run
+had gated out (2023-02-23, 2023-09-21) were ONE shape with TWO distinct causes, both measured on pages:
+(1) **a leading prose word absorbed into the lane label** - *"**On** Shanghai - New York and Shanghai -
+Rotterdam, rates fell by 4% to ..."* matched group1 as "On Shanghai", which `is_route_mention` then threw
+away, so the sentence counted ONE lane instead of two and `respectively` could never fire; fix = trim
+leading non-port words off the match. (2) **the pools could not separate a dollar CHANGE from a dollar
+LEVEL** - *"grew $617 and $539 to $9,165 and $11,719"*, *"dropped 10% or $167 and $127 to $1,531 and
+$1,172"*: with k=2 and 4 dollar values none of the three pools held exactly k (the `or` filter strips
+only the FIRST change), so the row fell through to proximity and lane 2 got lane 1's level - the very
+thing the `fused` gate was catching; fix = **(d) TO-ANCHORED SUFFIX** (the levels are the run starting
+at the value introduced by to|at|reach), used ONLY as a last resort after the three existing pools.
+**CONTROL:** all 230 cached pages re-parsed in process (nothing written): **225/230 unchanged**; the 5
+that moved were each read against their pages and **all 5 are improvements** - 2021-07-01 NY 9165->11719,
+2021-07-22 G 13066->12773, 2023-02-23 R 2881->1633, 2023-09-21 R 1531->1172, 2024-02-15 NY 709->6170 and
+RS 4288->958. Two of those pages still do not ship and BOTH are correctly withheld as **incomplete, not
+wrong** (2021-07-22 prints New York as "remain stable at previous weeks level"; 2024-02-15 prints
+Shanghai-Los Angeles as "remained stable") - the publisher printed no number.
+**FINAL CONTROLS on the 107 rows:** 0 of the 104 previously displayed rows changed; **558/558 = 100.00%**
+of displayed values verbatim on their own page; change arithmetic pre-2023 $ **45/45** and % **43/45**,
+2023+ $ **56/56** and % **49/56**; composite == page headline level **30/30**; new dates are Thursdays
+carrying the cover line **25/25**; 0 fused / 0 `composite == a route` / 0 repeated value in a row.
+Evidence `docs/drewry_wci_era2021_verdict.md` (both sections).
+**NEXT (precise, in order):** (1) `to_rx` matches `to|at|reach` but NOT **reached/reaches** -
+*"increased 2% or $220 and reached $9,953"* (2021-07-22) returns the CHANGE; needs its own corpus
+control (it would not ship that row - New York is unprinted that week). (2) 2021-05-20 numeric-gate
+reject: the page introduces the levels with *"new high of"* / *"an increase of"*, so the parser returns
+the **$889/$350 changes** - do NOT add `of` blindly, it introduces real changes too. (3) the stale
+derived metadata (`data/provenance/manifest.json` and `data/derived/held_data_catalog.json` still say
+`row_count 145` for `data/indices/drewry_wci_historical.csv`) - regenerate, never hand-edit.
+**LESSON (repeat of the project's most expensive one):** the previous run's fused-gate reject, the
+`fused` pair, and two of these five wrong cells were all "well-formed and plausible" - only reading
+the sentence against the parsed lanes found them. A recall check cannot see a swap and a gate cannot
+see a value that is merely the CHANGE instead of the LEVEL.
+
+**THIS RUN (2026-09-30 09:0x) - THE 2021-2022 ERA IS SHIPPED: WCI displayed series 80 -> 104 rows, 542/542 values page-reconciled. The "NEXT (precise)" item of the previous run is DONE.**
+
+The hard `page_date < '2023-01-01'` cut was moved to `TRIALED_FROM = '2021-01-01'` - and only after
+the era was trial-verified print by print against its own cached pages.
+**THE TRIAL FOUND ONE REAL DEFECT (the reason the cut existed is not the reason it was fixed):**
+**2021-06-24 had New York and Los Angeles SWAPPED.** Page: *"rates on Shanghai-New York and Shanghai-Los
+Angeles soared 39% and 34% to $11,180 and $8,548 per feu, respectively"* -> NY 11,180 / LA 8,548; the
+parser returned LA 11,180 / NY 8,548 - **two plausible numbers handed to the wrong lanes**, so every
+recall control passed (both values ARE on the page).
+**ROOT CAUSE (reproduced):** `label_rx` separated a lane with `to` or an EN/EM DASH - **the plain
+hyphen was NOT in the class**, so the publisher's 2021 spelling `Shanghai-New York` was never a label,
+the ordinal/`respectively` rule could never fire and proximity gave Los Angeles the first `$`.
+MEASURED: 30 hyphenated lane tokens on the 2021 pages; the non-lane ones (East-West, Intra-Asia,
+Ro-Ro, Y-o-Y, Hapag-Lloyd) are rejected by `is_route_mention`'s port vocabulary.
+**FIX:** separator class + `-`; `PARSER_VERSION` 7 -> 8.
+**CONTROL ON THE FIX:** all 230 cached snapshots re-parsed offline (no network, no spend) and
+diffed pv7 vs pv8: **exactly 2 snapshots moved corpus-wide - both captures of that same 2021-06-24
+print, both the swap - and 0 post-2023 snapshots moved.**
+**SHIPPED CONTROLS:** 80 -> 104 rows (0 lost, dates unique, strictly increasing); **542/542 = 100.00%
+of displayed values appear verbatim on their own page**; parsed composite == the page's **own
+headline level 30/30** (independent regex, parser not reused); printed **$ change 45/45** and **%
+43/45** on pre-2023 consecutive weeks (2023+ unchanged at 56/56 and 49/56); **post-2023 stage
+byte-identical**; **0 previously displayed rows changed** (additions only); new dates are Thursdays
+**24/24** and carry the page's own cover line **24/24**; 0 fused, 0 `composite == a route`, 0 rows
+with a repeated value; md-tier (>= 2026-08-01) untouched. Evidence `docs/drewry_wci_era2021_verdict.md`.
+**WITHHELD, named:** of 79 pre-2023 snapshots, 49 lack all five values, **2021-05-20** fails the
+numeric gate (the parser returns the printed **$889/$350 CHANGES**; the level there is introduced by
+*"new high of"*/*"an increase of"*, not by to|at|reach) and **2021-07-01** fails the fused gate
+(*"grew $617 and $539 to $9,165 and $11,719 ... respectively"* -> both lanes got $9,165).
+**NEXT (precise):** that last one is the still-open **"k labels, 2k numbers, changes first"** lane
+shape - the SAME family as the two post-2023 rejects 2023-02-23 and 2023-09-21. Fixing it would
+recover 3 named prints (1 pre-2023 + 2 post-2023) and would let the `fused` gate stop rejecting
+them. Start by reading those three sentences off their cached pages, then trial the rule on them.
+**ALSO OPEN:** `data/provenance/manifest.json` and `data/derived/held_data_catalog.json` still say
+`row_count 145` for `data/indices/drewry_wci_historical.csv` (stale since the 138-row fabrication
+purge, NOT introduced by this run; neither file is rendered). Regenerate, do not hand-edit.
+NOTE: `git checkout` of this worktree had been moved to `main` by the fleet-sync automation at
+08:59; it was restored to `benchmark/extraction-comparison` before any commit.
+
 **THIS RUN (2026-09-30 07:4x) - A DISPLAYED DEFECT FIXED: the Drewry WCI composite was the publisher's YEAR-TO-DATE AVERAGE on 6 displayed rows (worst +21.0%). 75 -> 80 rows, 408/408 = 100.00% page-reconciled.**
 
 `data/indices/drewry_wci_historical.csv` is fetched by `index.html`. Six of its 75 rows carried a

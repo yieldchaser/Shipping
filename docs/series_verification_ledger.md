@@ -453,3 +453,49 @@ Control: 19/245 sidecars changed, diff confined to ffa_assessments / currencies 
 Left verbatim (page-side, not repaired): 2025_W30's 32 garbled tenor labels; 2026_W19's corrected rows
 carry a blank tenor because the page read has no tenor column.
 STILL OPEN: the bancosta freight_rates residue (numeric unit / DRY_BULK, branch 11).
+
+
+---
+
+# RE-CONFIRMED 2026-09-30 11:0x IST - the last two "open" items in this ledger were ALREADY CLOSED; their pointers were stale
+
+Read the file, do not re-chase. Both were verified by MEASUREMENT today, not by the note.
+
+**4.5 `star_asia_deals_series.csv` - CLOSED (was closed 2026-09-28 21:31).** Measured on the
+current file (3,358 data rows, 20 columns): `arrival_date` ISO **2,708**, of the old European
+shape **0**, other/status **0**, blank 650; `beaching_date` ISO **1,747**, old shape **0**,
+blank 1,611 - the status text now lives in `beaching_date_status` (AWAITING 958, ARRESTED 24,
+BEACHED 1, NIL 1, blank 2,374) where it belongs. 63 values the publisher printed with an
+impossible year (e.g. `29.02.2022`) stay blank and are inventoried in
+`data/extracted/audit/star_asia_deals_dates_quarantine.json` with page evidence.
+
+**4.3 `intermodal_macro_series.csv` - CLOSED (was closed 2026-09-28 22:1x) - and its premise is
+wrong by design, which is worth knowing before anyone "fixes" it again.** The file's
+`prior_value` is the page's SECOND SESSION COLUMN (`1-Jul-21`), while the publisher's
+`W-O-W Change %` column is week-over-week. An independent check today: of 3,739 rows,
+**2,833 (75.8%)** do not reproduce the printed % from `latest_value`/`prior_value`, and
+**0** have a blank change - i.e. the mismatch the ledger flagged is the COLUMN SEMANTICS, not
+extraction loss. Tested against the real base: the printed % reproduces from the SAME
+INDICATOR'S LATEST in the PREVIOUS REPORT on **3,266/3,723 = 87.7%** of consecutive-report
+pairs, and on exact 7-day report gaps **3,149/3,383 = 93.1%**. The residual is concentrated
+where the gap is 14 or 21 days (175 + 47 pairs), where the true base is a report we do not
+hold - not an extraction error. Opposing control: my probe on the page's own five value
+columns reproduces the printed % on **1/795** rows, which rules out "the change is computed
+from two of the printed sessions". `docs/intermodal_macro_verdict.md` has the extraction-side
+history. **Do NOT rewrite `latest_value`/`prior_value` to force reproduction.**
+
+## Section 2 numbers are STALE - re-measured with the ledger's own instrument
+
+`python3 scratch/measure_agreement.py`, run today:
+
+| file | multi-report keys | p50 spread | p90 spread | within 2% | ledger said |
+|---|---|---|---|---|---|
+| ssy_capesize_index_series.csv | 5,728 | 0.263% | 2.72% | **87.1%** | 87.4% |
+| ism_handy_freight_series.csv | 6,169 | 0.181% | **11.76%** | **74.1%** | p90 20.59%, 69.1% |
+| ism_coaster_freight_series.csv | 5,927 | 0.293% | **5.67%** | **83.7%** | p90 43.34%, 74.3% |
+| intermodal_baltic_tc_series.csv | 20,186 | 59.34% | 141.30% | 3.2% | unchanged (held-data verdict stands) |
+
+The ism re-key fix bought far more than section 2 recorded: handy's p90 fell 20.59 -> 11.76 and
+coaster's 43.34 -> 5.67. **The residual tail is now the only open item in this ledger**
+(within-2% 74.1% and 83.7%): it needs the failing reports NAMED and read, not a re-run of the
+gate.

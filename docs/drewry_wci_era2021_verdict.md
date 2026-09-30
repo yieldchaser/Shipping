@@ -1,0 +1,224 @@
+# Drewry WCI - the 2021-2022 era SHIPPED (measured 2026-09-30)
+
+`data/indices/drewry_wci_historical.csv` (fetched by `index.html`): **80 -> 104 rows**,
+**2021-06-24 .. 2026-09-24**. The hard `page_date < '2023-01-01'` cut that sat ABOVE the era gate
+was moved to `2021-01-01` (`TRIALED_FROM`) - and only after the era was trial-verified against its
+own pages, print by print. This is the "NEXT (precise)" item the previous run named.
+
+## The trial (the work that earned the cut move)
+
+28 snapshots (24 distinct print dates) pass all four gates. Every one was read **lane-by-lane
+against the sentence printed on its own cached page** (`scratch/wci/era2021_trial.py` ->
+`scratch/wci/era2021_trial.txt`). **27 of 24 dates were right; ONE print was wrong:**
+
+* **2021-06-24 - New York and Los Angeles SWAPPED.** Page: *"rates on Shanghai-New York and
+  Shanghai-Los Angeles soared 39% and 34% to $11,180 and $8,548 per feu, respectively"* -> NY 11,180,
+  LA 8,548. The parser gave LA 11,180 / NY 8,548 - two plausible numbers, handed to the wrong lanes.
+* **ROOT CAUSE (reproduced):** `label_rx` in `scripts/scrapers/fetch_drewry_wci.py` separates a lane
+  with `to` or an EN/EM DASH - **the plain hyphen was not in the class**, so `Shanghai-New York` was
+  never a label. With no labels, the ordinal/`respectively` rule could not fire and proximity gave
+  Los Angeles the first `$` after it. MEASURED: 30 hyphenated lane tokens across the 2021 pages
+  (`Shanghai-Genoa` 7, `Shanghai-Los` 6, `Rotterdam-New` 5, `Shanghai-Rotterdam` 5, ...); the
+  non-lane hyphenated forms (`East-West`, `Intra-Asia`, `Ro-Ro`, `Y-o-Y`, `Hapag-Lloyd`) are
+  rejected by `is_route_mention`'s port vocabulary, not by the separator.
+* **FIX:** the separator class now includes `-` (`PARSER_VERSION` 7 -> 8).
+
+## The control on that fix (it must not move anything else)
+
+All 230 cached snapshots re-parsed offline (`--fetch --refresh`, no network, no API spend) and
+compared pv7 vs pv8 (`scratch/wci/diff_pv7_pv8.py`): **exactly 2 snapshots moved corpus-wide - both
+captures of the same 2021-06-24 print, both the NY/LA swap - and 0 snapshots changed after 2023.**
+No completeness was gained or lost.
+
+## Controls on the shipped file
+
+| control | measured |
+|---|---|
+| rows | **80 -> 104** (0 lost, dates unique, strictly increasing) |
+| every displayed value verbatim on **its own** page | **542/542 = 100.00%** (`scratch/wci/final_verify.py`) |
+| parsed composite == the page's **own headline level** (parser not reused) | **30/30** (`scratch/wci/era2021_comp_ctl.py`) |
+| change arithmetic on consecutive weeks, pre-2023 | printed **$ 45/45**, printed **% 43/45** |
+| same control on the 2023+ rows (unchanged) | printed **$ 56/56**, printed **% 49/56** |
+| post-2023 stage, pv7 vs pv8 | **byte-identical** |
+| previously displayed rows changed | **0** (only additions) |
+| new dates are Thursdays AND carry the page's own cover line | **24/24** (`scratch/wci/ship_check.py`) |
+| fused pair (`rotterdam == genoa`), `composite == a route`, repeated value in a row | **0 / 0 / 0** |
+| md-tier authority for dates >= 2026-08-01 | 2026-09-03 / 09-10 / 09-24 untouched |
+
+## Withheld, stated not implied
+
+Of the 79 pre-2023 snapshots: **49 parse without all five core values** (the publisher printed only
+the composite or a route subset that week), **1 fails the numeric spread gate**, **1 fails the fused
+gate**, 28 ship:
+
+* **2021-05-20 (numeric gate) - correctly withheld, and it is a real parse defect.** The page prints
+  *"freight rates from Shanghai to Rotterdam soared 10% or $889 and reached a new high of $9,865"* -
+  the parser returned the **$889 change**. The level there is introduced by *"new high of"*, not by
+  `to|at|reach`. Same shape on Los Angeles (*"an increase of $350 to touch $5,605"*). Adding `of` as
+  an introducer is unsafe (it also introduces genuine changes), so the row stays withheld.
+* **2021-07-01 (fused gate) - correctly withheld.** *"rates on Shanghai-Los Angeles and Shanghai -
+  New York grew $617 and $539 to $9,165 and $11,719 per feu, respectively"* - the parser gave
+  **both lanes $9,165**. This is the known-open **"k labels, 2k numbers, changes first"** lane shape
+  (same family as 2023-02-23 and 2023-09-21); the fused gate rejects it, so no wrong value ships.
+
+## Files / commands
+
+* `scripts/scrapers/fetch_drewry_wci.py` - `label_rx` separator class + hyphen; `PARSER_VERSION` 8.
+* `scripts/scrapers/backfill_wci_history.py` - `TRIALED_FROM = '2021-01-01'` (was a hard `'2023-01-01'`).
+* Rebuild: `python3 scripts/scrapers/backfill_wci_history.py --fetch --refresh` then
+  `--stack --era-from 2021-01-01`, then `python3 scratch/wci/merge_display.py --apply`.
+* Probes (gitignored): `scratch/wci/era2021_trial.py`, `era2021_comp_ctl.py`, `diff_pv7_pv8.py`,
+  `ship_check.py`, `which_withheld.py`, `bak8/` (pre-change sources, checkpoint, stage, display).
+* Known-stale derived metadata NOT regenerated by this run: `data/provenance/manifest.json` and
+  `data/derived/held_data_catalog.json` still say `row_count 145` for this file (stale since the
+  138-row fabrication purge, not introduced here; neither is rendered).
+
+## Lesson
+
+The composite fix of the previous run made the 2021-2022 prose look parseable, and the pre-trial
+control (change arithmetic, verbatim recall) passed on **every** pre-2023 print - yet exactly one
+lane pair was still swapped, because the failure needed the publisher's *hyphenated* lane spelling,
+which appears on only a few 2021 pages. **Recall controls cannot see a swap**: both numbers are on
+the page, both are plausible, and the row is well formed. Only reading the sentence against the
+parsed lanes found it - the fifth time in this project that a "clean" file was wrong inside.
+
+---
+
+# SAME RUN, CONTINUED: the fused-lane defect FIXED (pv9)
+
+The two prints this run had to withhold by the `fused` gate (2021-07-01) and the two the PREVIOUS
+run withheld by it (2023-02-23, 2023-09-21) were the same sentence shape. All four are now fixed and
+shipped: **104 -> 107 rows**, and the `fused` gate has nothing left to reject (census `fused: 3 -> 0`).
+
+## TWO distinct causes, both measured on the pages
+
+**(1) A LEADING PROSE WORD WAS ABSORBED INTO THE LANE LABEL.** 2023-02-23: *"**On** Shanghai - New
+York and Shanghai - Rotterdam, rates fell by 4% to $2,881 and $1,633 per feu, respectively."* The
+label regex's optional second word took group1 as `"On Shanghai"`, and `is_route_mention` then threw
+the whole label away (`on` is not a port name) - so the sentence counted **ONE** lane instead of two
+and the `respectively` rule could never fire. Fix: trim leading non-port words off the match and keep
+the rest.
+
+**(2) THE POOLS COULD NOT SEPARATE A DOLLAR CHANGE FROM A DOLLAR LEVEL.** 2021-07-01: *"rates on
+Shanghai-Los Angeles and Shanghai - New York grew **$617 and $539** to **$9,165 and $11,719** per feu,
+respectively"*; 2023-09-21: *"...dropped 10% or **$167 and $127** to **$1,531 and $1,172**..."*. With
+k=2 lanes and 4 dollar values, none of the three value pools held exactly k members (the `or` filter
+strips only the FIRST change), so the row fell through to proximity and the SECOND lane was handed
+the FIRST lane's level - which is exactly what the `fused` gate then caught. Fix: **(d) TO-ANCHORED
+SUFFIX** - the LEVELS are the consecutive run that STARTS at the value the publisher introduced with
+`to|at|reach`. This rule is a LAST RESORT (only reached when the three existing pools all fail), so
+every case that parsed right before still takes the same branch.
+
+## Control on pv9 (all 230 cached pages re-parsed in process, nothing written)
+
+**225/230 snapshots unchanged.** The 5 that moved, each read against its own page - **all 5 are
+improvements**, 3 of them prints that were previously gated out entirely:
+
+| date | cell | before | after | page prints |
+|---|---|---|---|---|
+| 2021-07-01 | `shanghai_ny` | 9165 | **11719** | *"...grew $617 and $539 to $9,165 and $11,719"* |
+| 2021-07-22 | `shanghai_genoa` | 13066 | **12773** | *"Shanghai to Rotterdam and Shanghai to Genoa increased 1% or $112 and $88 to stand at $13,066 and $12,773"* |
+| 2023-02-23 | `shanghai_rotterdam` | 2881 | **1633** | *"...rates fell by 4% to $2,881 and $1,633 per feu, respectively"* |
+| 2023-09-21 | `shanghai_rotterdam` | 1531 | **1172** | *"...dropped 10% or $167 and $127 to $1,531 and $1,172"* |
+| 2024-02-15 | `shanghai_ny` / `rotterdam_shanghai` | 709 / 4288 | **6170 / 958** | *"...declined by 2% or $17 and $98 to $709 and $6,170 per feu"* + *"...decreased by 3% or $138 and $32 to $4,288 and $958"* |
+
+Two of those five pages still do not ship, and both are correctly WITHHELD as incomplete (not as
+wrong): **2021-07-22** prints New York as *"remain stable at previous weeks level"* with no number,
+**2024-02-15** prints Shanghai-Los Angeles as *"remained stable"*. Neither is a missing value we can
+recover - the publisher did not print one.
+
+## Final controls on the shipped 107 rows
+
+| control | measured |
+|---|---|
+| rows | **104 -> 107** (0 lost, 0 of the 104 previously displayed rows changed) |
+| every displayed value verbatim on **its own** page | **558/558 = 100.00%** |
+| change arithmetic (independent of the parser) | pre-2023 printed **$ 45/45**, **% 43/45**; 2023+ **$ 56/56**, **% 49/56** |
+| parsed composite == the page's own headline level | **30/30** |
+| every new date a Thursday carrying the page's own cover line | **25/25** |
+| fused / `composite == a route` / repeated value in a row | **0 / 0 / 0** |
+| gate census after pv9 | `incomplete 107, numeric 6, fused 0, withheld 0, pre_era 0` |
+
+**STILL OPEN (named, measured):** `to_rx` matches `to|at|reach` but NOT `reached`/`reaches`
+(*"increased 2% or $220 and **reached** $9,953"* on 2021-07-22 returns the $220 change). Fixing it
+would not ship that row (New York is not printed that week), and it needs its own corpus control.
+Also: the 2021-05-20 numeric-gate reject (**$889/$350 changes** returned instead of the levels, which
+the page introduces with *"new high of"* / *"an increase of"*) and the stale derived metadata
+(`data/provenance/manifest.json`, `data/derived/held_data_catalog.json` still say `row_count 145`).
+
+---
+
+# SAME RUN, pv10: the `reached` introducer (one more displayed row)
+
+`to_rx` accepted `to|at|reach` but not the past tense, so a level the publisher introduced with
+*"and reached"* lost to the nearby CHANGE. MEASURED on the corpus (all 230 cached pages re-parsed in
+process): **228/230 unchanged, exactly 2 moved, both read against their page and both improvements** -
+**2021-07-22** `shanghai_la` **220 -> 9953** (*"Spot rates on Shanghai to Los Angeles increased 2% or
+$220 and **reached** $9,953 for a 40ft box"*) and **2023-09-28** `shanghai_rotterdam` **120 -> 1052**
+(*"Shanghai to Rotterdam nosedived 10% or $120 for two consecutive weeks, and **reached** $1,052 which
+is lowest since Jun 2016"*). The 2023-09-28 print SHIPS (it had been withheld by the numeric gate,
+whose spread tell was reading the $120 change); 2021-07-22 stays withheld as INCOMPLETE - New York is
+printed as *"remain stable at previous weeks level"* with no number.
+
+**Final state of the displayed series: 108 rows, 80 -> 108 this run; 563/563 = 100.00% of values
+verbatim on their own page; 0 of the 80 rows that were displayed at the start of this run changed;
+numeric-gate rejects 6 -> 5; `fused` 3 -> 0.** Gate census: `incomplete 107, numeric 5, fused 0,
+withheld 0, pre_era 0`.
+
+
+# SAME RUN, pv11: the LEVEL PHRASE introducer - and a latent backspace bug found on the way
+
+**Displayed 108 -> 109 rows; 569/569 = 100.00% of displayed values verbatim on their own page.**
+
+## What was wrong (read off the page, not off a metric)
+
+2021-05-20 was the last named numeric-gate reject. Its page prints the levels with a PHRASE, not
+with the bare `to|at|reach` the parser knew:
+
+* *"Freight rates from Shanghai to Rotterdam soared 10% or $889 and **reached a new high of**
+  $9,865 for a 40ft container."* -> the parser returned the **CHANGE 889** for a level of **9,865**.
+* *"Similarly, Shanghai to Los Angeles rates surged 7% - an increase of $350 **to touch** $5,605 per
+  40ft box."* -> the parser returned the **CHANGE 350** for a level of **5,605**.
+
+Both wrong numbers ARE on the page, so every recall control passed - the same
+change-vs-level family as pv10 (and the same reason both are dangerous: `889` and `350` are
+well-formed values in the plausible direction). The other three lanes and the composite were
+already right: Genoa 9,477 / New York 7,366 / Rotterdam-Shanghai 1,546 / composite 6,135.44.
+
+## The fix (2 changes, measured SEPARATELY)
+
+1. `to_rx` alternation + `to\s+touch(es|ed)?` and `(a\s+)?new\s+(high|low)\s+of`.
+2. `INTRO_WIN = 32` replaces the hardcoded 8-char look-back: *"a new high of "* is 13 chars, so an
+   8-char window could not hold it. The introducer is anchored at the window END, so a `to` earlier
+   in the sentence still cannot leak in - widening admits multi-word introducers only.
+3. **A latent bug found while checking the file for the transport trap: `COMPOSITE_AVG_RX` carried
+   two literal 0x08 BACKSPACE bytes where `\b` was intended, so its `\bytd\b` alternative NEVER
+   matched.** The file now contains 0 backspace bytes and `\bytd\b` is live.
+
+## Control (`scratch/wci/diff_vs_pv.py`, all 230 cached pages re-parsed in process, nothing written)
+
+* the backspace repair alone: **0 / 230 pages moved** (measured as stage A, before the introducer
+  change was applied) - a dead alternative that decides nothing on this corpus.
+* the phrase introducer: **exactly 1 / 230 pages moved - 2021-05-20**, `shanghai_rotterdam`
+  889 -> 9865 and `shanghai_la` 350 -> 5605, both matching its page verbatim.
+
+## Shipped controls (none of them reuses the parser)
+
+`--fetch --refresh` (offline, from the local cache - no network, no spend) then
+`--stack --era-from 2021-01-01`: stage **102 -> 103** prints, numeric-gate census **5 -> 4** rejects
+(the one that left it is 2021-05-20), contam 0, fused 0. `merge_display.py`: **0 cell corrections,
+1 row added**, md-tier (>= 2026-08-01) untouched, 2026-08-06 still skipped as the same week as the
+2026-07-30 md print. On the displayed file: 0 rows lost, **0 of the 108 previously displayed rows
+changed**, dates unique and strictly increasing, **569/569 = 100.00%** of displayed values verbatim
+on their own page (was 563/563), **0 fused pairs**, **0 composite == a route**, pre-2023 rows
+**26/26 Thursdays** and **26/26 carrying the page's own cover line**, md-tier byte-identical.
+Date range **2021-05-20 .. 2026-09-24**.
+
+## Still open (unchanged)
+
+107 snapshots incomplete + 4 numeric-gated + 1 fetch failure (pre-existing; each means the publisher
+printed no number, or the row is a genuine parse reject - named in the gate census output).
+`data/derived/held_data_catalog.json` still says `rows: 145` with the fabricated 2024-01-04 ..
+2026-09-20 span. **MEASURED this run: it is an ORPHAN - `index.html` and `methodology.html` do not
+mention it, no builder for it exists in `scripts/`, and nothing in the repo reads it.** Do not
+hand-edit it and do not re-list it as a defect; regenerate it only if a builder turns up.

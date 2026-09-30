@@ -113,7 +113,21 @@ def clean_name(val):
     clean = re.sub(r'[\\/*?:"<>|]', "", val)
     return re.sub(r'\s+', ' ', clean).strip()
 
+COMPACT_DATE_RX = re.compile(r'(20\d\d)(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])')
+
+
 def extract_year(filename, text=""):
+    """Year of a Poten PDF from its OWN filename first, the TITLE only as a last resort.
+
+    `Tanker_Opinion_20071109.pdf` carries a compact yyyymmdd that the word-boundary
+    cannot see: `_` and the following digits are word characters, so neither boundary
+    exists.  The old code fell through to the title, and "The Outlook for Energy: A View
+    to 2030" was filed as 2030-01-01 (corpus/04-poten/2007/, and
+    knowledge/chunks/poten_tankers_2030.jsonl).
+    """
+    m = COMPACT_DATE_RX.search(filename)
+    if m:
+        return m.group(1)
     m = re.search(r'\b(20\d\d)\b', filename)
     if m:
         return m.group(1)
@@ -249,8 +263,11 @@ def process_page(page_num, use_category=False, delay=1.5):
 
             # Generate markdown metadata file under corpus/04-poten/{year}/{slug}.md
             date_str = f"{year}-01-01"
-            m_dt = re.search(r'(\d{1,2})\s+([A-Za-z]+)\s+(20\d\d)', filename)
-            if m_dt:
+            m_compact = COMPACT_DATE_RX.search(filename)
+            m_dt = re.search(r'\d{1,2}\s+([A-Za-z]+)\s+(20\d\d)', filename)
+            if m_compact:
+                date_str = f"{m_compact.group(1)}-{m_compact.group(2)}-{m_compact.group(3)}"
+            elif m_dt:
                 try:
                     date_str = datetime.strptime(f"{m_dt.group(1)} {m_dt.group(2)[:3]} {m_dt.group(3)}", "%d %b %Y").strftime("%Y-%m-%d")
                 except Exception:
@@ -261,8 +278,11 @@ def process_page(page_num, use_category=False, delay=1.5):
                 md_target.parent.mkdir(parents=True, exist_ok=True)
                 dek_m = re.search(r'\b(\d{1,2}\s+[A-Za-z]+\s+20\d\d\s*:[^<\n\r]+)', art_html or "")
                 dek_text = dek_m.group(1) if dek_m else title
+                # PEP 701: a backslash inside an f-string expression is a SyntaxError
+                # on Python <= 3.11 (the Actions runner's version).
+                title_clean = title.replace(chr(34), "")
                 md_content = f"""---
-title: "Poten Tanker Opinion: {title.replace('\"', '')}"
+title: "Poten Tanker Opinion: {title_clean}"
 date: "{date_str}"
 source: "poten"
 category: "tankers"

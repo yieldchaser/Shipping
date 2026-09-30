@@ -70,7 +70,7 @@ COMPOSITE_PAT = re.compile(
 )
 # "average" / "year-to-date" / "YTD" mark the publisher's own average statement,
 # never the week's level.
-COMPOSITE_AVG_RX = re.compile(r"average|year[\s-]?to[\s-]?date|ytd", re.I)
+COMPOSITE_AVG_RX = re.compile(r"average|year[\s-]?to[\s-]?date|\bytd\b", re.I)
 ROUTE_VALUE_PAT = re.compile(
     r"([a-z][a-z\s]*?)\s*[-\u2013\u2014to]+\s*([a-z][a-z\s]*?)\D{0,60}?"
     r"\$\s*([\d,]+(?:\.\d+)?)",
@@ -140,10 +140,30 @@ def extract_assessments(html_text):
 
     value_rx = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)")
     # A LEVEL is introduced by "to" ("...to $4,453"), but this publisher also
-    # writes "to reach $11,173" and "held steady at $7,904": the absolute CHANGE
+    # writes "to reach $11,173", "and REACHED $1,052 which is lowest since Jun
+    # 2016" and "held steady at $7,904" - MEASURED: the past tense was missing
+    # from the alternation, so ""nosedived 10% or $120 ... and reached $1,052""
+    # returned the $120 CHANGE on 2023-09-28 and $220 on 2021-07-22. The absolute CHANGE
     # ("increased 17% or $1,331 to $9,158") is nearer the label and would be a
     # 10x-class error, so an introduced value outranks a nearer one that is not.
-    to_rx = re.compile(r"\b(?:to|at|reach)\s*$", re.I)
+    # A LEVEL is not always introduced by the bare to|at|reach: 2021-05-20
+    # prints "soared 10% or $889 and reached a new high of $9,865" and
+    # "surged 7% - an increase of $350 to touch $5,605". Neither "new high of"
+    # nor "to touch" was in the alternation, so BOTH lanes returned the CHANGE
+    # ($889 / $350) - a change-vs-level error in the plausible direction, which
+    # no recall check can see (both numbers ARE on the page). The introducer is
+    # matched at the END of a look-back window, so the window width only decides
+    # how much PHRASE may precede the $; a "to" earlier in the sentence cannot
+    # leak in, because of the trailing anchor.
+    to_rx = re.compile(
+        r"\b(?:to\s+touch(?:es|ed)?|to|at|reach(?:es|ed)?|touch(?:es|ed)?|"
+        r"(?:a\s+)?new\s+(?:high|low)\s+of)\s*$",
+        re.I,
+    )
+    # Width of the introducer look-back. 8 chars held a bare "to $X" but not
+    # "a new high of $X" (13). MEASURED over every cached page: see
+    # scratch/wci/diff_vs_pv.py.
+    INTRO_WIN = 32
     # "increased 17% or $1,331" - the CHANGE, never the level.
     or_rx = re.compile(r"\bor\s*$", re.I)
     sent_rx = re.compile(r"(?<=[.!?])\s+")
@@ -157,8 +177,15 @@ def extract_assessments(html_text):
         r"on\s+the\s+other\s+hand)\b|;\s*|\n", re.I)
     # ANY route named in a sentence, tracked or not: a "respectively" list can
     # name a lane we do not keep, and dropping it shifts every ordinal in it.
+    # SEPARATOR CLASS INCLUDES THE PLAIN HYPHEN (2026-09-30): the 2021-era pages
+    # write "rates on Shanghai-New York and Shanghai-Los Angeles soared 39% and
+    # 34% to $11,180 and $8,548 per feu, respectively". With the hyphen absent
+    # NO label matched, so the ordinal rule never fired and proximity handed Los
+    # Angeles the level of New York. MEASURED: 30 hyphenated lane tokens on the
+    # 2021 pages; the non-lane forms (East-West, Intra-Asia, Ro-Ro, Y-o-Y) are
+    # rejected by is_route_mention (port vocabulary), not by the separator.
     label_rx = re.compile(
-        r"\b([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)\s*(?:to|[\u2013\u2014])\s*"
+        r"\b([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)\s*(?:to|[\u2013\u2014-])\s*"
         r"([A-Z][A-Za-z]+(?:\s+[A-Z][A-Za-z]+)?)")
     # The publisher's own port vocabulary, DERIVED from ROUTE_PATTERNS (never
     # hardcoded). A match whose every word is not a port name is prose
@@ -242,19 +269,43 @@ def extract_assessments(html_text):
             if not cands:
                 continue
             low = sent.lower()
-            all_labels = [(m.start(), m.end(), label_col(sent[m.start():m.end()]))
-                          for m in label_rx.finditer(sent)
-                          if is_route_mention(m.group(0))]
+            # A LEADING PROSE WORD IS NOT PART OF THE LANE. "On Shanghai - New
+            # York and Shanghai - Rotterdam, rates fell by 4% to ..." (2023-02-23)
+            # matched group1 as "On Shanghai" and was then thrown away by the
+            # port-vocabulary guard, so the sentence counted ONE lane instead of
+            # two and the respectively rule could not fire. Trim leading non-port
+            # words off the match and keep the rest.
+            all_labels = []
+            for m in label_rx.finditer(sent):
+                seg = m.group(0)
+                while seg and not is_route_mention(seg):
+                    parts = seg.split(None, 1)
+                    if len(parts) < 2:
+                        seg = ''
+                        break
+                    seg = parts[1]
+                if seg and is_route_mention(seg):
+                    all_labels.append((m.end() - len(seg), m.end(), label_col(seg)))
             to_vals = [c for c in cands
-                       if to_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                       if to_rx.search(sent[max(0, c[0] - INTRO_WIN):c[0]])]
             parallel = (len(all_labels) >= 2
                         and max(l[1] for l in all_labels) <= cands[0][0])
             if len(all_labels) >= 2 and ('respectively' in low or parallel):
                 free = [c for c in cands
                         if not or_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                # (d) TO-ANCHORED SUFFIX. Both the CHANGE and the LEVEL can be
+                # printed as dollars - "grew $617 and $539 to $9,165 and $11,719"
+                # (2021-07-01), "dropped 10% or $167 and $127 to $1,531 and
+                # $1,172" (2023-09-21) - so none of the three pools above holds
+                # exactly k members and the row used to fall through to proximity,
+                # which handed the second lane the first lane's level. The LEVELS
+                # are the consecutive run that STARTS at the value the publisher
+                # introduced with to|at|reach.
+                tail = [c for c in cands if to_vals and c[0] >= to_vals[0][0]]
                 vals = (to_vals if len(to_vals) == len(all_labels)
                         else free if len(free) == len(all_labels)
-                        else cands if len(cands) == len(all_labels) else None)
+                        else cands if len(cands) == len(all_labels)
+                        else tail if len(tail) == len(all_labels) else None)
                 if vals:
                     for (_ls, _le, col), (_vs, _ve, val) in zip(all_labels, vals):
                         if col and col not in values:
@@ -270,7 +321,7 @@ def extract_assessments(html_text):
                 if len(cl_lab) == 1:
                     ls, le, col = cl_lab[0]
                     lev = [c for c in cl_val
-                           if to_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                           if to_rx.search(sent[max(0, c[0] - INTRO_WIN):c[0]])]
                     if not lev and ci + 1 < len(cls):
                         # "...diminished 3% or $16 and stood at $500": the
                         # clause carries only the CHANGE, and the level is the
@@ -279,7 +330,7 @@ def extract_assessments(html_text):
                         if not [1 for _c, l2, l3 in local
                                 if l2 >= na and l3 <= nb]:
                             lev = [c for c in cands if na <= c[0] < nb
-                                   and to_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                                   and to_rx.search(sent[max(0, c[0] - INTRO_WIN):c[0]])]
                     pool = lev or cl_val
                     pick = min(pool, key=lambda c: gap(le, ls, c))
                     if col not in values:
@@ -297,7 +348,7 @@ def extract_assessments(html_text):
                 for vs, ve, val in cands:
                     dist = gap(le, ls, (vs, ve, val))
                     if dist <= max_dist:
-                        pref = 1 if to_rx.search(sent[max(0, vs - 8):vs]) else 0
+                        pref = 1 if to_rx.search(sent[max(0, vs - INTRO_WIN):vs]) else 0
                         scored.append((-pref, dist, col, vs, val))
             scored.sort(key=lambda t: (t[0], t[1], t[2], t[3]))
             used_cols, used_vals = set(), set()
