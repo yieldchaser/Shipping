@@ -249,9 +249,23 @@ def extract_assessments(html_text):
             if not cands:
                 continue
             low = sent.lower()
-            all_labels = [(m.start(), m.end(), label_col(sent[m.start():m.end()]))
-                          for m in label_rx.finditer(sent)
-                          if is_route_mention(m.group(0))]
+            # A LEADING PROSE WORD IS NOT PART OF THE LANE. "On Shanghai - New
+            # York and Shanghai - Rotterdam, rates fell by 4% to ..." (2023-02-23)
+            # matched group1 as "On Shanghai" and was then thrown away by the
+            # port-vocabulary guard, so the sentence counted ONE lane instead of
+            # two and the respectively rule could not fire. Trim leading non-port
+            # words off the match and keep the rest.
+            all_labels = []
+            for m in label_rx.finditer(sent):
+                seg = m.group(0)
+                while seg and not is_route_mention(seg):
+                    parts = seg.split(None, 1)
+                    if len(parts) < 2:
+                        seg = ''
+                        break
+                    seg = parts[1]
+                if seg and is_route_mention(seg):
+                    all_labels.append((m.end() - len(seg), m.end(), label_col(seg)))
             to_vals = [c for c in cands
                        if to_rx.search(sent[max(0, c[0] - 8):c[0]])]
             parallel = (len(all_labels) >= 2
@@ -259,9 +273,19 @@ def extract_assessments(html_text):
             if len(all_labels) >= 2 and ('respectively' in low or parallel):
                 free = [c for c in cands
                         if not or_rx.search(sent[max(0, c[0] - 8):c[0]])]
+                # (d) TO-ANCHORED SUFFIX. Both the CHANGE and the LEVEL can be
+                # printed as dollars - "grew $617 and $539 to $9,165 and $11,719"
+                # (2021-07-01), "dropped 10% or $167 and $127 to $1,531 and
+                # $1,172" (2023-09-21) - so none of the three pools above holds
+                # exactly k members and the row used to fall through to proximity,
+                # which handed the second lane the first lane's level. The LEVELS
+                # are the consecutive run that STARTS at the value the publisher
+                # introduced with to|at|reach.
+                tail = [c for c in cands if to_vals and c[0] >= to_vals[0][0]]
                 vals = (to_vals if len(to_vals) == len(all_labels)
                         else free if len(free) == len(all_labels)
-                        else cands if len(cands) == len(all_labels) else None)
+                        else cands if len(cands) == len(all_labels)
+                        else tail if len(tail) == len(all_labels) else None)
                 if vals:
                     for (_ls, _le, col), (_vs, _ve, val) in zip(all_labels, vals):
                         if col and col not in values:
