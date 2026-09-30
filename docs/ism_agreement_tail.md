@@ -66,3 +66,32 @@ python3 scratch/diag_ism.py            # worst keys, by label
 python3 scratch/quant_ism.py           # 2,269/12,978 rows >10%
 python3 scratch/diag_ism2.py           # the sibling-label evidence above
 ```
+
+
+---
+
+# RE-MEASURED 2026-09-30 11:1x IST - the tail is SMALLER than this doc records, and it is NAMED
+
+The re-key fix (2026-09-28, `docs/ism_series_fix_verdict.md`) moved this far more than the
+section-2 table of `docs/series_verification_ledger.md` records. Measured today with the ledger's
+own instrument (`scratch/measure_agreement.py`) and re-attributed row by row
+(`scratch/ism_tail_now.py`), read-only:
+
+| file | multi-report keys | p50 | p90 | within 2% | >10% spread | this doc said |
+|---|---|---|---|---|---|---|
+| ism_handy_freight_series.csv | 6,169 | 0.181% | 11.76% | 74.1% | 723 = 11.7% | p90 20.59%, 69.1%, 17.5% |
+| ism_coaster_freight_series.csv | 5,927 | 0.293% | 5.67% | 83.7% | 476 = 8.0% | p90 43.34%, 74.3%, same |
+
+## What is left, by label
+
+The `20XX year` labels dominate BOTH files - 285 of handy's 723 (39%) and 304 of coaster's 476 -
+followed by specific route labels (`Supramax, ECSA - Cont (bss dely APS)` 83; `Freight rate,
+billets, 5-6,000t, Novo - Marmara, $/t` 65). Handy's tail is 286 rows of `$/day` against 391 of `$/t`.
+
+**Leading hypothesis, to be tested on a page before any fix:** the `20XX year` families are a
+multi-year OVERLAY - the chart plots 2021..2025 as separate lines against the same x-axis - so a
+series keyed on `(date, '2022 year')` fuses the 2022 line of a 2023 report with the 2022 line of a
+2026 report, which are different points on the publisher's own axis. That makes the residual a KEY
+defect (the overlay year belongs in the point's date, not in the series name), not an extraction
+error - and it explains why the earlier fix removed the generic part of the tail and left this
+block. **Read one such chart page's legend and axis first; do not re-key from this note alone.**
