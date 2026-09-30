@@ -1,3 +1,41 @@
+**THIS RUN (2026-09-30 07:4x) - A DISPLAYED DEFECT FIXED: the Drewry WCI composite was the publisher's YEAR-TO-DATE AVERAGE on 6 displayed rows (worst +21.0%). 75 -> 80 rows, 408/408 = 100.00% page-reconciled.**
+
+`data/indices/drewry_wci_historical.csv` is fetched by `index.html`. Six of its 75 rows carried a
+wrong composite in the PLAUSIBLE direction, so no count-based check could see it: 2023-06-22 showed
+1822.0 where the page prints 1,535.75 (+18.6%), 2023-06-29 1809.0 vs 1,494.46 (+21.0%), 2023-08-03
+1770.0 vs 1,761.33, 2023-09-07 1769.0 vs 1,680.73 (+5.3%), 2023-09-14 1763.0 vs 1,561.30 (+12.9%),
+2023-01-05 2135.0 vs 2,135.16. Every one is the publisher's own *year-to-date average*, printed two
+sentences after the week's level.
+**ROOT CAUSE (reproduced):** `COMPOSITE_PAT` bounded its gap with a period-free character class, so
+any page whose change has a decimal ("increased 4.7% or $255 to $5,726.99 per 40ft container") failed
+the headline and fell through to the YTD-average sentence. MEASURED on all 228 cached pages: 49 took
+the average; 6 of those were displayed.
+**FIX:** the gap now allows periods, and the first match whose preceding 90 chars hold no
+`average|year-to-date|ytd` wins.
+**INDEPENDENT CONTROL (page text only):** the later week's page prints its own % and $ change, so
+level_new = level_old*(1+pct) and level_new-level_old = printed $. Same 57-58 consecutive pairs:
+BEFORE % 12/57, $ 51/57 - AFTER % 43/58, **$ 58/58** (the 15 residual % misses are the control's own
+extractor grabbing the "remains 224% higher than a year ago" percent).
+**TWO MORE DEFECTS THE FIX EXPOSED:** (1) the contamination gate's 2-decimal tell was applied to the
+composite - the publisher prints every ROUTE as a whole dollar but the composite to 2 dp, so the tell
+was silently dropping **12 real prints, all 12 with the 2 dp in the composite alone**; re-scoped to
+routes. (2) the checkpoint's `rotterdam_shanghai` was STALE on 2 displayed rows (5.0 and 16.0 = the
+printed CHANGE); the current parser already returns the page's 575 and 500, so a re-parse fixed them.
+**NEW GATE:** `fused` - reject a print where two tracked lanes carry an equal level. MEASURED: exactly
+2 of the 76 staged prints carry an equal pair and BOTH are the parser handing one lane the other's
+level (2023-02-23 Rotterdam got NY's 2,881; 2023-09-21 Rotterdam got Genoa's 1,531). The lane rule for
+that shape ("k labels, 2k numbers, changes first") is STILL OPEN - named pages in the verdict.
+**SHIPPED:** 8 cells corrected + 5 rows added (2023-01-12/02-16/03-02/03-30, 2025-07-03); stage 68 ->
+74 gate-passing prints; 0 dup dates, 0 fused, 0 composite==route; **408/408 = 100.00% of displayed
+values appear verbatim on their own page**; md-tier authority kept for >= 2026-08-01 (09-03, 09-10,
+09-24 untouched); the staged 2026-08-06 print skipped as the same week as the displayed 2026-07-30.
+Evidence **`docs/drewry_wci_composite_verdict.md`**.
+**NEXT (precise):** the 2021-2022 era is blocked by a HARD `page_date < '2023-01-01'` cut ABOVE the
+era gate - MEASURED: `--era-from 2021-01-01` still yields 2023-01-05..2026-09-24 and a byte-identical
+stage. Trial the 30 complete 2021-2022 records against their pages, then remove that cut. They now
+look parseable: their pages carry the full route prose (4/4 correct on two pages read by eye) and
+their composite was the same YTD-average defect, now fixed. Then: the open lane-fusion shape.
+
 # OVERNIGHT STATE - read this FIRST, then resume
 
 **THIS RUN (2026-09-29 17:xx) - WCI BACKFILL SHIPPED: the parser was fixed on measured page evidence and the displayed series went 17 -> 75 rows. The previous run's recorded diagnosis was WRONG.**
