@@ -437,24 +437,7 @@ def process_single_pdf(
             specialized_result = extract_star_asia(pdf_path, dry_run=dry_run)
         except Exception as e:
             print(f"  [!] Note: specialized star_asia failed ({e}), falling back to universal pipeline.")
-    elif pub == "intermodal":
-        try:
-            import extract_week39_supplements as supp
-            specialized_result = supp.extract_intermodal_doc(pdf_path)
-        except Exception as e:
-            print(f"  [!] Note: specialized intermodal failed ({e}), falling back to universal pipeline.")
-    elif pub in ("bancosta", "banchero_costa"):
-        try:
-            import extract_week39_supplements as supp
-            specialized_result = supp.extract_bancosta_doc(pdf_path)
-        except Exception as e:
-            print(f"  [!] Note: specialized bancosta failed ({e}), falling back to universal pipeline.")
-    elif pub == "clarksons" or (pub == "lion_shipbrokers" and "clarksons" in stem.lower()):
-        try:
-            import extract_week39_supplements as supp
-            specialized_result = supp.extract_clarksons_doc(pdf_path)
-        except Exception as e:
-            print(f"  [!] Note: specialized clarksons failed ({e}), falling back to universal pipeline.")
+
 
     # 2. Chart Signature Probing & Screenshot Clipping
     doc = fitz.open(pdf_path)
