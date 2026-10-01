@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import json
 import os
 import re
@@ -45,6 +46,32 @@ PUB = "xclusiv"
 CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
 OUT_MD = ROOT / "data" / "extracted" / "md" / PUB
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
+
+
+def byte_duplicate_stems() -> set:
+    """Stems of corpus PDFs that are BYTE-IDENTICAL to another corpus PDF.
+
+    The same weekly issue is re-dropped under a second filename by another
+    collection route (measured 2026-10-01: 271 xclusiv PDFs, only 264 unique -
+    7 duplicate groups, e.g. xclusiv_2026_xclusiv-2026_09_14.pdf and
+    xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf are
+    the same md5). Both copies were parsed and stacked, so every one of those
+    issues double-counted its deals. Keep the lexicographically-first stem and
+    skip the rest.
+    """
+    by_hash: Dict[str, List[Path]] = {}
+    for pdf in sorted(CORPUS_DIR.rglob("*.pdf")):
+        try:
+            h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        by_hash.setdefault(h, []).append(pdf)
+    skip: set = set()
+    for group in by_hash.values():
+        if len(group) > 1:
+            skip.update(p.stem for p in group[1:])
+    return skip
+
 
 SALES_SERIES_CSV = OUT_SERIES / "xclusiv_sales_series.csv"
 DEMO_SERIES_CSV = OUT_SERIES / "xclusiv_demolition_series.csv"
@@ -1403,6 +1430,11 @@ def main() -> None:
     args = parser.parse_args()
 
     all_pdfs = sorted(CORPUS_DIR.rglob("*.pdf"))
+    _dup = byte_duplicate_stems()
+    if _dup:
+        _b = len(all_pdfs)
+        all_pdfs = [p for p in all_pdfs if p.stem not in _dup]
+        print(f"[dedup] skipped {_b - len(all_pdfs)} byte-identical duplicate document(s)")
 
     if args.file:
         target_pdfs = [Path(args.file)]

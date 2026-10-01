@@ -36,6 +36,7 @@ import argparse
 import concurrent.futures
 import csv
 import datetime as dt
+import hashlib
 import json
 import os
 import pathlib
@@ -65,6 +66,33 @@ OUT_FULL_DIR = ROOT / "data" / "extracted" / "llamaparse_intermodal_full"
 OUT_MD_DIR = ROOT / "data" / "extracted" / "md" / PUB
 OUT_SERIES_DIR = ROOT / "data" / "extracted" / "series"
 STATE_FILE = OUT_FULL_DIR / "_run_state.json"
+
+
+def byte_duplicate_stems() -> set:
+    """Stems of corpus PDFs that are BYTE-IDENTICAL to another corpus PDF.
+
+    A second collection route re-drops the same weekly report under a different
+    filename (measured 2026-10-01: intermodal_2026_W39_*.pdf and
+    intermodal_30_09_2026_*week_39*.pdf are the same md5, as are the W38 pair).
+    The publisher name of each file is the canonical key, so a file that is a
+    byte-for-byte copy of another is a duplicate document, not a new issue.
+    Keep the lexicographically-first stem and skip the rest - at BOTH the
+    reparse enumeration and the sidecar stack, otherwise the stale sidecar of
+    the skipped copy re-adds every row.
+    """
+    by_hash: Dict[str, List[pathlib.Path]] = {}
+    for pdf in sorted(CORPUS_DIR.rglob("*.pdf")):
+        try:
+            h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        by_hash.setdefault(h, []).append(pdf)
+    skip: set = set()
+    for group in by_hash.values():
+        if len(group) > 1:
+            skip.update(p.stem for p in group[1:])
+    return skip
+
 
 TANKER_SPOT_CSV = OUT_SERIES_DIR / "intermodal_tanker_spot_series.csv"
 TC_RATES_CSV = OUT_SERIES_DIR / "intermodal_tc_rates_series.csv"
@@ -1383,7 +1411,13 @@ def recover_nb_previous(rows: List[Dict[str, Any]]) -> int:
 
 def build_all_series_from_sidecars():
     """Aggregate all sidecars in data/extracted/md/intermodal into the 8 series CSVs."""
+    _dup = byte_duplicate_stems()
     sidecar_files = sorted(OUT_MD_DIR.rglob("*.tables.json"))
+    if _dup:
+        _b = len(sidecar_files)
+        sidecar_files = [sf for sf in sidecar_files if sf.name[: -len(".tables.json")] not in _dup]
+        if len(sidecar_files) != _b:
+            print(f"[dedup] skipped {_b - len(sidecar_files)} duplicate sidecar(s)")
     all_tanker_spot = []
     all_tc_rates = []
     all_ind_values = []
@@ -1479,10 +1513,17 @@ def main():
         return
 
     # Find target PDFs
+    dup_stems = byte_duplicate_stems()
     if args.year == "all":
         all_pdfs = sorted(CORPUS_DIR.rglob("*.pdf"))
     else:
         all_pdfs = sorted((CORPUS_DIR / args.year).glob("*.pdf"))
+    if dup_stems:
+        before = len(all_pdfs)
+        all_pdfs = [p for p in all_pdfs if p.stem not in dup_stems]
+        if len(all_pdfs) != before:
+            print(f"[dedup] skipped {before - len(all_pdfs)} byte-identical duplicate document(s): "
+                  f"{sorted(p.stem for p in sorted(CORPUS_DIR.rglob('*.pdf')) if p.stem in dup_stems)}")
 
     if not all_pdfs:
         print(f"No PDFs found for year: {args.year}")
