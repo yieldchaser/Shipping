@@ -1278,3 +1278,164 @@ worth less. I did NOT verify that per source; it is the first thing to check.
 * I did not merge any auto/extract-fixes-2026-* branch into benchmark/extraction-comparison or
   main. The tree now carries the fixes; branch topology is a human call.
 * No push to main.
+
+## 2026-10-01 05:52 UTC (11:22 IST) - deep review: the health check was crying wolf again (its fix had vanished), and the 717-doc re-extraction buys almost nothing
+
+Verdict: **FIXED** - one proven verifier regression repaired. The extraction pass itself is complete
+and healthy (7,816/7,816 documents, 0 remaining, golden 15/15); the material new result is that
+yesterday's proposed 717-document re-extraction is worth close to zero, with the measurement below.
+
+### What I measured first (all read-only)
+
+`verify_extraction.py --json`: 7,816 checkpoint rows / 7,816 unique paths, `empty_after_ok_status` 0,
+`empty_unexpected` 0, `empty_not_in_checkpoint` 856, `empty_by_design` 114, golden **15/15**,
+249 crash-recovered rows all resolved, disk 31.7 GB free. Statuses: ok 7,488, CRASH 249 (all
+recovered), error 75, timeout 3, no-extractable-content 1. Inventory (7,676 after content-duplicates
+and PROVENANCE_ONLY) minus checkpoint = **0 documents to extract**.
+
+Liveness, honestly: no `run_batch` / `batch_worker` process exists. The only python.exe processes are
+the two Hermes gateways. The pass finished 2026-09-22; `corpus_state.json` is 12,970 min old because
+the job is done, not because it died.
+
+Checkpoint-vs-disk consistency over all 7,816 rows: **0 rows with status ok whose output directory is
+missing**. The only 74 rows whose directory is absent are the not-a-pdf quarantines, which were never
+extracted. So there is no provenance gap for any successful document.
+
+### Finding 1 (FIXED, proven by execution): check_state had lost its remaining_work() check
+
+The 2026-09-23 entry records this exact defect as fixed: a stale state file with `remaining == 0` must
+read `run COMPLETE, not a dead batch`, and the action must fire only when documents really remain;
+after that fix the verifier printed `OK - no action required`. Measured today, `remaining_work()`
+existed nowhere in `scripts/extract/`, and `check_state` warned unconditionally.
+
+Before (first run today): actions = ["state file is 12915 min old (> 30) - batch may have died;
+rerun with --resume"] - the same false alarm the hourly job has printed for a week.
+
+After (restored helper, same corpus): actions = [], exit 0, and
+state_note = "state file is 12970 min old but 0 documents remain (7676 planned, 7816 recorded) -
+run COMPLETE, not a dead batch".
+
+The restored helper recomputes run_batch's own queue (`load_inventory()` minus `PROVENANCE_ONLY`) and
+subtracts the checkpoint, so `7676 planned` reproduces the 09-23 figure exactly. All three branches
+were exercised directly: real checkpoint -> 0; missing checkpoint -> 7,676 (plan, 0 recorded); queue
+unrecomputable -> `None`, which falls back to the old warning rather than claiming a finished corpus.
+Golden unaffected: `golden_matrix.py` re-run gives star_asia camelot-stream 13/15, plumber-text 15/15,
+pymupdf-text 15/15, ssy_atlantic 14/14 - identical to the committed matrix, and
+`scripts/analysis/golden_matrix.json` is unmodified.
+
+### Finding 2 (resolves the open question from the 10:33 run): 510 of the 717 documents are covered by a pipeline that never reads the extract_all tables
+
+The 10:33 entry left this unanswered: check whether the affected source has already been re-parsed by
+its own bespoke runner - "I did NOT verify that per source; it is the first thing to check."
+
+Answer, measured. The bespoke runners under `scripts/extract/publishers/` open the SOURCE PDFs
+directly (e.g. `run_hellenic_demolition.py` opens `corpus/02-hellenic/demolition` with pymupdf) and
+write `data/extracted/md/<pub>/*.tables.json` plus `data/extracted/series/*.csv`; **none of them read
+`data/extracted/<run>/<source>/<stem>/tables.jsonl`**. `index.html` fetches none of that tree either
+(it reads `data/views/`, `data/derived/`, `data/clarksons/`, `data/etf/`). `build_table_db.py` is the
+only consumer. So for any publisher with a bespoke runner, re-running `extract_all` on its documents
+changes nothing any series or the app can see.
+
+Recounting the affected population from the stored `pages.jsonl` (my numbers; the 10:33 run counted
+1,520 pages across 717 docs, I get 1,469 pages across 727 docs - the difference is 75 rows with no
+`pages.jsonl`, i.e. the quarantines, and it does not change the conclusion):
+
+| Publisher affected | Docs | Bespoke pipeline that bypasses extract_all |
+|---|---|---|
+| shipbrokers/allied | 129 | **none - and archived** |
+| shipbrokers/golden_destiny | 78 | **none - and archived** |
+| shipbrokers/banchero | 59 | `run_banchero_*` -> 10 series CSVs, 256 md files |
+| shipbrokers/xclusiv | 39 | `run_xclusiv_tables.py` -> 10 CSVs, 21,212 rows |
+| shipbrokers/advanced_shipping | 5 | `run_advanced_shipping_tables.py` -> 5 CSVs, 18,744 rows |
+| shipbrokers/fearnleys | 4 | `run_fearnleys*` -> 7 CSVs |
+| hellenic | 181 | `run_hellenic_demolition.py` etc. -> 31 CSVs, 265,104 rows |
+| ppa_pdf | 126 | `run_ppa.py` -> `data/extracted/ppa/hedland_rows.jsonl` (1.9 MB), `dampier_rows.jsonl` (2.3 MB) |
+| seabrokers | 96 | `run_seabrokers_llamaparse.py` -> 9 CSVs, 16,500 rows |
+
+510 of the 717 belong to a publisher whose series never read these tables. The only uncovered
+documents are allied (129) and golden_destiny (78) - **both are in `corpus/archive/`**: allied's newest
+issue is `allied_2024_W07`, golden's is `golden_destiny_2024_W48`, both more than 180 days old, so
+BACKFILL_ONLY by the liveness rule. Neither has a series CSV and neither is named as data anywhere in
+`index.html` (the only textual hits are unrelated: "golden age", "Golden Dip", "Golden Ocean").
+
+The defect itself is real and was re-verified at page level rather than taken on trust.
+`allied_2021_W26_ALLIED-SnP-Statistics`: pages 2-6 are routed `garbled` and store **0 tables each**,
+while sibling pages 1/7/8 store 2-3 tables each. Probing the source PDF with pymupdf, those same pages
+carry 62 / 32 / 43 / 59 / 19 y-bands holding 2 or more numeric tokens - they are the SnP statistics
+pages, i.e. the actual data. 20 of 20 sampled allied garbled pages are table-shaped. The fix is in the
+working tree (`tabular_page` now includes non-mojibake `garbled` pages), so this is a backfill of two
+dead titles, not a live-series gap.
+
+### Finding 3 (measured; runbook corrected): the 74 not-a-pdf quarantines are genuine, not a regression
+
+The runbook's known-failures row said "3 files with bad %PDF- headers (breakwave x2, signal fueleu)" -
+that was the 303-document dryrun. The full pass quarantined **74**. Re-checked by magic bytes rather
+than by assuming the check was right: of the 6 whose source file still exists, **0 are PDFs** - 5 HTML
+(`<!DOCTYPE html>`, `<html><head>`) and 1 DOCX (`PK`, `word/document.xml`). The other **68 source files
+no longer exist anywhere in the repo** (breakwave "commodity call" HTML-dumps, e.g.
+`2023-06-09_metals-gain..._commodity-call-fine-china_bd06483485bb.pdf`, gone during the
+`corpus/<NN-group>/` reorganisation; a substring search for the names returns nothing). Quarantine
+cost 0 real documents. Runbook row corrected and a note added so a future verifier does not "fix" it.
+
+### Observation (measured, no change made): the structural shape of the stored tables
+
+Census over all 16,803 document `tables.jsonl` files (occ% = non-empty cells / all cells):
+
+| source | docs | tables | cells | occ% | tables tv=0 | 1-col % | 2+ numeric rows % |
+|---|---|---|---|---|---|---|---|
+| shipbrokers | 3,429 | 99,252 | 9,250,931 | 40.7 | 7% | 25% | 45% |
+| hellenic | 5,199 | 57,351 | 6,149,065 | 36.6 | 3% | 14% | 67% |
+| drewry_ais_pdfs | 276 | 11,244 | 655,434 | 20.0 | **38%** | 12% | 38% |
+| poten | 1,084 | 4,743 | 350,948 | 28.2 | 3% | 30% | **13%** |
+| seabrokers | 96 | 4,290 | 309,389 | 41.3 | 4% | 7% | 26% |
+| baltic | 2,217 | 1,088 | 16,320 | 99.9 | 0% | 0% | 50% |
+| ppa_pdf | 207 | 860 | 332,882 | 58.6 | 0% | 0% | 100% |
+| signal | 513 | 381 | 3,810 | 47.0 | 0% | 86% | 2% |
+
+Two things worth knowing, neither a defect I should silently "fix":
+- **No text blobs anywhere**: 0 documents in the whole corpus have a text block over 20,000 chars; the
+  largest block in any document is 7,618 chars.
+- The union extractor's low occupancy (36-41% on the two big sources) and the ~25% single-column tables
+  on shipbrokers are the pdfplumber leg shredding sparse Power BI / slide layouts. The already-recorded
+  2026-09-23 observation (drewry's tables are Power BI scaffolding) still measures true: drewry is the
+  lowest occupancy at 20.0% and the highest share of `text_verified == 0` tables at 38%. `poten` is the
+  other outlier: only 13% of its 4,743 stored tables hold 2 or more numeric rows, so 87% are prose
+  fragments, not tables. Both publishers have bespoke runners that bypass this tree, and the DB that
+  consumes it is not built, so today the impact is nil. Changing the union's table filter would move
+  ~99,000 shipbrokers tables and must not be done without the DB rebuild decision below.
+
+### What I changed
+
+* `scripts/extract/verify_extraction.py` - restored the `remaining_work()` helper and made
+  `check_state` raise the stale-state action only when documents actually remain (it now also names
+  the count). Commit **3b39bdc5e** on branch `auto/extract-fixes-2026-10-01` (+61/-4).
+* `docs/EXTRACTION_RUNBOOK.md` - corrected the quarantine row to the measured 74 with the magic-byte
+  evidence, and added a "what the extract_all corpus does and does not feed" section carrying the
+  coverage table above. Commit **4c6f5bd03** on the same branch (+43/-1).
+* Evidence and scratch scripts under `scratch/review/`, deleted at the end of this entry.
+
+### Deliberately not changed
+
+* `data/extracted/corpus_checkpoint.jsonl` - never written; nothing under `data/extracted/corpus/` was
+  written, moved or deleted. No document was re-extracted. No DB rebuild, no series rebuild.
+* **No re-extraction of the 717 documents.** Yesterday's entry proposed it as the main follow-up;
+  measured today, 510 of the 717 are covered by bespoke runners and the remaining 207 are two archived
+  titles. It is a human call and now looks like low value.
+* The union table filter (the observation above) - a change there affects ~99,000 tables and is only
+  meaningful together with the DB rebuild.
+* `scripts/extract/publishers/run_intermodal_full.py` and `run_star_asia_tables.py` carry other agents'
+  uncommitted edits; left alone. `run_hellenic_iron_ore_pdf.py` is dirty in the working tree from
+  another agent and was not staged by me.
+* No merge of any `auto/extract-fixes-*` branch into `main`. No push to main.
+
+### HUMAN DECISIONS
+
+1. **Rebuild the derived DB** (unchanged, still pending, now also blocks any table-filter change):
+   `data/extracted/corpus/db/corpus.duckdb` still holds the pre-fix 2026-09-22 and 2026-09-23 numbers.
+   Command: `python scripts/extract/build_table_db.py --out data/extracted` then
+   `python scripts/extract/check_measured_rules.py`.
+2. **Re-extraction of the 717 documents - now recommended SKIP.** If it is wanted anyway, the only
+   defensible subset is allied + golden_destiny (207 docs, 551 garbled pages), and it backfills two
+   titles that stopped in 2024. The current recommendation is to leave it.
+3. The 68 checkpoint rows whose source PDFs no longer exist are a provenance curiosity only - the rows
+   are correctly quarantined and no artefact is missing.
