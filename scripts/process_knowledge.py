@@ -1310,7 +1310,9 @@ def build_sources_registry():
             "broker_report": len(list((GROUP_ROOTS["brokers"] / "_digests").rglob("*.md"))),
         },
         "poten": {
-            "tankers": len(list((REPORTS_ROOT / "poten").rglob("*.md"))),
+            "tankers": len(
+                [p for p in GROUP_ROOTS["poten"].rglob("*.md") if is_poten_metadata_md(p)]
+            ),
         },
         "books": {
             "book": len(list(GROUP_ROOTS["books"].glob("*.pdf"))),
@@ -1342,7 +1344,7 @@ def build_sources_registry():
                 "broker_report": relpath(GROUP_ROOTS["brokers"] / "_digests"),
             },
             "poten": {
-                "tankers": relpath(REPORTS_ROOT / "poten"),
+                "tankers": relpath(GROUP_ROOTS["poten"]),
             },
         },
     }
@@ -1375,8 +1377,12 @@ def iter_source_files(source_filter: str | None):
         for path in sorted((GROUP_ROOTS["brokers"] / "_digests").rglob("*.md")):
             yield "broker_reports", "broker_report", path
     if source_filter in (None, "poten", "all"):
-        for path in sorted((REPORTS_ROOT / "poten").rglob("*.md")):
-            yield "poten", "tankers", path
+        # corpus/04-poten -> reports/poten was renamed by the 2026-09-23 corpus
+        # migration (b20829464); the old root no longer exists, so the poten
+        # tier could not be rebuilt at all. GROUP_ROOTS is the canonical map.
+        for path in sorted(GROUP_ROOTS["poten"].rglob("*.md")):
+            if is_poten_metadata_md(path):
+                yield "poten", "tankers", path
 
 
 def select_batch_slice(
@@ -1809,6 +1815,24 @@ def empty_linked_asset_stats() -> dict:
         "linked_assets_skipped": 0,
         "linked_assets_failed": 0,
     }
+
+
+def is_poten_metadata_md(path: Path) -> bool:
+    """Poten corpus md exists in TWO generations under corpus/04-poten.
+
+    The metadata md carry a `pdf_file:` field in their frontmatter and are what
+    the poten knowledge tier has always been built from (1,096 docs). The other
+    1,087 md are a byte-identical mirror of data/extracted/md/poten/ that
+    run_poten_clean.py syncs into the same directory on purpose. Reading the
+    whole directory would inject 1,087 duplicate documents into the RAG and
+    assign them the wrong (pre-extraction) identity, so only the metadata
+    generation is yielded.
+    """
+    try:
+        head = path.read_text(encoding="utf-8", errors="replace")[:600]
+    except OSError:
+        return False
+    return "pdf_file:" in head
 
 
 def is_primary_archive_html(path: Path) -> bool:

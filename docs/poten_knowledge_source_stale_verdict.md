@@ -73,7 +73,7 @@ days of nightly `knowledge: update` commits since the migration removed none of 
 the working tree's. So the code path that *should* have pruned them did not fire, and the reason
 is **not established** here. Reported as *not reproducible*, not as a live hazard.
 
-## 5. The fix (scoped, not applied)
+## 5. The fix - APPLIED ON THE BRANCH, with a content-preserving control
 
 `GROUP_ROOTS["poten"]` already resolves to `corpus/04-poten` (`scripts/source_archive_utils_v2.py`),
 so the canonical location is defined in exactly one place - `iter_source_files` and
@@ -90,6 +90,34 @@ Applying it is a **two-part** change, which is why it is not done blind in an un
 Same class, adjacent: `iter_source_files('baltic')` yields only **187** files while the tier holds
 2,036 baltic rows, so the tier and the current source roots have drifted apart generally, not only
 for poten. Out of scope here.
+
+
+**APPLIED (branch `auto/extract-fixes-2026-10-01-poten-kb-source`, `main` untouched):**
+`is_poten_metadata_md()` added; the three poten reads (`build_sources_registry` count, the
+`paths` payload, `iter_source_files`) now use `GROUP_ROOTS["poten"]`. `scripts/process_knowledge.py`
+= 28 insertions / 4 deletions.
+
+**CONTROLS (measured, function-level, pre-patch copy kept at `scratch/process_knowledge.py.prepatch`):**
+
+| source | `iter_source_files` before | after |
+|---|---|---|
+| poten | **0** | **1,096** |
+| baltic | 187 | 187 |
+| breakwave_insights | 505 | 505 |
+| hellenic | 514 | 514 |
+| broker_reports | 180 | 180 |
+| breakwave / books | 0 | 0 |
+
+* `py_compile` passes on **3.11** (the Actions runner) and **3.14** (this box).
+* **The source set is byte-for-byte the tier's own**: the 1,096 basenames yielded are an EXACT
+  match for the 1,096 poten `source_path` basenames already in `documents.jsonl` - 0 in the tier
+  are missing from the new yield and 0 new files are added; **0** of the 1,087 mirrored extraction
+  md are yielded. So the poten tier becomes rebuildable from the migrated corpus and rebuilds to
+  the SAME documents it has always served.
+* The tier was NOT rebuilt here - no data was changed. The next `process_knowledge.py` run (or
+  `--source poten`) may refresh it. Whether the RAG should keep the thin metadata md or move to the
+  full-text extractions in `data/extracted/md/poten/` is a content decision for the user, not a
+  migration detail.
 
 ## 6. Reproduce
 
