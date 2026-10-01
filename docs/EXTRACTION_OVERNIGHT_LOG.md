@@ -1439,3 +1439,150 @@ Two things worth knowing, neither a defect I should silently "fix":
    titles that stopped in 2024. The current recommendation is to leave it.
 3. The 68 checkpoint rows whose source PDFs no longer exist are a provenance curiosity only - the rows
    are correctly quarantined and no artefact is missing.
+## 2026-10-01 09:44 UTC (15:14 IST) - deep review: the health check said run COMPLETE for a corpus 274 documents bigger than the list it was checking
+
+Verdict: **FIXED** - one proven verifier defect repaired. The extraction pass itself is
+complete and the corpus is intact; the defect is that its completeness claim was computed
+against a frozen inventory rather than against the corpus on disk.
+
+### What I measured first (all read-only)
+
+`verify_extraction.py --json`: 7,816 checkpoint rows / 7,816 unique paths,
+`empty_after_ok_status` 0, `empty_unexpected` 0, golden **15/15**, 27.1 GB free, and
+`corpus_state.json` 13,200 min old with 0 documents remaining. Liveness, honestly: no
+`python.exe` carries `run_batch` or `batch_worker` (the only python.exe processes are the two
+Hermes gateways), so the stale state file is a finished job, not a dead batch.
+
+The 05:52 fix to `remaining_work()` (commit 3b39bdc5e) is **in main and in the working tree** -
+the "fixes vanished" failure mode did not recur this time. `scripts/extract/` was clean at the
+start of this run (only `data/derived/broker_reports_checkpoint.json` was dirty, and that is
+another job's file).
+
+### Finding (FIXED, proven by execution): "run COMPLETE" was a statement about inventory.jsonl, not about the corpus
+
+`run_batch`'s queue - and therefore `remaining_work()`, added yesterday - is computed from
+**`data/extracted/inventory.jsonl`, a frozen file built 2026-09-21 (`build_inventory.py` is
+reorg-aware, but nothing re-runs it)**. Every issue that landed in `corpus/` afterwards is
+invisible to the queue, so the check printed `0 documents remain ... run COMPLETE` for a corpus
+that had grown past the list. Measured with the same roots `build_inventory.py` walks:
+
+| measure | value |
+|---|---|
+| inventory.jsonl built / rows | 2026-09-21 / 9,912 (7,816 after content-duplicates) |
+| PDFs on disk under those roots | **12,912** |
+| absent from the inventory by filename | **338** |
+| of those, content (md5) the inventory has never seen | **274** (all 338 hashed offline) |
+
+The 274 break down as: 176 `fearnleys-md/pdfs` backfill files, plus 2026 W36..W39 broker
+weeklies (advanced_shipping, affinity, agora, banchero_costa, carriers, clarksons, intermodal,
+ism, lion, ssy, star_asia, xclusiv), MMI iron-ore dailies to 2026-09-28, GMS/Best Oasis
+demolition weeks 38-39, Breakwave dry/tanker, 12 Drewry AIS weeklies and 7 Signal PDFs.
+
+**No live series was gapped by this** - the publishers' bespoke runners open the source PDFs
+directly, and I checked rather than assumed: `md/banchero_costa/` holds W36/W37/W38 `.md` +
+`.tables.json`; `hellenic_gms_demolition_series.csv` runs to issue_date **2026-09-25**;
+`best_oasis_demolition_series.csv` to **2026-09-19**; `hellenic_iron_ore_daily_series.csv` to
+**2026-09-28**. The other 4,061 filename-absent files are content-duplicates of already
+extracted documents (verified by md5 against the inventory) - correctly skipped, not gaps.
+
+### What I changed
+
+* `scripts/extract/verify_extraction.py` - added `inventory_drift()` / `check_inventory_drift()`:
+  walks the inventory's own roots, compares filenames, and md5s **25 of a sorted candidate
+  list** to confirm the residue is unseen content. It is surfaced in `state_note` and as
+  `info["inventory_drift"]`, and it is **informational only - never an ACTION**, so the hourly
+  job still exits 0. Commit **d697e76a1** on branch `auto/extract-fixes-2026-10-01-corpus-drift`.
+* The md5 step is a sample on purpose: hashing all 338 measured **104 s cold**, which took the
+  whole hourly check from 25 s to **2 m 09 s**. With the 25-candidate sample the check is back
+  to **25.3 s**; the full 338/274 figures above come from a one-off offline run and are recorded
+  in the function's docstring.
+* A bug in my own first implementation is worth recording: the roots overlap
+  (`corpus/01-brokers` and `corpus/01-brokers/fearnleys-md`) **and spell the same directory with
+  different separators**, so de-duplicating on the raw path string counted the 176 fearnleys-md
+  files twice and reported 450 instead of 274. Fixed by de-duplicating on
+  `os.path.normcase(os.path.normpath(...))`; this is the same class of defect as the stale-path
+  lesson in the skill (a path string is not a stable identity).
+* Verified the branches directly, not by inspection: real corpus -> 338 absent / 19 of 25 sampled
+  unseen; missing inventory -> degrades to an error dict, no exception and no claim; empty roots
+  -> zeros; `check_inventory_drift` populates `info`.
+
+### Additions to the verifier, after the change
+
+```
+state_note: state file is 13200 min old but 0 documents remain (7676 planned, 7816 recorded)
+            - run COMPLETE, not a dead batch; NOTE: the queue comes from inventory.jsonl built
+            2026-09-21, and 338 PDFs now in the corpus are absent from that inventory by
+            filename (19/25 of a deterministic sample were unseen content), so COMPLETE
+            describes that list, not the corpus
+actions:    []          (exit 0)
+```
+
+
+### Other things measured today (no change made)
+
+1. **The chart store's dhash series key is degenerate for 24% of entries.** Census over all
+   17,654 document dirs / 7,742 `charts/meta.jsonl` files / **102,809 entries**: **24,689
+   entries (24.0%) carry the all-zero dhash `0000000000000000`**. I opened 15 of them rather
+   than guessing: every one is a flat image (`RGBA`, `min == max`, 1 distinct grey level) - an
+   alpha mask, a solid band or a 1239x4 rule strip, e.g. `p00_14_00000000.png` (795x30, one
+   level), `p00_26_00000000.png` (226x140, one level). `img_dhash` returns all-zero for any
+   uniform image by construction. Consequence if anyone later groups by dhash to rebuild a
+   series (which the strategy nominates as a capability): 24,689 unrelated images collapse into
+   one bogus series. **Nothing consumes this tree today** (`build_table_db.py` globs
+   `tables.jsonl` only), so this is a documented landmine, not a repair - and repairing it
+   would require re-extraction, which is a human decision.
+2. **The star_asia Gaddani cell-boundary defect recorded in `MASTER_EXTRACTION_PLAN.md` section 9
+   no longer reproduces.** Scanning all 200 `md/star_asia/**/*.tables.json` (47,979 rows):
+   **579 label cells mention GADDANI and 0 of them are dirty** (no digit, no fused TURKEY, all
+   carry PAKISTAN), and 0 of 1,529 yard-label cells (GADDANI/TURKEY) carry a value or the next
+   row's yard. The 122 TURKEY labels that do carry a footnote (`TURKEY / ... For Non-EU ships
+   ... USUS$30-40/ton less`) have intact value columns (`300 ~ 310`, `290 ~ 300`, ...). So that
+   item can come off the plan's next-actions list.
+3. **The live series survive a plausibility audit.** All 120 `data/extracted/series/*.csv` were
+   grouped by their non-numeric key columns and every numeric column checked for a
+   max/min >= 200x with n >= 5. Exactly one family flagged -
+   `athenian_yearly_demolition_volume_series.csv`, `demolition_mio_dwt` 0.10 .. 55.8 - and it is
+   **my own pivot's bug, not the data's**: `year` (2007..2021) is numeric so my audit put it in
+   the value set instead of the series key, fusing 16 year-rows into one "series". Rows read
+   `2007 -> 5.3`, `2012 -> 55.8`, `2021 -> 12.8`, which are plausible annual totals. That is
+   the skill's Bug 2 reproduced by accident, and it is the reason I did not report a defect.
+4. **Every literal `fetch()` target in `index.html` resolves.** 42 distinct paths; the only
+   apparent miss, `data/derived/fearnleys_comments_`, is a string-concatenation prefix, not a
+   path. So the corpus reorganisation has not left the app 404ing through the paths the app
+   itself names.
+5. **The extract_all tree still feeds nothing** (re-confirmed: `index.html` reads
+   `data/{{views,derived,clarksons,etf,reports,bunkers,cargo,congestion,geospatial,provenance}}`
+   only). This is why the drift above is informational rather than urgent.
+
+### Deliberately not changed
+
+* `data/extracted/corpus_checkpoint.jsonl` was never written, and nothing under
+  `data/extracted/corpus/` was written, moved or deleted. No document was re-extracted. No DB
+  rebuild, no series rebuild.
+* **No re-extraction of the 338 filename-absent documents.** They are already covered by the
+  bespoke runners (evidence above); re-running `extract_all` over them would populate a tree
+  nothing reads. This supersedes yesterday's "backfill allied + golden_destiny (207 docs)"
+  option for the same reason - that tree is not consumed.
+* The union table filter and the dhash degeneracy above - both change ~99,000 tables or need
+  re-extraction, and are only meaningful together with the DB rebuild decision below.
+* `scripts/extract/publishers/run_drewry_ais.py` was modified in the working tree by another
+  agent during this run; left alone and not staged.
+* No merge of any `auto/extract-fixes-*` branch into `main`. No push to main.
+
+### HUMAN DECISIONS
+
+1. **Rebuild the derived DB** (unchanged, still pending): `data/extracted/corpus/db/corpus.duckdb`
+   still holds the pre-fix 2026-09-22/23 numbers. Command:
+   `python scripts/extract/build_table_db.py --out data/extracted` then
+   `python scripts/extract/check_measured_rules.py`.
+2. **Decide whether the platform-driven `extract_all` tree is wanted at all.** It is complete
+   for its 2026-09-21 list and consumed by nothing the app displays, while the corpus grows
+   ~30 documents/week. Two defensible options: retire it (leave the bespoke runners as the
+   pipeline, and the new drift note as the record of why) or re-run `build_inventory.py` plus a
+   resume so it tracks the corpus. I did neither - both are programme decisions, not repairs.
+3. **Audit-trail issue, not a data issue:** my in-progress edit to `verify_extraction.py` was
+   picked up by another agent's parallel commit **6a4892683** (`feat(drewry-ais): ingest 9 new
+   weekly reports...`, which also stages `run_drewry_ais.py` and a corpus xlsx), and the rest of
+   the fix is in **d697e76a1**. The file is correct and self-consistent at HEAD, but the fix is
+   split across a code commit and a data commit, so a revert of 6a4892683 would take most of it
+   with it. Flagging because this repo's convention is code and data commits kept separate.
