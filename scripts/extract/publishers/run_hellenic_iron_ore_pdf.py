@@ -2235,6 +2235,10 @@ def process_single_mmi_sync(pdf_path_str: str) -> Dict[str, Any]:
                 and len(sidecar.get("index_spreads", [])) >= 1
                 and len(sidecar.get("multi_period_averages", [])) >= 2
             ):
+                return {"status": "skipped", "name": pdf_path.name, "issue_date": issue_date}
+        except Exception:
+            pass
+
     # Check if single-page SMM format
     try:
         doc = pymupdf.open(str(pdf_path))
