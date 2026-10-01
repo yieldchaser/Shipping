@@ -86,10 +86,17 @@ tests/test_loader_contracts.py tests/test_question_routing_and_grounding.py` = *
 (`indices_drewry_wci_historical` `row_count` **121 -> 135**; the only other lines that moved
 are 4 unrelated `last_fetched_utc` ticks from other pipelines).
 
-## Still open (measured, not fixed)
+## The 15 failed fetches were retried inside the same run
 
-* **15 snapshots failed to fetch** (WinError 10061). `--refresh` retries only what lacks a
-  good v18 parse, so a later pass picks them up. Nothing in them is known to be a print.
+A second `--fetch --refresh` took all **15** (0 remaining): **6 of them are COMPLETE prints** -
+but every one of those 6 prints a Thursday that already had a row, so the STAGE stayed at
+**135 rows** (`fetch_failed` 15 -> 1, `incomplete` 143 -> 151). The only stage movement is
+**5 rows whose `source_snapshot` becomes the print's own capture** (2024-02-22
+`20240226152424` -> `20240222191835`, 2024-02-29, 2024-04-04, 2024-09-26, 2026-03-05) -
+provenance only, **values identical on every row** (`merge_display.py` re-run: 0 cell
+corrections, 0 rows added against the already-merged 135).
+
+## Still open (measured, not fixed)
 * **33 era Thursdays have NO archived capture in their own ISO week** and 17 more have only
   pre-Thursday captures: archive-side, unfixable by any parser change for this URL.
 * The two wildcard patterns (`*world-container-index*`, `*container-index*`) remain
