@@ -661,7 +661,8 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
     commentary = rfn.extract_clean_commentary(doc)
     rate_cards = rfn.extract_rate_cards(doc)
-    nb_activity, nb_prices = rfn.extract_newbuilding(doc)
+    nb_activity = rfn.extract_newbuilding_activity(doc)
+    nb_prices = rfn.extract_newbuilding_prices(doc)
     sp_dry, sp_wet = rfn.extract_secondhand_prices(doc)
 
     stamped_rows = []
