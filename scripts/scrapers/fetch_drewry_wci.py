@@ -390,6 +390,37 @@ def extract_assessments(html_text):
                         if col and col not in values:
                             values[col] = val
                     continue
+                if vals is None and low.count("respectively") >= 2:
+                    # (pv17) TWO PARALLEL `respectively` LISTS in one sentence.
+                    # 2024-12-19: "rates from Shanghai to Genoa and Rotterdam to Shanghai
+                    # decreased 2% to $5,424 per feu and $508 per feu, respectively, and those
+                    # from New York to Rotterdam and Shanghai to Rotterdam shrank 1% to $824
+                    # per feu and $4,819 per feu, respectively, whereas those from Los Angeles
+                    # to Shanghai remained stable." MEASURED: five labels against four values -
+                    # one label is the untracked New York-Rotterdam, one is the value-less tail
+                    # lane - so NO pool above matches the label count and the clause fallback
+                    # handed each lane its own list's FIRST value (rotterdam_shanghai 5424,
+                    # should be 508; shanghai_rotterdam 824, should be 4,819).
+                    # Each `respectively` CLOSES a list, so the ordinal mapping is scoped to the
+                    # part BEFORE that marker, never to the whole sentence. Fires ONLY when the
+                    # pools above failed (vals is None), fills EMPTY columns only, and bails
+                    # unless every list part has as many labels (tracked or not) as values.
+                    _marks = [m.end() for m in re.finditer(r"respectively", low)]
+                    _bnds = [0] + _marks + [len(sent)]
+                    _plan, _ok = [], True
+                    for _i in range(len(_marks)):
+                        _a, _b = _bnds[_i], _bnds[_i + 1]
+                        _pl = [(ls, le, col) for (_ls, _le, col) in all_labels
+                               if _a <= _ls and _le <= _b]
+                        _pv = [c for c in free if _a <= c[0] < _b]
+                        if not _pl or len(_pl) != len(_pv):
+                            _ok = False
+                            break
+                        _plan.extend(zip(_pl, _pv))
+                    if _ok and any(_p[0][2] for _p in _plan):
+                        for (_ls, _le, col), (_vs, _ve, val) in _plan:
+                            if col and col not in values:
+                                values[col] = val
             cls = clauses(sent)
             for ci, (a, b) in enumerate(cls):
                 cl_lab = [(ls, le, col) for col, ls, le in local
