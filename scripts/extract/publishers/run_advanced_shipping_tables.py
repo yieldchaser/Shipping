@@ -42,6 +42,12 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 # OCR fallback for vector-rendered glyphs
 try:
     import pytesseract
@@ -67,6 +73,17 @@ DEMO_SERIES_CSV = OUT_SERIES / "advanced_shipping_demolition_series.csv"
 NB_SERIES_CSV = OUT_SERIES / "advanced_shipping_newbuilding_series.csv"
 SECONDHAND_SERIES_CSV = OUT_SERIES / "advanced_shipping_secondhand_matrix_series.csv"
 DEMO_SALES_SERIES_CSV = OUT_SERIES / "advanced_shipping_demo_sales_series.csv"
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    A second collection route re-drops the same weekly report under a different
+    filename (measured 2026-10-01: 253 PDFs / 250 unique, 3 duplicate groups).
+    Both copies were parsed and stacked, double-counting 148 rows across the 5
+    delivered series. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(CORPUS_DIR, OUT_MD)
 
 # ---------------------------------------------------------------------------
 # Number & Date Parsing
@@ -1114,14 +1131,50 @@ def write_series_csvs(
             writer.writerow({k: r.get(k, "") for k in DEMO_SALES_COLUMNS})
 
 
+def rebuild_series_from_sidecars() -> None:
+    """Rebuild the 5 series CSVs from data/extracted/md/advanced_shipping sidecars.
+
+    The sidecar holds the exact row lists process_document() produced, so this
+    reproduces the shipped series byte-for-byte apart from the byte-duplicate
+    filter - it never re-parses a PDF.
+    """
+    dup = duplicate_stems()
+    sidecars = sorted(OUT_MD.rglob("*.tables.json"))
+    kept = [f for f in sidecars if f.name[: -len(".tables.json")] not in dup]
+    print(f"[stack-only] {len(kept)} sidecar(s) of {len(sidecars)} (dedup skipped {len(sidecars) - len(kept)})")
+    sales, demo_prices, nb, secondhand, demo_sales = [], [], [], [], []
+    for f in kept:
+        d = json.loads(f.read_text(encoding="utf-8"))
+        sales.extend(d.get("reported_sales", []))
+        demo_prices.extend(d.get("indicative_demolition_prices", []))
+        nb.extend(d.get("newbuilding", []))
+        secondhand.extend(d.get("indicative_secondhand_prices", []))
+        demo_sales.extend(d.get("demolition_sales", []))
+    write_series_csvs(sales, demo_prices, nb, secondhand, demo_sales)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Advanced Shipping Table Extractor")
     parser.add_argument("--sample", action="store_true", help="Run 3-report sample")
     parser.add_argument("--file", type=str, help="Process a single file")
     parser.add_argument("--all", action="store_true", help="Process all 249 corpus files")
+    parser.add_argument(
+        "--stack-only",
+        action="store_true",
+        help="Rebuild the 5 series CSVs from the sidecars already on disk (no PDF parse).",
+    )
     args = parser.parse_args()
 
+    if args.stack_only:
+        rebuild_series_from_sidecars()
+        return
+
     all_pdfs = sorted(CORPUS_DIR.rglob("*.pdf"))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(all_pdfs)
+        all_pdfs = [q for q in all_pdfs if q.stem not in _dup]
+        print(f"[dedup] skipped {_b - len(all_pdfs)} byte-identical duplicate document(s)")
 
     if args.file:
         target_pdfs = [Path(args.file)]
