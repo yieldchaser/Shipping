@@ -180,7 +180,7 @@ def normalize_seabrokers_content(text: str) -> str:
     text = re.sub(r'(?i)\*Vessels arriving in or departing from the North Sea term/layup market are not included here\.?', '', text)
 
     # Strip corporate directory and repetitive office address boilerplate at footers / page breaks
-    text = re.sub(r'(?is)\n(?:#+\s*)?SEABROKERS GROUP\b.*?(?:ISO\s*9001:2015|seabrokers\.com\.br|chartering@seabrokers\.\w+).*?$', '', text)
+    text = re.sub(r'(?im)^[ \t]*(?:#+\s*)?SEABROKERS GROUP\s*$\n(?:^[ \t]*.*$\n){0,10}?(?:ISO\s*9001:2015|seabrokers\.com\.br|chartering@seabrokers\.\w+)', '', text)
     text = re.sub(r'(?is)Seabrokers\s+(?:Fundamentering|Heavy Machinery|Head Office|Chartering\s*-\s*Stavanger).*?(?=\n\n|\Z)', '', text)
     text = re.sub(r'(?is)Production & Administration.*?(?:ISO 9001:2015|\.co\.uk)\.?', '', text)
     text = re.sub(r'(?is)SEABROKERS GROUP:\s*Over the last 40\+ years.*?(?=\n\n|\Z)', '', text)
