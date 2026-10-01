@@ -93,17 +93,109 @@ def parse_date_from_filename(filename: str):
 def normalize_seabrokers_content(text: str) -> str:
     """Publication-grade normalizer for Seabrokers Seabreeze reports.
 
-    - Strips running headers ('Seabreeze — Month Year')
-    - Strips isolated running page numbers ('10 11', '14 15', '26 27')
-    - Strips repetitive corporate office directories, phone/email lists, and ISO 9001 boilerplate
-    - Structures Table of Contents into a clean Markdown list
-    - Structures North Sea Spot Arrivals & Departures into clean bulleted sections
-    - Structures Page 1 headline teasers into Executive Highlights
-    - Strips stray question marks and excess whitespace
+    - Converts HTML tables into clean GitHub Flavored Markdown pipe tables
+    - Unfurls deformed tables where columns were crammed into <br/>-separated headers
+    - Realigns Page 7 spot rates tables with their exact category headings
+    - Formats Arrivals & Departures into clean tables or bulleted lists
+    - Fixes OCR typos (e.g. 'AI ITS DUTIES' -> 'AHTS DUTIES')
+    - Cleans empty marketing tables on Page 2 and duty phones boilerplate on Page 16
+    - Strips running headers, running page numbers, and corporate boilerplate
     """
     text = text.replace('\r\n', '\n')
 
-    # Format Table of Contents
+    # 1. Convert HTML tables to Markdown pipe tables
+    def _html_table_to_md(m):
+        html = m.group(0)
+        rows = re.findall(r'<tr.*?>\s*(.*?)\s*</tr>', html, flags=re.DOTALL)
+        if not rows:
+            return ''
+        md_rows = []
+        title = ''
+        for r in rows:
+            title_m = re.search(r'<th[^>]*colspan[^>]*>(.*?)</th>', r, flags=re.DOTALL)
+            if title_m:
+                title = re.sub(r'<[^>]+>', '', title_m.group(1)).strip()
+                continue
+            cells = re.findall(r'<(?:th|td)[^>]*>(.*?)</(?:th|td)>', r, flags=re.DOTALL)
+            if cells:
+                clean_cells = [re.sub(r'<[^>]+>', ' ', c).strip().replace('|', '/') for c in cells]
+                md_rows.append(clean_cells)
+        if not md_rows:
+            return ''
+        header = md_rows[0]
+        data = md_rows[1:]
+        res = []
+        if title:
+            res.append(f'### {title}\n')
+        res.append('| ' + ' | '.join(header) + ' |')
+        res.append('| ' + ' | '.join([':---'] * len(header)) + ' |')
+        for d in data:
+            while len(d) < len(header):
+                d.append('')
+            res.append('| ' + ' | '.join(d[:len(header)]) + ' |')
+        return '\n' + '\n'.join(res) + '\n\n'
+
+    text = re.sub(r'<table.*?>.*?</table>', _html_table_to_md, text, flags=re.DOTALL)
+
+    # 2. Fix OCR typos
+    text = re.sub(r'\bAI\s*ITS\s+DUTIES\b', 'AHTS DUTIES', text)
+    text = re.sub(r'\bAI\s*ITS\b', 'AHTS', text)
+
+    # 3. Unfurl deformed <br/>-crammed header tables
+    def _fix_br_table(m):
+        tbl = m.group(0)
+        lines = tbl.strip().split('\n')
+        if len(lines) < 2:
+            return tbl
+        header_line = lines[0]
+        cols = [c.strip() for c in header_line.split('|') if c.strip()]
+        if not cols or not any('<br/>' in c or '<br>' in c for c in cols):
+            return tbl
+        
+        col_splits = []
+        for c in cols:
+            parts = [p.strip() for p in re.split(r'<br\s*/?>', c, flags=re.IGNORECASE) if p.strip()]
+            col_splits.append(parts)
+        
+        part_lens = [len(p) for p in col_splits]
+        if len(set(part_lens)) == 1 and part_lens[0] >= 3:
+            n_rows = part_lens[0]
+            first_items = [p[0] for p in col_splits]
+            title = first_items[0] if len(set(first_items)) == 1 else ''
+            row_offset = 1 if title else 0
+            
+            new_headers = [col_splits[i][row_offset] for i in range(len(cols))]
+            new_rows = []
+            for r_idx in range(row_offset + 1, n_rows):
+                row_vals = [col_splits[c_idx][r_idx] for c_idx in range(len(cols))]
+                new_rows.append(row_vals)
+            
+            out = []
+            if title:
+                out.append(f'### {title}\n')
+            out.append('| ' + ' | '.join(new_headers) + ' |')
+            out.append('| ' + ' | '.join([':---'] * len(new_headers)) + ' |')
+            for r in new_rows:
+                out.append('| ' + ' | '.join(r) + ' |')
+            return '\n' + '\n'.join(out) + '\n\n'
+        
+        # Case B: Prefix title in header cells (e.g. INACTIVE RIGS NORTHWEST EUROPE<br/>NAME)
+        if len(set(part_lens)) == 1 and part_lens[0] == 2:
+            first_items = [p[0] for p in col_splits]
+            title = first_items[0] if len(set(first_items)) == 1 else ''
+            new_headers = [p[1] for p in col_splits]
+            out = []
+            if title:
+                out.append(f'### {title}\n')
+            out.append('| ' + ' | '.join(new_headers) + ' |')
+            for l in lines[1:]:
+                out.append(l)
+            return '\n' + '\n'.join(out) + '\n\n'
+        return tbl
+
+    text = re.sub(r'(?m)^(\|?[^\n]+<br/?>[^\n]+\|\n\|[-:\t |]+\|(?:\n\|[^\n]+\|)*)', _fix_br_table, text, flags=re.IGNORECASE)
+
+    # 4. Format Table of Contents
     def _toc_repl(m):
         raw_items = m.group(1).strip()
         items = re.findall(r'(\d{1,2})\s+([A-Za-z][A-Za-z0-9&,\s/–-]+?)(?=\s+\d{1,2}\b|\Z)', raw_items)
@@ -118,7 +210,7 @@ def normalize_seabrokers_content(text: str) -> str:
 
     text = re.sub(r'(?is)\bContents\s*\n((?:\d{1,2}\s+[A-Za-z][A-Za-z0-9&,\s/–-]+\s*)+)', _toc_repl, text)
 
-    # Format Executive Highlights / Teasers on Page 1
+    # 5. Format Executive Highlights / Teasers on Page 1
     def _teaser_repl(m):
         raw_block = m.group(0).strip()
         lines = [l.strip() for l in raw_block.split('\n') if l.strip()]
@@ -133,14 +225,20 @@ def normalize_seabrokers_content(text: str) -> str:
 
     text = re.sub(r'(?m)^(?:[A-Z0-9][A-Za-z0-9\s,&–-]+?\s*/\s*\d{1,2}\n?){2,}', _teaser_repl, text)
 
-    # Remove running headers like 'Seabreeze — Month Year' or 'Seabreeze Month Year'
-    text = re.sub(r'(?im)^[ \t]*Seabreeze\s*[-–—]?\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s*\d{4}[ \t]*$', '', text)
+    # 6. Format Arrivals & Departures
+    def _fix_arr_dep_table(m):
+        tbl = m.group(0)
+        lines = tbl.strip().split('\n')
+        new_lines = [
+            '| ARRIVALS (VESSEL) | ORIGIN | DEPARTURES (VESSEL) | DESTINATION |',
+            '| :--- | :--- | :--- | :--- |'
+        ]
+        for l in lines[2:]:
+            new_lines.append(l)
+        return '\n' + '\n'.join(new_lines) + '\n\n'
 
-    # Remove running page numbers
-    text = re.sub(r'(?m)^\s*\d{1,2}\s+\d{1,2}\s*$', '', text)
-    text = re.sub(r'(?m)^\s*\d{1,2}\s*$', '', text)
+    text = re.sub(r'(\| ARRIVALS - NORTH SEA SPOT \| ARRIVALS - NORTH SEA SPOT \| DEPARTURES - NORTH SEA SPOT \| DEPARTURES - NORTH SEA SPOT \|\n\|[-:\s|]+\|\n(?:\|[^\n]+\|\n*)+)', _fix_arr_dep_table, text)
 
-    # Format Arrivals & Departures
     def _arr_dep_repl(m):
         arr_part = m.group(1).strip()
         dep_part = m.group(2).strip()
@@ -179,8 +277,47 @@ def normalize_seabrokers_content(text: str) -> str:
     text = re.sub(r'(?is)ARRIVALS NORTH SEA SPOT\s*\*?\s*\n(.*?)\nDEPARTURES NORTH SEA SPOT\s*\*?\s*\n(.*?)(?=\*Vessels|\n\n|\Z)', _arr_dep_repl, text)
     text = re.sub(r'(?i)\*Vessels arriving in or departing from the North Sea term/layup market are not included here\.?', '', text)
 
-    # Strip corporate directory and repetitive office address boilerplate at footers / page breaks
-    text = re.sub(r'(?im)^[ \t]*(?:#+\s*)?SEABROKERS GROUP\s*$\n(?:^[ \t]*.*$\n){0,10}?(?:ISO\s*9001:2015|seabrokers\.com\.br|chartering@seabrokers\.\w+)', '', text)
+    # 7. Clean Empty Service / Description table on Page 2
+    text = re.sub(r'\|\s*Service\s*\|\s*Description\s*\|\n\|[-:\s|]+\|\n(?:\|\s*[A-Z\s]+\s*\|\s*\|\n*)+', 
+                  '**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes\n\n', 
+                  text)
+
+    # 8. Realign Page 7 spot rates tables if titles are shifted
+    if '# NORTH SEA AVERAGE SPOT RATES' in text:
+        def _realign_p7(match):
+            block = match.group(0)
+            tbl_matches = list(re.finditer(r'(\| (?:Month|Category)\s*\|.*?\n(?:\|[^\n]+\|\n*)+)', block))
+            if len(tbl_matches) == 5:
+                headers = [
+                    '### Spot Rates: PSVs < 900m²',
+                    '### Spot Rates: PSVs > 900m²',
+                    '### Spot Rates: AHTS < 22,000 bhp',
+                    '### Spot Rates: AHTS > 22,000 bhp',
+                    '### Average Day Rates To Month'
+                ]
+                out = ['# NORTH SEA AVERAGE SPOT RATES\n']
+                for h, m in zip(headers, tbl_matches):
+                    out.append(h)
+                    out.append(m.group(0).strip() + '\n')
+                return '\n'.join(out) + '\n\n'
+            return block
+        
+        text = re.sub(r'# NORTH SEA AVERAGE SPOT RATES.*?(?=\n# |\Z)', _realign_p7, text, flags=re.DOTALL)
+
+    # 9. Clean broken empty contact tables and directory boxes
+    text = re.sub(r'\|\s*ORGANIZATION\s*\|\s*Telephone\s*\|\s*E-mail\s*\|\n\|[-:\s|]+\|\n(?:\|\s*\**\s*\|\s*\|\s*\|\n*)+', '', text)
+    text = re.sub(r'(?is)\n(?:##\s*)?SEABROKERS GROUP CONTACTS.*?(?=\n##\s*CONUNDRUM|\Z)', '\n\n', text)
+
+    # 10. Strip running headers, page numbers, and corporate boilerplate
+    text = re.sub(r'(?im)^[ \t]*Seabreeze\s*[-–—]?\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s*\d{4}[ \t]*$', '', text)
+    text = re.sub(r'(?im)^[ \t]*\d{1,2}\s+SEABREEZE(?:\s+SEABROKERS\s+GROUP)?.*$', '', text)
+    text = re.sub(r'(?im)^[ \t]*SEABREEZE\s+\d{1,2}.*$', '', text)
+    text = re.sub(r'(?im)^[ \t]*SEABREEZE\b.*©.*$', '', text)
+    text = re.sub(r'(?m)^\s*\d{1,2}\s+\d{1,2}\s*$', '', text)
+    text = re.sub(r'(?m)^\s*\d{1,2}\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*[•\*\-][ \t•\*\-]*$', '', text)
+
+    # Strip corporate directory boilerplate
     text = re.sub(r'(?is)Seabrokers\s+(?:Fundamentering|Heavy Machinery|Head Office|Chartering\s*-\s*Stavanger).*?(?=\n\n|\Z)', '', text)
     text = re.sub(r'(?is)Production & Administration.*?(?:ISO 9001:2015|\.co\.uk)\.?', '', text)
     text = re.sub(r'(?is)SEABROKERS GROUP:\s*Over the last 40\+ years.*?(?=\n\n|\Z)', '', text)
@@ -396,7 +533,8 @@ def update_offshore_summary_json():
                 tables_cand = list((MD_BASE_DIR / str(yr)).glob(f"{date_str}_*.tables.json"))
                 if tables_cand:
                     rep["tables_path"] = f"data/extracted/md/seabrokers/{yr}/{tables_cand[0].name}"
-        summary_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+        with open(summary_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
         logger.info(f"[+] Enriched {summary_path} with md_path and tables_path references.")
     except Exception as e:
         logger.error(f"Failed to enrich offshore_summary.json: {e}")
