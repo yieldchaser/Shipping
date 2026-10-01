@@ -75,6 +75,7 @@ from the checkpoint line count - never from `ps`, which cannot see these childre
 | `timeout` status accumulating | per-doc ceiling too low for large PDFs | raise `--timeout` |
 | `not-a-pdf (bad header)` | corrupt/HTML-served-as-PDF | expected; quarantine is correct |
 | `GOLDEN REGRESSION` | extractor behaviour changed | stop and investigate before continuing |
+| `inventory_drift` in the JSON (informational, never an action) | The queue and `remaining_work()` come from `data/extracted/inventory.jsonl`, a FROZEN file; this many PDFs on disk are absent from it by filename | None by itself - the bespoke runners read the corpus directly. Re-run `build_inventory.py` (then `run_batch --resume`) only if the `extract_all` tree is wanted current. Measured 2026-10-01: 338 such PDFs, 274 with unseen content |
 | failure rate > 10% | systemic problem | stop, inspect the failure kinds |
 
 ## State the successor agent needs
