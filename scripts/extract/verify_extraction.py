@@ -76,10 +76,10 @@ def remaining_work(checkpoint):
         return None, "could not recompute remaining work (%s: %s)" % (type(exc).__name__, exc)
 
 
-_DRIFT_MEMO = []
+_DRIFT_MEMO = {}
 
 
-def inventory_drift(limit=20):
+def inventory_drift(limit=20, confirm=25):
     """How far has the corpus on disk outgrown inventory.jsonl?
 
     run_batch's queue - and therefore `remaining_work()` above - is computed
@@ -91,21 +91,25 @@ def inventory_drift(limit=20):
 
     Measured 2026-10-01: the inventory was built 2026-09-21 and held 9,912 rows
     (7,816 after content-duplicates) while 12,912 PDFs sat under the same roots
-    - 338 of them absent by filename, and 274 of those carrying content (md5)
-    the inventory has never seen: the 2026 W36..W39 broker weeklies, the MMI
-    iron-ore dailies, the GMS / Best Oasis demolition weeks 38-39, the
-    fearnleys-md backfill tree (176) and 12 Drewry AIS weeklies. Those are
+    - 338 of them absent by filename, and (all 338 md5'd once, offline) 274 of
+    those carrying content the inventory has never seen: the 2026 W36..W39
+    broker weeklies, the MMI iron-ore dailies, the GMS / Best Oasis demolition
+    weeks 38-39, 176 fearnleys-md backfill files and 12 Drewry AIS weeklies. Those are
     covered by their publishers' bespoke runners (`scripts/extract/publishers/`),
     which open the source PDFs directly, so no live series was gapped - but the
     COMPLETE claim was only ever a statement about the 2026-09-21 list.
 
-    Cheap by construction: filename comparison first, md5 only for the
-    residue. Measured cost on this corpus: 10.4 s (338 md5s); the hourly check
-    it runs inside costs 25 s in total. Informational only - a corpus
-    outgrowing a frozen queue is expected, not an ACTION.
+    Cheap by construction: one walk of the roots (about a second) and a
+    filename comparison; md5 runs on only the first `confirm` candidates of a
+    sorted list, because hashing all 338 measured 104 s cold, which took the
+    hourly check from 25 s to 2 m 09 s. Measured 2026-10-01 with confirm=25:
+    19 of the 25 sampled were unseen content (274 of all 338 measured offline),
+    and the whole check stays at 25 s.
+    Informational only - a corpus outgrowing a frozen queue is expected, not
+    an ACTION.
     """
-    if _DRIFT_MEMO:
-        return _DRIFT_MEMO[0]
+    if confirm in _DRIFT_MEMO:
+        return _DRIFT_MEMO[confirm]
     res = None
     try:
         here = os.path.dirname(os.path.abspath(__file__))
@@ -129,7 +133,7 @@ def inventory_drift(limit=20):
                 # and spell them with different separators, so the raw path string
                 # is NOT a stable identity: de-duplicate on the normcased one.
                 # Measured 2026-10-01: without this the 176 fearnleys-md files were
-                # counted twice and content_new read 450 instead of 274.
+                # counted twice and the new-content count read 450, not 274.
                 key = os.path.normcase(os.path.normpath(fp))
                 if key in seen:
                     continue
@@ -137,8 +141,11 @@ def inventory_drift(limit=20):
                 on_disk += 1
                 if os.path.basename(fp).lower() not in have:
                     candidates.append(fp)
+        # md5 costs ~0.3 s/MB cold, so confirm on a deterministic slice rather
+        # than all 338: sorted() makes the slice stable across runs.
+        sample = sorted(candidates) if confirm <= 0 else sorted(candidates)[:confirm]
         new = []
-        for fp in candidates:
+        for fp in sample:
             try:
                 h = hashlib.md5()
                 with open(fp, "rb") as fh:
@@ -153,18 +160,19 @@ def inventory_drift(limit=20):
                "inventory_rows": len(rows),
                "pdfs_on_disk": on_disk,
                "absent_by_name": len(candidates),
-               "content_new": len(new),
+               "md5_checked": len(sample),
+               "md5_new": len(new),
                "examples": sorted(new)[:limit]}
     except Exception as exc:
         res = {"error": "%s: %s" % (type(exc).__name__, exc)}
-    _DRIFT_MEMO.append(res)
+    _DRIFT_MEMO[confirm] = res
     return res
 
 
 def check_inventory_drift(actions, info):
     """Surface - never escalate - how far the on-disk corpus outgrew the queue."""
     d = inventory_drift()
-    if d and d.get("content_new", 0) > 0:
+    if d and d.get("absent_by_name", 0) > 0:
         info["inventory_drift"] = d
 
 
@@ -188,13 +196,15 @@ def check_state(state_path, actions, info, checkpoint=None):
                 f"state file is {age / 60:.0f} min old but 0 documents remain "
                 f"({note}) - run COMPLETE, not a dead batch")
             d = inventory_drift()
-            if d and d.get("content_new", 0) > 0:
+            if d and d.get("absent_by_name", 0) > 0:
                 info["inventory_drift"] = d
                 info["state_note"] += (
                     f"; NOTE: the queue comes from inventory.jsonl built "
-                    f"{d['inventory_built']}, and {d['content_new']} PDFs now in "
-                    f"the corpus have content it has never seen, so COMPLETE "
-                    f"describes that list, not the corpus")
+                    f"{d['inventory_built']}, and {d['absent_by_name']} PDFs now "
+                    f"in the corpus are absent from that inventory by filename "
+                    f"({d['md5_new']}/{d['md5_checked']} of a deterministic "
+                    f"sample were unseen content), so COMPLETE describes that "
+                    f"list, not the corpus")
         elif remaining is None:
             info["state_note"] = note
             actions.append(f"state file is {age / 60:.0f} min old "
