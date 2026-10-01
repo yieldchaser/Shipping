@@ -847,7 +847,127 @@ def extract_newbuilding_prices(
 
 
 # ---------------------------------------------------------------------------
-# Markdown Generator
+# ---------------------------------------------------------------------------
+# Market & Freight Commentary Extraction (Column-Aware)
+# ---------------------------------------------------------------------------
+
+def extract_market_overview(doc: pymupdf.Document) -> Tuple[List[str], List[str]]:
+    """Extract In a Nutshell bullets and Market Commentary prose without column collisions."""
+    if len(doc) == 0:
+        return [], []
+    p1 = doc[0]
+    blocks = p1.get_text("blocks")
+    w = p1.rect.width
+    
+    nutshell: List[str] = []
+    commentary: List[str] = []
+    
+    is_recent = any("IN A NUTSHELL:" in b[4].upper() for b in blocks)
+    
+    if is_recent:
+        for b in blocks:
+            x0, y0, x1, y1, text, _, btype = b
+            if btype != 0:
+                continue
+            txt = text.strip()
+            if not txt or y0 < 150:
+                continue
+            # Ignore Baltic table blocks and running URLs
+            if "BALTIC" in txt.upper() or "BDI" in txt or "Average Indices" in txt or "www.xclusiv.gr" in txt:
+                continue
+                
+            if (x0 >= w * 0.48 and y0 < 360) or "IN A NUTSHELL:" in txt.upper():
+                clean_n = txt.replace("IN A NUTSHELL:", "").strip()
+                for line in clean_n.splitlines():
+                    line = line.strip()
+                    if line and not line.startswith("All data as of") and not line.startswith("Week "):
+                        line = re.sub(r'^[•\-\*\u2022\ufffd\s]+', '- ', line)
+                        if not line.startswith('- '):
+                            line = '- ' + line
+                        line = line.replace('\ufffd', "'")
+                        nutshell.append(line)
+            elif (x1 <= w * 0.55 or (y0 >= 300 and y0 < 590)) and y1 <= 840:
+                clean_c = txt.replace("MARKET COMMENTARY:", "").strip()
+                if clean_c and not clean_c.startswith("Week") and "www.xclusiv.gr" not in clean_c:
+                    if not re.search(r'^\d{1,2}\s+\d{1,2}\s+[\d\.\-%]+', clean_c) and not clean_c.startswith("DRY") and not clean_c.startswith("WET"):
+                        clean_c = clean_c.replace('\ufffd', "'")
+                        clean_c = re.sub(r'\s+', ' ', clean_c).strip()
+                        commentary.append(clean_c)
+            elif y0 >= 590 and x1 <= w * 0.55:
+                clean_c = txt.replace('\ufffd', "'")
+                clean_c = re.sub(r'\s+', ' ', clean_c).strip()
+                if clean_c and "xclusiv.gr" not in clean_c and not re.search(r'^\d{1,2}\s*$', clean_c):
+                    commentary.append(clean_c)
+    else:
+        # 2021-2023 layout: Left column (x1 < w * 0.55) contains prose
+        for b in blocks:
+            x0, y0, x1, y1, text, _, btype = b
+            if btype != 0:
+                continue
+            txt = text.strip()
+            if not txt or y0 < 60:
+                continue
+            if x1 <= w * 0.55 and y0 < p1.rect.height - 80:
+                clean_c = txt.replace("Market Commentary:", "").strip()
+                if clean_c and "XCLUSIV SHIPBROKERS" not in clean_c and "Kifissias" not in clean_c:
+                    clean_c = clean_c.replace('\ufffd', "'")
+                    clean_c = re.sub(r'\s+', ' ', clean_c).strip()
+                    commentary.append(clean_c)
+
+    return nutshell, commentary
+
+
+def extract_freight_commentary(doc: pymupdf.Document) -> Dict[str, str]:
+    """Extract prose commentary for dry bulk and tankers from pages 2 and 3."""
+    freight: Dict[str, str] = {}
+    if len(doc) < 3:
+        return freight
+        
+    # Page 2: Freight Market - Dry
+    p2_text = []
+    p2 = doc[1]
+    w = p2.rect.width
+    for b in p2.get_text("blocks"):
+        if b[6] != 0:
+            continue
+        txt = b[4].strip()
+        if not txt:
+            continue
+        if b[0] < w * 0.55 and b[1] > 60 and b[3] < p2.rect.height - 60:
+            if "Freight Market - Dry" in txt or "www.xclusiv.gr" in txt:
+                continue
+            txt = txt.replace('\ufffd', "'")
+            txt = re.sub(r'\s+', ' ', txt).strip()
+            if len(txt) > 20 and not re.match(r'^[\d,\.\-\$\s/]+$', txt):
+                p2_text.append(txt)
+    if p2_text:
+        freight["Dry Bulk Freight"] = "\n\n".join(p2_text)
+        
+    # Page 3: Freight Market - Wet
+    p3_text = []
+    p3 = doc[2]
+    w = p3.rect.width
+    for b in p3.get_text("blocks"):
+        if b[6] != 0:
+            continue
+        txt = b[4].strip()
+        if not txt:
+            continue
+        if b[0] < w * 0.55 and b[1] > 60 and b[3] < p3.rect.height - 60:
+            if "Freight Market - Wet" in txt or "www.xclusiv.gr" in txt:
+                continue
+            txt = txt.replace('\ufffd', "'")
+            txt = re.sub(r'\s+', ' ', txt).strip()
+            if len(txt) > 20 and not re.match(r'^[\d,\.\-\$\s/]+$', txt):
+                p3_text.append(txt)
+    if p3_text:
+        freight["Tanker Freight"] = "\n\n".join(p3_text)
+        
+    return freight
+
+
+# ---------------------------------------------------------------------------
+# Markdown Generator (Gold Standard)
 # ---------------------------------------------------------------------------
 
 def generate_markdown(
@@ -862,79 +982,184 @@ def generate_markdown(
     demo_prices: List[Dict[str, Any]],
     sh_prices: List[Dict[str, Any]],
 ) -> str:
+    year = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+    nutshell, commentary = extract_market_overview(doc)
+    freight = extract_freight_commentary(doc)
+    
+    # Frontmatter
     lines = [
-        f"# {stem}",
+        "---",
+        f'title: "Xclusiv Shipbrokers Weekly Market Report - Week {report_week}, {year}"',
+        f'issue_date: "{issue_date}"',
+        f'report_week: {report_week}',
+        f'year: {year}',
+        'broker: "Xclusiv Shipbrokers"',
+        'source: "xclusiv"',
+        f'source_file: "corpus/01-brokers/xclusiv/{year}/{pdf_path.name}"',
+        f'pages: {len(doc)}',
+        f'sales_count: {len(sales)}',
+        f'demo_sales_count: {len(demo_sales)}',
+        f'secondhand_prices_count: {len(sh_prices)}',
+        f'demolition_prices_count: {len(demo_prices)}',
+        "---",
         "",
-        f"**Source**: `{pdf_path.name}` | **Pages**: {len(doc)} | **Issue Date**: {issue_date} | **Report Week**: {report_week}",
+        f"# Xclusiv Shipbrokers Weekly Market Report - Week {report_week}, {year}",
         "",
-        "## Reported Sales (S&P)",
+        f"- **Publisher**: Xclusiv Shipbrokers Inc.",
+        f"- **Issue Date**: {issue_date} (Week {report_week})",
+        f"- **Source**: `corpus/01-brokers/xclusiv/{year}/{pdf_path.name}`",
+        f"- **Pages**: {len(doc)}",
+        "",
+        "---",
+        "",
+        "## Market Overview",
+        "",
+    ]
+    
+    if nutshell:
+        lines.append("### In a Nutshell\n")
+        lines.extend(nutshell)
+        lines.append("")
+        
+    if commentary:
+        lines.append("### Desk Commentary\n")
+        for para in commentary:
+            lines.append(f"{para}\n")
+            
+    if freight:
+        lines.extend(["---", "", "## Freight Market Analysis", ""])
+        for sec_name, sec_text in freight.items():
+            lines.extend([f"### {sec_name}\n", f"{sec_text}\n"])
+
+    lines.extend([
+        "---",
+        "",
+        "## S&P Transaction Tables",
+        "",
+    ])
+    
+    # Separate Bulk Carriers and Tankers
+    bulker_sales = [s for s in sales if "bulk" in s.get("section", "").lower()]
+    tanker_sales = [s for s in sales if "tank" in s.get("section", "").lower()]
+    other_sales = [s for s in sales if s not in bulker_sales and s not in tanker_sales]
+    
+    lines.extend([
+        "### Bulk Carrier Sales",
         "",
         "| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |",
         "|---|---|---|---|---|---|---|---|---|---|",
-    ]
-    if sales:
-        for s in sales:
-            p_str = f"${s['PRICE_USD_MILL']}M" if s["PRICE_USD_MILL"] else s["PRICE"]
+    ])
+    if bulker_sales:
+        for s in bulker_sales:
+            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else s.get("PRICE", "")
             lines.append(
-                f"| {s['section']} | {s['NAME']} | {s['TYPE']} | {s['DWT']} | {s['YEAR']} | {s['COUNTRY']} | {s['YARD']} | {s['BUYERS']} | {p_str} | {s['COMMENTS']} |"
+                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {s.get('BUYERS', '')} | {p_str} | {s.get('COMMENTS', '')} |"
             )
     else:
-        lines.append("| - | No sales reported | - | - | - | - | - | - | - | - |")
+        lines.append("| Bulk Carriers | - | - | - | - | - | - | - | - | No bulker sales reported |")
+    lines.append("")
 
-    lines += [
+    lines.extend([
+        "### Tanker Sales",
         "",
-        "## Reported Demolition Sales",
+        "| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |",
+        "|---|---|---|---|---|---|---|---|---|---|",
+    ])
+    if tanker_sales:
+        for s in tanker_sales:
+            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else s.get("PRICE", "")
+            lines.append(
+                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {s.get('BUYERS', '')} | {p_str} | {s.get('COMMENTS', '')} |"
+            )
+    else:
+        lines.append("| Tankers | - | - | - | - | - | - | - | - | No tanker sales reported |")
+    lines.append("")
+
+    if other_sales:
+        lines.extend([
+            "### Other Reported Sales (Gas / Containers)",
+            "",
+            "| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |",
+            "|---|---|---|---|---|---|---|---|---|---|",
+        ])
+        for s in other_sales:
+            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else s.get("PRICE", "")
+            lines.append(
+                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {s.get('BUYERS', '')} | {p_str} | {s.get('COMMENTS', '')} |"
+            )
+        lines.append("")
+
+    lines.extend([
+        "---",
+        "",
+        "## Demolition Market",
+        "",
+        "### Indicative Demolition Scrap Prices ($/LDT)",
+        "",
+        "| Segment | Country | Price ($/LDT) |",
+        "|---|---|---|",
+    ])
+    if demo_prices:
+        for dp in demo_prices:
+            lines.append(f"| {dp.get('segment', '')} | {dp.get('country', '')} | ${dp.get('price_usd_per_ldt', '')} |")
+    else:
+        lines.append("| - | - | No indicative demolition prices reported |")
+    lines.append("")
+
+    lines.extend([
+        "### Reported Demolition Sales",
         "",
         "| Name | Type | Year | DWT | LDT | Country | Price ($/LDT) | Buyers | Comments |",
         "|---|---|---|---|---|---|---|---|---|",
-    ]
+    ])
     if demo_sales:
         for ds in demo_sales:
-            p_ldt = f"${ds['PRICE_USD_PER_LDT']}" if ds["PRICE_USD_PER_LDT"] else ""
+            p_ldt = f"${ds['PRICE_USD_PER_LDT']}" if ds.get("PRICE_USD_PER_LDT") else ""
             lines.append(
-                f"| {ds['NAME']} | {ds['TYPE']} | {ds['YEAR']} | {ds['DWT']} | {ds['LDT']} | {ds['COUNTRY']} | {p_ldt} | {ds['BUYERS']} | {ds['COMMENTS']} |"
+                f"| {ds.get('NAME', '')} | {ds.get('TYPE', '')} | {ds.get('YEAR', '')} | {ds.get('DWT', '')} | {ds.get('LDT', '')} | {ds.get('COUNTRY', '')} | {p_ldt} | {ds.get('BUYERS', '')} | {ds.get('COMMENTS', '')} |"
             )
     else:
-        lines.append("| - | No demolition sales reported | - | - | - | - | - | - | - |")
+        lines.append("| - | - | - | - | - | - | - | - | No demolition sales reported |")
+    lines.append("")
 
-    lines += [
+    lines.extend([
+        "---",
         "",
         "## Indicative Secondhand Prices ($ mills)",
         "",
         "| Sector | Vessel Type | Tenor | Price ($M) |",
         "|---|---|---|---|",
-    ]
+    ])
     if sh_prices:
         for sh in sh_prices:
-            lines.append(f"| {sh['sector']} | {sh['vessel_type']} | {sh['tenor']} | ${sh['price_usd_mill']}M |")
+            lines.append(f"| {sh.get('sector', '')} | {sh.get('vessel_type', '')} | {sh.get('tenor', '')} | ${sh.get('price_usd_mill', '')}M |")
     else:
-        lines.append("| - | No indicative secondhand prices | - | - |")
-
-    lines += [
-        "",
-        "## Indicative Demolition Scrap Prices ($/LDT)",
-        "",
-        "| Segment | Country | Price ($/LDT) |",
-        "|---|---|---|",
-    ]
-    if demo_prices:
-        for dp in demo_prices:
-            lines.append(f"| {dp['segment']} | {dp['country']} | ${dp['price_usd_per_ldt']} |")
-    else:
-        lines.append("| - | No demolition prices | - |")
+        lines.append("| - | - | - | No indicative secondhand prices |")
+    lines.append("")
 
     if nb_orders:
-        lines += [
+        lines.extend([
+            "---",
             "",
             "## Newbuilding Orders",
             "",
             "| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |",
             "|---|---|---|---|---|---|---|---|",
-        ]
+        ])
         for o in nb_orders:
             lines.append(
-                f"| {o['type']} | {o['units']} | {o['size']} | {o['yard']} | {o['buyer']} | {o['price']} | {o['delivery']} | {o['comments']} |"
+                f"| {o.get('type', '')} | {o.get('units', '')} | {o.get('size', '')} | {o.get('yard', '')} | {o.get('buyer', '')} | {o.get('price', '')} | {o.get('delivery', '')} | {o.get('comments', '')} |"
             )
+        lines.append("")
+
+    lines.extend([
+        "---",
+        "",
+        "## Legal Disclaimer",
+        "",
+        "> *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*",
+        ""
+    ])
 
     return "\n".join(lines)
 
@@ -977,12 +1202,18 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
     dest_dir = OUT_MD / year_str
     dest_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Write to year-subfolder
     (dest_dir / f"{stem}.tables.json").write_text(
         json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8"
     )
-    target_md = dest_dir / f"{stem}.md"
-    if not target_md.exists() or "--- PAGE BREAK ---" not in target_md.read_text(encoding="utf-8", errors="replace"):
-        target_md.write_text(md_content, encoding="utf-8")
+    (dest_dir / f"{stem}.md").write_text(md_content, encoding="utf-8")
+
+    # Also sync to top-level OUT_MD for backward-compatibility
+    (OUT_MD / f"{stem}.tables.json").write_text(
+        json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    (OUT_MD / f"{stem}.md").write_text(md_content, encoding="utf-8")
 
     return {
         "stem": stem,
