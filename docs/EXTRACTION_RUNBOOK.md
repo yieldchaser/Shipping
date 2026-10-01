@@ -90,12 +90,54 @@ from the checkpoint line count - never from `ps`, which cannot see these childre
   `catalogue.parquet` (one row per table), `corpus.duckdb` with `cells`,
   `catalogue` and `label_series` views.
 
+### The 74 not-a-pdf quarantines are genuine (measured 2026-10-01)
+
+Re-checked by magic bytes, not by assuming the check was right: of the 6 whose source
+file still exists, **0 are PDFs** - 5 are HTML (`<!DOCTYPE html>` / `<html>`) and 1 is a
+DOCX (`PK`, `word/document.xml`). The other **68 source files no longer exist anywhere in
+the repo**: they were breakwave "commodity call" HTML-dumps removed during the corpus
+reorganisation into `corpus/<NN-group>/`. So the quarantine cost 0 real documents and the
+count is expected, not a regression. A verifier seeing 74 should not "fix" it.
+
+## What the extract_all corpus does and does not feed (measured 2026-10-01)
+
+`extract_all.py` (the bulk pass) writes `data/extracted/<run>/<source>/<stem>/{text,tables,pages}.jsonl`.
+**Nothing in the app reads that tree** - `index.html` fetches `data/views/**`, `data/derived/**`,
+`data/clarksons/**`, `data/etf/**` only. The publisher series come from the per-publisher runners
+under `scripts/extract/publishers/`, which open the SOURCE PDFs directly and write
+`data/extracted/md/<pub>/*.tables.json` + `data/extracted/series/*.csv` (or, for PPA,
+`data/extracted/ppa/`). `build_table_db.py` is the only consumer of the `extract_all` tree
+(`glob <out>/*/*/tables.jsonl` -> `data/extracted/corpus/db/corpus.duckdb`), and **that DB is
+not rebuilt** - see the pending human decision in `EXTRACTION_OVERNIGHT_LOG.md`.
+
+Consequence for any "re-extract N documents" proposal: it only buys something for a publisher
+that has NO bespoke runner. Coverage measured for the 717 documents carrying a skipped
+`garbled` page (the table-shaped pages recorded in `EXTRACTION_OVERNIGHT_LOG.md`):
+
+| Publisher affected | Docs | Bespoke pipeline that bypasses extract_all |
+|---|---|---|
+| shipbrokers/advanced_shipping | 5 | `run_advanced_shipping_tables.py` -> 5 series CSVs, 18,744 rows |
+| shipbrokers/xclusiv | 39 | `run_xclusiv_tables.py` -> 10 CSVs, 21,212 rows |
+| shipbrokers/banchero | 59 | `run_banchero_*` -> 10 CSVs, 256 md files |
+| shipbrokers/fearnleys | 4 | `run_fearnleys*` -> 7 CSVs |
+| hellenic | 181 | `run_hellenic_demolition.py` etc. -> 31 CSVs, 265,104 rows |
+| seabrokers | 96 | `run_seabrokers_llamaparse.py` -> 9 CSVs, 16,500 rows |
+| ppa_pdf | 126 | `run_ppa.py` -> `data/extracted/ppa/{hedland,dampier}_rows.jsonl` |
+| **shipbrokers/allied** | **129** | **none** (and archived) |
+| **shipbrokers/golden_destiny** | **78** | **none** (and archived) |
+
+510 of 717 belong to a publisher whose series never read the `extract_all` tables. The only
+uncovered 207 are `allied` and `golden_destiny`, both moved to `corpus/archive/` (allied's newest
+issue is 2024-W07, golden's 2024-W48 - both >180 days old => BACKFILL_ONLY), with no series CSV
+and no mention in `index.html`. Re-extracting them backfills two dead titles; it extends no
+current series.
+
 ## Known failures and their disposition
 
 | Item | Disposition |
 |---|---|
 | `docs/research/Subscription Plans - UN Comtrade Help Center.pdf` | layout segfault; quarantined |
-| 3 files with bad `%PDF-` headers (breakwave x2, signal fueleu) | quarantined as not-a-pdf |
+| **74** files with bad `%PDF-` headers (full 7,816-doc pass; the earlier "3" was the 303-doc dryrun) | quarantined as not-a-pdf - verified correct 2026-10-01 |
 | `Maritime Economics ... (z-lib.org).pdf` (~400 pp) | needs `--timeout 900`; textbook, not time-series data |
 | `bp-stats-review-2020-full-report.pdf` (68 pp) | ~120 s; keep timeout generous |
 | Baltic `*/assets/*` | bot-wall placeholders, skipped by the HTML pass |
