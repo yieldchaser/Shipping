@@ -1,18 +1,37 @@
-# Weekly Dry Market Monitor: Week 22, 2025
-
-**Date**: May 28, 2025 | **Category**: Dry bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2025](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2025)
-
+---
+title: "Weekly Dry Market Monitor: Week 22, 2025"
+issue_date: "2025-05-28"
+year: 2025
+week: 22
+category: "Dry Bulk"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2025"
+source_file: "corpus/07-signal/html/dry-week-22-2025.html"
+word_count: 617
+images_count: 1
+tables_count: 0
+tags:
+  - Capesize
+  - Dry Bulk
+  - Freight Rates
+  - Monitors
+  - Panamax
+  - Signal Ocean
+  - The Signal Group
 ---
 
-‍
+# Weekly Dry Market Monitor: Week 22, 2025
 
+*Published on 28 May 2025*
 
-![https://app.signalocean.com/dry/dynamic/port_insights_dry_download](../images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
-*https://app.signalocean.com/dry/dynamic/port_insights_dry_download*
+![Https://app.signalocean.com/dry/dynamic/portinsightsdrydownload](../images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
 
-‍
+> **Figure 1: Https://app.signalocean.com/dry/dynamic/portinsightsdrydownload**  
+> *https://app.signalocean.com/dry/dynamic/port_insights_dry_download*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
 
-This week’s Market Monitor focuses on Australian dry bulk port congestion,following last week’s news of debris disrupting operations at Newcastle, the country’s largest thermal coal port. Newcastle’s loading port efficiency appears to be under serious turbulence due to severe rainfall leading to flooding across the Hunter River tributaries, a key region for coal mining. This has already signalled a significant impact on key congestion metrics, with an increase in port days in waiting status.
+**This week’s Market Monitor focuses on Australian dry bulk port congestion,** following last week’s news of debris disrupting operations at Newcastle, the country’s largest thermal coal port. Newcastle’s loading port efficiency appears to be under serious turbulence due to severe rainfall leading to flooding across the Hunter River tributaries, a key region for coal mining. This has already signalled a significant impact on key congestion metrics, with an increase in port days in waiting status.
 
 As of May 27th, congestion levels reflect the impact of extreme weather conditions, with vessel queues at Newcastle peaking at more than 40 ships waiting to load thermal coal. In addition, waiting days have surged to 11 from just 3 a month ago. Currently, congestion has spiked to levels not seen since the start of 2022.
 
@@ -24,7 +43,7 @@ There remains cautious uncertainty about the immediate recovery of the increased
 
 In the scenario of a delayed resolution, the debris issue could lead to further operational inefficiencies and support an increase in loading congestion metrics at other alternative Australian ports. In the case of Australian Port Walcott, the first signs have already appeared, with a 35% increase in the number of Capesize vessels for iron ore loading and a rise in the number of waiting days to 9, up 160% on a weekly basis. Meanwhile, it is worth noting that North Chinese ports, especially Tianjin, also experienced a record spike in congestion for the Supramax vessel segment in mid-April. This was primarily due to adverse weather, particularly fog, which increased port waiting times. Fortunately, conditions have started to normalize as warmer temperatures return to Tianjin. In the large vessel size category of the VLOC, a slowdown in the number of vessels congested at Ponta da Madeira is observed at levels lower than those recorded in 2022, 2023, and 2024. For Capesize vessels, the congestion trend also indicates significantly lower volumes compared to the peak seen in March 2024, with a recent 3% monthly increase.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroompage & subscribe to weekly reports. Clickhere to request a demo. Check out ourprevious week's report here.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & subscribe to weekly reports. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Check out our [previous week's report here](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-20-2025).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

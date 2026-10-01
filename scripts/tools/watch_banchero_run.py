@@ -31,7 +31,7 @@ LOG = LOGDIR / "run.log"
 STATE = LOGDIR / "_run_state.json"
 WATCHLOG = LOGDIR / "watchdog.log"
 RUNNER = ROOT / "scripts/extract/publishers/run_banchero_llamaparse.py"
-PYTHON = Path("C:/Users/Dell/AppData/Local/Programs/Python/Python314/python.exe")
+PYTHON = Path("C:/Users/Dell/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe")  # 3.11 venv: carries llama_cloud + the cp311 pydantic_core
 PS = Path("C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe")
 
 STALE_SECONDS = 600          # log untouched this long AND no process => treat as dead
@@ -64,6 +64,34 @@ def total_docs() -> int:
         return len(list((ROOT / "corpus/01-brokers/banchero_costa").glob("*/*.pdf")))
     except Exception:
         return 0
+
+
+def output_coverage():
+    """Honest completion metric: count PDFs that have NO output file on disk.
+
+    The old test (done >= total-1) could never fire: 77 docs are skipped-clean and 29
+    are recorded failed, so 'done' cannot reach 247 of 248 and the watchdog restarted
+    an already-finished run forever. Count presence of the deliverable instead.
+    """
+    try:
+        stems = [q.stem for q in (ROOT / "corpus/01-brokers/banchero_costa").glob("*/*.pdf")]
+    except Exception:
+        return None, None
+    if not stems:
+        return None, None
+    missing = 0
+    for st in stems:
+        found = False
+        for base in (LOGDIR, ROOT / "data/extracted/md/banchero_costa"):
+            for ext in (".md", ".items.json", ".tables.json"):
+                if (base / (st + ext)).exists():
+                    found = True
+                    break
+            if found:
+                break
+        if not found:
+            missing += 1
+    return len(stems), missing
 
 
 def runner_alive() -> int | None:
@@ -108,6 +136,7 @@ def restart() -> int | None:
 def main() -> int:
     done, failed, pages, credits = read_state()
     total = total_docs()
+    total_pdfs, missing_out = output_coverage()
     alive = runner_alive()
     age = log_age()
 
@@ -121,19 +150,19 @@ def main() -> int:
               f"stale. Not restarting to avoid double-spending credits. Check manually.")
         return 0
 
-    log(f"alive={alive} done={done} failed={failed} credits={credits}")
+    log(f"alive={alive} done={done} failed={failed} missing_output={missing_out} credits={credits}")
 
     if alive:
         return 0                       # healthy -> silence
 
     # Not running. Finished?
-    if total and done >= total - 1:
+    if total_pdfs and missing_out is not None and missing_out <= 1:
         if not (LOGDIR / "_complete_reported").exists():
             try:
                 (LOGDIR / "_complete_reported").touch()
             except Exception:
                 pass
-            print(f"banchero LlamaParse run COMPLETE: {done}/{total} docs, {pages} pages, "
+            print(f"banchero LlamaParse run COMPLETE: {total_pdfs - missing_out}/{total_pdfs} docs have output, {pages} pages, "
                   f"~{credits} credits, {failed} failures.")
             if failed:
                 print(f"Failures to triage: see {STATE}")

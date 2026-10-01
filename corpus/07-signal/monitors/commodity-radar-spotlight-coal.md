@@ -1,32 +1,55 @@
-# COMMODITY RADAR | Spotlight: COAL
-
-**Date**: December 3, 2025 | **Category**: Minor Bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal)
-
+---
+title: "Commodity Radar | Spotlight: Coal"
+issue_date: "2025-12-03"
+year: 2025
+week: 49
+category: "Commodity Radar"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal"
+source_file: "corpus/07-signal/html/commodity-radar-spotlight-coal.html"
+word_count: 1039
+images_count: 4
+tables_count: 0
+tags:
+  - Commodity Radar
+  - Monitors
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Commodity Radar | Spotlight: Coal
 
-## COMMODITY RADAR | Spotlight: COAL
+*Published on 03 December 2025*
+
+## Commodity Radar | Spotlight: Coal
 
 
-## Coal continues to lose power in the China-bound capesize market
+## Coal Continues to Lose Power in the China-Bound Capesize Market
 
 China’s import of thermal coal so far this year trails the same period in 2024 by over 14%, weighing on global capesize demand.
 
-- Chinese seaborne thermal coal demand weakened in 2025 due to two key factors:Stronger domestic coal production, up 1.5% y/y in the first 10 months of 2025.Rapid expansion of renewable energy infrastructure, displacing thermal power generation.
+
+- Chinese seaborne thermal coal demand weakened in 2025 due to two key factors:
+
+Stronger domestic coal production, up 1.5% y/y in the first 10 months of 2025.
+Rapid expansion of renewable energy infrastructure, displacing thermal power generation.
 - Stronger domestic coal production, up 1.5% y/y in the first 10 months of 2025.
 - Rapid expansion of renewable energy infrastructure, displacing thermal power generation.
 - China has imported 52mt less coal so far in 2025 as a result.
 - Global thermal coal tonne-miles have fallen below 2024 levels, with shipments to China also below both 2024 and 2023.
 - This downtrend is expected to continue as China increases its reliance on renewable energy.
 
+
 - Stronger domestic coal production, up 1.5% y/y in the first 10 months of 2025.
 - Rapid expansion of renewable energy infrastructure, displacing thermal power generation.
 
-‍
 
+![Source: Coal Carrying Capesize Tonne-Miles to China From Signal Ocean](../images/693027df0b6d846282b62d41_Screenshot 2025-12-03 at 11.09.12.png)
 
-![Source:Coal carrying Capesize tonne-miles to China from Signal Ocean](../images/693027df0b6d846282b62d41_Screenshot 2025-12-03 at 11.09.12.png)
-*Source:Coal carrying Capesize tonne-miles to China from Signal Ocean*
+> **Figure 1: Source: Coal Carrying Capesize Tonne-Miles to China From Signal Ocean**  
+> *Source: Coal carrying Capesize tonne-miles to China from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693027df0b6d846282b62d41_Screenshot 2025-12-03 at 11.09.12.png)
 
 China has imported less thermal coal each month, year-over-year, since the start of 2025. The results of which have seen Chinese thermal coal imports down by around 52mt YTD.
 
@@ -35,8 +58,11 @@ China is the destination for approximately 30% of all thermal coal shipments, an
 This also weighed on total cape demand, which has seen tonne-miles and tonnes-days below that of 2024 for much of the year. In recent weeks, performance has improved to above 2024 levels, but this is a result of 2025 not following the seasonal weaker start to Q4 seen in previous years.
 
 
-![Source:China thermal coal imports from Signal Ocean](../images/693028223ec515c8dcb3f81a_Screenshot 2025-12-03 at 11.09.24.png)
-*Source:China thermal coal imports from Signal Ocean*
+![Source: China Thermal Coal Imports From Signal Ocean](../images/693028223ec515c8dcb3f81a_Screenshot 2025-12-03 at 11.09.24.png)
+
+> **Figure 2: Source: China Thermal Coal Imports From Signal Ocean**  
+> *Source: China thermal coal imports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693028223ec515c8dcb3f81a_Screenshot 2025-12-03 at 11.09.24.png)
 
 Thermal coal drives Chinese electricity generation, yet the importance of coal has waned as the country has rapidly expanded non-fossil fuel electricity generation. Reports state that China used coal for around 70% of electricity generation in the mid-2000’s but this fell to around 60% in 2023, the latest official number.
 
@@ -47,24 +73,32 @@ Balancing out this need for more coal has been Chinese domestic coal production.
 Typically, Chinese coal demand increases in the final quarter of the year. This is unsurprising due to the extra power demand needed for heating in the cooler months of the year. Given that domestic coal production has started to slow and continues to lose some of the gains it had over production in 2024, China may start to import more coal to keep consistent stock levels over winter.
 
 
-![Source:China coal production from the National Bureau of Statistics](../images/693027fcae5d884809ae3fec_Screenshot 2025-12-03 at 11.09.31.png)
-*Source:China coal production from the National Bureau of Statistics*
+![Source: China Coal Production From the National Bureau of Statistics](../images/693027fcae5d884809ae3fec_Screenshot 2025-12-03 at 11.09.31.png)
+
+> **Figure 3: Source: China Coal Production From the National Bureau of Statistics**  
+> *Source: China coal production from the National Bureau of Statistics*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693027fcae5d884809ae3fec_Screenshot 2025-12-03 at 11.09.31.png)
 
 Weaker coal production through the final quarter of 2025, at a time when demand is expected to rise, will draw down domestic stocks of thermal coal. Therefore, if Chinese coal stocks are to be replenished over the next month, we would expect greater coal imports into China. This will likely come from Indonesia, given that 64% of all Chinese coal imports have originated from Indonesia since 2022.
 
 Beyond the end of the year, the first couple of months of 2026 are expected to be relatively strong periods of coal demand, given the season. As a result, we can expect consistent import volumes of coal, giving support to Panamax vessel demand from Indonesia. There would be downward pressure on demand if the winter in China is mild, but given the stock drawdown, it is likely that buyers will continue to import coal regardless to rebuild stocks.
 
 
-![Source:Origin areas of China’s coal imports from Signal Ocean](../images/6930284be30065fb745dce50_Screenshot 2025-12-03 at 11.09.54.png)
-*Source:Origin areas of China’s coal imports from Signal Ocean*
+![Source: Origin Areas of China’s Coal Imports From Signal Ocean](../images/6930284be30065fb745dce50_Screenshot 2025-12-03 at 11.09.54.png)
+
+> **Figure 4: Source: Origin Areas of China’s Coal Imports From Signal Ocean**  
+> *Source: Origin areas of China’s coal imports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6930284be30065fb745dce50_Screenshot 2025-12-03 at 11.09.54.png)
 
 
-## Coal imports will keep falling, but by how much…
+## Coal Imports Will Keep Falling, But by How Much…
 
 The performance of coal imports into China will continue to depend on domestic coal production and the demand for coal in the energy mix. As renewable infrastructure builds out in China, thermal power will lose its share.
 
-This will weigh on the demand for China-bound capesize vessels, extending the trends already seen through the end of 2024 and 2025. Yet, Indonesia will remain a key coal trade partner for China, with smaller shipments, primarily panamax-sized, going forward.For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+This will weigh on the demand for China-bound capesize vessels, extending the trends already seen through the end of 2024 and 2025. Yet, Indonesia will remain a key coal trade partner for China, with smaller shipments, primarily panamax-sized, going forward. 
 
-For subscription to our FREE weekly market trends email,please click here, or contact us at: research@thesignalgroup.com
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
+
+For subscription to our FREE weekly market trends email, [please click here](https://www.thesignalgroup.com/subscribe), or contact us at: research@thesignalgroup.com
 
 - Republishing is allowed with an active link to the source

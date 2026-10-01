@@ -1,70 +1,85 @@
-# Monthly Minor Bulk Radar - October 2025
-
-**Date**: November 24, 2025 | **Category**: Minor Bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025)
-
+---
+title: "Monthly Minor Bulk Radar - October 2025"
+issue_date: "2025-11-24"
+year: 2025
+week: 48
+category: "Commodity Radar"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025"
+source_file: "corpus/07-signal/html/monthly-minor-bulk-radar-october-2025.html"
+word_count: 1627
+images_count: 14
+tables_count: 0
+tags:
+  - Commodity Radar
+  - Monitors
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Monthly Minor Bulk Radar - October 2025
 
-## China’s renewed appetite and shifting trade patterns lift volumes across key minor bulk commodities
+*Published on 24 November 2025*
+
+## China’s Renewed Appetite and Shifting Trade Patterns Lift Volumes Across Key Minor Bulk Commodities
 
 Minor bulk, made up of all cargo types except iron ore, coal, and grains, started the first month of 2025 Q4 with positive momentum, with total export volumes up 3% y/y. This has been driven by China, which has seen imports of minor bulk increase by 14% y/y in October 2025.
 
 
-![Source:Total minor bulk* plus rice export performance from Signal Ocean.*Minor bulk is made up of dry bulk that is not categorised as iron ore, coal, or grains. It includes bauxite, cement, steel, and fertilizers, among others.](../images/69242ca0b168faee05da4922_b3724c49.png)
-*Source:Total minor bulk* plus rice export performance from Signal Ocean.*Minor bulk is made up of dry bulk that is not categorised as iron ore, coal, or grains. It includes bauxite, cement, steel, and fertilizers, among others.*
+![Source: Total Minor Bulk Plus Rice Export Performance From Signal Ocean.minor Bulk Is Made Up of Dry Bulk That Is Not Categorised as Iron Ore, Coal, or Grains](../images/69242ca0b168faee05da4922_b3724c49.png)
 
-‍
-
-‍
+> **Figure 1: Source: Total Minor Bulk Plus Rice Export Performance From Signal Ocean.minor Bulk Is Made Up of Dry Bulk That Is Not Categorised as Iron Ore, Coal, or Grains**  
+> *Source: Total minor bulk* plus rice export performance from Signal Ocean.*Minor bulk is made up of dry bulk that is not categorised as iron ore, coal, or grains. It includes bauxite, cement, steel, and fertilizers, among others.*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4922_b3724c49.png)
 
 
 ## Economic Environment
 
-‍
+
+## Manufacturing Pmi’s
 
 
-## Manufacturing PMI’s
+![Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi](../images/69242ca0b168faee05da4913_61758ff9.png)
 
-
-![Source:National Bureau of Statistics of China, Institute for Supply Management,  HCOB, HBSC India Manufacturing PMI](../images/69242ca0b168faee05da4913_61758ff9.png)
-*Source:National Bureau of Statistics of China, Institute for Supply Management,  HCOB, HBSC India Manufacturing PMI*
-
-‍
-
-‍
+> **Figure 2: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
+> *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4913_61758ff9.png)
 
 
 ## Exchange Rates
 
 
-## USD vs:
+## Usd Vs:
 
 
-![Signal Figure](../images/69242ca0b168faee05da492e_1458e533.png)
-*Signal Figure*
+![Usd Vs:](../images/69242ca0b168faee05da492e_1458e533.png)
 
-‍
-
-
-## RMB vs:
+> **Figure 3: Usd Vs:**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da492e_1458e533.png)
 
 
-![Source:IMF](../images/69242ca0b168faee05da4919_e341aaca.png)
-*Source:IMF*
+## Rmb Vs:
 
-‍
+
+![Source: Imf](../images/69242ca0b168faee05da4919_e341aaca.png)
+
+> **Figure 4: Source: Imf**  
+> *Source: IMF*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4919_e341aaca.png)
 
 
 ## Baltic Indexes
 
 
-![Source:The Baltic Exchange](../images/69242ca0b168faee05da4928_06ba9cd2.png)
-*Source:The Baltic Exchange*
+![Source: The Baltic Exchange](../images/69242ca0b168faee05da4928_06ba9cd2.png)
 
-‍
+> **Figure 5: Source: The Baltic Exchange**  
+> *Source: The Baltic Exchange*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4928_06ba9cd2.png)
 
 
-## Minor bulk
+## Minor Bulk
 
 
 ## Bauxite
@@ -80,21 +95,28 @@ We could see bauxite exports from Guinea come under pressure from 2027. We previ
 In the time from now until then, exports of bauxite from Guinea could increase as buyers look to front-load purchases of material before any interruptions that may come from government policies of domestic alumina production. This will be beneficial for capesize demand, with the Simandou project also helping to boost capesize demand from Guinea through 2026 and beyond.
 
 
-![Source:Global monthly bauxite exports from Signal Ocean](../images/69242ca0b168faee05da491c_edf1c0e8.png)
-*Source:Global monthly bauxite exports from Signal Ocean*
+![Source: Global Monthly Bauxite Exports From Signal Ocean](../images/69242ca0b168faee05da491c_edf1c0e8.png)
+
+> **Figure 6: Source: Global Monthly Bauxite Exports From Signal Ocean**  
+> *Source: Global monthly bauxite exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da491c_edf1c0e8.png)
 
 
-![Source:China aluminium production from the National Bureau of Statistics](../images/69242ca0b168faee05da4925_7658d14c.png)
-*Source:China aluminium production from the National Bureau of Statistics*
+![Source: China Aluminium Production From the National Bureau of Statistics](../images/69242ca0b168faee05da4925_7658d14c.png)
 
-‍
-
-
-![Source:Exports of bauxite from Guinea in 2025 from Signal Ocean](../images/69242ca0b168faee05da491f_73d12fbb.png)
-*Source:Exports of bauxite from Guinea in 2025 from Signal Ocean*
+> **Figure 7: Source: China Aluminium Production From the National Bureau of Statistics**  
+> *Source: China aluminium production from the National Bureau of Statistics*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4925_7658d14c.png)
 
 
-## Scrap steel
+![Source: Exports of Bauxite From Guinea in 2025 From Signal Ocean](../images/69242ca0b168faee05da491f_73d12fbb.png)
+
+> **Figure 8: Source: Exports of Bauxite From Guinea in 2025 From Signal Ocean**  
+> *Source: Exports of bauxite from Guinea in 2025 from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da491f_73d12fbb.png)
+
+
+## Scrap Steel
 
 The Signal Ocean Platform recorded scrap metal exports at 1.3mt in October 2025, down 10% y/y but up 20% m/m. Given the uses of scrap steel, the demand drivers are intrinsically aligned with the performance of steel mills.
 
@@ -104,19 +126,26 @@ Turkey produces a significant portion of its steel through electric arc furnaces
 
 Currently, Turkey has seen scrap steel imports down 15% YTD. The World Steel Association states Turkey’s crude steel production in 2025 from January to September was 28.1mt, up less than 1% from the same period last year. Yet, exports of Turkish steel products are performing well, up 15% YTD, and are particularly strong to Europe. Steel production in the EU is down around 4% YTD, so Turkish products can find buyers.
 
-‍
+
+![Source: Total Scrap Steel Export Volumes From Signal Ocean](../images/69242ca0b168faee05da4916_b7edcfef.png)
+
+> **Figure 9: Source: Total Scrap Steel Export Volumes From Signal Ocean**  
+> *Source: Total scrap steel export volumes from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4916_b7edcfef.png)
 
 
-![Source:Total scrap steel export volumes from Signal Ocean](../images/69242ca0b168faee05da4916_b7edcfef.png)
-*Source:Total scrap steel export volumes from Signal Ocean*
+![Source: Destination of Scrap Steel Exports From Signal Ocean](../images/69242ca0b168faee05da492b_f8849dd8.png)
+
+> **Figure 10: Source: Destination of Scrap Steel Exports From Signal Ocean**  
+> *Source: Destination of scrap steel exports from Signal ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da492b_f8849dd8.png)
 
 
-![Source:Destination of scrap steel exports from Signal ocean](../images/69242ca0b168faee05da492b_f8849dd8.png)
-*Source:Destination of scrap steel exports from Signal ocean*
+![Source: Origin Areas of Scrap Steel Exports From Signal Ocean](../images/69242ca0b168faee05da4932_246175dc.png)
 
-
-![Source:Origin areas of scrap steel exports from Signal Ocean](../images/69242ca0b168faee05da4932_246175dc.png)
-*Source:Origin areas of scrap steel exports from Signal Ocean*
+> **Figure 11: Source: Origin Areas of Scrap Steel Exports From Signal Ocean**  
+> *Source: Origin areas of scrap steel exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4932_246175dc.png)
 
 
 ## Rice
@@ -130,28 +159,35 @@ Across the Atlantic, the U.S. is expected to see a surge in rice exports to Japa
 Looking ahead, an increase in the magnitude agreed to by Japan would drive Handysize demand out of the West Coast of the U.S., given that Sacramento is the dominant origin port for U.S. rice exports.
 
 
-![Source:Global rice exports from Signal Ocean](../images/69242ca0b168faee05da4938_447e4e3e.png)
-*Source:Global rice exports from Signal Ocean*
+![Source: Global Rice Exports From Signal Ocean](../images/69242ca0b168faee05da4938_447e4e3e.png)
+
+> **Figure 12: Source: Global Rice Exports From Signal Ocean**  
+> *Source: Global rice exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4938_447e4e3e.png)
 
 
-![Source:Origins of rice exports  from Signal Ocean](../images/69242ca0b168faee05da4935_3db170be.png)
-*Source:Origins of rice exports  from Signal Ocean*
+![Source: Origins of Rice Exports From Signal Ocean](../images/69242ca0b168faee05da4935_3db170be.png)
+
+> **Figure 13: Source: Origins of Rice Exports From Signal Ocean**  
+> *Source: Origins of rice exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4935_3db170be.png)
 
 
-![Source:Destination for U.S.-origin rice exports from Signal Ocean](../images/69242ca0b168faee05da493b_baa8e16c.png)
-*Source:Destination for U.S.-origin rice exports from Signal Ocean*
+![Source: Destination for U.s.-Origin Rice Exports From Signal Ocean](../images/69242ca0b168faee05da493b_baa8e16c.png)
 
-‍
+> **Figure 14: Source: Destination for U.s.-Origin Rice Exports From Signal Ocean**  
+> *Source: Destination for U.S.-origin rice exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da493b_baa8e16c.png)
 
 
-## Recent Insights & weekly reports
+## Recent Insights & Weekly Reports
 
-Weekly Dry Market Monitor: Week 47, 2025
+[Weekly Dry Market Monitor: Week 47, 2025](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025)
 
-Iron Ore’s Shifting Currents: Supply Surge Meets China Slowdown
+[Iron Ore’s Shifting Currents: Supply Surge Meets China Slowdown](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown)
 
-‍For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
-For subscription to our FREE weekly market trends email,please click here, or contact us at: research@thesignalgroup.com
+For subscription to our FREE weekly market trends email, [please click here](https://www.thesignalgroup.com/subscribe), or contact us at: research@thesignalgroup.com
 
 - Republishing is allowed with an active link to the source

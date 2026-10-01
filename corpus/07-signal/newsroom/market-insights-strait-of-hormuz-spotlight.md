@@ -1,9 +1,26 @@
-# MARKET INSIGHTS |  Strait of Hormuz Spotlight
-
-**Date**: March 9, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight)
-
+---
+title: "Market Insights | Strait of Hormuz Spotlight"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight"
+source_file: "corpus/07-signal/html/market-insights-strait-of-hormuz-spotlight.html"
+word_count: 1498
+images_count: 3
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Market Insights | Strait of Hormuz Spotlight
+
+*Published on 17 June 2025*
 
 ## Strait of Hormuz Spotlight | Market Insights
 
@@ -21,14 +38,15 @@
 
 A sharp decline in tanker transits through the Strait of Hormuz and rising floating storage in the Gulf signal a shift toward risk-managed energy transport rather than normal market operations. Recent AIS data now indicates that commercial tanker traffic has effectively reached a near-standstill, with most vessels remaining anchored in the Gulf while operators assess security and insurance risks. Current indicators, including waypoint activity and vessel transit patterns, provide the basis for the disruption scenarios examined below.
 
-‍
+
+![Tsop Floating Storage](../images/69aea6f445834bc47efbd326_0f904dd3.png)
+
+> **Figure 1: Tsop Floating Storage**  
+> *TSOP Floating Storage*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aea6f445834bc47efbd326_0f904dd3.png)
 
 
-![TSOPFloating Storage](../images/69aea6f445834bc47efbd326_0f904dd3.png)
-*TSOPFloating Storage*
-
-
-## Scenario MatrixScenario 1: De facto restriction of transit with rising floating storage
+## Scenario Matrixscenario 1: De Facto Restriction of Transit with Rising Floating Storage
 
 Probability: very high ( already developing)
 
@@ -39,7 +57,7 @@ Floating storage is becoming part of this adjustment. Tankers that would normall
 Navigation through the corridor remains open, but activity may continue at reduced levels as shipping companies adapt to the prevailing security and insurance environment. At this stage, the situation reflects a commercial response to uncertainty rather than any formal restriction on transit.
 
 
-## ‍Scenario 2: A two-route export structure
+## Scenario 2: A Two-Route Export Structure
 
 Probability: high
 
@@ -50,7 +68,7 @@ Pipeline infrastructure that bypasses the strait gains strategic importance, par
 As a result, some tanker movements continνue, although typically under tighter scheduling and higher risk premiums.
 
 
-## Scenario 3:Security-led stabilization of tanker movements
+## Scenario 3:security-Led Stabilization of Tanker Movements
 
 Probability: medium–high
 
@@ -61,22 +79,25 @@ Such measures are typically intended to reinforce confidence in commercial shipp
 In practical terms, this could allow tanker movements to resume gradually, although under conditions where maritime security plays a more visible role in supporting the continuity of trade routes.
 
 
-## Scenario 4: Market shock and temporary pricing power
+## Scenario 4: Market Shock and Temporary Pricing Power
 
 Probability: high
 
 The current disruption to tanker movements in the Gulf is already being reflected in oil market pricing, with AIS tracking showing virtually no commercial tanker transits during several recent observation periods, indicating that shipowners are avoiding the corridor despite the absence of an official closure.
 
 
-![TSOPWaypoints](../images/69aea6f445834bc47efbd329_0d4a2666.png)
-*TSOPWaypoints*
+![Tsop Waypoints](../images/69aea6f445834bc47efbd329_0d4a2666.png)
+
+> **Figure 2: Tsop Waypoints**  
+> *TSOP Waypoints*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aea6f445834bc47efbd329_0d4a2666.png)
 
 A useful historical comparison can be found in the tanker attacks of the 1980s, when disruptions to Gulf shipping contributed to sharp swings in freight markets. At the time, key Middle East export routes to Asia, including Japan, were closely watched indicators of tanker market conditions, and earnings could spike sharply as shipowners avoided higher-risk voyages and war-risk premiums increased.
 
 Today, AIS data provides near-real-time visibility into tanker movements and can quickly indicate when commercial traffic through critical routes is slowing or changing patterns, although coverage is not always complete.
 
 
-## Scenario 5: Quiet operational coordination
+## Scenario 5: Quiet Operational Coordination
 
 Probability: medium–high
 
@@ -85,7 +106,7 @@ During maritime disruptions, it is common to see quiet coordination among export
 Producers such as Saudi Arabia and the United Arab Emirates have a strong incentive to keep exports flowing, while maritime powers like the United States provide security support.
 
 
-## Scenario 6: China’s potential diplomatic involvement
+## Scenario 6: China’s Potential Diplomatic Involvement
 
 Probability: medium
 
@@ -94,24 +115,27 @@ Another factor increasingly shaping the situation is the role of China. As the l
 Rather than deploying military power in the region, Beijing is more likely to act through diplomacy and economic engagement. That could include discussions with producers, consultations with importers such as India, or mediation efforts aimed at keeping energy flows stable. So far, the evidence points to diplomatic influence rather than a formal coalition.
 
 
-## Scenario 7: Expansion of the maritime crisis
+## Scenario 7: Expansion of the Maritime Crisis
 
 Probability: medium
 
 The most serious escalation scenario would involve sustained disruption in the Gulf combined with instability spreading beyond the region into the Red Sea corridor. Instability linked to attacks by the Houthis has already increased security risks in the Bab el-Mandeb Strait, one of the world’s most critical maritime chokepoints connecting the Red Sea and the Gulf of Aden. While the strait remains open, attacks on commercial vessels and the resulting security operations have already disrupted traffic and caused many ships to reroute away from the Suez Canal corridor.
 
 
-![TSOPWaypoints](../images/69aea6f445834bc47efbd32c_434aad13.png)
-*TSOPWaypoints*
+![Tsop Waypoints](../images/69aea6f445834bc47efbd32c_434aad13.png)
+
+> **Figure 3: Tsop Waypoints**  
+> *TSOP Waypoints*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aea6f445834bc47efbd32c_434aad13.png)
 
 A further escalation, such as sustained attacks, mining of shipping lanes, or broader regional instability, could significantly affect transit through Bab el-Mandeb. In such a case, the disruption would extend beyond a single corridor and affect multiple maritime routes linking the Middle East, Europe, and Asia. This would force more vessels to divert around the Cape of Good Hope, increasing transit times, costs, and pressure on global supply chains.
 
 
-## Scenario 8:Disruption to Bunker Fuel Supply in the Arabian Gulf
+## Scenario 8:disruption to Bunker Fuel Supply in the Arabian Gulf
 
 Probability: Low–Medium
 
-Escalating regional tensions could affect marine fuel supply infrastructure in the Arabian Gulf. Recentincidentshave already highlighted the vulnerability of key bunkering hubs. A fire at Fujairah disrupted bunker operations after debris from an intercepted drone caused a blaze in the port’s oil industry zone, while a separate drone strike damaged a fuel storage tank at Duqm Port. If tanker traffic through Hormuz remains constrained, bunker demand patterns could shift further toward Asian hubs as vessels reroute or delay departures from Gulf ports.
+Escalating regional tensions could affect marine fuel supply infrastructure in the Arabian Gulf. Recent [incidents](https://www.reuters.com/business/energy/surge-fujairah-bunker-prices-amid-mideast-conflict-drive-demand-elsewhere-2026-03-03/?utm\_source=chatgpt.com) have already highlighted the vulnerability of key bunkering hubs. A fire at Fujairah disrupted bunker operations after debris from an intercepted drone caused a blaze in the port’s oil industry zone, while a separate drone strike damaged a fuel storage tank at Duqm Port. If tanker traffic through Hormuz remains constrained, bunker demand patterns could shift further toward Asian hubs as vessels reroute or delay departures from Gulf ports.
 
 These disruptions have begun to influence marine fuel markets, prompting some ship operators to seek alternative bunkering locations. Early signals indicate that part of this demand is shifting away from Gulf hubs. In Europe, the Northwest European bunkering region centred on Rotterdam, Antwerp, and Amsterdam has experienced tighter supply conditions and higher fuel premiums, while Mediterranean ports such as Gibraltar have also seen increased activity.
 
@@ -133,6 +157,6 @@ At the same time, regional diplomacy could influence how the situation develops.
 
 ## What to Watch Now
 
-AIS tankertransitdata andfloating storage levels offer the clearest signals of how the situation is evolving.
+AIS tanker [transit](https://app.signalocean.com/tanker/dynamic/waypoints\_tankers) data and [floating storag](https://app.signalocean.com/tanker/dynamic/floating\_storage)e levels offer the clearest signals of how the situation is evolving.
 
 All data, estimates, and projections presented herein are based on information available as of [March 8, 2026]. While every effort has been made to ensure accuracy, the analysis is subject to revision as additional information becomes available.

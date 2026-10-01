@@ -1,9 +1,26 @@
-# Signal Data Warehouse
-
-**Date**: October 4, 2023 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signal-data-warehouse-2](https://www.thesignalgroup.com/newsroom/signal-data-warehouse-2)
-
+---
+title: "Signal Data Warehouse"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signal-data-warehouse-2"
+source_file: "corpus/07-signal/html/signal-data-warehouse-2.html"
+word_count: 735
+images_count: 0
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal Data Warehouse
+
+*Published on 17 June 2025*
 
 ## Signal Data Warehouse
 
@@ -25,31 +42,31 @@ The Signal Ocean Data Warehouse converges data that spans the entire spectrum of
 ## Frequently Asked Questions
 
 
-### What is the Signal Ocean Data Warehouse?
+### What Is the Signal Ocean Data Warehouse?
 
 The Signal Ocean Data Warehouse is a cloud-based SQL database that gives shipping analysts, traders, and brokers direct access to Signal Ocean's full maritime dataset — including vessel particulars, AIS data, voyages, freight rates, emissions, and port expenses — streamed in real time into any business intelligence environment.
 
 
-### How does the Signal Ocean Data Warehouse integrate with existing tools?
+### How Does the Signal Ocean Data Warehouse Integrate with Existing Tools?
 
 It connects via SQL and a suite of APIs, making it compatible with Microsoft Excel, Power BI, Tableau, and any custom in-house application. No heavy IT integration or additional storage infrastructure is required — Signal Ocean hosts the data on the cloud and keeps APIs continuously updated.
 
 
-### Who is the Signal Ocean Data Warehouse designed for?
+### Who Is the Signal Ocean Data Warehouse Designed For?
 
 It is built for shipping market analysts, commodity traders, charterers, and brokers who need to combine Signal Ocean's real-time market data with their own proprietary information inside their existing workflows.
 
 
-### What data is available through the Signal Ocean Data Warehouse?
+### What Data Is Available Through the Signal Ocean Data Warehouse?
 
 The warehouse covers the full spectrum of shipping analytics data: vessel particulars, daily AIS, voyages, tonnage lists, daily vessel status, distances, vessel emissions, vessel valuations, port expenses, market rates, and freight data — all accessible through a single unified SQL database.
 
 
-### How is the Signal Ocean Data Warehouse different from the standard Signal Ocean platform?
+### How Is the Signal Ocean Data Warehouse Different From the Standard Signal Ocean Platform?
 
 The standard Signal Ocean platform delivers pre-built dashboards and market views. The Data Warehouse is for teams that want to power their own BI tools and internal systems directly with Signal Ocean data, combining it with proprietary information for fully bespoke reporting.
 
 
 ## Get Started with Signal Ocean
 
-Explore the Signal Ocean Data Warehouse·Request a Demo with Signal Ocean· Start a Free Trial
+[Explore the Signal Ocean Data Warehouse](https://www.thesignalgroup.com/datawarehouse) · [Request a Demo with Signal Ocean](https://www.thesignalgroup.com/signal-ocean-platform/request-demo) · Start a Free Trial

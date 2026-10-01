@@ -1,11 +1,28 @@
-# Signal’s Position Value concept: Freight Pricing & Fairness Principles
-
-**Date**: July 14, 2023 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signals-position-value-concept](https://www.thesignalgroup.com/newsroom/signals-position-value-concept)
-
+---
+title: "Signal’s Position Value Concept: Freight Pricing & Fairness Principles"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signals-position-value-concept"
+source_file: "corpus/07-signal/html/signals-position-value-concept.html"
+word_count: 1086
+images_count: 1
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal’s Position Value Concept: Freight Pricing & Fairness Principles
 
-## Position Value - the concept
+*Published on 17 June 2025*
+
+## Position Value - The Concept
 
 If you had to select between an Aframax opening in the US Gulf and a sister vessel opening in the Far East, it seems obvious to opt for the one opening in the West, based on knowledge of basic oil flows and historical market conditions, right? But how can someone quantify the premium of one geographical position over others? How can we determine the potential earnings of a vessel starting from different locations around the world?
 
@@ -16,17 +33,18 @@ This is exactly what the Position Value concept, developed by Signal Maritime Se
 Next, the model identifies the most profitable sequence of voyages for any location worldwide, given the current market conditions and most common flows. This analysis derives the Position Value of each area, representing its earnings potential. But how can we get the full advantage of the Position Value to enhance our day-to-day operations? Below we summarise some key use cases.
 
 
-## Position Value in vessel fixing
+## Position Value in Vessel Fixing
 
 In relation to spot chartering decisions, Position Value enables quick and easy like-for-like comparison of voyage options.
 
 Consider the case of an Aframax opening in Trieste. She could embark on a transatlantic voyage to the US, generating a TCE of $30k/d for about 30 days. However, an east run catches our attention. How much should a Mediterranean-Singapore voyage earn to be more profitable? By checking the current Position Values - US Gulf at $700k and Singapore at -$550k - we can deduce that the Mediterranean-Singapore voyage needs to yield over $70k/d to surpass the transatlantic option, given the market conditions.
 
-‍
 
+![Indicative Example Comparison of a Transatlantic Voyage and an East Run for Vessel Opening in Central Mediterranean Image Source: The Signal Ocean Platform](../images/66b51f5b942e52c7d1276477_64b111c95d77dce14da80865_VT5x9H-arCMm5Ed9K5nzBdxqiCtAVo7dtKTzzqaFLVVkd2bBmGBl7-1SYoCu0-CblohrOWarZTLkN568NlvE8d-j8iEn2RIpw80sng9pY_5Qax3O32rXjo8uZ0y3DOSFSehSZzTvp-_Tw1hdUd3OHdc.avif)
 
-![Indicative example comparison of a transatlantic voyage and an east run for vessel opening in central MediterraneanImage source: The Signal Ocean Platform](../images/66b51f5b942e52c7d1276477_64b111c95d77dce14da80865_VT5x9H-arCMm5Ed9K5nzBdxqiCtAVo7dtKTzzqaFLVVkd2bBmGBl7-1SYoCu0-CblohrOWarZTLkN568NlvE8d-j8iEn2RIpw80sng9pY_5Qax3O32rXjo8uZ0y3DOSFSehSZzTvp-_Tw1hdUd3OHdc.avif)
-*Indicative example comparison of a transatlantic voyage and an east run for vessel opening in central MediterraneanImage source: The Signal Ocean Platform*
+> **Figure 1: Indicative Example Comparison of a Transatlantic Voyage and an East Run for Vessel Opening in Central Mediterranean Image Source: The Signal Ocean Platform**  
+> *Indicative example comparison of a transatlantic voyage and an east run for vessel opening in central Mediterranean Image source: The Signal Ocean Platform*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signals-position-value-concept) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f5b942e52c7d1276477_64b111c95d77dce14da80865_VT5x9H-arCMm5Ed9K5nzBdxqiCtAVo7dtKTzzqaFLVVkd2bBmGBl7-1SYoCu0-CblohrOWarZTLkN568NlvE8d-j8iEn2RIpw80sng9pY_5Qax3O32rXjo8uZ0y3DOSFSehSZzTvp-_Tw1hdUd3OHdc.avif)
 
 Similar calculations can be applied to price correctly multiple discharging options for any fixture. Everything has a price; we just need to determine the right one.
 
@@ -35,7 +53,7 @@ Position Value can also be used as a tool to help price time charters as it quan
 Using this method Signal are also able to price time charter hire values, in or out, accounting for the vessel’s earning potential on entry and exit which allows different delivery and redelivery positions to be compared, like for like.
 
 
-## Position Value as a catalyst in pool entry and exit flexibility
+## Position Value as a Catalyst in Pool Entry and Exit Flexibility
 
 Position Value also plays a vital role in pooling, offering unique flexibility and commitment minimisation. By pricing the entry or exit positions of pool vessels, owners can seamlessly join or leave the pool anywhere, anytime without harming the pool partners or themselves and their earnings.
 
@@ -47,8 +65,8 @@ One would say that the calculation methodology is a black box, so why would a po
 
 In conclusion, the implementation of Position Value in the shipping industry provides a valuable tool for optimising decision-making, enabling accurate comparisons, and promoting flexibility in pooling. By considering market conditions, historical data, and trading options, the Position Value concept enhances efficiency and profitability in day-to-day operations, ultimately contributing to the simplification of maritime businesses.
 
-For more information of the Position value or our Pool, please get in touch with thecontact form.
+For more information of the Position value or our Pool, please get in touch with the [contact form](https://www.thesignalgroup.com/contact).
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 -Republishing is allowed with an active link to the source

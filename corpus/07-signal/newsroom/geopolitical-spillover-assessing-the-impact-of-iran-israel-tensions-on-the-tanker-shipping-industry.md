@@ -1,12 +1,35 @@
-# Iran-Israel Tensions: Impact on Tanker Shipping
-
-**Date**: June 17, 2025 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry)
-
+---
+title: "Iran-Israel Tensions: Impact on Tanker Shipping"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Tankers"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry"
+source_file: "corpus/07-signal/html/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry.html"
+word_count: 2779
+images_count: 7
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Newsroom
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Iran-Israel Tensions: Impact on Tanker Shipping
 
-![Signal Figure](../images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
-*Signal Figure*
+*Published on 17 June 2025*
+
+![Heading](../images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
+
+> **Figure 1: Heading**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
 
 
 ## Executive Summary:
@@ -16,7 +39,15 @@ Escalating tensions between Iran and Israel are analysed for their potential eff
 
 ## Table of Contents
 
-1. Strategic Context2. Port Infrastructure and Freight Market Impacts3. Scenario Analysis- Scenario A: Full Closure- Scenario B: Disruption4. Implications for Asian Partners5. Strategic Alternatives7. Conclusion8. Appendix
+1. Strategic Context
+ 2. Port Infrastructure and Freight Market Impacts
+ 3. Scenario Analysis
+ - Scenario A: Full Closure
+ - Scenario B: Disruption
+4. Implications for Asian Partners
+5. Strategic Alternatives
+7. Conclusion
+ 8. Appendix
 
 
 ## 1. Strait of Hormuz: Strategic Context
@@ -42,10 +73,11 @@ The current rally appeared to stem from a localized but volatile threat landscap
 Nonetheless, the risk of broader regional escalation remains a key concern. A worst-case scenario involving sustained conflict and disruption of flows through the Strait of Hormuz could trigger a severe supply shock. According to JPMorgan, such an escalation could remove well over 2.1 million barrels per day from the market and push Brent crude prices sharply higher, potentially exceeding $100 per barrel.
 
 
-![https://app.signalocean.com/tanker/dynamic/oil_prices](../images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
-*https://app.signalocean.com/tanker/dynamic/oil_prices*
+![Https://app.signalocean.com/tanker/dynamic/oilprices](../images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
 
-‍
+> **Figure 2: Https://app.signalocean.com/tanker/dynamic/oilprices**  
+> *https://app.signalocean.com/tanker/dynamic/oil_prices*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
 
 
 ## Elevated Risk to Iranian Oil Port Infrastructure
@@ -53,61 +85,71 @@ Nonetheless, the risk of broader regional escalation remains a key concern. A wo
 Reports indicate that Israeli strikes targeted defenses near Iran’s key port of Bandar Abbas. Although Iran maintains that operations remain unaffected, any significant damage to this strategically located port, adjacent to the Strait of Hormuz, could disrupt oil vessel traffic. The National Iranian Oil Refining and Distribution Company has stated that its refining and storage facilities remain fully operational and have sustained no damage. Nevertheless, the risk of disrupted oil flows persists, especially given Iran’s past threats to block the strait. The risk of missile attacks on Iranian oil port infrastructure is causing increased uncertainty, evidenced by a rise in estimated waiting times at Kharg Island port. The recently estimated waiting period for vessels has significantly increased to eleven days before the end of last week, up from five days at the start of May. This surge occurred without a corresponding increase in port congestion, as indicated by vessel count.
 
 
-![https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download](../images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
-*https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download*
+![Https://app.signalocean.com/tanker/dynamic/congestionreporttankerdownload](../images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
+
+> **Figure 3: Https://app.signalocean.com/tanker/dynamic/congestionreporttankerdownload**  
+> *https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
 
 
-## Freight Market - Vessel count in the AG (VLCC)
+## Freight Market - Vessel Count in the AG (VLCC)
 
 We have started seeing a reduction in the vessel count at the load area of AG for the VLCC TD3C route, although the WS direction upward trend is not yet significantly pronounced.
 
 
-## ‍
+![Https://app.signalocean.com/tanker/dynamic/vesselcounttankerdownloadable](../images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
+
+> **Figure 4: Https://app.signalocean.com/tanker/dynamic/vesselcounttankerdownloadable**  
+> *https://app.signalocean.com/tanker/dynamic/vessel_count_tanker_downloadable*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
 
 
-![https://app.signalocean.com/tanker/dynamic/vessel_count_tanker_downloadable](../images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
-*https://app.signalocean.com/tanker/dynamic/vessel_count_tanker_downloadable*
+![Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable](../images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
 
-
-![https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable](../images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
-*https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable*
+> **Figure 5: Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable**  
+> *https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
 
 
 ## 3. Scenario Analysis
 
 
-## Scenario A: Full Closure of the Strait
+## Scenario a: Full Closure of the Strait
 
-Closure of the Strait of Hormuz could trigger oil price spikes exceeding $100 per barrel, leading to global economic instability and a higher risk of wider conflict. Even countries not directly importing Gulf oil would be affected due to an immediate drop in global supply, driving up prices across the supply chain. Despite geopolitical concerns, JP Morgan anticipates oil prices remaining in the low-to-mid $60s through 2025 and at $60 in 2026, according to their base case forecast. However, they acknowledged that severe worst-case scenarios could potentially double these price levels. A full closure would also cause a temporary surge in dirty oil freight rates, but cargo availability issues would lead to losses in both the short and long term.‍
-
-
-## FFA Market Signals a Sharp Rise amid Middle East Tensions
+Closure of the Strait of Hormuz could trigger oil price spikes exceeding $100 per barrel, leading to global economic instability and a higher risk of wider conflict. Even countries not directly importing Gulf oil would be affected due to an immediate drop in global supply, driving up prices across the supply chain. Despite geopolitical concerns, JP Morgan anticipates oil prices remaining in the low-to-mid $60s through 2025 and at $60 in 2026, according to their base case forecast. However, they acknowledged that severe worst-case scenarios could potentially double these price levels. A full closure would also cause a temporary surge in dirty oil freight rates, but cargo availability issues would lead to losses in both the short and long term.
 
 
-![https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable](../images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
-*https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable*
+## FFA Market Signals a Sharp Rise Amid Middle East Tensions
 
-‍
+
+![Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable](../images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
+
+> **Figure 6: Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable**  
+> *https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
 
 Forward Freight Agreement (FFA) market analysts are projecting a significant increase in VLCC earnings on the Middle East Gulf to China route, with July rates expected to exceed $40,000 per day. These FFA projections reflect growing uncertainty and bullish sentiment in the tanker segment as geopolitical tensions escalate.
 
 Given the daily importance of crude oil shipments via the Strait to China, a short-lived closure with increased vessel traffic disruptions is a more likely scenario.
 
 
-## Scenario B:Partial Disruption
+## Scenario B:partial Disruption
 
-In a scenario where shipping passage disruptions occur, Iran could implement measures such as attacks or hijacking, along with overall strategies to impede oil vessel movements. Iran is also expected to utilize the Houthis' increasing attacks against Red Sea shipping activities, although the Houthis' strength remains uncertain following U.S. efforts to degrade their capabilities since the end of last year. In this scenario, some shipowners may choose to avoid involvement in oil transits through Hormuz, leading to a tighter supply of available vessels for East loadings as they seek safer loading zones in the Atlantic. In such a scenario, Middle Eastern oil exports would be maintained, but the limited availability of vessels would drive up AG dirty oil freight costs, with shipowners pushing for higher freight rates for oil exports through Hormuz. The disruption of oil transit would further extend the rise in oil prices, benefiting U.S. and other global oil producers, particularly those in the Atlantic, who could capitalize on the situation.‍
+In a scenario where shipping passage disruptions occur, Iran could implement measures such as attacks or hijacking, along with overall strategies to impede oil vessel movements. Iran is also expected to utilize the Houthis' increasing attacks against Red Sea shipping activities, although the Houthis' strength remains uncertain following U.S. efforts to degrade their capabilities since the end of last year. In this scenario, some shipowners may choose to avoid involvement in oil transits through Hormuz, leading to a tighter supply of available vessels for East loadings as they seek safer loading zones in the Atlantic. In such a scenario, Middle Eastern oil exports would be maintained, but the limited availability of vessels would drive up AG dirty oil freight costs, with shipowners pushing for higher freight rates for oil exports through Hormuz. The disruption of oil transit would further extend the rise in oil prices, benefiting U.S. and other global oil producers, particularly those in the Atlantic, who could capitalize on the situation.
 
 
-## 4. Asian Oil Consumption: Why a Long-Term Closure Scenario is Considered Not Strategic for the Iranian Oil Revenue Industry
+## 4. Asian Oil Consumption: Why a Long-Term Closure Scenario Is Considered Not Strategic for the Iranian Oil Revenue Industry
 
 Iran, a significant global oil exporter, primarily sends its oil to China, a crucial partner in Asia. Notably, Iranian oil sales to China saw a rise in mid-March, preceding increased U.S. sanctions. This mid-March increase was the fourth set of sanctions Washington had placed on Iran's oil industry since February, when President Trump announced the reinstatement of a "maximum pressure" approach intended to completely stop the country's oil exports. Should Tehran escalate further by attacking tankers to disrupt shipping, similar to its actions during the Iran-Iraq war in the 1980s, Iranian oil revenues would suffer. This is because China is Iran's only major strategic oil trading partner, importing over 1 million barrels daily. In the case of an increased Iranian oil supply disruption, China could likely seek to strengthen its existing partnership with Brazilian oil companies; however, it is uncertain if this would be able to fully replace Iranian oil supplies.
 
 
-![https://app.signalocean.com/tanker/dynamic/oilflows|‍](../images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
-*https://app.signalocean.com/tanker/dynamic/oilflows|‍*
+![Https://app.signalocean.com/tanker/dynamic/oilflows|](../images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
 
-While the dashboard indicates that theprimary discharge area is "Singapore/Malaysia" (64.7%), this doesnot reflect the final destinationof the cargo. In reality, most of this oil istransshipped to China, using Singapore and Malaysian ports as intermediate storage or blending points.
+> **Figure 7: Https://app.signalocean.com/tanker/dynamic/oilflows|**  
+> *https://app.signalocean.com/tanker/dynamic/oilflows|*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
+
+While the dashboard indicates that the **primary discharge area is "Singapore/Malaysia" (64.7%)**, this does **not reflect the final destination** of the cargo. In reality, most of this oil is **transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
 
 
 ## 5. Bypassing the Strait: Strategic Alternatives and Pipeline Options
@@ -115,14 +157,14 @@ While the dashboard indicates that theprimary discharge area is "Singapore/Malay
 The United States has, in recent years, become far less dependent on oil from the Persian Gulf because of the rise of fracking and other advanced techniques to extract oil. However, the closure of the Strait, as analyzed above, would be a significant blow for China, which still imports large quantities of oil from the region. In the scenario of a Strait closure, only Saudi Arabia and the United Arab Emirates (UAE) are reported to have operating pipelines that can circumvent the Strait of Hormuz. Saudi Aramco operates the 5-million-b/d East-West crude oil pipeline and expanded the pipeline’s capacity to 7 million b/d in 2019 when it converted some natural gas liquids pipelines to accept crude oil. The UAE links its onshore oil fields to the Fujairah export terminal on the Gulf of Oman with a 1.5 million b/d pipeline. In the case of Iran, the country inaugurated the Goreh-Jask pipeline and the Jask export terminal on the Gulf of Oman with a single export cargo in July 2021. The pipeline’s capacity was 0.3 million b/d at that time, although Iran has not used the pipeline since then. The IEA estimates that around 3.5 million b/d of effective unused capacity from these pipelines could be available to bypass the Strait in the event of a supply disruption
 
 
-## Strategic reserves
+## Strategic Reserves
 
 The International Energy Agency is closely monitoring the impacts on oil markets of the Israel-Iran situation. The oil market is currently well-supplied, with non-OECD+ supply forecast to increase by 1.3 mb/d this year, outpacing expected global demand growth of around 700 kb/d. OECD commercial stocks total more than 2.7 billion barrels. IEA countries hold more than 1.2 billion barrels of public emergency oil stocks. In addition, 580 million barrels are held by the industry under government obligations. The IEA’s emergency response system is designed to mitigate the negative economic impacts of sudden oil supply shortages by providing additional oil to the market in the event of a severe disruption.
 
 
-## Maritime risk security awareness
+## Maritime Risk Security Awareness
 
-BIMCO has advised ship owners to implement ship defense measuresoutlined in industry documents, report suspicious sightings to the UK's Maritime Trade Operations, reconsider current routing, and keep seafarer safety in mind, which are among the recommendations it has shared with clients. Larsen said any perception of the United States' involvement will bring greater risks for ships, though so far the U.S. has limited its comments about the strikes, with Secretary of State Marco Rubio describing Israel's actions as "unilateral," and saying on Thursday night "Iran should not target U.S. interests or personnel."
+BIMCO has advised ship owners to implement ship defense measures[outlined in industry documents](https://www.ics-shipping.org/resource/bmp-maritime-security/), report suspicious sightings to the UK's Maritime Trade Operations, reconsider current routing, and keep seafarer safety in mind, which are among the recommendations it has shared with clients. Larsen said any perception of the United States' involvement will bring greater risks for ships, though so far the U.S. has limited its comments about the strikes, with Secretary of State Marco Rubio describing Israel's actions as "unilateral," and saying on Thursday night "Iran should not target U.S. interests or personnel."
 
 The US-led Joint Maritime Information Center (JMIC) said on Friday that the Strait of Hormuz remains open and commercial traffic continues to flow uninterrupted, and added it has "no indications of an increased threat to the maritime environment."
 
@@ -136,64 +178,66 @@ Early reports confirmed escalating tensions, with Israel facing intense Iranian 
 
 ### Appendix: Sources & Links
 
-- SignalOcean Tanker Dashboard: https://app.signalocean.com/tanker/dynamic/oil_prices- Congestion Reports: https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download- VLCC Market Prices: https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable- EIA Data: https://www.eia.gov- JP Morgan Oil Forecast (2024-2026)‍
+- SignalOcean Tanker Dashboard: https://app.signalocean.com/tanker/dynamic/oil\_prices 
+- Congestion Reports: https://app.signalocean.com/tanker/dynamic/congestion\_report\_tanker\_download 
+- VLCC Market Prices: https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable 
+- EIA Data: https://www.eia.gov 
+- JP Morgan Oil Forecast (2024-2026) **
 
 
-## FAQs
+## Faqs
 
 
-### What is the Strait of Hormuz and why does it matter to tanker shipping?
+### What Is the Strait of Hormuz and Why Does It Matter to Tanker Shipping?
 
 The Strait of Hormuz is one of the world’s most important maritime chokepoints, linking the Persian Gulf with the Gulf of Oman and the Indian Ocean. A large share of global seaborne oil passes through it, so any disruption there can quickly affect tanker movements, freight rates, and oil prices.
 
 
-### Could Iran fully close the Strait of Hormuz?
+### Could Iran Fully Close the Strait of Hormuz?
 
 A full closure is considered unlikely. Historical precedent suggests that Iran is more likely to pursue partial disruption through vessel harassment, attacks, or mine laying rather than a sustained blockade. A complete closure would also damage Iran’s own oil export revenues.
 
 
-### How would Iran Israel tensions affect tanker freight rates?
+### How Would Iran Israel Tensions Affect Tanker Freight Rates?
 
 Heightened tensions can tighten vessel availability, increase perceived risk for owners, and push freight rates higher, especially for crude routes linked to the Arabian Gulf. Market sentiment can also lift forward expectations in the FFA market.
 
 
-### Which tanker routes are most exposed to disruption?
+### Which Tanker Routes Are Most Exposed to Disruption?
 
 Routes connected to the Arabian Gulf are the most exposed, especially those linked to crude exports moving towards Asia. The Middle East Gulf to China VLCC trade is particularly sensitive to changes in regional security and vessel supply.
 
 
-### What happens to oil prices when tensions rise in the region?
+### What Happens to Oil Prices When Tensions Rise in the Region?
 
 Oil prices often rise when the market fears supply disruption. Concerns around the Strait of Hormuz can add a geopolitical risk premium, especially if there is a threat to port infrastructure, vessel flows, or export continuity.
 
 
-### Why is a long term closure not seen as strategic for Iran?
+### Why Is a Long Term Closure Not Seen as Strategic for Iran?
 
 Iran depends on oil exports for revenue, and China remains its key oil buyer. A prolonged closure would disrupt Iran’s own export flows and weaken an important economic relationship, making a sustained blockade less attractive from a strategic and financial perspective.
 
 
-### Can oil exports bypass the Strait of Hormuz?
+### Can Oil Exports Bypass the Strait of Hormuz?
 
 Only to a limited extent. Saudi Arabia and the UAE have pipeline capacity that can reroute part of their exports outside the Strait, but these alternatives cannot fully replace the scale of seaborne flows that normally pass through Hormuz.
 
 
-### What would partial disruption look like in practice?
+### What Would Partial Disruption Look Like in Practice?
 
 Partial disruption could involve attacks on commercial vessels, increased security incidents, delays at key ports, higher insurance costs, and more cautious routing decisions by shipowners. This kind of disruption can still tighten supply and raise freight rates without fully closing the route.
 
 
-### How can shipping markets respond to a major disruption?
+### How Can Shipping Markets Respond to a Major Disruption?
 
 Markets may respond through higher freight rates, rerouting decisions, use of strategic oil reserves, and increased monitoring by governments and maritime security bodies. Industry players may also adjust loading strategies and shift focus towards safer regions where possible.
 
 
-### How can market participants monitor these risks in real time?
+### How Can Market Participants Monitor These Risks in Real Time?
 
 They can track vessel movements, congestion, freight rates, oil flows, and regional market signals through platforms such as Signal Ocean, alongside public updates from energy agencies and maritime security bodies.
 
 
-## Ready to get started with The Signal Group?
+## Ready to Get Started with the Signal Group?
 
-Reach outto us and visit theSignal Ocean Newsroomfor the latest updates on market trends and platform developments. To check out our previous newsroom articleclick here.
-
-‍
+[***Reach out***](https://www.thesignalgroup.com/request-demo?utm\_source=%20oceanhome&utm\_medium=website&utm\_campaign=demo) *to us and visit the* [***Signal Ocean Newsroom***](https://www.thesignalgroup.com/newsroom) *for the latest updates on market trends and platform developments. To check out our previous newsroom article* [***click here.***](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows)

@@ -170,11 +170,15 @@ def audit_single_file(pub: str, pdf_path: Path) -> Dict[str, Any]:
                 elif "charts" in sdata and isinstance(sdata["charts"], list):
                     sidecar_tables["charts"] = len(sdata["charts"])
 
-                # Check direct top-level table keys (advanced_shipping, xclusiv, etc.)
-                for k in ["reported_sales", "newbuilding", "newbuilding_orders", "indicative_demolition_prices",
-                          "demolition_sales", "demo_sales", "indicative_secondhand_prices", "indicative_newbuilding_prices"]:
-                    if k in sdata and isinstance(sdata[k], list) and k not in sidecar_tables:
+                # Check direct top-level table keys (advanced_shipping, xclusiv, clarksons, fearnleys, etc.)
+                for k in ["reported_sales", "sales", "bulker_sales", "tanker_sales", "newbuilding", "newbuilding_orders",
+                          "indicative_demolition_prices", "demolition_sales", "demo_sales",
+                          "indicative_secondhand_prices", "indicative_newbuilding_prices", "rate_cards", "sp_dry", "sp_wet",
+                          "newbuilding_prices", "secondhand_prices", "rates", "activity_levels"]:
+                    if k in sdata and (isinstance(sdata[k], (list, dict))) and k not in sidecar_tables:
                         sidecar_tables[k] = len(sdata[k])
+                if "sales_count" in sdata and sdata["sales_count"] > 0 and "sales" not in sidecar_tables:
+                    sidecar_tables["sales"] = sdata["sales_count"]
         except Exception:
             sidecar_tables["error_reading"] = 1
     elif has_charts:

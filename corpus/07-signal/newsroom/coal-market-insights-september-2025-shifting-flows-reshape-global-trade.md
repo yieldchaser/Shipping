@@ -1,17 +1,36 @@
-# Coal Market Insights September 2025: Shifting Flows Reshape Global Trade
-
-**Date**: September 24, 2025 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/coal-market-insights-september-2025-shifting-flows-reshape-global-trade](https://www.thesignalgroup.com/newsroom/coal-market-insights-september-2025-shifting-flows-reshape-global-trade)
-
+---
+title: "Coal Market Insights September 2025: Shifting Flows Reshape Global Trade"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/coal-market-insights-september-2025-shifting-flows-reshape-global-trade"
+source_file: "corpus/07-signal/html/coal-market-insights-september-2025-shifting-flows-reshape-global-trade.html"
+word_count: 812
+images_count: 1
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Coal Market Insights September 2025: Shifting Flows Reshape Global Trade
 
-## Coal Market Insights – September 2025: Shifting Flows Reshape Global Trade‍
+*Published on 17 June 2025*
 
-The September Coal Market Update builds on The Signal Group’s summer spotlight on Supramax and Panamax coal flows from Indonesia. Readers can revisit that analysis here:The Signal Group – Supramax & Panamax Coal Cargo Flow Trends from Indonesia.
+## Coal Market Insights – September 2025: Shifting Flows Reshape Global Trade
+
+The September Coal Market Update builds on The Signal Group’s summer spotlight on Supramax and Panamax coal flows from Indonesia. Readers can revisit that analysis here: [*The Signal Group – Supramax & Panamax Coal Cargo Flow Trends from Indonesia*](https://www.thesignalgroup.com/newsroom/special-focus-supramax-panamax-coal-cargo-flow-trends-from-indonesia) *.*
 
 
-![Signal Figure](../images/68d3c317d2072dda2bfd15d7_Newsroom image (1.png).png)
-*Signal Figure*
+![Coal Market Insights – September 2025: Shifting Flows Reshape Global Trade‍](../images/68d3c317d2072dda2bfd15d7_Newsroom image (1).png)
+
+> **Figure 1: Coal Market Insights – September 2025: Shifting Flows Reshape Global Trade‍**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/coal-market-insights-september-2025-shifting-flows-reshape-global-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68d3c317d2072dda2bfd15d7_Newsroom image (1).png)
 
 
 ## Global Perspective
@@ -36,4 +55,6 @@ In March 2025, the government required that all coal transactions use its benchm
 
 India's coal market is set for substantial growth. The nation's domestic coal production, which was approximately 1.05 billion tons in FY25, is projected to climb by 42% to nearly 1.53 billion tons by FY30. This expansion is driven by New Delhi's strategy to meet escalating electricity demand and lessen its reliance on thermal coal imports. Concurrently, the steel sector is becoming the primary catalyst for coking coal demand, with consumption anticipated to increase by about 55% by 2030, from roughly 87 million tons to 135 million tons. Despite initiatives to enhance beneficiation and diversify supply, India is expected to remain dependent on imports for the majority of its coking coal requirements throughout the decade.
 
-Beyond India’s expanding domestic output and steel-driven demand, shifting trade flows are reshaping coal supply dynamics, with Russia and Australia regaining ground in the Indian import mix. Coal shipments fromRussiato India have increased substantially this year compared to the first eight months of last year. After reaching a high of almost 4 million metric tons in April, shipments levelled off, consistently surpassing an average of 2.5 million metric tons per month between June and August.To read the rest of the article please email us atresearch@thesignalgroup.com. For demo inquiries,reach outto us and visit theSignal Ocean Newsroomfor the latest updates on market trends and platform developments. To check out our previous newsroom articleclick here.
+Beyond India’s expanding domestic output and steel-driven demand, shifting trade flows are reshaping coal supply dynamics, with Russia and Australia regaining ground in the Indian import mix. Coal shipments from **Russia** to India have increased substantially this year compared to the first eight months of last year. After reaching a high of almost 4 million metric tons in April, shipments levelled off, consistently surpassing an average of 2.5 million metric tons per month between June and August.
+
+*To read the rest of the article please email us at* ***research@thesignalgroup.com****. For demo inquiries,* [***reach out***](https://www.thesignalgroup.com/request-demo?utm\_source=%20oceanhome&utm\_medium=website&utm\_campaign=demo) *to us and visit the* [***Signal Ocean Newsroom***](https://www.thesignalgroup.com/newsroom) *for the latest updates on market trends and platform developments. To check out our previous newsroom article* [***click here.***](https://www.thesignalgroup.com/newsroom/special-focus-of-the-week-iraq-crude-exports-dirty-oil-flows)

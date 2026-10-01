@@ -1,13 +1,30 @@
-# Flagship Founders and Signal enter strategic partnership
-
-**Date**: July 25, 2023 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/maritime-venture-builders-flagship-founders-and-signal-enter-strategic-partnership](https://www.thesignalgroup.com/newsroom/maritime-venture-builders-flagship-founders-and-signal-enter-strategic-partnership)
-
+---
+title: "Flagship Founders and Signal Enter Strategic Partnership"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/maritime-venture-builders-flagship-founders-and-signal-enter-strategic-partnership"
+source_file: "corpus/07-signal/html/maritime-venture-builders-flagship-founders-and-signal-enter-strategic-partnership.html"
+word_count: 710
+images_count: 0
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Flagship Founders and Signal Enter Strategic Partnership
 
-## Maritime venture builders Flagship Founders and Signal enter strategic partnership
+*Published on 17 June 2025*
 
-Two of the leading maritime technology venture builders have today announced a partnership to jointly develop new technology start-ups for the industry.Signal is taking a stake in the German venture studio Flagship Founders and will contribute data and APIs from its Signal Ocean platform to help accelerate new venture development.The partnership includes a total investment volume of €2.5 million and complements the €3.5 million funding round Flagship Founders closed earlier this year.
+## Maritime Venture Builders Flagship Founders and Signal Enter Strategic Partnership
+
+Two of the leading maritime technology venture builders have today announced a partnership to jointly develop new technology start-ups for the industry.Signal is taking a stake in the German venture studio Flagship Founders and will contribute data and APIs from its Signal Ocean platform to help accelerate new venture development. *The partnership includes a total investment volume of €2.5 million and complements the €3.5 million funding round Flagship Founders closed earlier this year.*
 
 Signal is an Athens, London & Singapore based business which runs commercial tanker pools, has developed a leading AI software platform, and provides investment to early-stage ventures. Its venture building and investment arm Signal Ventures has to date supported 15 start-ups in the shipping, supply chain and commodities space. AI analytics firm OilX, Signal’s first start-up incubated through its venture studio, was sold to Energy Aspects in January this year.
 
@@ -17,9 +34,9 @@ Berlin-based Flagship Founders, in turn, is a leading European venture studio fo
 
 By bringing their respective strengths into this strategic partnership, Signal and Flagship Founders will build new technology start-ups for global shipping more quickly and efficiently. Signal Ocean's comprehensive data platform will play an important role in the development and scaling of ideas. The companies also expect the partnership to provide mutual support in the areas of regional network access, sector-specific expertise, and talent acquisition.
 
-Nikolas Pyrgiotis, VP of Ventures at Signal,is also convinced of the mutual benefit of the partnership:
+**Nikolas Pyrgiotis, VP of Ventures at Signal**,is also convinced of the mutual benefit of the partnership:
 
-About Signal
+**About Signal**
 
 Signal’s vision is to make global shipping more efficient, effective and profitable through the application of technology and market experience. Our passion for applied science and technology and our understanding of the complex shipping business continues to open up new opportunities.
 
@@ -27,13 +44,13 @@ We achieve success through collaboration, research and investment. In just a few
 
 This data-led approach powers our commercial tanker pools, Signal Maritime, enabling our chartering team to outperform its peers. At the same time, we are investing in the future by supporting early-stage technology startups and entrepreneurs in the shipping, logistics and commodities space through Signal Ventures. Our diverse and fast-growing team of product engineers, computer scientists, and commercial shipping professionals is based in Athens, London and Singapore.
 
-www.thesignalgroup.com
+[www.thesignalgroup.com](https://www.thesignalgroup.com)
 
-About Flagship Founders
+**About Flagship Founders**
 
 Flagship Founders is the founding partner for startups in maritime technology, logistics, and shipping. Launched in May 2020,the Berlin-based company works with ambitious founders to build scalable businesses with digital product solutions. The aim is to introduce pioneering technologies and innovation to shipping and help shape the industry’s future.To deliver successful results Flagship Founders provides ongoing support, from a successful creative process through company founding and financing right up to an exit. In addition to a wealth of expertise in the startup and company building sector, the Flagship Founders team has access to a first-class network and specialist shipping knowledge. Find out more at www.flagshipfounders.de
 
-Press Contact FlagshipFounders:
+**Press Contact FlagshipFounders:**
 
 Darja Koehne
 
@@ -41,6 +58,8 @@ d.koehne@flagshipfounders.de
 
 +49 (0)176 311 48 514
 
-Press Contact Signal:
+**Press Contact Signal:**
 
-Bill Linesblines@navigatepr.com+44 (0)7970 730521
+Bill Lines
+[blines@navigatepr.com](mailto:blines@navigatepr.com)
++44 (0)7970 730521

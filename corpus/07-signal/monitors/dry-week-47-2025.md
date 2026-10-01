@@ -1,14 +1,35 @@
-# Weekly Dry Market Monitor: Week 47, 2025
-
-**Date**: November 21, 2025 | **Category**: Dry bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025)
-
+---
+title: "Weekly Dry Market Monitor: Week 47, 2025"
+issue_date: "2025-11-21"
+year: 2025
+week: 47
+category: "Dry Bulk"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025"
+source_file: "corpus/07-signal/html/dry-week-47-2025.html"
+word_count: 1030
+images_count: 3
+tables_count: 0
+tags:
+  - Capesize
+  - Dry Bulk
+  - Freight Rates
+  - Monitors
+  - Panamax
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Weekly Dry Market Monitor: Week 47, 2025
 
-## Chart of the Week: Iron ore Freight Market Trends‍
+*Published on 21 November 2025*
+
+## Chart of the Week: Iron Ore Freight Market Trends
 
 
-## This week’s analysis examines iron ore freight market trends with a special focus on the emerging iron ore supply powerplay: Simandou’s Rise, Vale’s Moves, and BHP’s Growing Risk
+## This Week’s Analysis Examines Iron Ore Freight Market Trends with a Special Focus on the Emerging Iron Ore Supply Powerplay: Simandou’s Rise, Vale’s Moves, and Bhp’s Growing Risk
+
 
 - The Simandou project is advancing through key development milestones and is set to introduce a significant new stream of high-grade iron ore into the global market.
 - Vale S.A. is intensifying its strategic engagement with India as it seeks long-term growth opportunities beyond its traditional customer base.
@@ -19,46 +40,40 @@
 ## Spotlight of the Week: Market Pulse | Capesize Freight Market Overview
 
 
-![Signal Figure](../images/6920679bbbc99ee1728b2326_834567f9.png)
-*Signal Figure*
+![Spotlight of the Week: Market Pulse | Capesize Freight Market Overview](../images/6920679bbbc99ee1728b2326_834567f9.png)
 
-https://app.signalocean.com/dry/dynamic/market-prices-dry
+> **Figure 1: Spotlight of the Week: Market Pulse | Capesize Freight Market Overview**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b2326_834567f9.png)
 
-‍
+[https://app.signalocean.com/dry/dynamic/market-prices-dry](https://app.signalocean.com/dry/dynamic/market-prices-dry)
 
 Atlantic Capesize sentiment has strengthened despite high ballast supply, while the Pacific C5 route has softened as November shipments from West Australia decline. At the same time, Brazil’s iron-ore share in China faces its first serious competitive threat in years with the long-anticipated emergence of Simandou. These market shifts are occurring alongside important changes in China’s procurement strategy. The state-backed China Mineral Resources Group has expanded its ban on select BHP iron-ore products as contract negotiations stall, signaling that Beijing is asserting greater procurement leverage.
 
 
-## Capesize Ballasters Vs Baltic Rates
+## Capesize Ballasters vs Baltic Rates
 
 Over the past month, Atlantic Capesize sentiment has firmed as the ballaster supply picture has tightened. The decline in available ballasters, after the late-summer peak, has helped stabilize freight levels despite ongoing volatility. At the same time, Brazilian iron ore’s position in the Chinese market is facing growing competitive pressure from Simandou’s gradual ramp-up, adding a new layer of uncertainty to C3 flows and rate performance.
 
-‍
 
+![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../images/6920679bbbc99ee1728b232b_2d6d0b61.png)
 
-![https://app.signalocean.com/dry/dynamic/capes_insights_downloadable](../images/6920679bbbc99ee1728b232b_2d6d0b61.png)
-*https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*
-
-‍
-
-‍
+> **Figure 2: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
+> *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b232b_2d6d0b61.png)
 
 
 ## West Australia Capesize Daily Volume Loaded
 
 In the Pacific, C5 sentiment has softened as November’s West Australian daily volumes dipped below the 2.1–2.2 Mt demand range, putting renewed downward pressure on rates.
 
-‍
 
+![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../images/6920679bbbc99ee1728b2323_fdfe4020.png)
 
-![https://app.signalocean.com/dry/dynamic/capes_insights_downloadable](../images/6920679bbbc99ee1728b2323_fdfe4020.png)
-*https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*
-
-‍
+> **Figure 3: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
+> *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b2323_fdfe4020.png)
 
 The key question is no longer whether Simandou will matter, but how quickly new supply corridors will alter medium and long-term capesize freight demand and vessel utilisation.
-
-‍
 
 
 ## Simandou & Vale’s India Pivot
@@ -90,7 +105,7 @@ Australia’s Pilbara region maintains a clear advantage in export scale, unit c
 BHP’s South Flank continues to reinforce Pilbara’s structural edge: scale, reliability, and highly integrated mine-rail-port infrastructure. This remains the benchmark system against which all new entrants must compete. Even with pressure from Simandou, Australia’s cost-efficient export platform remains deeply entrenched.
 
 
-## Risks from the New Iron Ore Supply
+## Risks From the New Iron Ore Supply
 
 The Simandou high-grade iron-ore deposit requires the construction of a heavy-haul railway of roughly 600–650 km from the mine site to the Atlantic coast of Guinea, together with a newly built export port. The combination of long distance, challenging terrain, and substantial up-front infrastructure is expected to create significant operational constraints for the project. This logistics chain has not yet been tested at full export capacity. Major West African mining developments, including Simandou, have historically faced delays and cost increases, indicating that the risk of a slower-than-planned ramp-up remains substantial.
 
@@ -99,7 +114,7 @@ The Simandou high-grade iron-ore deposit requires the construction of a heavy-ha
 
 Simandou brings diversification, not displacement. Vale’s India push adds route expansion, not substitution. Together, they redraw trade lanes, boost tonne-miles and strengthen Capesize utilisation, all while the Pilbara stays at the core of global iron-ore flows.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroompage &subscribe to weekly reports. Clickhere to request a demo. Click here to see theprevious dry bulk weeklyreport.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & [subscribe to weekly reports](http://www.thesignalgroup.com/subscribe). Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Click here to see the[previous dry bulk weekly](https://www.thesignalgroup.com/newsroom/market-insights-oversupply-ahead-early-signs-signal-weaker-u-s-crude-oil-flows) report.
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

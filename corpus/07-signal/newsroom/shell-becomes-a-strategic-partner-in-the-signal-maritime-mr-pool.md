@@ -1,17 +1,34 @@
-# Shell becomes a strategic partner in the Signal Maritime MR pool
-
-**Date**: August 6, 2021 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/shell-becomes-a-strategic-partner-in-the-signal-maritime-mr-pool](https://www.thesignalgroup.com/newsroom/shell-becomes-a-strategic-partner-in-the-signal-maritime-mr-pool)
-
+---
+title: "Shell Becomes a Strategic Partner in the Signal Maritime Mr Pool"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/shell-becomes-a-strategic-partner-in-the-signal-maritime-mr-pool"
+source_file: "corpus/07-signal/html/shell-becomes-a-strategic-partner-in-the-signal-maritime-mr-pool.html"
+word_count: 228
+images_count: 0
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Shell Becomes a Strategic Partner in the Signal Maritime Mr Pool
 
-## Shell Tankers Joins Signal Maritime's MR Pool to Enhance Digital Integration
+*Published on 17 June 2025*
 
-Shell Tankers (Singapore) Private Limited will contribute 10 medium-range product tankers (MRs) to theSignal MaritimeMR pool in a partnership that reflects the increasing role that digital technology is playing in global shipping.
+## Shell Tankers Joins Signal Maritime's Mr Pool to Enhance Digital Integration
+
+Shell Tankers (Singapore) Private Limited will contribute 10 medium-range product tankers (MRs) to the [Signal Maritime](https://www.thesignalgroup.com/signal-maritime)MR pool in a partnership that reflects the increasing role that digital technology is playing in global shipping.
 
 In line with the shipping industry’s decarbonisation efforts, Shell and Signal have also agreed to collaborate on carbon emissions reduction initiatives.
 
-Shell’s partnership in the MR pool comes after Shell became an early adopter of theSignal Ocean platformin product tankers. The two partners expect digital technology to help improve commercial results through the MR pool structure and other potential synergies.
+Shell’s partnership in the MR pool comes after Shell became an early adopter of the [Signal Ocean platform](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform) in product tankers. The two partners expect digital technology to help improve commercial results through the MR pool structure and other potential synergies.
 
 Plans for further expansion of the pool with select partners are in progress, following the initial launch of the pool with vessels from Astra Shipmanagement and Signal. The pool aims to increase its fleet while sustaining high performance and quality of service with global presence.
 

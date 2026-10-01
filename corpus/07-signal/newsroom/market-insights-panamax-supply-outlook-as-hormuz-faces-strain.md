@@ -1,27 +1,49 @@
+---
+title: "Market Insights | Panamax Supply Outlook as Hormuz Faces Strain"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain"
+source_file: "corpus/07-signal/html/market-insights-panamax-supply-outlook-as-hormuz-faces-strain.html"
+word_count: 763
+images_count: 3
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
+---
+
 # Market Insights | Panamax Supply Outlook as Hormuz Faces Strain
 
-**Date**: April 17, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain)
-
----
+*Published on 17 June 2025*
 
 The ongoing uncertainty surrounding the Strait of Hormuz is impacting the Panamax dry bulk segment. According to recent media reports, a potential two-week extension to ceasefire discussions is under consideration, although this remains unconfirmed at the official level.
 
 In this context, Signal Ocean data show that the number of Panamax vessels in ballast condition within the Strait has remained stable at around 30 (as shown in the chart below), while laden vessel counts have declined sharply from late-February highs. This divergence points to emerging delays in loading or transit for vessels operating in the region amid ongoing disruptions.
 
 
-![Signal Figure](../images/69e1f70b3ef7c21f04f3dd18_71665df8.png)
-*Signal Figure*
+![Heading](../images/69e1f70b3ef7c21f04f3dd18_71665df8.png)
+
+> **Figure 1: Heading**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69e1f70b3ef7c21f04f3dd18_71665df8.png)
 
 
-## Scheduled Vessel Deliveries Highest since 2014
+## Scheduled Vessel Deliveries Highest Since 2014
 
 Panamax vessel deliveries are projected to reach a record high in 2026, with approximately 15 million dwt of new capacity entering the market, up from roughly 10–11 million dwt in the prior year. This expansion is expected to push the global dry bulk fleet near 220 million dwt, reinforcing a clear supply-side growth cycle.
 
 This increase in fleet capacity is taking place against a plateauing outlook for coal demand. According to projections in the IEA's Coal Mid-Year Update (July and December 2025), global coal demand was expected to reach a record ~8.85 billion tonnes in 2025, before edging slightly lower in 2026 and stabilising near ~8.7–8.8 billion tonnes.
 
 
-![Signal Figure](../images/69e1f70b3ef7c21f04f3dd1e_73622750.png)
-*Signal Figure*
+![Scheduled Vessel Deliveries Highest Since 2014](../images/69e1f70b3ef7c21f04f3dd1e_73622750.png)
+
+> **Figure 2: Scheduled Vessel Deliveries Highest Since 2014**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69e1f70b3ef7c21f04f3dd1e_73622750.png)
 
 
 ## Coal Demand Outlook: Policy Shifts and Market Pressures
@@ -59,11 +81,13 @@ Geopolitical tensions in the Middle East are likely to keep Asian buyers focused
 At the same time, newbuilding prices have recently moved in line with second-hand values, with a 5-year-old Panamax bulker valued at approximately USD 37 million. This shift may begin to support newbuilding orders relative to second-hand purchases, although ordering activity remains sensitive to geopolitical market conditions.
 
 
-![Signal Figure](../images/69e1f70b3ef7c21f04f3dd1b_fabdc4d6.png)
-*Signal Figure*
+![Will Vessel Orders Surge Continue…?](../images/69e1f70b3ef7c21f04f3dd1b_fabdc4d6.png)
+
+> **Figure 3: Will Vessel Orders Surge Continue…?**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69e1f70b3ef7c21f04f3dd1b_fabdc4d6.png)
 
 Against this backdrop, the key question remains whether the recent momentum in orders can be sustained, as the market continues to watch oil prices, potential supply disruptions, and ongoing uncertainty around bunkering in the Arabian Gulf.
 
-Maria Betzeletou, Senior Market Analyst - Signal Ocean
+**Maria Betzeletou, Senior Market Analyst - Signal Ocean**
 
-All data, estimates, and projections presented herein are based on information available as of [April 16, 2026]. While every effort has been made to ensure accuracy, the analysis is subject to revision as additional information becomes available.
+*All data, estimates, and projections presented herein are based on information available as of [April 16, 2026]. While every effort has been made to ensure accuracy, the analysis is subject to revision as additional information becomes available.*

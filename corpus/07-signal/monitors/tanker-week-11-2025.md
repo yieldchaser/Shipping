@@ -1,17 +1,39 @@
-# Weekly Tanker Market Monitor: Week 11, 2025
-
-**Date**: March 11, 2025 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2025](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2025)
-
+---
+title: "Weekly Tanker Market Monitor: Week 11, 2025"
+issue_date: "2025-03-13"
+year: 2025
+week: 11
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2025"
+source_file: "corpus/07-signal/html/tanker-week-11-2025.html"
+word_count: 421
+images_count: 1
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 11, 2025
 
-## This week's focus is on the evolution of VLCC net supply growth in the Arabian Gulf (AG), the performance of Baltic Rates, and a comparative analysis of Gross Supply versus Cargo Demand over the next 10, 20, and 30 days.
+*Published on 13 March 2025*
+
+## This Week's Focus Is on the Evolution of VLCC Net Supply Growth in the Arabian Gulf (AG), the Performance of Baltic Rates, and a Comparative Analysis of Gross Supply versus Cargo Demand Over the Next 10, 20, and 30 Days.
 
 
-![https://app.signalocean.com/tanker/dynamic/vlcc_insights_downloadable](../images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
-*https://app.signalocean.com/tanker/dynamic/vlcc_insights_downloadable*
+![Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable](../images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
 
-‍
+> **Figure 1: Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable**  
+> *https://app.signalocean.com/tanker/dynamic/vlcc_insights_downloadable*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
 
 
 ## VLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections
@@ -33,7 +55,7 @@ The second chart illustrates the projected trajectory of gross supply relative t
 
 Given China's dominance in crude oil imports, any shifts in refinery throughput, strategic stockpiling, or economic stimulus measures will directly influence the VLCC freight market. Current macroeconomic forecasts suggest a moderate recovery in Chinese crude demand in Q2 2025, which could lead to increased cargo movements and, consequently, firmer freight rates—particularly if vessel availability tightens.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

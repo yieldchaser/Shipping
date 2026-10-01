@@ -1,9 +1,26 @@
-# Asia Adjusts to Shifts in Heavy Crude Availability
-
-**Date**: January 30, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/asia-adjusts-to-shifts-in-heavy-crude-availability](https://www.thesignalgroup.com/newsroom/asia-adjusts-to-shifts-in-heavy-crude-availability)
-
+---
+title: "Asia Adjusts to Shifts in Heavy Crude Availability"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/asia-adjusts-to-shifts-in-heavy-crude-availability"
+source_file: "corpus/07-signal/html/asia-adjusts-to-shifts-in-heavy-crude-availability.html"
+word_count: 1506
+images_count: 0
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Asia Adjusts to Shifts in Heavy Crude Availability
+
+*Published on 17 June 2025*
 
 ## Asia Adjusts to Shifts in Heavy Crude Availability
 
@@ -23,20 +40,20 @@ As a result of renewed geopolitical tensions, including concerns around Iran and
 
 ## Brent Crude Prices Remain Below Prior Cycle Peaks
 
-(Brent dated, 2012–2026)
+*(Brent dated, 2012–2026)*
 
-The chart highlights episodic geopolitical volatility, with prices remaining well below prior cycle peaks.
+*The chart highlights episodic geopolitical volatility, with prices remaining well below prior cycle peaks.*
 
 
 ## Asia as the Focal Point of Adjustment
 
-Signal Ocean vessel-level tracking and trade-flow data indicate thatcrude volumesassociated with Iran remain primarily oriented toward Asia. Reported shipments to Singapore should be interpreted as part of regional transshipment, storage, or redistribution activity rather than as final end-user demand. Month-to-date volumes are lower than December levels, reflecting short-term variability and reporting opacity rather than a confirmed disruption. Observed movements continue to be dominated by VLCC liftings and medium-to-sour grades, consistent with prevailing Asian refinery configurations.
+Signal Ocean vessel-level tracking and trade-flow data indicate that [crude volumes](https://app.signalocean.com/tanker/dynamic/crude\_oil\_flows) associated with Iran remain primarily oriented toward Asia. Reported shipments to Singapore should be interpreted as part of regional transshipment, storage, or redistribution activity rather than as final end-user demand. Month-to-date volumes are lower than December levels, reflecting short-term variability and reporting opacity rather than a confirmed disruption. Observed movements continue to be dominated by VLCC liftings and medium-to-sour grades, consistent with prevailing Asian refinery configurations.
 
 **Metrics Description:**Trade-flow and vessel-level data based on reported loadings and movements over a six-month lookback period. Destinations reflect reported discharge locations and may include transshipment or storage hubs. Cargo classification by crude grade and vessel class reflects observed movements; month-to-date figures may be affected by reporting lags, discharge timing, and cargo aggregation practices.
 
-Signal Ocean'sfloating storagedata shows higher volumes of crude being delayed and repositioned rather than removed from circulation. Storage activity has been concentrated around Asian and Middle Eastern hubs, dominated by medium-to-sour grades and VLCCs, consistent with the rerouting of long-haul flows rather than a curtailment of liftings. There is no corresponding evidence of congestion-driven disruption in freight markets, reinforcing the view that current market adjustments are absorbing geopolitical risk within an oversupplied system, rather than reflecting conditions of physical scarcity.
+Signal Ocean's [floating storage](https://app.signalocean.com/tanker/dynamic/floating\_storage) data shows higher volumes of crude being delayed and repositioned rather than removed from circulation. Storage activity has been concentrated around Asian and Middle Eastern hubs, dominated by medium-to-sour grades and VLCCs, consistent with the rerouting of long-haul flows rather than a curtailment of liftings. There is no corresponding evidence of congestion-driven disruption in freight markets, reinforcing the view that current market adjustments are absorbing geopolitical risk within an oversupplied system, rather than reflecting conditions of physical scarcity.
 
-Metrics Description: Floating storage is measured as crude oil volumes held on vessels for a minimum duration threshold daily. Data includes all crude grades and vessel classes across major floating-storage regions. Final data points may be affected by reporting lags and discharge timing.
+**Metrics Description**: Floating storage is measured as crude oil volumes held on vessels for a minimum duration threshold daily. Data includes all crude grades and vessel classes across major floating-storage regions. Final data points may be affected by reporting lags and discharge timing.
 
 
 ## Iran vs. Venezuela - Different Channels of Market Impact
@@ -74,17 +91,17 @@ These adjustments are being absorbed within a globally well-supplied market, lea
 
 ## Track Heavy Crude Flows with Signal Ocean
 
-Signal Ocean provides real-time vessel tracking, trade-flow analytics, and crude grade intelligence for refiners and traders navigating shifting supply patterns.Request a Demo – Signal Oceanto see how the platform monitors Iranian and Venezuelan crude movements, floating storage, and tonne-mile exposure across Asian routes.
+Signal Ocean provides real-time vessel tracking, trade-flow analytics, and crude grade intelligence for refiners and traders navigating shifting supply patterns. [Request a Demo – Signal Ocean](https://www.thesignalgroup.com/contact) to see how the platform monitors Iranian and Venezuelan crude movements, floating storage, and tonne-mile exposure across Asian routes.
 
 
 ## Frequently Asked Questions
 
-Why are Asian refiners reassessing their heavy crude sourcing strategies?Reduced availability of Venezuelan heavy crude to Asian buyers has narrowed substitution options. Refiners configured for heavy, sour grades face a shorter list of comparable alternatives, increasing near-term reliance on Iranian-linked barrels and select Middle Eastern grades.
+**Why are Asian refiners reassessing their heavy crude sourcing strategies?** Reduced availability of Venezuelan heavy crude to Asian buyers has narrowed substitution options. Refiners configured for heavy, sour grades face a shorter list of comparable alternatives, increasing near-term reliance on Iranian-linked barrels and select Middle Eastern grades.
 
-How is Signal Ocean tracking these crude flow shifts?Signal Ocean monitors vessel-level movements, cargo classifications, and discharge destinations in real time. The platform's crude flow and floating storage tools provide daily visibility into how Iranian and Venezuelan barrels are moving across global routes — including transshipment activity through Singapore and storage buildups in Asian and Middle Eastern hubs.
+**How is Signal Ocean tracking these crude flow shifts?** Signal Ocean monitors vessel-level movements, cargo classifications, and discharge destinations in real time. The platform's crude flow and floating storage tools provide daily visibility into how Iranian and Venezuelan barrels are moving across global routes — including transshipment activity through Singapore and storage buildups in Asian and Middle Eastern hubs.
 
-Is there a risk of a supply shock from reduced Iranian or Venezuelan crude flows?Current data does not point to a near-term supply shock. Both Iranian export flows and global inventory buffers remain sufficient to absorb the current level of geopolitical uncertainty. The primary risk is not volume loss but tonne-mile dislocation — longer voyages and route concentration that show up in freight markets before physical shortages.
+**Is there a risk of a supply shock from reduced Iranian or Venezuelan crude flows?** Current data does not point to a near-term supply shock. Both Iranian export flows and global inventory buffers remain sufficient to absorb the current level of geopolitical uncertainty. The primary risk is not volume loss but tonne-mile dislocation — longer voyages and route concentration that show up in freight markets before physical shortages.
 
-What is the difference between Iran's and Venezuela's impact on oil markets?Venezuela's influence is destination-specific: reduced flows to Asia have tightened regional balances directly. Iran's influence is more structural — its barrels are filling the substitution gap left by Venezuelan volumes, making Iranian supply a reference point for how tightly Asian markets are balanced rather than a source of new disruption.
+**What is the difference between Iran's and Venezuela's impact on oil markets?** Venezuela's influence is destination-specific: reduced flows to Asia have tightened regional balances directly. Iran's influence is more structural — its barrels are filling the substitution gap left by Venezuelan volumes, making Iranian supply a reference point for how tightly Asian markets are balanced rather than a source of new disruption.
 
-How does floating storage data signal market stress?Rising floating storage indicates barrels are being held rather than delivered — a sign of rerouting, pricing uncertainty, or destination flexibility rather than physical scarcity. Signal Ocean's floating storage metrics track crude volumes held on vessels above a minimum duration threshold daily, segmented by grade, vessel class, and region.
+**How does floating storage data signal market stress?** Rising floating storage indicates barrels are being held rather than delivered — a sign of rerouting, pricing uncertainty, or destination flexibility rather than physical scarcity. Signal Ocean's floating storage metrics track crude volumes held on vessels above a minimum duration threshold daily, segmented by grade, vessel class, and region.

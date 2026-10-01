@@ -1,13 +1,30 @@
-# Signal Ventures backed OilX acquired by Energy Aspects
-
-**Date**: February 1, 2023 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signal-ventures-backed-oilx-acquired-by-energy-aspects](https://www.thesignalgroup.com/newsroom/signal-ventures-backed-oilx-acquired-by-energy-aspects)
-
+---
+title: "Signal Ventures Backed Oilx Acquired by Energy Aspects"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signal-ventures-backed-oilx-acquired-by-energy-aspects"
+source_file: "corpus/07-signal/html/signal-ventures-backed-oilx-acquired-by-energy-aspects.html"
+word_count: 427
+images_count: 0
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal Ventures Backed Oilx Acquired by Energy Aspects
 
-## OilX is the first startup incubated through Signal Ventures
+*Published on 17 June 2025*
 
-Today marks an important milestone for AI-driven analytics startup,OilX, and its incubator,Signal Ventures. OilX is acquired byEnergy Aspects, a leading energy consultancy providing research, analysis and data of all the key energy commodities.
+## Oilx Is the First Startup Incubated Through Signal Ventures
+
+Today marks an important milestone for AI-driven analytics startup, [OilX](https://www.oilx.co/), and its incubator, [Signal Ventures](https://www.thesignalgroup.com/signal-ventures). OilX is acquired by [Energy Aspects](https://www.energyaspects.com/energy-markets/oil-market-analysis/oilx-nowcasting), a leading energy consultancy providing research, analysis and data of all the key energy commodities.
 
 OilX is the first startup accelerated through Signal’s venture studio, which provides founders and early stage teams with hands-on support in the form of investment, shared services like legal, finance, HR, as well as critical acceleration through the use of Signal’s technology and data.
 

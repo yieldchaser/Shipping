@@ -1,14 +1,35 @@
-# Weekly Tanker Market Monitor: Week 22, 2025
-
-**Date**: May 29, 2025 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025)
-
+---
+title: "Weekly Tanker Market Monitor: Week 22, 2025"
+issue_date: "2025-05-29"
+year: 2025
+week: 22
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025"
+source_file: "corpus/07-signal/html/tanker-week-22-2025.html"
+word_count: 451
+images_count: 2
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 22, 2025
 
-![Signal Figure](../images/68515249306dc5c9ce9b508f_AD_4nXc1k1qp6MNoGJJCLIWn_aDf8d76duIJbAmZm8R1tEfB4hzwLvaqz0Mh_9fbZ_ucEfFuM5Lu2X7viTsgb3LPP-XDt1OA1y3zVRa-bMCdvaU5oCEPEZhFhCeffVbzabUt2-OmaDXhCw.png)
-*Signal Figure*
+*Published on 29 May 2025*
 
-‍
+![Heading](../images/68515249306dc5c9ce9b508f_AD_4nXc1k1qp6MNoGJJCLIWn_aDf8d76duIJbAmZm8R1tEfB4hzwLvaqz0Mh_9fbZ_ucEfFuM5Lu2X7viTsgb3LPP-XDt1OA1y3zVRa-bMCdvaU5oCEPEZhFhCeffVbzabUt2-OmaDXhCw.png)
+
+> **Figure 1: Heading**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68515249306dc5c9ce9b508f_AD_4nXc1k1qp6MNoGJJCLIWn_aDf8d76duIJbAmZm8R1tEfB4hzwLvaqz0Mh_9fbZ_ucEfFuM5Lu2X7viTsgb3LPP-XDt1OA1y3zVRa-bMCdvaU5oCEPEZhFhCeffVbzabUt2-OmaDXhCw.png)
 
 Europe witnessed a 10% increase in crude oil imports in May 2025, likely due to refineries completing maintenance ahead of schedule, boosting crude demand. This period also saw a notable change in import origins, with a decrease in volumes from the United States.
 
@@ -26,11 +47,13 @@ Looking forward, the price difference between WTI and Nigeria's Bonny Light crud
 A key factor tightening crude tanker availability in 2025 is the latest wave of EU and UK sanctions targeting the so-called “extra-sanctioned” fleet. As illustrated in the accompanying chart, the number of sanctioned tankers has risen consistently this year, with a sharp acceleration since mid-2025, driving a 248% year-on-year increase.
 
 
-![Signal Figure](../images/68515249306dc5c9ce9b5082_AD_4nXfZBxKhpDuuiS9I3fnNT492ap5GLVe9_b1hcirGQXAjQvnTfTKR4RFq1JVdN9uSy9et0oYhm5coAT2Nw-QKee_DLOCPfw29hFvXAJ4KdpjQqRrfWtedDM93ApF-LyKjgCyjwVqbOg.png)
-*Signal Figure*
+![Special Focus: Tanker Sanctions](../images/68515249306dc5c9ce9b5082_AD_4nXfZBxKhpDuuiS9I3fnNT492ap5GLVe9_b1hcirGQXAjQvnTfTKR4RFq1JVdN9uSy9et0oYhm5coAT2Nw-QKee_DLOCPfw29hFvXAJ4KdpjQqRrfWtedDM93ApF-LyKjgCyjwVqbOg.png)
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo. Readlast week's tanker monitor here.
+> **Figure 2: Special Focus: Tanker Sanctions**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68515249306dc5c9ce9b5082_AD_4nXfZBxKhpDuuiS9I3fnNT492ap5GLVe9_b1hcirGQXAjQvnTfTKR4RFq1JVdN9uSy9et0oYhm5coAT2Nw-QKee_DLOCPfw29hFvXAJ4KdpjQqRrfWtedDM93ApF-LyKjgCyjwVqbOg.png)
 
-For subscription to our FREE weekly market trends email,please click here, or contact us at: research@thesignalgroup.com
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Read [last week's tanker monitor here.](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2025)
+
+For subscription to our FREE weekly market trends email, [please click here](https://www.thesignalgroup.com/subscribe), or contact us at: research@thesignalgroup.com
 
 - Republishing is allowed with an active link to the source

@@ -1,15 +1,38 @@
-# Weekly Tanker Market Monitor: Week 28, 2024
-
-**Date**: July 11, 2024 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2024](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2024)
-
+---
+title: "Weekly Tanker Market Monitor: Week 28, 2024"
+issue_date: "2024-07-11"
+year: 2024
+week: 28
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2024"
+source_file: "corpus/07-signal/html/weekly-tanker-market-monitor-week-28-2024.html"
+word_count: 420
+images_count: 1
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 28, 2024
 
-## This week's data underscores a noticeable decline in the growth of tonne days across both the dirty and clean tanker segments. Particularly noteworthy is the VLCC tonne days' growth rate for July, which is currently maintaining a weaker weekly pace compared to a year ago. Meanwhile, the clean tanker segment has reached one of its lowest points not only for this year but also for the past two years.  Today’s demand outlook is challenging the performance of the VLCC freight market. In the previous week, Ras Tanura recorded anincrease in the number of vessels, coinciding with a weakening momentum in freight rates.
+*Published on 11 July 2024*
+
+## This Week's Data Underscores a Noticeable Decline in the Growth of Tonne Days Across Both the Dirty and Clean Tanker Segments. Particularly Noteworthy Is the VLCC Tonne Days' Growth Rate for July, Which Is Currently Maintaining a Weaker Weekly Pace Compared to a Year Ago. Meanwhile, the Clean Tanker Segment Has Reached One of Its Lowest Points Not Only for This Year But Also for the Past Two Years. Today’s Demand Outlook Is Challenging the Performance of the VLCC Freight Market. in the Previous Week, Ras Tanura Recorded Anincrease in the Number of Vessels, Coinciding with a Weakening Momentum in Freight Rates.
 
 
-![Signal Figure](../images/668ff24cea39bfb7fc672bc1_chart of the week tanker (1.png).avif)
-*Signal Figure*
+![668ff24cea39bfb7fc672bc1 Chart of the Week Tanker (1)](../images/668ff24cea39bfb7fc672bc1_chart of the week tanker (1).avif)
+
+> **Figure 1: 668ff24cea39bfb7fc672bc1 Chart of the Week Tanker (1)**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/668ff24cea39bfb7fc672bc1_chart of the week tanker (1).avif)
 
 The second week of July has seen a continued weakening in crude oil freight rates. However, there are indications of a potential positive turn in the coming days, as the elevated number of vessels in Ras Tanura for the VLCC MEG-China route has begun to gradually decline. The evolving supply dynamics in the near future will be critical to monitor, especially as demand indicators and the growth of tonne days paint a challenging summer outlook for the freight market.
 
@@ -17,7 +40,7 @@ Meanwhile, OPEC has recently released new insights into oil supply and demand dy
 
 In June, OPEC+ crude production, as reported by secondary sources, declined by 125,000 b/d to 40.8 million b/d. This figure remains 2.3 million b/d below OPEC's projected call on OPEC+ crude.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

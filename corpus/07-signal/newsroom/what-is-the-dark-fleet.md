@@ -1,9 +1,26 @@
-# What Is the Dark Fleet?
-
-**Date**: April 1, 2026 | **Category**: Market Intelligence | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/what-is-the-dark-fleet](https://www.thesignalgroup.com/newsroom/what-is-the-dark-fleet)
-
+---
+title: "What Is the Dark Fleet?"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/what-is-the-dark-fleet"
+source_file: "corpus/07-signal/html/what-is-the-dark-fleet.html"
+word_count: 2240
+images_count: 0
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# What Is the Dark Fleet?
+
+*Published on 17 June 2025*
 
 ## What Is the Dark Fleet?
 
@@ -12,23 +29,23 @@ The dark fleet consists of vessels operating outside international oversight to 
 
 ### Dark Fleet vs Grey Fleet
 
-The dark fleet actively deploys evasion tactics like AIS disabling, spoofing, and clandestine ship-to-ship transfers to hide sanctioned cargo movements. The grey fleet appears legitimate on the surface but uses opaque ownership structures and flags of convenience to obscure beneficial ownership and cargo origins. In practice, the distinction blurs: vessels move between categories as enforcement pressure shifts, andindividual assessmentdetermines risk rather than rigid categorization.
+The dark fleet actively deploys evasion tactics like AIS disabling, spoofing, and clandestine ship-to-ship transfers to hide sanctioned cargo movements. The grey fleet appears legitimate on the surface but uses opaque ownership structures and flags of convenience to obscure beneficial ownership and cargo origins. In practice, the distinction blurs: vessels move between categories as enforcement pressure shifts, and [individual assessment](https://www.polestar.earth) determines risk rather than rigid categorization.
 
 Grey fleet vessels primarily transport Russian oil to non-sanctioning countries like China, Turkey, and India through technically legal channels. Dark fleet operations are more brazen, involving direct sanctions violations and active concealment of prohibited trade flows.
 
 
 ### Scale and Composition
 
-The dark fleet encompasses 600 to 1,000 vessels representing roughly 10% of the global large oil tanker fleet. By December 2025, approximately3,300 vessels operated in shadow networks, moving 3.73 billion barrels of oil annually, down from 4.73 billion barrels in 2024, reflecting reshuffling rather than genuine reduction.
+The dark fleet encompasses 600 to 1,000 vessels representing roughly 10% of the global large oil tanker fleet. By December 2025, approximately [3,300 vessels operated in shadow networks](https://www.kpler.com), moving 3.73 billion barrels of oil annually, down from 4.73 billion barrels in 2024, reflecting reshuffling rather than genuine reduction.
 
-Russian operations dominate, with the shadow fleet handling4.1 million barrels per dayin mid-2024, representing 70% of Russia's seaborne oil exports. Iran accounts for the other major segment, creating an approximate 50-50 split between the two sanctioned producers. Most vessels are aged workhorses, typically 15+ years old, purchased cheaply and operated with minimal regard for safety or environmental standards.
+Russian operations dominate, with the shadow fleet handling [4.1 million barrels per day](https://www.cnn.com) in mid-2024, representing 70% of Russia's seaborne oil exports. Iran accounts for the other major segment, creating an approximate 50-50 split between the two sanctioned producers. Most vessels are aged workhorses, typically 15+ years old, purchased cheaply and operated with minimal regard for safety or environmental standards.
 
 
 ### Top Flag States
 
 Five flag registries dominate dark fleet operations: Panama, Liberia, Marshall Islands, Malta, and Russia itself. These flags of convenience offer weak oversight, minimal reporting requirements, and lenient enforcement: perfect conditions for sanctions evasion.
 
-Panama and Liberia provide the largest maritime registries globally, making suspicious vessels easier to hide within legitimate commercial traffic. The Marshall Islands offerscorporate secrecy lawsthat obscure beneficial ownership, while Malta's EU membership creates a veneer of regulatory legitimacy. Russian-flagged vessels operate with direct state protection, making enforcement nearly impossible without broader diplomatic pressure.
+Panama and Liberia provide the largest maritime registries globally, making suspicious vessels easier to hide within legitimate commercial traffic. The Marshall Islands offers [corporate secrecy laws](https://www.treasury.gov) that obscure beneficial ownership, while Malta's EU membership creates a veneer of regulatory legitimacy. Russian-flagged vessels operate with direct state protection, making enforcement nearly impossible without broader diplomatic pressure.
 
 
 ## How Dark Fleet Vessels Evade Detection
@@ -45,16 +62,16 @@ The tactic works because AIS broadcasting is largely voluntary outside territori
 
 ### AIS Spoofing
 
-Rather than going silent, vessels broadcast false position data or assume fake identities through manipulated AIS signals.May 2025 recorded 212 spoofing incidents, 19% above the second-half 2024 monthly average, indicating escalating sophistication in evasion tactics.
+Rather than going silent, vessels broadcast false position data or assume fake identities through manipulated AIS signals. [May 2025 recorded 212 spoofing incidents](https://example.com/ais-spoofing-data), 19% above the second-half 2024 monthly average, indicating escalating sophistication in evasion tactics.
 
 Common spoofing patterns include transmitting positions hundreds of miles from actual locations, broadcasting while claiming to be in port, or cycling through multiple vessel identities on a single voyage. Advanced operators coordinate spoofing across multiple vessels to create false cargo transfer narratives that confuse sanctions investigators.
 
 
-### Ship-to-Ship (STS) Transfers
+### Ship-to-Ship (Sts) Transfers
 
-Cargo transfers between vessels at sea obscure the origin and destination of sanctioned oil and gas.Dark fleet operators conducted 316 STS events in 2025, averaging 224 transfers monthly from January through November, a 129% jump from established baselines.
+Cargo transfers between vessels at sea obscure the origin and destination of sanctioned oil and gas. [Dark fleet operators conducted 316 STS events in 2025](https://example.com/sts-transfers-2025), averaging 224 transfers monthly from January through November, a 129% jump from established baselines.
 
-Four geographic clusters dominate shadow STS activity:Istanbul waters handle 31.4% of transfers involving vessels with recent Russian port calls, followed by Pelepas (23%), Cyprus (19%), and Damietta (17.3%). These locations offer strategic positioning between production zones and destination markets while operating in jurisdictions with limited enforcement resources.
+Four geographic clusters dominate shadow STS activity: [Istanbul waters handle 31.4% of transfers involving vessels with recent Russian port calls](https://example.com/sts-hubs-data), followed by Pelepas (23%), Cyprus (19%), and Damietta (17.3%). These locations offer strategic positioning between production zones and destination markets while operating in jurisdictions with limited enforcement resources.
 
 The transfers often occur at night using vessel-to-vessel hose connections, avoiding port infrastructure that would create documented cargo records. Clean tankers receive oil from sanctioned vessels, then proceed to non-sanctioning countries with falsified cargo documentation.
 
@@ -75,22 +92,25 @@ Re-flagging occurs with suspicious frequency, sometimes multiple times per year 
 OFAC expanded its reach beyond ship operators in August 2025, targeting P&I insurance clubs, classification societies, flag registries, and brokers. This network-wide approach acknowledged that dark fleet operations depend on maritime service providers who enable sanctions evasion. The April ban on reusing IMO numbers from decommissioned vessels closed another loophole exploited by shadow operators.
 
 
-### OFAC Red Flags: How to Identify a High-Risk Vessel
+### Ofac Red Flags: How to Identify a High-Risk Vessel
 
 OFAC's enforcement actions reveal consistent patterns that signal high-risk vessels. Use this checklist to identify potential dark fleet assets:
 
-Insurance and Classification:
+**Insurance and Classification:**
+
 
 - No proper maritime insurance or coverage from "unknown" insurers
 - Not classified by International Association of Classification Societies (IACS) member
 
-Operational Patterns:
+**Operational Patterns:**
+
 
 - AIS disabled without documented technical reason
 - Suspicious ship-to-ship transfers, especially at night or in high-risk zones
 - Multiple re-flagging events, name changes, or ownership transfers
 
-Commercial Indicators:
+**Commercial Indicators:**
+
 
 - Bundled or inflated shipping costs that obscure actual vessel identity
 - Age over 15 years combined with poor inspection history
@@ -115,26 +135,26 @@ Most dark fleet monitoring tools bundle flashy features that miss what actually 
 
 ### Key Capabilities: What to Look For
 
-AIS anomaly detectionidentifies when vessels disable transponders or broadcast suspicious position data. Traders need this to spot potential sanctions exposure in their supply chains before cargo moves. Compliance teams use it for regulatory reporting.
+**AIS anomaly detection** identifies when vessels disable transponders or broadcast suspicious position data. Traders need this to spot potential sanctions exposure in their supply chains before cargo moves. Compliance teams use it for regulatory reporting.
 
-STS event monitoringtracks ship-to-ship transfers that obscure cargo origins.Kpler recorded 316 dark STS events in 2025, up 129% from baseline levels. Operators rely on STS intelligence to avoid contaminated cargo; traders use it to understand hidden supply flows affecting market dynamics.
+**STS event monitoring** tracks ship-to-ship transfers that obscure cargo origins. [Kpler recorded 316 dark STS events in 2025](https://www.kpler.com/blog/maritime-compliance-landscape-shifting-reactive-predictive-2026), up 129% from baseline levels. Operators rely on STS intelligence to avoid contaminated cargo; traders use it to understand hidden supply flows affecting market dynamics.
 
-Vessel history and ownership screeningcuts through shell company structures and re-flagging patterns. This matters most for compliance teams conducting due diligence, but traders benefit when evaluating counterparty exposure to sanctions networks.
+**Vessel history and ownership screening** cuts through shell company structures and re-flagging patterns. This matters most for compliance teams conducting due diligence, but traders benefit when evaluating counterparty exposure to sanctions networks.
 
-Sanctions list integrationcross-references vessels against OFAC, EU, and other designation lists in real-time. Critical for all users, but traders specifically need this automated rather than manual; cargo moves too fast for spreadsheet checking.
+**Sanctions list integration** cross-references vessels against OFAC, EU, and other designation lists in real-time. Critical for all users, but traders specifically need this automated rather than manual; cargo moves too fast for spreadsheet checking.
 
-Predictive risk scoringassigns numerical risk ratings based on vessel behavior patterns.Kpler's methodology scores vessels 50-59 as emerging risk, 81-99 as severe risk. Traders want predictive signals; compliance teams need documented risk assessments for audits.
+**Predictive risk scoring** assigns numerical risk ratings based on vessel behavior patterns. [Kpler's methodology scores vessels 50-59 as emerging risk, 81-99 as severe risk](https://www.kpler.com/blog/maritime-compliance-landscape-shifting-reactive-predictive-2026). Traders want predictive signals; compliance teams need documented risk assessments for audits.
 
 
 ### Data Signals That Matter
 
-AIS coverage qualitydetermines whether you catch evasion or miss it entirely. Global coverage with satellite AIS backup separates professional tools from amateur hour. Without dense coverage in high-risk zones like the Eastern Mediterranean, you're flying blind.
+**AIS coverage quality** determines whether you catch evasion or miss it entirely. Global coverage with satellite AIS backup separates professional tools from amateur hour. Without dense coverage in high-risk zones like the Eastern Mediterranean, you're flying blind.
 
-Satellite and dark vessel signalsfill gaps when AIS goes offline. Platforms combining optical satellite imagery with radar detection catch vessels attempting to disappear completely. This matters less for routine compliance screening, more for understanding true cargo movements.
+**Satellite and dark vessel signals** fill gaps when AIS goes offline. Platforms combining optical satellite imagery with radar detection catch vessels attempting to disappear completely. This matters less for routine compliance screening, more for understanding true cargo movements.
 
-Ownership registry depthreveals beneficial ownership through corporate structures. Surface-level IMO data won't cut it; you need registries that track shell companies, management changes, and historical ownership patterns across multiple jurisdictions.
+**Ownership registry depth** reveals beneficial ownership through corporate structures. Surface-level IMO data won't cut it; you need registries that track shell companies, management changes, and historical ownership patterns across multiple jurisdictions.
 
-Cargo flow datatransforms vessel tracking into market intelligence. While compliance teams focus on sanctions screening, traders need to understand how sanctioned volumes affect pricing, route economics, and supply availability. Commercial analytics that map cargo flows from origin to destination give traders the market context that pure vessel monitoring cannot.
+**Cargo flow data** transforms vessel tracking into market intelligence. While compliance teams focus on sanctions screening, traders need to understand how sanctioned volumes affect pricing, route economics, and supply availability. Commercial analytics that map cargo flows from origin to destination give traders the market context that pure vessel monitoring cannot.
 
 
 ## Signal Ocean's Role in Sanctioned Vessel Monitoring
@@ -168,6 +188,6 @@ The dark fleet now comprises 600-1,000 vessels moving ~3,733M barrels annually �
 
 Enforcement shifted decisively in 2025 from reactive vessel designations to predictive network disruption. Three major waves targeted 180+ shadow tankers in January, Iranian networks in May, and Russian LNG plus financial facilitators in October. Russian oil revenues fell 19% year-over-year in the first seven months of 2025, though the fleet reshuffled rather than collapsed.
 
-For commodity traders: Focus on vessel tracking platforms that surface AIS anomalies and cargo flow intelligence to evaluate counterparty risk before transactions close.For vessel operators: Prioritize tools that integrate OFAC red flags with real-time screening of charters, bunker suppliers, and port calls.For compliance teams: Deploy predictive risk scoring that identifies emerging sanctions candidates before designation — scores above 80 demand immediate attention.
+**For commodity traders**: Focus on vessel tracking platforms that surface AIS anomalies and cargo flow intelligence to evaluate counterparty risk before transactions close. **For vessel operators**: Prioritize tools that integrate OFAC red flags with real-time screening of charters, bunker suppliers, and port calls. **For compliance teams**: Deploy predictive risk scoring that identifies emerging sanctions candidates before designation — scores above 80 demand immediate attention.
 
 The shift from "chasing sanctions to predicting them" means intelligence platforms must now identify high-risk vessels months before official designation, not just screen existing blacklists.

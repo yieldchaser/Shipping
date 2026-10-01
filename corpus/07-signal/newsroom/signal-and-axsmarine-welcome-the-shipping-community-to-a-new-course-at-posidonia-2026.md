@@ -1,17 +1,36 @@
-# Signal and AXSMarine welcome the shipping community to "A New Course" at Posidonia 2026
-
-**Date**: June 4, 2026 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signal-and-axsmarine-welcome-the-shipping-community-to-a-new-course-at-posidonia-2026](https://www.thesignalgroup.com/newsroom/signal-and-axsmarine-welcome-the-shipping-community-to-a-new-course-at-posidonia-2026)
-
+---
+title: "Signal and Axsmarine Welcome the Shipping Community to "a New Course" at Posidonia 2026"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signal-and-axsmarine-welcome-the-shipping-community-to-a-new-course-at-posidonia-2026"
+source_file: "corpus/07-signal/html/signal-and-axsmarine-welcome-the-shipping-community-to-a-new-course-at-posidonia-2026.html"
+word_count: 456
+images_count: 1
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal and Axsmarine Welcome the Shipping Community to "a New Course" at Posidonia 2026
 
-## Signal and AXSMarine welcome the shipping community to "A New Course" at Posidonia 2026
+*Published on 17 June 2025*
+
+## Signal and Axsmarine Welcome the Shipping Community to "a New Course" at Posidonia 2026
 
 
-![Signal Figure](../images/6a21775562ddfd58423b8690_0a1eb9b3.jpeg)
-*Signal Figure*
+![6a21775562ddfd58423b8690 0a1eb9b3](../images/6a21775562ddfd58423b8690_0a1eb9b3.jpeg)
 
-Athens, 4 June 2026- Nearly a thousand guests - clients, partners and friends from across shipping - gathered in Athens as Signal and AXSMarine hosted "A New Course": an evening about how technology, and now AI, can turbocharge data and processes in the new era.
+> **Figure 1: 6a21775562ddfd58423b8690 0a1eb9b3**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-and-axsmarine-welcome-the-shipping-community-to-a-new-course-at-posidonia-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a21775562ddfd58423b8690_0a1eb9b3.jpeg)
+
+*Athens, 4 June 2026* - Nearly a thousand guests - clients, partners and friends from across shipping - gathered in Athens as Signal and AXSMarine hosted "A New Course": an evening about how technology, and now AI, can turbocharge data and processes in the new era.
 
 It was the first time the two companies had shared a stage since Signal's acquisition of AXSMarine earlier this year. The conversation covered where the industry is heading, what the past can teach us about handling change, and why Signal and AXS chose to join forces and what products they are working on. Mr. Martinos, the founder of Signal, emphasized the importance of Trust in the shipping space, the one thing that gets more valuable, not less, as the industry speeds up.
 
@@ -25,6 +44,4 @@ Signal & AXS launched their new AI assistant and the associated MCP server and s
 
 For an industry built on long relationships and carefully earned trust, the evening felt like a natural moment. Two companies, one direction, and a room full of people they have been serving for a long time.
 
-‍
-
-Media Contact:Ash Torvi|a.torvi@thesignalgroup.com
+**Media Contact:**  Ash Torvi| [a.torvi@thesignalgroup.com](mailto:a.torvi@thesignalgroup.com)

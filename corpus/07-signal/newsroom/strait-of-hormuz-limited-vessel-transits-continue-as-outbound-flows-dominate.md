@@ -1,9 +1,26 @@
-# Strait of Hormuz: Limited Vessel Transits Continue as Outbound Flows Dominate
-
-**Date**: March 30, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate)
-
+---
+title: "Strait of Hormuz: Limited Vessel Transits Continue as Outbound Flows Dominate"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate"
+source_file: "corpus/07-signal/html/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate.html"
+word_count: 903
+images_count: 2
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Strait of Hormuz: Limited Vessel Transits Continue as Outbound Flows Dominate
+
+*Published on 17 June 2025*
 
 ## Strait of Hormuz: Limited Vessel Transits Continue as Outbound Flows Dominate
 
@@ -14,26 +31,29 @@ Based on AIS-derived tracking over the past week, a combined total of 40 merchan
 At the same time, a much larger fleet remains positioned within the Arabian Gulf, with visibility increasingly affected by AIS disruption and irregular signal behaviour.
 
 
-## A growing fleet inside the Gulf with limited visibility
+## A Growing Fleet Inside the Gulf with Limited Visibility
 
 Current positioning data shows 319 bulk carriers and MPP vessels located west of Hormuz, of which 162 are assessed as laden and 157 as ballasting. The fleet includes 201 bulk carriers and 118 MPP units.
 
 
-![Signal Figure](../images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
-*Signal Figure*
+![A Growing Fleet Inside the Gulf with Limited Visibility](../images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
+
+> **Figure 1: A Growing Fleet Inside the Gulf with Limited Visibility**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
 
 Notably, 82 vessels are currently operating under AIS blackout conditions, limiting real-time visibility and complicating efforts to assess operational status and cargo activity across the region.
 
 This combination of high vessel concentration and reduced transparency underscores the continued uncertainty surrounding shipping activity within the Gulf.
 
 
-## Outbound flows continue to dominate
+## Outbound Flows Continue to Dominate
 
 Across both datasets, west-to-east movements clearly outweigh inbound crossings, confirming that vessels are continuing to exit the Gulf at a higher rate than new entries.
 
 In the earlier observation window, 15 vessels transited west-to-east, including a mix of dry bulk carriers, tankers and one LPG carrier. These included Panamax bulkers such as MDL KAMRAN, LH ANTHEA and MINOAN SKY, as well as tanker movements involving the VLCC NORA and multiple MR2 product tankers.
 
 The more recent dataset reinforces this pattern, with a further 11 dry bulk vessels exiting the Gulf, including:
+
 
 - ARVIN (72.6k dwt), carrying approximately 60,000 MT of iron ore
 - ARTMAN (53.5k dwt), transporting around 44,000 MT of gypsum
@@ -44,13 +64,14 @@ In addition, vessels such as LUCKY LONG and PERLITA completed their transits wit
 Overall, outbound movements include both laden vessels completing discharge cycles and ballast repositioning, indicating that operations continue, but under increasingly cautious conditions.
 
 
-## Inbound activity remains constrained
+## Inbound Activity Remains Constrained
 
 Inbound crossings into the Arabian Gulf remain significantly lower across both datasets.
 
 In the earlier observation period, 8 vessels transited east-to-west, including a mix of bulk carriers, tanker units, one LPG carrier and a single container vessel. Tanker activity in particular showed a strong presence of sanctioned or shadow fleet operators.
 
 More recent data shows only 4 additional inbound crossings, including:
+
 
 - NJ JUPITER (56.0k dwt), carrying approximately 51,000 MT of corn
 - GIACOMETTI (81.7k dwt), which has since discharged around 74,000 MT of grains at Bandar Imam Khomeini
@@ -59,11 +80,13 @@ More recent data shows only 4 additional inbound crossings, including:
 The limited number of laden inbound vessels suggests that fresh cargo inflows into the Gulf remain highly selective, with many operators continuing to delay or avoid entry altogether.
 
 
-![Signal Figure](../images/69ca91b6c4fac1ded94bf75d_b571771f.png)
-*Signal Figure*
+![Inbound Activity Remains Constrained](../images/69ca91b6c4fac1ded94bf75d_b571771f.png)
+
+> **Figure 2: Inbound Activity Remains Constrained**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ca91b6c4fac1ded94bf75d_b571771f.png)
 
 
-## AIS disruption and data opacity increase
+## AIS Disruption and Data Opacity Increase
 
 A recurring theme across both datasets is the growing impact of AIS disruption.
 
@@ -72,9 +95,10 @@ In addition to the 82 vessels currently under AIS blackout conditions within the
 This trend reflects a broader shift toward reduced transparency in vessel movements, particularly in higher-risk operating environments.
 
 
-## Segment dynamics highlight uneven risk appetite
+## Segment Dynamics Highlight Uneven Risk Appetite
 
 The data also shows clear differences in activity across vessel segments:
+
 
 - Dry bulk carriers account for the majority of transits, particularly in outbound movements, likely reflecting the completion of existing fixture commitments rather than fresh cargo appetite
 - Tanker activity continues, but with a notable presence of sanctioned or higher-risk operators, suggesting that mainstream tanker operators are largely standing aside
@@ -89,4 +113,6 @@ While vessel traffic through the Strait of Hormuz has not ceased entirely, it re
 
 Outbound flows continue to dominate, supported by both cargo movements and ballast repositioning, while inbound activity remains materially constrained. At the same time, a large number of vessels remain inside the Gulf, with a growing share operating under limited AIS visibility.
 
-Taken together, the data points to a market where transits are still possible, but conditions remain materially disrupted and far from pre-crisis levels. Looking ahead, a sustained uptick in laden inbound crossings would be the clearest signal that risk appetite is recovering. Until then, operational decisions are likely to remain shaped by risk exposure and uncertainty rather than commercial opportunity.Learn more aboutAXS Data & APIs.
+Taken together, the data points to a market where transits are still possible, but conditions remain materially disrupted and far from pre-crisis levels. Looking ahead, a sustained uptick in laden inbound crossings would be the clearest signal that risk appetite is recovering. Until then, operational decisions are likely to remain shaped by risk exposure and uncertainty rather than commercial opportunity.
+
+Learn more about [AXS Data & APIs.](https://public.axsmarine.com/data-and-apis)

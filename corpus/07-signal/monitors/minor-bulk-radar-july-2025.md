@@ -1,44 +1,69 @@
-# Monthly Minor Bulk Radar - July 2025
-
-**Date**: July 16, 2025 | **Category**: Minor Bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025)
-
+---
+title: "Monthly Minor Bulk Radar - July 2025"
+issue_date: "2025-07-16"
+year: 2025
+week: 29
+category: "Commodity Radar"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025"
+source_file: "corpus/07-signal/html/minor-bulk-radar-july-2025.html"
+word_count: 2424
+images_count: 14
+tables_count: 0
+tags:
+  - Commodity Radar
+  - Monitors
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Monthly Minor Bulk Radar - July 2025
 
-## Minor dry bulks performed in line with historical trends in June 2025, although the m/m fall was slightly ahead of recent years.
+*Published on 16 July 2025*
+
+## Minor Dry Bulks Performed in Line with Historical Trends in June 2025, Although the M/m Fall Was Slightly Ahead of Recent Years.
 
 On a y/y basis, June exports performed well, up 5% from June 2024. In fact, the first two quarters of 2025 have seen positive growth in terms of export tonnage, leading to greater shipping demand as evidenced by the strong tonne-mile performance of the minor bulk market so far in 2025.
 
 
-![Source:Total minor bulk* export performance from Signal Ocean.*Minor bulk is all dry bulk that isn’t categorised as iron ore, coal, or grains and includes the likes of bauxite, cement, steel etc](../images/68777bafa5c19f0f25f10995_AD_4nXdBbgnkqZLxwDNiPQlvfubtkRqrawMAppRlkaMCNJQ0njdhF7AAJFk7kYyxbKlUF-OE5HBXals56O-xCuf_ra-Syui-26vmpB7tx-PqDsri-WWMGR1aAJZcv9z31VYfPuIVV8vy.png)
-*Source:Total minor bulk* export performance from Signal Ocean.*Minor bulk is all dry bulk that isn’t categorised as iron ore, coal, or grains and includes the likes of bauxite, cement, steel etc*
+![Source: Total Minor Bulk Export Performance From Signal Ocean.minor Bulk Is All Dry Bulk That Isn’t Categorised as Iron Ore, Coal, or Grains and Includes the Likes of Bauxite, Cement, Steel Etc](../images/68777bafa5c19f0f25f10995_AD_4nXdBbgnkqZLxwDNiPQlvfubtkRqrawMAppRlkaMCNJQ0njdhF7AAJFk7kYyxbKlUF-OE5HBXals56O-xCuf_ra-Syui-26vmpB7tx-PqDsri-WWMGR1aAJZcv9z31VYfPuIVV8vy.png)
+
+> **Figure 1: Source: Total Minor Bulk Export Performance From Signal Ocean.minor Bulk Is All Dry Bulk That Isn’t Categorised as Iron Ore, Coal, or Grains and Includes the Likes of Bauxite, Cement, Steel Etc**  
+> *Source: Total minor bulk* export performance from Signal Ocean.*Minor bulk is all dry bulk that isn’t categorised as iron ore, coal, or grains and includes the likes of bauxite, cement, steel etc*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f10995_AD_4nXdBbgnkqZLxwDNiPQlvfubtkRqrawMAppRlkaMCNJQ0njdhF7AAJFk7kYyxbKlUF-OE5HBXals56O-xCuf_ra-Syui-26vmpB7tx-PqDsri-WWMGR1aAJZcv9z31VYfPuIVV8vy.png)
 
 
-## Recent Insights & weekly reports
+## Recent Insights & Weekly Reports
 
-Philippine nickel ore ban reversed, what are the impacts?
+[Philippine nickel ore ban reversed, what are the impacts?](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts)
 
-How will the wet season affect capesize demand from West Africa?
+[How will the wet season affect capesize demand from West Africa?](https://www.thesignalgroup.com/newsroom/how-will-the-wet-season-affect-capesize-demand-from-west-africa)
 
-Geopolitical Spillover: Assessing the Impact of Iran-Israel Tensions on the Dry Bulk Shipping Industry
+[Geopolitical Spillover: Assessing the Impact of Iran-Israel Tensions on the Dry Bulk Shipping Industry](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry)
 
-Weekly Dry Market Monitor: Week 28, 2025
+[Weekly Dry Market Monitor: Week 28, 2025](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2025)
 
 
 ## Contents
 
-- Economics EnvironmentManufacturing PMIsExchange RatesBaltic Indexes
+
+- Economics Environment 
+Manufacturing PMIsExchange RatesBaltic Indexes
 - Manufacturing PMIs
 - Exchange Rates
 - Baltic Indexes
-- Minor BulkBauxiteNickel OreSugar
+- Minor Bulk 
+BauxiteNickel OreSugar
 - Bauxite
 - Nickel Ore
 - Sugar
 
+
 - Manufacturing PMIs
 - Exchange Rates
 - Baltic Indexes
+
 
 - Bauxite
 - Nickel Ore
@@ -47,35 +72,45 @@ Weekly Dry Market Monitor: Week 28, 2025
 
 ## Economic Environment
 
-Manufacturing PMI’s
+**Manufacturing PMI’s**
 
 
-![Source:National Bureau of Statistics of China, Institute for Supply Management,  HCOB, HBSC India Manufacturing PMI](../images/68777bafa5c19f0f25f109a4_AD_4nXdeGTd7qtUQ6jCubE5qwZ2MDj0umIt3DPaCM_o6phSi4X302YZa3NubwgMQh3aZCJtcm-bXvj6EjOHBtooTni61AOGDH_vE76inLglboqetcvY5cff7_bRSX7yF1WBl4OrMyJK9dg.png)
-*Source:National Bureau of Statistics of China, Institute for Supply Management,  HCOB, HBSC India Manufacturing PMI*
+![Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi](../images/68777bafa5c19f0f25f109a4_AD_4nXdeGTd7qtUQ6jCubE5qwZ2MDj0umIt3DPaCM_o6phSi4X302YZa3NubwgMQh3aZCJtcm-bXvj6EjOHBtooTni61AOGDH_vE76inLglboqetcvY5cff7_bRSX7yF1WBl4OrMyJK9dg.png)
+
+> **Figure 2: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
+> *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109a4_AD_4nXdeGTd7qtUQ6jCubE5qwZ2MDj0umIt3DPaCM_o6phSi4X302YZa3NubwgMQh3aZCJtcm-bXvj6EjOHBtooTni61AOGDH_vE76inLglboqetcvY5cff7_bRSX7yF1WBl4OrMyJK9dg.png)
 
 
-### Exchange RatesUSD vs:
+### Exchange Ratesusd Vs:
 
 
-![Signal Figure](../images/68777a8fd3a19dc27d6d73ef_Screenshot 2025-07-16 at 11.09.04.png)
-*Signal Figure*
+![Exchange Ratesusd Vs:](../images/68777a8fd3a19dc27d6d73ef_Screenshot 2025-07-16 at 11.09.04.png)
+
+> **Figure 3: Exchange Ratesusd Vs:**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777a8fd3a19dc27d6d73ef_Screenshot 2025-07-16 at 11.09.04.png)
 
 
-### RMB vs:
+### Rmb Vs:
 
 
-![Signal Figure](../images/68777aa63e77d929a1aa0a77_Screenshot 2025-07-16 at 11.09.13.png)
-*Signal Figure*
+![Rmb Vs:](../images/68777aa63e77d929a1aa0a77_Screenshot 2025-07-16 at 11.09.13.png)
+
+> **Figure 4: Rmb Vs:**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777aa63e77d929a1aa0a77_Screenshot 2025-07-16 at 11.09.13.png)
 
 
-## ‍Baltic Indexes
+## Baltic Indexes
 
 
-![Source:The Baltic Exchange](../images/68777bafa5c19f0f25f109ba_AD_4nXdTn2O_ma26h9W-wS9gcSOChE_kopeo7ic-rHTHrUuf4yNxZgvGFvKrmzI-15aDeADToWh5Ro4ofkuV4zFZDgWVdklLmdT9x4XNHLSJuw6xwFUEU6nunUwqLvmpApLG79NGph5Wqw.png)
-*Source:The Baltic Exchange*
+![Source: The Baltic Exchange](../images/68777bafa5c19f0f25f109ba_AD_4nXdTn2O_ma26h9W-wS9gcSOChE_kopeo7ic-rHTHrUuf4yNxZgvGFvKrmzI-15aDeADToWh5Ro4ofkuV4zFZDgWVdklLmdT9x4XNHLSJuw6xwFUEU6nunUwqLvmpApLG79NGph5Wqw.png)
+
+> **Figure 5: Source: The Baltic Exchange**  
+> *Source: The Baltic Exchange*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109ba_AD_4nXdTn2O_ma26h9W-wS9gcSOChE_kopeo7ic-rHTHrUuf4yNxZgvGFvKrmzI-15aDeADToWh5Ro4ofkuV4zFZDgWVdklLmdT9x4XNHLSJuw6xwFUEU6nunUwqLvmpApLG79NGph5Wqw.png)
 
 
-## Minor bulk
+## Minor Bulk
 
 
 ## Bauxite
@@ -89,16 +124,25 @@ Chinese bauxite demand also offers support to Guinea’s bauxite export potentia
 A more long-term strategic proposition is whether Guinea imposes a more targeted revocation of bauxite mining licenses in an attempt to tighten control over the mineral and move Guinea’s export up the value chain by increasing domestic processing capacity. The most recent round of revocation has aimed mostly at underperforming mines and those that have not committed to the 2022 Mining Code (Article 15), which mandates that firms must plan to or build local processing facilities by 2027. If the country were able to convert all the domestic bauxite it currently exports into alumina, the next stage on the ore’s journey to becoming aluminum, this would have a heavy impact on shipping demand, weighing heavily on tonne-miles. The current guidance is that between 4 and 5 tonnes of bauxite can produce around 2 tonnes of alumina. With all else staying equal, this would effectively halve the tonne-miles and tonne-days of West Africa to China, impacting freight rates negatively. However, the full realization of the scenario is unlikely, and bauxite vs alumina exports would likely gradually adjust, giving time for the supply chain to adjust.
 
 
-![Source:Bauxite exports from Signal Ocean](../images/68777bafa5c19f0f25f109aa_AD_4nXe2AGjF__Y6vf3WgwK5rzSWyHLlbIwxEdXc68N4Cv6VTw6hnamr2Q1Yud0cVCpVPdxtA7VjFCJ5wjZk_5w1MGKBpcsMqPgmxNuWdK8VBNvpNPKcwWh5DvpR1C2rt0MO9zE6Y2xRvA.png)
-*Source:Bauxite exports from Signal Ocean*
+![Source: Bauxite Exports From Signal Ocean](../images/68777bafa5c19f0f25f109aa_AD_4nXe2AGjF__Y6vf3WgwK5rzSWyHLlbIwxEdXc68N4Cv6VTw6hnamr2Q1Yud0cVCpVPdxtA7VjFCJ5wjZk_5w1MGKBpcsMqPgmxNuWdK8VBNvpNPKcwWh5DvpR1C2rt0MO9zE6Y2xRvA.png)
+
+> **Figure 6: Source: Bauxite Exports From Signal Ocean**  
+> *Source: Bauxite exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109aa_AD_4nXe2AGjF__Y6vf3WgwK5rzSWyHLlbIwxEdXc68N4Cv6VTw6hnamr2Q1Yud0cVCpVPdxtA7VjFCJ5wjZk_5w1MGKBpcsMqPgmxNuWdK8VBNvpNPKcwWh5DvpR1C2rt0MO9zE6Y2xRvA.png)
 
 
-![Source:Guinea seasonality in Bauxite exports from Signal Ocean](../images/68777bafa5c19f0f25f1099b_AD_4nXdATBt5Q8jQgkZXEgwyaPnPcRebTtN2xup53K_tGXKS77Fd8eMu4zGzmOOEdeKHCSHRNvCZ17jAFUBg8Vc_c85td35e-xqQIAxxu_S_Ka9np3vnz73JZI8hkRQ3PvNwWYAKd6wkyQ.png)
-*Source:Guinea seasonality in Bauxite exports from Signal Ocean*
+![Source: Guinea Seasonality in Bauxite Exports From Signal Ocean](../images/68777bafa5c19f0f25f1099b_AD_4nXdATBt5Q8jQgkZXEgwyaPnPcRebTtN2xup53K_tGXKS77Fd8eMu4zGzmOOEdeKHCSHRNvCZ17jAFUBg8Vc_c85td35e-xqQIAxxu_S_Ka9np3vnz73JZI8hkRQ3PvNwWYAKd6wkyQ.png)
+
+> **Figure 7: Source: Guinea Seasonality in Bauxite Exports From Signal Ocean**  
+> *Source: Guinea seasonality in Bauxite exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f1099b_AD_4nXdATBt5Q8jQgkZXEgwyaPnPcRebTtN2xup53K_tGXKS77Fd8eMu4zGzmOOEdeKHCSHRNvCZ17jAFUBg8Vc_c85td35e-xqQIAxxu_S_Ka9np3vnz73JZI8hkRQ3PvNwWYAKd6wkyQ.png)
 
 
-![Source:National Bureau of Statistics of China, *The value for January and February is the average of the annual total cumulative output listed in February.](../images/68777bafa5c19f0f25f109a7_AD_4nXe9tfZyj8J6jEyqbFnACpOZavecv6sANpCZ5jS3_dfEJpY2mgL0IKtH3SVEglX-st9yZVVxHN_NkpKFdBs_62xVEOeAZ6YEKA4CEvulgdHevGmt4CazF8doEH_N1uO0u1VZQ2ShEQ.png)
-*Source:National Bureau of Statistics of China, *The value for January and February is the average of the annual total cumulative output listed in February.*
+![Source: National Bureau of Statistics of China, the Value for January and February Is the Average of the Annual Total Cumulative Output Listed in February.](../images/68777bafa5c19f0f25f109a7_AD_4nXe9tfZyj8J6jEyqbFnACpOZavecv6sANpCZ5jS3_dfEJpY2mgL0IKtH3SVEglX-st9yZVVxHN_NkpKFdBs_62xVEOeAZ6YEKA4CEvulgdHevGmt4CazF8doEH_N1uO0u1VZQ2ShEQ.png)
+
+> **Figure 8: Source: National Bureau of Statistics of China, the Value for January and February Is the Average of the Annual Total Cumulative Output Listed in February.**  
+> *Source: National Bureau of Statistics of China, *The value for January and February is the average of the annual total cumulative output listed in February.*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109a7_AD_4nXe9tfZyj8J6jEyqbFnACpOZavecv6sANpCZ5jS3_dfEJpY2mgL0IKtH3SVEglX-st9yZVVxHN_NkpKFdBs_62xVEOeAZ6YEKA4CEvulgdHevGmt4CazF8doEH_N1uO0u1VZQ2ShEQ.png)
 
 
 ## Nickel Ore
@@ -112,16 +156,25 @@ Strong YTD production growth and some softening in downstream manufacturing have
 Stainless steel production discipline will keep stainless prices supported, but as prices rise, more players will look to produce, and this will keep nickel ore demand robust. Therefore, we expect that vessel demand driven by nickel ore will remain consistent. China will be unable to change its reliance on nickel ore from the Philippines without implementing structural changes, which would take a considerable amount of time.
 
 
-![Source:Nickel ore exports from Signal Ocean](../images/68777bafa5c19f0f25f10998_AD_4nXfXRDFtDwIRSWrIMTqDP8mtHqwekMlbqaRdw6abfEfibnMPqSLJwVjfMtVZE8taaLzko4Np_qUdaC3SQ87j4xkmfa8-Zzd2lXAFpshBlG81HRUpJX2l0rhbfUxqEKRkSk93WsIr.png)
-*Source:Nickel ore exports from Signal Ocean*
+![Source: Nickel Ore Exports From Signal Ocean](../images/68777bafa5c19f0f25f10998_AD_4nXfXRDFtDwIRSWrIMTqDP8mtHqwekMlbqaRdw6abfEfibnMPqSLJwVjfMtVZE8taaLzko4Np_qUdaC3SQ87j4xkmfa8-Zzd2lXAFpshBlG81HRUpJX2l0rhbfUxqEKRkSk93WsIr.png)
+
+> **Figure 9: Source: Nickel Ore Exports From Signal Ocean**  
+> *Source: Nickel ore exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f10998_AD_4nXfXRDFtDwIRSWrIMTqDP8mtHqwekMlbqaRdw6abfEfibnMPqSLJwVjfMtVZE8taaLzko4Np_qUdaC3SQ87j4xkmfa8-Zzd2lXAFpshBlG81HRUpJX2l0rhbfUxqEKRkSk93WsIr.png)
 
 
-![Source:World Stainless Association](../images/68777bafa5c19f0f25f109b1_AD_4nXcudT53fXWoKCIMvPcFmY7K1CWcWMeIYIvDBNx4uGyY8_ONyGaAwotLZmtiZ7bn13etT30G13r51sf8exzRfCE4FZdyFrsTVYQr7xWeT2ap6kRGvT7vKJ4OWzkj9PT5LxiRo81dNA.png)
-*Source:World Stainless Association*
+![Source: World Stainless Association](../images/68777bafa5c19f0f25f109b1_AD_4nXcudT53fXWoKCIMvPcFmY7K1CWcWMeIYIvDBNx4uGyY8_ONyGaAwotLZmtiZ7bn13etT30G13r51sf8exzRfCE4FZdyFrsTVYQr7xWeT2ap6kRGvT7vKJ4OWzkj9PT5LxiRo81dNA.png)
+
+> **Figure 10: Source: World Stainless Association**  
+> *Source: World Stainless Association*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109b1_AD_4nXcudT53fXWoKCIMvPcFmY7K1CWcWMeIYIvDBNx4uGyY8_ONyGaAwotLZmtiZ7bn13etT30G13r51sf8exzRfCE4FZdyFrsTVYQr7xWeT2ap6kRGvT7vKJ4OWzkj9PT5LxiRo81dNA.png)
 
 
-![Source:National Bureau of Statistics of China, *The value for January and February is the average of the annual total cumulative output listed in February.](../images/68777bafa5c19f0f25f109ad_AD_4nXexHG1cDo52ay_jmii2qoOBoSWNvUDffLNcnYtBlqmACry7J-wjX9y0kymV42zlW-tIm01-JBplT14EUn5i9TvKJTq9m7C3wYvU1O7ilufuqVbh78q7l-_qXPNqrypXR7aIZQTMYA.png)
-*Source:National Bureau of Statistics of China, *The value for January and February is the average of the annual total cumulative output listed in February.*
+![Source: National Bureau of Statistics of China, the Value for January and February Is the Average of the Annual Total Cumulative Output Listed in February.](../images/68777bafa5c19f0f25f109ad_AD_4nXexHG1cDo52ay_jmii2qoOBoSWNvUDffLNcnYtBlqmACry7J-wjX9y0kymV42zlW-tIm01-JBplT14EUn5i9TvKJTq9m7C3wYvU1O7ilufuqVbh78q7l-_qXPNqrypXR7aIZQTMYA.png)
+
+> **Figure 11: Source: National Bureau of Statistics of China, the Value for January and February Is the Average of the Annual Total Cumulative Output Listed in February.**  
+> *Source: National Bureau of Statistics of China, *The value for January and February is the average of the annual total cumulative output listed in February.*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109ad_AD_4nXexHG1cDo52ay_jmii2qoOBoSWNvUDffLNcnYtBlqmACry7J-wjX9y0kymV42zlW-tIm01-JBplT14EUn5i9TvKJTq9m7C3wYvU1O7ilufuqVbh78q7l-_qXPNqrypXR7aIZQTMYA.png)
 
 
 ## Sugar
@@ -135,19 +188,28 @@ Looking ahead, market expectations are for sugar production in all three countri
 Compounding the positive outlook is an expected increase in sugar demand, with some market participants forecasting a 1.2% CAGR out to 2033, with more accelerated growth in economies with growing spending power, such as Indonesia and the wider South East Asia region. Indonesia and China lead the market in terms of import volumes, both with around 10%, well ahead of third-placed Bangladesh with 6%. Indonesia is a major industrial consumer of sugar for its domestic food processing industry, but requires large amounts of imports due to weak domestic production. With a rising middle class, sugar consumption will likely continue to increase in the country. This will continue to provide strong support for sugar exports from Brazil and Thailand, leading to consistent and robust demand for vessels in the coming years.
 
 
-![Source:Sugar exports from Signal Ocean](../images/68777bafa5c19f0f25f109b4_AD_4nXdwGH30gzDFG2_4UEjDyH-WMLpNeRYNv4DJc1JCKR2olYeQz_FdQ78-W0D6v-i-nWV2r8qfDY_QDm3Y6maboClEBJMLKD-xL5gAMLv9L5BqbP22P8K3SswKPBNA-yylcj8s0jWp.png)
-*Source:Sugar exports from Signal Ocean*
+![Source: Sugar Exports From Signal Ocean](../images/68777bafa5c19f0f25f109b4_AD_4nXdwGH30gzDFG2_4UEjDyH-WMLpNeRYNv4DJc1JCKR2olYeQz_FdQ78-W0D6v-i-nWV2r8qfDY_QDm3Y6maboClEBJMLKD-xL5gAMLv9L5BqbP22P8K3SswKPBNA-yylcj8s0jWp.png)
+
+> **Figure 12: Source: Sugar Exports From Signal Ocean**  
+> *Source: Sugar exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109b4_AD_4nXdwGH30gzDFG2_4UEjDyH-WMLpNeRYNv4DJc1JCKR2olYeQz_FdQ78-W0D6v-i-nWV2r8qfDY_QDm3Y6maboClEBJMLKD-xL5gAMLv9L5BqbP22P8K3SswKPBNA-yylcj8s0jWp.png)
 
 
-![Source:Ministry of Agriculture; Chart Post Brazilia, FAS New Delhi Research, Office of Cane and Sugar Board, * Indian MY is from October to November, Brazilian MY is from March to April, and Thai MY is from December to November](../images/68777bafa5c19f0f25f109a1_AD_4nXd6a8L-eehUt8A8tan6tzoYg2Yp8FoFvk9vi_lMV-ZtPbHqj0HZciHQN61OaGHpTid0IVb_b9FPyvZTO_jbqdvV1uQHr4w_-Xe9TSnDhDUAWWV-7XV5W7ckDrz-KrsOfvFHeJtLAg.png)
-*Source:Ministry of Agriculture; Chart Post Brazilia, FAS New Delhi Research, Office of Cane and Sugar Board, * Indian MY is from October to November, Brazilian MY is from March to April, and Thai MY is from December to November*
+![Source: Ministry of Agriculture; Chart Post Brazilia, Fas New Delhi Research, Office of Cane and Sugar Board, Indian My Is From October to November, Brazilian My Is From March to April, and Thai My Is From December to November](../images/68777bafa5c19f0f25f109a1_AD_4nXd6a8L-eehUt8A8tan6tzoYg2Yp8FoFvk9vi_lMV-ZtPbHqj0HZciHQN61OaGHpTid0IVb_b9FPyvZTO_jbqdvV1uQHr4w_-Xe9TSnDhDUAWWV-7XV5W7ckDrz-KrsOfvFHeJtLAg.png)
+
+> **Figure 13: Source: Ministry of Agriculture; Chart Post Brazilia, Fas New Delhi Research, Office of Cane and Sugar Board, Indian My Is From October to November, Brazilian My Is From March to April, and Thai My Is From December to November**  
+> *Source: Ministry of Agriculture; Chart Post Brazilia, FAS New Delhi Research, Office of Cane and Sugar Board, * Indian MY is from October to November, Brazilian MY is from March to April, and Thai MY is from December to November*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f109a1_AD_4nXd6a8L-eehUt8A8tan6tzoYg2Yp8FoFvk9vi_lMV-ZtPbHqj0HZciHQN61OaGHpTid0IVb_b9FPyvZTO_jbqdvV1uQHr4w_-Xe9TSnDhDUAWWV-7XV5W7ckDrz-KrsOfvFHeJtLAg.png)
 
 
-![Source:Origin ports of global sugar exports from Signal Ocean](../images/68777bafa5c19f0f25f1099e_AD_4nXfVc7jf9KyjiNyfIlKxY2qRuN8LGKptcaBCGnrtWQ7mszSKi4XZBLQ__-mCjhEVisEt2zO5WL_EoVhsy-wHTCNnUGBWNBoOR4weVJ7GWGvggrRvH8fieqLaoiuc6d6LNIcY1HWk7A.png)
-*Source:Origin ports of global sugar exports from Signal Ocean*
+![Source: Origin Ports of Global Sugar Exports From Signal Ocean](../images/68777bafa5c19f0f25f1099e_AD_4nXfVc7jf9KyjiNyfIlKxY2qRuN8LGKptcaBCGnrtWQ7mszSKi4XZBLQ__-mCjhEVisEt2zO5WL_EoVhsy-wHTCNnUGBWNBoOR4weVJ7GWGvggrRvH8fieqLaoiuc6d6LNIcY1HWk7A.png)
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+> **Figure 14: Source: Origin Ports of Global Sugar Exports From Signal Ocean**  
+> *Source: Origin ports of global sugar exports from Signal Ocean*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68777bafa5c19f0f25f1099e_AD_4nXfVc7jf9KyjiNyfIlKxY2qRuN8LGKptcaBCGnrtWQ7mszSKi4XZBLQ__-mCjhEVisEt2zO5WL_EoVhsy-wHTCNnUGBWNBoOR4weVJ7GWGvggrRvH8fieqLaoiuc6d6LNIcY1HWk7A.png)
 
-For subscription to our FREE weekly market trends email,please click here, or contact us at: research@thesignalgroup.com
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
+
+For subscription to our FREE weekly market trends email, [please click here](https://www.thesignalgroup.com/subscribe), or contact us at: research@thesignalgroup.com
 
 - Republishing is allowed with an active link to the source

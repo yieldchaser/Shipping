@@ -1,15 +1,35 @@
-# Iron Ore’s Shifting Currents: Supply Surge Meets China Slowdown
-
-**Date**: November 11, 2025 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown)
-
+---
+title: "Iron Ore’s Shifting Currents: Supply Surge Meets China Slowdown"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown"
+source_file: "corpus/07-signal/html/iron-ores-shifting-currents-supply-surge-meets-china-slowdown.html"
+word_count: 665
+images_count: 3
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Iron Ore’s Shifting Currents: Supply Surge Meets China Slowdown
 
-## Simandou and Australian Supply Expansion Promise a Boost to Capesize Tonnage, but Iron Ore Prices Face China Headwinds
+*Published on 17 June 2025*
+
+## Simandou and Australian Supply Expansion Promise a Boost to Capesize Tonnage, But Iron Ore Prices Face China Headwinds
 
 
-![https://app.signalocean.com/dry/dynamic/drybulkflows](../images/69130787b8b20c77b1ba71c7_417fefec.png)
-*https://app.signalocean.com/dry/dynamic/drybulkflows*
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../images/69130787b8b20c77b1ba71c7_417fefec.png)
+
+> **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
+> *https://app.signalocean.com/dry/dynamic/drybulkflows*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c7_417fefec.png)
 
 
 ## Australia, Brazil, and West Africa Lead the Charge
@@ -19,7 +39,7 @@ In the Pilbara, BHP is doubling down on growth, pledging A$1.4 billion to enhanc
 Brazil’s Vale posted 94.4 Mt in Q3 2025, its strongest quarterly output since 2018, keeping it on track for the top end of its 325–335 Mt guidance. Stronger performance from the Northern System and better weather lifted loadings from Ponta da Madeira and Tubarao, cementing Brazil’s role in the Atlantic-to-Asia trade.
 
 
-## Simandou Nears Launch, Redefining Atlantic–Pacific Iron Ore Trade Routes
+## Simandou Nears Launch, Redefining Atlantic–pacific Iron Ore Trade Routes
 
 In West Africa, momentum is finally building. Simandou in Guinea is moving from construction to early stockpiling, with first shipments expected in late 2025. The long-awaited, high-grade project could redefine trade patterns, positioning West Africa as a new long-haul supplier to China.
 
@@ -29,8 +49,11 @@ In West Africa, momentum is finally building. Simandou in Guinea is moving from 
 For the freight market, the implications are clear. The recent increase in iron ore supply from major export hubs such as Australia, Brazil, and emerging West African origins is already visible through a sharp rise in tonne-days, up by roughly 25–30% since early 2025. This surge reflects stronger long-haul activity and greater tonnage absorption, supporting improved Capesize rate performance and a sustained recovery in the BCI. Continued expansion of these export flows, particularly from projects like Simandou, is expected to further boost tonne-mile demand and gradually rebalance Atlantic–Pacific trade dynamics.
 
 
-![https://app.signalocean.com/dry/dynamic/timeseries_dry](../images/69130787b8b20c77b1ba71c4_d7282d45.png)
-*https://app.signalocean.com/dry/dynamic/timeseries_dry*
+![Https://app.signalocean.com/dry/dynamic/timeseriesdry](../images/69130787b8b20c77b1ba71c4_d7282d45.png)
+
+> **Figure 2: Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
+> *https://app.signalocean.com/dry/dynamic/timeseries_dry*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c4_d7282d45.png)
 
 
 ## Chinese Steel Slowdown Offsets Supply Gains - Port Stocks on the Rise
@@ -40,8 +63,11 @@ However, the recent renewed supply optimism contrasts sharply with China’s wea
 As illustrated in the chart, iron ore shipments to China have grown markedly in 2025, with monthly arrivals consistently exceeding 2024 levels since March. Volumes climbed from around 115 million tonnes in February to more than 140 million tonnes by October, reflecting stronger export flows from Australia and Brazil.
 
 
-![https://app.signalocean.com/dry/dynamic/drybulkflows](../images/69130787b8b20c77b1ba71c1_730c1c25.png)
-*https://app.signalocean.com/dry/dynamic/drybulkflows*
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../images/69130787b8b20c77b1ba71c1_730c1c25.png)
+
+> **Figure 3: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
+> *https://app.signalocean.com/dry/dynamic/drybulkflows*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c1_730c1c25.png)
 
 Yet this growth in seaborne supply is occurring at a time of soft domestic steel demand and seasonal production slowdowns. Rising port inventories, together with a lack of meaningful policy stimulus from Beijing, have therefore kept spot prices under downward pressure. As winter maintenance cuts steel output, the continued inflow of cargoes risks widening the imbalance between supply and consumption, reinforcing the bearish tone in the iron ore market.
 
@@ -52,4 +78,4 @@ Adding another layer of complexity, discussions are resurfacing about pricing ir
 
 In short, the iron ore market is preparing for an influx of supply just as China’s demand signals weaken and currency politics enter the pricing equation. For Capesize owners, this combination could mean greater volatility, but also new opportunities as trade routes diversify and tonne-miles expand.
 
-To read more articles like thesesubscribe hereor email us atresearch@thesignalgroup.com. For demo inquiries,reach outto us and visit theSignal Ocean Newsroomfor the latest updates on market trends and platform developments. To check out our previous newsroom articleclick here.
+*To read more articles like these* [*subscribe here*](https://www.thesignalgroup.com/subscribe) *or email us at* ***research@thesignalgroup.com****. For demo inquiries,* [***reach out***](https://www.thesignalgroup.com/request-demo?utm\_source=%20oceanhome&utm\_medium=website&utm\_campaign=demo) *to us and visit the* [***Signal Ocean Newsroom***](https://www.thesignalgroup.com/newsroom) *for the latest updates on market trends and platform developments. To check out our previous newsroom article* [***click here.***](https://www.thesignalgroup.com/newsroom/structural-market-shifts-not-just-barrels-powering-the-dirty-rally)

@@ -1,14 +1,31 @@
-# Annual Review 2025 | Commodities & Geopolitical Risk
-
-**Date**: January 6, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk)
-
+---
+title: "Annual Review 2025 | Commodities & Geopolitical Risk"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk"
+source_file: "corpus/07-signal/html/annual-review-2025-commodities-geopolitical-risk.html"
+word_count: 1549
+images_count: 4
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Annual Review 2025 | Commodities & Geopolitical Risk
+
+*Published on 17 June 2025*
 
 ## Annual Review 2025 | Commodities & Geopolitical Risk
 
 
-## China’s demand is the heaviest factor for commodities in 2025
+## China’s Demand Is the Heaviest Factor for Commodities in 2025
 
 In 2025, seaborne dry bulk flows showed mixed trends across major commodities. Iron ore exports grew modestly, with China remaining the dominant importer despite a slowdown in domestic steel production. Coal shipments fell, reflecting China’s rising domestic production and shift toward renewables. Bauxite flows surged, driven by strong Chinese aluminium production and, more recently, due to substitution for higher-cost copper. Chinese steel exports rose as domestic demand softened, with India emerging as a key destination.
 
@@ -26,10 +43,10 @@ India will increase steel production in 2026 to align with domestic demand growt
 Lower iron ore prices could incentivize buyers to replenish their inventories, supporting export volumes. Yet, the effect of this will be limited in the short term as Chinese port stocks of iron ore are reportedly already high. Buyers will wait until prices drop before returning to the market. Low prices in 2025 already led to an inventory build that would be unsustainable for the entirety of 2026.
 
 
-![Signal Figure](../images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
-*Signal Figure*
+![Dry Bulk Flows | Iron Ore](../images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
 
-‍
+> **Figure 1: Dry Bulk Flows | Iron Ore**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
 
 
 ## Dry Bulk Flows| Coal
@@ -38,15 +55,17 @@ In 2025, Signal Ocean recorded that seaborne coal flows decreased 3.4% to 1.4 bi
 
 Thermal coal makes up the majority of seaborne coal tonnage, around 77%. China has imported 11% less seaborne thermal coal in 2025 than it did last year. Some of this is due to increased domestic coal production. The latest figures from the NBS show that Chinese coal production is 3% ahead of the same period in 2024. A more interesting trend, though, is China’s divergence away from thermal power generation, towards greater reliance on renewable energy. NBS statistics state that thermal power production in China is 1% lower so far in 2025 than over the same period in 2024, with solar, wind, hydro, and nuclear all notably above last year. This is all while total electricity production is up by 2.4%.
 
-Read more at AXSMarine:Another Record Year for Dry Bulk Flows in 2025
+**Read more at AXSMarine:** [**Another Record Year for Dry Bulk Flows in 2025**](https://public.axsmarine.com/blog/another-record-year-for-dry-bulk-flows-in-2025)
 
 2026 will likely see increased pressure on seaborne coal demand. With the growth in Chinese electricity production being driven by renewables, demand for coal will continue to face challenges. China has increased domestic coal-fired power capacity, but this is a move to ensure energy security rather than a planned increase in coal consumption.
 
 This will have consequences on capesize demand, with the outlook for iron ore already weak; another year of lower coal flows could weigh heavily on capesize demand, particularly in the Pacific.
 
 
-![Signal Figure](../images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
-*Signal Figure*
+![Dry Bulk Flows| Coal](../images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
+
+> **Figure 2: Dry Bulk Flows| Coal**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
 
 
 ## Dry Bulk Flows| Bauxite
@@ -60,8 +79,10 @@ This is one factor that should keep utilization rates at Chinese aluminium smelt
 Bauxite, therefore, provides some positivity in the capesize market. The outlook for iron ore and coal is softer, and this will drag on capesize demand, but bauxite should continue to outperform. Longer term, the restructuring of Guinea’s domestic bauxite processing remains a risk to bauxite flows, but it is unlikely to have any meaningful impact until the later stages of the decade.
 
 
-![Signal Figure](../images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
-*Signal Figure*
+![Dry Bulk Flows | Bauxite](../images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
+
+> **Figure 3: Dry Bulk Flows | Bauxite**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
 
 
 ## Dry Bulk Flows| Steel
@@ -75,14 +96,16 @@ The trend of weaker domestic demand is expected to continue into 2026, albeit wi
 Steel products are shipped overwhelmingly by supramax vessels, 47% since 2022. Yet, of all the cargo typically carried by supramax vessels, less than 9% is steel on a tonnage basis. This means that steel performance is unlikely to shift the supramax rates in a meaningful manner. However, this is more pronounced on short-to-medium distance routes, such as China to India or China to other Southeast Asian countries. As a result, rates on supramaxes on these routes could see some upward pressure based on the increased expectation of Chinese steel exports, particularly to India.
 
 
-![Signal Figure](../images/695d2e184b3cbf7dc0e68767_114f143e.png)
-*Signal Figure*
+![Dry Bulk Flows | Steel](../images/695d2e184b3cbf7dc0e68767_114f143e.png)
+
+> **Figure 4: Dry Bulk Flows | Steel**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e68767_114f143e.png)
 
 
 ## Takeaways
 
 
-## Chinese performance will weigh on commodity-driven vessel demand in 2026
+## Chinese Performance Will Weigh on Commodity-Driven Vessel Demand in 2026
 
 How China chooses to structure its domestic production of steel, electricity, and aluminum will be the strongest factor in how dry commodities affect vessel demand throughout 2026. A stronger reliance on renewable energy and lower production of steel will weigh heavily on the two largest dry bulk commodities, iron ore and coal. Bauxite demand is strong in China, and market developments look positive for aluminium demand, further offering encouragement for bauxite. Yet, the aluminium production cap in China, reached in 2025, provides a ceiling for bauxite demand growth. Steel performance is unlikely to move the needle on prices outside of well-defined shipping routes.
 

@@ -588,16 +588,16 @@ REGISTRY_DATA = [
         "latest_report": "Drewry_AIS_Product_LR2_Week39_2026.pdf",
         "days_ago": 7,
         "status": "CURRENT (Ingested up to Week 39 across DAM 034)",
-        "pdf_count": 285,
+        "pdf_count": 288,
         "html_count": 0,
         "image_count": 0,
-        "md_count": 285,
-        "total_files": 285,
+        "md_count": 288,
+        "total_files": 288,
         "charts_extracted": "Yes (Fleet utilisation, tonne-mile index, bunker fuel price, ballast speeds)",
         "chart_engine": "Vector PostScript/PDF drawing curve extractor + executive KPI parser (run_drewry_ais_charts.py)",
         "series_csvs": "drewry_ais_fleet_performance_series.csv (14,768 rows), drewry_ais_regional_congestion_series.csv (6,792 rows), drewry_ais_deployment_speed_series.csv (2,427 rows), drewry_ais_utilisation_curves_series.csv (1,007 rows)",
         "primary_script": "run_drewry_ais_charts.py",
-        "notes": "24,994 continuous weekly data points across all 10 vessel classes. Overhauled to eliminate OCR noise."
+        "notes": "24,994 continuous weekly data points across all 10 vessel classes: Product LR1 (34), VLCC (32), LPG Carrier (32), Aframax (31), Product LR2 (31), Suezmax (30), Capesize (27), Handysize (25), Panamax (23), Supramax (23)."
     },
     {
         "category_id": "drewry_opinions",
@@ -637,13 +637,13 @@ REGISTRY_DATA = [
         "days_ago": 7,
         "status": "CURRENT",
         "pdf_count": 10,
-        "html_count": 514,
+        "html_count": 515,
         "image_count": 1885,
         "md_count": 456,
         "total_files": 2900,
         "charts_extracted": "Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps)",
         "chart_engine": "Playwright session scraper + static monitor markdown builder",
-        "series_csvs": "signal_reports_metadata.csv (442 rows), data/views/signal/live_fleet_positions.json",
+        "series_csvs": "signal_reports_metadata.csv (446 rows), data/views/signal/live_fleet_positions.json",
         "primary_script": "sync_live_fleet_pipeline.py",
         "notes": "Live automated telemetry syncs active tanker queues and fleet AIS positions."
     },
@@ -697,6 +697,411 @@ REGISTRY_DATA = [
     }
 ]
 
+# Granular sub-sector and vessel class breakdowns across complex multi-format publishers
+SUBSECTOR_DATA = [
+    # --- Drewry Maritime AIS Fleet Performance (10 Vessel Classes) ---
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Capesize (180,000 DWT)",
+        "count": "27 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Fleet utilisation %, tonne-miles, ballast speed, Port Hedland/Tubarao delays",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Panamax / Kamsarmax (82,000 DWT)",
+        "count": "23 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Fleet utilisation %, tonne-miles, ballast speed, Santos/Mississippi delays",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Supramax / Ultramax (64,000 DWT)",
+        "count": "23 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Fleet utilisation %, tonne-miles, ballast speed, Indonesian coal delays",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Handysize (38,000 DWT)",
+        "count": "25 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Fleet utilisation %, tonne-miles, ballast speed, minor bulk port queues",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "VLCC (300,000 DWT)",
+        "count": "32 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Crude utilisation %, tonne-miles, Ras Tanura/Ningbo congestion, ballast speed",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Suezmax (160,000 DWT)",
+        "count": "30 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Crude utilisation %, tonne-miles, West Africa/Mediterranean queues",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Aframax (115,000 DWT)",
+        "count": "31 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Dirty utilisation %, tonne-miles, North Sea/Baltic/Caribs queues",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Product LR2 (115,000 DWT)",
+        "count": "31 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Clean product utilisation %, tonne-miles, MEG-East product flows",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Product LR1 (75,000 DWT)",
+        "count": "34 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "Clean product utilisation %, tonne-miles, regional refinery flows",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "LPG Carrier (84,000 CBM VLGC)",
+        "count": "32 weekly PDFs",
+        "format": "PDF vector",
+        "metrics": "LPG carrier utilisation %, tonne-miles, US Gulf/Ras Laffan flows",
+        "series_csv": "drewry_ais_fleet_performance_series.csv",
+        "data_points": "14,768 rows across classes",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/md/drewry/ais/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Regional Port Congestion (All Classes)",
+        "count": "288 reports",
+        "format": "PDF vector curves",
+        "metrics": "Port waiting days & congestion indexes across China, AG, USG, Aus, Bra",
+        "series_csv": "drewry_ais_regional_congestion_series.csv",
+        "data_points": "6,792 rows",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/series/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Deployment & Ballast Speeds (All Classes)",
+        "count": "288 reports",
+        "format": "PDF vector curves",
+        "metrics": "Laden vs ballast cruising speed knots by vessel class and region",
+        "series_csv": "drewry_ais_deployment_speed_series.csv",
+        "data_points": "2,427 rows",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/series/"
+    },
+    {
+        "category": "Drewry Maritime AIS",
+        "subsector": "Capacity Utilisation Curves (All Classes)",
+        "count": "288 reports",
+        "format": "PDF vector curves",
+        "metrics": "Multi-year historical utilisation curves (2020-2026)",
+        "series_csv": "drewry_ais_utilisation_curves_series.csv",
+        "data_points": "1,007 rows",
+        "script": "run_drewry_ais_charts.py",
+        "output_path": "data/extracted/series/"
+    },
+
+    # --- Hellenic Shipping News Sub-Sectors ---
+    {
+        "category": "Hellenic Demolition",
+        "subsector": "Athenian Shipbrokers Cash Buyer",
+        "count": "1,272 reports",
+        "format": "HTML / PDF",
+        "metrics": "Scrap indicative prices ($/LDT) for Bangladesh, India, Pakistan, Turkey",
+        "series_csv": "hellenic_athenian_demolition_series.csv",
+        "data_points": "3,052 rows",
+        "script": "run_athenian_demolition.py",
+        "output_path": "data/extracted/md/hellenic/demolition/"
+    },
+    {
+        "category": "Hellenic Demolition",
+        "subsector": "GMS Weekly Recycler Insights & Deals",
+        "count": "1,272 reports",
+        "format": "HTML / PDF",
+        "metrics": "Cash buyer commentary, scrap sentiment, fixture deals",
+        "series_csv": "hellenic_gms_demolition_series.csv",
+        "data_points": "1,092 rows",
+        "script": "run_gms_demolition.py",
+        "output_path": "data/extracted/md/hellenic/demolition/"
+    },
+    {
+        "category": "Hellenic Demolition",
+        "subsector": "GMS Port Position Queues",
+        "count": "1,272 reports",
+        "format": "HTML tables / Images",
+        "metrics": "Cash buyer port arrivals, beaching positions, tonnage queued",
+        "series_csv": "hellenic_gms_port_positions_series.csv",
+        "data_points": "2,905 rows",
+        "script": "run_gms_demolition.py",
+        "output_path": "data/extracted/md/hellenic/demolition/"
+    },
+    {
+        "category": "Hellenic Demolition",
+        "subsector": "Best Oasis Scrap Assessments & Deals",
+        "count": "1,272 reports",
+        "format": "HTML / PDF",
+        "metrics": "Subcontinent scrap rates and beaching transaction fixtures",
+        "series_csv": "hellenic_best_oasis_deals_series.csv",
+        "data_points": "882 rows (deals), 859 rows (rates)",
+        "script": "run_best_oasis_demolition.py",
+        "output_path": "data/extracted/md/hellenic/demolition/"
+    },
+    {
+        "category": "Hellenic Dry Charter",
+        "subsector": "Alibra Dry Bulk Time Charter Estimates",
+        "count": "266 reports",
+        "format": "HTML / Images",
+        "metrics": "1Y, 2Y, 3Y, 5Y period TC ($/day) for Capesize, Kamsarmax, Ultramax, Handy",
+        "series_csv": "hellenic_alibra_dry_tc_series.csv",
+        "data_points": "6,443 rows",
+        "script": "run_hellenic_alibra_tc.py",
+        "output_path": "data/extracted/md/hellenic/dry_charter/"
+    },
+    {
+        "category": "Hellenic Tanker Charter",
+        "subsector": "Alibra Tanker Time Charter Estimates",
+        "count": "265 reports",
+        "format": "HTML / Images",
+        "metrics": "1Y, 2Y, 3Y, 5Y period TC ($/day) for VLCC, Suezmax, Aframax, LR2, LR1, MR",
+        "series_csv": "hellenic_alibra_tanker_tc_series.csv",
+        "data_points": "7,177 rows",
+        "script": "run_hellenic_alibra_tc.py",
+        "output_path": "data/extracted/md/hellenic/tanker_charter/"
+    },
+    {
+        "category": "Hellenic Iron Ore",
+        "subsector": "MMI Daily Brand Price Assessments",
+        "count": "3,537 reports",
+        "format": "PDF / HTML",
+        "metrics": "31+ brand prices $/dmtu (PB Fines, Newman, Carajas, Lump/Pellet premiums)",
+        "series_csv": "hellenic_iron_ore_pdf_brands_series.csv",
+        "data_points": "31,272 rows",
+        "script": "run_hellenic_iron_ore_pdf.py",
+        "output_path": "data/extracted/md/hellenic/iron_ore/"
+    },
+    {
+        "category": "Hellenic Iron Ore",
+        "subsector": "SMM Daily Spot Iron Ore Benchmark",
+        "count": "1,171 reports",
+        "format": "PDF / HTML",
+        "metrics": "62% Fe CFR China daily benchmark and port stock statistics",
+        "series_csv": "hellenic_iron_ore_daily_series.csv",
+        "data_points": "1,171 rows",
+        "script": "run_smm_iron_ore_daily.py",
+        "output_path": "data/extracted/md/hellenic/iron_ore/"
+    },
+    {
+        "category": "Hellenic Iron Ore",
+        "subsector": "Baltic Capesize C3 / C5 Freight Rates",
+        "count": "1,164 reports",
+        "format": "PDF / HTML",
+        "metrics": "Tubarao-Qingdao (C3) & Dampier-Qingdao (C5) freight $/ton",
+        "series_csv": "hellenic_capesize_c3_c5_series.csv",
+        "data_points": "1,164 rows",
+        "script": "run_hellenic_iron_ore_pdf.py",
+        "output_path": "data/extracted/md/hellenic/iron_ore/"
+    },
+    {
+        "category": "Hellenic Valuations",
+        "subsector": "VesselsValue Secondhand Valuation Matrix",
+        "count": "261 reports",
+        "format": "HTML tables / Images",
+        "metrics": "Resale, 5Y, 10Y, 15Y, 20Y values ($M) for Bulkers, Tankers, Containers",
+        "series_csv": "hellenic_vv_matrix_series.csv",
+        "data_points": "12,340 rows",
+        "script": "run_hellenic_vv_matrix.py",
+        "output_path": "data/extracted/md/hellenic/vessel_valuations/"
+    },
+    {
+        "category": "Hellenic Valuations",
+        "subsector": "VesselsValue Secondhand Sales Deals",
+        "count": "261 reports",
+        "format": "HTML tables",
+        "metrics": "Reported S&P transactions with vessel name, DWT, built, yard, price $M",
+        "series_csv": "hellenic_vv_sales_series.csv",
+        "data_points": "2,122 rows",
+        "script": "run_hellenic_vessel_valuations.py",
+        "output_path": "data/extracted/md/hellenic/vessel_valuations/"
+    },
+
+    # --- Shipbroker Intelligence & Models ---
+    {
+        "category": "SSY Simpson Spence Young",
+        "subsector": "Atlantic Capesize Index (ACI) & Pacific (PCI)",
+        "count": "530 reports",
+        "format": "PDF tabular",
+        "metrics": "Atlantic & Pacific Capesize voyage rate indices & iron ore haul routes",
+        "series_csv": "data/indices/ (display-linked)",
+        "data_points": "Continuous weekly indices",
+        "script": "run_ssy_complete.py",
+        "output_path": "data/extracted/md/ssy/"
+    },
+    {
+        "category": "Fearnleys Weekly",
+        "subsector": "6-Pillar Weekly Market Intelligence",
+        "count": "526 reports",
+        "format": "PDF structured",
+        "metrics": "Crude/Product tankers, Dry Bulk, Gas, Newbuilding, S&P, Macro",
+        "series_csv": "data/extracted/series/ (normalized rate cards)",
+        "data_points": "526 issues cover-to-cover",
+        "script": "run_fearnleys_normalized.py",
+        "output_path": "data/extracted/md/fearnleys/"
+    },
+    {
+        "category": "Fearnleys Econometric",
+        "subsector": "26 Lead-Indicator Econometric Models",
+        "count": "26 models",
+        "format": "Vector charts / Excel",
+        "metrics": "Copper vs Supramax, Coal curve vs P5, Iron Ore vs 5TC, S&P vs 1Y TC",
+        "series_csv": "fearnleys_md_master_econometric_series.xlsx",
+        "data_points": "26 workbook sheets",
+        "script": "export_fearnleys_md_excel.py",
+        "output_path": "data/extracted/series/"
+    },
+    {
+        "category": "Poten & Partners",
+        "subsector": "Tanker Opinions & Top Charterers Series",
+        "count": "1,087 reports",
+        "format": "PDF full text",
+        "metrics": "Narrative essays + 2005-2026 Top Dirty Spot Charterer annual volume rankings",
+        "series_csv": "poten_top_charterers_series.csv",
+        "data_points": "755 rows (charterers), 1,087 rows (metadata)",
+        "script": "run_poten.py",
+        "output_path": "data/extracted/md/poten/"
+    },
+    {
+        "category": "Seabrokers Seascope",
+        "subsector": "Offshore Support Vessels, Rigs & Subsea",
+        "count": "97 reports",
+        "format": "PDF monthly",
+        "metrics": "North Sea OSV dayrates, rig utilization %, subsea & offshore wind",
+        "series_csv": "seabrokers_osv_monthly_history_series.csv",
+        "data_points": "15,430 rows across 9 series",
+        "script": "run_seabrokers_llamaparse.py",
+        "output_path": "data/extracted/md/seabrokers/"
+    },
+    {
+        "category": "Signal Ocean",
+        "subsector": "Weekly Monitors, Research & Live Fleet",
+        "count": "515 reports",
+        "format": "HTML / Telemetry",
+        "metrics": "Dry & tanker weekly monitors, trade flows, live fleet positions & queues",
+        "series_csv": "signal_reports_metadata.csv",
+        "data_points": "446 rows + live JSON views",
+        "script": "run_signal.py",
+        "output_path": "data/extracted/md/signal/"
+    },
+    {
+        "category": "Xclusiv Shipbrokers",
+        "subsector": "Comprehensive Tabular Market Intelligence",
+        "count": "271 reports",
+        "format": "PDF tables (9 pages)",
+        "metrics": "S&P sales, scrap deals, secondhand matrix, newbuilding orders",
+        "series_csv": "xclusiv_sales_series.csv",
+        "data_points": "17,737 rows across 5 series",
+        "script": "run_xclusiv_tables.py",
+        "output_path": "data/extracted/md/xclusiv/"
+    },
+    {
+        "category": "Advanced Shipping",
+        "subsector": "S&P, Secondhand Matrices, Demo & NB",
+        "count": "253 reports",
+        "format": "PDF tables (10 pages)",
+        "metrics": "S&P sales, demolition rates & deals, secondhand valuation matrix",
+        "series_csv": "advanced_shipping_sales_series.csv",
+        "data_points": "18,744 rows across 5 series",
+        "script": "run_advanced_shipping_tables.py",
+        "output_path": "data/extracted/md/advanced_shipping/"
+    },
+    {
+        "category": "Banchero Costa",
+        "subsector": "S&P Deals with IMO Numbers & Newbuilding",
+        "count": "243 reports",
+        "format": "PDF tables / LlamaParse",
+        "metrics": "S&P deals with verified 7-digit IMO numbers, newbuilding orders & prices",
+        "series_csv": "bancosta_sales_series.csv",
+        "data_points": "5,043 rows across 3 series",
+        "script": "run_banchero_costa_tables.py",
+        "output_path": "data/extracted/md/banchero_costa/"
+    },
+    {
+        "category": "Intermodal",
+        "subsector": "Secondhand S&P, Newbuilding, Scrap & Baltic",
+        "count": "256 reports",
+        "format": "PDF tables / Vector",
+        "metrics": "Secondhand sales, newbuilding, scrap $/LDT, Page 3 Baltic curves",
+        "series_csv": "intermodal_baltic_tc_series.csv",
+        "data_points": "20,348 rows across series",
+        "script": "run_intermodal_full.py",
+        "output_path": "data/extracted/md/intermodal/"
+    },
+    {
+        "category": "Drewry WCI",
+        "subsector": "World Container Index (WCI) Freight Benchmarks",
+        "count": "122 weekly rows",
+        "format": "HTML / Wayback CDX",
+        "metrics": "8 major east-west route benchmarks + composite index $/FEU",
+        "series_csv": "drewry_wci_historical.csv",
+        "data_points": "122 weekly rows (display-linked)",
+        "script": "fetch_drewry_wci.py",
+        "output_path": "data/indices/"
+    },
+    {
+        "category": "Pilbara Ports Authority",
+        "subsector": "Port Hedland & Dampier Iron Ore Export Throughput",
+        "count": "493 reports",
+        "format": "PDF tables",
+        "metrics": "Monthly export tonnage, destination country breakdowns (China, Japan, Korea)",
+        "series_csv": "australia_ppa_iron_ore.csv",
+        "data_points": "424 monthly rows (display-linked)",
+        "script": "run_ppa.py",
+        "output_path": "data/commodities/"
+    }
+]
+
 # ---------------------------------------------------------------------------
 # 1. Generate Markdown Reference: corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md
 # ---------------------------------------------------------------------------
@@ -705,7 +1110,7 @@ def generate_markdown_audit():
         "# Master Corpus Registry, Publication Cadence & Extraction Audit",
         "",
         f"**Audit Snapshot Date:** 2026-10-01 | **Repository:** Shipping Knowledge Base  ",
-        "**Authoritative Ledger:** Combines the Master Extraction Register, Live Publication Cadence, Format Breakdown, and Vector Chart Inventory across all corpus directories.",
+        "**Authoritative Ledger:** Combines the Master Extraction Register, Live Publication Cadence, Format Breakdown, Granular Sub-Sector/Fleet Breakdown, and Vector Chart Inventory across all corpus directories.",
         "",
         "---",
         "",
@@ -738,7 +1143,57 @@ def generate_markdown_audit():
         "",
         "---",
         "",
-        "## 3. Comprehensive Image & Graphic Extraction Audit",
+        "## 3. Granular Sub-Sector, Vessel Class & Fleet Breakdown",
+        "",
+        "This section details document volumes, vessel classes, numerical metric coverage, and extraction scripts across complex composite publishers.",
+        "",
+        "### 3.1 Drewry Maritime AIS Fleet Performance (10 Discrete Vessel Classes)",
+        "",
+        "Drewry AIS reports are published across 10 specialized maritime vessel classes. The pipeline extracts executive KPIs, fleet utilisation curves, bunker consumption indicators, and port congestion indices without OCR noise:",
+        "",
+        "| Vessel Class / Sector | Report Count in Corpus | Typical Deadweight / CBM | Analytical Metrics Extracted | Master Series Target CSV | Extracted Data Volume | Processing Script |",
+        "| :--- | :---: | :---: | :--- | :--- | :---: | :--- |"
+    ])
+
+    drewry_classes = [s for s in SUBSECTOR_DATA if s["category"] == "Drewry Maritime AIS"]
+    for dc in drewry_classes:
+        md_lines.append(
+            f"| **{dc['subsector']}** | `{dc['count']}` | {dc['format']} | {dc['metrics']} | `{dc['series_csv']}` | **{dc['data_points']}** | [`{dc['script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / dc['script']).replace(chr(92), '/')}) |"
+        )
+
+    md_lines.extend([
+        "",
+        "### 3.2 Hellenic Shipping News Multi-Category Sub-Sources",
+        "",
+        "| Category / Sub-Source | Sub-Broker / Segment | Report Count | Format | Commercial Intelligence Extracted | Master Series CSV | Total Data Rows | Processing Script |",
+        "| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |"
+    ])
+
+    hellenic_sub = [s for s in SUBSECTOR_DATA if "Hellenic" in s["category"]]
+    for hs in hellenic_sub:
+        md_lines.append(
+            f"| **{hs['category']}** | {hs['subsector']} | `{hs['count']}` | {hs['format']} | {hs['metrics']} | `{hs['series_csv']}` | **{hs['data_points']}** | [`{hs['script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / hs['script']).replace(chr(92), '/')}) |"
+        )
+
+    md_lines.extend([
+        "",
+        "### 3.3 Shipbroker Intelligence Discrete Series & Econometric Models",
+        "",
+        "| Publisher | Intelligence Domain | Document Volume | Format | Core Analytical Payload | Master Series CSV / Destination | Stored Volume | Processing Script |",
+        "| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |"
+    ])
+
+    broker_sub = [s for s in SUBSECTOR_DATA if s["category"] not in ["Drewry Maritime AIS"] and "Hellenic" not in s["category"]]
+    for bs in broker_sub:
+        md_lines.append(
+            f"| **{bs['category']}** | {bs['subsector']} | `{bs['count']}` | {bs['format']} | {bs['metrics']} | `{bs['series_csv']}` | **{bs['data_points']}** | [`{bs['script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / bs['script']).replace(chr(92), '/')}) |"
+        )
+
+    md_lines.extend([
+        "",
+        "---",
+        "",
+        "## 4. Comprehensive Image & Graphic Extraction Audit",
         "",
         "This table tracks sectors where the pipeline inspects and extracts numerical data from images, raster graphics, or vector drawings:",
         "",
@@ -758,7 +1213,7 @@ def generate_markdown_audit():
         "",
         "---",
         "",
-        "## 4. Detailed Sector Dossiers & Verification Links",
+        "## 5. Detailed Sector Dossiers & Verification Links",
         ""
     ])
 
@@ -881,7 +1336,7 @@ def generate_excel_audit():
         ("02-hellenic/tanker_charter", 757, "Alibra Tanker TC rate graphics", "Graphic OCR & tabular parameter parsing", "hellenic_alibra_tanker_tc_series.csv (7,191 rows)"),
         ("02-hellenic/vessel_valuations", 726, "VesselsValue asset price charts", "Asset valuation curve digitizer & matrix builder", "hellenic_vv_matrix_series.csv (12,340 rows)"),
         ("03-breakwave", 15072, "Freight market fundamentals PNGs", "BDRY/BWET index trajectory curves & fundamental commentary", "breakwave_fundamentals_series.csv (2,746 rows)"),
-        ("07-signal", 1885, "Flow heatmaps & trade monitors", "Live telemetry pipeline & monitor digest parser", "signal_reports_metadata.csv (442 rows)")
+        ("07-signal", 1885, "Flow heatmaps & trade monitors", "Live telemetry pipeline & monitor digest parser", "signal_reports_metadata.csv (446 rows)")
     ]
 
     for row_idx, r in enumerate(img_rows, start=2):
@@ -893,12 +1348,48 @@ def generate_excel_audit():
             if col_idx == 2:
                 cell.alignment = Alignment(horizontal="center", vertical="center")
 
+    # Sheet 3: Granular Sub-Sector & Fleet Breakdown
+    ws3 = wb.create_sheet(title="Sub-Sector & Fleet Breakdown")
+    sub_headers = [
+        "Domain / Sector", "Sub-Sector / Vessel Class", "Documents / Issues",
+        "Format", "Primary Metrics Covered", "Master Series Target CSV",
+        "Total Rows / Points", "Processing Script", "Markdown / Digest Folder"
+    ]
+    ws3.append(sub_headers)
+    for col_idx in range(1, len(sub_headers) + 1):
+        cell = ws3.cell(row=1, column=col_idx)
+        cell.fill = header_fill
+        cell.font = header_font
+        cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+
+    for row_idx, item in enumerate(SUBSECTOR_DATA, start=2):
+        row_data = [
+            item["category"],
+            item["subsector"],
+            item["count"],
+            item["format"],
+            item["metrics"],
+            item["series_csv"],
+            item["data_points"],
+            item["script"],
+            item["output_path"]
+        ]
+        ws3.append(row_data)
+        for col_idx in range(1, len(row_data) + 1):
+            cell = ws3.cell(row=row_idx, column=col_idx)
+            cell.border = thin_border
+            cell.font = Font(name="Calibri", size=10)
+            if col_idx in (3, 4, 7):
+                cell.alignment = Alignment(horizontal="center", vertical="center")
+            else:
+                cell.alignment = Alignment(horizontal="left", vertical="center")
+
     # Auto-adjust column widths
-    for sheet in [ws, ws2]:
+    for sheet in [ws, ws2, ws3]:
         for col in sheet.columns:
             max_len = max(len(str(cell.value or '')) for cell in col)
             col_letter = get_column_letter(col[0].column)
-            sheet.column_dimensions[col_letter].width = min(max(max_len + 3, 12), 45)
+            sheet.column_dimensions[col_letter].width = min(max(max_len + 3, 12), 48)
 
     target_xlsx = ROOT / "data" / "extracted" / "series" / "corpus_publication_cadence_and_audit.xlsx"
     target_xlsx.parent.mkdir(parents=True, exist_ok=True)

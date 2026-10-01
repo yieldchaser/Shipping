@@ -1,15 +1,38 @@
-# Weekly Dry Market Monitor - Week 30, 2023
-
-**Date**: May 18, 2024 | **Category**: Dry bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2023](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2023)
-
+---
+title: "Weekly Dry Market Monitor - Week 30, 2023"
+issue_date: "2023-07-26"
+year: 2023
+week: 30
+category: "Dry Bulk"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2023"
+source_file: "corpus/07-signal/html/dry-week-30-2023.html"
+word_count: 317
+images_count: 1
+tables_count: 0
+tags:
+  - Capesize
+  - Dry Bulk
+  - Freight Rates
+  - Monitors
+  - Panamax
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Weekly Dry Market Monitor - Week 30, 2023
 
-## July’s spikes in the number of ballasters with rates dropping throughout the month
+*Published on 26 July 2023*
+
+## July’s Spikes in the Number of Ballasters with Rates Dropping Throughout the Month
 
 
-![Data Source: TheSignal OceanPlatform Data](../images/64bfe7ea0a9772056dd337c8_capesize chart of the week.png)
-*Data Source: TheSignal OceanPlatform Data*
+![Data Source: The Signal Ocean Platform Data](../images/64bfe7ea0a9772056dd337c8_capesize chart of the week.png)
+
+> **Figure 1: Data Source: The Signal Ocean Platform Data**  
+> *Data Source: The Signal Ocean Platform Data*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64bfe7ea0a9772056dd337c8_capesize chart of the week.png)
 
 The last days of July are still quiet with a weaker sentiment of freight rates in all size classes, while all eyes are on the Black Sea grain market after Russia decided to not extend the agreement  that allows the safe shipment of Ukrainian grain through the Black Sea ports.
 
@@ -19,7 +42,7 @@ July is nearing its end with an increase in the number of ballast vessels from t
 
 Rio Tinto will reportedly be the first of the global iron ore groups to report lower half-year profits this week, as supply chains normalise after COVID-19 and attention turns to how suppliers in the Chinese steel industry view customer demand.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

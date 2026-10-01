@@ -1,7 +1,7 @@
 # Master Corpus Registry, Publication Cadence & Extraction Audit
 
 **Audit Snapshot Date:** 2026-10-01 | **Repository:** Shipping Knowledge Base  
-**Authoritative Ledger:** Combines the Master Extraction Register, Live Publication Cadence, Format Breakdown, and Vector Chart Inventory across all corpus directories.
+**Authoritative Ledger:** Combines the Master Extraction Register, Live Publication Cadence, Format Breakdown, Granular Sub-Sector/Fleet Breakdown, and Vector Chart Inventory across all corpus directories.
 
 ---
 
@@ -44,15 +44,74 @@
 | **Breakwave Advisors** | Weekly (Tuesday) & Daily Insights | `2026-09-29` | 2d | **CURRENT** | 304 PDF, 3236 HTML, 15072 IMG | [`data/extracted/md/breakwave`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/breakwave) | Yes (Dry bulk freight fundamentals & ETF price trajectories) | `breakwave_fundamentals_series.csv (2` |
 | **Poten & Partners (Tanker Opinions)** | Weekly (Friday) | `2026-09-18` | 13d | **NORMAL INTERVAL (Week 39 due)** | 1087 PDF, 0 HTML, 0 IMG | [`data/extracted/md/poten`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/poten) | Yes (Top Charterers annual/biannual volume rankings) | `poten_opinions_metadata.csv (1` |
 | **Seabrokers (Seabreeze Monthly Offshore)** | Monthly (1st of Month) | `2026-08-01` | 61d | **NORMAL INTERVAL (Published with 3-4 week lag, Sep edition covers Aug)** | 97 PDF, 0 HTML, 0 IMG | [`data/extracted/md/seabrokers`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/seabrokers) | Yes (OSV utilisation curves, rig dayrates, offshore wind) | `seabrokers_osv_monthly_history_series.csv (6` |
-| **Drewry Maritime AIS Fleet Performance** | Weekly (Tuesday) | `2026-09-24` | 7d | **CURRENT (Ingested up to Week 39 across DAM 034)** | 285 PDF, 0 HTML, 0 IMG | [`data/extracted/md/drewry/ais`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais) | Yes (Fleet utilisation, tonne-mile index, bunker fuel price, ballast speeds) | `drewry_ais_fleet_performance_series.csv (14` |
+| **Drewry Maritime AIS Fleet Performance** | Weekly (Tuesday) | `2026-09-24` | 7d | **CURRENT (Ingested up to Week 39 across DAM 034)** | 288 PDF, 0 HTML, 0 IMG | [`data/extracted/md/drewry/ais`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais) | Yes (Fleet utilisation, tonne-mile index, bunker fuel price, ballast speeds) | `drewry_ais_fleet_performance_series.csv (14` |
 | **Drewry Opinions & World Container Index (WCI)** | Weekly (Thursday) | `2026-09-24` | 7d | **CURRENT (Assessed Thursdays)** | 0 PDF, 0 HTML, 0 IMG | [`data/extracted/md/drewry/opinions`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/opinions) | Yes (Global container freight rate time series) | `drewry_wci_historical.csv (122 weekly rows` |
-| **Signal Ocean (Fleet Telemetry & Monitors)** | Weekly (Friday) & Live Telemetry | `2026-09-24` | 7d | **CURRENT** | 10 PDF, 514 HTML, 1885 IMG | [`data/extracted/md/signal`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/signal) | Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps) | `signal_reports_metadata.csv (442 rows)` |
+| **Signal Ocean (Fleet Telemetry & Monitors)** | Weekly (Friday) & Live Telemetry | `2026-09-24` | 7d | **CURRENT** | 10 PDF, 515 HTML, 1885 IMG | [`data/extracted/md/signal`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/signal) | Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps) | `signal_reports_metadata.csv (446 rows)` |
 | **Baltic Exchange Weekly** | Weekly (Friday) | `2026-09-25` | 6d | **CURRENT** | 0 PDF, 3043 HTML, 0 IMG | [`data/extracted/md/baltic`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/baltic) | No (Detailed fixture narratives and route earnings) | `baltic_reports_metadata.csv (2` |
 | **Pilbara Ports Authority (PPA)** | Monthly (20th of Month) | `2026-07-28` | 65d | **NORMAL INTERVAL (August throughput figures published late Sep/early Oct)** | 493 PDF, 0 HTML, 0 IMG | [`data/commodities`](file:///C:/Users/Dell/Github/Shipping/data/commodities) | No (Port Hedland & Dampier iron ore export tonnage tables) | `australia_ppa_iron_ore.csv (424 rows` |
 
 ---
 
-## 3. Comprehensive Image & Graphic Extraction Audit
+## 3. Granular Sub-Sector, Vessel Class & Fleet Breakdown
+
+This section details document volumes, vessel classes, numerical metric coverage, and extraction scripts across complex composite publishers.
+
+### 3.1 Drewry Maritime AIS Fleet Performance (10 Discrete Vessel Classes)
+
+Drewry AIS reports are published across 10 specialized maritime vessel classes. The pipeline extracts executive KPIs, fleet utilisation curves, bunker consumption indicators, and port congestion indices without OCR noise:
+
+| Vessel Class / Sector | Report Count in Corpus | Typical Deadweight / CBM | Analytical Metrics Extracted | Master Series Target CSV | Extracted Data Volume | Processing Script |
+| :--- | :---: | :---: | :--- | :--- | :---: | :--- |
+| **Capesize (180,000 DWT)** | `27 weekly PDFs` | PDF vector | Fleet utilisation %, tonne-miles, ballast speed, Port Hedland/Tubarao delays | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Panamax / Kamsarmax (82,000 DWT)** | `23 weekly PDFs` | PDF vector | Fleet utilisation %, tonne-miles, ballast speed, Santos/Mississippi delays | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Supramax / Ultramax (64,000 DWT)** | `23 weekly PDFs` | PDF vector | Fleet utilisation %, tonne-miles, ballast speed, Indonesian coal delays | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Handysize (38,000 DWT)** | `25 weekly PDFs` | PDF vector | Fleet utilisation %, tonne-miles, ballast speed, minor bulk port queues | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **VLCC (300,000 DWT)** | `32 weekly PDFs` | PDF vector | Crude utilisation %, tonne-miles, Ras Tanura/Ningbo congestion, ballast speed | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Suezmax (160,000 DWT)** | `30 weekly PDFs` | PDF vector | Crude utilisation %, tonne-miles, West Africa/Mediterranean queues | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Aframax (115,000 DWT)** | `31 weekly PDFs` | PDF vector | Dirty utilisation %, tonne-miles, North Sea/Baltic/Caribs queues | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Product LR2 (115,000 DWT)** | `31 weekly PDFs` | PDF vector | Clean product utilisation %, tonne-miles, MEG-East product flows | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Product LR1 (75,000 DWT)** | `34 weekly PDFs` | PDF vector | Clean product utilisation %, tonne-miles, regional refinery flows | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **LPG Carrier (84,000 CBM VLGC)** | `32 weekly PDFs` | PDF vector | LPG carrier utilisation %, tonne-miles, US Gulf/Ras Laffan flows | `drewry_ais_fleet_performance_series.csv` | **14,768 rows across classes** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Regional Port Congestion (All Classes)** | `288 reports` | PDF vector curves | Port waiting days & congestion indexes across China, AG, USG, Aus, Bra | `drewry_ais_regional_congestion_series.csv` | **6,792 rows** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Deployment & Ballast Speeds (All Classes)** | `288 reports` | PDF vector curves | Laden vs ballast cruising speed knots by vessel class and region | `drewry_ais_deployment_speed_series.csv` | **2,427 rows** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+| **Capacity Utilisation Curves (All Classes)** | `288 reports` | PDF vector curves | Multi-year historical utilisation curves (2020-2026) | `drewry_ais_utilisation_curves_series.csv` | **1,007 rows** | [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) |
+
+### 3.2 Hellenic Shipping News Multi-Category Sub-Sources
+
+| Category / Sub-Source | Sub-Broker / Segment | Report Count | Format | Commercial Intelligence Extracted | Master Series CSV | Total Data Rows | Processing Script |
+| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |
+| **Hellenic Demolition** | Athenian Shipbrokers Cash Buyer | `1,272 reports` | HTML / PDF | Scrap indicative prices ($/LDT) for Bangladesh, India, Pakistan, Turkey | `hellenic_athenian_demolition_series.csv` | **3,052 rows** | [`run_athenian_demolition.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_athenian_demolition.py) |
+| **Hellenic Demolition** | GMS Weekly Recycler Insights & Deals | `1,272 reports` | HTML / PDF | Cash buyer commentary, scrap sentiment, fixture deals | `hellenic_gms_demolition_series.csv` | **1,092 rows** | [`run_gms_demolition.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_gms_demolition.py) |
+| **Hellenic Demolition** | GMS Port Position Queues | `1,272 reports` | HTML tables / Images | Cash buyer port arrivals, beaching positions, tonnage queued | `hellenic_gms_port_positions_series.csv` | **2,905 rows** | [`run_gms_demolition.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_gms_demolition.py) |
+| **Hellenic Demolition** | Best Oasis Scrap Assessments & Deals | `1,272 reports` | HTML / PDF | Subcontinent scrap rates and beaching transaction fixtures | `hellenic_best_oasis_deals_series.csv` | **882 rows (deals), 859 rows (rates)** | [`run_best_oasis_demolition.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_best_oasis_demolition.py) |
+| **Hellenic Dry Charter** | Alibra Dry Bulk Time Charter Estimates | `266 reports` | HTML / Images | 1Y, 2Y, 3Y, 5Y period TC ($/day) for Capesize, Kamsarmax, Ultramax, Handy | `hellenic_alibra_dry_tc_series.csv` | **6,443 rows** | [`run_hellenic_alibra_tc.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_alibra_tc.py) |
+| **Hellenic Tanker Charter** | Alibra Tanker Time Charter Estimates | `265 reports` | HTML / Images | 1Y, 2Y, 3Y, 5Y period TC ($/day) for VLCC, Suezmax, Aframax, LR2, LR1, MR | `hellenic_alibra_tanker_tc_series.csv` | **7,177 rows** | [`run_hellenic_alibra_tc.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_alibra_tc.py) |
+| **Hellenic Iron Ore** | MMI Daily Brand Price Assessments | `3,537 reports` | PDF / HTML | 31+ brand prices $/dmtu (PB Fines, Newman, Carajas, Lump/Pellet premiums) | `hellenic_iron_ore_pdf_brands_series.csv` | **31,272 rows** | [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) |
+| **Hellenic Iron Ore** | SMM Daily Spot Iron Ore Benchmark | `1,171 reports` | PDF / HTML | 62% Fe CFR China daily benchmark and port stock statistics | `hellenic_iron_ore_daily_series.csv` | **1,171 rows** | [`run_smm_iron_ore_daily.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_smm_iron_ore_daily.py) |
+| **Hellenic Iron Ore** | Baltic Capesize C3 / C5 Freight Rates | `1,164 reports` | PDF / HTML | Tubarao-Qingdao (C3) & Dampier-Qingdao (C5) freight $/ton | `hellenic_capesize_c3_c5_series.csv` | **1,164 rows** | [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) |
+| **Hellenic Valuations** | VesselsValue Secondhand Valuation Matrix | `261 reports` | HTML tables / Images | Resale, 5Y, 10Y, 15Y, 20Y values ($M) for Bulkers, Tankers, Containers | `hellenic_vv_matrix_series.csv` | **12,340 rows** | [`run_hellenic_vv_matrix.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_vv_matrix.py) |
+| **Hellenic Valuations** | VesselsValue Secondhand Sales Deals | `261 reports` | HTML tables | Reported S&P transactions with vessel name, DWT, built, yard, price $M | `hellenic_vv_sales_series.csv` | **2,122 rows** | [`run_hellenic_vessel_valuations.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_vessel_valuations.py) |
+
+### 3.3 Shipbroker Intelligence Discrete Series & Econometric Models
+
+| Publisher | Intelligence Domain | Document Volume | Format | Core Analytical Payload | Master Series CSV / Destination | Stored Volume | Processing Script |
+| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |
+| **SSY Simpson Spence Young** | Atlantic Capesize Index (ACI) & Pacific (PCI) | `530 reports` | PDF tabular | Atlantic & Pacific Capesize voyage rate indices & iron ore haul routes | `data/indices/ (display-linked)` | **Continuous weekly indices** | [`run_ssy_complete.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_ssy_complete.py) |
+| **Fearnleys Weekly** | 6-Pillar Weekly Market Intelligence | `526 reports` | PDF structured | Crude/Product tankers, Dry Bulk, Gas, Newbuilding, S&P, Macro | `data/extracted/series/ (normalized rate cards)` | **526 issues cover-to-cover** | [`run_fearnleys_normalized.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_fearnleys_normalized.py) |
+| **Fearnleys Econometric** | 26 Lead-Indicator Econometric Models | `26 models` | Vector charts / Excel | Copper vs Supramax, Coal curve vs P5, Iron Ore vs 5TC, S&P vs 1Y TC | `fearnleys_md_master_econometric_series.xlsx` | **26 workbook sheets** | [`export_fearnleys_md_excel.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/export_fearnleys_md_excel.py) |
+| **Poten & Partners** | Tanker Opinions & Top Charterers Series | `1,087 reports` | PDF full text | Narrative essays + 2005-2026 Top Dirty Spot Charterer annual volume rankings | `poten_top_charterers_series.csv` | **755 rows (charterers), 1,087 rows (metadata)** | [`run_poten.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_poten.py) |
+| **Seabrokers Seascope** | Offshore Support Vessels, Rigs & Subsea | `97 reports` | PDF monthly | North Sea OSV dayrates, rig utilization %, subsea & offshore wind | `seabrokers_osv_monthly_history_series.csv` | **15,430 rows across 9 series** | [`run_seabrokers_llamaparse.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_seabrokers_llamaparse.py) |
+| **Signal Ocean** | Weekly Monitors, Research & Live Fleet | `515 reports` | HTML / Telemetry | Dry & tanker weekly monitors, trade flows, live fleet positions & queues | `signal_reports_metadata.csv` | **446 rows + live JSON views** | [`run_signal.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_signal.py) |
+| **Xclusiv Shipbrokers** | Comprehensive Tabular Market Intelligence | `271 reports` | PDF tables (9 pages) | S&P sales, scrap deals, secondhand matrix, newbuilding orders | `xclusiv_sales_series.csv` | **17,737 rows across 5 series** | [`run_xclusiv_tables.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_xclusiv_tables.py) |
+| **Advanced Shipping** | S&P, Secondhand Matrices, Demo & NB | `253 reports` | PDF tables (10 pages) | S&P sales, demolition rates & deals, secondhand valuation matrix | `advanced_shipping_sales_series.csv` | **18,744 rows across 5 series** | [`run_advanced_shipping_tables.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_advanced_shipping_tables.py) |
+| **Banchero Costa** | S&P Deals with IMO Numbers & Newbuilding | `243 reports` | PDF tables / LlamaParse | S&P deals with verified 7-digit IMO numbers, newbuilding orders & prices | `bancosta_sales_series.csv` | **5,043 rows across 3 series** | [`run_banchero_costa_tables.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_banchero_costa_tables.py) |
+| **Intermodal** | Secondhand S&P, Newbuilding, Scrap & Baltic | `256 reports` | PDF tables / Vector | Secondhand sales, newbuilding, scrap $/LDT, Page 3 Baltic curves | `intermodal_baltic_tc_series.csv` | **20,348 rows across series** | [`run_intermodal_full.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_intermodal_full.py) |
+| **Drewry WCI** | World Container Index (WCI) Freight Benchmarks | `122 weekly rows` | HTML / Wayback CDX | 8 major east-west route benchmarks + composite index $/FEU | `drewry_wci_historical.csv` | **122 weekly rows (display-linked)** | [`fetch_drewry_wci.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/fetch_drewry_wci.py) |
+| **Pilbara Ports Authority** | Port Hedland & Dampier Iron Ore Export Throughput | `493 reports` | PDF tables | Monthly export tonnage, destination country breakdowns (China, Japan, Korea) | `australia_ppa_iron_ore.csv` | **424 monthly rows (display-linked)** | [`run_ppa.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_ppa.py) |
+
+---
+
+## 4. Comprehensive Image & Graphic Extraction Audit
 
 This table tracks sectors where the pipeline inspects and extracts numerical data from images, raster graphics, or vector drawings:
 
@@ -72,7 +131,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 
 ---
 
-## 4. Detailed Sector Dossiers & Verification Links
+## 5. Detailed Sector Dossiers & Verification Links
 
 ### Advanced Shipping & Trading
 - **Corpus Directory:** [`corpus/01-brokers/advanced_shipping`](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/advanced_shipping)
@@ -379,12 +438,12 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Publication Cadence:** Weekly (Tuesday) (Expected day: Tuesday)
 - **Coverage Span:** `2024-01-02` to `2026-09-24`
 - **Latest Ingested Document:** `Drewry_AIS_Product_LR2_Week39_2026.pdf` (Status: **CURRENT (Ingested up to Week 39 across DAM 034)**)
-- **Inventory by Format:** 285 PDFs, 0 HTML files, 0 Images, 285 Markdown files
+- **Inventory by Format:** 288 PDFs, 0 HTML files, 0 Images, 288 Markdown files
 - **Chart Extraction:** Yes (Fleet utilisation, tonne-mile index, bunker fuel price, ballast speeds)
 - **Chart Engine / Technique:** Vector PostScript/PDF drawing curve extractor + executive KPI parser (run_drewry_ais_charts.py)
 - **Stacked Series CSVs:** drewry_ais_fleet_performance_series.csv (14,768 rows), drewry_ais_regional_congestion_series.csv (6,792 rows), drewry_ais_deployment_speed_series.csv (2,427 rows), drewry_ais_utilisation_curves_series.csv (1,007 rows)
 - **Extraction Script:** [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py)
-- **Notes & Rules Applied:** 24,994 continuous weekly data points across all 10 vessel classes. Overhauled to eliminate OCR noise.
+- **Notes & Rules Applied:** 24,994 continuous weekly data points across all 10 vessel classes: Product LR1 (34), VLCC (32), LPG Carrier (32), Aframax (31), Product LR2 (31), Suezmax (30), Capesize (27), Handysize (25), Panamax (23), Supramax (23).
 
 ### Drewry Opinions & World Container Index (WCI)
 - **Corpus Directory:** [`corpus/06-drewry/opinions`](file:///C:/Users/Dell/Github/Shipping/corpus/06-drewry/opinions)
@@ -405,10 +464,10 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Publication Cadence:** Weekly (Friday) & Live Telemetry (Expected day: Friday)
 - **Coverage Span:** `2021-05-14` to `2026-09-24`
 - **Latest Ingested Document:** `weekly-tanker-market-monitor-week-35-2026.md` (Status: **CURRENT**)
-- **Inventory by Format:** 10 PDFs, 514 HTML files, 1885 Images, 456 Markdown files
+- **Inventory by Format:** 10 PDFs, 515 HTML files, 1885 Images, 456 Markdown files
 - **Chart Extraction:** Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps)
 - **Chart Engine / Technique:** Playwright session scraper + static monitor markdown builder
-- **Stacked Series CSVs:** signal_reports_metadata.csv (442 rows), data/views/signal/live_fleet_positions.json
+- **Stacked Series CSVs:** signal_reports_metadata.csv (446 rows), data/views/signal/live_fleet_positions.json
 - **Extraction Script:** [`sync_live_fleet_pipeline.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/sync_live_fleet_pipeline.py)
 - **Notes & Rules Applied:** Live automated telemetry syncs active tanker queues and fleet AIS positions.
 

@@ -1,15 +1,37 @@
-# Weekly Dry Market Monitor - Week 40, 2023
-
-**Date**: May 18, 2024 | **Category**: Dry bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/dry-week-40-2023](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-40-2023)
-
+---
+title: "Weekly Dry Market Monitor - Week 40, 2023"
+issue_date: "2023-10-04"
+year: 2023
+week: 40
+category: "Dry Bulk"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/dry-week-40-2023"
+source_file: "corpus/07-signal/html/dry-week-40-2023.html"
+word_count: 307
+images_count: 1
+tables_count: 0
+tags:
+  - Capesize
+  - Dry Bulk
+  - Freight Rates
+  - Monitors
+  - Panamax
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Weekly Dry Market Monitor - Week 40, 2023
 
-## Brazilian grain exports broke records this year, outpacing weak US exports
+*Published on 04 October 2023*
+
+## Brazilian Grain Exports Broke Records This Year, Outpacing Weak US Exports
 
 
-![Signal Figure](../images/651c6472b6c806fb75290f30_DRY BULK FLOWS.png)
-*Signal Figure*
+![Brazilian Grain Exports Broke Records This Year, Outpacing Weak US Exports](../images/651c6472b6c806fb75290f30_DRY BULK FLOWS.png)
+
+> **Figure 1: Brazilian Grain Exports Broke Records This Year, Outpacing Weak US Exports**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-40-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/651c6472b6c806fb75290f30_DRY BULK FLOWS.png)
 
 As we enter the fourth quarter of this year, the market is showing a strong resurgence with rates increasing year-over-year. Notably, Capesize Brazil to North China rates have exceeded $20 per tonne. This significant upswing in the freight market's momentum is evident not only in the large vessel size segment but also in the Supramax and Handysize categories.
 

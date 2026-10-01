@@ -1,46 +1,68 @@
-# Weekly Tanker Market Monitor: Week 29, 2025
-
-**Date**: July 18, 2025 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025)
-
+---
+title: "Weekly Tanker Market Monitor: Week 29, 2025"
+issue_date: "2025-07-18"
+year: 2025
+week: 29
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025"
+source_file: "corpus/07-signal/html/tanker-week-29-2025.html"
+word_count: 762
+images_count: 5
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 29, 2025
 
-## Special Focus  of the Week
+*Published on 18 July 2025*
 
-Rising U.S. pressure on Russian oil buyers is prompting China and India to reduce imports and diversify supply.
+## Special Focus of the Week
 
-‍
+*Rising U.S. pressure on Russian oil buyers is prompting China and India to reduce imports and diversify supply.*
 
-The U.S. has publicly floated the possibility of implementing secondary tariffs on nations like China and India that continue buying Russian crude, but no such measures have been formally enacted. In Q2 2025, crude shipments from Russia to China were down about 20% year-over-year, mirroring a similar decline in Q2 2024 compared to Q2 2023.‍
+The U.S. has publicly floated the possibility of implementing secondary tariffs on nations like China and India that continue buying Russian crude, but no such measures have been formally enacted. In Q2 2025, crude shipments from Russia to China were down about 20% year-over-year, mirroring a similar decline in Q2 2024 compared to Q2 2023.
 
 
 ## Russian Dirty Oil Flows to China
 
 
-![https://app.signalocean.com/tanker/dynamic/oilflows](../images/687a580a07faa321c30410eb_AD_4nXdjqbaWHADfjM1F_ap_nFkblUCngNld1X-G5llTZuHKhCfq6eHG3KmC0yIUdWTTFempGXqSMOaJHYT1ozTX9Y4YynTN7pS74PpCIgfihecmSpHgS3-wxlbZWmdlQ_tlaXeI8ycHdw.png)
-*https://app.signalocean.com/tanker/dynamic/oilflows*
+![Https://app.signalocean.com/tanker/dynamic/oilflows](../images/687a580a07faa321c30410eb_AD_4nXdjqbaWHADfjM1F_ap_nFkblUCngNld1X-G5llTZuHKhCfq6eHG3KmC0yIUdWTTFempGXqSMOaJHYT1ozTX9Y4YynTN7pS74PpCIgfihecmSpHgS3-wxlbZWmdlQ_tlaXeI8ycHdw.png)
 
-‍
-
-‍
+> **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
+> *https://app.signalocean.com/tanker/dynamic/oilflows*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/687a580a07faa321c30410eb_AD_4nXdjqbaWHADfjM1F_ap_nFkblUCngNld1X-G5llTZuHKhCfq6eHG3KmC0yIUdWTTFempGXqSMOaJHYT1ozTX9Y4YynTN7pS74PpCIgfihecmSpHgS3-wxlbZWmdlQ_tlaXeI8ycHdw.png)
 
 Indian import volumes show a more modest decline: quarterly volumes were nearly flat versus Q1 2025 and down roughly 12% year-over-year, though monthly data reveals a steady drop since March, with June shipments falling over 10 million barrels.
 
 
-## Russian Dirty Oil Flows to India (Quarterly)‍
+## Russian Dirty Oil Flows to India (Quarterly)
 
 
-![Signal Figure](../images/687a580a07faa321c30410e5_AD_4nXfSjR-f-pFx45n-HCq0YQMafxx3tMX5F2g0GWCMxAGEglJ2s3aqKO3sY350_yMrg23eswqAVOZHEhlPijnbungPSeDW9RXtQ09fUK3jvzY1_-aaj_LbV0fRa6OM3TPUSmxJele0tA.png)
-*Signal Figure*
+![Russian Dirty Oil Flows to India (Quarterly)‍](../images/687a580a07faa321c30410e5_AD_4nXfSjR-f-pFx45n-HCq0YQMafxx3tMX5F2g0GWCMxAGEglJ2s3aqKO3sY350_yMrg23eswqAVOZHEhlPijnbungPSeDW9RXtQ09fUK3jvzY1_-aaj_LbV0fRa6OM3TPUSmxJele0tA.png)
+
+> **Figure 2: Russian Dirty Oil Flows to India (Quarterly)‍**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/687a580a07faa321c30410e5_AD_4nXfSjR-f-pFx45n-HCq0YQMafxx3tMX5F2g0GWCMxAGEglJ2s3aqKO3sY350_yMrg23eswqAVOZHEhlPijnbungPSeDW9RXtQ09fUK3jvzY1_-aaj_LbV0fRa6OM3TPUSmxJele0tA.png)
 
 
 ## Russian Dirty Oil Flows to India (Monthly)
 
 
-![Signal Figure](../images/687a580a07faa321c30410e2_AD_4nXd5qo3bEGH2CrmT6r7DTHNXbs7uycCLr4NqXusWZmK-HQP7lJFCiTS-pPzfblaRIh6yXPV4Ad52zA2XArd362Lieq8pNLqyB28g4LoY-kGbrYLVUiFbiRCC_QrewC8NH37AJUNs.png)
-*Signal Figure*
+![Russian Dirty Oil Flows to India (Monthly)](../images/687a580a07faa321c30410e2_AD_4nXd5qo3bEGH2CrmT6r7DTHNXbs7uycCLr4NqXusWZmK-HQP7lJFCiTS-pPzfblaRIh6yXPV4Ad52zA2XArd362Lieq8pNLqyB28g4LoY-kGbrYLVUiFbiRCC_QrewC8NH37AJUNs.png)
 
-It’s important to understand that Russia’s crude oil remains legally accessible in Asia. While theEuropean Unionand United Kingdom have unilaterally reduced the G7 price cap to $47.60/bbl, the United States has resisted endorsing the change, limiting the global enforcement power of the revised cap, especially given oil’s dollar-based trade and U.S.-controlled payment systems. Neither the U.S. nor the EU has banned crude exports to India or China. This suggests that the recent reductions in Russian crude imports by these two countries are more likely driven by market pricing than by sanctions avoidance.
+> **Figure 3: Russian Dirty Oil Flows to India (Monthly)**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/687a580a07faa321c30410e2_AD_4nXd5qo3bEGH2CrmT6r7DTHNXbs7uycCLr4NqXusWZmK-HQP7lJFCiTS-pPzfblaRIh6yXPV4Ad52zA2XArd362Lieq8pNLqyB28g4LoY-kGbrYLVUiFbiRCC_QrewC8NH37AJUNs.png)
+
+It’s important to understand that Russia’s crude oil remains legally accessible in Asia. While the [European Union](https://www.reuters.com/sustainability/boards-policy-regulation/whats-eus-18th-sanctions-package-against-russia-2025-07-18/?utm\_source=chatgpt.com)and United Kingdom have unilaterally reduced the G7 price cap to $47.60/bbl, the United States has resisted endorsing the change, limiting the global enforcement power of the revised cap, especially given oil’s dollar-based trade and U.S.-controlled payment systems. Neither the U.S. nor the EU has banned crude exports to India or China. This suggests that the recent reductions in Russian crude imports by these two countries are more likely driven by market pricing than by sanctions avoidance.
 
 As of July 18, 2025, Brent crude traded near $70/bbl, while Urals crude was priced around $58/bbl FOB, yielding a discount of approximately $12/bbl. While still meaningful, the current spread marks a widening from previous months when reduced Asian spot buying had temporarily narrowed the differential.
 
@@ -53,23 +75,26 @@ Meanwhile, Brazilian crude exports to China surged above 30 million barrels in J
 
 ## Brazilian Dirty Oil Flows to China (Monthly)
 
-‍
 
+![Brazilian Dirty Oil Flows to China (Monthly)](../images/687a580a07faa321c30410e8_AD_4nXcWNenu3PRiOqDEGY6ePYA-hdWbjd6j5h658AOcHzdP2gqBtMpYoe2zhPWq0IW6xAXEpTs1UdSansrcXjhWcJyXUad_Ax-DURhkcQlTFRgon7WLLRMkK-YCzwkZSD0ovwhzHs5wlQ.png)
 
-![Signal Figure](../images/687a580a07faa321c30410e8_AD_4nXcWNenu3PRiOqDEGY6ePYA-hdWbjd6j5h658AOcHzdP2gqBtMpYoe2zhPWq0IW6xAXEpTs1UdSansrcXjhWcJyXUad_Ax-DURhkcQlTFRgon7WLLRMkK-YCzwkZSD0ovwhzHs5wlQ.png)
-*Signal Figure*
+> **Figure 4: Brazilian Dirty Oil Flows to China (Monthly)**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/687a580a07faa321c30410e8_AD_4nXcWNenu3PRiOqDEGY6ePYA-hdWbjd6j5h658AOcHzdP2gqBtMpYoe2zhPWq0IW6xAXEpTs1UdSansrcXjhWcJyXUad_Ax-DURhkcQlTFRgon7WLLRMkK-YCzwkZSD0ovwhzHs5wlQ.png)
 
 
 ## VLCC Tonne Miles Seasonal Analysis Brazil - China
 
 
-![https://app.signalocean.com/tanker/dynamic/timeseries_tanker](../images/687a580907faa321c30410db_AD_4nXdpfIdPYPjKOoAg6rzA1R2TjoBrsxXXOwx4aVqj5R5AoDmcqzyVhC0EV4ZuLHVU68tssTKE4fcCFtKZJl7rnumntmT7tOasxmK0phT4UBa7nyE5VJuH5PSnxnLMhmwHhEB2lgx_.jpeg)
-*https://app.signalocean.com/tanker/dynamic/timeseries_tanker*
+![Https://app.signalocean.com/tanker/dynamic/timeseriestanker](../images/687a580907faa321c30410db_AD_4nXdpfIdPYPjKOoAg6rzA1R2TjoBrsxXXOwx4aVqj5R5AoDmcqzyVhC0EV4ZuLHVU68tssTKE4fcCFtKZJl7rnumntmT7tOasxmK0phT4UBa7nyE5VJuH5PSnxnLMhmwHhEB2lgx_.jpeg)
+
+> **Figure 5: Https://app.signalocean.com/tanker/dynamic/timeseriestanker**  
+> *https://app.signalocean.com/tanker/dynamic/timeseries_tanker*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/687a580907faa321c30410db_AD_4nXdpfIdPYPjKOoAg6rzA1R2TjoBrsxXXOwx4aVqj5R5AoDmcqzyVhC0EV4ZuLHVU68tssTKE4fcCFtKZJl7rnumntmT7tOasxmK0phT4UBa7nyE5VJuH5PSnxnLMhmwHhEB2lgx_.jpeg)
 
 This evolving pattern of longer-haul Atlantic Basin crude flows into Asia may push Europe to rely more heavily on Middle Eastern and U.S. supply. That rebalancing could impact U.S. refiners, particularly those optimized for light sweet grades, by altering feedstock availability, margins, and output strategies. At the same time, these shifts may support transatlantic clean product flows from the U.S. Gulf Coast to Europe, particularly for ULSD and, to a lesser extent, naphtha. This could increase demand for clean product tankers, especially MRs and LR1s. Meanwhile, gasoline exports are likely to remain concentrated in the Europe-to-U.S. Atlantic Coast trade.
 
-‍For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo. Readlast week's tanker monitor here.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Read [last week's tanker monitor here.](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2025)
 
-For subscription to our FREE weekly market trends email,please click here, or contact us at: research@thesignalgroup.com
+For subscription to our FREE weekly market trends email, [please click here](https://www.thesignalgroup.com/subscribe), or contact us at: research@thesignalgroup.com
 
 - Republishing is allowed with an active link to the source

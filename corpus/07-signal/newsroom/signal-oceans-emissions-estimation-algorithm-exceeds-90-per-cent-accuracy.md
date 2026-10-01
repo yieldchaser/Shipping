@@ -1,14 +1,31 @@
-# Signal Ocean’s Emissions estimation algorithm exceeds 90% accuracy
-
-**Date**: December 7, 2022 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signal-oceans-emissions-estimation-algorithm-exceeds-90-per-cent-accuracy](https://www.thesignalgroup.com/newsroom/signal-oceans-emissions-estimation-algorithm-exceeds-90-per-cent-accuracy)
-
+---
+title: "Signal Ocean’s Emissions Estimation Algorithm Exceeds 90% Accuracy"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signal-oceans-emissions-estimation-algorithm-exceeds-90-per-cent-accuracy"
+source_file: "corpus/07-signal/html/signal-oceans-emissions-estimation-algorithm-exceeds-90-per-cent-accuracy.html"
+word_count: 698
+images_count: 0
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal Ocean’s Emissions Estimation Algorithm Exceeds 90% Accuracy
+
+*Published on 17 June 2025*
 
 ## Signal Ocean's Emissions Estimation Algorithm Exceeds 90% Accuracy
 
 
-### Signal Maritime Enhances Emission Tracking with Accurate CO2 Estimates
+### Signal Maritime Enhances Emission Tracking with Accurate Co2 Estimates
 
 Detailed back testing of actual CO2 emissions of circa 40 tankers that have been part of the Signal Maritime pool against Signal Ocean’s algorithm-based estimates has shown that real-time emission estimates are accurate within less than a 10% margin of error.
 
@@ -20,11 +37,11 @@ The vessel emission features offered through the Signal Ocean platform, and the 
 
 Signal Ocean COO Dimitris Tsapoulis said:
 
-“CII estimations for any vessel or voyage, past, current or future, allow Signal Ocean users to factor in environmental performance at the time they are weighing their chartering options. Anecdotally, traders using the service reported back accuracies that were very close to their own internal calculations, based on actual measurements; we were delighted to see yet another data point in Signal Maritime’s figures.”
+*“CII estimations for any vessel or voyage, past, current or future, allow Signal Ocean users to factor in environmental performance at the time they are weighing their chartering options. Anecdotally, traders using the service reported back accuracies that were very close to their own internal calculations, based on actual measurements; we were delighted to see yet another data point in Signal Maritime’s figures.”*
 
 He added:
 
-“What is even more inspiring than seeing a system with high accuracy estimations is to see the Signal Maritime team producing top-of-class environmental performance by closely tracking and simulating it through data. Environmental performance will undoubtedly play an increasingly critical role in economic success as we approach 2030 and beyond. ”
+*“What is even more inspiring than seeing a system with high accuracy estimations is to see the Signal Maritime team producing top-of-class environmental performance by closely tracking and simulating it through data. Environmental performance will undoubtedly play an increasingly critical role in economic success as we approach 2030 and beyond. ”*
 
 The Signal Ocean estimates vessel emissions, like CO2, from AIS data converted into voyages, where all stops for bunkering operations, idle times, repairs, loads and discharge operations are taken into account. At sea, ballast and laden legs and Sulphur Emission Control Area navigation times are clearly defined. Fuel consumption is mapped to different fuel types (VLSFO, MGO, HSFO) based on the area that vessels have been trading, as well as taking into consideration a rich set of vessel particulars, including dimensions, the country built, and year built, scrubber fitting, consumption curves, operational conditions and vessel speeds.
 
@@ -33,14 +50,14 @@ Earlier this year, the algorithm underpinning Signal Ocean's estimates of vessel
 
 ## Frequently Asked Questions
 
-How accurate are Signal Ocean's vessel CO2 emission estimates?Back testing against actual data from circa 40 Signal Maritime tankers shows estimates accurate within less than a 10% margin of error.
+**How accurate are Signal Ocean's vessel CO2 emission estimates?** Back testing against actual data from circa 40 Signal Maritime tankers shows estimates accurate within less than a 10% margin of error.
 
-Has the algorithm been independently verified?Yes — DNV verified the algorithm as meeting IMO guidelines.
+**Has the algorithm been independently verified?** Yes — DNV verified the algorithm as meeting IMO guidelines.
 
-What vessel types are covered?Tankers, dry bulk, and LPG vessels.
+**What vessel types are covered?** Tankers, dry bulk, and LPG vessels.
 
-What data inputs does Signal Ocean use?AIS data converted into voyages, accounting for bunkering stops, idle times, repairs, load/discharge operations, SECA navigation, fuel type by trading area, and vessel particulars including scrubber fitting and consumption curves.
+**What data inputs does Signal Ocean use?** AIS data converted into voyages, accounting for bunkering stops, idle times, repairs, load/discharge operations, SECA navigation, fuel type by trading area, and vessel particulars including scrubber fitting and consumption curves.
 
-Why does real-time CII estimation matter under MARPOL Annex VI?The IMO's CII legislation rates vessels A–E on prior-year performance only. Signal Ocean's real-time estimates let owners, charterers, and traders assess a vessel's current and projected CII rating before committing to a fixture.
+**Why does real-time CII estimation matter under MARPOL Annex VI?** The IMO's CII legislation rates vessels A–E on prior-year performance only. Signal Ocean's real-time estimates let owners, charterers, and traders assess a vessel's current and projected CII rating before committing to a fixture.
 
-Track your fleet's CII performance in real time with Signal Ocean.The Vessel Emissions API and Signal Ocean platform give shipping participants accurate, DNV-verified emission estimates for any voyage — past, current, or future.Request a demoor explore theVessel Emissions APIto get started.
+**Track your fleet's CII performance in real time with Signal Ocean.** The Vessel Emissions API and Signal Ocean platform give shipping participants accurate, DNV-verified emission estimates for any voyage — past, current, or future. [Request a demo](https://www.thesignalgroup.com) or explore the [Vessel Emissions API](https://www.thesignalgroup.com) to get started.

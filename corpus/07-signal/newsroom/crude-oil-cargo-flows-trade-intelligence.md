@@ -1,22 +1,40 @@
-# Crude Oil Cargo Flows & Trade Intelligence: How Energy Traders Track Global Supply Shifts
-
-**Date**: August 29, 2025 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/crude-oil-cargo-flows-trade-intelligence](https://www.thesignalgroup.com/newsroom/crude-oil-cargo-flows-trade-intelligence)
-
+---
+title: "Crude Oil Cargo Flows & Trade Intelligence: How Energy Traders Track Global Supply Shifts"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/crude-oil-cargo-flows-trade-intelligence"
+source_file: "corpus/07-signal/html/crude-oil-cargo-flows-trade-intelligence.html"
+word_count: 2358
+images_count: 0
+tables_count: 1
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Crude Oil Cargo Flows & Trade Intelligence: How Energy Traders Track Global Supply Shifts
 
-## TL;DR
+*Published on 17 June 2025*
 
-- AIS transponder data, mandated by the IMO on every ship over 300 gross tonnes since 2004, gives traders a near-real-time view of the seaborne trade that carriesover 80% of merchandise by volume.
+## Tl;dr
+
+
+- AIS transponder data, mandated by the IMO on every ship over 300 gross tonnes since 2004, gives traders a near-real-time view of the seaborne trade that carries [over 80% of merchandise by volume](https://medium.com/@mcraddock/the-ships-that-count-the-world-5ef05e5c6ec9).
 - Tanker anchorage time more than doubled in 2020, from 15.63 to 33.04 hours, marking floating storage and demand destruction before official figures confirmed them.
 - LNG flow tracking now sits alongside crude analysis, since 12–14% of Europe's LNG passes through the Strait of Hormuz from Qatar.
 - Chokepoint passage rates expose disruption fast. Red Sea activity fell 45% in 2024.
-- Signal Ocean supplies the vessel and market intelligence layer, with a freeLNG Flows toolas an open entry point.
+- Signal Ocean supplies the vessel and market intelligence layer, with a free [LNG Flows tool](https://www.thesignalgroup.com/lng-flows) as an open entry point.
 
 
 ## Why Crude Oil Cargo Flow Tracking Defines the Edge in Energy Markets
 
-More than 80% of international merchandise trade moves by sea, which makes the position and behavior of cargo vessels a near-real-time proxy for global supply (Medium). Official trade statistics arrive weeks after the fact, while AIS signals from ships in motion publish within days. That timing gap decides who prices a supply shift first.
+More than 80% of international merchandise trade moves by sea, which makes the position and behavior of cargo vessels a near-real-time proxy for global supply ([Medium](https://medium.com/@mcraddock/the-ships-that-count-the-world-5ef05e5c6ec9)). Official trade statistics arrive weeks after the fact, while AIS signals from ships in motion publish within days. That timing gap decides who prices a supply shift first.
 
 Geopolitical shocks turned cargo flow data into a market-moving category that desks can no longer treat as supplementary. When the Ever Given blocked the Suez Canal for six days in March 2021, an estimated $9.6 billion in goods per day backed up behind it, and 432 vessels carrying $92.7 billion in cargo waited for the channel to clear. The Red Sea disruptions cut Suez crossings by 66% in early 2024 and rerouted Asia-Europe traffic around the Cape of Good Hope, adding 10 to 14 days per voyage.
 
@@ -37,29 +55,29 @@ The single most direct cargo signal is draft change. A tanker sits lower in the 
 Four signals carry most of the analytical weight in cargo flow tracking, ranked here by how directly they translate into a trading view.
 
 
-### 1. Port call data and voyage sequencing
+### 1. Port Call Data and Voyage Sequencing
 
 Port calls reveal structured trade routes that a single vessel position cannot. By stitching arrivals and departures into voyages, analysts reconstruct which exporters feed which buyers and at what cadence. The UN Global Platform monitors weekly port calls from roughly 1,200 ports worldwide, processing about 28 million AIS messages a day, which gives desks a near-real-time map of where crude actually moves.
 
 
-### 2. Draft and load changes as cargo volume proxies
+### 2. Draft and Load Changes as Cargo Volume Proxies
 
 Draft tells you how much a tanker is carrying. A vessel sits lower in the water when loaded, so a draft drop recorded after departure from a load port indicates cargo aboard. The UK ONS built cargo load estimates directly from draught changes and found a strong correlation between these shipping indicators and official import figures, published within days rather than weeks.
 
 
-### 3. Anchorage and loitering time
+### 3. Anchorage and Loitering Time
 
 Time at anchor separates congestion from floating storage. Average tanker anchorage time rose from 15.63 hours in 2019 to 33.04 hours in 2020, more than doubling as demand collapsed and owners parked loaded ships offshore. Prolonged loitering at known load ports signals chartering delays or oil deliberately held off the market.
 
 
-### 4. Trade route deviation
+### 4. Trade Route Deviation
 
 Chokepoint passage rates and rerouting expose supply stress before prices fully adjust. Red Sea shipping activity fell from over 1.1 million nautical miles in 2023 to roughly 600,000 in 2024, a 45% decline, as carriers diverted around the Cape of Good Hope and added 10 to 14 days to Asia-Europe runs. Tracking that diversion early lets desks price freight and arrival timing ahead of the consensus.
 
 
 ## Floating Storage as a Leading Supply Indicator
 
-Floating storage tells you about supply before the supply reaches a refinery, which is why traders watch it as a price signal rather than a logistics footnote. When sellers cannot find buyers, crude piles up on idle tankers, and rising barrels-on-water flags an oversupply that will pressure prices once it lands. Bloomberg cited Vortexa data showing oil on tankers in transit jumped to itshighest level since 2016, a read on global glut that arrived weeks ahead of official inventory reports.
+Floating storage tells you about supply before the supply reaches a refinery, which is why traders watch it as a price signal rather than a logistics footnote. When sellers cannot find buyers, crude piles up on idle tankers, and rising barrels-on-water flags an oversupply that will pressure prices once it lands. Bloomberg cited Vortexa data showing oil on tankers in transit jumped to its [highest level since 2016](https://www.linkedin.com/posts/annerileymoffat\_oil-activity-7422642952881188864-_cRX), a read on global glut that arrived weeks ahead of official inventory reports.
 
 Sanctions sharpen the signal. Reuters cited Kpler and Vortexa data showing Iran held roughly 50 days of output stranded on the water in early January as Chinese buyers pulled back. The same buildup appeared in 2020 anchorage data, when tanker time at anchor rose from 15.63 hours to 33.04 hours, more than doubling as demand collapsed.
 
@@ -68,9 +86,9 @@ The analytical trap is mistaking a vessel parked for storage for one paused mid-
 
 ## LNG Cargo Flows: Tracking the Other Energy Stream
 
-European and Asian desks that once treated LNG as a separate book now read it alongside crude, because the two stocks share the same chokepoints. The Strait of Hormuz carries roughly 20 million barrels of oil a day, and it also moves12 to 14% of Europe's LNG from Qatar. A disruption that spikes Brent hits Dutch TTF gas in the same week, so watching only crude leaves half the exposure unmeasured.
+European and Asian desks that once treated LNG as a separate book now read it alongside crude, because the two stocks share the same chokepoints. The Strait of Hormuz carries roughly 20 million barrels of oil a day, and it also moves [12 to 14% of Europe's LNG from Qatar](https://medium.com/@mcraddock/the-ships-that-count-the-world-5ef05e5c6ec9). A disruption that spikes Brent hits Dutch TTF gas in the same week, so watching only crude leaves half the exposure unmeasured.
 
-Signal Ocean's freeLNG Flows toolgives traders a public starting point with no login required. The page renders three view modes. Single Vessel tracks one carrier, Commercial Operator Fleets groups carriers by the company running them, and Vessel Class Overview aggregates by ship type. Those three lenses let an analyst move from a single cargo to a fleet-wide picture without leaving the page.
+Signal Ocean's free [LNG Flows tool](https://www.thesignalgroup.com/lng-flows) gives traders a public starting point with no login required. The page renders three view modes. Single Vessel tracks one carrier, Commercial Operator Fleets groups carriers by the company running them, and Vessel Class Overview aggregates by ship type. Those three lenses let an analyst move from a single cargo to a fleet-wide picture without leaving the page.
 
 The tool sits as an open entry point rather than a full intelligence product, and a demo prompt on the same page routes serious users into the broader Signal Ocean platform. For a desk testing whether LNG flow data belongs in its crude workflow, the free version answers that question before any subscription.
 
@@ -79,9 +97,9 @@ The tool sits as an open entry point rather than a full intelligence product, an
 
 Start with where the platform gets its data, because every downstream signal inherits the limits of its source. Terrestrial AIS receivers cover busy coastlines well but lose ships in open ocean, so a platform leaning only on land stations misses the long-haul tanker legs that matter most for crude. Ask for satellite coverage, the number of vessels tracked, and how often positions refresh. A platform updating hourly tells you less about a slowing VLCC than one updating in near real time.
 
-Judge cargo inference next, since raw position data alone does not tell you what a ship carries. Strong platforms estimate load volume from draft changes and flag manipulation directly. Kpler tracks nearly 3,000 tankers linked to high-risk crude and publishes spoofing events where a vessel's broadcast position diverges from its satellite-confirmed location (linkedin.com). Without that detection layer, sanctioned barrels move invisibly through your model.
+Judge cargo inference next, since raw position data alone does not tell you what a ship carries. Strong platforms estimate load volume from draft changes and flag manipulation directly. Kpler tracks nearly 3,000 tankers linked to high-risk crude and publishes spoofing events where a vessel's broadcast position diverges from its satellite-confirmed location ([linkedin.com](https://www.linkedin.com/posts/annerileymoffat\_oil-activity-7422642952881188864-_cRX)). Without that detection layer, sanctioned barrels move invisibly through your model.
 
-Check whether you can pull data programmatically or only click through a dashboard. A commodity desk feeding signals into pricing models needs API and data warehouse access, not a UI built for one analyst at a time. Signal Ocean lists a Data Warehouse and APIs as a distinct product section alongside its platform features (thesignalgroup.com).
+Check whether you can pull data programmatically or only click through a dashboard. A commodity desk feeding signals into pricing models needs API and data warehouse access, not a UI built for one analyst at a time. Signal Ocean lists a Data Warehouse and APIs as a distinct product section alongside its platform features ([thesignalgroup.com](https://www.thesignalgroup.com)).
 
 Confirm asset class breadth, because a desk pricing crude often watches LNG and product tankers in the same week. Test accessibility last. Free entry points like Signal Ocean's LNG Flows tool let you evaluate the underlying data before committing to an enterprise subscription.
 
@@ -89,6 +107,7 @@ Confirm asset class breadth, because a desk pricing crude often watches LNG and 
 ## Crude Oil Cargo Intelligence: Who Uses What and Why
 
 Three buyer profiles pull different signals from the same vessel data, and the table below maps what each one needs.
+
 
 |  | Energy Traders | Compliance & Sanctions Teams | Ship Operators & Brokers |
 | --- | --- | --- | --- |
@@ -101,51 +120,51 @@ Energy traders read these signals to anticipate price moves before official stat
 
 ## How Signal Ocean Fits Into the Maritime Intelligence Stack
 
-Signal Ocean operates as the vessel and market intelligence layer beneath a trading desk's workflow, describing its product as a360-degree view of commercial shipping. The company says it istrusted by over 200 customers, which signals a production-grade platform serving brokers, owners, and charterers rather than an experimental tool. Signal Ocean sits under The Signal Group alongside Signal Maritime, the group's ship management arm, and Signal Ventures.
+Signal Ocean operates as the vessel and market intelligence layer beneath a trading desk's workflow, describing its product as a [360-degree view of commercial shipping](https://www.thesignalgroup.com). The company says it is [trusted by over 200 customers](https://www.thesignalgroup.com), which signals a production-grade platform serving brokers, owners, and charterers rather than an experimental tool. Signal Ocean sits under The Signal Group alongside Signal Maritime, the group's ship management arm, and Signal Ventures.
 
 Two structural features matter for commodity desks evaluating integration. Signal Ocean lists a Data Warehouse and APIs as a distinct product section, which means you can pull vessel and market data into your own models rather than working only through a dashboard. The platform also ships an Android app, so analysts can check positions and movements away from a desk.
 
-The freeLNG Flows toolgives you a no-login entry point to test Signal Ocean's data before committing. It renders three views, covering a single vessel, commercial operator fleets, and a vessel class overview. A "Request a Demo" prompt on the same page routes interested users into the full platform, so the free tool doubles as the front door to Signal Ocean's broader vessel intelligence.
+The free [LNG Flows tool](https://www.thesignalgroup.com/lng-flows) gives you a no-login entry point to test Signal Ocean's data before committing. It renders three views, covering a single vessel, commercial operator fleets, and a vessel class overview. A "Request a Demo" prompt on the same page routes interested users into the full platform, so the free tool doubles as the front door to Signal Ocean's broader vessel intelligence.
 
 
 ## Summary: Key Signals for Crude Oil Cargo Flow Tracking
 
 Five signals carry most of the analytical weight in crude cargo tracking.
 
-AIS position→ A vessel's live location, speed, and heading → Maps active voyages and confirms which routes carriers actually take.
+**AIS position** → A vessel's live location, speed, and heading → Maps active voyages and confirms which routes carriers actually take.
 
-Draft change→ How deep a ship sits in the water → A post-departure draft drop confirms cargo loaded and estimates volume.
+**Draft change** → How deep a ship sits in the water → A post-departure draft drop confirms cargo loaded and estimates volume.
 
-Anchorage time→ Hours spent idle before berth → Flags port congestion or floating storage when tanker idle time doubles, as it did in 2020.
+**Anchorage time** → Hours spent idle before berth → Flags port congestion or floating storage when tanker idle time doubles, as it did in 2020.
 
-Chokepoint passage rate→ Crossings through Hormuz, Bab el-Mandeb, or Suez → Quantifies disruption, like the 45% Red Sea decline in 2024.
+**Chokepoint passage rate** → Crossings through Hormuz, Bab el-Mandeb, or Suez → Quantifies disruption, like the 45% Red Sea decline in 2024.
 
-Floating storage volume→ Crude held offshore on idle tankers → A leading supply glut or deficit signal that precedes price moves.
+**Floating storage volume** → Crude held offshore on idle tankers → A leading supply glut or deficit signal that precedes price moves.
 
 
 ## Explore Signal Ocean's Maritime Intelligence Platform
 
-Start with Signal Ocean's freeLNG Flows tool, which tracks LNG carrier movements across single vessels, commercial operator fleets, and vessel class views with no login required. It gives commodity desks a working sample of the vessel intelligence Signal Ocean produces. For crude tanker coverage, port call data, and API access to the full data warehouse,request a demoof the Signal Ocean platform.
+Start with Signal Ocean's free [LNG Flows tool](https://www.thesignalgroup.com/lng-flows), which tracks LNG carrier movements across single vessels, commercial operator fleets, and vessel class views with no login required. It gives commodity desks a working sample of the vessel intelligence Signal Ocean produces. For crude tanker coverage, port call data, and API access to the full data warehouse, [request a demo](https://www.thesignalgroup.com) of the Signal Ocean platform.
 
 
-## FAQs
+## Faqs
 
 
-### What is AIS data and how is it used in crude oil trading?
+### What Is AIS Data and How Is It Used in Crude Oil Trading?
 
 AIS is the automatic identification system that ships over 300 gross tonnes broadcast under an IMO mandate, transmitting identity, position, speed, heading, and navigational status every few seconds. Traders use AIS feeds to track tanker movements, infer cargo loads from draft changes, and time supply shifts before official statistics publish. Signal Ocean draws on this data to give commodity desks a near-real-time view of crude in motion.
 
 
-### How is floating storage detected from vessel tracking data?
+### How Is Floating Storage Detected From Vessel Tracking Data?
 
 Analysts flag floating storage when a laden tanker sits idle at anchor or loiters offshore for extended periods rather than proceeding to discharge. Reuters cited Kpler and Vortexa data showing Iran held roughly 50 days of output on the water in early January, a classic supply-glut signal.
 
 
-### What does Signal Ocean's LNG Flows tool show?
+### What Does Signal Ocean's LNG Flows Tool Show?
 
-Signal Ocean's freeLNG Flows tooltracks LNG carrier movements with no login required. It renders three views: Single Vessel, Commercial Operator Fleets, and Vessel Class Overview, giving European and Asian desks a public starting point for monitoring gas supply.
+Signal Ocean's free [LNG Flows tool](https://www.thesignalgroup.com/lng-flows) tracks LNG carrier movements with no login required. It renders three views: Single Vessel, Commercial Operator Fleets, and Vessel Class Overview, giving European and Asian desks a public starting point for monitoring gas supply.
 
 
-### How do maritime intelligence platforms detect AIS spoofing on sanctioned tankers?
+### How Do Maritime Intelligence Platforms Detect AIS Spoofing on Sanctioned Tankers?
 
 Platforms compare broadcast AIS positions against satellite imagery and flag divergence between where a vessel claims to be and where it actually is. Kpler tracks nearly 3,000 high-risk tankers and catches tactics like spoofing at known load ports and reusing identities from decommissioned ships.

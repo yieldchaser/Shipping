@@ -1,16 +1,35 @@
-# Weekly Dry Market Monitor: Week 14, 2025
-
-**Date**: April 2, 2025 | **Category**: Dry bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/dry-week-14-2025](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-14-2025)
-
+---
+title: "Weekly Dry Market Monitor: Week 14, 2025"
+issue_date: "2025-04-02"
+year: 2025
+week: 14
+category: "Dry Bulk"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/dry-week-14-2025"
+source_file: "corpus/07-signal/html/dry-week-14-2025.html"
+word_count: 496
+images_count: 1
+tables_count: 0
+tags:
+  - Capesize
+  - Dry Bulk
+  - Freight Rates
+  - Monitors
+  - Panamax
+  - Signal Ocean
+  - The Signal Group
 ---
 
-‍
+# Weekly Dry Market Monitor: Week 14, 2025
 
+*Published on 02 April 2025*
 
-![https://app.signalocean.com/dry/dynamic/market-prices-dry](../images/67ecedad57a0de541795107d_AD_4nXe2EgJZF_Oj_q7Nsg9R4cvOJnCuLantw-p2h08_0KFkDQD3IFqQd6Cd5VWHE08Ku4SuC6A7e6J5wYlEwIAGt6HOe0CaMk0sIgwCp6jeiUAiKR9FrlNBLa_NcvWFcZn2FSA_8Y3HeA.png)
-*https://app.signalocean.com/dry/dynamic/market-prices-dry*
+![Https://app.signalocean.com/dry/dynamic/market-Prices-Dry](../images/67ecedad57a0de541795107d_AD_4nXe2EgJZF_Oj_q7Nsg9R4cvOJnCuLantw-p2h08_0KFkDQD3IFqQd6Cd5VWHE08Ku4SuC6A7e6J5wYlEwIAGt6HOe0CaMk0sIgwCp6jeiUAiKR9FrlNBLa_NcvWFcZn2FSA_8Y3HeA.png)
 
-‍
+> **Figure 1: Https://app.signalocean.com/dry/dynamic/market-Prices-Dry**  
+> *https://app.signalocean.com/dry/dynamic/market-prices-dry*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-14-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67ecedad57a0de541795107d_AD_4nXe2EgJZF_Oj_q7Nsg9R4cvOJnCuLantw-p2h08_0KFkDQD3IFqQd6Cd5VWHE08Ku4SuC6A7e6J5wYlEwIAGt6HOe0CaMk0sIgwCp6jeiUAiKR9FrlNBLa_NcvWFcZn2FSA_8Y3HeA.png)
 
 
 ## Supramax Market Analysis: S8 Route Surges Amidst Tightening Tonnage Supply
@@ -20,10 +39,11 @@ Over the past several weeks, the Supramax freight market has witnessed a remarka
 
 ## Recovery Timing:
 
-The recovery in the Supramax market for theS8 routeappears to havestarted in early February 2025.
+The recovery in the Supramax market for the **S8 route** appears to have **started in early February 2025**.
 
-- On theleft chart, the S8 rate (green line) bottomed out aroundlate January 2025, at approximately$5,797/day, and then began a sharp upward movement into February and March.
-- TheS11TC(Supramax Timecharter Average) followed closely, starting to rise inmid to late February 2025to above $12,000/day by the end of March, indicating a slightly lagged broader market reaction.
+
+- On the **left chart**, the S8 rate (green line) bottomed out around **late January 2025**, at approximately **$5,797/day**, and then began a sharp upward movement into February and March.
+- The **S11TC** (Supramax Timecharter Average) followed closely, starting to rise in **mid to late February 2025** to above $12,000/day by the end of March, indicating a slightly lagged broader market reaction.
 
 
 ## Tonnage Supply and Rate Correlation
@@ -44,7 +64,7 @@ However, market participants should remain alert to the possibility of rapid cor
 
 In summary, the recent surge in the S8 rate underscores the sensitivity of the Supramax market to shifts in regional supply-demand dynamics. With both the S8 and S11TC indices pointing higher, the current rally appears well-grounded — but sustained strength will ultimately depend on whether supply remains tight or begins to normalise.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroompage & subscribe to weekly reports. Clickhere to request a demo. Check out ourprevious week's report here.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & subscribe to weekly reports. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Check out our [previous week's report here](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2025).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

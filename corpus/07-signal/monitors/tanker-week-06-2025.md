@@ -1,15 +1,39 @@
-# Weekly Tanker Market Monitor: Week 06, 2025
-
-**Date**: February 06, 2025 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-06-2025](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-06-2025)
-
+---
+title: "Weekly Tanker Market Monitor: Week 06, 2025"
+issue_date: "2025-02-06"
+year: 2025
+week: 6
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-06-2025"
+source_file: "corpus/07-signal/html/tanker-week-06-2025.html"
+word_count: 515
+images_count: 1
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 06, 2025
 
-## This week's focus centers on the evolution of Canadian oil flows to all destinations
+*Published on 06 February 2025*
+
+## This Week's Focus Centers on the Evolution of Canadian Oil Flows to All Destinations
 
 
-![https://app.signalocean.com/tanker/dynamic/oilflows](../images/67a50b9bbd2567f925434c33_AD_4nXcWzvuWCmKtFwDM-Xj924fLBMZMP9hLHj6Sy0xMZvi84OzanL_Vy_GGt8Q8Nh1N6mOrLk0Wsz18fLvXy3PJI-Tvy6eTGUfcJqQBgju9O5nFvx9221S33Kj_KD4eHaSJ_1nWcbA1Ng.avif)
-*https://app.signalocean.com/tanker/dynamic/oilflows*
+![Https://app.signalocean.com/tanker/dynamic/oilflows](../images/67a50b9bbd2567f925434c33_AD_4nXcWzvuWCmKtFwDM-Xj924fLBMZMP9hLHj6Sy0xMZvi84OzanL_Vy_GGt8Q8Nh1N6mOrLk0Wsz18fLvXy3PJI-Tvy6eTGUfcJqQBgju9O5nFvx9221S33Kj_KD4eHaSJ_1nWcbA1Ng.avif)
+
+> **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
+> *https://app.signalocean.com/tanker/dynamic/oilflows*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-06-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67a50b9bbd2567f925434c33_AD_4nXcWzvuWCmKtFwDM-Xj924fLBMZMP9hLHj6Sy0xMZvi84OzanL_Vy_GGt8Q8Nh1N6mOrLk0Wsz18fLvXy3PJI-Tvy6eTGUfcJqQBgju9O5nFvx9221S33Kj_KD4eHaSJ_1nWcbA1Ng.avif)
 
 The crude oil freight market remains highly volatile, with recent spikes in VLCC rates on the MEG-China route. While tonne-day demand growth has yet to show signs of recovery, market sentiment appears to be firming, driven by uncertainty surrounding oil price fluctuations and China's crude oil demand. Additionally, the impending implementation of U.S. tariffs on the energy sector adds to the instability.
 
@@ -21,7 +45,7 @@ By March 2025, if no tariffs are imposed, volumes should remain stable. However,
 
 As for vessel utilisation, Aframax tankers play a dominant role in Canadian oil exports, accounting for 42.2% of the total. In the absence of immediate tariff enforcement, Aframax utilisation is expected to remain strong in Q1 2025, particularly for short-haul routes to the U.S. Atlantic Coast. However, if tariffs are reintroduced in Q2 2025, demand for Aframax tankers on U.S. routes may decrease, potentially leading to a shift in cargoes to Suezmax tankers for longer-haul shipments to Europe. This could result in a softening of Aframax freight rates due to reduced demand, prompting a reallocation of vessels to new routes.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

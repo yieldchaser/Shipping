@@ -1,11 +1,28 @@
-# When the Gulf Went Still
-
-**Date**: April 8, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still)
-
+---
+title: "When the Gulf Went Still"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still"
+source_file: "corpus/07-signal/html/when-the-gulf-went-still.html"
+word_count: 2508
+images_count: 5
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# When the Gulf Went Still
 
-## One month of AIS-derived data from the world's most consequential chokepoint and what it revealed about a dry bulk market frozen in place.
+*Published on 17 June 2025*
+
+## One Month of AIS-Derived Data From the World's Most Consequential Chokepoint and What It Revealed About a Dry Bulk Market Frozen in Place.
 
 Оn 28 February 2026, the Persian Gulf was running a normal book of business. Panamaxes were completing grain discharges at Bandar Imam Khomeini. Supramaxes were working fertilizer parcels. Handysizers were loading industrial minerals for Southeast Asian ports. Then the United States and Israel launched coordinated strikes on Iran — including the killing of Supreme Leader Ali Khamenei — and within seventy-two hours, the Islamic Revolutionary Guard Corps had formally declared the Strait of Hormuz closed. Only four vessels had crossed in either direction. The month that followed was unlike anything the dry bulk market had seen.
 
@@ -21,15 +38,17 @@ To understand why this number matters, it helps to know what normal looks like. 
 Over the following two weeks, as the broader situation failed to normalise, the total fleet of all vessel types west of Hormuz continued to grow. By 9 March it had reached 1,061 vessels. By 12 March, 1,062 — the peak recorded during the month. The Gulf had effectively become a holding area for a substantial fraction of global merchant shipping.
 
 
-## The size picture
+## The Size Picture
 
 The trapped dry bulk fleet was not concentrated at one end of the size spectrum. Panamaxes (68–85K dwt) and Supramaxes (50–60K dwt) accounted for the largest shares, reflecting their role as the primary workhorses of Gulf commodity trades. Handysizes (25–40K dwt) were also well represented.
 
 At the upper end, four standard Capesize bulkers in the 170–180K dwt range were among the largest vessels present — a reminder that the Gulf does attract larger tonnage for bauxite, limestone, and bulk mineral exports, even if it is not a traditional Capesize routing.
 
 
-![Signal Figure](../images/69d6243e469d30e7450ed309_3572c84e.png)
-*Signal Figure*
+![The Size Picture](../images/69d6243e469d30e7450ed309_3572c84e.png)
+
+> **Figure 1: The Size Picture**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed309_3572c84e.png)
 
 
 ## What Was Locked Inside
@@ -37,8 +56,10 @@ At the upper end, four standard Capesize bulkers in the 170–180K dwt range wer
 Vessel counts give a sense of scale. Cargo volumes tell the supply chain story. AXSMarine's mid-March commodity analysis translated the trapped dry bulk fleet into tonnage terms — and the picture it produced was of a disruption hitting several import markets at once.
 
 
-![Signal Figure](../images/69d6243e469d30e7450ed312_9a495975.png)
-*Signal Figure*
+![What Was Locked Inside](../images/69d6243e469d30e7450ed312_9a495975.png)
+
+> **Figure 2: What Was Locked Inside**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed312_9a495975.png)
 
 The grain and fertilizer figures deserve particular attention, because they are time-sensitive in a way that bulk minerals and steel are not. The 1.2 million MT of grain cargoes trapped inside the Gulf — predominantly corn — represent delayed deliveries to import markets in South and Southeast Asia at a moment in the calendar when agricultural buyers are building pre-season stocks. The roughly 834,000 MT of fertilizers, largely urea with smaller phosphate volumes, arrived at Hormuz just as Northern Hemisphere farmers were approaching spring application windows. Delay in both cases does not simply push a shipment back by a week — it can compress or disrupt input supply chains with consequences that extend well beyond the port gate.
 
@@ -49,27 +70,34 @@ Vessels that had already cleared the Strait before the conflict provided some bu
 
 The most operationally significant question throughout March was not how many vessels were trapped — it was how many were moving, and at what rate. AXSMarine tracked every crossing through the Strait, and what that data showed was a corridor that never fully closed but never came close to functioning normally.
 
+
 - 28 Feb – 5 March
 
 Conflict begins. In the first 72 hours, just four vessels cross the Strait in either direction. 353 dry bulk and MPP vessels confirmed inside the Gulf by 5 March.
 
+
 - 9 March
 
 Over the prior weekend, seven vessels transit in total — five dry bulk carriers and two tankers. The overall trapped fleet reaches 1,061 vessels. AIS signal disruption peaks: 323 vessels are dark or transmitting unreliable positions.
+
 
 - 11–12 March
 
 The most violent 24-hour period of the month. The Thai-flagged bulk carrier MAYUREE NAREE (30K dwt) is struck by a projectile while transiting the Strait; 20 crew are rescued by the Omani Navy, three remain missing. The STAR GWYNETH (87.2K dwt Panamax, owned by Star Bulk Carriers) is hit in the hold area while anchored northwest of Dubai; all crew safe.
 
 
-![Signal Figure](../images/69d6243e469d30e7450ed30c_be757515.png)
-*Signal Figure*
+![A Trickle, Not a Flow](../images/69d6243e469d30e7450ed30c_be757515.png)
+
+> **Figure 3: A Trickle, Not a Flow**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed30c_be757515.png)
 
 The container ship ONE MAJESTY sustains minor damage above the waterline near Ras Al Khaimah. Separately, near Basra, two tankers — SAFESEA VISHNU and ZEFYROS — are struck by Iranian sea drones while conducting a ship-to-ship transfer of naphtha; both vessels are engulfed in flames. One Indian crew member aboard SAFESEA VISHNU is killed. Seven vessels successfully transit the Strait in the same 48-hour window. Trapped fleet reaches its peak: 1,062.
+
 
 - 13–19 March
 
 25 vessels cross over the week to 19 March. Panamax bulk carriers dominate outbound movements — Greek and Chinese operators accounting for most transits. The STAR GWYNETH crosses and proceeds to drydock in Oman. Around 13 March, the IRGC establishes what analysts describe as a tolled passageway through Iranian territorial waters around Larak Island — requiring vessels to submit documentation, and in some cases payment, before being cleared. Iranian attacks on merchant ships appear to slow following the tollbooth's opening. The last confirmed strike in the period occurs on 19 March.
+
 
 - 19–27 March
 
@@ -104,8 +132,10 @@ This is not a new behavior in high-risk maritime environments. AXSMarine has doc
 What was different in March 2026 was the scale of outright signal loss. In the chemical tanker segment — a useful test case because it is smaller and therefore more legible — the disruption inverted the normal ratio almost completely. On 15 March, 37 of 52 chemical tankers tracked inside the Gulf were dark, compared to only 15 transmitting.
 
 
-![Signal Figure](../images/69d6243e469d30e7450ed30f_241a621c.png)
-*Signal Figure*
+![When the Signal Disappears](../images/69d6243e469d30e7450ed30f_241a621c.png)
+
+> **Figure 4: When the Signal Disappears**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed30f_241a621c.png)
 
 
 ## The Longer Imprint
@@ -119,9 +149,13 @@ The supply chain effects are less tractable. Some of the grain and fertilizer ca
 The fertilizer question is the one worth watching most carefully. Roughly 834,000 MT of fertilizer cargo was locked west of Hormuz as of mid-March - predominantly urea, with smaller volumes of phosphates — at a point in the calendar when buyers across South and Southeast Asia were building stocks for spring planting. The Gulf region accounts for roughly 30% of global seaborne fertilizer trade in normal times; urea prices had spiked close to 30% within weeks of the conflict's onset. For farmers in import-dependent regions, particularly across Africa and South Asia, the disruption arrived at the worst possible moment in the agricultural calendar.
 
 
-![Signal Figure](../images/69d6243e469d30e7450ed315_ead7c239.png)
-*Signal Figure*
+![The Longer Imprint](../images/69d6243e469d30e7450ed315_ead7c239.png)
+
+> **Figure 5: The Longer Imprint**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed315_ead7c239.png)
 
 By 27 March, the situation had become urgent enough that Iran agreed to a UN request to exempt humanitarian aid and agricultural shipments from the transit restrictions — the first substantive breakthrough at the chokepoint in nearly a month. The UN Secretary-General had appointed a personal envoy specifically to negotiate the restoration of fertilizer flows, framing the issue as a systemic risk to global food production. Whether that exemption holds, widens, or collapses under the pressure of the wider conflict remains to be seen. But its very existence confirms what AXSMarine's cargo data had signalled weeks earlier: the 834,000 MT of fertilizer stranded west of Hormuz was not a shipping statistic. It was a food security problem in transit.
 
-The Strait of Hormuz is always consequential. It carries roughly a fifth of globally traded oil, as well as meaningful volumes of LNG, LPG, and the dry bulk commodities this review has focused on. In ordinary times, that significance is priced into trade routes and risk frameworks as a chronic background condition. In March 2026, it became acute. What the data captured — vessel by vessel, crossing by crossing, signal by signal - was a market confronting, in real time, what it actually means when the Gulf goes still.Learn more aboutAXS Data & APIs.
+The Strait of Hormuz is always consequential. It carries roughly a fifth of globally traded oil, as well as meaningful volumes of LNG, LPG, and the dry bulk commodities this review has focused on. In ordinary times, that significance is priced into trade routes and risk frameworks as a chronic background condition. In March 2026, it became acute. What the data captured — vessel by vessel, crossing by crossing, signal by signal - was a market confronting, in real time, what it actually means when the Gulf goes still.
+
+Learn more about [AXS Data & APIs.](https://public.axsmarine.com/data-and-apis)

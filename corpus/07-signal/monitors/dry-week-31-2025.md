@@ -1,22 +1,40 @@
-# Weekly Dry Market Monitor: Week 31, 2025
-
-**Date**: July 31, 2025 | **Category**: Dry bulk | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2025](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2025)
-
+---
+title: "Weekly Dry Market Monitor: Week 31, 2025"
+issue_date: "2025-07-31"
+year: 2025
+week: 31
+category: "Dry Bulk"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2025"
+source_file: "corpus/07-signal/html/dry-week-31-2025.html"
+word_count: 488
+images_count: 1
+tables_count: 0
+tags:
+  - Capesize
+  - Dry Bulk
+  - Freight Rates
+  - Monitors
+  - Panamax
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Weekly Dry Market Monitor: Week 31, 2025
+
+*Published on 31 July 2025*
 
 ## Spotlight on Capesize Tonne Days to the Far East and C3 Market Rates
 
 
-## ‍
+![Https://app.signalocean.com/dry/dynamic/timeseriesdry](../images/688b38e9c5a2dfc9d0aebe88_AD_4nXc8FKx3pe3Fd-5qu09-FdSPyQtzrnz0-T_sai0IxZOtF53nHZG4rTpjy-eNHPQOYd6x4M3j_dQNd_F8RyuhCKGh_wl90iOQIrEr4ZfXLb9ZPlcjQYkVv2Tc2UveS1teBKt_lBtG-g.png)
 
+> **Figure 1: Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
+> *https://app.signalocean.com/dry/dynamic/timeseries_dry*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/688b38e9c5a2dfc9d0aebe88_AD_4nXc8FKx3pe3Fd-5qu09-FdSPyQtzrnz0-T_sai0IxZOtF53nHZG4rTpjy-eNHPQOYd6x4M3j_dQNd_F8RyuhCKGh_wl90iOQIrEr4ZfXLb9ZPlcjQYkVv2Tc2UveS1teBKt_lBtG-g.png)
 
-![https://app.signalocean.com/dry/dynamic/timeseries_dry](../images/688b38e9c5a2dfc9d0aebe88_AD_4nXc8FKx3pe3Fd-5qu09-FdSPyQtzrnz0-T_sai0IxZOtF53nHZG4rTpjy-eNHPQOYd6x4M3j_dQNd_F8RyuhCKGh_wl90iOQIrEr4ZfXLb9ZPlcjQYkVv2Tc2UveS1teBKt_lBtG-g.png)
-*https://app.signalocean.com/dry/dynamic/timeseries_dry*
-
-‍
-
-This week’sChart Monitorhighlights a continued upward trend in tonne-day growth for the Capesize segment during Q2 2025, particularly on voyages from the Atlantic Americas to the Far East. However, the recent surge in demand on the C3 route (Brazil to China) raises concerns about its durability as we move into the third quarter.
+This week’s ***Chart Monitor*** highlights a continued upward trend in tonne-day growth for the Capesize segment during Q2 2025, particularly on voyages from the Atlantic Americas to the Far East. However, the recent surge in demand on the C3 route (Brazil to China) raises concerns about its durability as we move into the third quarter.
 
 This week, C3 rates saw a downward trend as ballast vessel activity in the South Atlantic increased, potentially signaling a build-up of supply pressure in the weeks ahead. Meanwhile, Rio Tinto reported its lowest first-half profit in five years, at $4.81 billion, marking a ~16% year-on-year decline. The drop was driven by softer iron ore prices and persistent oversupply from key exporting regions, Australia, Brazil, and South Africa. The company also cut its interim dividend and reported higher unit costs, citing cyclone disruptions and reduced shipments from its Pilbara operations.
 
@@ -28,9 +46,9 @@ Seasonal factors also weigh on steel consumption in July–August, driven by hig
 
 China’s property sector, responsible for roughly 35–40% of domestic steel and iron ore demand, continues to deteriorate. In Q1 2025, new residential construction starts fell ~24% year-on-year, while property investment dropped ~16–17%. Despite government stimulus efforts, including a ¥4 trillion loan facility and tax incentives, buyer interest remains subdued. A backlog of unsold homes and ongoing developer bankruptcies continue to drag on construction activity and raw material consumption.
 
-Finally, China's portside iron ore inventories climbed to 133–136 million tonnes before the end of June, around 12% above the five-year average, underlining subdued offtake and deepening demand-side risks, rather than any sign of market stabilization.‍
+Finally, China's portside iron ore inventories climbed to 133–136 million tonnes before the end of June, around 12% above the five-year average, underlining subdued offtake and deepening demand-side risks, rather than any sign of market stabilization.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroompage & subscribe to weekly reports. Clickhere to request a demo. Click here to see theprevious dry bulk weeklyreport.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & subscribe to weekly reports. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Click here to see the[previous dry bulk weekly](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2025) report.
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

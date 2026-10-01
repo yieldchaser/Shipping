@@ -1,16 +1,37 @@
-# Weekly Tanker Market Monitor: Week 27, 2026
-
-**Date**: July 03, 2026 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026)
-
+---
+title: "Weekly Tanker Market Monitor: Week 27, 2026"
+issue_date: "2026-07-03"
+year: 2026
+week: 27
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026"
+source_file: "corpus/07-signal/html/weekly-tanker-market-monitor-week-27-2026.html"
+word_count: 1143
+images_count: 8
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 27, 2026
 
-## ‍Spotlight of the Week| Chinese Crude Oil Flows‍
+*Published on 03 July 2026*
+
+## Spotlight of the Week| Chinese Crude Oil Flows
 
 
 ## China Crude Oil Imports Fall 23% in First Half of 2026
 
-May marks the low point of the period as vessel-tracking data shows a sharp Q2 decline, followed by signs of stabilization in July
+*May marks the low point of the period as vessel-tracking data shows a sharp Q2 decline, followed by signs of stabilization in July*
 
 Chinese seaborne crude oil imports fell approximately 23% year-on-year in the first half of 2026, according to Signal Ocean vessel-tracking data, declining from roughly 1.87 billion barrels in H1 2025 to an estimated 1.44 billion barrels in H1 2026.
 
@@ -22,42 +43,52 @@ Preliminary tracking for July 2026, combined with a modeled month-end estimate, 
 ## Signal Ocean Crude Oil Flows - China, 6-Month View
 
 
-![Signal Figure](../images/6a4790f879bf3382d3f32908_da2bd01d.png)
-*Signal Figure*
+![Signal Ocean Crude Oil Flows - China, 6-Month View](../images/6a4790f879bf3382d3f32908_da2bd01d.png)
 
-China crude imports, trailing 6-month view. Platform-reported tracked volume of1.4B barrels, down 26.6% YoYon a rolling 6-month basis.
+> **Figure 1: Signal Ocean Crude Oil Flows - China, 6-Month View**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f32908_da2bd01d.png)
 
-
-## Key year-on-year moves:  Jan +13.5%·May -46.8%·July -41.0% (est.)
-
-Monthly Import Volumes - China (Year-on-Year)
+China crude imports, trailing 6-month view. Platform-reported tracked volume of **1.4B barrels, down 26.6% YoY** on a rolling 6-month basis.
 
 
-![Signal Figure](../images/6a4790708a76f2025a314eb1_Screenshot 2026-07-03 at 11.35.18.png)
-*Signal Figure*
+## Key Year-on-Year Moves: Jan +13.5%·may -46.8%·july -41.0% (Est.)
 
-Volumes in barrels. H1 Total covers January–June. July 2026 reflects partial-month tracking plus a modeled projection and is excluded from the H1 total. This update reflects observed and estimated import volumes only and does not constitute a forecast of future market conditions or an indicator of underlying demand drivers. Source: Signal Ocean.
+**Monthly Import Volumes - China (Year-on-Year)**
+
+
+![Key Year-on-Year Moves: Jan +13.5% · May -46.8% · July -41.0% (Est.)](../images/6a4790708a76f2025a314eb1_Screenshot 2026-07-03 at 11.35.18.png)
+
+> **Figure 2: Key Year-on-Year Moves: Jan +13.5% · May -46.8% · July -41.0% (Est.)**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790708a76f2025a314eb1_Screenshot 2026-07-03 at 11.35.18.png)
+
+*Volumes in barrels. H1 Total covers January–June. July 2026 reflects partial-month tracking plus a modeled projection and is excluded from the H1 total. This update reflects observed and estimated import volumes only and does not constitute a forecast of future market conditions or an indicator of underlying demand drivers. Source: Signal Ocean.*
 
 
 ## Freight Market Overview - Dirty
 
-As of early July 2026, theBaltic Dirty Tanker Indexhad eased sharply to 1,850 points, down 49.2% year-to-date and roughly 50% from its peak, as tanker traffic through Hormuz began to normalize, though it remained approximately 92.5% above year-ago levels. Middle East Gulf-to-China rates (TD3C) had similarly retreated to 293.89 Worldscale points, down 27% monthly.
+As of early July 2026, the **Baltic Dirty Tanker Index** had eased sharply to 1,850 points, down 49.2% year-to-date and roughly 50% from its peak, as tanker traffic through Hormuz began to normalize, though it remained approximately 92.5% above year-ago levels. Middle East Gulf-to-China rates (TD3C) had similarly retreated to 293.89 Worldscale points, down 27% monthly.
 
 
-![(Market Prices availableDirty)](../images/6a4790f879bf3382d3f3291a_9cc9e5b7.png)
-*(Market Prices availableDirty)*
+![(Market Prices Available Dirty)](../images/6a4790f879bf3382d3f3291a_9cc9e5b7.png)
+
+> **Figure 3: (Market Prices Available Dirty)**  
+> *(Market Prices available Dirty)*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f3291a_9cc9e5b7.png)
 
 
-## DirtyVLCC
+## Dirtyvlcc
 
-VLCC | TD2Middle East Gulf to Singapore| TD3CMiddle East Gulf to China |TD15West African to China |TD34Gulf of Oman to China
-
-
-![(Spot Comparison availablehere)](../images/6a4790f879bf3382d3f32911_69726b35.png)
-*(Spot Comparison availablehere)*
+**VLCC | TD2** Middle East Gulf to Singapore **| TD3C** Middle East Gulf to China | **TD15** West African to China | **TD34** Gulf of Oman to China
 
 
-## Time-Charter-Equivalent Earnings: The AG–China Route Correction
+![(Spot Comparison Available Here)](../images/6a4790f879bf3382d3f32911_69726b35.png)
+
+> **Figure 4: (Spot Comparison Available Here)**  
+> *(Spot Comparison available here)*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f32911_69726b35.png)
+
+
+## Time-Charter-Equivalent Earnings: The Ag–china Route Correction
 
 The correction was especially pronounced on time-charter-equivalent (TCE) earnings for the Middle East Gulf-to-China VLCC route (TD3C-TCE), the benchmark most directly tied to Chinese crude buying. As of July 2, 2026, daily earnings on the route stood at approximately $286,500 per day, still elevated at roughly 44% above the 52-week average, but down about $117,000 (‑29%) over the past month and more than 52% below the 52-week high of $601,569 recorded at the height of the crisis. On a year-on-year basis, earnings remained sharply higher (+$258,772), reflecting how depressed the pre-conflict starting point had been.
 
@@ -66,48 +97,54 @@ The retreat in freight earnings tracks the broader trajectory of US–Iran negot
 The latest round of indirect US–Iran talks in Doha on July 1 underscored that normalization remains incomplete. Mediators reported positive progress on issues linked to the memorandum, and both sides agreed to continue discussions. However, the technical negotiations concluded without resolving the main outstanding issues, with transit arrangements through the Strait of Hormuz remaining the principal point of disagreement. Shipping traffic has recovered only partially and remains well below pre-war levels, helping explain why TD3C earnings, despite retreating sharply from wartime highs, continue to trade well above pre-conflict norms.
 
 
-![(Market Prices availableDirty)](../images/6a4790f879bf3382d3f32917_02560c4b.png)
-*(Market Prices availableDirty)*
+![(Market Prices Available Dirty)](../images/6a4790f879bf3382d3f32917_02560c4b.png)
+
+> **Figure 5: (Market Prices Available Dirty)**  
+> *(Market Prices available Dirty)*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f32917_02560c4b.png)
 
 
-## SUPPLY MARKET TRENDS
+## Supply Market Trends
 
 This week, the VLCC AG market takes centre stage, where signals of an oversupplied picture have started to reflect in the freight market sentiment.
 
-VLCC | AG Supply Trends
-
-- VLCC Insights from theSignal Ocean Platformindicate that the TD3C route has shifted into an oversupplied state starting in early July.
-
-‍
+**VLCC | AG Supply Trends**
 
 
-![VLCC insights](../images/6a4790f879bf3382d3f3290e_153f5539.png)
-*VLCC insights*
+- VLCC Insights from the [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_downloadable) indicate that the TD3C route has shifted into an oversupplied state starting in early July.
+
+
+![VLCC Insights](../images/6a4790f879bf3382d3f3290e_153f5539.png)
+
+> **Figure 6: VLCC Insights**  
+> *VLCC insights*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f3290e_153f5539.png)
 
 The latest indicators point to an upward trend in the net supply for the Arabian Gulf during the last 15 days, with the latest estimate at 160, up 22% W-o-W.
 
 
-![VLCC insights](../images/6a4790f879bf3382d3f3290b_3abdd7d8.png)
-*VLCC insights*
+![VLCC Insights](../images/6a4790f879bf3382d3f3290b_3abdd7d8.png)
+
+> **Figure 7: VLCC Insights**  
+> *VLCC insights*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f3290b_3abdd7d8.png)
 
 
-## DIRTY DEMAND(TONNE MILES)| 7D MA - INDEX VIEW
+## Dirty Demand(tonne Miles)| 7d Ma - Index View
 
-VLCC  ↑4.5% WoW| Suezmax  ↑4.8% WoW| Aframax ↓0.6% WoW
+**VLCC  ↑** 4.5% WoW **| Suezmax  ↑** 4.8% WoW **| Aframax ↓** 0.6% WoW
 
 
-![Signal Figure](../images/6a4790f879bf3382d3f32914_8036ec2b.png)
-*Signal Figure*
+![Dirty Demand (Tonne Miles)| 7d Ma - Index View](../images/6a4790f879bf3382d3f32914_8036ec2b.png)
 
-‍
+> **Figure 8: Dirty Demand (Tonne Miles)| 7d Ma - Index View**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4790f879bf3382d3f32914_8036ec2b.png)
 
 VLCC tonne-mile demand extended its outperformance, rising 6.1 ppts WoW to 142.4% and remaining above historical norms. Suezmaxes recorded a further improvement of 4.6 ppts WoW to 100.1%, returning above the 100% parity threshold. By contrast, Aframax tonne-mile demand softened only marginally, declining 0.6 ppts WoW to 96.1%, indicating almost stable underlying demand.
 
-Metrics Description:Index View(Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
+Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry) (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
 
-‍
-
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroompage &subscribe to weekly reports. Clickhere to request a demo. Click here to see theprevious tanker weeklyreport.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & [subscribe to weekly reports](http://www.thesignalgroup.com/subscribe). Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Click here to see the[previous tanker weekly](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-26-2026) report.
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

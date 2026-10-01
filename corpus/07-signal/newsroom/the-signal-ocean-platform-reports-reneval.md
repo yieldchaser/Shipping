@@ -1,9 +1,26 @@
-# The Signal Ocean Platform Reports Renewal
-
-**Date**: September 19, 2023 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/the-signal-ocean-platform-reports-reneval](https://www.thesignalgroup.com/newsroom/the-signal-ocean-platform-reports-reneval)
-
+---
+title: "The Signal Ocean Platform Reports Renewal"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/the-signal-ocean-platform-reports-reneval"
+source_file: "corpus/07-signal/html/the-signal-ocean-platform-reports-reneval.html"
+word_count: 295
+images_count: 0
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# The Signal Ocean Platform Reports Renewal
+
+*Published on 17 June 2025*
 
 ## The Signal Ocean Platform Reports Renewal
 
@@ -17,6 +34,6 @@ Thirdly, consolidating various insights into a single report represents a Compre
 
 Overall, this migration to PowerBI represents a significant step forward for Signal Ocean's reporting capabilities and will provide its clients with a more comprehensive and data-driven decision-making process. Our commitment to improving reporting and analytical capabilities demonstrates our ongoing commitment to delivering value to our clients and driving innovation in the shipping industry.
 
-Access the platformhere.
+Access the platform [here.](https://app.signalocean.com/)
 
-Contact our salesto find out more
+[Contact our sales](https://www.thesignalgroup.com/contact) to find out more

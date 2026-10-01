@@ -1,8 +1,26 @@
+---
+title: "Economic Recovery and Energy Crunch Fuel Oil Demand Recovery"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery"
+source_file: "corpus/07-signal/html/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery.html"
+word_count: 2447
+images_count: 5
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
+---
+
 # Economic Recovery and Energy Crunch Fuel Oil Demand Recovery
 
-**Date**: November 9, 2021 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery)
-
----
+*Published on 17 June 2025*
 
 The global economic recovery is facing a crossroads moment. The growth engine of the last eighteen months, China, is facing considerable headwinds, with growth and industrial production data disappointing in recent weeks. While the Chinese economic expansion was widely expected to moderate as the initial recovery phase faded out, the rapid deceleration has taken many pundits by surprise. Despite the slowdown, the country is on course of beating the official full-year growth target of six per cent. However, some analysts, most notably Citigroup and Bank of America, now expects the soft patch to extend into next year, with growth below five per cent. The current situation has been in the making for some months. The domestic economy has been lagging behind the export-driven industry and problems in the property sector. In addition, policies aiming at controlling surging commodity prices and pollution levels have contributed. The unravelling energy crisis has since, in combination with resurgent Covid-19 outbreaks, super-charged the challenges the Chinese economy is facing.
 
@@ -20,13 +38,16 @@ In addition, the ongoing natural gas and coal shortages across Asia and Europe h
 In China, the supply issues surrounding coal and natural gas have led to a shortage of diesel, prompting the fuel to become rationed. Chinese authorities have met with the nation’s refiners in a bid to stave off further disruptions and surging prices. According to reports, officials questioned the refiners if they could raise processing rates to produce more fuel and import more diesel and gasoline. In addition, the ability to source additional crude oil at reasonable prices to avoid adding to the nation’s inflationary pressures remains a concern. In a well-published attempt to control the rising prices, China also released seven million barrels of crude from its strategic reserves. While being a historic first, the quantities account for less than a day’s consumption in the country.
 
 
-## OPEC+ Production
+## Opec+ Production
 
-Theoil-producing countriesare unlikely to come to the rescue anytime soon with increased output, with OPEC+ intent on remaining the custodian of price support. The organisation remains fully committed to theproduction deal reached in July, which sees the group adding 400,000 barrels a day to supply each month. The pact will see all production cuts removed in September next year, assuming that demand is recovering as projected and there is no significant resurgence of the coronavirus affecting the economic growth materially. Despite increasing diplomatic pressures, notably from the US, there are no indications of the organisation relenting, with the agreement reaffirmed multiple times. The cartel’s Joint Technical Committee has also softened its expectations for how tight global oil markets will be this quarter, ahead of the next ministerial meeting in early November. Its original forecast of 1.1 million barrel daily deficit during the fourth quarter was downgraded to an average of 300,000 barrels per day. However, the committee expects the shortage to turn to a surplus of 1.6 million barrels a day next year as non-OPEC production recovers.
+The [oil-producing countries](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) are unlikely to come to the rescue anytime soon with increased output, with OPEC+ intent on remaining the custodian of price support. The organisation remains fully committed to the [production deal reached in July](https://www.opec.org/opec\_web/en/press\_room/6512.htm), which sees the group adding 400,000 barrels a day to supply each month. The pact will see all production cuts removed in September next year, assuming that demand is recovering as projected and there is no significant resurgence of the coronavirus affecting the economic growth materially. Despite increasing diplomatic pressures, notably from the US, there are no indications of the organisation relenting, with the agreement reaffirmed multiple times. The cartel’s Joint Technical Committee has also softened its expectations for how tight global oil markets will be this quarter, ahead of the next ministerial meeting in early November. Its original forecast of 1.1 million barrel daily deficit during the fourth quarter was downgraded to an average of 300,000 barrels per day. However, the committee expects the shortage to turn to a surplus of 1.6 million barrels a day next year as non-OPEC production recovers.
 
 
-![Image 1:Evolution of OPEC+ Pandemic Production Cuts](../images/66b51d92735333b5f1672677_618aa0d0fb3bf9555ef2a530_Opec%20production%20cuts%20timeseries%202020%202021%202022%20v2.avif)
-*Image 1:Evolution of OPEC+ Pandemic Production Cuts*
+![Image 1:evolution of Opec+ Pandemic Production Cuts](../images/66b51d92735333b5f1672677_618aa0d0fb3bf9555ef2a530_Opec%20production%20cuts%20timeseries%202020%202021%202022%20v2.avif)
+
+> **Figure 1: Image 1:evolution of Opec+ Pandemic Production Cuts**  
+> *Image 1:Evolution of OPEC+ Pandemic Production Cuts*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f1672677_618aa0d0fb3bf9555ef2a530_Opec%20production%20cuts%20timeseries%202020%202021%202022%20v2.avif)
 
 Assuming OPEC+ maintains its planned course of action, traders increasingly believe that 100 dollars a barrel is rapidly approaching. Analysts at Bank of America are even more bullish and anticipate that crude oil will reach 120 dollars by the middle of next year.
 
@@ -37,30 +58,36 @@ News that international talks with Iran over its nuclear programme initially saw
 
 ## Freight Market
 
-While other shipping sectors, most notably container anddry bulk, are seeing some of the best markets in recent history, there is minimal upside for the crude tanker market at this stage, and freight rates look likely to remain near the historical lows. The factors that benefit those sectors are also the reasons for the travails of the crude and product sectors. The pandemic has brought about a focus on consumption and investments in infrastructure, as large parts of the global population are either banned from travelling or simply reluctant to venture too far from home, which has harmed the demand for petroleum products. In addition, pandemic related disruptions in and around many important ports have driven congestion to historically high levels and contributed to a shortage of tonnage in those sectors.
+While other shipping sectors, most notably container and [dry bulk](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time), are seeing some of the best markets in recent history, there is minimal upside for the crude tanker market at this stage, and freight rates look likely to remain near the historical lows. The factors that benefit those sectors are also the reasons for the travails of the crude and product sectors. The pandemic has brought about a focus on consumption and investments in infrastructure, as large parts of the global population are either banned from travelling or simply reluctant to venture too far from home, which has harmed the demand for petroleum products. In addition, pandemic related disruptions in and around many important ports have driven congestion to historically high levels and contributed to a shortage of tonnage in those sectors.
 
 The relative outperformance of the eastbound trade from the Arabian Gulf highlights the importance of the rapid Chinese economic recovery to the global demand growth. The unfolding energy squeeze also contributes, as refiners have come under pressure to increase output to make up for coal and natural gas shortages. In addition, the Chinese habit of opportunistic purchases for its strategic reserves has also supported freight rates to the Far East.
 
 
-##### VLCC Freight Market Performance - AG to Far East / AG to USG
+##### VLCC Freight Market Performance - AG to Far East / AG to Usg
 
 
-![Image 2:Signal Ocean Data|Dirty Tanker Market Rates (WS) 2018-2022](../images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%20freight.avif)
-*Image 2:Signal Ocean Data|Dirty Tanker Market Rates (WS) 2018-2022*
+![Image 2: Signal Ocean Data|dirty Tanker Market Rates (WS) 2018-2022](../images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%20freight.avif)
+
+> **Figure 2: Image 2: Signal Ocean Data|dirty Tanker Market Rates (WS) 2018-2022**  
+> *Image 2: Signal Ocean Data|Dirty Tanker Market Rates (WS) 2018-2022*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%20freight.avif)
 
 
-##### MR2 Clean Freight Market Performance - Cont to US Atlantic, US to Continent - MEG to East Africa
+##### Mr2 Clean Freight Market Performance - Cont to US Atlantic, US to Continent - MEG to East Africa
 
 
-![Image 3: Signal Ocean Data | MR2 Clean Tanker Market Rates (WS) 2018-2022](../images/66b51d92735333b5f167267d_61853730d3bec049b98b2167_MR%20clean%20freight.avif)
-*Image 3: Signal Ocean Data | MR2 Clean Tanker Market Rates (WS) 2018-2022*
+![Image 3: Signal Ocean Data | Mr2 Clean Tanker Market Rates (WS) 2018-2022](../images/66b51d92735333b5f167267d_61853730d3bec049b98b2167_MR%20clean%20freight.avif)
+
+> **Figure 3: Image 3: Signal Ocean Data | Mr2 Clean Tanker Market Rates (WS) 2018-2022**  
+> *Image 3: Signal Ocean Data | MR2 Clean Tanker Market Rates (WS) 2018-2022*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f167267d_61853730d3bec049b98b2167_MR%20clean%20freight.avif)
 
 With winter approaching in the Northern Hemisphere, it traditionally heralds the peak demand season for the tanker markets. However, any lingering optimism among tanker owners for the months ahead is likely to be relatively short-lived. While a seasonal pickup in demand for oil should be on the cards, the extent ought to be modest compared to previous years. The strict output management by OPEC+ could also add insult to injury for the tanker owners, as the anticipated rise in crude prices will push bunker prices higher and offset much of any potential gains in freight rates.
 
 While the rising crude oil production should be welcome news for tanker owners, the limited scope of the monthly increases means that it will take quite some time before any critical mass is achieved, and freight rates can rise above breakeven. VLCC tanker rates have been trending higher in recent months, but as the market remains oversupplied, the upside has been limited.
 
 
-## Tonnage supply
+## Tonnage Supply
 
 A continued arrival of new tonnage and an absence of extensive scrapping are adding to the sector's woes, which is likely to increase the interest in transporting clean products onboard vessels typically used for dirty cargoes. This spillover could put product tanker rates under some pressure, which so far has remained in relatively better shape than dirty cargoes. While the supply situation in the product tanker segment has remained relatively stable in recent months, a sudden influx of tankers from the dirty trade would be unwelcome news by the owners in the segment, which still is facing surplus tonnage.
 
@@ -68,15 +95,21 @@ A continued arrival of new tonnage and an absence of extensive scrapping are add
 ##### VLCC Supply & Market Rates (WS)
 
 
-![Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia loading port, market deployment relet-spot, Market Rates: AG to Far East](../images/66b51d94735333b5f1672b8a_61853d1f95bac6da9e4cf6d9_Market%20monitor%20Signal%20ocean%20plartform%20VLCC.avif)
-*Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia loading port, market deployment relet-spot, Market Rates: AG to Far East*
+![Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia Loading Port, Market Deployment Relet-Spot, Market Rates: AG to Far East](../images/66b51d94735333b5f1672b8a_61853d1f95bac6da9e4cf6d9_Market%20monitor%20Signal%20ocean%20plartform%20VLCC.avif)
+
+> **Figure 4: Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia Loading Port, Market Deployment Relet-Spot, Market Rates: AG to Far East**  
+> *Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia loading port, market deployment relet-spot, Market Rates: AG to Far East*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d94735333b5f1672b8a_61853d1f95bac6da9e4cf6d9_Market%20monitor%20Signal%20ocean%20plartform%20VLCC.avif)
 
 
-##### MR2 Clean Supply & Market Rates (WS)
+##### Mr2 Clean Supply & Market Rates (WS)
 
 
-![Image 4: Signal Ocean Data | MR2 Clean Supply Continent, Rotterdam, NETH loading port, market deployment relet-spot, Market Rates: Clean - Cont to USA Atlantic](../images/66b51d92735333b5f167267a_61853dd5f5fd0d63c2ace23f_Market%20monitor%20Signal%20ocean%20plartform%20MR2%20clean.avif)
-*Image 4: Signal Ocean Data | MR2 Clean Supply Continent, Rotterdam, NETH loading port, market deployment relet-spot, Market Rates: Clean - Cont to USA Atlantic*
+![Image 4: Signal Ocean Data | Mr2 Clean Supply Continent, Rotterdam, Neth Loading Port, Market Deployment Relet-Spot, Market Rates: Clean - Cont to USA Atlantic](../images/66b51d92735333b5f167267a_61853dd5f5fd0d63c2ace23f_Market%20monitor%20Signal%20ocean%20plartform%20MR2%20clean.avif)
+
+> **Figure 5: Image 4: Signal Ocean Data | Mr2 Clean Supply Continent, Rotterdam, Neth Loading Port, Market Deployment Relet-Spot, Market Rates: Clean - Cont to USA Atlantic**  
+> *Image 4: Signal Ocean Data | MR2 Clean Supply Continent, Rotterdam, NETH loading port, market deployment relet-spot, Market Rates: Clean - Cont to USA Atlantic*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f167267a_61853dd5f5fd0d63c2ace23f_Market%20monitor%20Signal%20ocean%20plartform%20MR2%20clean.avif)
 
 
 ## Market Prospects
@@ -85,6 +118,6 @@ The dirty tanker markets may be facing their winter of discontent, as OPEC+ keep
 
 At the same time as the dirty tanker market looks set for a protracted recovery, the seaborne transportation of refined products is likely to continue to fare somewhat better. The global rebound in economic activities, notably in land-based transports and air travel, is expected to fuel continued growth in demand for petroleum products. As OPEC+ looks unlikely to lend a hand, a continued drawdown of global stockpiles of crude and products is the likely outcome, which will lay the foundation for broader recovery during 2022.
 
-To generate the same insights for your business and learn more about The Signal Ocean platform, contact ushere.
+To generate the same insights for your business and learn more about The Signal Ocean platform, contact us [**here**](https://www.thesignalgroup.com/signal-ocean-platform/request-demo?utm\_source=newsroom&utm\_medium=organic&utm\_campaign=Market\_analysis&utm\_content=UlfEnergy11\_2021&utm\_term=UlfEnergy11\_2021).
 
 -Republishing is allowed with active link to source

@@ -1,13 +1,30 @@
-# Signal Aframax Pool: Superior spot results with human-centric service
-
-**Date**: January 14, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signal-aframax-pool-superior-spot-results-with-human-centric-service](https://www.thesignalgroup.com/newsroom/signal-aframax-pool-superior-spot-results-with-human-centric-service)
-
+---
+title: "Signal Aframax Pool: Superior Spot Results with Human-Centric Service"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signal-aframax-pool-superior-spot-results-with-human-centric-service"
+source_file: "corpus/07-signal/html/signal-aframax-pool-superior-spot-results-with-human-centric-service.html"
+word_count: 484
+images_count: 0
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal Aframax Pool: Superior Spot Results with Human-Centric Service
 
-## Signal Aframax Pool: Superior spot results with human-centric service
+*Published on 17 June 2025*
 
-As we step into the new year, the Signal Aframax Pool continues to evolve, guided not only by performance but by the strength and quality of the partnerships behind it. Building on the strong momentum developed throughout 2025, we are encouraged to see the Pool maintain a leading spot performance, supported by a growing fleet and a continued focus on understanding and serving our partners’ individual needs.‍
+## Signal Aframax Pool: Superior Spot Results with Human-Centric Service
+
+As we step into the new year, the Signal Aframax Pool continues to evolve, guided not only by performance but by the strength and quality of the partnerships behind it. Building on the strong momentum developed throughout 2025, we are encouraged to see the Pool maintain a leading spot performance, supported by a growing fleet and a continued focus on understanding and serving our partners’ individual needs. ****
 
 
 ## Consistent Performance
@@ -26,7 +43,7 @@ In a market defined by volatility, flexibility matters. Over the past year, we h
 
 ## A Shared Stake in Success
 
-The market response to this balance of performance and partnership has been encouraging. We are pleased to welcomethree additional vesselsinto the Signal Aframax Pool, reflecting growing confidence in our commercial management approach.
+The market response to this balance of performance and partnership has been encouraging. We are pleased to welcome **three additional vessels** into the Signal Aframax Pool, reflecting growing confidence in our commercial management approach.
 
 Alongside organic growth, we continue to explore selective strategic opportunities that strengthen our broader platform. This includes a recent investment in Bluepool, a fast-growing dry bulk pool, as well as ongoing work on a structure to scale Aframax time charter investments. These initiatives are intended to expand our capabilities while remaining focused on delivering long-term value to our partners.
 

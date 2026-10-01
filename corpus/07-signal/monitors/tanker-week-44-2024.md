@@ -1,15 +1,38 @@
-# Weekly Tanker Market Monitor: Week 44, 2024
-
-**Date**: November 01, 2024 | **Category**: Tankers | **Section**: Monitors | **Source**: [https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2024](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2024)
-
+---
+title: "Weekly Tanker Market Monitor: Week 44, 2024"
+issue_date: "2024-11-01"
+year: 2024
+week: 44
+category: "Tankers"
+section: "monitors"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2024"
+source_file: "corpus/07-signal/html/tanker-week-44-2024.html"
+word_count: 340
+images_count: 1
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Monitors
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
+# Weekly Tanker Market Monitor: Week 44, 2024
 
-## This week’s focus highlights a decrease in the growth of dirty tonne days throughout this year at a pace lower than seen in the previous two years. For VLCC from Arabian Gulf to the Far East, there has been a late rebound with levels nearing to surpass the pace of October in 2023, however, the weakening trend from West Africa to the Far East, remains showing sharp decreasing pace, with a notable downward movement of the previous annual levels. It remains to be seen how the winter demand in November will eventually impact the crude oil demand growth from the Asian economies along with the volatility in theoil prices.
+*Published on 01 November 2024*
+
+## This Week’s Focus Highlights a Decrease in the Growth of Dirty Tonne Days Throughout This Year at a Pace Lower Than Seen in the Previous Two Years. for VLCC From Arabian Gulf to the Far East, There Has Been a Late Rebound with Levels Nearing to Surpass the Pace of October in 2023, However, the Weakening Trend From West Africa to the Far East, Remains Showing Sharp Decreasing Pace, with a Notable Downward Movement of the Previous Annual Levels. It Remains to Be Seen How the Winter Demand in November Will Eventually Impact the Crude Oil Demand Growth From the Asian Economies Along with the Volatility in Theoil Prices.
 
 
-![Signal Figure](../images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%20tonne%20days.avif)
-*Signal Figure*
+![6724b888ce9582d939d3d678 6724b8600351d1e3869fd9d8 Dirty%20tonne%20days](../images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%20tonne%20days.avif)
+
+> **Figure 1: 6724b888ce9582d939d3d678 6724b8600351d1e3869fd9d8 Dirty%20tonne%20days**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%20tonne%20days.avif)
 
 This week’s focus highlights a notable decrease in the growth of dirty tonne days throughout this year, reflecting a pace lower than that seen in the previous two years. For VLCCs (Very Large Crude Carriers) operating from the Arabian Gulf to the Far East, there has been a recent rebound, with levels approaching those of October 2023. This resurgence suggests a potential recovery in this trade route.
 
@@ -17,7 +40,7 @@ However, the trend from West Africa to the Far East continues to show a sharp de
 
 Looking ahead, the impact of winter demand in November will be crucial in determining the trajectory of crude oil demand growth from Asian economies. Additionally, the volatility in oil prices could further influence market dynamics, potentially affecting shipping rates and overall industry performance. Observing how these variables interact will be essential for stakeholders as they navigate this uncertain landscape.
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
 

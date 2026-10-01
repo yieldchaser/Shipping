@@ -1,11 +1,28 @@
-# Signal's vision for tech-driven future: 1000-attendees in Athens
-
-**Date**: June 10, 2022 | **Category**: Press Releases | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/signal-unveils-vision-for-technology-driven-future-at-1000-attendee-event-in-athens](https://www.thesignalgroup.com/newsroom/signal-unveils-vision-for-technology-driven-future-at-1000-attendee-event-in-athens)
-
+---
+title: "Signal's Vision for Tech-Driven Future: 1000-Attendees in Athens"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Press Releases"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/signal-unveils-vision-for-technology-driven-future-at-1000-attendee-event-in-athens"
+source_file: "corpus/07-signal/html/signal-unveils-vision-for-technology-driven-future-at-1000-attendee-event-in-athens.html"
+word_count: 532
+images_count: 0
+tables_count: 0
+tags:
+  - Newsroom
+  - Press Releases
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Signal's Vision for Tech-Driven Future: 1000-Attendees in Athens
 
-## Signal unveils vision for technology-driven future at 1000-attendee event in Athens
+*Published on 17 June 2025*
+
+## Signal Unveils Vision for Technology-Driven Future at 1000-Attendee Event in Athens
 
 Signal, the diversified shipping services group, reflected on recent milestones and offered a vision of a technology-driven future underpinning relationships and human decision-making by shipping professionals.
 
@@ -40,4 +57,4 @@ The ecosystem currently includes technology startups active in ship bunkering, o
 
 Signal Ocean gives shipping professionals a single platform to track vessels, analyse freight markets, and make faster, better-informed decisions. From bunkering intelligence to CO2 estimates and route forecasting, the platform turns raw data into a commercial edge.
 
-Request a Demo from Signal Ocean
+[Request a Demo from Signal Ocean](https://thesignalgroup.com/contact)

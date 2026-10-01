@@ -1,15 +1,35 @@
-# MARKET INSIGHTS |  BDI vs BCI Ahead of the Lunar New Year
-
-**Date**: February 9, 2026 | **Category**: Market Insights | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year)
-
+---
+title: "Market Insights | BDI vs BCI Ahead of the Lunar New Year"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Market Insights"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year"
+source_file: "corpus/07-signal/html/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year.html"
+word_count: 642
+images_count: 4
+tables_count: 0
+tags:
+  - Market Insights
+  - Newsroom
+  - Signal Ocean
+  - The Signal Group
 ---
 
+# Market Insights | BDI vs BCI Ahead of the Lunar New Year
+
+*Published on 17 June 2025*
 
 ## Market Insights | BDI vs BCI Ahead of the Lunar New Year
 
 
-![Spot Comparison: availablehere](../images/6989bdce8cb8d2f63fbd2f80_554f87da.png)
-*Spot Comparison: availablehere*
+![Spot Comparison: Available Here](../images/6989bdce8cb8d2f63fbd2f80_554f87da.png)
+
+> **Figure 1: Spot Comparison: Available Here**  
+> *Spot Comparison: available here*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f80_554f87da.png)
 
 
 ## Market Overview
@@ -24,7 +44,7 @@ The BDI closed on 6 February at more than double its level on Chinese New Year 2
 
 ## Seasonal Context
 
-Attention is focused on the late timing of the 2026 Lunar New Year, which falls on February 17th. Historically, the holiday has fallen after 10 February roughly once every three to four years, while particularly late occurrences around 19–20 February are observed about once per decade. The most relevant historical comparison is 2015, when the Lunar New Year fell on 19 February, and the BDI reachedmulti-decade lows(approx 500 points). That downturn was triggered by a sharp contraction in vessel demand, severe fleet oversupply following heavy newbuilding deliveries between 2008 and 2014, and record-low Chinese imports.
+Attention is focused on the late timing of the 2026 Lunar New Year, which falls on February 17th. Historically, the holiday has fallen after 10 February roughly once every three to four years, while particularly late occurrences around 19–20 February are observed about once per decade. The most relevant historical comparison is 2015, when the Lunar New Year fell on 19 February, and the BDI reached [multi-decade lows](https://finance.yahoo.com/news/worst-record-dry-bulk-shipping-122956606.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAFIkhXySsYdGHBvNkvR46N-5Yzpa\_2ulWPYSkVt6AMRj9J7jBrExdmAKXg3Bq-6drwcN7cdMnWLofqKS6T\_Mf2CKDO-fpUZ1\_BZc7-w0LHGlPBAPNEEAIXlUcFAiDV8HFq2e69uPMdL0Cq0\_fESQvJa2FM4Sof8m1WN36VYpqbtQ) (approx 500 points). That downturn was triggered by a sharp contraction in vessel demand, severe fleet oversupply following heavy newbuilding deliveries between 2008 and 2014, and record-low Chinese imports.
 
 
 ## China and Iron Ore
@@ -34,8 +54,11 @@ Industry focus remains centered on the Chinese steel sector, where iron ore pric
 Iron ore trade flows continue to be supported by almost steady annual volume growth of shipments from Australia and Brazil (3.8bn total quantity tonnes in the period 2023-ytd), alongside initial cargoes from Guinea’s Simandou project, which reached China in December 2025 and January 2026. Although iron ore prices traded below USD 100 per tonne in the run-up to the holiday period, current levels reflect softer demand rather than a collapse.
 
 
-![Dry Bulk Flows: availablehere](../images/6989bdce8cb8d2f63fbd2f7a_bed2227e.png)
-*Dry Bulk Flows: availablehere*
+![Dry Bulk Flows: Available Here](../images/6989bdce8cb8d2f63fbd2f7a_bed2227e.png)
+
+> **Figure 2: Dry Bulk Flows: Available Here**  
+> *Dry Bulk Flows: available here*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f7a_bed2227e.png)
 
 
 ## Fleet Supply
@@ -43,14 +66,17 @@ Iron ore trade flows continue to be supported by almost steady annual volume gro
 Fleet supply dynamics remain a key risk factor. In early 2015, freight rates collapsed amid an unprecedented surge in vessel deliveries. While scrapping activity has remained limited and the dry bulk fleet continues to expand, scheduled vessel deliveries have remained below 2014–2016 levels. Current conditions, therefore, do not mirror the wave of vessel deliveries that characterized the 2015 market collapse, when the fleet in service grew rapidly, surpassing 10,000 vessels.
 
 
-![Orderbook Trends: availablehere](../images/6989bdce8cb8d2f63fbd2f7d_59b033bb.png)
-*Orderbook Trends: availablehere*
+![Orderbook Trends: Available Here](../images/6989bdce8cb8d2f63fbd2f7d_59b033bb.png)
 
-‍
+> **Figure 3: Orderbook Trends: Available Here**  
+> *Orderbook Trends: available here*  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f7d_59b033bb.png)
 
 
-![Signal Figure](../images/6989bdce8cb8d2f63fbd2f83_1c8a7730.png)
-*Signal Figure*
+![Fleet Supply](../images/6989bdce8cb8d2f63fbd2f83_1c8a7730.png)
+
+> **Figure 4: Fleet Supply**  
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f83_1c8a7730.png)
 
 
 ## Outlook

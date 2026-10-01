@@ -1,11 +1,31 @@
-# Tanker pool collaborates to adopt AI management solution
-
-**Date**: January 7, 2020 | **Category**: Media Mentions | **Section**: Newsroom | **Source**: [https://www.thesignalgroup.com/newsroom/tanker-pool-collaborates-to-adopt-ai-management-solution](https://www.thesignalgroup.com/newsroom/tanker-pool-collaborates-to-adopt-ai-management-solution)
-
+---
+title: "Tanker Pool Collaborates to Adopt AI Management Solution"
+issue_date: "2025-06-17"
+year: 2025
+week: 25
+category: "Tankers"
+section: "newsroom"
+publisher: "The Signal Group"
+source_url: "https://www.thesignalgroup.com/newsroom/tanker-pool-collaborates-to-adopt-ai-management-solution"
+source_file: "corpus/07-signal/html/tanker-pool-collaborates-to-adopt-ai-management-solution.html"
+word_count: 35
+images_count: 0
+tables_count: 0
+tags:
+  - Aframax
+  - Freight Rates
+  - Newsroom
+  - Signal Ocean
+  - Suezmax
+  - Tankers
+  - The Signal Group
+  - VLCC
 ---
 
-For the latest updates and insights, make sure to visit theSignal Ocean Newsroomwebsite page. Clickhere to request a demo.
+# Tanker Pool Collaborates to Adopt AI Management Solution
+
+*Published on 17 June 2025*
+
+For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo).
 
 For subscription to our FREE weekly market trends email, please contact us: research@thesignalgroup.com
-
-‍
