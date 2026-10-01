@@ -772,8 +772,30 @@ def backfill_drewry_wayback(from_year=2011, limit_per_pattern=200, max_snapshots
     return csv_path, len(collected)
 
 
+def _wci_cell(x):
+    """Normalise a CSV cell for comparison: NaN/None -> ''."""
+    if x is None:
+        return ""
+    s = str(x).strip()
+    return "" if s in ("nan", "None", "NaT") else s
+
+
+# Diagnostics of the most recent upsert. Populated, never hand-edited; the
+# weekly job prints it so a merge can never discard or replace a row silently.
+UPSERT_REPORT = {}
+
+
 def upsert_wci_rows(new_df):
-    """Idempotent upsert: merge new rows, dedup by date (last wins), sort, keep header."""
+    """Idempotent upsert: merge new rows, dedup by date (last wins), sort, keep header.
+
+    The WCI is assessed on a THURSDAY, so a date that is not a Thursday is a
+    parse artefact - and dedup-by-date alone would let such a row overwrite a
+    real print silently. This upsert therefore REPORTS what it did (printed as
+    ``[wci-upsert]`` lines and kept in ``UPSERT_REPORT``): how many rows the
+    date dedupe discarded, which dates had a STORED value replaced, and any
+    date that is not a Thursday. Measured 2026-10-01 on the shipped file:
+    121 rows, all Thursdays, dates unique and strictly increasing.
+    """
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = DATA_DIR / "drewry_wci_historical.csv"
     if csv_path.exists():
@@ -790,8 +812,55 @@ def upsert_wci_rows(new_df):
             combined[col] = None
     combined = combined[CSV_COLUMNS]
     combined["date"] = pd.to_datetime(combined["date"], errors="coerce").dt.strftime("%Y-%m-%d")
-    combined = combined.dropna(subset=["date"]).drop_duplicates(subset="date", keep="last").sort_values("date")
-    combined.to_csv(csv_path, index=False, lineterminator="\n")
+    combined = combined.dropna(subset=["date"]).sort_values("date", kind="stable")
+
+    # Date dedupe, last row wins (the new row, since it is concatenated last).
+    # Track collisions so a replaced print is named rather than swallowed.
+    keep = []
+    at = {}
+    shadowed = []
+    for _idx, r in combined.iterrows():
+        d = r["date"]
+        if d in at:
+            prev = keep[at[d]]
+            diffs = {c: (_wci_cell(prev.get(c)), _wci_cell(r.get(c)))
+                     for c in CSV_COLUMNS if _wci_cell(prev.get(c)) != _wci_cell(r.get(c))}
+            if diffs:
+                shadowed.append((d, diffs))
+            keep[at[d]] = r
+        else:
+            at[d] = len(keep)
+            keep.append(r)
+    out = pd.DataFrame(keep, columns=CSV_COLUMNS) if keep else pd.DataFrame(columns=CSV_COLUMNS)
+
+    non_thursday = []
+    for d in out["date"].tolist():
+        try:
+            if datetime.fromisoformat(str(d)).weekday() != 3:
+                non_thursday.append(str(d))
+        except Exception:
+            non_thursday.append(str(d))
+
+    UPSERT_REPORT.clear()
+    UPSERT_REPORT.update({
+        "rows_in": int(len(combined)),
+        "rows_out": int(len(out)),
+        "rows_discarded_by_date_dedupe": int(len(combined) - len(out)),
+        "shadowed_dates": shadowed,
+        "non_thursday_dates": non_thursday,
+    })
+    print(f"[wci-upsert] {len(combined)} row(s) in -> {len(out)} out "
+          f"({len(combined) - len(out)} discarded by the date dedupe)")
+    if shadowed:
+        print(f"[wci-upsert] [!] {len(shadowed)} date(s) had a STORED value REPLACED by this merge:")
+        for d, diffs in shadowed[:5]:
+            print(f"[wci-upsert] [!]   {d}: " + "; ".join(f"{c} {a!r} -> {b!r}" for c, (a, b) in diffs.items()))
+    if non_thursday:
+        # The publisher assesses on Thursdays; a non-Thursday date is a parse
+        # artefact, never a real print.
+        print(f"[wci-upsert] [!] {len(non_thursday)} row(s) are NOT a Thursday: {non_thursday[:8]}")
+
+    out.to_csv(csv_path, index=False, lineterminator="\n")
     return csv_path
 
 

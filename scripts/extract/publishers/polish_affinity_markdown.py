@@ -274,7 +274,7 @@ def run_polish():
         except Exception as e:
             print(f"Error removing {f}: {e}")
 
-    sidecars = sorted([f for f in OUT_MD.glob("*.tables.json") if "_nan_" not in f.name])
+    sidecars = sorted([f for f in OUT_MD.rglob("*.tables.json") if "_nan_" not in f.name])
     print(f"Processing {len(sidecars)} canonical Affinity reports...")
 
     tce_series: List[Dict[str, Any]] = []
@@ -285,7 +285,9 @@ def run_polish():
 
     for sc_path in sidecars:
         stem = sc_path.name.replace(".tables.json", "")
-        md_path = OUT_MD / f"{stem}.md"
+        md_path = sc_path.parent / f"{stem}.md"
+        if not md_path.exists():
+            md_path = OUT_MD / f"{stem}.md"
 
         if not md_path.exists():
             print(f"Missing MD file for {stem}")

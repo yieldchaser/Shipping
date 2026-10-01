@@ -924,9 +924,15 @@ def normalize_fearnleys():
                     md_lines.append(f"| {r['label']} | {r['vessel_size']} | {format_val(r['value'])} | {format_change(r.get('change'))} |")
                 md_lines.append("")
 
-            # Write Normalized Markdown
-            md_out_path = MD_DIR / f"{stem}.md"
-            md_out_path.write_text("\n".join(md_lines), encoding="utf-8")
+            # Write Normalized Markdown (both year-nested and flat)
+            year_dir = MD_DIR / str(year)
+            year_dir.mkdir(parents=True, exist_ok=True)
+            nested_md = year_dir / f"{stem}.md"
+            nested_tables = year_dir / f"{stem}.tables.json"
+            md_content = "\n".join(md_lines)
+
+            nested_md.write_text(md_content, encoding="utf-8")
+            (MD_DIR / f"{stem}.md").write_text(md_content, encoding="utf-8")
 
             # Write Sidecar JSON
             sidecar_payload = {
@@ -945,8 +951,9 @@ def normalize_fearnleys():
                 },
                 "rates": stamped_rows
             }
-            sidecar_out_path = MD_DIR / f"{stem}.tables.json"
-            sidecar_out_path.write_text(json.dumps(sidecar_payload, indent=2, ensure_ascii=False), encoding="utf-8")
+            sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
+            nested_tables.write_text(sidecar_str, encoding="utf-8")
+            (MD_DIR / f"{stem}.tables.json").write_text(sidecar_str, encoding="utf-8")
 
             normalized_count += 1
             if idx % 25 == 0 or idx == len(all_pdfs):
@@ -955,21 +962,34 @@ def normalize_fearnleys():
         except Exception as e:
             print(f"Error processing {pdf.name}: {e}", flush=True)
 
-    # Write Master Stacked Series CSV
+    # Write Master Stacked Series CSV (deduplicated on composite primary key)
     if all_series_rows:
         fieldnames = [
             "issue_date", "report_week", "page", "chapter", "section",
             "label", "value", "size", "change", "source_file"
         ]
+        existing_map = {}
+        if SERIES_CSV.exists():
+            with open(SERIES_CSV, "r", encoding="utf-8") as fp:
+                reader = csv.DictReader(fp)
+                for row in reader:
+                    pkey = (row.get("issue_date"), row.get("chapter"), row.get("section"), row.get("label"))
+                    existing_map[pkey] = row
+
+        for r in all_series_rows:
+            pkey = (r.get("issue_date"), r.get("chapter"), r.get("section"), r.get("label"))
+            existing_map[pkey] = r
+
+        merged_rows = sorted(existing_map.values(), key=lambda x: (x.get("issue_date", ""), str(x.get("chapter", "")), str(x.get("section", ""))))
         with open(SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
             writer = csv.DictWriter(fp, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
-            for r in all_series_rows:
+            for r in merged_rows:
                 writer.writerow(r)
 
     print("\n=================================================================", flush=True)
     print(f"Successfully normalized {normalized_count} Fearnleys files.", flush=True)
-    print(f"Generated {SERIES_CSV} with {len(all_series_rows):,} total rows.", flush=True)
+    print(f"Updated {SERIES_CSV} with deduplicated rows.", flush=True)
     print("=================================================================\n", flush=True)
 
 

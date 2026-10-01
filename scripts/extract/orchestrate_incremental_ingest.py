@@ -402,6 +402,468 @@ def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
     }
 
 
+def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+    """Specialized extraction for Affinity Shipbrokers."""
+    import run_affinity
+    import polish_affinity_markdown as pam
+
+    r = run_affinity.build(pdf_path)
+    (md, cards, junk, nvec, verified, pnums, missing, npages, ref, panel, datefrag) = r
+    typed = {c["name"]: c.get("typed") for c in cards}
+    raw_md_str = "\n".join(md)
+    issue_date, report_week, pretty_date = pam.resolve_date_and_week(pdf_path.stem, raw_md_str)
+    year_str = str(int(issue_date[:4]))
+    commentary_text = pam.extract_clean_commentary_from_pdf(pdf_path)
+
+    # BDTI / BCTI
+    bcti_bdti_data = typed.get("BCTI / BDTI", {})
+    bdti_val = pam.parse_clean_float(bcti_bdti_data.get("bdti")) if isinstance(bcti_bdti_data, dict) else None
+    bcti_val = pam.parse_clean_float(bcti_bdti_data.get("bcti")) if isinstance(bcti_bdti_data, dict) else None
+    arrows = bcti_bdti_data.get("arrows", []) if isinstance(bcti_bdti_data, dict) else []
+    bdti_trend = pam.format_trend(arrows[0]) if len(arrows) >= 1 else "-"
+    bcti_trend = pam.format_trend(arrows[1]) if len(arrows) >= 2 else "-"
+
+    # BDA
+    bda_rows = []
+    bda_data = typed.get("BDA", {})
+    if isinstance(bda_data, dict):
+        for seg, val, chg in zip(bda_data.get("metrics", []), bda_data.get("values", []), bda_data.get("deltas", [])):
+            bda_rows.append({"segment": seg, "price": pam.parse_clean_float(val), "change": pam.parse_clean_float(chg)})
+
+    # Dirty & Clean
+    dirty_rows = []
+    for row in typed.get("BALTIC TCE DIRTY", []) or []:
+        dirty_rows.append({
+            "route": row.get("route"), "description": row.get("description"),
+            "quantity": pam.parse_quantity_mt(row.get("qty_dwt")),
+            "rate": pam.parse_clean_float(row.get("value")) if row.get("value") is not None else pam.parse_clean_float(row.get("value_raw")),
+            "trend": pam.format_trend(row.get("wow")),
+        })
+    clean_rows = []
+    for row in typed.get("BALTIC TCE CLEAN", []) or []:
+        clean_rows.append({
+            "route": row.get("route"), "description": row.get("description"),
+            "quantity": pam.parse_quantity_mt(row.get("qty_dwt")),
+            "rate": pam.parse_clean_float(row.get("value")) if row.get("value") is not None else pam.parse_clean_float(row.get("value_raw")),
+            "trend": pam.format_trend(row.get("wow")),
+        })
+
+    disclaimer_note = "Excluded (Legal disclaimer per Shipbroking_Source_Parsing_Notes.docx)" if npages > 1 else "N/A (Single page report)"
+    md_doc = [
+        "---",
+        f'title: "Affinity Tanker Weekly - {pretty_date}"',
+        'broker: "Affinity Shipbrokers"',
+        'publication: "Affinity Tanker Weekly"',
+        f'issue_date: "{issue_date}"',
+        f"report_week: {report_week}",
+        f"year: {year_str}",
+        f'source_file: "{str(pdf_path.relative_to(ROOT)).replace(chr(92), "/")}"',
+        f"pages_total: {npages}",
+        "pages_analyzed: 1",
+        f'page_2_disclaimer: "{disclaimer_note}"',
+        "sectors:",
+        '  - "Crude Tankers"',
+        '  - "Product Tankers"',
+        '  - "Demolition / Recycling"',
+        "---",
+        "",
+        f"# Affinity Tanker Weekly - {pretty_date}",
+        "",
+        f"**Publication Date:** {pretty_date} | **Report Week:** Week {report_week:02d}, {year_str} | **Source:** Affinity Research LLP",
+        "",
+        "## Market Indices",
+        "",
+        "| Index | Value | Trend (W-o-W) |",
+        "|---|---|---|",
+        f"| BDTI | {bdti_val:,.0f} | {bdti_trend} |" if bdti_val is not None else "| BDTI | - | - |",
+        f"| BCTI | {bcti_val:,.0f} | {bcti_trend} |" if bcti_val is not None else "| BCTI | - | - |",
+        ""
+    ]
+    if bda_rows:
+        md_doc.extend(["## Baltic Demolition Assessment (BDA)", "", "| Segment | Price ($/LDT) | Change (W-o-W) |", "|---|---|---|"])
+        for b in bda_rows:
+            p_s = f"{b['price']:.1f}" if b['price'] is not None else "-"
+            c_s = f"{b['change']:+.1f}" if b['change'] is not None else "-"
+            md_doc.append(f"| {b['segment']} | {p_s} | {c_s} |")
+        md_doc.append("")
+    md_doc.extend(["## Baltic TCE Freight Rates", ""])
+    if dirty_rows:
+        md_doc.extend(["### Baltic TCE Dirty", "", "| Route | Description | Quantity (MT) | Rate ($/Day) | Trend (W-o-W) |", "|---|---|---|---|---|"])
+        for r in dirty_rows:
+            q_s = f"{r['quantity']:,}" if r['quantity'] else "-"
+            r_s = pam.format_rate(r['rate'])
+            md_doc.append(f"| {r['route']} | {r['description']} | {q_s} | {r_s} | {r['trend']} |")
+        md_doc.append("")
+    if clean_rows:
+        md_doc.extend(["### Baltic TCE Clean", "", "| Route | Description | Quantity (MT) | Rate ($/Day) | Trend (W-o-W) |", "|---|---|---|---|---|"])
+        for r in clean_rows:
+            q_s = f"{r['quantity']:,}" if r['quantity'] else "-"
+            r_s = pam.format_rate(r['rate'])
+            md_doc.append(f"| {r['route']} | {r['description']} | {q_s} | {r_s} | {r['trend']} |")
+        md_doc.append("")
+    if commentary_text:
+        md_doc.extend(["## Tanker Market Commentary", "", commentary_text, ""])
+
+    target_dir = MD_DIR / "affinity" / year_str
+    target_md = target_dir / f"{pdf_path.stem}.md"
+    target_tables = target_dir / f"{pdf_path.stem}.tables.json"
+
+    if not dry_run:
+        target_dir.mkdir(parents=True, exist_ok=True)
+        target_md.write_text("\n".join(md_doc), encoding="utf-8")
+        sidecar_data = {
+            "convention": "iso", "pages": npages, "junk_pages": junk,
+            "typed_confidence": "best-effort: card rows are exact geometry; see docs/affinity_survey.md",
+            "cards": [{"name": c["name"], "columns": c["columns"], "rows": c["rows"], "error": c.get("error"), "issue_date": issue_date, "report_week": report_week, "source_file": pdf_path.name} for c in cards],
+            "typed": typed, "text_verified": round(verified, 4), "panel_values": len(pnums),
+            "date_fragments_merged": datefrag, "missing_values": missing[:40]
+        }
+        target_tables.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+        # Upsert series
+        tce_rows = []
+        for r in dirty_rows:
+            tce_rows.append({"issue_date": issue_date, "report_week": report_week, "sector": "Dirty", "route": r["route"], "description": r["description"], "quantity_mt": r["quantity"], "tce_usd_per_day": r["rate"], "trend_wow": r["trend"], "source_file": pdf_path.name})
+        for r in clean_rows:
+            tce_rows.append({"issue_date": issue_date, "report_week": report_week, "sector": "Clean", "route": r["route"], "description": r["description"], "quantity_mt": r["quantity"], "tce_usd_per_day": r["rate"], "trend_wow": r["trend"], "source_file": pdf_path.name})
+        upsert_rows_to_csv(SERIES_DIR / "affinity_tce_series.csv", tce_rows, ["issue_date", "report_week", "sector", "route", "description", "quantity_mt", "tce_usd_per_day", "trend_wow", "source_file"], ["issue_date", "sector", "route"])
+
+        bda_series_rows = [{"issue_date": issue_date, "report_week": report_week, "segment": b["segment"], "price_usd_per_ldt": b["price"], "change_wow": b["change"], "source_file": pdf_path.name} for b in bda_rows]
+        upsert_rows_to_csv(SERIES_DIR / "affinity_bda_series.csv", bda_series_rows, ["issue_date", "report_week", "segment", "price_usd_per_ldt", "change_wow", "source_file"], ["issue_date", "segment"])
+
+    return {"stem": pdf_path.stem, "issue_date": issue_date, "report_week": report_week, "cards_count": len(cards), "target_md": str(target_md)}
+
+
+def extract_carriers(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+    """Specialized extraction for Carriers Chartering Corp."""
+    import run_carriers_complete as rcc
+
+    stem = pdf_path.stem
+    issue_date, report_week = rcc.extract_metadata(pdf_path)
+    year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+    doc = fitz.open(pdf_path)
+
+    doc_sales, doc_demo, doc_nb, doc_bspa, doc_bda = [], [], [], [], []
+    doc_indices, doc_weighted, doc_tc_period, doc_tanker_tce = [], [], [], []
+    substantive_pages = []
+
+    for pno in range(len(doc)):
+        page = doc[pno]
+        lines = rcc.cluster_page_words_into_lines(page)
+        anchors = {}
+        for y, ln in lines:
+            s = " ".join(w[4] for w in ln).lower()
+            if "bulk carriers reported sold" in s and "bulk" not in anchors:
+                anchors["bulk"] = y
+            elif ("tankers / lpg" in s or "tankers reported sold" in s) and "tanker_sp" not in anchors:
+                anchors["tanker_sp"] = y
+            elif ("container / ro-ro" in s or "container reported sold" in s or "general cargo vessels" in s) and "container" not in anchors:
+                anchors["container"] = y
+            elif "demolition market" in s and "demo" not in anchors:
+                anchors["demo"] = y
+            elif "newbuilding market" in s and "newbuilding" not in anchors:
+                anchors["newbuilding"] = y
+            elif "bspa as reported" in s and "bspa" not in anchors:
+                anchors["bspa"] = y
+            elif "sale and purchase index" in s and "indices" not in anchors:
+                anchors["indices"] = y
+            elif ("dry bc baltic indices" in s or "baltic dry index" in s) and "bdi" not in anchors:
+                anchors["bdi"] = y
+            elif "weighted average routes" in s and "weighted" not in anchors:
+                anchors["weighted"] = y
+            elif ("time charter period" in s or "indicative ideas" in s) and "tc_period" not in anchors:
+                anchors["tc_period"] = y
+            elif ("tanker index" in s or "baltic dirty" in s) and "tanker_tce" not in anchors:
+                anchors["tanker_tce"] = y
+            elif ("greek-listed companies" in s or "quote of the day" in s or "traded in the us stock exchange" in s) and "greek" not in anchors:
+                anchors["greek"] = y
+
+        shipping_anchors = [k for k in anchors.keys() if k != "greek"]
+        if not shipping_anchors:
+            continue
+
+        substantive_pages.append(pno + 1)
+        sorted_anchors = sorted(anchors.items(), key=lambda x: x[1])
+
+        for a_idx, (sec_name, y_start) in enumerate(sorted_anchors):
+            if sec_name == "greek":
+                break
+            y_end = sorted_anchors[a_idx + 1][1] if a_idx + 1 < len(sorted_anchors) else 770.0
+            if sec_name == "bulk":
+                doc_sales.extend(rcc.extract_sp_section_rows(lines, y_start, y_end, "bulk_carriers", issue_date or "", report_week, pno + 1, pdf_path.name))
+            elif sec_name == "tanker_sp":
+                doc_sales.extend(rcc.extract_sp_section_rows(lines, y_start, y_end, "tankers", issue_date or "", report_week, pno + 1, pdf_path.name))
+            elif sec_name == "container":
+                doc_sales.extend(rcc.extract_sp_section_rows(lines, y_start, y_end, "containers", issue_date or "", report_week, pno + 1, pdf_path.name))
+            elif sec_name == "demo":
+                doc_demo.extend(rcc.extract_demolition_rows(lines, y_start, y_end, issue_date or "", report_week, pno + 1, pdf_path.name))
+            elif sec_name == "newbuilding":
+                doc_nb.extend(rcc.extract_newbuilding_rows(lines, y_start, y_end, issue_date or "", report_week, pno + 1, pdf_path.name))
+            elif sec_name == "bspa":
+                bspa_r, bda_r = rcc.extract_bspa_and_bda(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
+                doc_bspa.extend(bspa_r)
+                doc_bda.extend(bda_r)
+            elif sec_name == "indices":
+                doc_indices.extend(rcc.extract_shipping_indices(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
+            elif sec_name == "bdi":
+                doc_indices.extend(rcc.extract_baltic_dry(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
+            elif sec_name == "weighted":
+                doc_weighted.extend(rcc.extract_weighted_routes(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
+            elif sec_name == "tc_period":
+                doc_tc_period.extend(rcc.extract_tc_period(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
+            elif sec_name == "tanker_tce":
+                doc_tanker_tce.extend(rcc.extract_tanker_tce(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
+
+    doc_data_combined = {
+        "sales": doc_sales, "demolition": doc_demo, "newbuilding": doc_nb,
+        "bspa": doc_bspa, "bda": doc_bda, "indices": doc_indices,
+        "weighted_routes": doc_weighted, "tc_period": doc_tc_period, "tanker_tce": doc_tanker_tce
+    }
+    md_content = rcc.generate_markdown(stem, pdf_path, doc, substantive_pages, issue_date or "", report_week, doc_data_combined)
+    doc.close()
+
+    target_dir = MD_DIR / "carriers" / year_str
+    target_md = target_dir / f"{stem}.md"
+    target_tables = target_dir / f"{stem}.tables.json"
+
+    if not dry_run:
+        target_dir.mkdir(parents=True, exist_ok=True)
+        target_md.write_text(md_content, encoding="utf-8")
+        sidecar = {
+            "stem": stem, "issue_date": issue_date, "report_week": report_week,
+            "source_file": pdf_path.name, "pages_total": len(substantive_pages),
+            "substantive_pages": substantive_pages,
+            "counts": {k: len(v) for k, v in doc_data_combined.items()},
+            "tables": doc_data_combined
+        }
+        target_tables.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+
+        upsert_rows_to_csv(SERIES_DIR / "carriers_sales_series.csv", doc_sales, [
+            "issue_date", "report_week", "section", "page", "vessel_name", "type",
+            "dwt", "built", "yard", "price_raw", "price_usd_mill", "buyers", "comments", "source_file"
+        ], ["issue_date", "vessel_name", "dwt"])
+        upsert_rows_to_csv(SERIES_DIR / "carriers_bspa_series.csv", doc_bspa, [
+            "issue_date", "report_week", "sector", "vessel_class", "size_dwt",
+            "price_usd_m", "sentiment_arrow", "source_file"
+        ], ["issue_date", "vessel_class"])
+
+    return {"stem": stem, "issue_date": issue_date, "report_week": report_week, "sales_count": len(doc_sales), "target_md": str(target_md)}
+
+
+def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+    """Specialized 6-pillar extraction for Fearnleys Weekly Market Reports."""
+    import run_fearnleys_normalized as rfn
+    stem = pdf_path.stem
+    doc = fitz.open(pdf_path)
+    page_count = len(doc)
+    p1_text = rfn.clean_encoding(doc[0].get_text("text"))
+    iso_date, year, week_num = rfn.extract_date_and_week(pdf_path, p1_text)
+
+    commentary = rfn.extract_clean_commentary(doc)
+    rate_cards = rfn.extract_rate_cards(doc)
+    nb_activity, nb_prices = rfn.extract_newbuilding(doc)
+    sp_dry, sp_wet = rfn.extract_secondhand_prices(doc)
+
+    stamped_rows = []
+    for r in rate_cards:
+        row_copy = dict(r)
+        row_copy["issue_date"] = iso_date
+        row_copy["year"] = year
+        row_copy["report_week"] = week_num
+        row_copy["source_file"] = str(pdf_path.relative_to(ROOT)).replace("\\", "/")
+        stamped_rows.append(row_copy)
+
+    md_lines = [
+        "---",
+        f'title: "Fearnleys Weekly Report - Week {week_num}, {year}"',
+        f'issue_date: "{iso_date}"',
+        f"year: {year}",
+        f"report_week: {week_num}",
+        'publisher: "Fearnleys"',
+        'category: "market_report"',
+        f"pages: {page_count}",
+        f'source_file: "{str(pdf_path.relative_to(ROOT)).replace(chr(92), "/")}"',
+        "---",
+        "",
+        f"# Fearnleys Weekly Market Report (Week {week_num}, {year})",
+        "",
+        f"**Issue Date:** {iso_date} | **Pages:** {page_count} | **Publisher:** Fearnleys AS  ",
+        f"**Source Document:** `{str(pdf_path.relative_to(ROOT)).replace(chr(92), "/")}`  ",
+        "",
+        "---",
+        ""
+    ]
+
+    # 01 Tankers
+    md_lines.append("## 01 Tankers\n")
+    tanker_comm = [p for p in commentary if p[0] == "Tankers"]
+    if tanker_comm:
+        md_lines.append("### Market Commentary\n")
+        grouped_tanker = {}
+        for _, sub, text in tanker_comm:
+            grouped_tanker.setdefault(sub, []).append(text)
+        for sub, plist in grouped_tanker.items():
+            if sub != "General":
+                md_lines.append(f"#### {sub}\n")
+            for p in plist:
+                md_lines.append(f"{p}\n")
+
+    dirty_rates = [r for r in rate_cards if r["chapter"] == "01 Tankers" and r["section"] == "Dirty Spot"]
+    if dirty_rates:
+        md_lines.extend(["### Dirty Spot Freight Rates", "", "| Route | Vessel Size | Current (WS) | Change |", "| :--- | :---: | :---: | :---: |"])
+        for r in dirty_rates:
+            md_lines.append(f"| {r['label']} | {r['vessel_size']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+
+    tanker_period = [r for r in rate_cards if r["chapter"] == "01 Tankers" and r["section"] == "Period & Availability"]
+    if tanker_period:
+        md_lines.extend(["### Period Rates & Fleet Availability", "", "| Metric / Vessel Class | Vessel Size | Current | Change |", "| :--- | :---: | :---: | :---: |"])
+        for r in tanker_period:
+            md_lines.append(f"| {r['label']} | {r['vessel_size']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+    md_lines.append("---\n")
+
+    # 02 Dry Bulk
+    md_lines.append("## 02 Dry Bulk\n")
+    dry_comm = [p for p in commentary if p[0] == "Dry Bulk"]
+    if dry_comm:
+        md_lines.append("### Market Commentary\n")
+        grouped_dry = {}
+        for _, sub, text in dry_comm:
+            grouped_dry.setdefault(sub, []).append(text)
+        for sub, plist in grouped_dry.items():
+            if sub != "General":
+                md_lines.append(f"#### {sub}\n")
+            for p in plist:
+                md_lines.append(f"{p}\n")
+    dry_spot = [r for r in rate_cards if r["chapter"] == "02 Dry Bulk" and r["section"] == "Dry Spot"]
+    if dry_spot:
+        md_lines.extend(["### Spot Rates & Indices", "", "| Route / Index | Vessel Size | Current ($/Day or Pts) | Change |", "| :--- | :---: | :---: | :---: |"])
+        for r in dry_spot:
+            md_lines.append(f"| {r['label']} | {r['vessel_size']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+    dry_1y = [r for r in rate_cards if r["chapter"] == "02 Dry Bulk" and r["section"] == "Dry 1Y TC"]
+    if dry_1y:
+        md_lines.extend(["### 1 Year T/C Rates", "", "| Vessel Class | Size / Eco Type | Rate ($/Day) | Change ($/Day) |", "| :--- | :---: | :---: | :---: |"])
+        for r in dry_1y:
+            md_lines.append(f"| {r['label']} | {r['vessel_size']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+    md_lines.append("---\n")
+
+    # 03 Gas
+    md_lines.append("## 03 Gas\n")
+    gas_comm = [p for p in commentary if p[0] == "Gas"]
+    if gas_comm:
+        md_lines.append("### Market Commentary\n")
+        for _, sub, text in gas_comm:
+            if sub != "General":
+                md_lines.append(f"#### {sub}\n")
+            md_lines.append(f"{text}\n")
+    gas_spot = [r for r in rate_cards if r["chapter"] == "03 Gas"]
+    if gas_spot:
+        md_lines.extend(["### Gas Rates & FOB Benchmarks", "", "| Benchmark / Route | Sector | Current | Change |", "| :--- | :--- | :---: | :---: |"])
+        for r in gas_spot:
+            md_lines.append(f"| {r['label']} | {r['section']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+    md_lines.append("---\n")
+
+    # 04 Newbuilding
+    md_lines.append("## 04 Newbuilding\n")
+    if nb_prices:
+        md_lines.extend(["### Indicative Newbuilding Prices ($M)", "", "| Vessel Type | Size | Current ($M) | Change ($M) |", "| :--- | :---: | :---: | :---: |"])
+        for v_name, nb_item in nb_prices.items():
+            md_lines.append(f"| {v_name} | {nb_item['size']} | ${nb_item['price_usd_m']:.1f} | $0.0 |")
+        md_lines.append("")
+    md_lines.append("---\n")
+
+    # 05 Sale & Purchase
+    md_lines.append("## 05 Sale & Purchase\n")
+    if sp_dry or sp_wet:
+        md_lines.append("### Indicative Secondhand Prices ($M)\n")
+        if sp_dry:
+            md_lines.extend(["#### Dry Bulk", "", "| Vessel Class | 5 Year Old ($M) | 10 Year Old ($M) |", "| :--- | :---: | :---: |"])
+            for v_name, d_item in sp_dry.items():
+                p5 = f"${d_item['5_yr']:.1f}" if "5_yr" in d_item else "-"
+                p10 = f"${d_item['10_yr']:.1f}" if "10_yr" in d_item else "-"
+                md_lines.append(f"| {v_name} | {p5} | {p10} |")
+            md_lines.append("")
+        if sp_wet:
+            md_lines.extend(["#### Tankers (Wet)", "", "| Vessel Class | 5 Year Old ($M) | 10 Year Old ($M) |", "| :--- | :---: | :---: |"])
+            for v_name, w_item in sp_wet.items():
+                p5 = f"${w_item['5_yr']:.1f}" if "5_yr" in w_item else "-"
+                p10 = f"${w_item['10_yr']:.1f}" if "10_yr" in w_item else "-"
+                md_lines.append(f"| {v_name} | {p5} | {p10} |")
+            md_lines.append("")
+    md_lines.append("---\n")
+
+    # 06 Market Brief
+    md_lines.append("## 06 Market Brief\n")
+    fx_rates = [r for r in rate_cards if r["chapter"] == "06 Market Brief" and r["section"] in ["Exchange Rates", "Interest Rates"]]
+    if fx_rates:
+        md_lines.extend(["### Exchange Rates & Interest Rates", "", "| Indicator | Category | Rate | Change |", "| :--- | :--- | :---: | :---: |"])
+        for r in fx_rates:
+            md_lines.append(f"| {r['label']} | {r['section']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+    bunkers = [r for r in rate_cards if r["chapter"] == "06 Market Brief" and r["section"] in ["Commodity Prices", "Bunker Prices"]]
+    if bunkers:
+        md_lines.extend(["### Commodity Prices & Bunkers", "", "| Benchmark | Location / Grade | Price | Change |", "| :--- | :--- | :---: | :---: |"])
+        for r in bunkers:
+            md_lines.append(f"| {r['label']} | {r['vessel_size']} | {rfn.format_val(r['value'])} | {rfn.format_change(r.get('change'))} |")
+        md_lines.append("")
+
+    target_dir = MD_DIR / "fearnleys" / str(year)
+    target_md = target_dir / f"{stem}.md"
+    target_tables = target_dir / f"{stem}.tables.json"
+
+    if not dry_run:
+        target_dir.mkdir(parents=True, exist_ok=True)
+        md_text = "\n".join(md_lines)
+        target_md.write_text(md_text, encoding="utf-8")
+        (MD_DIR / "fearnleys" / f"{stem}.md").write_text(md_text, encoding="utf-8")
+
+        sidecar_payload = {
+            "convention": "iso", "publisher": "Fearnleys", "issue_date": iso_date,
+            "year": year, "report_week": week_num, "pages": page_count,
+            "source_file": str(pdf_path.relative_to(ROOT)).replace("\\", "/"),
+            "activity_levels": nb_activity, "newbuilding_prices": nb_prices,
+            "secondhand_prices": {"dry": sp_dry, "wet": sp_wet}, "rates": stamped_rows
+        }
+        sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
+        target_tables.write_text(sidecar_str, encoding="utf-8")
+        (MD_DIR / "fearnleys" / f"{stem}.tables.json").write_text(sidecar_str, encoding="utf-8")
+
+    return {"stem": stem, "issue_date": iso_date, "report_week": week_num, "rates_count": len(stamped_rows), "target_md": str(target_md)}
+
+
+def extract_clarksons(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
+    """Specialized extraction for Clarksons Platou Hellas."""
+    import run_clarksons_hellas_world_class as rcw
+    stem = pdf_path.stem
+    issue_date, year_str, report_week = rcw.parse_issue_date(pdf_path.name)
+    cache_file = ROOT / "data" / "extracted" / "cache_clarksons_hellas" / f"{stem}.md"
+
+    doc = fitz.open(pdf_path)
+    if cache_file.exists():
+        raw_md = cache_file.read_text(encoding="utf-8")
+        data = rcw.extract_clarksons_data(raw_md, issue_date, report_week, pdf_path.name)
+    else:
+        text = "\n".join(p.get_text("text") for p in doc)
+        data = rcw.extract_clarksons_data(text, issue_date, report_week, pdf_path.name)
+
+    full_md = rcw.generate_clarksons_markdown(data)
+
+    target_dir = MD_DIR / "clarksons" / year_str
+    target_md = target_dir / f"{stem}.md"
+    target_tables = target_dir / f"{stem}.tables.json"
+
+    if not dry_run:
+        target_dir.mkdir(parents=True, exist_ok=True)
+        target_md.write_text(full_md, encoding="utf-8")
+        target_tables.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    return {"stem": stem, "issue_date": issue_date, "report_week": report_week, "sales_count": len(data.get("sales", [])), "target_md": str(target_md)}
+
+
 # ---------------------------------------------------------------------------
 # Incremental Document Processor
 # ---------------------------------------------------------------------------
@@ -437,6 +899,26 @@ def process_single_pdf(
             specialized_result = extract_star_asia(pdf_path, dry_run=dry_run)
         except Exception as e:
             print(f"  [!] Note: specialized star_asia failed ({e}), falling back to universal pipeline.")
+    elif pub == "affinity":
+        try:
+            specialized_result = extract_affinity(pdf_path, dry_run=dry_run)
+        except Exception as e:
+            print(f"  [!] Note: specialized affinity failed ({e}), falling back to universal pipeline.")
+    elif pub in ("carriers", "general_broker") or "carrier" in stem.lower():
+        try:
+            specialized_result = extract_carriers(pdf_path, dry_run=dry_run)
+        except Exception as e:
+            print(f"  [!] Note: specialized carriers failed ({e}), falling back to universal pipeline.")
+    elif pub == "fearnleys":
+        try:
+            specialized_result = extract_fearnleys(pdf_path, dry_run=dry_run)
+        except Exception as e:
+            print(f"  [!] Note: specialized fearnleys failed ({e}), falling back to universal pipeline.")
+    elif pub == "clarksons":
+        try:
+            specialized_result = extract_clarksons(pdf_path, dry_run=dry_run)
+        except Exception as e:
+            print(f"  [!] Note: specialized clarksons failed ({e}), falling back to universal pipeline.")
 
 
     # 2. Chart Signature Probing & Screenshot Clipping

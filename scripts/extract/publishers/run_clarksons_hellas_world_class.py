@@ -218,11 +218,11 @@ def extract_clarksons_data(markdown_text: str, issue_date: str, report_week: int
                 commentary.append({"issue_date": issue_date, "report_week": report_week, "sector": curr_section, "commentary_text": " ".join(curr_text_block), "source_file": source_file})
                 curr_text_block = []
             curr_section = "Demolition"
-        elif l_str.startswith("|") or "<table" in l_str:
+        elif l_str.startswith("|") or "<table" in l_str or "<th" in l_str.lower() or "<td" in l_str.lower() or "<tr" in l_str.lower():
             if curr_text_block:
                 commentary.append({"issue_date": issue_date, "report_week": report_week, "sector": curr_section, "commentary_text": " ".join(curr_text_block), "source_file": source_file})
                 curr_text_block = []
-        elif not l_str.startswith("#") and not l_str.startswith("---") and "clarkson hellas" not in l_str.lower() and "kifissias" not in l_str.lower():
+        elif not l_str.startswith("#") and not l_str.startswith("---") and "clarkson hellas" not in l_str.lower() and "kifissias" not in l_str.lower() and "disclaimer" not in l_str.lower() and "direct +" not in l_str.lower() and not re.search(r"<(?:th|td|tr|table|div|tbody|thead)", l_str, re.I):
             if len(l_str) > 15:
                 curr_text_block.append(l_str)
 
@@ -460,10 +460,18 @@ def generate_clarksons_markdown(data: Dict[str, Any]) -> str:
 
     # Commentary Section
     if data["commentary"]:
-        md.append("## Desk Commentary\n")
-        for c in data["commentary"]:
-            md.append(f"### {c['sector']}")
-            md.append(f"{c['commentary_text']}\n")
+        valid_comms = [
+            c for c in data["commentary"]
+            if c.get("commentary_text")
+            and not any(tag in c["commentary_text"].lower() for tag in ["<th", "<td", "<tr", "<table", "<th>", "<td>", "details"])
+            and "the material and the information" not in c["commentary_text"].lower()
+            and "direct +" not in c["commentary_text"].lower()
+        ]
+        if valid_comms:
+            md.append("## Desk Commentary\n")
+            for c in valid_comms:
+                md.append(f"### {c['sector']}")
+                md.append(f"{c['commentary_text']}\n")
 
     # Secondhand Sales Table
     if data["sales"]:
@@ -522,6 +530,12 @@ def process_all_clarksons():
         md_file = out_year_dir / f"{stem}.md"
         json_file = out_year_dir / f"{stem}.tables.json"
 
+        # Also write to data/extracted/md/clarksons/<year>/
+        out_broker_dir = ROOT / "data" / "extracted" / "md" / "clarksons" / year
+        out_broker_dir.mkdir(parents=True, exist_ok=True)
+        md_broker_file = out_broker_dir / f"{stem}.md"
+        json_broker_file = out_broker_dir / f"{stem}.tables.json"
+
         cache_file = CACHE_DIR / f"{stem}.md"
         if not cache_file.exists():
             logger.warning(f"Cache missing for {stem}")
@@ -530,10 +544,14 @@ def process_all_clarksons():
         raw_md = cache_file.read_text(encoding="utf-8")
         data = extract_clarksons_data(raw_md, issue_date, report_week, pdf.name)
 
-        # Write sidecars
-        json_file.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        # Write sidecars to both directories
+        sidecar_content = json.dumps(data, indent=2, ensure_ascii=False) + "\n"
         full_md = generate_clarksons_markdown(data)
+
+        json_file.write_text(sidecar_content, encoding="utf-8")
         md_file.write_text(full_md, encoding="utf-8")
+        json_broker_file.write_text(sidecar_content, encoding="utf-8")
+        md_broker_file.write_text(full_md, encoding="utf-8")
 
         all_sales.extend(data["sales"])
         all_commentary.extend(data["commentary"])
