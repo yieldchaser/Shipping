@@ -70,7 +70,8 @@ CHART_TITLES_AND_AXES = [
     'number of vehicles', 'population in', 'suvs', 'minivans', 'automobiles',
     'gasoline imports', 'gasoline consumption', 'crude inventories', 'us crude',
     'us gasoline', 'spot earnings', 'earnings by vessel', 'orderbook', 'fleet growth',
-    'deliveries by', 'contracting by', 'demolition by', 'ton-mile', 'ton mile'
+    'deliveries by', 'contracting by', 'demolition by', 'ton-mile', 'ton mile',
+    'age profile', 'fleet age profile'
 ]
 
 CHART_SINGLE_WORDS = {
@@ -261,13 +262,20 @@ def extract_title_and_subtitle(doc: pymupdf.Document, pdf_path: Path) -> tuple[s
 
     if fn_title:
         title = fn_title
+        sub_spans = []
         for s in spans:
             if s['size'] >= 9.0 and ('Bold' in s['font'] or s['flags'] & 2):
                 clean_s = s['text']
                 if re.sub(r'[^a-z0-9]', '', clean_s.lower()) != re.sub(r'[^a-z0-9]', '', title.lower()):
                     if len(clean_s) < 120 and not clean_s.startswith('Source:'):
-                        subtitle = clean_s
-                        break
+                        if not sub_spans:
+                            sub_spans.append(s)
+                        elif abs(s['size'] - sub_spans[0]['size']) < 1.0 and abs(s['bbox'][1] - sub_spans[-1]['bbox'][3]) < 25:
+                            sub_spans.append(s)
+                        else:
+                            break
+        if sub_spans:
+            subtitle = ' '.join(s['text'] for s in sub_spans)
     else:
         if spans:
             spans.sort(key=lambda s: (-s['size'], s['bbox'][1]))
@@ -276,9 +284,18 @@ def extract_title_and_subtitle(doc: pymupdf.Document, pdf_path: Path) -> tuple[s
                 title_parts = [s['text'] for s in spans if abs(s['size'] - top_size) < 1.0 and abs(s['bbox'][1] - spans[0]['bbox'][1]) < 35]
                 title = ' '.join(title_parts)
                 rem = [s for s in spans if s['text'] not in title_parts and s['bbox'][1] > spans[0]['bbox'][1]]
-                if rem and rem[0]['size'] >= 9.0 and ('Bold' in rem[0]['font'] or rem[0]['flags'] & 2):
-                    if len(rem[0]['text']) < 120 and not rem[0]['text'].startswith('Source:'):
-                        subtitle = rem[0]['text']
+                sub_spans = []
+                for s in rem:
+                    if s['size'] >= 9.0 and ('Bold' in s['font'] or s['flags'] & 2):
+                        if len(s['text']) < 120 and not s['text'].startswith('Source:'):
+                            if not sub_spans:
+                                sub_spans.append(s)
+                            elif abs(s['size'] - sub_spans[0]['size']) < 1.0 and abs(s['bbox'][1] - sub_spans[-1]['bbox'][3]) < 25:
+                                sub_spans.append(s)
+                            else:
+                                break
+                if sub_spans:
+                    subtitle = ' '.join(s['text'] for s in sub_spans)
 
     if not title:
         title = pdf_path.stem.replace('_', ' ').replace('-', ' ')
@@ -324,6 +341,15 @@ def is_chart_chunk(chunk: str, pno: int) -> bool:
         date_matches = re.findall(r'\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*[-,\s]*\d{2,4}\b', c, re.I)
         if len(date_matches) >= 1 and num_words <= len(date_matches) * 3:
             return True
+
+    # Age bracket chart ticks, e.g. "0-5 Yrs Old", "6-10 Yrs Old", "16+ Yrs Old", "21% 0-5 Yrs Old"
+    if re.search(r'\b\d+-\d+\s+Yrs?\s+Old\b|\b\d+\+\s+Yrs?\s+Old\b', c, re.I):
+        if num_words <= 12 and not any(v in c_lower for v in ['fleet consists', 'average age', 'vessels are', 'difficult to employ']):
+            return True
+
+    # Multi-class table row blocks (e.g. Fleet Statistics table rows)
+    if any(k in c for k in ['Fleet Count', 'Orderbook Count', 'Orderbook (DWT)', 'Fleet (DWT)', 'Fleet 20yr by', '20yr old/Orderbook']):
+        return True
 
     # Single words or short word lists that match chart keywords
     if num_words <= 6:
@@ -728,6 +754,23 @@ def extract_page_elements(
     for b in blocks:
         txt = clean_text(b[4])
         if not txt: continue
+
+        # Clean out embedded Fleet Statistics table lines from paragraph blocks
+        if "Fleet Statistics" in txt and any(k in txt for k in ["VLCC", "Suezmax", "Aframax", "Fleet Count"]):
+            if "there are plenty of floating storage" in txt:
+                txt = re.sub(r'Fleet Statistics.*?(?=there are plenty of floating storage)', '', txt, flags=re.S | re.I)
+                txt = clean_text(txt)
+                if not txt: continue
+                b = (b[0], b[1], b[2], b[3], txt, b[5], b[6])
+            else:
+                continue
+
+        if "VLCC & Suezmax Age Profile" in txt and ("0-5 Yrs Old" in txt or "scheduled" in txt):
+            txt = re.sub(r'VLCC & Suezmax Age Profile.*?(?:79 scheduled|44 scheduled|\d+ scheduled)', '', txt, flags=re.S)
+            txt = clean_text(txt)
+            if not txt: continue
+            b = (b[0], b[1], b[2], b[3], txt, b[5], b[6])
+
         txt_u = txt.upper()
         if is_p0 and (b[3] <= 122 or b[1] < 85):
             continue
@@ -901,7 +944,6 @@ def process_pdf(
             p_tables, p_ob_rows, p_deliv_rows, p_fs_rows = parse_page_tables_and_series(
                 page_text, issue_date, year, title, source_ref
             )
-            all_elements.extend(p_tables)
             all_orderbook_age_rows.extend(p_ob_rows)
             all_delivery_rows.extend(p_deliv_rows)
             all_fleet_stat_rows.extend(p_fs_rows)
@@ -976,10 +1018,59 @@ def process_pdf(
                     continue
             stitched_elements.append((elem_type, elem_txt))
 
+        # Position page-level structured tables logically after the paragraph referencing them
+        if p_tables:
+            placed = False
+            for p_idx, (e_type, e_txt) in enumerate(stitched_elements):
+                if e_type == 'para' and any(k in e_txt.lower() for k in ['as can be seen in the table', 'in the table', 'fleet statistics', 'ratio of', 'floating storage']):
+                    stitched_elements = stitched_elements[:p_idx+1] + p_tables + stitched_elements[p_idx+1:]
+                    placed = True
+                    break
+            if not placed:
+                stitched_elements.extend(p_tables)
+
+        # Check inline chart occurrences in paragraphs
+        chart_map = {c['chart_num']: c for c in clipped_charts}
+        inlined_charts = set()
+
+        processed_elements = []
+        for elem_type, elem_txt in stitched_elements:
+            if elem_type == 'para' and chart_map:
+                new_txt = elem_txt
+                referenced_cnums = []
+                for c_num, c_info in chart_map.items():
+                    link_url = f"file:///{c_info['abs_path']}"
+                    # Match (Chart N) or (Exhibit N)
+                    pattern_paren = re.compile(rf'\((?:Chart|Exhibit)\s+{c_num}\)', re.I)
+                    if pattern_paren.search(new_txt):
+                        new_txt = pattern_paren.sub(f'([Chart {c_num}]({link_url}))', new_txt)
+                        referenced_cnums.append(c_num)
+                    else:
+                        pattern_bare = re.compile(rf'(?<!\[)(?<!\()\b(?:Chart|Exhibit)\s+{c_num}\b', re.I)
+                        if pattern_bare.search(new_txt):
+                            new_txt = pattern_bare.sub(f'[Chart {c_num}]({link_url})', new_txt)
+                            referenced_cnums.append(c_num)
+
+                processed_elements.append(('para', new_txt))
+                for c_num in referenced_cnums:
+                    if c_num not in inlined_charts:
+                        c_info = chart_map[c_num]
+                        img_url = f"file:///{c_info['abs_path']}"
+                        fig_block = (
+                            f"> **Exhibit {c_num}: {title} (Chart {c_num})**  \n"
+                            f"> *Source: Poten & Partners*  \n"
+                            f"> **Interactive Data & Source:** [Local Asset (200 DPI PNG)]({img_url})\n\n"
+                            f"![Exhibit {c_num}: {title}]({img_url})"
+                        )
+                        processed_elements.append(('figure', fig_block))
+                        inlined_charts.add(c_num)
+            else:
+                processed_elements.append((elem_type, elem_txt))
+
         # Build Markdown
         frontmatter_title = title.replace('"', '\\"')
         frontmatter_sub = subtitle.replace('"', '\\"')
-        tables_in_doc = [txt for t, txt in stitched_elements if t == 'table']
+        tables_in_doc = [txt for t, txt in processed_elements if t == 'table']
 
         frontmatter = (
             "---\n"
@@ -1001,18 +1092,21 @@ def process_pdf(
         if subtitle:
             md_parts.append(f"### {subtitle}\n\n")
 
-        for elem_type, elem_txt in stitched_elements:
+        for elem_type, elem_txt in processed_elements:
             if elem_type == 'heading':
                 md_parts.append(f"### {elem_txt}\n\n")
             elif elem_type == 'table':
                 md_parts.append(f"{elem_txt}\n\n")
+            elif elem_type == 'figure':
+                md_parts.append(f"{elem_txt}\n\n")
             else:
                 md_parts.append(f"{elem_txt}\n\n")
 
-        # Append clickable image exhibits
-        if clipped_charts:
+        # Append remaining non-inlined exhibits at bottom under Market Exhibits & Charts
+        remaining_charts = [c for c in clipped_charts if c['chart_num'] not in inlined_charts]
+        if remaining_charts:
             md_parts.append("## Market Exhibits & Charts\n\n")
-            for c in clipped_charts:
+            for c in remaining_charts:
                 img_url = f"file:///{c['abs_path']}"
                 md_parts.append(f"![Exhibit {c['chart_num']}: {title}]({img_url})\n\n")
 
