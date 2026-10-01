@@ -160,8 +160,89 @@ def extract_meta(doc: pymupdf.Document, pdf_path: Path) -> Tuple[str, int]:
 
 
 # ---------------------------------------------------------------------------
-# Section 1: Reported S&P Sales (Bulk Carriers, Tankers, Gas, Containers)
-# ---------------------------------------------------------------------------
+def propagate_enbloc_and_spans(sales: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Propagates multi-row vertical spans, en bloc deals, and sister-ship clusters
+    so that vertically merged cells in the source PDF do not leave sibling rows blank.
+    """
+    n = len(sales)
+    # Pass 1: Cluster detection for sister ships (e.g. 'EACH' or single centered Buyer spanning 2-5 rows)
+    i = 0
+    while i < n:
+        cluster = [i]
+        j = i + 1
+        while j < n and sales[j].get("section") == sales[i].get("section"):
+            same_yard = bool(sales[j].get("YARD") and sales[j].get("YARD") == sales[i].get("YARD"))
+            same_country = bool(sales[j].get("COUNTRY") and sales[j].get("COUNTRY") == sales[i].get("COUNTRY"))
+            name_i = sales[i].get("NAME", "").split()[0] if sales[i].get("NAME") else ""
+            name_j = sales[j].get("NAME", "").split()[0] if sales[j].get("NAME") else ""
+            same_prefix = bool(name_i == name_j and len(name_i) > 2)
+            
+            if (same_yard and same_country) or same_prefix:
+                cluster.append(j)
+                j += 1
+            else:
+                break
+        
+        if len(cluster) > 1:
+            cluster_buyers = [sales[idx].get("BUYERS", "") for idx in cluster if sales[idx].get("BUYERS")]
+            cluster_prices = [sales[idx].get("PRICE", "") for idx in cluster if sales[idx].get("PRICE")]
+            cluster_mills = [sales[idx].get("PRICE_USD_MILL") for idx in cluster if sales[idx].get("PRICE_USD_MILL")]
+            
+            # If exactly one buyer for the cluster, propagate to all
+            if len(set(cluster_buyers)) == 1:
+                single_buyer = cluster_buyers[0]
+                for idx in cluster:
+                    if not sales[idx].get("BUYERS"):
+                        sales[idx]["BUYERS"] = single_buyer
+            
+            # If price contains 'EACH', propagate to all
+            each_prices = [p for p in cluster_prices if "EACH" in str(p).upper()]
+            if each_prices:
+                rep_price = each_prices[0]
+                rep_mill = cluster_mills[0] if cluster_mills else ""
+                for idx in cluster:
+                    if not sales[idx].get("PRICE"):
+                        sales[idx]["PRICE"] = rep_price
+                        sales[idx]["PRICE_USD_MILL"] = rep_mill
+
+            # If price contains 'ENBLOC', propagate to all with en bloc note
+            enbloc_prices = [p for p in cluster_prices if "ENBLOC" in str(p).upper() or "EN BLOC" in str(p).upper()]
+            if enbloc_prices:
+                rep_price = enbloc_prices[0]
+                rep_mill = cluster_mills[0] if cluster_mills else ""
+                for idx in cluster:
+                    if not sales[idx].get("PRICE") or str(sales[idx].get("PRICE")).upper() == "ENBLOC":
+                        sales[idx]["PRICE"] = rep_price if "ENBLOC" in str(rep_price).upper() else f"{rep_price} ENBLOC"
+                        sales[idx]["PRICE_USD_MILL"] = rep_mill
+            
+            # If only one price reported for the entire cluster and vessels are identical sisters, mark as en bloc
+            elif len(cluster_prices) == 1 and len(cluster) == 2:
+                rep_price = cluster_prices[0]
+                rep_mill = cluster_mills[0] if cluster_mills else ""
+                for idx in cluster:
+                    if not sales[idx].get("PRICE"):
+                        sales[idx]["PRICE"] = f"{rep_price} (en bloc)"
+                        sales[idx]["PRICE_USD_MILL"] = rep_mill
+
+        i = j if j > i + 1 else i + 1
+
+    # Pass 2: Sequential pair propagation (e.g. row i is ENBLOC, row i-1 was main deal)
+    for k in range(1, n):
+        curr = sales[k]
+        prev = sales[k - 1]
+        if curr.get("section") != prev.get("section"):
+            continue
+        if "ENBLOC" in str(curr.get("PRICE", "")).upper() or "EN BLOC" in str(curr.get("PRICE", "")).upper():
+            if not curr.get("BUYERS") and prev.get("BUYERS"):
+                curr["BUYERS"] = prev["BUYERS"]
+            if not curr.get("PRICE_USD_MILL") and prev.get("PRICE_USD_MILL"):
+                curr["PRICE_USD_MILL"] = prev["PRICE_USD_MILL"]
+                if curr.get("PRICE") == "ENBLOC":
+                    curr["PRICE"] = f"{prev.get('PRICE')} ENBLOC"
+
+    return sales
+
 
 def extract_sales_tables(
     doc: pymupdf.Document, issue_date: str, report_week: int, source_file: str
@@ -346,7 +427,7 @@ def extract_sales_tables(
                     if comments:
                         last_valid_row["COMMENTS"] = (last_valid_row["COMMENTS"] + " " + comments).strip()
 
-    return sales_rows
+    return propagate_enbloc_and_spans(sales_rows)
 
 
 # ---------------------------------------------------------------------------
@@ -430,7 +511,8 @@ def extract_demo_sales_tables(
                     ):
                         if re.match(r"^\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+", name, re.I):
                             continue
-                        p_ldt = parse_price_per_ldt(row_clean.get("PRICE", ""))
+                        raw_p = row_clean.get("PRICE", "").strip()
+                        p_ldt = parse_price_per_ldt(raw_p)
                         demo_sales.append({
                             "issue_date": issue_date,
                             "report_week": report_week,
@@ -440,6 +522,7 @@ def extract_demo_sales_tables(
                             "DWT": row_clean.get("DWT", ""),
                             "LDT": row_clean.get("LDT", ""),
                             "COUNTRY": row_clean.get("COUNTRY", ""),
+                            "PRICE_RAW": raw_p or "N/A",
                             "PRICE_USD_PER_LDT": p_ldt if p_ldt is not None else "",
                             "BUYERS": row_clean.get("BUYERS", ""),
                             "COMMENTS": row_clean.get("COMMENTS", ""),
@@ -1051,9 +1134,11 @@ def generate_markdown(
     ])
     if bulker_sales:
         for s in bulker_sales:
-            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else s.get("PRICE", "")
+            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else (s.get("PRICE") or "-")
+            buyers_str = s.get("BUYERS") or "-"
+            comments_str = s.get("COMMENTS") or "-"
             lines.append(
-                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {s.get('BUYERS', '')} | {p_str} | {s.get('COMMENTS', '')} |"
+                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {buyers_str} | {p_str} | {comments_str} |"
             )
     else:
         lines.append("| Bulk Carriers | - | - | - | - | - | - | - | - | No bulker sales reported |")
@@ -1067,9 +1152,11 @@ def generate_markdown(
     ])
     if tanker_sales:
         for s in tanker_sales:
-            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else s.get("PRICE", "")
+            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else (s.get("PRICE") or "-")
+            buyers_str = s.get("BUYERS") or "-"
+            comments_str = s.get("COMMENTS") or "-"
             lines.append(
-                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {s.get('BUYERS', '')} | {p_str} | {s.get('COMMENTS', '')} |"
+                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {buyers_str} | {p_str} | {comments_str} |"
             )
     else:
         lines.append("| Tankers | - | - | - | - | - | - | - | - | No tanker sales reported |")
@@ -1083,9 +1170,11 @@ def generate_markdown(
             "|---|---|---|---|---|---|---|---|---|---|",
         ])
         for s in other_sales:
-            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else s.get("PRICE", "")
+            p_str = f"${s['PRICE_USD_MILL']}M" if s.get("PRICE_USD_MILL") else (s.get("PRICE") or "-")
+            buyers_str = s.get("BUYERS") or "-"
+            comments_str = s.get("COMMENTS") or "-"
             lines.append(
-                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {s.get('BUYERS', '')} | {p_str} | {s.get('COMMENTS', '')} |"
+                f"| {s.get('section', '')} | {s.get('NAME', '')} | {s.get('TYPE', '')} | {s.get('DWT', '')} | {s.get('YEAR', '')} | {s.get('COUNTRY', '')} | {s.get('YARD', '')} | {buyers_str} | {p_str} | {comments_str} |"
             )
         lines.append("")
 
@@ -1114,9 +1203,11 @@ def generate_markdown(
     ])
     if demo_sales:
         for ds in demo_sales:
-            p_ldt = f"${ds['PRICE_USD_PER_LDT']}" if ds.get("PRICE_USD_PER_LDT") else ""
+            p_ldt = f"${ds['PRICE_USD_PER_LDT']}" if ds.get("PRICE_USD_PER_LDT") else (ds.get("PRICE_RAW") or "N/A")
+            buyers_str = ds.get("BUYERS") or "-"
+            comments_str = ds.get("COMMENTS") or "-"
             lines.append(
-                f"| {ds.get('NAME', '')} | {ds.get('TYPE', '')} | {ds.get('YEAR', '')} | {ds.get('DWT', '')} | {ds.get('LDT', '')} | {ds.get('COUNTRY', '')} | {p_ldt} | {ds.get('BUYERS', '')} | {ds.get('COMMENTS', '')} |"
+                f"| {ds.get('NAME', '')} | {ds.get('TYPE', '')} | {ds.get('YEAR', '')} | {ds.get('DWT', '')} | {ds.get('LDT', '')} | {ds.get('COUNTRY', '')} | {p_ldt} | {buyers_str} | {comments_str} |"
             )
     else:
         lines.append("| - | - | - | - | - | - | - | - | No demolition sales reported |")
