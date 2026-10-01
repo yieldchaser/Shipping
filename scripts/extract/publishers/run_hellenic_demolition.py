@@ -291,7 +291,8 @@ def main():
     gms_port_positions = []
     
     processed_count = 0
-    seen_hashes = set()
+    seen_names = set()
+    seen_content = set()
     
     for h in html_files:
         soup = BeautifulSoup(h.read_bytes(), "html.parser")
@@ -320,29 +321,36 @@ def main():
         if not pdf_path:
             continue
             
-        # Deduplicate identical PDFs. The key is CONTENT, not the filename: until
-        # 2026-10-01 this used pdf_path.name, which cannot see the collection routes
-        # that fetch the SAME issue under different names (a path string is not an
-        # identity, and neither is a filename). Measured that day, the Athenian twin
-        # pairs put 384 duplicate rows into hellenic_athenian_demolition_series.csv
-        # (3,300 -> 2,916 rows).
+        # Deduplicate identical PDFs. TWO rules, both required.
         #
-        # The issue_date and the publisher branch are part of the key on purpose.
-        # A content-only key was measured to be destructive: it also suppressed
-        # 2026-06-13 (one file collected under three publisher names) and the
-        # 2022-05-03 re-collection of the week-16 GMS file, which DELETED 4 rows and
-        # the 2026-06-13 date from hellenic_gms_demolition_series.csv and 33 rows /
-        # 2 dates from hellenic_gms_port_positions_series.csv. With the branch and
-        # date in the key a copy can only be suppressed by one that would be routed
-        # to the SAME series for the SAME issue, so no date and no series loses a row.
+        #  1. By FILENAME, as this always did. Not redundant: a collection-route
+        #     alias (a 2025 archive page whose "latest report" link still points at
+        #     2022's PDF) must not be re-read under a new issue_date. Dropping this
+        #     rule was measured to ADD 4 spurious dates - 2024-12-23, 2025-09-09,
+        #     2025-12-16, 2025-12-23 - each carrying a 2022/2024 report's prices.
+        #  2. By CONTENT + issue_date + publisher branch. New: the filename rule
+        #     cannot see the two collection routes that fetch the SAME issue under
+        #     different names (a filename is not an identity). Measured 2026-10-01,
+        #     the Athenian twins put 384 duplicate rows into
+        #     hellenic_athenian_demolition_series.csv: 32 issue dates carry 24 rows
+        #     where the issue has 12. Deduped, that file is 3,300 -> 2,916 rows with
+        #     the same 242 issue dates and every other row byte-identical.
+        #
+        # issue_date and the branch are part of the content key on purpose: a
+        # content-only key was measured to be destructive, suppressing 2026-06-13
+        # (one file collected under three publisher names) and the 2022-05-03
+        # re-collection of the week-16 GMS file, which DELETED 4 rows and 1 date from
+        # hellenic_gms_demolition_series.csv and 33 rows and 2 dates from
+        # hellenic_gms_port_positions_series.csv.
         try:
             digest = hashlib.md5(pdf_path.read_bytes()).hexdigest()
         except OSError:
             digest = pdf_path.name
-        pdf_hash = (digest, issue_date, publisher_branch(pdf_path.name, title))
-        if pdf_hash in seen_hashes:
+        content_key = (digest, issue_date, publisher_branch(pdf_path.name, title))
+        if pdf_path.name in seen_names or content_key in seen_content:
             continue
-        seen_hashes.add(pdf_hash)
+        seen_names.add(pdf_path.name)
+        seen_content.add(content_key)
         
         name_l = pdf_path.name.lower()
         title_l = title.lower()
