@@ -1,3 +1,42 @@
+**THIS RUN (2026-10-01 20:3x-21:0x) - TWO ITEMS CLOSED. (1) HUMAN DECISION #1 executed: the decimal-comma fixes are now APPLIED to the delivered CSVs (191 rows corrected). (2) A bigger defect surfaced doing it - EVERY publisher was DOUBLE-COUNTING byte-duplicate documents. Committed on the current branch (`main` NOT touched). Evidence `docs/decimal_comma_regeneration_verdict.md`.**
+
+**REGENERATED (offline, no API spend, no credits):** xclusiv `run_xclusiv_tables.py --all` (264 docs), clarksons
+`run_clarksons_hellas_world_class.py` (165), intermodal `run_intermodal_full.py --reparse-only --year all` (255).
+Measured corrections: **xclusiv sales 1 cell** (TANAIS FLYER 48.0 -> 4.8, page prints `4,8`); **clarksons snp_sales
+7 cells** (EMILIA 139.0->13.9 `USD 13,9 M`, NORD POTOMAC 279->27.9, BULK SAO PAULO 7225->72.25, SEACON AFRICA
+227->22.7, ILMA+INGRID 982->98.2, UOG OSLO 235->23.5); **intermodal**: `m_e` 2,755 rows (the engine column held
+COMMENT text: `BWTS fitted`/`Eco`/`Scrubber fitted` -> `MAN-B&W`/`MAN B&W`/`Wartsila`), `comments` 1,723 rows
+(it was EMPTY on all 3,358), `price_usd_m` 184 rows, `dwt` 89 rows (gas sub-table shift).
+
+**VERIFIED AGAINST THE PAGES, NOT COUNTS.** Ground truth read by hand: intermodal 2021 W26 p3 prints
+`DOUBLE PROVIDENCE | 95,720 | 2012 | IMABARI, Japan | MAN-B&W | Jan-22 | $ 21.3m | Greek | BWTS on order` - the old
+CSV had `m_e="BWTS on order"`, the new has `m_e=MAN-B&W` + `comments=BWTS on order`. Reverse control: 1,723/1,733
+(99.4%) of the moved `m_e` texts now sit in `comments`/`m_e`. Sample: 88/88 changed rows carry the new `m_e`
+verbatim in their own PDF. Whole-series reconciliation (120 rows x every numeric column vs its own PDF text,
+separators normalised): 14 of 16 intermodal series 120/120 (sales 118/120, currencies 118/120 - a re-draw found
+no failing row, so the misses are my normaliser). tc_rates 150/150 on both rate columns. xclusiv_sales 120/120
+vessel names verbatim. Idempotent: a second reparse+stack gives 0 md5 diffs.
+
+**NEW DEFECT, FIXED - byte-duplicate documents were double-counted.** Accounting for a +10 row delta in
+intermodal sales exposed it: a SECOND COLLECTION ROUTE re-drops the same weekly report under a different
+filename. md5-measured: intermodal 257 PDFs / **255 unique** (2 dup groups), xclusiv 271 / **264 unique**
+(7 groups), clarksons 9 / 8 (ALREADY dedupes by SHA256), banchero_costa 248 / 247. E.g.
+`intermodal_2026_W39_*.pdf` == `intermodal_30_09_2026_*week_39*.pdf`, and
+`xclusiv_2026_xclusiv-2026_09_14.pdf` == `xclusiv_15_09_2026_*14th_september_2026.pdf`. Both copies were parsed
+and stacked; the existing row dedup keys on ALL columns INCLUDING `source_file`, so the copies never collapsed.
+Impact: xclusiv_sales carried **113** duplicate rows; intermodal W38 AND W39 each double-counted (the register's
+own `intermodal_sales 3,358` already included the pre-existing W38 duplicate).
+FIX (per-source in each publisher's own runner): `byte_duplicate_stems()` keeps the lexicographically-first stem
+of each md5 group and skips the rest - with `run_intermodal_full.py` filtering BOTH the reparse enumeration AND
+the sidecar stack (else the skipped copy's stale sidecar re-adds its rows). Result: intermodal 257 -> **255 docs,
+61,386 rows** (register 61,694 was inflated), 0 exact duplicates; xclusiv 271 -> **264 docs**, xclusiv_sales
+5,815 -> **5,702**.
+
+**NOTE FOR THE NEXT RUN:** the series CSVs live under `data/extracted/` which is GITIGNORED - the corrected rows
+are on DISK, not in git. `docs/EXTRACTION_REGISTER.md` per-file counts are now stale (and were themselves
+pre-dedup inflated); regenerating that tracked doc is a whole-file rewrite and was deliberately NOT done.
+`banchero_costa` has 1 duplicate pair but is blocked on LlamaParse credits (HTTP 402).
+
 **THIS RUN (2026-10-01 19:0x-19:5x) - ONE ITEM CLOSED: the frontend data-integrity scanner's ONLY CRITICAL was the scanner's own instrument bug. Committed `7912be029` on the current branch (`main` NOT touched). Evidence `docs/frontend_integrity_scanner_verdict.md`.**
 
 `scripts/check_frontend_data_integrity.py` ("exits non-zero if any CRITICAL finding exists. Designed for CI") regexes EVERY `safeFetch('data/... | knowledge/...')` target in index.html - 39 of them - and handed each one to `pd.read_csv`. Exactly ONE is not a CSV: `data/views/signals/cape_ffa_distribution.json` (fetched at `index.html:18683`, a real displayed view). Reading it as CSV gives `shape (0, 158)` - 0 rows, 158 pseudo-columns - which the tool reported as `DUPLICATE COLUMNS ['max:7634','min:-243']` + `ZERO DATA ROWS`. **The JSON is fine** (`json.load`: 6 top-level keys, all 12 months `count=18`). A red CI gate with no data behind it.
