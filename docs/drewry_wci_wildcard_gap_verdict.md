@@ -85,3 +85,22 @@ python3 scratch/wci/wildcard_probe.py     # candidate URLs by timemap -> scratch
 python3 scratch/wci/era_gap_measure.py    # definitive era gap -> scratch/wci/era_gap.json
 python3 scratch/wci/five_gap.py           # names + reads the 5 holiday Thursdays -> scratch/wci/recoverable_gap.json
 ```
+
+## 5. Reconciling with the previous run's "33 + 17" (they are NOT directly comparable)
+
+The previous verdict counted "33 era Thursdays with NO archived capture in their week and 17
+more with only pre-Thursday captures". Those were measured against the **checkpoint's then
+231 captures**, not against the archive's full capture list. Re-run on the archive's own
+1,053-capture list (this run):
+
+| definition | count |
+|---|---|
+| A: no capture **at all** inside the Thursday's own ISO week | **57** |
+| B: captures in the week, but **all** of them before Thursday 12:00 | **50** |
+| A+B | 107 |
+| this run's single measure: no capture in `(Thu 12:00, +7d]` (spans into the next week) | **56** |
+
+They disagree because they answer different questions: B's Thursdays are mostly covered by a
+capture in the following Mon-Wed, which is exactly the "post-Thursday candidate" the fix now
+takes, so they are **not** a gap. Reported here so a later run does not read 33+17 and 56 as a
+contradiction: **only the `(Thu 12:00, +7d]` window decides whether a print is recoverable.**
