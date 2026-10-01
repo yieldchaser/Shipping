@@ -989,12 +989,22 @@ def normalize_fearnleys():
             "label", "value", "size", "change", "source_file"
         ]
         existing_map = {}
+        _stale = 0
         if SERIES_CSV.exists():
             with open(SERIES_CSV, "r", encoding="utf-8") as fp:
                 reader = csv.DictReader(fp)
                 for row in reader:
+                    # The merge map is seeded from the PREVIOUS file, so the
+                    # byte-duplicate filter must be re-applied HERE as well -
+                    # otherwise the skipped copy's stale rows survive every
+                    # re-run (measured: 121 rows for 2 duplicate stems).
+                    if Path(str(row.get("source_file", ""))).stem in _dup:
+                        _stale += 1
+                        continue
                     pkey = (row.get("issue_date"), row.get("chapter"), row.get("section"), row.get("label"))
                     existing_map[pkey] = row
+        if _stale:
+            print(f"[dedup] dropped {_stale} stale row(s) carried by a skipped duplicate stem in the existing series CSV")
 
         for r in all_series_rows:
             pkey = (r.get("issue_date"), r.get("chapter"), r.get("section"), r.get("label"))
