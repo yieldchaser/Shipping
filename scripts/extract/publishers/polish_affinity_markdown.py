@@ -23,6 +23,12 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 ROOT = Path(__file__).resolve().parents[3]
 PUB = "affinity"
 CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
@@ -275,6 +281,14 @@ def run_polish():
             print(f"Error removing {f}: {e}")
 
     sidecars = sorted([f for f in OUT_MD.rglob("*.tables.json") if "_nan_" not in f.name])
+    # md5 byte-duplicate documents: the corpus holds the same issue under two collection
+    # routes, so both sidecars would stack and the issue would double-count its rows.
+    _dup = byte_duplicate_stems(CORPUS_DIR, OUT_MD)
+    if _dup:
+        _b = len(sidecars)
+        sidecars = [f for f in sidecars
+                    if f.name[: -len(".tables.json")] not in _dup]
+        print(f"[dedup] skipped {_b - len(sidecars)} byte-identical duplicate sidecar(s)")
     print(f"Processing {len(sidecars)} canonical Affinity reports...")
 
     tce_series: List[Dict[str, Any]] = []
