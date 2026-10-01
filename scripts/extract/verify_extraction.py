@@ -32,7 +32,49 @@ GOLDEN = ["princess eternity", "182,263", "78.0", "mount dampier", "38.0",
           "glory bridge", "7.5", "bdi", "3,186"]
 
 
-def check_state(state_path, actions, info):
+def remaining_work(checkpoint):
+    """How many documents in run_batch's own selection are still un-extracted?
+
+    Recomputes run_batch's queue (inventory minus content-duplicates, minus
+    PROVENANCE_ONLY) and subtracts the paths already in the checkpoint. A
+    finished run stops advancing its state file, so staleness alone cannot tell
+    COMPLETE from DEAD - only real remaining work is an ACTION.
+
+    Returns (count, note); (None, note) when the queue cannot be recomputed, so
+    the caller falls back to the plain staleness warning instead of claiming a
+    completed corpus.
+    """
+    try:
+        here = os.path.dirname(os.path.abspath(__file__))
+        if here not in sys.path:
+            sys.path.insert(0, here)
+        import run_batch as RB
+        rows = RB.load_inventory()
+        try:
+            from source_configs import PROVENANCE_ONLY
+        except ImportError:
+            PROVENANCE_ONLY = {}
+        if PROVENANCE_ONLY:
+            import fnmatch
+
+            def _prov_only(path):
+                p = path.replace(chr(92), "/")
+                for pat in PROVENANCE_ONLY:
+                    if (fnmatch.fnmatch(p, pat)
+                            or fnmatch.fnmatch(p, pat + "/*")
+                            or pat.rstrip("*").rstrip("/") in p):
+                        return True
+                return False
+
+            rows = [r for r in rows if not _prov_only(r["path"])]
+        done = RB.load_done(checkpoint) if (checkpoint and os.path.exists(checkpoint)) else {}
+        todo = [r for r in rows if r["path"] not in done]
+        return len(todo), "%d planned, %d recorded" % (len(rows), len(done))
+    except Exception as exc:
+        return None, "could not recompute remaining work (%s: %s)" % (type(exc).__name__, exc)
+
+
+def check_state(state_path, actions, info, checkpoint=None):
     if not os.path.exists(state_path):
         actions.append(f"no state file at {state_path} - has a batch ever run?")
         return
@@ -42,8 +84,23 @@ def check_state(state_path, actions, info):
     info.update({k: st.get(k) for k in
                  ("done", "planned", "status_counts", "secs_per_doc", "eta_min")})
     if age > STALE_MIN * 60:
-        actions.append(f"state file is {age / 60:.0f} min old "
-                       f"(> {STALE_MIN}) - batch may have died; rerun with --resume")
+        # Fixed 2026-09-23 with a remaining_work() helper; found MISSING again
+        # on 2026-10-01, so the hourly job was reporting a dead batch every hour
+        # for a corpus that finished on 2026-09-22 (7,816/7,816 documents, 0
+        # remaining). Only real remaining work is an ACTION.
+        remaining, note = remaining_work(checkpoint)
+        if remaining == 0:
+            info["state_note"] = (
+                f"state file is {age / 60:.0f} min old but 0 documents remain "
+                f"({note}) - run COMPLETE, not a dead batch")
+        elif remaining is None:
+            info["state_note"] = note
+            actions.append(f"state file is {age / 60:.0f} min old "
+                           f"(> {STALE_MIN}) - batch may have died; rerun with --resume")
+        else:
+            actions.append(f"state file is {age / 60:.0f} min old "
+                           f"(> {STALE_MIN}) and {remaining} documents are still "
+                           f"un-extracted ({note}) - rerun with --resume")
     counts = st.get("status_counts", {}) or {}
     total = sum(counts.values())
     bad = total - counts.get("ok", 0)
@@ -364,7 +421,7 @@ def main():
     a = ap.parse_args()
 
     actions, info = [], {}
-    check_state(a.state, actions, info)
+    check_state(a.state, actions, info, a.checkpoint)
     check_duplicates(a.checkpoint, actions, info)
     check_outputs(os.path.join(a.out, "corpus"), actions, info,
                   checkpoint=a.checkpoint)
