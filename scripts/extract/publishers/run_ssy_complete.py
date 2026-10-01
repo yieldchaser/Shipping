@@ -30,10 +30,25 @@ from pathlib import Path
 
 import pymupdf
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 ROOT = Path(__file__).resolve().parents[3]
 PUB = "ssy"
 SRC = ROOT / "corpus" / "01-brokers" / PUB
 OUT_MD = ROOT / "data" / "extracted" / "md" / PUB
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    Measured 2026-10-01: 530 PDFs / 516 unique, 14 duplicate groups; 132 rows double-counted in the delivered ssy series (route_rates 120, capesize_index_time 12). Both copies were parsed and stacked, so the dropped copy's rows
+    double-count. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(SRC, OUT_MD)
 OUT_CHARTS = ROOT / "data" / "extracted" / "charts" / PUB
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
 STATE = OUT_MD / "_run_state_complete.json"
@@ -540,6 +555,11 @@ def process_report(pdf_path: Path):
 
 def main():
     pdfs = sorted(SRC.rglob("*.pdf"))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(pdfs)
+        pdfs = [q for q in pdfs if q.stem not in _dup]
+        print(f"[dedup] skipped {_b - len(pdfs)} byte-identical duplicate document(s)")
     print(f"[{PUB}] Starting complete overhaul across all {len(pdfs)} reports...", flush=True)
 
     route_rows = []

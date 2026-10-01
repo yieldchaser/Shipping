@@ -27,11 +27,26 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 ROOT = Path(__file__).resolve().parents[3]
 PUB = "intermodal"
 CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
 OUT_MD = ROOT / "data" / "extracted" / "md" / PUB
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    Measured 2026-10-01: the intermodal dedup landed in run_intermodal_full.py only, so THIS writer - macro / maritime_stocks / bunkers - still double-counts 36 rows (macro 16, stocks 11, bunkers 9) from the dropped W38 copy. Both copies were parsed and stacked, so the dropped copy's rows
+    double-count. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(CORPUS_DIR, OUT_MD)
 
 STOCKS_SERIES_CSV = OUT_SERIES / "intermodal_maritime_stocks_series.csv"
 BUNKERS_SERIES_CSV = OUT_SERIES / "intermodal_bunkers_series.csv"
@@ -302,6 +317,11 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
 
 def run_all():
     files = sorted(glob.glob(str(CORPUS_DIR / "*/*.pdf")))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(files)
+        files = [f for f in files if Path(f).stem not in _dup]
+        print(f"[dedup] skipped {_b - len(files)} byte-identical duplicate document(s)")
     print(f"Processing {len(files)} Intermodal reports for Finance & Macro data...")
 
     all_stocks = []

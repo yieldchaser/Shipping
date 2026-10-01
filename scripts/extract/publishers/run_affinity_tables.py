@@ -25,6 +25,12 @@ import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 if sys.stdout and hasattr(sys.stdout, "reconfigure"):
     try:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -38,6 +44,15 @@ OUT_MD = ROOT / "data" / "extracted" / "md" / PUB
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
 
 TCE_SERIES_CSV = OUT_SERIES / "affinity_tce_series.csv"
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    Measured 2026-10-01: 254 PDFs / 247 unique, 7 duplicate groups; 48 rows double-counted (tce 38, bda 6, indices 4). The _nan_ pairs were already filtered here; the DD_MM/2026 pairs were not. Both copies were parsed and stacked, so the dropped copy's rows
+    double-count. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(CORPUS_DIR, OUT_MD)
 BDA_SERIES_CSV = OUT_SERIES / "affinity_bda_series.csv"
 
 MONTH_MAP = {
@@ -168,6 +183,11 @@ def parse_quantity_mt(val: Any) -> Optional[float]:
 def stamp_and_stack() -> Dict[str, Any]:
     """Update all 250 tables.json sidecars and stack series CSVs."""
     sidecar_files = sorted(OUT_MD.rglob("*.tables.json"))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(sidecar_files)
+        sidecar_files = [f for f in sidecar_files if f.name[: -len(".tables.json")] not in _dup]
+        print(f"[dedup] skipped {_b - len(sidecar_files)} byte-identical duplicate sidecar(s)")
     if not sidecar_files:
         raise FileNotFoundError(f"No .tables.json files found in {OUT_MD}")
 

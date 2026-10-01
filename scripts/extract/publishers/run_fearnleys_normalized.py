@@ -31,9 +31,24 @@ from typing import Dict, List, Any, Optional, Tuple
 
 import pymupdf
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 ROOT = Path(r"c:\Users\Dell\Github\Shipping")
 SRC_DIR = ROOT / "corpus" / "01-brokers" / "fearnleys"
 MD_DIR = ROOT / "data" / "extracted" / "md" / "fearnleys"
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    Measured 2026-10-01: 263 PDFs / 260 unique, 3 duplicate groups; 121 rows double-counted in fearnleys_rates_series.csv. NOTE the two copies of an issue derive issue_date from their own FILENAME and differ by a day (2026-09-10 vs 2026-09-09). Both copies were parsed and stacked, so the dropped copy's rows
+    double-count. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(SRC_DIR, MD_DIR)
 SERIES_CSV = ROOT / "data" / "extracted" / "series" / "fearnleys_rates_series.csv"
 
 MONTH_MAP = {
@@ -547,6 +562,11 @@ def normalize_fearnleys():
     print("=================================================================", flush=True)
 
     all_pdfs = sorted(SRC_DIR.rglob("*.pdf"))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(all_pdfs)
+        all_pdfs = [q for q in all_pdfs if q.stem not in _dup]
+        print(f"[dedup] skipped {_b - len(all_pdfs)} byte-identical duplicate document(s)")
     print(f"Total Fearnleys PDFs to normalize: {len(all_pdfs)}", flush=True)
 
     MD_DIR.mkdir(parents=True, exist_ok=True)

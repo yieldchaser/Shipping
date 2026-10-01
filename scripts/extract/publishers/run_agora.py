@@ -44,9 +44,24 @@ ROOT = Path(__file__).resolve().parents[3]
 PUB = "agora"
 SRC = ROOT / "corpus" / "01-brokers" / PUB
 OUT = ROOT / "data" / "extracted" / "md" / PUB
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    Measured 2026-10-01: 217 PDFs / 213 unique, 4 duplicate groups; 94 rows double-counted in agora_indicators_series.csv. One copy of W38 is an 88-byte STUB sidecar, so the keeper must be chosen on row count, not filename. Both copies were parsed and stacked, so the dropped copy's rows
+    double-count. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(SRC, OUT)
 STATE = OUT / "_run_state.json"
 
 import pymupdf  # noqa: E402
+
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
 
 TITLE_TERMS = ["COMMODITY FUTURES", "USD LIBOR", "EXCHANGE RATE",
                "STOCK MARKETS", "10-YEAR BOND", "BUNKERS", "BALTIC EXCHANGE"]
@@ -539,6 +554,11 @@ def run_one(pdf):
 
 def main():
     pdfs = sorted(SRC.rglob("*.pdf"))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(pdfs)
+        pdfs = [q for q in pdfs if q.stem not in _dup]
+        print(f"[dedup] skipped {_b - len(pdfs)} byte-identical duplicate document(s)")
     st = {"done": {}, "failed": {}}
     if STATE.exists():
         try:

@@ -79,6 +79,43 @@ the post-fix file:
 **148 rows removed, and every surviving row is byte-identical to what was shipped.** The rebuild
 changed nothing else - no value moved, no row lost.
 
+## 4b. INCIDENT - a concurrent process truncated the delivered series mid-run
+
+At 22:19:16, while this run was working, a SECOND python process started
+(`run_advanced_shipping_tables.py --sample`, PID 18956) and at 22:20:10 wrote a 3-document
+sample over all five delivered advanced_shipping CSVs - sales went 6,061 -> **74 rows**. The
+corrected files were restored by re-running `--stack-only` (601/2,000/1,888/6,061/8,046) and
+verified byte-identical to the post-fix hashes. Separately, a `git` process held
+`.git/index.lock` and had to be waited out, and a third process was seen reading
+advanced_shipping_sales_series.csv with pandas - the user runs several agents on this repo at
+once, so re-check the artefact after any concurrent activity.
+
+GUARD ADDED: `--sample` no longer writes the series CSVs (it parses 3 documents and would
+replace the delivered output). Control: re-ran `--sample`; all five CSVs unchanged (md5 OK) and
+a re-run of `--stack-only` afterwards reproduces the same files, so the sample did not change
+any extracted content either.
+
+## 4c. Runners patched now (filter executes; full re-run still pending)
+
+The shared filter is wired into each publisher's OWN enumeration/stack point and each patched
+runner was executed to prove the filter path works (skipped counts measured 2026-10-01 22:2x):
+
+| runner | skipped stems | expected |
+|---|---|---|
+| run_advanced_shipping_tables.py | 3 | 3 (RAN + VERIFIED) |
+| run_ssy_complete.py | 14 | 14 |
+| run_fearnleys_normalized.py | 3 | 3 |
+| run_agora.py | 4 | 4 |
+| run_star_asia_tables.py | 2 | 2 |
+| run_affinity_tables.py | 7 | 7 |
+| run_intermodal_finance.py | 2 | 2 |
+
+Those six have NOT yet had their full re-run, so their delivered CSVs still carry the
+double-counted rows (132/121/94/58/48/36). ALSO NOT YET PATCHED: star_asia's other four writers
+(`run_star_asia_charts.py`, `run_star_asia_ferrous_scrap.py`, `run_star_asia_price_trends.py`,
+`stack_unstacked_tables.stack_star_asia`) and affinity's second writer
+(`polish_affinity_markdown.py`, which also writes indices and re-reads the PDFs).
+
 ## 5. Still open, in the order to work them
 
 Each needs its own runner patched at BOTH points (enumeration AND stack) - affinity/agora keep a

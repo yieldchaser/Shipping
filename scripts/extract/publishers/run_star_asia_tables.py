@@ -29,6 +29,12 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 
+try:  # shared byte-duplicate filter (see doc_dedup.py for why)
+    from doc_dedup import byte_duplicate_stems
+except ImportError:  # run as a script, not via the orchestrator
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from doc_dedup import byte_duplicate_stems
+
 ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(ROOT / "scripts" / "extract" / "publishers"))
 import star_asia as S
@@ -37,6 +43,15 @@ import star_asia_dates as SAD
 PUB = "star_asia"
 CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
 OUT_MD = ROOT / "data" / "extracted" / "md" / PUB
+
+
+def duplicate_stems() -> set:
+    """Stems of corpus PDFs that are byte-identical to another corpus PDF.
+
+    Measured 2026-10-01: 199 PDFs / 197 unique, 2 duplicate groups; 58 rows double-counted across 7 star_asia series. The W38 pair is the stub case: one sidecar is a 1,182-byte dict, the other a 29,127-byte list. Both copies were parsed and stacked, so the dropped copy's rows
+    double-count. Keep the richest extraction, skip the rest.
+    """
+    return byte_duplicate_stems(CORPUS_DIR, OUT_MD)
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
 
 DEMO_SERIES_CSV = OUT_SERIES / "star_asia_demolition_series.csv"
@@ -484,6 +499,11 @@ def process_star_asia_corpus() -> Dict[str, Any]:
     OUT_MD.mkdir(parents=True, exist_ok=True)
 
     pdfs = sorted(CORPUS_DIR.rglob("*.pdf"))
+    _dup = duplicate_stems()
+    if _dup:
+        _b = len(pdfs)
+        pdfs = [q for q in pdfs if q.stem not in _dup]
+        print(f"[dedup] skipped {_b - len(pdfs)} byte-identical duplicate document(s)")
     print(f"Starting Star Asia extraction across {len(pdfs)} PDFs...")
 
     all_indicative_series: List[Dict[str, Any]] = []
