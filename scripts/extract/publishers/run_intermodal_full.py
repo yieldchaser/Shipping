@@ -262,15 +262,16 @@ def read_dual_separator_number(token: str) -> Optional[float]:
         return None
     if "," in token:
         head, tail = token.rsplit(",", 1)
-        if not re.fullmatch(r"[\d.,]*", token):
+        tail = tail.strip(".")
+        if not tail.isdigit():
             return None
+        head_digits = re.sub(r"[.,]", "", head)
         if len(tail) <= 2:
-            head_digits = re.sub(r"[.,]", "", head)
-            if not tail:
-                return float(head_digits) if head_digits else None
-            return float(f"{head_digits}.{tail}") if head_digits else float(f"0.{tail}")
-        digits = re.sub(r"[.,]", "", token)
-        return float(digits) if digits.isdigit() else None
+            # 1-2 digits after the comma: the comma IS the decimal point
+            if not head_digits:
+                return float(f"0.{tail}")
+            return float(f"{head_digits}.{tail}")
+        return float(head_digits + tail) if head_digits else None
     if re.fullmatch(r"\d{1,3}(?:\.\d{3})+", token):
         # periods in threes are thousands separators (European style, '60.000')
         return float(token.replace(".", ""))
@@ -279,8 +280,6 @@ def read_dual_separator_number(token: str) -> Optional[float]:
         return float(token)
     except ValueError:
         return None
-
-
 def parse_price_mill(p_str: Any) -> Optional[float]:
     """Price in million USD, tolerating the publisher's mixed separator.
 
@@ -300,6 +299,7 @@ def parse_price_mill(p_str: Any) -> Optional[float]:
         return None
     millions = bool(re.search(r"\d\s*(?:m\b|mn\b|mill)", s, re.I))
     head, comma, tail = token.rpartition(",")
+    tail = tail.strip(".")
     if millions and comma and len(tail) >= 3 and val > 1000:
         # no vessel costs 26,625 million: the comma is the decimal point
         return float(f"{re.sub(r'[.,]', '', head)}.{tail}")

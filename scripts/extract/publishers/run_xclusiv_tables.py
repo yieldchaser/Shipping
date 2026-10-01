@@ -73,17 +73,37 @@ def clean_str(v: Any) -> str:
 
 
 def parse_price_mill(p_str: str) -> Optional[float]:
-    """Extract numeric million USD from price string."""
+    """Extract numeric million USD from a price string.
+
+    The publisher mixes separators. Measured 2026-10-01 against the source PDF
+    (positioned text): 'TANAIS FLYER 28,674 1998 JAPAN IMABARI UNDISCLOSED 4,8
+    SS: 02/2024' - a 1998 28,674 dwt Handysize at 4.8m, stored as 48.0 before
+    this fix (10x). A comma followed by 1-2 digits is the DECIMAL point; a comma
+    followed by 3 digits stays a thousands group ('2,350 ENBLOC' unchanged).
+    """
     if not p_str:
         return None
-    s = p_str.replace("$", "").replace("USD", "").replace("usd", "").replace(",", "").strip()
-    m = re.search(r"(\d+(?:\.\d+)?)", s)
-    if m:
-        try:
-            return float(m.group(1))
-        except ValueError:
-            return None
-    return None
+    s = p_str.replace("$", "").replace("USD", "").replace("usd", "").strip()
+    m = re.search(r"\d[\d.,]*", s)
+    if not m:
+        return None
+    token = m.group(0).rstrip(".,")
+    if "," in token:
+        head, tail = token.rsplit(",", 1)
+        tail = tail.strip(".")
+        if tail.isdigit() and len(tail) <= 2:
+            head_digits = re.sub(r"[.,]", "", head)
+            if head_digits:
+                return float(f"{head_digits}.{tail}")
+    if "," in token:
+        # a 3-digit group after the comma is a thousands separator ('2,350 ENBLOC')
+        digits = re.sub(r"[.,]", "", token)
+        return float(digits) if digits.isdigit() else None
+    # a lone period is the decimal point: '$17.7' stays 17.7
+    try:
+        return float(token)
+    except ValueError:
+        return None
 
 
 def parse_price_per_ldt(p_str: str) -> Optional[float]:

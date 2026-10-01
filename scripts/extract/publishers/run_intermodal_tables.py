@@ -134,18 +134,90 @@ def extract_report_metadata(pdf_path: Path) -> Tuple[int, str]:
 # Value Parsing Utilities
 # ---------------------------------------------------------------------------
 
+def read_dual_separator_number(token: str) -> Optional[float]:
+    """Read a numeric token that may use '.' OR ',' as its DECIMAL point.
+
+    This publisher prints BOTH conventions inside the same table. Measured
+    2026-10-01 against the source PDFs' positioned text, never against another
+    extractor:
+
+        'CAPE MOUNT AUSTIN 178,623 2010 MITSUI, Japan MAN-B&W Jun-25 $ 26,75m Chinese'
+        'KMAX PEDHOULAS CHERRY 82,013 2015 MAN-B&W Jul-25 $26,625m Greek (Pyxis)'
+        'VLCC DONOUSSA 299,999 2016 DAEWOO, South Korea MAN B&W Jan-31 DH $ 123,0m'
+
+    Shape census over the 3,358 price rows of intermodal_sales_series.csv:
+    period-decimal 1,629 rows, decimal-comma 179 rows, thousands-grouped only on
+    amounts that are not millions figures. Rule, derived from that census:
+      1-2 digits after a comma -> the comma IS the decimal point ('21,25' = 21.25)
+      3 digits after a comma   -> thousands separator ('470,000' = 470000)
+    The 3-digit case is re-read by the caller when the figure is denominated in
+    millions (a 26,625m vessel would cost 26.6 billion, so it is 26.625m).
+    """
+    token = (token or "").strip().rstrip(".,")
+    if not token:
+        return None
+    if "," in token:
+        head, tail = token.rsplit(",", 1)
+        tail = tail.strip(".")
+        if not tail.isdigit():
+            return None
+        head_digits = re.sub(r"[.,]", "", head)
+        if len(tail) <= 2:
+            # 1-2 digits after the comma: the comma IS the decimal point
+            if not head_digits:
+                return float(f"0.{tail}")
+            return float(f"{head_digits}.{tail}")
+        return float(head_digits + tail) if head_digits else None
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+", token):
+        # periods in threes are thousands separators (European style, '60.000')
+        return float(token.replace(".", ""))
+    # no comma: a lone period is a real decimal point ('47.5' stays 47.5)
+    try:
+        return float(token)
+    except ValueError:
+        return None
+
+
 def parse_price_mill(p_str: Any) -> Optional[float]:
+    """Price in million USD, tolerating the publisher's mixed separator.
+
+    Before 2026-10-01 the comma was deleted outright, so every comma-decimal
+    price was stored 10x-1000x too large ('$ 21,25m' -> 2125.0 instead of 21.25;
+    '$26,625m' -> 26625.0 instead of 26.625). 179 sales rows across 65 documents.
+    """
     if not p_str:
         return None
-    s = str(p_str).replace("$", "").replace("USD", "").replace("usd", "").replace(",", "").strip()
-    m = re.search(r"(\d+(?:\.\d+)?)", s)
-    if m:
-        try:
-            val = float(m.group(1))
-            return val
-        except ValueError:
-            return None
-    return None
+    s = str(p_str)
+    m = re.search(r"\d[\d.,]*", s)
+    if not m:
+        return None
+    token = m.group(0).rstrip(".,")
+    val = read_dual_separator_number(token)
+    if val is None:
+        return None
+    millions = bool(re.search(r"\d\s*(?:m\b|mn\b|mill)", s, re.I))
+    head, comma, tail = token.rpartition(",")
+    tail = tail.strip(".")
+    if millions and comma and len(tail) >= 3 and val > 1000:
+        # no vessel costs 26,625 million: the comma is the decimal point
+        return float(f"{re.sub(r'[.,]', '', head)}.{tail}")
+    if not millions and val >= 1000:
+        # printed in plain dollars, e.g. 'around $ 470,000' (JIN LONG 7, 2021 W46)
+        return val / 1_000_000.0
+    return val
+
+
+def parse_price_per_ldt(p_str: Any) -> Optional[float]:
+    """Scrap price in $/LDT - the same mixed separator applies.
+
+    Measured: intermodal 2024 W46 p5 'SK SUMMIT ... GAS TANKER 469,5/ldt' is
+    469.5 $/LDT; the old parser stored 4695.0 (5 rows, 2 documents). $/LDT is
+    always printed in whole dollars, so the 3-digit case stays thousands.
+    """
+    if not p_str:
+        return None
+    m = re.search(r"\d[\d.,]*", str(p_str))
+    return read_dual_separator_number(m.group(0)) if m else None
 
 
 def parse_int_clean(s: Any) -> Optional[int]:
@@ -258,10 +330,21 @@ def parse_intermodal_markdown(
             col_map: Dict[str, int] = {}
             for idx, c in enumerate(hdr_low):
                 if "name" in c: col_map["name"] = idx
-                elif "dwt" in c or "teu" in c or "cbm" in c: col_map["dwt"] = idx
+                elif "dwt" in c or "teu" in c or "cbm" in c:
+                    # Cbm is a CAPACITY column, not a Dwt column: the Gas
+                    # sub-table carries both (Dwt ... Cbm) and letting cbm
+                    # overwrite dwt put the SS-due date into dwt on every gas
+                    # row (measured 2026-10-01: GLOBAL SCORPIO dwt="-23").
+                    if "dwt" in c or "dwt" not in col_map:
+                        col_map["dwt"] = idx
                 elif "built" in c: col_map["built"] = idx
                 elif "yard" in c: col_map["yard"] = idx
-                elif "m/e" in c or "me" in c or "engine" in c: col_map["me"] = idx
+                elif re.fullmatch(r"m\s*[/&]?\s*e|me|engine", c.strip()):
+                    # NOT a substring test: "comments" contains "me", which
+                    # mapped Comments to the engine column and left the comments
+                    # column permanently empty (measured 2026-10-01: 0 of 3,358
+                    # rows carry comments; 824 carry comment text in m_e).
+                    col_map["me"] = idx
                 elif "ss" in c: col_map["ss"] = idx
                 elif "price" in c: col_map["price"] = idx
                 elif "buyer" in c: col_map["buyers"] = idx
@@ -275,16 +358,39 @@ def parse_intermodal_markdown(
                 name = cols[col_map["name"]] if "name" in col_map and col_map["name"] < len(cols) else ""
                 if not name or name.lower() in ("name", "total", "subtotal"):
                     continue
-                v_type = cols[col_map["size"]] if "size" in col_map and col_map["size"] < len(cols) else ""
-                dwt = parse_int_clean(cols[col_map["dwt"]]) if "dwt" in col_map and col_map["dwt"] < len(cols) else None
-                built = cols[col_map["built"]] if "built" in col_map and col_map["built"] < len(cols) else ""
-                yard = cols[col_map["yard"]] if "yard" in col_map and col_map["yard"] < len(cols) else ""
-                me = cols[col_map["me"]] if "me" in col_map and col_map["me"] < len(cols) else ""
-                ss = cols[col_map["ss"]] if "ss" in col_map and col_map["ss"] < len(cols) else ""
-                gear_hull = cols[col_map["gear_hull"]] if "gear_hull" in col_map and col_map["gear_hull"] < len(cols) else ""
-                raw_price = cols[col_map["price"]] if "price" in col_map and col_map["price"] < len(cols) else ""
-                buyers = cols[col_map["buyers"]] if "buyers" in col_map and col_map["buyers"] < len(cols) else ""
-                comm = cols[col_map["comments"]] if "comments" in col_map and col_map["comments"] < len(cols) else ""
+                # The Gas sub-table's HEADER OMITS the 'Built' label (11 data cells
+                # under 10 labels), so every field from Yard rightward sits one column
+                # early. Detected per ROW on content, never on geometry: no 'Built'
+                # column exists and the cell under 'Yard' is a 4-digit year.
+                # Ground truth, intermodal 2023 W22 p3:
+                #   header: Type Name Dwt Yard M/E SS Cbm Price Buyers Comments
+                #   data  : LPG GLOBAL SCORPIO 58,814 2003 HYUNDAI, S. Korea ...
+                shift = 0
+                _ycol = col_map.get("yard")
+                if ("built" not in col_map and _ycol is not None and _ycol < len(cols)
+                        and re.fullmatch(r"(19|20)\d\d", cols[_ycol].strip())):
+                    shift = 1
+
+                def _cell(key: str) -> str:
+                    idx = col_map.get(key)
+                    if idx is None:
+                        # the omitted column is Built, whose value sits under Yard
+                        return cols[_ycol] if (shift and key == "built" and _ycol is not None and _ycol < len(cols)) else ""
+                    if shift and _ycol is not None and idx >= _ycol:
+                        idx += 1
+                    return cols[idx] if idx < len(cols) else ""
+
+                v_type = _cell("size")
+                _dwt_raw = _cell("dwt")
+                dwt = parse_int_clean(_dwt_raw) if _dwt_raw else None
+                built = _cell("built")
+                yard = _cell("yard")
+                me = _cell("me")
+                ss = _cell("ss")
+                gear_hull = _cell("gear_hull")
+                raw_price = _cell("price")
+                buyers = _cell("buyers")
+                comm = _cell("comments")
 
                 sales_records.append({
                     "issue_date": issue_date,
@@ -469,7 +575,9 @@ def parse_intermodal_markdown(
                 raw_price = cols[col_map["price"]] if "price" in col_map and col_map["price"] < len(cols) else ""
                 breakers = cols[col_map["breakers"]] if "breakers" in col_map and col_map["breakers"] < len(cols) else ""
                 comm = cols[col_map["comments"]] if "comments" in col_map and col_map["comments"] < len(cols) else ""
-                p_val = parse_float_clean(raw_price)
+                # $/LDT, not a millions figure: use the separator-aware reader
+                # ("469,5/ldt" is 469.5, not 4,695 - measured on 2024 W46 p5).
+                p_val = parse_price_per_ldt(raw_price)
 
                 demo_sales.append({
                     "issue_date": issue_date,

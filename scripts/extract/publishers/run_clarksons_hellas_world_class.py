@@ -86,10 +86,39 @@ def parse_price_usd_m(price_str: str) -> Tuple[Optional[float], str]:
     raw = str(price_str).strip()
     if not raw or raw in ["-", "N/A", "n/a", "U/D", "undisclosed"]:
         return None, raw
-    raw_clean = raw.replace(",", "")
-    m = re.search(r"(\d+(?:\.\d+)?)", raw_clean)
-    if m:
-        val = float(m.group(1))
+    # This publisher prints the European decimal comma in part of its rows and the
+    # ISO period in the rest, in the SAME table. Ground truth read from the source
+    # PDFs (positioned text) on 2026-10-01:
+    #   'EMILIA 53,098 2002 OSHIMA 4 x 30 T USD 13,9 M CHINESE'        -> 13.9
+    #   'ILMA 318,395 2012 HYUNDAI HI ... SS 09/30 USD 98,2 M S. KOREAN' -> 98.2
+    # Commas that are part of a COMMENT (not the price) must not be touched:
+    #   'USD 17.7 M (TC attached at 13,7k pd till July 23)'            -> 17.7
+    # so the rule is applied to the first numeric token only, and only when the
+    # digits after its comma are 1-2 (a decimal), never 3 (a thousands group).
+    m_tok = re.search(r"\d[\d.,]*", raw)
+    if m_tok:
+        token = m_tok.group(0).rstrip(".,")
+        if "," in token:
+            head, tail = token.rsplit(",", 1)
+            tail = tail.strip(".")
+            if tail.isdigit() and len(tail) <= 2:
+                head_digits = re.sub(r"[.,]", "", head)
+                if head_digits:
+                    return round(float(f"{head_digits}.{tail}"), 2), raw
+        if "," in token:
+            # reached only when the digits after the comma are NOT a 1-2 digit
+            # fraction, i.e. a thousands group ('USD 291 M' has no comma at all;
+            # '1,250' would come here) - drop the group separators
+            digits = re.sub(r"[.,]", "", token)
+            val = float(digits) if digits.isdigit() else None
+        else:
+            # a lone period is the decimal point: 'USD 10.5 M' stays 10.5
+            try:
+                val = float(token)
+            except ValueError:
+                val = None
+        if val is None:
+            return None, raw
         if val > 10000:
             val = round(val / 1_000_000, 2)
         return val, raw
