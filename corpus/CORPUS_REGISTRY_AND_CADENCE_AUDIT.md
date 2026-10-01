@@ -445,6 +445,29 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extraction Script:** [`run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py)
 - **Notes & Rules Applied:** 24,994 continuous weekly data points across all 10 vessel classes: Product LR1 (34), VLCC (32), LPG Carrier (32), Aframax (31), Product LR2 (31), Suezmax (30), Capesize (27), Handysize (25), Panamax (23), Supramax (23).
 
+#### Discrete Vessel Class Breakdown & Dedicated Folder Inventory
+
+Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedicated Markdown digests and structured table sidecars:
+
+| Vessel Class | Deadweight / CBM | Report Count | Markdown Subfolder | Primary Metrics Tracked |
+| :--- | :--- | :---: | :--- | :--- |
+| **Product LR1** | 75,000 DWT | 34 reports | [`data/extracted/md/drewry/ais/Product_LR1`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Product_LR1) | Clean product utilisation %, tonne-miles, regional refinery flows |
+| **VLCC** | 300,000 DWT | 32 reports | [`data/extracted/md/drewry/ais/Crude_VLCC`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Crude_VLCC) | Crude utilisation %, tonne-miles, Ras Tanura/Ningbo queues, ballast speed |
+| **LPG Carrier** | 84,000 CBM | 32 reports | [`data/extracted/md/drewry/ais/LPG_FR`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/LPG_FR) | VLGC fleet utilisation %, tonne-miles, US Gulf/Ras Laffan flows |
+| **Aframax** | 115,000 DWT | 31 reports | [`data/extracted/md/drewry/ais/Crude_Aframax`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Crude_Aframax) | Dirty utilisation %, tonne-miles, North Sea/Baltic/Caribs queues |
+| **Product LR2** | 115,000 DWT | 31 reports | [`data/extracted/md/drewry/ais/Product_LR2`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Product_LR2) | Clean product utilisation %, tonne-miles, MEG-East product flows |
+| **Suezmax** | 160,000 DWT | 30 reports | [`data/extracted/md/drewry/ais/Crude_Suezmax`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Crude_Suezmax) | Crude utilisation %, tonne-miles, West Africa/Mediterranean queues |
+| **Capesize** | 180,000 DWT | 27 reports | [`data/extracted/md/drewry/ais/Drybulk_Capesize`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Drybulk_Capesize) | Iron ore utilisation %, tonne-miles, Port Hedland/Tubarao delays |
+| **Handysize** | 38,000 DWT | 25 reports | [`data/extracted/md/drewry/ais/Drybulk_Handysize`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Drybulk_Handysize) | Minor bulk utilisation %, tonne-miles, grain/fertilizer port queues |
+| **Panamax / Kamsarmax** | 82,000 DWT | 23 reports | [`data/extracted/md/drewry/ais/Drybulk_Panamax`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Drybulk_Panamax) | Grain/coal utilisation %, tonne-miles, Santos/Mississippi delays |
+| **Supramax / Ultramax** | 64,000 DWT | 23 reports | [`data/extracted/md/drewry/ais/Drybulk_Supramax`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Drybulk_Supramax) | Minor bulk utilisation %, tonne-miles, Indonesian coal delays |
+
+#### Complete Pipeline Scripts & Asset Locations
+- **Live Ingestion Scraper:** [`scripts/scrapers/fetch_drewry_ais_weekly.py`](file:///C:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_drewry_ais_weekly.py) — polls Drewry digital asset repository on Tuesdays.
+- **Multi-Threaded Sweeper:** [`scripts/scrapers/sweep_drewry_fast.py`](file:///C:/Users/Dell/Github/Shipping/scripts/scrapers/sweep_drewry_fast.py) — 20-worker fast DAM probe across weeks 32-42 for 2026.
+- **KPI & Tables Extractor:** [`scripts/extract/publishers/run_drewry_ais.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais.py) — extracts tables and generates Markdown dossiers into per-class subdirectories.
+- **Vector Curves Extractor:** [`scripts/extract/publishers/run_drewry_ais_charts.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_drewry_ais_charts.py) — extracts drawing curves and stacks into 4 master series CSVs (24,994 data rows).
+
 ### Drewry Opinions & World Container Index (WCI)
 - **Corpus Directory:** [`corpus/06-drewry/opinions`](file:///C:/Users/Dell/Github/Shipping/corpus/06-drewry/opinions)
 - **Markdown Output:** [`data/extracted/md/drewry/opinions`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/opinions)

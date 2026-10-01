@@ -709,7 +709,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Drybulk_Capesize/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -720,7 +720,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Drybulk_Panamax/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -731,7 +731,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Drybulk_Supramax/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -742,7 +742,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Drybulk_Handysize/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -753,7 +753,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Crude_VLCC/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -764,7 +764,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Crude_Suezmax/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -775,7 +775,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Crude_Aframax/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -786,7 +786,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Product_LR2/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -797,7 +797,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/Product_LR1/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -808,7 +808,7 @@ SUBSECTOR_DATA = [
         "series_csv": "drewry_ais_fleet_performance_series.csv",
         "data_points": "14,768 rows across classes",
         "script": "run_drewry_ais_charts.py",
-        "output_path": "data/extracted/md/drewry/ais/"
+        "output_path": "data/extracted/md/drewry/ais/LPG_FR/"
     },
     {
         "category": "Drewry Maritime AIS",
@@ -1233,6 +1233,33 @@ def generate_markdown_audit():
             f"- **Notes & Rules Applied:** {item['notes']}",
             ""
         ])
+
+        if item.get("category_id") == "drewry_ais":
+            md_lines.extend([
+                "#### Discrete Vessel Class Breakdown & Dedicated Folder Inventory",
+                "",
+                "Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedicated Markdown digests and structured table sidecars:",
+                "",
+                "| Vessel Class | Deadweight / CBM | Report Count | Markdown Subfolder | Primary Metrics Tracked |",
+                "| :--- | :--- | :---: | :--- | :--- |",
+                f"| **Product LR1** | 75,000 DWT | 34 reports | [`data/extracted/md/drewry/ais/Product_LR1`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Product_LR1').replace(chr(92), '/')}) | Clean product utilisation %, tonne-miles, regional refinery flows |",
+                f"| **VLCC** | 300,000 DWT | 32 reports | [`data/extracted/md/drewry/ais/Crude_VLCC`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Crude_VLCC').replace(chr(92), '/')}) | Crude utilisation %, tonne-miles, Ras Tanura/Ningbo queues, ballast speed |",
+                f"| **LPG Carrier** | 84,000 CBM | 32 reports | [`data/extracted/md/drewry/ais/LPG_FR`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/LPG_FR').replace(chr(92), '/')}) | VLGC fleet utilisation %, tonne-miles, US Gulf/Ras Laffan flows |",
+                f"| **Aframax** | 115,000 DWT | 31 reports | [`data/extracted/md/drewry/ais/Crude_Aframax`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Crude_Aframax').replace(chr(92), '/')}) | Dirty utilisation %, tonne-miles, North Sea/Baltic/Caribs queues |",
+                f"| **Product LR2** | 115,000 DWT | 31 reports | [`data/extracted/md/drewry/ais/Product_LR2`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Product_LR2').replace(chr(92), '/')}) | Clean product utilisation %, tonne-miles, MEG-East product flows |",
+                f"| **Suezmax** | 160,000 DWT | 30 reports | [`data/extracted/md/drewry/ais/Crude_Suezmax`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Crude_Suezmax').replace(chr(92), '/')}) | Crude utilisation %, tonne-miles, West Africa/Mediterranean queues |",
+                f"| **Capesize** | 180,000 DWT | 27 reports | [`data/extracted/md/drewry/ais/Drybulk_Capesize`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Drybulk_Capesize').replace(chr(92), '/')}) | Iron ore utilisation %, tonne-miles, Port Hedland/Tubarao delays |",
+                f"| **Handysize** | 38,000 DWT | 25 reports | [`data/extracted/md/drewry/ais/Drybulk_Handysize`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Drybulk_Handysize').replace(chr(92), '/')}) | Minor bulk utilisation %, tonne-miles, grain/fertilizer port queues |",
+                f"| **Panamax / Kamsarmax** | 82,000 DWT | 23 reports | [`data/extracted/md/drewry/ais/Drybulk_Panamax`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Drybulk_Panamax').replace(chr(92), '/')}) | Grain/coal utilisation %, tonne-miles, Santos/Mississippi delays |",
+                f"| **Supramax / Ultramax** | 64,000 DWT | 23 reports | [`data/extracted/md/drewry/ais/Drybulk_Supramax`](file:///{str(ROOT / 'data/extracted/md/drewry/ais/Drybulk_Supramax').replace(chr(92), '/')}) | Minor bulk utilisation %, tonne-miles, Indonesian coal delays |",
+                "",
+                "#### Complete Pipeline Scripts & Asset Locations",
+                f"- **Live Ingestion Scraper:** [`scripts/scrapers/fetch_drewry_ais_weekly.py`](file:///{str(ROOT / 'scripts/scrapers/fetch_drewry_ais_weekly.py').replace(chr(92), '/')}) — polls Drewry digital asset repository on Tuesdays.",
+                f"- **Multi-Threaded Sweeper:** [`scripts/scrapers/sweep_drewry_fast.py`](file:///{str(ROOT / 'scripts/scrapers/sweep_drewry_fast.py').replace(chr(92), '/')}) — 20-worker fast DAM probe across weeks 32-42 for 2026.",
+                f"- **KPI & Tables Extractor:** [`scripts/extract/publishers/run_drewry_ais.py`](file:///{str(ROOT / 'scripts/extract/publishers/run_drewry_ais.py').replace(chr(92), '/')}) — extracts tables and generates Markdown dossiers into per-class subdirectories.",
+                f"- **Vector Curves Extractor:** [`scripts/extract/publishers/run_drewry_ais_charts.py`](file:///{str(ROOT / 'scripts/extract/publishers/run_drewry_ais_charts.py').replace(chr(92), '/')}) — extracts drawing curves and stacks into 4 master series CSVs (24,994 data rows).",
+                ""
+            ])
 
     target_md = ROOT / "corpus" / "CORPUS_REGISTRY_AND_CADENCE_AUDIT.md"
     target_md.write_text("\n".join(md_lines), encoding="utf-8")

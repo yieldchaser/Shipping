@@ -82,7 +82,7 @@ def main():
     run_cmd([sys.executable, "scripts/scrapers/fetch_drewry_wci.py"], "Poll Drewry WCI Container Index")
 
     # D. Drewry AIS Fleet Performance
-    run_cmd([sys.executable, "scratch/sweep_drewry_fast.py"], "Probe Drewry AIS Weekly Analytics")
+    run_cmd([sys.executable, "scripts/scrapers/sweep_drewry_fast.py"], "Probe Drewry AIS Weekly Analytics")
 
     # E. Signal Ocean Intelligence & Monitors
     run_cmd([sys.executable, "scripts/scrapers/fetch_signal_reports.py"], "Poll Signal Ocean Market Monitors & Research")
@@ -107,7 +107,7 @@ def main():
     run_cmd([sys.executable, "scripts/extract/publishers/export_fearnleys_md_excel.py"], "Refresh Fearnleys 26 Econometric Models")
 
     # Sync clean markdown to _digests
-    run_cmd([sys.executable, "scratch/sync_digests.py"], "Synchronize Clean Markdown to _digests")
+    run_cmd([sys.executable, "scripts/extract/sync_digests.py"], "Synchronize Clean Markdown to _digests")
 
     # 5. Strict Quality & Copy-Check Data Audit
     print("\n--- STAGE 5: Strict Copy-Check Quality & Data Integrity Audit ---")

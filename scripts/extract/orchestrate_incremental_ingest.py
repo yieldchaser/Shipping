@@ -1239,8 +1239,16 @@ def run_orchestration(
             if broker_filter and pub_dir.name != broker_filter:
                 continue
 
+            try:
+                from doc_dedup import byte_duplicate_stems
+                skip_stems = byte_duplicate_stems(pub_dir, MD_DIR / pub_dir.name)
+            except Exception:
+                skip_stems = set()
+
             for pdf in pub_dir.rglob("*.pdf"):
                 stem = pdf.stem
+                if stem in skip_stems:
+                    continue
                 extracted = list((MD_DIR / pub_dir.name).rglob(f"{stem}.md"))
                 if not extracted or force:
                     pdfs_to_process.append((pub_dir.name, pdf))
