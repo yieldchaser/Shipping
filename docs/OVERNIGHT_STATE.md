@@ -32,6 +32,20 @@ the sidecar stack (else the skipped copy's stale sidecar re-adds its rows). Resu
 61,386 rows** (register 61,694 was inflated), 0 exact duplicates; xclusiv 271 -> **264 docs**, xclusiv_sales
 5,815 -> **5,702**.
 
+**XCLUSIV IS NOW FULLY CLEAN, not just the tables tier.** xclusiv has THREE more writers, all patched and
+re-run this run: `run_xclusiv_vector_charts.py` (bulk_carrier_charts 216->208, demolition_charts 282->278),
+`run_xclusiv_full_cover_to_cover.py` (macro_bunkers 667->643), `stack_unstacked_tables.py` (newbuilding_orders
+1329->1313, newbuilding_prices 1397->1379). Rows attributable to duplicate stems across all 10 xclusiv series:
+**127 -> 0**. intermodal likewise 36 -> 0.
+
+**CORPUS-WIDE CENSUS - the same defect is in every broker publisher except lion: carriers 327 dup rows,
+advanced_shipping 148, ssy 132, fearnleys 121, agora 94, star_asia 58, affinity 48, ism 0 (per-file detail in
+`docs/decimal_comma_regeneration_verdict.md` section 7).** `run_advanced_shipping / run_star_asia /
+run_affinity / run_agora / run_ism / run_fearnleys / run_ssy / run_carriers` enumerate with
+`rglob("*.pdf")` and NONE dedupe; note affinity/agora are resumable (`_run_state.json`), so the filter must
+be applied to BOTH the enumeration AND the stack or it changes nothing. carriers is a PARALLEL agent's - do
+not touch without checking. THIS IS THE NEXT WORK ITEM.
+
 **NOTE FOR THE NEXT RUN:** the series CSVs live under `data/extracted/` which is GITIGNORED - the corrected rows
 are on DISK, not in git. `docs/EXTRACTION_REGISTER.md` per-file counts are now stale (and were themselves
 pre-dedup inflated); regenerating that tracked doc is a whole-file rewrite and was deliberately NOT done.
