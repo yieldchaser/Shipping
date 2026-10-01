@@ -1055,12 +1055,13 @@ def process_pdf(
                 for c_num in referenced_cnums:
                     if c_num not in inlined_charts:
                         c_info = chart_map[c_num]
-                        img_url = f"file:///{c_info['abs_path']}"
+                        abs_link = f"file:///{c_info['abs_path']}"
+                        rel_img = f"../../../charts/poten/{year}/{c_info['file_name']}"
                         fig_block = (
                             f"> **Exhibit {c_num}: {title} (Chart {c_num})**  \n"
                             f"> *Source: Poten & Partners*  \n"
-                            f"> **Interactive Data & Source:** [Local Asset (200 DPI PNG)]({img_url})\n\n"
-                            f"![Exhibit {c_num}: {title}]({img_url})"
+                            f"> **Interactive Data & Source:** [Local Asset (200 DPI PNG)]({abs_link})\n\n"
+                            f"![Exhibit {c_num}: {title}]({rel_img})"
                         )
                         processed_elements.append(('figure', fig_block))
                         inlined_charts.add(c_num)
@@ -1107,8 +1108,9 @@ def process_pdf(
         if remaining_charts:
             md_parts.append("## Market Exhibits & Charts\n\n")
             for c in remaining_charts:
-                img_url = f"file:///{c['abs_path']}"
-                md_parts.append(f"![Exhibit {c['chart_num']}: {title}]({img_url})\n\n")
+                abs_link = f"file:///{c['abs_path']}"
+                rel_img = f"../../../charts/poten/{year}/{c['file_name']}"
+                md_parts.append(f"![Exhibit {c['chart_num']}: {title}]({rel_img})\n\n> **Interactive Asset:** [Local Asset (200 DPI PNG)]({abs_link})\n\n")
 
         full_md_content = "".join(md_parts).strip() + "\n"
         words = len(re.findall(r'\w+', full_md_content))
