@@ -93,6 +93,20 @@ KEY_POOL: List[Dict[str, str]] = [
         "email": "account_11",
         "project_id": "account_11_proj",
     },
+    {
+        "id": "account_12",
+        "name": "Account 12",
+        "api_key": "llx-p1IAIhBMQdXo21E9Wz2jgW6hoTPJ8Xs2VvxJMd7S7b8aXYUR",
+        "email": "account_12",
+        "project_id": "account_12_proj",
+    },
+    {
+        "id": "account_13",
+        "name": "Account 13 (Fresh Oct 1 Key)",
+        "api_key": "llx-fG69hL0uyEZJeLOYK2PtCey3yHuZPrM6qhIWTPVqmbJtBh1T",
+        "email": "fresh_oct_1",
+        "project_id": "224eefb5-1d7a-4b31-b3fe-317032b99f4b",
+    },
 ]
 
 STATE_FILE = Path("data/extracted/.llama_key_state.json")

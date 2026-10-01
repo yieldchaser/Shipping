@@ -1,0 +1,114 @@
+#!/usr/bin/env python3
+"""
+scripts/acquire/run_master_pipeline.py
+======================================
+Master Autonomous End-to-End Shipping Pipeline Runner.
+
+Executes the complete autonomous workflow:
+1. LlamaCloud / LlamaParse multi-account key pool verification & auto-rotation.
+2. Live multi-source polling (Hellenic shipbrokers, Drewry AIS, Drewry WCI).
+3. Specialized PDF ingestion & normalized Markdown generation (zero raw code dumps).
+4. Offline proprietary vector chart extraction & time-series stacking into CSVs.
+5. Dynamic regeneration of master publication cadence audit and Excel ledger.
+"""
+
+import sys
+import os
+import subprocess
+import time
+from pathlib import Path
+from datetime import datetime, timezone
+
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+
+from scripts.extract.llama_manager import manager
+
+
+def run_cmd(cmd_list, desc, timeout=300):
+    print(f"\n>>> [RUNNING] {desc}...")
+    t0 = time.time()
+    try:
+        res = subprocess.run(
+            cmd_list,
+            cwd=str(REPO_ROOT),
+            capture_output=True,
+            text=True,
+            timeout=timeout,
+            encoding="utf-8",
+            errors="replace"
+        )
+        elapsed = time.time() - t0
+        if res.returncode == 0:
+            print(f">>> [SUCCESS] {desc} completed in {elapsed:.1f}s.")
+            if res.stdout:
+                # print last 4 lines of stdout
+                lines = [l for l in res.stdout.strip().splitlines() if l.strip()]
+                for l in lines[-4:]:
+                    print(f"    {l}")
+            return True
+        else:
+            print(f">>> [WARNING] {desc} returned non-zero code {res.returncode}:")
+            if res.stderr:
+                print(f"    Error: {res.stderr[:300]}")
+            return False
+    except Exception as e:
+        print(f">>> [ERROR] {desc} failed: {e}")
+        return False
+
+
+def main():
+    print("================================================================================")
+    print("  AUTONOMOUS END-TO-END SHIPPING INTELLIGENCE PIPELINE RUNNER")
+    print(f"  Snapshot Time: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    print("================================================================================")
+
+    # 1. Verify Active LlamaParse Key from Pool
+    print("\n--- STAGE 1: Key Pool Verification ---")
+    info = manager.get_current_account_info()
+    key = manager.get_current_key()
+    print(f"  Active Key ID: {info['id']} ({info['name']})")
+    print(f"  Key Prefix:    {key[:12]}... (Active Pool Size: 13 accounts)")
+
+    # 2. Poll Sources for New Reports
+    print("\n--- STAGE 2: Multi-Source Discovery & Live Ingestion ---")
+    # A. Hellenic Shipbrokers
+    run_cmd([sys.executable, "scripts/scrapers/fetch_hsn_shipbrokers.py", "2"], "Poll Hellenic Shipbrokers")
+
+    # B. Drewry WCI Container Rates
+    run_cmd([sys.executable, "scripts/scrapers/fetch_drewry_wci.py"], "Poll Drewry WCI Container Index")
+
+    # C. Drewry AIS Fleet Performance
+    run_cmd([sys.executable, "scratch/sweep_drewry_fast.py"], "Probe Drewry AIS Weekly Analytics")
+
+    # 3. Incremental Specialized Ingestion
+    print("\n--- STAGE 3: Incremental Ingestion & Structured Markdown Parsing ---")
+    run_cmd([sys.executable, "scripts/extract/orchestrate_incremental_ingest.py"], "Orchestrate Incremental Ingest")
+
+    # 4. Offline Vector Chart Extraction & Time Series Stacking
+    print("\n--- STAGE 4: Proprietary Vector Chart Extraction & Stacking ---")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_ais_charts.py"], "Stack Drewry AIS Vector Curves")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_ais.py"], "Extract Drewry AIS Metrics & Markdown")
+
+    # Sync clean markdown to _digests
+    run_cmd([sys.executable, "scratch/sync_digests.py"], "Synchronize Clean Markdown to _digests")
+
+    # 5. Master Cadence Audit & Excel Ledger Regeneration
+    print("\n--- STAGE 5: Master Cadence Audit & Excel Ledger Regeneration ---")
+    run_cmd([sys.executable, "scripts/audit/generate_cadence_audit.py"], "Regenerate Cadence Audit & Excel")
+
+    # Copy excel to corpus
+    excel_src = REPO_ROOT / "data" / "extracted" / "series" / "corpus_publication_cadence_and_audit.xlsx"
+    excel_dst = REPO_ROOT / "corpus" / "CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx"
+    if excel_src.exists():
+        import shutil
+        shutil.copy2(excel_src, excel_dst)
+        print(f"  Copied {excel_dst.name} to corpus/ directory.")
+
+    print("\n================================================================================")
+    print("  AUTONOMOUS PIPELINE EXECUTION COMPLETE")
+    print("================================================================================")
+
+
+if __name__ == "__main__":
+    main()

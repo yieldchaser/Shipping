@@ -38,7 +38,10 @@ OUT_SERIES = ROOT / "data" / "extracted" / "series"
 CACHE_DIR = ROOT / "data" / "extracted" / "cache_alibra"
 STATE_FILE = ROOT / "data" / "extracted" / "md" / "hellenic" / "_alibra_run_state.json"
 
-LLAMA_KEY = os.environ.get("LLAMA_CLOUD_API_KEY", "llx-g8p7UzojxIQocFBeWgvRDUpaQR6U56RK3nWniAtWuBksFjiD")
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from scripts.extract.llama_manager import manager
+
+LLAMA_KEY = manager.get_current_key()
 
 
 def clean_text(s: str) -> str:
