@@ -1221,13 +1221,24 @@ def main():
             print(f"  [{idx}/{len(target_pdfs)}] {pdf.name} FAILED: {e}", flush=True)
             traceback.print_exc()
 
-    write_series_csvs(
-        all_sales_rows,
-        all_demo_prices_rows,
-        all_nb_rows,
-        all_secondhand_rows,
-        all_demo_sales_rows,
-    )
+    if args.sample and not os.environ.get("ADV_ALLOW_SAMPLE_SERIES_WRITE"):
+        # A --sample run parses 3 documents. Writing the series from it REPLACES
+        # the delivered CSVs with 3-document content - measured 2026-10-01 22:20,
+        # when a concurrent process ran this runner with --sample and truncated
+        # advanced_shipping_sales_series.csv from 6,061 rows to 74. Sample runs
+        # must not clobber production output.
+        print(
+            "[sample] series CSVs NOT written (3-doc sample must not replace the "
+            "delivered series; set ADV_ALLOW_SAMPLE_SERIES_WRITE=1 to override)"
+        )
+    else:
+        write_series_csvs(
+            all_sales_rows,
+            all_demo_prices_rows,
+            all_nb_rows,
+            all_secondhand_rows,
+            all_demo_sales_rows,
+        )
 
     print("\n" + "=" * 60)
     print(f"[{PUB}] EXTRACTION COMPLETE in {time.time() - t0:.1f}s")
