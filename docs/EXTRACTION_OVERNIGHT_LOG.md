@@ -1719,3 +1719,138 @@ Golden gate re-run after the change: `python3 scripts/analysis/golden_matrix.py`
    clipping...") swept my first, in-progress edit to `run_intermodal_full.py` into its own commit, so
    that file's fix is split between dfb2f8daa and bdc62bd92. The file is correct and self-consistent at
    this branch's HEAD, but a revert of dfb2f8daa would take part of the fix with it.
+
+## 2026-10-01 17:55 UTC (23:25 IST) - deep review: the Athenian demolition series carried 384 duplicate rows, and the first fix for it was itself destructive
+
+### What I measured first
+
+* verify_extraction.py --json: run COMPLETE (7,676 planned / 7,816 recorded, 0 remaining),
+  status_counts {ok: 876, no-extractable-content: 1, error: 3}, golden 15/15,
+  inventory_drift 345 PDFs absent from the 2026-09-21 inventory, disk free 23.7 GB, actions: [].
+* Process check: no run_batch / batch_worker process is running (only the Hermes gateways and
+  code-review-graph). Nothing was killed, nothing was restarted.
+* Duplicate census over the COLLECTED corpus, size-bucketed md5 so it is cheap: 13,995 PDFs,
+  2,442 size buckets with more than one member, 8,625 files hashed, 2,422 content-identical
+  groups / 6,149 extra copies. Then the measurement that matters, over the DELIVERED
+  data/extracted/series/*.csv: key = every column except the provenance columns (source_file and
+  friends), so two rows differing ONLY in which of two byte-identical PDFs they came from are
+  exposed as the duplicate they are -> 1,301 duplicate-key rows, classified by whether the pair
+  of source documents is byte-identical: 709 BYTE_DUP_PAIR, 520 DIFFERENT_BYTES (a different
+  cause, see "not changed"), 72 SAME_SOURCE_REPEAT (one document emitting a row twice).
+
+### The finding (PROVEN from the source page and the delivered file)
+
+hellenic_athenian_demolition_series.csv held 384 duplicate rows of 3,300 (11.6%). Every one is a
+BYTE_DUP_PAIR. Root cause is one line in
+scripts/extract/publishers/run_hellenic_demolition.py:
+
+    # Deduplicate identical PDFs
+    pdf_hash = pdf_path.name          # <- the NAME, not a hash
+
+Two HTML articles for the same week (e.g. ...week-34-202.html and ...week-34-2021.html) link to
+two differently-named but BYTE-IDENTICAL PDFs (2021-09-01_Demo_IG_weekly_34_2021_.pdf = md5
+5be5f22c... = 2021-09-01_athenian-shipbrokers-..._b4d541636014.pdf), so both were parsed and
+stacked. 32 issue dates carry 24 rows where the issue has 12. A filename is not an identity - the
+same lesson as the stale-path note in the skill, on documents instead of paths.
+
+Proven per row, not asserted: for 2021-09-01, (2021-09-01, 34, India, Tankers, 590.0) appears
+twice in the delivered CSV, once from each filename.
+
+### The fix, and the defect the first version of it introduced
+
+One file, scripts/extract/publishers/run_hellenic_demolition.py, 26 insertions / 18 deletions,
+code only (no data file touched). The dedup is now TWO rules, BOTH required:
+
+1. by FILENAME, as before;
+2. by CONTENT + issue_date + publisher branch (new; publisher_branch() reuses the same predicates
+   and the same order as the dispatch, so a copy can only be suppressed by one that would be
+   routed to the SAME series for the SAME issue).
+
+Why not content alone, and why not content+branch+date alone - both were BUILT AND MEASURED
+against the delivered files, each with its own failure:
+
+| rule built | athenian rows | GMS demolition | GMS port positions | verdict |
+|---|---|---|---|---|
+| old: filename | 3,300 (384 dup) | 448 | 2,931 | this is the defect |
+| content only | 2,916, 0 dates lost | 444, 2026-06-13 date DELETED | 2,898, 2 dates DELETED | destructive |
+| content + date + branch | 2,964, 4 dates ADDED (2024-12-23, 2025-09-09, 2025-12-16, 2025-12-23, each carrying a 2022/2024 report's prices, because a 2025 archive page's link still points at the old PDF) | 448 | 2,931 | no loss, but invents issues |
+| filename AND (content+date+branch) | 2,916, 242 dates kept, every other row identical | 448 | 2,931 | shipped |
+
+### Evidence, isolated so the change is the only variable
+
+A harness imports the patched module, redirects its TWO output roots (SERIES_DIR, MD_BASE_DIR) to
+data/extracted/scratch_review/deep_20261001/out/, and calls main(). The delivered files are never
+opened for writing; nothing under series/ or md/ was modified by this run.
+
+    Total HTML articles in demolition: 807
+    Saved 2916 Athenian records    (delivered file: 3300)
+    Saved  233 Best Oasis prices   (unchanged)
+    Saved  514 Best Oasis deals    (unchanged)
+    Saved  448 GMS rankings        (unchanged)
+    Saved 2931 GMS port positions  (unchanged)
+    Successfully processed 737 demolition reports.  ELAPSED 181.4s
+
+Control, old delivered file vs the new output, per series: OVERALL PASS
+
+* athenian: delivered 3,300 -> scratch 2,916, removed 384, documents 275 -> 243,
+  kept-document rows identical (extra 0, missing 0), every removed row still present in the
+  scratch file as a duplicate, issue dates 242 -> 242, lost dates: none.
+* best_oasis deals 514, best_oasis demolition 233, GMS demolition 448, GMS port positions 2,931:
+  removed 0, identical, no dates lost.
+
+Golden gate after the change: python3 scripts/analysis/golden_matrix.py -> Star Asia plumber-text
+15/15, pymupdf-text 15/15, camelot-stream 13/15, pdfplumber 13/15, tabula 9/15, lattice 2/15 -
+identical to the matrix in EXTRACTION_STRATEGY.md. No regression.
+
+### The collision, stated plainly
+
+Two other agents each picked up my in-progress working-tree edit and committed it themselves
+while this run was still measuring. 0f71c1366 (23:34 IST) committed the content+date+branch
+variant, i.e. the row of the table above that ADDS 4 spurious issue dates and 48 rows, and it
+reached main through a merge. 3db3e145f then committed the corrected TWO-RULE version, which is
+the shipped row of the table, and that is what main holds now. Verified by re-running the harness
+against the committed file: same 2,916 / 448 / 2,931 / 514 / 233 and the same PASS control.
+Flagging the process, not the code: a fix split across two commits by two agents, where the first
+is measurably wrong, is exactly the audit-trail hazard this log has recorded before.
+
+The delivered CSVs were NOT regenerated: hellenic_athenian_demolition_series.csv is still the
+16:39 IST file with 3,300 rows and 242 dates, so neither the defect nor the intermediate wrong fix
+has reached delivered data.
+
+### Measured but deliberately NOT changed
+
+* The delivered series were not regenerated. Writing data/extracted/series/** is outside this job's
+  write scope; the fix takes effect for documents processed after it.
+* carriers: 254 duplicate-key rows, all BYTE_DUP_PAIR (72 dry_tc_period + 70 sales + 42 indices +
+  18 bspa + 18 tanker_tce + 15 dry_weighted_routes + 9 bda + 4 demolition). Its twin is
+  15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf vs
+  carriers_2026_W35_WK-35-26-CARRIERS_SP-MARKET-REPORT.pdf, identical rows including
+  issue_date 2026-09-01 and week 35. Already recorded as untouched in the dedup census; still is.
+* 520 DIFFERENT_BYTES duplicate-key rows are a DIFFERENT defect and I did not touch them.
+  baltic_ncfi_series.csv (148): two Wayback captures of the same Ningbo page
+  (2020-05-29_...Index31_ningbo.html and 2020-06-05_...Index3_ningbo.html) both contribute rows
+  dated 2020-06-05 - an HTML-pass issue, not a PDF dedup issue. hellenic_vv_* (214), lion_* (119),
+  star_asia_valuation_matrix (13), hellenic_iron_ore_table (10) are the same class. I measured the
+  size, not the cause; each needs its own diagnosis.
+* 72 SAME_SOURCE_REPEAT rows (one document emitting a row twice): clarksons_desk_talk 17,
+  lion_demometer 24, hellenic_vv_matrix 15. Parser-level, a separate fix.
+* The 23 byte-identical GMS 2021 "web" PDFs are junk, and I checked before claiming anything.
+  2021-07-05_gms-week-27 through 2021-12-28_gms-week-53 (23 files, all md5 38c0a8c225ab, 92,695
+  bytes) are the same 15-page site-navigation dump with no dates and no week numbers, and they
+  contribute 0 rows to the delivered GMS series. A naive reading of the census ("23 weeks share one
+  issue's prices") would have been a false alarm.
+* run_seabrokers_llamaparse.py was dirty in the working tree from another agent; not staged.
+  No merge of any auto/extract-fixes-* branch into main by me; no push to main.
+
+### HUMAN DECISIONS
+
+1. Regenerate the hellenic demolition series from the fixed runner (this is what makes the 384
+   duplicate rows disappear from the delivered files):
+
+       python3 scripts/extract/publishers/run_hellenic_demolition.py
+
+   Expected: hellenic_athenian_demolition_series.csv 3,300 -> 2,916 rows, same 242 issue dates,
+   the other four demolition CSVs unchanged (verified offline, above).
+2. Still pending from previous runs: rebuild the derived DB
+   (python3 scripts/extract/build_table_db.py --out data/extracted then
+   python3 scripts/extract/check_measured_rules.py).
