@@ -1586,3 +1586,136 @@ actions:    []          (exit 0)
    the fix is in **d697e76a1**. The file is correct and self-consistent at HEAD, but the fix is
    split across a code commit and a data commit, so a revert of 6a4892683 would take most of it
    with it. Flagging because this repo's convention is code and data commits kept separate.
+
+## 2026-10-01 14:13 UTC (19:43 IST) - deep review: three publishers read the European decimal comma as a thousands separator
+
+### What I measured first
+
+* `verify_extraction.py --json`: run **COMPLETE** (7,676 planned / 7,816 recorded, 0 remaining),
+  `status_counts {ok: 876, no-extractable-content: 1, error: 3}`, golden **15/15**,
+  `inventory_drift` **345** PDFs absent from the 2026-09-21 inventory (338 yesterday),
+  `crash_recovered_docs` 249, disk free 23.9 GB, `actions: []`.
+* Process check: **no `run_batch` / `batch_worker` process is running** (Win32_Process query
+  returned nothing). Nothing was killed, nothing was restarted.
+* Integrity sweep over all **166 delivered `data/extracted/series/*.csv`** (595,952 data rows):
+  date-key anomalies, duplicate keys, constant columns, junk in numeric columns, and a 1000x
+  pairing detector. Most hits were the detector's own false positives (a column named
+  `..._usd_per_day` matches a `day` date regex); the real signal was the price columns.
+
+### What I found (all values reproduced from the publisher's OWN source document)
+
+Prices printed with a **decimal comma** were stored 10x-1000x too large, because each runner
+deleted the comma before reading the number. Ground truth, read as positioned text from the
+source PDFs (never from another extractor):
+
+| publisher / doc | line on the page | was stored | correct |
+|---|---|---|---|
+| intermodal 2025 W09 p3 | `CAPE MOUNT AUSTIN 178,623 2010 MITSUI, Japan ... $ 26,75m` | 2675.0 | **26.75** |
+| intermodal 2023 W47 p3 | `KMAX PEDHOULAS CHERRY 82,013 2015 MAN-B&W Jul-25 $26,625m` | 26625.0 | **26.625** |
+| intermodal 2024 W46 p5 | `SK SUMMIT 76,064 29,971 1999 DAEWOO, S. Korea GAS TANKER 469,5/ldt` | 4695.0 | **469.5** |
+| platou hellas 2022-06-17 | `EMILIA 53,098 2002 OSHIMA 4 x 30 T USD 13,9 M CHINESE` | 139.0 | **13.9** |
+| platou hellas 2026-02-13 | `ILMA 318,395 2012 HYUNDAI HI ... USD 98,2 M S. KOREAN` | 982.0 | **98.2** |
+| carriers 2023 W46 p0 | `MAGIC MOON BC 76,602 2005 Imabari, Japan 11,80 TURKISH` | 1180.0 | **11.80** |
+| xclusiv 2023-12-04 p3 | `TANAIS FLYER 28,674 1998 JAPAN IMABARI UNDISCLOSED 4,8` | 48.0 | **4.8** |
+
+The publishers mix BOTH conventions inside one table, which is why no single rule was safe: the
+shape census over intermodal's 3,358 price strings is 1,629 period-decimal, **179 decimal-comma**,
+and thousands-grouped only on amounts that are not millions figures.
+
+**Rows affected, measured per delivered CSV:** intermodal sales **179**, intermodal demolition
+**5**, clarksons `snp_sales` **6**, xclusiv sales **1** = **191 rows corrected by this change**;
+carriers is a further **10** (see "not changed").
+
+### Two column-mapping defects found in the same intermodal sales branch
+
+* **The Gas sub-table's header omits the `Built` label** - 11 data cells under 10 labels, so every
+  field from `Yard` rightward sits one column early. Ground truth (2023 W22 p3):
+  `LPG GLOBAL SCORPIO 58,814 2003 HYUNDAI, S. Korea MAN-B&W Jul-23 80,530 $ 47.5m undisclosed`.
+  We stored `dwt='-23'`, `built=''`, `yard='2003'`, `m_e='undisclosed'`, `price_raw='80,530'`.
+  Now: `dwt=58814, built='2003', yard='HYUNDAI, S. Korea', m_e='MAN-B&W', ss='Jul-23',
+  price='$ 47.5m' -> 47.5`. Detected **per row on content** (no `Built` column exists and the cell
+  under `Yard` is a 4-digit year), never on geometry.
+* **`Cbm` was an alias for `Dwt`** (the capacity column overwrote the deadweight on gas rows), and
+  **the engine test was a substring test** so the `Comments` header matched `me`: the engine column
+  held comment text on **824 of 3,358 rows** and the comments column is **empty on all 3,358**.
+  Header spellings actually present in the 818 sales tables: `M/E` and `Comments` only.
+
+### What I changed
+
+Branch **`auto/extract-fixes-2026-10-01-decimal-comma`**, commit **bdc62bd92** (+201/-44, 4 files,
+code only - no data file touched):
+
+* `scripts/extract/publishers/run_intermodal_full.py` and `run_intermodal_tables.py` -
+  `read_dual_separator_number()` + `parse_price_mill()` + `parse_price_per_ldt()`; the per-row
+  `Built`-omitted shift; the `Cbm`/`M/E` header guards.
+* `scripts/extract/publishers/run_clarksons_hellas_world_class.py` - `parse_price_usd_m()` comma rule.
+* `scripts/extract/publishers/run_xclusiv_tables.py` - `parse_price_mill()` comma rule.
+
+Each publisher keeps its OWN reader (no shared numeric parser, per plan section 10).
+
+**Evidence, isolated so my own change is the only variable.** Old-parser vs new-parser over every
+distinct raw price string the CSVs contain: clarksons 677 strings -> **exactly 6 changed**, all
+corrections; xclusiv 1,729 strings -> **exactly 1 changed**, a correction. For intermodal, all 257
+cached reports were re-parsed offline (`llama_parse` stubbed; **no API call, no credit spent**) and
+diffed against each document's own sidecar: **3,367 sales rows compared, 185 changed** (179
+decimal-comma + 6 column-shift), **5 of 581 demolition rows changed**, **0 rows lost**, **0
+period-decimal prices moved**, **0 parse errors**.
+
+Self-caught regression, worth recording: my first helper stripped every separator, so `'$ 47.5m'`
+became 475.0 and a malformed source string `'12,.2m'` crashed the parse on 2 of 257 documents. The
+20-case unit test (`scratch/review_dr/unit_test_prices.py`) now covers period decimals, decimal
+commas, 3-digit groups, malformed `12,.2`, flat dollars and `$/ldt`, and passes on both runners.
+The blast-radius diff above is the control that would have caught it.
+
+Golden gate re-run after the change: `python3 scripts/analysis/golden_matrix.py` - Star Asia **text
+15/15** (plumber + pymupdf), camelot-stream 13/15, pdfplumber 13/15, tabula 9/15, lattice 2/15 -
+**identical to the matrix documented in EXTRACTION_STRATEGY.md**. No regression.
+
+### Deliberately NOT changed
+
+* **The delivered series CSVs were not regenerated.** A re-run rewrites `data/extracted/series/**`,
+  which is outside this job's write scope (scripts/extract/ and docs/EXTRACTION_*.md only). **Until a
+  re-run, those 191 rows still hold the old values.** The fix takes effect for documents processed
+  afterwards; the regeneration commands are in HUMAN DECISIONS below.
+* **carriers** (2 `sales` + 3 `newbuilding` + 5 `dry_tc_period` rows) shows the same signature but its
+  price reader is `parse_numeric()`, **shared with the `dwt` field where the comma IS a thousands
+  separator** (`'77,750'`). Fixing it needs a price-only reader, and the `ATL 16,5-17,000` rows are a
+  source typo inside a range (16,500-17,000) where the intended point value would be a guess.
+  Measured and left for a source-specific pass rather than guessed at.
+* **`'#####'` as `year_built`** (MAHAVIR, intermodal 2023 W10) is NOT our defect: the PDF itself
+  prints `#####` (`MAHAVIR 74,005 10,540 ##### IMABARI, Japan BC $ 560/Ldt Bangladeshi`) - a
+  spreadsheet cell exported too narrow by the publisher. Left as the source's own artefact.
+* The `--stem`/`--limit` truncation hazard, the hardcoded key, and the DB rebuild (all below).
+* `scripts/extract/publishers/run_poten.py` is dirty in the working tree from another agent; not
+  staged. No merge of any `auto/extract-fixes-*` branch into `main`; no push to main.
+
+### HUMAN DECISIONS
+
+1. **Regenerate the three publishers' series from the fixed parsers** (this is what makes the 191 rows
+   correct in the delivered files):
+   ```bash
+   # intermodal: reparse the cached markdown (no API, no credits), then rebuild the CSVs
+   python3 scripts/extract/publishers/run_intermodal_full.py --reparse-only --year all
+   python3 scripts/extract/publishers/run_intermodal_full.py --stack-only
+   # xclusiv (local pymupdf, no API) and clarksons (its runner is cache-first)
+   python3 scripts/extract/publishers/run_xclusiv_tables.py --all
+   python3 scripts/extract/publishers/run_clarksons_hellas_world_class.py
+   ```
+   The intermodal reparse rewrites sidecars, so **`--stack-only` must follow it**; on its own it just
+   re-copies the old values.
+2. **`run_intermodal_tables.py --stem X` (or `--limit N`) is a data-loss footgun**: `main()` calls
+   `write_stacked_series()` with only the filtered documents, so a single-document run **truncates all
+   three delivered CSVs** to that subset. A guard (refuse to write when the target set is a subset
+   unless `--force-write`) is a small change I did not make, because it alters an interface other
+   scripts may call.
+3. **A LlamaParse API key is hardcoded as a fallback default in 3 tracked files**
+   (`run_intermodal_llamaparse.py`, `run_intermodal_tables.py`, `run_star_asia_charts.py`:
+   `os.environ.get("LLAMA_CLOUD_API_KEY", "llx-...")`). The value is in git history. Rotate it and read
+   the key from the secrets file only - the plan already treats keys as burnable and rotated.
+4. **Rebuild the derived DB** (still pending from previous runs):
+   `python3 scripts/extract/build_table_db.py --out data/extracted` then
+   `python3 scripts/extract/check_measured_rules.py`.
+5. **Audit-trail issue, again:** another agent's commit **dfb2f8daa** ("feat(poten): automate chart
+   clipping...") swept my first, in-progress edit to `run_intermodal_full.py` into its own commit, so
+   that file's fix is split between dfb2f8daa and bdc62bd92. The file is correct and self-consistent at
+   this branch's HEAD, but a revert of dfb2f8daa would take part of the fix with it.
