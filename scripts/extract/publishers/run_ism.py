@@ -427,6 +427,15 @@ def resolve_ism_meta(p: Path):
         iso_date = f"{year}-01-01"
         
     week = int(m_wk.group(1)) if m_wk else None
+    # A filename that carries a WEEK but no explicit date (the `ism_YYYY_Wnn_...`
+    # style, 226 of 230 sidecars) fell through to a `YYYY-01-01` PLACEHOLDER, which
+    # then shipped as the report's issue_date in both the .md frontmatter and the
+    # sidecar. Derive the real ISO Monday from the week instead (found 2026-10-01).
+    if week and not m_ymd and not m_dmy:
+        try:
+            iso_date = datetime.date.fromisocalendar(year, week, 1).isoformat()
+        except Exception:
+            iso_date = f"{year}-01-01"
     return iso_date, year, week
 
 

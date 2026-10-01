@@ -31,6 +31,14 @@ OUT_HANDY_CSV = ROOT / "data" / "extracted" / "series" / "ism_handy_freight_seri
 
 def parse_doc_meta(p: Path, data: Dict[str, Any]) -> Tuple[int, int]:
     """Extract report_year and report_week from file or data['date']."""
+    # Prefer the sidecar's OWN year/week (written by the extractor since
+    # 2026-10-01). Its `date` field is right for DMY/YMD filenames but the
+    # fallback filename regex mis-derives the week for names whose Wnn differs
+    # from the trailing "weekMM" (e.g. ism_2025_W34_..._week35), which shifted
+    # 633 handy + 204 coaster values. year/week is unambiguous.
+    _y, _w = data.get("year"), data.get("week")
+    if isinstance(_y, int) and isinstance(_w, int) and _w:
+        return _y, _w
     d_str = data.get("date", "")
     m = re.search(r"(20\d\d)\s*W(\d{1,2})", d_str)
     if m:
@@ -169,7 +177,18 @@ def unit_for(title: str, labels: List[str]) -> str:
 def main() -> None:
     # md tier is organised by YEAR subdirectory (2023/, 2024/, ...); a non-recursive
     # glob silently finds 0 charts and rewrites both CSVs empty. Found 2026-09-30.
-    chart_files = sorted(ISM_DIR.rglob("*.charts.json"))
+    # The extractor writes each sidecar to BOTH the flat dir and its year
+    # subdir (run_ism.extract_single_ism_doc), so a recursive glob sees every
+    # report twice and double-counts n_reports. Dedupe by content.
+    import hashlib as _hashlib
+    _seen = set()
+    chart_files = []
+    for _f in sorted(ISM_DIR.rglob("*.charts.json")):
+        _h = _hashlib.md5(_f.read_bytes()).hexdigest()
+        if _h in _seen:
+            continue
+        _seen.add(_h)
+        chart_files.append(_f)
     print(f"[ism] Processing {len(chart_files)} .charts.json files from {ISM_DIR}...")
 
     # (segment, route_title, series_label, iso_date) -> list of (value, report_iso, unit)

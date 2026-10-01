@@ -499,3 +499,14 @@ The ism re-key fix bought far more than section 2 recorded: handy's p90 fell 20.
 coaster's 43.34 -> 5.67. **The residual tail is now the only open item in this ledger**
 (within-2% 74.1% and 83.7%): it needs the failing reports NAMED and read, not a re-run of the
 gate.
+
+
+---
+
+# CLOSED 2026-10-01 18:4x - the ism tail item is now resolved
+
+The "only open item" above is closed. The tier itself had ALSO drifted from the shipped series
+(a same-day re-extraction changed 837 published points via a metadata bug); that is fixed and
+the two series regenerated - `docs/ism_tier_drift_verdict.md`. The residual agreement tail is
+the publisher's own axis-label shift, already read and measured; the one lever that is ours was
+deliberately not applied (it would report a value the publisher never printed that week).
