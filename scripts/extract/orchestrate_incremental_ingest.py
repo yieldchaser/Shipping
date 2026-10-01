@@ -1007,7 +1007,8 @@ def process_single_pdf(
     elif pub == "poten":
         try:
             import run_poten
-            specialized_result = {"stem": stem, "pub": pub, "specialized": True}
+            res = run_poten.process_single_pdf(pdf_path, dry_run=dry_run)
+            specialized_result = {"stem": stem, "pub": pub, "res": res, "specialized": True}
         except Exception as e:
             print(f"  [!] Note: specialized poten failed ({e}), falling back to universal pipeline.")
     elif pub == "seabrokers":
