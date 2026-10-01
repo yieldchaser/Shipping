@@ -102,3 +102,31 @@ rows); `run_xclusiv_tables.py` filters its only enumeration.
 * intermodal / carriers are, per the state file, also worked by PARALLEL agents - this run found no other
   process running (only the Hermes gateways and the code-review-graph server), but the regeneration touches
   files those agents may also write.
+
+## 7. THE SAME DEFECT IN THE OTHER PUBLISHERS - measured, NOT yet fixed
+
+A corpus-wide md5 census (`scratch/regen_101/dup_census.py`) shows the byte-duplicate problem is general.
+Extra duplicate files per publisher, and the rows they currently double-count in the DELIVERED series:
+
+| publisher | PDFs | unique | dup groups | duplicate rows in delivered series | where |
+|---|---|---|---|---|---|
+| carriers | 136 | 132 | 4 | **327** | dry_tc_period 96, sales 82, indices 56, bspa 24, tanker_tce 24, dry_weighted_routes 20, bda 12, newbuilding 7, demolition 6 |
+| advanced_shipping | 253 | 250 | 3 | **148** | secondhand_matrix 64, sales 44, newbuilding 21, demolition 16, demo_sales 3 |
+| ssy | 530 | 516 | 14 | **132** | route_rates 120, capesize_index_time 12 |
+| fearnleys | 263 | 260 | 3 | **121** | rates 121 |
+| agora | 217 | 213 | 4 | **94** | indicators 94 |
+| star_asia | 199 | 197 | 2 | **58** | demolition 16, valuation_matrix 10, ferrous_scrap 10, deals 9, metals_energy 8, 5y_history 4, iron_ore 1 |
+| affinity | 254 | 247 | 7 | **48** | tce 38, bda 6, indices 4 |
+| ism | 115 | 112 | 3 | **0** | (its series carry no repeat `source_file` rows) |
+| lion | 46 | 46 | 0 | 0 | - |
+| banchero_costa | 248 | 247 | 1 | 0 | (but TU is credit-blocked anyway) |
+| clarksons | 9 | 8 | 1 | 0 | already SHA256-deduped |
+| xclusiv | 271 | 264 | 7 | **0** | FIXED this run |
+| intermodal | 257 | 255 | 2 | **0** | FIXED this run |
+
+`run_advanced_shipping`, `run_star_asia`, `run_affinity`, `run_agora`, `run_ism`, `run_fearnleys`,
+`run_ssy` and `run_carriers` all enumerate the corpus with `rglob("*.pdf")` and none of them dedupe.
+Each needs the same `byte_duplicate_stems()` filter, but the shape differs: affinity/agora keep a resumable
+`_run_state.json` so the filter must be applied BOTH to the enumeration AND to the state/stack (the duplicate
+stems are already in `done`, so a re-run alone changes nothing). NOTE: carriers is listed in the state file as
+owned by a PARALLEL agent - do not touch it without checking.
