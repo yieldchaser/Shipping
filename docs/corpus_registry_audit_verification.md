@@ -68,3 +68,19 @@ defects. Re-derive per source from the publisher's own cover line before believi
 * Not established: which population produced 6,639 / 18,290, and therefore whether those
   numbers are "wrong" or "measured on a different (e.g. deduplicated) set". No content
   hashing was performed.
+
+## 6. Hunt for the population behind 6,639 / 18,290 (all measured, none matches)
+
+| candidate population | measured |
+|---|---|
+| PDFs in `corpus/` | 13,989 |
+| PDFs in `corpus/` excluding `02-hellenic` | 5,985 |
+| PDFs **tracked by git** in `corpus/` (bulk PDFs are git-untracked) | **4,399** |
+| PDFs in `data/` | 301 |
+| distinct PDF **basenames** in `corpus/` | 10,021 |
+| md in `corpus/` | 9,599 |
+| md under `data/extracted/md` (all tracked) | 17,723 |
+| md anywhere under `data/` | 23,006 |
+
+**None equals 6,639 or 18,290.** The two figures are therefore not reproducible from the
+filesystem by any of the obvious counts, and the audit's own method is not stated in the doc.
