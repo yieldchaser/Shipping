@@ -880,6 +880,7 @@ def process_single_pdf(
     - Upserts series data cleanly with primary key deduplication.
     - Embeds screenshots into markdown reports.
     """
+    pdf_path = Path(pdf_path).resolve()
     stem = pdf_path.stem
 
     # 1. Specialized Publisher Delegation
@@ -919,6 +920,101 @@ def process_single_pdf(
             specialized_result = extract_clarksons(pdf_path, dry_run=dry_run)
         except Exception as e:
             print(f"  [!] Note: specialized clarksons failed ({e}), falling back to universal pipeline.")
+    elif pub == "ism":
+        try:
+            import run_ism
+            specialized_result = run_ism.extract_ism(pdf_path, dry_run=dry_run)
+        except Exception as e:
+            print(f"  [!] Note: specialized ism failed ({e}), falling back to universal pipeline.")
+    elif pub == "intermodal":
+        try:
+            import run_intermodal_full
+            if dry_run:
+                wk, issue_date = run_intermodal_full.extract_report_metadata(pdf_path)
+                specialized_result = {"stem": stem, "pub": pub, "issue_date": issue_date, "report_week": wk, "specialized": True}
+            else:
+                res = run_intermodal_full.process_single_pdf(pdf_path)
+                specialized_result = {"stem": stem, "pub": pub, "specialized": True, "target_md": str(res.get("md_path", ""))}
+        except Exception as e:
+            print(f"  [!] Note: specialized intermodal failed ({e}), falling back to universal pipeline.")
+    elif pub in ("banchero_costa", "bancosta"):
+        try:
+            import run_banchero_costa_tables
+            res = run_banchero_costa_tables.process_banchero_costa_report(pdf_path)
+            iss_dt = res["sidecar"].get("issue_date") or "2026-01-01"
+            year_str_b = str(int(iss_dt[:4])) if iss_dt else "2026"
+            target_dir_b = MD_DIR / "banchero_costa" / year_str_b
+            target_dir_b.mkdir(parents=True, exist_ok=True)
+            target_md_b = target_dir_b / f"{stem}.md"
+            target_tables_b = target_dir_b / f"{stem}.tables.json"
+            if not dry_run:
+                target_md_b.write_text(res["markdown"], encoding="utf-8")
+                target_tables_b.write_text(json.dumps(res["sidecar"], indent=2), encoding="utf-8")
+                (MD_DIR / "banchero_costa" / f"{stem}.md").write_text(res["markdown"], encoding="utf-8")
+                (MD_DIR / "banchero_costa" / f"{stem}.tables.json").write_text(json.dumps(res["sidecar"], indent=2), encoding="utf-8")
+            specialized_result = {"stem": stem, "pub": "banchero_costa", "issue_date": iss_dt, "target_md": str(target_md_b), "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized banchero_costa failed ({e}), falling back to universal pipeline.")
+    elif pub == "agora":
+        try:
+            import format_agora_properly
+            target_md = format_agora_properly.process_single_agora_file(pdf_path)
+            specialized_result = {"stem": stem, "pub": pub, "specialized": True, "target_md": str(target_md)}
+        except Exception as e:
+            print(f"  [!] Note: specialized agora failed ({e}), falling back to universal pipeline.")
+    elif pub == "lion":
+        try:
+            import run_lion_tables
+            doc_l = fitz.open(pdf_path)
+            pages_count = len(doc_l)
+            full_text = "\n".join(doc_l[i].get_text() for i in range(pages_count))
+            doc_l.close()
+            doc_data = run_lion_tables.extract_full_report(full_text, str(pdf_path), pages_count)
+            md = run_lion_tables.render_markdown(doc_data)
+            sidecar = run_lion_tables.build_sidecar_json(doc_data)
+            iss_dt = doc_data.get("issue_date") or f"{doc_data.get('year', 2026)}-01-01"
+            year_str_l = str(int(iss_dt[:4])) if iss_dt else "2026"
+            target_dir_l = MD_DIR / "lion" / year_str_l
+            target_dir_l.mkdir(parents=True, exist_ok=True)
+            target_md_l = target_dir_l / f"{stem}.md"
+            target_tables_l = target_dir_l / f"{stem}.tables.json"
+            if not dry_run:
+                target_md_l.write_text(md, encoding="utf-8")
+                target_tables_l.write_text(json.dumps(sidecar, indent=2), encoding="utf-8")
+                (MD_DIR / "lion" / f"{stem}.md").write_text(md, encoding="utf-8")
+            specialized_result = {"stem": stem, "pub": pub, "issue_date": iss_dt, "target_md": str(target_md_l), "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized lion failed ({e}), falling back to universal pipeline.")
+    elif pub == "ssy":
+        try:
+            import run_ssy_complete
+            res = run_ssy_complete.process_report(pdf_path)
+            specialized_result = {"stem": stem, "pub": pub, "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized ssy failed ({e}), falling back to universal pipeline.")
+    elif pub in ("drewry", "ais") or "drewry" in str(pdf_path).lower():
+        try:
+            if "ais" in str(pdf_path).lower():
+                import run_drewry_ais
+                res = run_drewry_ais.extract_drewry_ais(pdf_path, dry_run=dry_run)
+                specialized_result = {"stem": stem, "pub": "drewry", "specialized": True}
+            else:
+                import run_drewry_opinions
+                specialized_result = {"stem": stem, "pub": "drewry", "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized drewry failed ({e}), falling back to universal pipeline.")
+    elif pub == "poten":
+        try:
+            import run_poten
+            specialized_result = {"stem": stem, "pub": pub, "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized poten failed ({e}), falling back to universal pipeline.")
+    elif pub == "seabrokers":
+        try:
+            import run_seabrokers_llamaparse
+            specialized_result = {"stem": stem, "pub": pub, "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized seabrokers failed ({e}), falling back to universal pipeline.")
 
 
     # 2. Chart Signature Probing & Screenshot Clipping
@@ -980,27 +1076,37 @@ def process_single_pdf(
             })
 
     # If specialized extractor already generated markdown, inject detected chart links if present
-    if specialized_result and target_md_file.exists():
-        if matched_charts:
-            existing_md = target_md_file.read_text(encoding="utf-8")
-            if "## Market Charts & Quantitative Vectors" not in existing_md:
-                chart_section = ["\n\n## Market Charts & Quantitative Vectors\n"]
-                for mc in matched_charts:
-                    chart_section.append(f"### {mc['title']} (Page {mc['page']})\n")
-                    chart_section.append(f"![{mc['title']}]({mc['image_rel']})\n")
-                    chart_section.append(f"*Extracted to time series: `{Path(mc['target_csv']).name}`*\n")
-                target_md_file.write_text(existing_md + "\n".join(chart_section), encoding="utf-8")
-        doc.close()
-        return {
-            "stem": stem,
-            "pub": pub,
-            "year": year_str,
-            "issue_date": issue_date,
-            "matched_charts": matched_charts,
-            "untracked_candidates": untracked_candidates,
-            "md_file": target_md_file,
-            "specialized": True
-        }
+    if specialized_result:
+        flat_md_file = MD_DIR / pub / f"{stem}.md"
+        if not target_md_file.exists() and flat_md_file.exists():
+            target_md_dir.mkdir(parents=True, exist_ok=True)
+            target_md_file.write_text(flat_md_file.read_text(encoding="utf-8"), encoding="utf-8")
+        elif not target_md_file.exists() and (MD_DIR / pub).exists():
+            matches = list((MD_DIR / pub).rglob(f"{stem}.md"))
+            if matches:
+                target_md_file = matches[0]
+        
+        if target_md_file.exists():
+            if matched_charts:
+                existing_md = target_md_file.read_text(encoding="utf-8")
+                if "## Market Charts & Quantitative Vectors" not in existing_md:
+                    chart_section = ["\n\n## Market Charts & Quantitative Vectors\n"]
+                    for mc in matched_charts:
+                        chart_section.append(f"### {mc['title']} (Page {mc['page']})\n")
+                        chart_section.append(f"![{mc['title']}]({mc['image_rel']})\n")
+                        chart_section.append(f"*Extracted to time series: `{Path(mc['target_csv']).name}`*\n")
+                    target_md_file.write_text(existing_md + "\n".join(chart_section), encoding="utf-8")
+            doc.close()
+            return {
+                "stem": stem,
+                "pub": pub,
+                "year": year_str,
+                "issue_date": issue_date,
+                "matched_charts": matched_charts,
+                "untracked_candidates": untracked_candidates,
+                "md_file": target_md_file,
+                "specialized": True
+            }
 
     # Universal Fallback Markdown Generation
     md_lines = [
@@ -1033,10 +1139,37 @@ def process_single_pdf(
 
     md_lines.append("## Report Content\n")
     for pno in range(len(doc)):
-        ptext = doc[pno].get_text("text").strip()
-        if ptext:
-            md_lines.append(f"### Page {pno+1}\n")
-            md_lines.append(f"```\n{ptext}\n```\n")
+        page = doc[pno]
+        tabs = page.find_tables()
+        tab_rects = [t.bbox for t in tabs]
+        
+        md_lines.append(f"### Page {pno+1}\n")
+        
+        # 1. Page text blocks outside tables
+        blocks = page.get_text("blocks")
+        for b in blocks:
+            r = fitz.Rect(b[:4])
+            if any(fitz.Rect(tr).intersects(r) for tr in tab_rects):
+                continue
+            btxt = b[4].strip()
+            if not btxt:
+                continue
+            lines = [l.strip() for l in btxt.splitlines() if l.strip()]
+            cleaned_p = " ".join(lines)
+            if len(cleaned_p.split()) >= 3:
+                md_lines.append(f"{cleaned_p}\n")
+                
+        # 2. Structured markdown pipe tables
+        for tab in tabs:
+            df = tab.extract()
+            if df and len(df) > 1:
+                hdr = [str(c).strip().replace("\n", " ") if c is not None else "" for c in df[0]]
+                md_lines.append("| " + " | ".join(hdr) + " |")
+                md_lines.append("|" + " :---: |" * len(hdr))
+                for row in df[1:]:
+                    cells = [str(c).strip().replace("\n", " ") if c is not None else "" for c in row]
+                    md_lines.append("| " + " | ".join(cells) + " |")
+                md_lines.append("")
 
     doc.close()
 
@@ -1080,7 +1213,21 @@ def run_orchestration(
     print("=" * 80)
 
     if specific_file:
-        pub = specific_file.parent.parent.name if specific_file.parent.name.isdigit() else specific_file.parent.name
+        norm_path = str(specific_file).replace("\\", "/").lower()
+        if "drewry" in norm_path:
+            pub = "drewry"
+        elif "poten" in norm_path:
+            pub = "poten"
+        elif "seabrokers" in norm_path:
+            pub = "seabrokers"
+        elif "breakwave" in norm_path:
+            pub = "breakwave"
+        elif "signal" in norm_path:
+            pub = "signal"
+        elif "baltic" in norm_path:
+            pub = "baltic"
+        else:
+            pub = specific_file.parent.parent.name if specific_file.parent.name.isdigit() else specific_file.parent.name
         pdfs_to_process = [(pub, specific_file)]
     else:
         pdfs_to_process = []

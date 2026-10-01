@@ -409,57 +409,151 @@ def analyse_page(pg):
     return out
 
 
-def doc_date(p):
-    m = re.search(r'(20\d\d).*?[Ww](?:eek)?[-_ ]?(\d{1,2})', p.name)
-    if m:
-        return f'{m.group(1)} W{int(m.group(2)):02d}'
-    m = re.search(r'(20\d\d)', p.name)
-    return m.group(1) if m else ''
+def resolve_ism_meta(p: Path):
+    stem = p.stem
+    m_dmy = re.search(r'(\d{1,2})_(\d{1,2})_(20\d\d)', stem)
+    m_ymd = re.search(r'(20\d\d)[-_](\d{2})[-_](\d{2})', stem)
+    m_wk = re.search(r'[Ww](?:eek)?[-_ ]?(\d{1,2})', stem)
+    
+    if m_ymd:
+        iso_date = f"{m_ymd.group(1)}-{m_ymd.group(2)}-{m_ymd.group(3)}"
+        year = int(m_ymd.group(1))
+    elif m_dmy:
+        iso_date = f"{m_dmy.group(3)}-{int(m_dmy.group(2)):02d}-{int(m_dmy.group(1)):02d}"
+        year = int(m_dmy.group(3))
+    else:
+        m_yr = re.search(r'(20\d\d)', stem)
+        year = int(m_yr.group(1)) if m_yr else 2026
+        iso_date = f"{year}-01-01"
+        
+    week = int(m_wk.group(1)) if m_wk else None
+    return iso_date, year, week
 
 
-def render_md(p, charts, pages_text, meta):
-    L = [f'# ism {meta["date"]} - {p.stem}', '',
-         f'source: ismreport.com (Metal Expert) | file: `{p.as_posix()}` | '
-         f'pages: {meta["pages"]} | charts: {len(charts)} | extracted: {meta["ts"]}', '']
-    if meta.get('warnings'):
-        L += ['**WARNINGS**: ' + '; '.join(meta['warnings']), '']
-    for i, ch in enumerate(charts, 1):
-        L += [f'## Chart {i}: {ch["title"] or "(untitled)"}', '']
-        for an, ax in ch.get('axes', {}).items():
-            unit = 'percent' if ax.get('is_percent') else 'absolute'
-            L.append(f'- axis `{an}` ({unit}, labels on the {ax["side"]}): '
-                     f'tick values {ax["raw"]} -> fit value = {ax["a"]}*y + {ax["b"]} '
-                     f'({ax["n"]} ticks, max residual {ax["maxres"]} = {ax["maxres_pct"]}% of span, '
-                     f'{"VERIFIED" if ax["verified"] else "UNVERIFIED"})')
-        xs = ch.get('x_scale')
-        if xs:
-            L.append(f'- x axis: {ch["n_xticks"]} tick marks, weeks {xs["first_label"]}..{xs["last_label"]} '
-                     f'from {xs["n"]} printed labels; week = {xs["c"]:.6f}*x + {xs["d"]:.2f} '
-                     f'(max residual {xs["maxres_weeks"]} weeks, '
-                     f'{"LINEAR" if xs["linear"] else "NOT LINEAR"})')
-        L.append('')
-        ser = ch.get('series', [])
-        if not ser:
-            L += ['(no series found)', '']
-            continue
-        for s in ser:
-            L.append(f'- series {s["label"] or "(UNLABELLED - no legend swatch matched)"} '
-                     f'[{s["kind"]}, {s["n_points"]} pts, axis {s["axis"]}, color {s["color"]}]')
-        L.append('')
-        weeks = [s['weeks'] for s in ser]
-        n = max(len(w) for w in weeks)
-        hdr = ['week'] + [f'{s["label"] or "unlabelled"}' for s in ser]
-        L.append('| ' + ' | '.join(hdr) + ' |')
-        L.append('|' + '---|' * len(hdr))
-        for j in range(n):
-            wv = next((w[j] for w in weeks if j < len(w) and w[j] is not None), None)
-            wk = '' if wv is None else str(wv)
-            cells = [str(s['values'][j]) if j < len(s['values']) else '' for s in ser]
-            L.append('| ' + wk + ' | ' + ' | '.join(cells) + ' |')
-        L.append('')
-    for pi, t in pages_text:
-        L += [f'## Page {pi + 1} text', '', t.strip(), '']
-    return '\n'.join(L)
+def extract_clean_ism_commentary(doc):
+    def is_junk_ism_line(line):
+        s = line.strip()
+        if not s:
+            return True
+        # Standalone numbers, percentage, currency, axes ticks
+        if re.match(r"^[-+]?\$?[\d,\.]+%?$", s):
+            return True
+        if re.match(r"^\d+\s*year$", s, re.I):
+            return True
+        if s.lower() in ["week", "t", "$/t", "$/day", "usd/t", "usd/day", "%", "price / freight rate, $/t"]:
+            return True
+        # Contacts, disclaimers, urls, meta
+        if any(k in s.lower() for k in [
+            "metalexpert.com", "ismreport.com", "copyrights are reserved", 
+            "information purposes only", "head of freight analytic", 
+            "sales & support manager", "click here to see", "tel:", "e-mail:",
+            "been compiled from sources believed to be reliable",
+            "no part of this publication may be reproduced",
+            "corporate data retrieval systems"
+        ]):
+            return True
+        return False
+
+    sections = []
+    current_sec = "Market Overview"
+    
+    for pno in range(len(doc)):
+        page = doc[pno]
+        blocks = page.get_text("blocks")
+        for b in blocks:
+            txt = b[4].strip()
+            if any(h in txt.upper() for h in ["CHARTERING MARKET AT HAND", "COASTERS AND MINI-BULKERS"]):
+                continue
+            
+            lines = [l.strip() for l in txt.splitlines() if not is_junk_ism_line(l)]
+            if not lines:
+                continue
+            cleaned = " ".join(lines)
+            
+            # Clean character encodings
+            cleaned = cleaned.replace("\x92", "'").replace("\u2019", "'").replace("\u2018", "'")
+            
+            # Subheaders
+            if 3 <= len(cleaned.split()) <= 12 and any(k in cleaned.lower() for k in ["strengthen", "weaken", "dynamics", "rates", "outlook", "freight"]):
+                if not cleaned.endswith(".") and not any(k in cleaned.lower() for k in ["weight of freight", "algerian urea", "cfr egypt", "cfr brazil"]):
+                    current_sec = cleaned
+                    continue
+            
+            # Genuine prose paragraphs
+            words = cleaned.split()
+            if len(words) >= 12 and not re.search(r"^\d+\s+\d+\s+\d+", cleaned):
+                # Filter out raw route lists / table captions / chart legends
+                if any(k in cleaned for k in ["BlSea - Med", "BlSea - Marmara", "Azov - Marmara", "Gulf of Finland", "bss dely", "calc. CFR", "Algerian urea", "CFR Brazil", "Handy lot Freight", "weight of freight"]):
+                    continue
+                sections.append((current_sec, cleaned))
+                
+    return sections
+
+
+def render_md(p: Path, charts: list, commentary: list, meta: dict) -> str:
+    week_str = f"Week {meta['week']}" if meta.get("week") else "Special Issue"
+    date_str = meta.get("date") or "2026-01-01"
+    year = meta.get("year", 2026)
+    
+    L = [
+        "---",
+        f'title: "ISM Coasters & Mini-Bulkers Weekly Report - {week_str}, {year}"',
+        f'issue_date: "{date_str}"',
+        f'year: {year}',
+        f'report_week: {meta.get("week") if meta.get("week") is not None else "null"}',
+        'broker: "ism"',
+        f'pages: {meta["pages"]}',
+        f'source_file: "corpus/01-brokers/ism/{year}/{p.name}"',
+        f'charts_count: {len(charts)}',
+        "---",
+        "",
+        f"# ISM Coasters & Mini-Bulkers Weekly Report ({week_str}, {year})",
+        "",
+        f"**Publisher:** ISM (Metal Expert) | **Issue Date:** {date_str} | **Pages:** {meta['pages']}",
+        f"**Source Document:** `corpus/01-brokers/ism/{year}/{p.name}`",
+        "",
+        "---",
+        ""
+    ]
+
+    if meta.get("warnings"):
+        L += ["**Extraction Notes**: " + "; ".join(meta["warnings"]), ""]
+
+    if commentary:
+        L += ["## Market Commentary", ""]
+        current_header = None
+        for sec, text in commentary:
+            if sec != current_header and sec != "Market Overview":
+                current_header = sec
+                L += [f"### {sec}", ""]
+            L += [text, ""]
+        L += ["---", ""]
+
+    if charts:
+        L += ["## Freight Indicators & Vector Charts", ""]
+        for i, ch in enumerate(charts, 1):
+            title = ch.get("title") or f"Chart {i}"
+            L += [f"### Chart {i}: {title}", ""]
+            
+            # Series summary
+            ser = ch.get("series", [])
+            if not ser:
+                L += ["*(No numeric vector series found)*", ""]
+                continue
+            
+            weeks = [s["weeks"] for s in ser]
+            n = max((len(w) for w in weeks), default=0)
+            hdr = ["week"] + [f'{s["label"] or "Series " + str(idx+1)}' for idx, s in enumerate(ser)]
+            L.append("| " + " | ".join(hdr) + " |")
+            L.append("|" + "---|" * len(hdr))
+            for j in range(n):
+                wv = next((w[j] for w in weeks if j < len(w) and w[j] is not None), None)
+                wk = "" if wv is None else str(wv)
+                cells = [str(s["values"][j]) if j < len(s["values"]) else "" for s in ser]
+                L.append("| " + wk + " | " + " | ".join(cells) + " |")
+            L.append("")
+
+    return "\n".join(L)
 
 
 def load_state():
@@ -476,6 +570,75 @@ def save_state(st):
     STATE.write_text(json.dumps(st, indent=1), encoding='utf-8')
 
 
+import datetime
+
+
+def extract_single_ism_doc(p: Path, out_dir: Path = OUT) -> dict:
+    key = p.as_posix()
+    with pymupdf.open(p) as d:
+        charts = []
+        for pi, pg in enumerate(d):
+            charts += [dict(c, page=pi + 1) for c in analyse_page(pg)]
+        commentary = extract_clean_ism_commentary(d)
+        npages = d.page_count
+        
+    iso_date, year, week = resolve_ism_meta(p)
+    meta = dict(
+        date=iso_date,
+        year=year,
+        week=week,
+        pages=npages,
+        ts=datetime.datetime.now().isoformat(timespec='seconds'),
+        warnings=[]
+    )
+    bad = [c for c in charts if not all(ax.get('verified') for ax in c.get('axes', {}).values())]
+    if bad:
+        meta['warnings'].append(f'{len(bad)} chart(s) with an UNVERIFIED axis scale')
+    unlab = sum(1 for c in charts for s in c.get('series', []) if not s.get('label'))
+    if unlab:
+        meta['warnings'].append(f'{unlab} series with no legend swatch (left unlabelled)')
+        
+    md = render_md(p, charts, commentary, meta)
+    
+    # Save both flat and year subdirectories
+    year_dir = out_dir / str(year)
+    year_dir.mkdir(parents=True, exist_ok=True)
+    
+    (out_dir / (p.stem + '.md')).write_text(md, encoding='utf-8')
+    (year_dir / (p.stem + '.md')).write_text(md, encoding='utf-8')
+    
+    sidecar_data = dict(
+        file=key,
+        date=iso_date,
+        year=year,
+        week=week,
+        pages=npages,
+        charts=charts,
+        warnings=meta['warnings']
+    )
+    (out_dir / (p.stem + '.charts.json')).write_text(json.dumps(sidecar_data, indent=1), encoding='utf-8')
+    (year_dir / (p.stem + '.charts.json')).write_text(json.dumps(sidecar_data, indent=1), encoding='utf-8')
+    
+    return {
+        "stem": p.stem,
+        "issue_date": iso_date,
+        "year": year,
+        "week": week,
+        "pages": npages,
+        "charts": len(charts),
+        "commentary_sections": len(commentary),
+        "target_md": str(year_dir / (p.stem + '.md'))
+    }
+
+
+def extract_ism(pdf_path: Path, dry_run: bool = False) -> dict:
+    """Specialized extraction entrypoint for incremental orchestrator."""
+    if dry_run:
+        iso_date, year, week = resolve_ism_meta(pdf_path)
+        return {"stem": pdf_path.stem, "issue_date": iso_date, "report_week": week}
+    return extract_single_ism_doc(pdf_path, OUT)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--limit', type=int, default=0)
@@ -486,42 +649,22 @@ def main():
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     st = load_state() if a.resume else dict(done=[], failed={}, started=None)
-    st['started'] = st.get('started') or __import__('datetime').datetime.now().isoformat(timespec='seconds')
+    st['started'] = st.get('started') or datetime.datetime.now().isoformat(timespec='seconds')
     docs = [Path(d) for d in a.docs] if a.docs else sorted(ROOT.rglob('*.pdf'))
     if a.limit:
         docs = docs[:a.limit]
     done = set(st['done'])
     todo = [p for p in docs if p.as_posix() not in done]
     print(f'ism: {len(docs)} docs total, {len(todo)} to do (resume={a.resume})', flush=True)
-    import datetime
     for i, p in enumerate(todo, 1):
         key = p.as_posix()
         try:
-            with pymupdf.open(p) as d:
-                pages_text = []
-                charts = []
-                for pi, pg in enumerate(d):
-                    charts += [dict(c, page=pi + 1) for c in analyse_page(pg)]
-                    pages_text.append((pi, pg.get_text()))
-                npages = d.page_count
-            meta = dict(date=doc_date(p), pages=npages, ts=datetime.datetime.now().isoformat(timespec='seconds'),
-                        warnings=[])
-            bad = [c for c in charts if not all(ax.get('verified') for ax in c.get('axes', {}).values())]
-            if bad:
-                meta['warnings'].append(f'{len(bad)} chart(s) with an UNVERIFIED axis scale')
-            unlab = sum(1 for c in charts for s in c.get('series', []) if not s.get('label'))
-            if unlab:
-                meta['warnings'].append(f'{unlab} series with no legend swatch (left unlabelled)')
-            md = render_md(p, charts, pages_text, meta)
-            (out / (p.stem + '.md')).write_text(md, encoding='utf-8')
-            (out / (p.stem + '.charts.json')).write_text(
-                json.dumps(dict(file=key, date=meta['date'], pages=npages, charts=charts,
-                                warnings=meta['warnings']), indent=1), encoding='utf-8')
+            res = extract_single_ism_doc(p, out)
             st['done'].append(key)
             if i % 10 == 0 or i == len(todo):
                 save_state(st)
-            print(f'  [{i}/{len(todo)}] {p.name} pages={npages} charts={len(charts)} '
-                  f'series={sum(len(c.get("series", [])) for c in charts)} warn={meta["warnings"]}', flush=True)
+            print(f'  [{i}/{len(todo)}] {p.name} pages={res["pages"]} charts={res["charts"]} '
+                  f'comm={res["commentary_sections"]} date={res["issue_date"]}', flush=True)
         except Exception as e:
             st['failed'][key] = f'{type(e).__name__}: {e}'
             save_state(st)

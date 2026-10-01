@@ -319,21 +319,140 @@ def extract_metrics_from_pages(pages: list, pdf_name: str, vessel_cat: str) -> d
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
+def clean_drewry_text(text: str) -> str:
+    lines = []
+    for line in text.splitlines():
+        s = line.strip()
+        if not s:
+            lines.append("")
+            continue
+        if re.match(r"^logo:\s*", s, re.I):
+            continue
+        if re.match(r"^icon:\s*", s, re.I):
+            continue
+        if re.match(r"^<!--\s*Page\s*\d+\s*-->", s, re.I):
+            continue
+        if "--- PAGE BREAK ---" in s:
+            continue
+        if "vessel deployment | speed | vessel avail" in s.lower():
+            continue
+        lines.append(line)
+        
+    cleaned = "\n".join(lines).strip()
+    return re.sub(r"\n{3,}", "\n\n", cleaned)
+
+
+def render_clean_drewry_md(record: dict, pages: list, pdf_path: Path, cat: str) -> str:
+    week = record.get("report_week") or 0
+    year = record.get("report_year") or 2026
+    pub_date = record.get("published_date") or f"{year}-01-01"
+    
+    parts = cat.split("_")
+    sector = parts[0] if len(parts) > 0 else "Fleet"
+    vessel = parts[1] if len(parts) > 1 else cat
+    title_vessel = f"{sector} {vessel}"
+    source_rel = f"corpus/06-drewry/ais/{pdf_path.name}"
+    
+    util_val = f"{record.get('current_utilisation_pct'):.1f}%" if record.get('current_utilisation_pct') is not None else "-"
+    mom_val = f"{record.get('mom_utilisation_change_pp'):+.1f} pp" if record.get('mom_utilisation_change_pp') is not None else "-"
+    yoy_val = f"{record.get('yoy_utilisation_change_pp'):+.1f} pp" if record.get('yoy_utilisation_change_pp') is not None else "-"
+    
+    bnk_val = f"${record.get('bunker_price_usd_per_t'):.0f}/t" if record.get('bunker_price_usd_per_t') is not None else "-"
+    bnk_mom = f"{record.get('bunker_price_mom_pct'):+.1f}%" if record.get('bunker_price_mom_pct') is not None else "-"
+    tmi_val = f"{record.get('tonne_miles_index'):.1f}" if record.get('tonne_miles_index') is not None else "-"
+    tmi_yoy = f"{record.get('tonne_miles_yoy_pct'):+.1f}%" if record.get('tonne_miles_yoy_pct') is not None else "-"
+    
+    spe = f"{record.get('ballast_speed_east_mom_pct'):+.1f}%" if record.get('ballast_speed_east_mom_pct') is not None else "-"
+    spw = f"{record.get('ballast_speed_west_mom_pct'):+.1f}%" if record.get('ballast_speed_west_mom_pct') is not None else "-"
+    
+    anc = f"{record.get('anchor_4w_ma_change_mdwt'):+.2f} mdwt" if record.get('anchor_4w_ma_change_mdwt') is not None else "-"
+    lad = f"{record.get('laden_anchor_days_4w_change_pct'):+.1f}%" if record.get('laden_anchor_days_4w_change_pct') is not None else "-"
+    
+    lse = f"{record.get('laden_share_east_mom_pp'):+.1f} pp" if record.get('laden_share_east_mom_pp') is not None else "-"
+    lsw = f"{record.get('laden_share_west_mom_pp'):+.1f} pp" if record.get('laden_share_west_mom_pp') is not None else "-"
+
+    L = [
+        "---",
+        f'title: "Drewry AIS Fleet Performance Indicators - {title_vessel} (Week {week}, {year})"',
+        f'issue_date: "{pub_date}"',
+        f'year: {year}',
+        f'report_week: {week}',
+        'publisher: "Drewry Maritime Research"',
+        'category: "ais_analytics"',
+        f'sector: "{sector}"',
+        f'vessel_class: "{vessel}"',
+        f'current_utilisation_pct: {record.get("current_utilisation_pct")}',
+        f'mom_utilisation_change_pp: {record.get("mom_utilisation_change_pp")}',
+        f'yoy_utilisation_change_pp: {record.get("yoy_utilisation_change_pp")}',
+        f'bunker_price_usd_per_t: {record.get("bunker_price_usd_per_t")}',
+        f'source_file: "{source_rel}"',
+        f'pages: {len(pages)}',
+        "---",
+        "",
+        f"# Drewry AIS Fleet Performance Indicators - {title_vessel} (Week {week}, {year})",
+        "",
+        f"**Publisher:** Drewry Maritime Research | **Issue Date:** {pub_date} | **Report Week:** Week {week:02d}, {year}",
+        f"**Source Document:** `{source_rel}`",
+        "",
+        "---",
+        "",
+        "## Executive Summary & Fleet Indicators",
+        "",
+        "| Indicator | Value | MoM Change | YoY Change |",
+        "| :--- | :---: | :---: | :---: |",
+        f"| **Fleet Utilisation** | {util_val} | {mom_val} | {yoy_val} |",
+        f"| **Bunker Fuel Price** | {bnk_val} | {bnk_mom} | - |",
+        f"| **Tonne-Miles Demand Index** | {tmi_val} | - | {tmi_yoy} |",
+        f"| **Ballast Speed (East / West)** | - | {spe} / {spw} | - |",
+        f"| **Tonnage at Anchor (4W MA)** | {anc} | - | - |",
+        f"| **Laden Anchor Days (4W MA)** | {lad} | - | - |",
+        f"| **Laden Fleet Share (East / West)** | - | {lse} / {lsw} | - |",
+        "",
+        "---",
+        ""
+    ]
+
+    comm_title = record.get("commentary_title")
+    comm_summary = record.get("commentary_summary")
+    if comm_title or comm_summary:
+        L += ["## Market Commentary", ""]
+        if comm_title:
+            L += [f"### {comm_title}", ""]
+        if comm_summary:
+            bullets = comm_summary.split(" | ")
+            for b in bullets:
+                L += [f"- {b.strip()}", ""]
+        L += ["---", ""]
+
+    for p in pages[1:]:
+        pno = p.get("page")
+        ptxt = clean_drewry_text(p.get("text", ""))
+        if ptxt:
+            L.append(f"## Section {pno - 1}: Detailed Indicators (Page {pno})")
+            L.append("")
+            L.append(ptxt)
+            L.append("")
+            L.append("---")
+            L.append("")
+
+    return "\n".join(L)
+
+
 def process_single_pdf(pdf_path: Path, cat: str) -> dict:
     stem = pdf_path.stem
     try:
         pages = parse_drewry_pdf_with_llamaparse(pdf_path)
         
+        # Extract metrics
+        record = extract_metrics_from_pages(pages, pdf_path.name, cat)
+
         # Save structured markdown file
         md_dir = MD_BASE_DIR / cat
         md_dir.mkdir(parents=True, exist_ok=True)
         md_path = md_dir / f"{stem}.md"
         
-        full_md = "\n\n--- PAGE BREAK ---\n\n".join([f"<!-- Page {p['page']} -->\n{p['text']}" for p in pages])
+        full_md = render_clean_drewry_md(record, pages, pdf_path, cat)
         md_path.write_text(full_md, encoding="utf-8")
-
-        # Extract metrics
-        record = extract_metrics_from_pages(pages, pdf_path.name, cat)
 
         # Save table sidecar JSON
         sidecar_path = md_dir / f"{stem}.tables.json"
@@ -344,6 +463,15 @@ def process_single_pdf(pdf_path: Path, cat: str) -> dict:
     except Exception as e:
         logger.error(f"[{cat}] FAILED {pdf_path.name}: {e}")
         return {"stem": stem, "error": str(e), "cat": cat}
+
+
+def extract_drewry_ais(pdf_path: Path, dry_run: bool = False) -> dict:
+    """Specialized Drewry AIS extractor entrypoint for incremental orchestrator."""
+    cat = classify_vessel(pdf_path.name)
+    if dry_run:
+        pub_date, week, year = parse_date_week_year(pdf_path.name)
+        return {"stem": pdf_path.stem, "issue_date": pub_date, "report_week": week, "cat": cat}
+    return process_single_pdf(pdf_path, cat)
 
 
 def run_pipeline():
