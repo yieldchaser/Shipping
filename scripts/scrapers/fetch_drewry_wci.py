@@ -164,6 +164,11 @@ def extract_assessments(html_text):
     # "a new high of $X" (13). MEASURED over every cached page: see
     # scratch/wci/diff_vs_pv.py.
     INTRO_WIN = 32
+    # (pv16) a bare (un-$'d) level number: thousands-comma form or >=4 digits.
+    # NOTE: write the boundaries as \b INSIDE an r-string - a plain string turns
+    # \b into a literal 0x08 BACKSPACE (the trap COMPOSITE_AVG_RX already hit).
+    BARE_RX = re.compile(r"(?<!\$)(?<![\d.,])(\d{1,3}(?:,\d{3})+|\d{4,})(?![\d.,])")
+    BARE_UNIT_RX = re.compile(r"\s*(?:per\b|feu\b|/|40\s*ft|container|box|for\b)", re.I)
     # "increased 17% or $1,331" - the CHANGE, never the level.
     or_rx = re.compile(r"\bor\s*$", re.I)
     sent_rx = re.compile(r"(?<=[.!?])\s+")
@@ -289,6 +294,27 @@ def extract_assessments(html_text):
             cands = [(mo.start(), mo.end(), clean_number(mo.group(1)))
                      for mo in value_rx.finditer(sent)]
             cands = [c for c in cands if c[2] is not None]
+            # (pv16) BARE LEVEL: the publisher sometimes prints a LEVEL with NO
+            # dollar sign - "...rates from Shanghai to Los Angeles fell 3% or
+            # $224 to 7,288 per 40ft box." (2024-07-18). value_rx requires a $,
+            # so 7,288 was invisible and the lane took the CHANGE ($224), which
+            # the numeric spread gate then rejected (max/min = 6074/224 > 5).
+            # A bare number is admitted ONLY when (a) the level introducer
+            # (to|at|reach|touch|new high of) ends immediately before it, (b) it
+            # is followed by a price unit, and (c) it has a thousands comma or
+            # >=4 digits - so a week number, a percentage or a year cannot
+            # qualify. MEASURED over all 230 cached captures: exactly 1 page
+            # moves, 1 value, 224 -> 7288, and that is the level the page prints.
+            for mo in BARE_RX.finditer(sent):
+                if not to_rx.search(sent[max(0, mo.start() - INTRO_WIN):mo.start()]):
+                    continue
+                if not BARE_UNIT_RX.match(sent[mo.end():]):
+                    continue
+                _bv = clean_number(mo.group(1))
+                if _bv is None:
+                    continue
+                cands.append((mo.start(), mo.end(), _bv))
+            cands.sort(key=lambda c: c[0])
             if not cands:
                 continue
             low = sent.lower()
