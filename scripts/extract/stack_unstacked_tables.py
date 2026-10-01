@@ -23,8 +23,38 @@ SERIES_DIR = ROOT / "data" / "extracted" / "series"
 SERIES_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def _byte_duplicate_stems(pub: str) -> set:
+    """Stems of corpus PDFs for `pub` that are BYTE-IDENTICAL to another PDF.
+
+    A second collection route re-drops the same issue under a different filename
+    (measured 2026-10-01: xclusiv 271 PDFs / 264 unique, advanced_shipping
+    253/250, star_asia 199/197). Both copies have sidecars, so both get stacked
+    and every duplicate issue double-counts. Keep the lexicographically-first
+    stem and skip the rest - the sidecar name IS the pdf stem.
+    """
+    import hashlib
+    root = ROOT / "corpus" / "01-brokers" / pub
+    by_hash: Dict[str, List[Path]] = {}
+    for pdf in sorted(root.glob("**/*.pdf")):
+        try:
+            h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        by_hash.setdefault(h, []).append(pdf)
+    skip: set = set()
+    for group in by_hash.values():
+        if len(group) > 1:
+            skip.update(q.stem for q in group[1:])
+    return skip
+
+
+
 def stack_advanced_shipping():
+    _dup = _byte_duplicate_stems("advanced_shipping")
     sidecars = sorted(glob.glob(str(ROOT / "data" / "extracted" / "md" / "advanced_shipping" / "*.tables.json")))
+    if _dup:
+        _b = len(sidecars); sidecars = [f for f in sidecars if Path(f).name[: -len(".tables.json")] not in _dup]
+        print(f"[dedup] advanced_shipping: skipped {_b - len(sidecars)} duplicate sidecar(s)")
     print(f"Processing {len(sidecars)} Advanced Shipping sidecars...")
 
     nb_rows = []
@@ -82,7 +112,11 @@ def stack_advanced_shipping():
 
 
 def stack_xclusiv():
+    _dup = _byte_duplicate_stems("xclusiv")
     sidecars = sorted(glob.glob(str(ROOT / "data" / "extracted" / "md" / "xclusiv" / "*.tables.json")))
+    if _dup:
+        _b = len(sidecars); sidecars = [f for f in sidecars if Path(f).name[: -len(".tables.json")] not in _dup]
+        print(f"[dedup] xclusiv: skipped {_b - len(sidecars)} duplicate sidecar(s)")
     print(f"Processing {len(sidecars)} Xclusiv sidecars...")
 
     nb_orders = []
@@ -123,7 +157,11 @@ def stack_xclusiv():
 
 
 def stack_star_asia():
+    _dup = _byte_duplicate_stems("star_asia")
     sidecars = sorted(glob.glob(str(ROOT / "data" / "extracted" / "md" / "star_asia" / "*.tables.json")))
+    if _dup:
+        _b = len(sidecars); sidecars = [f for f in sidecars if Path(f).name[: -len(".tables.json")] not in _dup]
+        print(f"[dedup] star_asia: skipped {_b - len(sidecars)} duplicate sidecar(s)")
     print(f"Processing {len(sidecars)} Star Asia sidecars...")
 
     matrix_rows = []

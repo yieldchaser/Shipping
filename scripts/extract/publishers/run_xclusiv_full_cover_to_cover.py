@@ -35,6 +35,30 @@ SERIES_OUT_DIR = BASE_DIR / "data" / "extracted" / "series"
 MD_OUT_DIR.mkdir(parents=True, exist_ok=True)
 SERIES_OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+
+def _byte_duplicate_stems(root: Path) -> set:
+    """Stems of corpus PDFs that are BYTE-IDENTICAL to another corpus PDF.
+
+    A second collection route re-drops the same weekly issue under a different
+    filename (measured 2026-10-01: xclusiv has 271 PDFs but only 264 unique,
+    7 md5-duplicate groups). Both copies were parsed and stacked, so every
+    duplicate issue double-counted. Keep the lexicographically-first stem.
+    """
+    import hashlib
+    by_hash: Dict[str, List[Path]] = {}
+    for pdf in sorted(root.glob("**/*.pdf")):
+        try:
+            h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        by_hash.setdefault(h, []).append(pdf)
+    skip: set = set()
+    for group in by_hash.values():
+        if len(group) > 1:
+            skip.update(p.stem for p in group[1:])
+    return skip
+
+
 def parse_date_from_stem(stem):
     m = re.search(r"(\d{4})[_-](\d{2})[_-](\d{2})", stem)
     if m:
@@ -210,6 +234,11 @@ def extract_bunker_prices(text, issue_date, report_week, stem):
 
 def main():
     pdf_files = sorted(glob.glob(str(CORPUS_DIR / "**" / "*.pdf"), recursive=True))
+    _dup = _byte_duplicate_stems(CORPUS_DIR)
+    if _dup:
+        _b = len(pdf_files)
+        pdf_files = [q for q in pdf_files if Path(q).stem not in _dup]
+        print(f"[dedup] skipped {_b - len(pdf_files)} byte-identical duplicate document(s)")
     print(f"Total Xclusiv PDFs found: {len(pdf_files)}")
 
     all_freight = []

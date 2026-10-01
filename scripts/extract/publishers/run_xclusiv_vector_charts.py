@@ -30,6 +30,30 @@ XCLUSIV_DIR = ROOT / "corpus" / "01-brokers" / "xclusiv"
 OUT_SERIES_DIR = ROOT / "data" / "extracted" / "series"
 OUT_SERIES_DIR.mkdir(parents=True, exist_ok=True)
 
+
+def _byte_duplicate_stems(root: Path) -> set:
+    """Stems of corpus PDFs that are BYTE-IDENTICAL to another corpus PDF.
+
+    A second collection route re-drops the same weekly issue under a different
+    filename (measured 2026-10-01: xclusiv has 271 PDFs but only 264 unique,
+    7 md5-duplicate groups). Both copies were parsed and stacked, so every
+    duplicate issue double-counted. Keep the lexicographically-first stem.
+    """
+    import hashlib
+    by_hash: Dict[str, List[Path]] = {}
+    for pdf in sorted(root.glob("**/*.pdf")):
+        try:
+            h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        by_hash.setdefault(h, []).append(pdf)
+    skip: set = set()
+    for group in by_hash.values():
+        if len(group) > 1:
+            skip.update(p.stem for p in group[1:])
+    return skip
+
+
 BC_SERIES_CSV = OUT_SERIES_DIR / "xclusiv_bulk_carrier_charts_series.csv"
 DEMO_SERIES_CSV = OUT_SERIES_DIR / "xclusiv_demolition_charts_series.csv"
 
@@ -125,6 +149,11 @@ def extract_panel_value_from_drawings(drawings: List[Dict[str, Any]], y_min: flo
 
 def run_xclusiv_charts_pipeline():
     pdfs = sorted(glob.glob(str(XCLUSIV_DIR / "*/*.pdf")))
+    _dup = _byte_duplicate_stems(XCLUSIV_DIR)
+    if _dup:
+        _b = len(pdfs)
+        pdfs = [q for q in pdfs if Path(q).stem not in _dup]
+        print(f"[dedup] skipped {_b - len(pdfs)} byte-identical duplicate document(s)")
     print(f"Executing Vector Chart Extraction across {len(pdfs)} Xclusiv weekly reports...", flush=True)
 
     bc_rows = []
