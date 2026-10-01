@@ -17,6 +17,7 @@ Produces:
   5. hellenic_gms_port_positions_series.csv
 """
 
+import hashlib
 import os
 import re
 import json
@@ -263,6 +264,22 @@ def extract_gms(pdf_path, issue_date):
 # ------------------------------------------------------------------------------
 # 4. Pipeline Execution Across All HTML Articles in Demolition
 # ------------------------------------------------------------------------------
+def publisher_branch(pdf_name: str, title: str) -> str:
+    """Which publisher branch a document is routed to.
+
+    Same predicates and same order as the dispatch in main(), so the dedup key
+    below cannot suppress a copy that produces rows for a DIFFERENT series.
+    """
+    n, t = pdf_name.lower(), title.lower()
+    if "athenian" in n or "athenian" in t:
+        return "athenian"
+    if "best-oasis" in n or "best oasis" in t:
+        return "best_oasis"
+    if "gms" in n or "gms" in t:
+        return "gms"
+    return ""
+
+
 def main():
     html_files = sorted(list(DEMO_DIR.glob("**/*.html")))
     logger.info(f"Total HTML articles in demolition: {len(html_files)}")
@@ -303,8 +320,26 @@ def main():
         if not pdf_path:
             continue
             
-        # Deduplicate identical PDFs
-        pdf_hash = pdf_path.name
+        # Deduplicate identical PDFs. The key is CONTENT, not the filename: until
+        # 2026-10-01 this used pdf_path.name, which cannot see the collection routes
+        # that fetch the SAME issue under different names (a path string is not an
+        # identity, and neither is a filename). Measured that day, the Athenian twin
+        # pairs put 384 duplicate rows into hellenic_athenian_demolition_series.csv
+        # (3,300 -> 2,916 rows).
+        #
+        # The issue_date and the publisher branch are part of the key on purpose.
+        # A content-only key was measured to be destructive: it also suppressed
+        # 2026-06-13 (one file collected under three publisher names) and the
+        # 2022-05-03 re-collection of the week-16 GMS file, which DELETED 4 rows and
+        # the 2026-06-13 date from hellenic_gms_demolition_series.csv and 33 rows /
+        # 2 dates from hellenic_gms_port_positions_series.csv. With the branch and
+        # date in the key a copy can only be suppressed by one that would be routed
+        # to the SAME series for the SAME issue, so no date and no series loses a row.
+        try:
+            digest = hashlib.md5(pdf_path.read_bytes()).hexdigest()
+        except OSError:
+            digest = pdf_path.name
+        pdf_hash = (digest, issue_date, publisher_branch(pdf_path.name, title))
         if pdf_hash in seen_hashes:
             continue
         seen_hashes.add(pdf_hash)
