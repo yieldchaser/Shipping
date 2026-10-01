@@ -91,19 +91,96 @@ def parse_date_from_filename(filename: str):
 
 
 def normalize_seabrokers_content(text: str) -> str:
-    """Publication-grade normalizer for Seabrokers Seabreeze reports.
-
-    - Converts HTML tables into clean GitHub Flavored Markdown pipe tables
-    - Unfurls deformed tables where columns were crammed into <br/>-separated headers
-    - Realigns Page 7 spot rates tables with their exact category headings
-    - Formats Arrivals & Departures into clean tables or bulleted lists
+    """Publication-grade normalization for Seabrokers monthly Seascope reports.
+    
+    Transforms raw OCR output into polished, human-readable Markdown:
+    - Formats Front Cover header and Cover Feature lead story cleanly
+    - Formats Table of Contents into a fully bulleted, linked Markdown list
+    - Replaces empty marketing service tables on Page 2 with a clean service roster
+    - Converts raw HTML <table> blocks into clean GitHub-Flavored Markdown pipe tables
+    - Unfurls deformed <br/>-crammed table headers and titles into valid Markdown tables
     - Fixes OCR typos (e.g. 'AI ITS DUTIES' -> 'AHTS DUTIES')
-    - Cleans empty marketing tables on Page 2 and duty phones boilerplate on Page 16
-    - Strips running headers, running page numbers, and corporate boilerplate
+    - Formats vessel photo captions and removes bare OCR logo/image placeholders
+    - Re-aligns Page 7 spot rate tables with canonical segment titles
+    - Strips corporate directory boxes, office addresses, and duty phone boilerplate
+    - Strips running headers, running page numbers, and stray OCR bullet artifacts
     """
     text = text.replace('\r\n', '\n')
 
-    # 1. Convert HTML tables to Markdown pipe tables
+    # 1. Clean OCR typos
+    text = re.sub(r'\bAI\s*ITS\s+DUTIES\b', 'AHTS DUTIES', text)
+    text = re.sub(r'\bAI\s*ITS\b', 'AHTS', text)
+
+    # 2. Format Front Cover Header & Teaser
+    def _format_cover(t: str) -> str:
+        m = re.search(r'(?is)\A(.*?)(?=\n[ \t]*(?:---+|##\s*Contents|#*\s*CONTENTS))', t)
+        if not m:
+            return t
+        cover = m.group(1).strip()
+        my_match = re.search(r'(?i)\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})\b', cover)
+        month_year = f"{my_match.group(1)} {my_match.group(2)}" if my_match else ""
+        
+        sb_idx = cover.upper().find("SEABREEZE")
+        headline_parts = []
+        if sb_idx != -1:
+            after_sb = cover[sb_idx:]
+            h_lines = re.findall(r'(?m)^[ \t]*#+\s*\**([A-Za-z0-9\s,\'"/&–-]+?)\**[ \t]*$', after_sb)
+            headline_parts = [h.strip() for h in h_lines if h.strip().upper() not in ("SEABREEZE", month_year.upper())]
+        
+        headline = " ".join(headline_parts).strip()
+        
+        out = [
+            "# SEABREEZE",
+            f"### The Seabrokers Monthly Market Report — {month_year}" if month_year else "### The Seabrokers Monthly Market Report",
+            "*The Shipbroker with a Difference — Seabrokers Group*",
+            ""
+        ]
+        if headline:
+            out.append(f"## Cover Feature: {headline}")
+            out.append("")
+        
+        return "\n".join(out) + "\n\n" + t[m.end():]
+
+    text = _format_cover(text)
+
+    # 3. Format Table of Contents
+    def _toc_repl(m):
+        raw_items = m.group(1).strip()
+        lines = [l.strip() for l in raw_items.split('\n') if l.strip()]
+        items = []
+        for l in lines:
+            im = re.match(r'^(\d{1,2})\s*[\*\s]*(.+?)[\*\s]*$', l)
+            if im:
+                page = im.group(1)
+                title = im.group(2).strip('* ').strip()
+                if 'Contact Details' not in title and 'Seabrokers Group' not in title:
+                    items.append((page, title))
+        if items:
+            toc = ['## Contents', '']
+            for page, title in items:
+                toc.append(f'- **{title}** *(p. {page})*')
+            return '\n\n' + '\n'.join(toc) + '\n\n'
+        return m.group(0)
+
+    text = re.sub(
+        r'(?is)(?:^|\n)[ \t]*#*\s*CONTENTS\s*\n+(.*?)(?=\n\s*(?:---+|##\s*\**ABOUT|##\s*\**OSV|#\s*OSV|\Z))', 
+        _toc_repl, 
+        text
+    )
+
+    # 4. Clean Empty Service / Description table on Page 2
+    text = re.sub(r'\|\s*Service\s*\|\s*Description\s*\|\n\|[-:\s|]+\|\n(?:\|\s*[A-Z\s]+\s*\|\s*\|\n*)+', 
+                  '**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes\n\n', 
+                  text)
+
+    # 5. Clean Page 2 corporate office addresses & distribution boilerplate
+    text = re.sub(r'(?is)\*{0,2}OUR OFFICES:\*{0,2}\s*\n(?:[A-Z\s,–-]+\n)+', '', text)
+    text = re.sub(r'(?im)^[ \t]*(?:https?://)?www\.seabrokers[a-z0-9\.\-_/]*[ \t]*$', '', text)
+    text = re.sub(r'(?is)Production (?:and|&) Administration:?.*?(?:chartering@seabrokers\S*|\.co\.uk|\.no|\.com|\n\n)', '', text)
+    text = re.sub(r'(?is)The Seabreeze Monthly Market Report is distributed worldwide through our offices.*?(?=\n\n|\Z)', '', text)
+    text = re.sub(r'(?im)^[ \t]*©\s*Seabrokers\s*Group\s*\d{4}[ \t]*$', '', text)
+
+    # 6. Convert raw HTML <table> blocks into clean Markdown tables
     def _html_table_to_md(m):
         html = m.group(0)
         rows = re.findall(r'<tr.*?>\s*(.*?)\s*</tr>', html, flags=re.DOTALL)
@@ -137,11 +214,7 @@ def normalize_seabrokers_content(text: str) -> str:
 
     text = re.sub(r'<table.*?>.*?</table>', _html_table_to_md, text, flags=re.DOTALL)
 
-    # 2. Fix OCR typos
-    text = re.sub(r'\bAI\s*ITS\s+DUTIES\b', 'AHTS DUTIES', text)
-    text = re.sub(r'\bAI\s*ITS\b', 'AHTS', text)
-
-    # 3. Unfurl deformed <br/>-crammed header tables
+    # 7. Unfurl deformed <br/>-crammed table headers
     def _fix_br_table(m):
         tbl = m.group(0)
         lines = tbl.strip().split('\n')
@@ -158,7 +231,8 @@ def normalize_seabrokers_content(text: str) -> str:
             col_splits.append(parts)
         
         part_lens = [len(p) for p in col_splits]
-        if len(set(part_lens)) == 1 and part_lens[0] >= 3:
+        # Case A: Entire table body packed into header <br/> cells
+        if len(lines) <= 2 and len(set(part_lens)) == 1 and part_lens[0] >= 3:
             n_rows = part_lens[0]
             first_items = [p[0] for p in col_splits]
             title = first_items[0] if len(set(first_items)) == 1 else ''
@@ -167,8 +241,7 @@ def normalize_seabrokers_content(text: str) -> str:
             new_headers = [col_splits[i][row_offset] for i in range(len(cols))]
             new_rows = []
             for r_idx in range(row_offset + 1, n_rows):
-                row_vals = [col_splits[c_idx][r_idx] for c_idx in range(len(cols))]
-                new_rows.append(row_vals)
+                new_rows.append([col_splits[c_idx][r_idx] for c_idx in range(len(cols))])
             
             out = []
             if title:
@@ -179,53 +252,23 @@ def normalize_seabrokers_content(text: str) -> str:
                 out.append('| ' + ' | '.join(r) + ' |')
             return '\n' + '\n'.join(out) + '\n\n'
         
-        # Case B: Prefix title in header cells (e.g. INACTIVE RIGS NORTHWEST EUROPE<br/>NAME)
-        if len(set(part_lens)) == 1 and part_lens[0] == 2:
-            first_items = [p[0] for p in col_splits]
-            title = first_items[0] if len(set(first_items)) == 1 else ''
-            new_headers = [p[1] for p in col_splits]
-            out = []
-            if title:
-                out.append(f'### {title}\n')
-            out.append('| ' + ' | '.join(new_headers) + ' |')
-            for l in lines[1:]:
-                out.append(l)
-            return '\n' + '\n'.join(out) + '\n\n'
-        return tbl
+        # Case B: Prefix title or multi-line header where body rows exist in lines[1:]
+        first_items = [p[0] for p in col_splits if len(p) > 1]
+        title = ''
+        if first_items and len(set(first_items)) == 1:
+            title = first_items[0]
+        new_headers = [p[-1] for p in col_splits]
+        out = []
+        if title:
+            out.append(f'### {title}\n')
+        out.append('| ' + ' | '.join(new_headers) + ' |')
+        for l in lines[1:]:
+            out.append(l)
+        return '\n' + '\n'.join(out) + '\n\n'
 
     text = re.sub(r'(?m)^(\|?[^\n]+<br/?>[^\n]+\|\n\|[-:\t |]+\|(?:\n\|[^\n]+\|)*)', _fix_br_table, text, flags=re.IGNORECASE)
 
-    # 4. Format Table of Contents
-    def _toc_repl(m):
-        raw_items = m.group(1).strip()
-        items = re.findall(r'(\d{1,2})\s+([A-Za-z][A-Za-z0-9&,\s/–-]+?)(?=\s+\d{1,2}\b|\Z)', raw_items)
-        if items:
-            toc = ['## Contents', '']
-            for page, title in items:
-                t = title.strip()
-                if 'Contact Details' not in t and 'Seabrokers Group' not in t:
-                    toc.append(f'- **{t}** *(p. {page})*')
-            return '\n'.join(toc) + '\n\n'
-        return m.group(0)
-
-    text = re.sub(r'(?is)\bContents\s*\n((?:\d{1,2}\s+[A-Za-z][A-Za-z0-9&,\s/–-]+\s*)+)', _toc_repl, text)
-
-    # 5. Format Executive Highlights / Teasers on Page 1
-    def _teaser_repl(m):
-        raw_block = m.group(0).strip()
-        lines = [l.strip() for l in raw_block.split('\n') if l.strip()]
-        out = ['## Executive Highlights', '']
-        for l in lines:
-            tm = re.match(r'^(.*?)\s*/\s*(\d{1,2})$', l)
-            if tm:
-                out.append(f'- **{tm.group(1).strip()}** *(p. {tm.group(2)})*')
-            else:
-                out.append(f'- {l}')
-        return '\n'.join(out) + '\n\n'
-
-    text = re.sub(r'(?m)^(?:[A-Z0-9][A-Za-z0-9\s,&–-]+?\s*/\s*\d{1,2}\n?){2,}', _teaser_repl, text)
-
-    # 6. Format Arrivals & Departures
+    # 8. Format Arrivals & Departures
     def _fix_arr_dep_table(m):
         tbl = m.group(0)
         lines = tbl.strip().split('\n')
@@ -277,12 +320,7 @@ def normalize_seabrokers_content(text: str) -> str:
     text = re.sub(r'(?is)ARRIVALS NORTH SEA SPOT\s*\*?\s*\n(.*?)\nDEPARTURES NORTH SEA SPOT\s*\*?\s*\n(.*?)(?=\*Vessels|\n\n|\Z)', _arr_dep_repl, text)
     text = re.sub(r'(?i)\*Vessels arriving in or departing from the North Sea term/layup market are not included here\.?', '', text)
 
-    # 7. Clean Empty Service / Description table on Page 2
-    text = re.sub(r'\|\s*Service\s*\|\s*Description\s*\|\n\|[-:\s|]+\|\n(?:\|\s*[A-Z\s]+\s*\|\s*\|\n*)+', 
-                  '**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes\n\n', 
-                  text)
-
-    # 8. Realign Page 7 spot rates tables if titles are shifted
+    # 9. Realign Page 7 spot rates tables if titles are shifted
     if '# NORTH SEA AVERAGE SPOT RATES' in text:
         def _realign_p7(match):
             block = match.group(0)
@@ -304,11 +342,15 @@ def normalize_seabrokers_content(text: str) -> str:
         
         text = re.sub(r'# NORTH SEA AVERAGE SPOT RATES.*?(?=\n# |\Z)', _realign_p7, text, flags=re.DOTALL)
 
-    # 9. Clean broken empty contact tables and directory boxes
+    # 10. Clean bare OCR image/logo markers and style photo captions
+    text = re.sub(r'(?im)^[ \t]*[A-Za-z0-9\s&–-]+\s+(?:Logo|Image|Flag|artist impression(?:\(\(\)\))?|photo)\s*$', '', text)
+    text = re.sub(r'(?m)^([A-Z][A-Za-z0-9\.\s&–-]+\s+\([A-Z][A-Za-z0-9\.\s]+\))\s*$', r'*[Photo: \1]*', text)
+
+    # 11. Clean broken empty contact tables and directory boxes
     text = re.sub(r'\|\s*ORGANIZATION\s*\|\s*Telephone\s*\|\s*E-mail\s*\|\n\|[-:\s|]+\|\n(?:\|\s*\**\s*\|\s*\|\s*\|\n*)+', '', text)
     text = re.sub(r'(?is)\n(?:##\s*)?SEABROKERS GROUP CONTACTS.*?(?=\n##\s*CONUNDRUM|\Z)', '\n\n', text)
 
-    # 10. Strip running headers, page numbers, and corporate boilerplate
+    # 12. Clean running headers, footers, stray bullet points, double hashes
     text = re.sub(r'(?im)^[ \t]*Seabreeze\s*[-–—]?\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s*\d{4}[ \t]*$', '', text)
     text = re.sub(r'(?im)^[ \t]*\d{1,2}\s+SEABREEZE(?:\s+SEABROKERS\s+GROUP)?.*$', '', text)
     text = re.sub(r'(?im)^[ \t]*SEABREEZE\s+\d{1,2}.*$', '', text)
@@ -316,8 +358,9 @@ def normalize_seabrokers_content(text: str) -> str:
     text = re.sub(r'(?m)^\s*\d{1,2}\s+\d{1,2}\s*$', '', text)
     text = re.sub(r'(?m)^\s*\d{1,2}\s*$', '', text)
     text = re.sub(r'(?m)^[ \t]*[•\*\-][ \t•\*\-]*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*#+[ \t]+(#+[ \t]*[A-Za-z])', r'\1', text)
 
-    # Strip corporate directory boilerplate
+    # Clean corporate directory boilerplate
     text = re.sub(r'(?is)Seabrokers\s+(?:Fundamentering|Heavy Machinery|Head Office|Chartering\s*-\s*Stavanger).*?(?=\n\n|\Z)', '', text)
     text = re.sub(r'(?is)Production & Administration.*?(?:ISO 9001:2015|\.co\.uk)\.?', '', text)
     text = re.sub(r'(?is)SEABROKERS GROUP:\s*Over the last 40\+ years.*?(?=\n\n|\Z)', '', text)
