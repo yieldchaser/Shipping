@@ -102,5 +102,30 @@ charter rates, ffa_live, etc.) - those are disk measurements, not hand edits.
 * `upsert_wci_rows()` still dedupes by date only (a Thursday assertion would stop
   a dropped print from reappearing silently).
 
+### Scoping the double-`respectively` shape (measured this run, for the next one)
+
+A corpus scan (`scratch/wci/pv16c/scope_double.py`) finds **exactly 4 cached pages
+carrying a sentence with TWO `respectively` markers** - i.e. **2 distinct prints**:
+2024-12-19 (2 snapshots) and 2025-03-20 (2 snapshots). That is the whole
+population, so any fix touches at most these.
+
+**The clue that matters:** the parser gets **2025-03-20 RIGHT** and **2024-12-19
+WRONG**, on the nominally same shape.
+
+| print | sentence | parsed |
+|---|---|---|
+| 2025-03-20 | *"...Shanghai to **Rotterdam** and Rotterdam to New York reduced 2% to $2,463 and $2,316 ..., respectively, and those from Rotterdam to **Shanghai**, New York to Rotterdam and Shanghai to **Genoa** shrank 1% to $484, $846 and $3,286 ..., respectively."* | rotterdam **2463** OK, rotterdam_shanghai **484** OK, genoa **3286** OK |
+| 2024-12-19 | *"...Shanghai to **Genoa** and Rotterdam to **Shanghai** decreased 2% to $5,424 and $508 ..., respectively, and those from New York to Rotterdam and Shanghai to **Rotterdam** shrank 1% to $824 and $4,819 ..., respectively."* | genoa **5424** OK, rotterdam_shanghai **5424** (should be 508), shanghai_rotterdam **824** (should be 4,819) |
+
+The difference is in list A: 2025-03-20's second label (`Rotterdam to New York`)
+is **untracked** (so one tracked label, trivially right), while 2024-12-19's list A
+holds **two tracked labels** (`Shanghai to Genoa`, `Rotterdam to Shanghai`) and
+both were handed list A's FIRST value. Start there - a `respectively`-scoped
+ordinal split would be the shape, and the 230-page read-only control will show
+whether it moves anything else.
+
+The print is **correctly withheld** by the numeric gate meanwhile, so no wrong
+value is shipping while this stays open.
+
 No vision tool in this session; the substitute is the same-document
 reconciliation above (each value located in the page text and read verbatim).
