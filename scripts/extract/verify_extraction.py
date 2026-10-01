@@ -12,6 +12,7 @@ Checks:
   5. golden recall         - the Star Asia fixture cells must still be present
   6. db integrity          - cells/catalogue parquet present and row-count sane
   7. disk headroom         - extraction output must not fill the volume
+  8. inventory drift       - has the corpus on disk outgrown the frozen queue?
 
 Usage:
   python scripts/extract/verify_extraction.py [--state ...] [--out ...] [--json]
@@ -19,6 +20,7 @@ Usage:
 import argparse
 import collections
 import glob
+import hashlib
 import json
 import os
 import sys
@@ -74,6 +76,98 @@ def remaining_work(checkpoint):
         return None, "could not recompute remaining work (%s: %s)" % (type(exc).__name__, exc)
 
 
+_DRIFT_MEMO = []
+
+
+def inventory_drift(limit=20):
+    """How far has the corpus on disk outgrown inventory.jsonl?
+
+    run_batch's queue - and therefore `remaining_work()` above - is computed
+    from `data/extracted/inventory.jsonl`, a FROZEN file. `build_inventory.py`
+    is reorg-aware, but nothing re-runs it, so every issue that lands in
+    `corpus/` after it was written is invisible to the queue, and this check
+    then reports "0 documents remain ... run COMPLETE" for a corpus that has
+    since moved on.
+
+    Measured 2026-10-01: the inventory was built 2026-09-21 and held 9,912 rows
+    (7,816 after content-duplicates) while 12,912 PDFs sat under the same roots
+    - 338 of them absent by filename, and 274 of those carrying content (md5)
+    the inventory has never seen: the 2026 W36..W39 broker weeklies, the MMI
+    iron-ore dailies, the GMS / Best Oasis demolition weeks 38-39, the
+    fearnleys-md backfill tree (176) and 12 Drewry AIS weeklies. Those are
+    covered by their publishers' bespoke runners (`scripts/extract/publishers/`),
+    which open the source PDFs directly, so no live series was gapped - but the
+    COMPLETE claim was only ever a statement about the 2026-09-21 list.
+
+    Cheap by construction: filename comparison first, md5 only for the
+    residue. Measured cost on this corpus: 10.4 s (338 md5s); the hourly check
+    it runs inside costs 25 s in total. Informational only - a corpus
+    outgrowing a frozen queue is expected, not an ACTION.
+    """
+    if _DRIFT_MEMO:
+        return _DRIFT_MEMO[0]
+    res = None
+    try:
+        here = os.path.dirname(os.path.abspath(__file__))
+        if here not in sys.path:
+            sys.path.insert(0, here)
+        import build_inventory as BI
+        inv_path = os.path.join(REPO, "data", "extracted", "inventory.jsonl")
+        rows = [json.loads(l) for l in open(inv_path, encoding="utf-8") if l.strip()]
+        have, md5s = set(), set()
+        for r in rows:
+            have.add(os.path.basename(str(r.get("path", "")).replace(os.sep, "/")).lower())
+            if r.get("md5"):
+                md5s.add(r["md5"])
+        seen, candidates, on_disk = set(), [], 0
+        for root in BI.ROOTS:
+            full = os.path.join(REPO, root)
+            if not os.path.isdir(full):
+                continue
+            for fp in glob.glob(os.path.join(full, "**", "*.pdf"), recursive=True):
+                # ROOTS overlap (corpus/01-brokers and corpus/01-brokers/fearnleys-md)
+                # and spell them with different separators, so the raw path string
+                # is NOT a stable identity: de-duplicate on the normcased one.
+                # Measured 2026-10-01: without this the 176 fearnleys-md files were
+                # counted twice and content_new read 450 instead of 274.
+                key = os.path.normcase(os.path.normpath(fp))
+                if key in seen:
+                    continue
+                seen.add(key)
+                on_disk += 1
+                if os.path.basename(fp).lower() not in have:
+                    candidates.append(fp)
+        new = []
+        for fp in candidates:
+            try:
+                h = hashlib.md5()
+                with open(fp, "rb") as fh:
+                    for chunk in iter(lambda: fh.read(1 << 20), b""):
+                        h.update(chunk)
+            except OSError:
+                continue
+            if h.hexdigest() not in md5s:
+                new.append(os.path.relpath(fp, REPO).replace(os.sep, "/"))
+        res = {"inventory_built": time.strftime(
+                   "%Y-%m-%d", time.localtime(os.path.getmtime(inv_path))),
+               "inventory_rows": len(rows),
+               "pdfs_on_disk": on_disk,
+               "absent_by_name": len(candidates),
+               "content_new": len(new),
+               "examples": sorted(new)[:limit]}
+    except Exception as exc:
+        res = {"error": "%s: %s" % (type(exc).__name__, exc)}
+    _DRIFT_MEMO.append(res)
+    return res
+
+
+def check_inventory_drift(actions, info):
+    """Surface - never escalate - how far the on-disk corpus outgrew the queue."""
+    d = inventory_drift()
+    if d and d.get("content_new", 0) > 0:
+        info["inventory_drift"] = d
+
+
 def check_state(state_path, actions, info, checkpoint=None):
     if not os.path.exists(state_path):
         actions.append(f"no state file at {state_path} - has a batch ever run?")
@@ -93,6 +187,14 @@ def check_state(state_path, actions, info, checkpoint=None):
             info["state_note"] = (
                 f"state file is {age / 60:.0f} min old but 0 documents remain "
                 f"({note}) - run COMPLETE, not a dead batch")
+            d = inventory_drift()
+            if d and d.get("content_new", 0) > 0:
+                info["inventory_drift"] = d
+                info["state_note"] += (
+                    f"; NOTE: the queue comes from inventory.jsonl built "
+                    f"{d['inventory_built']}, and {d['content_new']} PDFs now in "
+                    f"the corpus have content it has never seen, so COMPLETE "
+                    f"describes that list, not the corpus")
         elif remaining is None:
             info["state_note"] = note
             actions.append(f"state file is {age / 60:.0f} min old "
@@ -422,6 +524,7 @@ def main():
 
     actions, info = [], {}
     check_state(a.state, actions, info, a.checkpoint)
+    check_inventory_drift(actions, info)
     check_duplicates(a.checkpoint, actions, info)
     check_outputs(os.path.join(a.out, "corpus"), actions, info,
                   checkpoint=a.checkpoint)

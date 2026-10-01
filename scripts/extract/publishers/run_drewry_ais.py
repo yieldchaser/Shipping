@@ -163,8 +163,14 @@ def parse_drewry_pdf_with_llamaparse(pdf_path: Path) -> list:
                 manager.mark_key_exhausted(reason=str(e))
             else:
                 logger.error(f"Error parsing {pdf_path.name}: {e}")
-                if attempt == max_retries - 1:
-                    raise e
+            if attempt == max_retries - 1:
+                logger.info(f"Falling back to high-fidelity native PyMuPDF text extraction for {pdf_path.name}")
+                import pymupdf
+                doc = pymupdf.open(pdf_path)
+                pages = [{"page": i + 1, "text": p.get_text()} for i, p in enumerate(doc)]
+                cache_json.parent.mkdir(parents=True, exist_ok=True)
+                cache_json.write_text(json.dumps({"file": pdf_path.name, "pages": pages}, indent=2), encoding="utf-8")
+                return pages
 
 
 def extract_metrics_from_pages(pages: list, pdf_name: str, vessel_cat: str) -> dict:
