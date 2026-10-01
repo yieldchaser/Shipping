@@ -38,7 +38,7 @@ STATE_DIR = os.path.join(REPO, 'data', 'extracted', 'wci_backfill')
 CKPT = os.path.join(STATE_DIR, 'checkpoint.jsonl')
 STAGE = os.path.join(REPO, 'data', 'audit', 'drewry_wci_real_rows_from_wayback.csv')
 RAW_DIR = os.path.join(REPO, 'scratch', 'wci', 'raw')  # local HTML cache (gitignored)
-PARSER_VERSION = 17  # 17=TWO PARALLEL `respectively` LISTS in ONE sentence are split AT THEIR OWN MARKER: each list part maps its labels to its values positionally, so a part holding two tracked lanes no longer hands both of them that list's FIRST value (2024-12-19: "rates from Shanghai to Genoa and Rotterdam to Shanghai decreased 2% to $5,424 per feu and $508 per feu, respectively, and those from New York to Rotterdam and Shanghai to Rotterdam shrank 1% to $824 per feu and $4,819 per feu, respectively" -> rotterdam_shanghai 5424 -> 508, shanghai_rotterdam 824 -> 4819). Fires ONLY when the pool logic found nothing, fills EMPTY columns only, and bails unless every list part has as many labels (tracked or not) as values. MEASURED over all 231 cached captures: 231 parsed, 0 parser errors, exactly 4 values moved, all on the 2 snapshots of that one print; 227 pages byte-identical; 16=a LEVEL printed with NO dollar sign ("...rates from Shanghai to Los Angeles fell 3% or $224 to 7,288 per 40ft box.", 2024-07-18) is now a candidate, admitted ONLY when the level introducer ends immediately before it, a price unit follows, and it carries a thousands comma or >=4 digits. MEASURED over all 230 cached captures: 229 unchanged, exactly 1 page moved, 1 value, shanghai_la 224 -> 7288 (the level the page prints); 0 parser errors; 15=an ORIGIN printed in the sentence's OPENING lane ("Spot rates from Shanghai to major US destinations declined slightly ... with spot rates to Los Angeles and New York falling 1% to $2,214 and $2,800 per 40ft container, respectively.", 2026-02-12) now seeds the elided-origin destination list; ADDITIVE and MONOTONE, fills EMPTY lanes only, and it runs only when the sentence names no route AND ROUTE_PATTERNS matches nothing in it. MEASURED over all 230 cached captures: exactly 1 page moved, 2 values, both None -> the level printed on that page (shanghai_la 2214, shanghai_ny 2800; 230/230 pages parsed, 0 parser errors); 14=the elided-origin mention is also written as "those to <port>" (2026-03-26: "rates from Shanghai to New York jumped 3% to $3,393 ... while those to Los Angeles increased 4% to $2,686"); 13=an ELIDED-ORIGIN re-statement ("...rates from Shanghai to New York falling 6% to $2,735 ... and rates to Los Angeles reducing 4% to $2,089", 2025-11-27) fills a lane left EMPTY after the sentence's own logic - a monotone fallback that can never move or overwrite an assignment; 12=a lane list whose SECOND destination is a bare port after a conjunction ("from Shanghai to New York and Los Angeles ... $9,507 and $6,802 respectively") now ordinals BOTH lanes and derives the second lane's column from ROUTE_PATTERNS by reconstructing "<origin> to <dest>": 10 cached captures recovered a lane, 0 values changed, 220/230 pages byte-identical; 11=the LEVEL introducer also accepts a PHRASE (to touch / a new high of): 2021-05-20 now returns $9,865/$5,605, not the $889/$350 CHANGES; 10=to_rx accepts reached/reaches; 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause, 6=composite anchored on the week headline level not the YTD average (2026-09-30), 7=re-parse of every cached snapshot under 6, 8=label_rx accepts the plain HYPHEN so 2021-era "Shanghai-New York" lanes are ordinalised, 9=leading prose word trimmed off a label + to-anchored suffix pool for changes-first lane lists (2021-07-01, 2023-02-23, 2023-09-21), 10=to_rx also accepts reached/reaches (2023-09-28, 2021-07-22)
+PARSER_VERSION = 18  # 18=STABILITY GUARD: a tracked lane the page prints as 'remained stable' (no level, no '$') is no longer handed another lane's level by the respectively/ordinal logic. MEASURED 2024-12-05: shanghai_ny was set to 2,649, a level the page prints once and gives to Rotterdam-New York; the page prints NO level for Shanghai-New York; 17=TWO PARALLEL `respectively` LISTS in ONE sentence are split AT THEIR OWN MARKER: each list part maps its labels to its values positionally, so a part holding two tracked lanes no longer hands both of them that list's FIRST value (2024-12-19: "rates from Shanghai to Genoa and Rotterdam to Shanghai decreased 2% to $5,424 per feu and $508 per feu, respectively, and those from New York to Rotterdam and Shanghai to Rotterdam shrank 1% to $824 per feu and $4,819 per feu, respectively" -> rotterdam_shanghai 5424 -> 508, shanghai_rotterdam 824 -> 4819). Fires ONLY when the pool logic found nothing, fills EMPTY columns only, and bails unless every list part has as many labels (tracked or not) as values. MEASURED over all 231 cached captures: 231 parsed, 0 parser errors, exactly 4 values moved, all on the 2 snapshots of that one print; 227 pages byte-identical; 16=a LEVEL printed with NO dollar sign ("...rates from Shanghai to Los Angeles fell 3% or $224 to 7,288 per 40ft box.", 2024-07-18) is now a candidate, admitted ONLY when the level introducer ends immediately before it, a price unit follows, and it carries a thousands comma or >=4 digits. MEASURED over all 230 cached captures: 229 unchanged, exactly 1 page moved, 1 value, shanghai_la 224 -> 7288 (the level the page prints); 0 parser errors; 15=an ORIGIN printed in the sentence's OPENING lane ("Spot rates from Shanghai to major US destinations declined slightly ... with spot rates to Los Angeles and New York falling 1% to $2,214 and $2,800 per 40ft container, respectively.", 2026-02-12) now seeds the elided-origin destination list; ADDITIVE and MONOTONE, fills EMPTY lanes only, and it runs only when the sentence names no route AND ROUTE_PATTERNS matches nothing in it. MEASURED over all 230 cached captures: exactly 1 page moved, 2 values, both None -> the level printed on that page (shanghai_la 2214, shanghai_ny 2800; 230/230 pages parsed, 0 parser errors); 14=the elided-origin mention is also written as "those to <port>" (2026-03-26: "rates from Shanghai to New York jumped 3% to $3,393 ... while those to Los Angeles increased 4% to $2,686"); 13=an ELIDED-ORIGIN re-statement ("...rates from Shanghai to New York falling 6% to $2,735 ... and rates to Los Angeles reducing 4% to $2,089", 2025-11-27) fills a lane left EMPTY after the sentence's own logic - a monotone fallback that can never move or overwrite an assignment; 12=a lane list whose SECOND destination is a bare port after a conjunction ("from Shanghai to New York and Los Angeles ... $9,507 and $6,802 respectively") now ordinals BOTH lanes and derives the second lane's column from ROUTE_PATTERNS by reconstructing "<origin> to <dest>": 10 cached captures recovered a lane, 0 values changed, 220/230 pages byte-identical; 11=the LEVEL introducer also accepts a PHRASE (to touch / a new high of): 2021-05-20 now returns $9,865/$5,605, not the $889/$350 CHANGES; 10=to_rx accepts reached/reaches; 1=per-line, 2=per-sentence, 3=ordinal over untracked lanes, 4=clause scope + or/at/reach introducers, 5=dash lane lists + level in next clause, 6=composite anchored on the week headline level not the YTD average (2026-09-30), 7=re-parse of every cached snapshot under 6, 8=label_rx accepts the plain HYPHEN so 2021-era "Shanghai-New York" lanes are ordinalised, 9=leading prose word trimmed off a label + to-anchored suffix pool for changes-first lane lists (2021-07-01, 2023-02-23, 2023-09-21), 10=to_rx also accepts reached/reaches (2023-09-28, 2021-07-22)
 # The oldest print this parser's prose shapes have been TRIAL-VERIFIED against.
 # Moved 2023-01-01 -> 2021-01-01 on 2026-09-30 (docs/drewry_wci_era2021_verdict.md):
 # every gate-passing 2021-2022 print was read lane-by-lane against its own cached
@@ -82,6 +82,47 @@ def one_per_week(rows):
         if key not in best or ts < best[key][0]:
             best[key] = (ts, orig)
     return sorted(best.values())
+
+
+def candidates(rows):
+    """Snapshots to take: the earliest capture of each ISO week (as before) PLUS,
+    per week, the earliest capture that comes AFTER that week's own Thursday
+    12:00 - the capture that actually carries that Thursday's assessment.
+
+    MEASURED 2026-10-01 (docs/drewry_wci_postthursday_verdict.md): the WCI print
+    is published ON Thursday, so a week's earliest capture (often Mon-Wed) prints
+    the PREVIOUS week's assessment and `one_per_week` therefore kept the wrong
+    week's print while the week's own print was NEVER TAKEN, although the archive
+    holds it. Seen by eye on 2022-W02: 20220112103127 prints "assessment for
+    Thursday, 6 January 2022"; 20220114134343 prints "Thursday, 13 January 2022".
+    The extra candidate is at most ONE per ISO week, so the list stays bounded
+    (two per week).
+    """
+    base = one_per_week(rows)
+    have = set(t for t, _ in base)
+    orig_of = {ts: orig for ts, orig in rows}
+    extra = {}
+    for ts in orig_of:
+        try:
+            d = dt.datetime.strptime(ts[:14], '%Y%m%d%H%M%S')
+        except ValueError:
+            continue
+        y, w, _ = d.date().isocalendar()
+        try:
+            thu = dt.datetime.combine(dt.date.fromisocalendar(y, w, 4), dt.time(12, 0))
+        except ValueError:
+            continue
+        if not (thu < d <= thu + dt.timedelta(days=7)):
+            continue                 # not a post-Thursday capture of this week
+        if ts in have:
+            continue
+        k = thu.date().isoformat()
+        if k not in extra or ts < extra[k][0]:
+            extra[k] = (ts, orig_of[ts])
+    out = {ts: orig for ts, orig in base}
+    for k, (ts, orig) in extra.items():
+        out[ts] = orig
+    return sorted(out.items())
 
 
 def load_done():
@@ -152,7 +193,7 @@ def fetch_html(ts, orig, sleep_s=1.0, attempts=4):
 
 def do_fetch(sleep_s=1.0, refresh=False, limit=None):
     os.makedirs(STATE_DIR, exist_ok=True)
-    snaps = one_per_week(load_cdx())
+    snaps = candidates(load_cdx())
     done = load_done()
     latest = latest_by_ts()
     if refresh:

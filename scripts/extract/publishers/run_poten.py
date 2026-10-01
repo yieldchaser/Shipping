@@ -520,7 +520,7 @@ def process_pdf(pdf_path: Path, used_slugs: dict[str, int]) -> tuple[dict, str, 
 
         base_slug = slugify(title)
         slug_key = f"{year}_{issue_date}_{base_slug}"
-        used_slugs[slug_key] += 1
+        used_slugs[slug_key] = used_slugs.get(slug_key, 0) + 1
         slug = base_slug if used_slugs[slug_key] == 1 else f"{base_slug}-{used_slugs[slug_key]}"
 
         md_rel_path = f"data/extracted/md/poten/{year}/poten_{issue_date}_{slug}.md"

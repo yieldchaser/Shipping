@@ -400,6 +400,7 @@ def extract_desk_commentary(doc: pymupdf.Document) -> Dict[str, str]:
 
 def process_banchero_costa_report(pdf_path: Path) -> Dict[str, Any]:
     """Process a single Banchero Costa PDF report."""
+    pdf_path = Path(pdf_path).resolve()
     stem = pdf_path.stem
     rel_path = str(pdf_path.relative_to(ROOT)).replace("\\", "/")
 

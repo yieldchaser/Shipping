@@ -589,6 +589,47 @@ def extract_assessments(html_text):
                 if c not in values:
                     values[c] = val
 
+    # ==============================================================
+    # pv18 STABILITY GUARD. A tracked lane the publisher prints as "remained
+    # stable" (no level, no "$") must not be handed ANOTHER lane's level by the
+    # respectively/ordinal logic.
+    # MEASURED 2024-12-05: "...rates from Rotterdam to Shanghai and Rotterdam to
+    # New York reduced 1% to $514 and $2,649 per feu, respectively whereas those
+    # from Los Angeles to Shanghai and Shanghai to New York remained stable."
+    # shanghai_ny was assigned 2,649 - a level the page prints ONCE and gives to
+    # Rotterdam-New York. The page prints NO level for Shanghai-New York.
+    # It fires only when EVERY mention of that lane on the page is a stability
+    # mention with no "$" in its own clause, so "remained stable at $6,818"
+    # (a real print) is untouched.
+    # ==============================================================
+    STABLE_RX = re.compile(
+        r"remain(?:s|ed)?\s+(?:stable|steady|unchanged|flat)"
+        r"|hover(?:s|ed)?\s+around"
+        r"|held\s+steady"
+        r"|were\s+unchanged"
+        r"|no\s+change"
+        r"|at\s+the\s+previous\s+week'?s?\s+level",
+        re.I,
+    )
+    stability_cleared = []
+    for _pat, _col in ROUTE_PATTERNS:
+        if _col not in values or values[_col] is None:
+            continue
+        _mentions = list(re.finditer(_pat, flat_text, re.I))
+        if not _mentions:
+            continue
+        _quiet = True
+        for _m in _mentions:
+            _win = flat_text[_m.end():_m.end() + 160]
+            _cut = _win.find('.')
+            _win = _win if _cut < 0 else _win[:_cut]
+            if ('$' in _win) or not STABLE_RX.search(_win):
+                _quiet = False
+                break
+        if _quiet:
+            stability_cleared.append((_col, values[_col]))
+            values[_col] = None
+
     # As-of date on the page
     page_date = None
     dm = re.search(
