@@ -1854,3 +1854,168 @@ has reached delivered data.
 2. Still pending from previous runs: rebuild the derived DB
    (python3 scripts/extract/build_table_db.py --out data/extracted then
    python3 scripts/extract/check_measured_rules.py).
+## 2026-10-02 20:30 UTC (2026-10-03 02:00 IST) - deep review: the carriers series carried 253 duplicate rows from three byte-identical PDF pairs (FIXED); lion's delivered demometer is stale by exactly 24 rows; two more duplicate classes quantified
+
+### What I measured first (the whole picture, not a chosen subset)
+
+verify_extraction.py: run COMPLETE (7,676 planned / 7,816 recorded, 0 remaining), golden 15/15,
+78 not-a-pdf quarantines (expected), inventory_drift 352 PDFs by filename (informational). No
+run_batch / batch_worker process on the box; checkpoint unchanged at 7,816 lines. Disk 16.0 GB free.
+
+A duplicate-key census over ALL 170 files in data/extracted/series/ (key = every column except
+`source_file`; where that column is absent, the whole row) found **841 duplicate-key rows across 24
+series**. Largest first:
+
+| series | rows | dupRows |
+|---|---|---|
+| baltic_ncfi_series.csv | 2,180 | 148 |
+| hellenic_vv_matrix_series.csv | 12,340 | 132 |
+| carriers_dry_tc_period_series.csv | 3,216 | 72 |
+| carriers_sales_series.csv | 3,130 | 69 |
+| lion_deals_series.csv | 1,314 | 64 |
+| hellenic_vv_sales_series.csv | 2,122 | 60 |
+| lion_sales_series.csv | 1,200 | 55 |
+| carriers_indices_series.csv | 1,876 | 42 |
+| bancosta_sales_series.csv | 3,244 | 24 |
+| lion_demometer_series.csv | 576 | 24 |
+| ... 14 more, each under 25 | | |
+
+Frame, stated before any conclusion: **none of these series is read by the app.** index.html,
+data/views/** and data/derived/** contain zero references to carriers_*, lion_*, hellenic_vv*,
+baltic_ncfi or agora_indicators. data/extracted/series/** is consumed by the register, the cadence
+audits and downstream series builds. So this class inflates counts that are published in
+docs/EXTRACTION_REGISTER.md and any derived series (the register lists carriers_sales at 3,004 rows
+where the file holds 3,130, 69 of them duplicates). It does not corrupt a displayed number. That is a
+reason to fix it, not a reason to call it a false alarm.
+
+### Finding 1 (FIXED): carriers - a filename is not an identity
+
+data/extracted/series/carriers_*_series.csv carried 253 duplicate-key rows, from exactly **three
+byte-identical PDF pairs**, proven by md5 rather than inferred:
+
+    md5 c0ca7320cdb269874e30c7b8869a65bf
+      carriers_2026_W35_WK-35-26-CARRIERS_SP-MARKET-REPORT.pdf
+      15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf   <- name says week 37
+    carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf  vs  ....pdf.pdf
+    carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf  vs
+      general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
+
+Each pair emitted identical rows under the same issue, e.g. ('2026-09-01','35','CAPE 180k','SHORT',
+'37500.0') once from carriers_2026_W35_... and once from 15_09_2026_..._week_37 (2).pdf. run()
+rglobs every PDF under corpus/01-brokers/carriers and parses each; nothing stopped a copy
+re-emitting the same series rows. The (2) file is the Week 35 report - extract_metadata()'s existing
+"page wins" rule already dates it 2026-09-01 / week 35 - so both copies land in the same series for
+the same issue.
+
+Fix: commit 57d064c09, branch auto/extract-fixes-2026-10-03-carriers, one file
+(scripts/extract/publishers/run_carriers_complete.py, 21 insertions, code only) - the same two-rule
+guard already shipped for hellenic / fearnleys / star_asia. A byte-identical copy is suppressed ONLY
+when it resolves to the same (issue_date, report_week), i.e. it would be routed to the same series
+for the same issue. Content alone is not enough, and a name is not an identity.
+
+Evidence: a harness imports the patched module with its write roots redirected to
+data/extracted/scratch_review/deep_20261003/ (the corpus and the delivered files are never opened
+for writing).
+
+| series | delivered | before-run | after-run | removed |
+|---|---|---|---|---|
+| carriers_sales | 3,130 | 3,130 | 3,061 | 69 |
+| carriers_dry_tc_period | 3,216 | 3,216 | 3,144 | 72 |
+| carriers_indices | 1,876 | 1,876 | 1,834 | 42 |
+| carriers_tanker_tce | 804 | 804 | 786 | 18 |
+| carriers_bspa | 749 | 749 | 731 | 18 |
+| carriers_dry_weighted_routes | 670 | 670 | 655 | 15 |
+| carriers_bda | 375 | 375 | 366 | 9 |
+| carriers_newbuilding | 312 | 312 | 306 | 6 |
+| carriers_demolition | 178 | 178 | 174 | 4 |
+| **duplicate keys** | **253** | **253** | **0** | |
+
+The before-run reproduces the delivered files EXACTLY (multiset-identical across all nine series), so
+the sandbox is a faithful stand-in. Control: every removed row still has an identical row (all fields
+except source_file) in the after file; no key fully lost; 0 rows added; three SKIP lines, one per
+pair. Golden gate after the change: scripts/analysis/golden_matrix.py unchanged - Star Asia
+plumber-text 15/15, pymupdf-text 15/15, camelot-stream 13/15, lattice 2/15.
+
+### Finding 2 (NOT a live bug): lion's delivered demometer is stale by exactly 24 rows
+
+lion_demometer_series.csv (Sep 29 22:27) holds 576 rows over 46 issue dates, with 2026-09-11 and
+2026-09-18 at 24 rows where every other issue holds 12. Running the CURRENT run_lion_tables.py in a
+sandbox produces 552 rows over the SAME 46 dates, differing at exactly two:
+
+    dates where counts differ: {'2026-09-11': (24, 12), '2026-09-18': (24, 12)}
+
+The delivered source_file column shows 31 rows from the W37 PDF and 31 from the W37 digest .md, so
+those two issues were each parsed twice when the file was written. The current code no longer adds
+them: the digest names it looks for (lion_12_09_2026_lion_weekly_market_report_week_37_2026.md) do
+not match the ones on disk (lion_shipbrokers_12_09_2026_...). Nothing broken to fix, so no code
+change - the delivered file is simply stale and regeneration is a human decision.
+
+### Finding 3 (human decision): hellenic VesselsValue - download date used as issue_date, and two issues saved 3x and 5x
+
+Same census: hellenic_vv_sales 60 dupRows, hellenic_vv_benchmark_sales 22, hellenic_vv_matrix 132
+(214 total). Both runners derive the issue date the same way - the DOWNLOAD-date filename prefix:
+
+    m_date = re.match(r"^(\d{4}-\d{2}-\d{2})", fname)
+    issue_date = m_date.group(1)
+
+Measured over the 261 VV HTML files: the prefix equals the page's own title date for 183 files and
+differs for 78 (69 by +1 day, 8 by +2, 1 by -10). The page carries the report masthead date; the
+prefix is the scrape day:
+
+    file 2026-02-11_...-report-february-10-2026.html  title "February 10 2026"  -> series says 2026-02-11
+
+Separately, exactly TWO issue dates are over-copied and they explain all 214 duplicate rows:
+
+    2026-02-19 <- 3 files (slugs feb-03 / feb-10 / feb-17)   all titled "February 17 2026"
+    2026-04-01 <- 5 files (slugs feb-17 / feb-24 / mar-03 / mar-24 / mar-31)  all titled "March 31 2026"
+
+Diffing the three February files: the URL-stripped text is byte-identical (2,437 chars each); the only
+difference is the canonical permalink. One report saved under three slugs, parsed three times -
+"2026-02-19: 36 rows from 3 files" where a single issue yields 12.
+
+Not changed. The dedup half is straightforward, but the date half re-dates roughly 30% of the issue
+dates in three delivered series (2,122 + 12,340 + 141 rows), and the two defects are entangled:
+deduping without the date change leaves two issues dated on their download day; changing the date
+without deduping leaves the copies colliding on the corrected date. That combination is a data
+regeneration - explicitly a human decision.
+
+### Deliberately NOT changed, and why
+
+* The delivered CSVs were not regenerated. Writing data/extracted/series/** is outside this job's
+  write scope; the carriers fix takes effect for documents processed after it.
+* hellenic VV (Finding 3) - see above.
+* baltic_ncfi 148 dupRows (two Wayback captures of the same Ningbo page contributing rows for one
+  date - an HTML-pass issue, not a PDF one); lion_deals 64 / lion_sales 55; bancosta 44;
+  star_asia_valuation_matrix 13; hellenic_iron_ore_table 10. Each needs its own diagnosis; I measured
+  the size, not the cause, and will not guess at it.
+* run_lion_tables.py was exercised only in a sandbox; no lion code was touched.
+* scripts/analysis/golden_matrix.json was modified by running the golden check and restored with
+  `git checkout --`, so the working tree carries no out-of-scope edit.
+* Another agent is checked out on auto/extract-fixes-2026-10-03-intermodal-finance (2 commits: agora
+  and intermodal-finance dedup). I branched from that HEAD rather than switching branches under it
+  and committed only my one file - their commits are carried along untouched. No push, no merge.
+
+### HUMAN DECISIONS
+
+1. Regenerate the nine carriers series so the 253 removed rows leave the delivered files:
+
+       python3 scripts/extract/publishers/run_carriers_complete.py
+
+   Expected: sales 3,130 -> 3,061, dry_tc_period 3,216 -> 3,144, indices 1,876 -> 1,834,
+   tanker_tce 804 -> 786, bspa 749 -> 731, dry_weighted_routes 670 -> 655, bda 375 -> 366,
+   newbuilding 312 -> 306, demolition 178 -> 174; no issue date added or lost (verified offline).
+
+2. Regenerate lion's series - the delivered files are stale by 24 demometer rows (the deal series
+   also differ from a fresh run):
+
+       python3 scripts/extract/publishers/run_lion_tables.py
+
+3. Decide the hellenic VV date convention. If the page's own report date is wanted over the download
+   date, the change is one expression in each of run_hellenic_vessel_valuations.py and
+   run_hellenic_vv_matrix.py, plus a per-issue dedup so the 3x/5x copies collapse; 78 of 261 files
+   and 214 duplicate rows are affected.
+
+4. Still pending from earlier runs: the Athenian demolition series regeneration
+   (python3 scripts/extract/publishers/run_hellenic_demolition.py) and the derived DB rebuild
+   (python3 scripts/extract/build_table_db.py --out data/extracted then
+   python3 scripts/extract/check_measured_rules.py).
