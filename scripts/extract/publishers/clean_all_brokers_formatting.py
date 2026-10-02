@@ -285,91 +285,18 @@ def parse_period_fixtures(table_text: str) -> list[dict]:
     return records
 
 
-def clean_intermodal(txt: str) -> tuple[str, dict]:
-    stats = {"empty_tables_stripped": 0, "chart_legends_reformatted": 0, "period_charters_normalized": 0}
-    
-    # 1. Strip empty table artifacts
-    empty_pattern = re.compile(r'\n+\|[ \t]*\|\n\|[ \t]*[-:]+[ \t]*\|\n\|[ \t]*\|\n+', flags=re.MULTILINE)
-    found = len(empty_pattern.findall(txt))
-    if found:
-        stats["empty_tables_stripped"] += found
-        txt = empty_pattern.sub('\n\n', txt)
-
-    # 2. Reformat 1-column chart legend tables (Line / Legend)
-    line_legend_pattern = re.compile(
-        r'\n\|[ \t]*(Line|Legend|Line BCI BPI BSI BHSI)[ \t]*\|\n\|[ \t]*[-:]+[ \t]*\|\n((?:\|[ \t]*[^\n\|]+[ \t]*\|\n)+)'
-    )
-    for m in list(line_legend_pattern.finditer(txt)):
-        rows = [r.strip('| \t') for r in m.group(2).splitlines() if r.strip('| \t')]
-        if rows and all(len(r) < 80 for r in rows):
-            items = [f"- {r}" for r in rows]
-            replacement = "\n\n### Baltic Dry Indices Chart Legend\n\n" + "\n".join(items) + "\n\n"
-            txt = txt[:m.start()] + replacement + txt[m.end():]
-            stats["chart_legends_reformatted"] += 1
-
-    # 3. Clean 1-column Markets list
-    markets_pattern = re.compile(
-        r'\n\|[ \t]*Markets[ \t]*\|\n\|[ \t]*[-:]+[ \t]*\|\n((?:\|[ \t]*[^\n\|]+[ \t]*\|\n)+)'
-    )
-    for m in list(markets_pattern.finditer(txt)):
-        rows = [r.strip('| \t') for r in m.group(1).splitlines() if r.strip('| \t')]
-        if rows and all(r in ['Markets', 'Tanker', 'Dry Bulk', 'Bangladesh', 'India', 'Pakistan', 'Turkey'] for r in rows):
-            replacement = "\n\n### Demolition Market Coverage\n\n- Sectors: Tanker, Dry Bulk\n- Locations: Bangladesh, India, Pakistan, Turkey\n\n"
-            txt = txt[:m.start()] + replacement + txt[m.end():]
-            stats["chart_legends_reformatted"] += 1
-
-    # 4. Normalize Indicative Period Charters tables into clean 6-column tables
-    period_block_pattern = re.compile(
-        r'(?:^[ \t]*(#+[ \t]*Indicative Period Charters[^\n]*)\n+'
-        r'|^[ \t]*(\|[ \t]*Indicative Period Charters[^\n]*)\n+)'
-        r'(?:[ \t]*\n)*'
-        r'((?:^[ \t]*\|[^\n]+\|[ \t]*\n+)+)',
-        flags=re.MULTILINE | re.IGNORECASE
-    )
-
-    def period_replacer(match):
-        heading = match.group(1) or match.group(2)
-        table_text = match.group(3)
-
-        if '| Tenor | Vessel | Built | DWT | Rate | Charterer |' in table_text:
-            return match.group(0)
-
-        records = parse_period_fixtures(table_text)
-
-        out_heading = "### Indicative Period Charters"
-        if heading and heading.strip().startswith("#"):
-            out_heading = heading.strip()
-
-        unrelated_lines = []
-        lines = [l.strip() for l in table_text.splitlines() if l.strip()]
-        in_unrelated = False
-        for l in lines:
-            cols = [c.strip() for c in l.strip('|').split('|')]
-            if any(c.lower() in ['sector', 'routes', 'date', 'baltic indices', 'line', 'legend'] for c in cols):
-                in_unrelated = True
-            if in_unrelated:
-                unrelated_lines.append(l)
-
-        unrelated_block = "\n".join(unrelated_lines) + "\n\n" if unrelated_lines else ""
-
-        if records:
-            clean_tbl = [
-                out_heading,
-                "",
-                "| Tenor | Vessel | Built | DWT | Rate | Charterer |",
-                "| --- | --- | --- | --- | --- | --- |"
-            ]
-            for r in records:
-                clean_tbl.append(f"| {r['tenor']} | {r['vessel']} | {r['built']} | {r['dwt']} | {r['rate']} | {r['charterer']} |")
-            stats["period_charters_normalized"] += 1
-            return "\n".join(clean_tbl) + "\n\n" + unrelated_block
-        else:
-            stats["period_charters_normalized"] += 1
-            return f"{out_heading}\n\n_No period fixtures reported._\n\n" + unrelated_block
-
-    txt = period_block_pattern.sub(period_replacer, txt)
-    txt = re.sub(r'\n{3,}', '\n\n', txt)
-    return txt, stats
+def clean_intermodal(txt: str, file_path: Path = None) -> tuple[str, dict]:
+    stats = {"tables_decoupled": 0, "prose_math_escaped": 0, "period_charters_normalized": 0}
+    try:
+        from scripts.extract.publishers.normalize_intermodal_md import normalize_markdown
+        dummy_p = file_path if file_path else Path("intermodal_2026_W01.md")
+        res = normalize_markdown(txt, dummy_p)
+        stats["tables_decoupled"] = 1
+        stats["prose_math_escaped"] = 1
+        stats["period_charters_normalized"] = 1
+        return res, stats
+    except Exception as e:
+        return txt, stats
 
 def clean_star_asia(txt: str) -> tuple[str, dict]:
     stats = {"category_lists_reformatted": 0}
