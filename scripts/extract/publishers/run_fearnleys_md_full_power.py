@@ -558,7 +558,7 @@ def run_fearnleys_md_pipeline():
     )
 
     try:
-        from extract.publishers.export_fearnleys_md_excel import export_master_excel
+        from scripts.extract.publishers.export_fearnleys_md_excel import export_master_excel
         export_master_excel()
     except Exception as e:
         print(f"Warning: Could not export master Excel: {e}", flush=True)

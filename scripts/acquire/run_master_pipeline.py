@@ -90,6 +90,10 @@ def main():
     # F. Seabrokers Offshore Intelligence
     run_cmd([sys.executable, "scripts/scrapers/fetch_seabrokers_reports.py", "--download", "--limit", "3"], "Poll Seabrokers Offshore Reports")
 
+    # G. Fearnleys Bespoke Hasura Intelligence & Custom Reports
+    run_cmd([sys.executable, "scripts/fearnleys/daily_fearnleys_sync.py"], "Sync Fearnleys Hasura Delta & Publications")
+    run_cmd([sys.executable, "scripts/acquire/cache_fearnleys_report_images.py", "--download-pdfs"], "Cache Fearnleys Research Images & Compiled PDFs")
+
     # 3. Incremental Specialized Ingestion
     print("\n--- STAGE 3: Incremental Ingestion & Structured Markdown Parsing ---")
     # A. Multi-Broker PDF Ingestion & Specialized Routing
@@ -111,6 +115,7 @@ def main():
     print("\n--- STAGE 4: Proprietary Vector Chart Extraction & Series Stacking ---")
     run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_ais_charts.py"], "Stack Drewry AIS Vector Curves")
     run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_ais.py"], "Extract Drewry AIS Metrics & Markdown")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_fearnleys_md_full_power.py"], "Extract Fearnleys-MD Structured Time Series & Econometric Indicators")
     run_cmd([sys.executable, "scripts/extract/publishers/export_fearnleys_md_excel.py"], "Refresh Fearnleys 26 Econometric Models")
 
     # Sync clean markdown to _digests

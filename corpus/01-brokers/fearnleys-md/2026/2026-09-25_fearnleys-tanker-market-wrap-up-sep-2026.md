@@ -7,12 +7,13 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "0be848a1-a006-4a49-b2d4-c406e1fe4d29"
 images_count: 22
+local_pdf: "../pdfs/2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Sep 2026
 
 **Date:** 2026-09-25 | **Department:** TANK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/report.pdf)  
+**Original PDF:** [Local PDF](../pdfs/2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/report.pdf)  
 
 ---
 

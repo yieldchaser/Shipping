@@ -3,19 +3,19 @@
 This directory contains Fearnleys's proprietary weekly research publications and sector wrap-ups harvested directly from Fearnleys's Hasura API (`custom_report`).
 
 ## Summary Statistics
-- **Total Research Reports:** 179
-- **Total Indicator & Correlation Charts:** 2893
-- **Date Coverage:** 2024-03-25 to 2026-09-25
+- **Total Research Reports:** 182
+- **Total Indicator & Correlation Charts:** 2964
+- **Date Coverage:** 2024-03-25 to 2026-10-02
 
 ### Reports by Year
 - **2024:** 47 reports
 - **2025:** 74 reports
-- **2026:** 58 reports
+- **2026:** 61 reports
 
 ### Reports by Department
-- **BULK:** 120 reports
+- **BULK:** 122 reports
 - **GENERAL:** 2 reports
-- **LNG:** 22 reports
+- **LNG:** 23 reports
 - **LPG:** 9 reports
 - **TANK:** 26 reports
 
@@ -25,7 +25,10 @@ This directory contains Fearnleys's proprietary weekly research publications and
 
 | Date | Department | Title | Charts | Markdown | PDF |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| 2026-09-25 | TANK | Fearnleys Tanker Market Wrap-up Sep 2026 | 22 | [2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.md](2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.md) | [Cloud](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/report.pdf) |
+| 2026-10-02 | LNG | LNG Shipping - Quarterly Report Q3 2026 | 26 | [2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.md](2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.md) | [PDF](pdfs/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.pdf) |
+| 2026-09-30 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md](2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md) | [PDF](pdfs/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.pdf) |
+| 2026-09-30 | BULK | Fearnleys Dry Bulk Market Outlook | 23 | [2026/2026-09-30_fearnleys-dry-bulk-market-outlook-august-2026-6.md](2026/2026-09-30_fearnleys-dry-bulk-market-outlook-august-2026-6.md) | [PDF](pdfs/2026/2026-09-30_fearnleys-dry-bulk-market-outlook-august-2026-6.pdf) |
+| 2026-09-25 | TANK | Fearnleys Tanker Market Wrap-up Sep 2026 | 22 | [2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.md](2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.md) | [PDF](pdfs/2026/2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.pdf) |
 | 2026-09-24 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md](2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md) | [PDF](pdfs/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.pdf) |
 | 2026-09-16 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md](2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md) | [PDF](pdfs/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.pdf) |
 | 2026-09-09 | BULK | Fearnleys Dry Bulk Weekly | 16 | [2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md](2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md) | [PDF](pdfs/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.pdf) |
