@@ -155,8 +155,138 @@ def clean_banchero(txt: str) -> tuple[str, dict]:
     txt = re.sub(r'\n{3,}', '\n\n', txt)
     return txt, stats
 
+TENOR_PAT = re.compile(
+    r'\b(?:\d+(?:\s*(?:to|/|-)\s*\d+)?\s*(?:mos|mons?|months?|yrs?|years?|weeks?)|'
+    r'min\s+\d+[^/\n]+/max\s+\d+[^/\n]+)\b',
+    re.IGNORECASE
+)
+
+def parse_period_fixtures(table_text: str) -> list[dict]:
+    lines = [l.strip() for l in table_text.splitlines() if l.strip()]
+    table_lines = []
+    for l in lines:
+        if not (l.startswith('|') and l.endswith('|')):
+            continue
+        cols = [c.strip() for c in l.strip('|').split('|')]
+        # Stop if we hit another table header
+        if any(c.lower() in ['sector', 'routes', 'date', 'baltic indices', 'line', 'legend'] for c in cols):
+            break
+        # Skip pure separator lines (| --- | --- |)
+        if re.match(r'^\|[\s:\-\|]+\|$', l):
+            continue
+        table_lines.append(l)
+
+    records = []
+    i = 0
+    while i < len(table_lines):
+        line = table_lines[i]
+        cols = [c.strip() for c in line.strip('|').split('|')]
+        
+        # Skip header rows
+        if all('indicative' in c.lower() or 'charter' in c.lower() for c in cols if c):
+            i += 1
+            continue
+        if any(c.lower() in ['tenor', 'vessel', 'built', 'dwt', 'rate', 'charterer'] for c in cols):
+            i += 1
+            continue
+
+        c0 = cols[0]
+        if not c0 and len(cols) > 1:
+            cols = cols[1:]
+            c0 = cols[0]
+
+        # Check for embedded fixtures in header row (e.g. 2023 W13)
+        if any(re.search(r'\b\d+\s*-\s*\d+\s*mos\b', c, re.IGNORECASE) for c in cols):
+            for c in cols:
+                m_t = TENOR_PAT.search(c)
+                if m_t:
+                    records.append({
+                        "tenor": m_t.group(0),
+                        "vessel": c.replace(m_t.group(0), "").strip(),
+                        "built": "",
+                        "dwt": "",
+                        "rate": "",
+                        "charterer": ""
+                    })
+            i += 1
+            continue
+
+        m_tenor = TENOR_PAT.search(c0)
+        if m_tenor:
+            tenor = m_tenor.group(0)
+            
+            # Look at next line if it is a continuation
+            next_cols = []
+            if i + 1 < len(table_lines):
+                cand_cols = [c.strip() for c in table_lines[i+1].strip('|').split('|')]
+                cand_c0 = cand_cols[0] if cand_cols else ''
+                if not cand_c0 and len(cand_cols) > 1:
+                    cand_c0 = cand_cols[1]
+                
+                is_delivery = any(cand_c0.lower().startswith(p) for p in ['dely', 'del ', 'redel', 'delivery'])
+                has_cand_tenor = bool(TENOR_PAT.search(cand_c0)) and not is_delivery
+                is_cand_header = any(c.lower() in ['sector', 'routes', 'date', 'baltic indices', 'line', 'legend'] for c in cand_cols)
+                
+                if not has_cand_tenor and not is_cand_header:
+                    next_cols = cand_cols
+                    i += 1
+
+            vessel = cols[1] if len(cols) > 1 else ""
+            built = cols[2] if len(cols) > 2 else ""
+            dwt = cols[3] if len(cols) > 3 else ""
+            rate = ""
+            charterer = ""
+
+            # Check next line for rate / charterer
+            if next_cols:
+                for c in next_cols:
+                    if not c:
+                        continue
+                    if '$' in c or '/day' in c or 'index linked' in c.lower():
+                        rate = c
+                    elif not charterer:
+                        charterer = c
+
+            # Check if rate is glued in vessel
+            m_rate = re.search(r'(\$\s*[\d,]+(?:\s*k)?(?:\s*/\s*day)?|[\d,]+\s*/\s*day)', vessel, re.IGNORECASE)
+            if m_rate:
+                if not rate:
+                    rate = m_rate.group(1).replace(' ', '')
+                vessel = vessel[:m_rate.start()].strip(' "')
+
+            # Check if rate is glued in dwt
+            m_dwt_rate = re.search(r'(\$\s*[\d,]+(?:\s*k)?(?:\s*/\s*day)?|[\d,]+\s*/\s*day)', dwt, re.IGNORECASE)
+            if m_dwt_rate:
+                if not rate:
+                    rate = m_dwt_rate.group(1).replace(' ', '')
+                dwt = dwt[:m_dwt_rate.start()].strip()
+
+            # Check if charterer is glued in dwt
+            m_dwt = re.search(r'^([\d,.]+\s*(?:dw\s*t|dwt))\s*(.*)$', dwt, re.IGNORECASE)
+            if m_dwt:
+                dwt = m_dwt.group(1).strip()
+                rem = m_dwt.group(2).strip()
+                if rem and not charterer:
+                    charterer = rem
+
+            records.append({
+                "tenor": tenor.strip(),
+                "vessel": vessel.strip(' "'),
+                "built": built.strip(),
+                "dwt": dwt.strip(),
+                "rate": rate.strip(),
+                "charterer": charterer.strip()
+            })
+            i += 1
+            continue
+
+        i += 1
+
+    return records
+
+
 def clean_intermodal(txt: str) -> tuple[str, dict]:
-    stats = {"empty_tables_stripped": 0, "chart_legends_reformatted": 0}
+    stats = {"empty_tables_stripped": 0, "chart_legends_reformatted": 0, "period_charters_normalized": 0}
     
     # 1. Strip empty table artifacts
     empty_pattern = re.compile(r'\n+\|[ \t]*\|\n\|[ \t]*[-:]+[ \t]*\|\n\|[ \t]*\|\n+', flags=re.MULTILINE)
@@ -188,6 +318,56 @@ def clean_intermodal(txt: str) -> tuple[str, dict]:
             txt = txt[:m.start()] + replacement + txt[m.end():]
             stats["chart_legends_reformatted"] += 1
 
+    # 4. Normalize Indicative Period Charters tables into clean 6-column tables
+    period_block_pattern = re.compile(
+        r'(?:^[ \t]*(#+[ \t]*Indicative Period Charters[^\n]*)\n+'
+        r'|^[ \t]*(\|[ \t]*Indicative Period Charters[^\n]*)\n+)'
+        r'(?:[ \t]*\n)*'
+        r'((?:^[ \t]*\|[^\n]+\|[ \t]*\n+)+)',
+        flags=re.MULTILINE | re.IGNORECASE
+    )
+
+    def period_replacer(match):
+        heading = match.group(1) or match.group(2)
+        table_text = match.group(3)
+
+        if '| Tenor | Vessel | Built | DWT | Rate | Charterer |' in table_text:
+            return match.group(0)
+
+        records = parse_period_fixtures(table_text)
+
+        out_heading = "### Indicative Period Charters"
+        if heading and heading.strip().startswith("#"):
+            out_heading = heading.strip()
+
+        unrelated_lines = []
+        lines = [l.strip() for l in table_text.splitlines() if l.strip()]
+        in_unrelated = False
+        for l in lines:
+            cols = [c.strip() for c in l.strip('|').split('|')]
+            if any(c.lower() in ['sector', 'routes', 'date', 'baltic indices', 'line', 'legend'] for c in cols):
+                in_unrelated = True
+            if in_unrelated:
+                unrelated_lines.append(l)
+
+        unrelated_block = "\n".join(unrelated_lines) + "\n\n" if unrelated_lines else ""
+
+        if records:
+            clean_tbl = [
+                out_heading,
+                "",
+                "| Tenor | Vessel | Built | DWT | Rate | Charterer |",
+                "| --- | --- | --- | --- | --- | --- |"
+            ]
+            for r in records:
+                clean_tbl.append(f"| {r['tenor']} | {r['vessel']} | {r['built']} | {r['dwt']} | {r['rate']} | {r['charterer']} |")
+            stats["period_charters_normalized"] += 1
+            return "\n".join(clean_tbl) + "\n\n" + unrelated_block
+        else:
+            stats["period_charters_normalized"] += 1
+            return f"{out_heading}\n\n_No period fixtures reported._\n\n" + unrelated_block
+
+    txt = period_block_pattern.sub(period_replacer, txt)
     txt = re.sub(r'\n{3,}', '\n\n', txt)
     return txt, stats
 
