@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-06-02_officer-shortfall-to-reach-decade-high-by-2026.md"
-word_count: 454
+word_count: 453
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,8 +24,6 @@ The current officer supply shortfall is estimated to equate to around 3% of the 
 However, looking ahead to 2026 the supply / demand gap is expected to widen to a deficit equating to over 5% of the global officer pool and the highest level since 2013. The principal reason for this is the slowdown in officer supply as the attractiveness of a career at sea is diminishing. In the five years to 2016 the supply of seafarers available to crew the global merchant fleet was growing at an average annual rate of 2.7%, according to Drewry estimates. However, over the last five years this growth rate has shrunk to just 0.5% annually (see chart).
 
 “With the ongoing negative effects of life at sea brought about by the Covide-19 pandemic, some seafarers may bring retirement plans forward, while others may look for work ashore,”said Drewry’s head of manning research Rhett Harris.“It has been the case for a number of years that quality officers have been difficult to recruit and retain. This situation is expected to get worse as the growth in supply fails to keep pace with an expanding world fleet.”
-
-**
 
 **Source:** Drewry‘s Manning Annual Review and Forecast 2021/22
 

@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-09-12_panama-drought-and-its-impact-on-bulk-shipping.md"
-word_count: 1873
+word_count: 1871
 tags:
   - Container Shipping
   - Drewry
@@ -30,9 +30,7 @@ To preserve fresh water in the Gatun lake, which is also the only fresh water so
 
 **Source:** Drewry Maritime Research, ACP
 
-**
-
-**Source:** ** ACP
+Source: ACP
 
 The Panama Canal Authority has also restricted the number of vessels transiting through the Panamax locks from the usual 23 slots to 14 slots – 10 large vessels and 4 regulars with premiums on heavier and larger ships. The imposed restrictions have increased the vessel backlog to a high of 162 vessels on 8 August, with the average waiting time rising to over 20 days. As the holiday season approaches, the movement of merchandise will soon pick-up, potentially leading to further congestion.
 

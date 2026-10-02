@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-05-25_china-pushes-coal-trade-on-the-longer-route--a-boon-for-smaller-vessels.md"
-word_count: 370
+word_count: 368
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -34,11 +34,7 @@ The increasing share of long-haul trade will employ dry bulk vessels for longer 
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

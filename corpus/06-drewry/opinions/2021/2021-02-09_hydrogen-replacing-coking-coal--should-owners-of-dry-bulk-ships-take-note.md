@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-02-09_hydrogen-replacing-coking-coal--should-owners-of-dry-bulk-ships-take-note.md"
-word_count: 580
+word_count: 579
 tags:
   - Crude Tankers
   - Drewry
@@ -46,7 +46,5 @@ However, although little, the impact of the switch will be felt on Australia-Asi
 Major exporters of coking coal are Australia, the Americas and Russia which together supply 250–300 million tonnes annually, whereas Asia and Europe are the major consumers. As Australia-Asia trade contributes more than 55% to the global coking coal trade, this route will be impacted the most due to the switch to hydrogen.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

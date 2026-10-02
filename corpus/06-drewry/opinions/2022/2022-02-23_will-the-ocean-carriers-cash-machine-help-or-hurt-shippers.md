@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-02-23_will-the-ocean-carriers-cash-machine-help-or-hurt-shippers.md"
-word_count: 757
+word_count: 754
 tags:
   - Container Shipping
   - Drewry
@@ -24,7 +24,7 @@ The latest quarterly results announced by top container carriers highlight the r
 
 A comparison of the 4Q 2021 profit margins of 2 large ocean carriers versus industry majors in the railroad, forwarding and parcel industries shows that ocean carriers are now making even higher margins than Union Pacific Railroad and CSX Corp. – 2 big US rail majors - twice the margins of UPS and more than five times the margins of forwarding and 3PL majors – see chart.
 
-**Source:** ** ** ** Company reports
+Source: Company reports
 
 Drewry analysis of carrier profits and freight rates reinforces the view that the elevated profits of ocean carriers are the result of higher freight rates – not higher business volumes, additional services or lower costs. For example, neither Maersk nor Hapag-Lloyd carried more containers in the latest quarter than in the same quarter of 2020.
 

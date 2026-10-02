@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-12-19_production-cut-by-opec-and-allies-unlikely-to-hurt-crude-tankers.md"
-word_count: 452
+word_count: 451
 tags:
   - Crude Tankers
   - Drewry
@@ -28,8 +28,6 @@ While OPEC producers will reduce their output by 800 kbpd from 32.9 mbpd in Octo
 Earlier, in its June 2018 meeting, OPEC decided to increase production to cope with the decline in output from Iran and Venezuela. The cartel ramped up its output to 32.9 mbpd in October, ahead of the deadline for the US sanctions on Iran. However, after the US granted a waiver to eight countries which enabled them to continue importing Iranian crude until May 2019, Brent prices plunged below the $60 per barrel mark in November. As non-OPEC production is expected to surge in 2019, the call on OPEC crude for a balanced market is expected to be 31 mbpd in the first half of 2019, about 1.9 mbpd lower than the cartel’s October 2018 output.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-07-29_global-fertiliser-trade-structural-shifts-longer-routes-and-fleet-evolution.md"
-word_count: 592
+word_count: 591
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -34,8 +34,6 @@ The implications for the dry bulk market are significant. Fertiliser has traditi
 Average haul distances are also structurally longer. Brazil’s sourcing from Russia increases average distance by more than 60% compared to historically importing from Morocco. Similarly, India replacing China with Russia and MENA lengthens routes. These shifts are sustaining tonne mile demand even where total import volumes may stabilise, as in the case of urea imports into India.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-10-30_eu-ban-on-palm-based-biodiesel-to-negatively-impact-europe-asia-vegoil-trade.md"
-word_count: 610
+word_count: 605
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,13 +25,11 @@ The overall volume of biodiesel carried by chemical tankers grew at a CAGR of 7.
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 Europe is in fact the largest biodiesel producer and consumer in the world and the region’s use of biodiesel in the transportation sector has expanded rapidly since the 1990s. After rapeseed oil and used cooking oil (UCO), palm oil is the third most important feedstock in European biodiesel production.
 
-**Source:** ** ** ** USDA, Drewry Maritime Research
+Source: USDA,Drewry Maritime Research
 
 More than 90% of global palm oil production comes from Indonesia and Malaysia, with the former being the largest producer in the world. In 2018, Indonesia produced 45–47 million tonnes of palm oil, of which 28.9 million tonnes was exported. For Malaysia, palm oil production in the same period was 16.5 million tonnes and exports were 15.2 million tonnes. The EU is a key market for both exporters and in 2018 Indonesia supplied 25% and Malaysia 28% of total EU palm oil imports (4 million tonnes).
 

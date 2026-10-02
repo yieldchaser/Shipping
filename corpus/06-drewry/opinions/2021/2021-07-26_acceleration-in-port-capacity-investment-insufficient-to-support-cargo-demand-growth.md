@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-07-26_acceleration-in-port-capacity-investment-insufficient-to-support-cargo-demand-growth.md"
-word_count: 591
+word_count: 590
 tags:
   - Container Shipping
   - Drewry
@@ -23,8 +23,6 @@ Surging container shipping cargo demand in the wake of the pandemic has resulted
 Drewry’s annual survey of the world’s leading terminal operators reveals the resilience of the sector to external shocks. Volumes, in the main, were down, but earnings less so as operators moved quickly to control costs. Capital expenditure was reined in during 2020, but the outlook is much improved.
 
 Eleanor Hadland, author of the report and Drewry’s senior analyst for ports and terminals said:“The strength of the recovery in demand, aided by high levels of liquidity in the financial market, have enabled operators to bring forward their investment plans, resulting in a stronger capacity outlook post-pandemic.”
-
-**
 
 **Source:** Drewry’s Global Container Terminal Operators Annual Review and Forecast 2021/22
 

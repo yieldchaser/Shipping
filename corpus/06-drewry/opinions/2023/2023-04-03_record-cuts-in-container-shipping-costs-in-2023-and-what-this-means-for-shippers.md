@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-04-03_record-cuts-in-container-shipping-costs-in-2023-and-what-this-means-for-shippers.md"
-word_count: 654
+word_count: 653
 tags:
   - Container Shipping
   - Drewry
@@ -41,8 +41,6 @@ BCOs in this latest bid season have set aggressive target rates – some as low 
 In addition to securing much lower rates, shippers are receiving  improved  service this year. Transit times are twice as fast as a year ago – see chart - and port congestion at major ports has reduced by 50% (in North America) and 60% (in Europe).
 
 **Source:** Drewry Container Capacity Insight
-
-**
 
 **Source:** Drewry Container Capacity Insight
 

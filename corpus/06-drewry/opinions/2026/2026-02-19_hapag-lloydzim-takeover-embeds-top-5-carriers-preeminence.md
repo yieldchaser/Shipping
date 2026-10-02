@@ -87,3 +87,5 @@ Full access is granted to Drewry Forecaster subscribers representing a significa
 The platform is fully-integrated, combining fleet, trade, rates and valuation data with our proprietary AIS analytics. Market and fleet data is also updated as it becomes available, complementing our detailed market analysis, forecasts and opinions to provide a complete picture of the current market and its future development.
 
 Features and benefits:
+
+

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-12-05_us-plans-major-trade-tariffs-potential-impacts-on-dry-bulk-and-shifting-trade-patterns.md"
-word_count: 646
+word_count: 645
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,8 +29,6 @@ The US economy has proven to be resilient relative to other major economies with
 The ratio of China’s GDP to US GDP reached its peak in 2020 but has since declined. In addition, the gap in investment as a percentage of GDP between China and the US peaked in 2010 at 28%, but narrowed to 20% by 2022. These trends indicate that investments, which were once heavy into China, are now gradually flowing into the US, which fits well with the global readjustment of risk and opportunity.
 
 **Source:** Drewry Maritime Research, IMF
-
-**
 
 **Source:** Drewry Maritime Research, IMF
 

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-01-14_high-commodity-demand-a-tailwind-for-dry-bulk-shipping-stocks.md"
-word_count: 554
+word_count: 544
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,7 +26,7 @@ However, the recent surge of 11% in the Baltic Dry Index on 8 January 2021 is at
 
 Talking about the futures market, iron ore can be represented by the iron ore fines 62% Fe CFR Futures traded on the Singapore commodity exchange, and coal can be represented by the Rotterdam coal futures. Both have been faring better than they were a year ago. Iron ore gained consistently throughout the year before skyrocketing in November and December. Meanwhile, coal futures had a rocky year, gaining ground only recently.
 
-**Source:** ** ** ** DMFRand Investing.com
+Source:DMFRand Investing.com
 
 The post-pandemic recovery in demand for commodities makes the asset class attractive to many investors. The size of the fiscal and monetary measures that are being put in place to help the economies to recover will see a dramatic rise in government debt levels, and we can expect an increase in inflation rates. As the demand for goods and services improves, the price of goods and services will also rise, thereby increasing prices of the commodities used to produce those goods and services. The dual tailwinds of likely stimulus by respective governments and inflationary pressures may push the demand for dry bulk commodities and the dry bulk stock prices.
 
@@ -34,14 +34,10 @@ We provide a correlation among miners, shippers and ore prices as all three are 
 
 Note: All the values have been indexed to 100 as of 13 January 2020
 
-**
-
-**Source:** ** DMFR, Yahoo finance, WSJ.com and Investing.com
+Source:DMFR, Yahoo finance, WSJ.com and Investing.com
 
 Note: All the values have been indexed to 100 as of 13 January 2020
 
-**
-
-**Source:** ** DMFR, Yahoo finance, WSJ.com and Investing.com
+Source:DMFR, Yahoo finance, WSJ.com and Investing.com
 
 The correlation numbers provide a strong insight into how stock prices behave in comparison with each other and commodity prices. Despite the same driving force, various operators show a different but consistent trend. In essence, dry bulk operators are expected to have a decent 1Q21, as the economic stimulus from respective governments will push the demand for commodities. Moreover, the subsiding of the pandemic, better supply-demand owing to low order book could lead to a surge in rates and stock prices.

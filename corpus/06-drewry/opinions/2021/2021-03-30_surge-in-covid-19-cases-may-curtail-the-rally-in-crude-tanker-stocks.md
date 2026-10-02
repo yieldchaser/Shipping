@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-03-30_surge-in-covid-19-cases-may-curtail-the-rally-in-crude-tanker-stocks.md"
-word_count: 1127
+word_count: 1115
 tags:
   - Crude Tankers
   - Drewry
@@ -23,7 +23,7 @@ Crude tanker shipping stocks have been trending upwards from the start of Februa
 
 Note: Indexed to 31 December 2020.
 
-**Source:** ** ** ** NYSE, DMFR
+Source: NYSE,DMFR
 
 Recent reports indicate that global COVID-19 infections rose for the fourth week in a row, led by rising cases in the Americas and Europe. The five countries that are reporting the highest number of new cases are Brazil, the US, India, France and Italy with North America and Europe accounting for nearly 83% of all active cases. Several European countries are extending or reintroducing lockdown measures as a third wave of the pandemic sweeps across the continent. Mobility restrictions of varying degrees are in force across the US to contain the surge in new COVID-19 infections. These restrictions are putting pressure on the recovery in oil consumption and thus demand for tankers.
 
@@ -33,7 +33,7 @@ The rollout of various COVID-19 vaccines in the past few months gives hope of co
 
 Note: Indexed to 31 December 2020.
 
-**Source:** ** ** ** NYSE, DMFR
+Source: NYSE,DMFR
 
 The departure from the usual strategy of fixing oil production levels for six months to the provision for monthly review in January 2021 to decide the next month’s crude oil production by OPEC+ members is a more proactive and flexible approach by the cartel to ensure market rebalancing. A steady recovery in global crude oil consumption supported by the rollout of vaccines and easing lockdown restrictions in addition to strict compliance to the production cut by OPEC+ producers supported the uptrend in crude oil prices. Saudi Arabia’s production cut of additional 1 mbpd beyond its quota in the OPEC+ deal further supported the rally in crude oil prices. We believe OPEC+ is in no hurry to loosen its oil taps and will remain proactive in adjusting market supply over the next year to ensure that the oil market remains stable.
 
@@ -41,6 +41,6 @@ On 23 March, a 200,000-dwt containershipEver Givengot stuck at the Suez Canal, b
 
 Crude tanker stocks were on the run over the past three months despite a decline in vessel earnings and Baltic Forward Freight Agreements (FFAs) for 2021 and 1Q22. Optimism for demand recovery on the back of the rollout of several COVID-19 vaccines led to a sharp hike in VLCC TCE FFAs for 2Q22 from USD -28,872pd on 31 December 2020 to USD 22,223pd on 24 March 2021. The prospect of medium- term recovery in the tanker market seems to have played a key role in the recent rally in tanker shipping stocks. However, concerns of a third wave of COVID-19 infections in several European countries and the rise in new cases in the US, India and Brazil could curtail the pace of recovery in crude oil consumption and tanker demand.
 
-**Source:** ** ** ** Baltic Exchange, DMFR
+Source: Baltic Exchange,DMFR
 
 Crude tanker shipping stocks have comprehensively outperformed key market indices in the past three months with the hope of recovery in demand in 1H22 on the back of the rollout of several COVID-19 vaccines. However, mobility restrictions of varying degrees on account of a third wave of the virus infections in several European economies and rising cases in the US, India and Brazil could curtail the pace of recovery in the tanker market. A lot will depend on the pace and extent of the vaccination drive against the pandemic in the next few quarters. A decline in infections and easing restrictions are the only factors that could help sustain the gains and support stock prices in 2021.

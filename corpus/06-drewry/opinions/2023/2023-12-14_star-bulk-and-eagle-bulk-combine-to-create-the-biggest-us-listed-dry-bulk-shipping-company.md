@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-12-14_star-bulk-and-eagle-bulk-combine-to-create-the-biggest-us-listed-dry-bulk-shipping-company.md"
-word_count: 776
+word_count: 765
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,7 +26,7 @@ The share price of Star Bulk declined 7.8% in 1H23, outperforming the Drewry Dry
 
 Note: Drewry dry bulk equity index comprises of the market cap of Star Bulk Carriers, Golden Ocean, Pacific Basin, DS Norden and Diana Shipping. Price as of 12 December 2023.
 
-**Source:** ** ** ** Various Indices, Drewry Maritime Financial Research
+Source: Various Indices,Drewry Maritime Financial Research
 
 Star Bulk Carriers Corp. has strategically leveraged inorganic growth to fuel its expansion. This approach has significantly increased the company’s fleet size and operational capacity over the years, with 10 acquisitions since 2014.
 
@@ -34,7 +34,7 @@ A pivotal moment in Star Bulk’s inorganic expansion was in 2014 when the compa
 
 By merging with Eagle Bulk Carriers, SBLK is adding 52 vessels averaging 10 years to its fleet. Star Bulk reiterated during the Eagle Bulk conference call that the company is not done with acquisition to fuel its growth; however, it needs time to digest this merger.
 
-**Source:** ** ** ** Company, Drewry Maritime Financial Research
+Source: Company,Drewry Maritime Financial Research
 
 The price of a 5-year-old Supramax vessel has increased by about 6% in 2023, but it is still 8% below the highest price ever in March 2023. Since August this year, the second-hand price of 5-year-old Supramax has increased by about 8%.
 
@@ -44,7 +44,7 @@ We believe the transaction is a win-win situation for all shareholders. While Ea
 
 The combined company’s shareholders will also benefit from the revenue and cost synergies due to increased operational efficiencies and economies of scale, which will eliminate overlapping functions. The company expects to generate USD 50mn in cost and revenue synergies within 12–18 months post closure of this merger.
 
-**Source:** ** ** ** Star Bulk Carriers, Eagle Bulk,Drewry Maritime Financial Research
+Source: Star Bulk Carriers, Eagle Bulk,Drewry Maritime Financial Research
 
 We offer an independent equity research subscription service covering dozens of listed companies across all the main shipping sectors. As well as assessing the strategic, financial and operational position of these companies, our in-depth reports provide key valuation drivers, a risk/reward matrix and financial as well as industry analysis.
 

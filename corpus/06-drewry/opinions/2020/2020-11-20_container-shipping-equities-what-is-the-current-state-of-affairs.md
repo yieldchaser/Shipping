@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-11-20_container-shipping-equities-what-is-the-current-state-of-affairs.md"
-word_count: 1664
+word_count: 1640
 tags:
   - Container Shipping
   - Drewry
@@ -24,7 +24,7 @@ With the US elections recently concluded, we had a very interesting trading expe
 
 Note: Share prices as of 16 November 2020.
 
-**Source:** ** ** ** DMFR, WSJ
+Source:DMFR, WSJ
 
 Drewry’s liner shipping equity index displays a strong correlation with theWorld Container Index (WCI). While the average composite index of the WCI, assessed by Drewry (until 19 November), is $1,963 per 40ft container, which is $478 higher than the five-year average of $1,485 per 40ft container, Drewry’s composite WCI index increased by 4.9% weekly and 100.7% year on year to $2,834.73 per 40ft container.
 
@@ -34,19 +34,19 @@ Also, traders are eager to fulfil their business obligations while trying to ove
 
 Meanwhile, a surge in Asian imports bound for US retailers that are stocking up for the holidays is leading to anacute shortage of shipping capacity for US exporters, with agricultural producers nowstruggling to find the containers they need to send their products to overseas buyers. Container shipping companies seeking to keep pace with the strong demand for goods from China are rushing to unpack and return the containers to Asia, leaving fewer boxes available for American exporters to stuff with soybeans, lumber, cotton and other products.
 
-**Source:** ** ** ** DMFR, WSJ,Drewry Supply Chain Advisors
+Source:DMFR, WSJ,Drewry Supply Chain Advisors
 
 Major container lines across the board have reported their best third-quarter earnings since 2010 as a combination of factors including capacity discipline, shortage of container boxes, higher freight rates and lower operating costs created a perfect environment for lines to be profitable. Aggregate profit for 11 companies analysed came in at $4.53billion for the first nine months of 2020 versus just $488billion during the same period in 2019.
 
 Maersk group, for example, reported its single best quarter since it transformed from a being conglomerate in 2016 to a global integrator of container logistics with its net income rising 82% year on year.
 
-**Source:** ** ** ** DMFR, Company
+Source:DMFR, Company
 
 Evidence of a strong 4Q20 is the monthly revenue growth of the three Taiwanese carriers as they recorded their best year-on-year revenue growth for October. While Wan Hai posted revenue growth of 32% year on year, Evergreen and Yang Ming registered growths of 27% and 24% year on year, respectively.
 
 Separately, according to Maersk’s CEO Søren Skou, the container market is getting even better and they expect to deliver a 4Q that is even stronger than their 3Q performance. Maersk group now expects full-year 2020 EBITDA before restructuring and integration costs to range between $8.0billion and $8.5billion (previously $7.5–8.0billion as announced on 13 October).
 
-**Source:** ** ** ** MOPS, DMFR
+Source: MOPS,DMFR
 
 Despite the news surrounding the second wave of the pandemic hitting some countries, we remain positive on carrier earnings in 2021. Now whether the carriers will be able to match this year’s performance or even exceed expectations depends on lot of factors but we do believe that the industry should be able to make decent money (about $6 billion of operating profit) based on some of the positive data indicators related to contract rates. Certain early bids show that carriers are quoting Transpacific contract rates for 2021 which are about 60% higher than current contract rates. This is not surprising, given the very high spot rate levels now which means carriers should enjoy high freight rates next year as well. In addition, with oil prices still at around the $40bbl mark, this should support the cost side in the form of lower bunker fuel prices.
 
@@ -56,13 +56,13 @@ The current Brent crude oil price shows a declining trend, and we believe the lo
 
 As crude oil and shipping stock prices share an inverse correlation, when oil prices rises, company valuations fall and vice versa. The relationship has largely held true between Drewry liner shipping equity index and Brent crude oil.
 
-**Source:** ** ** ** DMFR, WSJ, Macrotrends
+Source:DMFR, WSJ, Macrotrends
 
 Since early November, there was heightened speculation about who the next US president would be, and we have not seen any major deviation from the usual momentum that the stocks have displayed. All major stocks including those with high exposure to China continue to strengthen.
 
 To give historical context to the relation between US elections and stock prices, we have shown a comparison between the movement of stocks during November 2016 when Donald Trump won the elections and conclude that the elections have no major impact on major container shipping stock prices. Rather strong fundamentals are currently driving the upward movement of container shipping stocks.
 
-**Source:** ** ** ** DMFR, WSJ
+Source:DMFR, WSJ
 
 As it stands Joe Bidens is well placed to become the next President of the US while the ex-President Trump is turning to the law for a recount of votes. He alleges voter fraud, but without evidence.
 

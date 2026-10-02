@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-03-11_impact-of-russia-ukraine-crisis-on-container-and-port-equities.md"
-word_count: 1826
+word_count: 1802
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,13 +25,13 @@ The Russia-Ukraine conflict has sent ripples through financial markets world ove
 
 MSCI world index had plunged by more than 13% YTD as of 8 March 2022. In comparison, the Drewry Container shipping equity index had lost a little less than 6%.
 
-**Source:** ** ** ** DMFR, yahoo.com
+Source:DMFR, yahoo.com
 
 A closer look at the performance of our index reveals that the two European carriers – Hapag Lloyd (HLAG) and AP Moller Maersk (APMM) – which make up about 41% of our market cap-weighted container shipping equity index lost on average 13.5% YTD, thereby pushing the index down. The majority of losses for the two carriers occurred before 24 February 2022 (APMM: -9%, HLAG: -14%) and are attributed to company-specific factors and result reports rather than the threat of the Russia-Ukraine conflict or the conflict itself. After the invasion, APMM and HLAG lost just -3% and -2%, respectively.
 
 Of the 12 stocks that make up our index, nine stocks gained in the two-week period, with Samudera emerging a winner, after gaining 30% in the said period. This again is attributed to company-specific factors as Samudera announced record FY21 results on 24 February, the day as the invasion began. The results were record-breaking with a manifold increase in its bottom line, from USD 7.2mn in FY20 to USD 128.6mn in FY21. As a result, the stock gained 25% on the same trading day (24 February 2022) and has gained only 3.4% since. Other container stocks under our coverage also followed a similar trend, wherein the threat of invasion had little to zero impact and company- specific factors dominated the movement of the stock price.
 
-**Source:** ** ** ** DMFR, yahoo.com
+Source:DMFR, yahoo.com
 
 Like any commodity, the price of the stock depends on supply and demand. At a time when markets around the world are turning red, container shipping stocks are declaring record dividends. Samudera, for example, announced a special per share dividend of SGD 0.1275 for FY21, much higher than the SGD 0.003 for FY20. APMM on 9 February 2022 announced a dividend per share of DKK 2,500 for FY21 phenomenally higher than DKK 330 in FY20. A similar story is expected from most container stocks. Also, while the number of negatives in the sector are increasing – rising inflation, crude oil prices, easing demand, among others – most companies are expected to deliver solid results for FY22 as well. This is because:
 
@@ -47,11 +47,11 @@ However, the ongoing war dented the stock prices of companies exposed to Russia 
 
 Note: Price as of 03 March 2022.
 
-**Source:** ** ** ** wsj.com, DMFR
+Source: wsj.com,DMFR
 
 Note: Price as of 03 March 2022.
 
-**Source:** ** ** ** wsj.com, DMFR
+Source: wsj.com,DMFR
 
 Being at the center of the conflict, Black Sea shipping volumes are likely to be the worst hit. Moreover, the sanctions will also hamper the container traffic in the Baltic Basin. Elsewhere, the Far East ports will benefit marginally from this situation as cargoes will be diverted, but the economic impact of sanctions / plummeting value of rouble will significantly hit imports.
 
@@ -71,11 +71,11 @@ As the trading in the stock is no longer available, assessing the situation from
 
 Note: Price as of 10 March 2022.
 
-**Source:** ** ** ** DMFR
+Source:DMFR
 
 Note: Price as of 03 March 2022.
 
-**Source:** ** ** ** DMFR
+Source:DMFR
 
 Hamburger Hafen und Logistik AG (HHLA) operates in the Port of Odessa - the largest container terminal in Ukraine. The ongoing crisis is expected to have a limited impact on the company’s operating metrics, as the port of Odessa’s container throughput, revenue and earnings contribute low to mid-single-digit percentages to the HHLA’s respective financials. Also, the company has confirmed that a significant part of the investments made to date, amounting to EUR 170mn, had already been amortised by the end of the 2020 financial year.
 

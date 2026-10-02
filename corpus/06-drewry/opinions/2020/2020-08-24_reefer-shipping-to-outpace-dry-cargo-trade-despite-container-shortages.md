@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-08-24_reefer-shipping-to-outpace-dry-cargo-trade-despite-container-shortages.md"
-word_count: 561
+word_count: 560
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ Worldwide seaborne reefer trade recorded growth of just 1.7% in 2019 to 130.5 mi
 Drewry forecasts that seaborne reefer traffic will reach 156 million tonnes by 2024, representing average annual expansion of 3.7% which is faster than the anticipated growth in the wider dry cargo trade (see chart).
 
 “Drewry expects the reefer trade to be more recession proof against the economic impacts of COVID-19,”said Drewry’s head of reefer shipping research Philip Gray.“And near term, it will continue to benefit from African swine fever induced protein demand into Asia. The continuing trade standoff between the US and China remains a threat to transpacific trade, but could provide opportunities on other routes through trade substitution, such as East Coast South America to Asia.”
-
-**
 
 **Source:** Drewry’s Reefer Shipping Annual Review and Forecast 2020/21
 

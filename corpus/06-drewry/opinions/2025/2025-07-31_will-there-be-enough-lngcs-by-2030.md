@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-07-31_will-there-be-enough-lngcs-by-2030.md"
-word_count: 1026
+word_count: 1024
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -37,8 +37,6 @@ We expect the new momentum of ordering to rise from 2027, as planned capacities 
 
 **Source:** Drewry Maritime Research, Clarksons Research, as of end-June 2025
 
-**
-
 **Source:** Drewry Maritime Research, Clarksons Research, as of end-June 2025
 
 II. Orders on long-term charter signal new projects, which will create fresh vessel demand
@@ -54,8 +52,6 @@ With vessel surplus and weaker earnings, owners with older tonnage are forced to
 A record number of LNGCs (tally to eight LNGCs as of end-July) have already been scrapped in 2025, and more are expected in the remaining year.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

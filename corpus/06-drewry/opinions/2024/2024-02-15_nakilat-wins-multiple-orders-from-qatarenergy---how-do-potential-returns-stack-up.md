@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-02-15_nakilat-wins-multiple-orders-from-qatarenergy---how-do-potential-returns-stack-up.md"
-word_count: 844
+word_count: 838
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,11 +29,7 @@ We have calculated equity IRR and project IRR (levered IRR) using Drewry’s lon
 
 **Source:** Drewry Maritime Financial Research, Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Financial Research, Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Financial Research, Drewry Maritime Research
 
@@ -41,7 +37,7 @@ Nakilat stock has gained 11.5% YTD 2024 and has outperformed Golar LNG (down 7.8
 
 Note: Drewry LNG Shipping Equity index includes Golar LNG, Flex LNG and Nakilat. Indexed at 100 as of 31 December 2019 and priced as of 14 February 2024.
 
-**Source:** ** ** ** LSEG, Drewry Maritime Financial Research
+Source: LSEG,Drewry Maritime Financial Research
 
 LNG shipping market would continue to normalise in 2024 due to dismal economic outlook, limited new liquefaction capacity additions, high inventory levels and significant scheduled deliveries. However, we believe the gradual phase-out of steam turbine LNG vessels and upcoming ample LNG liquefaction capacities in future years should keep the newbuild momentum strong for LNG vessels.
 

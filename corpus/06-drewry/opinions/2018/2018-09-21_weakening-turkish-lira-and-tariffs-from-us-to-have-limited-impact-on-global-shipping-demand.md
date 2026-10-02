@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-09-21_weakening-turkish-lira-and-tariffs-from-us-to-have-limited-impact-on-global-shipping-demand.md"
-word_count: 794
+word_count: 793
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,8 +25,6 @@ The one thing that is certain is that the outlook is far from uniform and there 
 In terms ofdry bulkcommodities Turkey is active in steel products, petcoke, cement, clinker, grains, iron ore and scrap markets.
 
 On steel products the US government has recently doubled the import duty on Turkish steel to 50%. However, we believe any damage from tariffs will only be short term, because:
-
-**
 
 **Source:** Drewry Maritime Research
 

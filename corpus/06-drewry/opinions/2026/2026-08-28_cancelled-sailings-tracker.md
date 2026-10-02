@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-28_cancelled-sailings-tracker.md"
-word_count: 361
+word_count: 357
 tags:
   - Container Shipping
   - Drewry
@@ -22,7 +22,7 @@ Our weekly tracker provides a snapshot of blank sailings announced by each Allia
 
 For an in-depth, weekly assessment of cancelled sailings and schedules by main trade and alliance - subscribe toContainer Capacity Insight. This service includes effective capacity, port congestion, dwell time, utilisation and service reliability insights with year-on-year comparisons.Contact usto request an evaluation report.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 Not displaying?Click here to view this schema in a new window
 

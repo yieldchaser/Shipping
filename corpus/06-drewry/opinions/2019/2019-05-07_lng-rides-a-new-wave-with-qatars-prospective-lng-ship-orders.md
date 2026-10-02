@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-05-07_lng-rides-a-new-wave-with-qatars-prospective-lng-ship-orders.md"
-word_count: 508
+word_count: 506
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -33,11 +33,7 @@ We believe most of Qatar’s LNG ship orders will go to Korean shipyards as the 
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-03-13_lngc-loadings-down-in-qatar-post-force-majeure-as-the-conflict-continues.md"
-word_count: 333
+word_count: 329
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -20,8 +20,6 @@ tags:
 *Published on 13 March 2026*
 
 Drewry AIS shows Qatar loaded only 7 LNGCs in week 10 (ending 6 March) due to heightened tensions in the Middle East following the closure of the Strait of Hormuz. On average, the country loads 18–20 LNGCs each week. The sharp drop is attributed to the force majeure affecting Qatar’s LNG production (on 4 March) and to continued transit risks in the strait. Despite the halt in Qatar’s LNG production, some loading activity was recorded, while UAE loadings were stable and Oman’s loadings recorded a surge.
-
-**Source:** ** ** **
 
 **Source:** Drewry AIS, LNGC loadings in 2026
 

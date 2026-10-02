@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-03-11_localisation-and-rationalisation-to-boost-car-carrier-shipping-volumes.md"
-word_count: 712
+word_count: 710
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,15 +27,11 @@ While there remains the risk that other Japanese car makers may follow Honda’s
 
 Note: Based on Toyota, Volkswagen, Hyundai, GM, Ford, Nissan, Honda, Renault, PSA, Fiat Chrysler
 
-**
-
 **Source:** Drewry’s Finished Vehicle Shipping Annual Review & Forecast 2018/19
 
 Indeed, as the report makes clear, those OEMs that invest most heavily in overseas production capacity have recorded the fastest overall output growth, with Asian brands leading the charge (see Figure 2).
 
 Note: Excluding Fiat Chrysler
-
-**
 
 **Source:** Drewry’s Finished Vehicle Shipping Annual Review & Forecast 2018/19
 

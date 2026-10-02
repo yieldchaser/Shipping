@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-04-09_slowing-increase-of-insurance-costs-a-relief-for-vessel-operators--uncertainty-of-war-risk.md"
-word_count: 1246
+word_count: 1243
 tags:
   - Crude Tankers
   - Drewry
@@ -39,7 +39,7 @@ The last 6 or 7 years have seen loss ratios improving both due to premium increa
 
 Note: Technical break-even: gross loss ratio does not exceed 100% minus the expense ratio (acquisition costs, capital cost, management expenses). Data is included from Belgium, France, Germany, Italy, Nordic (Cefor) and the UK.
 
-**Source:** ** ** ** IUMI
+Source: IUMI
 
 Note that the above figures are loss ratios as opposed to combined ratios, but the trending is positive and we understand that 2022 combined ratio would have been in the mid 90% - 100% range.  Thus, underwriters may feel rates are currently adequate for so long as claims trends continue as is.  Like it has been seen for P&I claims (particularly pooling claims), claims severity is perhaps more the primary driver than claims frequency. Whether this is down to increased deductibles or sheer good luck is hard to interpret.
 

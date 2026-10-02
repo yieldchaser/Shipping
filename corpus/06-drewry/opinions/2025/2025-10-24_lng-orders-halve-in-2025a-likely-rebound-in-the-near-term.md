@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-10-24_lng-orders-halve-in-2025a-likely-rebound-in-the-near-term.md"
-word_count: 681
+word_count: 680
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ By end-3Q25, 38 vessels were ordered, down 56% from 9M24. The LNGC tally was eve
 Drewry expects about 50 vessels to be ordered in 2025, compared to 96 in 2024. The current orderbook comprises 335 vessels (289 LNGCs, 37 LNGBVs, 4 FSRUs and 5 FLNGs), with an orderbook-to-fleet ratio of 41%. We expect the orderbook to deflate further till new ordering resumes, which appears to revive from the next year only.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

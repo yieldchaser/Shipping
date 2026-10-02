@@ -27,3 +27,5 @@ The culmination of an 18-month data development and sourcing project has resulte
 Container Freight Rate Insight subscribers will now benefit from:
 
 Container Freight Rate Insightis delivered through Drewry’s Container Freight Portal, a powerful freight procurement and cost benchmarking resource that combines all Drewry’s ocean and air freight cost comparison services and indexes in a single, cloud-based platform. As well as Container Freight Rate Insight, the portal hosts Drewry’s popular, shipper-only contract rateBenchmarking Club, a closed-user group of over 120 leading international brands andContainer Capacity Insight, an essential weekly online tool to monitor cancelled sailings, capacity changes and port congestion.
+
+

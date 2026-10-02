@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-04-24_chinas-lng-trading-pattern-to-change-with-qatars-newbuilding-order.md"
-word_count: 570
+word_count: 569
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -36,8 +36,6 @@ We believe Qatar Petroleum’s massive order for LNG ships at China’s shipyard
 Even with lower LNG spot prices, China imports around 82% of its LNG through long-term contracts with the balance met through spot or short-term contracts. Therefore, in order to meet the growing LNG demand in the country, China will look to secure more long-term cargoes in the coming years.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -670,13 +670,10 @@ def run_pipeline():
             writer.writerows(wci_records)
         print(f"[+] Stacked Drewry WCI series: {csv_path} ({len(wci_records)} rows)")
 
-    # 5. Clean up obsolete flat directory opinions/opinions/
+    # 5. Historical flat directory opinions/opinions/ preserved per zero-deletion rule
     if os.path.exists(RAW_OPINIONS_DIR):
         migrated_count = sum(len(glob.glob(os.path.join(OPINIONS_DIR, str(y), "*.md"))) for y in year_counts)
         print(f"\n[*] Total files in year-segregated directories: {migrated_count}")
-        if migrated_count >= len(all_results):
-            shutil.rmtree(RAW_OPINIONS_DIR)
-            print(f"[+] Cleaned up obsolete unsegregated directory: {RAW_OPINIONS_DIR}")
 
     print("\n=== DREWRY OPINIONS PIPELINE COMPLETE ===")
 

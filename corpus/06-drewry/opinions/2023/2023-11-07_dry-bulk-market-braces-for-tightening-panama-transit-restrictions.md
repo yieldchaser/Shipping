@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-11-07_dry-bulk-market-braces-for-tightening-panama-transit-restrictions.md"
-word_count: 510
+word_count: 504
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,7 +24,7 @@ Panama received 41% less rainfall than usual in October 2023, leading to the dri
 
 As a result, transit restrictions have been tightened from 1 November 2023. While the average transits through the canal will be reduced to 31 vessels per day, the number of available slots for reservation will be reduced every week.
 
-**Source:** ** ** ** ACP
+Source: ACP
 
 As dry bulk transits comprise 23% of the total canal transits, the highest among all other sectors, the continual impact on the sector is inevitable. While the congestion remained elevated YoY in July-September, the average waiting time in October dropped below last year’s level.
 
@@ -36,7 +36,7 @@ More vessels have been shifting trade lanes to avoid transiting the canal which 
 
 As we had stated in our previous opinion piece on the Panama Canal drought ‘Congestion in Panama to support charter market’, heightened restrictions have impacted the southbound trade in the region, particularly that of grain and soybean. Substantial southbound trade has shifted towards the Suez Canal, thereby adding to the tonne-mile demand. Although soybean exports from the US have been modest this season due to a weak harvest, the added tonne miles of US exports to China through the Suez Canal have been supporting the shipping demand.
 
-**Source:** ** ** ** Panama Canal Authority
+Source: Panama Canal Authority
 
 Drewry estimates a rise in freight rates in the range of 5–6% due to the diversion from the Panama Canal to the Suez Canal for the USG-China trade. The shift in trade routes led to a rise in arrivals at the Suez Canal in October, particularly of the Supramax and Panamax vessels. However, congestion has not been impacted much as the waiting time edged up from 0.6 days per week to 0.7 days per week on average.
 

@@ -51,3 +51,5 @@ The outbreak of war grounded an estimated 13–15% of global air capacity as maj
 Drewry recommends that shippers closely monitor changes in the volatile South Asia and Middle East shipping markets, using specialised resources such as Drewry’sContainer Freight Rate Insight (CFRI),Air Freight Insight,Container Capacity InsightandIntra-Asia Container Market Insight. In Drewry’s opinion, shippers should also consider, or use alternative routings and backup plans for their cargoes, avoiding transits via Hormuz and the Red Sea/Suez.
 
 Published through Container Freight Portal, Drewry's integrated freight cost benchmarking and logistics management platform,Drewry CFRIprovides shippers with accurate, up-to-date ocean freight rate data across all major trade lanes.
+
+

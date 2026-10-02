@@ -6,7 +6,7 @@ category: "Maritime General"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-04-12_frontline-euronav-merger-countercyclical-transaction-to-create-long-term-value-for-shareholders.md"
-word_count: 924
+word_count: 906
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,23 +25,21 @@ EURN’s fleet comprises 46 VLCCs and 30 Suezmaxes, with an average age of 8.7 y
 
 Post-merger, FRO will control about 8.3% of the fleet in its vessel class and will be nearly four times larger in terms of the market cap than its US peer DHT Holdings. Following the acquisition, we estimate that the fair market value of FRO’s fleet will increase from USD 3,385.7mn to USD 6,943.8mn. EURN’s stock changed hands at USD 11.24 per share on 6 April. The offer from FRO valued EURN’s stock at USD 13.70 per share, which represents a premium of 21.9% over EURN’s stock closing stock price. The share closed 6.8% higher at USD 12.00 per share on 7 April after touching a 52-week high of USD 12.53 per share, and is currently trading at USD 12.81 per share, 14% higher than the price prior to the merger announcement.
 
-**Source:** ** ** ** Frontline, Euronav,DMFR
+Source: Frontline, Euronav,DMFR
 
 As of 31 December 2021, FRO’s net leverage (net debt/equity) stood at 136%, a minor uptick because of increased debt during the year. However, post-merger, the net leverage will decline to ~105% as EURN’s current net leverage is at ~80%. We estimate post-merger, FRO’s net leverage to improve gradually over the next three years as a potential recovery in tanker market will facilitate scheduled debt repayments and increase in shareholders equity because of high retained earnings.
 
-**Source:** ** ** ** Frontline, Euronav,DMFR
+Source: Frontline, Euronav,DMFR
 
 We believe the proposed merger is a well-timed move and in line with EURN’s countercyclical investments, similar to the acquisition of AP Moller-Maersk VLCC fleet in 2014 and the merger with Gener8 Maritime (GNRT) in 2018. Although the timelines are a tad difficult to predict, history tells us these transactions were closed at the cyclical lows right before a recovery in the tanker market. We believe the proposed merger between FRO and EURN is another countercyclical investment to create a global leading tanker giant ahead of a potential post-pandemic recovery in the market. We believe the market is at its cyclical lows and vessel earnings, as well as asset prices, will recover over the next three years, indicating a consolidation ahead of the potential recovery in the tanker market.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
-**
-
-**Source:** ** DMR, DMFR
+Source:DMR,DMFR
 
 Although the proposed merger is unanimously approved by the independent members of Frontline’s Board of Directors and Euronav’s Supervisory Board, Compagnie Maritime Belge (CMB) – the largest shareholder (13.22%) in EURN - indicated that it does not support the proposed merger. The main reason cited by CMB is that this merger will prevent the company’s plan to shift EURN’s business to clean energy. CMB believes that Euronav should move away from the transport of crude oil and focus on greening and decarbonising shipping and heavy industry. Given the resistance from the largest shareholder of EURN, we believe the completion of the transaction will not be a smooth ride.
 
-**Source:** ** ** ** Nasdaq
+Source: Nasdaq
 
 We believe the transaction, once completed, would create long-term value to FRO’s common shareholders as the expanded fleet capacity will substantially boost FRO’s operating leverage, customer base and its market share in the global tanker shipping market ahead of a potential recovery.
 

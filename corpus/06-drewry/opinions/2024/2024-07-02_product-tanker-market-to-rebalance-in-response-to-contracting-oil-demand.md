@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-07-02_product-tanker-market-to-rebalance-in-response-to-contracting-oil-demand.md"
-word_count: 545
+word_count: 542
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -37,7 +37,7 @@ From 2023 to 2030, the forecast for regional shifts in oil demand depicts distin
 
 Meanwhile, refinery throughput in the East of Suez is projected to increase by 2.7 mbpd due to capacity expansions, whereas it will reduce by 0.6 mbpd in the Atlantic basin during 2023–30.
 
-**Source:** ** ** ** IEA
+Source: IEA
 
 These developments will impact product tanker dynamics as rising refinery throughput in major consumer regions could stimulate intra-Asia trade and support MRs. However, the diminishing throughput in the Atlantic basin could constrain long-haul trade opportunities in the long run. Two major factors will drive the product tanker market. First, overall CPP demand will decline gradually from 2028. Second, the expansion of refinery capacities in key consumption hubs like Asia-Pacific, Africa and Latin America will exert additional pressure on the product tanker market in the long run.
 

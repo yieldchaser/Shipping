@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-10-11_ports-face-more-disruption-from-strike-action-as-cost-of-living-crisis-bites.md"
-word_count: 493
+word_count: 492
 tags:
   - Container Shipping
   - Drewry
@@ -27,8 +27,6 @@ A series of dockworker strikes impacted the main German seaports in June and Jul
 In response to these planned strike actions, carriers took steps to divert vessels away from the impacted terminals. Nonetheless, Drewry’s analysis, published in its Ports and Terminals Insight, shows a significant increase in pre-berth waiting time, especially in Hamburg, where larger mainline vessels incurred an average 4-day wait to enter the port in July and August.
 
 While agreement with the unions has now been reached in Germany, labour availability – particularly at weekends - remains challenging. Yard occupancy remains high and this is impacting productivity, resulting in extended call durations
-
-**
 
 **Source:** Drewry’s Ports and terminals Insight
 

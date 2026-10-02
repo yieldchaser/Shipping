@@ -6,7 +6,7 @@ category: "Maritime General"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-05-09_chinas-ban-on-scrapping-foreign-vessels-will-be-a-boost-for-south-asian-recyclers.md"
-word_count: 360
+word_count: 359
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -30,8 +30,6 @@ Looking back nearly 66% of the total vessels scrapped at Chinese yards in 2017 w
 In the absence of Chinese scrapyards, owners of non-Chinese flagged vessels, which earlier parked their ageing vessels at Chinese scrapyards, will shift to yards in South Asia. India tops the list of demolition locations, with about 27% of global scrappings going to Indian yards, followed by Bangladesh and Pakistan; at 20% and 11% respectively.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

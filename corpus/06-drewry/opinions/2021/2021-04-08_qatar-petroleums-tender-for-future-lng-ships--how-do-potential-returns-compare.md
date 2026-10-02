@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-04-08_qatar-petroleums-tender-for-future-lng-ships--how-do-potential-returns-compare.md"
-word_count: 1354
+word_count: 1332
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,21 +29,17 @@ Based on our calculation, we believe a time charter contract for 20 years is the
 
 We have calculated equity IRR and project IRR (levered IRR) using Drewry’s long-term charter rate assumptions, estimated intermediate and special survey costs, off-hire days, and utilisation. Once the firm contract period is over, we have assumed that the vessel will trade in the spot market for its remaining useful economic life, which we have assumed to be 25 years for this analysis. We have not factored in any retrofit requirement on these LNG ships. Our cost of equity and WACC are representative for a US-based investor with low business risk, highest credit rating and assumes financing at prevailing market rates.
 
-**Source:** ** ** ** DMFR, Drewry Maritime Research
+Source:DMFR,Drewry Maritime Research
 
-**
+Source:DMFR,Drewry Maritime Research
 
-**Source:** ** DMFR, Drewry Maritime Research
-
-**
-
-**Source:** ** DMFR, Drewry Maritime Research
+Source:DMFR,Drewry Maritime Research
 
 We expect shipowners with exiting relationship with Qatargas/QP to be the primary beneficiaries of this tender, assuming they bid. Nakilat has a long-standing business relationship with Qatargas and QP owns 45 vessels in joint ventures. We expect some of these joint ventures to participate in the bidding. In addition to these entities, there could be some new bidders as well, both independent and in joint venture. We believe shipowners are looking at a bigger share of the earnings from LNG ships this time compared with the previous time. Most of Qatar’s existing Q-Max and Q-Flex LNG ships were delivered between 2007 and 2010 and were built at Korean shipyards.
 
 Note: J5 Nakilat Ltd. includes J5 Consortium (MOL, K-Line, NYK Line); Conventional LNG vessels include DFDE, TFDE, MEGI and steam turbine vessels; Maran Nakilat JV has an existing fleet of 17 vessels and two vessels are on order.
 
-**Source:** ** ** ** Nakilat, DMFR
+Source: Nakilat,DMFR
 
 Nakilat is well-positioned to benefit in our view given its long-standing relationship with Qatargas. Nakilat indicated during its previous results presentations that it is keen on expansion opportunities. It may be exploring either a joint venture or any existing opportunity with different LNG shipping companies, provided it makes economic sense based on an adjusted risk/reward base. We expect Nakilat to bid for a few LNG ships, either wholly owned or in a joint venture. Teekay LNG is another company that might be excited to participate in these bids. During its recent analyst calls, the company had indicated that it would be interested in Qatar’s LNG tender. The company has not ordered any LNG ship in the last three years and has been focusing on deleveraging its balance sheet. It believes it has a competitive advantage over other players, given that it does not have any new order outstanding at present. In contrast, competitors have high borrowings related to ongoing deliveries.
 
@@ -53,6 +49,6 @@ QP has recently signed a multi-party agreement with LNT Marine, the American Bur
 
 We expect long-term prospects for LNG shipping to be attractive given the increased focus on LNG in the overall energy mix worldwide. While the present LNG orderbook-to-fleet ratio of around 24.3% is comparatively high, most of the orders should be delivered in the next three-four years. In our view, the rising Asian LNG demand and upcoming LNG liquefaction plants will lead to higher demand for LNG ships. As a result, we expect long-term LNG freight rates to strengthen after 2023.
 
-**Source:** ** ** ** DMFR, Drewry Maritime Research
+Source:DMFR,Drewry Maritime Research
 
 We believe the upcoming ITT by QP for the new LNG ships offers attractive opportunities for shipowners as it could generate handsome returns amid the low-interest-rate environment and expect established shipowners to be key beneficiaries of these orders. There is a potential of added environmental, social and corporate governance (ESG) benefits to LNG charters due to carbon capture, which is part of the North Field expansion project.

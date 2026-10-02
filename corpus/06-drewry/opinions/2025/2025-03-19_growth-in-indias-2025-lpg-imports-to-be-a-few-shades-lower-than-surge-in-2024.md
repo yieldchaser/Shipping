@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-03-19_growth-in-indias-2025-lpg-imports-to-be-a-few-shades-lower-than-surge-in-2024.md"
-word_count: 1006
+word_count: 990
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,17 +27,17 @@ India’s LPG consumption surged in 2024 due to a combination of low global pric
 
 The Indian LPG market navigates seasonal ups and lows with demand peaking in the winter, remaining steady in the summer and declining in the monsoon. Additionally, elections, festivals and global fuel prices sway the LPG demand in the country.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 India’s LPG consumption increased 7% in 2024 while domestic production remained stable due to lower refinery yields, heavy maintenance schedules and slow ramp-up of LPG production facilities.  Indian refineries are more optimally designed to produce petrol and diesel, limiting LPG production. Domestic production is also redirected to the petchem industry (driven by higher margins in downstream derivatives production), leading the country to rely heavily on imports. India imported around 67% of its domestic requirement in 2024, up from 47% in 2015, with Indian Oil Corporation being the largest importer of LPG in the country in 2024.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 Growth in India’s LPG imports is projected to slow down in 2025 as we expect the country’s residential LPG consumption to plateau because of:
 
 India imports LPG predominantly from the Middle East, vastly different from the other leading importers that primarily source from the US. In 2024, the Middle East contributed 97% of India’s total LPG imports.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 This uniqueness can be attributed to various factors:
 
@@ -45,7 +45,7 @@ First, India imports LPG primarily to meet its residential demand, which require
 
 Note: Middle Eastern cargoes have a 50:50 propane-butane mix while US cargoes have an 80:20 propane-butane mix.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 Secondly, India prefers long-term import contracts as they offer price stability; hence the reliance on Middle Eastern suppliers as the US favours spot contracts.
 

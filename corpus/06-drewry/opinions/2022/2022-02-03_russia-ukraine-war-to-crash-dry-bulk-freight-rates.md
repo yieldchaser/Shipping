@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-02-03_russia-ukraine-war-to-crash-dry-bulk-freight-rates.md"
-word_count: 547
+word_count: 544
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,15 +24,11 @@ Over the past few years, Russia and Ukraine have become major exporters of dry b
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 Additionally, more than 700 dry bulk vessels are loaded at Russian and Ukrainian ports every month, and if the war disrupts shipments even for a month, these vessels might look for alternate cargoes elsewhere, increasing effective supply by more than 4%. Hence, the dry bulk market will face a double whammy - a sharp decline in trade and a surge in supply that has the potential to bring rates down to historical levels.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 
@@ -45,8 +41,6 @@ China has recently increased its coal (coking and non-coking) imports from Russi
 Furthermore, Ukraine exports around 40% of its grain to the Middle East and North Africa. These countries are heavily dependent on the Black Sea’s corn and wheat supply. If the crisis worsens, the Handysize, Supramax and Panamax markets will be severely impacted.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

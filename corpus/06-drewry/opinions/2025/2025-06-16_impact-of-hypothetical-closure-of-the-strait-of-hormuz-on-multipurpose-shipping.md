@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-16_impact-of-hypothetical-closure-of-the-strait-of-hormuz-on-multipurpose-shipping.md"
-word_count: 474
+word_count: 473
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ The recent Israeli airstrikes on Iran have escalated tensions in the Middle East
 The Gulf region’s booming construction and industrial sectors emphasise the importance of this chokepoint in facilitating the transport of project carriers, general cargo and handysize vessels. Moreover, the distribution of critical goods such as grain, chemicals, furniture and machinery in the Middle East partly relies on breakbulk and bulk cargo, given that countries in the Arabian Gulf depend heavily on imports. Consequently, any disruptions to this transportation method could greatly affect the end-to-end supply chain.
 
 **Source:** Drewry Maritime Research, Drewry AIS
-
-**
 
 **Source:** Drewry Maritime Research, Drewry AIS
 

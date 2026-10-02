@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-07-29_short-term-impact-on-the-chemical-shipping-market-if-the-india-china-dispute-escalates.md"
-word_count: 482
+word_count: 481
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -30,8 +30,6 @@ Apart from China, India also exports paraxylene to Indonesia, Malaysia, and to t
 Indeed, it is clear that as a result of the dispute between the dragon and the elephant, there will be an oversupply of paraxylene in India in 3Q20. With high inventories of paraxylene in India, plants will be forced to cut operating rates. China, on the other hand, will have to source paraxylene from other countries as its demand is likely to pick up in 3Q20. Therefore, we expect freight rates to weaken on routes from the Middle East/India to China in 3Q20.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

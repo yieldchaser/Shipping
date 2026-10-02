@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-06-25_soaring-asset-prices-in-capesize-second-hand-market-make-investments-unattractive.md"
-word_count: 676
+word_count: 675
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -23,8 +23,6 @@ Drewry’s analysis of the dry bulk market indicates that investing in second-ha
 Second-hand activity in the Capesize market has been surging since late 2023, with transactions in January-May 2024 doubling YoY and exceeding the annual transactions in 2020–22. The values of five-year-old vessels have been trending upwards since August 2023 and skyrocketed 23% YoY in May 2024, reaching the historically high level of $62 million.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

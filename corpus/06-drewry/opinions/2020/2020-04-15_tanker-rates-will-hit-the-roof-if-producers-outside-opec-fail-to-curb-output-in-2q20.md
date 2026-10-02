@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-04-15_tanker-rates-will-hit-the-roof-if-producers-outside-opec-fail-to-curb-output-in-2q20.md"
-word_count: 424
+word_count: 421
 tags:
   - Crude Tankers
   - Drewry
@@ -33,14 +33,8 @@ However, if oil production in countries outside OPEC+ declines by about 3.5 mbpd
 
 * Assumes stable crude oil production in the US May 2020 onwards
 
-**
-
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

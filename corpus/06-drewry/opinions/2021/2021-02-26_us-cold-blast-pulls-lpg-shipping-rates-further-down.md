@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-02-26_us-cold-blast-pulls-lpg-shipping-rates-further-down.md"
-word_count: 837
+word_count: 825
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,19 +25,19 @@ In November, Japan’s LPG stocks had fallen 6% MoM for the second consecutive m
 
 Shipping delays at the Panama Canal further supported the surge in rates. Longer delays created a backlog for the Very Large Gas Carriers (VLGCs) waiting to transit the canal and subsequently disrupted the US Gulf loadings. These delays coupled with a large number of dry-dockings (more on that later) propelled VLGC rates on the Middle East-Japan route to rise over December and January and peak at $119.43 per tonne on 11 January 2021, the highest since 2014, when rates touched $120 per tonne.
 
-**Source:** ** ** ** EIA, Drewry Maritime Research
+Source: EIA,Drewry Maritime Research
 
 High VLGC rates could not be sustained as they extended their sharpest freefall in around two decades to $37 per tonne in mid-February. We expect rates to fall further in the short term due to weak Asian demand, deferment of Saudi cargoes and the cold wave in the US leading to increased domestic heating demand as well as the closure of the Houston ship channel. These factors led to arbitrage contraction as LPG prices shrank in Asia while they inflated in the US. The delays and cargo cancellations led to a build-up of available vessels on both sides of the Suez, weakening VLGC rates.
 
 Meanwhile, petchem demand for LPG as a feedstock has been subdued due to the closure of several petchem facilities amid technical issues and planned maintenance. More importantly, high heating demand in Asia and Europe have boosted LPG prices (propane and butane) which are now trading at a premium to naphtha. The higher cost has forced petchem producers to increase naphtha imports instead of LPG. China's PDH sector was also running on reduced operating rates, which further lowered LPG demand.
 
-**Source:** ** ** ** Baltic Exchange, Drewry Maritime Research
+Source: Baltic Exchange,Drewry Maritime Research
 
 After reaching record highs in 4Q20, US LPG exports are expected to weaken in 1H21 due to the narrowing of US-Asia propane price arbitrage, weather disruptions forcing a temporary closure of the Houston Shipping Channel and the frigid temperatures in the region. These factors have increased the country’s domestic LPG demand for heating which in turn will curb exports.
 
 US propane inventories are down YoY by an estimated 28%. Furthermore, the cold wave has impacted oil and gas production, in addition to refining and transportation of energy products in the country, leading to longer loading delays. Even though the thawing period has started, winter is here for another month, which will reduce US LPG stocks rapidly.
 
-**Source:** ** ** ** EIA, Drewry Maritime Research
+Source: EIA,Drewry Maritime Research
 
 Following this, about 10–11 LPG cargo loadings in February on US-Asia were cancelled while loading delays have increased. At present, 25 VLGCs in the US Gulf are loading or waiting to load while another six vessels are entering the US Gulf (according to Drewry AIS).
 

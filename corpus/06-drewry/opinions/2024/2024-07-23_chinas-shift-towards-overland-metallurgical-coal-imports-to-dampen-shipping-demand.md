@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-07-23_chinas-shift-towards-overland-metallurgical-coal-imports-to-dampen-shipping-demand.md"
-word_count: 842
+word_count: 839
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -32,7 +32,7 @@ While the demand for coking coal looks promising, the declining share of seaborn
 
 China’s coking coal imports from Mongolia have been skyrocketing. The latter’s domestic production has been burgeoning, with production reaching 82 million tonnes in 2023, more than doubling from 39 million tonnes in 2022. More than 90% of the landlocked Mongolia’s production is transported to China, with the newly developed railway network easing trade. The commencement of the railway network between Tavan Tolgoi in North Mongolia and the Chinese border was the game-changer in 2023. Meanwhile, construction of two additional rail networks began in 2023, signalling massive potential growth in trade between the two countries in future.
 
-**Source:** ** ** ** CEIC
+Source: CEIC
 
 Furthermore, China’s seaborne imports from Russia have been strengthening, registering a growth of 97% and 24% in 2022 and 2023, respectively. This rise can be attributed to the unofficial ban on Australia’s coal in China. However, despite the resumption of trade between Australia and China in 2023, China imported merely 2.8 million tonnes from Australia, well below the historic average of 31 million tonnes during 2018–20. During January-April 2024, China’s imports from Australia remained subdued at only 2.6 million tonnes, signalling that the trade with Australia will not reach the pre-ban level in 2024.
 

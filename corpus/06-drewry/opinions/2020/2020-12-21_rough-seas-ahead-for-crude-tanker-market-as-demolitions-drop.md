@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-12-21_rough-seas-ahead-for-crude-tanker-market-as-demolitions-drop.md"
-word_count: 577
+word_count: 576
 tags:
   - Crude Tankers
   - Drewry
@@ -22,8 +22,6 @@ tags:
 Choppy waters: Rebalancing of crude tanker market looks difficult as demolitions decline.
 
 The ongoing lull in scrapping activity is a worrying sign for the crude tanker market which is struggling with overcapacity. Moreover, a sharp decline in vessel earnings in 2H20 has also failed to rekindle demolitions. Only one VLCC has been scrapped since the beginning of 2019, while 104 new VLCCs have been delivered during this period, inflating tonnage supply
-
-**
 
 **Source:** Drewry Maritime Research
 

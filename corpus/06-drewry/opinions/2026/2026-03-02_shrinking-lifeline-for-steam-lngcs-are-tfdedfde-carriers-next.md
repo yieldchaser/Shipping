@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-03-02_shrinking-lifeline-for-steam-lngcs-are-tfdedfde-carriers-next.md"
-word_count: 840
+word_count: 839
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,8 +24,6 @@ Drewry expects about 25% of the total vessel demand to be for replacement tonnag
 Several steam turbine carriers are coming off charter and have limited employment opportunities. Moreover, the continued rate crash for steam vessels coincides with growing economic and environmental infeasibility, leaving many of these open carriers idled or laid up as re-employment opportunities remain challenging, while deliveries of modern carriers are at record highs, keeping supply ample.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

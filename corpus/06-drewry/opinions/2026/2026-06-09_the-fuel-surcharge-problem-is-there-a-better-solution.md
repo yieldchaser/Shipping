@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-06-09_the-fuel-surcharge-problem-is-there-a-better-solution.md"
-word_count: 497
+word_count: 496
 tags:
   - Container Shipping
   - Drewry
@@ -41,7 +41,5 @@ Director, Global Logistics - Bissell Homecare, Inc.
 The results demonstrate thatDrewry’s Standard BAFprovides shippers with a more efficient, transparent, and reliable way to manage fuel surcharge exposure, streamlining freight auditing, reducing administrative burden, and minimising the risk of invoicing errors.
 
 Adopting our standard BAF Policy provides a number of benefits:
-
-**
 
 **Source:** Drewry BAF and ETS programme

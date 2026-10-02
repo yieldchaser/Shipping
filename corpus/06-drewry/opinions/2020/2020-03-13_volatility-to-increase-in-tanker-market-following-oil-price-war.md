@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-03-13_volatility-to-increase-in-tanker-market-following-oil-price-war.md"
-word_count: 667
+word_count: 664
 tags:
   - Crude Tankers
   - Drewry
@@ -43,4 +43,4 @@ If Saudi Arabia manages to strike a deal with Russia to cut production in the sh
 
 However, once sustained weakness in oil prices starts hurting US crude production, Middle Eastern crude will start displacing US crude in Asia. This in turn will squeeze tonne-mile demand for tankers as the distance between the US to Asia is almost double the distance between the Middle East to Asia. Thus we estimate that every barrel per day of annual decline in US exports to Asia at the expense of the Middle East will lead to about a 2.5% decline in overall tonne-mile demand for tankers. Freight rates in such a situation will plunge below the pre-price war levels.
 
-**Source:** ** ** ** Baltic Exchange, Brent
+Source: Baltic Exchange, Brent

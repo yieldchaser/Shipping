@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2017/2017-11-15_has-chinas-thirst-for-crude-been-temporarily-quenched.md"
-word_count: 356
+word_count: 354
 tags:
   - Crude Tankers
   - Drewry
@@ -31,10 +31,6 @@ In a worst case scenario, if stocking was to be halted completely as many as 19 
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

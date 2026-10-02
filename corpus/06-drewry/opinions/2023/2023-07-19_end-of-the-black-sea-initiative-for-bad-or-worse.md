@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-07-19_end-of-the-black-sea-initiative-for-bad-or-worse.md"
-word_count: 519
+word_count: 517
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,8 +24,6 @@ After Russia suspended its participation in the Black Sea grain initiative, with
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 A total of 32.9 million tonnes of agricultural products were exported by Ukraine under the deal till July 16. The discontinuation of trade flow through this passage, or at least the temporary suspension of vessel movement in the region due to uncertainty will lead to a decline in shipping demand, particularly for the Supramax and Panamax vessels.
@@ -33,8 +31,6 @@ A total of 32.9 million tonnes of agricultural products were exported by Ukraine
 The safe passage through the Black Sea not being available, Ukraine is likely to depend on alternative routes – through Romania’s Constanta port and inland routes – for its exports. While the deal helped Ukraine export 16.8 million tonnes of wheat in the previous marketing year, approximately 39% of total wheat exported moved outside of the grain corridor, through Eastern Europe, particularly Romania. In 2022, Romania re-established rail links with Ukraine and neighbouring Moldova for transporting cargo. The construction of critical railway sections in Moldova which began in 2022, will increase the capacity and speed for Ukrainian products to reach the port of Constanta. In addition, they will also facilitate traffic heading to a group of smaller ports along the Danube river, the main inland waterway route in Europe. The accumulated capacity of these smaller ports can partly ease exports from Ukraine and serve as an important transit centre.
 
 Despite the possibility of these alternative routes providing some relief to Ukraine’s exports, the overall impact could further hurt the dry bulk shipping:
-
-**
 
 **Source:** Drewry Maritime Research
 

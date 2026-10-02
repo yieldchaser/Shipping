@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-04-30_the-great-indian-lockdown-pushes-suppliers-to-cut-production-and-shut-plants.md"
-word_count: 869
+word_count: 866
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,15 +29,9 @@ The demand for sunflower oil and soybean oil will not observe such a drastic dec
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

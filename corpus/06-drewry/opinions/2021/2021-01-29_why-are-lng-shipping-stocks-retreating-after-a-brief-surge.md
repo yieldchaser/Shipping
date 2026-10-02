@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-01-29_why-are-lng-shipping-stocks-retreating-after-a-brief-surge.md"
-word_count: 714
+word_count: 700
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,11 +27,11 @@ DMFR LNG shipping index declined 13.2% since mid-January with the fall in spot s
 
 Note: Priced as of 21 January 2021.
 
-**Source:** ** ** ** Sources: Baltic Exchange, Drewry Maritime Research,DMFR
+Source: Sources: Baltic Exchange,Drewry Maritime Research,DMFR
 
 Note: Indexed as of 31 Dec 2019.
 
-**Source:** ** ** ** Various exchanges, Baltic Exchange,DMFR
+Source: Various exchanges, Baltic Exchange,DMFR
 
 Despite the recent volatility in LNG shipping rates, we expect the prospect to be better in 2021 compared with the previous year. LNG demand recovery is expected to remain unhindered in 2021 with COVID-19 vaccination roll-out already underway in major countries and smaller countries expected to start their vaccination drives by end 2021. LNG shortage in Asian countries has increased due to high LNG demand in the winter. Many countries had to postpone their LNG purchase following high LNG prices in December and in most part of January.
 
@@ -39,10 +39,8 @@ We expect LNG spot charter rates for a TFDE vessel to average USD 69,000pd in 20
 
 Despite higher freight rates that we expect in 2021, we believe higher debt levels (debt/ equity and net debt/equity) will be a concern for investors, particularly for the companies that have a sizeable number of vessels on spot charter. Debt levels for the companies under our coverage increased last year on account of higher capex incurred on newbuild vessels.
 
-**Source:** ** ** ** Company, DMFR
+Source: Company,DMFR
 
-**
-
-**Source:** ** Company, DMFR
+Source: Company,DMFR
 
 We expect LNG shipping companies to report better earnings in 2021 compared with those reported in 2020 as LNG demand continues to improve. However, winning long-term charter at attractive rates will remain a challenge given high deliveries expected in 2021. We expect about 76 LNG vessels to be delivered in 2021, and about 20% of these vessels are still without any long-term contract. We prefer companies with solid revenue backlog, long-term cash flow visibility and healthy balance sheet.

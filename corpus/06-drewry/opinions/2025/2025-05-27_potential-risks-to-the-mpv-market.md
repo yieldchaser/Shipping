@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-05-27_potential-risks-to-the-mpv-market.md"
-word_count: 658
+word_count: 656
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -55,13 +55,9 @@ Since the March 12 tariff implementation, port calls of Project Carriers have de
 
 Selecting the ‘fuel of the future’ is one of the most complex and consequential decisions for shipowners, affecting the operational life of vessels for 20–25 years. While alternatives like LNG, hydrogen, and ammonia are gaining attention, major challenges include:
 
-**
-
 **Source:** Drewry Maritime Research
 
 Green fuel adoption in General and Project Cargo Fleet (≥2,600 dwt)
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-09-07_unrest-in-guinea-to-have-limited-impact-on-dry-bulk-market.md"
-word_count: 439
+word_count: 438
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,8 +27,6 @@ Bauxite generated 4.5% of the total global dry bulk shipping demand (tonne miles
 Over the past five years, Guinea became the largest bauxite supplier globally, leaving the other major exporters, Australia and Indonesia, far behind. Over the same period, China strengthened its position as the largest bauxite importer. The entire increase in global bauxite trade over the past five years has completely been sucked up by China as it was left with almost no option in the wake of the ongoing dispute with Australia and Indonesia’s decision to restrict exports of unprocessed minerals and ores.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

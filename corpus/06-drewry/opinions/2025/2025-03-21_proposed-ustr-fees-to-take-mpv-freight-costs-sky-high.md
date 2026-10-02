@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-03-21_proposed-ustr-fees-to-take-mpv-freight-costs-sky-high.md"
-word_count: 854
+word_count: 851
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,23 +25,17 @@ Among the General Cargo fleet, 34% are China-built while 22% comprise vessels th
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 Currently, 27% of the General Cargo vessels face fines of $1.5 million, while 54% are exempt from any fines when entering US ports. This positions General Cargo ships among the least affected categories by the newly proposed regulations compared to other sectors. The explanation is simple: As 41% of General Cargo ships are over 20 years of age, very few were built in China, since the Chinese shipbuilding industry became a significant player in the past two decades.
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 USTR-proposed fee will impact Project Cargo ships more than their General Cargo counterparts, as only 15% of the former ships are exempt from fines. This limitation leaves shippers with a very small number of vessels that are exempt from penalties. Also, most of the US-flagged vessels used by the shippers in the US trade are built in China, raising questions about how regulations will apply and whether these vessels will receive exemptions. If exemptions are granted, it could lead to some reflagging; however, this would contradict the goal of encouraging US-built ships. Consequently, the market will be divided into two tiers: China-built ships in addition to a limited number of ships that are neither China-built nor operated by Chinese carriers. As a result, the latter operators are likely to gain market share and higher profitability transporting goods to the US ports.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

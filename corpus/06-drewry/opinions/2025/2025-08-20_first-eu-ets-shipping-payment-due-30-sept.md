@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-08-20_first-eu-ets-shipping-payment-due-30-sept.md"
-word_count: 585
+word_count: 578
 tags:
   - Container Shipping
   - Drewry
@@ -26,15 +26,13 @@ Around 90 million tonnes of CO2 was emitted within the scope of the EU ETS, an i
 
 This increase is partly due to geopolitical factors, which caused vessels to take the longer route via the Cape of Good Hope instead of the shorter route via the Suez Canal.
 
-**Source:** ** ** ** EU MRV, Drewry
+Source: EU MRV, Drewry
 
 Despite accounting for 16% of the vessels (21% in terms of dwt capacity), the container sector emitted an aggregate of around 34% of the CO2 emissions, according to the EU MRV data.
 
 Note: ‘Others’ include all the remaining sectors with a low % share of emissions under EU ETS scope
 
-**
-
-**Source:** ** EU MRV, Drewry
+Source: EU MRV, Drewry
 
 Considering the current price of EUA (around EUR 70), an estimatedUSD 2.9 billionwill be due by the responsible parties in October this year.
 
@@ -44,9 +42,7 @@ For trading in the EU in 2024, each RoPax and passenger vessel will pay an avera
 
 Note: ‘Others’ include all the remaining sectors with low EU ETS cost per vessel
 
-**
-
-**Source:** ** EU MRV, Drewry
+Source: EU MRV, Drewry
 
 Shipping companies calling ports in the EU are working towards decarbonising their vessels through various methods:
 

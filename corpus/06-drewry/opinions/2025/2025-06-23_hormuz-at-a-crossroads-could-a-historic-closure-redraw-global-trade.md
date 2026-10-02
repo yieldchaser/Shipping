@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-23_hormuz-at-a-crossroads-could-a-historic-closure-redraw-global-trade.md"
-word_count: 1243
+word_count: 1242
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -22,8 +22,6 @@ The last time the Strait of Hormuz came agonisingly close to a complete closure 
 At the peak of the armed engagement between the two Middle Eastern neighbours, the Strait of Hormuz remained navigable and was never shut. Shipping continued as usual, albeit with caution.
 
 The other occasions in the recent past when the Strait of Hormuz was the centre of geopolitical turmoil in the region are listed below:
-
-**
 
 **Source:** Drewry Maritime Research
 

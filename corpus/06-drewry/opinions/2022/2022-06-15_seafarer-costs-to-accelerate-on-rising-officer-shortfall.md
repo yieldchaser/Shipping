@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-06-15_seafarer-costs-to-accelerate-on-rising-officer-shortfall.md"
-word_count: 438
+word_count: 437
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,8 +24,6 @@ The current officer supply shortfall is estimated to equate to around 5% of the 
 Looking ahead to 2027 the supply / demand gap is expected to widen to a deficit equating to over 8% of the global officer pool. This is despite a slight anticipated uptick in the rate of growth in supply as training rates increase now that Covid restrictions are much less significant. While ratings supply has also been slowing, this poses less concern to employers as it remains broadly elastic to increases in demand as the global fleet expands.
 
 “Recruiting and retaining quality officers with experience on sophisticated vessel types is likely to be the first pressure point in a tightening supply pool,” said Drewry’s head of manning research Rhett Harris. “Employers need to ensure that a career at sea is an attractive career option for ambitious and well-educated people.”
-
-**
 
 **Source:** Drewry’s Manning Annual Review and Forecast 2022/23
 

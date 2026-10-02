@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-03-28_forecast-impact-on-us-east-coast-container-port-calls-following-collapse-of-francis-scott-key-bridge-in-approach-to-baltimore-port.md"
-word_count: 711
+word_count: 710
 tags:
   - Container Shipping
   - Drewry
@@ -39,8 +39,6 @@ Average pre-berthing waiting times are an indicator of overall terminal congesti
 Even with the additional capacity and reduced volumes during 2023, waiting times in Baltimore and New York ports have only very recently come under control, dropping to 0.2 day on average in February 2024. In the Hampton Roads terminals, which were dealing with the highest utilisation in the area in 2023, they remain elevated at 0.5 day.
 
 **Source:** Drewry Ports and Terminals Insight
-
-**
 
 **Source:** Drewry Maritime Research
 

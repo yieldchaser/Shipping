@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-09-03_intra-asia-container-index.md"
-word_count: 141
+word_count: 140
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ This was the fifth consecutive weekly increase in the index, as typhoon-related 
 Link to WeChat update 德路里 | 亚洲内集装箱运价指数IACI继续走强，地缘冲突与台风扰动推升区内航线运价
 
 Not displaying?Click here to open this chart in a new window
-
-**
 
 **Source:** Drewry Intra-Asia Container Index, Drewry Supply Chain Advisors
 

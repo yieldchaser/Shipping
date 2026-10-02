@@ -6,7 +6,7 @@ category: "Maritime General"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-26_mpv-fleet-renewal-rising-demolition-pressure-yet-selective-scrapping.md"
-word_count: 468
+word_count: 467
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ In this analysis, we focus on the modelling assumptions to arrive at probable de
 **Source:** Drewry Maritime Research
 
 Drewry’s key assumptions:
-
-**
 
 **Source:** Drewry Maritime Research
 

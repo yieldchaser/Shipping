@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-07-06_faster-transit-times-and-easing-port-delays-light-at-the-end-of-the-tunnel-for-shippers.md"
-word_count: 420
+word_count: 419
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ Since January, port congestion in North America – the most congested region - 
 **Source:** Drewry’s Container Capacity Insight
 
 NB: Port congestion was “off scale” in the second half of 2021
-
-**
 
 **Source:** Drewry's Container Capacity Insight
 

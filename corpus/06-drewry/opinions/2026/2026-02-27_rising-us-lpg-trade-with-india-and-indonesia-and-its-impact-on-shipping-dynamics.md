@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-02-27_rising-us-lpg-trade-with-india-and-indonesia-and-its-impact-on-shipping-dynamics.md"
-word_count: 877
+word_count: 873
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -31,7 +31,7 @@ Recently, Indonesia signed an agreement to purchase $3.5 billion worth of US LPG
 
 The same factors that led to a rise in US share in Indonesia’s LPG imports also drove an increase in US share in Vietnam’s LPG imports. However, India’s shift was more gradual. In 2025, India imported 1.3 million tonnes of US LPG, lifting the US share to 6% from negligible levels in previous years, owing to China’s shift towards Middle East supply. India’s LPG imports from the US are poised to rise further with Indian LPG buyers—IOC, BPCL and HPCL—signing agreements in October 2025 to import 2.2 million tonnes in 2026 from Chevron, Phillips 66 and TotalEnergies, priced against Mt. Belvieu. The cargoes will be even split propane-butane that align with India’s heavy residential demand profile and anchors US–India LPG trade in 2026.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 Changing trade patterns and the shift towards longer haul movements, particularly on US–India/Indonesia route, is expected to strengthen tonne mile demand for LPG shipping. Even with the modest global LPG trade growth projections for 2026, the distance effect is set to dominate, allowing tonne mile demand to expand even if overall volumes remain broadly stable.
 

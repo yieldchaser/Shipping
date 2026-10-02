@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-07-24_scrubbers-cleaning-the-air-polluting-the-sea.md"
-word_count: 1297
+word_count: 1288
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,17 +29,17 @@ There are four SECA under MARPOL Annex VI and three new regions have been approv
 
 The Med SOxECA, along with the existing North Sea and Baltic Sea ECA, will form a European super emission control area. In order to further mitigate SOxair pollution, MEPC 83 approved another new SECA in April 2025 to cover the North-East Atlantic area, which further expands the super emission control area.
 
-**Source:** ** ** ** IMO
+Source: IMO
 
 Scrubbers or EGCS (exhaust gas cleaning system) initially became popular due to concern about the availability of very low sulphur fuel oil (VLSFO). Initially intended to reduce SOxemissions from heavy fuel oil (HFO) with sulphur content of 3.50% to 0.50%, the quality of scrubbers has since improved and they can now reduce SOxemissions to below 0.10%. This may impact the cost of voyages through the new SECA regions because of the higher cost of compliant fuels, unless the vessels have scrubbers installed.
 
 The popularity of wet scrubbers2has grown since 2018, with installations surging from 326 to 6,050 globally by end-2024, accounting for 5.34% of the global fleet. The main drivers of this surge are the regulations to reduce SOxemissions and the cost difference among HFO, VLSFO and low-sulphur marine gas oil (LSMGO).
 
-**Source:** ** ** ** Clarksons
+Source: Clarksons
 
 Several case studies have found that scrubbers are merely shifting the problem of pollution from the air to water. It can be seen that scrubbers are in compliance with the present environmental policies and guidelines, but studies consider them biased against the impact on the marine environment. It was found that the list of polycyclic aromatic hydrocarbons (PAHs) and hazardous substances from the U.S. Environmental Protection Agency (EPA) does not include the extremely harmful alkyl-PAHs, which paints an incomplete picture of the impact of the scrubber washwater discharge. Several projects found that major toxicological effects are related to alkyl-PAHs, vanadium and naphthalene. Scrubber washwater also affects components of the marine food web as it restricts the survival and growth of planktivorous invertebrates and fishes in their larval stages.
 
-**Source:** ** ** ** Sciencedirect, Study on Comparing emissions of polyaromatic hydrocarbons and metals from marine fuels and scrubbers (Anna Lunde, H., Ida-Maja, H., et al., 2021)
+Source: Sciencedirect, Study on Comparing emissions of polyaromatic hydrocarbons and metals from marine fuels and scrubbers (Anna Lunde, H., Ida-Maja, H., et al., 2021)
 
 In order to recover the lost biodiversity, several measures have been taken globally, such as the adoption of a global biodiversity framework, the EUs Biodiversity Strategy for 2030 under the European Green Deal, the Nature Restoration Law, Natura 2000 and strict proposals to ban scrubbers in Sweden and Contracting Parties of the OSPAR Convention3.
 

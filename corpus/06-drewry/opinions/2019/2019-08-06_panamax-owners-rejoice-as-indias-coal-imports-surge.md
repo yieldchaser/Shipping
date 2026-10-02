@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-08-06_panamax-owners-rejoice-as-indias-coal-imports-surge.md"
-word_count: 555
+word_count: 553
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -38,10 +38,6 @@ The inability of domestic coal producers to match domestic demand will keep impo
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

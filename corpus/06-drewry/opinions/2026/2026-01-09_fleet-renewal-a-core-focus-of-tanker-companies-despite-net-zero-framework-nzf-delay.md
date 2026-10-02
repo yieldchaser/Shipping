@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-01-09_fleet-renewal-a-core-focus-of-tanker-companies-despite-net-zero-framework-nzf-delay.md"
-word_count: 789
+word_count: 780
 tags:
   - Crude Tankers
   - Drewry
@@ -29,17 +29,15 @@ Another major tanker company, CMB.TECH (formerly Euronav) announced the sale of 
 
 Note: After numbers include newbuild orders. Average age is of whole fleet.
 
-**Source:** ** ** ** Frontline Shipping, Drewry Maritime Financial Research
+Source: Frontline Shipping,Drewry Maritime Financial Research
 
 Note: After numbers include newbuild orders. Average age is of whole fleet.
 
-**Source:** ** ** ** CMB.TECH, Drewry Maritime Financial Research
+Source: CMB.TECH,Drewry Maritime Financial Research
 
 Companies are capitalising on elevated second-hand prices by divesting older tonnage amid stricter ESG regulations, while redeploying cash from vessel sales along with strong operating cash into younger and more fuel-efficient vessels. Second-hand VLCC values have been increasing since 2H25. Newbuild and newbuild resale values of VLCC increased around 1.0% in last three months, while for 5- and 10-year-old VLCC tankers prices surged 1.3% and 1.7%. respectively. The strongest gain was recorded for 15-year-old VLCCs, whose values climbed 3.4% in the past three months.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-09-27_supply-tightness-in-soybean-oil-market-making-ways-for-sunflower-oil.md"
-word_count: 729
+word_count: 725
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,8 +29,6 @@ This supply tightness is likely to continue as Brazil’s soybean oil production
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research, USDA
 
 Global soybean oil prices started rising after Covid lockdowns as restocking happened in fear of second lockdown and quarantine measures. However, it kept rising in 2021 from US$1,099 per ton in January to US$1,569 per ton in May, before normalizing in June following the decline in biodiesel demand in the US. However, soybean oil prices in Brazil and Argentina are still up due to the higher domestic demand. Global buyers are looking for cheaper supplies from other South American countries and soybean oil alternatives.
@@ -43,15 +41,9 @@ Sunflower oil imports are also rebounding and are expected to increase in India 
 
 **Source:** Drewry Maritime Research, World Bank
 
-**
-
 **Source:** Drewry Maritime Research, The Solvent Extractors' Association of India
 
-**
-
 **Source:** Drewry Maritime Research, USDA
-
-**
 
 **Source:** Drewry Maritime Research, USDA
 

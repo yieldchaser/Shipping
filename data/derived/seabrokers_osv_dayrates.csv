@@ -1,4 +1,8 @@
 date,report_month,category,avg_dayrate_gbp,prev_year_dayrate_gbp,yoy_change_pct,min_dayrate_gbp,max_dayrate_gbp,med_psv_util,large_psv_util,med_ahts_util,large_ahts_util
+2026-09-01,Market Report September 2026,"AHTS DUTIES AHTS < 22,000 BHP",66231,36468,+81.61%,30044,200000,87%,79%,52%,61%
+2026-09-01,Market Report September 2026,"AHTS DUTIES AHTS > 22,000 BHP",110702,37599,+194.43%,70000,145000,87%,79%,52%,61%
+2026-09-01,Market Report September 2026,SUPPLY DUTIES PSVS < 900M2,18250,6889,+164.92%,13750,21000,87%,79%,52%,61%
+2026-09-01,Market Report September 2026,SUPPLY DUTIES PSVS > 900M2,22275,11644,+91.30%,15000,32500,87%,79%,52%,61%
 2026-08-01,Market Report August 2026,"AHTS DUTIES AHTS < 22,000 BHP",62332,15899,+292.05%,38517,117359,82%,79%,46%,73%
 2026-08-01,Market Report August 2026,"AHTS DUTIES AHTS > 22,000 BHP",96015,16024,+499.19%,34237,195598,82%,79%,46%,73%
 2026-08-01,Market Report August 2026,SUPPLY DUTIES PSVS < 900M2,18000,4737,+279.99%,15000,20000,82%,79%,46%,73%

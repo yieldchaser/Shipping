@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-18_the-global-diesel-crunch-russias-refinery-crisis-meets-middle-east-turmoil.md"
-word_count: 866
+word_count: 865
 tags:
   - Crude Tankers
   - Drewry
@@ -32,8 +32,6 @@ The disruption to Russian refining capacity has become so severe that authoritie
 The move is significant because Russia typically exports a surplus of 500,000–750,000 bpd of diesel. The deterioration in supply conditions has become so acute that the country is reportedly exploring motor fuel imports, including discussions involving India's Vadinar refinery, an unusual step for a nation that has long been a major fuel exporter.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry AIS
 

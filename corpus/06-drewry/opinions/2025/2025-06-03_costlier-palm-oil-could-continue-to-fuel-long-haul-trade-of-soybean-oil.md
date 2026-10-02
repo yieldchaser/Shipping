@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-03_costlier-palm-oil-could-continue-to-fuel-long-haul-trade-of-soybean-oil.md"
-word_count: 685
+word_count: 684
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -30,8 +30,6 @@ India’s imports of palm oil have decreased since the end of 2024, whereas the 
 * Total trade.
 
 **Source:** Drewry Maritime Research, TDM
-
-**
 
 **Source:** Drewry Maritime Research, TDM
 

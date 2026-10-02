@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-12-02_red-sea-ceasefire-a-wait-and-watch-moment-for-breakbulk-shipping.md"
-word_count: 614
+word_count: 613
 tags:
   - Container Shipping
   - Drewry
@@ -23,8 +23,6 @@ With the Red Sea ceasefire in place and a rising number of container vessels ret
 If the ceasefire holds and container vessels resume transits via the Red Sea in large numbers, the traffic is likely to surge, but this would not lead to immediate stability. A sudden influx of ships could lead to port congestion, delaying a full return to normal trade patterns. However, the outcome depends on how this benefits shippers, who may have to bear higher insurance costs and canal tolls through Suez or face elevated bunker prices via the COGH, along with stretched voyages.
 
 A resumption in container traffic will affect the breakbulk sector and will lead to:
-
-**
 
 **Source:** Drewry Maritime Research
 

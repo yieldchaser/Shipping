@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-01-28_gas-starved-europe-deflates-lng-shipping-rates.md"
-word_count: 648
+word_count: 647
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -34,8 +34,6 @@ The trend is expected to remain firm, with TTF futures averaging $57 per MMBtu f
 As a result, European LNG imports surged at end 2021 topping 7 million tonnes in December alone, with most supply sent from the US. Cargoes from other LNG exporters – Qatar, Oman, Peru, Nigeria and Russia - also discharged at European terminals in this period while some cargoes were also sourced from as far as Indonesia and Australia.
 
 *Until 15 Jan 2022
-
-**
 
 **Source:** Drewry AIS, Drewry Maritime Research
 

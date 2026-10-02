@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-06-10_north-europe-ports-productivity-under-pressure-due-to-higher-exchanges.md"
-word_count: 533
+word_count: 532
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ New analysis powered by Drewry AIS analytics shows that average call duration at
 As can be seen from the chart, the bulk of this port time is taken up at the terminal, representing around 60%, while pre-berth waiting forms a much smaller 20%, on average. This contrasts sharply with the performance at the main West Coast North America ports which suffered from much more severe pre-berth waiting delays, which peaked at 4.3 days in October 2021 - representing over 55% of average port call duration, according to Drewry’s AIS-based analysis.
 
 “Weaker demand recovery, uncongested alternative ports and established feeder networks has meant far less vessel queueing in European ports,” commented Drewry’s head of ports and terminals research Eleanor Hadland.“But a spike in vessel call exchanges has created a much larger headache for European terminal operators.”
-
-**
 
 **Source:** Drewry Ports & Terminals Insight 2Q22
 

@@ -53,3 +53,5 @@ Drewry consultants are having discussions with shippers on tactics to deal with 
 We will continue to monitor and highlight issues with schedule reliability, cancelled sailings, long dwell times and port congestion to inform stakeholders on trends and the leading or lagging operators.
 
 Weekly analysis of container capacity, cancelled sailings, port congestion, service reliability and dwell time: With carriers continuing to carefully adjust their schedules to meet demand, access to a regularly updated picture of service availability is more important than ever. We closely analyse the various service and schedule data feeds to understand current container capacity and anticipated market development - by alliance across the main trades, and to provide historical context include year-on-year comparisons in the weekly analysis.
+
+

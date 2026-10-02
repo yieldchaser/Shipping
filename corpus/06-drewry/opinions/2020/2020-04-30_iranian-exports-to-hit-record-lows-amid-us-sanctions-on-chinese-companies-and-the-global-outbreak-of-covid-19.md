@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-04-30_iranian-exports-to-hit-record-lows-amid-us-sanctions-on-chinese-companies-and-the-global-outbreak-of-covid-19.md"
-word_count: 446
+word_count: 445
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -28,8 +28,6 @@ Iran’s exports shrunk 28% (2 million tonnes) in 2019 compared with 2018 as the
 Although China’s economic growth is estimated to drop in 2020, we believe in the long-term, oil prices will rebound and China’s new MTO project capacities will be released, driving up demand for imported methanol. China will therefore remain a major methanol importer with MTO production facilities in the coastal areas importing methanol as a feedstock since it is cheaper to import than to transfer from the hinterland to coastal regions. We believe China will import additional methanol from other Middle Eastern countries in the long term and volume from Iran will reduce if the sanctions remain.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

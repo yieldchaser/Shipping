@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-05-23_escalating-port-congestion-strains-container-shipping-flows.md"
-word_count: 429
+word_count: 428
 tags:
   - Container Shipping
   - Drewry
@@ -37,8 +37,6 @@ Port delays are stretching transit times, disrupting inventory planning, and pus
 Adding to the pressure, the Transpacific eastbound trade is showing signs of an early peak season, fuelled by a 90-day pause in US–China tariffs, set to expire on 14 August.
 
 As a result:
-
-**
 
 **Source:** Drewry World Container Index
 

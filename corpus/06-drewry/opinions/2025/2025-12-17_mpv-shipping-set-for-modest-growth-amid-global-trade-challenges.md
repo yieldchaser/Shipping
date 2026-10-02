@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-12-17_mpv-shipping-set-for-modest-growth-amid-global-trade-challenges.md"
-word_count: 619
+word_count: 618
 tags:
   - Container Shipping
   - Drewry
@@ -33,8 +33,6 @@ Overall, MPV volume growth has been revised down to approximately 2.9% for 2026,
 Regulatory factors are shaping fleet dynamics, with alternative fuel vessels currently representing only 1.3% of the MPV fleet by dwt but accounting for 12.5% of the orderbook; a share expected to grow in 2026 as owners respond to IMO regulations and fuel availability. Fleet development in 2025 has been mixed: approximately 2.7 mdwt has been delivered, below the 4 mdwt forecast, bringing the total fleet to around 64.5 mdwt. Project Carriers performed strongly, with over 80% of their orderbook delivered, while General Cargo deliveries lagged due to higher slippages. We believe demolitions of General Cargo vessels will fall short of our expectations, limiting near-term oversupply risks, whereas they will be in line with our expectations for Project Carriers.
 
 Oversupply in the container sector and weak tonne-mile demand are pushing TC rates lower for container ships, increasing their competition with General Cargo vessels. Elevated deliveries and subdued demolitions in the General Cargo fleet will further squeeze utilisation and TC rates, particularly for mid-sized, low-lifting vessels. In contrast, Project Carriers could be better positioned due to the strong project pipeline, limited orderbook growth and specialised specifications, while competition from Handysize vessels could be limited due to controlled fleet growth and firm utilisation. A quick look at the 2025 TC rates trends below:
-
-**
 
 **Source:** Drewry Maritime Research
 

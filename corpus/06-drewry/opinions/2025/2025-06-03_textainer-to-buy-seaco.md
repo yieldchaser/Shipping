@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-03_textainer-to-buy-seaco.md"
-word_count: 463
+word_count: 462
 tags:
   - Container Shipping
   - Drewry
@@ -31,7 +31,5 @@ Triton will remain the leading lessor of containers with a fleet just in excess 
 Given that another large lessor is being taken over by a competitor, regulatory authorities in China, the US and Europe, which will need to approve the deal, are likely to raise some concerns over concentration and market dominance issues. The deal will, for instance, result in just five companies owning over 88% (on a teu basis) of the total leased pool of equipment in the fleet. At the end of 2024, Drewry research revealed that lessors controlled 48.1% of all containers in operation.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

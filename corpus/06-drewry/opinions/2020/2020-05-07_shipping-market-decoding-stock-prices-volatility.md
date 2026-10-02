@@ -6,7 +6,7 @@ category: "Maritime General"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-05-07_shipping-market-decoding-stock-prices-volatility.md"
-word_count: 5230
+word_count: 5125
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -33,7 +33,7 @@ The spread of the virus has forced OPEC+ to reconsider production cuts after the
 
 Despite these decisions, oil prices continue to spiral downwards as the global supply exceeds demand by nearly 20 mbpd. The supply- side pressures as a result of weak demand, uncontrolled production and an exhaustion of storage capacity drove the WTI crude to negative territory for the first time in history with the NYMEX WTI May crude futures contract closing at -USD 37.63 per barrel on 20 April 2020.
 
-**Source:** ** ** ** Macrotrends, DMFR
+Source: Macrotrends,DMFR
 
 Global oil demand will remain weak unless the world returns to pre-COVID-19 levels. The oversupply of nearly 20 mbpd (which is expected to decline gradually with improving demand and declining production) will lead to a surge in demand for crude oil storage as production cannot be reduced at the pace at which the demand has eroded in the last few months. Surplus oil is rapidly flowing into onshore storage capacities – commercial as well as strategic petroleum reserves (SPR) – across the globe. Market forecasts suggest that the world’s conventional oil storage – which can hold about 3.4 billion barrels – will run out of storage space by end May 2020 and thereafter flow into floating storage in oil tankers.
 
@@ -43,15 +43,15 @@ The rise in floating storage will limit vessel availability for active trade fur
 
 The movement in tanker shipping stock prices has a strong correlation with the spot TCE rates and Baltic Forward Freight Agreements (FFA). The recent data suggests that Euronav NV (NYSE: EURN) stock price has a correlation coefficient of 0.66 with FFA for VLCCs on TD3+1_M (Arabian Gulf to Japan) whereas the correlation coefficient was 0.73 with FFA for Suezmax on TD20+1_M (West Africa to UK- Continent). Frontline (NYSE: FRO) stock prices have a correlation coefficient of 0.66 with FFA for Suezmax on TD20+1_M (West Africa to UK-Continent) whereas the correlation coefficient was 0.70 with FFA for Aframax on TD17+1_M (Baltic to UK-Continent). DHT Holdings (NYSE: DHT) owns and operates only VLCCs and the company’s stock prices reflect a correlation coefficient of 0.71 with FFA for VLCCs on TD3+1_M (Arabian Gulf to Japan).
 
-**Source:** ** ** ** Baltic Exchange, DMFR, NYSE
+Source: Baltic Exchange,DMFR, NYSE
 
 Nortdic American Tankers (NYSE: NAT) owns and operates a homogeneous fleet of 23 Suezmax tankers and the company’s stock price has a correlation coefficient of 0.77 with FFA for Suezmax on TD20+1_M (West Africa to UK-Continent).
 
-**Source:** ** ** ** Baltic Exchange, DMFR, NYSE
+Source: Baltic Exchange,DMFR, NYSE
 
 Teekay Tankers (NYSE: TNK) stock price has a correlation coefficient of 0.81 with FFA for Suezmax on TD20+1_M (West Africa to UK- Continent) whereas the correlation coefficient was 0.77 with FFA for Aframax on TD17+1_M (Baltic to UK-Continent).
 
-**Source:** ** ** ** Baltic Exchange, DMFR, NYSE
+Source: Baltic Exchange,DMFR, NYSE
 
 The high correlation between stock prices of these companies and FFAs is mainly due to higher spot exposure of their fleet.
 
@@ -59,7 +59,7 @@ On the other hand, Tsakos Energy Navigation (NYSE: TNP) stock price has a low co
 
 There is no significant correlation between crude tanker FFAs and global indices (S&P 500 and Dow Jones) contrary to the strong correlation between crude tanker FFAs and crude tanker shipping stock prices. 1_M crude tanker FFAs have surged substantially since 1 March primarily on the back of firm demand for vessels at low oil prices whereas Dow Jones and S&P 500 have registered a decline of 6.4% and 5.3% respectively over the same period. Crude tanker FFAs have also outperformed global indices in the light of strong demand for crude tankers amid uncertainty in the global oil market following the attack on Saudi Arabia’s oil facilities and strong winter demand in 2H19.
 
-**Source:** ** ** ** Baltic Exchange, DMFR, NYSE
+Source: Baltic Exchange,DMFR, NYSE
 
 Output outside OPEC+ will also decline gradually as high-cost producers such as shale oil producers in the US, sand oil in Canada, and offshore oilfields in Brazil and North Sea will find it difficult to sustain their operations at lower prices. Accordingly, crude oil oversupply will gradually narrow in 2H20 due to declining production and improving demand with gradual easing of lockdown measures in major economies. However, tanker spot rates are expected to remain elevated on account of increased demand for floating storage in addition to transportation trade as the global oil market is expected to remain oversupplied at least in 2020. Tanker companies are expected to register a record revenue growth on the back of firm freight rates and higher utilisation. Additionally, lower bunker expenses will further enhance their margins and profitability, and companies will transfer the benefits to shareholders through higher dividends, stock buybacks or debt repayments.
 
@@ -67,43 +67,31 @@ Product tanker FFA (MRATCE+1_M) and product tanker spot rates have rallied from 
 
 The virus outbreak has led to a sharp drop in global economic activity, adversely affecting the demand and thus prices of refined products. As many refineries are shutting down, global refinery intake has fallen 11.9% to 73.2 mbpd between December 2019 and March 2020, leading to a plunge in oil demand. The IEA expects global oil demand to decline 6% yoy in 2020 to 93.3 mbpd, impacting transportation fuel and naphtha prices.
 
-**Source:** ** ** ** EIA, DMFR
+Source: EIA,DMFR
 
-**
-
-**Source:** ** EIA, DMFR
+Source: EIA,DMFR
 
 While COVID-19 has adversely impacted the demand for refined products, low product prices have led to the demand for clean floating storage. Gasoline prices declined ~50% during December 2019 to March 2020 whereas gasoil prices declined 47.2% during the same period. Falling refined product prices along with congestion at some ports resulted in the recent sharp increase in product tanker spot rates. TC2_37 TCE has increased 113% YTD 2020.
 
 Note – Product tanker spot rates have been indexed as of 1 Jan 2020
 
-**
+Source: Baltic,DMFR
 
-**Source:** ** Baltic, DMFR
-
-**
-
-**Source:** ** DMR, DMFR
+Source:DMR,DMFR
 
 While product taker FFA has recorded strong positive return YTD 2020, product tanker stocks and global equity indices have declined, indicating weak correlation with product tanker share prices and global equities. Product tanker stock prices overreacted to the surge in rates in late 2019 and thereafter corrected steeply in 2020 following the sharp fall in demand for refined products. For example, Ardmore stock price surged 35% in 4Q19 following the US sanctions on Cosco entities. The stock has declined 26.7% YTD 2020. Furthermore, product tanker stocks have been impacted by the global turmoil in the equity markets.
 
 Note: Product tanker FFA rates and product tanker share prices have been indexed as of 1 Jan 2020
 
-**
-
-**Source:** ** Baltic, Respective exchanges,DMFR
+Source: Baltic, Respective exchanges,DMFR
 
 Note: Product tanker FFA, Dow Jones and S&P 500 have been indexed as of 1 Jan 2020
 
-**
-
-**Source:** ** Baltic, Respective exchanges,DMFR
+Source: Baltic, Respective exchanges,DMFR
 
 Note: MRATCE+1_M FFA rates and share prices since 1 Jan 2019 have been included for this exercise. MRATCE+1_M FFA rates are for cross Atlantic region for MR vessels (47,000 dwt)
 
-**
-
-**Source:** ** Baltic, respective exchanges,DMFR
+Source: Baltic, respective exchanges,DMFR
 
 We believe the returns on product tanker shares have lagged those of product tanker FFA during the last three months as product tanker share prices corrected sharply after the surge in 4Q19, but are yet to reflect the recent surge in vessel earnings. The ongoing rally in product tanker FFA was led by the demand for clean products storage, which will start declining once the global economy recovers and the demand for products normalises.
 
@@ -117,9 +105,7 @@ Note: 1) All the three values have been indexed to 100 on 1 April 2018. The data
 
 2) The current month FFA for the route 5TC
 
-**
-
-**Source:** ** DMR, Baltic exchange and DMFR
+Source:DMR, Baltic exchange and DMFR
 
 The ‘well-diversified-but-skewed’ fleet of Star Bulk Carriers Corp. (NASDAQ: SBLK) is employed completely in the spot market. With about 80% of fleet capacity coming from Newcastlemaxes, Capesizes and Kamsarmaxes, it is no surprise that SBLK’s stock price moved in tandem with the large vessel spot market.
 
@@ -131,7 +117,7 @@ Note: 1) All the values have been indexed to 100 on 1 April 2019. The data shown
 
 2) The current month FFA for the route 5TC.
 
-**Source:** ** ** ** DMR, Baltic exchange and DMFR
+Source:DMR, Baltic exchange and DMFR
 
 SBLK’s major peer, Golden Ocean Group (GOGL) also displays similar correlation. GOGL operates a Capesize-dominated fleet as well, both in terms of quantity and capacity, having the highest correlation with the Capesizes at 0.77, followed by Handysizes at 0.74. GOGL also does not operate any Handysize vessel.
 
@@ -139,7 +125,7 @@ Note: 1) All the values have been indexed to 100 on 1 April 2019. The data shown
 
 2) The current month FFA for the route 5TC.
 
-**Source:** ** ** ** DMR, Baltic exchange and DMFR
+Source:DMR, Baltic exchange and DMFR
 
 Similarly, SALT which is a pure play Ultramax and Kamsarmax operator also showed a very high correlation with the Handysize FFAs at 0.84, followed by the Capesizes at 0.81. All the operators have seen their share prices highly correlated with the Handysize FFAs and Capesize FFAs, regardless of which vessel class they operate in.
 
@@ -147,13 +133,13 @@ Note: 1) All the values have been indexed to 100 on 1 April 2019. The data shown
 
 2) The current month FFA for the route 5TC.
 
-**Source:** ** ** ** DMR, Baltic exchange and DMFR
+Source:DMR, Baltic exchange and DMFR
 
 D/S Norden’s stock (DNORD) shows the least correlation among all operators because of its vessel class diversity in the product tanker segment. DNORD also exhibits the highest correlation of 0.37 to both Handysizes and Capesize FFAs, and only 0.13 to the Supramax FFAs and 0.23 to Panamax FFAs despite having 22.5 Supramax vessels and 17.5 Panamax vessels in a total fleet of 48 vessels.
 
 Pacific Basin (HK: 2343) owns a fleet of 82 Handysizes and 35 Supramaxes with a correlation of 0.70 and 0.48 to the Handysize and Supramax FFAs respectively. The company has a higher correlation of 0.58 with Capesize FFAs despite having no exposure to the larger vessel classes.
 
-**Source:** ** ** ** DMR, Baltic exchange and DMFR
+Source:DMR, Baltic exchange and DMFR
 
 The volatility in the dry bulk market can be gauged by the swings in spot rates and stock prices. Short-term FFAs, especially the current month FFAs, that have been considered for our analysis too exhibit a close relationship with the stock prices of the dry bulk operators. It is obvious that the correlation would be higher for pure play dry bulk operators and for operators that deploy their fleet in the spot market. However, it is interesting to see that every stock price has exhibited the highest correlation with either the Handysize FFAs or Capesize FFAs, the two extremes of the vessel classes by capacity, irrespective of the vessel class operated. Operators specialising in smaller vessel classes have shown highest correlations with Handysize FFAs followed by Capesize FFAs, while the larger vessel class operators have shown the highest correlation with Capesize FFAs followed by the Handysize FFAs. Panamax FFAs are at the third spot, followed by the Supramaxes at the fourth.
 
@@ -171,13 +157,13 @@ Note: 1) All the values have been indexed to 100 on 1 April 2020.
 
 2) BFA LPG represents current LPG FFA contract.
 
-**Source:** ** ** ** Baltic Exchange, DMRandDMFR
+Source: Baltic Exchange,DMRandDMFR
 
 Given these factors, the current month FFA contract for LPG has come down to the same levels as of last year, after a very strong year. The stock prices have shown a little more volatility, largely due to the fleet employment strategy. The stock of BW LPG, has shown the highest correlation of 0.59 with the current month FFA contracts. High correlation for BW LPG can also be attributed to a pure play VLGC fleet. As in other sectors, operators with fleet skewed towards larger capacity vessels, have shown higher correlation with the market.
 
 On the other hand, Navigator Holdings, the second largest operator under our coverage, showed the second highest correlation to the forwards market at 0.4, followed by Stealthgas, the smallest operator at 0.33.
 
-**Source:** ** ** ** Baltic Exchange, DMRandDMFR
+Source: Baltic Exchange,DMRandDMFR
 
 Weaker prices for all contracts in 2020 reflect the impact of the pandemic and oil price war. While this differential narrows considerably in LPG + 2 Cal, i.e. the calendar year 2021, it is not due to higher route averages. This gloomy outlook would impact share prices as well, especially those of larger carriers like BWLPG.
 
@@ -187,55 +173,41 @@ China, which has been the growth driver of LNG trade for the last few years, was
 
 Note: In the above chart, we have included LNG imports of China, South Korea, Thailand, India, Japan and Singapore
 
-**
-
-**Source:** ** GTIS, DMR,DMFR
+Source: GTIS,DMR,DMFR
 
 Note: In the above chart, we have included LNG imports of China, South Korea, Thailand, India, Japan and Singapore
 
-**
-
-**Source:** ** GTIS, DMR,DMFR
+Source: GTIS,DMR,DMFR
 
 The number of LNG vessels available for charter has gone up with the slump in LNG demand. Higher vessel availability and weak LNG trade growth have resulted in a sharp fall in LNG shipping spot rates.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
-**
-
-**Source:** ** DMR, DMFR
+Source:DMR,DMFR
 
 Share prices of LNG shipping companies (except Golar LNG) exhibit high correlation with LNG FFA. We believe the correlation of Golar LNG’s share price is lower than that of its peers as the company has high exposure to other segments like power projects and FLNG.
 
 Note: LNG FFA and share prices since 1 Jan 2020 included for this exercise. BLNG1+1M FFA rates are for Gladston-Tokyo route and for next month delivery
 
-**
-
-**Source:** ** Baltic and respective stock exchanges
+Source: Baltic and respective stock exchanges
 
 1M LNG FFA has declined at a higher rate than the share prices of LNG shipping companies. While LNG shipping stocks have fallen 37.7% on average YTD 2020, 1M LNG FFA has plunged 58% during the same period. We believe the higher decline in 1M LNG FFA can be attributed to the abrupt fall in LNG demand due to the spread of COVID-19, but the lower decline in share prices of LNG shipping companies is due to their low spot exposure. For example, Nakilat has a majority of its LNG ships trading on long-term charter with a revenue backlog of about USD 13mn. Most of Teekay LNG ships are also on fixed charter, although the company has some LPG ships trading in the spot market as well.
 
 Note: LNG FFA and share prices since 1 Jan 2020 have been included. BLNG1+1M rates are for Gladston-Tokyo route and for next month delivery. LNG share prices and FFA rates are indexed as of 1 Jan 2020
 
-**
-
-**Source:** ** Baltic and respective stock exchanges
+Source: Baltic and respective stock exchanges
 
 Despite the 58.0% YTD 2020 fall in 1M LNG FFA, one-year LNG FFA (BLNG1+1Cal) rates dropped only 21.3% as LNG shipping is expected to recover in 2021 with the spread of COVID-19 likely to be contained by end 2020.
 
 Note: BLNG1+1CAL represents calendar year 2021. BLNG+1M is for next month delivery. BLNG1+1M and BLNG +1 CAL are for Gladston-Tokyo route. BLNG1+1M and BLNG1+1CAL are indexed as of 1 Jan 2020
 
-**
-
-**Source:** ** Baltic
+Source: Baltic
 
 1M LNG FFA has declined 3.4x on average compared with Dow Jones and S&P 500, suggesting a sharper decline than the share prices of LNG shipping companies. LNG FFA as an asset class is more volatile than the broader equity index like Dow Jones and S&P 500.
 
-**Source:** ** ** ** Baltic and Respective stock exchanges, FFA and Indices data has been indexed as of 1 Jan 2020
+Source: Baltic and Respective stock exchanges, FFA and Indices data has been indexed as of 1 Jan 2020
 
-**
-
-**Source:** ** Baltic and Respective stock exchanges, FFA and Indices data has been indexed as of 1 Jan 2020
+Source: Baltic and Respective stock exchanges, FFA and Indices data has been indexed as of 1 Jan 2020
 
 While LNG shipping share prices and LNG FFA have declined sharply in the last few months, we believe long-term fundamentals of LNG shipping are intact due to the growing proportion of LNG in the overall energy mix. With Qatar, the world’s second largest LNG exporting country, deciding to go ahead with its expansion plans, we expect LNG trade to get back on the growth path from 2021 and project LNG trade to grow at a CAGR of 4% after 2020 when the virus is contained.
 
@@ -251,15 +223,11 @@ Historical trends suggest that stock prices of both companies have aligned close
 
 Note: Share prices are weekly
 
-**
-
-**Source:** ** WCI Spot rates assessed by Drewry, WSJ,DMFR
+Source:WCI Spot rates assessed by Drewry, WSJ,DMFR
 
 Note: Share prices are weekly
 
-**
-
-**Source:** ** WCI Spot rates assessed by Drewry, WSJ,DMFR
+Source:WCI Spot rates assessed by Drewry, WSJ,DMFR
 
 To boost its share price, APMM, in particular, has tried various options including allocating USD 2.3bn in ordinary dividends and engaging in share buybacks since 2017. The prolonged restructuring of the group and focus on vertical integration failed to create enough value for investors. Now with the COVID-19 pandemic, its stock price has taken a battering since the beginning of the year. Maersk’s shareholders lost 37% in value in the three-month period until 31 March 2020 as the stock traded under DKK 6,000, a price seen only in 2009 at the time of the financial crises. As such the group has suspended its 2020 full-year EBITDA guidance of USD 5.5bn citing the severe impact of COVID-19 on the global economy and container market.
 
@@ -279,14 +247,10 @@ Looking at the figure below, the relationship has largely held true between both
 
 Note: Share prices are weekly
 
-**
-
-**Source:** ** DMFR, WSJ
+Source:DMFR, WSJ
 
 Note: Share prices are weekly
 
-**
-
-**Source:** ** DMFR, WSJ
+Source:DMFR, WSJ
 
 Separately, as the prices of ship fuel plunged to USD 149 per tonne for HFO and USD 196 per tonne for VLSFO, the price gap between the two types of fuel dropped below USD 50 per tonne.

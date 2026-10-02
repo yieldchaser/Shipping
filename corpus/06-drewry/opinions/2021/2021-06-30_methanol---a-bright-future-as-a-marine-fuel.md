@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-06-30_methanol---a-bright-future-as-a-marine-fuel.md"
-word_count: 724
+word_count: 722
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -35,11 +35,7 @@ Furthermore, NOx and Sulfur are absent in methanol and PM emission is very low. 
 
 **Source:** Drewry Maritime Research, MMSA
 
-**
-
 **Source:** Drewry Maritime Research, MMSA
-
-**
 
 **Source:** Drewry Maritime Research
 

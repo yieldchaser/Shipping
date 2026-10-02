@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-09-06_high-tariffs-and-a-weak-rupee-hit-indian-vegetable-oil-imports---but-the-impact-to-be-short-lived.md"
-word_count: 580
+word_count: 577
 tags:
   - Crude Tankers
   - Drewry
@@ -39,14 +39,8 @@ In Drewry’s opinion, the recent decline in India’s edible oil imports will b
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-03-26_coronavirus-to-create-new-normal-in-lng-shipping.md"
-word_count: 826
+word_count: 825
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -42,8 +42,6 @@ Furthermore, as most of the long-term LNG contracts have oil-linked pricing, the
 After a bumper 2019 when 64 mtpa of liquefaction capacity reached the FID stage, many projects were in advanced stages of securing FID in 2020. However, depressed LNG prices and the impact of COVID-19 on LNG demand have led the developers to re-evaluate their strategies regarding the above projects which mean delays in reaching FID and commencement of operations. Major impacted projects include Rovuma LNG project (15.2 mtpa), Qatar’s North Field Expansion project (33 mtpa), Driftwood LNG (27.6 mtpa), Rio Grande LNG (27 mtpa) and Lake Charles (16.5 mtpa).
 
 Note: Projects that were likely to get FID in 2020 but got delayed
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-08-14_europes-freight-bills-to-go-up-as-younger-fleet-trades-in-the-region.md"
-word_count: 1010
+word_count: 1003
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -22,13 +22,13 @@ Europe’s freight bills are set to rise as the impact of EU ETS kicks in. The r
 
 The cap-and-trade system of emission allowances, which will require shipowners to purchase European Union Allowances (EUAs) equivalent to the CO2emitted from the vessel during the voyages, came into force on 1 January 2024. Almost 30% of the vessels trading in Europe are dry bulk carriers, according to the EU MRV data (2023), comprising the largest proportion of vessels that are vulnerable to the impact of the decarbonisation regulations. Hence, the criticality for dry bulk shipping.
 
-**Source:** ** ** ** EU MRV data 2023
+Source: EU MRV data 2023
 
 In tandem with the decline in the total number of vessels calling at EU ports in 2023 compared to 2022, the dry bulk vessels calling EU ports reduced from 4,248 in 2022 to 3,211 in 2023, registering the highest decrease of 24% among all major sectors.The CO2emissions per dwt reduced 6% in 2023 compared to 2022.
 
 Of the fleet of dry bulk vessels operating in Europe, three-quarters belong to the traditional Supramax, Ultramax, Kamsarmax, and mid-size as well as large Handysize vessel categories. This composition has not changed substantially YoY, with these segments being the top five categories in 2022 and 2023, as substantial commodities such as coal, grain and minor bulk are traded intra-Europe in these segments.
 
-**Source:** ** ** ** EU MRV data 2023, Drewry Maritime Research
+Source: EU MRV data 2023,Drewry Maritime Research
 
 The 24% decline in the number of vessels operating in the EU is spread across vessel segments with the maximum decline in Kamsarmax vessels.
 

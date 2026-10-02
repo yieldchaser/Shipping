@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-12-09_copper-concentrate-sails-smoothly-amid-chilean-unrest.md"
-word_count: 284
+word_count: 283
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,7 +29,5 @@ In the first few days of the unrest, port workers throughout Chile did hold stri
 Chile exported 1.17 million tonnes of copper concentrate in October 2019, which is only a minor decrease of 3% year on year. In 2018, copper concentrate exports from the country generated more than 100 billion tonne miles of demand and any sharp reduction in its trade would have hurt Supramax rates in the Pacific.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

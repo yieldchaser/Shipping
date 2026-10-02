@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-11-27_commencement-of-operations-at-the-simandou-mine-unlocks-a-new-era-of-long-haul-iron-ore-flows.md"
-word_count: 791
+word_count: 787
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -48,8 +48,6 @@ Consequently, the shipping cost structure of Brazil and Guinea will be broadly c
 
 This will push charter rates up on major routes and not only on West Africa-China, as fewer ships remain available for flexible deployment. Overall, the development of Simandou will create a structurally stronger Capesize freight market, with strong earnings across global routes for years to come.
 
-*  YTD average.
-
-**Source:** ** ** Clarkson’s, Drewry Maritime Research
+*  YTD average.Source: Clarkson’s,Drewry Maritime Research
 
 Simandou’s emergence marks a fundamental reshaping of long-haul iron ore trade flows, creating a structural uplift in global Capesize demand and supporting freight markets for the rest of the decade. Its high-grade ore also aligns with China’s decarbonisation path, reinforcing its strategic value.

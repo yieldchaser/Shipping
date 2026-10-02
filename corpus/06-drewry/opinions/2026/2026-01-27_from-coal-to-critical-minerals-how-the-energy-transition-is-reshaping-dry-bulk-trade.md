@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-01-27_from-coal-to-critical-minerals-how-the-energy-transition-is-reshaping-dry-bulk-trade.md"
-word_count: 840
+word_count: 835
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -42,11 +42,9 @@ Importantly for dry bulk shipping, lithium demand is not limited to passenger ca
 
 China’s EV market illustrates this dynamic. While total vehicle sales may plateau as the passenger car and two-wheeler segments mature, policy emphasis is shifting towards electric buses, trucks and commercial fleets. These vehicles require significantly larger battery packs, meaning the demand for total battery capacity, and by extension lithium consumption, continues to rise even if unit sales growth slows. For dry bulk markets, this distinction matters more than headline EV sales numbers.
 
-**Source:** ** ** ** International Energy Agency
+Source: International Energy Agency
 
-**
-
-**Source:** ** International Energy Agency
+Source: International Energy Agency
 
 Lithium ores are transitioning from niche cargoes to structurally relevant components of dry bulk trade. Spodumene and lepidolite are generating new, long-haul shipping demand centred on China and the US, with supply increasingly diversified across Australia, Latin America, Africa and South Asia. The growth in lithium ore shipments offers a clear, near-to-medium-term source of support for small- and mid-sized dry bulk vessels as the energy transition reshapes global trade flows.
 

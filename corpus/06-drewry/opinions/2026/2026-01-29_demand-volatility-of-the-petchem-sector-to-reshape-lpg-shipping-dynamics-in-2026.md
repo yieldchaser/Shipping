@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-01-29_demand-volatility-of-the-petchem-sector-to-reshape-lpg-shipping-dynamics-in-2026.md"
-word_count: 857
+word_count: 853
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -43,7 +43,7 @@ External factors may further tighten the global naphtha market. Removal of China
 
 Ethane remains the lowest cost feedstock, and Asia’s ethane fed capacity continues to expand. China’s ethane imports, entirely sourced from the US, are set to expand further in 2026 as new units come online. However, complete reliance on US supply exposes these crackers to trade policy and geopolitical risk, tempering ethane’s cost advantage.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 Geopolitical factors are likely to put pressure on downstream LPG demand in 2026. The US–China truce in 2025 briefly improved the sentiment and reopened spot flows, but Saudi acceptances released in December 2025 revealed China’s growing shift towards Middle Eastern supply. Any renewed escalation could quickly erode petchem margins and reshuffle cargo sourcing, tilting volumes between the US and the Middle East, and alter preferred routes such as Panama vs COGH.
 

@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-07-01_case-in-favour-of-liner-valuations.md"
-word_count: 897
+word_count: 889
 tags:
   - Container Shipping
   - Drewry
@@ -24,7 +24,7 @@ Drewry container equity index is a market capitalisation weighted index of 12 co
 
 * YTD ending 28 June 2022.
 
-**Source:** ** ** ** Refinitiv
+Source: Refinitiv
 
 With liner stocks down approximately 25% in 2022, the question that arises is whether this is the right time to invest in these stocks?
 
@@ -40,7 +40,7 @@ As a result of the high operating cash flows, balance sheets of all operators ar
 
 The Altman Z-score, based on the latest quarterly data, of the sampled companies clearly indicates that all liner companies are in the safe zone.
 
-**Source:** ** ** ** Company filings, Drewry Maritime Financial Research
+Source: Company filings,Drewry Maritime Financial Research
 
 DMFR uses a simple traffic light system to rank the risk profiles of companies based on their ‘Altman Z-score’, which is the output of a credit-strength test that gauges a company’s likelihood of bankruptcy. Z-score ranks each company’s risk profile based on five financial ratios: profitability, leverage, liquidity, solvency and activity to predict if a company has a high probability of being insolvent.
 
@@ -51,8 +51,6 @@ Drewry’s analysis highlights the robust industry fundamentals which present a 
 Analysing P/BV and EV/EBITDA of the broader Drewry container equity index suggests that the current industry valuation is below the long-term historical average, which provides an opportunity for equity investors. However, the downside risk could be a faster interest rate hike which will ultimately result in a recession and destroy consumer demand. We suggest a deep dive into company-specific factors to pick individual winners for investment.
 
 **Source:** Drewry Maritime Financial Research
-
-**
 
 **Source:** Drewry Maritime Financial Research
 

@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-10-03_drewry-introduces-new-breakbulk-sea-transport-indices-and-incorporates-within-its-multipurpose-forecaster-service.md"
-word_count: 284
+word_count: 280
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -21,9 +21,7 @@ London, UK, 03 October 2024 – To better reflect the nuances of the multipurpos
 
 Beyond the overall strength of the wider MPV sector, the new indices highlight the relative strength of Project Cargo, with carriers in this niche vessel segment experiencing a stronger market than General Cargo since the Covid boom.“With further increases in project cargo volumes anticipated in the second half of this decade, we expect the current divergence in market dynamics to continue,”said Dr Ferenc Pasztor, Head of Ports and Specialised Shipping Research.“To better present the status of the discreet sub categories within the overall multipurpose shipping sector, we have introduced these new Breakbulk Sea Transport Indices, which will be updated and published monthly on the Drewry website.”
 
-**
-
-**Source:** ** Multipurpose Shipping Forecaster, Breakbulk Sea Transport Indices
+Source:Multipurpose Shipping Forecaster,Breakbulk Sea Transport Indices
 
 This long-planned update also presented the opportunity to look beyond the vessel charter market and create indicators which provide guidance for the freight market.
 

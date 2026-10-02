@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-03-27_secondary-offerings-steal-limelight-in-2018-will-ipos-make-a-comeback.md"
-word_count: 850
+word_count: 839
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -21,27 +21,19 @@ tags:
 
 Despite low levels of interest in shipping IPOs in the US over the last few years, listed shipping companies continue to raise money through secondary/additional offerings and bond offerings in the US market. In addition, Oslo is slowly emerging as the preferred platform for shipping companies to raise equity. With the financial performance of shipping companies gradually improving, the woes of investors with respect to negative returns and irregular dividend streams should in our view be addressed. Accordingly, we expect more shipping IPOs globally from 2H19.
 
-**Source:** ** ** ** Bloomberg
+Source: Bloomberg
 
-**
-
-**Source:** ** Bloomberg
+Source: Bloomberg
 
 Oslo gradually gains stronghold in the stock market mix
 
-**
+Source: Bloomberg
 
-**Source:** ** Bloomberg
-
-**
-
-**Source:** ** BondEvalue
+Source: BondEvalue
 
 *as at 19 March 2019
 
-**
-
-**Source:** ** BondEvalue
+Source: BondEvalue
 
 The amount and frequency of dividend payments are slated to increase for shipping companies engaged in LNG, crude and product, and dry bulk trades with the expectation of positive earnings growth.
 

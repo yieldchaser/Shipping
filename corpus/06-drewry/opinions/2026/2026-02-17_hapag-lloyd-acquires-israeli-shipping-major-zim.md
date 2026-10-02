@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-02-17_hapag-lloyd-acquires-israeli-shipping-major-zim.md"
-word_count: 769
+word_count: 763
 tags:
   - Container Shipping
   - Drewry
@@ -30,11 +30,9 @@ The main synergy of this deal will stem from the significant capacity expansion 
 
 The acquisition is likely to provide a major boost to HLAG’s topline due to significant volume growth. In addition, HLAG intends to realise substantial cost savings from the acquisition of ZIM’s chartered fleet, which would provide greater operational flexibility. As a large portion of ZIM’s fleet is LNG-fuelled, the transaction is expected to generate additional cost savings, particularly as EU ETS regulations are anticipated to become more stringent this year. HLAG expects to realise synergies of USD 300–500mn from the transaction, which would significantly improve its EBIT margin. Given HLAG’s strong track record of successfully realising synergies from past mergers and acquisitions, the company is well positioned to capitalise on the current deal in our view.
 
-**Source:** ** ** ** HLAG, Based on CTS data 2024,Drewry Maritime Financial Research
+Source: HLAG, Based on CTS data 2024,Drewry Maritime Financial Research
 
-**
-
-**Source:** ** HLAG, Drewry Maritime Financial Research
+Source: HLAG,Drewry Maritime Financial Research
 
 HLAG’s share price is down 2.3% YTD as of 16 February 2026, underperforming the Drewry Container Equity Index (DCEI), which is up 2.3% over the same period. In contrast, ZIM’s share price is up 1.3% over the same period, outperforming HLAG, while still remaining below the DCEI.
 

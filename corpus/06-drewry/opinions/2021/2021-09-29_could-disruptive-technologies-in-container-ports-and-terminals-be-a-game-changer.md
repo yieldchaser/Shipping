@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-09-29_could-disruptive-technologies-in-container-ports-and-terminals-be-a-game-changer.md"
-word_count: 2015
+word_count: 2000
 tags:
   - Container Shipping
   - Drewry
@@ -38,13 +38,9 @@ To ascertain the financial impact of automation, we looked into APM Terminal’s
 
 Note - Data for financially consolidated terminals only
 
-**
+Source: AP Moller-Maersk,DMFR
 
-**Source:** ** AP Moller-Maersk, DMFR
-
-**
-
-**Source:** ** AP Moller-Maersk, DMFR
+Source: AP Moller-Maersk,DMFR
 
 Additionally, lowering labour cost (which is generally inelastic) will also make the cost structure more variable, adding to the resilience of the company’s margins. In other words, a higher proportion of variable cost lowers the operating leverage, which in turn translates into higher stability of margins. However, lowering labour costs, via pay-cuts or job-cuts, unsurprisingly leads to friction between the company’s management and labour unions as roles are re-defined. An automated terminal typically employs fewer manual grade workers, but creates additional higher skilled IT-focussed roles, which can result in job losses for workers that are unwilling or unable to upgrade their existing skills.
 
@@ -76,19 +72,15 @@ According to Drewry’s estimates, the global container port capacity is project
 
 Under normal operating conditions, 75% utilisation at a port or terminal is not very high. However, in the present stressed situation where the sector is still struggling with congestion, tightening of port capacity is expected to support the drive towards automation and digitalisation which could be key for enhancing productivity and capacity of existing terminal assets.
 
-**Source:** ** ** ** DMFR
+Source:DMFR
 
-**
-
-**Source:** ** DMFR
+Source:DMFR
 
 In the current scenario of lower interest rate and booming international trade, terminal operators are considering automation as an option to strengthen their operating profit. Cargotech, a leading port equipment provider, recently announced that its Kalmar business segment received record orders worth EUR 600mn (USD 507mn) which is up 105% YoY in 2Q21, translating to an orderbook of EUR 1.3bn (USD 1.1bn) at end 2Q21 (+42% YoY). Kalmar offers cargo handling equipment and automated terminal solutions, software and services used in ports, terminals, distribution centres and other related industries. The record orderbook is a further indicator of the current favourable market conditions for port equipment and automated solutions. Overall, the company estimates that the current size of the global terminal equipment market is EUR 1bn (USD 845mn), which is expected to double in the next decade.
 
 Exchange rate USD/EUR: 1.185052 (30 June 2021)
 
-**
-
-**Source:** ** Cargotech
+Source: Cargotech
 
 While some terminal operators are directly investing in innovative automation projects, others are using inorganic means to move ahead, acquiring specialist firms to take a leap in the automation space.
 

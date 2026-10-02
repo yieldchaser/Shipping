@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-12-04_congestion---a-short-term-problem-with-limited-impact-on-the-port-industrys-valuation.md"
-word_count: 713
+word_count: 708
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -22,8 +22,6 @@ Supply chains generally tend to be well orchestrated for moving goods across glo
 Port congestion occurs when ships arrive at the port but cannot load or unload because of the already full port capacity. Ships can either queue up and wait for their turn to get a spot at the port or call-in at the nearby port.
 
 There are multiple reasons:
-
-**
 
 **Source:** Drewry Supply Chain Advisors
 
@@ -41,6 +39,6 @@ As stated at the start of this analysis, port congestions are not new and have a
 
 Note: The index represents average stock price of ten port companies covered by Drewry.
 
-**Source:** ** ** ** DMFR
+Source:DMFR
 
 Also, financial markets are already enjoying the flood of liquidity injected by the central bankers/governments, which instead of supporting the real economy, is actually making its way into various financial assets. We believe liquidity will continue to support the Port company valuations at least until the vaccines are fully available and governments continue to pump money into their respective economies.

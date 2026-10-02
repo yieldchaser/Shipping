@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-05-30_shipowners-which-gambled-on-scrubbers-may-reap-rewards.md"
-word_count: 481
+word_count: 480
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -42,7 +42,5 @@ Based on our bunker price forecast, a scrubber-fitted non-eco VLCC will earn aro
 As LSFO will continue to hold the price premium of around $75 per tonne over HSFO even beyond 2023, scrubber-fitted vessels will continue to earn more than non-eco vessels without scrubbers. Moreover, non-eco scrubber-fitted vessels will be able to compete with modern eco-vessels (around 15% more fuel efficient) even beyond 2023.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

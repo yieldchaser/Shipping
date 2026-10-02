@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-12-14_chinas-import-restrictions-on-coal-spoils-the-party-for-panamaxes.md"
-word_count: 375
+word_count: 374
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,8 +29,6 @@ In order to control imports, authorities are tightening port restrictions, which
 Due to weak imports, employment opportunities will be affected primarily on the Indonesia-China and Australia-China routes, as 97% of Chinese imports are sourced from Indonesia and Australia, while the remaining are from Canada, the US and Colombia.
 
 * Until September
-
-**
 
 **Source:** Drewry Maritime Research
 

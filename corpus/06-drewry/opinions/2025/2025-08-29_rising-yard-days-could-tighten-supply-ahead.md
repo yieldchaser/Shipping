@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-08-29_rising-yard-days-could-tighten-supply-ahead.md"
-word_count: 600
+word_count: 599
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -29,8 +29,6 @@ Repair yard days are increasing not because of a single regulation, but as part 
 The age profile of the fleet has added another layer to this story as more than half the Capesize fleet is between 10 and 20 years old. This age profile is seeing the biggest jump in yard stays as these ships typically need the most retrofitting and fine-tuning to remain competitive under tightening carbon rules. By contrast, the under-10-year-old eco-ships usually require lighter adjustments, and so their repair days have remained low whereas ships that are more than 20 years old are spending less time in the yards in 2025. Many of the aged vessels are running on borrowed time and are likely to head for the scrapyards sooner rather than later, and so owners are reluctant to invest in costly upgrades.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

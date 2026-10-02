@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-12-19_us-lng---searching-for-new-destinations.md"
-word_count: 714
+word_count: 712
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -39,10 +39,6 @@ But if the dispute continues, we expect LNG spot trade to increase, with a more 
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

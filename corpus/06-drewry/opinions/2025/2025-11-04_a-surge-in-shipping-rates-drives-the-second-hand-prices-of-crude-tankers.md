@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-11-04_a-surge-in-shipping-rates-drives-the-second-hand-prices-of-crude-tankers.md"
-word_count: 575
+word_count: 574
 tags:
   - Crude Tankers
   - Drewry
@@ -30,8 +30,6 @@ With a tight supply of VLCCs, the Suezmax segment has emerged as the second-best
 Strong demand across the East of Suez has boosted Suezmax earnings, with Middle East–West Coast India rates exceeding $85,000pd. The booming market has also spurred a surge in second-hand activity across all size classes since September; gathering further momentum in October. This signals that the strength in larger segments is now cascading down to smaller counterparts such as the Aframax fleet.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

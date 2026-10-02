@@ -6,7 +6,7 @@ category: "Decarbonisation & Regulations"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-09-17_historic-disruption-to-saudi-oil-supply-to-have-severe-implications-for-oil-and-tanker-markets.md"
-word_count: 658
+word_count: 657
 tags:
   - Decarbonisation & Regulations
   - Drewry
@@ -32,7 +32,5 @@ In such a situation, if Saudi’s supply remains affected for one week, there wi
 However, if the Saudi Arabian crude oil supply remains affected for one month, the global oil and tanker markets will be severely impacted. Although the country’s inventory of 188 million barrels can fully compensate for the 5.7 mbpd drop in supply for one month, this is highly unlikely as it will exhaust most of Saudi Arabia’s crude oil stocks. If the supply remains affected for one month and Saudi Arabia manages to meet half of the disrupted supply through inventories, the country’s crude oil inventories will come down to around 100 million barrels. But as the remaining half of the global supply will come from inventory drawdown outside Saudi Arabia, it will lead to a significant decline in the demand for tankers. Since the average haul-length of Saudi Arabian crude is about 5,500 nautical miles (NM), the drop of 2.8 mbpd in the country’s exports for one month will render more than 50 VLCCs unemployed over this period. In such a situation, while oil prices will surge, freight rates in the crude tanker market will come down significantly.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-08-20_tanker-shipping-equities-state-of-the-market-and-rising-asset-prices.md"
-word_count: 1605
+word_count: 1594
 tags:
   - Container Shipping
   - Drewry
@@ -30,19 +30,17 @@ There was some positive development when crude oil prices hit a 30-month high in
 
 Note: Indexed to 31 Dec 2020.
 
-**Source:** ** ** ** NYSE, Drewry Maritime Financial Research
+Source: NYSE,Drewry Maritime Financial Research
 
 Key market indices were largely on an uptrend since the beginning of 2021 with S&P 500, Dow Jones Industrial Average (DJIA) and Nasdaq Composite gaining 17%, 14% and 13% YTD (as of 19 August) respectively while Drewry crude tanker index was relatively more volatile. Tanker equities also surged in the first six months on the back of demand optimism before they slid in July and August on concerns of more contagious Delta variant of the virus amid seasonal weakness. Accordingly, Drewry crude tanker index plunged by 21% in the past two month which offset the gains realised in 1H21 as weak vessel earnings across vessel classes put pressure on stock prices.
 
 Note: Indexed to Dec 2020
 
-**
-
-**Source:** ** NYSE, Drewry Maritime Financial Research
+Source: NYSE,Drewry Maritime Financial Research
 
 Meanwhile, tanker shipping continues to suffer from the 9% plunge in global oil demand in 2020 and persistent oversupply as vessel owners preferred to delay scrapping of older tonnage expecting a recovery. With the surge in steel prices due to strong steel demand, average demolition prices jumped by 36% in the past seven months to USD 560 per ldt (light displacement tonnage), ensuring that second-hand oil tankers command a premium over scrap prices and taking asset prices higher since the beginning of 2021.
 
-**Source:** ** ** ** Baltic Exchange, Drewry Maritime Financial Research
+Source: Baltic Exchange,Drewry Maritime Financial Research
 
 Second-hand prices of crude carriers are primarily influenced by prevailing vessel earnings and provide a better assessment of the existing supply-demand situation in the market. During extended periods of high charter rates, vessel values tend to appreciate and vice versa. Historical data suggests that second-hand values (5-year-old vessels) have occasionally surpassed newbuilding prices when vessel earnings are high; for instance in 2007–08 second-hand values were occasionally higher than newbuilding prices. More recently, asset prices were on the rise in March and April 2020 due to the sudden surge in vessel earnings because of increased demand of oil carriers to store excess crude oil supply. A reversal was soon witnessed when asset prices declined from May to December 2020 as the spot TCE rates plunged across vessel classes because of limited demand and ample tonnage availability.
 

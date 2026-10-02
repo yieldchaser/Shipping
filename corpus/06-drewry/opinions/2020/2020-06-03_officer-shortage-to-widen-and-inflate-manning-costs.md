@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-06-03_officer-shortage-to-widen-and-inflate-manning-costs.md"
-word_count: 475
+word_count: 474
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,8 +24,6 @@ Drewry estimates that there is currently a global officer shortage equating to a
 Looking ahead, despite moderating fleet growth, demand for officers is expected to accelerate due to a revision in anticipated employment practices to extend leave periods and reduce tours of duty, with the resultant impact on man-berth ratios. Meanwhile, net supply of officers has been slowing in recent years and is not expected to keep pace with rising demand, leading to a widening in the overall shortfall relative to merchant shipping’s requirements.
 
 “Seafaring is no longer the attractive occupation it once was as competition from shore-based roles intensifies and the lifestyle with its associated mental health challenges becomes less appealing,”said Drewry’s senior manning analyst Rhett Harris.“The Covid-19 outbreak has dealt a further blow to the occupation’s reputation with high profile news stories of stranded crews and enforced longer tours of duty.”
-
-**
 
 **Source:** Drewry‘s Manning Annual Review and Forecast 2020/21
 

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-05-21_guinea-set-to-supply-iron-ore-from-2026.md"
-word_count: 765
+word_count: 763
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -34,8 +34,6 @@ Australia and Brazil are currently the major suppliers of iron ore to China, acc
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 Guinea is 7,700 nautical miles farther to China than Australia, and thus, will employ dry bulk vessels for longer durations. To complete a round trip between Guinea and China, a vessel will require an additional 50 days compared with a round trip on the Australia-China route, which is already a Capesize route. Moreover, Capesize vessels are also gaining popularity on the Guinea-China route. Therefore, a shift in trade pattern will benefit Capesizes by increasing average haulage length.
@@ -49,7 +47,5 @@ The impact has been analysed based on two cases. In case A, it is assumed that C
 In Case A, iron ore trade of 120 million tonnes from Guinea-China in 2026 will require about 165 Capesizes with another 140 Capesizes required by 2030 if exports rise to 220 million tonnes. In Case B, where iron ore trade from Australia-China registers a decline with the growth in exports from Guinea, net demand for Capesizes would still expand by 103 vessels in 2026 and further by 92 vessels by 2030.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

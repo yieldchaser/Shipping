@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-03-03_russia-ukraine-war-to-underpin-vegoil-freight-rates-in-the-short-term.md"
-word_count: 493
+word_count: 492
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ The ongoing war will likely squeeze sunflower oil exports from Russia and Ukrain
 Ukraine is the largest producer of sunflower oil globally, exported 5.1 million tonnes of sunflower oil in 2021, of which 31%, 15%, and 10% were shipped to India, China, and the Netherlands, respectively.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

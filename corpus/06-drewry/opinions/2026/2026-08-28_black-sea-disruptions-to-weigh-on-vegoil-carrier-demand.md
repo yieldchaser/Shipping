@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-28_black-sea-disruptions-to-weigh-on-vegoil-carrier-demand.md"
-word_count: 566
+word_count: 565
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -32,8 +32,6 @@ From a global perspective, the impact of the Black Sea supply disruption extends
 India is likely to be among the hardest-hit importers, given the country’s heavy reliance on Black Sea sunflower oil supplies. This vulnerability comes at a time when Indonesia's B50 biodiesel mandate is already diverting more palm oil for domestic consumption, reducing exports and tightening global vegoil availability. As a result, India has increasingly been importing soybean oil from Latin America, but any disruption to Black Sea sunflower oil exports will further deepen the country’s dependence on long-haul shipments. Although a strong soybean harvest in Latin America bodes well for the vegoil market, helping bridge part of the supply gap, it is unlikely to fully offset lower palm oil and sunflower oil exports. Moreover, long-haul imports from Latin America will increase freight costs, thereby underpinning soybean oil prices in the price-sensitive Indian market, which could potentially result in demand destruction. Accordingly, we expect global vegoil trade to shrink this year.
 
 **Source:** Drewry Chemical Tanker Forecaster
-
-**
 
 **Source:** Drewry Maritime Research
 

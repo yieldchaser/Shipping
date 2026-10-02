@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-08-10_greenfield-container-port-projects-back-in-favour-with-terminal-operators.md"
-word_count: 647
+word_count: 646
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ Global container port capacity is projected to increase by an average annual rat
 While the majority (70%) of GTO investment plans remain focussed on existing assets, there has been a notable increase in the number of greenfield projects – with CMA Terminals, Hutchison and TIL all expected to add 4 mteu or additional greenfield capacity by 2026.
 
 Eleanor Hadland, author of the report and Drewry’s senior analyst for ports and terminals said:“The renewed appetite for greenfield projects shows improved confidence in the market outlook. However, the ability of CMA Terminals and TIL to secure volume guarantees from CMA CGM and MSC gives these companies an advantage over non-carrier affiliated operators.”
-
-**
 
 **Source:** Drewry’s Global Container Terminal Operators Annual Review and Forecast 2022/23
 

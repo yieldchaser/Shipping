@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-23_cost-volatility-in-shipping-a-growing-risk-for-shippers.md"
-word_count: 588
+word_count: 587
 tags:
   - Container Shipping
   - Drewry
@@ -27,8 +27,6 @@ More than five years have passed since the huge shipping disruptions, damaging p
 Rate volatility has many causes, including external geo-political disruptions like the attacks on ships in the Red Sea, changes in the supply and demand balance and stop-and-go tariff changes (and the accompanying front-loading and pauses in shipping volumes) and higher vessel insurance or fuel costs when security risks rise in areas such as Iran and the Gulf region.
 
 Transpacific rates from Asia to the US West Coast have been acutely volatile in the last six months, in the context of tariff announcements and sudden changes in both capacity and demand. Spot rates from Shanghai to Los Angeles halved between January and March, only to double between March and June –see below:
-
-**
 
 **Source:** Drewry World Container Index
 

@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-01-27_end-of-red-sea-diversions-raise-many-questions-for-shippers.md"
-word_count: 909
+word_count: 882
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -22,8 +22,6 @@ After more than 2 years of Red Sea diversions, it looks as if a return to the co
 While a gradual return of ocean carriers to the Suez Canal will shorten transit times and lower freight rates over time, several shipper customers of Drewry have rightly started thinking about the practical impact of re-routing on operations, on the predictability of re-routed carrier service… and the risks any temporary negative consequences may have on their supply chains.
 
 Below we share some tips and recommendations:
-
-**
 
 **Source:** Drewry Supply Chain Advisors
 
@@ -53,19 +51,17 @@ Not displaying?Click here to display this chart in a new window.
 
 Transit times on the Asia-North Europe & Med route have started to improve and sailing times in the coming weeks are expected to shorten. A full return towards the 20-day average pre-pandemic transit is likely to be gradual, and dependent on operating conditions, weather and service deployment.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 Continuous port congestion is recorded at some key European and Asian ports, with maximum ship waiting time reaching 6 days in Hamburg port, 8 days in Shanghai port and an average waiting times often exceeding 1 day during week 3. Over the same period, port congestion has improved in both Antwerp and Valencia ports.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
-**
-
-**Source:** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 From November to December, import dwell times dropped in Antwerp, Hamburg, and New York, while Genoa saw an increase to nearly six days. During the same period, Valencia recorded a one-day reduction, but import dwell times remained elevated at around five days in December.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 In December, carriers’ average schedule reliability on the major East-West routes dropped by 2 percentage points MoM to 47%. The marginal drop was driven by weaker performance on the Transpacific and Asia–North Europe & Med trades, partially offset by improvements on the Transatlantic and South Asia–North Europe & Med. Asia-Europe carrier schedule reliability declined between November and December.
 
@@ -73,18 +69,18 @@ Top 3 performers in Asia-North Europe & Med schedule reliability, in December, w
 
 As port congestion eases and more vessels return to the Suez route, schedule reliability should improve.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
-**
-
-**Source:** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 Despite strong year-on-year growth in capacity on the Asia–North Europe & Med trade in February (+20%), near-term supply conditions are tightening. A sharp MoM increase in blank sailings from 12 to 36 from January to February, is expected to drive a 17% reduction in effective capacity from January to February.
 
 This suggest that carriers are actively managing capacity to adjust to soft demand and port congestion constraints. Consequently, shippers may face space reductions in the near term, despite the apparent YoY expansion.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 Why should shippers monitor these external indicators, particularly for Asia-Europe/Mediterranean and Asia-US East Coast lanes?
 
 So, for shippers, it is important to determine what a likely return to the Suez route actually means to them, how predictable it is, and whether it will actually imply less – not more – variance in lead times and fewer – not more – surprises in how the shipment flows happen.
+
+

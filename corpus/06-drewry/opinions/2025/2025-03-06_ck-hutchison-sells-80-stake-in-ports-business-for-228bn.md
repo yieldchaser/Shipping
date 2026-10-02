@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-03-06_ck-hutchison-sells-80-stake-in-ports-business-for-228bn.md"
-word_count: 733
+word_count: 727
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -23,7 +23,7 @@ CK Hutchison Holdings Limited (CKH), founded by businessman Li Ka-shing, is a Ho
 
 * Exchange rate: 1 USD = 7.78 HKD as on 05 March 2025.
 
-**Source:** ** ** ** CK Hutchison
+Source: CK Hutchison
 
 The deal includes the sale of all shares in Hutchison Port Holdings and Hutchison Ports Group Holdings Limited which own interests in terminals in 43 ports located in 23 countries. It excludes Hutchison Ports’ interests in terminals in Mainland China and Hong Kong.
 
@@ -51,7 +51,7 @@ For BlackRock, the acquisition marks a further push into the ports and infrastru
 
 For a deeper analysis of the operational impact of this deal, our port expert Eleanor Hadland has already published a thought leadership piece.Click here to read it.
 
-**Source:** ** ** ** Refinitiv
+Source: Refinitiv
 
 We offer an independent equity research subscription service covering dozens of listed companies across all the main shipping sectors. As well as assessing the strategic, financial and operational position of these companies, our in-depth reports provide key valuation drivers, a risk/reward matrix and financial as well as industry analysis.
 

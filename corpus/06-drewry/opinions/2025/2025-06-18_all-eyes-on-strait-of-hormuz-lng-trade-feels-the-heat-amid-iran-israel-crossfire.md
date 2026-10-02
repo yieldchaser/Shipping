@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-18_all-eyes-on-strait-of-hormuz-lng-trade-feels-the-heat-amid-iran-israel-crossfire.md"
-word_count: 892
+word_count: 890
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -33,9 +33,7 @@ We expect any blockade to hamper the LNG market, affecting exports from Qatar an
 
 Note: mt – million tonnes and kt – thousand tonnes
 
-**
-
-**Source:** ** GIIGNL
+Source: GIIGNL
 
 Not smooth-sailing:As Asian buyers will be more exposed to disruptions in the Middle East than European buyers, we expect Asian Spot to rally amid a supply shortage. Although higher Asian LNG prices will incentivise exporters to ship their cargo to the East, the increased prices will dissuade price-sensitive buyers, especially from South and Southeast Asia.
 

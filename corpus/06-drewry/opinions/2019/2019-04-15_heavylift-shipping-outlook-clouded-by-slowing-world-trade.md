@@ -6,7 +6,7 @@ category: "Decarbonisation & Regulations"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-04-15_heavylift-shipping-outlook-clouded-by-slowing-world-trade.md"
-word_count: 519
+word_count: 518
 tags:
   - Decarbonisation & Regulations
   - Drewry
@@ -34,8 +34,6 @@ Meanwhile the project carrier fleet with lift over 100t SWL is growing at a rate
 The swing ships for this sector are the Handy bulk carriers and the container lines. The number of competing vessels looking for breakbulk and project cargo will depend very much on how the trade war between the US and China plays out. In the short term the MPV share is expected to improve as the competition moves back to its more traditional cargo base. However, as general cargo demand weakens over the longer term with slowing economic and trade growth, it is anticipated that these competing sectors with their own oversupply challenges will return to breakbulk and project cargo and so stagnate MPVs market share.
 
 * Based on timecharter rates received from brokers
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -72,3 +72,5 @@ The first-quarter results announced in May by Hapag-Lloyd covered only one month
 Hapag-Lloyd will announce its second-quarter financial results on 14 August.
 
 Drewry and many industry stakeholders will be watching how cost competitive its new Gemini operation was in the second-quarter.
+
+

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-07-09_will-the-alternative-steel-making-process-suppress-the-capesize-charter-rates-in-the-long-term.md"
-word_count: 729
+word_count: 728
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,8 +25,6 @@ There are two prominent processes for making steel:
 The steel making industry is trying to switch from the blast furnace route—anchored on iron ore—to the electric arc furnace route, which relies heavily on metal scraps. However, since recycled metal is in short supply, iron ore will continue to be used in increased quantity. As a result, any decline in iron ore trade due to a switch in technology is unlikely to happen soon, and the iron ore trade will continue to grow, supporting Capesize employment.
 
 **Source:** Drewry Maritime Research, Worldsteel
-
-**
 
 **Source:** Drewry Maritime Research, Worldsteel
 

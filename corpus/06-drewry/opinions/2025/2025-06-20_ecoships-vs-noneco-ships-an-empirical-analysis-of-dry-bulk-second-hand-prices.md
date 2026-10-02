@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-20_ecoships-vs-noneco-ships-an-empirical-analysis-of-dry-bulk-second-hand-prices.md"
-word_count: 621
+word_count: 618
 tags:
   - Container Shipping
   - Drewry
@@ -24,15 +24,9 @@ We analysed over 3,000 second hand dry bulk vessel transactions from the dataset
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

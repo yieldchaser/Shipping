@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-10-16_container-equipment-supply-pressure-easing.md"
-word_count: 482
+word_count: 478
 tags:
   - Container Shipping
   - Drewry
@@ -36,4 +36,4 @@ Leasing companies are still the main buyers of containers, maintaining the trend
 
 Away from the dry market, reefer building is still going strong, showing no signs of slackening despite the suggestion that other specials such as tanks would take over the market for high-value units.
 
-**Source:** ** ** ** Container Census & Leasing and Equipment Insight
+Source:Container Census & Leasing and Equipment Insight

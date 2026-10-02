@@ -1,5 +1,22 @@
 [
   {
+    "title": "Market Report September 2026",
+    "slug": "market-report-september-2026",
+    "date": "2026-09-01",
+    "year": 2026,
+    "month": 9,
+    "card_url": "https://seabrokers.no/chartering/en/seabreeze/market-report-september-2026/",
+    "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2026/10/Front-Page-Screenshot.png",
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2026/10/Seabreeze-September.pdf",
+    "file_size_bytes": 8208648,
+    "status_code": 200,
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-09-01_market-report-september-2026.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-09-01_market-report-september-2026.md"
+  },
+  {
     "title": "Market Report August 2026",
     "slug": "market-report-august-2026",
     "date": "2026-08-01",
@@ -13,8 +30,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-08-01_market-report-august-2026.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-08-01_market-report-august-2026.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-08-01_market-report-august-2026.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-08-01_market-report-august-2026.md"
   },
   {
     "title": "Market Report July 2026",
@@ -30,8 +47,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-07-01_markedsrapport-juli-2026.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-07-01_markedsrapport-juli-2026.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-07-01_markedsrapport-juli-2026.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-07-01_markedsrapport-juli-2026.md"
   },
   {
     "title": "Market Report June 2026",
@@ -47,8 +64,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-06-01_market-report-june-2026.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-06-01_market-report-june-2026.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-06-01_market-report-june-2026.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-06-01_market-report-june-2026.md"
   },
   {
     "title": "Market Report May 2026",
@@ -61,9 +78,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2026/06/Seabreeze-May.pdf",
     "file_size_bytes": 9769084,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-05-01_market-report-may-2025-2.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-05-01_market-report-may-2025-2.md"
   },
   {
     "title": "Market Report April 2026",
@@ -79,8 +98,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-04-01_market-report-april-2025-2.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-04-01_market-report-april-2025-2.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-04-01_market-report-april-2025-2.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-04-01_market-report-april-2025-2.md"
   },
   {
     "title": "Market Report March 2026",
@@ -96,8 +115,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-03-01_market-report-march-2026.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-03-01_market-report-march-2026.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-03-01_market-report-march-2026.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-03-01_market-report-march-2026.md"
   },
   {
     "title": "Market Report February 2026",
@@ -113,8 +132,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-02-01_market-report-february-2026.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-02-01_market-report-february-2026.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-02-01_market-report-february-2026.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-02-01_market-report-february-2026.md"
   },
   {
     "title": "Market Report January 2026",
@@ -130,8 +149,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2026-01-01_market-report-january-2025-2.pdf",
-    "markdown_path": "reports/seabrokers/2026/2026-01-01_market-report-january-2025-2.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2026-01-01_market-report-january-2025-2.pdf",
+    "markdown_path": "corpus/05-seabrokers/2026/2026-01-01_market-report-january-2025-2.md"
   },
   {
     "title": "Market Report December 2025",
@@ -147,8 +166,8 @@
     "pages": 3,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-12-01_market-report-december-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-12-01_market-report-december-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-12-01_market-report-december-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-12-01_market-report-december-2025.md"
   },
   {
     "title": "Market Report November/December 2025",
@@ -164,8 +183,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-11-01_market-report-november-december-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-11-01_market-report-november-december-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-11-01_market-report-november-december-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-11-01_market-report-november-december-2025.md"
   },
   {
     "title": "Market Report October 2025",
@@ -181,8 +200,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-10-01_market-report-october-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-10-01_market-report-october-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-10-01_market-report-october-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-10-01_market-report-october-2025.md"
   },
   {
     "title": "Market Report September 2025",
@@ -198,8 +217,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-09-01_market-report-september-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-09-01_market-report-september-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-09-01_market-report-september-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-09-01_market-report-september-2025.md"
   },
   {
     "title": "Market Report August 2025",
@@ -215,8 +234,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-08-01_market-report-august-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-08-01_market-report-august-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-08-01_market-report-august-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-08-01_market-report-august-2025.md"
   },
   {
     "title": "Market Report July 2025",
@@ -232,8 +251,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-07-01_market-report-july-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-07-01_market-report-july-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-07-01_market-report-july-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-07-01_market-report-july-2025.md"
   },
   {
     "title": "Market Report June 2025",
@@ -249,8 +268,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-06-01_market-report-june-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-06-01_market-report-june-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-06-01_market-report-june-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-06-01_market-report-june-2025.md"
   },
   {
     "title": "Market Report May 2025",
@@ -263,9 +282,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2025/06/Seabreeze-May.pdf",
     "file_size_bytes": 8610411,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-05-01_market-report-may-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-05-01_market-report-may-2025.md"
   },
   {
     "title": "Market Report April 2025",
@@ -281,8 +302,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2025-04-01_market-report-april-2025.pdf",
-    "markdown_path": "reports/seabrokers/2025/2025-04-01_market-report-april-2025.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-04-01_market-report-april-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-04-01_market-report-april-2025.md"
   },
   {
     "title": "Market Report March 2025",
@@ -295,9 +316,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2025/04/Seabreeze-March-1.pdf",
     "file_size_bytes": 8710931,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-03-01_market-report-march-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-03-01_market-report-march-2025.md"
   },
   {
     "title": "Market Report February 2025",
@@ -310,9 +333,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2025/03/Seabreeze-February.pdf",
     "file_size_bytes": 8165139,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-02-01_market-report-february-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-02-01_market-report-february-2025.md"
   },
   {
     "title": "Market Report January 2025",
@@ -325,9 +350,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2025/02/Seabreeze-January.pdf",
     "file_size_bytes": 9264802,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2025-01-01_market-report-january-2025.pdf",
+    "markdown_path": "corpus/05-seabrokers/2025/2025-01-01_market-report-january-2025.md"
   },
   {
     "title": "Market Report December 2024",
@@ -343,8 +370,8 @@
     "pages": 3,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2024-12-01_market-report-december-2024.pdf",
-    "markdown_path": "reports/seabrokers/2024/2024-12-01_market-report-december-2024.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-12-01_market-report-december-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-12-01_market-report-december-2024.md"
   },
   {
     "title": "Market Report November/December 2024",
@@ -357,9 +384,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/12/Seabreeze-November-December.pdf",
     "file_size_bytes": 10221784,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-11-01_market-report-november-december-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-11-01_market-report-november-december-2024.md"
   },
   {
     "title": "Market Report October 2024",
@@ -372,9 +401,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/11/Seabreeze-October.pdf",
     "file_size_bytes": 9696677,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-10-01_market-report-october-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-10-01_market-report-october-2024.md"
   },
   {
     "title": "Market Report September 2024",
@@ -387,9 +418,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/10/Seabreeze-September.pdf",
     "file_size_bytes": 8346171,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-09-01_market-report-september-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-09-01_market-report-september-2024.md"
   },
   {
     "title": "Market Report August 2024",
@@ -405,8 +438,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2024-08-01_market-report-2024.pdf",
-    "markdown_path": "reports/seabrokers/2024/2024-08-01_market-report-2024.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-08-01_market-report-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-08-01_market-report-2024.md"
   },
   {
     "title": "Market Report July 2024",
@@ -419,9 +452,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/08/Seabreeze-July.pdf",
     "file_size_bytes": 10784198,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-07-01_market-report-july-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-07-01_market-report-july-2024.md"
   },
   {
     "title": "Market Report June 2024",
@@ -434,9 +469,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/07/Seabreeze-June.pdf",
     "file_size_bytes": 6467434,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-06-01_market-report-june-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-06-01_market-report-june-2024.md"
   },
   {
     "title": "Market Report May 2024",
@@ -449,9 +486,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/06/Seabreeze-May-1.pdf",
     "file_size_bytes": 10394059,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-05-01_market-report-may-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-05-01_market-report-may-2024.md"
   },
   {
     "title": "Market Report April 2024",
@@ -464,9 +503,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/05/Seabreeze-April.pdf",
     "file_size_bytes": 10161997,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-04-01_market-report-april-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-04-01_market-report-april-2024.md"
   },
   {
     "title": "Market Report March 2024",
@@ -482,8 +523,8 @@
     "pages": 15,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2024-03-01_market-report-march-2024.pdf",
-    "markdown_path": "reports/seabrokers/2024/2024-03-01_market-report-march-2024.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-03-01_market-report-march-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-03-01_market-report-march-2024.md"
   },
   {
     "title": "Market Report February 2024",
@@ -496,9 +537,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/03/Seabreeze-February.pdf",
     "file_size_bytes": 18300284,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-02-01_markedsrapport-februar-2023-2.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-02-01_markedsrapport-februar-2023-2.md"
   },
   {
     "title": "Market Report January 2024",
@@ -511,9 +554,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/02/Seabreeze-January.pdf",
     "file_size_bytes": 15513853,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 15,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2024-01-01_market-report-january-2024.pdf",
+    "markdown_path": "corpus/05-seabrokers/2024/2024-01-01_market-report-january-2024.md"
   },
   {
     "title": "Market Report December 2023",
@@ -526,9 +571,11 @@
     "pdf_url": "https://seabrokers.no/chartering/en/seabreeze/market-report-december-2023/",
     "file_size_bytes": 0,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 3,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-12-01_market-report-december-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-12-01_market-report-december-2023.md"
   },
   {
     "title": "Market Report November/December 2023",
@@ -541,9 +588,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/12/SEABREEZE_November-December-1.pdf",
     "file_size_bytes": 3989766,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-11-01_market-report-november-december-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-11-01_market-report-november-december-2023.md"
   },
   {
     "title": "Market Report October 2023",
@@ -556,9 +605,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/11/SEABREEZE_October.pdf",
     "file_size_bytes": 3843267,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-10-01_market-report-october-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-10-01_market-report-october-2023.md"
   },
   {
     "title": "Market Report September 2023",
@@ -571,9 +622,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/10/SEABREEZE_September.pdf",
     "file_size_bytes": 4782142,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-09-01_market-report-september-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-09-01_market-report-september-2023.md"
   },
   {
     "title": "Market Report August 2023",
@@ -583,12 +636,14 @@
     "month": 8,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-august-2023/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/09/SEABREEZE_August-1-1-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/09/SEABREEZE_August-1.pdf",
+    "file_size_bytes": 4513068,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-08-01_markedsrapport-august-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-08-01_markedsrapport-august-2023.md"
   },
   {
     "title": "Market Report July 2023",
@@ -601,9 +656,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/08/SEABREEZE_July.pdf",
     "file_size_bytes": 4852811,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-07-01_market-report-july-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-07-01_market-report-july-2023.md"
   },
   {
     "title": "Market Report June 2023",
@@ -613,12 +670,14 @@
     "month": 6,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-juni-2023/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/07/SEABREEZE_June-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/07/SEABREEZE_June.pdf",
+    "file_size_bytes": 4728060,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-06-01_markedsrapport-juni-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-06-01_markedsrapport-juni-2023.md"
   },
   {
     "title": "Market Report May 2023",
@@ -631,9 +690,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/06/SEABREEZE_May-1.pdf",
     "file_size_bytes": 4117113,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-05-01_market-report-may-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-05-01_market-report-may-2023.md"
   },
   {
     "title": "Market Report April 2023",
@@ -646,9 +707,11 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_April-1.pdf",
     "file_size_bytes": 4500027,
     "status_code": 200,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-04-01_markedsrapport-april-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-04-01_markedsrapport-april-2023.md"
   },
   {
     "title": "Market Report March 2023",
@@ -658,12 +721,14 @@
     "month": 3,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-mars-2023/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/04/9fd62356-55ec-4025-bc78-482fdcb26bea-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_March-1.pdf",
+    "file_size_bytes": 3780040,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-03-01_markedsrapport-mars-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-03-01_markedsrapport-mars-2023.md"
   },
   {
     "title": "Market Report February 2023",
@@ -673,12 +738,14 @@
     "month": 2,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-februar-2023/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/03/c5efc8b9-959c-4ca3-b4c5-71008ebdfad7-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_February-1.pdf",
+    "file_size_bytes": 4751116,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-02-01_markedsrapport-februar-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-02-01_markedsrapport-februar-2023.md"
   },
   {
     "title": "Market Report January 2023",
@@ -688,12 +755,14 @@
     "month": 1,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-januar-2023/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/02/e2f07efe-31c4-4a27-8181-4c6a3d87d1a7-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_January-1.pdf",
+    "file_size_bytes": 4643643,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2023-01-01_markedsrapport-januar-2023.pdf",
+    "markdown_path": "corpus/05-seabrokers/2023/2023-01-01_markedsrapport-januar-2023.md"
   },
   {
     "title": "Market Report December 2022",
@@ -703,12 +772,14 @@
     "month": 12,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-desember-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/01/c360b67f-f4ee-40aa-9544-3da2cf87c9e3-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_December.pdf",
+    "file_size_bytes": 329620,
+    "status_code": 200,
+    "pages": 4,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-12-01_markedsrapport-desember-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-12-01_markedsrapport-desember-2022.md"
   },
   {
     "title": "Market Report nov./ dec. 2022",
@@ -718,12 +789,14 @@
     "month": 11,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-november-desember-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/12/dabfd666-9e28-49e5-98b1-069173947097-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_November-December.pdf",
+    "file_size_bytes": 11916558,
+    "status_code": 200,
+    "pages": 20,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-11-01_markedsrapport-november-desember-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-11-01_markedsrapport-november-desember-2022.md"
   },
   {
     "title": "Market Report october 2022",
@@ -733,12 +806,14 @@
     "month": 10,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-october-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/11/b143af62-2edc-4dd4-b617-61c1e3c03a45-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_October.pdf",
+    "file_size_bytes": 3801367,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-10-01_markedsrapport-october-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-10-01_markedsrapport-october-2022.md"
   },
   {
     "title": "Market Report September 2022",
@@ -754,8 +829,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2022-09-01_markedsrapport-september-2022.pdf",
-    "markdown_path": "reports/seabrokers/2022/2022-09-01_markedsrapport-september-2022.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-09-01_markedsrapport-september-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-09-01_markedsrapport-september-2022.md"
   },
   {
     "title": "Market Report August 2022",
@@ -765,12 +840,14 @@
     "month": 8,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-august-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/09/41c80506-2dd1-4ba6-8adc-89ba2c03731e-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_August.pdf",
+    "file_size_bytes": 5547799,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-08-01_markedsrapport-august-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-08-01_markedsrapport-august-2022.md"
   },
   {
     "title": "Market Report July 2022",
@@ -780,12 +857,14 @@
     "month": 7,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-juli-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/09/34e17750-317b-4abe-8beb-13e96c99487c-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_July.pdf",
+    "file_size_bytes": 4776297,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-07-01_markedsrapport-juli-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-07-01_markedsrapport-juli-2022.md"
   },
   {
     "title": "Market Report June 2022",
@@ -795,12 +874,14 @@
     "month": 6,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-juni-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/09/1403c0d3-f5d4-4f9e-8e9e-25be75afcdff-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_June16.pdf",
+    "file_size_bytes": 3839634,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-06-01_markedsrapport-juni-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-06-01_markedsrapport-juni-2022.md"
   },
   {
     "title": "Market Report May 2022",
@@ -810,12 +891,14 @@
     "month": 5,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-mai-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/06/e0626cb6-8e7a-4fb6-8c03-b7c7eed36cc6-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_May.pdf",
+    "file_size_bytes": 4450759,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-05-01_markedsrapport-mai-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-05-01_markedsrapport-mai-2022.md"
   },
   {
     "title": "Market Report April 2022",
@@ -825,12 +908,14 @@
     "month": 4,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-april-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/06/cd9e26e1-a7d5-4658-931a-e63c4a3e4bba-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_April.pdf",
+    "file_size_bytes": 4182934,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-04-01_markedsrapport-april-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-04-01_markedsrapport-april-2022.md"
   },
   {
     "title": "Market Report March 2022",
@@ -840,12 +925,14 @@
     "month": 3,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-mars-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/06/c0ca6905-da2c-4c2f-a130-c7df47aa63f9-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_March.pdf",
+    "file_size_bytes": 3869637,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-03-01_markedsrapport-mars-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-03-01_markedsrapport-mars-2022.md"
   },
   {
     "title": "Market Report February 2022",
@@ -855,12 +942,14 @@
     "month": 2,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-februar-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/03/d1f8788b-b602-486d-b484-9734517bcedd-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_February.pdf",
+    "file_size_bytes": 4271014,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-02-01_markedsrapport-februar-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-02-01_markedsrapport-februar-2022.md"
   },
   {
     "title": "Market Report January 2022",
@@ -870,12 +959,14 @@
     "month": 1,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-januar-2022/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/06/fae9c63f-7ad2-4b0c-9f08-036d8a4ed889-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_January.pdf",
+    "file_size_bytes": 4628954,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2022-01-01_markedsrapport-januar-2022.pdf",
+    "markdown_path": "corpus/05-seabrokers/2022/2022-01-01_markedsrapport-januar-2022.md"
   },
   {
     "title": "Market Report December 2021",
@@ -885,12 +976,14 @@
     "month": 12,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-desember-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/03/dc23866a-7cca-48a5-a248-b50730e905c8-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_December14.pdf",
+    "file_size_bytes": 322363,
+    "status_code": 200,
+    "pages": 4,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-12-01_markedsrapport-desember-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-12-01_markedsrapport-desember-2021.md"
   },
   {
     "title": "Market Report November/Desember 2021",
@@ -900,12 +993,14 @@
     "month": 11,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-november-desember-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/03/19224bc9-1b89-4f19-94f2-1f6e12a16b7e-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_November-December86.pdf",
+    "file_size_bytes": 6954801,
+    "status_code": 200,
+    "pages": 20,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-11-01_markedsrapport-november-desember-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-11-01_markedsrapport-november-desember-2021.md"
   },
   {
     "title": "Market Report October 2021",
@@ -915,12 +1010,14 @@
     "month": 10,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-oktober-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2022/03/b5e73fed-3136-47fe-b134-b53c0c18dfe7-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/SEABREEZE_October56.pdf",
+    "file_size_bytes": 4380386,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-10-01_markedsrapport-oktober-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-10-01_markedsrapport-oktober-2021.md"
   },
   {
     "title": "Market Report September 2021",
@@ -930,12 +1027,14 @@
     "month": 9,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-september-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2021/10/ab27c628-2e59-41c7-97e9-abb198898957-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-September-3.pdf",
+    "file_size_bytes": 7054505,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-09-01_markedsrapport-september-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-09-01_markedsrapport-september-2021.md"
   },
   {
     "title": "Market Report August 2021",
@@ -951,8 +1050,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2021-08-01_markedsrapport-august-2021.pdf",
-    "markdown_path": "reports/seabrokers/2021/2021-08-01_markedsrapport-august-2021.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-08-01_markedsrapport-august-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-08-01_markedsrapport-august-2021.md"
   },
   {
     "title": "Market Report July 2021",
@@ -968,8 +1067,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2021-07-01_markedsrapport-juli-2021.pdf",
-    "markdown_path": "reports/seabrokers/2021/2021-07-01_markedsrapport-juli-2021.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-07-01_markedsrapport-juli-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-07-01_markedsrapport-juli-2021.md"
   },
   {
     "title": "Market Report June 2021",
@@ -979,12 +1078,14 @@
     "month": 6,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-juni-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2021/10/475dfe4e-4a92-4ef7-800c-028fe651ab20-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-June-5.pdf",
+    "file_size_bytes": 4266620,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-06-01_markedsrapport-juni-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-06-01_markedsrapport-juni-2021.md"
   },
   {
     "title": "Market Report May 2021",
@@ -994,12 +1095,14 @@
     "month": 5,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-mai-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2021/06/411c9392-cd78-4e33-b433-db8f1c7426f2-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-May-4.pdf",
+    "file_size_bytes": 3821548,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-05-01_markedsrapport-mai-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-05-01_markedsrapport-mai-2021.md"
   },
   {
     "title": "Market Report April 2021",
@@ -1015,8 +1118,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2021-04-01_markedsrapport-april-2021.pdf",
-    "markdown_path": "reports/seabrokers/2021/2021-04-01_markedsrapport-april-2021.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-04-01_markedsrapport-april-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-04-01_markedsrapport-april-2021.md"
   },
   {
     "title": "Market Report March 2021",
@@ -1032,8 +1135,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2021-03-01_markedsrapport-mars-2021.pdf",
-    "markdown_path": "reports/seabrokers/2021/2021-03-01_markedsrapport-mars-2021.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-03-01_markedsrapport-mars-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-03-01_markedsrapport-mars-2021.md"
   },
   {
     "title": "Market Report February 2021",
@@ -1043,12 +1146,14 @@
     "month": 2,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-februar-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2021/06/71d50992-61cb-4516-b976-5c681411b04e-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-February79.pdf",
+    "file_size_bytes": 4815704,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-02-01_markedsrapport-februar-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-02-01_markedsrapport-februar-2021.md"
   },
   {
     "title": "Market Report January 2021",
@@ -1058,12 +1163,14 @@
     "month": 1,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-januar-2021/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2021/02/298a07ba-e354-409d-83db-7b78ec30132e-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-January-4.pdf",
+    "file_size_bytes": 3427097,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2021-01-01_markedsrapport-januar-2021.pdf",
+    "markdown_path": "corpus/05-seabrokers/2021/2021-01-01_markedsrapport-januar-2021.md"
   },
   {
     "title": "Market Report October 2020",
@@ -1079,8 +1186,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-10-01_markedsrapport-oktober-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-10-01_markedsrapport-oktober-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-10-01_markedsrapport-oktober-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-10-01_markedsrapport-oktober-2020.md"
   },
   {
     "title": "Market Report September 2020",
@@ -1090,12 +1197,14 @@
     "month": 9,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-september-2020/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2021/02/aab21d0f-b6e7-41b6-9a76-a1fc9b9a7a6e-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-September-1.pdf",
+    "file_size_bytes": 3476922,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-09-01_markedsrapport-september-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-09-01_markedsrapport-september-2020.md"
   },
   {
     "title": "Market Report August 2020",
@@ -1111,8 +1220,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-08-01_markedsrapport-august-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-08-01_markedsrapport-august-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-08-01_markedsrapport-august-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-08-01_markedsrapport-august-2020.md"
   },
   {
     "title": "Market Report July 2020",
@@ -1128,8 +1237,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-07-01_markedsrapport-juli-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-07-01_markedsrapport-juli-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-07-01_markedsrapport-juli-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-07-01_markedsrapport-juli-2020.md"
   },
   {
     "title": "Market Report June 2020",
@@ -1145,8 +1254,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-06-01_markedsrapport-juni-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-06-01_markedsrapport-juni-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-06-01_markedsrapport-juni-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-06-01_markedsrapport-juni-2020.md"
   },
   {
     "title": "Market Report May 2020",
@@ -1156,12 +1265,14 @@
     "month": 5,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-mai-2020/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2020/09/7e4e3f0f-4e7b-4e68-bfc6-35a59504ccd9-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-May-3.pdf",
+    "file_size_bytes": 5044171,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-05-01_markedsrapport-mai-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-05-01_markedsrapport-mai-2020.md"
   },
   {
     "title": "Market Report April 2020",
@@ -1171,12 +1282,14 @@
     "month": 4,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-april-2020/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2020/09/00ee7bf8-c7ff-41c0-9c8e-3b2798277d33-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-April-1.pdf",
+    "file_size_bytes": 3812986,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-04-01_markedsrapport-april-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-04-01_markedsrapport-april-2020.md"
   },
   {
     "title": "Market Report March 2020",
@@ -1192,8 +1305,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-03-01_markedsrapport-mars-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-03-01_markedsrapport-mars-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-03-01_markedsrapport-mars-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-03-01_markedsrapport-mars-2020.md"
   },
   {
     "title": "Market Report February 2020",
@@ -1209,8 +1322,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-02-01_markedsrapport-februar-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-02-01_markedsrapport-februar-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-02-01_markedsrapport-februar-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-02-01_markedsrapport-februar-2020.md"
   },
   {
     "title": "Market Report January 2020",
@@ -1226,8 +1339,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2020-01-01_markedsrapport-januar-2020.pdf",
-    "markdown_path": "reports/seabrokers/2020/2020-01-01_markedsrapport-januar-2020.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2020-01-01_markedsrapport-januar-2020.pdf",
+    "markdown_path": "corpus/05-seabrokers/2020/2020-01-01_markedsrapport-januar-2020.md"
   },
   {
     "title": "Market Report Nov/Dec 2019",
@@ -1237,12 +1350,14 @@
     "month": 11,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-nov-des-2019/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2020/04/a6316da1-8d5a-43c5-af6a-2182dddf3631-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-November-December-1.pdf",
+    "file_size_bytes": 4326938,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-11-01_markedsrapport-nov-des-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-11-01_markedsrapport-nov-des-2019.md"
   },
   {
     "title": "Market Report October 2019",
@@ -1252,12 +1367,14 @@
     "month": 10,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-oktober-2019/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2019/11/78e3b71d-169d-44cb-b142-b913ef1cb67b-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-October-4.pdf",
+    "file_size_bytes": 4416720,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-10-01_markedsrapport-oktober-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-10-01_markedsrapport-oktober-2019.md"
   },
   {
     "title": "Market Report September 2019",
@@ -1273,8 +1390,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2019-09-01_markedsrapport-september-2019.pdf",
-    "markdown_path": "reports/seabrokers/2019/2019-09-01_markedsrapport-september-2019.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-09-01_markedsrapport-september-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-09-01_markedsrapport-september-2019.md"
   },
   {
     "title": "Market Report August 2019",
@@ -1290,8 +1407,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2019-08-01_markedsrapport-august2019.pdf",
-    "markdown_path": "reports/seabrokers/2019/2019-08-01_markedsrapport-august2019.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-08-01_markedsrapport-august2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-08-01_markedsrapport-august2019.md"
   },
   {
     "title": "Market Report July 2019",
@@ -1307,8 +1424,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2019-07-01_markedsrapport-juli-2019.pdf",
-    "markdown_path": "reports/seabrokers/2019/2019-07-01_markedsrapport-juli-2019.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-07-01_markedsrapport-juli-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-07-01_markedsrapport-juli-2019.md"
   },
   {
     "title": "Market Report June 2019",
@@ -1324,8 +1441,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2019-06-01_markedsrapport-juni-2019.pdf",
-    "markdown_path": "reports/seabrokers/2019/2019-06-01_markedsrapport-juni-2019.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-06-01_markedsrapport-juni-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-06-01_markedsrapport-juni-2019.md"
   },
   {
     "title": "Market Report May 2019",
@@ -1335,12 +1452,14 @@
     "month": 5,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-mai-2019/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2019/07/8e872338-54af-4e1b-b6c8-25abe14beadc-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-May-2-1.pdf",
+    "file_size_bytes": 5591610,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-05-01_markedsrapport-mai-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-05-01_markedsrapport-mai-2019.md"
   },
   {
     "title": "Market Report April 2019",
@@ -1350,12 +1469,14 @@
     "month": 4,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-april-2019/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2019/07/fdb96198-c8f2-478a-9c62-e8631cfd5282-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-April-2.pdf",
+    "file_size_bytes": 4621301,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-04-01_markedsrapport-april-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-04-01_markedsrapport-april-2019.md"
   },
   {
     "title": "Market Report March 2019",
@@ -1371,8 +1492,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2019-03-01_markedsrapport-mars-2019.pdf",
-    "markdown_path": "reports/seabrokers/2019/2019-03-01_markedsrapport-mars-2019.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-03-01_markedsrapport-mars-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-03-01_markedsrapport-mars-2019.md"
   },
   {
     "title": "Market Report February 2019",
@@ -1388,8 +1509,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2019-02-01_markedsrapport-februar-2019.pdf",
-    "markdown_path": "reports/seabrokers/2019/2019-02-01_markedsrapport-februar-2019.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-02-01_markedsrapport-februar-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-02-01_markedsrapport-februar-2019.md"
   },
   {
     "title": "Market Report January 2019",
@@ -1399,12 +1520,14 @@
     "month": 1,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-januar-2019/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2019/03/57e0b586-b548-4283-8170-2e161e4a4c5f-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-January-2.pdf",
+    "file_size_bytes": 4237869,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2019-01-01_markedsrapport-januar-2019.pdf",
+    "markdown_path": "corpus/05-seabrokers/2019/2019-01-01_markedsrapport-januar-2019.md"
   },
   {
     "title": "Market Report December 2018",
@@ -1414,12 +1537,14 @@
     "month": 12,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-desember-2018/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2019/03/d571bbf3-8183-48ba-bcc2-3d71484d65ac-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/2018-December.pdf",
+    "file_size_bytes": 325955,
+    "status_code": 200,
+    "pages": 4,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-12-01_markedsrapport-desember-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-12-01_markedsrapport-desember-2018.md"
   },
   {
     "title": "Market Report Nov/Dec 2018",
@@ -1429,12 +1554,14 @@
     "month": 11,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-november-desember-2018/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2019/03/e8c7e723-7064-4cbf-a125-5ab3d349557b-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-November-December-2.pdf",
+    "file_size_bytes": 5203584,
+    "status_code": 200,
+    "pages": 20,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-11-01_markedsrapport-november-desember-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-11-01_markedsrapport-november-desember-2018.md"
   },
   {
     "title": "Market Report October 2018",
@@ -1450,8 +1577,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2018-10-01_markedsrapport-oktober-2018.pdf",
-    "markdown_path": "reports/seabrokers/2018/2018-10-01_markedsrapport-oktober-2018.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-10-01_markedsrapport-oktober-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-10-01_markedsrapport-oktober-2018.md"
   },
   {
     "title": "Market Report September 2018",
@@ -1461,12 +1588,14 @@
     "month": 9,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-september-2018/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2018/11/d99ae588-e6c2-4a8f-9f28-5384c42e9cef-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-September-2.pdf",
+    "file_size_bytes": 3977202,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-09-01_markedsrapport-september-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-09-01_markedsrapport-september-2018.md"
   },
   {
     "title": "Market Report August 2018",
@@ -1476,12 +1605,14 @@
     "month": 8,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-august-2018/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2018/11/a3d9e8d7-b420-4516-a812-54ea3431179f-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-August.pdf",
+    "file_size_bytes": 3911538,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-08-01_markedsrapport-august-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-08-01_markedsrapport-august-2018.md"
   },
   {
     "title": "Market Report July 2018",
@@ -1497,8 +1628,8 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2018-07-01_markedsrapport-juli-2018.pdf",
-    "markdown_path": "reports/seabrokers/2018/2018-07-01_markedsrapport-juli-2018.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-07-01_markedsrapport-juli-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-07-01_markedsrapport-juli-2018.md"
   },
   {
     "title": "Market Report June 2018",
@@ -1508,12 +1639,14 @@
     "month": 6,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/markedsrapport-juni-2018/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2018/07/1ee4e739-eef3-4027-ad56-d88300e75c97-1-724x1024.jpg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-June-2-1.pdf",
+    "file_size_bytes": 3669799,
+    "status_code": 200,
+    "pages": 16,
+    "downloaded": true,
+    "digested": true,
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-06-01_markedsrapport-juni-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-06-01_markedsrapport-juni-2018.md"
   },
   {
     "title": "Market Report May 2018",
@@ -1529,7 +1662,7 @@
     "pages": 16,
     "downloaded": true,
     "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/data/reports/seabrokers/pdfs/2018-05-01_markedsrapport-mai-2018.pdf",
-    "markdown_path": "reports/seabrokers/2018/2018-05-01_markedsrapport-mai-2018.md"
+    "local_pdf": "C:\\Users\\Dell\\Github\\Shipping\\corpus\\05-seabrokers\\pdfs\\2018-05-01_markedsrapport-mai-2018.pdf",
+    "markdown_path": "corpus/05-seabrokers/2018/2018-05-01_markedsrapport-mai-2018.md"
   }
 ]

@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-07-18_now-is-a-good-time-to-buy-lpg-coasters.md"
-word_count: 336
+word_count: 333
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -23,8 +23,6 @@ Firm freight outlook coupled with attractive valuation make small LPG coasters a
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 LPG shipping has been marred by an oversupply of vessels, with the Drewry LPG TCE index near its five year low. However, small LPG Coasters (1,000–5,000 cbm) are outperforming their larger counterparts for the last one year (A value greater than one signifies outperformance as shown in the figure above).
@@ -37,11 +35,7 @@ Imports of olefins by China have grown at a CAGR of 10% over the past two years.
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

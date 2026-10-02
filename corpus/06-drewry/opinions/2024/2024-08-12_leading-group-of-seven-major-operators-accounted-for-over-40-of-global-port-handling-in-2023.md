@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-08-12_leading-group-of-seven-major-operators-accounted-for-over-40-of-global-port-handling-in-2023.md"
-word_count: 534
+word_count: 532
 tags:
   - Container Shipping
   - Drewry
@@ -24,13 +24,9 @@ The position of the largest global terminal operators (GTOs) at the top of the r
 
 Eleanor Hadland, author of the report and Drewry’s senior analyst for ports and terminals said:“The seven largest GTOs all reported equity-adjusted throughput of more than 40 mteu in 2023. While several of the smaller GTOs have clearly stated their intention to expand their portfolios, there are very limited opportunities to close the 30 mteu wide gap that exists between this leading pack and the rest of the table.”
 
-**
-
 **Source:** Drewry’s Global Container Terminal Operators Annual Review and Forecast 2024/25
 
 Some highlights of this group:
-
-**
 
 **Source:** Drewry’s Global Container Terminal Operators Annual Review and Forecast 2024/25
 

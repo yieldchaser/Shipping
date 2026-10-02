@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-10-13_decoding-the-fall-in-stock-prices-of-dry-bulk-companies.md"
-word_count: 845
+word_count: 830
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,11 +25,9 @@ The supply-demand dynamic has turned around over the past four months. Barring D
 
 Note: Priced as of 9 October, 2022 and indexed as of 31 December, 2020.
 
-**Source:** ** ** ** Baltic Exchange, DMFR
+Source: Baltic Exchange,DMFR
 
-**
-
-**Source:** ** Various exchanges, DMFR
+Source: Various exchanges,DMFR
 
 1. Geopolitical tensions contribute to bearish sentiments
 
@@ -37,7 +35,7 @@ The ongoing geopolitical crisis, heightened inflation and restrictive monetary p
 
 Note: Priced as of 9 October, 2022 and indexed as of 31 December, 2021.
 
-**Source:** ** ** ** Yahoo Finance, DMFR
+Source: Yahoo Finance,DMFR
 
 2. China’s slowing economy
 
@@ -59,7 +57,7 @@ Contrary to the current dip in stock prices, we remain optimistic about the medi
 
 EBIT margin of the companies under our coverage has been on an uptrend since 1H21 because of the rally in freight rates in 2021. While we expect the margin to soften in the upcoming quarters, it should remain well above the historical average.
 
-**Source:** ** ** ** DMFR, Refinitiv
+Source:DMFR, Refinitiv
 
 The dry bulk shipping market is expected to remain challenging in the near term, but is likely to improve over the long term. Chinese demand will recover gradually since stimulus policies will be implemented and factories start functioning again after lockdowns in their regions are removed. We believe dry bulk companies will be attractive for long-term investment as they will start benefiting from improving supply-demand dynamics in the market.
 

@@ -50,3 +50,5 @@ For the forthcoming bid season, consider start preparation early, but keeping th
 If the market improves during the bid, Drewry has found that adding another round can improve results – this is also worth considering.
 
 The recommended strategy for 2025 ocean bids in Drewry’s view, is to secure sufficient capacity in a disrupted and volatile market at competitive costs, while avoiding being locked into very high contract rates for a long period and without taking on a high risk of unilateral surcharges.
+
+

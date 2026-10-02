@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-08-09_reefer-container-freight-rates-to-outgun-dry-cargo-rates-in-2022.md"
-word_count: 652
+word_count: 651
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ Drewry’s Global Reefer Container Freight Rate Index, a weighted average of rat
 The resurgence in reefer freight rates has not been uniform across all trades. Pricing recovery has been particularly strong on the main East-West routes, where vessel capacity conditions have been noticeably tight. But North-South trades have generally seen less price inflation, particularly on export routes from WCSA, Central America and Southern Africa.
 
 “In contrast to dry container freight rates which are expected to decline in 2022 as trade conditions normalise, reefer container freight rates are forecast to continue rising as price inflation feeds into North-South routes when long term contract rates are renewed,”said Drewry’s head of reefer shipping research Philip Gray.“Most reefer cargo on these trades moves on long term contracts.”
-
-**
 
 **Source:** Drewry’s Reefer Shipping Annual Review and Forecast 2021/22
 

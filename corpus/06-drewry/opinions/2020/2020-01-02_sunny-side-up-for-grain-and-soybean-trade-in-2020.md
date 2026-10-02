@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-01-02_sunny-side-up-for-grain-and-soybean-trade-in-2020.md"
-word_count: 480
+word_count: 479
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,8 +27,6 @@ However, the trade dispute which started in March 2018 and the series of tariffs
 But now as the US and Chinese governments are in the process of finalising the first phase of the trade truce, grain and soybean trade on US-China look set to stage a full recovery in 2020, with previous trade volumes implying an increase in the trade of 18.5 million tonnes over 2019, equivalent to 195 billion tonne miles of vessel employment.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

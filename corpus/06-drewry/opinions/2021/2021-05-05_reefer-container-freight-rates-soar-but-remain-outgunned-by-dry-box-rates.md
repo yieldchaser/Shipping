@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-05-05_reefer-container-freight-rates-soar-but-remain-outgunned-by-dry-box-rates.md"
-word_count: 525
+word_count: 524
 tags:
   - Container Shipping
   - Drewry
@@ -23,8 +23,6 @@ London, UK, 5th May 2021 – Reefer container freight rates have risen sharply t
 Drewry’s Reefer Container Freight Rate Index, a weighted average of reefer freight rates across the top 15 reefer intensive trade lanes, jumped 26% in the first quarter, on a seasonal uptick in cargo demand and rising bunker surcharges. This was its highest level since the Index was launched in 1Q17 and rates are expected to rise further through the second quarter. However, these increases are modest compared to the inexorable rise in dry freight rates, as illustrated in the chart below.
 
 “Tight container equipment availability and a shortage of slot capacity have been key drivers in forcing up freight rates, as a recovering reefer trade has struggled to compete for space with higher paying dry cargo traffic,”said Drewry’s head of reefer shipping research Philip Gray.“Despite record levels of reefer container production in 1Q21, Drewry expects equipment availability to remain tight over the next few years.”
-
-**
 
 **Source:** Drewry’s Reefer Shipping Forecaster 2Q21
 

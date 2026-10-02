@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-12-26_hmm-stake-sale-picks-up-pace-as-harim-holdings-named-preferred-bidder.md"
-word_count: 504
+word_count: 497
 tags:
   - Container Shipping
   - Drewry
@@ -24,15 +24,13 @@ Following the announcement, HMM’s stock surged 31.7% between 17 December and 2
 
 Note: Prices updated as of 22 December 2023. Drewry Container Equity Index is a market capitalisation-weighted index of AP Moeller - Maersk A/S, Hapag Lloyd AG, Orient Overseas (International) Ltd, Evergreen Marine Corp Taiwan Ltd, Wan Hai Lines Ltd, Yang Ming Marine Transport Corp, HMM Co Ltd, Regional Container Lines, COSCO Shipping Holdings Co Ltd, SITC International Holdings Co Ltd, Matson Inc, ZIM Integrated Shipping Services Ltd and Samudera Shipping Line Ltd.
 
-**Source:** ** ** ** Various Exchanges, Drewry Maritime Financial Research
+Source: Various Exchanges,Drewry Maritime Financial Research
 
 Given the premise of the winning bid to be of an estimated USD 4.9bn (KRW 6.4tn) for a controlling stake of 57.9%, a quick calculation suggests that the total market value of the HMM’s total equity to be USD 8.5bn (KRW 11.1tn). This translates into an implied P/B multiple of 0.48x. The average P/B multiple for a sample of peer companies comes out to be 0.75x; thus, executing the transaction at 0.48x, Harim also ends up with a quality deal.
 
 Note: Values as of 22 December 2023
 
-**
-
-**Source:** ** LSEG, Drewry Maritime Financial Research
+Source: LSEG,Drewry Maritime Financial Research
 
 We offer an independent equity research subscription service covering dozens of listed companies across all the main shipping sectors. As well as assessing the strategic, financial and operational position of these companies, our in-depth reports provide key valuation drivers, a risk/reward matrix and financial as well as industry analysis.
 

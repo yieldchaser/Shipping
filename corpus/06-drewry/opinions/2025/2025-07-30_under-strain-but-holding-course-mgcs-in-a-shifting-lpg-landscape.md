@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-07-30_under-strain-but-holding-course-mgcs-in-a-shifting-lpg-landscape.md"
-word_count: 501
+word_count: 498
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -39,7 +39,7 @@ Stagnation in ammonia trade:The global seaborne ammonia trade is currently domin
 
 3) Rising newbuild prices:MGC newbuild prices have risen 24% since 2023 to average $80 million in 2Q25. Rising newbuild prices, declining TC rates along with slowing green ammonia build-up have deterred new orders in the segment, raising concerns over further expansion of the fleet.
 
-**Source:** ** ** ** TDM, PPAC, Clarksons,Drewry Maritime Research
+Source: TDM, PPAC, Clarksons,Drewry Maritime Research
 
 Despite current challenges, the long-term outlook for MGCs is not entirely bleak. Several factors are working in favour of the segment, encouraging MGC rates to remain stable with respect to VLGCs, where vessel surplus will likely erode earnings.
 

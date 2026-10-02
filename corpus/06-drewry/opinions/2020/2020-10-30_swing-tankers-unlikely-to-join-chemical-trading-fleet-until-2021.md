@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-10-30_swing-tankers-unlikely-to-join-chemical-trading-fleet-until-2021.md"
-word_count: 645
+word_count: 644
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -36,8 +36,6 @@ As on 1 October, 1,851 vessels of the IMO-class tanker fleet aggregating 64.2 md
 Note: As of 1 October 2020. Fleet includes all IMO tankers with valid Certificate of Fitness.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

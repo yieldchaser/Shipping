@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-12-09_trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026.md"
-word_count: 593
+word_count: 592
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -36,8 +36,6 @@ Meanwhile, LPG demand for PDH and steam crackers is expected to diverge, with PD
 Flexible steam cracker units are expected to switch to alternative feedstocks, such as naphtha and ethane, which will impact LPG demand. Meanwhile, residential and commercial LPG demand continues to decline due to higher gas consumption, electrification drives and an increase in renewable power generation.
 
 “China’s trade policies and its petchem sector’s performance will have a direct impact on the performance of LPG shipping in 2026.”
-
-**
 
 **Source:** Drewry Maritime Research
 

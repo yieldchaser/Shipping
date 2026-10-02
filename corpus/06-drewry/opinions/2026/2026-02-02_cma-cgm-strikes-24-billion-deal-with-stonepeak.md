@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-02-02_cma-cgm-strikes-24-billion-deal-with-stonepeak.md"
-word_count: 405
+word_count: 404
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -30,8 +30,6 @@ The revised structure will see CMA Terminals retain ownership of 23 terminals in
 In contrast, the new United Ports portfolio will operate 13 terminals in six countries with a combined operating capacity of 17.8 mteu. The deal includes three major terminals in the US (located in Los Angeles and New York) and four in Spain (Algeciras, Bilbao, Seville, Valencia), with the remainder in high-growth emerging markets (i.e. Brazil, India, Taiwan (China), Vietnam). Total capacity of the portfolio is estimated at 20 mteu, but with  confirmed investment plans to expand capacity at Los Angeles, New York, Algeciras, Jawaharlal Nehru Port and Cai Mep, this is set to rise to over 23 mteu by 2030.  The injection of $2.4 billion into the business will certainly make funding these large-scale investments easier for CMA CGM.
 
 For Stonepeak, we see several advantages:
-
-**
 
 **Source:** Drewry Maritime Research
 

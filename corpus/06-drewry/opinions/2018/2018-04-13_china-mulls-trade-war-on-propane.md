@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-04-13_china-mulls-trade-war-on-propane.md"
-word_count: 635
+word_count: 634
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -30,8 +30,6 @@ Currently, China is the world’s biggest buyer of LPG. Not only have its import
 Moreover, the US share of China’s LPG imports has also grown from zero in 2012 to 19% in 2017. This strong long-haul trade on the US-China route has been a big source of employment for VLGCs over the past few years and so any reduction on this trade route will hit VLGCs the hardest.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

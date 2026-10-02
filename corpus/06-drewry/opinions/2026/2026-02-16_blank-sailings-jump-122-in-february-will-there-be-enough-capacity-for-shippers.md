@@ -35,3 +35,5 @@ Drewry’s unique market numbers on demand, supply and utilisation help answer t
 Therefore, we found that the measures taken by many ocean carriers to blank sailings – even if disruptive – are not disproportionate and will not cause a shortage of capacity overall.
 
 There will be less frequent sailings from many ports and volatility/variability of transit times remain high, but Drewry’s deep analysis should allay concerns among shippers for now, we believe.
+
+

@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-09-04_favourable-scrubber-economics-driving-the-crude-tanker-orderbook.md"
-word_count: 665
+word_count: 664
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -30,8 +30,6 @@ Analysing the orderbook, we find that about 60% of the vessels are scrubber-fitt
 Note: Dual fuel represents a vessel that can run on both - traditional fuel and a cleaner fuel like LNG, methanol and ammonia.
 
 **Source:** Drewry Maritime Research, Clarksons WFR
-
-**
 
 **Source:** Drewry Maritime Research, Clarksons WFR
 

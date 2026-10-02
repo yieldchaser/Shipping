@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-01-18_lng-market-riding-high-but-will-the-gains-continue.md"
-word_count: 1029
+word_count: 1027
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -39,8 +39,6 @@ In this respect it is worth noting that Nigeria LNG’sLNG Abalamabieis on its w
 
 Cold temperatures are likely to extend to February and March keeping LNG demand high in Asia. However, congestion at the Panama Canal congestion is easing with more vessels moving from the US to Asia transiting through the Suez Canal. Meanwhile, LNG supply is expected to grow with Australia’s Prelude FLNG and Egypt’s Damietta LNG restarting in 1Q21
 
-**
-
 **Source:** Drewry AIS
 
 Therefore, Asian LNG prices are set to fall in 2Q21, but will be higher year on year supported by a boost in LNG imports from Asian countries which had deferred spot supplies due to an increase in prices. Also, European storage will be depleted by the end of winter, triggering many LNG cargoes moving towards the region.
@@ -50,8 +48,6 @@ The rise in LNG prices is beginning to stabilise with Asian spot futures for Mar
 Meanwhile, LNG vessel supply will ease with 63 LNG carriers scheduled to be delivered in 2021 of which 31 are planned for 1Q21. Shipowners are trying to advance their vessel deliveries to take advantage of the ‘hot market’ with Flex LNG advancing the delivery of two of its vessels. Sinokor Merchant is also re-activating three of its laid-up steam turbine carriers for the spot market.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

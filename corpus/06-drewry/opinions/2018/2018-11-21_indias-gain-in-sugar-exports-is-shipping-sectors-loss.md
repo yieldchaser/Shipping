@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-11-21_indias-gain-in-sugar-exports-is-shipping-sectors-loss.md"
-word_count: 540
+word_count: 538
 tags:
   - Crude Tankers
   - Drewry
@@ -27,8 +27,6 @@ Brazil is the world’s top sugar exporter, accounting for more than half of glo
 
 *First three quarters
 
-**
-
 **Source:** Drewry Maritime Research
 
 In the first three quarters of 2018 Brazil’s sugar export declined by 5.8 million tonnes on yearly basis, equivalent to around 160 Handysize shipments. Most of the decline was in exports to the Middle East, North Africa, Asia and the Pacific. One factor behind the decline was increased in sugar availability from Thailand and India. Rising production in both countries and growing exports have increased competition in Asian and Middle Eastern markets, which in turn has led to a sharp decline in sugar prices.
@@ -40,8 +38,6 @@ India exported just 2 million tons of sugar in 2017, so the 2019 target is ambit
 In the first three quarters of 2018, sugar exports from Thailand-world’s second largest sugar exporter- increased by 31% on yearly basis, in part due to softening in domestic demand. Domestic demand has softened due to the government introducing a sugar tax on certain beverages in September 2017. Another hike in sugar tax rates is scheduled for October 2019 and this is expected to lead to a further decline in domestic sugar demand. Given that Thai sugar production is set to continue rising, exports are also expected to grow over the next two years.
 
 * First three quarters
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-01-07_lng-shipping-poised-for-further-normalisation-in-2025.md"
-word_count: 632
+word_count: 631
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -36,8 +36,6 @@ New FID wave expected in 2025–26:The pace of granting FIDs decelerated in 2024
 Geopolitical tensions show no sign of easing, with little prospect of any resolution to the conflict in Europe or tensions in the Middle East, likely in the near term.
 
 Another challenging year ahead for LNG shipping - some of the key potential scenarios and their impact on LNG shipping are summarised below:
-
-**
 
 **Source:** Drewry Maritime Research
 

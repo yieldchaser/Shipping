@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-13_what-reasons-for-panama-canal-surcharges.md"
-word_count: 600
+word_count: 593
 tags:
   - Container Shipping
   - Drewry
@@ -34,7 +34,7 @@ For those out of the loop, the Panama Canal Authority (ACP) has reintroduced a s
 
 Note: ACP's standard Neopanamax draft restriction is 15.24m / 50 feet.
 
-**Source:** ** ** ** Panama Canal Authority (ACP)
+Source: Panama Canal Authority (ACP)
 
 The ACP has done something similar before (early 2023 through 2024), and the resulting scarcity of transit capacity sent auction fees for some non-container vessels soaring.
 
@@ -46,7 +46,7 @@ That is particularly relevant to container shipping, given that container vessel
 
 Note: * Only includes large commercial, those paying tolls greater than the minimum tariffs implemented on 1 June 1998. (Small commercial traffic not included); ACP's financial calendar runs from October through September.
 
-**Source:** ** ** ** Panama Canal Authority (ACP), Drewry Maritime Research
+Source: Panama Canal Authority (ACP),Drewry Maritime Research
 
 So, at face value, if the number of daily transits is unchanged, where is the justification for carriers' surcharges?
 

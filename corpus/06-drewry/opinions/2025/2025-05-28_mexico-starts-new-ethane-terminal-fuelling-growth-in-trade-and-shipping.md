@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-05-28_mexico-starts-new-ethane-terminal-fuelling-growth-in-trade-and-shipping.md"
-word_count: 961
+word_count: 949
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -31,13 +31,13 @@ The new terminal enables full-capacity operations and supports a planned 25% cap
 
 Braskem will operate two Sr Eth carriers—Brilliant Future(delivered in January 2025) andBrave Future(scheduled for delivery in June 2025)—to ensure reliable ethane supply. Braskem has also signed long-term contracts with Enterprise Partners Products to seek ethane supplies from Morgan’s Point ethane export terminal.
 
-**Source:** ** ** ** EIA, Drewry Maritime Research
+Source: EIA,Drewry Maritime Research
 
 Braskem is already cracking ethane at its Bahia cracker in Brazil, where the cracker was modified to use up to 20% ethane along with naphtha. The ethane supplied is sourced from US Morgan’s point terminal. Braskem is also considering plans for modifying its three other crackers in Brazil to use 10–20% ethane, sourced from Brazil’s Petrobras.
 
 Ethane emerged as a petchem feedstock courtesy the US shale gas boom, which flooded the market with cheap ethane supply, benefitting US petchem producers by allowing them to produce olefins at high margins. After the initial surge in US ethane cracking, the growth is maturing while production is reaching record highs owing to increased natural gas processing. Higher ethane availability is enabling increased exports, with the US exporting 8.9 million tonnes of ethane in 2024.
 
-**Source:** ** ** ** EIA, Drewry Maritime Research
+Source: EIA,Drewry Maritime Research
 
 At present, terminal capacity and limited fleet availability restrict the export growth, but we expect US ethane exports to increase further as the Neches River Terminal Phase 1 project starts operations in 2025, raising US ethane export capacity by 3.7 mtpa. Additionally, Marcus Hook Terminal Expansion Optimisation and the Nederland Flexport Expansion project are expected to increase US ethane export capacity by 1.4 mtpa and 5.1 mtpa, respectively, in 2026.
 
@@ -51,7 +51,7 @@ Rising ethane demand from the petchem sector supported the rise in VLEC and late
 
 However, new vessel orders have slowed so far in 2025, with only four VLECs ordered in the first quarter. Growing concerns over potential vessel surplus and regulatory uncertainty surrounding Chinese-built ships under the USTR Section 301 review have led to a pullback in new orders. The recent exception for US ethane from China’s retaliatory 125%tariff has further safeguarded the investments in this segment, with more orders expected to follow.
 
-**Source:** ** ** ** Clarksons’, Drewry Maritime Research
+Source: Clarksons’,Drewry Maritime Research
 
 The global ethane trade is poised for accelerated growth over the coming years, fuelled by strong market fundamentals. Robust US NGL production, ethane’s cost advantage over alternative feedstocks like propane and naphtha, and a surge in ethane-based cracker projects are collectively driving this momentum.
 

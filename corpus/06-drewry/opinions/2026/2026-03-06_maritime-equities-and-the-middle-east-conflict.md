@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-03-06_maritime-equities-and-the-middle-east-conflict.md"
-word_count: 566
+word_count: 562
 tags:
   - Container Shipping
   - Drewry
@@ -28,9 +28,7 @@ Note: Drewry Port Equity index, which is a market capitalisation weighted index,
 
 The Iran conflict, which has dragged the entire Middle East into its orbit, has compelled liner operators to suspend any efforts to resume transits through the Red Sea. This development has had an immediate positive impact on container shipping equities as it effectively removed the risk of latent capacity entering the market and thereby disrupted the supply–demand balance. In addition, the conflict is expected to worsen port congestion, as vessels avoiding high-risk zones arrive at ports without prior scheduling. The resulting delays and operational bottlenecks are likely to absorb effective capacity, potentially exerting upwards pressure on spot rates across major trade lanes.
 
-Note: Drewry Container Equity Index is a market capitalisation-based index. The index comprises market cap data of AP Moller Maersk, Hapag-Lloyd, Evergreen Marine, Wan Hai Lines, Yang Ming Marine, COSCO Shipping Holdings – A share, OOIL, Samudera Shipping Line, Regional Container Line, Matson Inc and HMM.Indexed as of 31 December 2024; Prices updated as of 5 March 2026.
-
-**Source:** ** ** NYSE, Drewry Maritime Financial Research
+Note: Drewry Container Equity Index is a market capitalisation-based index. The index comprises market cap data of AP Moller Maersk, Hapag-Lloyd, Evergreen Marine, Wan Hai Lines, Yang Ming Marine, COSCO Shipping Holdings – A share, OOIL, Samudera Shipping Line, Regional Container Line, Matson Inc and HMM.Indexed as of 31 December 2024; Prices updated as of 5 March 2026.Source: NYSE,Drewry Maritime Financial Research
 
 Please download the PDF for our detailed take.
 

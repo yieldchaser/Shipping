@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-09-15_recovery-in-chinas-lpg-imports-can-the-rebound-fuel-robust-growth-in-2h25.md"
-word_count: 889
+word_count: 885
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,7 +27,7 @@ The US–China tit-for-tat tariffs in April created tensions in China’s petche
 
 Chinese buyers moved to secure alternative supplies from the Middle East and Canada but the associated premiums exacerbated negative margins, especially for smaller and less-efficient crackers. Consequently, China’s imports from the US dropped, while the premiums hampered demand from the petchem sector. Additionally, Middle Eastern cargoes with even propane-butane splits are misaligned with China’s propane-heavy demand.
 
-**Source:** ** ** ** TDM, Drewry Maritime Research
+Source: TDM,Drewry Maritime Research
 
 As a result, China’s overall imports plunged in June, with US LPG’s share of China’s imports crashing to 12% (from 59% in February 2025), reflecting reduced fixtures post-April. However, a 90-day tariff pause (with China’s retaliatory tariff on US LPG falling from 125% to 10%) prompted a cautious recovery in China’s LPG imports, with the US share rising to 17% in July. The tariff pause failed to alleviate fears among the buyers, but the second 90-day extension is expected to incentivise Chinese buyers to move towards US LPG again.
 

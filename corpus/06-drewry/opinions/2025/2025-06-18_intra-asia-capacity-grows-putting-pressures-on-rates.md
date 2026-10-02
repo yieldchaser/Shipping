@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-06-18_intra-asia-capacity-grows-putting-pressures-on-rates.md"
-word_count: 390
+word_count: 389
 tags:
   - Container Shipping
   - Drewry
@@ -35,8 +35,6 @@ With Greater China-to-North Asia headhaul utilisation levels dropping from a rel
 The Southeast Asia-to-Greater China trade saw a monthly increase in capacity of 226 kteu (+15.4%). Once this capacity increase turns to the headhaul, probably next month, that could cause a cascade of freight rate reductions across other trade routes as well.
 
 Capacity is also rising fast on intra-Asia routes other than the top 5 – see below:
-
-**
 
 **Source:** Drewry Intra-Asia Container Market Insight
 

@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-03-19_dry-bulk-equities---beginning-of-a-super-cycle-or-just-an-upswing.md"
-word_count: 1617
+word_count: 1588
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -20,7 +20,7 @@ tags:
 
 Dry bulk stocks were the best performers (up 50.3% YTD) among the sectors we cover and are pricing in 1.34x times NAV on average. The time-charter rates too are at a multi-year high. All these developments have created a buzz and around a potential market ‘Super cycle’.
 
-**Source:** ** ** ** Yahoo Finance, DMR,DMFR
+Source: Yahoo Finance,DMR,DMFR
 
 1. The current rally
 
@@ -30,29 +30,27 @@ In the second week of February, the derivative dry freight market recorded the b
 
 Note: BDI- Baltic Dry Index, BHSI- Baltic Handysize Index, BPI- Baltic Panamax Index, BSI- Baltic Supramax Index.
 
-**Source:** ** ** ** Baltic Exchange, Yahoo Finance,DMFR
+Source: Baltic Exchange, Yahoo Finance,DMFR
 
-**
-
-**Source:** ** Baltic Exchange, Yahoo Finance,DMFR
+Source: Baltic Exchange, Yahoo Finance,DMFR
 
 The current rally, which can be traced back to early December 2020, after a firm spot market in 3Q20, has defied the usual trend of seasonally weak first quarter. Larger vessels staged a comeback in 2020, which is now being supported in an equal vigour by the Panamaxes. For example, Diana Shipping (DSX), a mid to large vessel owner/operator under our coverage which fixes its vessels exclusively on long-term charter, has seen a spike in its fixtures. On 11 March 2021, DSX announced the time charter contract for its 2008-built Newcastlemax at USD 17,750pd (minus commissions) for 105 days, followed by USD 24,700pd (minus commissions) after 105 days at least until 15 January 2022. Compare that to a 6 March 2020 fixture, where Sideris GS, a 2006-built Capesize was fixed at least until 15 October 2020 at USD 12,700pd (minus commissions). A similar trend can be seen in Panamax fixtures. On 26 February 2021, DSX fixed a 2013-built Panamax at USD 16,500pd (minus commissions), much higher than its previous charter fixture at a gross rate of USD 10,800pd (minus commissions).
 
 2. Vessel operators on a second-hand buying spree as orderbook touches historical lowsOther economic factors, ranging from the weakening US dollar to the expectation of accelerating GDP thanks to the increased tolerance for a higher inflation have played their parts in boosting the overall sentiment for the commodity markets as well. While the demand for commodities has been on the rise, the supply of dry bulk vessels has been diminishing over the last decade. Nevertheless, the current orderbook paints a rather rosy picture for the dry bulk operators.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
 While the orderbook is strained, major vessel operators under our coverage have been on a buying spree. An interesting observation about these second-hand transactions is that they are focused on mid-sized modern vessels, Ultramaxes and Kamsarmaxes to be more precise.
 
-**Source:** ** ** ** Company filings, DMFR
+Source: Company filings,DMFR
 
 As mentioned earlier, we expect more such deals to go through in the coming months. COVID-19 left cash-stripped operators like Scorpio Bulkers (now Eneti Inc) grasping for straws, leading to a flurry of vessel sales. Combine that with cash rich and fundamentally strong operators like Star Bulk (SBLK) and Pacific Basin (2343:HK) wanting to expand their fleet and subsequently their market presence, and we end up with a lot of vessel transactions. Second-hand vessel acquisitions provide for prompt delivery (usually within three to six months) and attractive prices at the moment along with the bandwidth of availability of funds with large operators makes a good case for higher transactions. As we mentioned in our 2020 report on SBLK (Star Bulk – Fortune Favours The Bold), the acquisition strategy involves funding a sizeable portion through issuance of new shares. SBLK still has a free float of just under 100mn shares, with the authorisation to issue up to 300mn common shares. The current multi-year high stock price of USD 16.18 (as of 12 March 2021) can help mop up funds should SBLK decide to issue shares. Pacific Basin, another such example, which uses a mix of debt and cash to finance its acquisitions, has reduced its net debt through 2020 (USD 714mn at end FY20 as compared with USD 758mn at end FY19). This is in turn leading to a larger, stronger asset base, upward-revised NAVs and multi-year high stock prices.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
 3. China and Chinese policies working the marketThe growth in charter rates has been led by various direct and indirect drivers, including global optimism after the success of various vaccines and an ultra-loose monetary policy in major economies. The various stimuli packages, especially from the Chinese government, focused primarily on infrastructure development which drove iron ore demand. This was further aided by the increasing soya imports. In the first two months of 2021, grain trade between the US and China surged to 28.0 million tonnes from 16.6 million tonnes in the same period of 2020, benefiting mid-sized vessel operators. For example, Pacific Basin (2343:HK), Hong-Kong based mid-sized vessel owner/ operator under our coverage, reported head-turning numbers in its latest annual report (FY20).
 
-**Source:** ** ** ** Pacific Basin, Annual presentation 2020
+Source: Pacific Basin, Annual presentation 2020
 
 4. Political dispute between Australia and ChinaThe political dispute between Australia and China is another factor that helped the tonne miles, but not so much the seafarers. As of end February 2021, with the relations between the two countries going from bad to worse, the number of vessels carrying Australian coal stranded at Chinese ports was still as high as 48 (11 Capesizes and 37 Panamaxes).
 
@@ -68,7 +66,7 @@ Oil prices play an important role in dry bulk trade. First, higher oil price wil
 
 In the current context, it may dampen import demand too, especially in the major dry bulk markets such as China and India given both the countries have the ability to draw down on inventories built up during the price war between China and the US as well as the spread of the pandemic in 2020.
 
-**Source:** ** ** ** Nasdaq.com, Yahoo Finance,DMFR
+Source: Nasdaq.com, Yahoo Finance,DMFR
 
 2. Second wave of COVID - a major dampener for economic recovery
 

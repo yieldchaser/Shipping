@@ -6,7 +6,7 @@ category: "Maritime General"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2018/2018-06-01_are-shipowners-ready-for-higher-interest-rates.md"
-word_count: 960
+word_count: 959
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -32,8 +32,6 @@ Similarly, another alternative which has become increasingly popular is lease fi
 The OIS Libor spread represents a certain country’s central bank rate over the course of a certain period. For example, in the US an entity could potentially exchange a floating rate (the Fed Funds Effective Rate) with a fixed one, which is the OIS rate. The spread between USD Libor and the OIS rate has been widening since last year, causing some pressure on funding costs, a factor, which has triggered some concern in the market about a reminder of the financial crisis. Should this be cause for concern in the banking system? We don’t believe this should be cause for concern (at least for the near term). If one looks at the US, there has been a significant increase in Treasury bill issuance in the three months ending February 2018 compared to the same period in 2017 – a factor that disrupted short-term funding markets and is causing the LIBOR-OIS spread to increase. What has also kicked in is the recent tax cut in the U.S., prompting U.S. companies to sell their short-term paper in order to buy back stock and/or pay out dividends. These trends have therefore contributed to the rise in short-term funding costs. If one looks at broader financial conditions, credit is, in fact, easier to obtain today. If one looks at the Chicago Fed’s National Financial Conditions Index, one sees that financial conditions are easier currently despite the increase in USD LIBOR. Given that the aforementioned current supply and demand dynamics in short-term funding markets are the main catalysts of LIBOR-OIS spread we do not believe that this will have a wider impact on the ship lending market.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-06-17_finally-carriers-add-more-loops-cancel-fewer-sailings.md"
-word_count: 383
+word_count: 379
 tags:
   - Container Shipping
   - Drewry
@@ -24,13 +24,11 @@ Based on Drewry data, we are reaching this stage: carriers are adding new servic
 
 Having previously shrunk after the end of the pandemic boom, the number of carrier competitors is set to increase again: Ellerman will re-enter the Asia-Europe route and SeaLead and BAL Container Line the transpacific – see below:
 
-**
-
 **Source:** Drewry Container Forecaster
 
 Drewry also expects that the delivery of new ships to the market will continue to fill gaps in carriers’ disrupted schedules. This means that the number of sailings “cancelled” by carriers is also declining – see chart. Analysis from the Drewry Container Capacity Insight concludes that the number of cancelled sailings on the transpacific and Asia-North Europe/Mediterranean routes will decline from 62 in May to about 51 in June and to less than 41 (forecast) in July.
 
-**Source:** ** ** ** SeeDrewry Container Capacity Insight for details by alliance and trade route
+Source: SeeDrewry Container Capacity Insight for details by alliance and trade route
 
 It is too early to say that carrier services are highly predictable, in Drewry’s view. Port congestion is still chronic in many ports in Asia and the Mediterranean. The closure of the Suez Canal continues to delay ships and cargoes. Plus there is the risk of port strikes on the US East and Gulf coasts, making planning still relatively uncertain and open to new disruptions.
 

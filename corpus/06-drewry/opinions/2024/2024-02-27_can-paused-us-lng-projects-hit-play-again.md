@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-02-27_can-paused-us-lng-projects-hit-play-again.md"
-word_count: 558
+word_count: 557
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -36,8 +36,6 @@ In the coming years, Drewry anticipates that US LNG production will reach 211 mt
 If the pause on LNG exports becomes a reality, it's unlikely to significantly impact projects scheduled to kick off by 2027–28. Those eyeing an FID in 2024–25, with progress in securing contracts and necessary approvals from FERC and Department of Energy (DOE), are likely to move into the construction phase in the following years.
 
 Drewry has pinpointed some planned projects that could proceed despite regulatory changes. They are:
-
-**
 
 **Source:** Drewry Maritime Research
 

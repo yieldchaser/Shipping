@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-11-25_a-gloomy-long-term-outlook-for-product-tanker-market.md"
-word_count: 473
+word_count: 472
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -32,7 +32,5 @@ On the other hand, the imports of refined products by developing countries in La
 Overall, a sharp deceleration in the growth in global oil demand after 2025 will be reflected in the trade of refined products. The product tanker market will have to adjust accordingly, as in the absence of any significant growth in trade, new ordering will be limited to replacement vessels after 10 years.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

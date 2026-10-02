@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-03-01_ports--terminals---what-is-driving-mas-and-capital-market-activity.md"
-word_count: 1271
+word_count: 1258
 tags:
   - Container Shipping
   - Drewry
@@ -42,11 +42,9 @@ DPW has been on the forefront of exploring synergies across the value chain. Sin
 
 As a result of this diversification, the company’s revenue mix has changed significantly with the core port operations of DPW contributing 46% to its top line in 2019 (vs 79% in 2015). Even though these acquisitions proved to be margin dilutive, the absolute levels of both revenue and EBITDA have surged.
 
-**Source:** ** ** ** Company’s filings
+Source: Company’s filings
 
-**
-
-**Source:** ** Company’s filings
+Source: Company’s filings
 
 On similar lines, Abu Dhabi ports, as part of its move towards providing supply chain logistics solutions, has acquired MICCO Logistics. Abu Dhabi ports plans to leverage MICCO’s experience and capabilities, as the Emirate’s first provider of end-to-end logistics solutions including freight management in project, contract and commercial logistics, multi-modal transport, warehousing and distribution, stevedoring, as well as road feeder services for the aviation segment. Also, recently, Abu Dhabi Ports’ maritime arm Safeen has signed an agreement with Allianz Marine & Logistics Services (AMLS) to launch a new integrated maritime logistics services firm - Offshore Support and Logistics Services Company (OFCO – Offshore International). As part of a wider value offering, OFCO will provide its customers access to a wide spectrum of trade logistics and services offered by Abu Dhabi Ports, which include offshore, onshore, base operations, logistics, industrial zone and maritime services.
 
@@ -56,15 +54,13 @@ We believe, in addition to addressing the issues of overcapacity, cost efficienc
 
 * 12m libor data is till Sep 20.
 
-**Source:** ** ** ** macrotrends.net
+Source: macrotrends.net
 
-**
-
-**Source:** ** macrotrends.net
+Source: macrotrends.net
 
 * Sample includes GLPR, HHLA, ICTSI, Westports and Santos Brasil.
 
-**Source:** ** ** ** Company’s fillings
+Source: Company’s fillings
 
 Abundant liquidity has led the port companies to not only strengthen their balance sheets but also to grow and enter new territories. What does this abundant liquidity mean to investors?
 

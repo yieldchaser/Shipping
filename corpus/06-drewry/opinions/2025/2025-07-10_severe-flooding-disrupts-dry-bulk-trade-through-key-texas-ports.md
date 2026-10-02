@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-07-10_severe-flooding-disrupts-dry-bulk-trade-through-key-texas-ports.md"
-word_count: 393
+word_count: 390
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,15 +26,9 @@ Dry bulk exports from these portsincluding grain, soybean, steel products, ferti
 
 **Source:** Drewry Maritime Research, Drewry AIS
 
-**
-
 **Source:** Drewry Maritime Research, Drewry AIS
 
-**
-
 **Source:** Drewry Maritime Research, Drewry AIS
-
-**
 
 **Source:** Drewry Maritime Research, Drewry AIS
 

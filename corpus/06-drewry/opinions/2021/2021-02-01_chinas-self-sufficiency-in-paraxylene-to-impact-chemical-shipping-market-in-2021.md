@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-02-01_chinas-self-sufficiency-in-paraxylene-to-impact-chemical-shipping-market-in-2021.md"
-word_count: 462
+word_count: 460
 tags:
   - Container Shipping
   - Drewry
@@ -24,8 +24,6 @@ Paraxylene is the second-largest organic chemical carried by chemical tankers. I
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 China imported 13.9 million tonnes of paraxylene in 2020, accounting for 69% of the total global paraxylene seaborne trade. However, the country’s imports declined by 7.5% YoY as domestic capacity has been expanding since 2019. By the end of 2020, China’s total paraxylene capacity reached 25.4 million tonnes per year. With additional 9.8 million tonnes and 6 million tonnes new paraxylene capacity to start up in 2021 and 2022 respectively, we expect this declining trend to continue in the next five years.
@@ -33,8 +31,6 @@ China imported 13.9 million tonnes of paraxylene in 2020, accounting for 69% of 
 Despite a significant capacity increases China will continue to be a major importer of paraxylene as consumption is increasing on the back of rising production of purified terephthalic acid (PTA). Demand for the latter is growing in polyester fibres, bottle resins, and film.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

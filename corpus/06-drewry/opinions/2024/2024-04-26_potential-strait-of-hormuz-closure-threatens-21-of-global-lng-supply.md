@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-04-26_potential-strait-of-hormuz-closure-threatens-21-of-global-lng-supply.md"
-word_count: 935
+word_count: 934
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -28,8 +28,6 @@ The Strait of Hormuz is a vital strategic passage for the Middle East, supportin
 In 2023, Qatar exported about 81 million tonnes of LNG and the UAE exported 4 million tonnes, contributing 21% to the global supply. Any supply blockage will not only hurt exporters of these two countries but will also compel key importers to scout for new sources. Between Asia and Europe, the former will have a much greater impact as 70% of Qatar’s volumes are exported to Asia while 20% to Europe.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

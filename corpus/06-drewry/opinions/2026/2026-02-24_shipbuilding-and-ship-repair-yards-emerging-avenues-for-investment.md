@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-02-24_shipbuilding-and-ship-repair-yards-emerging-avenues-for-investment.md"
-word_count: 727
+word_count: 719
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -21,7 +21,7 @@ tags:
 
 The rapid growth of newbuilding yards across various countries reflects efforts to support national security, economic growth and strategic autonomy, while the development of ship repair yards globally will mainly serve the increasing retrofit activities1due to the decarbonisation drive in the industry. In this article, we compare and contrast newbuilding and repair yards through the investment lens.
 
-**Source:** ** ** ** Clarksons, Drewry Maritime Research
+Source: Clarksons,Drewry Maritime Research
 
 The global newbuilding market peaked in 2010, delivering an aggregate 54 million CGT2(compensated gross tonnage), but deliveries started declining thereafter due to supply overhang and weak markets across most shipping sectors. The market hit rock bottom in 2020 with 29 million CGT, but it revived post-Covid with a significant increase in container and LNG shipping earnings.
 
@@ -43,7 +43,7 @@ Before the Greenhouse Gas (GHG) reduction regulations3came into play, the only d
 
 Regulations, such as FuelEU Maritime, encourage dual-fuel vessels (newbuilding as well as retrofitting of existing vessels) and Wind-Assisted Propulsion System (WAPS). Additionally, other conversions, such as vessel lengthening and superstructure modifications, will also increase the demand for repair yards.
 
-**Source:** ** ** ** Clarksons, Drewry Maritime Research
+Source: Clarksons,Drewry Maritime Research
 
 In October 2025, the IMO’s Marine Environment Protection Committee (MEPC) decided to delay the adoption of IMO NZF. In case this regulation is adopted soon with no changes to penalty calculations, alternative fuel retrofits and PID/ESD retrofits will ramp up rapidly and exponentially. Drewry believes growth in retrofit measures will be rapid due to various reasons, including the tightening of environmental regulations, a carbon emission penalty and a push for decarbonisation from various stakeholders.
 

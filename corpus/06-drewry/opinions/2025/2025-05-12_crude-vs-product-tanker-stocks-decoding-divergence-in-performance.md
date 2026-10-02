@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-05-12_crude-vs-product-tanker-stocks-decoding-divergence-in-performance.md"
-word_count: 811
+word_count: 806
 tags:
   - Crude Tankers
   - Drewry
@@ -25,7 +25,7 @@ Interestingly, the rebound has been uneven: as of 9 May 2025, the Drewry Crude T
 
 Notes: DCTEI includes CMB.TECH, Frontline, DHT Holdings, Teekay Tankers, Nordic American Tankers and Tsakos Energy Navigation DPTEI includes Ardmore Shipping, Scorpio Tankers, Hafnia Limited, Torm PLC and d’Amico International Shipping. Indexed as of 31 December 2024 and priced as of 09 May 2025.
 
-**Source:** ** ** ** NYSE, Drewry Maritime Financial Research
+Source: NYSE,Drewry Maritime Financial Research
 
 This divergence between crude and product tanker equities is driven by multiple factors, particularly those weighing on the product tanker segment. Market fundamentals have weakened more for the product segment than for crude and a key reason for this is ample tonnage availability.
 
@@ -42,8 +42,6 @@ Compounding this impact, the growth for refined product demand is also slowing d
 In contrast, the crude tanker market has a more positive outlook. After a sluggish 2024, global refinery runs are projected to rebound in 2025, boosting the demand for seaborne crude, especially benefiting VLCCs. Rising crude imports by Asian refiners, particularly in China, are expected to support utilisation. Additionally, US sanctions on Russian tankers and Iranian oil may disrupt trade flows, encouraging countries like India and China to seek alternative crude suppliers, thus increasing longhaul tanker demand. The mid-size tanker market could also tighten as non-sanctioned vessels are reallocated to Russian trade. Finally, the drop in asset prices has deepened the divergence between segments, with product tanker values, especially for 5-year-old LR2s (-7.2%) and LR1s (-8.0%), falling more sharply than their crude counterparts like VLCCs (-2.4%) and Suezmaxes (-0.6%).
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

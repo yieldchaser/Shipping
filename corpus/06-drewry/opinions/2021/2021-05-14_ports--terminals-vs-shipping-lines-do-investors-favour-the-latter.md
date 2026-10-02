@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-05-14_ports--terminals-vs-shipping-lines-do-investors-favour-the-latter.md"
-word_count: 2165
+word_count: 2149
 tags:
   - Container Shipping
   - Drewry
@@ -22,7 +22,7 @@ With hindsight, it can easily be illustrated that even though macro-economic hin
 
 Comparing Drewry’s Liner index with the Port index demonstrates that the former has unequivocally beaten the latter in FY20 (Liner: +119.6% vs Port index: -22.4%). The gap widened further as we moved into FY21 with the Liner index inching ahead, driven by rising freight rates, robust profitability and surging demand caused by the pandemic-driven shift in consumption habits towards goods.
 
-**Source:** ** ** ** DMFR, Drewry Maritime Research
+Source:DMFR,Drewry Maritime Research
 
 *Drewry’s liner index includes selected 14 liners companies and port Index include selected 10 port companies
 
@@ -36,19 +36,17 @@ The port and terminal sector, on the other hand, was faced with multiple problem
 
 Growth in global container port throughput decelerated to -1% in 2020, down from 2% in 2019 and 5% in 2018. In 2020, some 793 mteu was handled by container ports worldwide, reflecting a reduction of 9 mteu over 2019.
 
-**Source:** ** ** ** DMFR, Drewry Maritime Research
+Source:DMFR,Drewry Maritime Research
 
 *include Westports Holdings Berhad, Tianjin Port Development Holdings Limited, Tianjin Port Development Holdings Limited, International Container Terminal Services, Inc., Hamburger Hafen und Logistik Aktiengesellschaft, and Global Ports Investments Plc.
 
 This reduced throughput impacted the revenues of port operators. As we moved into FY21, the variance between revenue growth between Liners and Ports & terminal operators continued to increase.
 
-**Source:** ** ** ** DMFR, Drewry Maritime Research
+Source:DMFR,Drewry Maritime Research
 
 Note - Liner revenue growth is growth in gross carrier income on year-on-year basis
 
 * Liner data represents industry assessed by Drewry, whereas port data includes portfolio of companies covered by Drewry
-
-**
 
 **Source:** Drewry Maritime Financial Research
 
@@ -64,7 +62,7 @@ The sharp economic downturn in 2Q20 led the central bankers to ease the liquidit
 
 Shipping lines too used their increased profitability to pay down their debt drawing far greater attention. Many also used ‘Green bonds’ to refinance their debt. For example, Hapag-Lloyd issued a sustainability-linked bond worth EUR 300mn (USD 357mn) and achieved a lower interest rate of 2.5% to refinance its earlier bond of EUR 300mn due in 2024 with a 5.125% coupon. Similarly, Seaspan priced a new USD 300mn sustainability-linked bond in the Nordic market at 6.50% for general corporate purposes including the possible re-payment of debt. These initiatives by container companies created a positive sentiment. Backed by solid performance, the sector also witnessed a series of credit rating upgrades. While Moody’s upgraded CMA CGM’s rating from B2 to B1, Hapag-Lloyd’s rating was revised from Ba2 to Ba3 and Maersk’s was upgraded to Baa2 on 22 March 2021.
 
-* Liner data represents selected 14 companies, whereas port data includes selected 10 companies **Source:** Company’s fillings
+* Liner data represents selected 14 companies, whereas port data includes selected 10 companies Source: Company’s fillings
 
 Container shipping spot rates are still at stratospheric heights - and show no sign of abating. On the other hand, importers are locking-in container shipping rates that are as much as 50% higher than a year ago to avoid the volatile and even steeper prices in the spot market. With higher contract rates locked in, another highly profitable year is virtually guaranteed, and we think the industry will reset profitability records once again in 2021, despite several opex headwinds in the form of higher fuel costs and charter rates. This sentiment is largely reflected in the stock prices.
 

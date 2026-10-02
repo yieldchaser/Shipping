@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-08-28_imos-ballast-water-management-convention-to-rekindle-tonnage-scrapping-in-crude-tankers.md"
-word_count: 482
+word_count: 481
 tags:
   - Crude Tankers
   - Drewry
@@ -32,7 +32,5 @@ Owners of the remaining 57% of vessels in the fleet, which are neither fitted wi
 About 21% of vessels in the existing fleet fall within this category, which suggests that scrapping activity will surge in the coming years. However, the impact of BWMS on scrapping activity in the remaining months of 2019 will be modest, as out of 100 crude tankers (without BWTS) due for special survey in 2019, only 25 crude tankers (1% of the fleet) are 15 years or older. Nonetheless, scrapping activity, which has been subdued so far this year, will rekindle before surging in 2020.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research

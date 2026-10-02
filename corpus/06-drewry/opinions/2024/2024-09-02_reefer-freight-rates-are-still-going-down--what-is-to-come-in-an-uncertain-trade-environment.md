@@ -35,3 +35,5 @@ To visualise this uncertainty, let’s take a look at an example from Drewry’s
 Despite these uncertainties, we still see an overall positive growth picture for the seaborne reefer trade in the next few years. Based on recent years with lacklustre or even negative growth however, it will be important to consider whether a fundamental change in trade dynamics is occurring.
 
 For more information on the reefer market, see Drewry’sReefer Shipping Annual Review and Forecastor theReefer Shipping Forecasterfor quarterly updates.
+
+

@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-25_red-sea-diversion-tracker.md"
-word_count: 142
+word_count: 138
 tags:
   - Container Shipping
   - Drewry
@@ -22,7 +22,7 @@ With regional security changing rapidly, Drewry’s Red Sea Diversion Tracker de
 
 During the week ended 23 Aug, 41 containerships transited the Suez Canal (in either direction), the highest number for a year, as carriers gradually returned to the Red Sea route. The average number of transits was 37 in the latest 3 weeks, up 6% from the average in the previous three weeks.
 
-**Source:** ** ** ** Container Capacity Insight
+Source:Container Capacity Insight
 
 Chart not displaying?Click here to display this chart in a new window
 

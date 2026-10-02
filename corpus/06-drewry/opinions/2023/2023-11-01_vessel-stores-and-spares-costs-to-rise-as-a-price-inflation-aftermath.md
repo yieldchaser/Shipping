@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-11-01_vessel-stores-and-spares-costs-to-rise-as-a-price-inflation-aftermath.md"
-word_count: 381
+word_count: 378
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,7 +27,7 @@ However, stores and spares price rises are to hit different stakeholders in diff
 
 While risk of a global economic slowdown is clearly on the cards, deflationary price trends in the sector are unlikely, bar in case of a strong global economic downturn. On the other hand, further price increases represent a significant upside risk for the next several years for all technical operating costs, among them stores and spares costs.
 
-**Source:** ** ** ** Oxford Economics
+Source: Oxford Economics
 
 One of Drewry’s flagship reports,Ship Operating Costs 2023/24provides one of the most complete annual assessments of ship operating costs available in a single source. Operating cost assessments are provided for 47 representative ship types and sizes, spanning the container, dry bulk, oil (crude and products), chemical, LNG, LPG, general cargo, reefer, ro-ro and car carrier sectors.
 

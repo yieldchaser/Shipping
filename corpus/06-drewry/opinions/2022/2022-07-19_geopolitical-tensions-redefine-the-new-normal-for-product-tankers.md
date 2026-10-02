@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-07-19_geopolitical-tensions-redefine-the-new-normal-for-product-tankers.md"
-word_count: 483
+word_count: 482
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ The product tanker sector has been gaining from the ongoing geopolitical tension
 Europe was dependent on Russian refined products as the latter contributed 15.9%, aggregating 21.6 million tonnes, to the total European seaborne imports in 2021, with gasoil/diesel comprising 95.4% of the traded volume. On 24 February, the Russia-Ukraine conflict turned into a full-fledged war after which Europe has been reducing its reliance on Russia. Although there were no clear sanctions immediately, CPP exports from the FSU to Europe weakened by about 1.1 million tonnes during March-April, with almost all the deficit created by gasoil/diesel.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

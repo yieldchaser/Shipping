@@ -57,3 +57,5 @@ Today, we are also publishing our'Shipping decarbonisation and sustainability up
 As a trusted, independent shipping advisor working for global shippers and BCOs – from large to small – Drewry is probably the only consultancy and benchmarking firm with direct industry procurement experts on-hand to advise shippers on these complex emerging topics, which compliment our 'all-in-one' bid, rate management and benchmarking tools, supported by our partnerFreightender.
 
 We will continue to keep on-top of sustainability and related regulatory and procurement issues and are already working closely with a number of our shipper clients on further initiatives to help support them in this important and challenging area.
+
+

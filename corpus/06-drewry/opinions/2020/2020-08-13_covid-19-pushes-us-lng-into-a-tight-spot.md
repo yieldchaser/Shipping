@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-08-13_covid-19-pushes-us-lng-into-a-tight-spot.md"
-word_count: 1110
+word_count: 1109
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ US LNG exports were strong between 2017 and 2019, driven by the shale gas boom, 
 The US is currently the third-largest global LNG exporter with six operational LNG export terminals aggregating 62 mtpa of liquefaction capacity and another 41 mtpa capacity under construction. Brownfiled projects such as Sabine Pass, Corpus Christi, Cameron LNG and Elba Island will reach their full capacities between 2020 and 2027 and greenfield projects such as Golden Pass LNG and Calcasieu Pass will become operational during the same period.
 
 Existing LNG production capacity in the US has been impacted by the pandemic with over 110 LNG cargoes being cancelled by Asian and European customers during June-August due to the low LNG spot price which narrowed the US-Asia and US-Europe price arbitrage. Moreover, major US LNG importers – Japan, South Korea and Taiwan – have seen their LNG demand dwindling, while US-China LNG trade has not been able to pick up as some would have hoped. With projections for LNG spot prices below $5 per MMBtu over the next few years, we expect more cancellations to occur in the coming years making the US a ‘swing LNG producer.’
-
-**
 
 **Source:** Drewry Maritime Research
 

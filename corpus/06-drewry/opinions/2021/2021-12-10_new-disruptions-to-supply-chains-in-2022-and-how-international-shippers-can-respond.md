@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2021/2021-12-10_new-disruptions-to-supply-chains-in-2022-and-how-international-shippers-can-respond.md"
-word_count: 896
+word_count: 895
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -22,8 +22,6 @@ As we look ahead to 2022, should shippers prepare for a new round of disruptions
 For logistics managers working for international shippers/Beneficial Cargo Owners, 2021 was a year many would like to forget. The pressures have been relentless, with logistics teams suffering sustained and systemic global supply chain disruption, record port congestion, cargo delays, chronic capacity shortages, breaches or near breaches of shipping contract commitments - and ocean freight rates surging to extreme levels.
 
 Unfortunately, fundamental structural market vulnerabilities remain and for international shippers, where supply chain resilience is a particular concern, we highlight four potential new disruptors, shipping and logistics management teams should anticipate and prepare for in 2022:
-
-**
 
 **Source:** Drewry Supply Chain Advisors
 
@@ -46,3 +44,5 @@ Many members of theDrewry Benchmarking Club, a user group of over 120 multinatio
 The new state of unreliable, very expensive international shipping calls into question the previous assumptions behind low-cost production in Asia serving distant markets at minimal logistics costs. While it was rarely the case until 2019, the ‘freight’ component of the total landed cost now makes a real difference for many types of products. Also important in 2022 will be the need for many BCOs to raise product prices to reflect higher transport costs, while proactively benchmarking (higher) transport costs to ensure their rates remain competitive - and regularly talking to merchandising, sourcing and production colleagues to update them on the reality of those much higher ocean transport costs.
 
 So, plenty to think about ahead of 2022.
+
+

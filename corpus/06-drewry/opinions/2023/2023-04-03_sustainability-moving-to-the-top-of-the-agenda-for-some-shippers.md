@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-04-03_sustainability-moving-to-the-top-of-the-agenda-for-some-shippers.md"
-word_count: 292
+word_count: 291
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ Now, more shippers are including detailed questions in both their Request for In
 The next step will be to define and implement sustainability Key Performance Indicators, including the measurement of carbon footprint and – the final goal – actual reductions in greenhouse gas emissions.
 
 This is a complex journey, which can be summed up as follows:
-
-**
 
 **Source:** Drewry Supply Chain Advisors
 

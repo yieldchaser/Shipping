@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-10-09_chinas-halt-on-us-soybean-purchases-threatens-panamax-demand.md"
-word_count: 463
+word_count: 459
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -32,8 +32,6 @@ China typically buys between 25 million tonnes to 30 million tonnes of US soybea
 
 The impact is already visible in the forward freight market. Sentiment has weakened across the mid-size segments, with the Panamax P5TC Baltic FFA for October 2025 (as on 6 October 2025) showing a 9% decline from September’s average rate. The forward curve points to further softness, with November and December contracts down by 12% and 15%, respectively.
 
-Note: As on 6 October 2025.
-
-**Source:** ** ** Baltic Exchange, Drewry Maritime Research
+Note: As on 6 October 2025.Source: Baltic Exchange,Drewry Maritime Research
 
 The suspension of US soybean shipments to China threatens a key seasonal trade that typically employs 180–190 Panamax vessels between October and November, generating about 120 billion tonne-miles. Reflecting this uncertainty, forward freight agreements for October–December 2025 are being fixed below September averages, highlighting concerns over reduced vessel demand on this route.

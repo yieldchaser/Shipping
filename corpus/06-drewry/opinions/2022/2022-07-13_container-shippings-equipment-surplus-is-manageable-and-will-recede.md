@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-07-13_container-shippings-equipment-surplus-is-manageable-and-will-recede.md"
-word_count: 470
+word_count: 469
 tags:
   - Container Shipping
   - Drewry
@@ -25,8 +25,6 @@ Drewry estimates that each container averaged 18.1 lifts in 2021 compared with 1
 Drewry estimates that as many as 6 mteu of surplus containers now exist in the global equipment pool. While large by historic standards, Drewry considers this surplus to be manageable for the industry.
 
 "The delivery schedule of new ships is very strong with slot capacity expected to increase by 3.6 mteu in 2023 and by over 3.9 mteu in 2024,"said Drewry’s head of container equipment research John Fossey."With new IMO emissions regulations coming into force in January 2023 forcing some ships to sail slower, much of the surplus equipment currently in service is expected to be absorbed. In addition, there is evidence to suggest that some carriers are planning to have more buffer stock in their equipment pools, while fewer new containers will be built in the next two years."
-
-**
 
 **Source:** Drewry's Container Census & Leasing Annual Review and Forecast 2022/23
 

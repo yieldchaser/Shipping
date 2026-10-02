@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-10-31_will-crude-tanker-stocks-continue-their-upwards-momentum.md"
-word_count: 1105
+word_count: 1084
 tags:
   - Crude Tankers
   - Drewry
@@ -25,11 +25,11 @@ Among the constituents, the sharpest increase was reported by Frontline shipping
 
 Note: Drewry Crude Tanker Equity Index includes CMB.TECH.NV, Frontline, DHT Holdings, Teekay Tankers, Nordic American Tankers and Tsakos Energy Navigation Indexed as of 31 December 2024 and priced as of 30 October 2025.
 
-**Source:** ** ** ** LSEG, Drewry Maritime Financial Research
+Source: LSEG,Drewry Maritime Financial Research
 
 Note: Indexed as of 31 December 2024 and priced as of 30 October 2025.
 
-**Source:** ** ** ** LSEG, Drewry Maritime Financial Research
+Source: LSEG,Drewry Maritime Financial Research
 
 The momentum largely began in 2Q25, when the Iran–Israel conflict raised concerns over the potential closure of the Strait of Hormuz. This triggered a war premium in charter rates, particularly for VLCCs and LR2 vessels as they dominated that route. Amid these geopolitical conflicts, OPEC+ also began to unwind its previous production cuts, tilting the market towards excess oil supply. This, in turn, increased the need for floating storage, further boosting the demand for large crude tankers since effective supply of VLCC for trade will be reduced. As of October, the number of VLCCs used for floating storage had increased 24% as compared to January 2025. Additionally, the recent sanctions on major Russian exporters Rosneft and Lukoil, have pressured its customers like China and India to reduce exports from Russia. They could instead replace them with imports from alternative sources like Middle East and Brazil which will again increase the tonne-mile demand for mainstream tankers. As a result, charter rates will remain elevated, especially for VLCCs and Suezmaxes.
 
@@ -37,25 +37,23 @@ The Baltic Dirty Tanker Index (BDTI) rose 47.2% YTD, backed by strong performanc
 
 Note: Updated as of 29 October 2025.
 
-**Source:** ** ** ** Baltic Exchange, Drewry Maritime Financial Research
+Source: Baltic Exchange,Drewry Maritime Financial Research
 
 Excess oil supply has also exerted downwards pressure on crude oil prices, prompting countries such as China and those in the OECD to stockpile, leading to a surge in crude tanker freight rates, particularly for VLCCs and Suezmaxes. China’s extensive stockpiling activity has been driven by the implementation of the new Energy law that came into effect on 1 January 2025, focusing on strengthening national energy security. Since the country’s strategic petroleum reserves (SPRs) have limited storage capacity, oil companies are now mandated to increase their inventories at their own commercial storage facilities. This effectively turns private companies into long-term strategic storage partners, supporting the government’s energy security outlook.
 
-**Source:** ** ** ** Oil Market Report October 2025 (IEA), Drewry Maritime Financial Research
+Source: Oil Market Report October 2025 (IEA),Drewry Maritime Financial Research
 
 Companies that operate VLCCs are expected to benefit the most, especially given that the global VLCC fleet is aging and no new deliveries are scheduled until 2026, which should continue to underpin earnings. A recently released press release by DHT Holdings indicates that its 4Q25 results will be significantly higher YoY and we project the trend to be similar for other companies in the sector.
 
 e: Expected.Note: 56% of the available spot days have been booked while 76% of the available revenue days (spot and time charter combined) in 4Q25 have been booked.
 
-**Source:** ** ** ** DHT Holdings, Drewry Maritime Financial Research
+Source: DHT Holdings,Drewry Maritime Financial Research
 
 Second-hand tanker values have shown mixed trends across vessel types. While VLCC asset values increased over the past six months, those for Suezmaxes across all age categories declined. The strongest gain was recorded for 15-year-old VLCCs, whose values climbed 9.4% in the past six months. We believe surge in some of the VLCC focused stocks is also driven by this.
 
 The value of a 5-year-old VLCC rose 0.4% over the past month,1.7% over three months and 4.9% over six months. In contrast, 5-year- old Suezmax prices remained stable over the past month but fell 1.3% over the last three and six months.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-05-06_indonesian-ban-of-palm-oil-disrupts-vegoil-trade.md"
-word_count: 409
+word_count: 408
 tags:
   - Crude Tankers
   - Drewry
@@ -30,8 +30,6 @@ Indonesia, the world’s largest producer and exporter of palm oil, exported 2.5
 Major ports loading palm oil products (including CPO, refined palm oil and UCO) in Indonesia are Dumai, Belawan and Balikpapan which accounted for 39%, 11% and 10% of the country’s palm oil exports volume in 2021.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

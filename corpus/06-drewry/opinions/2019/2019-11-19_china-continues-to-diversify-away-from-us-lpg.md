@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-11-19_china-continues-to-diversify-away-from-us-lpg.md"
-word_count: 714
+word_count: 713
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -28,8 +28,6 @@ To fill in the gap, China increased its LPG imports from other regions such as t
 With the increase in propane tariff from 10% to 25% in August 2018, Chinese players started swapping their US LPG supplies with non-US LPG at a higher premium of $5–10 per tonne. In 2019, the premiums increased steadily to reach $30–40 per tonne in 3Q19, resulting in a two-tier market in Asia. The higher premiums have also compelled other Asian countries to increase their imports of the cheaper US LPG.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

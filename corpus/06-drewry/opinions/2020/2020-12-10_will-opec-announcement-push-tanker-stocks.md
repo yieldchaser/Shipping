@@ -6,7 +6,7 @@ category: "Maritime General"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-12-10_will-opec-announcement-push-tanker-stocks.md"
-word_count: 1276
+word_count: 1265
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -23,7 +23,7 @@ The three key market indices Dow Jones Industrial Average (+11.8%), S&P 500 (+10
 
 Note: Index to 31 December 2019.
 
-**Source:** ** ** ** WSJ, DMFR
+Source: WSJ,DMFR
 
 The UK has already authorised Pfizer and BioNTech’s COVID-19 vaccine for emergency use and became the first nation to roll out Pfizer’s vaccine. With initial shots given to people who are at higher risk, the country has launched the biggest mass vaccination programme in its history. Meanwhile, Russia has already started mass voluntary vaccinations with its domestically produced Sputnik V with priority given to individuals who are at higher exposure risk. Several other major economies, including the US and India which are worst-hit with the pandemic, are at different stages of the evaluation and authorisation of various vaccines. Experts believe that by early 2021, at least few vaccines will be authorised for emergency uses in most of the major economies that are facing the dual challenge of containing the spread of the virus and reviving economic growth. Although the number of infections is still on the rise, the world is more aware and prepared to mitigate the risk associated with COVID-19 compared at the beginning of the year.
 
@@ -31,7 +31,7 @@ Availability of vaccines for emergency uses coupled with the focus on reviving t
 
 Note: Index to 31 December 2019.
 
-**Source:** ** ** ** WSJ, Macrotrends,DMFR
+Source: WSJ, Macrotrends,DMFR
 
 The callous response of the current US administration to contain the spread of the virus is considered as one of the key reasons for the rapid spread of infections in the US. Containing the spread of COVID-19 infections and mitigating the damages from the pandemic will be the top priority of the new administration under Biden’s presidency. Economic recovery, racial equality and climate change will be other key priorities for the new administration. President Trump has further escalated the tensions with China by imposing sanction on SMIC - China’s top chipmaker CNOOC - one of the largest national oil companies in China and several other Chinese companies. Such actions in Trump’s final weeks in office will make it hard for President-elect Joe Biden to rebuild relations once he takes office. Moreover, we do not expect any substantial change in the US policy towards China as Biden has been a strident critic of China’s human rights record and his administration will maintain a status quo on China. He has already hinted of not making any immediate moves, and the same applies to the tariffs on China. However, the new administration under Biden may revisit the unilateral action of the Trump administration on Iran and Venezuela. We expect some easing on restrictions on these two OPEC members by the new administration in the US.
 
@@ -41,6 +41,6 @@ In general, every additional barrel of crude oil in the market is good news for 
 
 We may see an occasional uptrend in crude tanker shipping stocks, driven by the rally in the market on the back of positive developments on vaccine fronts. However, given the international travel restrictions, increasing preference for work from home and virtual meetings to conduct business, shipping stocks will feel the heat of lower oil demand from transport sector over the next few quarters.
 
-**Source:** ** ** ** Baltic Exchange, DMFR
+Source: Baltic Exchange,DMFR
 
 Increasing crude production in Libya, coupled with additional 0.5 mbpd from OPEC+ will ensure ample supply in the market in January and prices are expected to remain range-bound around USD 50 per barrel. We believe the recent announcement from OPEC+ is an attempt to test the market. The provision of assessing the market every month is aimed to monitor how effective the vaccines will be in driving crude oil demand and provide a tool to adjust its output and ensure that the global crude market remains balanced and the group does not miss to cash in on opportunities offered by any potential recovery in demand. Moreover, we believe the movement of tanker shipping stocks will be more predictable once we have better clarity on oil demand.

@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-08-03_the-next-dangote-kenyas-proposed-refinery-could-transform-east-africa.md"
-word_count: 699
+word_count: 698
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -46,8 +46,6 @@ Once the refinery reaches full operating capacity, the reduction in long-haul im
 Some of the lost tonne-mile demand would be offset by increased coastal and intra-African product movements as Kenyan exports are redistributed across neighbouring markets. Nevertheless, shorter regional voyages cannot fully compensate for the loss of long-haul imports from the Middle East and India, leaving the overall impact negative for MR tanker demand.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2025/2025-02-28_us-metal-trade-dynamics-tariffs-imports-price-surge-and-its-impact-on-shipping.md"
-word_count: 849
+word_count: 848
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -24,8 +24,6 @@ The US is set to impose a tariff of 25% on all steel and aluminium products from
 Majority of the steel and aluminium products are traded on bulk carriers and general cargo vessels across the globe.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-07-03_vlccs-might-play-spoilsport-in-the-lr-market.md"
-word_count: 636
+word_count: 633
 tags:
   - Crude Tankers
   - Drewry
@@ -23,7 +23,7 @@ Skyrocketing freight rates in the product tanker market, especially in the LR se
 
 While LR rates are soaring due to tight supply, VLCC earnings are low amid subdued Chinese demand and production cuts by Middle Eastern producers. In June, the average TCE for LR1 plying on the AG-NW Europe route was about $55,000pd compared to the average TCE of $29,000pd for the VLCCs employed on the AG-China (TD3C) route. Higher charter rates in the LR market are inducing charterers to use VLCCs in the CPP trade. For instance, Trafigura - one of the major commodity traders - chartered a VLCC (Plata Glory) to transport diesel from the Arabian Gulf to Europe.
 
-**Source:** ** ** ** Baltic Exchange
+Source: Baltic Exchange
 
 Usually, crude tankers carry CPP from the Far East to Europe on their maiden voyage as the tanks of a new tanker are clean. However, a limited delivery schedule for crude tankers (five Suezmaxes and one VLCC) in 2H24 will give little respite to the compressed product tanker market.
 

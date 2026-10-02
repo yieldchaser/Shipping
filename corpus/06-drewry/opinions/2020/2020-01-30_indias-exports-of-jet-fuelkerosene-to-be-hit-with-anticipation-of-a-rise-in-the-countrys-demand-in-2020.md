@@ -6,7 +6,7 @@ category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-01-30_indias-exports-of-jet-fuelkerosene-to-be-hit-with-anticipation-of-a-rise-in-the-countrys-demand-in-2020.md"
-word_count: 441
+word_count: 437
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -25,12 +25,8 @@ Jet fuel production in India has grown at a CAGR of 7.3% and its exports by 6.3%
 
 *Estimate
 
-**
-
-**Source:** ** PPAC, Drewry Maritime Research
+Source: PPAC,Drewry Maritime Research
 
 * Estimate
-
-**
 
 **Source:** Drewry Maritime Research

@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-07-24_rising-ma-to-boost-dominance-of-global-container-terminal-operators.md"
-word_count: 717
+word_count: 716
 tags:
   - Container Shipping
   - Drewry
@@ -23,8 +23,6 @@ London, UK, 24th July 2023 – M&A-led growth strategies will propel leading reg
 While the position of the largest global terminal operators (GTOs) at the top of the rankings look secure, the number of companies seeking to invest in the global ports market has increased in recent years. However, with global container port volumes increasing by just 0.5% in 2022, M&A has emerged as the quickest route to build market share.
 
 Eleanor Hadland, author of the report and Drewry’s senior analyst for ports and terminals said: “Increased M&A and privatisation activity will see the number of GTOs increase – Hapag Lloyd, ONE, Adani and Abu Dhabi Ports Group are all set to feature in next year’s league tables.”
-
-**
 
 **Source:** Drewry’s Global Container Terminal Operators Annual Review and Forecast 2023/24
 

@@ -6,7 +6,7 @@ category: "Crude Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-06-17_should-crude-tanker-owners-start-trimming-spot-exposure.md"
-word_count: 443
+word_count: 439
 tags:
   - Crude Tankers
   - Drewry
@@ -31,7 +31,7 @@ Although the tanker market prefers spot employment, the share of spot or time ch
 
 Risk-averse owners normally try to avoid a situation where operating and financial leverage are both high. Many listed companies reduced their financial leverage in the last two years as they used high profitability to reduce debts, especially when tonnage ordering was capped by the limited availability of slots with prominent shipyards. A sharp reduction in financial leverage gave them headroom to increase operating leverage. Accordingly, many owners increased their exposure to the spot market to benefit from high vessel earnings.
 
-**Source:** ** ** ** Company Annual reports, Drewry Maritime Research
+Source: Company Annual reports,Drewry Maritime Research
 
 Vessel earnings are expected to remain high during 2024–25 because of tight supply, but any possible normalcy in the Suez Canal traffic will weaken freight rates. If any company plans to order vessels to expand or renew capacity, its debt burden will increase again. Therefore, it is advised to gradually bring down spot exposure towards normal levels from the current high levels.
 

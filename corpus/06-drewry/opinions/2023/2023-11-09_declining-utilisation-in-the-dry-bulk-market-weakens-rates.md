@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2023/2023-11-09_declining-utilisation-in-the-dry-bulk-market-weakens-rates.md"
-word_count: 371
+word_count: 370
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -35,8 +35,6 @@ The fleet growth is likely to be as low as 2.6% in 2023. Meanwhile, effective su
 Despite the higher demand growth as compared to supply, rates weakened in 2023 as the global waiting time has reduced considerably, making more vessels available for employment.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry AIS
 

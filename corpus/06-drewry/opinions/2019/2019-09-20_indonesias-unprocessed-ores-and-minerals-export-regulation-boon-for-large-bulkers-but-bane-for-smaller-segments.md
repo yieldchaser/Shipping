@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-09-20_indonesias-unprocessed-ores-and-minerals-export-regulation-boon-for-large-bulkers-but-bane-for-smaller-segments.md"
-word_count: 661
+word_count: 659
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ For the moment, the Indonesian government has not announced any plans to bring f
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
 
 The Indonesian government had imposed a similar ban in 2014 before partially lifting it in 2017. In the run up to the proposed ban, Indonesia’s nickel ore exports skyrocketed and in 2H13 the country exported an additional about 10 million tonnes of nickel ore than in 2H12. This translated into a monthly increase of more than 1.5 million tonnes. If the present ban has a similar impact, Indonesia’s exports will increase by 6–7 million tonnes over the next four months.
@@ -41,8 +39,6 @@ Indonesia is the second largest exporter of nickel ore in the world, accounting 
 However, if the ban on bauxite exports is implemented it will have a major impact on tonne-mile employment. Indonesia exports most of its bauxite to China, and if Indonesia decides to ban bauxite exports from 2020, China will replace Indonesian bauxite with bauxite from Guinea. Already, production is being ramped- up at Guinea’s existing mines and new mining facilities are due on steam. For example, China’s Chalco will commence mining from its Boffa project by the end of 2019. At full production 12 million tonnes of bauxite will be mined annually at Boffa.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

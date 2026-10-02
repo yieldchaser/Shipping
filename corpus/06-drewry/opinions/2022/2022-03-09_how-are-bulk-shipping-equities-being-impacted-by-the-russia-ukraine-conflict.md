@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2022/2022-03-09_how-are-bulk-shipping-equities-being-impacted-by-the-russia-ukraine-conflict.md"
-word_count: 1995
+word_count: 1959
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -27,19 +27,19 @@ On a broader level, we expect shipping supply from Russia to be significantly im
 
 The current conflict between Russia and Ukraine led to increased uncertainty at a time when the world economy is on the path of post-pandemic recovery. The ongoing conflict had a substantial impact on the tanker market as Russia is a key player in the oil and gas sector, but the impact on the dry bulk sector remained muted because of the limited contribution of both Russia and Ukraine in the overall dry bulk trade.
 
-**Source:** ** ** ** Various stock exchanges, DMFR
+Source: Various stock exchanges,DMFR
 
 Drewry’s crude tanker equity index and Drewry’s product tanker equity index surged by 12.2% and 13.3% respectively since the beginning of the conflict, highlighting the massive increase in average spot earnings of crude and product tankers, especially on key routes in the Black Sea and Mediterranean. Several traders scrambled to cope with the possible disruption in Russian oil supplies, higher bunker cost and increased risk premiums for ships plying in the Black Sea and Mediterranean. Stock prices of companies operating mid-size tankers surged more than those of the companies with higher exposure to larger crude carriers as is evident from the uptrend registered by Nordic American Tankers (45.5%), Tsakos Energy Navigation (34.2%) and Teekay Tankers (19.1%) versus the comparatively limited rise in Frontline (10.9%), DHT Holdings (8.7%) and Euronav (6.8%) which have greater exposure to larger crude carriers.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
 Scorpio Tankers (20.1%) and Torm (16.3%) were the top performing product tanker companies among the constituents of Drewry product tanker equity index followed by Ardmore Shipping (6.0%) and Hafnia (5.9%) whereas d’Amico International Shipping (0.7%) largely remained unaffected. The double-digit rally in Scorpio Tankers and Torm is because of their larger fleet and higher exposure to the spot market, whereas the relatively smaller fleet of Ardmore and lower spot exposure of Hafnia resulted in moderate gains in their stock prices. Smaller fleet coupled with higher time charter coverage resulted in a marginal gain in d’Amico International Shipping’s stock price during the period.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
 Unlike oil tanker indices, the ongoing conflict between Russia and Ukraine has limited impact on Drewry’s dry bulk carriers’ equity index which gained only 2.5% since the conflict began. DS Norden is the top performer and rallied 35.6% primarily due to the jump seen on 03 March as the company reported the best annual results in the past 11 years. Navios Maritime Holdings (27.9%), Diana Shipping (20.5%) and Pacific Basin Shipping (10.3%) also registered double-digit gains during the period on account of record annual profits for 2021 reported in the last week of February. However, a decline in stock prices of Golden Ocean Group (-8.5%) and Star Bulk Carriers (-6.5%) which account for nearly 55% of the Drewry dry bulk carriers’ equity index limited the growth in the index. Moreover, the spot earnings of dry bulk carriers were less volatile compared to the spot earnings of oil tankers.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
 The start of the conflict heightened crude supply uncertainties as Russia accounts for nearly 11.3% of global crude oil trade and 9.7% of global refined products trade. This led to an oil price jump of 31.8% from USD 97.13 per barrel on 23 February to USD 127.98 per barrel on 8 March. Traders rushed to lock in vessels while several owners were unwilling to send vessels to the Black Sea region which resulted in higher spot earnings of crude carriers. Suezmax and Aframax spot earnings on the Black Sea-Mediterranean route reached around USD 180,000pd (vs nearly USD 10,000pd pre crisis). We believe the ongoing conflict will result in higher spot earnings of oil tankers in the short term as the shift in trade patterns could boost the tonne-mile demand. Although Russian oil and gas sector is exempted from the recent sanctions imposed by western economies, buyers of Russian oil are looking for alternative sources to insulate themselves from the adverse impact of the ongoing conflict. On the other hand, if the conflict stretches for a longer period, supply from Russia will be disrupted taking oil prices higher and leading to demand destruction. This in turn will hurt global oil trade and put pressure on the earnings of oil tankers across vessel classes.
 
@@ -59,11 +59,11 @@ Golar LNG share price has benefited from the rise in crude oil prices and the re
 
 Note: Drewry LNG shipping equity index includes Golar LNG, Flex LNG and Nakilat, Indexed as of 31 December 2019. Priced as of 4 March 2022.
 
-**Source:** ** ** ** Yahoo Finance, DMFR
+Source: Yahoo Finance,DMFR
 
 Note: Indexed as of 31 December 2019. Priced as of 4 March 2022.
 
-**Source:** ** ** ** DMR, DMFR
+Source:DMR,DMFR
 
 LPG charter rates are expected to rise amid the uncertainty and possible sanctions on Russian vessels. The Russia-Ukraine war has led to possibilities of sanctions on Russian entities, which could create demand for substitute LPG cargo from the US. The current crisis has resulted in higher crude prices, impacting LPG and bunker prices. If sustained, higher LPG prices can hamper the demand for residential and petchem sectors, thus affecting global LPG trade and bringing down freight rates in the long term.
 
@@ -73,13 +73,13 @@ Stealth Gas share price zoomed 18% YTD and 24.5% since 24 February, when Russia 
 
 Note: All stock prices have been indexed to 100 as of 31 May 2016.
 
-**Source:** ** ** ** Yahoo finance, DMR,DMFR
+Source: Yahoo finance,DMR,DMFR
 
 We have seen a historically high correlation between asset prices and stock prices. This is especially true for VLGC spot market players such as BW LPG. However, with a steep decline in BW LPG share prices in 2021, this correlation has deviated a bit. As LPG shipping rates are likely to improve, stock prices will also strengthen, aligning them with the asset prices.
 
 Note: VLGC asset prices and BW LPG stock price has been indexed to 100 as of 1 January 2014.
 
-**Source:** ** ** ** Yahoo Finance, DMR,DMFR
+Source: Yahoo Finance,DMR,DMFR
 
 For LNG and LPG shipping, we believe stocks with long-term charter coverage, historically high utilisation rates and lower leverage are expected to be preferred by investors during these uncertain times as they have a more resilient business model.
 

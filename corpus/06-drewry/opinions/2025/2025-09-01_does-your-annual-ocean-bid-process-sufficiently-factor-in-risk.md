@@ -45,3 +45,5 @@ The schema below is an overview of the risk management cycle in ocean procuremen
 The framework is practical and very much action-orientated, defined by clear steps, supported by check-lists and due diligence reviews, which Drewry can support, should procurement and logistics teams need to tap our pooled knowledge and best practices.
 
 **Source:** Drewry Supply Chain Advisors
+
+

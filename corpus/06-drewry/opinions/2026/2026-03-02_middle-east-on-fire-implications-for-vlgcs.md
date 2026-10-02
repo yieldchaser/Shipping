@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2026/2026-03-02_middle-east-on-fire-implications-for-vlgcs.md"
-word_count: 312
+word_count: 311
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -26,8 +26,6 @@ Further military escalations are likely in the region, which has forced commerci
 Given the Strait of Hormuz’s high importance to energy shipping, Drewry presents its views on the short-term implications of the Strait closure on vessel movements, commodity supply and demand reactions.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

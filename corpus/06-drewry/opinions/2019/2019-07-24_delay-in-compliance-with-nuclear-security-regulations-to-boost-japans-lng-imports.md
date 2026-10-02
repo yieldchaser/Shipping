@@ -6,7 +6,7 @@ category: "Gas Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2019/2019-07-24_delay-in-compliance-with-nuclear-security-regulations-to-boost-japans-lng-imports.md"
-word_count: 532
+word_count: 531
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -38,7 +38,5 @@ Of the remaining 34 reactors, nine at five plants have met the new standards and
 When the nuclear power plants resumed operations in 2018, Japan’s LNG imports started to fall, and in 1H19, they shrank 8% to 38.9 million tonnes from 42.1 million tonnes in 1H18. The drop in LNG imports was in line with Japan’s efforts to reduce the share of natural gas from 40% to 27% by 2030 and increase the share of nuclear and renewable sources in its energy mix by 2030. Japan’s LNG demand is projected to fall between 8% and 10% in 2019 but we expect it to increase again from 2021 as the nuclear reactors temporarily go offline.
 
 Note: As of July 2019
-
-**
 
 **Source:** Drewry Maritime Research

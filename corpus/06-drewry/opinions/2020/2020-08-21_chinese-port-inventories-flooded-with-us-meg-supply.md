@@ -6,7 +6,7 @@ category: "Product & Chemical Tankers"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2020/2020-08-21_chinese-port-inventories-flooded-with-us-meg-supply.md"
-word_count: 561
+word_count: 559
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -33,11 +33,7 @@ We expect MEG supply from the US to China to continue in 2H20 as naphtha-based M
 
 **Source:** Drewry Maritime Research
 
-**
-
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 

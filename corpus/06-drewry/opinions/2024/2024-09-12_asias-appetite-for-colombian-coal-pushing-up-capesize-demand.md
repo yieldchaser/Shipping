@@ -6,7 +6,7 @@ category: "Dry Bulk"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-09-12_asias-appetite-for-colombian-coal-pushing-up-capesize-demand.md"
-word_count: 1087
+word_count: 1080
 tags:
   - Drewry
   - Drewry Maritime Research
@@ -40,11 +40,11 @@ Despite the massive contraction in 2023, the annual volume remained higher than 
 
 The Continent’s dampened demand at the end of 2023 and the start of 2024 was partly due to a less harsh winter. Despite the seasonal decline, the overall demand has been subdued due to lower power demand from industries in the region as industrial production suffered multiple hits after the spread of Covid in 2020. The construction and production activity stagnated further amid high inflation and borrowing costs during the Russia-Ukraine war.
 
-**Source:** ** ** ** Eurostat, Drewry Maritime Research
+Source: Eurostat,Drewry Maritime Research
 
 The EU-27 volume index of production (2021=100), which tracks activities related to mining, manufacturing and electricity demand, was subdued in 2024, dropping to the lowest levels in the last four years. Electricity demand was thus muted, reducing approximately 6% in 1H24 compared to 2021 after it contracted in 2022–23 due to high energy prices.
 
-**Source:** ** ** ** Eurostat
+Source: Eurostat
 
 In addition to the lower power demand, the heightened focus on renewable electricity, attributed to the rapid installation of new capacity in 2023, has further accentuated the decline in coal demand. In 2023, the electricity generated through renewables exceeded the volume generated through fossil fuels for the first time in history. The Continent produced 74% of its electricity in January-June 2024 from non-fossil fuel sources, with the share of coal dropping to a mere 9%, the historically lowest share for the same period in any year. Meanwhile, the EU has added historically high solar and wind energy capacity to the grid in 2023, potentially re-shaping the future energy mix.
 

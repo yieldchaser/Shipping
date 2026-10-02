@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-04-05_tanker-prices-hit-record-highs-but-sustainability-in-question.md"
-word_count: 975
+word_count: 974
 tags:
   - Container Shipping
   - Drewry
@@ -29,8 +29,6 @@ Mid-size tankers were the main beneficiaries of this shift in the trade because 
 Similarly, newbuild prices have spiked almost 38% since early 2019. The low availability of prompt modern tonnage and high second-hand values are compelling owners to place new orders. Market players such as Trafigura and DHT have been investing heavily in new VLCCs, even partnering with less-prominent Chinese yards. However, owners placing new orders will not benefit from the ongoing firm charter rates as all these vessels are scheduled to be delivered post-2025.
 
 **Source:** Drewry Maritime Research
-
-**
 
 **Source:** Drewry Maritime Research
 
