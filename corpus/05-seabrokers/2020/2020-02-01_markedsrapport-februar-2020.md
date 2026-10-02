@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-02-01_markedsrapport-februar-2020.pdf"
-tables_count: 22
-word_count: 6670
+tables_count: 20
+word_count: 6420
 tags:
   - Offshore
   - OSV
@@ -44,19 +44,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -569,31 +556,8 @@ Constellation Oil Services has secured another rig contract with Petrobras, this
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## GUYANA-SURINAME DEAL
+# GUYANA-SURINAME DEAL
 
 Noble Corporation and ExxonMobil have entered into a "unique commercial enabling agreement" for drilling services in the Guyana-Suriname Basin. This framework agreement defines the contractual terms for the continuation of drilling services using certain rigs from Noble's fleet.
 
 The ultra-deepwater drillships Noble Bob Douglas, Noble Don Taylor and Noble Tom Madden (which are already working for ExxonMobil in Guyana) are included, while additional rigs may be added. In fact, since the deal was announced on February 11th, a fourth drillship - the Noble Sam Croft - has already been confirmed. So far, the framework agreement has seen 4.5 years of firm contractual commitments awarded to Noble. The Noble Tom Madden received 3 more years of firm work from December 2020, the Noble Bob Douglas 6 months from March 2021, while the Noble Sam Croft will go on hire to ExxonMobil in August for one year.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** An aeroplane covers its outward journey at 600 mph. It returns, over exactly the same distance, at 400 mph. What is the average speed of the aeroplane over the entire journey?
-
-The correct answer was :- 480 mph.
-
-**This month, our poser is as follows:** A knight is placed on the the centre square of this chessboard. Move the night to each square once only, collecting letters to spell out four nations that have played at the football World Cup. What are the nations?
-
-| E | C | S | I | E |
-| - | - | - | - | - |
-| B | L | C | N | S |
-| E | I |   | E | Z |
-| F | R | G | U | A |
-| A | R | R | A | R |
-
-Answers back to chartering@seabrokers.co.uk.

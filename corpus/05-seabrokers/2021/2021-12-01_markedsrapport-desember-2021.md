@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 4
 source_file: "corpus/05-seabrokers/pdfs/2021-12-01_markedsrapport-desember-2021.pdf"
 tables_count: 8
-word_count: 1633
+word_count: 1591
 tags:
   - Offshore
   - OSV
@@ -140,19 +140,23 @@ tags:
 
 Source: Esgian Rig Analytics
 
-## THE SEABREEZE ARCHIVE
+### SEABROKERS HEAD OFFICE
+Forusbeen 78 - 4033 Stavanger - Norway
+Tel: (+47) 51 80 00 00
+Internet: www.seabrokers-group.com
 
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to subscribe or unsubscribe please contact : chartering@seabrokers.co.uk
+### SEABROKERS CHARTERING AS - STAVANGER
+Duty Telephone (+47) 51 815400 (24 Hrs)
+E-mail chartering@seabrokers.no
 
-## CONUNDRUM CORNER
+### SEABROKERS LTD - ABERDEEN
+Duty Telephone (+44) 1224 747744 (24 Hrs)
+Duty Mobile (+44) 7802 304129
+E-Mail chartering@seabrokers.co.uk
 
-**Last month:** A piggybank contains £10.05. It is made up of four different coin denominations and the largest is 50p. There is exactly the same number of each coin. What four coins are present in the piggy bank and how many of each are there?
-
-The answer was :- 15 each of 2p, 5p, 10p and 50p.
-
-**This month's poser:** What letter should appear next in this sequence? B F J P ?
-
-(answers back to chartering@seabrokers.co.uk)
+### SEABROKERS BRAZIL LTDA - RIO DE JANEIRO
+Duty Telephone (+55) 21 3505 4200 (24 Hrs)
+E-mail chartering@seabrokers.com.br
 
 # NORTH SEA AVERAGE SPOT RATES
 

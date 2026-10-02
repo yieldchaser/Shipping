@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 20
 source_file: "corpus/05-seabrokers/pdfs/2022-11-01_markedsrapport-november-desember-2022.pdf"
 tables_count: 14
-word_count: 8118
+word_count: 8027
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏗️   | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| ⛵     | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -583,15 +570,17 @@ Zentech has been awarded a detailed design engineering contract for the construc
 | SOUTH AMERICA | 70.9% | 68.5% | 63.8% | 47.2% | 50.5% |
 | US GULF | 57.4% | 50.3% | 39.3% | 49.5% | 51.3% |
 
-# SEABROKERS CONTACTS, DUTY PHONES
+### Forusbeen 78 - 4033 Stavanger - Norway
 
-## **HAPPY BIRTHDAY TO SEABROKERS!**
-It has been a momentous year for Seabrokers with the company celebrating our 40th birthday in 2022! We would like to express our sincere gratitude for all your support through those first 40 years... and here's to 40 more!!
-
-## THE SEABREEZE ARCHIVE
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CHRISTMAS DONATIONS
-This Christmas, Seabrokers asked employees to select charities they would like the company to make a donation to on their behalf. Contributions have been made to the following organisations: AberNecessities (www.aber necessities.co.uk), Charlie House (www.charliehouse.org.uk) Create Aberdeen (www.createaberdeen.org), Crisis (www.crisis.org.uk), Cyrenians (www.cyrenians.scot), Karanba (www.karanba.com), Northsound One Mission Christmas Cash for Kids (www.planetradio.co.uk/northsound/charity/events/mission-christmas-2022-aberdeen), Norwich Homeless Support (www.norwichhomelesssupport.co.uk), Social Bite (www.social-bite.co.uk), The Archie Foundation (www.archie.org), The Grand Appeal - Bristol Children's Hospital Charity (www.grandappeal.org.uk), The ME Association (www.meassociation.org.uk), and the Trussell Trust (www.trusselltrust.org).
-
-From all of us at Seabrokers, we would like to wish you all a Merry Christmas and a Happy New Year!
+| SEABROKERS HEAD OFFICE | Internet: www\.seabrokers-group.com |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| SEABROKERS CHARTERING AS - STAVANGER     | Duty Telephone ++47 51 815400 (24 Hrs)<br/>E-mail chartering\@seabrokers.no                               |
+| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>E-Mail chartering\@seabrokers.co.uk                          |
+| SEABROKERS BRAZIL LTDA - RIO DE JANEIRO  | Duty Telephone ++55 21 3505 4200 (24 Hrs)<br/>E-mail chartering\@seabrokers.com.br                        |
+| SECURALIFT AS - STAVANGER                | Telephone ++47 51 800000<br/>E-mail stig\@seabrokers.no                                                   |
+| SEA SURVEILLANCE AS - BERGEN             | Telephone ++47 55 136500<br/>E-mail info\@seasurv.net                                                     |
+| SEABROKERS EIENDOM AS - STAVANGER        | Telephone ++47 51 800000<br/>E-mail rolf.aarthun\@seabrokers.no                                           |
+| SEABROKERS SERVICES AS - STAVANGER       | Telephone ++47 51 800000<br/>E-mail lars.hagen\@seabrokers.no                                             |
+| SEABROKERS FUNDAMENTERING AS - STAVANGER | Telephone ++47 51 800000<br/>E-mail fundamentering\@seabrokers.no                                         |
+| SEABROKERS HAVNEKRANER AS - STAVANGER    | Telephone ++47 51 800000<br/>E-mail havnekraner\@seabrokers.no                                            |
+| SKAGEN SHIP CONSULTING AS - STAVANGER    | Telephone ++47 45 514551 or ++47 46 518000<br/>E-mail hr\@skagenship.com or pr\@skagenship.com            |

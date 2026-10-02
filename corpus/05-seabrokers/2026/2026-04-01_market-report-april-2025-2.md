@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-04-01_market-report-april-2025-2.pdf"
 tables_count: 17
-word_count: 7895
+word_count: 7740
 tags:
   - Offshore
   - OSV
@@ -637,55 +637,8 @@ In Southeast Asia, Valeura Energy has contracted the Shelf Drilling Enterprise f
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-### **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-### **
-
-## 
-
-### **
-
 # MULTIPLE CONTRACTORS FINALISE PETROBRAS DEALS
 
 While the rapid increase to the rig and vessel count in Brazil slowed towards the end of 2025, it does look as though Petrobras is looking to maintain strong demand levels going forward. Multiple rig owners have added to their backlog via “blend and extend” agreements, where the day rates for existing commitments are reduced in exchange for extended contract periods, while several other owners have also secured new commitments.
 
 Constellation Oil Services has been awarded a four-year extension for the Brava Star drillship, and 34-month extensions for both the Alpha Star and Gold Star drillships; Foresea has picked up a two-year extension for the Norbe VI semisubmersible, in addition to a new 1,443-day contract for the ODN I drillship; Noble Corporation has secured a 1,115-day extension for the Noble Courage semisubmersible; Seadrill has finalised a three-year extension for the West Polaris drillship; Transocean has been awarded a one-year extension for the Deepwater Aquila drillship, a 1,156-day extension for the Deepwater Corcovado drillship, and a three-year extension for the Deepwater Orion drillship; Valaris has picked up a 1,064-day extension for the Valaris DS-4 drillship; and Ventura Offshore has secured a one-year extension for the Atlantic Zonda drillship, a 135-day extension for the DS Carolina drillship, and a 1,455-day extension for the SSV Victoria semisubmersible.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

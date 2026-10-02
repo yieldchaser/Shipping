@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-03-01_markedsrapport-mars-2019.pdf"
-tables_count: 18
-word_count: 6738
+tables_count: 16
+word_count: 6488
 tags:
   - Offshore
   - OSV
@@ -43,21 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔗    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
-
-Cover image c/o Allseas.
 
 # OSV MARKET ROUND-UP
 
@@ -560,36 +545,8 @@ Petrobras has awarded contracts to Transocean for the long-term charter of two u
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## ANOTHER NEWBUILD FOR AWILCO
+# ANOTHER NEWBUILD FOR AWILCO
 
 Awilco Drilling has reemphasised its confidence for the harsh environment drilling market by exercising an option for a second newbuild semisubmersible rig to be built at the Keppel FELS Shipyard in Singapore.
 
 Awilco signed a contract in March 2018 for one firm rig to be built to the CS60 ECO MW design, with options for three more rigs of a similar design to be constructed. The first of these options has now been exercised. The semi will be designed for harsh environment use, and will be equipped and certified for drilling on the Norwegian Continental Shelf, including the Barents Sea. She will be able to work in water depths of up to 5,000ft utilising 12-point mooring with thruster assist. The cost for the rig will be approximately USD 425 million, with delivery scheduled for March 2022. The first rig is due to be delivered in March 2021.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-The alphabet is written here but some letters are missing. Arrange the missing letters to give a word. What is the word?
-
-B C D E F G H K M P Q V W X Y Z
-
-The correct answer was :- JOURNALIST
-
-**This month, our poser is as follows:**
-
-I am first rate. Remove two letters and I am the raised edge of an object. Change one letter and I am lacking brightness. Add one letter and I am a US coin. Finally, change one letter and I am a pantomime role.
-
-What was I to start with, and what did I become?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| ORGANIZATION                                 | LOCATION                               | Telephone                                                                 | E-mail                                |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------- |
-| **

@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-02-01_market-report-february-2026.pdf"
 tables_count: 15
-word_count: 8163
+word_count: 8013
 tags:
   - Offshore
   - OSV
@@ -665,36 +665,6 @@ While the Transocean management team has been busy finalising its merger agreeme
 
 Transocean Encourage (c/o M. Vassnes) c/o M. Vassnes
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-### **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # VALARIS SECURES USD 900 MILLION OF CONTRACT VALUE
 
 Perhaps highlighting why Valaris proved to be such an attractive acquisition candidate for Transocean, the company has added nearly USD 900 million of fresh contract backlog over a three-month period. Some of the recent activity has included a five-well contract extension for the Valaris DS-7 drillship with Azule Energy offshore Angola; that has added 325 days of additional charter time from October 2026, and approximately USD 125 million in projected revenue. Five additional one-well options remain available to Azule. Also in Angola, ExxonMobil has awarded a two-year contract extension to the Valaris DS-9 drillship, committing the rig through June 2028 with two further six-month options available.
@@ -702,13 +672,3 @@ Perhaps highlighting why Valaris proved to be such an attractive acquisition can
 In Indonesia, BP has awarded an eight-well contract, with an estimated duration of two years, to the Valaris 106 jackup. The USD 74 million contract is scheduled to commence in the third quarter of 2026; four additional one-well options are available. The Valaris 106 is currently stacked in Indonesia.
 
 In the North Sea, Valaris has secured a 12-well plug & abandonment contract with Spirit Energy covering wells in the East Irish Sea. With an estimated firm duration of 294 days, the work may be carried out by any suitable jackup from Valaris' North Sea fleet, with operations to commence no later than December 2030. This contract has a value of USD 35 million.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

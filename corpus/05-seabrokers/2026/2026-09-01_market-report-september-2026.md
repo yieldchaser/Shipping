@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-09-01_market-report-september-2026.pdf"
 tables_count: 12
-word_count: 8006
+word_count: 7874
 tags:
   - Offshore
   - OSV
@@ -602,32 +602,6 @@ The Aryabhatt 1 and Vivekanand 1 jackups have each been contracted for a firm pe
 
 This follows a competitive tender process from PTTEP against the renewal or replacement of Energy Drilling's tender-assist rigs EDrill-1 and T-15. The Aryabhatt 1 jackup will be relocated to Thailand from the Middle East, while the Vivekanand 1 jackup will be relocated from India.
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # BORR DRILLING STREAMLINING MEXICO OPERATIONS
 
 Borr Drilling Limited has entered into definitive agreements to divest its 51% equity interest in its Mexican joint ventures Perforaciones Estratégicas e Integrales Mexicana S.A. de C.V. and Perforaciones Estratégicas e Integrales Mexicana II, S.A. de C.V., collectively referred to as Perfomex.
@@ -635,13 +609,3 @@ Borr Drilling Limited has entered into definitive agreements to divest its 51% e
 Borr is selling its stakes to its long-standing local partner in Mexico; this transaction will see that partner assume responsibility for the management and operation of three of Borr's jackups in Mexico: the Galar, Gersemi and Njord. The Galar is firmly contracted to Pemex until April 2028, while the Gersemi and Njord are committed until May 2030. Borr will retain ownership of the jackups and their current contracts will continue via bareboat charter agreements.
 
 In other contractual developments for Borr Drilling, Eni has exercised a nine-month option on its contract with the Bestla jackup offshore the Netherlands, while an undisclosed charterer has fixed up the Joro for a 60-day firm accommodation charter offshore the UK, an undisclosed West African charterer has awarded an LOI for a three-well firm campaign with the Norve, SNEPCO has exercised a one-well option on its contract with the Natt offshore Nigeria, and PVEP-HCM has chartered the Idun (via intermediary PV Drilling) for a three-well charter offshore Vietnam.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

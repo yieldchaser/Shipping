@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-03-01_markedsrapport-mars-2023.pdf"
-tables_count: 11
-word_count: 6788
+tables_count: 10
+word_count: 6645
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # **OSV MARKET ROUND-UP**
 
@@ -493,22 +480,6 @@ JX Nippon Oil & Gas has entered into an agreement with the funds related to the 
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## HALF-BILLION HARSH DEALS
+# HALF-BILLION HARSH DEALS
 
 Transocean has added USD 494 million of new contract backlog via new deals for four of its harsh environment semisubmersibles. In Norway, Equinor has awarded a new 19-well firm contract to incumbent rig Transocean Enabler that will start in April 2024 in direct continuation of the rig's current deal. The new 570-day commitment will involve work at the Johan Castberg field in the Barents Sea, with eight option wells available. Equinor also awarded a new nine-well firm deal (estimated at 460 days) to another incumbent unit, this time the Transocean Encourage, for work in the Norwegian Sea. The rig will roll onto its new contract in December 2023, with six optional wells available. One rig that will be leaving Norway will be the Transocean Endurance. She will relocate to Australia to start an estimated 240-day P&A contract in January 2024; this is thought to be with Woodside Energy. Back in Norway, Wintershall Dea exercised a one-well option on its contract with the Transocean Norge.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** The name of a certain car manufacturer can be rearranged to give a word that means 'impartial' - what are the two words?
-
-The answer was :- **RENAULT** and **NEUTRAL**
-
-**This month, our poser is:** How many holes are in this t-shirt?
-
-Answers back to chartering@seabrokers.co.uk.

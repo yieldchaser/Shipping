@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-03-01_market-report-march-2026.pdf"
 tables_count: 16
-word_count: 8099
+word_count: 7948
 tags:
   - Offshore
   - OSV
@@ -639,36 +639,6 @@ ODN I (c/o Michel)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-### **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # BORR DRILLING ACQUIRING FIVE MEXICO-BASED JACKUPS
 
 Borr Drilling Ltd has entered into definitive agreements to acquire five premium jackup rigs from Fontis Finance Ltd for a purchase price of USD 287 million. Fontis Finance is an indirect subsidiary of Paratus Energy Services.
@@ -680,13 +650,3 @@ The five jackups in question are the Courageous (2007), Defender (2007), Intrepi
 Commenting on the transaction, Borr Drilling CEO Bruno Morand noted that Borr continues to “see shallow-water rigs as strategically important... particularly at a time when security of energy supply and reliability of execution are of heightened importance.”
 
 The transaction is expected to close during the third quarter of 2026.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

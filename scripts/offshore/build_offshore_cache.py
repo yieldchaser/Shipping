@@ -182,7 +182,9 @@ def main():
     ledger_rows.sort(key=lambda x: (x["date"], x["category_name"]), reverse=True)
 
     # Ingest reports catalog
-    catalog_path = REPORTS_DIR / "seabrokers_catalog.json"
+    catalog_path = ROOT / "data" / "reports" / "seabrokers_catalog.json"
+    if not catalog_path.exists():
+        catalog_path = REPORTS_DIR / "seabrokers_catalog.json"
     reports_out = []
     if catalog_path.exists():
         logging.info("Reading %s...", catalog_path)

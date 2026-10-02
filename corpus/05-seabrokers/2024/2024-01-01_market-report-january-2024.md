@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-01-01_market-report-january-2024.pdf"
 tables_count: 11
-word_count: 7736
+word_count: 7574
 tags:
   - Offshore
   - OSV
@@ -639,53 +639,8 @@ Source: Westwood Global RigLogix
 
 January 2024
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-**Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-**Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-**Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-**Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-**Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
-## Sea Surveillance
-**SEA SOFTWARE & HI-END SOLUTIONS**
-**Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # Congratulations Erik!
 
 This year marks a special milestone for Erik Christoffersen (General Manager/Director of Seabrokers Ltd in Aberdeen) as we are celebrating his 30-year journey with Seabrokers. From his first day to his 30th year, Erik's journey has been a story of passion, innovation and unwavering commitment.
 
 Under Erik's guidance, our Aberdeen division has soared to new heights, setting benchmarks in the industry and forging a remarkable path of success. We are proud to have had Erik working with us for a whopping three decades (!) and look forward to many more years to come, and to many more achievements that lie ahead for Seabrokers Ltd with Erik at the helm.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

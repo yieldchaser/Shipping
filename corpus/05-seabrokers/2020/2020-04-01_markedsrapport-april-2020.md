@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-04-01_markedsrapport-april-2020.pdf"
-tables_count: 14
-word_count: 6970
+tables_count: 12
+word_count: 6694
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             | Category |
-| ------------------- | -------- |
-| SHIPBROKING         |          |
-| SECURALIFT          |          |
-| SEA SURVEILLANCE    |          |
-| YACHTING            |          |
-| REAL ESTATE         |          |
-| FACILITY MANAGEMENT |          |
-| FOUNDATIONS         |          |
-| HARBOUR CRANES      |          |
 
 # OSV MARKET ROUND-UP
 
@@ -528,35 +515,6 @@ Keppel Offshore and Marine has delivered another newbuild jackup to Borr Drillin
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## VALARIS TO DIVEST MORE RIGS
+# VALARIS TO DIVEST MORE RIGS
 
 In the wake of the coronavirus carnage that has spread through certain sectors of the market, Valaris has reported a quarterly net loss of USD 3.01 billion. The results for the first quarter of 2020 included a non-cash asset impairment of USD 2.81 billion related to three drillships (VALARIS DS-3, DS-5 and DS-6), three semis (VALARIS 8500, 8501 and 8502) and seven jackups (VALARIS JU-71, JU-75, JU-87, JU-100, JU-104, JU-105 and JU-109). In response to the challenges that are prevalent in the market today, Valaris has stated that it expects to "stack certain uncontracted rigs and remove others from our fleet, including three drillships and four semisubmersibles." The seven specific floating rigs to be divested have not yet been specified.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| COMPANY                                      | LOCATION                               | Telephone                                                                 | E-mail                               |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-What numbers should replace the question marks?
-
-- 14 70 19
-- 23 92 27
-- 19 57 22
-- 48 ?? ??
-
-The answer was :- 96 and 50 (Row 1 = first number x 5 and first number + 5; Row 2 = first number x 4 and first number + 4; Row 3 = first number x 3 and first number +3; therefore Row 4 = first number x 2 and first number + 2).
-
-### This month, our poser is as follows:
-
-A generous boy wanted to give sweets to his classmates. He offered 9 sweets to each boy and 12 sweets to each girl. One third of the boys in the class accepted the sweets but only one quarter of the girls had the sweets. If the boy gave out 87 sweets, how many classmates did he have?
-
-**Answers back to chartering@seabrokers.co.uk.**

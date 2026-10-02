@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 4
 source_file: "corpus/05-seabrokers/pdfs/2022-12-01_markedsrapport-desember-2022.pdf"
-tables_count: 6
-word_count: 1104
+tables_count: 7
+word_count: 1441
 tags:
   - Offshore
   - OSV
@@ -127,22 +127,59 @@ tags:
 
 Source: Westwood Global RigLogix
 
-## THE SEABREEZE ARCHIVE
+# NORTH SEA AVERAGE SPOT RATES
 
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to subscribe or unsubscribe please contact : chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month:**
-
-What word is pronounced the same even if you take away four of its five letters?
-
-The answer was :- Queue
-
-**This month's poser:**
-
-A man wanted to encrypt his password but he had to do it in such a way that only he could remember the password. He was told he had to use seven characters consisting only of letters and numbers (no symbols such as ! or *). In order to remember his password, he wrote down the phrase "You force heaven to be empty."
-
-What is his password?
-
-Answers back to chartering@seabrokers.co.uk.
+| Category                          | Month             | 2021    | 2022     |
+| --------------------------------- | ----------------- | ------- | -------- |
+| **PSVs < 900m²**                  | Jan               | £6,774  | £6,684   |
+|                                   | Feb               | £11,012 | £7,767   |
+|                                   | Mar               | £7,778  | £11,680  |
+|                                   | Apr               | £7,755  | £14,547  |
+|                                   | May               | £9,241  | £19,116  |
+|                                   | Jun               | £10,524 | £21,665  |
+|                                   | Jul               | £8,750  | £15,945  |
+|                                   | Aug               | £6,042  | £10,396  |
+|                                   | Sep               | £7,465  | £12,764  |
+|                                   | Oct               | £12,685 | £11,277  |
+|                                   | Nov               | £12,358 | £6,181   |
+|                                   | Dec               | £7,672  | £5,915   |
+| **PSVs > 900m²**                  | Jan               | £5,818  | £6,701   |
+|                                   | Feb               | £9,861  | £9,978   |
+|                                   | Mar               | £8,360  | £14,363  |
+|                                   | Apr               | £10,496 | £15,869  |
+|                                   | May               | £10,872 | £20,435  |
+|                                   | Jun               | £11,774 | £21,591  |
+|                                   | Jul               | £9,031  | £17,142  |
+|                                   | Aug               | £7,270  | £14,446  |
+|                                   | Sep               | £7,859  | £12,405  |
+|                                   | Oct               | £12,457 | £10,248  |
+|                                   | Nov               | £11,806 | £8,756   |
+|                                   | Dec               | £7,352  | £6,793   |
+| **AHTS < 22,000 bhp**             | Jan               | £8,656  | £10,544  |
+|                                   | Feb               | £10,928 | £22,765  |
+|                                   | Mar               | £27,971 | £38,879  |
+|                                   | Apr               | £15,068 | £16,428  |
+|                                   | May               | £12,843 | £36,865  |
+|                                   | Jun               | £16,287 | £122,485 |
+|                                   | Jul               | £25,440 | £106,209 |
+|                                   | Aug               | £19,578 | £24,750  |
+|                                   | Sep               | £39,417 | £11,717  |
+|                                   | Oct               | £17,816 | £11,644  |
+|                                   | Nov               | £16,564 | £13,257  |
+|                                   | Dec               | £18,365 | £14,735  |
+| **AHTS > 22,000 bhp**             | Jan               | £8,442  | £13,428  |
+|                                   | Feb               | £20,121 | £31,605  |
+|                                   | Mar               | £35,211 | £56,105  |
+|                                   | Apr               | £19,327 | £24,159  |
+|                                   | May               | £15,401 | £34,314  |
+|                                   | Jun               | £17,604 | £121,231 |
+|                                   | Jul               | £23,149 | £97,941  |
+|                                   | Aug               | £24,312 | £19,627  |
+|                                   | Sep               | £30,896 | £13,877  |
+|                                   | Oct               | £20,488 | £16,516  |
+|                                   | Nov               | £14,389 | £14,665  |
+|                                   | Dec               | £15,211 | £14,567  |
+| **Average Day Rates 2022 v 2021** | PSVs < 900m²      | £9,003  | £11,711  |
+|                                   | PSVs > 900m²      | £9,133  | £12,339  |
+|                                   | AHTS < 22,000 bhp | £19,804 | £36,645  |
+|                                   | AHTS > 22,000 bhp | £21,286 | £37,513  |

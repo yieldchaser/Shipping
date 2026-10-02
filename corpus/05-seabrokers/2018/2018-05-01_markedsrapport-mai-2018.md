@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2018-05-01_markedsrapport-mai-2018.pdf"
-tables_count: 14
-word_count: 6865
+tables_count: 13
+word_count: 6704
 tags:
   - Offshore
   - OSV
@@ -43,18 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2008.
-
-SHIPBROKING  
-SECURALIFT  
-SEA SURVEILLANCE  
-YACHTING  
-
-REAL ESTATE  
-FACILITY MANAGEMENT  
-FOUNDATIONS  
-HARBOUR CRANES  
 
 # OSV MARKET ROUND-UP
 
@@ -516,40 +504,10 @@ Borr Drilling is buying five new-build jackups from Keppel FELS in Singapore. Th
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **TRANSOCEAN BUYS RIGEL STAKE**
+# **TRANSOCEAN BUYS RIGEL STAKE**
 
 Transocean, through a joint venture with funds managed and/or advised by Hayfin Capital Management LLP, has purchased a **33%** interest in the West Rigel, a newbuild harsh environment semisubmersible drilling rig. The total purchase price for the rig, which is being built at the Jurong Shipyard in Singapore, is USD 500 million.
 
 The West Rigel, originally ordered by Seadrill, will be renamed Transocean Norge, with Transocean possessing the exclusive right to market and operate the rig. Delivery is slated for the fourth quarter of 2018, with the Moss Maritime CS60 unit available to charter from the first quarter of 2019.
 
 This is another sign of growing confidence for the harsh environment semi market, with Ocean Rig also announcing plans to reactivate cold-stacked semi Eirik Raude (via subsidiary Valiant Offshore) for an estimated cost of USD 110 million.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**The answer to last month's teaser :-**
-
-3 and 6 = 918
-5 and 2 = 710
-1 and 8 = 98
-
-What does 4 and 4=?
-
-The correct answer was :- 816 - add the numbers together first (4+4=8) then multiply the numbers (4x4=16). Put the answers together for 816.
-
-**This month, our poser is as follows:**
-
-Pair the words below to give three longer words. What are they?
-
-**PRINT** **ART** **OUT** **REST** **DOOR** **FOOT**
-
-Answers back to chartering@seabrokers.co.uk.

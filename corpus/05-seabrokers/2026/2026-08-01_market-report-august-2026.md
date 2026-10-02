@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-08-01_market-report-august-2026.pdf"
 tables_count: 17
-word_count: 8269
+word_count: 8137
 tags:
   - Offshore
   - OSV
@@ -628,32 +628,6 @@ Valaris 248 (c/o H. Harrison)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # NEW COMMITMENTS FOR MULTIPLE BORR JACKUPS
 
 Borr Drilling has secured more work for several of its jackups, with new commitments secured in various locations around the globe. The most significant recent addition to the company's backlog has been two-year contract extensions for two of its jackups with Pemex. The Galar and Gersemi are both now firmly committed offshore Mexico until May 2030.
@@ -661,13 +635,3 @@ Borr Drilling has secured more work for several of its jackups, with new commitm
 Borr has also secured new deals for three jackups in Southeast Asia. In Vietnam, PVEP-NCS has chartered the Gunnlod for a six-well drilling campaign at the Dai Hung South Project in the Nam Con Son Basin; this charter is due to continue until at least April 2027. Also in Vietnam, HLHV JOC has awarded a short-term deal to the Idun, which will run from September to October this year; this will be followed by a three-well charter with PetroVietnam Exploration & Production. In Malaysia, Sarawak Shell Berhad will take the Mist on hire for a short-term contract from October to November 2026 after the rig is released by Valeura Energy in Thailand.
 
 Elsewhere, Borr has also secured a contract extension for the Prospector 1 with ONE-Dyas offshore the Netherlands; this charter will now continue until April 2027 rather than September 2026. Finally, in West Africa, Foxtrot has awarded a one-month extension to the Gerd, keeping the rig on hire offshore Côte d'Ivoire until March 2027.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

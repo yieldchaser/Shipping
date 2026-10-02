@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-02-01_market-report-february-2025.pdf"
 tables_count: 14
-word_count: 7778
+word_count: 7623
 tags:
   - Offshore
   - OSV
@@ -613,43 +613,6 @@ Valaris Stavanger (c/o R. M. Hausken)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
 # JACKUP ACTIVITY ON THE RISE IN WEST AFRICA
 
 There has been a sustained increase to the level of contracting activity within the jackup market in West Africa lately.
@@ -657,13 +620,3 @@ There has been a sustained increase to the level of contracting activity within 
 In Nigeria, Shelf Drilling has secured a one-year contract extension for the Shelf Drilling Scepter with Chevron; the rig is now firmly committed until July 2026. This has added approximately USD 50 million of contract backlog for Shelf Drilling. Meanwhile, ADES has secured a second contract for one of its jackups offshore Nigeria. Following the earlier confirmation of a six-well contract for the Admarine 504 with Brittania-U, ADES has now secured a two-well firm contract for the Admarine 501 with Nkuku Ikon Petroleum Development Company. This campaign will commence in the second quarter of 2025; the charter could extend to an estimated duration of six months if two additional option wells are to be exercised.
 
 Further south in Angola, Selective Marine Services has reportedly secured a two-year contract with Etu Energias for the SMS Essa jackup. According to Westwood Global, the rig is expected to be relocated from the Middle East to West Africa around mid-2025. One other fixture has been announced recently, with Borr Drilling securing a Letter of Award for the Gerd to go to work with an undisclosed client in West Africa from June until September 2025.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

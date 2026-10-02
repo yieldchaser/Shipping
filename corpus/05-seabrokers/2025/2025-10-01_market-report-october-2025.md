@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-10-01_market-report-october-2025.pdf"
 tables_count: 17
-word_count: 8608
+word_count: 8457
 tags:
   - Offshore
   - OSV
@@ -659,36 +659,6 @@ Source: Westwood Global RigLogix
 
 October 2025
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # MIXED FORTUNES FOR BORR
 
 Borr Drilling has encountered contrasting fortunes in Mexico recently. From a positive perspective, the Borr has secured charter extensions for three jackups that are working for PEMEX. The Galar and Gersemi have both had their contracts extended for two firm years, until April and May 2028 respectively, while the Njord's contract has been extended through April 2026. PEMEX is carrying two further one-year options on its contracts with the Galar and Gersemi.
@@ -696,13 +666,3 @@ Borr Drilling has encountered contrasting fortunes in Mexico recently. From a po
 However, Borr has had to terminate two contracts due to the implementation of fresh sanctions relating to Russia. The rigs in question are the Odin and Hild, which had been working for Fieldwood Mexico; the contracts were due to continue until November 2025 and March 2026. Back in 2022, Mexican authorities authorised the transfer of corporate control of Fieldwood Energy Mexico to Lukoil following the bankruptcy of parent company Fieldwood Energy. Both the UK and USA have announced sanctions against Lukoil and Rosneft in recent weeks.
 
 Borr is not the only contractor to have terminated a drilling contract in the wake of those sanctions, with Vantage Drilling forced to terminate the 260-day contract it secured for the Platinum Explorer drillship. Vantage had never named the intended charterer for the drillship, but Lukoil had earlier been on the lookout for a floating rig for a campaign offshore Romania so the two may potentially be linked.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

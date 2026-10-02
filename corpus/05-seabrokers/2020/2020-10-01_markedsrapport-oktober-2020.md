@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-10-01_markedsrapport-oktober-2020.pdf"
-tables_count: 17
-word_count: 7019
+tables_count: 16
+word_count: 6759
 tags:
   - Offshore
   - OSV
@@ -41,17 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -522,39 +511,6 @@ Noble Corporation has secured a further 6.5 years of contract term with ExxonMob
 
 Source: Westwood Global Energy - RigLogix
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## ODFJELL CHOSEN FOR BREIDABLIKK
+# ODFJELL CHOSEN FOR BREIDABLIKK
 
 Having only recently submitted its plan for the development and operation of the Breidablikk field to the Norwegian authorities, Equinor has wasted no time in securing rig capacity for the project. Odfjell Drilling has been awarded a letter of intent for the Deepsea Aberdeen to drill 15 wells between spring 2022 and autumn 2024. The agreement includes options for nine more wells to be drilled. The firm portion of the contract, with a duration of 30 months, has a total value of USD 290 million. The option rates are to be mutually agreed based on performance and market benchmarks.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-In a row of 7 houses, each house has a different coloured front door.
-
-- The grey door is between the white door and the red door.
-- There are two houses between the blue door and the white door.
-- The brown door is the last in the row.
-- The black door is next to the blue door.
-- The house between the black door and the white door has a green front door.
-- The first house does not have a red front door.
-
-What is the order of the front doors?
-
-The answer was :- blue, black, green, white, grey, red & brown
-
-## This month, our poser is as follows:
-
-A helicopter covers its outward journey at 330mph. It returns over exactly the same distance at 220mph. What is the helicopter's average speed over the entire journey?
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>
-
-| Company                                      | Location                               | Telephone                                                                 | E-mail                                |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------- |
-| **

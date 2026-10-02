@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-06-01_markedsrapport-juni-2023.pdf"
-tables_count: 14
-word_count: 6735
+tables_count: 12
+word_count: 6537
 tags:
   - Offshore
   - OSV
@@ -41,26 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             | Category              |
-| ------------------- | --------------------- |
-| SHIPBROKING         | SHIPBROKING           |
-| SECURALIFT          | AQUACULTURE           |
-| SEA SURVEILLANCE    | SEA SURVEILLANCE      |
-| YACHTING            | YACHTING              |
-| REAL ESTATE         | REAL ESTATE           |
-| FACILITY MANAGEMENT | FACILITIES MANAGEMENT |
-| FOUNDATIONS         | CONSTRUCTION          |
-| HARBOUR CRANES      | HARBOUR CRANES        |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -487,35 +467,8 @@ Dolphin Drilling has entered into an agreement to acquire two North Sea semisubm
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **SEADRILL SELLING RIGS**
+# **SEADRILL SELLING RIGS**
 
 Seadrill Limited has entered into definitive sale and purchase agreements whereby the company will sell three tender assist drilling rigs - the T-15, T-16 and West Vencedor - to certain affiliates of Energy Drilling Pte Ltd (Edrill). The transaction will involve aggregate cash proceeds for Seadrill of approximately USD 85 million. The operations and marketing for the three tender-assist units are already under the control of Edrill under existing agreements. The rig sales are expected to close early in the third quarter of 2023.
 
 In another ongoing development, Seadrill has also announced that it is in active discussions for a potential sale of its three-unit jackup fleet in Qatar. The West Castor, West Telesto and West Tucana are currently bareboat chartered to Gulfdrill LLC, a 50-50 joint venture between Seadrill and Gulf Drilling International. The ongoing discussions could potentially lead to the sale of the three jackups in addition to Seadrill's 50% equity interest in Gulfdrill. The West Castor, Telesto and Tucana are sister rigs, all built to the Friede & Goldman JU-2000E design and delivered in 2013.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-How many pets does Josh have in total if all except two are dogs, all except two are cats, and all except two are rabbits?
-
-The answer was :- Three (one of each)
-
-**This month, our poser is:**
-
-Which of the following words does not belong?
-
-GODDESS EVENT FODDER
-PARADISE REVENGE TODDLER
-
-Answers back to chartering@seabrokers.co.uk.
-
-| SEABROKERS GROUP CONTACTS                |                                                                                                           |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-|

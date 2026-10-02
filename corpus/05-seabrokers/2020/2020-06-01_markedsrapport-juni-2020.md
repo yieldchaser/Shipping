@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-06-01_markedsrapport-juni-2020.pdf"
-tables_count: 15
-word_count: 6765
+tables_count: 14
+word_count: 6617
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -541,34 +528,10 @@ COSL Drilling Europe has signed a master framework agreement with Equinor for op
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## EQUITY RAISE FOR BORR DRILLING
+# EQUITY RAISE FOR BORR DRILLING
 
 On June 8th, Awilco Rig 1 Pte. Ltd (a subsidiary of Awilco Drilling PLC) notified Keppel FELS Ltd (KFELS) of its decision to exercise its contractual right to terminate the newbuilding contract for the harsh environment semisubmersible rig Nordic Winter. The cause for termination was cited as breaches under the Vessel Construction Contract. Awilco has indicated that the termination carries an entitlement for a refund of the instalments paid so far, totalling USD 54,720,985 plus interest.
 
 This is disputed by KFELS. The Singaporean company later provided notice of its intention to retain the instalments already received from Awilco and to seek further compensation for the work done to date.
 
 Awilco placed the order for the Nordic Winter, a Moss Maritime CS60 Eco MW rig, in March 2018. The rig was due to be delivered in the first quarter of 2021. The USD 425 million contract came with options for three sister rigs to be built; one of those has been exercised with that contract still in place.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: <chartering@seabrokers.co.uk>
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-What number should appear next in the following sequence?
-
-4 5 5 7 14 17 51 55 ?
-
-The answer was :- 220
-
-**This month, our poser is as follows:**
-
-Add the vowels to give six associated names. What are they?
-
-WSP RPPL YRK R DM BST
-
-**Answers back to <chartering@seabrokers.co.uk>.</chartering>**

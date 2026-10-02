@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-11-01_market-report-november-december-2023.pdf"
 tables_count: 15
-word_count: 6546
+word_count: 6397
 tags:
   - Offshore
   - OSV
@@ -41,24 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Heavy Machinery and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-SHIPBROKING
-AQUACULTURE
-SEA SURVEILLANCE
-YACHTING
-<u>REAL ESTATE</u>
-<u>FACILITY MANAGEMENT</u>
-<u>FOUNDATIONS</u>
-<u>HEAVY MACHINERY</u>
-
-**OUR OFFICES:**
-<u>STAVANGER</u>
-<u>ABERDEEN</u>
-<u>BERGEN</u>
-<u>RIO DE JANEIRO</u>
-<u>SKIEN</u>
 
 # OSV MARKET ROUND-UP
 
@@ -530,24 +512,6 @@ While headwinds have been encountered in the UK due to the windfall tax and poli
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **CONGRATULATIONS MORAG!**
+# **CONGRATULATIONS MORAG!**
 
 Utilising the financial support from the Seabrokers Group's investment into continuous training and development for employees, Morag Christoffersen has successfully achieved a Postgraduate Diploma in International Maritime Law as conferred by the World Maritime University. Well done Morag!
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** Penny has 5 children. The 1st is named January. The 2nd kid is February. Her 3rd is called March. The 4th is April. What is the name of the 5th child.
-
-The answer was :- What.
-
-**This month, our poser is:** Many have heard me but nobody has seen me. I will not speak until spoken to first. What am I?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports.
-
-If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk

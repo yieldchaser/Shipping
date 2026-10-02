@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-08-01_markedsrapport-august-2021.pdf"
-tables_count: 15
-word_count: 6884
+tables_count: 14
+word_count: 6681
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -525,28 +512,8 @@ Northern Drilling has cancelled a resale contract it had entered into with Daewo
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 180,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 200,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## USD 252 MILLION ATLAS DEAL
+# USD 252 MILLION ATLAS DEAL
 
 Transocean has been awarded a USD 252 million contract for its newbuild drillship Deepwater Atlas with BOE Exploration & Production in the US Gulf. The contract includes a USD 30 million mobilisation fee and a significant performance bonus opportunity.
 
 This contract award follows the final investment decision from BOE and its partners for the Shenandoah development, which will consist of two phases. Following delivery from the Jurong Shipyard in Singapore, the Deepwater Atlas is scheduled to mobilise to the US Gulf to commence operations with BOE in the third quarter of 2022. The rig will initially use dual blowout preventers (BOPs) rated to 15,000 psi for a period of 255 days. Thereafter, she will be upgraded with a 20,000 psi BOP to become the second 20,000 psi-equipped rig in Transocean's fleet. The Deepwater Atlas will then return to BOE for a 275-day well completion phase at the Shenandoah development.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-If a banana costs 20p, a grapefruit costs 70p and a melon costs £1.30, how much does an apricot cost?
-
-The answer was :- 10p (the alphabetical value of the initial letter is multiplied by 10 to give the price.
-
-### This month, our poser is:
-
-A fire engine travels seven miles to a fire at a speed of 36 mph. Its tank holds 500 gallons of water but has been leaking at a rate of 20 gallons per hour throughout the journey. If the fire engine needs 497 gallons of water to put out the fire, will it have enough water?
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>

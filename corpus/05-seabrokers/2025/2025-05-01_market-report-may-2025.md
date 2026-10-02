@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-05-01_market-report-may-2025.pdf"
 tables_count: 12
-word_count: 7910
+word_count: 7759
 tags:
   - Offshore
   - OSV
@@ -609,36 +609,6 @@ In Qatar, ADES has secured a four-year contract extension for the Sapphire Drill
 
 *[Photo: Valaris 146 (D. Borodin)]*
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # **VALARIS SELLING JACKUP TO BW ENERGY**
 
 Valaris has entered into an agreement to sell the Valaris 247 jackup to BW Energy for cash proceeds of approximately USD 108 million. As part of the agreement, BW Energy will be restricted from using the rig for operations outside of BW's owned or affiliated assets for the remainder of its expected useful life. The sale is expected to close in the second half of 2025.
@@ -646,13 +616,3 @@ Valaris has entered into an agreement to sell the Valaris 247 jackup to BW Energ
 The Valaris 247 is a 27 year-old LT Super Gorilla jackup that is currently working for Jadestone Energy offshore Australia; that charter is scheduled to end in June 2025.
 
 In other news, Valaris has also picked up a five-well contract for drillship Valaris DS-15 with an undisclosed charterer in West Africa. With an estimated duration of 250 days, this campaign is expected to commence in the third quarter of 2026, providing USD 135 million of contract value for Valaris. There are five further one-well options available which could add another 80-100 days to the contract. The Valaris DS-15 is committed to TotalEnergies offshore Brazil until August 2025 (although she has been sublet to Shell and BP). While Valaris has not named the charterer for this West Africa fixture, market sources have suggested that it may be CNR International for operations at the Baobab field offshore Cote d'Ivoire.
-
-# **Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-# **The Seabreeze Archive**
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

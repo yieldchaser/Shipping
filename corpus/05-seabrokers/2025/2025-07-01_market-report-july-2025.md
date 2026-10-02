@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-07-01_market-report-july-2025.pdf"
 tables_count: 14
-word_count: 8195
+word_count: 8050
 tags:
   - Offshore
   - OSV
@@ -641,36 +641,6 @@ Arabian Drilling has secured contract extensions for five jackups in the Middle 
 
 Key Manhattan (c/o flaviomat) c/o flaviomat
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-**Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-**Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-**Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-**Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-**Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # BORR BAGS NEW DEALS FOR FOUR PREMIUM JACKUPS
 
 Borr Drilling has secured new commitments for four jackups, carrying an estimated value of more than USD 129 million and adding approximately 1,300 days of contract backlog (including fixed price options).
@@ -680,13 +650,3 @@ In the Middle East, Borr secured a Letter of Award for the Arabia II for a 500-d
 In Southeast Asia, the Thor and Gunnlod were allocated binding Letters of Award from the same unnamed charterer. The Thor will undertake a well-based programme with an estimated duration of 240 days from October 2025, while the Gunnlod will be chartered for 100 days from September 2025. Both contracts include a one-well option with an estimated duration of 80 days. The operator here is thought to be Hoang Long JOC for work offshore Vietnam.
 
 In Mexico, following the receipt from Pemex of a 30-day contract suspension for its Odin jackup, Borr has since secured a 60-day accommodation work scope with an “independent oil company in Mexico”, thought to be Fieldwood Energy. There are priced options for drilling operations that could keep the rig occupied through the second quarter of 2026.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

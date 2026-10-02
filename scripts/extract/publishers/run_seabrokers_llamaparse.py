@@ -90,6 +90,22 @@ def parse_date_from_filename(filename: str):
     return "2026-01-01", 2026, 1
 
 
+def is_seabrokers_dir_line(line: str) -> bool:
+    """Helper to detect corporate directory, office, and duty phone lines in report tail."""
+    l = line.strip()
+    if not l:
+        return True
+    if re.match(r'^#+[ \t]*(?:\*{1,2}[ \t]*\*{1,2}|\*{1,2})?$', l):
+        return True
+    if re.search(r'\(\+\d+\)|@seabrokers|@seasurveillance|@skagenship', l):
+        return True
+    if re.match(r'^#+[ \t]*\*{0,2}(?:SEABROKERS|Seabrokers|Sea Surveillance|Skagen Ship|SEA SOFTWARE)[^\n]*$', l):
+        return True
+    if l.startswith('(+47)') or l.startswith('(+44)') or l.startswith('(+55)'):
+        return True
+    return False
+
+
 def normalize_seabrokers_content(text: str) -> str:
     """Publication-grade normalization for Seabrokers monthly Seascope reports.
     
@@ -346,9 +362,44 @@ def normalize_seabrokers_content(text: str) -> str:
     text = re.sub(r'(?im)^[ \t]*[A-Za-z0-9\s&–-]+\s+(?:Logo|Image|Flag|artist impression(?:\(\(\)\))?|photo)\s*$', '', text)
     text = re.sub(r'(?m)^([A-Z][A-Za-z0-9\.\s&–-]+\s+\([A-Z][A-Za-z0-9\.\s]+\))\s*$', r'*[Photo: \1]*', text)
 
-    # 11. Clean broken empty contact tables and directory boxes
-    text = re.sub(r'\|\s*ORGANIZATION\s*\|\s*Telephone\s*\|\s*E-mail\s*\|\n\|[-:\s|]+\|\n(?:\|\s*\**\s*\|\s*\|\s*\|\n*)+', '', text)
-    text = re.sub(r'(?is)\n(?:##\s*)?SEABROKERS GROUP CONTACTS.*?(?=\n##\s*CONUNDRUM|\Z)', '\n\n', text)
+    # 11. Clean tail page banner, puzzles, and corporate contact directories
+    # 11a. Page-top banner in earlier era (e.g. # CONUNDRUM CORNER, DUTY PHONES or # SEABROKERS CONTACTS, DUTY PHONES)
+    # Promote the subsequent heading to # if it was ##
+    text = re.sub(r'(?im)^[ \t]*#+[ \t]*\*{0,2}(?:CONUNDRUM\s+CORNER|SEABROKERS\s+CONTACTS),?\s+DUTY\s+PHONES\*{0,2}[ \t]*\n+(?:##\s*)?', '# ', text)
+
+    # 11b. Modern era corporate directory sidebar on last page
+    def _repl_dir(m):
+        block = m.group(0)
+        if re.search(r'\(\+\d+\)|chartering@seabrokers|seabrokers\.no|sales@seasurveillance|skagenship', block):
+            return '\n\n'
+        return block
+
+    pattern_dir = r'(?is)(?<=\n)#[ \t]*\*{0,2}SEABROKERS GROUP\*{0,2}[ \t]*\n.*?(?=\n#[ \t]*\*{0,2}(?!(?:SEABROKERS|Seabrokers|Sea Surveillance|Skagen Ship|SEA SOFTWARE)\b)[A-Za-z0-9]|\Z)'
+    cutoff = int(len(text) * 0.70)
+    head = text[:cutoff]
+    tail = text[cutoff:]
+    tail = re.sub(pattern_dir, _repl_dir, tail)
+    text = head + tail
+
+    # 11c. Corporate contacts box in earlier era
+    text = re.sub(r'(?is)\n(?:##?\s*)?\*{0,2}SEABROKERS GROUP CONTACTS\*{0,2}.*?(?=\n##|\n#|\Z)', '\n\n', text)
+
+    # 11d. Broken empty contact tables
+    text = re.sub(r'(?is)\n\|\s*(?:Company|ORGANIZATION)\s*\|\s*(?:LOCATION\s*\|\s*)?Telephone\s*\|\s*E-mail\s*\|.*?(?=\n\n|\n#|\Z)', '\n\n', text)
+
+    # 11e. Conundrum Corner puzzle section
+    conundrum_pattern = r'(?is)\n(?:##?#?\s*)?\*{0,2}CONUNDRUM CORNER\*{0,2}.*?(?=\n##?\s+(?!#|\*|This month|Last month)[A-Z0-9]|\Z)'
+    text = re.sub(conundrum_pattern, '\n\n', text)
+
+    # 11f. Administrative subscription, archive, and production boilerplate at the end
+    text = re.sub(r'(?is)\n(?:##?\s*)?\*{0,2}(?:The Seabreeze Archive|Seabrokers Ltd,?\s*Aberdeen)\*{0,2}.*?(?=\n#|\Z)', '\n\n', text)
+    text = re.sub(r'(?is)\n(?:##?\s*)?\*{0,2}Production\s+(?:&|and)\s+Administration\*{0,2}.*?(?=\n#|\Z)', '', text)
+    text = re.sub(r'(?is)\n(?:##?\s*)?\*{0,2}SEASON\'?S GREETINGS\*{0,2}.*?(?=\n#|\Z)', '\n\n', text)
+    text = re.sub(r'(?is)\n(?:##?\s*)?\*{0,2}CHRISTMAS DONATIONS\*{0,2}.*?(?=\n#|\Z)', '\n\n', text)
+    text = re.sub(r'(?is)\n(?:##?\s*)?\*{0,2}HAPPY BIRTHDAY TO SEABROKERS!\*{0,2}.*?(?=\n#|\Z)', '\n\n', text)
+    text = re.sub(r'(?is)\n#[ \t]*\*{0,2}For your free copy of Seabreeze.*?(?=\n#|\Z)', '', text)
+    text = re.sub(r'(?is)Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL.*?(?=\n#|\Z)', '', text)
+    text = re.sub(r'(?is)For your free copy of Seabreeze.*?(?=\n#|\Z)', '', text)
 
     # 12. Clean running headers, footers, stray bullet points, double hashes
     text = re.sub(r'(?im)^[ \t]*Seabreeze\s*[-–—]?\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s*\d{4}[ \t]*$', '', text)
@@ -360,13 +411,8 @@ def normalize_seabrokers_content(text: str) -> str:
     text = re.sub(r'(?m)^[ \t]*[•\*\-][ \t•\*\-]*$', '', text)
     text = re.sub(r'(?m)^[ \t]*#+[ \t]+(#+[ \t]*[A-Za-z])', r'\1', text)
 
-    # Clean corporate directory boilerplate
-    text = re.sub(r'(?is)Seabrokers\s+(?:Fundamentering|Heavy Machinery|Head Office|Chartering\s*-\s*Stavanger).*?(?=\n\n|\Z)', '', text)
-    text = re.sub(r'(?is)Production & Administration.*?(?:ISO 9001:2015|\.co\.uk)\.?', '', text)
-    text = re.sub(r'(?is)SEABROKERS GROUP:\s*Over the last 40\+ years.*?(?=\n\n|\Z)', '', text)
-    text = re.sub(r'(?i)^[ \t]*seabrokers\.no[ \t]*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'(?i)^[ \t]*SEABREEZE\s*©\s*Seabrokers Group.*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'(?i)^[ \t]*Seabreeze,\s*email:\s*chartering@seabrokers\.co\.uk.*$', '', text, flags=re.MULTILINE)
+    # Clean empty header lines
+    text = re.sub(r'(?m)^[ \t]*#+[ \t]*(?:\*{1,2}[ \t]*\*{1,2}|\*{1,2})?[ \t]*$', '', text)
 
     # Remove stray lone question marks or empty dividers
     text = re.sub(r'(?m)^\s*\?\s*$', '', text)

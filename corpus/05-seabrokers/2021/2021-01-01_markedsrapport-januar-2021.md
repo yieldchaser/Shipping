@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-01-01_markedsrapport-januar-2021.pdf"
-tables_count: 13
-word_count: 7041
+tables_count: 11
+word_count: 6852
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -502,34 +489,6 @@ Elon Musk's SpaceX has bought two semisubmersible drilling rigs from Valaris. Th
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE            | USD 165,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP        | USD 190,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **RIG OWNERS RESTRUCTURE**
+# **RIG OWNERS RESTRUCTURE**
 
 It has been a tough time for everyone involved in the offshore industry and the drilling market has been one of the hardest hit sectors. Three rig contractors may be entering 2021 in better shape however, after significant progress was made for their restructuring efforts. Pacific Drilling emerged from its refinancing at the end of December with USD 1 billion of debt eliminated. However, all of the company's outstanding common shares were deemed to have no value. Following Pacific's lead, Diamond Offshore has entered into an agreement with the holders of more than 70% of its senior unsecured notes and revolving credit facility loans to reduce the company's indebtedness by more than USD 2.1 billion. Diamond orignally filed for Chapter 11 in April 2020. Similarly, the liquidity improvement plan that Borr Drilling announced in December has received support from its creditors. As part of this plan, the delivery dates for five newbuild jackups have been delayed until 2023.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-What number is missing in this sequence?
-
-25 125 500 1,500 ? 3,000
-
-The answer was :- 3,000 (multiply the first number by 5; the second number by 4; the third number by 3; the fourth number by 2; and the fifth number by 1)
-
-**This month, our poser is:**
-
-In their gardens, Leona sees a blackbird, Paul sees a sparrow, Abdul sees a magpie and Olga sees a robin.
-
-Does Heather see a thrush or a finch?
-
-**Answers back to chartering@seabrokers.co.uk.**

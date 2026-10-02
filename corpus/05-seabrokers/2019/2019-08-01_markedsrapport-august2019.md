@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-08-01_markedsrapport-august2019.pdf"
-tables_count: 15
-word_count: 6727
+tables_count: 13
+word_count: 6403
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon | Service             |
-| ---- | ------------------- |
-| 🚢   | SHIPBROKING         |
-| 🏢   | REAL ESTATE         |
-| 🔧   | SECURALIFT          |
-| 👥   | FACILITY MANAGEMENT |
-| 📡   | SEA SURVEILLANCE    |
-| 👷   | FOUNDATIONS         |
-| ⛵    | YACHTING            |
-| 🚚   | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -539,61 +526,10 @@ Drillship Stena Forth will return to Ghana upon the conclusion of its contract w
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **SEADRILL ENTERS INTO QATAR JV**
+# **SEADRILL ENTERS INTO QATAR JV**
 
 Seadrill has entered into a 50:50 Joint Venture with Gulf Drilling International for operations in Qatar. GulfDrill will initially manage and operate five premium jackups that will be commencing long-term contracts with Qatar Petroleum next year.
 
 The rigs have been chartered for a firm period of five firm wells with five further one-well options. The contracts have staggered commencement dates throughout 2020 with the initial firm periods scheduled to conclude in 2023-2024 for each rig.
 
 GulfDrill will initially bareboat charter the West Telesto and West Castor from Seadrill, with additional bareboat charters secured for three newbuild jackups from a third-party shipyard.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-Can you find two eight-letter words beginning with 'L' that both contain the letters 'GUIS' in consecutive order?
-
-The correct answer was :- LINGUIST and LANGUISH
-
-**This month, our poser is as follows:**
-
-Take one letter from each sector to give a type of cheese. Take a further letter from each sector to give a type of soup. The remaining letters will give a dessert. What are the three words?
-
-| Sector | Letter |
-| :--- | :--- |
-| U | U |
-| O | O |
-| T | T |
-| G | G |
-| A | A |
-| H | H |
-| I | I |
-| S | S |
-| H | H |
-| I | I |
-| A | A |
-| C | C |
-| O | O |
-| L | L |
-| Z | Z |
-| R | R |
-| L | L |
-| U | U |
-| M | M |
-| A | A |
-| P | P |
-| A | A |
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **SEABROKERS GROUP CONTACTS**
-
-### Forusbeen 78 - 4033 Stavanger - Norway
-
-|

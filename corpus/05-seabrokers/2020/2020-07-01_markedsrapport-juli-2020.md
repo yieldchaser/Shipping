@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-07-01_markedsrapport-juli-2020.pdf"
-tables_count: 16
-word_count: 6929
+tables_count: 14
+word_count: 6707
 tags:
   - Offshore
   - OSV
@@ -41,26 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔑    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍💼 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -551,40 +531,8 @@ Pacific Drilling has secured some much needed long-term contract backlog for its
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## NORWAY LEADS THE WAY
+# NORWAY LEADS THE WAY
 
 There has been a real dearth of contracting activity within the global rig market recently. With one notable exception - Norway. Since the government announced temporary changes to its petroleum taxation laws in June, several E&P companies have given the green light to drilling campaigns. Some of these may not have gone ahead otherwise.
 
 Vår Energi has decided to proceed with its four-well drilling programme with the Scarabeo 8 in the Barents Sea and North Sea after all; this had previously been postponed before the taxation change. Meanwhile, Equinor has awarded an LOI to Odfjell Drilling for a 12-well firm charter with the Deepsea Atlantic at Johan Sverdrup from 2022; Chrysaor has awarded an LOI for a 2-3 well programme with the COSLinnovator; Dolphin Drilling picked up a three-well P&A charter for the Borgland Dolphin (thought to be with DNO); and Aker BP has awarded a new one-well contract to jackup Maersk Integrator.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Add the vowels to give six associated names. What are they? WSP RPPL YRK R DM BST
-
-The answer was :- Wispa, Ripple, Yorkie, Aero, Daim, Boost
-
-**This month, our poser is as follows:** A train timetable is listed below. What time should the Penzance train depart?
-
-Glasgow 07:12
-Reading 18:05
-Norwich 14:15
-Sheffield 19:08
-Penzance ?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| Location  | Time  |
-| --------- | ----- |
-| Glasgow   | 07:12 |
-| Reading   | 18:05 |
-| Norwich   | 14:15 |
-| Sheffield | 19:08 |
-| Penzance  | ?     |

@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-01-01_markedsrapport-januar-2022.pdf"
-tables_count: 15
-word_count: 6676
+tables_count: 13
+word_count: 6466
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍💼 | FOUNDATIONS         |
-| ⛵     | YACHTING            |
-| 🚛    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -497,36 +484,8 @@ Aker BP has extended its rig framework agreement with Maersk Drilling for the pr
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE            | USD 200,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP        | USD 250,000 |
 
-# **CONUNDRUM CORNER, DUTY PHONES**
-
-## **BUSY SPELL FOR VALARIS**
+# **BUSY SPELL FOR VALARIS**
 
 Valaris has started 2022 on a strong note. Right at the start of the year, the contractor announced the award of three-year bareboat contract extensions for jackups Valaris 116, 143, 146 and 250 with ARO Drilling. Simultaneously, ARO Drilling has entered into new contracts with equivalent durations for the four rigs with Saudi Aramco. ARO Drilling has also confirmed the award of five-year contract extensions with Saudi Aramco for its owned jackups ARO 3003 and ARO 3004.
 
 The good news has kept flowing for Valaris since then, with the following contracts awarded: one well for the Valaris DPS-5 semi with Kosmos Energy in the US Gulf; two further wells for the DPS-5 with Murphy Oil - one in the US Gulf and one offshore Mexico; one well for the Valaris 144 jackup with an undisclosed charterer in the US Gulf; one well for the Valaris MS-1 semi with Western Gas offshore Australia; and finally a six-well plug & abandonment commitment for the Valaris Norway jackup with Centrica Storage offshore the United Kingdom.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **SEABROKERS GROUP CONTACTS**
-
-| ORGANIZATION                                                          | Telephone                                                      | E-mail                                   |
-| --------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------- |
-| **
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-What letter should appear next in this sequence?
-
-B F J P ?
-
-The answer was :- V - the letters represent the next letter in the alphabet after each vowel.
-
-### **This month, our poser is:**
-
-Candle stubs are being moulded into new candles. Nine stubs are required to make each new candle. If there are 977 candle stubs, how many candles can possibly be made in total?
-
-Answers back to <u>chartering@seabrokers.co.uk</u>.

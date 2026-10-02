@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-05-01_market-report-may-2023.pdf"
 tables_count: 13
-word_count: 6425
+word_count: 6347
 tags:
   - Offshore
   - OSV
@@ -43,10 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
 
 # OSV MARKET ROUND-UP
 
@@ -484,14 +480,8 @@ ConocoPhillips and DNO have both awarded one-well contracts to the Deepsea Yanta
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **NOBLE RACKING UP BACKLOG**
+# **NOBLE RACKING UP BACKLOG**
 
 Another contractor that has seriously been adding to its contract backlog is Noble Corporation. ExxonMobil Guyana has awarded 6.3 years of further backlog utilising the Commercial Enabling Agreement (CEA) that the parties have entered into. This will extend the contract for each of the four drillships operating under the CEA (Noble Bob Douglas, Noble Don Taylor, Noble Sam Croft and Noble Tom Madden) from the fourth quarter of 2025 until the second quarter of 2027.
 
 Elsewhere, the Noble Faye Kozack drillship has been chartered by Petrobras for a 30-month deal offshore Brazil; commencement is scheduled for the fourth quarter of 2023 with a contract value of USD 500 million. Also in South America, the Noble Discoverer has been fixed up to Ecopetrol to drill one well offshore Colombia. Meanwhile, the Noble Valiant was awarded one well with an undisclosed charter in the US Gulf, the Noble Voyager will drill one well for Shell off Mauritania, and the Noble Tom Prosser has been awarded 650 days of work with two unnamed clients in Malaysia.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk

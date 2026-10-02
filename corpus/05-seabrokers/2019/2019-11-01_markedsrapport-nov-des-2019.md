@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-11-01_markedsrapport-nov-des-2019.pdf"
-tables_count: 18
-word_count: 6504
+tables_count: 16
+word_count: 6319
 tags:
   - Offshore
   - OSV
@@ -41,26 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -571,29 +551,44 @@ UAE-based ADNOC Drilling has unveiled a major fleet expansion programme, with pl
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
+### SEABROKERS HEAD OFFICE
+Forusbeen 78 - 4033 Stavanger - Norway
+Tel: (+47) 51 80 00 00
+Internet: www.seabrokers-group.com
 
-## CONUNDRUM CORNER
+### SEABROKERS CHARTERING AS - STAVANGER
+Duty Telephone ++47 51 815400 (24 Hrs)
+E-mail chartering@seabrokers.no
 
-**Last month's answer :-** Add together three numbers each time to score 45. Each number can be used as many times as you wish. How many combinations are there? 5 10 15 20 25
+### SEABROKERS LTD - ABERDEEN
+Duty Telephone ++44 1224 747744 (24 Hrs)
+Duty Mobile ++44 7802 304129
+E-Mail chartering@seabrokers.co.uk
 
-The correct answer was :- Five (5+15+25; 5+20+20; 10+10+25; 10+15+20; 15+15+15)
+### SEABROKERS BRAZIL LTDA - RIO DE JANEIRO
+Duty Telephone ++55 21 3505 4200 (24 Hrs)
+E-mail chartering@seabrokers.com.br
 
-**This month, our poser is as follows:** Each of the buttons below must be pressed only once in the correct order to reach the centre X. The number of moves and direction is marked on each button. What is the first button you must press?
+### SECURALIFT AS - STAVANGER
+Telephone ++47 51 800000
+E-mail stig@seabrokers.no
 
-| 1 D | 1 R | 4 D   | 4 D | 4 L |
-| --- | --- | ----- | --- | --- |
-| 1 R | 2 D | 1 D   | 1 U | 1 L |
-| 2 D | 3 R | **X** | 2 L | 4 L |
-| 4 R | 1 R | 2 L   | 1 U | 1 L |
-| 1 R | 4 U | 3 U   | 1 R | 4 U |
+### SEA SURVEILLANCE AS - BERGEN
+Telephone ++47 55 136500
+E-mail info@seasurv.net
 
-Answers back to <u>chartering@seabrokers.co.uk</u>.
+### SEABROKERS EIENDOM AS - STAVANGER
+Telephone ++47 51 800000
+E-mail rolf.aarthun@seabrokers.no
 
-## SEASON'S GREETINGS
+### SEABROKERS SERVICES AS - STAVANGER
+Telephone ++47 51 800000
+E-mail lars.hagen@seabrokers.no
 
-From everyone at Seabrokers. we would like to express our gratitude for your continued support throughout 2019. We wish you all the very best for 2020. Have a Merry Christmas, and both a healthy and prosperous New Year!
+### SEABROKERS FUNDAMENTERING AS - STAVANGER
+Telephone ++47 51 800000
+E-mail fundamentering@seabrokers.no
 
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
+### SEABROKERS HAVNEKРАНER AS - STAVANGER
+Telephone ++47 51 800000
+E-mail havnekraner@seabrokers.no

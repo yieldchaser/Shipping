@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-11-01_market-report-november-december-2025.pdf"
 tables_count: 10
-word_count: 8757
+word_count: 8609
 tags:
   - Offshore
   - OSV
@@ -637,37 +637,6 @@ Source: *Westwood Global RigLogix*
 
 Seabreeze — November - December 2025
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-**Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-**Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-**Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-**Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-**Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-**Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # ODFJELL ACQUIRING BOLLSTA FOR USD 480 MILLION
 
 Odfjell Drilling has completed its acquisition of the Deepsea Bollsta harsh environment semisubmersible from Northern Ocean for a total consideration of USD 480 million. The rig is to be renamed as the Deepsea Bergen.
@@ -675,13 +644,3 @@ Odfjell Drilling has completed its acquisition of the Deepsea Bollsta harsh envi
 The Deepsea Bollsta, a six year-old rig that was built to the Moss CS60E design, has been operating under the management of Odfjell Drilling since 2022. She is firmly contracted to Equinor offshore Norway until the first quarter of 2028 with five further one-year options available. Odfjell has indicated that this rig acquisition will add an estimated USD 355 million to its firm contract backlog.
 
 With regards to its incumbent fleet, Odfjell has also recently secured more work for the Deepsea Nordkapp and Deepsea Aberdeen semisubmersibles. For the Nordkapp, Aker BP has extended its charter with the rig offshore Norway for one additional year; this contract is now firm until the end of 2027 with further options available. Meanwhile, Odfjell has secured a Letter of Intent for the Deepsea Aberdeen with an undisclosed client. Pending final confirmation, this charter is scheduled to commence in late 2026 in direct continuation from the rig's current contract with Equinor offshore Norway. This would extend the rig's contract backlog until the second quarter of 2029.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

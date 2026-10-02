@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-02-01_markedsrapport-februar-2023-2.pdf"
 tables_count: 13
-word_count: 7699
+word_count: 7527
 tags:
   - Offshore
   - OSV
@@ -625,48 +625,6 @@ Elsewhere, in West Africa, BW Energy has extended its contract with the Norve fo
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
-## SEA SOFTWARE & HI-END SOLUTIONS SURVEILLANCE
-
-## **Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # Dolphin Drilling completes acquisition of Transocean rigs
 
 Dolphin Drilling has concluded its acquisition of two harsh environment semisubmersible rigs from Transocean. The Paul B. Loyd, Jr. and Transocean Leader (renamed as the Dolphin Leader) were bought from Transocean for a total consideration of USD 64.5 million.
@@ -676,13 +634,3 @@ The Dolphin Leader is currently stacked in the UK, while the Paul B. Loyd, Jr. i
 Dolphin CEO Bjørnar Iversen has noted that, despite ongoing political challenges, "the UK drilling market is showing positive signs and the Dolphin Drilling fleet offers flexibility to take on all floating rig requirements in the years to come including exploration drilling, production drilling and plug & abandonment work across the UK sector."
 
 This acquisition has raised the size of Dolphin Drilling's semisubmersible fleet to five units although the Bideford Dolphin has been stacked in Norway for more than six years now. The company has indicated that it has received quotes to potentially sell the 49 year-old rig for scrap.
-
-## **Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## **The Seabreeze Archive**
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

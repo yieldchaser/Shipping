@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-04-01_markedsrapport-april-2021.pdf"
-tables_count: 11
-word_count: 6696
+tables_count: 9
+word_count: 6513
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -536,34 +523,6 @@ A recent report from Reuters has suggested that Seadrill's creditors have been a
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 165,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 190,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **MAERSK RIGS IN DEMAND**
+# **MAERSK RIGS IN DEMAND**
 
 Maersk Drilling has had a productive spell on the chartering front recently. Two of the company's D-class semisubmersibles were awarded contracts in South America, with the Maersk Developer chartered by Karoon Energy for a four-well campaign in Brazil and the Maersk Discoverer chartered by CGX Resources for one well offshore Guyana. The Developer will be performing well intervention work for Karoon at the Baúna field from the first half of 2022 while the Discoverer will be used by CGX to drill an exploration well at the Corentyne Block off Guyana in the third quarter of this year. Elsewhere, Maersk secured a one-well extension for the Maersk Integrator jackup with Aker BP in Norway. In West Africa, a one-well contract was secured for drillship Maersk Viking with Petronas Carigali offshore Gabon, while the previously announced LOA from Tullow Ghana for a four-year charter with the Maersk Venturer progressed to a formal contract award.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-What number should appear next in the following sequence?
-
-5 13 29 61 125 ???
-
-The answer was :- 253 (multiply by 2 then add 3)
-
-**This month, our poser is:**
-
-Amber has four times as many Easter eggs as Billy has. Dillon has four more Easter eggs than Billy, and Carly has one less than Dillon. Carly has five Easter Eggs.
-
-How many Easter eggs do the four have between them?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| SEABROKERS GROUP CONTACTS                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

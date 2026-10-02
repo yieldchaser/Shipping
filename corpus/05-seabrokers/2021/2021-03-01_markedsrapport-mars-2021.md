@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-03-01_markedsrapport-mars-2021.pdf"
-tables_count: 13
-word_count: 6818
+tables_count: 11
+word_count: 6632
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -536,32 +523,6 @@ Following Seadrill Partners' recent progression into Chapter 11 reorganisation p
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 165,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 190,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## PROJECT WINGMAN
+# PROJECT WINGMAN
 
 Seabrokers are proud to have sponsored a recent event that was hosted by the Project Wingman Foundation at the COVID-19 vaccination clinic at the P&J Live TECA Centre in Aberdeen. Project Wingman was established in 2020 to explore how grounded airline crew could support NHS staff during the pandemic and into the future. This has enabled airline crews to provide a morale boost to NHS staff by looking after them during their hard-earned break periods. The foundation set up a pop-up lounge facility at the Aberdeen clinic to treat the hard-working NHS staff and volunteers during their breaks from vaccination procedures.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| ORGANIZATION | LOCATION | Telephone | E-mail |
-| :--- | :--- | :--- | :--- |
-| 
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-A clock was correct at midnight. From that time, it began to lose one minute per hour. The clock stopped 90 minutes ago while showing 16:43.
-
-What is the correct time now? (Note: the clock runs for less than 24 hours).
-
-The answer was :- 18:30
-
-**This month, our poser is:**
-
-What number should appear next in the following sequence? 5 13 29 61 125 ???
-
-**Answers back to chartering@seabrokers.co.uk.**

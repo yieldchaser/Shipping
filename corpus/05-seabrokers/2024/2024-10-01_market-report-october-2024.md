@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2024-10-01_market-report-october-2024.pdf"
 tables_count: 13
-word_count: 7662
+word_count: 7499
 tags:
   - Offshore
   - OSV
@@ -626,42 +626,6 @@ Deepwater Atlas (c/o Transocean)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-**Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-**Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-**Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-**Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-**Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
-## Sea Surveillance
-**SEA SOFTWARE & HI-END SOLUTIONS**
-**SURVEILLANCE**
-**Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # More contract suspensions brewing for jackup owners?
 
 The Westwood Global Energy Group has reported that Saudi Aramco may be on the verge of announcing a fresh batch of contract suspensions within its fleet of contracted jackup rigs in the Middle East.
@@ -669,13 +633,3 @@ The Westwood Global Energy Group has reported that Saudi Aramco may be on the ve
 Saudi Aramco had already communicated its decision earlier this year to suspend its contracts for no fewer than 27 jackup rigs for a period of one year. However, Westwood Global has now indicated that further suspensions may be forthcoming for up to an additional five jackups. Furthermore, the charterer may also decline to renew additional contracts that are scheduled to come to a conclusion in the near future.
 
 A further negative development for the jackup market is the news that the contract suspensions may not be limited to the Middle East market. Westwood Global has also speculated recently that Pemex has been instructed to optimise its resources for the remainder of the calendar year. This may lead to operations being suspended for four of the jackup rigs that Pemex currently has on hire offshore Mexico in an attempt to rein in spending. Further details are expected to be confirmed about any contract suspensions in the near future.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

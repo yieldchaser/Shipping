@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-02-01_markedsrapport-februar-2019.pdf"
-tables_count: 15
-word_count: 6805
+tables_count: 14
+word_count: 6599
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon | Service             |
-| ---- | ------------------- |
-| 🚢   | SHIPBROKING         |
-| 🔧   | SECURALIFT          |
-| 📡   | SEA SURVEILLANCE    |
-| ⛵    | YACHTING            |
-| 🏢   | REAL ESTATE         |
-| 👥   | FACILITY MANAGEMENT |
-| 🧱   | FOUNDATIONS         |
-| 🚛   | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -524,32 +511,8 @@ Northern Drilling has won a ten-well contract with Lundin Norway for its newbuil
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## CJ46 JACKUPS IN DEMAND
+# CJ46 JACKUPS IN DEMAND
 
 Having already acquired a newbuild Gusto MSC CJ46 jackup (Noble Johnny Whitstine) from the PaxOcean Group in September 2018, Noble Corporation has exercised an option to purchase a second newbuild CJ46 jackup from PaxOcean for USD 83.75 million. To be named Noble Joe Knight, the second rig was built at the PaxOcean Graha Shipyard in Batam, Indonesia. Following delivery, she will be mobilised to the Middle East to fulfil a three-year plus one-year option contract with Saudi Aramco.
 
 Proving the popularity of the CJ46 design, another drilling contractor - Shelf Drilling - has entered into agreements with affiliates of China Merchants & Great Wall Ocean Strategy & Technology Fund for the purchase of two newbuild CJ46 jackups for USD 87 million per rig, along with the bareboat charters (with purchase options) for two additional rigs of the same design.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Rita has worked as a nurse, a guide, a tutor and a coach.
-
-Who has worked as a comic, a guard, a carer and a baker?
-
-The correct answer was :- Mark (using the third letter of each word)
-
-### This month, our poser is as follows:
-
-The alphabet is written here but some letters are missing. Arrange the missing letters to give a word. What is the word?
-
-B C D E F G H K M P Q V W X Y Z
-
-**Answers back to chartering@seabrokers.co.uk.**

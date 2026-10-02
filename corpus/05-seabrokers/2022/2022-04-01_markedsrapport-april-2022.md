@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-04-01_markedsrapport-april-2022.pdf"
-tables_count: 9
-word_count: 6596
+tables_count: 8
+word_count: 6412
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔗    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍💼 | FOUNDATIONS         |
-| ⛵     | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -483,30 +470,8 @@ The ADES Group in the Middle East is continuing to expand, with jackup acquisiti
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE       | USD 220,000 |          |          |          |          |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP   | USD 260,000 |          |          |          |          |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **NOBLE & MAERSK MUST SELL RIGS**
+# **NOBLE & MAERSK MUST SELL RIGS**
 
 Having entered into a definitive agreement in November 2021 to merge their two companies, Noble Corporation and Maersk Drilling have now been informed by the Competition and Markets Authority (CMA) in the United Kingdom that the merger raises competition concerns related to the supply of jackup rigs for drilling operations offshore the UK, Denmark and the Netherlands.
 
 The CMA has raised a concern that the combined entity would not face sufficient competition after the merger, which could expose E&P companies to higher prices and lower quality services. Noble and Maersk have acknowledged that it will be necessary to divest a number of North Sea-based jackups to obtain antitrust clearance. The units that have been identified for divestment are the Noble Hans Deul, Noble Houston Colbert, Noble Sam Hartley and Noble Sam Turner, along with one CJ-70 designed rig, most likely the Maersk Innovator, although it is possible that a sale of the Noble Lloyd Noble may be required.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-A car covers its outward journey at 66mph. It returns, over exactly the same distance, at 33mph. What is the car's average speed over the entire journey?
-
-The answer was :- 44 mph
-
-**This month, our poser is:**
-
-If you have three, you have three. If you have two, you have two. However, if you have one, you have none.
-
-What is it?
-
-Answers back to <u>chartering@seabrokers.co.uk</u>.

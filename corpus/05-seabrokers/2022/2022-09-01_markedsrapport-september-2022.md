@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-09-01_markedsrapport-september-2022.pdf"
-tables_count: 14
-word_count: 6359
+tables_count: 12
+word_count: 6128
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon | Service             |
-| ---- | ------------------- |
-| 🚢   | SHIPBROKING         |
-| 🏢   | REAL ESTATE         |
-| 🔧   | SECURALIFT          |
-| 👥   | FACILITY MANAGEMENT |
-| 🌊   | SEA SURVEILLANCE    |
-| 👷   | FOUNDATIONS         |
-| ⛵    | YACHTING            |
-| 🚚   | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -498,37 +485,6 @@ Odfjell has secured three new contracts for the Deepsea Yantai that should keep 
 | SOUTH AMERICA | 76.7%    | 73.3%    | 81.3%    | 71.8%    | 59.5%    |
 | US GULF       | 55.6%    | 47.6%    | 40.7%    | 53.9%    | 48.3%    |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## FIXTURE FRENZY FOR MAERSK
+# FIXTURE FRENZY FOR MAERSK
 
 Maersk Drilling (now merged with Noble Corp) has been busy finalising new deals all over the world. In Denmark, INEOS chartered the Maersk Resolve jackup for a four-well scope starting in the first half of 2023. In the Netherlands, Petrogas replaced an option on its contract with the Maersk Resolute jackup with a five-well firm contract. In Malaysia, Shell exercised three one-well options on its contract with the Maersk Viking drillship and awarded a new eight-well charter to the same rig. Five wells will be novated to PTTEP; the Viking is now committed well into 2024. In Latin America, TotalEnergies exercised a one-well option with the Maersk Valiant drillship that will keep the rig busy offshore Suriname into the second quarter of 2023, while Shell extended its contract with the Maersk Voyager drillship off Mexico until October 2023 and also awarded the Maersk Developer a one-well plus subsea intervention scope offshore Brazil.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Gaze at this sentence for just about sixty seconds and then explain what makes it quite different from the average sentence.
-
-The answer was :- All the letters in the alphabet are used in the sentence.
-
-**This month, our poser is:**
-
-I am an 8-letter word.
-I am kept secret from everyone.
-My 2nd, 3rd and 4th letter spell an animal.
-My 4th, 5th, 6th, 7th and 8th letter is a weapon.
-My 1st, 2nd and 8th letter is used in a classroom.
-My 3rd and 4th letters are the same.
-
-**What am I?**
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| Company                                      | Telephone                                                                                                 | E-mail                                   |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **

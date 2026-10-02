@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-10-01_market-report-october-2023.pdf"
-tables_count: 16
-word_count: 6672
+tables_count: 14
+word_count: 6467
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Heavy Machinery and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🐟    | AQUACULTURE         |
-| 📡    | SEA SURVEILLANCE    |
-| ⛵     | YACHTING            |
-| 🏢    | REAL ESTATE         |
-| 👥    | FACILITY MANAGEMENT |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚜    | HEAVY MACHINERY     |
 
 # OSV MARKET ROUND-UP
 
@@ -491,37 +478,8 @@ Having only entered into an agreement in September to acquire four newbuild jack
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## NEW GIGS FOR SHELF TRIO
+# NEW GIGS FOR SHELF TRIO
 
 Shelf Drilling has secured new commitments for three of its jackup rigs recently. In the North Sea, a two-well contract extension was secured for the Shelf Drilling Fortress with a value of approximately USD 18 million. The rig is working for CNOOC offshore the UK, with the five-month extension expected to keep the unit busy until June 2024. Two further option wells are available which could add a further eight months of contract backlog if exercised.
 
 In West Africa, Shelf Drilling has secured new contracts for both the Adriatic I and Shelf Drilling Mentor offshore Nigeria with a combined total value of USD 93 million. The Adriatic I fixture, reportedly with Conoil, has a firm period of 16 months. The Shelf Drilling Mentor fixture, reportedly with Oriental Energy, has a firm period of eight months. Both contracts were starting in October, keeping the rigs occupied until February 2025 and June 2024 respectively.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports.
-
-If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** Which option does NOT belong in this group?
-
-A. Broad
-B. Other
-C. Harm
-D. Esteem
-
-The answer was :- D. Esteem. All the others make new words when combined with their option letter (i.e. Abroad, Bother, Charm)
-
-**This month, our poser is:**
-
-Penny has 5 children. The 1st is named January. The 2nd kid is February. Her 3rd is called March. The 4th is April. What is the name of the 5th child.
-
-**Answers back to chartering@seabrokers.co.uk.**

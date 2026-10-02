@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-10-01_markedsrapport-oktober-2021.pdf"
-tables_count: 16
-word_count: 6729
+tables_count: 14
+word_count: 6485
 tags:
   - Offshore
   - OSV
@@ -43,26 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -507,30 +487,6 @@ Valaris is reactivating two of its drillships after it picked up long-term contr
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE            | USD 180,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP        | USD 200,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## NEW DEALS FOR IDLE COSL RIGS
+# NEW DEALS FOR IDLE COSL RIGS
 
 COSL Drilling Europe has secured new contracts for two of its idle semisubmersible drilling rigs in Northwest Europe. Equinor has chartered the COSLPromoter for a four-well firm contract offshore Norway. The rig will be working for Equinor at Statfjord Øst, with five one-well options available for further drilling at Statfjord satellites thereafter. This is the first new contract award for the COSLPromoter since she was stacked in April. The rig remains available for charter in 2022, however, because the Equinor contract will not commence until spring 2023. In the UK, COSL has also secured a long-term deal for the COSLPioneer with Ithaca Energy. The rig is currently being prepared for a short-term campaign with another UK charterer before she starts working for Ithaca at the Abigail and Captain Phase II projects in March 2022; this is expected to keep the rig busy until the second quarter of 2024.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-I asked a woman how old she was. She smiled and said cryptically "the day before yesterday I was 22 but next year I'll be 25." When is her birthday and when did our conversation take place?
-
-The answer was :- Her birthday is on December 31st; our conversation took place on January 1st.
-
-### This month, our poser is:
-
-A piggybank contains £10.05. It is made up of four different coin denominations and the largest denomination is 50p. There is exactly the same number of each coin. What four coins are present in the piggy bank and how many of each are there? (Note: in the UK, the following coins are currently in circulation: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2).
-
-**Answers back to chartering@seabrokers.co.uk.**

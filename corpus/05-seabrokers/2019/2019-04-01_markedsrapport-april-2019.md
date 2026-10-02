@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-04-01_markedsrapport-april-2019.pdf"
-tables_count: 14
-word_count: 6601
+tables_count: 13
+word_count: 6366
 tags:
   - Offshore
   - OSV
@@ -43,10 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
 
 # OSV MARKET ROUND-UP
 
@@ -555,34 +551,6 @@ The majority of lenders to Dolphin Drilling have entered into an agreement to re
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## WELL-SAFE BUYS FIRST RIG
+# WELL-SAFE BUYS FIRST RIG
 
 Well-Safe Solutions has entered into an agreement to acquire the semisubmersible drilling rig Ocean Guardian from Diamond Offshore. The harsh environment rig entered service in 1985 and spent most of her life as a drilling rig in the North Sea. However, Well-Safe will immediately begin upgrading the rig to convert her into a bespoke plug & abandonment (P&A) unit. She will be renamed the Well-Safe Guardian. This will involve an investment in the region of USD 100 million, including the installation of a dive system and the capability to deploy an SIL (subsea intervention lubricator). Well-Safe is progressing discussions to add a second semisubmersible to its fleet, which will be followed by a jackup, a monohull vessel and land-based P&A units.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| COMPANY                                      | LOCATION                               | Telephone                                                                 | E-mail                               |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-I am first rate. Remove two letters and I am the raised edge of an object. Change one letter and I am lacking brightness. Add one letter and I am a US coin. Finally, change one letter and I am a pantomime role.
-
-What was I to start with, and what did I become?
-
-The correct answer was :- PRIME and DAME (via RIM, DIM and DIME).
-
-**This month, our poser is as follows:**
-
-There are 1,000 £1 coins lined up in a row. They are all facing heads up. First, flip every second coin so it is now facing tails up. Now, flip every third coin so it is facing the other direction.
-
-How many coins are heads up? And how many are tails up?
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>

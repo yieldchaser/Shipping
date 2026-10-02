@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-01-01_markedsrapport-januar-2023.pdf"
-tables_count: 11
-word_count: 6717
+tables_count: 9
+word_count: 6487
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Hareid and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service | Name                |
-| ------- | ------------------- |
-| 🚢      | SHIPBROKING         |
-| 🐬      | SECURALIFT          |
-| 📡      | SEA SURVEILLANCE    |
-| 🚤      | YACHTING            |
-| 🏢      | REAL ESTATE         |
-| 👥      | FACILITY MANAGEMENT |
-| 🧢      | FOUNDATIONS         |
-| 🚜      | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -509,32 +496,6 @@ With the jackup market heating up, Shelf Drilling has secured a long list of new
 
 *Source: Westwood Global RigLogix*
 
-# **CONUNDRUM CORNER, DUTY PHONES**
-
-## **TRANSOCEAN ADDS TO BACKLOG**
+# **TRANSOCEAN ADDS TO BACKLOG**
 
 While Shelf Drilling has had a productive period on the jackup market, Transocean has added nearly USD 900 million to its floating rig contract backlog. The Transocean Barents was awarded a one-well (110-day) charter with TotalEnergies UK; starting this quarter, that adds USD 34 million of contract backlog. Also in the UK, Harbour Energy exercised an eight-well (275-day) P&A option with the Paul B. Loyd, Jr., adding USD 48 million. In Norway, options totalling 773 days have been exercised by OMV and Wintershall DEA for the Transocean Norge, adding USD 331 million. In the US Gulf, the Deepwater Invictus was awarded a three-well contract, thought to be with Murphy Oil; with an estimated duration of 100 days, this fixture adds USD 43 million. In Brazil, the Dhirubhai Deepwater KG2 was awarded a 910-day contract with Petrobras, adding USD 392 million. Finally, in Suriname, TotalEnergies exercised a one-well option with the Development Driller III, adding USD 32 million.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-A man wanted to encrypt his password but he had to do it in such a way that only he could remember the password. He was told he had to use seven characters consisting only of letters and numbers (no symbols such as ! or *). In order to remember his password, he wrote down the phrase "You force heaven to be empty." What is his password?
-
-The answer was :- u472bmt (write it as it sounds).
-
-**This month, our poser is:**
-
-What number and letter continues this sequence?
-
-12 T 17 E 22 F 27 N ? ?
-
-**Answers back to <u>chartering@seabrokers.co.uk</u>.**

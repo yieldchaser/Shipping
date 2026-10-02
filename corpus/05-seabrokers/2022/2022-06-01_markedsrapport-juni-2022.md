@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-06-01_markedsrapport-juni-2022.pdf"
-tables_count: 13
-word_count: 6440
+tables_count: 12
+word_count: 6219
 tags:
   - Offshore
   - OSV
@@ -43,10 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
 
 # OSV MARKET ROUND-UP
 
@@ -499,39 +495,6 @@ Borr Drilling has entered into a binding letter of intent with an undisclosed th
 | SOUTH AMERICA | 87.8%    | 76.1%    | 86.7%    | 62.5%    | 71.9%    |
 | US GULF       | 58.1%    | 43.2%    | 38.0%    | 54.8%    | 44.8%    |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **SHELF BUYING NOBLE JACKUPS**
+# **SHELF BUYING NOBLE JACKUPS**
 
 Having been informed by the Competition and Markets Authority (CMA) in the United Kingdom that its planned merger with Maersk Drilling has raised competition concerns related to the supply of jackups for drilling operations offshore the UK, Denmark and the Netherlands, Noble Corporation has now entered into an agreement to sell five jackups to address those competition concerns. The Noble Hans Deul, Noble Houston Colbert, Noble Lloyd Noble, Noble Sam Hartley and Noble Sam Turner are to be sold to Shelf Drilling for USD 375 million. Four of those jackups are based in Northwest Europe while the Noble Houston Colbert is currently being relocated to Qatar.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-When John was six years old he hammered a nail into his favourite tree to mark his height. Ten years later at age sixteen, John returned to see how much higher the nail was. If the tree grew by five centimetres each year, how much higher would the nail be?
-
-The answer was :- It would be at the same height because trees grow from the top.
-
-**This month, our poser is:**
-
-It is a nine-letter word: 123456789
-
-If you lose it you die
-If you have 234, you can 1234
-56 is one type of disease
-2 & 7 are the same letter
-3 & 8 are the same letter
-5 & 9 are the same letter
-
-What is the word?
-
-Answers back to chartering@seabrokers.co.uk.

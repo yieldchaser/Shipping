@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2024-11-01_market-report-november-december-2024.pdf"
 tables_count: 10
-word_count: 7985
+word_count: 7828
 tags:
   - Offshore
   - OSV
@@ -633,40 +633,6 @@ Source: Westwood Global RigLogix
 
 Seabreeze — November-December 2024
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-**Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-**Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-**Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-**Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-**Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
-## Sea Surveillance
-**Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # Saudi Aramco suspending yet more jackup contracts
 
 Rumours had been circulating recently that Saudi Aramco was preparing to suspend its contracts with another batch of jackup rigs. Shelf Drilling CEO Greg O'Brien noted that he expected to see up to 10 more contract suspensions emerging, and it seems as though that prophecy had some justification.
@@ -674,13 +640,3 @@ Rumours had been circulating recently that Saudi Aramco was preparing to suspend
 In a third phase of contract suspensions from Aramco, confirmations have been filtering through of one-year suspensions for the Admarine 504 from Advanced Energy Systems (ADES), the Arabia II from Borr Drilling, the High Island II and High Island IV from Shelf Drilling, and the Sneferu from Egyptian Drilling. It is thought that Saudi Aramco has now issued contract suspensions to at least 32 jackup rigs this year. If Mr O'Brien's recent analysis is proved to be accurate, then there be some further contract suspensions in the offing.
 
 Saudi Aramco had substantially increased the size of its contracted jackup fleet in recent years as the Kingdom of Saudi Arabia had earlier increased its oil expansion plans and raised its maximum production targets from 12 million to 13 million barrels per day (mbpd). However, when that capacity target was later rolled back to the 12 mbpd level, there was no longer a necessity for Aramco to maintain such a sizeable jackup fleet, leading to the raft of contract suspensions.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

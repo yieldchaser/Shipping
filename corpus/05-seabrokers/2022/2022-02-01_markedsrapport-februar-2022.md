@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-02-01_markedsrapport-februar-2022.pdf"
-tables_count: 12
-word_count: 6933
+tables_count: 10
+word_count: 6746
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏗️   | SECURALIFT          |
-| 📡    | SEA SURVEILLANCE    |
-| ⛵     | YACHTING            |
-| 🏢    | REAL ESTATE         |
-| 👥    | FACILITY MANAGEMENT |
-| 🧑‍💼 | FOUNDATIONS         |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -492,32 +479,8 @@ Aker BP has exercised a scope-based option to extend its charter with Odfjell se
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE            | USD 200,000                                               |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP        | USD 250,000                                               |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## US GULF RATES ON THE RISE
+# US GULF RATES ON THE RISE
 
 Several rig owners have announced the award of new deepwater contracts in the US Gulf in recent weeks. Transocean confirmed new fixtures for four of its drillships: a one-well contract extension for the Deepwater Conqueror with Chevron, a two-well contract for the Deepwater Asgard with an undisclosed charterer, a one-well contract extension for the Deepwater Invictus with BHP Billiton, and a one-well plus two one-well options charter for the Discoverer Inspiration with EnVen Energy. Transocean highlighted the strengthening deepwater US Gulf market in its quarterly results, noting that they "observed a pronounced increase in day rates of the ultra-deepwater fleet, with rates in the Gulf climing from the low USD 200,000s to well over USD 300,000 per day."
 
 Apart from Transocean, Noble revealed that Murphy Oil had exercised two of the five one-well options on its contract with drillship Noble Stanley Lafosse, while QuarterNorth Energy amended its contract with drillship Noble Faye Kozack to incorporate three firm wells. Meanwhile Valaris confirmed the award of a one-well contract for the Valaris DPS-5 semisubmersible with Apache.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Candle stubs are being moulded into new candles. Nine stubs are required to make each new candle. If there are 977 candle stubs, how many candles can possibly be made in total?
-
-The answer was :- 122 candles
-
-**This month, our poser is:**
-
-The number 8,549,176,320 is a unique number. What is so special about it?
-
-**Answers back to chartering@seabrokers.co.uk.**

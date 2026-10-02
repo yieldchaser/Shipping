@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-06-01_market-report-june-2024.pdf"
 tables_count: 14
-word_count: 7588
+word_count: 7408
 tags:
   - Offshore
   - OSV
@@ -626,42 +626,6 @@ The Noble Stanley Lafosse is a ten year-old ultra-deepwater drillship that was b
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## Seabrokers Fundamenttering
-## **Seabrokers Fundamenttering**
-(+47) 51 80 00 00 | fundamenttering@seabrokers.no
-
-## 
-
-## SEA SOFTWARE & HI-END SOLUTIONS SURVEILLANCE
-## **Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # Noble Corporation to acquire Diamond Offshore
 
 The most significant recent development within the offshore rig market has been the confirmation that Noble Corporation has entered into a definitive merger agreement to acquire Diamond Offshore in a stock plus cash transaction.
@@ -671,13 +635,3 @@ Diamond shareholders will receive 0.2316 Noble shares plus USD 5.65 in cash for 
 Explaining the rationale for the acquisition, Noble President and CEO Robert Eifler highlighted that the company's position "will be strengthened with the addition of four seventh-generation drillships and one of the most high-spec harsh environment semisubmersible rigs in the world {Ocean GreatWhite}."
 
 The combined fleet will consist of 41 rigs, including 28 floaters and 13 jackups, with a total contract backlog of USD 6.5 billion. The addition of the Diamond rigs to the Noble Corporation fleet will contribute more than USD 2 billion of that outstanding backlog.
-
-# Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-# The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

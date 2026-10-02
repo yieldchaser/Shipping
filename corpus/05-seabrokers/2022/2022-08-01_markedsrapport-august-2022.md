@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-08-01_markedsrapport-august-2022.pdf"
-tables_count: 10
-word_count: 6490
+tables_count: 8
+word_count: 6269
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -485,38 +472,8 @@ Transocean has added USD 1.24 billion of contract backlog with two long-term dri
 | SOUTH AMERICA | 76.2%    | 73.9%    | 81.3%    | 72.4%    | 60.5%    |
 | US GULF       | 56.8%    | 50.0%    | 38.8%    | 51.7%    | 50.0%    |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## SEADRILL SELLS SEVEN
+# SEADRILL SELLS SEVEN
 
 Seadrill has entered into a binding Share Purchase Agreement with subsidiaries of ADES Arabia Holding Ltd to sell the legal entities that own and operate seven Seadrill jackups in Saudi Arabia. ADES is acquiring the AOD I, AOD II, AOD III, West Ariel, West Callisto, West Cressida and West Leda jackups along with the drilling contracts associated with the rigs.
 
 The total consideration for the jackup sale is USD 628 million in cash, subject to (among other items) reimbursement to Seadrill for any project costs incurred by Seadrill in relation to the reactivation of the West Ariel, West Cressida and West Leda from layup. This translates to approximately USD 100 million per rig on a ready-to-drill basis.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Three brothers - John Smith, Mark Smith and Paul Smith - are all suspected of murder.
-
-One day, the detective receives an anonymous note saying "? Smith. HE is the murderer."
-
-Which one of the three Smith brothers should the police arrest?
-
-The answer was :- Mark Smith. The question should be read as *"Question Mark Smith. HE is the murderer."*
-
-**This month, our poser is:**
-
-Gaze at this sentence for just about sixty seconds and then explain what makes it quite different from the average sentence.
-
-What is it?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

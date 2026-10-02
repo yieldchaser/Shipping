@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-08-01_market-report-august-2025.pdf"
 tables_count: 18
-word_count: 7884
+word_count: 7729
 tags:
   - Offshore
   - OSV
@@ -550,11 +550,9 @@ Despite Brazil not having have any offshore wind farms, Brazil's Institute for t
 
 # UK OPENS ALLOCATION ROUND 7
 
-The UK government opened the application window for Allocation Round 7 (AR7) of the Contracts for Difference (CfD) scheme in early August and it remained open until August 27th, 2025.
-
-On July 23rd, The UK's Department for Energy Security and Net Zero announced the statutory notices for AR7 confirming the changes to pricing and contract structure under the CfD scheme, including expanding the eligible project pipeline, increasing CfD contract durations from 15 years to 20 years, and separating out Scottish bids, amongst other changes.
-
-The CfD scheme has so far supported 10 GW of renewable capacity, with another 23 GW contracted to be operational by 2030. AR7 through AR9 are critical to meeting the UK's target of delivering clean power by 2030 and reducing reliance on fossil fuel prices.
+| The UK government opened the application window for Allocation Round 7 (AR7) of the Contracts for Difference (CfD) scheme in early August and it remained open until August 27th, 2025.                                    | project pipeline, increasing CfD contract durations from 15 years to 20 years, and separating out Scottish bids, amongst other changes.                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| On July 23rd, The UK's Department for Energy Security and Net Zero announced the statutory notices for AR7 confirming the changes to pricing and contract structure under the CfD scheme, including expanding the eligible | The CfD scheme has so far supported 10 GW of renewable capacity, with another 23 GW contracted to be operational by 2030. AR7 through AR9 are critical to meeting the UK's target of delivering clean power by 2030 and reducing reliance on fossil fuel prices. |
 
 # Rigs
 
@@ -622,43 +620,6 @@ Transocean has confirmed in a filing to the United States Securities and Exchang
 
 Noble Highlander (c/o N. Jepsen)
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
 # **ADES INTERNATIONAL TO ACQUIRE SHELF DRILLING**
 
 ADES International Holding Ltd (a subsidiary of ADES Holding Company) has signed an agreement with Shelf Drilling Ltd relating to a recommended offer by ADES to acquire all of the issued and outstanding shares of Shelf Drilling by way of a cash merger.
@@ -668,13 +629,3 @@ Pending completion of the transaction, which is expected to occur during the fou
 The proposed transaction has been approved and recommended by the Board of Directors of Shelf Drilling.
 
 The merger will establish a strong player in the shallow water drilling market with a substantial fleet of 83 jackups (including 46 premium units) and a total combined backlog of USD 9.45 billion as of June 30th, 2025. ADES, a drilling contractor with headquarters in Saudi Arabia, has indicated that it expects to realise annual operational cost synergies of USD 40-50 million with gradual realisation over the medium term.
-
-## **Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## **The Seabreeze Archive**
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

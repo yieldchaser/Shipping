@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-05-01_market-report-may-2024.pdf"
 tables_count: 12
-word_count: 8040
+word_count: 7868
 tags:
   - Offshore
   - OSV
@@ -609,48 +609,6 @@ Deepsea Aberdeen (c/o G. Vinnes)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
-## SEA SOFTWARE & HI-END SOLUTIONS SURVEILLANCE
-
-## **Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # SEADRILL SELLING QATAR JACKUP FLEET TO GDI
 
 Seadrill Limited has entered into a definitive agreement to sell its Qatar jackup fleet and its 50% equity interest in the joint venture that operates the rigs to the company's joint venture partner Gulf Drilling International (GDI). The cash value for the transaction will be USD 338 million.
@@ -660,13 +618,3 @@ Seadrill's Qatar jackup fleet consists of three units: the West Castor, West Tel
 In terms of contracting activity, all three units are currently on hire with QatarGas. The West Telesto is committed until May 2025, the West Tucana is contracted until August 2025, and the West Castor is firm until April 2026.
 
 The transaction remains subject to the approval or non-objection from the Qatar Financial Centre Authority, as well as the approval of the shareholders of GDI's parent company. Pending those confirmations, the sale is expected to close early in the third quarter of 2024. This will allow Seadrill to focus its efforts more on its core operating business within the deepwater floating rig market.
-
-## **Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## **The Seabreeze Archive**
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

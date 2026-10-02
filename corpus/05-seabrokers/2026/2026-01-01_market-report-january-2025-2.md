@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-01-01_market-report-january-2025-2.pdf"
 tables_count: 12
-word_count: 8566
+word_count: 8411
 tags:
   - Offshore
   - OSV
@@ -665,43 +665,6 @@ Elswhere, Noble has secured a two-year firm contract for the Noble Gerry de Souz
 
 Velesto Energy has agreed to sell its 2010-built jackup Naga 3 to PT Indonesia Drilling Energy. The transaction has been agreed with a sales price of USD 63 million (RM 258.4 million). The Naga 3 is expected to be deployed offshore Malaysia via TEXCAL Energy's subsidiary, AFED TEXCAL Energy Ventures, to support its exploration & production operations.
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
 # NORWAY RIG DEMAND REMAINS BUOYANT
 
 While Noble, Seadriill and Transocean have all secured more work for rigs in Norway (see p.26-27), several other contractors have firmed up fresh contract backlog as rig demand remains buoyant in the Nordic nation.
@@ -711,13 +674,3 @@ Var Energi has exercised the first option periods available on its contracts wit
 In a similar scenario, Aker BP has agreed to prolong its contract with Saipem semisubmersible Scarabeo 8 for an additional year. This extension, carrying a value of USD 157 million, will see the rig remain on hire with Aker BP at least until the end of 2028. Saipem and Aker BP have also introduced a new clause in the contract to allow for further future extensions.
 
 Finally, Odfjell Drilling has progressed its Letter of Intent from Equinor for the Deepsea Aberdeen semisubmersible into a firm contract. The rig, which is already on hire to Equinor under the terms of a prior contract, will commence her new charter in direct continuation during the fourth quarter of 2026; she is expected to remain on hire until the first quarter of 2029.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

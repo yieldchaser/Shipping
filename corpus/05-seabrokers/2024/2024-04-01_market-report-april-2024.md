@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-04-01_market-report-april-2024.pdf"
 tables_count: 13
-word_count: 7468
+word_count: 7304
 tags:
   - Offshore
   - OSV
@@ -588,40 +588,6 @@ Deepwater Asgard (c/o Transocean)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-# **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-# **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-# **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-# **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-# **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-# **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
-## Sea Surveillance
-# **Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # **Borr secures new commitments for jackup trio**
 
 Borr Drilling Limited has secured new contractual commitments for three of its premium jackup rigs: the Prospector 1, the Gunnlod, and a third rig that has yet to be determined.
@@ -631,13 +597,3 @@ In the North Sea, Borr has secured multiple contracts for the Prospector 1 with 
 In Southeast Asia, Borr has picked up a one-well (90-day) contract for the Gunnlod. That campaign, rumoured to be with PTTEP Sarawak, will commence in May 2024.
 
 Finally, Borr has revealed that an “undisclosed customer” has issued a firm and binding Letter of Award for an estimated 480-day campaign starting in either the fourth quarter of 2024 or first quarter of 2025. No more details have yet been revealed with regards to the rig, the charterer or the work location.
-
-# **Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-# **The Seabreeze Archive**
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

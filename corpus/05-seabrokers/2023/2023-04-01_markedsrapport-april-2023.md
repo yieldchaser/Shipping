@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-04-01_markedsrapport-april-2023.pdf"
-tables_count: 13
-word_count: 6588
+tables_count: 11
+word_count: 6397
 tags:
   - Offshore
   - OSV
@@ -41,26 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             | Category |
-| ------------------- | -------- |
-| SHIPBROKING         |          |
-| SECURALIFT          |          |
-| SEA SURVEILLANCE    |          |
-| YACHTING            |          |
-| REAL ESTATE         |          |
-| FACILITY MANAGEMENT |          |
-| FOUNDATIONS         |          |
-| HARBOUR CRANES      |          |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -513,30 +493,8 @@ Shelf Drilling has secured a new contract for its Shelf Drilling Barsk jackup wi
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **TRANSOCEAN DIVERSIFYING**
+# **TRANSOCEAN DIVERSIFYING**
 
 Drilling contractor Transocean is diversifying its business by investing in the offshore wind market. The company has entered into a non-binding memorandum of understanding with Eneti to form a joint venture entity that will engage in offshore wind foundation installation activities.
 
 Transocean's vast experience operating a fleet of dynamically-positioned offshore drilling rigs will be complemented by Eneti's experience, via Seajacks International, of installing more than 500 wind turbine foundation components and executing transport and installation contracts at wind farms including Akita & Noshiro (Japan), Meerwind (Germany), Veja Mate (Germany) and Moray East (Scotland). The JV plan is to convert two fit-for-purpose floating vessels into offshore wind foundation installation vessels.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: <chartering@seabrokers.co.uk>
-
-| COMPANY | LOCATION | Telephone | E-mail |
-| :--- | :--- | :--- | :--- |
-| 
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-** How many holes are in this t-shirt?
-
-The answer was :- 8 (one for each arm, one for your head, one at the waist, two in the front and two in alignment at the back).
-
-**This month, our poser is:** What three-word expression is written in the code below?
-
-THODEEPUGHT
-
-**Answers back to <u>chartering@seabrokers.co.uk</u>.**

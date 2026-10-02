@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-05-01_markedsrapport-mai-2020.pdf"
-tables_count: 15
-word_count: 6894
+tables_count: 14
+word_count: 6688
 tags:
   - Offshore
   - OSV
@@ -43,17 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -543,34 +532,8 @@ Bureau Veritas has recorded a 900% increase in demand for remote inspection of o
 
 Source: IHS-Petrodata
 
-# **CONUNDRUM CORNER, DUTY PHONES**
-
-## **EQUITY RAISE FOR BORR DRILLING**
+# **EQUITY RAISE FOR BORR DRILLING**
 
 Borr Drilling has successfully completed an Equity Offering to raise gross proceeds of USD 30 million. The offering was substantially oversubscribed.
 
 This process was initiated following discussions with Borr's creditors and shipyards in order to strengthen the company's liquidity position. Those discussions revolved around the deferral of certain yard commitments, adjustments in covenants, deferred amortisation and deferral of certain interest payments. In combination with the equity offering, the target is to improve Borr's liquidity until the beginning of 2022 by USD 315 million, and to lower its cash bareboat break-even rate to USD 20,000 per day until the end of 2021. That is calculated based on full selling, general and administrative expenses, plus stacking and cash interest costs. This is based on only 12 out of 23 of Borr's delivered drilling rigs being in operation.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-What numbers should replace the question marks?
-
-A generous boy wanted to give sweets to his classmates. He offered 9 sweets to each boy and 12 sweets to each girl. One third of the boys in the class accepted the sweets but only one quarter of the girls had the sweets. If the boy gave out 87 sweets, how many classmates did he have?
-
-The answer was :- 29 (21 boys and 8 girls).
-
-**This month, our poser is as follows:**
-
-What number should appear next in the following sequence?
-
-4 5 5 7 14 17 51 55 ?
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                    |                                                                                                                   |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **

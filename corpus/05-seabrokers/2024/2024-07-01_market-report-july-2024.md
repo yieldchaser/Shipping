@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-07-01_market-report-july-2024.pdf"
 tables_count: 14
-word_count: 7881
+word_count: 7705
 tags:
   - Offshore
   - OSV
@@ -595,42 +595,6 @@ Valaris DS-17 (c/o Valaris)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## Seabrokers Fundamenttering
-## **Seabrokers Fundamenttering**
-(+47) 51 80 00 00 | fundamenttering@seabrokers.no
-
-## 
-
-## Sea Surveillance
-## **Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # **New contracts for Borr Drilling jackup trio**
 
 Borr Drilling has secured new contractual commitments for three of its premium jackup rigs. The new deals represent a total value of USD 332 million in revenue, including mobilisation costs, covering a total contract duration of 1,779 days.
@@ -640,13 +604,3 @@ The Arabia I jackup, which had its contract with Saudi Aramco suspended earlier 
 In Southeast Asia, a Letter of Award has been issued by an undisclosed operator in Malaysia, thought to be ExxonMobil, for the Gunnlod to undertake a seven-well campaign from November 2024. This contract will have a duration of circa 210 days.
 
 Finally, in West Africa, Borr has secured a 109-day contract extension for the Norve with BW Energy offshore Gabon. That will keep the rig occupied until the start of ner next commitment with Marathon Oil offshore Equatorial Guinea in February 2025.
-
-# **Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-# **The Seabreeze Archive**
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

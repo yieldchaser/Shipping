@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-03-01_market-report-march-2025.pdf"
 tables_count: 12
-word_count: 7599
+word_count: 7444
 tags:
   - Offshore
   - OSV
@@ -618,43 +618,6 @@ According to the Westwood Global Energy Group, Shelf Drilling has indicated that
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
 # PARATUS RECEIVES CONTRACT TERMINATION NOTICES
 
 Paratus Energy Services has revealed that its wholly-owned subsidiary Fontis Holdings Ltd has received notice from its client that the contracts for the Courageous and Intrepid jackups are to be terminated early.
@@ -664,13 +627,3 @@ The Courageous and Intrepid are working for Pemex offshore Mexico. Both rigs are
 Paratus has indicated that "the reasons cited for the early termination include unfavourable contract terms, such as limited suspension rights and indexation structure of day rates (with floor and cap), and economic considerations." However, Paratus has suggested that "nothing in the client's notification suggests that this action was driven by reduced operational need for drilling rigs in 2026." The company continues to believe that higher drilling activity will be required for Pemex to meet its stated production targets going forward.
 
 The drilling contracts for the Courageous and Intrepid will both now expire on February 28th, 2026, rather than the originally scheduled end dates of November 29th, 2026, and May 27th, 2026, respectively.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

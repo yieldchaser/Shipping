@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2018-09-01_markedsrapport-september-2018.pdf"
-tables_count: 17
-word_count: 6777
+tables_count: 14
+word_count: 6444
 tags:
   - Offshore
   - OSV
@@ -41,26 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2008.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -318,19 +298,20 @@ Atlantic Offshore, with its main shareholder Ogreid, has purchased two former se
 
 ## ALLSEAS CONFIRMED AS BUYER OF FORTRESS
 
-Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners.
-
-This transaction follows the earlier sales of the Fortress' sister vessels, the Havila Faith and Havila Favour, to Allseas in March. Those vessels have since been renamed as Alegria and Felicity, and they are currently working for Allseas in the Black Sea.
+| ![Havila Fortress](https://i.imgur.com/3Z0Z0Z0.jpg) | Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners.          |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                     | This transaction follows the earlier sales of the Fortress' sister vessels, the Havila Faith and Havila Favour, to Allseas in March. Those vessels have since been renamed as Alegria and Felicity, and they are currently working for Allseas in the Black Sea. |
 
 ## MALAVIYA 20 SOLD AT AUCTION
 
-The 2004-built PSV Malaviya 20 has been sold at auction for a price just above USD 1 million, after her previous owners GOL Offshore were declared bankrupt. The buying entity is reportedly linked to the Greek-based Laskaridis Shipping Company.
-
-The Malaviya 20 was built to the UT 755 design by Aker Brattvaag in Norway. She has a length of 72m, breadth of 16m, deck area of 690m² and deadweight of more than 3,000t. The vessel has been laid up in Great Yarmouth since she finished her most recent contract in 2016.
+| MALAVIYA 20 SOLD AT AUCTION |  |
+| :--- | :--- |
+| The 2004-built PSV Malaviya 20 has been sold at auction for a price just above USD 1 million, after her previous owners GOL Offshore were declared bankrupt. The buying entity is reportedly linked to the Greek-based Laskaridis Shipping Company. | The Malaviya 20 was built to the UT 755 design by Aker Brattvaag in Norway. She has a length of 72m, breadth of 16m, deck area of 690m² and deadweight of more than 3,000t. The vessel has been laid up in Great Yarmouth since she finished her most recent contract in 2016. |
 
 ## BAHIA GRANDE BUYS ANCHOR HANDLER
 
-Bahia Grande has acquired the former Pacific Warrior, and renamed the AHTS vessel as BG Warrior. The 2002-built vessel has been mobilised to Argentina by her new owners. The vessel was originally owned by Swire Pacific Offshore and was built by Brevik Construction in Norway. The BG Warrior, built to the UT 710 design, has a length of 68.9m and a breadth of 15.5m. She has an engine power of 10,657 bhp, providing a bollard pull of circa 140 tonnes, with a clear deck area of 471m².
+| ![BG Warrior](https://i.imgur.com/7Z7Z7Z7.jpg) | Bahia Grande has acquired the former Pacific Warrior, and renamed the AHTS vessel as BG Warrior. The 2002-built vessel has been mobilised to Argentina by her new owners. The vessel was originally owned by Swire Pacific Offshore and was built by Brevik Construction in Norway. The BG Warrior, built to the UT 710 design, has a length of 68.9m and a breadth of 15.5m. She has an engine power of 10,657 bhp, providing a bollard pull of circa 140 tonnes, with a clear deck area of 471m². |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 # SUBSEA
 
@@ -521,42 +502,6 @@ Rowan Companies is preparing to relocate jackup Rowan Norway from the North Sea 
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **NOBLE BUYS NEWBUILD JACKUP**
+# **NOBLE BUYS NEWBUILD JACKUP**
 
 Noble Corporation has purchased a newbuild Gusto MSC CJ46 jackup rig from the PaxOcean Group in connection with a concurrently awarded drilling contract. The jackup, which was built at the PaxOcean Graha Shipyard in Indonesia, was acquired for USD 93.75 million, with an option for Noble to purchase a second rig of the same design. The rig will be named Noble Johnny Whitstine, and Noble has already secured a three-year plus one-year option contract for her in the Middle East with commencement early in 2019.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-** A mathematician was challenged to write nineteen in a manner where if one was taken away, it became twenty. He failed to succeed. Can you manage?
-
-The correct answer was :- Roman Numerals - XIX = 19; take away the I and XX = 20
-
-**This month, our poser is as follows:**
-
-Albert and Bernard just became friends with Cheryl, and they want to know when her birthday is. Cheryl gives them a list of 10 possible dates:
-
-| Month |  | 15 | 16 |  |  | 19 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| June |  |  |  | 17 | 18 |  |
-| July | 14 |  | 16 |  |  |  |
-| August | 14 | 15 |  | 17 |  |  |
-
-Cheryl then tells Albert and Bernard separately the month and the day of her birthday respectively.
-- Albert: "I don't know when Cheryl's birthday is, but I know that Bernard doesn't know either."
-- Bernard: "At first I didn't know when Cheryl's birthday was, but now I know."
-- Albert - "Then I also know when her birthday is."
-**So when is Cheryl's birthday?**
-
-Answers back to chartering@seabrokers.co.uk.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **SEABROKERS GROUP CONTACTS**
-
-| Company                                                               | Telephone                                                                 | E-mail                         |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------ |
-| **

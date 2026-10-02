@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-09-01_markedsrapport-september-2021.pdf"
-tables_count: 10
-word_count: 6442
+tables_count: 9
+word_count: 6232
 tags:
   - Offshore
   - OSV
@@ -41,10 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
 
 # OSV MARKET ROUND-UP
 
@@ -499,30 +495,8 @@ Valaris has secured two new contracts for the Valaris JU-123. TAQA will use the 
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 180,000 |  |  |  |  |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 200,000 |  |  |  |  |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **GREEN HYDROGEN JACKUP**
+# **GREEN HYDROGEN JACKUP**
 
 Borr Drilling has entered into a partnership with Aquaterra Energy, a leader in global offshore engineering solutions, and Lhyfe, a renewable hydrogen producer and supplier, to develop an innovative concept for offshore green hydrogen production in the North Sea.
 
 The three companies are collaborating on Project Haldane for the development of an industrial scale green hydrogen offshore production concept that will involve the deployment of an electrolyser system on a converted jackup rig. The reliable winds far offshore in the North Sea can provide an exceptional renewable resource, however the remote locations create challenges around grid connectivity and intermittency of supply. The Project Haldane concept could circumnavigate this issue by providing an off take for the electricity produced in the immediate vicinity of wind farms while also aiming to further utilise existing platforms, pipelines and offshore equipment to leverage the existing infrastructure to reduce costs.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-** A fire engine travels seven miles to a fire at a speed of 36 mph. Its tank holds 500 gallons of water but has been leaking at a rate of 20 gallons per hour throughout the journey. If the fire engine needs 497 gallons of water to put out the fire, will it have enough water?
-
-The answer was :- No - it will be short by 0.89 gallons.
-
-**This month, our poser is:**
-
-I asked a woman how old she was. She smiled and said cryptically "the day before yesterday I was 22 but next year I'll be 25." When is her birthday and when did our conversation take place?
-
-Answers back to <u>chartering@seabrokers.co.uk</u>.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

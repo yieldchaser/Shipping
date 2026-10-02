@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-10-01_markedsrapport-oktober-2019.pdf"
-tables_count: 10
-word_count: 6622
+tables_count: 9
+word_count: 6447
 tags:
   - Offshore
   - OSV
@@ -43,17 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-SHIPBROKING
-SECURALIFT
-SEA SURVEILLANCE
-YACHTING
-REAL ESTATE
-FACILITY MANAGEMENT
-FOUNDATIONS
-HARBOUR CRANES
 
 # OSV MARKET ROUND-UP
 
@@ -498,9 +487,7 @@ Northern Drilling has notified Daewoo Shipbuilding & Marine Engineering (DSME) i
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## BIDS IN FOR "RIG OF THE FUTURE"
+# BIDS IN FOR "RIG OF THE FUTURE"
 
 Equinor has reportedly received more than 30 responses from drilling rig contractors for its 'rig of the future' tender.
 
@@ -508,28 +495,4 @@ The exercise had invited contractors to propose a new design of semisubmersible 
 
 The unit would be based on a more streamlined design than conventional rigs with a smaller drilling tower, reduced accommodation capacity and less equipment onboard. Among other factors, the design proposals were expected to incorporate robotic pipe-handling, an unmanned drill floor, robotic cranes, fully electrified equipment (pipe handling, cranes, BOP), fully automated mud and cement plants and automated drilling control.
 
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-In a Rugby World Cup sweepstake, Sam got Australia, Andrew got France and Peter got Japan. Did Lee get Italy or Wales?
-
-The correct answer was :- Wales (the first letter of the person's forename matches the third letter of the country).
-
-**This month, our poser is as follows:**
-
-Add together three numbers each time to score 45. Each number can be used as many times as you wish. How many different combinations are there?
-
-5 10 15 20 25
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
 ### SEABROKERS GROUP CONTACTS
-
-| Company | Telephone | E-mail |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------ |
-| **

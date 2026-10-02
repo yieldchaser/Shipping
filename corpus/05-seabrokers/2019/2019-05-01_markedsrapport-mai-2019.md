@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-05-01_markedsrapport-mai-2019.pdf"
-tables_count: 13
-word_count: 6851
+tables_count: 11
+word_count: 6639
 tags:
   - Offshore
   - OSV
@@ -44,29 +44,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-
-**STAVANGER**
-**ABERDEEN**
-
-**BERGEN**
-**RIO DE JANEIRO**
-
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -525,36 +502,10 @@ Maersk Drilling is to upgrade the Maersk Intrepid jackup by converting her into 
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## EIGHT JACKUPS FOR QATAR
+# EIGHT JACKUPS FOR QATAR
 
 Qatar Petroleum has awarded contracts for the charter of eight premium jackups which are required for its North Field Expansion Project offshore Qatar. Each of the rigs has been chartered for a firm period of between two and four years, with staggered commencement dates in 2020.
 
 Gulf Drilling International (GDI) was awarded contracts for the provision of six of the eight jackups. GDI has an existing Strategic Cooperation Agreement (SCA) with Seadrill, where one jackup is already operating offshore Qatar. The two companies are now finalising an agreement which would see Seadrill provide up to five additional jackups under the terms of the SCA to fulfil these new contracts with Qatar Petroleum.
 
 The other contracts were awarded to Northern Offshore for the charter of newbuild jackups Energy Edge and Energy Enticer, which are under construction at Shanghai Waigaoqiao in China.
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-There are 1,000 £1 coins lined up in a row. They are all facing heads up. First, flip every second coin so it is now facing tails up. Now, flip every third coin so it is facing the other direction.
-
-How many coins are heads up? And how many are tails up?
-
-The correct answer was :- 499 coins will be heads up and 501 coins will be tails up.
-
-**This month, our poser is as follows:**
-
-Rearrange the letters of 'HOTEL SUITE' to give a ten letter word. What is it?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

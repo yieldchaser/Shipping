@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2018-10-01_markedsrapport-oktober-2018.pdf"
-tables_count: 13
-word_count: 6442
+tables_count: 11
+word_count: 6178
 tags:
   - Offshore
   - OSV
@@ -43,26 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2008.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -517,30 +497,6 @@ The combined company's fleet will consist of 28 floating rigs and 54 jackups, wi
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **BORR ACTIVATING NEWBUILD RIGS**
+# **BORR ACTIVATING NEWBUILD RIGS**
 
 Supported by a strong increase in the number of direct customer requests, along with a material increase in tender activity, Borr Drilling has decided to commence the activation of four more newbuild jackups prior to actually securing firm employment for them. Borr's Board has indicated that it sees several interesting opportunities for employment for the rigs at attractive rates.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-** Albert and Bernard just became friends with Cheryl, and they want to know when her birthday is. Cheryl gives them a list of 10 possible dates:
-
-| May    |    | 15 | 16 |    |    | 19 |
-| ------ | -- | -- | -- | -- | -- | -- |
-| June   |    |    |    | 17 | 18 |    |
-| July   | 14 |    | 16 |    |    |    |
-| August | 14 | 15 |    | 17 |    |    |
-
-Cheryl then tells Albert and Bernard separately the month and the day of her birthday respectively.
-- Albert: "I don't know when Cheryl's birthday is, but I know that Bernard doesn't know either."
-- Bernard: "At first I didn't know when Cheryl's birthday was, but now I know."
-- Albert - "Then I also know when her birthday is."
-**So when is Cheryl's birthday?**
-
-The correct answer was :- July 16th
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk

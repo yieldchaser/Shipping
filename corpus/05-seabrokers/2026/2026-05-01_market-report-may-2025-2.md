@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-05-01_market-report-may-2025-2.pdf"
 tables_count: 53
-word_count: 9071
+word_count: 8920
 tags:
   - Offshore
   - OSV
@@ -939,36 +939,6 @@ Borr Drilling has secured more work for two jackups in South America and Southea
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-### **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # NEW CONTRACTS FOR FOUR ADES JACKUPS
 
 ADES Holding has secured new contracts for four of the new jackups in its fleet following its acquisition of Shelf Drilling. In West Africa, Seplat Energy has awarded a two-year contract in Nigeria, with two one-year options, to the Shelf Drilling Victory. This charter will start in the second half of 2026 following the completion of the rig's contract with Amni International, also off Nigeria. In the same country, Belbop awarded a one-year firm plus one-year option contract to the Main Pass IV. This rig has just concluded a charter with Chevron Nigeria, and will undergo a period of preparations before going on hire with Belbop in the third quarter of the year.
@@ -976,13 +946,3 @@ ADES Holding has secured new contracts for four of the new jackups in its fleet 
 In the North Sea, Tenaz Energy has converted its original one-year contract with the Shelf Drilling Winner into a three-year firm commitment; the rig is working offshore the Netherlands. The Winner is now firmly committed until November 2028 with two further one-year options available.
 
 In Southeast Asia, Velesto Drilling has secured a charter to provide a jackup to Hibiscus Malaysia for the plug & abandonment of eight wells in addition to the drilling of one exploration well; seven further options are available. The “third-party” rig that Velesto is providing is the Shelf Drilling Enterprise from ADES. With an estimated firm period of five-six months, this charter started in May.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

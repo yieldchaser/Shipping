@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-06-01_markedsrapport-juni-2019.pdf"
 tables_count: 14
-word_count: 6409
+word_count: 6404
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -527,9 +514,7 @@ Maersk Drilling has completed the sale of its 1986-built jackup rig Maersk Giant
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## DOLPHIN DRILLING BANKRUPTCY
+# DOLPHIN DRILLING BANKRUPTCY
 
 Having been unable to agree on the terms of a consensual restructuring, Dolphin Drilling filed for bankruptcy on June 26th after the company's secured creditors demanded payment of all the amounts outstanding under its secured debt.
 
@@ -537,24 +522,16 @@ However, a restructuring has been agreed for the drilling contractor, with the c
 
 Bjørnar Iversen, the incoming CEO of Dolphin Drilling stated "we are delighted that Dolphin Drilling has now emerged in a strong position for the future. In addition to the company's focused, nimble fleet and high-quality team, we now have the firm financial footing we need to win new business. I look forward to working with the team to ensure that the company fulfils its potential."
 
-## THE SEABREEZE ARCHIVE
+### Forusbeen 78 - 4033 Stavanger - Norway
 
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Rearrange the letters of 'HOTEL SUITE' to give a ten letter word. What is it?
-
-The correct answer was :- SILHOUETTE
-
-**This month, our poser is as follows:**
-
-Find words to fit the clues below. All the words end in the same three letters:
-
-- ______ Heavy object
-- ______ Writer
-- ______ Figure of speech
-
-**Answers back to chartering@seabrokers.co.uk.**
+| SEABROKERS HEAD OFFICE | Internet: www\.seabrokers-group.com |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| SEABROKERS CHARTERING AS - STAVANGER     | Duty Telephone ++47 51 815400 (24 Hrs)<br/>E-mail chartering\@seabrokers.no                                       |
+| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129<br/>E-Mail chartering\@seabrokers.co.uk |
+| SEABROKERS BRAZIL LTDA - RIO DE JANEIRO  | Duty Telephone ++55 21 3505 4200 (24 Hrs)<br/>E-mail chartering\@seabrokers.com.br                                |
+| SECURALIFT AS - STAVANGER                | Telephone ++47 51 800000<br/>E-mail stig\@seabrokers.no                                                           |
+| SEA SURVEILLANCE AS - BERGEN             | Telephone ++47 55 136500<br/>E-mail info\@seasurv.net                                                             |
+| SEABROKERS EIENDOM AS - STAVANGER        | Telephone ++47 51 800000<br/>E-mail rolf.aarthurun\@seabrokers.no                                                 |
+| SEABROKERS SERVICES AS - STAVANGER       | Telephone ++47 51 800000<br/>E-mail lars.hagen\@seabrokers.no                                                     |
+| SEABROKERS FUNDAMENTERING AS - STAVANGER | Telephone ++47 51 800000<br/>E-mail fundamentering\@seabrokers.no                                                 |
+| SEABROKERS HAVNEKraner AS - STAVANGER    | Telephone ++47 51 800000<br/>E-mail havnekraner\@seabrokers.no                                                    |

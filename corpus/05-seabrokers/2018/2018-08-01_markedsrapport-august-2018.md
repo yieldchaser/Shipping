@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2018-08-01_markedsrapport-august-2018.pdf"
-tables_count: 15
-word_count: 6656
+tables_count: 13
+word_count: 6421
 tags:
   - Offshore
   - OSV
@@ -43,26 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2008.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔗    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍💼 | FOUNDATIONS         |
-| 🚢    | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -510,32 +490,8 @@ Vantage Drilling has emerged as the buyer of jackup Soehanah, which was recently
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## SEPARATION OF MAERSK DRILLING
+# SEPARATION OF MAERSK DRILLING
 
 A.P. Møller - Mærsk A/S has decided to pursue a separate listing for Maersk Drilling on the Nasdaq Copenhagen Exchange in 2019. In September 2016, the company set a two-year target to find viable solutions for its oil and oil-related businesses as it sought to transform from a conglomerate to a focused integrated container logistics company. Having already found solutions for Maersk Oil and Maersk Tankers, the company has now concluded that listing Maersk Drilling as an independent company presents the most optimal and long-term prospects for its shareholders. As part of the preparations, debt financing of USD 1.5 billion from a consortium of international banks has been secured for Maersk Drilling to ensure a strong capital structure after a listing.
 
 Meanwhile, A.P. Møller - Mærsk's pursuit of a solution for Maersk Supply Service will continue. Due to the challenging markets, the company has indicated that the timing for defining a solution remains difficult to predict.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| COMPANY                                      | LOCATION                               | Telephone                                                                 | E-mail                                |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-A man walks west for 4 miles. Then south for 3 miles. Then east for 2 miles. Then north for 1 mile. Then east for 2 miles. In what direction and for how far should he walk to return to his starting point?
-
-The correct answer was :- north for 2 miles
-
-**This month, our poser is as follows:**
-
-A mathematician was challenged to write nineteen in a manner where if one was taken away, it became twenty. He failed to succeed. Can you manage?
-
-Answers back to chartering@seabrokers.co.uk.

@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-05-01_markedsrapport-mai-2021.pdf"
-tables_count: 11
-word_count: 6692
+tables_count: 10
+word_count: 6495
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             | Category |
-| ------------------- | -------- |
-| SHIPBROKING         |          |
-| SECURALIFT          |          |
-| SEA SURVEILLANCE    |          |
-| YACHTING            |          |
-| REAL ESTATE         |          |
-| FACILITY MANAGEMENT |          |
-| FOUNDATIONS         |          |
-| HARBOUR CRANES      |          |
 
 # OSV MARKET ROUND-UP
 
@@ -548,30 +535,8 @@ Valaris Ltd has completed its financial restructuring and emerged from Chapter 1
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 165,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 190,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **MAERSK SELLS JACKUP TRIO**
+# **MAERSK SELLS JACKUP TRIO**
 
 Maersk Drilling has entered into agreements to sell three of its jackups. The Maersk Guardian (now named Guardian) has been sold to New Fortress Energy, and the two parties have entered into a further sales agreement for the Maersk Gallant with closing expected in June. The total price for the two rigs will be USD 31 million. New Fortress will use the rigs for non-drilling purposes as part of its Fast LNG project.
 
 Maersk has also agreed to sell the Maersk Inspirer drilling and production jackup to Havila Sirius, a subsidiary of Havila Holding, for USD 373 million. Closing of the transaction is expected to take place in the second half of 2021. The rig is currently on a long-term contract with Repsol at the Yme field offshore Norway. As part of the deal, Repsol will lease the jackup from Havila Sirius and assume responsibility for the day-to-day operation of the rig on the Yme field.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-Amber has four times as many Easter eggs as Billy has. Dillon has four more Easter eggs than Billy, and Carly has one less than Dillon. Carly has five Easter Eggs.
-
-How many Easter eggs do the four have between them?
-
-The answer was :- 21 (Carly has 5, Dillon has 6, Billy has 2 and Amber has 8)
-
-**This month, our poser is:**
-
-George, Helen and Steve are drinking coffee. Bert, Karen and Dave are drinking soda. Is Elizabeth drinking coffee or soda?
-
-Answers back to <u>chartering@seabrokers.co.uk</u>.

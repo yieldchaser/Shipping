@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-01-01_market-report-january-2025.pdf"
 tables_count: 20
-word_count: 8524
+word_count: 8369
 tags:
   - Offshore
   - OSV
@@ -694,43 +694,6 @@ West Prospero (c/o Seadrill)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
 # NOBLE ADDS TO FLOATER BACKLOG AROUND THE GLOBE
 
 Noble Corporation has secured new contracts or charter extensions for four of its floating rigs.
@@ -740,13 +703,3 @@ In West Africa, Tullow Oil awarded a six-well firm contract to the Noble Venture
 In the Americas, Noble has secured a three-well firm contract, starting in June 2025, for the Noble Developer semisubmersible with Petronas Suriname E&P. This charter has an estimated duration of 200 days with a further one-well option available. Further north, the Noble Globetrotter I drillship recently started a one-well firm contract with Murphy Oil in the US Gulf. Six further option wells are available.
 
 Elsewhere, Noble has secured a new 37-day assignment for the Ocean Apex semisubmersible offshore Australia. It is expected that this will be an extension to the rig's upcoming contract with Chevron, extending the charter into August 2025.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

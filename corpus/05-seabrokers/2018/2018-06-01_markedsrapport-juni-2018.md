@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2018-06-01_markedsrapport-juni-2018.pdf"
-tables_count: 14
-word_count: 6641
+tables_count: 12
+word_count: 6429
 tags:
   - Offshore
   - OSV
@@ -43,26 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2008.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -543,34 +523,6 @@ Shelf Drilling has raised USD 225 million from an initial public offering (IPO),
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## MAIDEN CONTRACT FOR MIRA
+# MAIDEN CONTRACT FOR MIRA
 
 Northern Drilling has secured its first contract for newbuild harsh environment semisubmersible West Mira, which is due for delivery from the Hyundai Heavy Industries Shipyard in South Korea next year. Northern has been awarded a six-well firm contract for the Mira with Wintershall Norge for the Nova field development in the Norwegian Sea. The charter is scheduled to start in March 2020, however there are options for an earlier commencement, potentially as soon as the third quarter of 2019, and further options after the firm period which could last until the first quarter of 2022. The estimated contract value is USD 106 million, and Seadrill will operate the rig on behalf of Northern Drilling.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**The answer to last month's teaser :-**
-
-Pair the words below to give three longer words. What are they?
-
-PRINT ART OUT REST DOOR FOOT
-
-The correct answer was :- OUTDOOR, RESTART & FOOTPRINT
-
-### This month, our poser is as follows:
-
-What is the longest word that you can make moving from square to touching square? (Hint: it has 15 letters!)
-
-|   | E | S | O |
-| - | - | - | - |
-| C | T | P | R |
-| I | E | E | T |
-| V | R | L | Y |
-
-Answers back to chartering@seabrokers.co.uk.

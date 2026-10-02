@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-02-01_markedsrapport-februar-2021.pdf"
-tables_count: 12
-word_count: 6853
+tables_count: 11
+word_count: 6662
 tags:
   - Offshore
   - OSV
@@ -43,10 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
 
 # OSV MARKET ROUND-UP
 
@@ -519,34 +515,6 @@ The China State Shipbuilding Corporation (CSSC) is looking to sell four drillshi
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE            | USD 165,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP        | USD 190,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **RIG RESTRUCTURINGS CONTINUE**
+# **RIG RESTRUCTURINGS CONTINUE**
 
 In last month's edition of *Seabreeze*, we noted how three major drilling contractors - Borr Drilling, Diamond Offshore and Pacific Drilling - had all made significant progress with their restructuring efforts. This month, Seadrill has unfortunately been forced to file for Chapter 11 proceedings for the second time in less than four years. Seadrill has approximately USD 650 million in cash and does not require debtor-in-possession financing, however the balance sheet restructuring will lead to significant equitisation of debt which is likely to result in minimal or no recovery for current shareholders. Two more rig owners are further along this path than Seadrill as well now, with Noble Holding Corporation successfully emerging from its Chapter 11 proceedings in early February, while Valaris has entered into a second amended restructuring agreement for the equitisation of USD 7 billion (99%) of its prepetition debt.
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-In their gardens, Leona sees a blackbird, Paul sees a sparrow, Abdul sees a magpie and Olga sees a robin.
-
-Does Heather see a thrush or a finch?
-
-The answer was :- Thrush (the first letter of each name matches the second letter of the bird).
-
-**This month, our poser is:**
-
-A clock was correct at midnight. From that time, it began to lose one minute per hour. The clock stopped 90 minutes ago while showing 16:43.
-
-What is the correct time now? (Note: the clock runs for less than 24 hours).
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| SEABROKERS GROUP CONTACTS                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

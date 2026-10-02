@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-03-01_markedsrapport-mars-2020.pdf"
-tables_count: 17
-word_count: 6754
+tables_count: 14
+word_count: 6540
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -563,38 +550,8 @@ Dolphin Drilling has picked up a contract with i3 Energy to provide either the B
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## ALLSEAS ACQUIRES DRILLSHIP
+# ALLSEAS ACQUIRES DRILLSHIP
 
 Allseas has acquired the ultra-deepwater drillship Vitoria 10000. The 2010-built rig will be converted by Allseas into a polymetallic nodule collection vessel. The Vitoria 10000, originally built to the Samsung 10000 design, has a length of 228m, breadth of 42m and an accommodation capacity for 200 persons.
 
 In partnership with DeepGreen Metals Inc, Allseas is developing a deep-sea mineral collection system to recover polymetallic nodules from the ocean floor and then transfer them to the surface for transportation to shore. The nodules contain high grades of nickel, manganese, copper and cobalt - key metals required for electric vehicle batteries and renewable energy technologies. The vessel is expected to be ready for pilot tests by mid-2021.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** A knight is placed on the the centre square of this chessboard. Move the night to each square once only, collecting letters to spell out four nations that have played at the football World Cup. What are the nations?
-
-| A | R | R | A | R |
-| - | ------------------------- | ------------------------- | --------------- | ------------------------- | ------------------------- |
-
-The answer was :- Brazil, France, Russia and Greece.
-
-### This month, our poser is as follows:
-
-What numbers should replace the question marks?
-
-- 14 70 19
-- 23 92 27
-- 19 57 22
-- 48 ?? ??
-
-**Answers back to chartering@seabrokers.co.uk.**

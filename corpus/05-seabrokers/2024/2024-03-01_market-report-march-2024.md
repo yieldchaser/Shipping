@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2024-03-01_market-report-march-2024.pdf"
 tables_count: 16
-word_count: 7966
+word_count: 7800
 tags:
   - Offshore
   - OSV
@@ -650,42 +650,6 @@ Foresea was established in June 2023 when Brazilian oilfield services provider O
 
 March 2024
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-**Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-**Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-**Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-**Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-**Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-**Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
-## Sea Surveillance
-**SEA SOFTWARE & HI-END SOLUTIONS SURVEILLANCE**
-**Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # Petroserv recapitalised via PS Marine Holding transaction
 
 Petroserv Marine, Inc. and PS Marine Holding Ltd (an SPV formed by a consortium of financial investors) have entered into an agreement whereby PS Marine will acquire substantially all of Petroserv’s assets via a share purchase of Petroserv’s direct subsidiary, Universal Energy Resources, Inc. The transaction is expected to close during the second quarter of 2024.
@@ -693,13 +657,3 @@ Petroserv Marine, Inc. and PS Marine Holding Ltd (an SPV formed by a consortium 
 The sale of Petroserv to PS Marine will result in “a recapitalized industry-leading Brazilian offshore drilling company backed by new shareholders. The company will continue providing its customers with uninterrupted excellent performance by operating its fleet with its existing management team and employees.”
 
 Founded in 1972, Petroserv currently owns and operates a fleet of one semisubmersible (SSV Victoria) and one drillship (Carolina); the company also manages the operations of one further semisubmersible (SSV Catarina) and one further drillship (Zonda). Both the Carolina and SSV Victoria are already engaged on long-term charters with Petrobras, while the newbuild drillship Zonda is scheduled to commence a three-year contract with Petrobras before the end of the year. Petroserv does not currently have a firm commitment in place for the SSV Catarina although sources indicate a contract may be pending for operations in Southeast Asia.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

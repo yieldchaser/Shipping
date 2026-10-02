@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-07-01_market-report-july-2023.pdf"
-tables_count: 11
-word_count: 6466
+tables_count: 8
+word_count: 6237
 tags:
   - Offshore
   - OSV
@@ -43,14 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-|   | SHIPBROKING      | REAL ESTATE         |
-| - | ---------------- | ------------------- |
-|   | SECURALIFT       | FACILITY MANAGEMENT |
-|   | SEA SURVEILLANCE | FOUNDATIONS         |
-|   | YACHTING         | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -490,41 +482,10 @@ Following on from the issue of two Letters of Intent in late March, Equinor has 
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## US & OZ CONTRACTS FOR VALARIS
+# US & OZ CONTRACTS FOR VALARIS
 
 Valaris Limited has announced the receipt of several new contracts in the US Gulf and Australia that have added approximately USD 150 million to the company's contract backlog.
 
 In the US Gulf, Anadarko has taken the Valaris DPS-5 semisubmersible on hire for a two-well charter with a minimum duration of 60 days. Following this fixture, the Valaris DPS-5 will then proceed to a newly awarded nine-well plug & abandonment contract with Apache, starting in September, with a minimum duration of 110 days.
 
 Harsh environment jackup Valaris 247 will be relocated from the UK to Australia to fulfil a 100-day contract with Inpex from early to mid-2024. Meanwhile, the Valaris 107 jackup was awarded a 180-day Australia contract with an undisclosed charterer from the first quarter of 2024, which will be followed by a one-year plug & abandonment contract with ExxonMobil from October 2024.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: <chartering@seabrokers.co.uk>
-
-| ORGANIZATION                                 | LOCATION                               | Telephone                                  | E-mail                                          |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** Which of the following words does not belong?
-
-GODDESS EVENT FODDER
-PARADISE REVENGE TODDLER
-
-The answer was :- PARADISE (the other words all contain either the word ODD or the word EVEN).
-
-**This month, our poser is:** Find the missing letter in the table below:
-
-|  | E | T | T |
-| :--- | :--- | :--- | :--- |
-| R | E | T | T |
-| E | L | G | N |
-| I | S | S | I |
-| M | E | H | T |
-| D | N | I | * |
-
-**Answers back to <chartering@seabrokers.co.uk>.</chartering>**

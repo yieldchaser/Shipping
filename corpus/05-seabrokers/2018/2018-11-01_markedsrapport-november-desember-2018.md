@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 20
 source_file: "corpus/05-seabrokers/pdfs/2018-11-01_markedsrapport-november-desember-2018.pdf"
-tables_count: 13
-word_count: 8521
+tables_count: 12
+word_count: 8129
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍💼 | FOUNDATIONS         |
-| 🚢    | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -625,31 +612,3 @@ In other recent developments, Maersk Drilling has agreed to sell jackup rig Maer
 | GLOBAL ULTRA-DEEPWATER DRILLSHIPS | 150,000 | 198,000 |  |  |  |
 
 Source: IHS-Petrodata
-
-# CONUNDRUM CORNER, DUTY PHONES
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** You are standing before two doors. One leads to heaven and the other leads to hell. There are two guardians, one by each door. Heaven's guardian always tells the truth but Hell's always lies.
-
-You can only ask one guardian one question to find the way to Heaven. What is the question?
-
-The correct answer was :- "If I ask the other guard which door leads to Heaven, which door would he point to?" When the guard points to one door, you need to walk through the other door instead. (The honest guard would point to the door to Hell because the honest guard would know that the liar would not point to the door to Heaven. The lying guard would also point to the door to Hell because the lying guard would know that the honest guard would point to Heaven, and would therefore lie about it and point to the Hell door anyway).
-
-### This month, our poser is as follows:
-
-- Calculate the numbers below in the order shown; do not change the order of the numbers.
-- Replace each question mark with a mathematical sign. Plus, minus, multiply and divide can each be used only once.
-- What are the highest and lowest numbers you can possibly score?
-
-7 ? 4 ? 9 ? 3 ? 8 =
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>
-
-## SEASON'S GREETINGS
-
-From everyone at Seabrokers, we would like to express our gratitude for your continued support throughout 2018. We wish our readers all the very best for 2019, and we look forward to working with you all on the challenges that lie ahead next year and beyond.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk

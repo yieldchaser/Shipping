@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2024-09-01_market-report-september-2024.pdf"
 tables_count: 12
-word_count: 7762
+word_count: 7594
 tags:
   - Offshore
   - OSV
@@ -622,48 +622,6 @@ Deepwater Atlas (c/o Transocean)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
-## Sea Surveillance
-
-## **Sea Surveillance**
-(+47) 51 80 00 00 | sales@seasurveillance.com
-
 # Noble Corporation closes Diamond acquisition
 
 Noble Corporation has formally completed its acquisition of Diamond Offshore, enhancing the company's position as a leading offshore driller and creating the largest fleet of seventh-generation dual-BOP drillships in the industry. The transaction is also contributing an additional USD 2 billion of contract backlog for Noble.
@@ -673,13 +631,3 @@ The combined fleet following the completion of this transaction consists of 41 r
 Diamond Offshore shareholders received 0.2316 Noble shares plus USD 5.65 in cash for each Diamond share that they held (representing USD 600 million total paid to Diamond shareholders on a fully-diluted basis). The former Diamond shareholders own approximately 14.5% of Noble's outstanding shares.
 
 Further to that announcement, Noble has also confirmed that ExxonMobil has utilised its Commercial Enabling Agreement with Noble for four of the company's drillships to add 4.8 years of additional contract backlog in Guyana. This means that 14 additional months have been added to ExxonMobil's contracts with each of the Noble Bob Douglas, Noble Don Taylor, Noble Sam Croft and Noble Tom Madden. All four rigs are now firmly committed offshore Guyana until August 2028.
-
-# Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-# The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

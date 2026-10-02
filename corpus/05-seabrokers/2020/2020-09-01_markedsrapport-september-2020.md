@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-09-01_markedsrapport-september-2020.pdf"
 tables_count: 17
-word_count: 7002
+word_count: 6890
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| ⛵     | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -525,39 +512,20 @@ Shelf Drilling has terminated the bareboat agreements it had entered into with t
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## CLIMATE TARGET FOR MAERSK
+# CLIMATE TARGET FOR MAERSK
 
 Maersk Drilling has set itself an ambitious climate target of lowering the CO2 emissions from the company's drilling operations by at least 50% by 2030. The company has estimated that half of this target can be achieved by further efficiency gains alongside known technical solutions and concepts, while the other half of the target will be facilitated by investments in innovation in this space. The 50% target will be measured as tonnes of CO2 emissions relative to three parameters: contracted days, drilled metres, and revenue, with 2019 being the baseline year for comparison.
 
-## CONUNDRUM CORNER
+### Forusbeen 78 - 4033 Stavanger - Norway
 
-**Last month's answer :-**
-
-2 ice lollies and 2 choc ices = £2.90
-2 cornettos, 1 choc ice and 1 ice lolly = £3.45
-1 ice lolly and 1 cornetto = £1.60
-
-How much does a choc ice cost?
-
-The answer was :- 85p
-
-### This month, our poser is as follows:
-
-In a row of 7 houses, each house has a different coloured front door.
-
-- The grey door is between the white door and the red door.
-- There are two houses between the blue door and the white door.
-- The brown door is the last in the row.
-- The black door is next to the blue door.
-- The house between the black door and the white door has a green front door.
-- The first house does not have a red front door.
-
-What is the order of the front doors?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
+| SEABROKERS HEAD OFFICE | Internet: www\.seabrokers-group.com |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| SEABROKERS CHARTERING AS - STAVANGER     | Duty Telephone ++47 51 815400 (24 Hrs)<br/>E-mail chartering\@seabrokers.no                                       |
+| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129<br/>E-Mail chartering\@seabrokers.co.uk |
+| SEABROKERS BRAZIL LTDA - RIO DE JANEIRO  | Duty Telephone ++55 21 3505 4200 (24 Hrs)<br/>E-mail chartering\@seabrokers.com.br                                |
+| SECURALIFT AS - STAVANGER                | Telephone ++47 51 800000<br/>E-mail stig\@seabrokers.no                                                           |
+| SEA SURVEILLANCE AS - BERGEN             | Telephone ++47 55 136500<br/>E-mail info\@seasurv.net                                                             |
+| SEABROKERS EIENDOM AS - STAVANGER        | Telephone ++47 51 800000<br/>E-mail rolf.aarthun\@seabrokers.no                                                   |
+| SEABROKERS SERVICES AS - STAVANGER       | Telephone ++47 51 800000<br/>E-mail lars.hagen\@seabrokers.no                                                     |
+| SEABROKERS FUNDAMENTERING AS - STAVANGER | Telephone ++47 51 800000<br/>E-mail fundamenttering\@seabrokers.no                                                |
+| SEABROKERS HAVNEKРАНER AS - STAVANGER    | Telephone ++47 51 800000<br/>E-mail havnekraner\@seabrokers.no                                                    |

@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 3
 source_file: "corpus/05-seabrokers/pdfs/2025-12-01_market-report-december-2025.pdf"
 tables_count: 7
-word_count: 1034
+word_count: 918
 tags:
   - Offshore
   - OSV
@@ -110,28 +110,3 @@ tags:
 | LARGE PSV (>900m²)       | 70%      | 77%      | 61%      | 86%      | 83%      | 54%      |
 | MED AHTS (<22,000 bhp)   | 54%      | 50%      | 34%      | 50%      | 41%      | 23%      |
 | LARGE AHTS (>22,000 bhp) | 72%      | 78%      | 56%      | 58%      | 50%      | 37%      |
-
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Ltd – Aberdeen
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## Seabrokers Chartering – Stavanger
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## Seabrokers Brazil Ltda – Rio De Janeiro
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## Skagen Ship Consulting
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-# For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-# The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

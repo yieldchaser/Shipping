@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-10-01_markedsrapport-october-2022.pdf"
-tables_count: 11
-word_count: 6501
+tables_count: 9
+word_count: 6282
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔗    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -485,40 +472,8 @@ Borr Drilling's joint venture in Mexico, Perfomex, has been awarded three-year c
 
 *Source: Westwood Global RigLogix*
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **NOBLE-MAERSK DEAL DONE**
+# **NOBLE-MAERSK DEAL DONE**
 
 Noble Corporation has confirmed that its business combination with Maersk Drilling has been successfully completed, and the two companies are now operating as a single entity.
 
 In relation to this transaction, Noble Corporation has also completed the sale of five jackups to Shelf Drilling for a total consideration of USD 375 million. Following the initial news of the merger, the Competition and Markets Authority in the United Kingdom had raised concerns that it would leave insufficient competition for jackup contracts in the North Sea. To alleviate those concerns and enable the merger to proceed, Noble entered into an agreement to sell the Noble Hans Deul, Noble Houston Colbert, Noble Lloyd Noble, Noble Sam Hartley and Noble Sam Turner to Shelf Drilling. That sale has now been completed, with the rigs to be renamed as the Shelf Drilling Perseverance, Shelf Drilling Barsk, Shelf Drilling Odyssey, Shelf Drilling Fortress and Shelf Drilling Winner.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-I am an 8-letter word.
-I am kept secret from everyone.
-My 2nd, 3rd and 4th letter spell an animal.
-My 4th, 5th, 6th, 7th and 8th letter is a weapon.
-My 1st, 2nd and 8th letter is used in a classroom.
-My 3rd and 4th letters are the same.
-
-What am I?
-
-The answer was :- PASSWORD
-
-**This month, our poser is:**
-
-What word is pronounced the same even if you take away four of its five letters?
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                    |                                                                                                           |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Company                                      | Contact Details                                                                                           |
-| **

@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 20
 source_file: "corpus/05-seabrokers/pdfs/2021-11-01_markedsrapport-november-desember-2021.pdf"
-tables_count: 14
-word_count: 8076
+tables_count: 12
+word_count: 7833
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -598,26 +585,10 @@ In the floating rig market, Odfjell has been busy finalising contract extensions
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 180,000 |  |  |  |  |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 200,000 |  |  |  |  |
 
-# SEABROKERS CONTACTS, DUTY PHONES
-
-## A FOND FAREWELL
+# A FOND FAREWELL
 
 We have seen the retirement of two long-time offshore marine stalwarts in recent weeks. The first is Brian Bruce from TAQA. Brian's career started back in the late 1970s at Wood Group before taking him through various roles, including a stint in Qatar, with his final employment at TAQA coming to an end recently. Brian had been with TAQA since 2008, when he transferred from Shell after TAQA aquired multiple Shell assets.
 
 Another legend to have retired this year is Loek Sakkers from Peterson. Loek was instrumental in the establishment of the Southern North Sea Pool in the 1990s that now operates out of Den Helder in the Netherlands. This pioneered the concept of operators sharing vessels to make logistical operations more cost effective and efficient. Loek then went to to set up a Central and Northern North Sea Pool in Aberdeen, before enjoying spells in various other countries, most latterly in Qatar.
 
 We wish both Brian and Loek a happy retirement while they enjoy the fruits of their labours.
-
-## CHRISTMAS DONATIONS
-
-Seabrokers have decided to make donations to two charities this Christmas: SOS Children's Villages (www.sos-childrensvillages.org) and Crisis at Christmas (www.crisis.org.uk). SOS Children's Villages is the world's largest non-governmental organisation that focuses on supporting children without parental care and families at risk. Crisis at Christmas is a charity that helps support homeless people during the Christmas period, but their support continues long after Christmas as they try to help individuals achieve their first steps out of homelessness. We are proud to donate to two exceptionally worthwhile charities.
-
-From all at Seabrokers, we would like to express our gratitude for your support in 2021. We wish you all a Merry Christmas and a Happy New Year!
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: <chartering@seabrokers.co.uk>
-
-| ORGANIZATION                                 | Telephone                                                                                                 | E-mail                                   |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **

@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-01-01_markedsrapport-januar-2020.pdf"
-tables_count: 15
-word_count: 7051
+tables_count: 12
+word_count: 6811
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| ⛵     | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -544,36 +531,8 @@ Saudi Aramco has dished out a raft of contract extensions to several jackups. Sh
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## JACKUPS CHANGING HANDS
+# JACKUPS CHANGING HANDS
 
 Shelf Drilling has bought the Maersk Completer from Maersk Drilling, and renamed the jackup as the Shelf Drilling Enterprise. The 2007-built rig, of the Baker Marine Pacific Class 375 design, was bought for USD 38 million. Shelf has already got a contract lined up, with the Enterprise to be chartered by Chevron in the Gulf of Thailand from August 2020 until April 2022. The contract value for the firm period, including mobilisation, is USD 59 million. Shelf Drilling has estimated that the all-in cost of adding the jackup to its fleet, including the purchase price, reactivation and contract-specific upgrades, will be USD 81 million.
 
 Another jackup rig that has changed hands is the 2013-built Dynamic Vision. The rig was acquired by Foresight Drilling from the creditors of previous owner Dynamic Drilling for USD 56 million.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS |
-| :--- |
-| 
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** Use the letters given to complete the square, so 3 other words can be read downwards and across.
-
-A A B E E F O O R
-
-| C | O | S | Y |
-| - | - | - | - |
-| O |   |   |   |
-| S |   |   |   |
-| Y |   |   |   |
-
-The correct answer was :- OBOE, SOFA & YEAR.
-
-**This month, our poser is as follows:** An aeroplane covers its outward journey at 600 mph. It returns, over exactly the same distance, at 400 mph. What is the average speed of the aeroplane over the entire journey?
-
-Answers back to <u>chartering@seabrokers.co.uk</u>.

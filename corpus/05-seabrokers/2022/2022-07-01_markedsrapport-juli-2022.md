@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-07-01_markedsrapport-juli-2022.pdf"
-tables_count: 15
-word_count: 6468
+tables_count: 13
+word_count: 6225
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -487,43 +474,6 @@ Transocean has added USD 650 million of new contract backlog over the last three
 | SOUTH AMERICA | 82.9%    | 73.9%    | 83.5%    | 65.9%    | 62.8%    |
 | US GULF       | 60.5%    | 47.7%    | 36.1%    | 52.3%    | 46.9%    |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **VALARIS REACTIVATING DRILLSHIP**
+# **VALARIS REACTIVATING DRILLSHIP**
 
 Valaris will reactive its Valaris DS-17 drillship from long-term layup in the Canary Islands for a 540-day charter with Equinor offshore Brazil. Equinor has awarded the contract on behalf of its partners in the Bacalhou licence. The 2014-built rig will go on hire in mid-2023 and will be tasked to drill one appraisal well, to plug an exploration well and to conduct an additional drilling scope offshore Brazil. This new contract carries a total value of approximately USD 327 million for Valaris, including an upfront payment of USD 86 million for mobilisation costs and a contribution towards reactivation costs and capital upgrades.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| COMPANY                                      | LOCATION                               | Telephone                                  | E-mail                                          |
-| -------------------------------------------- | -------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-It is a nine-letter word: 123456789
-
-If you lose it you die
-If you have 234, you can 1234
-56 is one type of disease
-2 & 7 are the same letter
-3 & 8 are the same letter
-5 & 9 are the same letter
-
-What is the word?
-
-The answer was :- HEARTBEAT
-
-**This month, our poser is:**
-
-Three brothers - John Smith, Mark Smith and Paul Smith - are all suspected of murder.
-
-One day, the detective receives an anonymous note saying "? Smith. HE is the murderer."
-
-Which one of the three Smith brothers should the police arrest?
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>

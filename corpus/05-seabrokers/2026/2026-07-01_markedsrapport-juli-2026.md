@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-07-01_markedsrapport-juli-2026.pdf"
 tables_count: 12
-word_count: 7834
+word_count: 7679
 tags:
   - Offshore
   - OSV
@@ -585,43 +585,6 @@ ADES has secured new contracts for two of its jackup rigs in the North Sea and W
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## **
-
-## 
-
-## **
-
 # CHEVRON CHARTERS VELESTO JACKUP FOR MALAYSIA
 
 Velesto Drilling has been awarded a contract by Hess Exploration and Production B.V., a wholly-owned subsidiary of Chevron, for the provision of integrated Rig, Drilling and Completion (i-RDC) services for Chevron Malaysia's 2026-2028 North Malay Basin full field development campaign.
@@ -631,13 +594,3 @@ The contract, valued at approximately USD 51 million, will see Velesto jackup NA
 This represents the second i-RDC contract award that Velesto has secured to support the North Malay Basin development programme.
 
 In another recent development, Velesto has terminated the Sale and Purchase Agreement it had entered into with PT Indonesia Drilling Energy for the divestment of its NAGA 3 jackup rig. This formal termination was issued to PT Indonesia in July following a notice that had been circulated in late June, citing a failure to complete the transaction by the agreed deadline. The NAGA 3 remains available for charter in Southeast Asia.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

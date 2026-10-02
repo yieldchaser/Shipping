@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2020-08-01_markedsrapport-august-2020.pdf"
 tables_count: 13
-word_count: 6714
+word_count: 6715
 tags:
   - Offshore
   - OSV
@@ -43,10 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-**Seabrokers Group Services:** Shipbroking | Real Estate | Securalift | Facility Management | Sea Surveillance | Foundations | Yachting | Harbour Cranes
 
 # OSV MARKET ROUND-UP
 
@@ -536,44 +532,23 @@ The North Oil Company in Qatar has extended its contracts with two Japan Drillin
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## CHAPTER 11 FOR VALARIS
+# CHAPTER 11 FOR VALARIS
 
 Following the lead of Diamond Offshore in April and Noble Corporation in July, Valaris has now become the latest major drilling contractor to file for Chapter 11 bankruptcy protection.
 
 Valaris has entered into a binding Restructuring Support Agreement and Backstop Commitment Agreement with around 50% of its note holders with the intention of substantially reducing the company's debt load while providing a robust financial platform to take advantage of a longer term market recovery. The agreement would see the company's debt load reduced by more than USD 6.5 billion, with USD 500 million provided via debtor-in-possession (DIP) financing to support operations throughout the Chapter 11 process.
 
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-A train timetable is listed below. What time should the Penzance train depart?
-
-Glasgow 07:12
-Reading 18:05
-Norwich 14:15
-Sheffield 19:08
-Penzance ?
-
-The answer was :- 16:05 (the alphabetical value of the first letter gives the hour; the value of the second letter gives the minutes).
-
-**This month, our poser is as follows:**
-
-2 ice lollies and 2 choc ices = £2.90
-2 cornettos, 1 choc ice and 1 ice lolly = £3.45
-1 ice lolly and 1 cornetto = £1.60
-
-How much does a choc ice cost?
-
-<u>Answers back to chartering@seabrokers.co.uk.</u>
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
 ### SEABROKERS GROUP CONTACTS
 
 | Entity | Location | Telephone | E-mail |
 | -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ |
-| **
+| **SEABROKERS HEAD OFFICE**                   | Forusbeen 78 - 4033 Stavanger - Norway | Tel: (+47) 51 80 00 00                                                    | Internet: www\.seabrokers-group.com  |
+| **SEABROKERS CHARTERING AS - STAVANGER**     |                                        | Duty Telephone ++47 51 815400 (24 Hrs)                                    | E-mail chartering\@seabrokers.no     |
+| **SEABROKERS LTD - ABERDEEN**                |                                        | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129 | E-Mail chartering\@seabrokers.co.uk  |
+| **SEABROKERS BRAZIL LTDA - RIO DE JANEIRO**  |                                        | Duty Telephone ++55 21 3505 4200 (24 Hrs)                                 | E-mail chartering\@seabrokers.com.br |
+| **SECURALIFT AS - STAVANGER**                |                                        | Telephone ++47 51 800000                                                  | E-mail stig\@seabrokers.no           |
+| **SEA SURVEILLANCE AS - BERGEN**             |                                        | Telephone ++47 55 136500                                                  | E-mail info\@seasurv.net             |
+| **SEABROKERS EIENDOM AS - STAVANGER**        |                                        | Telephone ++47 51 800000                                                  | E-mail rolf.aarthun\@seabrokers.no   |
+| **SEABROKERS SERVICES AS - STAVANGER**       |                                        | Telephone ++47 51 800000                                                  | E-mail lars.hagen\@seabrokers.no     |
+| **SEABROKERS FUNDAMENTERING AS - STAVANGER** |                                        | Telephone ++47 51 800000                                                  | E-mail fundamentering\@seabrokers.no |
+| **SEABROKERS HAVNEKRANER AS - STAVANGER**    |                                        | Telephone ++47 51 800000                                                  | E-mail havnekraner\@seabrokers.no    |

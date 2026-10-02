@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-01-01_markedsrapport-januar-2019.pdf"
-tables_count: 16
-word_count: 6711
+tables_count: 15
+word_count: 6488
 tags:
   - Offshore
   - OSV
@@ -43,27 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -570,32 +549,8 @@ South Korean shipbuilder Daewoo Shipbuilding & Marine Engineering has resolved a
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **USD 830 MILLION RIG CONTRACT**
+# **USD 830 MILLION RIG CONTRACT**
 
 Transocean Ltd has signed a rig design and construction management contract, as well as a five-year drilling contract, with Chevron USA, Inc for one of its two ultra-deepwater drillships that are currently under construction at the Jurong Shipyard in Singapore.
 
 The rig will be the first ultra-deepwater floater rated for 20,000 psi operations, resulting in a contract value that is much higher than recent market benchmarks. The contract comes with an estimated backlog for Transocean of USD 830 million, excluding mobilisation and reimbursables. This would equate to a day rate of circa USD 455,000. The newbuild drillship is scheduled to commence operations for Chevron in the US Gulf of Mexico in the second half of 2021.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-A fire engine travels six miles to an out of control bonfire. It travels at a speed of 32 mph. The fire engine's water tank holds 500 gallons but has been leaking through the journey at a rate of 20 gallons per hour.
-
-If the fire engine needs 496 gallons of water to put out the fire, will it have enough, and if so, how much water will it have to spare?
-
-The correct answer was :- 0.25 gallons spare
-
-**This month, our poser is as follows:**
-
-Rita has worked as a nurse, a guide, a tutor and a coach.
-
-Who has worked as a comic, a guard, a carer and a baker?
-
-Answers back to chartering@seabrokers.co.uk.

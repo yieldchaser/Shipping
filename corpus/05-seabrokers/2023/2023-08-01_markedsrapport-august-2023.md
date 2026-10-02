@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-08-01_markedsrapport-august-2023.pdf"
-tables_count: 12
-word_count: 6787
+tables_count: 9
+word_count: 6533
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔗    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| 🚤    | YACHTING            |
-| 🚜    | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -498,40 +485,8 @@ While Valaris is exercising its purchase options for two newbuild drillships in 
 | SOUTH AMERICA | 78.8%    | 72.9%    | 73.8%    | 55.2%    | 53.1%    |
 | US GULF       | 60.3%    | 56.6%    | 44.1%    | 38.8%    | 51.7%    |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## ROYAL DEESIDE MILITARY GOLF
+# ROYAL DEESIDE MILITARY GOLF
 
 The Seabrokers Group was proud to support the Royal Deeside Military Golf Challenge in August. This year's event supported the Rock2Recovery charity, which was started by a Royal Marine veteran who realised there were many veterans in society who were in need of help but didn't ask for that help. Rock2Recovery proactively seeks out distressed veterans as well as any family members who may be affected.
 
 The charity offers one-to-one coaching sessions related to stress/PTSD within the Armed Forces and veteran communities, with that assistance also provided for members of the Police, Ambulance Service or Fire Brigade. The Rock2Recovery charity is supported by other military charities including the Royal British Legion, Royal Marines Charity and the Veterans' Foundation. Seabrokers had a great day supporting such a great cause.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Find the missing letter in the table below:
-
-|  | E | T | T |
-| :--- | :--- | :--- | :--- |
-| R | E | T | T |
-| E | L | G | N |
-| I | S | S | I |
-| M | E | H | T |
-| D | N | I | * |
-
-The answer was :- F (if you read from the bottom right letter in a backwards direction it spells out FIND THE MISSING LETTER).
-
-## This month, our poser is:
-
-When spelt out in words in English, what number from 1 to 100 would come last if they were put into alphabetical order?
-
-**Answers back to chartering@seabrokers.co.uk.**

@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-09-01_markedsrapport-september-2019.pdf"
-tables_count: 15
-word_count: 6940
+tables_count: 14
+word_count: 6770
 tags:
   - Offshore
   - OSV
@@ -43,26 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon  | Service             |
-| ----- | ------------------- |
-| 🚢    | SHIPBROKING         |
-| 🏢    | REAL ESTATE         |
-| 🔧    | SECURALIFT          |
-| 👥    | FACILITY MANAGEMENT |
-| 📡    | SEA SURVEILLANCE    |
-| 🧑‍🔧 | FOUNDATIONS         |
-| ⛵     | YACHTING            |
-| 🚚    | HARBOUR CRANES      |
-
-**OUR OFFICES:**
-**STAVANGER**
-**ABERDEEN**
-**BERGEN**
-**RIO DE JANEIRO**
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -557,52 +537,20 @@ Seadrill has secured a new one-year contract for drillship West Neptune with LLO
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **PROUD TO SUPPORT MEN'S SHED**
+# **PROUD TO SUPPORT MEN'S SHED**
 
 At Seabrokers, we take our social responsibility seriously. Earlier this year we gave a donation to the Stonehaven Men's Shed in Scotland. The Men's Shed Association is a global organisation that was started in Australia in the 1990s. The aim is to get "mature" gentlemen together to socialise, improve health and learn new life skills. It took the group of men since 2016 to take the project from a dream to reality. A recent study showed that an area in England with a Men's Shed organisation had a 17% reduction in Accident & Emergency visits from this age group where other areas without a Shed had an increase. Seabrokers are proud to have been able to help in a small way such an important and successful charitable organisation.
 
-## CONUNDRUM CORNER
+### Forusbeen 78 - 4033 Stavanger - Norway
 
-**Last month's answer :-**
-
-Take one letter from each sector to give a type of cheese. Take a further letter from each sector to give a type of soup. The remaining three letters will give a dessert. What are the three words?
-
-| Sector | Letter |
-| ------ | ------ |
-| 1      | U      |
-| 2      | O      |
-| 3      | T      |
-| 4      | G      |
-| 5      | M      |
-| 6      | I      |
-| 7      | H      |
-| 8      | S      |
-| 9      | H      |
-| 10     | C      |
-| 11     | O      |
-| 12     | M      |
-| 13     | A      |
-| 14     | Z      |
-| 15     | L      |
-| 16     | P      |
-| 17     | R      |
-| 18     | L      |
-| 19     | A      |
-| 20     | I      |
-| 21     | A      |
-
-The correct answer was :- Halloumi, Gazpacho and Tiramisu.
-
-## This month, our poser is as follows:
-
-In a Rugby World Cup sweepstake, Sam got Australia, Andrew got France and Peter got Japan.
-
-Did Lee get Italy or Wales?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
+| SEABROKERS HEAD OFFICE | Internet: www\.seabrokers-group.com |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| SEABROKERS CHARTERING AS - STAVANGER     | Duty Telephone ++47 51 815400 (24 Hrs)<br/>E-mail chartering\@seabrokers.no                                       |
+| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129<br/>E-Mail chartering\@seabrokers.co.uk |
+| SEABROKERS BRAZIL LTDA - RIO DE JANEIRO  | Duty Telephone ++55 21 3505 4200 (24 Hrs)<br/>E-mail chartering\@seabrokers.com.br                                |
+| SECURALIFT AS - STAVANGER                | Telephone ++47 51 800000<br/>E-mail stig\@seabrokers.no                                                           |
+| SEA SURVEILLANCE AS - BERGEN             | Telephone ++47 55 136500<br/>E-mail info\@seasurv.net                                                             |
+| SEABROKERS EIENDOM AS - STAVANGER        | Telephone ++47 51 800000<br/>E-mail rolf.aarthun\@seabrokers.no                                                   |
+| SEABROKERS SERVICES AS - STAVANGER       | Telephone ++47 51 800000<br/>E-mail lars.hagen\@seabrokers.no                                                     |
+| SEABROKERS FUNDAMENTERING AS - STAVANGER | Telephone ++47 51 800000<br/>E-mail fundamentering\@seabrokers.no                                                 |
+| SEABROKERS HAVNEKRANER AS - STAVANGER    | Telephone ++47 51 800000<br/>E-mail havnekraner\@seabrokers.no                                                    |

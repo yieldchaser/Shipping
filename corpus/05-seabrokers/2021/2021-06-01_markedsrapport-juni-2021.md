@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2021-06-01_markedsrapport-juni-2021.pdf"
-tables_count: 14
-word_count: 6871
+tables_count: 12
+word_count: 6647
 tags:
   - Offshore
   - OSV
@@ -43,27 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
-
-**OUR OFFICES:**
-
-**STAVANGER**  
-**ABERDEEN**  
-**BERGEN**  
-**RIO DE JANEIRO**  
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -540,38 +519,8 @@ Saipem has signed a contract with Samsung Heavy Industries in South Korea to tak
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 165,000 |  |  |  |  |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 190,000 |  |  |  |  |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## SEADRILL SALES CONTINUE
+# SEADRILL SALES CONTINUE
 
 Following Seadrill's progression into Chapter 11 bankruptcy protection earlier this year, several of the rig owner's assets have been sold. As part of the restructuring process, five cold-stacked floating rigs were sold to ROTA Shipping for recycling. Four of these units have been idle in Norway: the 1986-built semi West Alpha (sold for USD 4.1 million), the 2000-built semi West Venture (sold for USD 6.5 million), the 2000-built drillship West Navigator (sold for USD 11.9 million), and the 2011-built semi West Pegasus (sold for USD 7.7 million). The fifth unit is the 2009-built semi West Eminence, which has been stacked in the Canary Islands, which was sold for USD 7.5 million.
 
 On the jackup side, recent sales include the 2008-built West Vigilant to PT Duta Marine for USD 7.3 million, and the 2009-built West Freedom to New Fortress Energy for USD 5 million.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS |
-| :--- |
-| 
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-George, Helen and Steve are drinking coffee. Bert, Karen and Dave are drinking soda. Is Elizabeth drinking coffee or soda?
-
-The answer was :- Coffee (the letter E appears twice in her name, as it does with the names of the others that are drinking coffee).
-
-**This month, our poser is:**
-
-- I am associated with holidays.
-- Change one letter and I am a coating.
-- Add one letter and I am acceptance of truth.
-- Change one letter and I am an edge.
-- Change one final letter and I am a tuft of feathers.
-
-What was I and what did I become?
-
-**Answers back to chartering@seabrokers.co.uk.**

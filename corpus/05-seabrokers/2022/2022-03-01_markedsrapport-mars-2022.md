@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-03-01_markedsrapport-mars-2022.pdf"
-tables_count: 13
-word_count: 6684
+tables_count: 11
+word_count: 6490
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon | Service             |
-| ---- | ------------------- |
-| 🚢   | SHIPBROKING         |
-| 🏢   | REAL ESTATE         |
-| 🔧   | SECURALIFT          |
-| 👥   | FACILITY MANAGEMENT |
-| 📡   | SEA SURVEILLANCE    |
-| 👷   | FOUNDATIONS         |
-| ⛵    | YACHTING            |
-| 🚜   | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -512,34 +499,10 @@ Despite its recent financial problems, it has been business as usual on the char
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 220,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 260,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **NEW FORTRESS BUYS SEVAN RIGS**
+# **NEW FORTRESS BUYS SEVAN RIGS**
 
 New Fortress Energy has reportedly acquired two Seadrill rigs to convert into FLNG units in support of its Fast LNG concept. The cylindrical rigs Sevan Brasil and Sevan Driller are the units in question, with a purchase price of circa USD 22 million each. This is not the first time that New Fortress has acquired drilling rigs for conversion into mobile LNG liquefaction plants. Last year, the company purchased the Maersk Gallant and Maersk Guardian jackups for USD 31 million.
 
 ## **CHARITABLE DONATION**
 
 In light of the ongoing devastation in Ukraine, the Seabrokers Group has decided to make charitable donations in support of those in need. The Kippie Lodge in Aberdeenshire had volunteered itself as a drop-off point for any in-demand items that could then be transported to the Poland-Ukraine border. Seabrokers donated food and blankets in response to the appeal. Our thoughts go out to all those who have been affected by recent events.
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-The number 8,549,176,320 is a unique number. What is so special about it?
-
-The answer was :- When written as words in the English language, the numbers are in alphabetical order.
-
-**This month, our poser is:**
-
-A car covers its outward journey at 66mph. It returns, over exactly the same distance, at 33mph. What is the car's average speed over the entire journey?
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

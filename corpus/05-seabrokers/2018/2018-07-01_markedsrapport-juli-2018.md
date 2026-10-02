@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2018-07-01_markedsrapport-juli-2018.pdf"
-tables_count: 14
-word_count: 6470
+tables_count: 13
+word_count: 6405
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2008.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -513,33 +500,22 @@ ARO Drilling has been awarded new three-year contracts with Saudi Aramco for six
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## 4-PEAK CHALLENGE CHAMPS!
+# 4-PEAK CHALLENGE CHAMPS!
 
 Seabrokers would like to congratulate the "Peaky Climbers" from Aberdeen, who successfully scaled the highest peaks in Scotland (Ben Nevis), England (Scafell Pike), Wales (Snowdon) and Northern Ireland (Slieve Donard) in just four days, one day ahead of schedule! The climbers have already raised more than £5,000 for charity, but any help to boost them towards their £10,000 target would be appreciated. One of the team (John Sim from Peterson) has also promised to shave his hair if they reach the £7k mark... so please get donating!
 
 https://www.gofundme.com/4-peaks-in-5-days
 
-## THE SEABREEZE ARCHIVE
+### Forusbeen 78 - 4033 Stavanger - Norway
 
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-|   | E | S | O |
-| - | - | - | - |
-| C | T | P | R |
-| I | E | E | T |
-| V | R | L | Y |
-
-What is the longest word that you can make moving from square to touching square?
-The correct answer was :- RETROSPECTIVELY
-
-### This month, our poser is as follows:
-
-A man walks west for 4 miles. Then south for 3 miles. Then east for 2 miles. Then north for 1 mile. Then east for 2 miles. In what direction and for how far should he walk to return to his starting point?
-
-Answers back to chartering@seabrokers.co.uk.
+| SEABROKERS HEAD OFFICE | Internet: www\.seabrokers-group.com |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| SEABROKERS CHARTERING AS - STAVANGER     | Duty Telephone ++47 51 815400 (24 Hrs)<br/>E-mail chartering\@seabrokers.no                                       |
+| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129<br/>E-Mail chartering\@seabrokers.co.uk |
+| SEABROKERS BRAZIL LTDA - RIO DE JANEIRO  | Duty Telephone ++55 21 3505 4200 (24 Hrs)<br/>E-mail chartering\@seabrokers.com.br                                |
+| SECURALIFT AS - STAVANGER                | Telephone ++47 51 800000<br/>E-mail stig\@seabrokers.no                                                           |
+| SEA SURVEILLANCE AS - BERGEN             | Telephone ++47 55 136500<br/>E-mail info\@seasurv.net                                                             |
+| SEABROKERS EIENDOM AS - STAVANGER        | Telephone ++47 51 800000<br/>E-mail frode.albretsen\@seabrokers.no                                                |
+| SEABROKERS SERVICES AS - STAVANGER       | Telephone ++47 51 800000<br/>E-mail eli\@seabrokers.no                                                            |
+| SEABROKERS FUNDAMENTERING AS - STAVANGER | Telephone ++47 51 800000<br/>E-mail fundamentering\@seabrokers.no                                                 |
+| SEABROKERS HAVNEKRANER AS - STAVANGER    | Telephone ++47 51 800000<br/>E-mail havnekraner\@seabrokers.no                                                    |

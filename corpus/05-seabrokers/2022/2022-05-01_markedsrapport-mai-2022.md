@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2022-05-01_markedsrapport-mai-2022.pdf"
-tables_count: 11
-word_count: 6766
+tables_count: 9
+word_count: 6570
 tags:
   - Offshore
   - OSV
@@ -43,19 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Service             |
-| ------------------- |
-| SHIPBROKING         |
-| SECURALIFT          |
-| SEA SURVEILLANCE    |
-| YACHTING            |
-| REAL ESTATE         |
-| FACILITY MANAGEMENT |
-| FOUNDATIONS         |
-| HARBOUR CRANES      |
 
 # **OSV MARKET ROUND-UP**
 
@@ -506,32 +493,8 @@ Aquadrill has agreed to sell its 2011-built ultra-deepwater semi Capricorn to Br
 | SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE     | USD 220,000 |
 | SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 260,000 |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## **KEPEL SCOOPS BAREBOAT DEALS**
+# **KEPEL SCOOPS BAREBOAT DEALS**
 
 Keppel Offshore & Marine has secured contracts for four of the jackups that it owns. Two rigs have been bareboat chartered to an undisclosed drilling company in the Middle East for a firm period of three years with a further one-year option; the firm period will commence in the fourth quarter of 2022. The two contracts, including options and modification work, are worth SGD 120 million (USD 87 million) for Keppel. This news followed an earlier announcement that Keppel had secured five-year bareboat contracts for two other jackup rigs with Advanced Energy Services (ADES) in the Middle East. Also commencing in the fourth quarter of 2022, these two rigs will be utilised offshore Saudi Arabia, generating income of SGD 135 million (USD 98 million) for Keppel.
 
 Recent analysis by the Westwood Global Energy Group suggests that Saudi Aramco is planning to increase the size of its jackup fleet to 90 rigs by the end of 2024 (from a starting point of just 52 units last year).
-
-## **THE SEABREEZE ARCHIVE**
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## **CONUNDRUM CORNER**
-
-**Last month's answer :-**
-
-If you have three, you have three. If you have two, you have two. However, if you have one, you have none. What is it?
-
-The answer was :- Options
-
-**This month, our poser is:**
-
-When John was six years old he hammered a nail into his favourite tree to mark his height. Ten years later at age sixteen, John returned to see how much higher the nail was. If the tree grew by five centimetres each year, how much higher would the nail be?
-
-Answers back to chartering@seabrokers.co.uk.
-
-| SEABROKERS GROUP CONTACTS                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **

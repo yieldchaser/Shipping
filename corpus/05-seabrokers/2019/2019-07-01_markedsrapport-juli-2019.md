@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2019-07-01_markedsrapport-juli-2019.pdf"
-tables_count: 16
-word_count: 6624
+tables_count: 15
+word_count: 6441
 tags:
   - Offshore
   - OSV
@@ -41,19 +41,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon | Service             |
-| ---- | ------------------- |
-| 🚢   | SHIPBROKING         |
-| 🏢   | REAL ESTATE         |
-| 🔗   | SECURALIFT          |
-| 👥   | FACILITY MANAGEMENT |
-| 📡   | SEA SURVEILLANCE    |
-| 🧱   | FOUNDATIONS         |
-| ⛵    | YACHTING            |
-| 🚜   | HARBOUR CRANES      |
 
 # OSV MARKET ROUND-UP
 
@@ -464,7 +451,9 @@ Allseas has entered into the Renewables market with the acquisition of Bluerise,
 
 ## **SUBSEA 7 TO INSTALL ARRAY CABLES ON HORNSEA TWO**
 
-Optimus Wind, a subsidiary of the Orsted Group, has awarded Subsea 7 a contract to install the entire inner array grid cable system on the Hornsea Two offshore wind farm. Offshore activity will take place in 2021 on the cable system features, which have a length of over 420km. The wind farm has a capacity of 1,386 MW and consists of 165 wind turbine generators, each with a capacity of 8.4 MW.
+| Company | Description | Details |
+| :--- | :--- | :--- |
+| Orsted | Optimus Wind, a subsidiary of the Orsted Group, has awarded Subsea 7 a contract to install the entire inner array grid cable system on the Hornsea Two offshore wind farm. Offshore activity will take place in 2021 on the cable system | features, which have a length of over 420km. The wind farm has a capacity of 1,386 MW and consists of 165 wind turbine generators, each with a capacity of 8.4 MW. |
 
 ## **FLOATING WIND OFFSHORE SOUTH KOREA**
 
@@ -548,34 +537,10 @@ Odfjell Drilling will be sending its semisubmersible rig Deepsea Stavanger back 
 
 Source: IHS-Petrodata
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## PETROBRAS DISHES OUT RIG DEALS
+# PETROBRAS DISHES OUT RIG DEALS
 
 Petrobras has been dishing out a raft of term contracts in recent weeks, with two domestic drilling contractors the beneficiaries. Constellation was the recipient of two-year firm contracts for four of its ultra-deepwater rigs: drillship Laguna Star, and semisubmersibles Alpha Star, Gold Star and Lone Star.
 
 An equivalent two-year firm contract has been awarded to another Brazilian contractor for the charter of one of its semisubmersibles; this time Ocyan with its Norbe VI rig. With the award of this contract, Ocyan has secured either current or future employment for all six of its deepwater drilling rigs.
 
 In another new development, Petrobras is offering its ultra-deepwater drillship Vitoria 10000 for sale. Built to the Samsung 10000 design in South Korea, the rig was delivered in 2010. An auction for the sale of the drillship will be held on September 18th.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-**
-
-Find words to fit the clues below. All the words end in the same three letters:
-
-- ------ Heavy object
-- ------ Writer
-- -------- Figure of speech
-
-The correct answer was :- Anchor, Author and Metaphor.
-
-**This month, our poser is as follows:**
-
-Can you find two eight-letter words beginning with 'L' that both contain the letters 'GUIS' in consecutive order?
-
-**Answers back to chartering@seabrokers.co.uk.**

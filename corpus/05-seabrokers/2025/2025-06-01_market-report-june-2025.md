@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-06-01_market-report-june-2025.pdf"
 tables_count: 12
-word_count: 7349
+word_count: 7199
 tags:
   - Offshore
   - OSV
@@ -610,36 +610,6 @@ It is intended that the rig will drill this well for Tower Resources in the four
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## 
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-### **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # USD 100 MILLION OPTION EXERCISED FOR TRANSOCEAN
 
 In Norway, Equinor has exercised a two-well option on its contract with harsh environment semisubmersible Transocean Spitsbergen. Scheduled to commence in the first quarter of 2026, the exercise of this option has added approximately USD 100 million to Transocean's contract backlog, excluding additional services.
@@ -647,13 +617,3 @@ In Norway, Equinor has exercised a two-well option on its contract with harsh en
 The Transocean Spitsbergen is now firmly committed to Equinor until the third quarter of 2027. The charterer had firmly up a contract extension for the rig last year that runs until August 2027. However, there was a potential availability window running from February to November 2026 which has just been closed via the exercise of this two-well option.
 
 In other news, Transocean has confirmed that it intends to dispose of ultra-deepwater semisubmersible GSF Development Driller I and ultra-deepwater drillship Discoverer Luanda either by sale to a third party or for recycling. Originally delivered in 2005 and 2010 respectively, both rigs are stacked in Southeast Asia. Transocean is also continuing to evaluate the feasibility of disposing of ultra-deepwater drillship Discoverer Inspiration and ultra-deepwater semisubmersible Development Driller III. The contractor had entered into an agreement in September 2024 to sell those rigs for USD 342 million but that transaction fell through.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

@@ -8,8 +8,8 @@ source: "seabrokers"
 category: "Offshore"
 pages: 16
 source_file: "corpus/05-seabrokers/pdfs/2023-09-01_market-report-september-2023.pdf"
-tables_count: 11
-word_count: 6459
+tables_count: 9
+word_count: 6264
 tags:
   - Offshore
   - OSV
@@ -43,27 +43,6 @@ tags:
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Aquaculture, Real Estate, Facilities Management, Construction, Sea Surveillance, Heavy Machinery and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen, Egersund, Hareid, Oslo and Rio de Janeiro.
 
 The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-| Icon | Service             |
-| ---- | ------------------- |
-| 🚢   | SHIPBROKING         |
-| 🐟   | AQUACULTURE         |
-| 📡   | SEA SURVEILLANCE    |
-| ⛵    | YACHTING            |
-| 🏢   | REAL ESTATE         |
-| 👥   | FACILITY MANAGEMENT |
-| 🧱   | FOUNDATIONS         |
-| 🚜   | HEAVY MACHINERY     |
-
-**OUR OFFICES:**
-
-**STAVANGER**  
-**ABERDEEN**  
-**BERGEN**  
-**RIO DE JANEIRO**  
-**SKIEN**
 
 # OSV MARKET ROUND-UP
 
@@ -496,39 +475,10 @@ China Oilfield Services Limited (COSL) is acquiring four jackups from DSIC Offsh
 | SOUTH AMERICA | 77.8% | 68.1% | 73.1% | 57.3% | 54.2% |
 | US GULF | 60.0% | 56.5% | 48.0% | 40.7% | 53.9% |
 
-# CONUNDRUM CORNER, DUTY PHONES
-
-## MULTI-YEAR NORWAY CONTRACTS
+# MULTI-YEAR NORWAY CONTRACTS
 
 While COSL has been busy snapping up stranded newbuild jackups back home in China, the rig owner's European arm has secured lucrative long-term contracts for three of the company's harsh environment semisubmersibles in Norway.
 
 First of all, COSL Drilling Europe confirmed the award of new contracts with Equinor for two of its rigs. The COSLPromoter has been chartered for a firm period of one year from the first quarter of 2025 with four further option years available. This contract is expected to run in continuation of the rig's current Equinor contract. Meanwhile, the COSLInnovator, which is currently working in the UK sector, will relocate to Norway in the second quarter of 2025; this will be for a two-year firm contract with Equinor with three optional years.
 
 A new arrival for the North Sea fleet will be the COSLProspector. This rig, relocating from China, has just been awarded a two-year firm contract with Vår Energi for operations in the Barents Sea. Drilling will start in the third quarter of 2024 with three option years available.
-
-## THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: <http://www.seabrokers.co.uk/> - see under Shipbroking / Market Reports.
-
-If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
-
-## CONUNDRUM CORNER
-
-**Last month's answer :-** When spelt out in words in English, what number from 1 to 100 would come last if they were put into alphabetical order?
-
-The answer was :- TWO
-
-**This month, our poser is:**
-
-Which option does **NOT** belong in this group?
-
-A. Broad
-B. Other
-C. Harm
-D. Esteem
-
-**Answers back to chartering@seabrokers.co.uk.**
-
-| Organization                                                          | Telephone                                                      | E-mail                                   |
-| --------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------- |
-| **

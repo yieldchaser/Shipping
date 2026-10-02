@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2026-06-01_market-report-june-2026.pdf"
 tables_count: 15
-word_count: 8262
+word_count: 8111
 tags:
   - Offshore
   - OSV
@@ -648,36 +648,6 @@ Valaris 109 (c/o Namdock)
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-## **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-## **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-## **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-## **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-## **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
-
-## Seabrokers Services
-## **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # ADES ACQUIRING SAIPEM'S SAUDI JACKUP FLEET
 
 Saipem has entered into a binding sale and purchase agreement to divest its shareholding in Saudi Arabian Saipem Limited to ADES Saudi Limited Company, an indirect subsidiary of the ADES Group, for a total consideration of USD 285 million. This transaction will see Saudi owner ADES bring five Saipem jackup rigs into its own drilling fleet, while enabling Saipem to further shift its focus towards deepwater operations.
@@ -687,13 +657,3 @@ ADES will be adding three owned jackups to its fleet, the Perro Negro 7, Perro N
 Completion of the transaction is expected to take place during the third quarter of 2026. Following the closing of this acquisition, the ADES offshore fleet will consist of 88 offshore units, of which 51 are premium jackups, in addition to 40 onshore rigs.
 
 Commenting on the transaction, ADES highlighted the "easing of regional tensions, which is expected to facilitate the return of previously suspended rigs in the GCC, a trend already evidenced by the recent resumption of all previously suspended rigs in Qatar and the anticipated return of rigs in Saudi Arabia... which is expected to improve market visibility and reinforce positive market fundamentals."
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

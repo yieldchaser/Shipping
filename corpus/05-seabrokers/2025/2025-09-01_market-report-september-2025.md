@@ -9,7 +9,7 @@ category: "Offshore"
 pages: 15
 source_file: "corpus/05-seabrokers/pdfs/2025-09-01_market-report-september-2025.pdf"
 tables_count: 15
-word_count: 8718
+word_count: 8567
 tags:
   - Offshore
   - OSV
@@ -664,36 +664,6 @@ Another development in the ultra-deepwater drillship market has seen Vantage Dri
 
 Source: Westwood Global RigLogix
 
-# SEABROKERS GROUP
-
-## **
-
-## Seabrokers Chartering
-### **Seabrokers Ltd – Aberdeen**
-(+44) 1224 747 744 | chartering@seabrokers.co.uk
-
-### **Seabrokers Chartering – Stavanger**
-(+47) 51 81 54 00 | chartering@seabrokers.no
-
-### **Seabrokers Brazil Ltda – Rio De Janeiro**
-(+55) 21 3505 4200 | chartering@seabrokers.com.br
-
-### **Skagen Ship Consulting**
-(+47) 45 51 45 51 or (+47) 46 51 80 00
-hr@skagenship.com or pr@skagenship.com
-
-## Seabrokers Eiendom
-### **Seabrokers Eiendom**
-(+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
-
-## Seabrokers Services
-### **Seabrokers Services**
-(+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-## 
-
-## 
-
 # ADES INTERNATIONAL UPS OFFER FOR SHELF DRILLING
 
 ADES International Holding Ltd (a subsidiary of ADES Holding Company) has increased its offer to acquire all of the issued and outstanding shares of Shelf Drilling by way of a cash merger.
@@ -703,13 +673,3 @@ ADES had initially launched takeover proceedings in August with an offer of NOK 
 The Revised Cash Consideration has received irrevocable pre-commitments which, when including ADES' stake, represent 53.4% votes in favour of the Proposed Merger. The proposed transaction has been unanimously recommended by the Board of Directors of Shelf Drilling.
 
 The merger would establish a strong player in the shallow water drilling market with a substantial fleet of 83 jackups (including 46 premium units) and a total combined backlog of USD 9.45 billion as of June 30th, 2025. ADES, a drilling contractor with headquarters in Saudi Arabia, has indicated that it expects to realise annual operational cost synergies of USD 50-60 million with gradual realisation over the medium term.
-
-## Seabrokers Ltd, Aberdeen
-
-For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-## The Seabreeze Archive
-
-For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.
