@@ -248,7 +248,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Chart Engine / Technique:** LlamaParse cover-to-cover + PyMuPDF chart vector curves
 - **Stacked Series CSVs:** intermodal_baltic_tc_series.csv (20,348 rows), intermodal_tc_rates_series.csv (5,100 rows), intermodal_newbuilding_series.csv (5,058 rows), intermodal_tanker_spot_series.csv (3,879 rows), intermodal_sales_series.csv (3,358 rows), intermodal_demolition_series.csv (2,629 rows)
 - **Extraction Script:** [`run_intermodal_full.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_intermodal_full.py)
-- **Notes & Rules Applied:** 100% cover-to-cover extraction (all 8 pages). Editorial essay, Tanker spot, Dry bulk TC, S&P, NB, Demo.
+- **Notes & Rules Applied:** 100% cover-to-cover extraction (all 8 pages). Editorial essay, Tanker spot, Dry bulk TC, S&P, NB, Demo. Audited and verified TC Rates table multi-row structure and Indicative Market Values column alignment.
 
 ### ISM Coasters & Mini-Bulkers
 - **Corpus Directory:** [`corpus/01-brokers/ism`](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/ism)
@@ -300,7 +300,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Chart Engine / Technique:** LlamaParse + World-Class Markdown Normalizer (run_star_asia_tables.py)
 - **Stacked Series CSVs:** star_asia_snp_sales_series.csv (3,717 rows), star_asia_deals_series.csv (3,327 rows), star_asia_valuation_matrix_series.csv (3,245 rows), star_asia_demolition_series.csv (3,072 rows), star_asia_metals_energy_series.csv (1,327 rows)
 - **Extraction Script:** [`run_star_asia_tables.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_star_asia_tables.py)
-- **Notes & Rules Applied:** Gaddani / Turkey cell boundary merge defect resolved. Explicit ISO issue dates stamped.
+- **Notes & Rules Applied:** Gaddani / Turkey cell boundary merge defect resolved. Explicit ISO issue dates stamped. Uniform sector subheader bolding (**Capesize:**, **Panamax/Kamsarmax:**, **Supramax/Ultramax:**, **Handysize:**) verified across all 198 reports.
 
 ### Xclusiv Shipbrokers
 - **Corpus Directory:** [`corpus/01-brokers/xclusiv`](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/xclusiv)
@@ -313,7 +313,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Chart Engine / Technique:** LiteParse cover-to-cover + vector chart parser
 - **Stacked Series CSVs:** xclusiv_secondhand_series.csv (8,593 rows), xclusiv_sales_series.csv (5,713 rows), xclusiv_demolition_series.csv (2,098 rows), xclusiv_newbuilding_prices_series.csv (1,397 rows), xclusiv_newbuilding_orders_series.csv (1,329 rows)
 - **Extraction Script:** [`run_xclusiv_tables.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_xclusiv_tables.py)
-- **Notes & Rules Applied:** 100% cover-to-cover across all 9 pages. Full narrative commentary and S&P tables extracted.
+- **Notes & Rules Applied:** 100% cover-to-cover across all 9 pages. Full narrative commentary (Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, Products) and S&P tables extracted. Left-column commentary boundary calibrated to strip chart axis tick noise.
 
 ### Hellenic: Demolition Market
 - **Corpus Directory:** [`corpus/02-hellenic/demolition`](file:///C:/Users/Dell/Github/Shipping/corpus/02-hellenic/demolition)

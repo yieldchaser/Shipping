@@ -1053,47 +1053,29 @@ def extract_freight_commentary(doc: pymupdf.Document) -> Dict[str, str]:
     if len(doc) < 3:
         return freight
         
-    # Page 2: Freight Market - Dry
-    p2_text = []
-    p2 = doc[1]
-    w = p2.rect.width
-    for b in p2.get_text("blocks"):
-        if b[6] != 0:
-            continue
-        txt = b[4].strip()
-        if not txt:
-            continue
-        if b[0] < w * 0.55 and b[1] > 60 and b[3] < p2.rect.height - 60:
-            if "Freight Market - Dry" in txt or "www.xclusiv.gr" in txt:
+    for p_idx, key, title_skip in [(1, "Dry Bulk Freight", "Freight Market - Dry"), (2, "Tanker Freight", "Freight Market - Wet")]:
+        p = doc[p_idx]
+        blocks = []
+        for b in p.get_text("blocks"):
+            if b[6] != 0:
                 continue
-            txt = txt.replace('\ufffd', "'")
-            txt = re.sub(r'\s+', ' ', txt).strip()
-            if len(txt) > 20 and not re.match(r'^[\d,\.\-\$\s/]+$', txt):
-                p2_text.append(txt)
-    if p2_text:
-        freight["Dry Bulk Freight"] = "\n\n".join(p2_text)
-        
-    # Page 3: Freight Market - Wet
-    p3_text = []
-    p3 = doc[2]
-    w = p3.rect.width
-    for b in p3.get_text("blocks"):
-        if b[6] != 0:
-            continue
-        txt = b[4].strip()
-        if not txt:
-            continue
-        if b[0] < w * 0.55 and b[1] > 60 and b[3] < p3.rect.height - 60:
-            if "Freight Market - Wet" in txt or "www.xclusiv.gr" in txt:
+            txt = b[4].strip()
+            if not txt:
                 continue
-            txt = txt.replace('\ufffd', "'")
-            txt = re.sub(r'\s+', ' ', txt).strip()
-            if len(txt) > 20 and not re.match(r'^[\d,\.\-\$\s/]+$', txt):
-                p3_text.append(txt)
-    if p3_text:
-        freight["Tanker Freight"] = "\n\n".join(p3_text)
+            # Commentary column is on the left margin (x < 60), below header (y > 60), above footer (y < 808)
+            # Rejects chart titles, legends, and y-axis ticks which start at x >= 265
+            if b[0] < 60 and b[1] > 60 and b[1] < 808:
+                if title_skip in txt or "www.xclusiv.gr" in txt:
+                    continue
+                txt = txt.replace("\ufffd", "'")
+                txt = re.sub(r"\s+", " ", txt).strip()
+                if len(txt) > 20 and not re.match(r"^[\d,\.\-\$\s/]+$", txt):
+                    blocks.append(txt)
+        if blocks:
+            freight[key] = "\n\n".join(blocks)
         
     return freight
+
 
 
 # ---------------------------------------------------------------------------
