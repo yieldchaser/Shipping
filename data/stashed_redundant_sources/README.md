@@ -9,7 +9,7 @@
 ---
 
 ## 1. Hellenic Iron Ore HTML Web Previews
-- **Stashed Count:** 6 items
+- **Stashed Count:** 4,700 files (across 6 year subdirectories)
 - **Quarantine Path:** `data/stashed_redundant_sources/hellenic_iron_ore_html_previews/`
 - **Why Stashed:** These were short (~20-40 line) HTML web article summaries scraped from the Hellenic news website. Because the folder was named `iron_ore`, agents and scripts routinely mistook them for the primary extracted data, ignoring the true multi-page reports.
 - **Active Authoritative Path:** [`data/extracted/md/hellenic/iron_ore_pdf/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf) (1,188 full-fidelity Markdown reports + `.tables.json` sidecars across 2021-2026, plus 21 stacked master series CSVs).
