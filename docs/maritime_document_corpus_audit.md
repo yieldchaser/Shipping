@@ -1,6 +1,6 @@
 # Comprehensive Maritime Document & Multimodal Intelligence Corpus Audit
 **Repository:** `Shipping` | **Canonical Corpus Scope:** Global Maritime Intelligence Architecture  
-**Audit Timestamp:** September 20, 2026 | **Target Artifact:** Forensic Document Mapping, Multimodal Assets, AIS Trajectory Engine & Canonical Repository Architecture
+**Audit Timestamp:** October 2, 2026 | **Target Artifact:** Forensic Document Mapping, Multimodal Assets, AIS Trajectory Engine & Canonical Repository Architecture
 
 ---
 
@@ -135,10 +135,34 @@ The primary Hellenic category ingest aggregates **14,122 total files (3.20 GB)**
 
 ---
 
-### 5. Drewry Maritime Intelligence (`scripts/drewry_ais_pdfs/` & `reports/drewry/`)
-- **AIS Vessel Class PDFs (`scripts/drewry_ais_pdfs/`):** **276 PDFs (501.9 MB)** of dense AIS tracking heatmaps and fleet positioning data (Aframax, Suezmax, VLCC, Capesize, Panamax, Supramax, MR, LR1, LR2).
-- **Structured Opinion Briefs (`reports/drewry/`):** **547 Markdown reports (2.0 MB)** containing Drewry's analytical viewpoints, container market opinions, and dry bulk trade balance forecasts.
-- **Rate Indices:** Full historical series of the Drewry World Container Index (WCI) in `data/indices/drewry_wci.csv`.
+### 5. Drewry Maritime Intelligence (`corpus/06-drewry/` & `scripts/drewry_ais_pdfs/`)
+- **AIS Vessel Class PDFs (`corpus/06-drewry/ais/`):** **288 PDFs (512.4 MB)** across 10 specific vessel classes:
+  - **Crude Tankers (93 reports):**
+    - `VLCC`: **32 reports** (e.g. `Drewry_AIS_Crude_VLCC_Week37_2026.pdf`)
+    - `Suezmax`: **30 reports** (e.g. `Drewry_AIS_Crude_Suezmax_Week38_2026.pdf`)
+    - `Aframax`: **31 reports** (e.g. `Drewry_AIS_Crude_Aframax_Week39_2026.pdf`)
+  - **Dry Bulk (98 reports):**
+    - `Capesize`: **27 reports** (e.g. `Drewry_AIS_Drybulk_Capesize_Week29_2026.pdf`)
+    - `Panamax`: **23 reports** (e.g. `Drewry_AIS_Drybulk_Panamax_Week36_2026.pdf`)
+    - `Supramax`: **23 reports** (e.g. `Drewry_AIS_Drybulk_Supramax_Week35_2026.pdf`)
+    - `Handysize`: **25 reports** (e.g. `Drewry_AIS_Drybulk_Handysize_Week34_2026.pdf`)
+  - **Product Tankers (65 reports):**
+    - `LR1`: **34 reports** (e.g. `Drewry_AIS_Product_LR1_Week38_2026.pdf`)
+    - `LR2`: **31 reports** (e.g. `Drewry_AIS_Product_LR2_Week39_2026.pdf`)
+  - **Gas Carriers (32 reports):**
+    - `LPG FR` (Fully Refrigerated): **32 reports** (e.g. `Drewry_AIS_LPG_FR_Week39_2026.pdf`)
+- **Dedicated Processing Pipelines & Script Locations:**
+  - `scripts/extract/publishers/run_drewry_ais.py`: Multi-tier extraction engine utilizing LlamaParse agentic tier with multi-account automatic rotation to extract tabular KPI sidecars, underway/in-port/at-anchor ratios, and speed matrices into `data/extracted/md/drewry/`.
+  - `scripts/extract/publishers/run_drewry_ais_charts.py`: Sub-pixel vector geometry engine extracting continuous time-series curves directly from PostScript/PDF drawings at $0 API cost.
+  - `scripts/scrapers/fetch_drewry_wci.py`: Automated harvester tracking weekly World Container Index rate assessments.
+  - `scripts/extract/publishers/run_drewry_opinions.py`: Parser for Drewry maritime opinions into structured Markdown briefs.
+- **Output Quantitative Series Datasets (`data/extracted/series/`):**
+  - `drewry_ais_fleet_performance_series.csv`: **14,451 rows** (6 continuous operational curves: Underway East/West, In Port East/West, At Anchor East/West spanning 2022 to 2026).
+  - `drewry_ais_regional_congestion_series.csv`: **6,541 rows** (regional ballast congestion at anchor across Atlantic, Pacific, Indian Ocean, China, East, and Oceania).
+  - `drewry_ais_deployment_speed_series.csv`: **2,449 rows** (Global Ballast Speed, Global Laden Speed, and Tonne-Miles Index).
+  - `drewry_ais_utilisation_curves_series.csv`: **958 rows** (weekly fleet utilization percentages).
+  - `data/indices/drewry_wci_historical.csv`: **118 weekly rows** (World Container Index benchmark routes).
+- **Structured Opinion Briefs:** **548 Markdown reports** in `data/extracted/md/drewry/opinions/`.
 
 ---
 

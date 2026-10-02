@@ -162,6 +162,15 @@ def find_companion_image(h_path: Path) -> Optional[Path]:
             if cand.suffix.lower() in [".jpg", ".jpeg", ".png"] and cand.stat().st_size > 20000:
                 return cand
 
+    # Check reports/hellenic assets directory
+    for cat_name in ["tanker_charter", "dry_charter"]:
+        if cat_name in h_path.as_posix():
+            rep_assets = ROOT / "reports" / "hellenic" / cat_name / parent.name / "assets"
+            if rep_assets.exists():
+                for cand in rep_assets.glob(f"{stem}*.*"):
+                    if cand.suffix.lower() in [".jpg", ".jpeg", ".png"] and cand.stat().st_size > 20000:
+                        return cand
+
     # Check links/images referenced in HTML body
     try:
         content = h_path.read_text(encoding="utf-8", errors="ignore")

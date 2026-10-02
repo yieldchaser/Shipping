@@ -261,9 +261,9 @@ def extract_sp_section_rows(
                 "dwt_raw": clean_text(" ".join(w_dwt)),
                 "built_raw": clean_text(" ".join(w_built)),
                 "yard_words": [(w[1], w[0], w[4]) for w in ln if 255 <= w[0] < 370],
-                "price_words": [(w[1], w[0], w[4]) for w in ln if 370 <= w[0] < 435],
-                "buyers_words": [(w[1], w[0], w[4]) for w in ln if 435 <= w[0] < 505],
-                "comm_words": [(w[1], w[0], w[4]) for w in ln if w[0] >= 505],
+                "price_words": [(w[1], w[0], w[4]) for w in ln if 370 <= w[0] < 425],
+                "buyers_words": [(w[1], w[0], w[4]) for w in ln if 425 <= w[0] < 495],
+                "comm_words": [(w[1], w[0], w[4]) for w in ln if w[0] >= 495],
             })
 
     # Pass 2: Assign continuation fragments to the vertically closest vessel
@@ -285,9 +285,9 @@ def extract_sp_section_rows(
         nearest = min(vessels, key=lambda v: abs(v["y"] - y))
         w_name = [w[4] for w in ln if w[0] < 120]
         f_yard = [(w[1], w[0], w[4]) for w in ln if 255 <= w[0] < 370]
-        f_price = [(w[1], w[0], w[4]) for w in ln if 370 <= w[0] < 435]
-        f_buyers = [(w[1], w[0], w[4]) for w in ln if 435 <= w[0] < 505]
-        f_comm = [(w[1], w[0], w[4]) for w in ln if w[0] >= 505]
+        f_price = [(w[1], w[0], w[4]) for w in ln if 370 <= w[0] < 425]
+        f_buyers = [(w[1], w[0], w[4]) for w in ln if 425 <= w[0] < 495]
+        f_comm = [(w[1], w[0], w[4]) for w in ln if w[0] >= 495]
 
         if w_name and not nearest["name"]:
             nearest["name"] = clean_text(nearest["name"] + " " + " ".join(w_name))
