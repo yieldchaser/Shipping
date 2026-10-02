@@ -87,6 +87,9 @@ def main():
     # E. Signal Ocean Intelligence & Monitors
     run_cmd([sys.executable, "scripts/scrapers/fetch_signal_reports.py"], "Poll Signal Ocean Market Monitors & Research")
 
+    # F. Seabrokers Offshore Intelligence
+    run_cmd([sys.executable, "scripts/scrapers/fetch_seabrokers_reports.py", "--download", "--limit", "3"], "Poll Seabrokers Offshore Reports")
+
     # 3. Incremental Specialized Ingestion
     print("\n--- STAGE 3: Incremental Ingestion & Structured Markdown Parsing ---")
     # A. Multi-Broker PDF Ingestion & Specialized Routing
@@ -96,9 +99,13 @@ def main():
     run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_alibra_tc.py"], "Extract Hellenic Alibra TC Estimates")
     run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_vessel_valuations.py"], "Extract Hellenic VesselsValue Matrices")
     run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_demolition.py"], "Extract Hellenic Cash Buyer Demolition")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_smm_iron_ore_daily.py"], "Extract SMM Daily Iron Ore Single-Page Reports")
 
     # C. Signal Ocean Ingestion & Series Stacking
     run_cmd([sys.executable, "scripts/extract/publishers/run_signal.py"], "Extract Signal Ocean Markdown & Stacking", timeout=900)
+
+    # D. Seabrokers LlamaParse Extractor
+    run_cmd([sys.executable, "scripts/extract/publishers/run_seabrokers_llamaparse.py"], "Extract Seabrokers LlamaParse Markdown & Series")
 
     # 4. Offline Vector Chart Extraction & Time Series Stacking
     print("\n--- STAGE 4: Proprietary Vector Chart Extraction & Series Stacking ---")

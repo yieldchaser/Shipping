@@ -2530,7 +2530,7 @@ def save_stacked_series(
         p_dash = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_dashboard_series.csv"
         dash_keys = list(dash_rows[0].keys())
         with open(p_dash, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=dash_keys)
+            w = csv.DictWriter(f, fieldnames=dash_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(dash_rows)
         print(f"Saved {len(dash_rows)} cumulative rows to {p_dash.name}")
@@ -2541,7 +2541,7 @@ def save_stacked_series(
         p_idx = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_indices_series.csv"
         idx_keys = ["date", "year", "index_name", "market", "fe_content", "unit", "price", "change", "change_pct", "mtd", "ytd", "low_52w", "high_52w", "source_file"]
         with open(p_idx, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=idx_keys)
+            w = csv.DictWriter(f, fieldnames=idx_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(idx_rows)
         print(f"Saved {len(idx_rows)} cumulative rows to {p_idx.name}")
@@ -2552,7 +2552,7 @@ def save_stacked_series(
         p_br = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_brands_series.csv"
         br_keys = ["date", "year", "market_type", "benchmark_grade", "brand", "price", "unit", "change", "diff_to_benchmark", "source_file"]
         with open(p_br, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=br_keys)
+            w = csv.DictWriter(f, fieldnames=br_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(brand_rows)
         print(f"Saved {len(brand_rows)} cumulative rows to {p_br.name}")
@@ -2563,7 +2563,7 @@ def save_stacked_series(
         p_conc = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_domestic_concentrate_series.csv"
         conc_keys = ["date", "year", "province", "region", "product", "basis", "price_rmb_t", "change_pct_rmb", "low_rmb_t", "high_rmb_t", "price_usd_t", "change_pct_usd", "low_usd_t", "high_usd_t", "source_file"]
         with open(p_conc, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=conc_keys)
+            w = csv.DictWriter(f, fieldnames=conc_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(conc_rows)
         print(f"Saved {len(conc_rows)} cumulative rows to {p_conc.name}")
@@ -2574,7 +2574,7 @@ def save_stacked_series(
         p_pd = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_port_differentials_series.csv"
         pd_keys = ["date", "year", "port", "differential_rmb_wmt", "change_rmb_wmt", "source_file"]
         with open(p_pd, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=pd_keys)
+            w = csv.DictWriter(f, fieldnames=pd_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(pd_rows)
         print(f"Saved {len(pd_rows)} cumulative rows to {p_pd.name}")
@@ -2585,7 +2585,7 @@ def save_stacked_series(
         p_inv = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_port_inventories_series.csv"
         inv_keys = ["date", "year", "terminal", "inventory_mt", "change_pct", "low_12m", "high_12m", "source_file"]
         with open(p_inv, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=inv_keys)
+            w = csv.DictWriter(f, fieldnames=inv_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(inv_rows)
         print(f"Saved {len(inv_rows)} cumulative rows to {p_inv.name}")
@@ -2596,7 +2596,7 @@ def save_stacked_series(
         p_fut = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_futures_series.csv"
         fut_keys = ["date", "year", "exchange", "contract", "unit", "closing_price", "change", "change_pct", "vol_traded_k_lots", "open_positions_k_lots", "day_low", "day_high", "source_file"]
         with open(p_fut, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=fut_keys)
+            w = csv.DictWriter(f, fieldnames=fut_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(fut_rows)
         print(f"Saved {len(fut_rows)} cumulative rows to {p_fut.name}")
@@ -2607,7 +2607,7 @@ def save_stacked_series(
         p_steel = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_steel_series.csv"
         steel_keys = ["date", "year", "product", "price_rmb_t", "change_rmb_t", "change_pct", "source_file"]
         with open(p_steel, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=steel_keys)
+            w = csv.DictWriter(f, fieldnames=steel_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(steel_rows)
         print(f"Saved {len(steel_rows)} cumulative rows to {p_steel.name}")
@@ -2618,7 +2618,7 @@ def save_stacked_series(
         p_pnl = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_steel_mill_pnl_series.csv"
         pnl_keys = ["date", "year", "category", "price_or_margin", "unit", "change_wow", "note", "source_file"]
         with open(p_pnl, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=pnl_keys)
+            w = csv.DictWriter(f, fieldnames=pnl_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(pnl_rows)
         print(f"Saved {len(pnl_rows)} cumulative rows to {p_pnl.name}")
@@ -2629,7 +2629,7 @@ def save_stacked_series(
         p_spec = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_brand_specs_series.csv"
         spec_keys = ["date", "year", "market_type", "brand", "fe_pct", "alumina_pct", "silica_pct", "phos_pct", "moisture_pct", "source_file"]
         with open(p_spec, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=spec_keys)
+            w = csv.DictWriter(f, fieldnames=spec_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(spec_rows)
         print(f"Saved {len(spec_rows)} cumulative rows to {p_spec.name}")
@@ -2640,7 +2640,7 @@ def save_stacked_series(
         p_fr = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_freight_rates_series.csv"
         fr_keys = ["date", "year", "chart_date", "c5_waust_usd_t", "c3_tubarao_usd_t", "source_file"]
         with open(p_fr, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=fr_keys)
+            w = csv.DictWriter(f, fieldnames=fr_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(fr_rows)
         print(f"Saved {len(fr_rows)} cumulative rows to {p_fr.name}")
@@ -2651,7 +2651,7 @@ def save_stacked_series(
         p_imp = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_import_volumes_series.csv"
         imp_keys = ["date", "year", "period", "volume_mt", "source_file"]
         with open(p_imp, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=imp_keys)
+            w = csv.DictWriter(f, fieldnames=imp_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(imp_rows)
         print(f"Saved {len(imp_rows)} cumulative rows to {p_imp.name}")
@@ -2662,7 +2662,7 @@ def save_stacked_series(
         p_sc = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_steel_production_consumption_series.csv"
         sc_keys = ["date", "year", "indicator", "product", "year_series", "m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10", "m11", "m12", "source_file"]
         with open(p_sc, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=sc_keys)
+            w = csv.DictWriter(f, fieldnames=sc_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(sc_rows)
         print(f"Saved {len(sc_rows)} cumulative rows to {p_sc.name}")
@@ -2673,7 +2673,7 @@ def save_stacked_series(
         p_sp = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_spreads_series.csv"
         sp_keys = ["date", "year", "index_name", "fe_content", "market_type", "benchmark_index", "spread_to_benchmark", "spread_pct", "source_file"]
         with open(p_sp, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=sp_keys)
+            w = csv.DictWriter(f, fieldnames=sp_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(sp_rows)
         print(f"Saved {len(sp_rows)} cumulative rows to {p_sp.name}")
@@ -2684,7 +2684,7 @@ def save_stacked_series(
         p_avg = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_averages_series.csv"
         avg_keys = ["date", "year", "index_name", "market_type", "fe_content", "unit", "m_minus_4", "m_minus_3", "m_minus_2", "m_minus_1", "mtd", "qtd", "ytd", "source_file"]
         with open(p_avg, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=avg_keys)
+            w = csv.DictWriter(f, fieldnames=avg_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(avg_rows)
         print(f"Saved {len(avg_rows)} cumulative rows to {p_avg.name}")
@@ -2695,7 +2695,7 @@ def save_stacked_series(
         p_norm = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_normalisations_series.csv"
         norm_keys = ["date", "year", "market_type", "element", "applicable_range", "value", "unit", "change", "source_file"]
         with open(p_norm, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=norm_keys)
+            w = csv.DictWriter(f, fieldnames=norm_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(norm_rows)
         print(f"Saved {len(norm_rows)} cumulative rows to {p_norm.name}")
@@ -2706,10 +2706,11 @@ def save_stacked_series(
         p_cmp = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_index_comparisons_series.csv"
         cmp_keys = ["date", "year", "chart_date", "iosi62_usd_dmt", "iopi62_eq_usd_dmt", "iosi65_usd_dmt", "iopi65_eq_usd_dmt", "source_file"]
         with open(p_cmp, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=cmp_keys)
+            w = csv.DictWriter(f, fieldnames=cmp_keys, extrasaction="ignore")
             w.writeheader()
             w.writerows(comp_rows)
         print(f"Saved {len(comp_rows)} cumulative rows to {p_cmp.name}")
+
 
 
 def get_unique_reports(pdf_root: Path) -> List[Path]:

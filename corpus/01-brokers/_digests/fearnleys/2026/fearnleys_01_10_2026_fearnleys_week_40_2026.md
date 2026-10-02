@@ -74,9 +74,9 @@ week while the holidays run their course, with constructive Atlantic fundamental
 
 The Supramax market remained generally firm, supported by improved demand in the US Gulf, steady South Atlantic activity, and strong Continent demand driven by scrap, while the Mediterranean stayed softer due to limited cargo. The Handysize market was more mixed, with the Continent and Mediterranean remaining healthy, Atlantic sentiment varying with some improved charterer interest but quieter activity on certain routes, while Pacific softened slightly amid less cargo enquiry and slower activity.
 
-### Spot Rates & Indices
+### Spot Freight Rates & Indices
 
-| Route / Index | Vessel Size | Current ($/Day or Pts) | Change |
+| Route / Benchmark | Vessel Size / Type | Current | Change |
 | :--- | :---: | :---: | :---: |
 | TCE Cont/Far East | Capesize | 86,344 | -839 |
 | Australia/China | Capesize | 13.4 | -0.3 |
@@ -95,25 +95,34 @@ The Supramax market remained generally firm, supported by improved demand in the
 
 November shows 10 ships in the first decade and 4 in the second decade. The week has been quiet so far with the arb coming in. Panama Canal conditions have improved, though seasonal Christmas import volumes may tighten slot availability from October.
 
-### Gas Rates & FOB Benchmarks
+### LPG Rates & FOB Prices
 
-| Benchmark / Route | Sector | Current | Change |
-| :--- | :--- | :---: | :---: |
-| VLGC | LPG Spot | 6,300,000 | 0.0 |
-| LGC | LPG Spot | 3,500,000 | 0.0 |
-| MGC | LPG Spot | 1,800,000 | 0.0 |
-| COASTER Europe | LPG Spot | 450,000 | -25,000 |
-| FOB North Sea/Ansi | LPG FOB | 526.5 | 0.0 |
-| Saudi Arabia/CP | LPG FOB | 625 | 0.0 |
-| MT Belvieu | LPG FOB | 446.8 | 0.0 |
-| FOB North Sea/Ansi | LPG FOB | 600 | 0.0 |
-| Saudi Arabia/CP | LPG FOB | 660 | 0.0 |
-| MT Belvieu | LPG FOB | 600.5 | 0.0 |
-| Sonatrach/Bethioua | LPG FOB | 610 | 0.0 |
+| Benchmark / Route | Vessel / Cargo | Current | Change |
+| :--- | :---: | :---: | :---: |
+| VLGC | 84' | 6,300,000 | 0.0 |
+| LGC | 60' | 3,500,000 | 0.0 |
+| MGC | 38' | 1,800,000 | 0.0 |
+| COASTER Europe | 3 500-5 000 cbm | 450,000 | -25,000 |
+| FOB North Sea/Ansi | Propane/Butane | 526.5 | 0.0 |
+| Saudi Arabia/CP | Propane/Butane | 625 | 0.0 |
+| MT Belvieu | Propane/Butane | 446.8 | 0.0 |
+| FOB North Sea/Ansi | Propane/Butane | 600 | 0.0 |
+| Saudi Arabia/CP | Propane/Butane | 660 | 0.0 |
+| MT Belvieu | Propane/Butane | 600.5 | 0.0 |
+| Sonatrach/Bethioua | Propane/Butane | 610 | 0.0 |
 
 ---
 
 ## 04 Newbuilding
+
+### Activity Levels
+
+| Sector | Activity Status |
+| :--- | :---: |
+| Tank Activity | Strong |
+| Lpg Activity | Strong |
+| Container Activity | Strong |
+| Other Activity | Moderate |
 
 ### Indicative Newbuilding Prices ($M)
 
