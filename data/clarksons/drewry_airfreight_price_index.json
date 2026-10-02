@@ -1,12 +1,5 @@
 [
   {
-    "date": "2024-09-01",
-    "composite_airfreight_rate_usd_kg": 3.52,
-    "asia_us_eastbound_usd_kg": 5.8,
-    "asia_europe_westbound_usd_kg": 4.81,
-    "europe_us_westbound_usd_kg": 1.23
-  },
-  {
     "date": "2024-10-01",
     "composite_airfreight_rate_usd_kg": 3.67,
     "asia_us_eastbound_usd_kg": 5.9,
@@ -166,5 +159,12 @@
     "asia_us_eastbound_usd_kg": 7.64,
     "asia_europe_westbound_usd_kg": 4.94,
     "europe_us_westbound_usd_kg": 2.07
+  },
+  {
+    "date": "2026-09-01",
+    "composite_airfreight_rate_usd_kg": 4.0,
+    "asia_us_eastbound_usd_kg": 7.7,
+    "asia_europe_westbound_usd_kg": 5.21,
+    "europe_us_westbound_usd_kg": 2.06
   }
 ]
