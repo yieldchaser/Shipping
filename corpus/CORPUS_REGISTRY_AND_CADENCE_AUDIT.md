@@ -37,7 +37,7 @@
 | **Xclusiv Shipbrokers** | Weekly (Monday) | `2026-09-28` | 3d | **CURRENT** | 271 PDF, 0 HTML, 0 IMG | [`data/extracted/md/xclusiv`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/xclusiv) | Yes (Pages 2-3 freight curves, Pages 8-9 bunker spreads) | `xclusiv_secondhand_series.csv (8` |
 | **Hellenic: Demolition Market** | Weekly (Saturday/Sunday) | `2026-09-26` | 5d | **CURRENT** | 2134 PDF, 807 HTML, 1208 IMG | [`data/extracted/md/hellenic/demolition`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition) | Yes (Port position queue charts, cash buyer price matrices) | `hellenic_athenian_demolition_series.csv (3` |
 | **Hellenic: Dry Bulk Charter (Alibra)** | Weekly (Wednesday) | `2026-09-30` | 1d | **CURRENT** | 0 PDF, 279 HTML, 759 IMG | [`data/extracted/md/hellenic/dry_charter`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/dry_charter) | Yes (Alibra rate fixture comparison graphics) | `hellenic_alibra_dry_tc_series.csv (6` |
-| **Hellenic: Iron Ore (MMI Daily HTML & PDF)** | Daily (Mon-Fri) | `2026-09-28` | 3d | **CURRENT (National Day holiday in China Oct 1-7)** | 4518 PDF, 1200 HTML, 3335 IMG | [`data/extracted/md/hellenic/iron_ore`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore) | Yes (Port inventory curves, Chinese mill profit margin models) | `hellenic_iron_ore_pdf_brands_series.csv (31` |
+| **Hellenic: Iron Ore (MMI & SMM Daily)** | Daily (Mon-Fri) | `2026-09-30` | 1d | **CURRENT (Golden Week pause Oct 1-7)** | 4519 PDF, 1200 HTML, 3335 IMG | [`data/extracted/md/hellenic/iron_ore_pdf`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf) | Yes (4 SMM driver vector charts + MMi inventory/margin curves) | `hellenic_iron_ore_pdf_brands_series.csv (31,470 rows, 21 CSVs)` |
 | **Hellenic: Shipbuilding & Contracting** | Weekly (Friday) | `2026-09-29` | 2d | **CURRENT** | 1352 PDF, 379 HTML, 180 IMG | [`data/extracted/md/hellenic/shipbuilding`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/shipbuilding) | No (Shipyard contracting and orderbook tables) | `clarksons_sales_series.csv (merged)` |
 | **Hellenic: Tanker Time Charter (Alibra)** | Weekly (Wednesday) | `2026-09-30` | 1d | **CURRENT** | 0 PDF, 278 HTML, 757 IMG | [`data/extracted/md/hellenic/tanker_charter`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/tanker_charter) | Yes (Crude & clean period earnings comparison graphics) | `hellenic_alibra_tanker_tc_series.csv (7` |
 | **Hellenic: VesselsValue Valuations** | Weekly (Tuesday) | `2026-09-29` | 2d | **CURRENT** | 0 PDF, 274 HTML, 726 IMG | [`data/extracted/md/hellenic/vessel_valuations`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/vessel_valuations) | Yes (VesselsValue fleet valuation index graphs) | `hellenic_vv_matrix_series.csv (12` |
@@ -86,9 +86,9 @@ Drewry AIS reports are published across 10 specialized maritime vessel classes. 
 | **Hellenic Demolition** | Best Oasis Scrap Assessments & Deals | `1,272 reports` | HTML / PDF | Subcontinent scrap rates and beaching transaction fixtures | `hellenic_best_oasis_deals_series.csv` | **882 rows (deals), 859 rows (rates)** | [`run_best_oasis_demolition.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_best_oasis_demolition.py) |
 | **Hellenic Dry Charter** | Alibra Dry Bulk Time Charter Estimates | `266 reports` | HTML / Images | 1Y, 2Y, 3Y, 5Y period TC ($/day) for Capesize, Kamsarmax, Ultramax, Handy | `hellenic_alibra_dry_tc_series.csv` | **6,443 rows** | [`run_hellenic_alibra_tc.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_alibra_tc.py) |
 | **Hellenic Tanker Charter** | Alibra Tanker Time Charter Estimates | `265 reports` | HTML / Images | 1Y, 2Y, 3Y, 5Y period TC ($/day) for VLCC, Suezmax, Aframax, LR2, LR1, MR | `hellenic_alibra_tanker_tc_series.csv` | **7,177 rows** | [`run_hellenic_alibra_tc.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_alibra_tc.py) |
-| **Hellenic Iron Ore** | MMI Daily Brand Price Assessments | `3,537 reports` | PDF / HTML | 31+ brand prices $/dmtu (PB Fines, Newman, Carajas, Lump/Pellet premiums) | `hellenic_iron_ore_pdf_brands_series.csv` | **31,272 rows** | [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) |
-| **Hellenic Iron Ore** | SMM Daily Spot Iron Ore Benchmark | `1,171 reports` | PDF / HTML | 62% Fe CFR China daily benchmark and port stock statistics | `hellenic_iron_ore_daily_series.csv` | **1,171 rows** | [`run_smm_iron_ore_daily.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_smm_iron_ore_daily.py) |
-| **Hellenic Iron Ore** | Baltic Capesize C3 / C5 Freight Rates | `1,164 reports` | PDF / HTML | Tubarao-Qingdao (C3) & Dampier-Qingdao (C5) freight $/ton | `hellenic_capesize_c3_c5_series.csv` | **1,164 rows** | [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) |
+| **Hellenic Iron Ore** | MMI Daily Brand Price Assessments | `4,519 PDFs` | PDF tabular | 31+ brand prices $/dmtu (PB Fines, Newman, Carajas, Lump/Pellet premiums) | `hellenic_iron_ore_pdf_brands_series.csv` | **31,470 rows** | [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) |
+| **Hellenic Iron Ore** | SMM Daily Spot Iron Ore Benchmark & New Layout | `4,519 PDFs` | PDF structured | 62% Fe CFR China benchmark, Key View editorial, futures, and driver charts | `hellenic_iron_ore_daily_series.csv` | **1,175 rows (36 cols)** | [`run_smm_iron_ore_daily.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_smm_iron_ore_daily.py) |
+| **Hellenic Iron Ore** | Baltic Capesize C3 / C5 Freight Rates | `4,519 PDFs` | PDF tabular | Tubarao-Qingdao (C3) & Dampier-Qingdao (C5) freight $/ton | `hellenic_iron_ore_pdf_freight_rates_series.csv` | **22,257 rows** | [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) |
 | **Hellenic Valuations** | VesselsValue Secondhand Valuation Matrix | `261 reports` | HTML tables / Images | Resale, 5Y, 10Y, 15Y, 20Y values ($M) for Bulkers, Tankers, Containers | `hellenic_vv_matrix_series.csv` | **12,340 rows** | [`run_hellenic_vv_matrix.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_vv_matrix.py) |
 | **Hellenic Valuations** | VesselsValue Secondhand Sales Deals | `261 reports` | HTML tables | Reported S&P transactions with vessel name, DWT, built, yard, price $M | `hellenic_vv_sales_series.csv` | **2,122 rows** | [`run_hellenic_vessel_valuations.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_vessel_valuations.py) |
 
@@ -342,17 +342,39 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Notes & Rules Applied:** Extracts 1Y, 2Y, 3Y, 5Y Dry Bulk period TC assessments across Capesize, Panamax, Supramax, Handy.
 
 ### Hellenic: Iron Ore (MMI Daily HTML & PDF)
-- **Corpus Directory:** [`corpus/02-hellenic/iron_ore`](file:///C:/Users/Dell/Github/Shipping/corpus/02-hellenic/iron_ore)
-- **Markdown Output:** [`data/extracted/md/hellenic/iron_ore`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore)
+- **Corpus Directory:** [`corpus/02-hellenic/iron_ore`](file:///C:/Users/Dell/Github/Shipping/corpus/02-hellenic/iron_ore) (HTML web previews) & [`corpus/02-hellenic/iron_ore/pdfs`](file:///C:/Users/Dell/Github/Shipping/corpus/02-hellenic/iron_ore/pdfs) (Ground truth authoritative PDFs)
+- **Markdown Output:** [`data/extracted/md/hellenic/iron_ore_pdf`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf) (1,188 full-fidelity PDF markdown files with `.tables.json` sidecars) & [`data/extracted/md/hellenic/iron_ore`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore) (HTML web summaries)
 - **Publication Cadence:** Daily (Mon-Fri) (Expected day: Daily)
-- **Coverage Span:** `2014-03-28` to `2026-09-28`
-- **Latest Ingested Document:** `2026-09-28_mmi-daily-iron-ore-index-report-september-28-2026_mmi-daily-iron-ore-report-for-28th-s_2c174eb1762c.pdf` (Status: **CURRENT (National Day holiday in China Oct 1-7)**)
-- **Inventory by Format:** 4518 PDFs, 1200 HTML files, 3335 Images, 3537 Markdown files
-- **Chart Extraction:** Yes (Port inventory curves, Chinese mill profit margin models)
-- **Chart Engine / Technique:** PyMuPDF 2D spatial coordinate parser + HTML index parser
-- **Stacked Series CSVs:** hellenic_iron_ore_pdf_brands_series.csv (31,272 rows), hellenic_iron_ore_daily_series.csv (1,171 rows), hellenic_capesize_c3_c5_series.csv (1,164 rows)
-- **Extraction Script:** [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py)
-- **Notes & Rules Applied:** Covers 31,000+ brand assessment rows across PB fines, Newman, Carajas, lump, and pellet premiums.
+- **Coverage Span:** `2014-03-28` to `2026-09-30` (Unbroken continuous history)
+- **Latest Ingested Document:** `2026-09-30_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-30th-September-2026.pdf` (Status: **CURRENT (Final issue before Golden Week National Day holiday Oct 1-7)**)
+- **Inventory by Format:** 4,519 PDFs, 1,200 HTML files, 3,335 Images, 4,725 Markdown files across HTML and PDF tiers
+- **Chart Extraction:** Yes (High-resolution 200 DPI vector clips for Ocean Freight, Port Inventories at 10 & 35 ports, Hot Metal BF output, and Global Shipments vs Chinese Port Arrivals)
+- **Chart Engine / Technique:** PyMuPDF 2D spatial coordinate parser + SMM vector chart bounding-box clipper (`data/extracted/charts/hellenic_iron_ore/<issue_date>/`)
+- **Extraction Scripts (Dual-Pipeline Architecture):**
+  - **Pipeline A (Historical 6-Page MMi PDFs):** [`run_hellenic_iron_ore_pdf.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_hellenic_iron_ore_pdf.py) — Parses all 6 pages cover-to-cover (Dashboard, MMi Benchmark Price Indices, Chinese Domestic Concentrates, 31 Brand Spot Assessments, Port Differentials, Futures, Freight, Port Stocks, Steel Spot Prices, Mill Profitability, and Specifications).
+  - **Pipeline B (New 1-Page SMM Daily PDFs, mid-Sept 2026+):** [`run_smm_iron_ore_daily.py`](file:///C:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_smm_iron_ore_daily.py) — Parses the redesigned Shanghai Metals Market layout (Futures Contracts, Physical & Seaborne Indices, Key View editorial narrative, Today's Highlights, Qingdao Port Spot CNY, Imported Ore USD prices, SMM Stats, 4 Price Driver vector charts, and Market Commentary).
+- **Stacked Master Series CSVs (21 CSVs, 200,000+ data rows, 2021-07-14 to 2026-09-30):**
+  - `hellenic_iron_ore_pdf_brands_series.csv` (31,470 rows) — 31+ brand spot prices (PB Fines, Newman, Carajas, MAC, SSF, BRBF, Lump/Pellet premiums)
+  - `hellenic_iron_ore_pdf_brand_specs_series.csv` (29,506 rows) — Fe %, Alumina %, Silica %, Phosphorus %, and Moisture % by brand
+  - `hellenic_iron_ore_pdf_freight_rates_series.csv` (22,257 rows) — C3 (Tubarao-Qingdao) & C5 (W. Australia-Qingdao) Capesize spot freight
+  - `hellenic_iron_ore_pdf_steel_production_consumption_series.csv` (19,679 rows) — Chinese rebar & HRC production and consumption indices
+  - `hellenic_iron_ore_pdf_import_volumes_series.csv` (17,252 rows) — Total Chinese monthly & weekly iron ore import volumes
+  - `hellenic_iron_ore_pdf_port_differentials_series.csv` (14,983 rows) — PB Fines port basis spreads across 12 Chinese port terminals
+  - `hellenic_iron_ore_pdf_indices_series.csv` (11,619 rows) — IOPI62, IOPI65, IOPI58, IOSI62, IOSI65, IOPLI62 spot and seaborne benchmarks
+  - `hellenic_iron_ore_pdf_averages_series.csv` (11,544 rows) — Multi-period rolling averages (MTD, QTD, YTD, 52-week low/high)
+  - `hellenic_iron_ore_pdf_normalisations_series.csv` (10,740 rows) — Differential penalties per 1% Fe, 1% Alumina, 1% Silica, 0.01% Phosphorus
+  - `hellenic_iron_ore_pdf_steel_mill_pnl_series.csv` (9,627 rows) — Chinese steel mill profit margin models (BF vs BOF rebar & HRC)
+  - `hellenic_iron_ore_pdf_index_comparisons_series.csv` (9,546 rows) — Relative performance spreads between benchmark indices
+  - `hellenic_iron_ore_pdf_steel_series.csv` (8,488 rows) — Spot steel market prices (Rebar, Wire rod, HRC, CRC, Medium/Heavy plate)
+  - `hellenic_iron_ore_pdf_port_inventories_series.csv` (6,067 rows) — Port stockpiles across Jingtang, Qingdao, Caofeidian, Tianjin, Rizhao
+  - `hellenic_iron_ore_table_series.csv` (5,624 rows) — Port stock vs seaborne grade parity tables
+  - `hellenic_iron_ore_pdf_domestic_concentrate_series.csv` (5,583 rows) — Domestic concentrate prices (Hanxing, Qian'an, Anshan, Zibo)
+  - `hellenic_iron_ore_daily_series.csv` (1,175 rows) — Daily core macro dashboard metrics (36 normalized columns)
+  - `hellenic_iron_ore_pdf_spreads_series.csv` (3,240 rows) — High-grade (65%) vs low-grade (58%) Fe price spreads
+  - `hellenic_iron_ore_pdf_futures_series.csv` (2,227 rows) — DCE & SGX front-month iron ore and SHFE rebar settlement prices
+  - `hellenic_iron_ore_commentary_series.csv` (1,182 rows) — Full daily desk commentary narrative text
+  - `hellenic_iron_ore_pdf_dashboard_series.csv` (127 rows) — New SMM dashboard executive indicators
+  - `hellenic_smm_market_drivers_series.csv` (10 rows) — SMM weekly operational metrics (hot metal output, blast furnace operating rates, 10-port/35-port inventory, outbound volumes)
 
 ### Hellenic: Shipbuilding & Contracting
 - **Corpus Directory:** [`corpus/02-hellenic/shipbuilding`](file:///C:/Users/Dell/Github/Shipping/corpus/02-hellenic/shipbuilding)
