@@ -18,6 +18,7 @@ import glob
 import json
 import os
 import re
+import sys
 import urllib.parse
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
@@ -25,6 +26,8 @@ import numpy as np
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[3]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 FEARNLEYS_MD_DIR = ROOT / "corpus" / "01-brokers" / "fearnleys-md"
 IMAGES_DIR = FEARNLEYS_MD_DIR / "images"
 OUT_SERIES_DIR = ROOT / "data" / "extracted" / "series"

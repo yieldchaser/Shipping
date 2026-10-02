@@ -101,9 +101,8 @@ def inspect_pdf_pages(pdf_path: Path) -> List[Dict[str, Any]]:
 
         found_kw = [kw for kw in table_keywords if kw in text_lower]
 
-        # Check for tabular layout via table finder or text lines with numbers
-        tabs = page.find_tables()
-        has_fitz_tables = len(tabs.tables) > 0 if tabs else False
+        # Check for tabular layout via drawings and line structure heuristic
+        has_fitz_tables = bool(drawings and len(text.splitlines()) > 10)
 
         pages_info.append({
             "pno": pno + 1,

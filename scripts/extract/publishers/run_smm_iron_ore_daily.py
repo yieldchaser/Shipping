@@ -821,9 +821,19 @@ def process_single_smm_report(pdf_path: Path) -> Dict[str, Any]:
 
 
 def get_all_1page_reports(pdf_root: Path) -> List[Path]:
-    """Find all 1-page SMM reports across the corpus."""
+    """Find all 1-page SMM reports across the corpus (format introduced in 2026)."""
     all_files: List[Path] = []
-    for f in sorted(pdf_root.rglob("*.pdf")):
+    candidates: List[Path] = list(pdf_root.glob("*.pdf"))
+    for yr_dir in sorted(pdf_root.iterdir()):
+        if yr_dir.is_dir():
+            try:
+                yr_val = int(yr_dir.name)
+                if yr_val >= 2026:
+                    candidates.extend(yr_dir.glob("*.pdf"))
+            except ValueError:
+                candidates.extend(yr_dir.glob("*.pdf"))
+
+    for f in sorted(candidates):
         try:
             doc = pymupdf.open(str(f))
             if len(doc) == 1:

@@ -245,7 +245,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Coverage Span:** `2024-03-25` to `2026-10-02`
 - **Latest Ingested Document:** `2026-10-02_lng-shipping-quarterly-report-q3-2026.md` (Status: **CURRENT (Harvested 2026-10-02)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-02_lng-shipping-quarterly-report-q3-2026.md`](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.md)
-- **Sample Extracted Markdown (Digest):** [`INDEX.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md/INDEX.md)
+- **Sample Extracted Markdown (Digest):** [`2026-10-02_lng-shipping-quarterly-report-q3-2026.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.md)
 - **Inventory by Format:** 180 PDFs, 0 HTML files, 2827 Images, 182 Markdown files
 - **Chart Extraction:** Yes (Top 52 econometric recurring lead-indicator models)
 - **Chart Engine / Technique:** Proprietary Dynamic Affine Calibration Engine (R^2 >= 0.999)

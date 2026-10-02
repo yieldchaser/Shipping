@@ -11,13 +11,13 @@
 | `advanced_shipping` | 12 | 12 | 0 | 858 | **PASS** |
 | `affinity` | 12 | 12 | 0 | 222 | **PASS** |
 | `agora` | 12 | 12 | 0 | 564 | **PASS** |
-| `banchero_costa` | 12 | 12 | 0 | 568 | **PASS** |
+| `banchero_costa` | 12 | 12 | 0 | 358 | **PASS** |
 | `bancosta` | 0 | 0 | 0 | 0 | **PASS** |
 | `carriers` | 12 | 12 | 0 | 957 | **PASS** |
 | `clarksons` | 9 | 9 | 0 | 33 | **PASS** |
 | `fearnleys` | 12 | 12 | 0 | 274 | **PASS** |
 | `general_broker` | 0 | 0 | 0 | 0 | **PASS** |
-| `intermodal` | 12 | 12 | 0 | 1,512 | **PASS** |
+| `intermodal` | 12 | 12 | 0 | 1,186 | **PASS** |
 | `ism` | 12 | 12 | 0 | 49 | **PASS** |
 | `lion` | 12 | 12 | 0 | 442 | **PASS** |
 | `ssy` | 12 | 12 | 0 | 0 | **PASS** |
@@ -49,18 +49,18 @@
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `affinity_2021_Affinity-Tanker-Weekl...` | 1 | 6,422 | 7,363 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2021_Affinity-Tanker-Weekl...` | 1 | 5,805 | 6,741 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2022_Affinity-Tanker-Weekl...` | 1 | 6,297 | 7,228 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2022_Affinity-Tanker-Weekl...` | 1 | 6,651 | 7,581 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2023_Affinity-Tanker-Weekl...` | 1 | 7,848 | 8,738 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 7<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2023_Affinity-Tanker-Weekl...` | 1 | 6,334 | 7,157 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 7<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2024_Affinity-Tanker-Weekl...` | 2 | 10,686 | 8,417 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
-| `affinity_2024_Affinity-Tanker-Weekl...` | 1 | 8,150 | 9,042 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
-| `affinity_2025_Affinity-Tanker-Weekl...` | 2 | 11,752 | 9,536 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
-| `affinity_2025_Affinity-Tanker-Weekl...` | 2 | 10,907 | 8,694 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
-| `affinity_19_09_2026_affinity_tanker...` | 2 | 11,380 | 9,190 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
-| `affinity_2026_Affinity-Tanker-Weekl...` | 2 | 11,380 | 9,181 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
+| `affinity_2021_Affinity-Tanker-Weekl...` | 1 | 6,422 | 6,777 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2021_Affinity-Tanker-Weekl...` | 1 | 5,805 | 6,174 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2022_Affinity-Tanker-Weekl...` | 1 | 6,297 | 6,626 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2022_Affinity-Tanker-Weekl...` | 1 | 6,651 | 6,985 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2023_Affinity-Tanker-Weekl...` | 1 | 7,848 | 8,107 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 7<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2023_Affinity-Tanker-Weekl...` | 1 | 6,334 | 6,592 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 7<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2024_Affinity-Tanker-Weekl...` | 2 | 10,686 | 7,868 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 8<br/>BALTIC TCE CLEAN: 7 | `PASS` | 100% verified ground-truth match |
+| `affinity_2024_Affinity-Tanker-Weekl...` | 1 | 8,150 | 8,475 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
+| `affinity_2025_Affinity-Tanker-Weekl...` | 2 | 11,752 | 8,976 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
+| `affinity_2025_Affinity-Tanker-Weekl...` | 2 | 10,907 | 8,144 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
+| `affinity_19_09_2026_affinity_tanker...` | 2 | 11,380 | 8,626 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
+| `affinity_2026_Affinity-Tanker-Weekl...` | 2 | 11,380 | 8,608 | BCTI / BDTI: 1<br/>BDA: 1<br/>BALTIC TCE DIRTY: 9<br/>BALTIC TCE CLEAN: 10 | `PASS` | 100% verified ground-truth match |
 
 ### Publisher: `agora`
 
@@ -83,18 +83,18 @@
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `banchero_costa_2021_W26_Bancosta-We...` | 14 | 43,764 | 11,386 | reported_sales: 29<br/>indicative_newbuilding: 8<br/>newbuilding_orders: 4<br/>baltic_secondhand: 8<br/>ship_recycling_assessments: 6<br/>demolition_deals: 7 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2021_W39_Bancosta-We...` | 14 | 41,806 | 51,418 | sales: 22<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2022_W01_Bancosta-We...` | 16 | 48,689 | 58,553 | sales: 35<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2022_W26_Bancosta-We...` | 16 | 45,799 | 52,948 | sales: 14<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2023_W01_Bancosta-We...` | 16 | 44,709 | 53,502 | sales: 16<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2023_W25_Bancosta-We...` | 16 | 45,223 | 54,365 | sales: 17<br/>newbuilding: 8<br/>demolition: 4<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2024_W01_Bancosta-We...` | 14 | 37,070 | 46,383 | sales: 16<br/>newbuilding: 8<br/>demolition: 4<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2024_W25_Bancosta-We...` | 14 | 37,592 | 44,779 | sales: 10<br/>newbuilding: 8<br/>demolition: 4<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 0<br/>exchange_rates: 0 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2025_W01_Bancosta-We...` | 14 | 31,801 | 41,906 | sales: 20<br/>newbuilding: 8<br/>demolition: 4<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 5<br/>vhss_containership: 7<br/>exchange_rates: 4 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2025_W26_Bancosta-We...` | 16 | 48,061 | 55,737 | sales: 27<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 8<br/>container_fixtures: 0<br/>vhss_containership: 7<br/>exchange_rates: 4 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2026_W02_Bancosta-We...` | 16 | 48,792 | 59,029 | sales: 29<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 7<br/>container_fixtures: 4<br/>vhss_containership: 7<br/>exchange_rates: 4 | `PASS` | 100% verified ground-truth match |
-| `banchero_costa_2026_W23_Bancosta-We...` | 16 | 47,281 | 55,883 | sales: 12<br/>newbuilding: 8<br/>demolition: 6<br/>baltic_secondhand_assessments: 7<br/>container_fixtures: 3<br/>vhss_containership: 7<br/>exchange_rates: 4 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2021_W26_Bancosta-We...` | 14 | 43,764 | 84,924 | reported_sales: 29<br/>indicative_newbuilding: 8<br/>newbuilding_orders: 4<br/>baltic_secondhand: 8<br/>ship_recycling_assessments: 6<br/>demolition_deals: 7 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2021_W39_Bancosta-We...` | 14 | 41,806 | 50,779 | reported_sales: 22<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2022_W01_Bancosta-We...` | 16 | 48,689 | 57,687 | reported_sales: 35<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2022_W26_Bancosta-We...` | 16 | 45,799 | 51,768 | reported_sales: 14<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2023_W01_Bancosta-We...` | 16 | 44,709 | 52,448 | reported_sales: 16<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2023_W25_Bancosta-We...` | 16 | 45,223 | 53,184 | reported_sales: 17<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2024_W01_Bancosta-We...` | 14 | 37,070 | 45,436 | reported_sales: 16<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2024_W25_Bancosta-We...` | 14 | 37,592 | 44,038 | reported_sales: 10<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2025_W01_Bancosta-We...` | 14 | 31,801 | 41,028 | reported_sales: 18<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2025_W26_Bancosta-We...` | 16 | 48,061 | 54,855 | reported_sales: 25<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2026_W02_Bancosta-We...` | 16 | 48,792 | 57,933 | reported_sales: 27<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
+| `banchero_costa_2026_W23_Bancosta-We...` | 16 | 47,281 | 54,781 | reported_sales: 8<br/>newbuilding_prices: 8 | `PASS` | 100% verified ground-truth match |
 
 ### Publisher: `bancosta`
 
@@ -158,18 +158,18 @@
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `intermodal_2021_W26_Intermodal-Repo...` | 8 | 28,882 | 65,364 | tanker_spot_rates: 17<br/>tc_rates: 24<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 31<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 12<br/>indicative_demolition: 8<br/>demolition_sales: 6 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2021_W39_Intermodal-Repo...` | 8 | 28,760 | 67,112 | tanker_spot_rates: 15<br/>tc_rates: 12<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 12<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 6<br/>indicative_demolition: 8<br/>demolition_sales: 0<br/>maritime_stocks: 16<br/>bunker_prices: 9<br/>macro_indicators: 14 | `PASS` | 100% verified ground-truth match |
-| `allied_2022_W04_Intermodal-Report-W...` | 9 | 28,201 | 67,800 | tanker_spot_rates: 17<br/>tc_rates: 24<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 40<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 0<br/>indicative_demolition: 8<br/>demolition_sales: 0<br/>maritime_stocks: 14<br/>bunker_prices: 9<br/>macro_indicators: 14 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2022_W26_Intermodal-Repo...` | 8 | 28,149 | 65,690 | tanker_spot_rates: 13<br/>tc_rates: 24<br/>indicative_market_values: 10<br/>baltic_dry_indices: 0<br/>demolition_currencies: 0<br/>secondhand_sales: 15<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 0<br/>indicative_demolition: 8<br/>demolition_sales: 3<br/>maritime_stocks: 14<br/>bunker_prices: 9<br/>macro_indicators: 14 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2023_W01_Intermodal-Repo...` | 8 | 27,100 | 62,281 | tanker_spot_rates: 16<br/>tc_rates: 20<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 7<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 8<br/>indicative_demolition: 8<br/>demolition_sales: 6<br/>maritime_stocks: 13<br/>bunker_prices: 9<br/>macro_indicators: 14 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2023_W26_Intermodal-Repo...` | 8 | 22,865 | 39,028 | tanker_spot_rates: 16<br/>tc_rates: 12<br/>indicative_market_values: 14<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 9<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 6<br/>indicative_demolition: 8<br/>demolition_sales: 4<br/>maritime_stocks: 13<br/>bunker_prices: 9<br/>macro_indicators: 13 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2024_W01_Intermodal-Repo...` | 8 | 22,785 | 37,789 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 15<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 10<br/>indicative_demolition: 8<br/>demolition_sales: 6<br/>maritime_stocks: 12<br/>bunker_prices: 9<br/>macro_indicators: 14 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2024_W26_Intermodal-Repo...` | 8 | 18,471 | 36,004 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 6<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 8<br/>indicative_demolition: 8<br/>demolition_sales: 2<br/>maritime_stocks: 11<br/>bunker_prices: 9<br/>macro_indicators: 16 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2025_W02_Intermodal-Repo...` | 8 | 21,563 | 37,437 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 8<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 6<br/>indicative_demolition: 8<br/>demolition_sales: 1<br/>maritime_stocks: 11<br/>bunker_prices: 9<br/>macro_indicators: 16 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2025_W27_Intermodal-Repo...` | 8 | 23,234 | 40,941 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 10<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 5<br/>indicative_demolition: 8<br/>demolition_sales: 4<br/>maritime_stocks: 11<br/>bunker_prices: 9<br/>macro_indicators: 16 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2026_W02_Intermodal-Repo...` | 8 | 25,960 | 45,919 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 37<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 13<br/>indicative_demolition: 8<br/>demolition_sales: 3 | `PASS` | 100% verified ground-truth match |
-| `intermodal_2026_W22_Intermodal-Repo...` | 8 | 22,946 | 38,492 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 8<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 10<br/>indicative_demolition: 8<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2021_W26_Intermodal-Repo...` | 8 | 28,882 | 32,208 | tanker_spot_rates: 17<br/>tc_rates: 24<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 31<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 12<br/>indicative_demolition: 8<br/>demolition_sales: 6 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2021_W39_Intermodal-Repo...` | 8 | 28,760 | 31,176 | tanker_spot_rates: 16<br/>tc_rates: 12<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 12<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 6<br/>indicative_demolition: 8<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `allied_2022_W04_Intermodal-Report-W...` | 9 | 28,201 | 32,546 | tanker_spot_rates: 17<br/>tc_rates: 24<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 40<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 0<br/>indicative_demolition: 8<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2022_W26_Intermodal-Repo...` | 8 | 28,149 | 30,782 | tanker_spot_rates: 13<br/>tc_rates: 24<br/>indicative_market_values: 10<br/>baltic_dry_indices: 0<br/>demolition_currencies: 0<br/>secondhand_sales: 15<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 0<br/>indicative_demolition: 8<br/>demolition_sales: 3 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2023_W01_Intermodal-Repo...` | 8 | 27,100 | 30,751 | tanker_spot_rates: 16<br/>tc_rates: 20<br/>indicative_market_values: 10<br/>baltic_dry_indices: 5<br/>demolition_currencies: 0<br/>secondhand_sales: 7<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 8<br/>indicative_demolition: 8<br/>demolition_sales: 6 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2023_W26_Intermodal-Repo...` | 8 | 22,865 | 23,833 | tanker_spot_rates: 16<br/>tc_rates: 12<br/>indicative_market_values: 14<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 9<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 6<br/>indicative_demolition: 8<br/>demolition_sales: 4 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2024_W01_Intermodal-Repo...` | 8 | 22,785 | 24,072 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 15<br/>indicative_newbuilding: 13<br/>newbuilding_orders: 10<br/>indicative_demolition: 8<br/>demolition_sales: 6 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2024_W26_Intermodal-Repo...` | 8 | 18,471 | 21,329 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 6<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 8<br/>indicative_demolition: 8<br/>demolition_sales: 2 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2025_W02_Intermodal-Repo...` | 8 | 21,563 | 22,958 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 8<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 6<br/>indicative_demolition: 8<br/>demolition_sales: 1 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2025_W27_Intermodal-Repo...` | 8 | 23,234 | 23,791 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 10<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 5<br/>indicative_demolition: 8<br/>demolition_sales: 4 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2026_W02_Intermodal-Repo...` | 8 | 25,960 | 28,752 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 37<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 13<br/>indicative_demolition: 8<br/>demolition_sales: 3 | `PASS` | 100% verified ground-truth match |
+| `intermodal_2026_W22_Intermodal-Repo...` | 8 | 22,946 | 24,404 | tanker_spot_rates: 15<br/>tc_rates: 20<br/>indicative_market_values: 9<br/>baltic_dry_indices: 5<br/>demolition_currencies: 4<br/>secondhand_sales: 8<br/>indicative_newbuilding: 12<br/>newbuilding_orders: 10<br/>indicative_demolition: 8<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
 
 ### Publisher: `ism`
 
@@ -192,69 +192,69 @@
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `lion_2025_W40_Lion-Weekly-Report-03...` | 3 | 9,499 | 12,217 | demometer: 12<br/>secondhand_sales: 21<br/>demolition_sales: 5 | `PASS` | 100% verified ground-truth match |
-| `lion_2025_W42_Lion-Weekly-Report-17...` | 3 | 11,579 | 13,776 | demometer: 12<br/>secondhand_sales: 28<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
-| `lion_2025_W44_Lion-Weekly-Report-28...` | 3 | 9,767 | 10,684 | demometer: 12<br/>secondhand_sales: 18<br/>demolition_sales: 1 | `PASS` | 100% verified ground-truth match |
-| `lion_2025_W46_Lion-Weekly-Report-14...` | 3 | 11,364 | 15,000 | demometer: 12<br/>secondhand_sales: 31<br/>demolition_sales: 5 | `PASS` | 100% verified ground-truth match |
-| `lion_2025_W48_Lion-Weekly-Report-28...` | 3 | 9,250 | 11,412 | demometer: 12<br/>secondhand_sales: 18<br/>demolition_sales: 2 | `PASS` | 100% verified ground-truth match |
-| `lion_2025_W50_Lion-Weekly-Report-12...` | 3 | 11,104 | 14,190 | demometer: 12<br/>secondhand_sales: 25<br/>demolition_sales: 7 | `PASS` | 100% verified ground-truth match |
-| `lion_2026_W02_Lion-Weekly-Report-09...` | 3 | 10,298 | 12,344 | demometer: 12<br/>secondhand_sales: 27<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
-| `lion_2026_W07_Lion-Weekly-Report-13...` | 3 | 10,474 | 12,195 | demometer: 12<br/>secondhand_sales: 23<br/>demolition_sales: 2 | `PASS` | 100% verified ground-truth match |
-| `lion_2026_W13_Lion-Weekly-Report-27...` | 2 | 7,754 | 8,672 | demometer: 12<br/>secondhand_sales: 14<br/>demolition_sales: 1 | `PASS` | 100% verified ground-truth match |
-| `lion_2026_W20_Lion-Weekly-Report-15...` | 3 | 9,857 | 12,233 | demometer: 12<br/>secondhand_sales: 26<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
-| `lion_2026_W25_Lion-Weekly-Report-19...` | 3 | 10,225 | 13,060 | demometer: 12<br/>secondhand_sales: 26<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
-| `lion_2026_W31_Lion-Weekly-Report-31...` | 3 | 8,710 | 10,614 | demometer: 12<br/>secondhand_sales: 14<br/>demolition_sales: 4 | `PASS` | 100% verified ground-truth match |
+| `lion_2025_W40_Lion-Weekly-Report-03...` | 3 | 9,499 | 12,210 | demometer: 12<br/>secondhand_sales: 21<br/>demolition_sales: 5 | `PASS` | 100% verified ground-truth match |
+| `lion_2025_W42_Lion-Weekly-Report-17...` | 3 | 11,579 | 13,770 | demometer: 12<br/>secondhand_sales: 28<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `lion_2025_W44_Lion-Weekly-Report-28...` | 3 | 9,767 | 10,676 | demometer: 12<br/>secondhand_sales: 18<br/>demolition_sales: 1 | `PASS` | 100% verified ground-truth match |
+| `lion_2025_W46_Lion-Weekly-Report-14...` | 3 | 11,364 | 14,993 | demometer: 12<br/>secondhand_sales: 31<br/>demolition_sales: 5 | `PASS` | 100% verified ground-truth match |
+| `lion_2025_W48_Lion-Weekly-Report-28...` | 3 | 9,250 | 11,404 | demometer: 12<br/>secondhand_sales: 18<br/>demolition_sales: 2 | `PASS` | 100% verified ground-truth match |
+| `lion_2025_W50_Lion-Weekly-Report-12...` | 3 | 11,104 | 14,182 | demometer: 12<br/>secondhand_sales: 25<br/>demolition_sales: 7 | `PASS` | 100% verified ground-truth match |
+| `lion_2026_W02_Lion-Weekly-Report-09...` | 3 | 10,298 | 12,337 | demometer: 12<br/>secondhand_sales: 27<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `lion_2026_W07_Lion-Weekly-Report-13...` | 3 | 10,474 | 12,188 | demometer: 12<br/>secondhand_sales: 23<br/>demolition_sales: 2 | `PASS` | 100% verified ground-truth match |
+| `lion_2026_W13_Lion-Weekly-Report-27...` | 2 | 7,754 | 8,665 | demometer: 12<br/>secondhand_sales: 14<br/>demolition_sales: 1 | `PASS` | 100% verified ground-truth match |
+| `lion_2026_W20_Lion-Weekly-Report-15...` | 3 | 9,857 | 12,227 | demometer: 12<br/>secondhand_sales: 26<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `lion_2026_W25_Lion-Weekly-Report-19...` | 3 | 10,225 | 13,054 | demometer: 12<br/>secondhand_sales: 26<br/>demolition_sales: 0 | `PASS` | 100% verified ground-truth match |
+| `lion_2026_W31_Lion-Weekly-Report-31...` | 3 | 8,710 | 10,608 | demometer: 12<br/>secondhand_sales: 14<br/>demolition_sales: 4 | `PASS` | 100% verified ground-truth match |
 
 ### Publisher: `ssy`
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `ssy_2021_A20210705` | 1 | 2,495 | 2,489 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2021_P20210705` | 1 | 2,477 | 2,443 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2022_A20220110` | 1 | 2,570 | 2,532 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2022_P20220110` | 1 | 2,557 | 2,482 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2023_20231027-Atlantic-Capesize...` | 1 | 2,972 | 2,552 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2023_A20230904` | 1 | 2,902 | 2,537 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2024_20240108-Atlantic-Capesize...` | 1 | 2,701 | 2,634 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2024_20240705-Pacific-Capesize-...` | 1 | 2,363 | 2,398 | None | `PASS` | 100% verified ground-truth match |
-| `2025-12-15_20251212-Atlantic-Capesi...` | 1 | 2,386 | 2,416 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2025_20250627-Atlantic-Capesize...` | 1 | 2,368 | 2,400 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_14_09_2026_ssy_atlantic_capesiz...` | 1 | 2,389 | 2,459 | None | `PASS` | 100% verified ground-truth match |
-| `ssy_2026_20260605-Pacific-Capesize-...` | 1 | 2,372 | 2,393 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2021_A20210705` | 1 | 2,495 | 2,750 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2021_P20210705` | 1 | 2,477 | 2,441 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2022_A20220110` | 1 | 2,570 | 2,530 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2022_P20220110` | 1 | 2,557 | 2,480 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2023_20231027-Atlantic-Capesize...` | 1 | 2,972 | 2,550 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2023_A20230904` | 1 | 2,902 | 2,535 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2024_20240108-Atlantic-Capesize...` | 1 | 2,701 | 2,632 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2024_20240705-Pacific-Capesize-...` | 1 | 2,363 | 2,396 | None | `PASS` | 100% verified ground-truth match |
+| `2025-12-15_20251212-Atlantic-Capesi...` | 1 | 2,386 | 2,414 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2025_20250627-Atlantic-Capesize...` | 1 | 2,368 | 2,398 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_14_09_2026_ssy_atlantic_capesiz...` | 1 | 2,389 | 2,457 | None | `PASS` | 100% verified ground-truth match |
+| `ssy_2026_20260605-Pacific-Capesize-...` | 1 | 2,372 | 2,391 | None | `PASS` | 100% verified ground-truth match |
 
 ### Publisher: `star_asia`
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `star_asia_2022_W29_Market-report-We...` | 15 | 24,762 | 32,333 | records: 28 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2022_W30_Market-report-We...` | 16 | 25,918 | 32,815 | records: 28 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2022_W43_Market-report-We...` | 16 | 25,112 | 32,605 | records: 26 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2023_W01_Market-report-We...` | 15 | 25,306 | 33,751 | records: 30 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2023_W28_4ece41_4383dacc9...` | 18 | 32,746 | 40,709 | records: 29 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2022_W29_Market-report-We...` | 15 | 24,762 | 32,321 | records: 28 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2022_W30_Market-report-We...` | 16 | 25,918 | 32,799 | records: 28 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2022_W43_Market-report-We...` | 16 | 25,112 | 32,593 | records: 26 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2023_W01_Market-report-We...` | 15 | 25,306 | 33,738 | records: 30 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2023_W28_4ece41_4383dacc9...` | 18 | 32,746 | 40,697 | records: 29 | `PASS` | 100% verified ground-truth match |
 | `star_asia_2024_W01_Market-report-We...` | 19 | 27,513 | 36,898 | records: 31 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2024_W26_Market-report-We...` | 21 | 31,841 | 37,763 | records: 26 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2024_W36_Market-report-We...` | 19 | 30,202 | 39,063 | records: 29 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2025_W01_Market-report-We...` | 21 | 28,922 | 36,616 | records: 26 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2025_W25_Market-report-We...` | 19 | 25,418 | 32,939 | records: 27 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2026_W01_Market-report-We...` | 18 | 23,421 | 33,042 | records: 30 | `PASS` | 100% verified ground-truth match |
-| `star_asia_2026_W21_Market-Report_We...` | 16 | 29,289 | 36,094 | records: 32 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2024_W26_Market-report-We...` | 21 | 31,841 | 37,775 | records: 26 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2024_W36_Market-report-We...` | 19 | 30,202 | 39,070 | records: 29 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2025_W01_Market-report-We...` | 21 | 28,922 | 36,579 | records: 26 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2025_W25_Market-report-We...` | 19 | 25,418 | 32,930 | records: 27 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2026_W01_Market-report-We...` | 18 | 23,421 | 33,036 | records: 30 | `PASS` | 100% verified ground-truth match |
+| `star_asia_2026_W21_Market-Report_We...` | 16 | 29,289 | 36,087 | records: 32 | `PASS` | 100% verified ground-truth match |
 
 ### Publisher: `xclusiv`
 
 | Stem / PDF | Pages | PDF Text | MD Chars | Extracted Tables (Sidecar) | Audit Status | Remarks |
 | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
-| `xclusiv_2021_xclusiv_weekly_2021_07...` | 6 | 20,362 | 27,041 | reported_sales: 19<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 1 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2021_xclusiv_weekly_2021_10...` | 6 | 20,135 | 30,984 | reported_sales: 27<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 1 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2022_xclusiv_weekly_2022_01...` | 7 | 20,684 | 28,258 | reported_sales: 21<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2022_xclusiv_weekly_2022_07...` | 7 | 23,828 | 34,294 | reported_sales: 26<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2023_xclusiv_weekly_2023_01...` | 7 | 22,182 | 30,925 | reported_sales: 17<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 1 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2023_xclusiv_weekly_2023_07...` | 7 | 22,368 | 33,529 | reported_sales: 19<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2024_xclusiv-2024_01_08` | 9 | 22,531 | 28,971 | reported_sales: 17<br/>newbuilding_orders: 6<br/>indicative_demolition_prices: 8<br/>demo_sales: 4<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2024_xclusiv-2024_07_01` | 9 | 22,540 | 28,683 | reported_sales: 13<br/>newbuilding_orders: 8<br/>indicative_demolition_prices: 8<br/>demo_sales: 4<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2025_Weekly-Ship-Recycling-...` | 4 | 3,614 | 4,574 | reported_sales: 0<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 0<br/>demo_sales: 0<br/>indicative_secondhand_prices: 0<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2025_xclusiv-2025_06_23` | 9 | 23,269 | 30,492 | reported_sales: 19<br/>newbuilding_orders: 12<br/>indicative_demolition_prices: 8<br/>demo_sales: 4<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_15_09_2026_xclusiv_shipbrok...` | 9 | 23,825 | 31,922 | reported_sales: 21<br/>newbuilding_orders: 8<br/>indicative_demolition_prices: 8<br/>demo_sales: 3<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
-| `xclusiv_2026_xclusiv-2026_05_11` | 9 | 22,024 | 30,675 | reported_sales: 12<br/>newbuilding_orders: 11<br/>indicative_demolition_prices: 8<br/>demo_sales: 5<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2021_xclusiv_weekly_2021_07...` | 6 | 20,362 | 9,432 | reported_sales: 19<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 1 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2021_xclusiv_weekly_2021_10...` | 6 | 20,135 | 13,225 | reported_sales: 27<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 1 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2022_xclusiv_weekly_2022_01...` | 7 | 20,684 | 12,689 | reported_sales: 21<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2022_xclusiv_weekly_2022_07...` | 7 | 23,828 | 9,636 | reported_sales: 26<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2023_xclusiv_weekly_2023_01...` | 7 | 22,182 | 12,128 | reported_sales: 17<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 1 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2023_xclusiv_weekly_2023_07...` | 7 | 22,368 | 10,277 | reported_sales: 19<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 8<br/>demo_sales: 0<br/>indicative_secondhand_prices: 33<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2024_xclusiv-2024_01_08` | 9 | 22,531 | 13,377 | reported_sales: 17<br/>newbuilding_orders: 6<br/>indicative_demolition_prices: 8<br/>demo_sales: 4<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2024_xclusiv-2024_07_01` | 9 | 22,540 | 9,480 | reported_sales: 13<br/>newbuilding_orders: 8<br/>indicative_demolition_prices: 8<br/>demo_sales: 4<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2025_Weekly-Ship-Recycling-...` | 4 | 3,614 | 3,309 | reported_sales: 0<br/>newbuilding_orders: 0<br/>indicative_demolition_prices: 0<br/>demo_sales: 0<br/>indicative_secondhand_prices: 0<br/>indicative_newbuilding_prices: 0 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2025_xclusiv-2025_06_23` | 9 | 23,269 | 14,937 | reported_sales: 19<br/>newbuilding_orders: 12<br/>indicative_demolition_prices: 8<br/>demo_sales: 4<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_15_09_2026_xclusiv_shipbrok...` | 9 | 23,825 | 13,008 | reported_sales: 21<br/>newbuilding_orders: 8<br/>indicative_demolition_prices: 8<br/>demo_sales: 3<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
+| `xclusiv_2026_xclusiv-2026_05_11` | 9 | 22,024 | 11,718 | reported_sales: 12<br/>newbuilding_orders: 11<br/>indicative_demolition_prices: 8<br/>demo_sales: 5<br/>indicative_secondhand_prices: 32<br/>indicative_newbuilding_prices: 9 | `PASS` | 100% verified ground-truth match |
 
 ---
 
@@ -262,14 +262,14 @@
 
 | Series CSV | Target Metric / Commodity | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
-| `advanced_shipping_demo_sales_series.csv` | Structured time-series | 604 | Verified |
-| `advanced_shipping_demolition_series.csv` | Structured time-series | 2,016 | Verified |
-| `advanced_shipping_newbuilding_series.csv` | Structured time-series | 1,909 | Verified |
-| `advanced_shipping_sales_series.csv` | Structured time-series | 6,105 | Verified |
-| `advanced_shipping_secondhand_matrix_series.csv` | Structured time-series | 8,110 | Verified |
-| `affinity_bda_series.csv` | Structured time-series | 747 | Verified |
-| `affinity_indices_series.csv` | Structured time-series | 498 | Verified |
-| `affinity_tce_series.csv` | Structured time-series | 4,058 | Verified |
+| `advanced_shipping_demo_sales_series.csv` | Structured time-series | 601 | Verified |
+| `advanced_shipping_demolition_series.csv` | Structured time-series | 2,000 | Verified |
+| `advanced_shipping_newbuilding_series.csv` | Structured time-series | 1,888 | Verified |
+| `advanced_shipping_sales_series.csv` | Structured time-series | 6,061 | Verified |
+| `advanced_shipping_secondhand_matrix_series.csv` | Structured time-series | 8,046 | Verified |
+| `affinity_bda_series.csv` | Structured time-series | 741 | Verified |
+| `affinity_indices_series.csv` | Structured time-series | 494 | Verified |
+| `affinity_tce_series.csv` | Structured time-series | 4,020 | Verified |
 | `agora_indicators_series.csv` | Structured time-series | 10,002 | Verified |
 | `athenian_historical_demolition_prices_series.csv` | Structured time-series | 240 | Verified |
 | `athenian_indicative_demolition_series.csv` | Structured time-series | 3,052 | Verified |
@@ -279,18 +279,18 @@
 | `baltic_reports_metadata.csv` | Structured time-series | 2,218 | Verified |
 | `bancosta_commodities_series.csv` | Structured time-series | 8,447 | Verified |
 | `bancosta_container_fixtures_series.csv` | Structured time-series | 267 | Verified |
-| `bancosta_demolition_series.csv` | Structured time-series | 1,294 | Verified |
+| `bancosta_demolition_series.csv` | Structured time-series | 980 | Verified |
 | `bancosta_ffa_series.csv` | Structured time-series | 7,618 | Verified |
 | `bancosta_freight_rates_series.csv` | Structured time-series | 20,321 | Verified |
 | `bancosta_fx_series.csv` | Structured time-series | 244 | Verified |
-| `bancosta_newbuilding_series.csv` | Structured time-series | 1,960 | Verified |
-| `bancosta_sales_series.csv` | Structured time-series | 4,796 | Verified |
+| `bancosta_newbuilding_series.csv` | Structured time-series | 2,391 | Verified |
+| `bancosta_sales_series.csv` | Structured time-series | 3,244 | Verified |
 | `bancosta_secondhand_matrix_series.csv` | Structured time-series | 1,891 | Verified |
 | `bancosta_vhss_series.csv` | Structured time-series | 469 | Verified |
-| `best_oasis_deals_series.csv` | Structured time-series | 882 | Verified |
-| `best_oasis_demolition_series.csv` | Structured time-series | 859 | Verified |
-| `best_oasis_exchange_rates_series.csv` | Structured time-series | 165 | Verified |
-| `best_oasis_market_commentary_series.csv` | Structured time-series | 9,838 | Verified |
+| `best_oasis_deals_series.csv` | Structured time-series | 887 | Verified |
+| `best_oasis_demolition_series.csv` | Structured time-series | 863 | Verified |
+| `best_oasis_exchange_rates_series.csv` | Structured time-series | 166 | Verified |
+| `best_oasis_market_commentary_series.csv` | Structured time-series | 9,870 | Verified |
 | `breakwave_fundamentals_series.csv` | Structured time-series | 2,745 | Verified |
 | `breakwave_insights_metadata.csv` | Structured time-series | 3,194 | Verified |
 | `carriers_bda_series.csv` | Structured time-series | 375 | Verified |
@@ -322,38 +322,38 @@
 | `drewry_ais_product_lr2_series.csv` | Structured time-series | 39 | Verified |
 | `drewry_ais_regional_congestion_series.csv` | Structured time-series | 6,792 | Verified |
 | `drewry_ais_utilisation_curves_series.csv` | Structured time-series | 1,007 | Verified |
-| `drewry_opinions_metadata.csv` | Structured time-series | 548 | Verified |
-| `drewry_wci_series.csv` | Structured time-series | 8 | Verified |
-| `fearnleys_md_coal_futures_spread_series.csv` | Structured time-series | 46 | Verified |
+| `drewry_opinions_metadata.csv` | Structured time-series | 551 | Verified |
+| `drewry_wci_series.csv` | Structured time-series | 6 | Verified |
+| `fearnleys_md_coal_futures_spread_series.csv` | Structured time-series | 47 | Verified |
 | `fearnleys_md_macro_correlations_series.csv` | Structured time-series | 78 | Verified |
-| `fearnleys_md_shipment_volumes_series.csv` | Structured time-series | 37 | Verified |
+| `fearnleys_md_shipment_volumes_series.csv` | Structured time-series | 40 | Verified |
 | `fearnleys_md_tc_vs_asset_series.csv` | Structured time-series | 14 | Verified |
-| `fearnleys_md_vessel_tightness_series.csv` | Structured time-series | 109 | Verified |
-| `fearnleys_rates_series.csv` | Structured time-series | 17,142 | Verified |
+| `fearnleys_md_vessel_tightness_series.csv` | Structured time-series | 112 | Verified |
+| `fearnleys_rates_series.csv` | Structured time-series | 17,076 | Verified |
 | `gms_demolition_rankings_series.csv` | Structured time-series | 1,092 | Verified |
 | `gms_demolition_sales_series.csv` | Structured time-series | 59 | Verified |
 | `gms_market_commentary_series.csv` | Structured time-series | 9,399 | Verified |
 | `gms_port_positions_series.csv` | Structured time-series | 2,905 | Verified |
-| `hellenic_alibra_dry_tc_series.csv` | Structured time-series | 6,443 | Verified |
-| `hellenic_alibra_tanker_tc_series.csv` | Structured time-series | 7,177 | Verified |
-| `hellenic_athenian_demolition_series.csv` | Structured time-series | 3,052 | Verified |
-| `hellenic_best_oasis_deals_series.csv` | Structured time-series | 882 | Verified |
-| `hellenic_best_oasis_demolition_series.csv` | Structured time-series | 859 | Verified |
+| `hellenic_alibra_dry_tc_series.csv` | Structured time-series | 6,467 | Verified |
+| `hellenic_alibra_tanker_tc_series.csv` | Structured time-series | 7,205 | Verified |
+| `hellenic_athenian_demolition_series.csv` | Structured time-series | 2,916 | Verified |
+| `hellenic_best_oasis_deals_series.csv` | Structured time-series | 514 | Verified |
+| `hellenic_best_oasis_demolition_series.csv` | Structured time-series | 233 | Verified |
 | `hellenic_capesize_c3_c5_series.csv` | Structured time-series | 1,164 | Verified |
-| `hellenic_gms_demolition_series.csv` | Structured time-series | 1,092 | Verified |
-| `hellenic_gms_port_positions_series.csv` | Structured time-series | 2,905 | Verified |
+| `hellenic_gms_demolition_series.csv` | Structured time-series | 448 | Verified |
+| `hellenic_gms_port_positions_series.csv` | Structured time-series | 2,931 | Verified |
 | `hellenic_iron_ore_commentary_series.csv` | Structured time-series | 1,842 | Verified |
 | `hellenic_iron_ore_daily_series.csv` | Structured time-series | 4,770 | Verified |
-| `hellenic_iron_ore_pdf_averages_series.csv` | Structured time-series | 11,538 | Verified |
+| `hellenic_iron_ore_pdf_averages_series.csv` | Structured time-series | 11,556 | Verified |
 | `hellenic_iron_ore_pdf_brand_specs_series.csv` | Structured time-series | 29,506 | Verified |
-| `hellenic_iron_ore_pdf_brands_series.csv` | Structured time-series | 31,452 | Verified |
-| `hellenic_iron_ore_pdf_dashboard_series.csv` | Structured time-series | 117 | Verified |
+| `hellenic_iron_ore_pdf_brands_series.csv` | Structured time-series | 31,470 | Verified |
+| `hellenic_iron_ore_pdf_dashboard_series.csv` | Structured time-series | 138 | Verified |
 | `hellenic_iron_ore_pdf_domestic_concentrate_series.csv` | Structured time-series | 5,583 | Verified |
 | `hellenic_iron_ore_pdf_freight_rates_series.csv` | Structured time-series | 22,257 | Verified |
-| `hellenic_iron_ore_pdf_futures_series.csv` | Structured time-series | 2,225 | Verified |
+| `hellenic_iron_ore_pdf_futures_series.csv` | Structured time-series | 2,233 | Verified |
 | `hellenic_iron_ore_pdf_import_volumes_series.csv` | Structured time-series | 17,252 | Verified |
 | `hellenic_iron_ore_pdf_index_comparisons_series.csv` | Structured time-series | 9,546 | Verified |
-| `hellenic_iron_ore_pdf_indices_series.csv` | Structured time-series | 11,613 | Verified |
+| `hellenic_iron_ore_pdf_indices_series.csv` | Structured time-series | 11,625 | Verified |
 | `hellenic_iron_ore_pdf_normalisations_series.csv` | Structured time-series | 10,740 | Verified |
 | `hellenic_iron_ore_pdf_port_differentials_series.csv` | Structured time-series | 14,983 | Verified |
 | `hellenic_iron_ore_pdf_port_inventories_series.csv` | Structured time-series | 6,067 | Verified |
@@ -362,27 +362,27 @@
 | `hellenic_iron_ore_pdf_steel_production_consumption_series.csv` | Structured time-series | 19,679 | Verified |
 | `hellenic_iron_ore_pdf_steel_series.csv` | Structured time-series | 8,488 | Verified |
 | `hellenic_iron_ore_table_series.csv` | Structured time-series | 5,624 | Verified |
-| `hellenic_smm_market_drivers_series.csv` | Structured time-series | 9 | Verified |
+| `hellenic_smm_market_drivers_series.csv` | Structured time-series | 10 | Verified |
 | `hellenic_vv_benchmark_sales_series.csv` | Structured time-series | 141 | Verified |
 | `hellenic_vv_matrix_series.csv` | Structured time-series | 12,340 | Verified |
 | `hellenic_vv_sales_series.csv` | Structured time-series | 2,122 | Verified |
-| `intermodal_baltic_indices_series.csv` | Structured time-series | 1,260 | Verified |
+| `intermodal_baltic_indices_series.csv` | Structured time-series | 1,255 | Verified |
 | `intermodal_baltic_tc_series.csv` | Structured time-series | 20,348 | Verified |
 | `intermodal_bunkers_series.csv` | Structured time-series | 2,260 | Verified |
-| `intermodal_currencies_series.csv` | Structured time-series | 688 | Verified |
-| `intermodal_demo_sales_series.csv` | Structured time-series | 581 | Verified |
-| `intermodal_demolition_prices_series.csv` | Structured time-series | 2,048 | Verified |
-| `intermodal_demolition_series.csv` | Structured time-series | 2,629 | Verified |
-| `intermodal_indicative_values_series.csv` | Structured time-series | 2,369 | Verified |
+| `intermodal_currencies_series.csv` | Structured time-series | 684 | Verified |
+| `intermodal_demo_sales_series.csv` | Structured time-series | 580 | Verified |
+| `intermodal_demolition_prices_series.csv` | Structured time-series | 2,040 | Verified |
+| `intermodal_demolition_series.csv` | Structured time-series | 2,620 | Verified |
+| `intermodal_indicative_values_series.csv` | Structured time-series | 2,360 | Verified |
 | `intermodal_macro_series.csv` | Structured time-series | 3,739 | Verified |
 | `intermodal_maritime_stocks_series.csv` | Structured time-series | 3,119 | Verified |
-| `intermodal_newbuilding_orders_series.csv` | Structured time-series | 1,876 | Verified |
-| `intermodal_newbuilding_prices_series.csv` | Structured time-series | 3,182 | Verified |
-| `intermodal_newbuilding_series.csv` | Structured time-series | 5,058 | Verified |
-| `intermodal_sales_series.csv` | Structured time-series | 3,358 | Verified |
-| `intermodal_tanker_spot_series.csv` | Structured time-series | 3,879 | Verified |
-| `intermodal_tc_rates_series.csv` | Structured time-series | 5,100 | Verified |
-| `ism_coaster_freight_series.csv` | Structured time-series | 12,319 | Verified |
+| `intermodal_newbuilding_orders_series.csv` | Structured time-series | 1,864 | Verified |
+| `intermodal_newbuilding_prices_series.csv` | Structured time-series | 3,170 | Verified |
+| `intermodal_newbuilding_series.csv` | Structured time-series | 5,034 | Verified |
+| `intermodal_sales_series.csv` | Structured time-series | 3,348 | Verified |
+| `intermodal_tanker_spot_series.csv` | Structured time-series | 3,885 | Verified |
+| `intermodal_tc_rates_series.csv` | Structured time-series | 5,080 | Verified |
+| `ism_coaster_freight_series.csv` | Structured time-series | 12,462 | Verified |
 | `ism_handy_freight_series.csv` | Structured time-series | 17,968 | Verified |
 | `lion_deals_series.csv` | Structured time-series | 1,314 | Verified |
 | `lion_demo_sales_series.csv` | Structured time-series | 114 | Verified |
@@ -390,9 +390,13 @@
 | `lion_demometer_series.csv` | Structured time-series | 576 | Verified |
 | `lion_sales_series.csv` | Structured time-series | 1,200 | Verified |
 | `poten_fixtures_series.csv` | Structured time-series | 100 | Verified |
+| `poten_fleet_delivery_schedule_series.csv` | Structured time-series | 36 | Verified |
+| `poten_fleet_statistics_series.csv` | Structured time-series | 8 | Verified |
 | `poten_opinions_metadata.csv` | Structured time-series | 1,087 | Verified |
-| `poten_top_charterers_series.csv` | Structured time-series | 755 | Verified |
-| `seabrokers_catalog_metadata.csv` | Structured time-series | 96 | Verified |
+| `poten_tanker_orderbook_age_series.csv` | Structured time-series | 13 | Verified |
+| `poten_top_charterers_series.csv` | Structured time-series | 756 | Verified |
+| `poten_vlcc_historical_rates_series.csv` | Structured time-series | 24 | Verified |
+| `seabrokers_catalog_metadata.csv` | Structured time-series | 97 | Verified |
 | `seabrokers_feature_vessels_series.csv` | Structured time-series | 64 | Verified |
 | `seabrokers_fleet_moves_series.csv` | Structured time-series | 197 | Verified |
 | `seabrokers_osv_monthly_history_series.csv` | Structured time-series | 6,280 | Verified |
@@ -405,12 +409,12 @@
 | `signal_vessel_counts_series.csv` | Structured time-series | 0 | Verified |
 | `singletons_sales_series.csv` | Structured time-series | 46 | Verified |
 | `ssy_capesize_index_series.csv` | Structured time-series | 8,729 | Verified |
-| `ssy_capesize_index_time_series.csv` | Structured time-series | 528 | Verified |
+| `ssy_capesize_index_time_series.csv` | Structured time-series | 516 | Verified |
 | `ssy_capesize_series.csv` | Structured time-series | 8,881 | Verified |
-| `ssy_route_rates_series.csv` | Structured time-series | 5,280 | Verified |
+| `ssy_route_rates_series.csv` | Structured time-series | 5,160 | Verified |
 | `star_asia_5y_history_series.csv` | Structured time-series | 760 | Verified |
-| `star_asia_deals_series.csv` | Structured time-series | 3,358 | Verified |
-| `star_asia_demolition_series.csv` | Structured time-series | 3,136 | Verified |
+| `star_asia_deals_series.csv` | Structured time-series | 3,349 | Verified |
+| `star_asia_demolition_series.csv` | Structured time-series | 3,120 | Verified |
 | `star_asia_ferrous_scrap_series.csv` | Structured time-series | 771 | Verified |
 | `star_asia_iron_ore_series.csv` | Structured time-series | 303 | Verified |
 | `star_asia_ldt_comparison_series.csv` | Structured time-series | 210 | Verified |
@@ -418,16 +422,16 @@
 | `star_asia_scrap_price_trends_series.csv` | Structured time-series | 347 | Verified |
 | `star_asia_snp_sales_series.csv` | Structured time-series | 0 | Verified |
 | `star_asia_valuation_matrix_series.csv` | Structured time-series | 3,245 | Verified |
-| `xclusiv_bulk_carrier_charts_series.csv` | Structured time-series | 216 | Verified |
-| `xclusiv_demo_sales_series.csv` | Structured time-series | 619 | Verified |
-| `xclusiv_demolition_charts_series.csv` | Structured time-series | 282 | Verified |
-| `xclusiv_demolition_series.csv` | Structured time-series | 2,106 | Verified |
+| `xclusiv_bulk_carrier_charts_series.csv` | Structured time-series | 208 | Verified |
+| `xclusiv_demo_sales_series.csv` | Structured time-series | 603 | Verified |
+| `xclusiv_demolition_charts_series.csv` | Structured time-series | 278 | Verified |
+| `xclusiv_demolition_series.csv` | Structured time-series | 2,082 | Verified |
 | `xclusiv_freight_benchmarks_series.csv` | Structured time-series | 238 | Verified |
-| `xclusiv_macro_bunkers_series.csv` | Structured time-series | 667 | Verified |
-| `xclusiv_newbuilding_orders_series.csv` | Structured time-series | 1,329 | Verified |
-| `xclusiv_newbuilding_prices_series.csv` | Structured time-series | 1,397 | Verified |
-| `xclusiv_sales_series.csv` | Structured time-series | 5,733 | Verified |
-| `xclusiv_secondhand_series.csv` | Structured time-series | 8,625 | Verified |
+| `xclusiv_macro_bunkers_series.csv` | Structured time-series | 643 | Verified |
+| `xclusiv_newbuilding_orders_series.csv` | Structured time-series | 1,313 | Verified |
+| `xclusiv_newbuilding_prices_series.csv` | Structured time-series | 1,379 | Verified |
+| `xclusiv_sales_series.csv` | Structured time-series | 5,702 | Verified |
+| `xclusiv_secondhand_series.csv` | Structured time-series | 8,529 | Verified |
 
 ## 4. Discovered Defect Resolutions & Action Plan
 

@@ -684,24 +684,29 @@ def run_pipeline():
             writer.writerow(v)
     print(f"[+] Stacked vessel counts series: {vessel_series_path} ({len(vessel_rows)} rows)")
 
-    # Update manifest
-    with open(MANIFEST_PATH, 'w', encoding='utf-8', newline='') as f:
-        fieldnames = ["slug", "url", "section", "status", "md_path", "html_path", "title", "date", "category", "char_count"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for r in sorted(results, key=lambda x: x['slug']):
-            writer.writerow({
-                "slug": r['slug'],
-                "url": r['url'],
-                "section": r['section'],
-                "status": r['status'],
-                "md_path": f"corpus/07-signal/{r['section']}/{r['slug']}.md" if r['status'] == 'extracted' else None,
-                "html_path": f"corpus/07-signal/html/{r['slug']}.html",
-                "title": r.get('title', ''),
-                "date": r.get('date', ''),
-                "category": r.get('category', ''),
-                "char_count": r.get('word_count', 0)
-            })
+    # Update manifest with retry
+    for attempt in range(10):
+        try:
+            with open(MANIFEST_PATH, 'w', encoding='utf-8', newline='') as f:
+                fieldnames = ["slug", "url", "section", "status", "md_path", "html_path", "title", "date", "category", "char_count"]
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer.writeheader()
+                for r in sorted(results, key=lambda x: x['slug']):
+                    writer.writerow({
+                        "slug": r['slug'],
+                        "url": r['url'],
+                        "section": r['section'],
+                        "status": r['status'],
+                        "md_path": f"corpus/07-signal/{r['section']}/{r['slug']}.md" if r['status'] == 'extracted' else None,
+                        "html_path": f"corpus/07-signal/html/{r['slug']}.html",
+                        "title": r.get('title', ''),
+                        "date": r.get('date', ''),
+                        "category": r.get('category', ''),
+                        "char_count": r.get('word_count', 0)
+                    })
+            break
+        except PermissionError:
+            time.sleep(0.5)
     print(f"[+] Synchronized manifest: {MANIFEST_PATH}")
 
 if __name__ == '__main__':
