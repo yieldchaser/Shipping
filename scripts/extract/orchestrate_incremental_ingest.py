@@ -1077,6 +1077,26 @@ def process_single_pdf(
                 "text_snippet": text[:200].replace("\n", " ")
             })
 
+    def _apply_markdown_normalizer(md_path: Path, broker_slug: str):
+        if not md_path.exists():
+            return
+        try:
+            import clean_all_brokers_formatting
+            cleaners = {
+                "banchero_costa": clean_all_brokers_formatting.clean_banchero,
+                "bancosta": clean_all_brokers_formatting.clean_banchero,
+                "intermodal": clean_all_brokers_formatting.clean_intermodal,
+                "star_asia": clean_all_brokers_formatting.clean_star_asia,
+                "seabrokers": clean_all_brokers_formatting.clean_seabrokers,
+            }
+            if broker_slug in cleaners:
+                content = md_path.read_text(encoding="utf-8", errors="ignore")
+                cleaned, _ = cleaners[broker_slug](content)
+                if cleaned != content:
+                    md_path.write_text(cleaned, encoding="utf-8")
+        except Exception:
+            pass
+
     # If specialized extractor already generated markdown, inject detected chart links if present
     if specialized_result:
         flat_md_file = MD_DIR / pub / f"{stem}.md"
@@ -1098,6 +1118,7 @@ def process_single_pdf(
                         chart_section.append(f"![{mc['title']}]({mc['image_rel']})\n")
                         chart_section.append(f"*Extracted to time series: `{Path(mc['target_csv']).name}`*\n")
                     target_md_file.write_text(existing_md + "\n".join(chart_section), encoding="utf-8")
+            _apply_markdown_normalizer(target_md_file, pub)
             doc.close()
             return {
                 "stem": stem,
@@ -1178,6 +1199,7 @@ def process_single_pdf(
     if not dry_run:
         target_md_dir.mkdir(parents=True, exist_ok=True)
         target_md_file.write_text("\n".join(md_lines), encoding="utf-8")
+        _apply_markdown_normalizer(target_md_file, pub)
         
         tables_sidecar = {
             "stem": stem,

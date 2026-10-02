@@ -737,6 +737,12 @@ def process_banchero_costa_report(pdf_path: Path) -> Dict[str, Any]:
         "desk_commentary": commentary
     }
 
+    try:
+        from clean_banchero_formatting import clean_banchero_text
+        md_content, _ = clean_banchero_text(md_content)
+    except Exception:
+        pass
+
     return {
         "stem": stem,
         "sales": sales_rows,
