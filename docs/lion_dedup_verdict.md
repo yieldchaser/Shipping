@@ -64,3 +64,12 @@ entity check proves no vessel disappeared.
 * `data/extracted/**` is gitignored - the regenerated CSVs are working-tree artefacts, NOT committed.
 * md tier: 46 `.md` + 46 `.tables.json`.
 * No value changed on any kept row (`POST minus PRE == 0` on the full-column key rules that out).
+
+## WARNING - re-running this runner writes INTO THE CORPUS
+
+`run_lion_tables.py` does NOT only write the delivered series: for each PDF it also re-renders the
+matching digest markdown and OVERWRITES `corpus/01-brokers/_digests/lion/2026/*week_NN_*.md`
+(lines 769-776). This re-run modified **8 corpus digest files** (1,327 insertions / 1,360 deletions).
+They were restored with `git checkout -- corpus/01-brokers/_digests/lion/2026/`. The series CSVs do
+NOT depend on the digests, so the dedup stands. **Lesson: before re-running any publisher's runner,
+check whether its write path includes CORPUS, not just data/extracted/.**

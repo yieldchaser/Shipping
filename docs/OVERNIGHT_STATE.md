@@ -1,3 +1,5 @@
+**LESSON (2026-10-03, lion):** `run_lion_tables.py` has a CORPUS write path - it re-renders and OVERWRITES `corpus/01-brokers/_digests/lion/2026/*week_NN_*.md` for every PDF (lines 769-776). The lion re-run modified **8 corpus digest files**; restored with `git checkout -- corpus/01-brokers/_digests/lion/2026/` (series CSVs are independent, dedup stands). **Before re-running ANY publisher's runner, check whether its write path includes CORPUS, not just data/extracted/.**
+
 **THIS RUN (CONTINUED 4) - the CENSUS TAIL closed: star_asia valuation_matrix (-13) and hellenic_iron_ore_table (-10), both lossless. Evidence `docs/census_tail_dedup_verdict.md`.**
 
 **star_asia_valuation_matrix 3,245 -> 3,232 (-13):** all from the 2023 W41/W42 PDF pair - NOT byte-identical (md5 eca6dc09 vs f18a3945) but **BOTH covers read "WEEK 41 - October 14, 2023"** (the W42-named file is a misfiled Week-41 report, the agora W34/W35 convention). Both give issue_date 2023-10-14 / week 41 and the same matrix -> every row twice.
