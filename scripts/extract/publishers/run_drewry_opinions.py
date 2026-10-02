@@ -60,7 +60,9 @@ ACRONYMS = {
     'scrubbers': 'Scrubbers', 'ais': 'AIS', 'api': 'API', 'apis': 'APIs',
     'gis': 'GIS', 'vloc': 'VLOC', 'vlocs': 'VLOCs', 'iea': 'IEA', 'nbs': 'NBS',
     'wow': 'WoW', 'yoy': 'YoY', 'mom': 'MoM', 'lhs': 'LHS', 'rhs': 'RHS',
-    'lr1': 'LR1', 'lr2': 'LR2', 'mr': 'MR', 'fr': 'FR', 'cbm': 'cbm'
+    'lr1': 'LR1', 'lr2': 'LR2', 'mr': 'MR', 'fr': 'FR', 'cbm': 'cbm',
+    '3q': '3Q', '1q': '1Q', '2q': '2Q', '4q': '4Q', 'iaci': 'IACI',
+    'baf': 'BAF', 'bafs': 'BAFs'
 }
 
 LOWER_WORDS = {'and', 'or', 'the', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'vs', 'versus', 'per', 'as', 'over', 'into'}
@@ -222,7 +224,8 @@ def clean_text_encoding(text):
 
     # 8. Strip commercial contact / email lines entirely per user instruction
     t = re.sub(r'(?im)^.*@[a-z0-9.-]+\.[a-z]{2,}.*$\n?', '', t)
-    t = re.sub(r'(?im)^.*(?:please email the team|please contact us).*$\n?', '', t)
+    t = re.sub(r'(?im)^.*(?:please email the team|please contact us|contact the team).*$\n?', '', t)
+    t = re.sub(r'(?im)^.*(?:T \+\d|Drewry Supply Chain Advisors, \d+).*$\n?', '', t)
 
     return t
 
@@ -287,21 +290,71 @@ def process_wci_file(file_path):
 
     # Parse initial table values if present
     table_vals = {}
+
+    # Seed from authoritative historical index CSV if present for this date
+    hist_csv_path = os.path.join(REPO_ROOT, "data", "indices", "drewry_wci_historical.csv")
+    if os.path.exists(hist_csv_path):
+        try:
+            with open(hist_csv_path, 'r', encoding='utf-8') as hf:
+                reader = csv.DictReader(hf)
+                for r in reader:
+                    if r.get('date') == iso_date:
+                        for col in ['composite_index', 'shanghai_rotterdam', 'shanghai_genoa', 'shanghai_la', 'shanghai_ny', 'rotterdam_shanghai']:
+                            val_str = r.get(col, '')
+                            if val_str and val_str.strip():
+                                try:
+                                    table_vals[col] = float(val_str.strip())
+                                except ValueError:
+                                    pass
+                        break
+        except Exception:
+            pass
+
+    # Map possible markdown route headers to canonical keys
+    route_synonyms = {
+        'composite_index': 'composite_index',
+        'world container index (composite)': 'composite_index',
+        'world container index': 'composite_index',
+        'composite': 'composite_index',
+        'shanghai_rotterdam': 'shanghai_rotterdam',
+        'shanghai – rotterdam': 'shanghai_rotterdam',
+        'shanghai - rotterdam': 'shanghai_rotterdam',
+        'shanghai to rotterdam': 'shanghai_rotterdam',
+        'shanghai_genoa': 'shanghai_genoa',
+        'shanghai – genoa': 'shanghai_genoa',
+        'shanghai - genoa': 'shanghai_genoa',
+        'shanghai to genoa': 'shanghai_genoa',
+        'shanghai_la': 'shanghai_la',
+        'shanghai – los angeles': 'shanghai_la',
+        'shanghai - los angeles': 'shanghai_la',
+        'shanghai to los angeles': 'shanghai_la',
+        'shanghai_ny': 'shanghai_ny',
+        'shanghai – new york': 'shanghai_ny',
+        'shanghai - new york': 'shanghai_ny',
+        'shanghai to new york': 'shanghai_ny',
+        'rotterdam_shanghai': 'rotterdam_shanghai',
+        'rotterdam – shanghai': 'rotterdam_shanghai',
+        'rotterdam - shanghai': 'rotterdam_shanghai',
+        'rotterdam to shanghai': 'rotterdam_shanghai',
+    }
+
     for line in content.split('\n'):
         if '|' in line:
             parts = [p.strip() for p in line.split('|')[1:-1]]
             if len(parts) == 2:
-                k, v = parts[0].strip().replace('\\_', '_'), parts[1].strip()
-                if v:
+                k_raw, v = parts[0].strip().replace('\\_', '_'), parts[1].strip()
+                k = k_raw.lower()
+                canonical = route_synonyms.get(k)
+                if canonical and v:
                     try:
-                        table_vals[k] = float(v.replace('$', '').replace(',', ''))
-                    except:
+                        table_vals[canonical] = float(v.replace('$', '').replace(',', ''))
+                    except ValueError:
                         pass
 
     # Extract verified rates from commentary
     comp_val = table_vals.get('composite_index')
     if not comp_val:
-        m_comp = re.search(r'World Container Index \(WCI\)[^.\n]*?(?:increased|decreased|remained stable at)\s*(?:\d+%)?\s*(?:to|at)\s*\$([0-9,]+)', content, re.I)
+        m_comp = re.search(r'World Container Index \(WCI\)[^.\n]*?(?:increased|decreased|fell|remained stable at)\s*(?:\d+%)?\s*(?:to|at)\s*\$([0-9,]+)', content, re.I)
         if m_comp:
             comp_val = float(m_comp.group(1).replace(',', ''))
         else:
@@ -313,33 +366,41 @@ def process_wci_file(file_path):
                 if m_comp3:
                     comp_val = float(m_comp3.group(1).replace(',', ''))
 
-    m_ny = re.search(r'Shanghai to New York[^.\n]*?(?:increasing|decreasing|rose|edged up|increased)\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
-    if not m_ny:
-        m_ny = re.search(r'Shanghai to New York and Los Angeles increasing \d+% to \$([0-9,]+)', content, re.I)
-    ny_val = float(m_ny.group(1).replace(',', '')) if m_ny else table_vals.get('shanghai_ny')
+    ny_val = table_vals.get('shanghai_ny')
+    if not ny_val:
+        m_ny = re.search(r'Shanghai to New York[^.\n]*?(?:increasing|decreasing|rose|edged up|increased|fell)\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
+        if not m_ny:
+            m_ny = re.search(r'Shanghai to New York and Los Angeles increasing \d+% to \$([0-9,]+)', content, re.I)
+        ny_val = float(m_ny.group(1).replace(',', '')) if m_ny else None
 
-    m_la = re.search(r'Shanghai to Los Angeles[^.\n]*?(?:increasing|decreasing|rose|pushed up|increased)\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
-    if not m_la:
-        m_la = re.search(r'Shanghai to New York and Los Angeles increasing \d+% to \$[0-9,]+ and \$([0-9,]+)', content, re.I)
-    la_val = float(m_la.group(1).replace(',', '')) if m_la else table_vals.get('shanghai_la')
+    la_val = table_vals.get('shanghai_la')
+    if not la_val:
+        m_la = re.search(r'Shanghai to Los Angeles[^.\n]*?(?:increasing|decreasing|rose|pushed up|increased|remained stable at|stable at)\s*(?:\d+%)?\s*(?:to|at)\s*\$([0-9,]+)', content, re.I)
+        if not m_la:
+            m_la = re.search(r'Shanghai to New York and Los Angeles increasing \d+% to \$[0-9,]+ and \$([0-9,]+)', content, re.I)
+        la_val = float(m_la.group(1).replace(',', '')) if m_la else None
 
-    m_genoa = re.search(r'Shanghai to Genoa[^.\n]*?(?:falling|decreasing|declined|fell)\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
-    genoa_val = float(m_genoa.group(1).replace(',', '')) if m_genoa else table_vals.get('shanghai_genoa')
+    genoa_val = table_vals.get('shanghai_genoa')
+    if not genoa_val:
+        m_genoa = re.search(r'Shanghai to Genoa[^.\n]*?(?:falling|decreasing|declined|fell)\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
+        if not m_genoa:
+            m_genoa = re.search(r'(?:falling|decreasing|declined|fell)\s*(?:\d+%)?\s*to\s*\$([0-9,]+)\s*per 40ft container from Shanghai to Genoa', content, re.I)
+        genoa_val = float(m_genoa.group(1).replace(',', '')) if m_genoa else None
 
-    rot_val = None
-    m_rot2 = re.search(r'Shanghai to Rotterdam (?:decreasing|falling|slid|fell)?\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
-    if m_rot2:
-        rot_val = float(m_rot2.group(1).replace(',', ''))
-    else:
-        m_rot3 = re.search(r'(?:decreased|slid|falling|fell)\s+\d+%\s+to\s+\$([0-9,]+)\s+per 40ft container from Shanghai to Rotterdam', content, re.I)
-        if m_rot3:
-            rot_val = float(m_rot3.group(1).replace(',', ''))
-        else:
-            m_rot4 = re.search(r'to\s+\$([0-9,]+)\s+per 40ft container from Shanghai to Rotterdam', content, re.I)
-            if m_rot4:
-                rot_val = float(m_rot4.group(1).replace(',', ''))
+    rot_val = table_vals.get('shanghai_rotterdam')
     if not rot_val:
-        rot_val = table_vals.get('shanghai_rotterdam')
+        m_rot2 = re.search(r'Shanghai to Rotterdam (?:decreasing|falling|slid|fell|decreased)?\s*(?:\d+%)?\s*to\s*\$([0-9,]+)', content, re.I)
+        if m_rot2:
+            rot_val = float(m_rot2.group(1).replace(',', ''))
+        else:
+            m_rot3 = re.search(r'(?:decreased|slid|falling|fell)\s+\d+%\s+to\s+\$([0-9,]+)\s+per 40ft container from Shanghai to Rotterdam', content, re.I)
+            if m_rot3:
+                rot_val = float(m_rot3.group(1).replace(',', ''))
+            else:
+                m_rot4 = re.search(r'to\s+\$([0-9,]+)\s+per 40ft container from Shanghai to Rotterdam', content, re.I)
+                if m_rot4:
+                    rot_val = float(m_rot4.group(1).replace(',', ''))
+
 
     # Format publication-grade rate table
     fmt_comp = f"${comp_val:,.0f}" if comp_val else "N/A"
@@ -418,9 +479,11 @@ tags:
 
     corpus_md_path = os.path.join(OPINIONS_DIR, str(year), target_filename)
     extracted_md_path = os.path.join(OUT_MD_BASE, str(year), target_filename)
+    reports_md_path = os.path.join(REPO_ROOT, "reports", "drewry", str(year), f"{iso_date}_drewry_wci.md")
 
     safe_write_text(corpus_md_path, final_markdown)
     safe_write_text(extracted_md_path, final_markdown)
+    safe_write_text(reports_md_path, final_markdown)
 
     return {
         "slug": final_slug,
@@ -582,26 +645,18 @@ def run_pipeline():
     # 1. Ensure ais_manifest.csv is in ais dir
     misplaced_manifest = os.path.join(OPINIONS_DIR, "ais_manifest.csv")
     target_manifest = os.path.join(AIS_DIR, "ais_manifest.csv")
-    if os.path.exists(misplaced_manifest):
+    if os.path.exists(misplaced_manifest) and not os.path.exists(target_manifest):
         shutil.copy2(misplaced_manifest, target_manifest)
-        os.remove(misplaced_manifest)
-        print("[+] Moved ais_manifest.csv from opinions/ to ais/ directory.")
+        print("[+] Synced ais_manifest.csv to ais/ directory.")
 
-    # 2. Gather opinion files from raw opinions/opinions/ and 2026/, or fallback to year-segregated
+    # 2. Gather opinion files from raw opinions/opinions/, reports/drewry/, and year dirs
+    all_targets = []
     if os.path.exists(RAW_OPINIONS_DIR):
         raw_opinions = sorted(glob.glob(os.path.join(RAW_OPINIONS_DIR, "*.md")))
         raw_opinions = [f for f in raw_opinions if not os.path.basename(f).startswith("_")]
-        # Collect WCI snapshots from ALL year dirs, not just the current year
-        raw_wci = []
-        for ydir_name in sorted(os.listdir(OPINIONS_DIR)):
-            ydir_path = os.path.join(OPINIONS_DIR, ydir_name)
-            if os.path.isdir(ydir_path) and ydir_name.isdigit():
-                raw_wci.extend(sorted(glob.glob(os.path.join(ydir_path, "*wci*.md"))))
-        all_targets = raw_opinions + raw_wci
+        all_targets.extend(raw_opinions)
         print(f"[*] Found {len(raw_opinions)} unsegregated opinions in opinions/opinions/")
-        print(f"[*] Found {len(raw_wci)} WCI snapshots across all year dirs")
     else:
-        all_targets = []
         current_year = datetime.now().year
         for y in range(2017, current_year + 1):
             ydir = os.path.join(OPINIONS_DIR, str(y))
@@ -609,16 +664,43 @@ def run_pipeline():
                 all_targets.extend(sorted(glob.glob(os.path.join(ydir, "*.md"))))
         print(f"[*] Found {len(all_targets)} existing segregated opinion files.")
 
+    # Collect WCI snapshots from ALL year dirs
+    raw_wci = []
+    for ydir_name in sorted(os.listdir(OPINIONS_DIR)):
+        ydir_path = os.path.join(OPINIONS_DIR, ydir_name)
+        if os.path.isdir(ydir_path) and ydir_name.isdigit():
+            raw_wci.extend(sorted(glob.glob(os.path.join(ydir_path, "*wci*.md"))))
+    all_targets.extend(raw_wci)
+    print(f"[*] Found {len(raw_wci)} WCI snapshots across all year dirs")
+
+    # Ingest newly scraped files from reports/drewry/
+    reports_dir = os.path.join(REPO_ROOT, "reports", "drewry")
+    if os.path.exists(reports_dir):
+        reports_files = []
+        for r_root, _, r_files in os.walk(reports_dir):
+            for rf in r_files:
+                if rf.endswith(".md") and not rf.startswith("_"):
+                    reports_files.append(os.path.join(r_root, rf))
+        all_targets.extend(reports_files)
+        print(f"[*] Found {len(reports_files)} articles/snapshots in reports/drewry/")
+
     all_results = []
     wci_records = []
 
+    # Track processed slugs to ensure idempotence and avoid duplicate records
+    seen_slugs = set()
     for fpath in all_targets:
         res = process_single_opinion(fpath)
+        slug = res["slug"]
+        if slug in seen_slugs:
+            all_results = [r for r in all_results if r["slug"] != slug]
+        seen_slugs.add(slug)
         all_results.append(res)
         if "wci_row" in res:
+            wci_records = [w for w in wci_records if w["date"] != res["wci_row"]["date"]]
             wci_records.append(res["wci_row"])
 
-    print(f"[+] Processed {len(all_results)} total Drewry articles.")
+    print(f"[+] Processed {len(all_results)} total unique Drewry articles.")
 
     # Clean up legacy non-prefixed files in year directories
     valid_filenames = {os.path.basename(r["source_file"]) for r in all_results}

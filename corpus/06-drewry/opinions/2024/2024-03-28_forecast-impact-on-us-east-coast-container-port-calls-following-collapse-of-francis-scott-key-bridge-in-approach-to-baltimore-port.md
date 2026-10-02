@@ -6,7 +6,7 @@ category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
 source_file: "corpus/06-drewry/opinions/2024/2024-03-28_forecast-impact-on-us-east-coast-container-port-calls-following-collapse-of-francis-scott-key-bridge-in-approach-to-baltimore-port.md"
-word_count: 710
+word_count: 625
 tags:
   - Container Shipping
   - Drewry
@@ -32,7 +32,6 @@ For container traffic, the primary gateway in the northern half of the US East C
 
 In 2023, total terminal utilisation for the area is estimated to have been 60%, following a 13.2% YoY decrease in overall container volumes and a 5.5% increase in terminal capacity. Notably, most of the capacity increase was at Baltimore’s Seagirt Marine Terminal, which added 800,000teu in the year.
 
-The most recent Drewry Port Throughput Forecast, available with commentary in the DrewryPorts and Terminals Insight, has North America growing at +10.6% YoY for 2024. Removing Baltimore’s capacity, allocating its container volume across NY/NJ, Philadelphia and Hampton Roads terminals and including the forecast growth for the market, 2024 average utilisation rates could reach as high as 79%. Terminals operating at this level for a sustained period are likely to experience congestion, even more so if the increase in utilisation occurs over a short time period.
 
 Average pre-berthing waiting times are an indicator of overall terminal congestion and again the data suggests that supply chains in this market are likely to come under strain in the coming months.
 

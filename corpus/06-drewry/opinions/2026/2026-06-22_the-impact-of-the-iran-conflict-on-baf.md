@@ -1,5 +1,5 @@
 ---
-title: "The Impact of the Iran Conflict on Baf"
+title: "The Impact of the Iran Conflict on BAF"
 issue_date: "2026-06-22"
 year: 2026
 category: "Ports & Logistics"
@@ -13,7 +13,7 @@ tags:
   - Ports & Logistics
 ---
 
-# The Impact of the Iran Conflict on Baf
+# The Impact of the Iran Conflict on BAF
 
 *Published on 22 June 2026*
 

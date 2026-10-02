@@ -522,8 +522,8 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Publication Cadence:** Weekly (Thursday) (Expected day: Thursday)
 - **Coverage Span:** `2017-11-09` to `2026-10-01`
 - **Latest Ingested Document:** `2026-10-01_drewry_wci.md` (Status: **CURRENT (Assessed 2026-10-01: $4,434/FEU)**)
-- **Sample Ingested Report (Corpus):** [`2026-09-24_drewry_wci.md`](file:///C:/Users/Dell/Github/Shipping/corpus/06-drewry/opinions/2026/2026-09-24_drewry_wci.md)
-- **Sample Extracted Markdown (Digest):** [`2026-09-24_drewry_wci.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/opinions/2026/2026-09-24_drewry_wci.md)
+- **Sample Ingested Report (Corpus):** [`2026-10-01_world-container-index-assessed-by-drewry.md`](file:///C:/Users/Dell/Github/Shipping/corpus/06-drewry/opinions/2026/2026-10-01_world-container-index-assessed-by-drewry.md)
+- **Sample Extracted Markdown (Digest):** [`2026-10-01_world-container-index-assessed-by-drewry.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/drewry/opinions/2026/2026-10-01_world-container-index-assessed-by-drewry.md)
 - **Inventory by Format:** 0 PDFs, 0 HTML files, 0 Images, 548 Markdown files
 - **Chart Extraction:** Yes (Global container freight rate time series)
 - **Chart Engine / Technique:** Wayback CDX & live HTML parser with pv18 stability guard

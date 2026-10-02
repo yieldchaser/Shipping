@@ -1,11 +1,11 @@
 ---
-title: "Drewry Low-Sulphur Bunker Price Tracker 2Q 26"
-issue_date: "2026-07-01"
+title: "Drewry Low-Sulphur Bunker Price Tracker 3Q 26"
+issue_date: "2026-10-01"
 year: 2026
 category: "Ports & Logistics"
 publisher: "Drewry Maritime Research"
 source: "drewry"
-source_file: "corpus/06-drewry/opinions/2026/2026-07-01_low-sulphur-bunker-price-tracker.md"
+source_file: "corpus/06-drewry/opinions/2026/2026-10-01_low-sulphur-bunker-price-tracker.md"
 word_count: 113
 tags:
   - Drewry
@@ -13,9 +13,9 @@ tags:
   - Ports & Logistics
 ---
 
-# Drewry Low-Sulphur Bunker Price Tracker 2Q 26
+# Drewry Low-Sulphur Bunker Price Tracker 3Q 26
 
-*Published on 01 July 2026*
+*Published on 01 October 2026*
 
 Our low-sulphur bunker price tracker is intended to standardise, clarify and simplify the adjustment of Bunker Adjustment Factors (BAFs) between shippers and carriers or forwarders. By streamlining the process and agreeing common bunker price measurement periods, BAF adjustment periods, fuel prices and index formulae, we hope to bring much needed clarity to challenges the regulatory change presents.
 

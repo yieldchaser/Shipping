@@ -1004,30 +1004,79 @@ def main():
     year_dir = REPORTS_DIR / primary["date"][:4]
     year_dir.mkdir(parents=True, exist_ok=True)
     md_path = year_dir / f"{primary['date']}_drewry_wci.md"
+    year_val = int(primary['date'].split('-')[0])
+    dt_obj = datetime.strptime(primary['date'], "%Y-%m-%d")
+    date_display = dt_obj.strftime("%d %B %Y")
+
+    def _fmt_curr(k):
+        v = primary['values'].get(k)
+        if v is not None and str(v).strip():
+            try:
+                return f"${float(v):,.0f}"
+            except ValueError:
+                return str(v)
+        return "N/A"
+
+    table_md = f"""## Assessed Spot Freight Rates (US$/40ft Container)
+
+| Route / Index | Assessed Value |
+| :--- | :--- |
+| World Container Index (Composite) | {_fmt_curr('composite_index')} |
+| Shanghai – Rotterdam | {_fmt_curr('shanghai_rotterdam')} |
+| Shanghai – Genoa | {_fmt_curr('shanghai_genoa')} |
+| Shanghai – Los Angeles | {_fmt_curr('shanghai_la')} |
+| Shanghai – New York | {_fmt_curr('shanghai_ny')} |
+| Rotterdam – Shanghai | {_fmt_curr('rotterdam_shanghai')} |"""
+
+    # Filter commentary to strip repeated navigation breadcrumbs
+    cleaned_narrative_lines = []
+    found_content = False
+    for nl in narrative.splitlines():
+        s = nl.strip()
+        if not found_content:
+            if s.startswith('For many years, World Container Index') or s.startswith('The Drewry World Container Index'):
+                found_content = True
+                cleaned_narrative_lines.append(s)
+        else:
+            if s:
+                cleaned_narrative_lines.append(s)
+
+    commentary_text = "\n\n".join(cleaned_narrative_lines) if cleaned_narrative_lines else narrative
+    body_text = f"{table_md}\n\n## Market Commentary & Analysis\n\n{commentary_text}"
+    word_count = len(body_text.split())
+
     md_content = f"""---
 title: "Drewry World Container Index Snapshot - {primary['date']}"
-date: "{primary['date']}"
+issue_date: "{primary['date']}"
+year: {year_val}
+category: "Container Shipping"
+publisher: "Drewry Maritime Research"
 source: "drewry"
-category: "containers"
-source_url: "{primary['url']}"
+source_file: "corpus/06-drewry/opinions/{year_val}/{primary['date']}_drewry_wci.md"
+word_count: {word_count}
+tags:
+  - Container Shipping
+  - Drewry
+  - Drewry Maritime Research
+  - Freight Rates
+  - WCI
 ---
 
 # Drewry World Container Index Snapshot - {primary['date']}
 
-## Assessed Values ($/40ft)
+*Published on {date_display}*
 
-| Metric | Value |
-| --- | --- |
-""" + "\n".join(
-        f"| {col} | {primary['values'].get(col, '')} |" for col in CSV_COLUMNS[1:] if col != "date"
-    ) + f"""
-
-## Page Commentary
-
-{narrative}
+{body_text}
 """
     md_path.write_text(md_content, encoding="utf-8", errors="ignore", newline="\n")
-    print(f"[OK] Narrative saved: {md_path.relative_to(REPO_ROOT)}")
+
+    corpus_wci_path = REPO_ROOT / "corpus" / "06-drewry" / "opinions" / str(year_val) / f"{primary['date']}_drewry_wci.md"
+    data_wci_path = REPO_ROOT / "data" / "extracted" / "md" / "drewry" / "opinions" / str(year_val) / f"{primary['date']}_drewry_wci.md"
+    corpus_wci_path.parent.mkdir(parents=True, exist_ok=True)
+    data_wci_path.parent.mkdir(parents=True, exist_ok=True)
+    corpus_wci_path.write_text(md_content, encoding="utf-8", errors="ignore", newline="\n")
+    data_wci_path.write_text(md_content, encoding="utf-8", errors="ignore", newline="\n")
+    print(f"[OK] Narrative saved to reports, corpus, and data: {primary['date']}_drewry_wci.md")
 
     checkpoint["last_success_date"] = primary["date"]
     checkpoint["last_values"] = primary["values"]

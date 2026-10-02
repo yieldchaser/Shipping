@@ -1,12 +1,12 @@
 ---
-title: "World Container Index - 03 Sep"
-issue_date: "2026-09-03"
+title: "World Container Index - 01 Oct"
+issue_date: "2026-10-01"
 year: 2026
 category: "Container Shipping"
 publisher: "Drewry Maritime Research"
 source: "drewry"
-source_file: "corpus/06-drewry/opinions/2026/2026-09-03_world-container-index-assessed-by-drewry.md"
-word_count: 109
+source_file: "corpus/06-drewry/opinions/2026/2026-10-01_world-container-index-assessed-by-drewry.md"
+word_count: 110
 tags:
   - Container Shipping
   - Drewry
@@ -14,14 +14,14 @@ tags:
   - Freight Rates
 ---
 
-# World Container Index - 03 Sep
+# World Container Index - 01 Oct
 
-*Published on 03 September 2026*
+*Published on 01 October 2026*
 
 
-WCI holds steady as Transpacific gains offset Asia–Europe declines. See detailed commentary below.
+WCI decreased for second consecutive week amid China’s Golden Week. See detailed commentary below.
 
-Link to WeChat update 德路里| WCI本周持稳于4,465美元/FEU，航线分化趋势延续
+Link to WeChat update: 德路里| WCI下跌1%：跨太平洋运价继续上行，亚欧回落
 
 Not displaying?Click here to open this chart in a new window
 
