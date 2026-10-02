@@ -1,3 +1,10 @@
+**THIS RUN (CONTINUED 2) - baltic_ncfi CLOSED (the largest un-diagnosed census item, 148 rows); it is an HTML source, not a PDF one. Evidence `docs/baltic_ncfi_dedup_verdict.md`.**
+
+**baltic_ncfi DEDUP DONE.** `baltic_ncfi_series.csv` **2,180 -> 2,032** (148 dropped), dup keys 0. Cause: two Wayback captures of the SAME Ningbo page (140 pairs + 4 triples) - e.g. `2020-05-29_...Index31` and `2020-06-05_...Index3` both display the `2020-06-05 | 2020-05-29` table with identical values; the extractor stamps `issue_date` from the table's current-week column, so both yield the same rows. The two HTML files are NOT byte-identical (md5 287fde89 vs 36344e93) - content-identical only.
+**CONTROL:** full-column key `PRE minus POST` = **148 removed, 0 added**; distinct `(issue_date, route)` pairs **2,024 before AND after, 0 PRE-only / 0 POST-only**; metadata CSV (2,218) untouched; re-applying the dedup to the fixed file drops **0** (idempotent).
+**Fixed TWO ways:** the delivered CSV was row-filtered AND `run_baltic.py` now dedups at the NCFI stacking step (`[dedup] dropped N ...`), so a re-run cannot reintroduce them. `run_baltic.py` compiles.
+**CENSUS NOW (measured this run):** cleared - advanced_shipping 148, ssy 132, fearnleys 121, agora 94, star_asia 25, affinity 48, intermodal 36, carriers 253, lion 170, baltic_ncfi 148. **Still open:** hellenic VV 214 (human decision - download-date-as-issue_date + 3x/5x copies, entangled), bancosta 44, star_asia 17 (valuation_matrix 13), hellenic_iron_ore_table 13 - measured, not yet diagnosed.
+
 **THIS RUN (CONTINUED) - the earlier run's "human decision #2" TAKEN: lion DELIVERED SERIES REGENERATED, LOSSLESS. Branch `auto/extract-fixes-2026-10-03-carriers`; `main` NOT touched. Evidence `docs/lion_dedup_verdict.md`.**
 
 **lion DUP-KEY REGENERATION DONE.** `run_lion_tables.py` (current code) re-run over 46 PDFs -> 46 reports. `data/extracted/series/lion_*`: deals 1,314 -> **1,241**, sales 1,200 -> **1,136**, demometer 576 -> **552**, demo_sales 114 -> **105**; **170 rows removed**, dup keys **0** on all four. `lion_demolition_series.csv` (516) is a DIFFERENT writer, untouched, already 0.

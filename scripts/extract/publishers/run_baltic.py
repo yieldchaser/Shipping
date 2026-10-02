@@ -678,6 +678,34 @@ def run_baltic_pipeline():
 
     # Sort and Write Master NCFI Series CSV
     all_ncfi_rows.sort(key=lambda x: (x['issue_date'] or '', x['route']))
+
+    # Dedup: two Wayback captures of the SAME Ningbo page yield value-identical rows.
+    # Measured 2026-10-03: 148 duplicate rows across 144 keys (140 pairs + 4 triples),
+    # 2,180 -> 2,032 rows, 0 distinct (issue_date, route) lost. Keep one row per key,
+    # preferring the capture whose filename date == issue_date.
+    def _capture_date(sf):
+        m = re.search(r'(\d{4}-\d{2}-\d{2})', os.path.basename(sf or ''))
+        return m.group(1) if m else None
+
+    _pos = {}
+    _deduped = []
+    _dropped = 0
+    for _r in all_ncfi_rows:
+        _k = (_r['issue_date'], _r['year'], _r['week'], _r['route'],
+              _r['index_current'], _r['index_prev'], _r['weekly_change_pct'])
+        if _k not in _pos:
+            _pos[_k] = len(_deduped)
+            _deduped.append(_r)
+        else:
+            _i = _pos[_k]
+            _cur = _deduped[_i]
+            if (_capture_date(_r['source_file']) == _r['issue_date']
+                    and _capture_date(_cur['source_file']) != _cur['issue_date']):
+                _deduped[_i] = _r
+            _dropped += 1
+    all_ncfi_rows = _deduped
+    print(f'[dedup] dropped {_dropped} duplicate NCFI row(s); {len(all_ncfi_rows)} rows remain')
+
     ncfi_path = 'data/extracted/series/baltic_ncfi_series.csv'
     with open(ncfi_path, 'w', encoding='utf-8', newline='') as nf:
         fieldnames = ['issue_date', 'year', 'week', 'route', 'index_current', 'index_prev', 'weekly_change_pct', 'source_file']

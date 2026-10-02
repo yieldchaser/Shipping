@@ -46,7 +46,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,052 | Verified |
 | [athenian_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_market_commentary_series.csv) |  | 6 | Verified |
 | [athenian_yearly_demolition_volume_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_yearly_demolition_volume_series.csv) |  | 4,026 | Verified |
-| [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,180 | Verified |
+| [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,032 | Verified |
 | [baltic_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_reports_metadata.csv) |  | 2,218 | Verified |
 | [bancosta_commodities_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_commodities_series.csv) | Energy, metals, agricultural benchmarks | 8,447 | Verified |
 | [bancosta_container_fixtures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_container_fixtures_series.csv) | Containership reported charter fixtures ($/day) | 922 | Verified |
