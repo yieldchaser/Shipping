@@ -9,6 +9,7 @@ import re
 import json
 from pathlib import Path
 from datetime import date, datetime
+from typing import Tuple, Optional, List, Dict, Any
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
@@ -433,7 +434,7 @@ REGISTRY_DATA = [
         "category_id": "hellenic_shipbuilding",
         "publisher": "Hellenic: Shipbuilding & Contracting",
         "folder": "corpus/02-hellenic/shipbuilding",
-        "md_dir": "data/extracted/md/hellenic/shipbuilding",
+        "md_dir": "data/extracted/md/hellenic/shipbuilding/clarksons",
         "cadence": "Weekly (Friday)",
         "pub_day": "Friday",
         "frequency": "Weekly",
@@ -449,9 +450,9 @@ REGISTRY_DATA = [
         "total_files": 1911,
         "charts_extracted": "No (Shipyard contracting and orderbook tables)",
         "chart_engine": "Native PyMuPDF table parser",
-        "series_csvs": "clarksons_sales_series.csv (merged)",
-        "primary_script": "run_hellenic_shipbuilding.py",
-        "notes": "Clarksons Hellas shipyard contracting and orderbook updates."
+        "series_csvs": "clarksons_snp_sales_series.csv, clarksons_demolition_sales_series.csv, clarksons_macro_series.csv, clarksons_desk_talk_series.csv",
+        "primary_script": "run_clarksons_hellas_world_class.py",
+        "notes": "Clarksons Platou Hellas S&P Bulletins extracted cover-to-cover with reported sales, demolition deals, and desk talk."
     },
     {
         "category_id": "hellenic_tanker_charter",
@@ -620,7 +621,7 @@ REGISTRY_DATA = [
         "charts_extracted": "Yes (Global container freight rate time series)",
         "chart_engine": "Wayback CDX & live HTML parser with pv18 stability guard",
         "series_csvs": "drewry_wci_historical.csv (122 weekly rows, display-linked)",
-        "primary_script": "fetch_drewry_wci.py",
+        "primary_script": "run_drewry_opinions.py & fetch_drewry_wci.py",
         "notes": "Contract test verified (38 passed). Displayed directly on index.html."
     },
     {
@@ -644,7 +645,7 @@ REGISTRY_DATA = [
         "charts_extracted": "Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps)",
         "chart_engine": "Playwright session scraper + static monitor markdown builder",
         "series_csvs": "signal_reports_metadata.csv (446 rows), data/views/signal/live_fleet_positions.json",
-        "primary_script": "sync_live_fleet_pipeline.py",
+        "primary_script": "run_signal.py & sync_live_fleet_pipeline.py",
         "notes": "Live automated telemetry syncs active tanker queues and fleet AIS positions."
     },
     {
@@ -1103,6 +1104,115 @@ SUBSECTOR_DATA = [
 ]
 
 # ---------------------------------------------------------------------------
+# Helper functions for robust file linking and verification
+# ---------------------------------------------------------------------------
+def resolve_script_link(script_str: str) -> str:
+    """Format script string into valid markdown link(s) by finding actual files on disk."""
+    parts = [s.strip() for s in script_str.split("&")]
+    formatted_parts = []
+    for part in parts:
+        found_path = None
+        for candidate_dir in [
+            ROOT / "scripts" / "extract" / "publishers",
+            ROOT / "scripts" / "extract",
+            ROOT / "scripts" / "acquire",
+            ROOT / "scripts" / "scrapers",
+            ROOT / "scripts" / "audit",
+            ROOT / "scripts",
+        ]:
+            candidate = candidate_dir / part
+            if candidate.exists():
+                found_path = candidate
+                break
+        if not found_path:
+            matches = list((ROOT / "scripts").rglob(part))
+            if matches:
+                found_path = matches[0]
+        if found_path:
+            posix_path = str(found_path).replace("\\", "/")
+            formatted_parts.append(f"[`{part}`](file:///{posix_path})")
+        else:
+            formatted_parts.append(f"`{part}`")
+    return " & ".join(formatted_parts)
+
+
+def format_series_csv_links(series_csvs_str: str) -> str:
+    """Format CSV / XLSX file references inside series_csvs into verified clickable links."""
+    tokens = re.findall(r"([a-zA-Z0-9_\-]+\.(?:csv|xlsx))", series_csvs_str)
+    res = series_csvs_str
+    for token in set(tokens):
+        found_path = None
+        for search_dir in [
+            ROOT / "data" / "extracted" / "series",
+            ROOT / "data" / "indices",
+            ROOT / "data" / "commodities",
+            ROOT / "data",
+        ]:
+            cand = search_dir / token
+            if cand.exists():
+                found_path = cand
+                break
+        if not found_path:
+            matches = list((ROOT / "data").rglob(token))
+            if matches:
+                found_path = matches[0]
+        if found_path:
+            posix_path = str(found_path).replace("\\", "/")
+            res = res.replace(token, f"[`{token}`](file:///{posix_path})")
+    return res
+
+
+def find_sample_file(base_dir: Path, extensions: Tuple[str, ...]) -> Optional[Path]:
+    """Find a representative sample file within base_dir."""
+    if not base_dir.exists():
+        return None
+    # 1. Check 2026 subfolder if present
+    if (base_dir / "2026").exists():
+        for ext in extensions:
+            matches = [f for f in (base_dir / "2026").glob(f"*{ext}") if not f.name.startswith(".")]
+            if matches:
+                return sorted(matches)[-1]
+    # 2. Check direct files
+    for ext in extensions:
+        matches = [f for f in base_dir.glob(f"*{ext}") if not f.name.startswith(".")]
+        if matches:
+            return sorted(matches)[-1]
+    # 3. Check 1 level of subdirectories
+    for sub in sorted(base_dir.iterdir(), reverse=True):
+        if sub.is_dir() and not sub.name.startswith("."):
+            if (sub / "2026").exists():
+                for ext in extensions:
+                    matches = [f for f in (sub / "2026").glob(f"*{ext}") if not f.name.startswith(".")]
+                    if matches:
+                        return sorted(matches)[-1]
+            for ext in extensions:
+                matches = [f for f in sub.glob(f"*{ext}") if not f.name.startswith(".")]
+                if matches:
+                    return sorted(matches)[-1]
+            # 4. Check 2 levels of subdirectories
+            for subsub in sorted(sub.iterdir(), reverse=True):
+                if subsub.is_dir() and not subsub.name.startswith("."):
+                    for ext in extensions:
+                        matches = [f for f in subsub.glob(f"*{ext}") if not f.name.startswith(".")]
+                        if matches:
+                            return sorted(matches)[-1]
+    return None
+
+
+def get_sample_links(folder_rel: str, md_dir_rel: str) -> Tuple[str, str]:
+    """Return verified clickable markdown links for sample corpus file and extracted md file."""
+    c_folder = ROOT / folder_rel
+    md_folder = ROOT / md_dir_rel
+
+    sample_c = find_sample_file(c_folder, (".pdf", ".html", ".md", ".txt"))
+    sample_md = find_sample_file(md_folder, (".md", ".csv"))
+
+    c_link = f"[`{sample_c.name}`](file:///{str(sample_c).replace(chr(92), '/')})" if sample_c else "N/A"
+    md_link = f"[`{sample_md.name}`](file:///{str(sample_md).replace(chr(92), '/')})" if sample_md else "N/A"
+    return c_link, md_link
+
+
+# ---------------------------------------------------------------------------
 # 1. Generate Markdown Reference: corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md
 # ---------------------------------------------------------------------------
 def generate_markdown_audit():
@@ -1158,7 +1268,7 @@ def generate_markdown_audit():
     drewry_classes = [s for s in SUBSECTOR_DATA if s["category"] == "Drewry Maritime AIS"]
     for dc in drewry_classes:
         md_lines.append(
-            f"| **{dc['subsector']}** | `{dc['count']}` | {dc['format']} | {dc['metrics']} | `{dc['series_csv']}` | **{dc['data_points']}** | [`{dc['script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / dc['script']).replace(chr(92), '/')}) |"
+            f"| **{dc['subsector']}** | `{dc['count']}` | {dc['format']} | {dc['metrics']} | `{dc['series_csv']}` | **{dc['data_points']}** | {resolve_script_link(dc['script'])} |"
         )
 
     md_lines.extend([
@@ -1172,7 +1282,7 @@ def generate_markdown_audit():
     hellenic_sub = [s for s in SUBSECTOR_DATA if "Hellenic" in s["category"]]
     for hs in hellenic_sub:
         md_lines.append(
-            f"| **{hs['category']}** | {hs['subsector']} | `{hs['count']}` | {hs['format']} | {hs['metrics']} | `{hs['series_csv']}` | **{hs['data_points']}** | [`{hs['script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / hs['script']).replace(chr(92), '/')}) |"
+            f"| **{hs['category']}** | {hs['subsector']} | `{hs['count']}` | {hs['format']} | {hs['metrics']} | `{hs['series_csv']}` | **{hs['data_points']}** | {resolve_script_link(hs['script'])} |"
         )
 
     md_lines.extend([
@@ -1186,7 +1296,7 @@ def generate_markdown_audit():
     broker_sub = [s for s in SUBSECTOR_DATA if s["category"] not in ["Drewry Maritime AIS"] and "Hellenic" not in s["category"]]
     for bs in broker_sub:
         md_lines.append(
-            f"| **{bs['category']}** | {bs['subsector']} | `{bs['count']}` | {bs['format']} | {bs['metrics']} | `{bs['series_csv']}` | **{bs['data_points']}** | [`{bs['script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / bs['script']).replace(chr(92), '/')}) |"
+            f"| **{bs['category']}** | {bs['subsector']} | `{bs['count']}` | {bs['format']} | {bs['metrics']} | `{bs['series_csv']}` | **{bs['data_points']}** | {resolve_script_link(bs['script'])} |"
         )
 
     md_lines.extend([
@@ -1218,6 +1328,7 @@ def generate_markdown_audit():
     ])
 
     for item in REGISTRY_DATA:
+        c_sample, md_sample = get_sample_links(item["folder"], item["md_dir"])
         md_lines.extend([
             f"### {item['publisher']}",
             f"- **Corpus Directory:** [`{item['folder']}`](file:///{str(ROOT / item['folder']).replace(chr(92), '/')})",
@@ -1225,11 +1336,13 @@ def generate_markdown_audit():
             f"- **Publication Cadence:** {item['cadence']} (Expected day: {item['pub_day']})",
             f"- **Coverage Span:** `{item['earliest_date']}` to `{item['latest_date']}`",
             f"- **Latest Ingested Document:** `{item['latest_report']}` (Status: **{item['status']}**)",
+            f"- **Sample Ingested Report (Corpus):** {c_sample}",
+            f"- **Sample Extracted Markdown (Digest):** {md_sample}",
             f"- **Inventory by Format:** {item['pdf_count']} PDFs, {item['html_count']} HTML files, {item['image_count']} Images, {item['md_count']} Markdown files",
             f"- **Chart Extraction:** {item['charts_extracted']}",
             f"- **Chart Engine / Technique:** {item['chart_engine']}",
-            f"- **Stacked Series CSVs:** {item['series_csvs']}",
-            f"- **Extraction Script:** [`{item['primary_script']}`](file:///{str(ROOT / 'scripts/extract/publishers' / item['primary_script']).replace(chr(92), '/')})",
+            f"- **Stacked Series CSVs:** {format_series_csv_links(item['series_csvs'])}",
+            f"- **Extraction Script:** {resolve_script_link(item['primary_script'])}",
             f"- **Notes & Rules Applied:** {item['notes']}",
             ""
         ])
@@ -1260,6 +1373,44 @@ def generate_markdown_audit():
                 f"- **Vector Curves Extractor:** [`scripts/extract/publishers/run_drewry_ais_charts.py`](file:///{str(ROOT / 'scripts/extract/publishers/run_drewry_ais_charts.py').replace(chr(92), '/')}) — extracts drawing curves and stacks into 4 master series CSVs (24,994 data rows).",
                 ""
             ])
+
+    md_lines.extend([
+        "---",
+        "",
+        "## 6. Quarantined & Stashed Redundant Sources Register",
+        "",
+        f"**Quarantine Root Directory:** [`data/stashed_redundant_sources/`](file:///{str(ROOT / 'data/stashed_redundant_sources').replace(chr(92), '/')})  ",
+        "**Total Quarantined Files Preserved:** 10,286 files (Zero data deletion policy strictly enforced)  ",
+        f"**Master Quarantine Ledger:** [`data/stashed_redundant_sources/README.md`](file:///{str(ROOT / 'data/stashed_redundant_sources/README.md').replace(chr(92), '/')})",
+        "",
+        "To prevent automated scanning tools, agents, and subagents from discovering or highlighting superseded web previews, truncated files, or unpartitioned root duplicates over the authoritative ground truth data, the following redundant sources have been safely quarantined into stashed storage:",
+        "",
+        "| Quarantined / Stashed Category | Stashed Location | Items Preserved | Why Stashed (Root Cause) | Active Authoritative Path (Single Source of Truth) |",
+        "| :--- | :--- | :---: | :--- | :--- |",
+        f"| **Hellenic Iron Ore HTML Web Previews** | [`data/stashed_redundant_sources/hellenic_iron_ore_html_previews/`](file:///{str(ROOT / 'data/stashed_redundant_sources/hellenic_iron_ore_html_previews').replace(chr(92), '/')}) | **4,700 files** (6 year subdirs) | Thin ~20-line HTML web-scraped summaries from the Hellenic news site. Caused agents to report partial summaries rather than the full 400-line cover-to-cover data. | [`data/extracted/md/hellenic/iron_ore_pdf/`](file:///{str(ROOT / 'data/extracted/md/hellenic/iron_ore_pdf').replace(chr(92), '/')}) (1,188 full-fidelity Markdown reports + `.tables.json` sidecars across 2021-2026, plus 21 stacked series CSVs) |",
+        f"| **Poten Legacy Scraped Markdown (Corpus)** | [`data/stashed_redundant_sources/poten_legacy_scraped_md/`](file:///{str(ROOT / 'data/stashed_redundant_sources/poten_legacy_scraped_md').replace(chr(92), '/')}) | **2,183 files** (2004-2026) | Truncated web preview text (`... Read More\" />`) and `unknown-01-01` dates sitting in the corpus directory, creating confusion with raw PDFs. | **Corpus:** [`corpus/04-poten/pdfs/`](file:///{str(ROOT / 'corpus/04-poten/pdfs').replace(chr(92), '/')}) (1,087 PDFs)<br>**Extracted MD:** [`data/extracted/md/poten/`](file:///{str(ROOT / 'data/extracted/md/poten').replace(chr(92), '/')}) (1,087 full Markdown reports) |",
+        f"| **Banchero Costa Root Duplicates** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/banchero_costa/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/banchero_costa').replace(chr(92), '/')}) | **499 files** | Unpartitioned root duplicate `.md` and `.tables.json` files and legacy singleton naming (`bancosta_*.md`) conflicting with year folders. | [`data/extracted/md/banchero_costa/`](file:///{str(ROOT / 'data/extracted/md/banchero_costa').replace(chr(92), '/')}) (Clean year-partitioned directories, 100% complete) |",
+        f"| **Carriers Root Duplicates** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/carriers/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/carriers').replace(chr(92), '/')}) | **272 files** | Loose duplicate `.md` and `.tables.json` in root folder duplicate of year subdirectories. | [`data/extracted/md/carriers/`](file:///{str(ROOT / 'data/extracted/md/carriers').replace(chr(92), '/')}) |",
+        f"| **Fearnleys Root Duplicates** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/fearnleys/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/fearnleys').replace(chr(92), '/')}) | **522 files** | Loose duplicate `.md` and `.tables.json` in root folder duplicate of year subdirectories. | [`data/extracted/md/fearnleys/`](file:///{str(ROOT / 'data/extracted/md/fearnleys').replace(chr(92), '/')}) |",
+        f"| **ISM Root Duplicates** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/ism/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/ism').replace(chr(92), '/')}) | **231 files** | Loose duplicate `.md` and `.tables.json` in root folder duplicate of year subdirectories. | [`data/extracted/md/ism/`](file:///{str(ROOT / 'data/extracted/md/ism').replace(chr(92), '/')}) |",
+        f"| **SSY Root Duplicates** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/ssy/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/ssy').replace(chr(92), '/')}) | **1,061 files** | Loose duplicate `.md` and `.tables.json` in root folder duplicate of year subdirectories. | [`data/extracted/md/ssy/`](file:///{str(ROOT / 'data/extracted/md/ssy').replace(chr(92), '/')}) |",
+        f"| **Xclusiv Root Duplicates** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/xclusiv/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/xclusiv').replace(chr(92), '/')}) | **809 files** | Loose duplicate `.md`, `.tables.json`, and `.charts.json` in root folder duplicate of year subdirectories. | [`data/extracted/md/xclusiv/`](file:///{str(ROOT / 'data/extracted/md/xclusiv').replace(chr(92), '/')}) |",
+        f"| **Other Broker Loose Root Files** | [`data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/`](file:///{str(ROOT / 'data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates').replace(chr(92), '/')}) | **9 files** | Loose state/artifact files across Advanced Shipping, Affinity, Agora, Clarksons, Lion, Star Asia. | [`data/extracted/md/`](file:///{str(ROOT / 'data/extracted/md').replace(chr(92), '/')}) |",
+        "",
+        "---",
+        "",
+        "## 7. Auxiliary Corpus Directories & Specialized Archives",
+        "",
+        "This registry accounts for auxiliary and reference materials preserved under `corpus/`:",
+        "",
+        "| Directory | Asset Count | Content Description | Role in Research Pipeline | Direct Link |",
+        "| :--- | :---: | :--- | :--- | :--- |",
+        f"| **`corpus/01-brokers/_digests`** | 180 files | Scraped markdown digests from weekly broker newsletters | Parallel text digests collected alongside PDFs | [`corpus/01-brokers/_digests`](file:///{str(ROOT / 'corpus/01-brokers/_digests').replace(chr(92), '/')}) |",
+        f"| **`corpus/archive/`** | 725 files | Historical broker reports (Allied, Anchor, Gibson, Golden Destiny) | Historical context prior to primary 2021-2026 series | [`corpus/archive`](file:///{str(ROOT / 'corpus/archive').replace(chr(92), '/')}) |",
+        f"| **`corpus/11-other/panama-canal`** | 1 file | Panama Canal Authority transit & draft advisory data | Critical waterway bottleneck intelligence | [`corpus/11-other`](file:///{str(ROOT / 'corpus/11-other').replace(chr(92), '/')}) |",
+        f"| **`corpus/books/`** | 12 volumes | Foundational maritime textbooks, atlases, and econometrics treatises | Stopford Maritime Economics, Lloyds Atlas, freight models | [`corpus/books`](file:///{str(ROOT / 'corpus/books').replace(chr(92), '/')}) |",
+        ""
+    ])
 
     target_md = ROOT / "corpus" / "CORPUS_REGISTRY_AND_CADENCE_AUDIT.md"
     target_md.write_text("\n".join(md_lines), encoding="utf-8")
