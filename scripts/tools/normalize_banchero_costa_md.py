@@ -143,7 +143,13 @@ def normalize_banchero_content(text: str, stem: str = "") -> str:
                 'A cargo of', '**The European Union**', 'The European Union'
             ])
 
-            if curr_para and curr_words >= 60 and (curr_words >= 160 or (curr_words >= 80 and is_transition)):
+            is_sentence_boundary = False
+            if curr_para:
+                prev_text = curr_para[-1].rstrip()
+                if prev_text and prev_text[-1] in ('.', '!', '?', '"', "'", '”', '’', ':'):
+                    is_sentence_boundary = True
+
+            if curr_para and is_sentence_boundary and (not b or not b[0].islower()) and curr_words >= 60 and (curr_words >= 160 or (curr_words >= 80 and is_transition)):
                 grouped_paras.append(" ".join(curr_para))
                 curr_para = [b]
                 curr_words = words
