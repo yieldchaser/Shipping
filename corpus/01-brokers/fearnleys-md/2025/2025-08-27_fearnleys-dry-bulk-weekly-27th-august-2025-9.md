@@ -23,20 +23,28 @@ Profit margins at Chinese steel mills have weakened noticeably over the last wee
 So, there are a few clear downside risks in the coming months, but on the other hand, imported iron ore consumption in China is still high at close to 3.0 million tons per day, and Bauxite shipments is at the seasonal low point.
 
 
-![China Daily Imported Iron Ore Consumption](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Daily imported iron ore consumption.png)
-*Figure: China Daily Imported Iron Ore Consumption*
+![China Daily Imported Iron Ore Consumption](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Daily%20imported%20iron%20ore%20consumption.png)
+
+> **Figure 1: China Daily Imported Iron Ore Consumption**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Daily%20imported%20iron%20ore%20consumption.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Daily imported iron ore consumption.png)
 
 
-![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/IRON ORE FUTURES LEAD VS CAPE.png)
-*Figure: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average*
+![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png)
+
+> **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/IRON ORE FUTURES LEAD VS CAPE.png)
 
 
-![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
-*Figure: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output*
+![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+
+> **Figure 3: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
-![China Average Rebar and HRC Profit Margins (MySteel)](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/rebar and hrc profit margins.png)
-*Figure: China Average Rebar and HRC Profit Margins (MySteel)*
+![China Average Rebar and HRC Profit Margins (MySteel)](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/rebar%20and%20hrc%20profit%20margins.png)
+
+> **Figure 4: China Average Rebar and HRC Profit Margins (MySteel)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/rebar%20and%20hrc%20profit%20margins.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/rebar and hrc profit margins.png)
 
 
 ---
@@ -51,20 +59,28 @@ Regarding coal, the futures curve still prices in some immediate tightness as Se
 The top right chart shows the relationship between the Newcastle coal futures curve against P5, with the coal futures curve leading by two months. It's far from a perfect correlation, as other factors also play a part, but the futures curve did catch the peak in Q1 last year, the downtrend until June this year, followed by the upturn since then.
 
 
-![Panamax / Kamsarmax Heading to Indonesia](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/PANAMAX KAMSARMAX HEADING TO INDONESIA.png)
-*Figure: Panamax / Kamsarmax Heading to Indonesia*
+![Panamax / Kamsarmax Heading to Indonesia](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png)
+
+> **Figure 5: Panamax / Kamsarmax Heading to Indonesia**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/PANAMAX KAMSARMAX HEADING TO INDONESIA.png)
 
 
-![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/P5 vs Newcastle Coal Futures Spread Lead.png)
-*Figure: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+
+> **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
-![Panamax/Kamsarmax Brazil Soybean Loadings 24 vs 25](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax Kamsarmax Brazil Soybean Loadings.png)
-*Figure: Panamax/Kamsarmax Brazil Soybean Loadings 24 vs 25*
+![Panamax/Kamsarmax Brazil Soybean Loadings 24 vs 25](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax%20Kamsarmax%20Brazil%20Soybean%20Loadings.png)
+
+> **Figure 7: Panamax/Kamsarmax Brazil Soybean Loadings 24 vs 25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax%20Kamsarmax%20Brazil%20Soybean%20Loadings.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax Kamsarmax Brazil Soybean Loadings.png)
 
 
-![Panamax / Kamsarmax USA Soybeans Loadings  24 vs 25](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax Kamsarmax USA Soybean Loadings.png)
-*Figure: Panamax / Kamsarmax USA Soybeans Loadings  24 vs 25*
+![Panamax / Kamsarmax USA Soybeans Loadings  24 vs 25](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax%20Kamsarmax%20USA%20Soybean%20Loadings.png)
+
+> **Figure 8: Panamax / Kamsarmax USA Soybeans Loadings  24 vs 25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax%20Kamsarmax%20USA%20Soybean%20Loadings.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Panamax Kamsarmax USA Soybean Loadings.png)
 
 
 ---
@@ -77,17 +93,25 @@ Copper prices, as usual, served as an accurate leading indicator of direction ch
 At some point, the ongoing rally will take a breather. That point could be this week, given the sharp reversal in FFAs seen for all segments today.
 
 
-![Supramax Ultramax Weekly Total Loadings 2024 vs 2025](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/supra ultra total weekly shipment volumes.png)
-*Figure: Supramax Ultramax Weekly Total Loadings 2024 vs 2025*
+![Supramax Ultramax Weekly Total Loadings 2024 vs 2025](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/supra%20ultra%20total%20weekly%20shipment%20volumes.png)
+
+> **Figure 9: Supramax Ultramax Weekly Total Loadings 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/supra%20ultra%20total%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/supra ultra total weekly shipment volumes.png)
 
 
-![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change*
+![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 10: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Supramax58 Index vs Handysize38 Index Spread](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/SUPRA HANDY SPREAD.png)
-*Figure: Supramax58 Index vs Handysize38 Index Spread*
+![Supramax58 Index vs Handysize38 Index Spread](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/SUPRA%20HANDY%20SPREAD.png)
+
+> **Figure 11: Supramax58 Index vs Handysize38 Index Spread**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/SUPRA%20HANDY%20SPREAD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/SUPRA HANDY SPREAD.png)
 
 
-![Ultramax Atlantic vs Pacific Earnings](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Ultramax Atl vs Pac.png)
-*Figure: Ultramax Atlantic vs Pacific Earnings*
+![Ultramax Atlantic vs Pacific Earnings](../images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Ultramax%20Atl%20vs%20Pac.png)
+
+> **Figure 12: Ultramax Atlantic vs Pacific Earnings**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Ultramax%20Atl%20vs%20Pac.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/affeeef6-6d7d-4e59-b482-06fd79a2d1ab/Ultramax Atl vs Pac.png)

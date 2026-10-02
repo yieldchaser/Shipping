@@ -30,7 +30,9 @@ On the flipside, what happens when winter storms ease, deliveries ramp up, and a
 
 
 ![Rates coming off a bit, but remain very volatile](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/rates.png)
-*Figure: Rates coming off a bit, but remain very volatile*
+
+> **Figure 1: Rates coming off a bit, but remain very volatile**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/rates.png)
 
 
 ### The basics - the map does not fit the terrain
@@ -43,19 +45,27 @@ For product tankers, meanwhile, demand holds up better and has grown slightly in
 
 
 ![Total tanker tonne-mile demand (excl. OFAC)](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmt.png)
-*Figure: Total tanker tonne-mile demand (excl. OFAC)*
+
+> **Figure 2: Total tanker tonne-mile demand (excl. OFAC)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmt.png)
 
 
 ![VLCC tonne-mile demand (excl. OFAC)](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmVL.png)
-*Figure: VLCC tonne-mile demand (excl. OFAC)*
+
+> **Figure 3: VLCC tonne-mile demand (excl. OFAC)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmVL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmVL.png)
 
 
 ![Crude tanker tonne-mile demand (excl. OFAC)](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmc.png)
-*Figure: Crude tanker tonne-mile demand (excl. OFAC)*
+
+> **Figure 4: Crude tanker tonne-mile demand (excl. OFAC)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmc.png)
 
 
 ![Product tanker tonne-mile demand (excl. OFAC)](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmp.png)
-*Figure: Product tanker tonne-mile demand (excl. OFAC)*
+
+> **Figure 5: Product tanker tonne-mile demand (excl. OFAC)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/tmp.png)
 
 Going forward there is not expected to be much growth in demand, apart from returning production from some areas where there have been recent outages. The main supply growth engine over the last decade, the Americas, is expected to see some seasonal downside, and new projects are not expected until the summer. Overall non-OPEC+ production is 'only' expected to increase by about 0.5 mbpd this year. 
 
@@ -69,18 +79,24 @@ Congestion has been more of a tailwind lately, with bottlenecks partly caused by
 
 
 ![Tanker deliveries by quarter](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/delyq.png)
-*Figure: Tanker deliveries by quarter*
+
+> **Figure 6: Tanker deliveries by quarter**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/delyq.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/delyq.png)
 
 
 ![Far East VLCC congestion](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/congestion.png)
-*Figure: Far East VLCC congestion*
+
+> **Figure 7: Far East VLCC congestion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/congestion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/congestion.png)
 
 
 ### The known unknowns - what could drive market upside
 
 
 ![VLCC fleet by controlling entity](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/composition.png)
-*Figure: VLCC fleet by controlling entity*
+
+> **Figure 8: VLCC fleet by controlling entity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/composition.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/composition.png)
 
 The U.S. intervention in Venezuela has also contributed to boosting market sentiment, in anticipation of a switch from shadow to compliant tankers. So far, there has been uncertainty how this trade will shape up, and little measurable impact on the tanker market, although a few fixtures to the U.S. and Europe now start to emerge. Chevron is now expected to lift exports to the U.S. to 300 kbpd in March. 
 
@@ -96,11 +112,15 @@ Alternative scenarios are military conflicts in Iran, which may escalate to the 
 
 
 ![Iran crude oil exports by destination](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/ir.png)
-*Figure: Iran crude oil exports by destination*
+
+> **Figure 9: Iran crude oil exports by destination**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/ir.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/ir.png)
 
 
 ![Iran linked OFAC tankers (11.2% of the fleet) - age distribution](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/ofacir.png)
-*Figure: Iran linked OFAC tankers (11.2% of the fleet) - age distribution*
+
+> **Figure 10: Iran linked OFAC tankers (11.2% of the fleet) - age distribution**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/ofacir.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/ofacir.png)
 
 
 ### A look at the oil market
@@ -117,11 +137,15 @@ Floating storage of sanctioned barrels indicate that this oil struggles to clear
 
 
 ![Crude oil on the water](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/oow.png)
-*Figure: Crude oil on the water*
+
+> **Figure 11: Crude oil on the water**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/oow.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/oow.png)
 
 
 ![Sanctioned barrels floating storage](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/float.png)
-*Figure: Sanctioned barrels floating storage*
+
+> **Figure 12: Sanctioned barrels floating storage**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/float.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/float.png)
 
 Global refinery runs are expected to increase by 0.8 mbpd this year, slightly less than last year's 0.9 mbpd growth. Global capacity is expected to expand by slightly more, but a large portion of that in China were new capacity may replace older. 
 
@@ -131,19 +155,27 @@ In China, meanwhile, there has been some softness, in line with sluggish reporte
 
 
 ![Global refinery runs](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/ref.png)
-*Figure: Global refinery runs*
+
+> **Figure 13: Global refinery runs**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/ref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/ref.png)
 
 
 ![U.S. Gulf Coast crack spreads](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmus.png)
-*Figure: U.S. Gulf Coast crack spreads*
+
+> **Figure 14: U.S. Gulf Coast crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmus.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmus.png)
 
 
 ![Northwest Europe crack spreads](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmeu.png)
-*Figure: Northwest Europe crack spreads*
+
+> **Figure 15: Northwest Europe crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmeu.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmeu.png)
 
 
 ![Bohai Bay crack spreads](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmch.png)
-*Figure: Bohai Bay crack spreads*
+
+> **Figure 16: Bohai Bay crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmch.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/refmch.png)
 
 
 ### Newbuild orders are back in fashion
@@ -154,11 +186,15 @@ Phase-out, meanwhile, was still limited although picked up somewhat from recent 
 
 
 ![Tanker ordering, +42k dwt](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/order.png)
-*Figure: Tanker ordering, +42k dwt*
+
+> **Figure 17: Tanker ordering, +42k dwt**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/order.png)
 
 
 ![Tanker demolition, +42k dwt](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/scrap.png)
-*Figure: Tanker demolition, +42k dwt*
+
+> **Figure 18: Tanker demolition, +42k dwt**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/scrap.png)
 
 Deliveries are now set to pick up, with 6% gross fleet growth scheduled for this year and slightly more next year. The highest growth comes for product tankers with 9% this year 
 
@@ -166,8 +202,12 @@ Although a number of LR2s are expected to continue switching into the dirty mark
 
 
 ![Annual deliveries - rarely higher](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/dely.png)
-*Figure: Annual deliveries - rarely higher*
+
+> **Figure 19: Annual deliveries - rarely higher**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/dely.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/dely.png)
 
 
 ![Share of LR2s trading dirty](../images/ce100923-6f8b-4644-bdcc-afa64d8c042f/lr2s.png)
-*Figure: Share of LR2s trading dirty*
+
+> **Figure 20: Share of LR2s trading dirty**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce100923-6f8b-4644-bdcc-afa64d8c042f/lr2s.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/lr2s.png)

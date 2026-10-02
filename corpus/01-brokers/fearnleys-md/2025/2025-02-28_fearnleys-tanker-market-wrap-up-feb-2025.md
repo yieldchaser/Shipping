@@ -30,17 +30,23 @@ For now, tanker market fundamentals should tighten further through the spring an
 
 
 ![Rates and forecast](../images/b8be760d-ef36-4161-b897-edefac72910d/fcast.png)
-*Figure: Rates and forecast*
+
+> **Figure 1: Rates and forecast**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/fcast.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/fcast.png)
 
 Volumes YTD have been lower than during the same period last year, driven partly by better OPEC+ compliance and partly by underwhelming Americas production amid some preliminary outages. Crucially, however, crude tanker demand has been boosted by longer sailing distances as Eastern buyers seek more compliant barrels in the Atlantic basin.
 
 
 ![Seaborne crude oil volumes](../images/b8be760d-ef36-4161-b897-edefac72910d/flowc.png)
-*Figure: Seaborne crude oil volumes*
+
+> **Figure 2: Seaborne crude oil volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/flowc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/flowc.png)
 
 
 ![Seaborne oil products volumes](../images/b8be760d-ef36-4161-b897-edefac72910d/flowp.png)
-*Figure: Seaborne oil products volumes*
+
+> **Figure 3: Seaborne oil products volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/flowp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/flowp.png)
 
 
 ### More oil to come - which seems to be needed
@@ -51,11 +57,15 @@ After slumping by nearly 0.5 mbpd in Q1, the EIA forecasts an increase in Americ
 
 
 ![Americas crude oil production q/q](../images/b8be760d-ef36-4161-b897-edefac72910d/crudeprod.png)
-*Figure: Americas crude oil production q/q*
+
+> **Figure 4: Americas crude oil production q/q**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/crudeprod.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/crudeprod.png)
 
 
 ![Relative oil pricing](../images/b8be760d-ef36-4161-b897-edefac72910d/arb.png)
-*Figure: Relative oil pricing*
+
+> **Figure 5: Relative oil pricing**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/arb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/arb.png)
 
 The oil market balance YTD has appeared much tighter than expected. The forward curve has remained backwardated, and global inventories have drawn meaningfully. Partly, that is due to some production outages at the beginning of the year, but also partly due to stronger demand. At most, in its October report, the IEA predicted a 1.2 mbpd oversupplied market this year, while in the most recent report this has dropped to 0.5 mbpd as demand has been revised up by 200 kbpd and supply down by 500 kbpd. 
 
@@ -70,11 +80,15 @@ In turn, refinery run rates of Chinese independent refiners have declined substa
 
 
 ![Loadings on OFAC listed tankers](../images/b8be760d-ef36-4161-b897-edefac72910d/ofacload.png)
-*Figure: Loadings on OFAC listed tankers*
+
+> **Figure 6: Loadings on OFAC listed tankers**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/ofacload.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/ofacload.png)
 
 
 ![Discharges from OFAC listed tankers](../images/b8be760d-ef36-4161-b897-edefac72910d/ofacdisch.png)
-*Figure: Discharges from OFAC listed tankers*
+
+> **Figure 7: Discharges from OFAC listed tankers**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/ofacdisch.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/ofacdisch.png)
 
 The full effects on loadings from Russia, Iran and Venezuela are yet to be seen. January loadings in Iran were very high, but the run-rate in February is substantially lower as shipping cost has risen on lower shipping availability. This, coupled with slim discounts for Iranian oil currently means compliant crude oil is more competitive landed in China. Preliminary January and February numbers suggest a total 600 kbpd decline in loadings from these countries vs. the same period last year, led lower by Russian exports which are down 400 kbpd. Some more downside may be likely going forward as sanctions put pressure on Iran, Russia struggles with infrastructure, and Venezuela concessions end.  
 
@@ -82,11 +96,15 @@ After the most recent round of sanctions, 12% of the total tanker fleet is on th
 
 
 ![Russia, Iran and Venezuela exports](../images/b8be760d-ef36-4161-b897-edefac72910d/fuckyou.png)
-*Figure: Russia, Iran and Venezuela exports*
+
+> **Figure 8: Russia, Iran and Venezuela exports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/fuckyou.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/fuckyou.png)
 
 
 ![Sanctioned fleet](../images/b8be760d-ef36-4161-b897-edefac72910d/sanctioned.png)
-*Figure: Sanctioned fleet*
+
+> **Figure 9: Sanctioned fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/sanctioned.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/sanctioned.png)
 
 Another pointer to a relatively strong oil market YTD is refinery margins which have recovered a bit YTD and hold near historical averages. This is still a far cry from the highs of the last few years, and run estimates for this year still point to lower growth than in recent years - meaning lower product tanker volume additions. As more of the expected upside for runs this year is also closer to end-user demand, tonne-mile growth will likely be relatively low.
 
@@ -96,11 +114,15 @@ Lower volume growth, higher fleet growth, and more normalised crack spreads all 
 
 
 ![Global refinery runs](../images/b8be760d-ef36-4161-b897-edefac72910d/ref.png)
-*Figure: Global refinery runs*
+
+> **Figure 10: Global refinery runs**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/ref.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/ref.png)
 
 
 ![Atlantic MR rates vs. NWE gasoil margins](../images/b8be760d-ef36-4161-b897-edefac72910d/ratcr.png)
-*Figure: Atlantic MR rates vs. NWE gasoil margins*
+
+> **Figure 11: Atlantic MR rates vs. NWE gasoil margins**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/ratcr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/ratcr.png)
 
 
 ### Little near-term fleet growth
@@ -109,7 +131,9 @@ This year's scheduled gross delivery number is expected to rise to 3%, from only
 
 
 ![Tanker deliveries by year](../images/b8be760d-ef36-4161-b897-edefac72910d/fleet.png)
-*Figure: Tanker deliveries by year*
+
+> **Figure 12: Tanker deliveries by year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/fleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/fleet.png)
 
 With nearly 16% of the tanker fleet already having passed the 20 year mark, an orderbook to fleet ratio of 13.4% is hardly scary. More so, with 10% of the fleet being sanctioned by the OFAC, much of which is at risk of never returning to the 'normal' fleet, there is ultimately a need for more orders to materialise beyond 2027. 
 
@@ -121,8 +145,12 @@ Meanwhile, phase-out has picked up, and already nearly as much has been confirme
 
 
 ![Tanker orders, 42k+ dwt](../images/b8be760d-ef36-4161-b897-edefac72910d/25ord.png)
-*Figure: Tanker orders, 42k+ dwt*
+
+> **Figure 13: Tanker orders, 42k+ dwt**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/25ord.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/25ord.png)
 
 
 ![Tanker demolition, 42k+ dwt](../images/b8be760d-ef36-4161-b897-edefac72910d/25scrap.png)
-*Figure: Tanker demolition, 42k+ dwt*
+
+> **Figure 14: Tanker demolition, 42k+ dwt**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b8be760d-ef36-4161-b897-edefac72910d/25scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/25scrap.png)

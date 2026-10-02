@@ -24,20 +24,28 @@ We made a model consisting of factors like the global ballast/laden vessel ratio
 Regarding fundamentals, shipment volume growth was 4% higher than last year through week 34, compared with DWT supply growth of 1.8%. In the last 6 weeks, Atlantic shipment volumes were up by an exceptional 20% compared to the same period last year, which was all down to the 80% year-on-year increase in Bauxite shipments.
 
 
-![Cape/Newc Short Term Model](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape Composite Model.png)
-*Figure: Cape/Newc Short Term Model*
+![Cape/Newc Short Term Model](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model.png)
+
+> **Figure 1: Cape/Newc Short Term Model**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape Composite Model.png)
 
 
-![Cape/Newc Short Term Model - 4 Weeks Change](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape Composite Model 4 Weeks Change.png)
-*Figure: Cape/Newc Short Term Model - 4 Weeks Change*
+![Cape/Newc Short Term Model - 4 Weeks Change](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model%204%20Weeks%20Change.png)
+
+> **Figure 2: Cape/Newc Short Term Model - 4 Weeks Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model%204%20Weeks%20Change.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape Composite Model 4 Weeks Change.png)
 
 
-![Indicator Chart](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape model.png)
-*Figure: Indicator Chart*
+![Cape Model](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20model.png)
+
+> **Figure 3: Cape Model**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20model.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/cape model.png)
 
 
-![Indicator Chart](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape momentum model.png)
-*Figure: Indicator Chart*
+![Cape Momentum Model](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20momentum%20model.png)
+
+> **Figure 4: Cape Momentum Model**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20momentum%20model.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/cape momentum model.png)
 
 
 ---
@@ -53,20 +61,28 @@ Shipment volume growth continues to be lower than DWT supply growth. Through wee
 **Bottom right chart:** The SATL tightness indicator suggests P6 is close to a peak, then soften next month.
 
 
-![Weekly Shipment Volumes](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/panamax kamsarmax weekly shipment volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+
+> **Figure 5: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/panamax%20kamsarmax%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/panamax kamsarmax weekly shipment volumes.png)
 
 
-![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5 vs Newcastle Coal Futures Spread Lead.png)
-*Figure: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+
+> **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
-![P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5TC vs Pacific Tightness Indicator Zoom In.png)
-*Figure: P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)*
+![P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5TC%20vs%20Pacific%20Tightness%20Indicator%20Zoom%20In.png)
+
+> **Figure 7: P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5TC%20vs%20Pacific%20Tightness%20Indicator%20Zoom%20In.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/P5TC vs Pacific Tightness Indicator Zoom In.png)
 
 
-![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P6 vs SATL Tightness Zoom In.png)
-*Figure: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)*
+![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P6%20vs%20SATL%20Tightness%20Zoom%20In.png)
+
+> **Figure 8: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/P6%20vs%20SATL%20Tightness%20Zoom%20In.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/P6 vs SATL Tightness Zoom In.png)
 
 
 ---
@@ -82,20 +98,28 @@ Through last week, shipment volume growth fell further, to 3.7% compared with th
 **Bottom right chart:** The chart indicates the tightness in the North Atlantic basin. A lower reading reflects tighter market conditions, but can also suggest a near-term market peak. Conversely, a higher reading suggests looser market conditions but can also suggest a near-term market bottom. The longer-term average is 287, and the latest reading is 276.
 
 
-![Weekly Shipment Volumes](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SUPRAMAX%20ULTRAMAX%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+
+> **Figure 9: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/SUPRAMAX%20ULTRAMAX%20WEEKLY%20SHIPMENT%20VOLUMES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png)
 
 
-![S5 vs South Atlantic Tightness Indicator](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra SATI.png)
-*Figure: S5 vs South Atlantic Tightness Indicator*
+![S5 vs South Atlantic Tightness Indicator](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20SATI.png)
+
+> **Figure 10: S5 vs South Atlantic Tightness Indicator**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20SATI.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra SATI.png)
 
 
-![Copper Price Change vs Supramax 1 Year TC Change](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price Change vs Supramax 1 Year TC Change*
+![Copper Price Change vs Supramax 1 Year TC Change](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 11: Copper Price Change vs Supramax 1 Year TC Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![S4B vs North Atlantic Tightness Indicator](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra NATI.png)
-*Figure: S4B vs North Atlantic Tightness Indicator*
+![S4B vs North Atlantic Tightness Indicator](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20NATI.png)
+
+> **Figure 12: S4B vs North Atlantic Tightness Indicator**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20NATI.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra NATI.png)
 
 
 ---
@@ -111,17 +135,25 @@ Revisions to week 33 shipment volume growth showed that growth was lower than in
 **Bottom right chart:** The change in the price of copper is usually an accurate leading indicator for asset values.
 
 
-![HS3 vs Ratio of HS3 and HS5](../images/534eba51-4b17-4814-86ee-549e8d279265/HS3 RATIO.png)
-*Figure: HS3 vs Ratio of HS3 and HS5*
+![HS3 vs Ratio of HS3 and HS5](../images/534eba51-4b17-4814-86ee-549e8d279265/HS3%20RATIO.png)
+
+> **Figure 13: HS3 vs Ratio of HS3 and HS5**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/534eba51-4b17-4814-86ee-549e8d279265/HS3%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/534eba51-4b17-4814-86ee-549e8d279265/HS3 RATIO.png)
 
 
-![Weekly Shipment Volumes](../images/534eba51-4b17-4814-86ee-549e8d279265/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/534eba51-4b17-4814-86ee-549e8d279265/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+
+> **Figure 14: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/534eba51-4b17-4814-86ee-549e8d279265/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/534eba51-4b17-4814-86ee-549e8d279265/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png)
 
 
-![S11TC Shifted 1 Week Forward, vs HS7TC](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/ULTRA LEAD HANDY.png)
-*Figure: S11TC Shifted 1 Week Forward, vs HS7TC*
+![S11TC Shifted 1 Week Forward, vs HS7TC](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/ULTRA%20LEAD%20HANDY.png)
+
+> **Figure 15: S11TC Shifted 1 Week Forward, vs HS7TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/ULTRA%20LEAD%20HANDY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0ffee935033e/ULTRA LEAD HANDY.png)
 
 
-![Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change](../images/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png)
-*Figure: Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change*
+![Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change](../images/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper%20vs%20handysize.png)
+
+> **Figure 16: Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper%20vs%20handysize.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png)

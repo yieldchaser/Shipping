@@ -24,20 +24,28 @@ The armada of vessels headed to the Far East has moved closer, with the count no
 Before August, there is plenty of upside potential, as along with the mentioned fleet positioning situation, Brazilian iron ore exports are not yet at the seasonal peak.
 
 
-![Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
-*Figure: Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC*
+![Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
+
+> **Figure 1: Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 
 
-![China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
-*Figure: China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change*
+![China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+
+> **Figure 2: China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
 
 
-![China Steel Rebar 3 Months Change (Moved 1 Month Forward) vs BCI5TC 3 Months Average (Month on month change)](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA STEEL REBAR PRICE 3 MONTHS CHANGE MOVED 2 MONTHS FORWRARD VS NCI5TC 3 MONTHS CHANGE.png)
-*Figure: China Steel Rebar 3 Months Change (Moved 1 Month Forward) vs BCI5TC 3 Months Average (Month on month change)*
+![China Steel Rebar 3 Months Change (Moved 1 Month Forward) vs BCI5TC 3 Months Average (Month on month change)](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA%20STEEL%20REBAR%20PRICE%203%20MONTHS%20CHANGE%20MOVED%202%20MONTHS%20FORWRARD%20VS%20NCI5TC%203%20MONTHS%20CHANGE.png)
+
+> **Figure 3: China Steel Rebar 3 Months Change (Moved 1 Month Forward) vs BCI5TC 3 Months Average (Month on month change)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA%20STEEL%20REBAR%20PRICE%203%20MONTHS%20CHANGE%20MOVED%202%20MONTHS%20FORWRARD%20VS%20NCI5TC%203%20MONTHS%20CHANGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/CHINA STEEL REBAR PRICE 3 MONTHS CHANGE MOVED 2 MONTHS FORWRARD VS NCI5TC 3 MONTHS CHANGE.png)
 
 
-![Capesize/Newcastlemax Brazil Export Seasonality](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/capenewc brazil iron ore exports.png)
-*Figure: Capesize/Newcastlemax Brazil Export Seasonality*
+![Capesize/Newcastlemax Brazil Export Seasonality](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/capenewc%20brazil%20iron%20ore%20exports.png)
+
+> **Figure 4: Capesize/Newcastlemax Brazil Export Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/capenewc%20brazil%20iron%20ore%20exports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/capenewc brazil iron ore exports.png)
 
 
 ## Panamax/Kamsarmax
@@ -55,20 +63,28 @@ The increased rainfall in China along with rains in Indonesia put a stop to the 
 Fundamentals are otherwise firm, with ton-time growth at 10% in May against fleet growth of 3.1%. This should mean that downside from current levels is limited, especially as the Kamsarmax index have dropped below the Supramax index.
 
 
-![Panamax / Kamsarmax Ton-Time Growth vs Supply Growth](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/panamax market balance.png)
-*Figure: Panamax / Kamsarmax Ton-Time Growth vs Supply Growth*
+![Panamax / Kamsarmax Ton-Time Growth vs Supply Growth](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/panamax%20market%20balance.png)
+
+> **Figure 5: Panamax / Kamsarmax Ton-Time Growth vs Supply Growth**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/panamax%20market%20balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/panamax market balance.png)
 
 
-![Copper Price Lead vs Panamax 1 Year TC](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/Copper price vs Panamax 1 year tc.png)
-*Figure: Copper Price Lead vs Panamax 1 Year TC*
+![Copper Price Lead vs Panamax 1 Year TC](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/Copper%20price%20vs%20Panamax%201%20year%20tc.png)
+
+> **Figure 6: Copper Price Lead vs Panamax 1 Year TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/Copper%20price%20vs%20Panamax%201%20year%20tc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/Copper price vs Panamax 1 year tc.png)
 
 
-![Panamax/Kamsarmax Seasonal Average Market Movement](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
-*Figure: Panamax/Kamsarmax Seasonal Average Market Movement*
+![Panamax/Kamsarmax Seasonal Average Market Movement](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 7: Panamax/Kamsarmax Seasonal Average Market Movement**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
-![Handysize - Kamsarmax Black Sea Grains Shipment Seasonality](../images/1c6cb7e9-ae49-4c00-a2d7-2706a4d387e0/BLACK SEA GRAIN SEASON.png)
-*Figure: Handysize - Kamsarmax Black Sea Grains Shipment Seasonality*
+![Handysize - Kamsarmax Black Sea Grains Shipment Seasonality](../images/1c6cb7e9-ae49-4c00-a2d7-2706a4d387e0/BLACK%20SEA%20GRAIN%20SEASON.png)
+
+> **Figure 8: Handysize - Kamsarmax Black Sea Grains Shipment Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1c6cb7e9-ae49-4c00-a2d7-2706a4d387e0/BLACK%20SEA%20GRAIN%20SEASON.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1c6cb7e9-ae49-4c00-a2d7-2706a4d387e0/BLACK SEA GRAIN SEASON.png)
 
 
 ## Supramax/Ultramax
@@ -82,17 +98,25 @@ Fundamentals are supportive:
 - Rumors are that the surging container rates are starting to impact the Handysize and Supramax segments.
 
 
-![Supramax Seasonal Market Movement](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
-*Figure: Supramax Seasonal Market Movement*
+![Supramax Seasonal Market Movement](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 9: Supramax Seasonal Market Movement**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
 
 
-![Copper Price Lead vs Supramax 1 Year TC](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price Lead vs Supramax 1 Year TC*
+![Copper Price Lead vs Supramax 1 Year TC](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 10: Copper Price Lead vs Supramax 1 Year TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Supramax / Ultramax Ton-Time Growth vs Supply Growth](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/Supramax tontime.png)
-*Figure: Supramax / Ultramax Ton-Time Growth vs Supply Growth*
+![Supramax / Ultramax Ton-Time Growth vs Supply Growth](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/Supramax%20tontime.png)
+
+> **Figure 11: Supramax / Ultramax Ton-Time Growth vs Supply Growth**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/Supramax%20tontime.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/Supramax tontime.png)
 
 
-![Supramax / Ultramax Heading to the North Atlantic / Europe Continent](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX ULTRAMAX HEADING TO EUROPE NATL.png)
-*Figure: Supramax / Ultramax Heading to the North Atlantic / Europe Continent*
+![Supramax / Ultramax Heading to the North Atlantic / Europe Continent](../images/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20EUROPE%20NATL.png)
+
+> **Figure 12: Supramax / Ultramax Heading to the North Atlantic / Europe Continent**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20EUROPE%20NATL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/5201d3bf-67aa-4647-9763-c7b90308d74e/SUPRAMAX ULTRAMAX HEADING TO EUROPE NATL.png)

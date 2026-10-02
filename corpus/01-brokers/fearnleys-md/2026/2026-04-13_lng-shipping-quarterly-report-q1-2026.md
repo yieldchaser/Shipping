@@ -30,8 +30,10 @@ The market took another turn following the direct attack on Ras Laffan. Rates ag
 Separately, Venture Global reached FID on Phase 2 of the CP2 project, adding a further 14 MTPA of liquefaction capacity from 2030 onwards. On the fleet side, 18 LNG carriers were delivered during Q1, while 33 newbuild orders were placed.
 
 
-![Spot charter rates and JKM](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/gas price and rates.png)
-*Figure: Spot charter rates and JKM*
+![Spot charter rates and JKM](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/gas%20price%20and%20rates.png)
+
+> **Figure 1: Spot charter rates and JKM**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/gas%20price%20and%20rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/gas price and rates.png)
 
 
 ---
@@ -49,27 +51,39 @@ Term rates were also lifted by the geopolitical developments. One-year charter r
 
 
 ![Two-stroke spot charter rates by region](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/byregion.png)
-*Figure: Two-stroke spot charter rates by region*
+
+> **Figure 2: Two-stroke spot charter rates by region**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/byregion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/byregion.png)
 
 
-![Average spot charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot avg.png)
-*Figure: Average spot charter rates*
+![Average spot charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot%20avg.png)
+
+> **Figure 3: Average spot charter rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot%20avg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot avg.png)
 
 
 ![1-year charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1year.png)
-*Figure: 1-year charter rates*
+
+> **Figure 4: 1-year charter rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1year.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1year.png)
 
 
 ![Term charter rates (two-stroke)](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/longterm.png)
-*Figure: Term charter rates (two-stroke)*
+
+> **Figure 5: Term charter rates (two-stroke)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/longterm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/longterm.png)
 
 
-![Monthly spot charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str m.png)
-*Figure: Monthly spot charter rates*
+![Monthly spot charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str%20m.png)
+
+> **Figure 6: Monthly spot charter rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str%20m.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str m.png)
 
 
-![Quarterly spot charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str q.png)
-*Figure: Quarterly spot charter rates*
+![Quarterly spot charter rates](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str%20q.png)
+
+> **Figure 7: Quarterly spot charter rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str%20q.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/2str q.png)
 
 
 ## Chartering Activity
@@ -82,27 +96,39 @@ Liquidity in the one‑year market was the strongest since Q1 2022, with seven o
 
 
 ![Short-term fixture activity (< 3 years)](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/fixt.png)
-*Figure: Short-term fixture activity (< 3 years)*
+
+> **Figure 8: Short-term fixture activity (< 3 years)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/fixt.png)
 
 
 ![Short term fixtures by sublet vs independent owners](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/indep.png)
-*Figure: Short term fixtures by sublet vs independent owners*
+
+> **Figure 9: Short term fixtures by sublet vs independent owners**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/indep.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/indep.png)
 
 
-![Spot fixtures by propulsion](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot prop.png)
-*Figure: Spot fixtures by propulsion*
+![Spot fixtures by propulsion](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot%20prop.png)
+
+> **Figure 10: Spot fixtures by propulsion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/spot prop.png)
 
 
-![1-year deals by propulsion](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1yr deals.png)
-*Figure: 1-year deals by propulsion*
+![1-year deals by propulsion](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1yr%20deals.png)
+
+> **Figure 11: 1-year deals by propulsion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1yr%20deals.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/1yr deals.png)
 
 
 ![Short-term fixtures in Q1 (count)](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/count.png)
-*Figure: Short-term fixtures in Q1 (count)*
+
+> **Figure 12: Short-term fixtures in Q1 (count)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/count.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/count.png)
 
 
 ![Short-term fixtures in Q1 (fixed days)](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/fixeddays.png)
-*Figure: Short-term fixtures in Q1 (fixed days)*
+
+> **Figure 13: Short-term fixtures in Q1 (fixed days)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/fixeddays.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/fixeddays.png)
 
 
 ## Trade Flows
@@ -118,43 +144,61 @@ Qatar primarily supplies the Asian market, and lost Qatari volumes cannot easily
 Following record‑high loadings in January, Q1 tonne‑miles exceeded levels seen in previous years. On a monthly basis, however, the decline from January into February and March was substantial, driven by both lower volumes and shorter voyage distances. While quarterly tonne‑miles rose by 3% year on year, this was well below the 10% increase in fleet size, leaving the fleet underutilised on a fundamental basis. Idling reached unprecedented levels, with nearly 40 steam turbine and D/TFDE vessels recorded as idle.
 
 
-![Quarterly loaded LNG](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded q.png)
-*Figure: Quarterly loaded LNG*
+![Quarterly loaded LNG](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded%20q.png)
+
+> **Figure 14: Quarterly loaded LNG**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded%20q.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded q.png)
 
 
-![Monthly loaded LNG](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded m.png)
-*Figure: Monthly loaded LNG*
+![Monthly loaded LNG](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded%20m.png)
+
+> **Figure 15: Monthly loaded LNG**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded%20m.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/loaded m.png)
 
 
 ![Year on year change in Q1 exports by country](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/waterfall.png)
-*Figure: Year on year change in Q1 exports by country*
+
+> **Figure 16: Year on year change in Q1 exports by country**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/waterfall.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/waterfall.png)
 
 
 ![Year on year change in Q1 imports by country](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/waterfall2.png)
-*Figure: Year on year change in Q1 imports by country*
+
+> **Figure 17: Year on year change in Q1 imports by country**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/waterfall2.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/waterfall2.png)
 
 
-![Destination of US LNG](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us lng.png)
-*Figure: Destination of US LNG*
+![Destination of US LNG](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us%20lng.png)
+
+> **Figure 18: Destination of US LNG**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us%20lng.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us lng.png)
 
 
-![Destination of US LNG, share](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us lng share.png)
-*Figure: Destination of US LNG, share*
+![Destination of US LNG, share](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us%20lng%20share.png)
+
+> **Figure 19: Destination of US LNG, share**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us%20lng%20share.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/us lng share.png)
 
 
 ![Average fleet distance (laden)](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/distance.png)
-*Figure: Average fleet distance (laden)*
+
+> **Figure 20: Average fleet distance (laden)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/distance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/distance.png)
 
 
 ![Tonne-miles](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/tmi.png)
-*Figure: Tonne-miles*
+
+> **Figure 21: Tonne-miles**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/tmi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/tmi.png)
 
 
 ## LNGC Fleet
 
 
 ![LNGC fleet by status](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/status.png)
-*Figure: LNGC fleet by status*
+
+> **Figure 22: LNGC fleet by status**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/status.png)
 
 Four vessels were sold for scrap in Q1: three from MISC and one from Seapeak. All four were built in 2004-2005, implying demolition ages of approximately 21-22 years. This supports the emerging trend toward younger demolitions, as steam turbine vessels below 140 kcbm face increasingly limited charter prospects.
 
@@ -162,15 +206,21 @@ The LNG carrier fleet still contains around 60 vessels in the 120-140 kcbm siz
 
 
 ![LNGC orders](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/orders.png)
-*Figure: LNGC orders*
+
+> **Figure 23: LNGC orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/orders.png)
 
 
 ![LNGC deliveries](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/deliveries.png)
-*Figure: LNGC deliveries*
+
+> **Figure 24: LNGC deliveries**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/deliveries.png)
 
 
-![LNGC orderbook by category](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ob cat.png)
-*Figure: LNGC orderbook by category*
+![LNGC orderbook by category](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ob%20cat.png)
+
+> **Figure 25: LNGC orderbook by category**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ob%20cat.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ob cat.png)
 
 
 ## Outlook
@@ -186,5 +236,7 @@ The two damaged trains at Ras Laffan, representing 12.8 MTPA of capacity, are 
 All eyes are now on the reopening of the Strait of Hormuz and the return of flows from non‑damaged Qatari trains, as well as further clarity on the start‑up timeline for the North Field Expansion.
 
 
-![Ships in fleet per MTPA of global LNG supply, scenarios](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ships p mtpa.png)
-*Figure: Ships in fleet per MTPA of global LNG supply, scenarios*
+![Ships in fleet per MTPA of global LNG supply, scenarios](../images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ships%20p%20mtpa.png)
+
+> **Figure 26: Ships in fleet per MTPA of global LNG supply, scenarios**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ships%20p%20mtpa.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/3e0ee368-0c77-4e59-8aca-b8da53f56c53/ships p mtpa.png)

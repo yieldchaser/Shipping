@@ -30,7 +30,9 @@ Due to the wind-down period for ongoing voyages and a time-lag in crude sourcing
 
 
 ![Rates and forecast](../images/fb340245-ad39-43ce-a380-c6e999ba9899/rates.png)
-*Figure: Rates and forecast*
+
+> **Figure 1: Rates and forecast**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/rates.png)
 
 There has so far been a more meaningful impact on the oil market. Chinese and Indian buyers have scrambled to replace Russian barrels beyond February deliveries. This has led spot premiums for Middle Eastern crude oil to soar, and opened a wide Atlantic - East arbitrage. We expect to see a much higher Atlantic - East cargo count in March than in 2H'24 - reversing the tonne-mile trend and absorbing a vessel overhang. 
 
@@ -38,11 +40,15 @@ Good thing, then, for oil buyers and tanker owners that there is expectations of
 
 
 ![WTI-Dubai, adj. for 2-1 month fwd. spread](../images/fb340245-ad39-43ce-a380-c6e999ba9899/arb.png)
-*Figure: WTI-Dubai, adj. for 2-1 month fwd. spread*
+
+> **Figure 2: WTI-Dubai, adj. for 2-1 month fwd. spread**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/arb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/arb.png)
 
 
 ![2025 oil supply and demand change](../images/fb340245-ad39-43ce-a380-c6e999ba9899/supdem.png)
-*Figure: 2025 oil supply and demand change*
+
+> **Figure 3: 2025 oil supply and demand change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/supdem.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/supdem.png)
 
 Already toward the end of last year Asian buyers increasingly turned their eyes to the West, and fixing for the first two months of this year shows increased Atlantic-East cargoes vs. the last few months of 2024. More is expected to come, both as seasonal demand in the West dips, to free up more export barrels, and as these Asian buyers have sped up the chase for compliant barrels. 
 
@@ -50,11 +56,15 @@ With that, VLCCs rates have recovered and look set to gain more going forward. I
 
 
 ![Monthly Atlantic VLCC fixtures](../images/fb340245-ad39-43ce-a380-c6e999ba9899/atlantic.png)
-*Figure: Monthly Atlantic VLCC fixtures*
+
+> **Figure 4: Monthly Atlantic VLCC fixtures**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/atlantic.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/atlantic.png)
 
 
 ![VLCC monthly forecast curve (base case)](../images/fb340245-ad39-43ce-a380-c6e999ba9899/curve.png)
-*Figure: VLCC monthly forecast curve (base case)*
+
+> **Figure 5: VLCC monthly forecast curve (base case)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/curve.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/curve.png)
 
 
 ### Overall supportive oil market developments
@@ -69,11 +79,15 @@ Canada is another question mark. The EIA expects nearly 300 kbpd of production g
 
 
 ![Americas crude production increase (q/q)](../images/fb340245-ad39-43ce-a380-c6e999ba9899/americas.png)
-*Figure: Americas crude production increase (q/q)*
+
+> **Figure 6: Americas crude production increase (q/q)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/americas.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/americas.png)
 
 
 ![TransMountain exports by destination](../images/fb340245-ad39-43ce-a380-c6e999ba9899/tmx.png)
-*Figure: TransMountain exports by destination*
+
+> **Figure 7: TransMountain exports by destination**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/tmx.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/tmx.png)
 
 Russia's response to the recent sanctions may also set the pace for the market going forward. Amid some confusion so far, there are some price points which suggest that exports will largely continue to flow - and contribute to tightening the (compliant) Aframax market. 
 
@@ -85,7 +99,9 @@ For the broader OFAC listed fleet, it is worth reiterating that 80% of its disch
 
 
 ![OFAC ships' share of 2024 totals](../images/fb340245-ad39-43ce-a380-c6e999ba9899/ofacs.png)
-*Figure: OFAC ships' share of 2024 totals*
+
+> **Figure 8: OFAC ships' share of 2024 totals**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/ofacs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/ofacs.png)
 
 Other than reversal of geopolitically linked trade diversion, the biggest downside risk for the tanker market this year is on the oil demand side. Current crack spreads in Asia are not great with some run cuts being suggested, and there is diverging macro data from key countries in the region. 
 
@@ -95,11 +111,15 @@ Oil demand has surprised to the upside in the West recently, and Trump's propose
 
 
 ![Quarterly oil demand change by region](../images/fb340245-ad39-43ce-a380-c6e999ba9899/demchg.png)
-*Figure: Quarterly oil demand change by region*
+
+> **Figure 9: Quarterly oil demand change by region**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/demchg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/demchg.png)
 
 
 ![Brent oil price in Chinese Renminbi](../images/fb340245-ad39-43ce-a380-c6e999ba9899/oilcny.png)
-*Figure: Brent oil price in Chinese Renminbi*
+
+> **Figure 10: Brent oil price in Chinese Renminbi**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/oilcny.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/oilcny.png)
 
 
 ### Refinery margins keeping some arbs alive, for now...
@@ -121,11 +141,15 @@ We expect the slower ordering pace to persist near-term - at least unless or unt
 
 
 ![Orderbook to fleet](../images/fb340245-ad39-43ce-a380-c6e999ba9899/ob.png)
-*Figure: Orderbook to fleet*
+
+> **Figure 11: Orderbook to fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/ob.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/ob.png)
 
 
 ![Ordering by quarter](../images/fb340245-ad39-43ce-a380-c6e999ba9899/orders.png)
-*Figure: Ordering by quarter*
+
+> **Figure 12: Ordering by quarter**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/orders.png)
 
 Although gross fleet growth picks up this year, deliveries are scheduled to remain low through the first half with only one third of the year's deliveries pencilled in. Total scheduled deliveries amount to 3% vs. the fleet, up from only 1% last year, but mostly tilted toward product tankers at 6.1%, vs. crude at 1.7%. 
 
@@ -133,11 +157,15 @@ Given the extensive sanctions and new regulations, net fleet growth for crude is
 
 
 ![Crude tanker deliveries by quarter](../images/fb340245-ad39-43ce-a380-c6e999ba9899/crude.png)
-*Figure: Crude tanker deliveries by quarter*
+
+> **Figure 13: Crude tanker deliveries by quarter**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/crude.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/crude.png)
 
 
 ![Product tanker deliveries by quarter](../images/fb340245-ad39-43ce-a380-c6e999ba9899/prod.png)
-*Figure: Product tanker deliveries by quarter*
+
+> **Figure 14: Product tanker deliveries by quarter**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/prod.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/prod.png)
 
 
 ### Values may be about to find support again
@@ -150,16 +178,24 @@ For modern assets there is still a relatively wide bid/ask spread and as a resul
 
 
 ![VLCC values](../images/fb340245-ad39-43ce-a380-c6e999ba9899/valv.png)
-*Figure: VLCC values*
+
+> **Figure 15: VLCC values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/valv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/valv.png)
 
 
 ![Suezmax values](../images/fb340245-ad39-43ce-a380-c6e999ba9899/vals.png)
-*Figure: Suezmax values*
+
+> **Figure 16: Suezmax values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/vals.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/vals.png)
 
 
 ![Aframax values](../images/fb340245-ad39-43ce-a380-c6e999ba9899/vala.png)
-*Figure: Aframax values*
+
+> **Figure 17: Aframax values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/vala.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/vala.png)
 
 
 ![MR values](../images/fb340245-ad39-43ce-a380-c6e999ba9899/valm.png)
-*Figure: MR values*
+
+> **Figure 18: MR values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fb340245-ad39-43ce-a380-c6e999ba9899/valm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/valm.png)

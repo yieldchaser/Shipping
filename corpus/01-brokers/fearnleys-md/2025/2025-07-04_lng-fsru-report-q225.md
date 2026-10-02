@@ -37,11 +37,15 @@ Our analysis and discussions with industry players on this topic suggests that t
 
 
 ![US CCGT cost index (by year of contract order)](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_COST.png)
-*Figure: US CCGT cost index (by year of contract order)*
+
+> **Figure 1: US CCGT cost index (by year of contract order)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_COST.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_COST.png)
 
 
 ![GE reported CCGT sales vs orders (by year of contract order)](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_ORDERS_SALES.png)
-*Figure: GE reported CCGT sales vs orders (by year of contract order)*
+
+> **Figure 2: GE reported CCGT sales vs orders (by year of contract order)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_ORDERS_SALES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_ORDERS_SALES.png)
 
 
 ## FSRU activity and volumes
@@ -54,11 +58,15 @@ From a fundamental perspective, we' re also encouraged to see the percentage of 
 
 
 ![Global volumes imported through FSRUs (2022-2025YTD)](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/Global_Volumes_Y-o-Y.png)
-*Figure: Global volumes imported through FSRUs (2022-2025YTD)*
+
+> **Figure 3: Global volumes imported through FSRUs (2022-2025YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/Global_Volumes_Y-o-Y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/Global_Volumes_Y-o-Y.png)
 
 
 ![Monthly volumes imported through FSRUs by region (2025)](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/Monthly_Volumes_by_Region.png)
-*Figure: Monthly volumes imported through FSRUs by region (2025)*
+
+> **Figure 4: Monthly volumes imported through FSRUs by region (2025)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/Monthly_Volumes_by_Region.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/Monthly_Volumes_by_Region.png)
 
 
 ## Recent FSRU Project Developments
@@ -67,8 +75,10 @@ From a fundamental perspective, we' re also encouraged to see the percentage of 
 ### Notable FSRU movements
 
 
-![Indicator Chart](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/Fleet_Map.jpg)
-*Figure: Indicator Chart*
+![Fleet Map](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/Fleet_Map.jpg)
+
+> **Figure 5: Fleet Map**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/Fleet_Map.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/Fleet_Map.jpg)
 
 As the FSRU market is by and large sold out there are limited units moving around (which is in many ways good).
 
@@ -85,11 +95,15 @@ ETYFA Prometheus remains in Malacca where works to complete the unit is ongoing 
 
 
 ![FSRU conversion candidates: Secondhand values](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/SH_values.jpg)
-*Figure: FSRU conversion candidates: Secondhand values*
+
+> **Figure 6: FSRU conversion candidates: Secondhand values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/SH_values.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/SH_values.jpg)
 
 
 ![FSRU Newbuild prices](../images/93f12843-c398-404a-8b66-b2e4eb4201c5/NB_Values.jpg)
-*Figure: FSRU Newbuild prices*
+
+> **Figure 7: FSRU Newbuild prices**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/93f12843-c398-404a-8b66-b2e4eb4201c5/NB_Values.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/NB_Values.jpg)
 
 The FSRU market is tighter than it was at the end of Q1 and we reiterate our view that H2/25 and 2026 should be a busy 18-month period with a broad palette of projects in the pipeline. The only announced conversion unit (**HOEGH GANDRIA**) is now fixed and we expect to see more news on conversions over the next quarter based on both S&P discussions and conversations with equipment providers. Prices for donor vessels continue to drop - applicable for Steam Turbines and DFDE/TFDE alike - which is lowering the bar for prospective conversion players to take a position. However, the risk appetite amongst FSRU players appear to be in stark contrast to the rate levels as matching of project FID and vessel acquisitions remains an issue. We see a growing interest from projects for larger tonnage (moving out of the "cheap and cheerful" 138,000-145,000cbm range) as lower vessel prices and no need for new power module together with larger storage is attractive to end-users.
 

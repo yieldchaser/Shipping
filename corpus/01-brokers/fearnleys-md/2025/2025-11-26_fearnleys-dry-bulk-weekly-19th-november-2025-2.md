@@ -24,20 +24,28 @@ Last week, we wrote "*Slight rebound in China's iron ore consumption last week, 
 To last week's comment, we can add that inventory building in China has counteracted the negative trend in iron ore consumption since early October. Spot markets are now at year-to-date highs, and the rally might not end until the market gets too high relative to the Kamsarmax market (a ratio of about 2.5 has been the peak in the last 7 years).
 
 
-![Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
-*Figure: Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output*
+![Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+
+> **Figure 1: Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
 ![Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average]()
-*Figure: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average*
+
+> **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average**  
+> [Cloud Backup]()
 
 
 ![Cape/Newc Weekly Shipments 24 vs 25]()
-*Figure: Cape/Newc Weekly Shipments 24 vs 25*
+
+> **Figure 3: Cape/Newc Weekly Shipments 24 vs 25**  
+> [Cloud Backup]()
 
 
-![China Iron Ore Inventories at Ports and Steel Mills](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/China iron ore inventories at ports and steel mills.png)
-*Figure: China Iron Ore Inventories at Ports and Steel Mills*
+![China Iron Ore Inventories at Ports and Steel Mills](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/China%20iron%20ore%20inventories%20at%20ports%20and%20steel%20mills.png)
+
+> **Figure 4: China Iron Ore Inventories at Ports and Steel Mills**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/China%20iron%20ore%20inventories%20at%20ports%20and%20steel%20mills.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/China iron ore inventories at ports and steel mills.png)
 
 
 ---
@@ -50,20 +58,28 @@ Last week , we wrote *"Indicators look more bullish than one week ago. The coal 
 The coal futures curve keeps getting less backwardated, indicating there is room for more upside in the Pacific. However, spot prices have softened slightly, as China's import demand is reportedly slowing down a bit after several strong weeks. Otherwise, the North Atlantic keeps strengthening, supported by US Soybean shipments to China, but the South Atlantic tightness indicator shown below has turned down again. So overall, we are perhaps looking at minor gains in the P5TC index until year-end, but there is a chance the rally will also stall here.
 
 
-![Pmx/Kmx Weekly Shipment Volumes](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/panamax kamsarmax weekly shipment volumes.png)
-*Figure: Pmx/Kmx Weekly Shipment Volumes*
+![Pmx/Kmx Weekly Shipment Volumes](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+
+> **Figure 5: Pmx/Kmx Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/panamax%20kamsarmax%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/panamax kamsarmax weekly shipment volumes.png)
 
 
-![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P5 vs Newcastle Coal Futures Spread Lead.png)
-*Figure: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+
+> **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
-![North Atlantic net Vessel Change vs P1A minus P5](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/p1a minus p5.png)
-*Figure: North Atlantic net Vessel Change vs P1A minus P5*
+![North Atlantic net Vessel Change vs P1A minus P5](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/p1a%20minus%20p5.png)
+
+> **Figure 7: North Atlantic net Vessel Change vs P1A minus P5**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/p1a%20minus%20p5.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/p1a minus p5.png)
 
 
-![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P6 vs SATL Tightness.png)
-*Figure: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6*
+![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P6%20vs%20SATL%20Tightness.png)
+
+> **Figure 8: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P6 vs SATL Tightness.png)
 
 
 ---
@@ -77,17 +93,25 @@ In comparable years when demand growth surged during the second half of the year
 Industrial metals prices have softened over the last month, and the ballaster/laden vessel ratio has turned up noticeably in the last weeks. The Jan/Feb downseason is quickly approaching, so we think at best spot levels will trend sideways until year-end.
 
 
-![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
-*Figure: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC*
+![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
+
+> **Figure 9: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1af71b34-ea9e-488a-be44-cbf070e85f6c/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1af71b34-ea9e-488a-be44-cbf070e85f6c/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
 
 
-![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change*
+![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 10: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1af71b34-ea9e-488a-be44-cbf070e85f6c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1af71b34-ea9e-488a-be44-cbf070e85f6c/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Industrial Metals Index vs Ultramax 1 Year TC](../images/e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e/Industrial Metals Index vs Ultramax 1 Year TC.png)
-*Figure: Industrial Metals Index vs Ultramax 1 Year TC*
+![Industrial Metals Index vs Ultramax 1 Year TC](../images/e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png)
+
+> **Figure 11: Industrial Metals Index vs Ultramax 1 Year TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e/Industrial Metals Index vs Ultramax 1 Year TC.png)
 
 
-![Supra/Ultra Ballaster/Laden Vessel Ratio](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/supraultra ballaster laden vessel ratio.png)
-*Figure: Supra/Ultra Ballaster/Laden Vessel Ratio*
+![Supra/Ultra Ballaster/Laden Vessel Ratio](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/supraultra%20ballaster%20laden%20vessel%20ratio.png)
+
+> **Figure 12: Supra/Ultra Ballaster/Laden Vessel Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/supraultra%20ballaster%20laden%20vessel%20ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/18ca30d0-4bc6-4055-873f-9efac61aa5c8/supraultra ballaster laden vessel ratio.png)

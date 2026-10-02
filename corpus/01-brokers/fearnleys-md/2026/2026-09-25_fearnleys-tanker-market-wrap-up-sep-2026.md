@@ -30,7 +30,9 @@ For now, however, volumes look set to continue growing, and then there are seaso
 
 
 ![Monthly average rates - constantly adjusting the Y-axis](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/rates.png)
-*Figure: Monthly average rates - constantly adjusting the Y-axis*
+
+> **Figure 1: Monthly average rates - constantly adjusting the Y-axis**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/rates.png)
 
 
 ### Volumes nearly recovered - demand at all-time-high
@@ -41,11 +43,15 @@ The increased crude flow has in turn spurred higher refinery runs and products e
 
 
 ![Seaborne crude oil loadings vs. Dec'25](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowc.png)
-*Figure: Seaborne crude oil loadings vs. Dec'25*
+
+> **Figure 2: Seaborne crude oil loadings vs. Dec'25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowc.png)
 
 
 ![Seaborne oil product loadings vs. Dec'25](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowp.png)
-*Figure: Seaborne oil product loadings vs. Dec'25*
+
+> **Figure 3: Seaborne oil product loadings vs. Dec'25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowp.png)
 
 Although it was the case a few weeks ago, the most potent leg of the rate rally has not been arbitrage driven, but rather a sourcing driven rally. Despite increasing Hormuz transits the physical oil market is tight, as SPR releases slow and Chinese buyers have stepped back into the market. This can be seen in a steepening backwardation in oil forward curves, and again big premiums for physical vs. futures. As in previous instances, fears of oil shortages drive hoarding, where securing the barrels and ships trump cost - hence producing these phenomenal rates. This time forward curve backwardation is steeper than in other instances, such as 2004-05, 2008, 2019 and 2022, and producing higher rates - partly also as the tanker market balance was very tight already going into this. 
 
@@ -53,11 +59,15 @@ The rally has also been fueled by very high refinery margins, particularly for d
 
 
 ![Brent fwd. spread vs. VLCC rates](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/fwd.png)
-*Figure: Brent fwd. spread vs. VLCC rates*
+
+> **Figure 4: Brent fwd. spread vs. VLCC rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/fwd.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/fwd.png)
 
 
 ![Northwest Europe gasoil crack vs. Atlantic MR rates](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/crackmr.png)
-*Figure: Northwest Europe gasoil crack vs. Atlantic MR rates*
+
+> **Figure 5: Northwest Europe gasoil crack vs. Atlantic MR rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/crackmr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/crackmr.png)
 
 In line with rising volumes and persistent inefficiencies, tonne-day demand has risen again over the last month. Here too, crude leads the way with the biggest m/m gains, but products slowly catching up. VLCCs still lag the other crude tanker segments in terms of explicit demand, but more idle ships, congestion and waiting time, coupled with bad weather in the Far East has given a very tight position list, which makes up for that difference and produces these vast rates. 
 
@@ -65,31 +75,45 @@ The increased flow out of Hormuz has seemingly exhausted GOO STS capacity, with 
 
 
 ![Total tanker tonne-day demand (+3% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmtot.png)
-*Figure: Total tanker tonne-day demand (+3% YTD)*
+
+> **Figure 6: Total tanker tonne-day demand (+3% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmtot.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmtot.png)
 
 
 ![Total crude tanker tonne-day demand (+7% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmc.png)
-*Figure: Total crude tanker tonne-day demand (+7% YTD)*
+
+> **Figure 7: Total crude tanker tonne-day demand (+7% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmc.png)
 
 
 ![Total product tanker tonne-day demand (-2% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmp.png)
-*Figure: Total product tanker tonne-day demand (-2% YTD)*
+
+> **Figure 8: Total product tanker tonne-day demand (-2% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmp.png)
 
 
 ![Total VLCC tonne-day demand (-1% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmv.png)
-*Figure: Total VLCC tonne-day demand (-1% YTD)*
+
+> **Figure 9: Total VLCC tonne-day demand (-1% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmv.png)
 
 
 ![Total Suez tonne-day demand (+6% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tms.png)
-*Figure: Total Suez tonne-day demand (+6% YTD)*
+
+> **Figure 10: Total Suez tonne-day demand (+6% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tms.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tms.png)
 
 
 ![Total Afra/LR2 tonne-day demand (+4% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tma.png)
-*Figure: Total Afra/LR2 tonne-day demand (+4% YTD)*
+
+> **Figure 11: Total Afra/LR2 tonne-day demand (+4% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tma.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tma.png)
 
 
 ![Total MR tonne-day demand (+5% YTD)](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmm.png)
-*Figure: Total MR tonne-day demand (+5% YTD)*
+
+> **Figure 12: Total MR tonne-day demand (+5% YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmm.png)
 
 
 ### Oil market still short and supportive
@@ -100,11 +124,15 @@ The draw-down of non-compliant crude oil also explains why Chinese buyers have b
 
 
 ![Global onshore crude oil storage](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/onshore.png)
-*Figure: Global onshore crude oil storage*
+
+> **Figure 13: Global onshore crude oil storage**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/onshore.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/onshore.png)
 
 
 ![Crude oil on the water by source](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/oow.png)
-*Figure: Crude oil on the water by source*
+
+> **Figure 14: Crude oil on the water by source**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/oow.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/oow.png)
 
 Chinese refinery runs recovered to nearly 14 mbpd in August, from a low of 12.5 mbpd the preceding months. This is still 1 mbpd shy of the same month last year. Meanwhile, apparent main products demand has been 6% lower y/y through the first eight months of the year, and remained down 1.3 mbpd in August. It remains to be seen whether this is structural (in line with other industrial indicators), or a controlled temporary adjustment. 
 
@@ -112,29 +140,41 @@ There may be some recovery going forward, but a further recovery for runs perhap
 
 
 ![Chinese refinery runs rebounding](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/runchina.png)
-*Figure: Chinese refinery runs rebounding*
+
+> **Figure 15: Chinese refinery runs rebounding**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/runchina.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/runchina.png)
 
 
 ![Apparent demand still low, but recovering slightly](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/chidem.png)
-*Figure: Apparent demand still low, but recovering slightly*
+
+> **Figure 16: Apparent demand still low, but recovering slightly**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/chidem.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/chidem.png)
 
 Refinery margins have continued to strengthen over the last month, mainly on capacity constraints but partly also relatively resilient demand. This should incentivise higher runs, but capacity other than in China is mostly maxed out. There should still be some more recovery through year-end, supporting product tanker demand.
 
 
 ![Global refinery runs](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refrun.png)
-*Figure: Global refinery runs*
+
+> **Figure 17: Global refinery runs**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refrun.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refrun.png)
 
 
 ![Northwest Europe crack spreads](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refeu.png)
-*Figure: Northwest Europe crack spreads*
+
+> **Figure 18: Northwest Europe crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refeu.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refeu.png)
 
 
 ![U.S. Gulf Coast crack spreads](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/Refus.png)
-*Figure: U.S. Gulf Coast crack spreads*
+
+> **Figure 19: U.S. Gulf Coast crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/Refus.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/Refus.png)
 
 
 ![Bohai Bay crack spreads](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refchi.png)
-*Figure: Bohai Bay crack spreads*
+
+> **Figure 20: Bohai Bay crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refchi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refchi.png)
 
 
 ### Another layer - potential 90 day U.S. gasoil export ban
@@ -147,11 +187,15 @@ A full export ban can trap USGC gasoil/diesel onshore as there is 'only' 15-20 m
 
 
 ![U.S. Gasoil/diesel exports by destination](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/usgas.png)
-*Figure: U.S. Gasoil/diesel exports by destination*
+
+> **Figure 21: U.S. Gasoil/diesel exports by destination**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/usgas.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/usgas.png)
 
 
 ![Global gasoil/diesel loadings vs. Dec'25 baseline](../images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/gasoil.png)
-*Figure: Global gasoil/diesel loadings vs. Dec'25 baseline*
+
+> **Figure 22: Global gasoil/diesel loadings vs. Dec'25 baseline**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/0be848a1-a006-4a49-b2d4-c406e1fe4d29/gasoil.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/gasoil.png)
 
 
 ### Some thoughts on next year - more oil almost balances more ships

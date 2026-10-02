@@ -20,30 +20,40 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e
 ### Earnings
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rates2.JPG)
-*Figure: Indicator Chart*
+![Rates2](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rates2.JPG)
+
+> **Figure 1: Rates2**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rates2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rates2.JPG)
 
 
 ### Liftings statistics: U.S. & Middle East
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Laden USGUSEC.JPG)
-*Figure: Indicator Chart*
+![Laden Usgusec](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Laden%20USGUSEC.JPG)
+
+> **Figure 2: Laden Usgusec**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Laden%20USGUSEC.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Laden USGUSEC.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Ballast USGUSEC.JPG)
-*Figure: Indicator Chart*
+![Ballast Usgusec](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Ballast%20USGUSEC.JPG)
+
+> **Figure 3: Ballast Usgusec**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Ballast%20USGUSEC.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Ballast USGUSEC.JPG)
 
 
 ### Exports & Imports
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Exports.JPG)
-*Figure: Indicator Chart*
+![Exports](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Exports.JPG)
+
+> **Figure 4: Exports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Exports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Exports.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Imports.JPG)
-*Figure: Indicator Chart*
+![Imports](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Imports.JPG)
+
+> **Figure 5: Imports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Imports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Imports.JPG)
 
 For volumes lifted on VLGCs, the **United States** remains the dominating party, who **increased their exports by 4.9% quarter-on-quarter**. There was a slight increase in volumes from Qatar and the UAE, while Iran and Saudi Arabia rather saw some decreases.
 
@@ -54,38 +64,52 @@ South Korea imported 50% more than they did in Q2-2023. These increases coming m
 ### U.S. Propane Inventories
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/US Propane Inventories.JPG)
-*Figure: Indicator Chart*
+![Us Propane Inventories](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/US%20Propane%20Inventories.JPG)
+
+> **Figure 6: Us Propane Inventories**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/US%20Propane%20Inventories.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/US Propane Inventories.JPG)
 
 
 ### Fleet & Orderbook
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Fleet development.JPG)
-*Figure: Indicator Chart*
+![Fleet Development](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Fleet%20development.JPG)
+
+> **Figure 7: Fleet Development**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Fleet%20development.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Fleet development.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC VLAC OB.JPG)
-*Figure: Indicator Chart*
+![Vlgc Vlac Ob](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC%20VLAC%20OB.JPG)
+
+> **Figure 8: Vlgc Vlac Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC%20VLAC%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC VLAC OB.JPG)
 
 
 ### Yard Status
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Yards.JPG)
-*Figure: Indicator Chart*
+![Yards](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Yards.JPG)
+
+> **Figure 9: Yards**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Yards.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Yards.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG)
-*Figure: Indicator Chart*
+![Vlgc Nb Dollars](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC%20NB%20dollars.JPG)
+
+> **Figure 10: Vlgc Nb Dollars**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC%20NB%20dollars.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG)
-*Figure: Indicator Chart*
+![Sk Ob](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK%20OB.JPG)
+
+> **Figure 11: Sk Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG)
-*Figure: Indicator Chart*
+![China Ob](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA%20OB.JPG)
+
+> **Figure 12: China Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG)
 
 
 ### Outlook going forward
@@ -99,5 +123,7 @@ Going into the second half of the year, where Q4 tendsto be the most trafficked 
 With only 12 newbuilds scheduled for delivery in 2025, **we believe the transit inefficiencies will contribute to a tight shipping market going forward.**
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rate forecast2.JPG)
-*Figure: Indicator Chart*
+![Rate Forecast2](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rate%20forecast2.JPG)
+
+> **Figure 13: Rate Forecast2**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rate%20forecast2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/Rate forecast2.JPG)

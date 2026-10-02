@@ -24,20 +24,28 @@ Looking beyond August, the narrowing spread between the 1st and 3rd months iron 
 However, Bauxite shipment volumes are likely to increase after August, so that could counter-act some of the possible weakness in iron ore demand.
 
 
-![China Daily Imported Iron Ore Consumption](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Daily imported iron ore consumption.png)
-*Figure: China Daily Imported Iron Ore Consumption*
+![China Daily Imported Iron Ore Consumption](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Daily%20imported%20iron%20ore%20consumption.png)
+
+> **Figure 1: China Daily Imported Iron Ore Consumption**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/Daily%20imported%20iron%20ore%20consumption.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/Daily imported iron ore consumption.png)
 
 
-![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/70d214e7-0145-4f0d-95c1-61c470d47627/IRON ORE FUTURES LEAD VS CAPE.png)
-*Figure: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average*
+![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/70d214e7-0145-4f0d-95c1-61c470d47627/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png)
+
+> **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/IRON ORE FUTURES LEAD VS CAPE.png)
 
 
-![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/70d214e7-0145-4f0d-95c1-61c470d47627/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
-*Figure: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output*
+![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/70d214e7-0145-4f0d-95c1-61c470d47627/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+
+> **Figure 3: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
-![Capesize/Newcastlemax Total Shipment Volumes, 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Capenewc Weekly Shipment Volumes.png)
-*Figure: Capesize/Newcastlemax Total Shipment Volumes, 2024 vs 2025*
+![Capesize/Newcastlemax Total Shipment Volumes, 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Capenewc%20Weekly%20Shipment%20Volumes.png)
+
+> **Figure 4: Capesize/Newcastlemax Total Shipment Volumes, 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/Capenewc Weekly Shipment Volumes.png)
 
 
 ---
@@ -53,20 +61,28 @@ The spread between the Atlantic and Pacific remains high, so the Atlantic is lik
 Otherwise, congestion in ECSAM remains relatively high, and although the seasonal peak in shipment volumes is likely past, activity could remain higher than usual as Trump's unpredictable trade policies raise demand for forward coverage out of that region. The flipside of that is that the US grain season could be less active than usual.
 
 
-![Panamax Atlantic vs Pacific Index](../images/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX ATL VS PAC.png)
-*Figure: Panamax Atlantic vs Pacific Index*
+![Panamax Atlantic vs Pacific Index](../images/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX%20ATL%20VS%20PAC.png)
+
+> **Figure 5: Panamax Atlantic vs Pacific Index**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX%20ATL%20VS%20PAC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX ATL VS PAC.png)
 
 
-![Panamax/Kamsarmax Coal Shipment Volumes, 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/panamax kamsarmax weekly coal shipments.png)
-*Figure: Panamax/Kamsarmax Coal Shipment Volumes, 2024 vs 2025*
+![Panamax/Kamsarmax Coal Shipment Volumes, 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/panamax%20kamsarmax%20weekly%20coal%20shipments.png)
+
+> **Figure 6: Panamax/Kamsarmax Coal Shipment Volumes, 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/panamax%20kamsarmax%20weekly%20coal%20shipments.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/panamax kamsarmax weekly coal shipments.png)
 
 
-![Panamax / Kamsarmax Argentina and Brazil Congestion](../images/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX KAMSARMAX BRAZIL ARGENTINA CONGESTION.png)
-*Figure: Panamax / Kamsarmax Argentina and Brazil Congestion*
+![Panamax / Kamsarmax Argentina and Brazil Congestion](../images/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX%20KAMSARMAX%20BRAZIL%20ARGENTINA%20CONGESTION.png)
+
+> **Figure 7: Panamax / Kamsarmax Argentina and Brazil Congestion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX%20KAMSARMAX%20BRAZIL%20ARGENTINA%20CONGESTION.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/PANAMAX KAMSARMAX BRAZIL ARGENTINA CONGESTION.png)
 
 
-![Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Panamax Kamsarmax Weekly Soybean Exports Brazil.png)
-*Figure: Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25*
+![Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Panamax%20Kamsarmax%20Weekly%20Soybean%20Exports%20Brazil.png)
+
+> **Figure 8: Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/Panamax%20Kamsarmax%20Weekly%20Soybean%20Exports%20Brazil.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/Panamax Kamsarmax Weekly Soybean Exports Brazil.png)
 
 
 ---
@@ -85,17 +101,25 @@ The problem with "front-running" is that there will be a negative counter-effect
 However, the high shipment volumes in July ensure some tightness will remain in the near term as it takes time for vessels to complete voyages. Further, it is hard to say how long front-running will continue before it is exhausted.
 
 
-![Supramax Ultramax Monthly Total Loadings 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX ULTRAMAX MONTHLY LOADINGS.png)
-*Figure: Supramax Ultramax Monthly Total Loadings 2024 vs 2025*
+![Supramax Ultramax Monthly Total Loadings 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX%20ULTRAMAX%20MONTHLY%20LOADINGS.png)
+
+> **Figure 9: Supramax Ultramax Monthly Total Loadings 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX%20ULTRAMAX%20MONTHLY%20LOADINGS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX ULTRAMAX MONTHLY LOADINGS.png)
 
 
-![Ultramax Index 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Ultra Index 2024 vs 2025.png)
-*Figure: Ultramax Index 2024 vs 2025*
+![Ultramax Index 2024 vs 2025](../images/70d214e7-0145-4f0d-95c1-61c470d47627/Ultra%20Index%202024%20vs%202025.png)
+
+> **Figure 10: Ultramax Index 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/Ultra%20Index%202024%20vs%202025.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/Ultra Index 2024 vs 2025.png)
 
 
-![OECD Economic Growth Index vs Total Minor Bulks Shipment Growth (All Segments)](../images/70d214e7-0145-4f0d-95c1-61c470d47627/OECD vs MINOR BULKS.png)
-*Figure: OECD Economic Growth Index vs Total Minor Bulks Shipment Growth (All Segments)*
+![OECD Economic Growth Index vs Total Minor Bulks Shipment Growth (All Segments)](../images/70d214e7-0145-4f0d-95c1-61c470d47627/OECD%20vs%20MINOR%20BULKS.png)
+
+> **Figure 11: OECD Economic Growth Index vs Total Minor Bulks Shipment Growth (All Segments)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/OECD%20vs%20MINOR%20BULKS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/OECD vs MINOR BULKS.png)
 
 
-![Supramax Ultramax Argentina and Brazil Congestion](../images/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX ULTRAMAX ECSAM CONGESTION.png)
-*Figure: Supramax Ultramax Argentina and Brazil Congestion*
+![Supramax Ultramax Argentina and Brazil Congestion](../images/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX%20ULTRAMAX%20ECSAM%20CONGESTION.png)
+
+> **Figure 12: Supramax Ultramax Argentina and Brazil Congestion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX%20ULTRAMAX%20ECSAM%20CONGESTION.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/70d214e7-0145-4f0d-95c1-61c470d47627/SUPRAMAX ULTRAMAX ECSAM CONGESTION.png)

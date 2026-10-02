@@ -20,20 +20,28 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4
 ### Freight rates & Earnings
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG dolla per ton.JPG)
-*Figure: Indicator Chart*
+![Blpg Dolla Per Ton](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG%20dolla%20per%20ton.JPG)
+
+> **Figure 1: Blpg Dolla Per Ton**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG%20dolla%20per%20ton.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG dolla per ton.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3 Premium-Discount.JPG)
-*Figure: Indicator Chart*
+![Blpg3 Premium Discount](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3%20Premium-Discount.JPG)
+
+> **Figure 2: Blpg3 Premium Discount**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3%20Premium-Discount.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3 Premium-Discount.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG1 TCE Q2 25.JPG)
-*Figure: Indicator Chart*
+![Blpg1 Tce Q2 25](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG1%20TCE%20Q2%2025.JPG)
+
+> **Figure 3: Blpg1 Tce Q2 25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG1%20TCE%20Q2%2025.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG1 TCE Q2 25.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3 TCE Q2 25.JPG)
-*Figure: Indicator Chart*
+![Blpg3 Tce Q2 25](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3%20TCE%20Q2%2025.JPG)
+
+> **Figure 4: Blpg3 Tce Q2 25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3%20TCE%20Q2%2025.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/BLPG3 TCE Q2 25.JPG)
 
 *Average monthly TCE per day*
 
@@ -50,27 +58,37 @@ Later in the quarter, geopolitical tensions escalated between Israel and Iran, c
 ### Exports and Imports
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Total seaborne LPG.JPG)
-*Figure: Indicator Chart*
+![Total Seaborne Lpg](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Total%20seaborne%20LPG.JPG)
+
+> **Figure 5: Total Seaborne Lpg**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Total%20seaborne%20LPG.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Total seaborne LPG.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2 25 Exports.JPG)
-*Figure: Indicator Chart*
+![Q2 25 Exports](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2%2025%20Exports.JPG)
+
+> **Figure 6: Q2 25 Exports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2%2025%20Exports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2 25 Exports.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2 25 Imports.JPG)
-*Figure: Indicator Chart*
+![Q2 25 Imports](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2%2025%20Imports.JPG)
+
+> **Figure 7: Q2 25 Imports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2%2025%20Imports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Q2 25 Imports.JPG)
 
 
 ### U.S. Production and Terminal Capacity Expansion
 
 
-![Indicator Chart](../images/cdbc06fe-7852-46fb-be04-c93838468290/US Prod.JPG)
-*Figure: Indicator Chart*
+![Us Prod](../images/cdbc06fe-7852-46fb-be04-c93838468290/US%20Prod.JPG)
+
+> **Figure 8: Us Prod**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/US%20Prod.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/US Prod.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Inventories.JPG)
-*Figure: Indicator Chart*
+![Inventories](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Inventories.JPG)
+
+> **Figure 9: Inventories**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Inventories.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Inventories.JPG)
 
 U.S. LPG production continues to rise, with total output increasing by 27.25% over the past five years. While growth is expected to slow to approximately 5% over the next three years, export capacity is projected to expand significantly during the same period. Domestic consumption remains stable, as do export levels, which continue to hover around 60%.
 
@@ -81,8 +99,10 @@ Regarding routing patterns, the majority of laden vessels heading east from the 
 The announced capacity expansions from several U.S. terminals have boosted market confidence going forward, as this incremental supply is likely to fulfill the expanding fleet's needs better than previously anticipated. *See an overview of the announced capacity increases below.*
 
 
-![Indicator Chart](../images/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG)
-*Figure: Indicator Chart*
+![Exp](../images/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG)
+
+> **Figure 10: Exp**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/cdbc06fe-7852-46fb-be04-c93838468290/Exp.JPG)
 
 Total U.S. export capacity is set to increase from 68 to 111 MTPA by 2028 with the completion of these projects. This would boost export capacity by 65% from 2024 to 2028-a substantial jump that is warmly welcomed by a growing fleet.
 
@@ -92,8 +112,10 @@ What will materialize as the *actual* incremental exports is yet to be seen; how
 ### The Middle East
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/MEG Exports.JPG)
-*Figure: Indicator Chart*
+![Meg Exports](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/MEG%20Exports.JPG)
+
+> **Figure 11: Meg Exports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/MEG%20Exports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/MEG Exports.JPG)
 
 LPG exports from the Middle East has been strong in the first half of the year, with total volumes surpassing 21 million tons. The long-awaited natural gas projects in Qatar will come online (North Field East) next year, which is expected to bring with it incremental LPG volumes. Additionally, in 2027 (North Field South), will further support the increased exports. Approximately 4.2 MTPA is expected in 2026, and another 2 MTPA in 2027, which would increase the regions export capacity from 46 to 52 MTPA. This additional supply of LPG will be beneficial to the fleet expansion that will occur at the same time.
 
@@ -104,12 +126,16 @@ LPG exports from the Middle East has been strong in the first half of the year, 
 ### Chinese Demand
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Chinese imports.JPG)
-*Figure: Indicator Chart*
+![Chinese Imports](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Chinese%20imports.JPG)
+
+> **Figure 12: Chinese Imports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Chinese%20imports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Chinese imports.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/China PDH.JPG)
-*Figure: Indicator Chart*
+![China Pdh](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/China%20PDH.JPG)
+
+> **Figure 13: China Pdh**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/China%20PDH.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/China PDH.JPG)
 
 As a natural repsonse to the tensions that have occurred between the two power nations, Chinese imports decreased slightly during Q2, compared to Q1. They imported a total 8.24 million tons this past quarter, and 19.9 million tons on a year-to-date basis.
 
@@ -121,18 +147,24 @@ After a trade war escalating with increased tariffs on each country, the final v
 ### Fleet and Orderbook
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Fleet development Q2.JPG)
-*Figure: Indicator Chart*
+![Fleet Development Q2](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Fleet%20development%20Q2.JPG)
+
+> **Figure 14: Fleet Development Q2**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Fleet%20development%20Q2.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Fleet development Q2.JPG)
 
 Newbuilding activity has been low in the first half of 2025, with 3 ships delivered in Q1 and another 3 in Q2. There is another 4 expected in Q3 and Q4, as well. The remaining number of deliveries for the year is 8, giving a total of 13 newbuilds. The fleet now stands at 406 ships, including floating storage. The orderbook consists of 108 ships, resulting in an orderbook-fleet ratio of 26%, which is slightly above the 20-year average of 21%. Nonetheless, the fleet is set to grow by 19.4% through 2026 and 2027 in total, which could set of the fleet balance in a surplus.
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/OB Del.JPG)
-*Figure: Indicator Chart*
+![Ob Del](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/OB%20Del.JPG)
+
+> **Figure 15: Ob Del**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/OB%20Del.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/OB Del.JPG)
 
 
-![Indicator Chart](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Yards OB.JPG)
-*Figure: Indicator Chart*
+![Yards Ob](../images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Yards%20OB.JPG)
+
+> **Figure 16: Yards Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/daefd0f8-298c-4019-9dcd-4a74111ceb92/Yards%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/daefd0f8-298c-4019-9dcd-4a74111ceb92/Yards OB.JPG)
 
 Hyundai in South Korea remains the largest builder of newbuilds, while one quarter of the newbuilds are being constructed in China (bars shown in light blue in chart above). The proposed port call fees by the USTR, on Chinese-built and/or -operated ships, has been clarified as only applicable for laden ships calling U.S. ports. This is rarely the case for VLGCs, thus we can exclude this possibility.
 

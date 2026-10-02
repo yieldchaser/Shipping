@@ -25,20 +25,28 @@ There is currently a record number of VLOCs sailing toward Brazil, which is a go
 Further, the iron ore price leads shown below indicate a firming market from late Feb and through March.
 
 
-![VLOCs Sailing to Brazil](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/VLOC BRAZIL SAILING.png)
-*Figure: VLOCs Sailing to Brazil*
+![VLOCs Sailing to Brazil](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/VLOC%20BRAZIL%20SAILING.png)
+
+> **Figure 1: VLOCs Sailing to Brazil**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/VLOC%20BRAZIL%20SAILING.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/VLOC BRAZIL SAILING.png)
 
 
-![Iron Ore Price 3 Months Change (Lead 3 Months) vs BCI5TC 3 Months Change](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON ORE PRICE 3 MONTH CHANGE LEAD VS BCI5TC.png)
-*Figure: Iron Ore Price 3 Months Change (Lead 3 Months) vs BCI5TC 3 Months Change*
+![Iron Ore Price 3 Months Change (Lead 3 Months) vs BCI5TC 3 Months Change](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON%20ORE%20PRICE%203%20MONTH%20CHANGE%20LEAD%20VS%20BCI5TC.png)
+
+> **Figure 2: Iron Ore Price 3 Months Change (Lead 3 Months) vs BCI5TC 3 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON%20ORE%20PRICE%203%20MONTH%20CHANGE%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON ORE PRICE 3 MONTH CHANGE LEAD VS BCI5TC.png)
 
 
-![Iron Ore Price Lead vs BCI5TC](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
-*Figure: Iron Ore Price Lead vs BCI5TC*
+![Iron Ore Price Lead vs BCI5TC](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
+
+> **Figure 3: Iron Ore Price Lead vs BCI5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 
 
-![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
-*Figure: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change*
+![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+
+> **Figure 4: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
 
 
 ## Panamax/Kamsarmax
@@ -47,20 +55,28 @@ The market has started the year on a very weak note in the Pacific. The P3A inde
 As a result of the weakness in the Pacific, and the upcoming Brazilian Soybean export season, the count of vessels sailing toward Brazil is increasing rapidly. This is the start of what will likely be a spot market upturn in February.
 
 
-![Panamax / Kamsarmax Market Seasonality](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
-*Figure: Panamax / Kamsarmax Market Seasonality*
+![Panamax / Kamsarmax Market Seasonality](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 5: Panamax / Kamsarmax Market Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
-![Panamax / Kamsarmax Laden, Heading to China](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX HEADING TO CHINA.png)
-*Figure: Panamax / Kamsarmax Laden, Heading to China*
+![Panamax / Kamsarmax Laden, Heading to China](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CHINA.png)
+
+> **Figure 6: Panamax / Kamsarmax Laden, Heading to China**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CHINA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX HEADING TO CHINA.png)
 
 
-![Panamax / Kamsarmax Ballasting to Brazil or Argentina](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX HEADING TO BRAZIL.png)
-*Figure: Panamax / Kamsarmax Ballasting to Brazil or Argentina*
+![Panamax / Kamsarmax Ballasting to Brazil or Argentina](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20BRAZIL.png)
+
+> **Figure 7: Panamax / Kamsarmax Ballasting to Brazil or Argentina**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20BRAZIL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX HEADING TO BRAZIL.png)
 
 
-![Panamax / Kamsarmax Laden, Heading to India](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX HEADING TO INDIA.png)
-*Figure: Panamax / Kamsarmax Laden, Heading to India*
+![Panamax / Kamsarmax Laden, Heading to India](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDIA.png)
+
+> **Figure 8: Panamax / Kamsarmax Laden, Heading to India**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/PANAMAX KAMSARMAX HEADING TO INDIA.png)
 
 
 ## Supramax/Ultramax
@@ -73,17 +89,25 @@ That implies the Ultramax index could average below 10.000 USD pd in January. Gi
 The January average is so far higher than 10.000 USD pd, but the market is likely to go down more as both basins remains weak. The seasonal bottom is usually around the middle of February.
 
 
-![Supramax / Ultramax Heading to India or South East Asia](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX ULTRAMAX HEADING TO INDIA OR SOUTH EAST ASIA.png)
-*Figure: Supramax / Ultramax Heading to India or South East Asia*
+![Supramax / Ultramax Heading to India or South East Asia](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20INDIA%20OR%20SOUTH%20EAST%20ASIA.png)
+
+> **Figure 9: Supramax / Ultramax Heading to India or South East Asia**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20INDIA%20OR%20SOUTH%20EAST%20ASIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX ULTRAMAX HEADING TO INDIA OR SOUTH EAST ASIA.png)
 
 
-![Supramax / Ultramax Laden to China](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX ULTRAMAX HEADING TO CHINA.png)
-*Figure: Supramax / Ultramax Laden to China*
+![Supramax / Ultramax Laden to China](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20CHINA.png)
+
+> **Figure 10: Supramax / Ultramax Laden to China**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20CHINA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX ULTRAMAX HEADING TO CHINA.png)
 
 
-![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price Lead vs Supramax 1 Year TC 6 Months Change*
+![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 11: Copper Price Lead vs Supramax 1 Year TC 6 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Supramax / Ultramax Seasonal Average](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
-*Figure: Supramax / Ultramax Seasonal Average*
+![Supramax / Ultramax Seasonal Average](../images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 12: Supramax / Ultramax Seasonal Average**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d95499e3-a127-4d82-a1ca-f7afb680e61b/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)

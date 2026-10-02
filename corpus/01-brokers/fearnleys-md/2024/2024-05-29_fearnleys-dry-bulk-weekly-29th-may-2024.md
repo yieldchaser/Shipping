@@ -27,20 +27,28 @@ The count was similar in mid-April, mid-January and through most of Q4 last year
 So far it seems like the support is in the low twenties rather than the high teens. Further, it still looks like the market is gearing up for a rally in June. China's imported iron ore consumption, iron ore prices and steel prices points towards that, and there is now also a significant number of vessels heading to or in Australia. The latter point does not always result in a rally, but it usually does as it means an increasing share of the fleet will be taken out of the market. The total ballaster/laden vessel ratio for the fleet is also at a level which often indicates a market bottom (111% ratio).
 
 
-![Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC](../images/a5b49354-511b-4c6a-a757-325e371dd289/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
-*Figure: Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC*
+![Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC](../images/a5b49354-511b-4c6a-a757-325e371dd289/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
+
+> **Figure 1: Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 
 
-![China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change](../images/a5b49354-511b-4c6a-a757-325e371dd289/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
-*Figure: China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change*
+![China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change](../images/a5b49354-511b-4c6a-a757-325e371dd289/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+
+> **Figure 2: China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
 
 
-![Capes/Newcs Heading to or in Australia](../images/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC HEADING TO AUSTRALIA.png)
-*Figure: Capes/Newcs Heading to or in Australia*
+![Capes/Newcs Heading to or in Australia](../images/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC%20HEADING%20TO%20AUSTRALIA.png)
+
+> **Figure 3: Capes/Newcs Heading to or in Australia**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC%20HEADING%20TO%20AUSTRALIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC HEADING TO AUSTRALIA.png)
 
 
-![Capes/Newcs Heading to or in Brazil](../images/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC HEADING TO BRAZIL.png)
-*Figure: Capes/Newcs Heading to or in Brazil*
+![Capes/Newcs Heading to or in Brazil](../images/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC%20HEADING%20TO%20BRAZIL.png)
+
+> **Figure 4: Capes/Newcs Heading to or in Brazil**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC%20HEADING%20TO%20BRAZIL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC HEADING TO BRAZIL.png)
 
 
 ## Panamax/Kamsarmax
@@ -53,16 +61,22 @@ The below chart shows the BPI82 index against the count of vessels heading to or
 The situation remains the same this week, so one could say the countdown to a rally is now down to between 1 and 3 weeks, although one can never be 100% sure...On average, the next 2 weeks is the lowest market one will see for the remainder of the year, as displayed on the bottom left chart.
 
 
-![Panamax/Kamsarmax Heading to or in the South Atlantic Exceeding 375 Vessels vs BPI82 5TC](../images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX ECSAM MORE THAN 375.png)
-*Figure: Panamax/Kamsarmax Heading to or in the South Atlantic Exceeding 375 Vessels vs BPI82 5TC*
+![Panamax/Kamsarmax Heading to or in the South Atlantic Exceeding 375 Vessels vs BPI82 5TC](../images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX%20KAMSARMAX%20ECSAM%20MORE%20THAN%20375.png)
+
+> **Figure 5: Panamax/Kamsarmax Heading to or in the South Atlantic Exceeding 375 Vessels vs BPI82 5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX%20KAMSARMAX%20ECSAM%20MORE%20THAN%20375.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX ECSAM MORE THAN 375.png)
 
 
-![Panamax/Kamsarmax Seasonal Average Market Movement](../images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
-*Figure: Panamax/Kamsarmax Seasonal Average Market Movement*
+![Panamax/Kamsarmax Seasonal Average Market Movement](../images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 6: Panamax/Kamsarmax Seasonal Average Market Movement**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
-![Panamax/Kamsarmax Heading to or in AUS, IDN or RUS (Pac)](../images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX HEADING TO AUS IDN OR RUS (PAC).png)
-*Figure: Panamax/Kamsarmax Heading to or in AUS, IDN or RUS (Pac)*
+![Panamax/Kamsarmax Heading to or in AUS, IDN or RUS (Pac)](../images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX%20KAMSARMAX%20HEADING%20TO%20AUS%20IDN%20OR%20RUS%20%28PAC%29.png)
+
+> **Figure 7: Panamax/Kamsarmax Heading to or in AUS, IDN or RUS (Pac)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX%20KAMSARMAX%20HEADING%20TO%20AUS%20IDN%20OR%20RUS%20%28PAC%29.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX HEADING TO AUS IDN OR RUS (PAC).png)
 
 
 ## Supramax/Ultramax
@@ -74,17 +88,25 @@ Last week we wrote the following:
 The market has weakened a bit more than we suggested, but we maintain our general bullish view for June onwards. Market fundamentals are being suppressed by the still very weak manufacturing activity in the Eurozone. The next few days, May manufacturing PMIs for the Eurozone will be released, which will give more clarity to the current situation and how swiftly a return to expansion can be expected. The only May report released so far is the one for Austria, which showed a clear improvement relatively speaking, although the report showed the manufacturing sector remained in contraction overall.
 
 
-![Supramax Seasonal Market Movement](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
-*Figure: Supramax Seasonal Market Movement*
+![Supramax Seasonal Market Movement](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 8: Supramax Seasonal Market Movement**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
 
 
-![Supramax / Ultramax Ballaster /Laden Vessel Ratio](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX BALLASTER LADEN VESSEL RATIO.png)
-*Figure: Supramax / Ultramax Ballaster /Laden Vessel Ratio*
+![Supramax / Ultramax Ballaster /Laden Vessel Ratio](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20BALLASTER%20LADEN%20VESSEL%20RATIO.png)
+
+> **Figure 9: Supramax / Ultramax Ballaster /Laden Vessel Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20BALLASTER%20LADEN%20VESSEL%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX BALLASTER LADEN VESSEL RATIO.png)
 
 
-![Supramax / Ultramax Heading to or in the South Atlantic](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX HEADING TO OR IN THE SOUTH ATLANTIC.png)
-*Figure: Supramax / Ultramax Heading to or in the South Atlantic*
+![Supramax / Ultramax Heading to or in the South Atlantic](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20OR%20IN%20THE%20SOUTH%20ATLANTIC.png)
+
+> **Figure 10: Supramax / Ultramax Heading to or in the South Atlantic**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20OR%20IN%20THE%20SOUTH%20ATLANTIC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX HEADING TO OR IN THE SOUTH ATLANTIC.png)
 
 
-![Supramax / Ultramax Heading to the North Atlantic / Europe Continent](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX HEADING TO EUROPE NATL.png)
-*Figure: Supramax / Ultramax Heading to the North Atlantic / Europe Continent*
+![Supramax / Ultramax Heading to the North Atlantic / Europe Continent](../images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20EUROPE%20NATL.png)
+
+> **Figure 11: Supramax / Ultramax Heading to the North Atlantic / Europe Continent**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20EUROPE%20NATL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX HEADING TO EUROPE NATL.png)

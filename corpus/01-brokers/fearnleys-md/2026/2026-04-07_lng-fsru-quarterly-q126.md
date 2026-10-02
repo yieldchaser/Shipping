@@ -79,12 +79,16 @@ The ongoing conflict in the Middle East introduces significant uncertainty over 
 *(Avid readers of Fearnley LNG LinkedIn posts may have read this point of view already from our weekly post on 31st March 2026.)*
 
 
-![Global regasification & liquefaction capacity (2000-2035)](../images/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas&Liq_Capacity.jpg)
-*Figure: Global regasification & liquefaction capacity (2000-2035)*
+![Global regasification & liquefaction capacity (2000-2035)](../images/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas%26Liq_Capacity.jpg)
+
+> **Figure 1: Global regasification & liquefaction capacity (2000-2035)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas%26Liq_Capacity.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas&Liq_Capacity.jpg)
 
 
 ![Global regas-to-liquefaction capacity ratio (2000-2035)](../images/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas-to-Liq_Ratio.jpg)
-*Figure: Global regas-to-liquefaction capacity ratio (2000-2035)*
+
+> **Figure 2: Global regas-to-liquefaction capacity ratio (2000-2035)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas-to-Liq_Ratio.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas-to-Liq_Ratio.jpg)
 
 
 ---
@@ -102,11 +106,15 @@ On a global scale **FSRUs delivered 16.4% of all LNG volumes imported in Q1/26**
 
 
 ![Global volumes imported through FSRUs (2023-2026YTD)](../images/9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2023-2026.png.jpg)
-*Figure: Global volumes imported through FSRUs (2023-2026YTD)*
+
+> **Figure 3: Global volumes imported through FSRUs (2023-2026YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2023-2026.png.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2023-2026.png.jpg)
 
 
 ![Monthly volumes imported through FSRUs by region (2026YTD)](../images/9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2026.jpg)
-*Figure: Monthly volumes imported through FSRUs by region (2026YTD)*
+
+> **Figure 4: Monthly volumes imported through FSRUs by region (2026YTD)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2026.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2026.jpg)
 
 
 ---
@@ -121,8 +129,10 @@ On a global scale **FSRUs delivered 16.4% of all LNG volumes imported in Q1/26**
 ### Notable FSRU movements
 
 
-![Indicator Chart](../images/9bb07133-4895-4c32-9f0f-726e381c7837/FSRU_MAP.jpg)
-*Figure: Indicator Chart*
+![Fsru Map](../images/9bb07133-4895-4c32-9f0f-726e381c7837/FSRU_MAP.jpg)
+
+> **Figure 5: Fsru Map**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/FSRU_MAP.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/FSRU_MAP.jpg)
 
 **ENERGOS ESKIMO** departed Ain Sokhna on 13th Jan 2026 for drydock in Turkey. The unit was off station for 61 days, but spent only ~28 days in the yard in Turkey.
 
@@ -146,11 +156,15 @@ On a global scale **FSRUs delivered 16.4% of all LNG volumes imported in Q1/26**
 
 
 ![FSRU conversion candidates: Secondhand values](../images/9bb07133-4895-4c32-9f0f-726e381c7837/SH.jpg)
-*Figure: FSRU conversion candidates: Secondhand values*
+
+> **Figure 6: FSRU conversion candidates: Secondhand values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/SH.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/SH.jpg)
 
 
 ![FSRU Newbuild prices](../images/9bb07133-4895-4c32-9f0f-726e381c7837/NB.jpg)
-*Figure: FSRU Newbuild prices*
+
+> **Figure 7: FSRU Newbuild prices**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/9bb07133-4895-4c32-9f0f-726e381c7837/NB.jpg) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/NB.jpg)
 
 During the quarter, we've seen **movement from testing waters to firming up plans on the conversion front**. There are still a number of semi-speculative positions doing engineering to shave off 2-3 months, but we currently count **five LNGCs firmly contracted for conversion** - of which *three are linked to projects* and *two seemingly speculative*. This adds to two MOL newbuilds already on order - leaving the full **orderbook at 7 units**. The project pipeline and conversion projects *with subjects attached* (subjects ranging from winning auctions to obtaining permits to concluding associated transactions) remains relatively long with a **realistic potential for 3-4 additional firm conversions emerging through the year**. Overall, the *real speculative plays are not coming through yet* - which gives us some confidence in an impending oversupply in 2030 seems less likely.
 

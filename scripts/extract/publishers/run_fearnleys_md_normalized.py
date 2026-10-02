@@ -22,6 +22,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 from pathlib import Path
 from typing import Dict, List, Any, Optional, Tuple
 
@@ -86,21 +87,41 @@ def parse_blocks_to_markdown(report: dict, rep_slug: Optional[str] = None) -> Tu
                 body_lines.append(f"{bcontent}\n")
         elif btype in ("halfWidthChartFromFile", "fullWidthChartFromFile", "chart"):
             images_count += 1
-            chart_title = btitle or "Indicator Chart"
             chart_url = bcontent.strip()
 
             # Check if image is cached locally
             m_blob = re.search(r"pbrkapp\.blob\.core\.windows\.net/report/([^/]+)/(.+)", chart_url)
             local_rel_path = None
+            local_file_uri = None
+            chart_title = btitle
             if m_blob:
                 guid, filename = m_blob.groups()
                 filename_clean = filename.rstrip(')"\'> \r\n\t')
-                expected_local = IMG_BASE_DIR / guid / filename_clean
+                filename_unquoted = urllib.parse.unquote(filename_clean.split('?')[0].strip())
+                expected_local = IMG_BASE_DIR / guid / filename_unquoted
+                if not chart_title:
+                    chart_title = re.sub(r'[-_]+', ' ', filename_unquoted.rsplit('.', 1)[0]).title()
                 if expected_local.exists():
-                    local_rel_path = f"../images/{guid}/{filename_clean}"
+                    quoted_filename = urllib.parse.quote(filename_unquoted)
+                    local_rel_path = f"../images/{guid}/{quoted_filename}"
+                    local_abs_path = expected_local.resolve().as_posix()
+                    local_file_uri = f"file:///{urllib.parse.quote(local_abs_path, safe='/:')}"
 
-            target_img_path = local_rel_path if local_rel_path else chart_url
-            body_lines.append(f"\n![{chart_title}]({target_img_path})\n*Figure: {chart_title}*\n")
+            chart_title = chart_title or f"Indicator Chart {images_count}"
+
+            if local_rel_path:
+                body_lines.append(
+                    f"\n![{chart_title}]({local_rel_path})\n\n"
+                    f"> **Figure {images_count}: {chart_title}**  \n"
+                    f"> [Local Asset]({local_file_uri}) | [Cloud Backup]({chart_url})\n"
+                )
+            else:
+                encoded_cloud_url = urllib.parse.quote(chart_url, safe=":/")
+                body_lines.append(
+                    f"\n![{chart_title}]({encoded_cloud_url})\n\n"
+                    f"> **Figure {images_count}: {chart_title}**  \n"
+                    f"> [Cloud Backup]({chart_url})\n"
+                )
         elif btype == "pageBreak":
             body_lines.append("\n---\n")
 

@@ -30,7 +30,9 @@ We still believe that rates will realign to something closer to the norm across 
 
 
 ![Spot rates, TCE $/day](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/rates.png)
-*Figure: Spot rates, TCE $/day*
+
+> **Figure 1: Spot rates, TCE $/day**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/rates.png)
 
 Overall tanker volumes YTD have declined marginally vs. the same period last year, with crude oil slightly lower and products slightly higher. The recent decline in crude oil volumes is nothing out of the ordinary and some more downside can be expected near-term due to continued OPEC+ cuts and seasonal demand in exporting areas. Similarly, we could see slight downside also for products in the coming few months. 
 
@@ -38,21 +40,29 @@ We expect a sharper recovery especially for crude volumes from September onwards
 
 
 ![Seaborne crude oil volumes](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/volc.png)
-*Figure: Seaborne crude oil volumes*
+
+> **Figure 2: Seaborne crude oil volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/volc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/volc.png)
 
 
 ![Seaborne oil product volumes](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/volp.png)
-*Figure: Seaborne oil product volumes*
+
+> **Figure 3: Seaborne oil product volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/volp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/volp.png)
 
 LR rates have softened recently, after a few brief but significant spikes in recent months. Our tracking suggests that the switching of LR2s from the dirty back into the clean trade has stopped, as rate premiums have now eased. However, a number of VLCCs and Suezmaxes have cleaned up to take CPP cargoes from the Middle East and India to the West - making up as much as a 2-3% product tanker fleet growth equivalent in dwt terms, albeit short-term.
 
 
 ![Aframax vs. LR2 rates](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/lrafr.png)
-*Figure: Aframax vs. LR2 rates*
+
+> **Figure 4: Aframax vs. LR2 rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/lrafr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/lrafr.png)
 
 
 ![% of LR2s trading dirty](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/lr.png)
-*Figure: % of LR2s trading dirty*
+
+> **Figure 5: % of LR2s trading dirty**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/lr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/lr.png)
 
 The Red Sea situation has not changed much recently, despite renewed headlines at times suggesting progress in ceasefire talks. If anything, the Houthis' attacks appear to have become more accurate, posing a greater threat to those still opting to transit. Therefore, there has not been a substantial change in transit volumes and COGH diversion, other than the cleaning up of larger vessels for improved economies of scale. 
 
@@ -60,11 +70,15 @@ Through May, crude oil volumes transiting the Bab-el-Mandeb strait were 1.6 mbpd
 
 
 ![Bab-el-Mandeb transits](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bab.png)
-*Figure: Bab-el-Mandeb transits*
+
+> **Figure 6: Bab-el-Mandeb transits**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bab.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/bab.png)
 
 
 ![COGH volumes](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/cogh.png)
-*Figure: COGH volumes*
+
+> **Figure 7: COGH volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/cogh.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/cogh.png)
 
 
 ### Oil market
@@ -73,11 +87,15 @@ The oil market this year looks fairly balanced - according to the IEA it will on
 
 
 ![Oil supply and demand, implied balance](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bala.png)
-*Figure: Oil supply and demand, implied balance*
+
+> **Figure 8: Oil supply and demand, implied balance**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bala.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/bala.png)
 
 
 ![Brent 7-1 months forward price spread](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bal.png)
-*Figure: Brent 7-1 months forward price spread*
+
+> **Figure 9: Brent 7-1 months forward price spread**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bal.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/bal.png)
 
 Chinese apparent oil demand declined in May vs. previous months and the same month last year. Still, YTD it remains up 6.4% vs. the same period last year (down from a growth rate of 8.8% until April). Refinery runs were also slightly lower, and the YTD average is now down -0.9% y/y over last year. Crude oil imports, meanwhile, grew slightly over preceding months, although were also lower than the same month last year. All told, this points to a weaker picture for oil demand in China - which begs the question whether this is a temporary setback or a levelling out from the strong growth seen over the last year and a half. Refinery margins did spike briefly going into June, but have since receded… 
 
@@ -85,11 +103,15 @@ Some of this decline is seasonal, especially for refinery runs, and a demand rec
 
 
 ![China apparent main oil products demand](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/chapp.png)
-*Figure: China apparent main oil products demand*
+
+> **Figure 10: China apparent main oil products demand**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/chapp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/chapp.png)
 
 
 ![China available crude oil vs. refinery runs](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/chibb.png)
-*Figure: China available crude oil vs. refinery runs*
+
+> **Figure 11: China available crude oil vs. refinery runs**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/chibb.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/chibb.png)
 
 While there is also contradictory travel activity data, the EIA's weekly implied main products demand estimates show an underwhelming start to the driving season. Should this apparent weakness persist, there is greater potential for a (even bigger) crude oil export push going forward. This is not a base case, but something to ponder going into the second half of the year. 
 
@@ -97,11 +119,15 @@ The U.S. oil rig count has been steadily dropping for some time, but has been of
 
 
 ![Implied U.S. main products demand](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/demus.png)
-*Figure: Implied U.S. main products demand*
+
+> **Figure 12: Implied U.S. main products demand**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/demus.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/demus.png)
 
 
 ![U.S. shale oil production](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/produs.png)
-*Figure: U.S. shale oil production*
+
+> **Figure 13: U.S. shale oil production**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/produs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/produs.png)
 
 In its recent Oil 2024 report the IEA outlined oil market expectations until 2030, predicting peak oil demand in 2029. The report has received widespread pushback on its too optimistic assumptions about alternative energy sources and electrification, among other things. Even with that, the agency predicts 3.4 mbpd oil demand growth between 2023 and 2029, with strong growth in Asia and Africa partly offset by declining demand in North America and Europe. 
 
@@ -120,11 +146,15 @@ Whilst crude tanker fleet growth looks set to remain very low, products pick up 
 
 
 ![Tanker deliveries and orderbook](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/fleet.png)
-*Figure: Tanker deliveries and orderbook*
+
+> **Figure 14: Tanker deliveries and orderbook**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/fleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/fleet.png)
 
 
-![Tanker orderbook vs. phase-out potential](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob phase.png)
-*Figure: Tanker orderbook vs. phase-out potential*
+![Tanker orderbook vs. phase-out potential](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob%20phase.png)
+
+> **Figure 15: Tanker orderbook vs. phase-out potential**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob%20phase.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob phase.png)
 
 The orderbook to fleet ratio has grown to 8.6%. There are more orders which have been reported or rumoured but not yet materialized, which will likely push the overall orderbook to fleet toward 10%. Still, that is low in a historical context and insufficient to enable fleet renewal as will eventually be needed. 
 
@@ -132,17 +162,23 @@ That is not to say that we expect any meaningful scrapping in the relatively nea
 
 
 ![Orderbook vs. fleet](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob.png)
-*Figure: Orderbook vs. fleet*
+
+> **Figure 16: Orderbook vs. fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/ob.png)
 
 In just two years, around 20-25% of the different fleets will be 20+ years old, and much more difficult to trade. Even if we do not see a pick-up in scrapping we expect that lower utilisation for this ageing part of the fleet will offset much of the overall deliveries the next few years. This means there is little effective fleet growth to accommodate for demand growth - which there likely will be. Hence, we believe that more ordering will be needed, especially for the segments in which orderbooks are still low.
 
 
-![Share of fleet at age 15+ years](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/15+.png)
-*Figure: Share of fleet at age 15+ years*
+![Share of fleet at age 15+ years](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/15%2B.png)
+
+> **Figure 17: Share of fleet at age 15+ years**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/15%2B.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/15+.png)
 
 
-![Share of fleet at age 20+ years](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/20+.png)
-*Figure: Share of fleet at age 20+ years*
+![Share of fleet at age 20+ years](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/20%2B.png)
+
+> **Figure 18: Share of fleet at age 20+ years**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/20%2B.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/20+.png)
 
 Owners look to have taken the latter point to heart, with 19.5m dwt ordered so far this year which is on an annualised pace to reach more than 40m dwt for the full year - well above last year's 28m dwt. 
 
@@ -150,8 +186,12 @@ If, however, 18+ years old vessels continue to see about 30% lower utilisation t
 
 
 ![Historical scrapping](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bscrap.png)
-*Figure: Historical scrapping*
+
+> **Figure 19: Historical scrapping**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/bscrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/bscrap.png)
 
 
 ![Historical ordering](../images/7f607e4f-7c57-4a95-a373-b3f52e70785c/border.png)
-*Figure: Historical ordering*
+
+> **Figure 20: Historical ordering**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7f607e4f-7c57-4a95-a373-b3f52e70785c/border.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7f607e4f-7c57-4a95-a373-b3f52e70785c/border.png)

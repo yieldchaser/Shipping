@@ -29,12 +29,16 @@ While it remains challenging to determine conclusive transaction levels in the c
 ### Recent sales
 
 
-![Yearly sales](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Yearly sales.png)
-*Figure: Yearly sales*
+![Yearly sales](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Yearly%20sales.png)
+
+> **Figure 1: Yearly sales**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Yearly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/Yearly sales.png)
 
 
-![Asset values](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Asset prices.png)
-*Figure: Asset values*
+![Asset values](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Asset%20prices.png)
+
+> **Figure 2: Asset values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Asset%20prices.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/Asset prices.png)
 
 
 ## Newbuilding update
@@ -47,12 +51,16 @@ Shipyards, however, are still holding relatively firm on their pricing, and we d
 We can also confirm that Purus, a subject of rumors earlier this year, has officially entered the newbuilding LNG market. This is a welcome development that introduces a new entrant into the sector. The key question now is the extent of their appetite for additional vessels in the remaining months of the year.
 
 
-![Deliveries incl. orderbook](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Deliveries inc order.png)
-*Figure: Deliveries incl. orderbook*
+![Deliveries incl. orderbook](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Deliveries%20inc%20order.png)
+
+> **Figure 3: Deliveries incl. orderbook**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Deliveries%20inc%20order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/Deliveries inc order.png)
 
 
-![LNGC orders](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/LNG oders.png)
-*Figure: LNGC orders*
+![LNGC orders](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/LNG%20oders.png)
+
+> **Figure 4: LNGC orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/LNG%20oders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/LNG oders.png)
 
 
 ## Interest rates
@@ -61,30 +69,42 @@ The volatility in the financial markets continue to create challenges when tryin
 
 
 ![Interest rate (90 day avg. SOFR)](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/SOFR.png)
-*Figure: Interest rate (90 day avg. SOFR)*
+
+> **Figure 5: Interest rate (90 day avg. SOFR)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/SOFR.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/SOFR.png)
 
 
 ![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/10y2y.png)
-*Figure: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
+
+> **Figure 6: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/10y2y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/10y2y.png)
 
 
 ## Recycling
 
 
-![Demolition price (large tanker)](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Demolition prices.png)
-*Figure: Demolition price (large tanker)*
+![Demolition price (large tanker)](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Demolition%20prices.png)
+
+> **Figure 7: Demolition price (large tanker)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/Demolition%20prices.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/Demolition prices.png)
 
 
 ## World fleet at a glance
 
 
-![Live fleet by propulsion](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet by propulsion.png)
-*Figure: Live fleet by propulsion*
+![Live fleet by propulsion](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet%20by%20propulsion.png)
+
+> **Figure 8: Live fleet by propulsion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet%20by%20propulsion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet by propulsion.png)
 
 
-![Total fleet](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/total fleet.png)
-*Figure: Total fleet*
+![Total fleet](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/total%20fleet.png)
+
+> **Figure 9: Total fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/total%20fleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/total fleet.png)
 
 
-![LNGC fleet by propulsion and delivery year](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet by prooulsion and delivery year.png)
-*Figure: LNGC fleet by propulsion and delivery year*
+![LNGC fleet by propulsion and delivery year](../images/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet%20by%20prooulsion%20and%20delivery%20year.png)
+
+> **Figure 10: LNGC fleet by propulsion and delivery year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet%20by%20prooulsion%20and%20delivery%20year.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet by prooulsion and delivery year.png)

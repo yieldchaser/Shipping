@@ -27,8 +27,10 @@ Otherwise, we do not see much strength in AIS data. Vessels heading to China and
 Thus, we are a bit surprised that the market is holding up as well as it is.
 
 
-![China Imported Iron Ore Consumption, 1 Month Change, Moved Forward 1.5 Months vs BCI5TC 1 Month Change](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE BIG VERSION 11111111111111111111111111.png)
-*Figure: China Imported Iron Ore Consumption, 1 Month Change, Moved Forward 1.5 Months vs BCI5TC 1 Month Change*
+![China Imported Iron Ore Consumption, 1 Month Change, Moved Forward 1.5 Months vs BCI5TC 1 Month Change](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE%20BIG%20VERSION%2011111111111111111111111111.png)
+
+> **Figure 1: China Imported Iron Ore Consumption, 1 Month Change, Moved Forward 1.5 Months vs BCI5TC 1 Month Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE%20BIG%20VERSION%2011111111111111111111111111.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/079e56fd-c975-46a9-ac5b-7114d9d70e0b/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE BIG VERSION 11111111111111111111111111.png)
 
 
 ## Panamax/Kamsarmax
@@ -41,20 +43,28 @@ The US grains season has not yet started, and in the Pacific things are quiet. A
 Otherwise, the Kamsarmax index has dropped significantly below the BSI58 index, which since the index inception in 2018 has been followed by a rebound every time.
 
 
-![Panamax / Kamsarmax Heading to the US](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX HEADING TO THE US.png)
-*Figure: Panamax / Kamsarmax Heading to the US*
+![Panamax / Kamsarmax Heading to the US](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20THE%20US.png)
+
+> **Figure 2: Panamax / Kamsarmax Heading to the US**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20THE%20US.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX HEADING TO THE US.png)
 
 
-![Panamax / Kamsarmax Heading to Canada](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX HEADING TO CANADA.png)
-*Figure: Panamax / Kamsarmax Heading to Canada*
+![Panamax / Kamsarmax Heading to Canada](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CANADA.png)
+
+> **Figure 3: Panamax / Kamsarmax Heading to Canada**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CANADA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX HEADING TO CANADA.png)
 
 
-![Panamax/Kamsarmax Seasonal Average Market Movement](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
-*Figure: Panamax/Kamsarmax Seasonal Average Market Movement*
+![Panamax/Kamsarmax Seasonal Average Market Movement](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 4: Panamax/Kamsarmax Seasonal Average Market Movement**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
-![Panamax / Kamsarmax India Coal Discharges Seasonality](../images/c1b36696-d734-449f-adb7-0b212ae75d77/PANAMAX INDIA COAL DISCHARGES.png)
-*Figure: Panamax / Kamsarmax India Coal Discharges Seasonality*
+![Panamax / Kamsarmax India Coal Discharges Seasonality](../images/c1b36696-d734-449f-adb7-0b212ae75d77/PANAMAX%20INDIA%20COAL%20DISCHARGES.png)
+
+> **Figure 5: Panamax / Kamsarmax India Coal Discharges Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c1b36696-d734-449f-adb7-0b212ae75d77/PANAMAX%20INDIA%20COAL%20DISCHARGES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c1b36696-d734-449f-adb7-0b212ae75d77/PANAMAX INDIA COAL DISCHARGES.png)
 
 
 ## Supramax/Ultramax
@@ -64,17 +74,25 @@ So, next week could be interesting. Otherwise, the market continues to closely f
 The market is also starting to "underperform" basis the copper price lead displayed below.
 
 
-![Supramax Seasonal Market Movement](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/SUPRAMAX SEASONALITY.png)
-*Figure: Supramax Seasonal Market Movement*
+![Supramax Seasonal Market Movement](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/SUPRAMAX%20SEASONALITY.png)
+
+> **Figure 6: Supramax Seasonal Market Movement**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/SUPRAMAX%20SEASONALITY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/079e56fd-c975-46a9-ac5b-7114d9d70e0b/SUPRAMAX SEASONALITY.png)
 
 
-![Copper Price Lead vs Supramax 1 Year TC](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price Lead vs Supramax 1 Year TC*
+![Copper Price Lead vs Supramax 1 Year TC](../images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 7: Copper Price Lead vs Supramax 1 Year TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/079e56fd-c975-46a9-ac5b-7114d9d70e0b/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/079e56fd-c975-46a9-ac5b-7114d9d70e0b/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Supramax / Ultramax Weekly Grain Shipments - Canada & US](../images/8a9ed350-31b1-4f93-847e-f0f1855ede59/SUPRAMAX ULTRAMAX WEEKLY CANADA US GRAIN SHIPMENTS.png)
-*Figure: Supramax / Ultramax Weekly Grain Shipments - Canada & US*
+![Supramax / Ultramax Weekly Grain Shipments - Canada & US](../images/8a9ed350-31b1-4f93-847e-f0f1855ede59/SUPRAMAX%20ULTRAMAX%20WEEKLY%20CANADA%20US%20GRAIN%20SHIPMENTS.png)
+
+> **Figure 8: Supramax / Ultramax Weekly Grain Shipments - Canada & US**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/8a9ed350-31b1-4f93-847e-f0f1855ede59/SUPRAMAX%20ULTRAMAX%20WEEKLY%20CANADA%20US%20GRAIN%20SHIPMENTS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/8a9ed350-31b1-4f93-847e-f0f1855ede59/SUPRAMAX ULTRAMAX WEEKLY CANADA US GRAIN SHIPMENTS.png)
 
 
-![Supramax / Ultramax Monthly Total Loadings - 2022, 2023 and 2024](../images/65a7dd70-5259-4eb8-a06e-bb39b73c1948/SUPRAMAX ULTRAMAX MONTHLY LOADINGS.png)
-*Figure: Supramax / Ultramax Monthly Total Loadings - 2022, 2023 and 2024*
+![Supramax / Ultramax Monthly Total Loadings - 2022, 2023 and 2024](../images/65a7dd70-5259-4eb8-a06e-bb39b73c1948/SUPRAMAX%20ULTRAMAX%20MONTHLY%20LOADINGS.png)
+
+> **Figure 9: Supramax / Ultramax Monthly Total Loadings - 2022, 2023 and 2024**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/65a7dd70-5259-4eb8-a06e-bb39b73c1948/SUPRAMAX%20ULTRAMAX%20MONTHLY%20LOADINGS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/65a7dd70-5259-4eb8-a06e-bb39b73c1948/SUPRAMAX ULTRAMAX MONTHLY LOADINGS.png)

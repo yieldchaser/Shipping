@@ -27,20 +27,28 @@ The market still seems most likely to rise over the next few weeks.
 **Bottom right chart:** The laden/ballast ratio is above average, but far from an extreme. It must rise further before one eventually can say the market is in toppish territory.
 
 
-![China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
-*Figure: China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)*
+![China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+
+> **Figure 1: China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
-![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/Capenewc Weekly Shipment Volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/Capenewc%20Weekly%20Shipment%20Volumes.png)
+
+> **Figure 2: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/Capenewc Weekly Shipment Volumes.png)
 
 
-![C5TC 180 vs South Atlantic Tightness Indicator](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/BCI5TC SATL Tightness Indicator.png)
-*Figure: C5TC 180 vs South Atlantic Tightness Indicator*
+![C5TC 180 vs South Atlantic Tightness Indicator](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/BCI5TC%20SATL%20Tightness%20Indicator.png)
+
+> **Figure 3: C5TC 180 vs South Atlantic Tightness Indicator**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/BCI5TC%20SATL%20Tightness%20Indicator.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/BCI5TC SATL Tightness Indicator.png)
 
 
-![Laden/Ballast Ratio](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/CapeNewc Laden Ballast Ratio.png)
-*Figure: Laden/Ballast Ratio*
+![Laden/Ballast Ratio](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/CapeNewc%20Laden%20Ballast%20Ratio.png)
+
+> **Figure 4: Laden/Ballast Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/CapeNewc%20Laden%20Ballast%20Ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/CapeNewc Laden Ballast Ratio.png)
 
 
 ---
@@ -56,20 +64,28 @@ The below indicators still suggest that the market will most likely continue tre
 **Bottom right chart:** The SATL tightness indicator has continued to fall, suggesting further downside for P6.
 
 
-![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/panamax kamsarmax weekly shipment volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+
+> **Figure 5: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/panamax%20kamsarmax%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/panamax kamsarmax weekly shipment volumes.png)
 
 
-![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5 vs Newcastle Coal Futures Spread Lead.png)
-*Figure: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+
+> **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
-![P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5TC vs Pacific Tightness Indicator.png)
-*Figure: P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)*
+![P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5TC%20vs%20Pacific%20Tightness%20Indicator.png)
+
+> **Figure 7: P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5TC%20vs%20Pacific%20Tightness%20Indicator.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P5TC vs Pacific Tightness Indicator.png)
 
 
-![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P6 vs SATL Tightness.png)
-*Figure: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)*
+![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P6%20vs%20SATL%20Tightness.png)
+
+> **Figure 8: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/P6 vs SATL Tightness.png)
 
 
 ---
@@ -85,20 +101,28 @@ Signs of market stabilization, as the ballast/laden vessel ratio has dropped. Ho
 **Bottom right chart:** Shipment volumes were up 8.9% year on year through week 12.
 
 
-![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/65b85412-be52-4cc3-aa62-8d228c374c55/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
-*Figure: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC*
+![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/65b85412-be52-4cc3-aa62-8d228c374c55/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
+
+> **Figure 9: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/65b85412-be52-4cc3-aa62-8d228c374c55/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/65b85412-be52-4cc3-aa62-8d228c374c55/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
 
 
-![S11TC  vs Ballaster/Laden Vessel Ratio](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supraultra ballaster laden vessel ratio.png)
-*Figure: S11TC  vs Ballaster/Laden Vessel Ratio*
+![S11TC  vs Ballaster/Laden Vessel Ratio](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supraultra%20ballaster%20laden%20vessel%20ratio.png)
+
+> **Figure 10: S11TC  vs Ballaster/Laden Vessel Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supraultra%20ballaster%20laden%20vessel%20ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supraultra ballaster laden vessel ratio.png)
 
 
-![Industrial Metals Index vs Ultramax 1 Year TC](../images/e3a986f7-5f64-4aa4-a99d-e7e1c3892a41/Industrial Metals Index vs Ultramax 1 Year TC.png)
-*Figure: Industrial Metals Index vs Ultramax 1 Year TC*
+![Industrial Metals Index vs Ultramax 1 Year TC](../images/e3a986f7-5f64-4aa4-a99d-e7e1c3892a41/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png)
+
+> **Figure 11: Industrial Metals Index vs Ultramax 1 Year TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/e3a986f7-5f64-4aa4-a99d-e7e1c3892a41/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/e3a986f7-5f64-4aa4-a99d-e7e1c3892a41/Industrial Metals Index vs Ultramax 1 Year TC.png)
 
 
-![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supra ultra total weekly shipment volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supra%20ultra%20total%20weekly%20shipment%20volumes.png)
+
+> **Figure 12: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supra%20ultra%20total%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/supra ultra total weekly shipment volumes.png)
 
 
 ---
@@ -114,17 +138,25 @@ The market could soon find its footing, as there are signs that the Ultramax mar
 **Bottom right chart:** The changes in the price of copper usually lead the changes in second-hand values, by about 6 months. Positive momentum for values is still suggested for the coming months, though also a potential peak in the middle of this year.
 
 
-![HS3 vs Ratio of HS3 and HS5](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HS3 RATIO.png)
-*Figure: HS3 vs Ratio of HS3 and HS5*
+![HS3 vs Ratio of HS3 and HS5](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HS3%20RATIO.png)
+
+> **Figure 13: HS3 vs Ratio of HS3 and HS5**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HS3%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HS3 RATIO.png)
 
 
-![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+
+> **Figure 14: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png)
 
 
-![S11TC Shifted 1 Week Forward, vs HS7TC](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/ULTRA LEAD HANDY.png)
-*Figure: S11TC Shifted 1 Week Forward, vs HS7TC*
+![S11TC Shifted 1 Week Forward, vs HS7TC](../images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/ULTRA%20LEAD%20HANDY.png)
+
+> **Figure 15: S11TC Shifted 1 Week Forward, vs HS7TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/ULTRA%20LEAD%20HANDY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5/ULTRA LEAD HANDY.png)
 
 
-![Copper Price Changes (Lead 6 Months) vs Handysize 10 Year Old Changes](../images/65b85412-be52-4cc3-aa62-8d228c374c55/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png)
-*Figure: Copper Price Changes (Lead 6 Months) vs Handysize 10 Year Old Changes*
+![Copper Price Changes (Lead 6 Months) vs Handysize 10 Year Old Changes](../images/65b85412-be52-4cc3-aa62-8d228c374c55/COPPER%20PRICE%20LEAD%20VS%20HANDYSIZE%2010%20YEAR%20OLD.png)
+
+> **Figure 16: Copper Price Changes (Lead 6 Months) vs Handysize 10 Year Old Changes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/65b85412-be52-4cc3-aa62-8d228c374c55/COPPER%20PRICE%20LEAD%20VS%20HANDYSIZE%2010%20YEAR%20OLD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/65b85412-be52-4cc3-aa62-8d228c374c55/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png)

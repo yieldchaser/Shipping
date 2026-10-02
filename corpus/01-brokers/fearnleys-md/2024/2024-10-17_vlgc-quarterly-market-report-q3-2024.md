@@ -20,12 +20,16 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-0
 ### Earnings
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG)
-*Figure: Indicator Chart*
+![Ratesq3](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG)
+
+> **Figure 1: Ratesq3**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG)
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3 Baltic.JPG)
-*Figure: Indicator Chart*
+![Q3 Baltic](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3%20Baltic.JPG)
+
+> **Figure 2: Q3 Baltic**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3%20Baltic.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3 Baltic.JPG)
 
 
 ### Liftings statistics: U.S. & Middle East
@@ -41,20 +45,26 @@ August: 80 in total/20 being spot fixtures
 September: 70 in total/19 being spot fixtures
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb vs BLPG3.JPG)
-*Figure: Indicator Chart*
+![Arb Vs Blpg3](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb%20vs%20BLPG3.JPG)
+
+> **Figure 3: Arb Vs Blpg3**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb%20vs%20BLPG3.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb vs BLPG3.JPG)
 
 **The VLGC earnings level is normally highly correlated to the arbitrage window from the West to the East.** However, as the graph clearly illustrates, this has not been the case in recent months. The graph specifically compares the Houston-Chiba index (BLPG3) with the arbitrage. Several factors have contributed to this situation.
 
 During the summer, the U.S. export market experienced disruptions due to maintenance activities as well as hurricane Beryl, which led to delays in loadings. Such incidents usually create a ripple effect, impacting the period following the occurrence. This resulted in fewer spot fixtures from the region and generally higher FOB activity. Consequently, shipping activity was lower than desired, and the impact of an expanded fleet became evident in the position lists, causing a long shipping market.
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG)
-*Figure: Indicator Chart*
+![Laden](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG)
+
+> **Figure 4: Laden**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG)
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG)
-*Figure: Indicator Chart*
+![Ballast](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG)
+
+> **Figure 5: Ballast**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG)
 
 Due to the changing availability and restrictions at the Panama Canal, there has been a significant shift in the sailing patterns of VLGCs over the past 12 months. These patterns have become a crucial variable in terms of fleet capacity and availability.
 
@@ -66,12 +76,16 @@ There are still no ships sailing through the Suez Canal due to the security situ
 ### Exports & Imports
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG)
-*Figure: Indicator Chart*
+![Exports](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG)
+
+> **Figure 6: Exports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG)
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG)
-*Figure: Indicator Chart*
+![Imports](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG)
+
+> **Figure 7: Imports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG)
 
 For volumes lifted on VLGCs, the **United States** remains the dominating party, who **increased their exports by 4.9% quarter-on-quarter**. Year-on-year, the U.S. has exported 2 million tonnes more this year, with a total of 38.4 million tonnes so far in 2024. This is equivalent to a growth of 6%. Quarter-on-quarter, they displayed an 8% increase in exports.
 
@@ -83,19 +97,25 @@ All top five importing countries increased their imports in Q3 2024 compared to 
 ### U.S. Propane Inventories
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG)
-*Figure: Indicator Chart*
+![Inventories](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG)
+
+> **Figure 8: Inventories**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG)
 
 
 ### Fleet & Orderbook
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet developmentQ3.JPG)
-*Figure: Indicator Chart*
+![Fleet Developmentq3](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet%20developmentQ3.JPG)
+
+> **Figure 9: Fleet Developmentq3**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet%20developmentQ3.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet developmentQ3.JPG)
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC VLAC OB.JPG)
-*Figure: Indicator Chart*
+![Vlgc Vlac Ob](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC%20VLAC%20OB.JPG)
+
+> **Figure 10: Vlgc Vlac Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC%20VLAC%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC VLAC OB.JPG)
 
 It is therefore uncertain whether another substantial influx of vessels can be absorbed similarly. To achieve a more balanced market, export volumes must rise. There is already positive sentiment from the U.S., with several terminals expanding their capacity. However, the production levels forecasted by the EIA will be crucial. Their projections, to be published next quarter, will provide valuable insights into the expected export levels from the U.S. for 2025 and 2026. 
 
@@ -107,20 +127,28 @@ The anticipated incremental Clean Ammonia Capacity to come before the next decad
 ### Yard Status
 
 
-![Indicator Chart](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB Yards.JPG)
-*Figure: Indicator Chart*
+![Nb Yards](../images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB%20Yards.JPG)
+
+> **Figure 11: Nb Yards**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB%20Yards.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB Yards.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG)
-*Figure: Indicator Chart*
+![Vlgc Nb Dollars](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC%20NB%20dollars.JPG)
+
+> **Figure 12: Vlgc Nb Dollars**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC%20NB%20dollars.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG)
-*Figure: Indicator Chart*
+![Sk Ob](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK%20OB.JPG)
+
+> **Figure 13: Sk Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG)
 
 
-![Indicator Chart](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG)
-*Figure: Indicator Chart*
+![China Ob](../images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA%20OB.JPG)
+
+> **Figure 14: China Ob**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA%20OB.JPG) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG)
 
 *LPG is categorized under "others", but their total share is around 5%.*
 

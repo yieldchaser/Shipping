@@ -27,20 +27,28 @@ Demand/supply fundamentals remains firmly positive, so the market will likely re
 **Bottom right chart:** The laden/ballast ratio fell slightly in the last week. It remains above the long-term average but is far from an extreme. The VLOC laden/ballast ratio remains high.
 
 
-![China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/BF OUTPUT CHINA.png)
-*Figure: China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)*
+![China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/BF%20OUTPUT%20CHINA.png)
+
+> **Figure 1: China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/BF%20OUTPUT%20CHINA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/BF OUTPUT CHINA.png)
 
 
-![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/Capenewc Weekly Shipment Volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/Capenewc%20Weekly%20Shipment%20Volumes.png)
+
+> **Figure 2: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/Capenewc Weekly Shipment Volumes.png)
 
 
-![C5TC 180 vs South Atlantic Tightness Indicator](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/BCI5TC SATL Tightness Indicator.png)
-*Figure: C5TC 180 vs South Atlantic Tightness Indicator*
+![C5TC 180 vs South Atlantic Tightness Indicator](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/BCI5TC%20SATL%20Tightness%20Indicator.png)
+
+> **Figure 3: C5TC 180 vs South Atlantic Tightness Indicator**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/BCI5TC%20SATL%20Tightness%20Indicator.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/BCI5TC SATL Tightness Indicator.png)
 
 
-![Laden/Ballast Ratio](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/CapeNewc Laden Ballast Ratio.png)
-*Figure: Laden/Ballast Ratio*
+![Laden/Ballast Ratio](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/CapeNewc%20Laden%20Ballast%20Ratio.png)
+
+> **Figure 4: Laden/Ballast Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/CapeNewc%20Laden%20Ballast%20Ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/CapeNewc Laden Ballast Ratio.png)
 
 
 ---
@@ -56,20 +64,28 @@ The below indicators still suggest bearishness in the near-term. Still, a major 
 **Bottom right chart:** The SATL tightness indicator still suggests the market will soften in the near-term.
 
 
-![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/panamax kamsarmax weekly shipment volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+
+> **Figure 5: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/panamax%20kamsarmax%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/panamax kamsarmax weekly shipment volumes.png)
 
 
-![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5 vs Newcastle Coal Futures Spread Lead.png)
-*Figure: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+
+> **Figure 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5 vs Newcastle Coal Futures Spread Lead.png)
 
 
-![P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5TC vs Pacific Tightness Indicator.png)
-*Figure: P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)*
+![P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5TC%20vs%20Pacific%20Tightness%20Indicator.png)
+
+> **Figure 7: P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5TC%20vs%20Pacific%20Tightness%20Indicator.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/P5TC vs Pacific Tightness Indicator.png)
 
 
-![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P6 vs SATL Tightness.png)
-*Figure: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)*
+![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P6%20vs%20SATL%20Tightness.png)
+
+> **Figure 8: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/P6%20vs%20SATL%20Tightness.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/P6 vs SATL Tightness.png)
 
 
 ---
@@ -85,20 +101,28 @@ Revised volume growth data from last week shows growth was below 5% e.i. lower t
 **Bottom right chart:** Shipment volumes growth was revised to 4.7% through week 22. Volume growth is thus below supply growth. The market is being held up by ton-miles due to rerouting of MEG volumes, along with slow steaming.
 
 
-![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/371981fc-4683-4bd2-8906-7d622a684a46/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
-*Figure: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC*
+![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../images/371981fc-4683-4bd2-8906-7d622a684a46/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
+
+> **Figure 9: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/371981fc-4683-4bd2-8906-7d622a684a46/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/371981fc-4683-4bd2-8906-7d622a684a46/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png)
 
 
-![S11TC  vs Ballaster/Laden Vessel Ratio](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra ultra ballaster laden vessel ratio.png)
-*Figure: S11TC  vs Ballaster/Laden Vessel Ratio*
+![S11TC  vs Ballaster/Laden Vessel Ratio](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra%20ultra%20ballaster%20laden%20vessel%20ratio.png)
+
+> **Figure 10: S11TC  vs Ballaster/Laden Vessel Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra%20ultra%20ballaster%20laden%20vessel%20ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra ultra ballaster laden vessel ratio.png)
 
 
-![S11TC / HS7TC spread](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA SPREAD OVER HANDY.png)
-*Figure: S11TC / HS7TC spread*
+![S11TC / HS7TC spread](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA%20SPREAD%20OVER%20HANDY.png)
+
+> **Figure 11: S11TC / HS7TC spread**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA%20SPREAD%20OVER%20HANDY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA SPREAD OVER HANDY.png)
 
 
-![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra ultra total weekly shipment volumes.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra%20ultra%20total%20weekly%20shipment%20volumes.png)
+
+> **Figure 12: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra%20ultra%20total%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/supra ultra total weekly shipment volumes.png)
 
 
 ---
@@ -114,17 +138,25 @@ Like for Supras/Ultras, the continued increase in industrial metals prices sugge
 **Bottom right chart:** The laden/ballast ratio is an accurate measure of underlying fundamentals, shown by the high correlation it has with to HS7TC index.
 
 
-![HS3 vs Ratio of HS3 and HS5](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/HS3 RATIO.png)
-*Figure: HS3 vs Ratio of HS3 and HS5*
+![HS3 vs Ratio of HS3 and HS5](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/HS3%20RATIO.png)
+
+> **Figure 13: HS3 vs Ratio of HS3 and HS5**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/HS3%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/HS3 RATIO.png)
 
 
-![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png)
-*Figure: Weekly Shipment Volumes*
+![Weekly Shipment Volumes](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+
+> **Figure 14: Weekly Shipment Volumes**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png)
 
 
-![S11TC Shifted 1 Week Forward, vs HS7TC](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA LEAD HANDY.png)
-*Figure: S11TC Shifted 1 Week Forward, vs HS7TC*
+![S11TC Shifted 1 Week Forward, vs HS7TC](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA%20LEAD%20HANDY.png)
+
+> **Figure 15: S11TC Shifted 1 Week Forward, vs HS7TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA%20LEAD%20HANDY.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/ULTRA LEAD HANDY.png)
 
 
-![Handysize 7TC vs Laden/Ballast Ratio](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/Handysize Laden Ballast Ratio.png)
-*Figure: Handysize 7TC vs Laden/Ballast Ratio*
+![Handysize 7TC vs Laden/Ballast Ratio](../images/646a71d7-b3fd-4d20-90c6-f7846225d70e/Handysize%20Laden%20Ballast%20Ratio.png)
+
+> **Figure 16: Handysize 7TC vs Laden/Ballast Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/646a71d7-b3fd-4d20-90c6-f7846225d70e/Handysize%20Laden%20Ballast%20Ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/646a71d7-b3fd-4d20-90c6-f7846225d70e/Handysize Laden Ballast Ratio.png)

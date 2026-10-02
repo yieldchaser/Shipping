@@ -29,16 +29,22 @@ These considerations, combined with asset prices coming under scrutiny, will pos
 However, despite the challenges facing Owners with aging tonnage, there is an appetite to buy vessels and we expect to see more vessels change hands before the end of the year.
 
 
-![Recent sales](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales 2.png)
-*Figure: Recent sales*
+![Recent sales](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales%202.png)
+
+> **Figure 1: Recent sales**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales%202.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales 2.png)
 
 
-![Yearly sales](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly sales.png)
-*Figure: Yearly sales*
+![Yearly sales](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly%20sales.png)
+
+> **Figure 2: Yearly sales**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly sales.png)
 
 
 ![Asset values](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png)
-*Figure: Asset values*
+
+> **Figure 3: Asset values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png)
 
 
 ## Newbuilding update
@@ -47,15 +53,21 @@ Shipyards are seeing few to no inquiries in the LNGC space at the moment, spendi
 
 
 ![Recent orders](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png)
-*Figure: Recent orders*
+
+> **Figure 4: Recent orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png)
 
 
 ![Deliveries incl. orderbook](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png)
-*Figure: Deliveries incl. orderbook*
+
+> **Figure 5: Deliveries incl. orderbook**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png)
 
 
 ![LNGC orders](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png)
-*Figure: LNGC orders*
+
+> **Figure 6: LNGC orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png)
 
 
 ## Interest rates
@@ -65,30 +77,42 @@ The inverted yield curve is no longer to be seen - and hopefully, the policy mak
 
 
 ![Interest rate (90 day avg. SOFR)](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png)
-*Figure: Interest rate (90 day avg. SOFR)*
+
+> **Figure 7: Interest rate (90 day avg. SOFR)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png)
 
 
-![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y new.png)
-*Figure: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
+![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y%20new.png)
+
+> **Figure 8: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y new.png)
 
 
 ## Recycling
 
 
 ![Demolition price (large tanker)](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png)
-*Figure: Demolition price (large tanker)*
+
+> **Figure 9: Demolition price (large tanker)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png)
 
 
 ## World fleet at a glance
 
 
-![Live fleet by propulsion](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet by prop.png)
-*Figure: Live fleet by propulsion*
+![Live fleet by propulsion](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet%20by%20prop.png)
+
+> **Figure 10: Live fleet by propulsion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet by prop.png)
 
 
-![Total fleet](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total fleet.png)
-*Figure: Total fleet*
+![Total fleet](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total%20fleet.png)
+
+> **Figure 11: Total fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total%20fleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total fleet.png)
 
 
-![LNGC fleet by propulsion and delivery year](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by prop and delivery.png)
-*Figure: LNGC fleet by propulsion and delivery year*
+![LNGC fleet by propulsion and delivery year](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by%20prop%20and%20delivery.png)
+
+> **Figure 12: LNGC fleet by propulsion and delivery year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by%20prop%20and%20delivery.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by prop and delivery.png)

@@ -30,7 +30,9 @@ While discussions between Iran and the U.S. may or may not be ongoing, disruptio
 
 
 ![Tanker rates](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/rates.png)
-*Figure: Tanker rates*
+
+> **Figure 1: Tanker rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/rates.png)
 
 
 ### A VLCC sized demand gap
@@ -41,15 +43,21 @@ Even if and when there is a reopening, it will take some time for production to 
 
 
 ![Main estimated production shut-ins](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/shut.png)
-*Figure: Main estimated production shut-ins*
+
+> **Figure 2: Main estimated production shut-ins**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/shut.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/shut.png)
 
 
 ![Monthly seaborne crude oil volume](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volc.png)
-*Figure: Monthly seaborne crude oil volume*
+
+> **Figure 3: Monthly seaborne crude oil volume**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volc.png)
 
 
 ![Monthly seaborne oil product volume](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volp.png)
-*Figure: Monthly seaborne oil product volume*
+
+> **Figure 4: Monthly seaborne oil product volume**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volp.png)
 
 Total tanker tonne-mile demand over the last two weeks has on average been 19% lower than at the beginning of this year. The biggest downside is unsurprisingly seen for VLCCs, where demand is down 32%, whereas Suez, Afra and MRs have held up relatively better. There are also regional differences, where Atlantic demand has held up significantly better than East of Suez. 
 
@@ -65,19 +73,27 @@ MRs have been less directly exposed, although here too some lower refinery runs 
 
 
 ![VLCC tonne-mile demand (-32%)](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmv.png)
-*Figure: VLCC tonne-mile demand (-32%)*
+
+> **Figure 5: VLCC tonne-mile demand (-32%)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmv.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmv.png)
 
 
 ![Suezmax tonne-mile demand (-8%)](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tms.png)
-*Figure: Suezmax tonne-mile demand (-8%)*
+
+> **Figure 6: Suezmax tonne-mile demand (-8%)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tms.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tms.png)
 
 
 ![Afra/LR2 tonne-mile demand (-8%)](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tma.png)
-*Figure: Afra/LR2 tonne-mile demand (-8%)*
+
+> **Figure 7: Afra/LR2 tonne-mile demand (-8%)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tma.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tma.png)
 
 
 ![MR tonne-mile demand (-3%)](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmm.png)
-*Figure: MR tonne-mile demand (-3%)*
+
+> **Figure 8: MR tonne-mile demand (-3%)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmm.png)
 
 
 ### Price as a rate driver
@@ -88,11 +104,15 @@ Very high oil products prices have also driven product tanker rates. MRs have be
 
 
 ![Relative crude oil pricing](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/oilp.png)
-*Figure: Relative crude oil pricing*
+
+> **Figure 9: Relative crude oil pricing**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/oilp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/oilp.png)
 
 
 ![Northwest Europe gasoil crack spread vs. MR rates](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/mrcrack.png)
-*Figure: Northwest Europe gasoil crack spread vs. MR rates*
+
+> **Figure 10: Northwest Europe gasoil crack spread vs. MR rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/mrcrack.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/mrcrack.png)
 
 
 ### Mitigating factors
@@ -105,11 +125,15 @@ Increased Atlantic-East flow may also absorb some of the demand shortfall. In re
 
 
 ![Share of the fleet within the Strait of Hormuz](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/stuckmeg.png)
-*Figure: Share of the fleet within the Strait of Hormuz*
+
+> **Figure 11: Share of the fleet within the Strait of Hormuz**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/stuckmeg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/stuckmeg.png)
 
 
 ![Atlantic-East crude oil flow](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/west-east.png)
-*Figure: Atlantic-East crude oil flow*
+
+> **Figure 12: Atlantic-East crude oil flow**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/west-east.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/west-east.png)
 
 
 ### Meanwhile, there is 1.5% added to the fleet per quarter
@@ -118,11 +142,15 @@ In the midst of all the demand uncertainty and fleet reshuffling, more vessels a
 
 
 ![Quarterly tanker deliveries](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/quarterly.png)
-*Figure: Quarterly tanker deliveries*
+
+> **Figure 13: Quarterly tanker deliveries**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/quarterly.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/quarterly.png)
 
 
 ![Annual tanker deliveries](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/yearly.png)
-*Figure: Annual tanker deliveries*
+
+> **Figure 14: Annual tanker deliveries**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/yearly.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/yearly.png)
 
 
 ### Potentially positive longer term implications
@@ -139,8 +167,12 @@ This may come at the same time as a more meaningful portion of the compliant fle
 
 
 ![OPEC spare capacity](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/opec.png)
-*Figure: OPEC spare capacity*
+
+> **Figure 15: OPEC spare capacity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/opec.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/opec.png)
 
 
 ![Orderbook vs. phase-out potential](../images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/abbout.png)
-*Figure: Orderbook vs. phase-out potential*
+
+> **Figure 16: Orderbook vs. phase-out potential**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/abbout.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c87f9705-5967-4b8b-87fc-3d1279ac9bf0/abbout.png)

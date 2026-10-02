@@ -32,20 +32,28 @@ To summarize, we thought a rally was coming, but gave up on it in late May - but
 The market is in a topping phase now, we think, supported by last week's weakening Pacific market and a high Cape/Pmx ratio. However, Atlantic market tightness prevails, and it is very hard to say at what point that ends.
 
 
-![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
-*Figure: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change*
+![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+
+> **Figure 1: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
 
 
-![Iron Ore Price, 3 Months Lead vs BCI5TC](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
-*Figure: Iron Ore Price, 3 Months Lead vs BCI5TC*
+![Iron Ore Price, 3 Months Lead vs BCI5TC](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
+
+> **Figure 2: Iron Ore Price, 3 Months Lead vs BCI5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png)
 
 
-![Capesize Panamax Ratio vs BCI5TC](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capesize Panamax Ratio.png)
-*Figure: Capesize Panamax Ratio vs BCI5TC*
+![Capesize Panamax Ratio vs BCI5TC](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capesize%20Panamax%20Ratio.png)
+
+> **Figure 3: Capesize Panamax Ratio vs BCI5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capesize%20Panamax%20Ratio.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capesize Panamax Ratio.png)
 
 
-![Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capenewc Weekly Shipment Volumes.png)
-*Figure: Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025*
+![Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capenewc%20Weekly%20Shipment%20Volumes.png)
+
+> **Figure 4: Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capenewc Weekly Shipment Volumes.png)
 
 
 ---
@@ -58,20 +66,28 @@ We do not think there will be any major changes to fundamentals going forward. A
 As of now, the market is firmer, so we expect sideways or slightly up over the next week.
 
 
-![Panamax / Kamsarmax Coal Loadings by Month](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Panamax Coal Loadings.png)
-*Figure: Panamax / Kamsarmax Coal Loadings by Month*
+![Panamax / Kamsarmax Coal Loadings by Month](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Panamax%20Coal%20Loadings.png)
+
+> **Figure 5: Panamax / Kamsarmax Coal Loadings by Month**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Panamax%20Coal%20Loadings.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Panamax Coal Loadings.png)
 
 
-![Kamsarmax Market Seasonality](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
-*Figure: Kamsarmax Market Seasonality*
+![Kamsarmax Market Seasonality](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 6: Kamsarmax Market Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
-![Panamax / Kamsarmax Grain Loadings by Month](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax kamsarmax grain loadings.png)
-*Figure: Panamax / Kamsarmax Grain Loadings by Month*
+![Panamax / Kamsarmax Grain Loadings by Month](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax%20kamsarmax%20grain%20loadings.png)
+
+> **Figure 7: Panamax / Kamsarmax Grain Loadings by Month**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax%20kamsarmax%20grain%20loadings.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax kamsarmax grain loadings.png)
 
 
-![Panamax / Kamsarmax Fleet Growth](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax fleet growth.png)
-*Figure: Panamax / Kamsarmax Fleet Growth*
+![Panamax / Kamsarmax Fleet Growth](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax%20fleet%20growth.png)
+
+> **Figure 8: Panamax / Kamsarmax Fleet Growth**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax fleet growth.png)
 
 
 ---
@@ -90,17 +106,25 @@ Two weeks ago, we followed up with:
 As the Kamsarmax market has found some footing, we think the Ultramax market will stabilize around current levels.
 
 
-![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price Lead vs Supramax 1 Year TC 6 Months Change*
+![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 9: Copper Price Lead vs Supramax 1 Year TC 6 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Supramax / Ultramax Market Seasonality](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
-*Figure: Supramax / Ultramax Market Seasonality*
+![Supramax / Ultramax Market Seasonality](../images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 10: Supramax / Ultramax Market Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
 
 
-![Supramax/Ultramax Monthly Shipment Volumes, by Year](../images/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/supramax monthly volumes.png)
-*Figure: Supramax/Ultramax Monthly Shipment Volumes, by Year*
+![Supramax/Ultramax Monthly Shipment Volumes, by Year](../images/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/supramax%20monthly%20volumes.png)
+
+> **Figure 11: Supramax/Ultramax Monthly Shipment Volumes, by Year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/supramax%20monthly%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/f9d775c3-4215-40bd-b9e6-1a3a22daecc4/supramax monthly volumes.png)
 
 
-![Supramax/Ultramax Year on Year Fleet Growth](../images/17d897ea-775e-448a-9896-08ecbebb25d6/supraultra fleet growth.png)
-*Figure: Supramax/Ultramax Year on Year Fleet Growth*
+![Supramax/Ultramax Year on Year Fleet Growth](../images/17d897ea-775e-448a-9896-08ecbebb25d6/supraultra%20fleet%20growth.png)
+
+> **Figure 12: Supramax/Ultramax Year on Year Fleet Growth**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/17d897ea-775e-448a-9896-08ecbebb25d6/supraultra%20fleet%20growth.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/17d897ea-775e-448a-9896-08ecbebb25d6/supraultra fleet growth.png)

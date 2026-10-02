@@ -27,12 +27,16 @@ The KYC focus is continuing to be important and the fear of having a vessel show
 ### Recent sales
 
 
-![Yearly sales](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Yearly sales.png)
-*Figure: Yearly sales*
+![Yearly sales](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Yearly%20sales.png)
+
+> **Figure 1: Yearly sales**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Yearly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Yearly sales.png)
 
 
-![Asset values](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Asset prices.png)
-*Figure: Asset values*
+![Asset values](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Asset%20prices.png)
+
+> **Figure 2: Asset values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Asset%20prices.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Asset prices.png)
 
 
 ## Newbuilding update
@@ -40,12 +44,16 @@ The KYC focus is continuing to be important and the fear of having a vessel show
 Korean shipyards are leveraging recent United States Trade Representative (USTR) developments to implement price increases across most vessel segments, reversing a five-month downward trend. Several major oil companies have engaged with shipyards for newbuild orders, with indications suggesting further orders are anticipated post-summer, bolstering confidence within the Liquefied Natural Gas Carrier (LNGC) sector. Nevertheless, shipyards are actively seeking to secure contracts for early 2028 delivery slots to avoid potential conversion of these berths to vessel types with shorter lead times, such as container ships and VLCCs.
 
 
-![Deliveries incl. orderbook](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Deliveries inc order.png)
-*Figure: Deliveries incl. orderbook*
+![Deliveries incl. orderbook](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Deliveries%20inc%20order.png)
+
+> **Figure 3: Deliveries incl. orderbook**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Deliveries%20inc%20order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Deliveries inc order.png)
 
 
-![LNGC orders](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/lng orders.png)
-*Figure: LNGC orders*
+![LNGC orders](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/lng%20orders.png)
+
+> **Figure 4: LNGC orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/lng%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/lng orders.png)
 
 
 ## Interest rates
@@ -55,30 +63,42 @@ It is interesting to note that ECB are down in the low-2s with talks of another 
 
 
 ![Interest rate (90 day avg. SOFR)](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/SOFR.png)
-*Figure: Interest rate (90 day avg. SOFR)*
+
+> **Figure 5: Interest rate (90 day avg. SOFR)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/SOFR.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/SOFR.png)
 
 
 ![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/10y2y.png)
-*Figure: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
+
+> **Figure 6: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/10y2y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/10y2y.png)
 
 
 ## Recycling
 
 
 ![Demolition price (large tanker)](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Demoprices.png)
-*Figure: Demolition price (large tanker)*
+
+> **Figure 7: Demolition price (large tanker)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Demoprices.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Demoprices.png)
 
 
 ## World fleet at a glance
 
 
-![Live fleet by propulsion](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Live fleet by prop.png)
-*Figure: Live fleet by propulsion*
+![Live fleet by propulsion](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Live%20fleet%20by%20prop.png)
+
+> **Figure 8: Live fleet by propulsion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Live%20fleet%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Live fleet by prop.png)
 
 
-![Total fleet](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/total fleet.png)
-*Figure: Total fleet*
+![Total fleet](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/total%20fleet.png)
+
+> **Figure 9: Total fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/total%20fleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/total fleet.png)
 
 
-![LNGC fleet by propulsion and delivery year](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Screenshot 2025-05-21 151751.png)
-*Figure: LNGC fleet by propulsion and delivery year*
+![LNGC fleet by propulsion and delivery year](../images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Screenshot%202025-05-21%20151751.png)
+
+> **Figure 10: LNGC fleet by propulsion and delivery year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Screenshot%202025-05-21%20151751.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7c603db9-8e5d-43dc-a1d6-f3038d8da676/Screenshot 2025-05-21 151751.png)

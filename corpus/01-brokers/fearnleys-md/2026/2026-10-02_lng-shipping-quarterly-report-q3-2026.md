@@ -30,8 +30,10 @@ Newbuilding activity slowed further, with 12 LNGC orders placed during the quart
 One liquefaction FID was reached at the very end of the quarter. Phase 2 of LNG Canada will add 14 mtpa of liquefaction capacity to the project.
 
 
-![Spot charter rates and JKM](../images/afbebada-a565-491d-a70d-11ac1790e6a0/lng and spot.png)
-*Figure: Spot charter rates and JKM*
+![Spot charter rates and JKM](../images/afbebada-a565-491d-a70d-11ac1790e6a0/lng%20and%20spot.png)
+
+> **Figure 1: Spot charter rates and JKM**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/lng%20and%20spot.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/lng and spot.png)
 
 
 ## Charter Rates
@@ -45,28 +47,40 @@ Rates recovered modestly through September in both basins ahead of the winter se
 One year charter rates declined steadily throughout the quarter, falling from the high USD 70,000s/day to the low USD 50,000s/day. Longer term rates were largely unchanged, with only modest reductions recorded during the quarter. Three year and five year charter rates ended the quarter in the high USD 60,000s/day and low USD 70,000s/day, respectively, for a modern vessel.
 
 
-![Two-stroke spot charter rates by region](../images/afbebada-a565-491d-a70d-11ac1790e6a0/spot by basin.png)
-*Figure: Two-stroke spot charter rates by region*
+![Two-stroke spot charter rates by region](../images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20by%20basin.png)
+
+> **Figure 2: Two-stroke spot charter rates by region**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20by%20basin.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot by basin.png)
 
 
-![Average spot charter rates](../images/afbebada-a565-491d-a70d-11ac1790e6a0/spot svg.png)
-*Figure: Average spot charter rates*
+![Average spot charter rates](../images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20svg.png)
+
+> **Figure 3: Average spot charter rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/spot%20svg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot svg.png)
 
 
 ![1-year charter rates](../images/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png)
-*Figure: 1-year charter rates*
+
+> **Figure 4: 1-year charter rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png)
 
 
 ![Term charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png)
-*Figure: Term charter rates (two-stroke)*
+
+> **Figure 5: Term charter rates (two-stroke)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png)
 
 
-![Monthly spot charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/mnt 2str.png)
-*Figure: Monthly spot charter rates (two-stroke)*
+![Monthly spot charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/mnt%202str.png)
+
+> **Figure 6: Monthly spot charter rates (two-stroke)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/mnt%202str.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/mnt 2str.png)
 
 
-![Quarterly spot charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/qtr 2str.png)
-*Figure: Quarterly spot charter rates (two-stroke)*
+![Quarterly spot charter rates (two-stroke)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/qtr%202str.png)
+
+> **Figure 7: Quarterly spot charter rates (two-stroke)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/qtr%202str.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/qtr 2str.png)
 
 
 ## Chartering Activity
@@ -84,24 +98,34 @@ Sublets accounted for 62% of all short term fixtures. The share varied significa
 All one year deals concluded during the quarter were for two stroke vessels, and all but one were agreed as sublets.
 
 
-![Short-term fixture activity (< 3 years)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr fixt.png)
-*Figure: Short-term fixture activity (< 3 years)*
+![Short-term fixture activity (< 3 years)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr%20fixt.png)
+
+> **Figure 8: Short-term fixture activity (< 3 years)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr%20fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr fixt.png)
 
 
-![Short term fixtures by sublet vs independent owners](../images/afbebada-a565-491d-a70d-11ac1790e6a0/sub vs ind.png)
-*Figure: Short term fixtures by sublet vs independent owners*
+![Short term fixtures by sublet vs independent owners](../images/afbebada-a565-491d-a70d-11ac1790e6a0/sub%20vs%20ind.png)
+
+> **Figure 9: Short term fixtures by sublet vs independent owners**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/sub%20vs%20ind.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/sub vs ind.png)
 
 
-![Q3 short-term fixtures by propulsion and owner type](../images/afbebada-a565-491d-a70d-11ac1790e6a0/prop fixt.png)
-*Figure: Q3 short-term fixtures by propulsion and owner type*
+![Q3 short-term fixtures by propulsion and owner type](../images/afbebada-a565-491d-a70d-11ac1790e6a0/prop%20fixt.png)
+
+> **Figure 10: Q3 short-term fixtures by propulsion and owner type**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/prop%20fixt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/prop fixt.png)
 
 
-![Short-term fixtures in Q3 (count)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q3 count.png)
-*Figure: Short-term fixtures in Q3 (count)*
+![Short-term fixtures in Q3 (count)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20count.png)
+
+> **Figure 11: Short-term fixtures in Q3 (count)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20count.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 count.png)
 
 
-![Short-term fixtures in Q3 (fixed days)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q3 fixed days.png)
-*Figure: Short-term fixtures in Q3 (fixed days)*
+![Short-term fixtures in Q3 (fixed days)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20fixed%20days.png)
+
+> **Figure 12: Short-term fixtures in Q3 (fixed days)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q3%20fixed%20days.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 fixed days.png)
 
 
 ## Trade Flows
@@ -117,43 +141,61 @@ Europe imported 22.5 MT during the quarter, lower than in 2025 but higher than i
 The number of Panama Canal transits nearly doubled compared with Q2, reaching around 30 laden transits during the quarter. Monthly transits peaked at 12 in August, although this remains well below the monthly record of 29 transits seen in 2021. Elevated geopolitical risk in the Red Sea continues to prevent LNG carriers from transiting via the Bab el Mandeb. As a result, all Suez Canal transits during the quarter were linked to imports into Egypt or Jordan.
 
 
-![Quarterly loaded LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded q.png)
-*Figure: Quarterly loaded LNG*
+![Quarterly loaded LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20q.png)
+
+> **Figure 13: Quarterly loaded LNG**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20q.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded q.png)
 
 
-![Monthly loaded LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded m.png)
-*Figure: Monthly loaded LNG*
+![Monthly loaded LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20m.png)
+
+> **Figure 14: Monthly loaded LNG**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/loaded%20m.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded m.png)
 
 
 ![Global tonne-miles](../images/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png)
-*Figure: Global tonne-miles*
+
+> **Figure 15: Global tonne-miles**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png)
 
 
-![Tonne-miles by propulsion (Q1-Q3)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q1 to q3 tmi by prop.png)
-*Figure: Tonne-miles by propulsion (Q1-Q3)*
+![Tonne-miles by propulsion (Q1-Q3)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/q1%20to%20q3%20tmi%20by%20prop.png)
+
+> **Figure 16: Tonne-miles by propulsion (Q1-Q3)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/q1%20to%20q3%20tmi%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q1 to q3 tmi by prop.png)
 
 
-![Destination of US LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/us lng abs.png)
-*Figure: Destination of US LNG*
+![Destination of US LNG](../images/afbebada-a565-491d-a70d-11ac1790e6a0/us%20lng%20abs.png)
+
+> **Figure 17: Destination of US LNG**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/us%20lng%20abs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/us lng abs.png)
 
 
-![Destination of US LNG, share](../images/afbebada-a565-491d-a70d-11ac1790e6a0/dest us lng.png)
-*Figure: Destination of US LNG, share*
+![Destination of US LNG, share](../images/afbebada-a565-491d-a70d-11ac1790e6a0/dest%20us%20lng.png)
+
+> **Figure 18: Destination of US LNG, share**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/dest%20us%20lng.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/dest us lng.png)
 
 
 ![Q3 2025 vs 2026 by exporting country](../images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png)
-*Figure: Q3 2025 vs 2026 by exporting country*
+
+> **Figure 19: Q3 2025 vs 2026 by exporting country**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png)
 
 
-![Q3 2025 vs 2026 by importing country](../images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall imp new.png)
-*Figure: Q3 2025 vs 2026 by importing country*
+![Q3 2025 vs 2026 by importing country](../images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall%20imp%20new.png)
+
+> **Figure 20: Q3 2025 vs 2026 by importing country**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall%20imp%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall imp new.png)
 
 
 ## LNGC Fleet
 
 
 ![LNGC fleet by status](../images/afbebada-a565-491d-a70d-11ac1790e6a0/status.png)
-*Figure: LNGC fleet by status*
+
+> **Figure 21: LNGC fleet by status**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/status.png)
 
 There are currently around 90 LNGCs over 20 years of age, of which approximately 30 are estimated to be idle. We expected higher scrapping activity this year, but the stronger charter market earlier in the year appears to have delayed retirement decisions. However, the period of stronger earnings has done little to improve employment prospects for steam turbines. Steam turbine tonne miles during the first nine months of the year were 23% lower than in the same period last year, and utilization of older vessels continues to deteriorate.
 
@@ -161,19 +203,27 @@ While scrapping activity has remained limited, several transactions completed du
 
 
 ![LNGC orders](../images/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png)
-*Figure: LNGC orders*
+
+> **Figure 22: LNGC orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png)
 
 
 ![LNGC deliveries](../images/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png)
-*Figure: LNGC deliveries*
+
+> **Figure 23: LNGC deliveries**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png)
 
 
 ![LNGC newbuild prices](../images/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png)
-*Figure: LNGC newbuild prices*
+
+> **Figure 24: LNGC newbuild prices**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png)
 
 
-![Orderbook by yard](../images/afbebada-a565-491d-a70d-11ac1790e6a0/ob yard.png)
-*Figure: Orderbook by yard*
+![Orderbook by yard](../images/afbebada-a565-491d-a70d-11ac1790e6a0/ob%20yard.png)
+
+> **Figure 25: Orderbook by yard**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/ob%20yard.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/ob yard.png)
 
 
 ## Outlook
@@ -187,5 +237,7 @@ Our view remains largely unchanged from previous quarters. Both 2027 and 2028 ar
 Several liquefaction projects are approaching FID, while global LNG demand is expected to continue growing over the coming decades. At the same time, US LNG supply growth is expected to outpace European demand growth, increasing the share of long haul US to Asia trade flows. This should provide a meaningful boost to tonne mile demand over the longer term.
 
 
-![Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/balance new.png)
-*Figure: Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)*
+![Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)](../images/afbebada-a565-491d-a70d-11ac1790e6a0/balance%20new.png)
+
+> **Figure 26: Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/afbebada-a565-491d-a70d-11ac1790e6a0/balance%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/balance new.png)

@@ -39,7 +39,9 @@ Bear factors:
 
 
 ![Rates and forecast](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/rates.png)
-*Figure: Rates and forecast*
+
+> **Figure 1: Rates and forecast**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/rates.png)
 
 Crude tanker flows excluding Iranian oil have in March to date recovered and is slightly above the same month last year. Products lag a bit, but is still among the highest historically for this time of the year. Both are expected to rise in coming months with higher crude production in both hemispheres, though mostly in the West as the OPEC+ cut reversal is relatively small, and with refineries gradually coming out of the maintenance period. 
 
@@ -49,11 +51,15 @@ This comes at the same time as the Urals price has dropped well below the G7 pri
 
 
 ![Seaborne crude flow (ex. Iran)](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/totc.png)
-*Figure: Seaborne crude flow (ex. Iran)*
+
+> **Figure 2: Seaborne crude flow (ex. Iran)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/totc.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/totc.png)
 
 
 ![Seaborne products flow (ex. Iran)](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/totp.png)
-*Figure: Seaborne products flow (ex. Iran)*
+
+> **Figure 3: Seaborne products flow (ex. Iran)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/totp.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/totp.png)
 
 Arguably, rates lag fundamentals, where oil in transit is among the very highest in the past few years, surpassed only by Covid and the immediate aftermath of the Russia-Ukraine conflict and related sanctions. At the same time, vessel availability is and has for a few weeks and months been among the lowest over the past few years. At previous times when oil in transit has been this high and/or vessel availability has been this low, rates have been substantially higher than now, especially for VLCCs. 
 
@@ -61,29 +67,41 @@ What is going to give?
 
 
 ![Crude oil in transit vs. crude tanker rates](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/oow.png)
-*Figure: Crude oil in transit vs. crude tanker rates*
+
+> **Figure 4: Crude oil in transit vs. crude tanker rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/oow.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/oow.png)
 
 
 ![VLCCs available in MEG next 30 days vs. MEG-FEast rates](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/posrat.png)
-*Figure: VLCCs available in MEG next 30 days vs. MEG-FEast rates*
+
+> **Figure 5: VLCCs available in MEG next 30 days vs. MEG-FEast rates**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/posrat.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/posrat.png)
 
 There is not a lack of demand, at least. Preliminary tonne-mile figures for March, excluding OFAC listed vessels, hit a new all-time high, both for the total tanker market, and for VLCCs. The gains are predominantly driven by crude tankers, as product tanker tonne miles slightly lag last year so far.
 
 
 ![Total tanker tonne-miles, excl. OFAC listed vessels](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMT.png)
-*Figure: Total tanker tonne-miles, excl. OFAC listed vessels*
+
+> **Figure 6: Total tanker tonne-miles, excl. OFAC listed vessels**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMT.png)
 
 
 ![VLCC tonne-miles, excl. OFAC listed vessels](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMV.png)
-*Figure: VLCC tonne-miles, excl. OFAC listed vessels*
+
+> **Figure 7: VLCC tonne-miles, excl. OFAC listed vessels**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMV.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMV.png)
 
 
 ![Crude tanker tonne-miles, excl. OFAC listed vessels](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMC.png)
-*Figure: Crude tanker tonne-miles, excl. OFAC listed vessels*
+
+> **Figure 8: Crude tanker tonne-miles, excl. OFAC listed vessels**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMC.png)
 
 
 ![Product tanker tonne-miles, excl. OFAC listed vessels](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMP.png)
-*Figure: Product tanker tonne-miles, excl. OFAC listed vessels*
+
+> **Figure 9: Product tanker tonne-miles, excl. OFAC listed vessels**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMP.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMP.png)
 
 What lacked through most of H2'24 was Atlantic-East movement. So far this year that has rebounded as (some) Eastern buyers replace (some) flows from Iran and Russia. There should be more to come too, on higher crude oil production from the Americas predominantly, but also some other Atlantic sources. According to the EIA, Q2 should see more than 0.5 mbpd q/q production growth (0.6 mbpd y/y) from the Americas, led by the U.S. and Brazil, with another 0.7 mbpd hike in Q3 (0.9 mbpd y/y). 
 
@@ -93,11 +111,15 @@ Three out of four FPSOs scheduled to start up in Brazil this year (total capacit
 
 
 ![Atlantic-East crude oil flow](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/WE.png)
-*Figure: Atlantic-East crude oil flow*
+
+> **Figure 10: Atlantic-East crude oil flow**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/WE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/WE.png)
 
 
 ![Crude oil production change by quarter](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/amer.png)
-*Figure: Crude oil production change by quarter*
+
+> **Figure 11: Crude oil production change by quarter**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/amer.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/amer.png)
 
 Partly driving the Suezmax outperformance recently has been the prices for Russian crude oil dropping well below the G7 price cap after sanctions have hindered the ability to lift effectively on the shadow fleet. Loadings from Russia on OFAC listed vessels have dropped by nearly 1.3 mbpd vs. the 2024 average, and most have been replaced by compliant tonnage. By now, 10.6% of the tanker fleet has been sanctioned by OFAC, 13.2% of the crude fleet and 4.3% of the product fleet. 
 
@@ -113,29 +135,41 @@ An x-factor this year will be whether new storage capacity will be filled. 125 m
 
 
 ![China available crude oil vs. refinery runs](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/imprun.png)
-*Figure: China available crude oil vs. refinery runs*
+
+> **Figure 12: China available crude oil vs. refinery runs**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/imprun.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/imprun.png)
 
 
 ![Chinese crude oil storage capacity](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/storage.png)
-*Figure: Chinese crude oil storage capacity*
+
+> **Figure 13: Chinese crude oil storage capacity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/storage.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/storage.png)
 
 With refinery margins largely strengthening YTD and oil demand expectations having been revised slightly higher, refinery run expectations have also been revised slightly higher. Going into summer season there may therefore be slightly better product tanker demand than expected before, and we have already started to see some more supporting arb. and rate developments at times in recent weeks. The counter to this argument is the tariff threat which ultimately is likely to weigh on demand if followed through, which is the main downside risk for the market this year, other than conflict resolution which does not appear imminent...
 
 
 ![Refinery throughput season](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/runs.png)
-*Figure: Refinery throughput season*
+
+> **Figure 14: Refinery throughput season**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/runs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/runs.png)
 
 
 ![Northwest Europe crack spreads](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmeu.png)
-*Figure: Northwest Europe crack spreads*
+
+> **Figure 15: Northwest Europe crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmeu.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmeu.png)
 
 
 ![U.S. crack spreads](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmus.png)
-*Figure: U.S. crack spreads*
+
+> **Figure 16: U.S. crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmus.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmus.png)
 
 
 ![China crack spreads](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmch.png)
-*Figure: China crack spreads*
+
+> **Figure 17: China crack spreads**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmch.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmch.png)
 
 Fleet growth YTD has been limited, only 0.3% as of the beginning of March. There is more to come, but mostly in the second half of the year, and mostly for product tankers. Total scheduled gross deliveries this year equal 2.9% of the fleet, which is not scary as demand may grow by as much or more, overall. Net fleet growth should end lower, with some phase-out both in the form of scrapping and some lower utilisation for older vessels and the shadow fleet. Crude tanker fleet growth may effectively end up at zero or less also this year, but for products the picture is a bit more challenging, especially in the second half of the year which makes for a gradually softening rate outlook. 
 
@@ -147,8 +181,12 @@ Meanwhile, scrapping has picked up. Although it is not a lot, the 0.6m dwt that 
 
 
 ![Ordering by year, +42k dwt](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/order.png)
-*Figure: Ordering by year, +42k dwt*
+
+> **Figure 18: Ordering by year, +42k dwt**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/order.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/order.png)
 
 
 ![Scrapping by year, +42k dwt](../images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/scrap.png)
-*Figure: Scrapping by year, +42k dwt*
+
+> **Figure 19: Scrapping by year, +42k dwt**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/c521b3cb-ba18-414a-9d5e-ca777e6c697f/scrap.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/c521b3cb-ba18-414a-9d5e-ca777e6c697f/scrap.png)

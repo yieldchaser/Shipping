@@ -26,20 +26,28 @@ However, Bauxite shipment volumes are likely to increase after August, so that c
 Since last week, the share of profitable steel mills in China has increased further, suggesting low risk of a significant drop in iron ore consumption in the coming weeks. However, the iron ore futures curve still warns of fading momentum in Q4.
 
 
-![China Daily Imported Iron Ore Consumption](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily imported iron ore consumption.png)
-*Figure: China Daily Imported Iron Ore Consumption*
+![China Daily Imported Iron Ore Consumption](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily%20imported%20iron%20ore%20consumption.png)
+
+> **Figure 1: China Daily Imported Iron Ore Consumption**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily%20imported%20iron%20ore%20consumption.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily imported iron ore consumption.png)
 
 
-![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON ORE FUTURES LEAD VS CAPE.png)
-*Figure: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average*
+![Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png)
+
+> **Figure 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON%20ORE%20FUTURES%20LEAD%20VS%20CAPE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON ORE FUTURES LEAD VS CAPE.png)
 
 
-![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
-*Figure: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output*
+![China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+
+> **Figure 3: China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png)
 
 
-![Capesize/Newcastlemax Total Loadings, 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc Weekly Shipment Volumes.png)
-*Figure: Capesize/Newcastlemax Total Loadings, 2024 vs 2025*
+![Capesize/Newcastlemax Total Loadings, 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc%20Weekly%20Shipment%20Volumes.png)
+
+> **Figure 4: Capesize/Newcastlemax Total Loadings, 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc%20Weekly%20Shipment%20Volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc Weekly Shipment Volumes.png)
 
 
 ---
@@ -55,20 +63,28 @@ Otherwise, congestion in ECSAM remains relatively high, and although the seasona
 Vessels heading to Indonesia have continued to rise in the last weeks (bottom left chart), showing that coal demand in Asia remains strong despite the monsoon in India causing lower activity there. Grain volumes out of ECSAM continues to fall, in line with usual seasonal developments. For the upcoming US grains season, Soybean export sales to China are much lower than last year, although expectations for corn exports remains high.
 
 
-![Panamax Atlantic vs Pacific Index](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX ATL VS PAC.png)
-*Figure: Panamax Atlantic vs Pacific Index*
+![Panamax Atlantic vs Pacific Index](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20ATL%20VS%20PAC.png)
+
+> **Figure 5: Panamax Atlantic vs Pacific Index**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20ATL%20VS%20PAC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX ATL VS PAC.png)
 
 
-![Panamax/Kamsarmax Coal Loadings, 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax kamsarmax weekly coal shipments.png)
-*Figure: Panamax/Kamsarmax Coal Loadings, 2024 vs 2025*
+![Panamax/Kamsarmax Coal Loadings, 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax%20kamsarmax%20weekly%20coal%20shipments.png)
+
+> **Figure 6: Panamax/Kamsarmax Coal Loadings, 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax%20kamsarmax%20weekly%20coal%20shipments.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax kamsarmax weekly coal shipments.png)
 
 
-![Panamax / Kamsarmax Heading to Indonesia](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX KAMSARMAX HEADING TO INDONESIA.png)
-*Figure: Panamax / Kamsarmax Heading to Indonesia*
+![Panamax / Kamsarmax Heading to Indonesia](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png)
+
+> **Figure 7: Panamax / Kamsarmax Heading to Indonesia**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX%20KAMSARMAX%20HEADING%20TO%20INDONESIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX KAMSARMAX HEADING TO INDONESIA.png)
 
 
-![Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL SOYBEAN LOADINGS.png)
-*Figure: Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25*
+![Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL%20SOYBEAN%20LOADINGS.png)
+
+> **Figure 8: Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL%20SOYBEAN%20LOADINGS.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL SOYBEAN LOADINGS.png)
 
 
 ---
@@ -86,17 +102,25 @@ However, the high shipment volumes in July ensure some tightness will remain in 
 Market strength remains, although going much higher than this could be hard, as a Supramax 58 index spread over the Handysize 38 index of 2.000 USD pd or more usually means the ceiling is reached (bottom left chart). Further, the spread between the Atlantic and Pacific is also quite high, and the spread between Ultramaxes and Kamsarmaxes in the Atlantic have also widened considerably in the last weeks.
 
 
-![Supramax Ultramax Weekly Total Loadings 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra ultra total weekly shipment volumes.png)
-*Figure: Supramax Ultramax Weekly Total Loadings 2024 vs 2025*
+![Supramax Ultramax Weekly Total Loadings 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra%20ultra%20total%20weekly%20shipment%20volumes.png)
+
+> **Figure 9: Supramax Ultramax Weekly Total Loadings 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra%20ultra%20total%20weekly%20shipment%20volumes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra ultra total weekly shipment volumes.png)
 
 
-![Ultramax Index 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra Index 2024 vs 2025.png)
-*Figure: Ultramax Index 2024 vs 2025*
+![Ultramax Index 2024 vs 2025](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra%20Index%202024%20vs%202025.png)
+
+> **Figure 10: Ultramax Index 2024 vs 2025**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra%20Index%202024%20vs%202025.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra Index 2024 vs 2025.png)
 
 
-![Supramax58 Index vs Handysize38 Index Spread](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA HANDY SPREAD.png)
-*Figure: Supramax58 Index vs Handysize38 Index Spread*
+![Supramax58 Index vs Handysize38 Index Spread](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA%20HANDY%20SPREAD.png)
+
+> **Figure 11: Supramax58 Index vs Handysize38 Index Spread**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA%20HANDY%20SPREAD.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA HANDY SPREAD.png)
 
 
-![Ultramax Atlantic vs Pacific Earnings](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax Atl vs Pac.png)
-*Figure: Ultramax Atlantic vs Pacific Earnings*
+![Ultramax Atlantic vs Pacific Earnings](../images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax%20Atl%20vs%20Pac.png)
+
+> **Figure 12: Ultramax Atlantic vs Pacific Earnings**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax%20Atl%20vs%20Pac.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax Atl vs Pac.png)

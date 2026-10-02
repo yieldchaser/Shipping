@@ -80,20 +80,26 @@ The transaction list from the first half of 2026 provides a surprisingly clear p
 The first half of 2026 has been relatively hectic when looking at the number of transactions reported. Compared to 2025, there are 6 more vessels reported in the 2nd hand market, whilst the recycling space has till now, fallen behind with only 5 concluded sales. The drop in recycling activity just shows how a little hope in the form of higher freight rates gives Owners a (false) outlook for their older ladies.
 
 
-![S&P transaction volume and YoY trend](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S&P_Report_Transaction_Volume_Q226.png)
-*Figure: S&P transaction volume and YoY trend*
+![S&P transaction volume and YoY trend](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S%26P_Report_Transaction_Volume_Q226.png)
+
+> **Figure 1: S&P transaction volume and YoY trend**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S%26P_Report_Transaction_Volume_Q226.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S&P_Report_Transaction_Volume_Q226.png)
 
 When digging into the details it is most notable that relatively few genuinely modern vessels have changed hands till date. The standout transactions that have been reported in the 2013-2015-built TFDE market seem to have been sold above the USD 110 million mark. These sales highlight the continued appetite for younger, larger and operationally flexible assets. There is also a continued demand for older DFDE and TFDE tonnage destined for specific trade or projects. What is notable is that older tonnage is transacting below the USD 100 million mark, ranging from USD 65-95 million. The range in rate is also a function of vessel age, but the origin of the buyer is also playing a significant role.
 
 
-![Indicator Chart](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE Vessel 2nd hand.png)
-*Figure: Indicator Chart*
+![Dfde Vessel 2Nd Hand](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE%20Vessel%202nd%20hand.png)
+
+> **Figure 2: Dfde Vessel 2Nd Hand**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE%20Vessel%202nd%20hand.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE Vessel 2nd hand.png)
 
 At the other end of the spectrum, the market remained remarkably active for ageing steam turbine vessels. It is noticeable that a large number of these units have been sold to unknown buyers, but we will get more into that further on in the report.
 
 
-![Indicator Chart](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST Vessel 2nd hand.png)
-*Figure: Indicator Chart*
+![St Vessel 2Nd Hand](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST%20Vessel%202nd%20hand.png)
+
+> **Figure 3: St Vessel 2Nd Hand**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST%20Vessel%202nd%20hand.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST Vessel 2nd hand.png)
 
 Remarkably, many of these transactions involved vessels between 19 and 22 years of age. In most shipping sectors, such vessels would sit firmly within the demolition age profile. Yet LNG continues to be different.
 
@@ -109,8 +115,10 @@ The steam turbine fleet is approaching a pivotal moment.
 The global LNG fleet today contains approximately 183 steam turbine vessels, of which more than 80 are already older than twenty years. Fifteen vessels have surpassed thirty years of age. Under normal market conditions, these demographics would imply a substantial demolition cycle.
 
 
-![Indicator Chart](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped vessels.png)
-*Figure: Indicator Chart*
+![Scraped Vessels](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped%20vessels.png)
+
+> **Figure 4: Scraped Vessels**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped%20vessels.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped vessels.png)
 
 Some vessels continue finding buyers. Others remain employed in niche trades. A number appear increasingly likely to move towards infrastructure-linked opportunities. The result is that the fleet is ageing faster than it is disappearing.
 

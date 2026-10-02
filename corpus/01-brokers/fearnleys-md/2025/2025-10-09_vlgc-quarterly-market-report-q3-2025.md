@@ -20,20 +20,28 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-5
 ### Freight rates & Earnings
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG dollar per ton.png)
-*Figure: Indicator Chart*
+![Blpg Dollar Per Ton](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG%20dollar%20per%20ton.png)
+
+> **Figure 1: Blpg Dollar Per Ton**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG%20dollar%20per%20ton.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG dollar per ton.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png)
-*Figure: Indicator Chart*
+![Premium Discount](../images/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png)
+
+> **Figure 2: Premium Discount**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1 TCE.png)
-*Figure: Indicator Chart*
+![Blpg1 Tce](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1%20TCE.png)
+
+> **Figure 3: Blpg1 Tce**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1%20TCE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG1 TCE.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3 TCE.png)
-*Figure: Indicator Chart*
+![Blpg3 Tce](../images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3%20TCE.png)
+
+> **Figure 4: Blpg3 Tce**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3%20TCE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/BLPG3 TCE.png)
 
 The average daily spot earnings across the three index routes reached $75,000 per day in Q3, driven by a tighter market environment. This elevated the year-to-date average to $54,000 per day, marking a $10,000 increase from the post-Q2 figure-a 4.8% quarterly rise and a 45.6% year-on-year gain.
 
@@ -50,27 +58,37 @@ This regulatory uncertainty had a tangible impact on freight rates in September.
 ### Exports and Imports
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Global LPG.png)
-*Figure: Indicator Chart*
+![Global Lpg](../images/d254833f-b752-48b8-bd36-58b75bc53202/Global%20LPG.png)
+
+> **Figure 5: Global Lpg**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Global%20LPG.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Global LPG.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Top Exporters.png)
-*Figure: Indicator Chart*
+![Top Exporters](../images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20Exporters.png)
+
+> **Figure 6: Top Exporters**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20Exporters.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Top Exporters.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Top importers.png)
-*Figure: Indicator Chart*
+![Top Importers](../images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20importers.png)
+
+> **Figure 7: Top Importers**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Top%20importers.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Top importers.png)
 
 
 ### U.S. Production and Terminal Capacity Expansion
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/US Production.png)
-*Figure: Indicator Chart*
+![Us Production](../images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Production.png)
+
+> **Figure 8: Us Production**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Production.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/US Production.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/US Propane.png)
-*Figure: Indicator Chart*
+![Us Propane](../images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Propane.png)
+
+> **Figure 9: Us Propane**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/US%20Propane.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/US Propane.png)
 
 U.S. LPG production continues to rise, with total output increasing by 75% over the past ten years. While growth is expected to moderate to approximately 5% over the next three years, export capacity is projected to expand significantly during the same period. Domestic consumption remains stable, as do export levels, which consistently hover around 60%. All residual volumes of LPG that is not domestically consumed, will be priced to clear out - enabling flexible exports. Furthermore, production from the Permian Basin is projected to grow at an annual rate of 7% through 2030, outpacing crude oil growth by 4%.
 
@@ -81,12 +99,16 @@ VLGCs account for 82% of all seaborne LPG exports from the U.S., totaling 52 mil
 The most influential factor in fleet utilization is the sailing patterns chosen for both laden and ballast voyages. Most laden ships heading to the Far East  from the U.S. typically transit via the Panama Canal, which offers a significantly shorter route compared to the alternative around the Cape of Good Hope. Activity in the Suez Canal remains very limited, with very little VLGC traffic recorded. Year-to-date, 77% of laden voyages have passed through the Panama Canal, down 3% from the 2024 average of 80%. Conversely, 23% of ballasting ships returning to the U.S. from the East have opted for the Cape of Good Hope route-up from 20% in 2024, reflecting a 3% increase.
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Laden Transits.png)
-*Figure: Indicator Chart*
+![Laden Transits](../images/d254833f-b752-48b8-bd36-58b75bc53202/Laden%20Transits.png)
+
+> **Figure 10: Laden Transits**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Laden%20Transits.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Laden Transits.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Ballast Transits.png)
-*Figure: Indicator Chart*
+![Ballast Transits](../images/d254833f-b752-48b8-bd36-58b75bc53202/Ballast%20Transits.png)
+
+> **Figure 11: Ballast Transits**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Ballast%20Transits.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Ballast Transits.png)
 
 The Panama Canal remains a critical bottleneck in the VLGC market due to its unpredictable operational capacity and volatility. In Q3, congestion levels typically seen during peak winter months emerged unexpectedly, catching the market off guard. Auction fees surged to nearly $1 million, significantly tightening capacity. As a result, the share of ballasting ships returning to the U.S. via the Cape of Good Hope (COGH) rose from 22% in August to 40% in September.
 
@@ -95,15 +117,19 @@ This congestion was primarily driven by above-average ship arrivals, and since V
 Another factor contributing to canal congestion is the emergence of VLECs transporting ethane from the U.S. to China. These voyages exclusively transit via the Panama Canal and do not use the COGH route. In 2025, the average number of VLEC transits has reached nine ships per month. With continued growth in U.S. exports of both LPG and ethane, this trend is expected to intensify.
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png)
-*Figure: Indicator Chart*
+![Expansions](../images/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png)
+
+> **Figure 12: Expansions**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png)
 
 
 ### The Middle East
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/MEG Exports.png)
-*Figure: Indicator Chart*
+![Meg Exports](../images/d254833f-b752-48b8-bd36-58b75bc53202/MEG%20Exports.png)
+
+> **Figure 13: Meg Exports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/MEG%20Exports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/MEG Exports.png)
 
 The ongoing trade tensions between the U.S. and China, has caused disruptions in cargo flows, solidifying LPG exports from the Middle East, which have surpassed 30 million tons year-to-date. Key contributors include Qatar, the UAE, Saudi Arabia, and Iran. Notably, 90% of Iranian LPG exports are destined for China, with 96% of these volumes transported by VLGCs, primarily by the dedicated fleet segment.
 
@@ -114,8 +140,10 @@ In parallel, the reversal of OPEC+'s two-year production cut is projected to inc
 In July, the U.S. and Indonesia signed a trade agreement under which Indonesia will increase its purchases of U.S. petroleum products by $13 billion, in exchange for reduced tariffs on Indonesian exports to the U.S. Indonesia currently sources 60% of its LPG imports from the U.S., and under the new agreement, it will shift its remaining demand-equivalent to 2-3 MTPA-away from the Middle East. This shift could increase Middle East tonne-miles, as displaced volumes may now be redirected to the Far East if not India, depending on trade dynamics.
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Saudi CP LPG.png)
-*Figure: Indicator Chart*
+![Saudi Cp Lpg](../images/d254833f-b752-48b8-bd36-58b75bc53202/Saudi%20CP%20LPG.png)
+
+> **Figure 14: Saudi Cp Lpg**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Saudi%20CP%20LPG.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Saudi CP LPG.png)
 
 
 ---
@@ -124,12 +152,16 @@ In July, the U.S. and Indonesia signed a trade agreement under which Indonesia w
 ### Chinese Demand
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports.png)
-*Figure: Indicator Chart*
+![Chinese Imports](../images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports.png)
+
+> **Figure 15: Chinese Imports**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports by Origin.png)
-*Figure: Indicator Chart*
+![Chinese Imports By Origin](../images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports%20by%20Origin.png)
+
+> **Figure 16: Chinese Imports By Origin**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Chinese%20imports%20by%20Origin.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports by Origin.png)
 
 Following "Liberation Day" in April, cargo flows have been reshuffled, underscoring the high flexibility of the LPG market-though this adaptability comes at the cost of increased logistics expenses. Compared to the same period last year, Chinese VLGC imports remain steady at 25.95 million tons.
 
@@ -138,8 +170,10 @@ The most notable trade shifts include increased U.S. LPG imports into Japan and 
 Starting October 14th, Chinese-owned and/or operated VLGCs calling at U.S. ports will be subject to new fees. This affects 46 live ships (11% of the fleet) and 11 newbuilds (10% of the orderbook). Including ships under Chinese leasing arrangements, the impact is slightly larger. However, the overall effect on the market is expected to be moderate. These ships are now favoring Middle East loadings over U.S., which is increasing competition within the available fleet.
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/PDH Capacity.png)
-*Figure: Indicator Chart*
+![Pdh Capacity](../images/d254833f-b752-48b8-bd36-58b75bc53202/PDH%20Capacity.png)
+
+> **Figure 17: Pdh Capacity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/PDH%20Capacity.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/PDH Capacity.png)
 
 The current tariffs have been imposed by the same U.S. administration that originally introduced them in 2018, suggesting a more resilient and prolonged stance this time around. This could imply that trade disruptions may persist longer than previously anticipated. However, China's dependency on U.S. LPG supply is now five times greater than it was in 2018, potentially giving China greater leverage in negotiations. China currently accounts for over $10 billion in annual U.S. energy export value, underscoring a strong mutual dependency between the two nations.
 
@@ -152,20 +186,26 @@ The rapid expansion of China's PDH capacity in recent years means that significa
 ### Fleet and Orderbook
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Fleet development.png)
-*Figure: Indicator Chart*
+![Fleet Development](../images/d254833f-b752-48b8-bd36-58b75bc53202/Fleet%20development.png)
+
+> **Figure 18: Fleet Development**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Fleet%20development.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Fleet development.png)
 
 As we close in on the last quarter of the year, 10 newbuilds have been delivered, and 3 are remaining, giving a total of 13 newbuilds. The fleet now stands at 410 ships, including floating storages. The orderbook consists of 107 ships, resulting in an orderbook-fleet ratio of 26%, which is slightly above the 20-year average of 21%. Nonetheless, the fleet is set to grow by 19.4% through 2026 and 2027 in total, which could have an accumulated effect by offsetting the fleet balance in to a surplus. 
 
 As the Panama Canal is expected to become increasingly congested in the coming years-driven by rising U.S. exports of ethane and LNG, along with the addition of over 100 VLGCs on the water-there is reason to anticipate that a larger share of the fleet will regularly utilize the Cape of Good Hope (COGH) route. This shift will stretch fleet capacity and reduce overall vessel availability. At the same time, new LPG export capacity is coming online in the U.S., requiring additional transportation. These dynamics suggest a potential need for more ships, as longer sailing distances reduce the number of voyages each vessel can complete annually.
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/OB Deliveries.png)
-*Figure: Indicator Chart*
+![Ob Deliveries](../images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Deliveries.png)
+
+> **Figure 19: Ob Deliveries**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/OB Deliveries.png)
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/OB Yards.png)
-*Figure: Indicator Chart*
+![Ob Yards](../images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Yards.png)
+
+> **Figure 20: Ob Yards**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/OB%20Yards.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/OB Yards.png)
 
 Ordering activity in 2025 has been extremely modest compared to the 2 previous years, as both the current newbuilding prices as well as the size of the orderbook has put a damper on ordering interest. 
 
@@ -174,8 +214,10 @@ Hyundai in South Korea remains the largest builder of newbuilds, while one quart
 On the ammonia side, market interest and activity has remained limited throughout the year. Smaller ship segments are currently under pressure, although the large orderbook for MGCs is expected to accommodate any incremental volumes entering the market. More critically, the infrastructure investments required to support seaborne ammonia trade via VLACs are not being made. These investments typically involve long lead times, further delaying market readiness. Additionally, the market lacks sufficient project development to generate new ammonia volumes. The first VLAC in the orderbook is scheduled for delivery in June, but as previously noted, these ships are expected to operate as conventional VLGCs for the foreseeable future. We do not differentiate them within the fleet, aside from their technical capability to carry ammonia at 98% capacity, if required.
 
 
-![Indicator Chart](../images/d254833f-b752-48b8-bd36-58b75bc53202/Asset values.png)
-*Figure: Indicator Chart*
+![Asset Values](../images/d254833f-b752-48b8-bd36-58b75bc53202/Asset%20values.png)
+
+> **Figure 21: Asset Values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/d254833f-b752-48b8-bd36-58b75bc53202/Asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/Asset values.png)
 
 In line with elevated earning levels, asset values for LPG carriers have risen sharply over the past few years. At the end of 2022, a VLGC was priced at $80 million-a figure now equivalent to the cost of a 40,000 cbm MGC. Prices increased by 50% to $120 million as ordering activity surged, reaching record highs for two consecutive years. The peak was recorded in April 2024, when VLGCs were priced at $127 million. Although ordering activity has slowed in 2025, leading to a softening in newbuilding prices, shipyards continue to maintain relatively high price levels due to long backlogs from other shipping segments. This price softening reflects current market sentiment, which is shaped by a larger orderbook.
 

@@ -23,20 +23,28 @@ China's imported iron ore consumption rebounded after the holidays, which indica
 Levels are likely to remain lower than last year however, as fundamentals are weaker and as the delay in the Brazilian Soybean harvest will weigh on the Kamsarmax market.
 
 
-![VLOCs Waiting to Load in Brazil](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/VLOC BRAZIL CONGESTION.png)
-*Figure: VLOCs Waiting to Load in Brazil*
+![VLOCs Waiting to Load in Brazil](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/VLOC%20BRAZIL%20CONGESTION.png)
+
+> **Figure 1: VLOCs Waiting to Load in Brazil**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/VLOC%20BRAZIL%20CONGESTION.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/VLOC BRAZIL CONGESTION.png)
 
 
-![Cape/Newc Ballaster/Laden Vessel Ratio](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CAPENEWC BALLASTER LADEN VESSEL RATIO.png)
-*Figure: Cape/Newc Ballaster/Laden Vessel Ratio*
+![Cape/Newc Ballaster/Laden Vessel Ratio](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png)
+
+> **Figure 2: Cape/Newc Ballaster/Laden Vessel Ratio**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CAPENEWC BALLASTER LADEN VESSEL RATIO.png)
 
 
-![Iron Ore Price Change (3 Months Lead) vs BCI5TC](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/IRON ORE PRICE 3 MONTH CHANGE LEAD VS BCI5TC.png)
-*Figure: Iron Ore Price Change (3 Months Lead) vs BCI5TC*
+![Iron Ore Price Change (3 Months Lead) vs BCI5TC](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/IRON%20ORE%20PRICE%203%20MONTH%20CHANGE%20LEAD%20VS%20BCI5TC.png)
+
+> **Figure 3: Iron Ore Price Change (3 Months Lead) vs BCI5TC**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/IRON%20ORE%20PRICE%203%20MONTH%20CHANGE%20LEAD%20VS%20BCI5TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/IRON ORE PRICE 3 MONTH CHANGE LEAD VS BCI5TC.png)
 
 
-![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
-*Figure: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change*
+![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+
+> **Figure 4: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png)
 
 
 ## Panamax/Kamsarmax
@@ -45,20 +53,28 @@ The Soybean harvest in Brazil remains much slower than last year, which along wi
 Vessels ballasting to Brazil are lower than the same period in both 2023 and 2024. Vessels laden with coal heading to China or India are at record highs seasonally, but the count has trended down since last summer.
 
 
-![Panamax / Kamsarmax Laden With Coal to China or India, by Year](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX LADEN WITH COAL TO CHINA OR INDIA.png)
-*Figure: Panamax / Kamsarmax Laden With Coal to China or India, by Year*
+![Panamax / Kamsarmax Laden With Coal to China or India, by Year](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX%20KAMSARMAX%20LADEN%20WITH%20COAL%20TO%20CHINA%20OR%20INDIA.png)
+
+> **Figure 5: Panamax / Kamsarmax Laden With Coal to China or India, by Year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX%20KAMSARMAX%20LADEN%20WITH%20COAL%20TO%20CHINA%20OR%20INDIA.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX LADEN WITH COAL TO CHINA OR INDIA.png)
 
 
-![Panamax / Kamsarmax Ballasting To Brazil, by Year](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX HEADING TO BRAZIL.png)
-*Figure: Panamax / Kamsarmax Ballasting To Brazil, by Year*
+![Panamax / Kamsarmax Ballasting To Brazil, by Year](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX%20KAMSARMAX%20HEADING%20TO%20BRAZIL.png)
+
+> **Figure 6: Panamax / Kamsarmax Ballasting To Brazil, by Year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX%20KAMSARMAX%20HEADING%20TO%20BRAZIL.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX HEADING TO BRAZIL.png)
 
 
-![China Total Coal Inventories](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA COAL INVENTORIES.png)
-*Figure: China Total Coal Inventories*
+![China Total Coal Inventories](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA%20COAL%20INVENTORIES.png)
+
+> **Figure 7: China Total Coal Inventories**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA%20COAL%20INVENTORIES.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA COAL INVENTORIES.png)
 
 
-![Kamsarmax Market Seasonality](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
-*Figure: Kamsarmax Market Seasonality*
+![Kamsarmax Market Seasonality](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 8: Kamsarmax Market Seasonality**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX SEASONAL AVERAGE.png)
 
 
 ## Supramax/Ultramax
@@ -68,13 +84,19 @@ Last week, we wrote: *On average, the market is at the seasonal low point now, a
 The market has moved up since last week, but further upward momentum is lacking due to the weakness in coal markets and the Brazilian Soybean harvest delays.
 
 
-![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
-*Figure: Copper Price Lead vs Supramax 1 Year TC 6 Months Change*
+![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Figure 9: Copper Price Lead vs Supramax 1 Year TC 6 Months Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png)
 
 
-![Supramax / Ultramax Seasonal Average](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
-*Figure: Supramax / Ultramax Seasonal Average*
+![Supramax / Ultramax Seasonal Average](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+
+> **Figure 10: Supramax / Ultramax Seasonal Average**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png)
 
 
-![Laden Supramax/Ultramax Vessels, and Year on Year Change](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/LADEN SUPRAMAX ULTRAMAX.png)
-*Figure: Laden Supramax/Ultramax Vessels, and Year on Year Change*
+![Laden Supramax/Ultramax Vessels, and Year on Year Change](../images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/LADEN%20SUPRAMAX%20ULTRAMAX.png)
+
+> **Figure 11: Laden Supramax/Ultramax Vessels, and Year on Year Change**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/b458a00f-30c7-4acd-8b8b-3dfb029114ac/LADEN%20SUPRAMAX%20ULTRAMAX.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/b458a00f-30c7-4acd-8b8b-3dfb029114ac/LADEN SUPRAMAX ULTRAMAX.png)
