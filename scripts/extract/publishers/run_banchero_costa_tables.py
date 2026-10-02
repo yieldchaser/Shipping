@@ -70,6 +70,16 @@ BALTIC_SH_ITEMS = [
 ]
 
 
+def fix_banchero_ligatures(s: str) -> str:
+    """Repair Banchero Costa custom font ligature anomalies (e.g. 'ti' ligature decoded as 'Y')."""
+    if not s:
+        return ""
+    s = re.sub(r'([a-z])Y([a-z])', r'\1ti\2', s)
+    s = re.sub(r'([a-z])Y\b', r'\1ti', s)
+    s = s.replace("NavigaYon", "Navigation").replace("LanYan", "Lantian").replace("SejaY", "Sejati").replace("AtlanYc", "Atlantic")
+    return s
+
+
 # ---------------------------------------------------------------------------
 # Metadata extraction (100% matched across 243 PDFs)
 # ---------------------------------------------------------------------------
@@ -128,8 +138,8 @@ def parse_geometry_subtable(
         return None, None, []
 
     words = page.get_text("words")
-    # Table data lives strictly in x <= 335 (to avoid the chart axis at x >= 345)
-    tbl_words = [w for w in words if w[2] <= 335]
+    # Table data lives strictly in x0 <= 350 and x1 <= 355 (to capture Y-o-Y percentages while avoiding chart axis at x >= 365)
+    tbl_words = [w for w in words if w[0] <= 350 and w[2] <= 355]
 
     # Group into lines by y-coordinate
     lines: List[List[Any]] = []
@@ -286,11 +296,15 @@ def extract_nb_orders(text: str) -> List[Dict[str, Any]]:
         m_pr = re.search(r"(?:USD|\$)\s*([\d,.]+)\s*(mln|million|bln|billion)?", p, re.I)
         price_each = None
         if m_pr:
-            pr_val = float(m_pr.group(1).replace(",", ""))
-            unit = (m_pr.group(2) or "").lower()
-            if "bln" in unit or "billion" in unit:
-                pr_val = pr_val * 1000
-            price_each = pr_val
+            clean_str = m_pr.group(1).replace(",", "").rstrip(".")
+            try:
+                pr_val = float(clean_str)
+                unit = (m_pr.group(2) or "").lower()
+                if "bln" in unit or "billion" in unit:
+                    pr_val = pr_val * 1000
+                price_each = pr_val
+            except ValueError:
+                pass
 
         m_del = re.search(r"deliver(?:y|ies)\s*(?:scheduled\s*)?(?:in|during|between|from|for)?\s*([A-Za-z0-9\s\-/]+?\b(?:202\d|203\d))", p, re.I)
         dely = m_del.group(1).strip() if m_del else ""
@@ -422,20 +436,20 @@ def process_banchero_costa_report(pdf_path: Path) -> Dict[str, Any]:
             sales_rows.append({
                 "issue_date": issue_date,
                 "report_week": report_week,
-                "vessel_name": r.get("vessel") or "",
+                "vessel_name": fix_banchero_ligatures(r.get("vessel") or ""),
                 "imo": r.get("imo") or "",
                 "vessel_type": r.get("vessel_type") or "",
                 "dwt": r.get("dwt") or "",
                 "built": r.get("built") or "",
-                "yard": r.get("yard") or "",
-                "buyers": r.get("buyer") or "",
+                "yard": fix_banchero_ligatures(r.get("yard") or ""),
+                "buyers": fix_banchero_ligatures(r.get("buyer") or ""),
                 "price_usd_m": price_val if price_val is not None else "",
                 "price_raw": price_raw,
                 "ss": ss_raw,
                 "ss_due": r.get("ss_due") or "",
                 "dd_due": r.get("dd_due") or "",
                 "delivery": r.get("delivery") or "",
-                "comments": raw_comm,
+                "comments": fix_banchero_ligatures(raw_comm),
                 "source_file": rel_path
             })
     except Exception as exc:
