@@ -1,5 +1,262 @@
 [
   {
+    "id": "afbebada-a565-491d-a70d-11ac1790e6a0",
+    "date": "2026-10-02",
+    "title": "LNG Shipping - Quarterly Report Q3 2026",
+    "department": "LNG",
+    "slug": "lng-shipping-quarterly-report-q3-2026",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/summary-en.mp3",
+    "content": [
+      {
+        "id": "9ecf6281-af2f-446f-ae86-b9301d9bdbb5",
+        "type": "heading1",
+        "content": "Summary"
+      },
+      {
+        "id": "d908833c-19ac-43a5-9fb8-623d9cb6dd49",
+        "type": "fullWidthParagraph",
+        "content": "Q3 was characterized by low production levels and high gas prices. This year's low point in LNG prices was reached in late June, when JKM fell to USD 15/MMBtu. Prices increased throughout the quarter, peaking in mid September at USD 29.7/MMBtu. The rally was driven by a combination of lower LNG supply, geopolitical risk in the Middle East, tighter European gas balances due to low storage levels and Norwegian maintenance, as well as strong buying interest from Asia ahead of winter. Together, these factors intensified competition for spot cargoes and supported LNG prices throughout the quarter. European gas storage levels ended the quarter at 72%, down 11 percentage points from last year and 16 percentage points below the five year average. There are substantial regional differences, however, with for example Germany at 57% full and Italy at 87% full.\n\nCharter rates moved in the opposite direction to gas prices. Average spot rates for a modern two stroke vessel started the quarter at around USD 80,000/day and ended it in the high USD 30,000s/day, despite a modest recovery during the final weeks of September.\n\nTransits through the Strait of Hormuz have recently increased slightly, but most activity remains dark and well below pre-conflict levels. Some renewed interest in older tonnage emerged towards the end of the quarter, supported by lower insurance costs.\n\nNewbuilding activity slowed further, with 12 LNGC orders placed during the quarter, compared with 39 in Q1 and 23 in Q2. Chinese yard Hengli secured its first LNGC orders, with two vessels booked on its own account. Twenty newbuildings were delivered, three fewer than in Q2 and in line with Q1. The number of idle LNGCs reached a new record high during the quarter, with around 50 vessels currently counted as idle.\n\nOne liquefaction FID was reached at the very end of the quarter. Phase 2 of LNG Canada will add 14 mtpa of liquefaction capacity to the project.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "1e2b02db-65a7-4eaa-a370-24238d4336ae",
+        "type": "fullWidthChartFromFile",
+        "title": "Spot charter rates and JKM",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/lng and spot.png"
+      },
+      {
+        "id": "62d0731b-168d-47b5-ac25-3e653377c8e0",
+        "type": "sourceText",
+        "content": "Source: JKM from S&P Global Platts"
+      },
+      {
+        "id": "38e4b165-944e-4d72-a92f-16883cfc06f4",
+        "type": "heading1",
+        "content": "Charter Rates"
+      },
+      {
+        "id": "b3ad46ca-ca7b-4d11-bab4-16dc7d8cb700",
+        "type": "fullWidthParagraph",
+        "content": "Spot charter rates started the quarter relatively stable, but began to decline from mid-July onwards. In the Atlantic, modern two stroke vessels were earning in the high USD 90,000s/day in early July before falling to around USD 10,000/day at the end of August. The decline was less severe in the Pacific, where rates started the quarter in the high USD 70,000s/day and bottomed out at around USD 20,000/day.\n\nThe weakness in charter rates was driven by lower LNG production volumes resulting from seasonal maintenance and reduced loadings through the Strait of Hormuz, combined with fleet growth of 20 vessel deliveries during the quarter. While rising LNG prices would historically have supported charter rates through higher cargo values, the severe oversupply of available tonnage proved the dominant market driver.\n\nRates recovered modestly through September in both basins ahead of the winter season, ending the quarter at around 35-40,000USD/day.\n\nOne year charter rates declined steadily throughout the quarter, falling from the high USD 70,000s/day to the low USD 50,000s/day. Longer term rates were largely unchanged, with only modest reductions recorded during the quarter. Three year and five year charter rates ended the quarter in the high USD 60,000s/day and low USD 70,000s/day, respectively, for a modern vessel.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "9516d3fc-c457-4530-9f0a-5cf98ff232ee",
+        "type": "halfWidthChartFromFile",
+        "title": "Two-stroke spot charter rates by region",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot by basin.png"
+      },
+      {
+        "id": "195e6fe2-a65f-4dbb-884d-fff176d7c35d",
+        "type": "halfWidthChartFromFile",
+        "title": "Average spot charter rates",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/spot svg.png"
+      },
+      {
+        "id": "5c86b00a-ef0e-4a18-af49-a11feb10f76b",
+        "type": "halfWidthChartFromFile",
+        "title": "1-year charter rates",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/1year.png"
+      },
+      {
+        "id": "0ee660d6-7a53-40d0-9c7d-3dcb3de6f692",
+        "type": "halfWidthChartFromFile",
+        "title": "Term charter rates (two-stroke)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png"
+      },
+      {
+        "id": "815376b5-ec91-4538-8822-85635aa70577",
+        "type": "halfWidthChartFromFile",
+        "title": "Monthly spot charter rates (two-stroke)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/mnt 2str.png"
+      },
+      {
+        "id": "7f76fd44-d486-49a9-80f4-af7f370a1a7b",
+        "type": "halfWidthChartFromFile",
+        "title": "Quarterly spot charter rates (two-stroke)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/qtr 2str.png"
+      },
+      {
+        "id": "ca0e664f-c25d-4d8a-ad71-3a2d564cda36",
+        "type": "heading1",
+        "content": "Chartering Activity"
+      },
+      {
+        "id": "9849ff81-b66e-468c-bab6-57a3ec55f13e",
+        "type": "fullWidthParagraph",
+        "content": "Chartering activity dropped significantly from Q2, with the number of spot fixtures down 35% quarter-on-quarter. Over the past nine years, fixture activity has declined from Q2 to Q3 every single year. However, this year's reduction was the largest since 2021, when spot fixture counts fell by almost 50% between the two quarters. Despite the seasonal slowdown, Q3 2026 was still the most active third quarter on record.\n\nA total of 18 multi-month deals were concluded during the quarter, compared with 32 in Q2 and 11 in Q3 last year. Activity in the one- to three-year segment remained firm, with 12 deals concluded, the highest quarterly count since Q2 2021. More than 90% of these transactions were agreed in July, when term rates traded below spot rates and LNG prices were rising rapidly.\n\nCompared with Q3 last year, spot fixture counts declined by 10%, while the number of fixed days fell by only 2%. This suggests somewhat longer fixture durations than seen a year ago.\n\nModern two stroke vessels accounted for 63% of all concluded spot fixtures, while DFDE and TFDE vessels represented 36%. Steam turbines contributed just 1% of total fixtures and have effectively been priced out of a market flooded with more efficient tonnage.\n\nSublets accounted for 62% of all short term fixtures. The share varied significantly by vessel type, however. Among DFDE and TFDE vessels, only 13% of fixtures were concluded as sublets, compared with 91% for two strokes. This highlights how control of the modern two stroke fleet remains largely in the hands of charterers and subletters, while many DFDE and TFDE vessels have been redelivered to, and thus controlled by, independent owners.\n\nAll one year deals concluded during the quarter were for two stroke vessels, and all but one were agreed as sublets.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "91ee57d8-36d6-4cc2-852e-df34fbd5502a",
+        "type": "halfWidthChartFromFile",
+        "title": "Short-term fixture activity (< 3 years)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr fixt.png"
+      },
+      {
+        "id": "3dd12bf9-ea85-4556-a2bb-db24f30fbb53",
+        "type": "halfWidthChartFromFile",
+        "title": "Short term fixtures by sublet vs independent owners",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/sub vs ind.png"
+      },
+      {
+        "id": "67339034-eee1-4b6f-9faa-f6129969d26a",
+        "type": "fullWidthChartFromFile",
+        "title": "Q3 short-term fixtures by propulsion and owner type",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/prop fixt.png"
+      },
+      {
+        "id": "2ce904b6-aff3-4645-80a7-9160be684fa8",
+        "type": "halfWidthChartFromFile",
+        "title": "Short-term fixtures in Q3 (count)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 count.png"
+      },
+      {
+        "id": "c4962339-ab9e-4ff5-9a3a-5a4eed9ef488",
+        "type": "halfWidthChartFromFile",
+        "title": "Short-term fixtures in Q3 (fixed days)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q3 fixed days.png"
+      },
+      {
+        "id": "35ba1c4f-3973-4e59-9d7f-f15078b1a0bc",
+        "type": "heading1",
+        "content": "Trade Flows"
+      },
+      {
+        "id": "d3f26695-5ea3-4e3b-857a-45444502324c",
+        "type": "fullWidthParagraph",
+        "content": "A total of 103 MT of LNG was loaded in Q3, up 1 MT from Q2 but 5 MT lower than in Q3 last year. Most LNG exporters increased production compared with 2025, but the decline in Qatari exports more than offset these gains, with Qatar exporting nearly 17 MT less LNG than in 2025. The United States accounted for the largest increase, exporting 4.7 MT more than in Q3 last year, with Corpus Christi and Plaquemines contributing around 80% of the growth.\n\nOn a quarterly basis, 44% of US LNG exports were delivered to Europe and 35% to Asia. Monthly trends varied significantly, however. Europe's share increased from 34% in July to 56% in August, resulting in shorter average voyage distances. As a result, tonne miles declined throughout the quarter, with a modest reduction from July to August followed by a more significant decline in September. Fleet utilization remains historically low as the fleet expanded by around 20 vessels during the quarter, while tonne miles fell below both 2025 and 2024 levels.\n\nChina was the largest LNG importer in Q3 despite importing around 1 MT less than in Q3 last year. Despite the sharp reduction in Qatari supply, India increased LNG imports to a record quarterly high of 7.4 MT. This growth was supported by higher imports from Oman, the United States and Nigeria, among others.\n\nEurope imported 22.5 MT during the quarter, lower than in 2025 but higher than in 2024. Storage levels are ending the quarter at 72% full, although regional differences remain substantial. This is 16 percentage points below the five year average, with France and Italy approaching comfortable inventory levels while Germany and the Netherlands remain significantly underfilled. The divergence reflects differing refill strategies, policy frameworks and storage economics across the region.\n\nThe number of Panama Canal transits nearly doubled compared with Q2, reaching around 30 laden transits during the quarter. Monthly transits peaked at 12 in August, although this remains well below the monthly record of 29 transits seen in 2021. Elevated geopolitical risk in the Red Sea continues to prevent LNG carriers from transiting via the Bab el Mandeb. As a result, all Suez Canal transits during the quarter were linked to imports into Egypt or Jordan.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "862868b8-a17d-4649-b55c-d0567d83dd41",
+        "type": "halfWidthChartFromFile",
+        "title": "Quarterly loaded LNG",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded q.png"
+      },
+      {
+        "id": "cccb48a1-d04e-4b5b-9178-374a2ab6e846",
+        "type": "halfWidthChartFromFile",
+        "title": "Monthly loaded LNG",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/loaded m.png"
+      },
+      {
+        "id": "ff13443e-2ce0-4aef-b096-08dae600050a",
+        "type": "halfWidthChartFromFile",
+        "title": "Global tonne-miles",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png"
+      },
+      {
+        "id": "0d1cfcf1-8fa5-49b9-87fc-9ea7f92eab64",
+        "type": "halfWidthChartFromFile",
+        "title": "Tonne-miles by propulsion (Q1-Q3)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/q1 to q3 tmi by prop.png"
+      },
+      {
+        "id": "c8c9bfd6-2120-47db-8839-97b5d6c973ec",
+        "type": "halfWidthChartFromFile",
+        "title": "Destination of US LNG",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/us lng abs.png"
+      },
+      {
+        "id": "80a9adab-c7ac-4f07-ad68-cd7d14089ba5",
+        "type": "halfWidthChartFromFile",
+        "title": "Destination of US LNG, share",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/dest us lng.png"
+      },
+      {
+        "id": "f252319e-036a-4bde-9d3f-209eaf10291e",
+        "type": "fullWidthChartFromFile",
+        "title": "Q3 2025 vs 2026 by exporting country",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png"
+      },
+      {
+        "id": "6bd83bad-e19b-49c7-b489-6758b780a3be",
+        "type": "fullWidthChartFromFile",
+        "title": "Q3 2025 vs 2026 by importing country",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/waterfall imp new.png"
+      },
+      {
+        "id": "5bfeb858-0ea3-494d-9599-af0d95fc2bf2",
+        "type": "sourceText",
+        "content": "Source: S&P Global Energy"
+      },
+      {
+        "id": "da4e5b49-cf86-4383-965c-1bc07ae67661",
+        "type": "heading1",
+        "content": "LNGC Fleet"
+      },
+      {
+        "id": "2e13ddd2-a3ab-41d4-8286-b1eaacda2575",
+        "type": "halfWidthParagraph",
+        "content": "The live LNGC fleet currently stands at 780 vessels. While 19 vessels are officially reported as laid up, a significantly larger number are estimated to be idle. The orderbook totals 283 vessels, equivalent to 36% of the existing fleet.\n\nA total of 12 LNGCs were ordered during the quarter. Two of these were booked at Chinese yard Hengli, which announced that it will build its first LNGCs on its own account. Of the 12 orders placed, only four were backed by long term charters.\n\nNewbuilding prices softened marginally during the quarter and are currently quoted at around USD 247 million for a single vessel order at a Korean yard.\n\nTwenty LNGCs were delivered in Q3. All but one had capacity of 174,000 to 175,000 cbm, with the remaining vessel being 200,000 cbm. Six of the deliveries were linked to the Qatar expansion programme, while the remaining 14 were delivered to other charterers.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "7aa6f7d9-9a35-4273-91c8-4545d64a54c4",
+        "type": "halfWidthChartFromFile",
+        "title": "LNGC fleet by status",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/status.png"
+      },
+      {
+        "id": "c3ab006b-4269-4cc3-a9e8-cc7a40175671",
+        "type": "fullWidthParagraph",
+        "content": "There are currently around 90 LNGCs over 20 years of age, of which approximately 30 are estimated to be idle. We expected higher scrapping activity this year, but the stronger charter market earlier in the year appears to have delayed retirement decisions. However, the period of stronger earnings has done little to improve employment prospects for steam turbines. Steam turbine tonne miles during the first nine months of the year were 23% lower than in the same period last year, and utilization of older vessels continues to deteriorate.\n\nWhile scrapping activity has remained limited, several transactions completed during the quarter will remove vessels from the trading fleet through alternative routes. Four vessel sales concluded during Q3 were linked to conversion projects.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "65c3d6e2-b092-4c36-97ac-18010fa0da9e",
+        "type": "fullWidthChartFromFile",
+        "title": "LNGC orders",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/orders.png"
+      },
+      {
+        "id": "2c282639-767a-43a1-b1da-e74506a5df67",
+        "type": "fullWidthChartFromFile",
+        "title": "LNGC deliveries",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png"
+      },
+      {
+        "id": "0bad2eda-cd89-4a6e-82b4-01f7862ddc73",
+        "type": "halfWidthChartFromFile",
+        "title": "LNGC newbuild prices",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png"
+      },
+      {
+        "id": "fad06936-c727-4ead-9228-7a1c09c64135",
+        "type": "halfWidthChartFromFile",
+        "title": "Orderbook by yard",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/ob yard.png"
+      },
+      {
+        "id": "8fbc0468-b518-4da7-8562-5f9cf3fa61cb",
+        "type": "heading1",
+        "content": "Outlook"
+      },
+      {
+        "id": "19a6b04a-85c8-4ca0-93ea-f33f363a8d0f",
+        "type": "fullWidthParagraph",
+        "content": "The LNG shipping market remains fundamentally oversupplied. LNG production continues to be constrained by the loss of Middle Eastern volumes, while the fleet keeps growing through newbuild deliveries and scrapping activity remains limited. In theory, the current two stroke and TFDE fleets should be sufficient to carry global LNG trade volumes.\n\nHowever, high gas prices tend to support shipping demand through increased cargo values and greater trading optionality. Combined with the market's strong preference for modern tonnage, this is likely to support a seasonal increase in charter rates during the winter months. We expect any winter uplift to be modest, however, as there comes a point where fleet oversupply outweighs the positive impact of higher cargo values.\n\nOur view remains largely unchanged from previous quarters. Both 2027 and 2028 are expected to remain oversupplied, although market balances should gradually improve as LNG production growth accelerates. We continue to expect a tighter winter market going into 2029. From 2030 onward, additional vessel orders beyond the current orderbook will likely be required to meet projected shipping demand.\n\nSeveral liquefaction projects are approaching FID, while global LNG demand is expected to continue growing over the coming decades. At the same time, US LNG supply growth is expected to outpace European demand growth, increasing the share of long haul US to Asia trade flows. This should provide a meaningful boost to tonne mile demand over the longer term.",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "e6d99018-01b4-4ed4-93b0-379da58f5c0b",
+        "type": "sourceText",
+        "content": "Source: S&P Global Energy"
+      },
+      {
+        "id": "8c96466d-0f4e-43b5-8361-12633c4d5852",
+        "type": "fullWidthChartFromFile",
+        "title": "Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/balance new.png"
+      }
+    ],
+    "created_at": "2026-09-28T12:24:53.935+00:00",
+    "updated_at": "2026-10-02T11:39:51.204+00:00"
+  },
+  {
     "id": "190c6f48-0d96-416d-8157-70474979f10c",
     "date": "2026-09-30",
     "title": " Fearnleys Dry Bulk Weekly",
