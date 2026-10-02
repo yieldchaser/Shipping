@@ -38,6 +38,7 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
+import hashlib
 import json
 import os
 import re
@@ -1180,9 +1181,29 @@ def run():
     master_tc_period: List[Dict[str, Any]] = []
     master_tanker_tce: List[Dict[str, Any]] = []
 
+    # Two-rule duplicate guard (same pattern as the hellenic / fearnleys fixes):
+    # a byte-identical copy is suppressed ONLY when it resolves to the SAME
+    # (issue_date, report_week) as an already-processed file - i.e. it would be
+    # routed to the same series for the same issue. Content alone is not enough
+    # (a reprint can share bytes with a differently-dated issue) and a name is not
+    # an identity. Measured 2026-10-03: three byte-identical pairs produced 253
+    # duplicate-key rows across the nine carriers series:
+    #   carriers_2026_W38_WK-38-26-...pdf        vs  ....pdf.pdf
+    #   carriers_2026_W39_WK-39-26-...pdf        vs  general_broker_28_09_2026_...
+    #   15_09_2026_..._week_37 (2).pdf           vs  carriers_2026_W35_WK-35-26-...pdf
+    # The last pair: the '(2)' file is byte-identical to the Week 35 report, and the
+    # page-wins rule in extract_metadata() already dates it 2026-09-01 / week 35.
+    seen_docs: Dict[Tuple[str, Optional[str], Optional[int]], str] = {}
+
     for idx, pdf_path in enumerate(all_pdfs, 1):
         stem = pdf_path.stem
         issue_date, report_week = extract_metadata(pdf_path)
+        _dup_key = (hashlib.md5(pdf_path.read_bytes()).hexdigest(), issue_date, report_week)
+        if _dup_key in seen_docs:
+            print(f"  [{idx}/{len(all_pdfs)}] SKIP byte-identical duplicate of "
+                  f"{seen_docs[_dup_key]}: {pdf_path.name}")
+            continue
+        seen_docs[_dup_key] = pdf_path.name
         doc = pymupdf.open(pdf_path)
 
         # Handle singleton VV format (2021-11-19)
