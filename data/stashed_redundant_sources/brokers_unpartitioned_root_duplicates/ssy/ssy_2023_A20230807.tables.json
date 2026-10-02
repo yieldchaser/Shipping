@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "publisher": "SSY",
+    "title": "SSY Atlantic Capesize Index",
+    "basin": "Atlantic",
+    "issue_date": "2023-08-07",
+    "report_week": 32,
+    "year": 2023,
+    "rates_date_curr": "2023-08-07",
+    "rates_date_prev": "2023-07-31",
+    "publication_date_text": "2023-06-26"
+  },
+  "commentary": {
+    "market_commentary": "The SSY Atlantic Capesize Index increased 151 points week-on-week to 8,289. SSY’s assessed fronthaul and round-voyage rate fell $4,500/day and $1,000/day to $33,000/day and $18,500/day, respectively. Although freight rates for certain routes are on a positive trend, the $70 increase in bunkers over the past fortnight has curtailed time charter earnings.",
+    "index_notes": "The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 26 June 2023.",
+    "contact_info": "For more information contact Roar Adland/David Beard"
+  },
+  "calculated_index": {
+    "value_prev": 8138.0,
+    "value_curr": 8289.0,
+    "previous_index": {
+      "prev": 955.0,
+      "curr": 151.0
+    },
+    "four_weeks": {
+      "prev": 414.0,
+      "curr": 912.0
+    },
+    "previous_year": {
+      "prev": -2807.0,
+      "curr": -893.0
+    },
+    "two_years": {
+      "prev": -3696.0,
+      "curr": -4072.0
+    }
+  },
+  "trade_rates": [
+    {
+      "route": "NARVIK/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 5.4,
+      "rate_curr": 5.4,
+      "change_usd_t": 0.0
+    },
+    {
+      "route": "TUBARAO/ROTTERDAM",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 8.65,
+      "rate_curr": 8.7,
+      "change_usd_t": 0.05
+    },
+    {
+      "route": "RICHARDS BAY/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 6.2,
+      "rate_curr": 7.0,
+      "change_usd_t": 0.8
+    },
+    {
+      "route": "SEVEN ISLANDS/ROTTERDAM",
+      "cargo_size": "170,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 8.25,
+      "rate_curr": 8.6,
+      "change_usd_t": 0.35
+    },
+    {
+      "route": "PUERTO BOLIVAR/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 11.5,
+      "rate_curr": 11.8,
+      "change_usd_t": 0.3
+    },
+    {
+      "route": "NOUADHIBOU/QINGDAO",
+      "cargo_size": "140,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 21.1,
+      "rate_curr": 22.0,
+      "change_usd_t": 0.9
+    },
+    {
+      "route": "TUBARAO/JAPAN",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 19.45,
+      "rate_curr": 20.3,
+      "change_usd_t": 0.85
+    },
+    {
+      "route": "TUBARAO/QINGDAO",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 19.65,
+      "rate_curr": 20.5,
+      "change_usd_t": 0.85
+    },
+    {
+      "route": "T/C TRIP CONT/FAR EAST",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10.0%",
+      "rate_prev": 6.33,
+      "rate_curr": 5.57,
+      "change_usd_t": -0.76
+    },
+    {
+      "route": "T/C TRANSATLANTIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10.0%",
+      "rate_prev": 3.29,
+      "rate_curr": 3.12,
+      "change_usd_t": -0.17
+    }
+  ],
+  "timecharter_day_rates": [
+    {
+      "route": "T/C TRIP CONT/FAR EAST",
+      "cargo_size": "180,000 DWT",
+      "day_rate_prev": 37500.0,
+      "day_rate_curr": 33000.0,
+      "change_usd_day": -4500.0,
+      "source": "table"
+    },
+    {
+      "route": "T/C TRANSATLANTIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "day_rate_prev": 19500.0,
+      "day_rate_curr": 18500.0,
+      "change_usd_day": -1000.0,
+      "source": "table"
+    }
+  ],
+  "chart_series": {
+    "available": true,
+    "n_series": 3,
+    "total_points": 133,
+    "relative_gap_vs_printed": 0.0687
+  },
+  "n_trade_routes": 10,
+  "n_tc_routes": 2
+}

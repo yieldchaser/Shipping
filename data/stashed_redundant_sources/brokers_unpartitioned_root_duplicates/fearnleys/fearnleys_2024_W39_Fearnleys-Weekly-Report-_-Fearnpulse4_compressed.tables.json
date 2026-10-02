@@ -1,0 +1,657 @@
+{
+  "convention": "iso",
+  "publisher": "Fearnleys",
+  "issue_date": "2024-09-25",
+  "year": 2024,
+  "report_week": 39,
+  "pages": 19,
+  "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf",
+  "activity_levels": {
+    "Tank Activity": "Strong",
+    "Dry Bulk Activity": "Moderate"
+  },
+  "newbuilding_prices": {
+    "VLCC": {
+      "price_usd_m": 127.0,
+      "size": "300'",
+      "page": 15
+    },
+    "Suezmax": {
+      "price_usd_m": 86.0,
+      "size": "150'",
+      "page": 15
+    },
+    "Aframax": {
+      "price_usd_m": 70.5,
+      "size": "110'",
+      "page": 15
+    },
+    "Product": {
+      "price_usd_m": 48.5,
+      "size": "50'",
+      "page": 15
+    },
+    "Newcastlemax": {
+      "price_usd_m": 73.0,
+      "size": "210'",
+      "page": 15
+    },
+    "Kamsarmax": {
+      "price_usd_m": 38.0,
+      "size": "82'",
+      "page": 15
+    },
+    "LNGC (MEGI) (cbm)": {
+      "price_usd_m": 264.0,
+      "size": "170'",
+      "page": 16
+    },
+    "Ultramax": {
+      "price_usd_m": 36.0,
+      "size": "64'",
+      "page": 16
+    }
+  },
+  "secondhand_prices": {
+    "dry": {
+      "Capesize": {
+        "5_yr": 64.0,
+        "10_yr": 44.0,
+        "page": 16
+      },
+      "Kamsarmax": {
+        "5_yr": 33.5,
+        "10_yr": 24.5,
+        "page": 16
+      },
+      "Ultramax": {
+        "5_yr": 36.0,
+        "10_yr": 28.5,
+        "page": 16
+      },
+      "Handysize": {
+        "5_yr": 28.5,
+        "10_yr": 22.0,
+        "page": 16
+      }
+    },
+    "wet": {
+      "VLCC": {
+        "5_yr": 110.0,
+        "10_yr": 84.0,
+        "page": 16
+      },
+      "Suezmax": {
+        "5_yr": 84.0,
+        "10_yr": 68.0,
+        "page": 16
+      },
+      "Aframax / LR2": {
+        "5_yr": 73.0,
+        "10_yr": 60.0,
+        "page": 16
+      }
+    }
+  },
+  "rates": [
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/WEST",
+      "value": 35.0,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/Japan",
+      "value": 55.0,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/Singapore",
+      "value": 56.0,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "WAF/FEAST",
+      "value": 59.0,
+      "change": 0.0,
+      "vessel_size": "260'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "WAF/USAC",
+      "value": 75.0,
+      "change": -2.5,
+      "vessel_size": "130'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "Sidi Kerir/W Med",
+      "value": 77.5,
+      "change": -2.5,
+      "vessel_size": "135'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "N. Afr/Euromed",
+      "value": 110.0,
+      "change": -10.0,
+      "vessel_size": "80'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "UK/Cont",
+      "value": 115.0,
+      "change": 0.0,
+      "vessel_size": "80'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "Caribs/USG",
+      "value": 85.0,
+      "change": -10.0,
+      "vessel_size": "70'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "01 Tankers",
+      "section": "Period & Availability",
+      "label": "Fixed in all areas last week",
+      "value": 69.0,
+      "change": 0.0,
+      "vessel_size": "-",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 7,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "TCE Cont/Far East",
+      "value": 38125.0,
+      "change": -0.09,
+      "vessel_size": "Capesize",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 7,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "Australia/China",
+      "value": 11.59,
+      "change": -0.09,
+      "vessel_size": "Capesize",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 7,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "Pacific RV",
+      "value": 16464.0,
+      "change": 0.0,
+      "vessel_size": "Capesize",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 7,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "Transatlantic RV",
+      "value": 12125.0,
+      "change": -175.0,
+      "vessel_size": "Panamax",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 7,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "TCE Far East/Cont",
+      "value": 9.0,
+      "change": 0.0,
+      "vessel_size": "Panamax",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 8,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "TCE Far East RV",
+      "value": 14388.0,
+      "change": -29.0,
+      "vessel_size": "Panamax",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 8,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "Pacific RV",
+      "value": 12575.0,
+      "change": -259.0,
+      "vessel_size": "Capesize",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 8,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry Spot",
+      "label": "TCE Cont/Far East",
+      "value": 19179.0,
+      "change": -259.0,
+      "vessel_size": "Capesize",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 9,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Ultramax",
+      "value": 16750.0,
+      "change": 0.0,
+      "vessel_size": "64'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 9,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Capesize",
+      "value": 23750.0,
+      "change": 0.0,
+      "vessel_size": "180'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 9,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Panamax",
+      "value": 15550.0,
+      "change": 0.0,
+      "vessel_size": "75'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 9,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Supramax",
+      "value": 15000.0,
+      "change": 0.0,
+      "vessel_size": "58'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 9,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Handysize",
+      "value": 12500.0,
+      "change": 0.0,
+      "vessel_size": "38'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 11,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "VLGC",
+      "value": 400000.0,
+      "change": -150000.0,
+      "vessel_size": "84'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 11,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "LGC",
+      "value": 700000.0,
+      "change": 0.0,
+      "vessel_size": "60'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 11,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "MGC",
+      "value": 820000.0,
+      "change": 0.0,
+      "vessel_size": "38'",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 12,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "COASTER Europe",
+      "value": 390000.0,
+      "change": 0.0,
+      "vessel_size": "3 500-5 000 cbm",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 12,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "FOB North Sea/Ansi",
+      "value": 555.5,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 12,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "Saudi Arabia/CP",
+      "value": 580.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 12,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "MT Belvieu",
+      "value": 332.0,
+      "change": -8.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 13,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "Sonatrach/Bethioua",
+      "value": 555.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 13,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "FOB North Sea/Ansi",
+      "value": 492.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 13,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "Saudi Arabia/CP",
+      "value": 570.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 13,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "MT Belvieu",
+      "value": 385.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 13,
+      "chapter": "03 Gas",
+      "section": "LNG",
+      "label": "East of Suez 155-165k CBM",
+      "value": 9.0,
+      "change": 0.0,
+      "vessel_size": "155-165k CBM",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 17,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "USD/JPY",
+      "value": 143.84,
+      "change": 0.0,
+      "vessel_size": "FX",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 17,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "USD/NOK",
+      "value": 10.43,
+      "change": 0.0,
+      "vessel_size": "FX",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 17,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "USD/KRW",
+      "value": 1235.5,
+      "change": -0.08,
+      "vessel_size": "FX",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 17,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "EUR/USD",
+      "value": 0.9,
+      "change": -0.08,
+      "vessel_size": "FX",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 17,
+      "chapter": "06 Market Brief",
+      "section": "Interest Rates",
+      "label": "SOFR USD",
+      "value": 5.38,
+      "change": -0.01,
+      "vessel_size": "Rate",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 18,
+      "chapter": "06 Market Brief",
+      "section": "Commodity Prices",
+      "label": "Brent Spot",
+      "value": 75.0,
+      "change": 0.0,
+      "vessel_size": "Spot",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 18,
+      "chapter": "06 Market Brief",
+      "section": "Bunker Prices",
+      "label": "380 CST",
+      "value": 469.5,
+      "change": 0.0,
+      "vessel_size": "Fuel Oil",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    },
+    {
+      "page": 18,
+      "chapter": "06 Market Brief",
+      "section": "Bunker Prices",
+      "label": "MGO",
+      "value": 637.0,
+      "change": -15.5,
+      "vessel_size": "Gasoil",
+      "issue_date": "2024-09-25",
+      "year": 2024,
+      "report_week": 39,
+      "source_file": "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed.pdf"
+    }
+  ]
+}

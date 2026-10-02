@@ -1,0 +1,30 @@
+{
+  "issue_date": "2026-03-03",
+  "year": "2026",
+  "title": "MMI Daily Iron Ore Index Report March 03 2026",
+  "source_file": "2026-03-03_mmi-daily-iron-ore-index-report-march-03-2026.html",
+  "records_count": 1,
+  "records": [
+    {
+      "issue_date": "2026-03-03",
+      "index_family": "IOPLI",
+      "index_code": "IOPLI62",
+      "fe_grade": "62.5% Fe Lump",
+      "fot_rmb_wmt": 850.0,
+      "fot_change": 15.0,
+      "fot_change_pct": 1.8,
+      "fot_mtd": 895.0,
+      "fot_ytd": 954.0,
+      "fot_low": 820.0,
+      "fot_high": 1210.0,
+      "cfr_usd_dmt": 109.35,
+      "cfr_change": 2.24,
+      "cfr_change_pct": 2.09,
+      "cfr_mtd": 112.1,
+      "cfr_ytd": 119.77,
+      "cfr_low": 102.77,
+      "cfr_high": 153.57,
+      "source_file": "2026-03-03_mmi-daily-iron-ore-index-report-march-03-2026.html"
+    }
+  ]
+}

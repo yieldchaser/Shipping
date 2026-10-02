@@ -1,0 +1,653 @@
+{
+  "stem": "xclusiv_2025_xclusiv-2025_01_07",
+  "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf",
+  "issue_date": "2025-01-07",
+  "report_week": 1,
+  "pages": 9,
+  "reported_sales": [
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "MYTHOS",
+      "TYPE": "Panamax",
+      "DWT": "74,195",
+      "YEAR": "2004",
+      "COUNTRY": "JAPAN",
+      "YARD": "NAMURA",
+      "BUYERS": "VIETNAMESE",
+      "PRICE": "8.5",
+      "PRICE_USD_MILL": 8.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "CS SONOMA",
+      "TYPE": "Supramax",
+      "DWT": "56,704",
+      "YEAR": "2010",
+      "COUNTRY": "CHINA",
+      "YARD": "JIANGSU HANTONG",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "11.3",
+      "PRICE_USD_MILL": 11.3,
+      "COMMENTS": "SCRUBBER FITTED",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "CHIBA",
+      "TYPE": "MR2",
+      "DWT": "45,975",
+      "YEAR": "2007",
+      "COUNTRY": "JAPAN SHIN",
+      "YARD": "KURUSHIMA",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "16.8",
+      "PRICE_USD_MILL": 16.8,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "SANJIN 3025",
+      "TYPE": "Small Tanker",
+      "DWT": "13,774",
+      "YEAR": "2020",
+      "COUNTRY": "CHINA",
+      "YARD": "SAMJIN",
+      "BUYERS": "SINGAPOREANS",
+      "PRICE": "17",
+      "PRICE_USD_MILL": 17.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    }
+  ],
+  "demo_sales": [
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "NAME": "THREE STAR",
+      "TYPE": "BC",
+      "YEAR": "1996",
+      "DWT": "45,217",
+      "LDT": "7,627",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "475",
+      "PRICE_USD_PER_LDT": 475.0,
+      "BUYERS": "BANGLADESH",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "NAME": "HL PYEONGTAEK",
+      "TYPE": "LNG",
+      "YEAR": "1995",
+      "DWT": "71,041",
+      "LDT": "28,809",
+      "COUNTRY": "KOREA",
+      "PRICE_RAW": "480",
+      "PRICE_USD_PER_LDT": 480.0,
+      "BUYERS": "S. KOREA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    }
+  ],
+  "newbuilding_orders": [
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "BC",
+      "units": "3+5",
+      "size": "210,000 DWT",
+      "yard": "COSCO YANGZHOU",
+      "buyer": "COSCO SHIPPING",
+      "price": "93 EACH",
+      "delivery": "2027-2028",
+      "comments": "METH DF, AMMONIA READY",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "BC",
+      "units": "2",
+      "size": "82,600 DWT",
+      "yard": "CHENGXI",
+      "buyer": "HEBEI XING YANG",
+      "price": "37.5 EACH",
+      "delivery": "2028",
+      "comments": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "TANKER",
+      "units": "8",
+      "size": "115,000 DWT",
+      "yard": "DSIC",
+      "buyer": "ASIA PACIFIC",
+      "price": "70-72 EACH",
+      "delivery": "2027",
+      "comments": "SCRUBBERS, 6 LR2/2 AFRA",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "TANKER",
+      "units": "2",
+      "size": "115,000 DWT",
+      "yard": "SWS",
+      "buyer": "ASIA PACIFIC",
+      "price": "72 EACH",
+      "delivery": "2027",
+      "comments": "2 AFRA",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "TANKER",
+      "units": "2",
+      "size": "25,900 DWT",
+      "yard": "WUHU",
+      "buyer": "ASIA PACIFIC",
+      "price": "49.5 EACH",
+      "delivery": "2028",
+      "comments": "STST",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "TANKER",
+      "units": "4",
+      "size": "23,500 DWT",
+      "yard": "DSOC",
+      "buyer": "UNION MARITIME",
+      "price": "30 EACH",
+      "delivery": "2026",
+      "comments": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "VLEC",
+      "units": "3",
+      "size": "98,000 CBM",
+      "yard": "SAMSUNG",
+      "buyer": "MOL",
+      "price": "167.7 EACH",
+      "delivery": "Q4 2027",
+      "comments": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "page": 4,
+      "type": "LNG",
+      "units": "1",
+      "size": "20,000 CBM",
+      "yard": "CIMC",
+      "buyer": "EQUITORIAL MARINE",
+      "price": "N/A",
+      "delivery": "Q2 2027",
+      "comments": "BUNKERING",
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    }
+  ],
+  "indicative_demolition_prices": [
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Bulkers",
+      "country": "India",
+      "price_usd_per_ldt": 470.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Bulkers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 475.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Bulkers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 465.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Bulkers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 320.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Tankers",
+      "country": "India",
+      "price_usd_per_ldt": 480.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Tankers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 485.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Tankers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 475.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "segment": "Tankers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 330.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    }
+  ],
+  "indicative_secondhand_prices": [
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "Resale",
+      "price_usd_mill": 75.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "5 Year",
+      "price_usd_mill": 61.7,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "10 Year",
+      "price_usd_mill": 42.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "15 Year",
+      "price_usd_mill": 26.3,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "Resale",
+      "price_usd_mill": 40.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 34.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 24.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 15.3,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "Resale",
+      "price_usd_mill": 39.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "5 Year",
+      "price_usd_mill": 32.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "10 Year",
+      "price_usd_mill": 23.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "15 Year",
+      "price_usd_mill": 14.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "Resale",
+      "price_usd_mill": 34.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "5 Year",
+      "price_usd_mill": 26.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "10 Year",
+      "price_usd_mill": 18.4,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "15 Year",
+      "price_usd_mill": 11.8,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "Resale",
+      "price_usd_mill": 148.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "5 Year",
+      "price_usd_mill": 114.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "10 Year",
+      "price_usd_mill": 84.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "15 Year",
+      "price_usd_mill": 53.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "Resale",
+      "price_usd_mill": 96.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 76.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 60.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 39.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "Resale",
+      "price_usd_mill": 81.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "5 Year",
+      "price_usd_mill": 66.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "10 Year",
+      "price_usd_mill": 51.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "15 Year",
+      "price_usd_mill": 35.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "Resale",
+      "price_usd_mill": 51.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "5 Year",
+      "price_usd_mill": 41.7,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "10 Year",
+      "price_usd_mill": 31.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "15 Year",
+      "price_usd_mill": 21.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    }
+  ],
+  "indicative_newbuilding_prices": [
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "price_usd_mill": 75.6,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "price_usd_mill": 39.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "price_usd_mill": 36.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "price_usd_mill": 31.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "price_usd_mill": 129.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "price_usd_mill": 89.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "price_usd_mill": 74.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "Panamax",
+      "price_usd_mill": 61.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    },
+    {
+      "issue_date": "2025-01-07",
+      "report_week": 1,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "price_usd_mill": 51.6,
+      "source_file": "xclusiv_2025_xclusiv-2025_01_07.pdf"
+    }
+  ]
+}

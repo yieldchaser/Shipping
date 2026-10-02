@@ -1,0 +1,199 @@
+---
+title: "Xclusiv Shipbrokers Weekly Market Report - Week 23, 2025"
+issue_date: "2025-06-10"
+report_week: 23
+year: 2025
+broker: "Xclusiv Shipbrokers"
+source: "xclusiv"
+source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_06_10-1.pdf"
+pages: 9
+sales_count: 12
+demo_sales_count: 6
+secondhand_prices_count: 32
+demolition_prices_count: 8
+---
+
+# Xclusiv Shipbrokers Weekly Market Report - Week 23, 2025
+
+- **Publisher**: Xclusiv Shipbrokers Inc.
+- **Issue Date**: 2025-06-10 (Week 23)
+- **Source**: `corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_06_10-1.pdf`
+- **Pages**: 9
+
+---
+
+## Market Overview
+
+### In a Nutshell
+
+- Tanker fleet aging accelerates; 34% will be over 21 years by
+- 2029. (Page 1)
+- MRs and Panamax/LR1 segments show highest aging growth
+- and replacement urgency . (Page 1)
+- Charterers may favor younger, efficient ships amid stricter
+- environmental regulations ahead. (Page 1)
+- Orderbook strong, but demolition-delivery imbalance risks
+- tightening future tanker supply. (Page 1)
+- WTI crude oil futures rose to around $65.5 per barrel, reach-
+- ing its highest level in over two months.  (Page 8)
+
+### Desk Commentary
+
+The global tanker fleet is confronting a significant aging challenge across all size segments as it evolves toward 2029. Despite a robust orderbook aimed at fleet renewal and expansion, the rapid growth in the number of older vessels is reshaping the age profile in a manner that war- rants close scrutiny by market participants and industry stakeholders.
+
+As of 2025, the active tanker fleet comprises 7,735 ves- sels, with 1,366 units aged over 21 years, representing approximately 17.6% of the fleet. However, this aging burden is not evenly distributed across vessel sizes. Handy/MR1 tankers exhibit the highest aging ratio at 34%, with 279 of 829 vessels over 21 years. Small tankers follow, with 19% of their 1,878 vessels falling into this older category. The MR2 segment maintains a relatively younger profile, with only 11% aged over 21 years. Other segments such as Panamax/LR1, Aframax/LR2, Suezmax, and VLCC/ULCC show moderate aging levels between 16% and 17%. By 2029, the fleet is projected to expand modestly to 8,948 vessels, yet the number of vessels older than 21 years more than doubles to 3,023, accounting for nearly 34% of the fleet—almost twice the proportion seen in 2025. The aging intensifies considerably across all segments, with the Handy/MR1 class facing a particularly acute challenge, where 56% of the fleet will be over 21 years old, marking a 22 percentage point increase over 2025. Small tankers also face substantial aging pressures, with the proportion of vessels older than 21 years rising to 37%. The MR2 segment’s aging share more than doubles to 27%, while the Panamax/LR1 segment shows a notable increase to 46%, positioning it as the second most aged class by 2029. Aframax/LR2, Suezmax, and VLCC/ULCC segments also experience meaningful aging, rising to 31%, 25%, and 26%, respectively.
+
+This data underscores that smaller tanker segments—particularly Handy/MR1 and Small tankers—carry the heaviest aging burden and experience the fastest growth in older tonnage. This likely reflects an older baseline fleet and poten- tially slower renewal rates relative to other segments. Meanwhile, mid-sized and larger tankers also exhibit steady ag- ing increases, highlighting a widespread industry trend. The pronounced aging within Handy/MR1 and Panamax/LR1 tankers is especially critical, as these segments may face accelerated scrapping or will require aggressive replace- ment to maintain operational competitiveness and com- pliance with increasingly stringent environmental and safety regulations. By 2029, charterers are expected to increasingly prefer younger vessels due to their im- proved fuel efficiency and superior environmental per- formance. Older tankers, particularly those exceeding 21 years of age, will likely struggle to meet evolving charter- ing criteria as fuel consumption inefficiencies and envi- ronmental non-compliance become more consequential in contracting decisions.
+
+---
+
+## Freight Market Analysis
+
+### Dry Bulk Freight
+
+Capesize: C5TC avg improved at USD 23,572/day. Trip from Continent to F. East is up by 4.3k/day at USD 41,344/day, Transatlantic R/V is higher by 3.8k/day at USD 21,436/day, and Bolivar to Rotterdam is higher by 3.5k/day at USD 28,657/ day, while Transpacific R/V is increased by 6.9k/ day at USD 26,300/day. Trip from Tubarao to Rotterdam is increased by 4.2k/day at USD 16,026/day, China-Brazil R/V is higher by 4.8k/day at USD 25,100/day, and & trip from Saldanha Bay to Qinqdao is increased by 4.2k/day at USD 16,026/day. Scrubber fitted Cape 1y T/C rate is higher at USD 21,200/day, while eco 180k Cape is softer at USD 19,900/day.
+
+Kamsarmax/Panamax: P5TC avg closed the week at USD 11,210/day. The P4TC avg closed with an increase at USD 9,874/day. Trip from Skaw-Gib to F. East is improved by 1.6k/day at USD 17,838/ day, Pacific R/V is up at USD 9,236/day, while Transatlantic R/V is increased by 2.1k/day at USD 10,791/day, and Singapore R/V via Atlantic is in- creased by 1.3k/day at USD 12,205/day. Skaw- Gibraltar transatlantic R/V (P1A_03) is firmer by 2.1k/day at USD 9,507/day, Skaw-Gibraltar trip to Taiwan-Japan (P2A_03) is increased by 1.6k/day at USD 16,349/day, and Japan-S. Korea Transpa- cific R/V (P3A_03) is increased at USD 7,934/day. Kmax 1y T/C rate is softer at USD 12,200/day, while Pmax 1y T/C is softer at USD 11,700/day.
+
+Ultramax/Supramax: Ultra S11TC avg closed the week at USD 11,796/day. The Supra S10TC avg closed the week at USD 9,762/day. The Baltic Su- pra Asia S3TC avg closed the week at USD 10,583/ day. N. China one Australian or Pacific R/V is im- proved at USD 10,725/day, USG to Skaw Passero is softer at USD 18,064/day. S. China trip via Indo- nesia to EC India is down at USD 11,982/day, trip from S. China via Indonesia to S. China pays USD 8,978/day, while Med/B. Sea to China/S. Korea is increased at USD 12,133/day. 1y T/C rate for Ul- tramax is softer at USD 13,200/day. 1y T/C rate for Supramax is softer at USD 11,700/day.
+
+$/day Bulk Carrier 1y TC (Gearless)
+
+20,000 $/day Bulk Carrier 1y TC (Geared)
+
+$/day Bulk Carrier Spot Earnings (Geared)
+
+$/day Bulk Carrier Spot Earnings (Gearless)
+
+### Tanker Freight
+
+VLCC: avg T/CE ended the week down by 6.6k/day at USD 27,182/day. Mid East Gulf to China trip is down by 7.3k/day at USD 24,471/day. W. Africa to China trip is down by 4k/day at USD 29,697/day and US Gulf to China trip is down by 8.6k/day at USD 27,379/day. 1y T/C Rate for 310k dwt D/H Eco VLCC is at USD 48,500/day.
+
+Suezmax: avg T/CE closed the week firmer by 4k/ day at USD 35,900/day. West Africa to Continent trip is up by 4.1k/day at USD 35,867/day, Black Sea to Mediterranean is up by 4k/day at USD 35,932/ day, and Middle East Gulf to Med trip is reduced by 1.2k/day at USD 34,443/day, while trip from Guyana to ARA is improved by 4.1k/day at USD 33,887/day. 1y T/C Rate for 150k dwt D/H Eco Su- ezmax is at USD 35,250/day.
+
+Aframax: avg T/CE closed the week higher by 4.5k/ day at USD 33,142/day. North Sea to Continent trip is up by .1k/day at USD 36,170/day, Kuwait to Singapore is down by .1k/day at USD 29,643/day, while route from Caribbean to US Gulf trip is up by 11.8k/day at USD 37,204/day. Trip from South East Asia to East Coast Australia is down by .1k/day at USD 19,216/day & Cross Mediterranean tripis up by 6.7k/day at USD 31,325/day. US Gulf to UK- Continent is improved by 6.k/day at USD 42,232/ day and the East Coast Mexico to US Gulf trip is up by USD 14.5k/day at USD 40,265/day. 1y T/C Rate for 110k dwt D/H Eco Aframax is USD /day firmer since last week, at USD 32,250/day.
+
+$/day Tanker 1y TC (Crude)
+
+VLCC 1y TC (Eco) SUEZMAX 1y TC (Eco) AFRAMAX 1y TC (Eco)
+
+$/day Crude Tanker Spot Earnings
+
+65,000 $/day Tanker 1y TC (Product)
+
+$/day Product Tanker Spot Earnings
+
+---
+
+## S&P Transaction Tables
+
+### Bulk Carrier Sales
+
+| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| Bulk Carriers | AOM SOPHIE II | Kamsarmax | 81,816 | 2020 | JAPAN | SANOYAS | GREEK | $31.0M | SCRUBBER FITTED |
+| Bulk Carriers | SHUN FU DA | Kamsarmax | 82,849 | 2006 | JAPAN | TSUNEISHI | INDIAN | $11.4M | - |
+| Bulk Carriers | IVESTOS 7 | Panamax | 75,093 | 2008 | CHINA | HUDONG-ZHONGHUA | UNDISCLOSED | $9.0M | - |
+| Bulk Carriers | CMB RUBENS | Ultramax | 63,514 | 2018 | JAPAN | SHIN KASADO | UNDISCLOSED | $27.5M | - |
+| Bulk Carriers | STAR NIGHTHAWK | Supramax | 57,809 | 2011 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $12.5M | SCRUBBER FITTED |
+| Bulk Carriers | SFL HUDSON | Supramax | 56,836 | 2009 | CHINA | JIANGSU | UNDISCLOSED | $11.3M | - |
+| Bulk Carriers | MAREEBA | Supramax | 46,673 | 2002 | JAPAN | KANASHAHI | UNDISCLOSED | $7.0M | - |
+| Bulk Carriers | SIDER OLYMPIA | Handysize | 38,182 | 2013 | JAPAN | IMABARI | GREEK | $15.0M | - |
+| Bulk Carriers | PELAGIANI | Handysize | 35,313 | 2004 | JAPAN | SHIKOKU | UNDISCLOSED | $7.8M | - |
+
+### Tanker Sales
+
+| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| Tankers | CL FUGOU | MR2 | 49,709 | 2017 | S. KOREA | SUNGDONG | UNDISCLOSED | $30.8M | - |
+| Tankers | CL HUAIYANG | MR2 | 49,688 | 2017 | S. KOREA | SUNGDONG | UNDISCLOSED | $30.8M | - |
+| Tankers | GINGA HAWK | Small Tanker | 19,998 | 2000 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $6.9M | StSt, SS/DD due |
+
+---
+
+## Demolition Market
+
+### Indicative Demolition Scrap Prices ($/LDT)
+
+| Segment | Country | Price ($/LDT) |
+|---|---|---|
+| Bulkers | India | $435.0 |
+| Bulkers | Bangladesh | $435.0 |
+| Bulkers | Pakistan | $465.0 |
+| Bulkers | Turkey | $290.0 |
+| Tankers | India | $445.0 |
+| Tankers | Bangladesh | $445.0 |
+| Tankers | Pakistan | $475.0 |
+| Tankers | Turkey | $300.0 |
+
+### Reported Demolition Sales
+
+| Name | Type | Year | DWT | LDT | Country | Price ($/LDT) | Buyers | Comments |
+|---|---|---|---|---|---|---|---|---|
+| ABRAHAM M | BC | 1996 | 34,167 | 8958 | CHINA | $439.0 | N/A | - |
+| BERGE FUJI | BC | 1996 | 268,025 | 40,658 | JAPAN | $440.0 | BANGLADESH | - |
+| OCEAN STAR | BC | 1995 | 26,444 | 6137 | JAPAN | $435.0 | N/A | - |
+| RELIANCE | BC | 1996 | 45,742 | 8,116 | JAPAN | $435.0 | N/A | - |
+| RUN FU 2 | BC | 1995 | 27,209 | 5841 | S. KOREA | $435.0 | N/A | - |
+| PO YANG HU | TANKER | 1994 | 61,957 | 14,679 | CHINA | N/A | CHINA | - |
+
+---
+
+## Indicative Secondhand Prices ($ mills)
+
+| Sector | Vessel Type | Tenor | Price ($M) |
+|---|---|---|---|
+| Dry | Capesize | Resale | $75.7M |
+| Dry | Capesize | 5 Year | $62.7M |
+| Dry | Capesize | 10 Year | $44.8M |
+| Dry | Capesize | 15 Year | $25.5M |
+| Dry | Kamsarmax | Resale | $37.8M |
+| Dry | Kamsarmax | 5 Year | $30.5M |
+| Dry | Kamsarmax | 10 Year | $24.0M |
+| Dry | Kamsarmax | 15 Year | $14.8M |
+| Dry | Ultramax | Resale | $38.0M |
+| Dry | Ultramax | 5 Year | $30.5M |
+| Dry | Ultramax | 10 Year | $22.0M |
+| Dry | Ultramax | 15 Year | $14.5M |
+| Dry | Handysize | Resale | $32.5M |
+| Dry | Handysize | 5 Year | $24.5M |
+| Dry | Handysize | 10 Year | $17.8M |
+| Dry | Handysize | 15 Year | $11.8M |
+| Tanker | VLCC | Resale | $144.7M |
+| Tanker | VLCC | 5 Year | $114.0M |
+| Tanker | VLCC | 10 Year | $84.0M |
+| Tanker | VLCC | 15 Year | $56.0M |
+| Tanker | Suezmax | Resale | $93.0M |
+| Tanker | Suezmax | 5 Year | $76.0M |
+| Tanker | Suezmax | 10 Year | $61.0M |
+| Tanker | Suezmax | 15 Year | $40.0M |
+| Tanker | Aframax | Resale | $74.0M |
+| Tanker | Aframax | 5 Year | $62.0M |
+| Tanker | Aframax | 10 Year | $49.8M |
+| Tanker | Aframax | 15 Year | $35.0M |
+| Tanker | MR2 | Resale | $50.7M |
+| Tanker | MR2 | 5 Year | $41.0M |
+| Tanker | MR2 | 10 Year | $30.0M |
+| Tanker | MR2 | 15 Year | $19.8M |
+
+---
+
+## Newbuilding Orders
+
+| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |
+|---|---|---|---|---|---|---|---|
+| TANKER | 2 | 300,000 DWT | HYUNDAI HI | PANOCEAN | 127 EACH | Q2 2028 |  |
+| TANKER | 3 | 115,000 DWT | HYUNDAI HI | NISSEN KAIUN | N/A | 2028 | LR2 |
+| TANKER | 4 | 115,000 DWT | ZHOUSHAN CHANGHONG | POLEMBROS | 66.5 EACH | 2026 |  |
+| TANKER | 2 | 50,000 DWT | K SHIPBUILDING | V GROUP | 48 EACH | 2027 |  |
+| TANKER | 1 | 11,000 DWT | JIANGSU ZHENJIANG | ADNOC | N/A | 2027 | MOLTEN SULPHUR |
+| TANKER | 1 | 9,200 DWT | WUCHANG | COSCO SHIPPING | 25 | N/A |  |
+| TANKER | 3 | 6,600 DWT | WUHU | CHINA HUARONG | 18.5 EACH | 2026-2027 |  |
+| BC | 2 | 95,500 DWT | HENGLI | SHANDONG OCEAN | 36.8 EACH | N/A |  |
+| CONTAINER | 2 | 8,800 TEU | HYUNDAI SAMHO | CAPITAL MARITIME | 140 EACH | N/A | LNG DF |
+
+---
+
+## Legal Disclaimer
+
+> *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*

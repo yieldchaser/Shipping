@@ -1,0 +1,4157 @@
+{
+  "done": {
+    "ssy_2021_A20210705": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1573
+    },
+    "ssy_2021_A20210712": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1573
+    },
+    "ssy_2021_A20210719": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1573
+    },
+    "ssy_2021_A20210726": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1542
+    },
+    "ssy_2021_A20210802": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1582
+    },
+    "ssy_2021_A20210809": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1569
+    },
+    "ssy_2021_A20210816": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1624
+    },
+    "ssy_2021_A20210823": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1675
+    },
+    "ssy_2021_A20210831": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1631
+    },
+    "ssy_2021_A20210906": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1608
+    },
+    "ssy_2021_A20210913": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1575
+    },
+    "ssy_2021_A20210920": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1586
+    },
+    "ssy_2021_A20210927": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1655
+    },
+    "ssy_2021_A20211004": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1756
+    },
+    "ssy_2021_A20211011-1": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1651
+    },
+    "ssy_2021_A20211018": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1608
+    },
+    "ssy_2021_A20211025": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1674
+    },
+    "ssy_2021_A20211101": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1623
+    },
+    "ssy_2021_A20211108": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1597
+    },
+    "ssy_2021_A20211115": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1584
+    },
+    "ssy_2021_A20211122": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1570
+    },
+    "ssy_2021_A20211129": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1599
+    },
+    "ssy_2021_A20211206": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1610
+    },
+    "ssy_2021_A20211213": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1591
+    },
+    "ssy_2021_A20211220": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1611
+    },
+    "ssy_2021_P20210705": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1595
+    },
+    "ssy_2021_P20210712": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1586
+    },
+    "ssy_2021_P20210719": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1601
+    },
+    "ssy_2021_P20210726": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1623
+    },
+    "ssy_2021_P20210802": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1623
+    },
+    "ssy_2021_P20210809": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1590
+    },
+    "ssy_2021_P20210816": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1600
+    },
+    "ssy_2021_P20210823": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1656
+    },
+    "ssy_2021_P20210831": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1632
+    },
+    "ssy_2021_P20210906": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1602
+    },
+    "ssy_2021_P20210913": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1601
+    },
+    "ssy_2021_P20210920": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1635
+    },
+    "ssy_2021_P20210927": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1621
+    },
+    "ssy_2021_P20211004": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1664
+    },
+    "ssy_2021_P20211011": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1702
+    },
+    "ssy_2021_P20211018": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1647
+    },
+    "ssy_2021_P20211025": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1624
+    },
+    "ssy_2021_P20211101": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1700
+    },
+    "ssy_2021_P20211108": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1639
+    },
+    "ssy_2021_P20211115": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1585
+    },
+    "ssy_2021_P20211122": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1589
+    },
+    "ssy_2021_P20211129": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1478
+    },
+    "ssy_2021_P20211206": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1606
+    },
+    "ssy_2021_P20211213": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1595
+    },
+    "ssy_2021_P20211220": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1602
+    },
+    "ssy_2022_A20220110": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1622
+    },
+    "ssy_2022_A20220117": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1581
+    },
+    "ssy_2022_A20220124": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1598
+    },
+    "ssy_2022_A20220131": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1580
+    },
+    "ssy_2022_A20220207": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1559
+    },
+    "ssy_2022_A20220214": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1616
+    },
+    "ssy_2022_A20220221": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1575
+    },
+    "ssy_2022_A20220228": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1568
+    },
+    "ssy_2022_A202203014-1": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1637
+    },
+    "ssy_2022_A20220307": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1614
+    },
+    "ssy_2022_A20220321": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1586
+    },
+    "ssy_2022_A20220328": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1600
+    },
+    "ssy_2022_A20220404": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1575
+    },
+    "ssy_2022_A20220411": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1625
+    },
+    "ssy_2022_A20220419": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1620
+    },
+    "ssy_2022_A20220425": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1627
+    },
+    "ssy_2022_A20220503": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1610
+    },
+    "ssy_2022_A20220509": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1596
+    },
+    "ssy_2022_A20220516": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1648
+    },
+    "ssy_2022_A20220523": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1668
+    },
+    "ssy_2022_A20220530": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1576
+    },
+    "ssy_2022_A20220606": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1618
+    },
+    "ssy_2022_A20220613": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1552
+    },
+    "ssy_2022_A20220620": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1611
+    },
+    "ssy_2022_A20220627": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1614
+    },
+    "ssy_2022_A20220704": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1573
+    },
+    "ssy_2022_A20220711-1": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1540
+    },
+    "ssy_2022_A20220718": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1588
+    },
+    "ssy_2022_A20220801": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1597
+    },
+    "ssy_2022_A20220808": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1597
+    },
+    "ssy_2022_A20220815": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1608
+    },
+    "ssy_2022_A20220822": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1601
+    },
+    "ssy_2022_A20220830": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1622
+    },
+    "ssy_2022_A20220905": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1621
+    },
+    "ssy_2022_A20220912": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1560
+    },
+    "ssy_2022_A20220920": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1577
+    },
+    "ssy_2022_A20220926": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1605
+    },
+    "ssy_2022_A20221003": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1584
+    },
+    "ssy_2022_A20221010": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1595
+    },
+    "ssy_2022_A20221017": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1568
+    },
+    "ssy_2022_A20221031": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1555
+    },
+    "ssy_2022_A20221107": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1619
+    },
+    "ssy_2022_A20221114": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1590
+    },
+    "ssy_2022_A20221121": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1583
+    },
+    "ssy_2022_A20221128": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1561
+    },
+    "ssy_2022_A20221205": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1547
+    },
+    "ssy_2022_A20221212": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1552
+    },
+    "ssy_2022_A20221219": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1582
+    },
+    "ssy_2022_P20220110": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1650
+    },
+    "ssy_2022_P20220117": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1679
+    },
+    "ssy_2022_P20220124": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1578
+    },
+    "ssy_2022_P20220131": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1615
+    },
+    "ssy_2022_P20220207": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1588
+    },
+    "ssy_2022_P20220214": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1592
+    },
+    "ssy_2022_P20220221": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1588
+    },
+    "ssy_2022_P20220228": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1598
+    },
+    "ssy_2022_P20220305": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1595
+    },
+    "ssy_2022_P20220307": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1628
+    },
+    "ssy_2022_P20220314": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1612
+    },
+    "ssy_2022_P20220321": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1618
+    },
+    "ssy_2022_P20220328": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1608
+    },
+    "ssy_2022_P20220404": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1605
+    },
+    "ssy_2022_P20220411": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1591
+    },
+    "ssy_2022_P20220419": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1631
+    },
+    "ssy_2022_P20220425": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1614
+    },
+    "ssy_2022_P20220509": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1632
+    },
+    "ssy_2022_P20220516": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1636
+    },
+    "ssy_2022_P20220523": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1610
+    },
+    "ssy_2022_P20220530": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1580
+    },
+    "ssy_2022_P20220606": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1591
+    },
+    "ssy_2022_P20220613": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1561
+    },
+    "ssy_2022_P20220620": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1596
+    },
+    "ssy_2022_P20220627": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1628
+    },
+    "ssy_2022_P20220704": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1575
+    },
+    "ssy_2022_P20220711": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1580
+    },
+    "ssy_2022_P20220718": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1552
+    },
+    "ssy_2022_P20220725": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1621
+    },
+    "ssy_2022_P20220801": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1634
+    },
+    "ssy_2022_P20220808": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1606
+    },
+    "ssy_2022_P20220815": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1591
+    },
+    "ssy_2022_P20220822": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1603
+    },
+    "ssy_2022_P20220830": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1553
+    },
+    "ssy_2022_P20220905": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1598
+    },
+    "ssy_2022_P20220912": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1563
+    },
+    "ssy_2022_P20220920": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1610
+    },
+    "ssy_2022_P20220926": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1612
+    },
+    "ssy_2022_P20221003": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1618
+    },
+    "ssy_2022_P20221010": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1626
+    },
+    "ssy_2022_P20221017": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1568
+    },
+    "ssy_2022_P20221031": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1590
+    },
+    "ssy_2022_P20221107": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1601
+    },
+    "ssy_2022_P20221114": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1559
+    },
+    "ssy_2022_P20221121": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1638
+    },
+    "ssy_2022_P20221128": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1597
+    },
+    "ssy_2022_P20221205": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1559
+    },
+    "ssy_2022_P20221212": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1572
+    },
+    "ssy_2022_P20221219": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1561
+    },
+    "ssy_2023_20231027-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1810
+    },
+    "ssy_2023_20231027-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1827
+    },
+    "ssy_2023_20231103-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1539
+    },
+    "ssy_2023_20231103-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1579
+    },
+    "ssy_2023_20231110-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1513
+    },
+    "ssy_2023_20231110-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1634
+    },
+    "ssy_2023_20231117-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1505
+    },
+    "ssy_2023_20231117-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1563
+    },
+    "ssy_2023_20231124-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1582
+    },
+    "ssy_2023_20231124-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1535
+    },
+    "ssy_2023_20231201-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1698
+    },
+    "ssy_2023_20231201-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1675
+    },
+    "ssy_2023_20231208-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1614
+    },
+    "ssy_2023_20231208-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1583
+    },
+    "ssy_2023_20231215-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1540
+    },
+    "ssy_2023_20231215-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1646
+    },
+    "ssy_2023_A20230109": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1625
+    },
+    "ssy_2023_A20230116": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1586
+    },
+    "ssy_2023_A20230123": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1577
+    },
+    "ssy_2023_A20230130": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1611
+    },
+    "ssy_2023_A20230206": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1784
+    },
+    "ssy_2023_A20230213": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1756
+    },
+    "ssy_2023_A20230227": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1725
+    },
+    "ssy_2023_A20230306": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1732
+    },
+    "ssy_2023_A20230313": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1759
+    },
+    "ssy_2023_A20230320": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1748
+    },
+    "ssy_2023_A20230327": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1723
+    },
+    "ssy_2023_A20230403": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1727
+    },
+    "ssy_2023_A20230411": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1737
+    },
+    "ssy_2023_A20230417": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1731
+    },
+    "ssy_2023_A20230424": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1732
+    },
+    "ssy_2023_A20230502": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1729
+    },
+    "ssy_2023_A20230509": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1752
+    },
+    "ssy_2023_A20230515": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1761
+    },
+    "ssy_2023_A20230522": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1739
+    },
+    "ssy_2023_A20230530": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1739
+    },
+    "ssy_2023_A20230605": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1742
+    },
+    "ssy_2023_A20230612": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1762
+    },
+    "ssy_2023_A20230619": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1720
+    },
+    "ssy_2023_A20230626": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1931
+    },
+    "ssy_2023_A20230703": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1886
+    },
+    "ssy_2023_A20230710": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1724
+    },
+    "ssy_2023_A20230717": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1724
+    },
+    "ssy_2023_A20230724": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1719
+    },
+    "ssy_2023_A20230731": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1720
+    },
+    "ssy_2023_A20230807": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1881
+    },
+    "ssy_2023_A20230814": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1765
+    },
+    "ssy_2023_A20230821": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1785
+    },
+    "ssy_2023_A20230829": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1793
+    },
+    "ssy_2023_A20230904": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1777
+    },
+    "ssy_2023_A20230911": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1835
+    },
+    "ssy_2023_A20230918": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1828
+    },
+    "ssy_2023_A20230925": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1840
+    },
+    "ssy_2023_A20231002": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1847
+    },
+    "ssy_2023_A20231009": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1790
+    },
+    "ssy_2023_A20231016": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1811
+    },
+    "ssy_2023_A20231023": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1834
+    },
+    "ssy_2023_P20230109": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1589
+    },
+    "ssy_2023_P20230116": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1549
+    },
+    "ssy_2023_P20230123": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1584
+    },
+    "ssy_2023_P20230130": {
+      "pages": 1,
+      "rows": 15,
+      "routes": 10,
+      "day_rates": 0,
+      "index_keys": 6,
+      "md_bytes": 1623
+    },
+    "ssy_2023_P20230206": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1866
+    },
+    "ssy_2023_P20230213": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1865
+    },
+    "ssy_2023_P20230227": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1799
+    },
+    "ssy_2023_P20230306": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1812
+    },
+    "ssy_2023_P20230313": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1765
+    },
+    "ssy_2023_P20230320": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1761
+    },
+    "ssy_2023_P20230327": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1750
+    },
+    "ssy_2023_P20230403": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1759
+    },
+    "ssy_2023_P20230411": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1748
+    },
+    "ssy_2023_P20230417": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1732
+    },
+    "ssy_2023_P20230424": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1710
+    },
+    "ssy_2023_P20230502": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1764
+    },
+    "ssy_2023_P20230509": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1751
+    },
+    "ssy_2023_P20230515": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1769
+    },
+    "ssy_2023_P20230522": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1746
+    },
+    "ssy_2023_P20230530": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1750
+    },
+    "ssy_2023_P20230605": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1750
+    },
+    "ssy_2023_P20230612": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1753
+    },
+    "ssy_2023_P20230619": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1739
+    },
+    "ssy_2023_P20230626": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1751
+    },
+    "ssy_2023_P20230703": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1753
+    },
+    "ssy_2023_P20230710": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1756
+    },
+    "ssy_2023_P20230717": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1786
+    },
+    "ssy_2023_P20230724": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1760
+    },
+    "ssy_2023_P20230731": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1759
+    },
+    "ssy_2023_P20230807": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1772
+    },
+    "ssy_2023_P20230814": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1835
+    },
+    "ssy_2023_P20230821": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1802
+    },
+    "ssy_2023_P20230829": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1793
+    },
+    "ssy_2023_P20230904": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1825
+    },
+    "ssy_2023_P20230911": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1788
+    },
+    "ssy_2023_P20230918": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1782
+    },
+    "ssy_2023_P20230925": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1833
+    },
+    "ssy_2023_P20231002": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1834
+    },
+    "ssy_2023_P20231009": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1845
+    },
+    "ssy_2023_P20231016": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1862
+    },
+    "ssy_2023_P20231023": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1857
+    },
+    "ssy_2024_20240108-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1633
+    },
+    "ssy_2024_20240108-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1833
+    },
+    "ssy_2024_20240112-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1539
+    },
+    "ssy_2024_20240112-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1617
+    },
+    "ssy_2024_20240119-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20240119-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20240126-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20240126-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2024_20240202-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20240202-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2024_20240209-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20240209-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20240216-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240216-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240223-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2024_20240223-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20240301-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2024_20240301-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240308-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2024_20240308-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240315-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240315-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2024_20240322-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2024_20240322-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2024_20240328-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20240328-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2024_20240405-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2024_20240405-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240412-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1283
+    },
+    "ssy_2024_20240412-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1282
+    },
+    "ssy_2024_20240419-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240419-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1279
+    },
+    "ssy_2024_20240426-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240426-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1279
+    },
+    "ssy_2024_20240503-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1281
+    },
+    "ssy_2024_20240503-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1279
+    },
+    "ssy_2024_20240510-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2024_20240510-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1284
+    },
+    "ssy_2024_20240517-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2024_20240517-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20240531-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20240531-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240607-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2024_20240607-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2024_20240614-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2024_20240614-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2024_20240628-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2024_20240628-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240705-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2024_20240705-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20240712-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2024_20240712-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2024_20240719-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2024_20240719-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2024_20240726-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2024_20240726-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2024_20240802-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2024_20240802-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240809-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2024_20240809-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240816-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2024_20240816-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2024_20240823-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20240823-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2024_20240830-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2024_20240830-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240906-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1303
+    },
+    "ssy_2024_20240906-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2024_20240913-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2024_20240913-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2024_20240920-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2024_20240920-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2024_20240927-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1303
+    },
+    "ssy_2024_20240927-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2024_20241004-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2024_20241004-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2024_20241011-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2024_20241011-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20241018-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2024_20241018-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20241025-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2024_20241025-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1285
+    },
+    "ssy_2024_20241101-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2024_20241101-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1278
+    },
+    "ssy_2024_20241108-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2024_20241108-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1281
+    },
+    "ssy_2024_20241115-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2024_20241115-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2024_20241122-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2024_20241122-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2024_20241129-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2024_20241129-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2024_20241206-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2024_20241206-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2024_20241213-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2024_20241213-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2024_20241220-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2024_20241220-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2025_20250103-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2025_20250103-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 19,
+      "routes": 11,
+      "day_rates": 3,
+      "index_keys": 6,
+      "md_bytes": 1423
+    },
+    "ssy_2025_20250110-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20250110-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2025_20250117-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2025_20250117-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1283
+    },
+    "ssy_2025_20250124-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2025_20250124-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1282
+    },
+    "ssy_2025_20250131-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2025_20250131-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1280
+    },
+    "ssy_2025_20250207-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2025_20250207-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1281
+    },
+    "ssy_2025_20250214-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250214-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1282
+    },
+    "ssy_2025_20250221-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250221-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1282
+    },
+    "ssy_2025_20250228-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250228-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2025_20250307-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20250307-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2025_20250314-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2025_20250314-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20250321-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2025_20250321-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250328-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20250328-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1285
+    },
+    "ssy_2025_20250404-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2025_20250404-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1280
+    },
+    "ssy_2025_20250411-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2025_20250411-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1279
+    },
+    "ssy_2025_20250417-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20250417-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1284
+    },
+    "ssy_2025_20250425-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2025_20250425-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2025_20250502-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20250502-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1286
+    },
+    "ssy_2025_20250509-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2025_20250509-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2025_20250516-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2025_20250516-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250523-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2025_20250523-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2025_20250530-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250530-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1281
+    },
+    "ssy_2025_20250606-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2025_20250606-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2025_20250613-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1306
+    },
+    "ssy_2025_20250613-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2025_20250620-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_2025_20250620-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20250627-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2025_20250627-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250704-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20250704-Pacific-Capesize-Report-1": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20250711-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2025_20250711-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1285
+    },
+    "ssy_2025_20250718-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2025_20250718-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1284
+    },
+    "ssy_2025_20250725-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2025_20250725-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2025_20250801-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1312
+    },
+    "ssy_2025_20250801-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2025_20250808-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1308
+    },
+    "ssy_2025_20250808-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2025_20250822-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2025_20250822-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2025_20250829-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2025_20250829-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2025_20250905-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20250905-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2025_20250912-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20250912-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2025_20250919-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2025_20250919-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2025_20250926-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1303
+    },
+    "ssy_2025_20250926-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2025_20251003-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2025_20251003-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1287
+    },
+    "ssy_2025_20251010-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20251010-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1285
+    },
+    "ssy_2025_20251017-Atlantic-Capesize-Report-1": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2025_20251017-Pacific-Capesize-Report-1": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1291
+    },
+    "ssy_2025_20251024-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2025_20251024-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2025_20251031-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2025_20251031-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2025_20251107-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2025_20251107-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2025_20251114-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20251114-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1285
+    },
+    "ssy_2025_20251121-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2025_20251121-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1285
+    },
+    "ssy_2025_20251128-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1306
+    },
+    "ssy_2025_20251128-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2025_20251205-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1311
+    },
+    "ssy_2025_20251205-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2025_20251212-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1296
+    },
+    "ssy_2025_SSY_Atlantic_2025-08-15": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1284
+    },
+    "ssy_2025_SSY_Atlantic_2025-12-19": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1282
+    },
+    "ssy_2025_SSY_Pacific_2025-08-15": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1271
+    },
+    "ssy_2025_SSY_Pacific_2025-12-19": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1275
+    },
+    "ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1349
+    },
+    "ssy_14_09_2026_ssy_pacific_capesize_index_14_september_2026": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1341
+    },
+    "ssy_2026_20260116-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2026_20260116-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2026_20260123-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2026_20260123-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2026_20260130-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2026_20260130-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1293
+    },
+    "ssy_2026_20260206-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1311
+    },
+    "ssy_2026_20260206-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2026_20260213-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_2026_20260213-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1290
+    },
+    "ssy_2026_20260220-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1303
+    },
+    "ssy_2026_20260220-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1289
+    },
+    "ssy_2026_20260227-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_20260227-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2026_20260306-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1303
+    },
+    "ssy_2026_20260306-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1288
+    },
+    "ssy_2026_20260313-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1303
+    },
+    "ssy_2026_20260313-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2026_20260320-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2026_20260320-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2026_20260327-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2026_20260327-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1292
+    },
+    "ssy_2026_20260402-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1305
+    },
+    "ssy_2026_20260402-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2026_20260410-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1304
+    },
+    "ssy_2026_20260410-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2026_20260417-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2026_20260417-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1294
+    },
+    "ssy_2026_20260424-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1311
+    },
+    "ssy_2026_20260424-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2026_20260501-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_2026_20260501-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2026_20260508-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1312
+    },
+    "ssy_2026_20260508-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_20260515-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1315
+    },
+    "ssy_2026_20260522-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1315
+    },
+    "ssy_2026_20260522-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_20260529-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1313
+    },
+    "ssy_2026_20260529-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_20260605-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_2026_20260605-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2026_20260612-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1310
+    },
+    "ssy_2026_20260612-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_20260619-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1313
+    },
+    "ssy_2026_20260619-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1302
+    },
+    "ssy_2026_20260626-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1311
+    },
+    "ssy_2026_20260626-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1300
+    },
+    "ssy_2026_20260710-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2026_20260710-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1297
+    },
+    "ssy_2026_20260717-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2026_20260717-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1295
+    },
+    "ssy_2026_20260724-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1304
+    },
+    "ssy_2026_20260724-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2026_20260731-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1306
+    },
+    "ssy_2026_20260731-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1298
+    },
+    "ssy_2026_20260807-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1304
+    },
+    "ssy_2026_20260807-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_20260814-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2026_20260814-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1304
+    },
+    "ssy_2026_20260821-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1305
+    },
+    "ssy_2026_20260821-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1299
+    },
+    "ssy_2026_20260828-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_2026_20260828-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1301
+    },
+    "ssy_2026_nan_20260807-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1312
+    },
+    "ssy_2026_nan_20260807-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_2026_nan_20260814-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1315
+    },
+    "ssy_2026_nan_20260814-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1312
+    },
+    "ssy_2026_nan_20260821-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1313
+    },
+    "ssy_2026_nan_20260821-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1307
+    },
+    "ssy_2026_nan_20260828-Atlantic-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1317
+    },
+    "ssy_2026_nan_20260828-Pacific-Capesize-Report": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1309
+    },
+    "ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1346
+    },
+    "ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026": {
+      "pages": 1,
+      "rows": 17,
+      "routes": 10,
+      "day_rates": 2,
+      "index_keys": 6,
+      "md_bytes": 1338
+    }
+  },
+  "failed": {}
+}

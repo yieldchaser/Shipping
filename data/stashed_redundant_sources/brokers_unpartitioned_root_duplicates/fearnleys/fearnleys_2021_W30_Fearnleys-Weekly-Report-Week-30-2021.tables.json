@@ -1,0 +1,446 @@
+{
+  "convention": "iso",
+  "publisher": "Fearnleys",
+  "issue_date": "2021-07-28",
+  "year": 2021,
+  "report_week": 30,
+  "pages": 7,
+  "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf",
+  "activity_levels": {},
+  "newbuilding_prices": {
+    "VLCC": {
+      "price_usd_m": 96.0,
+      "size": "300'",
+      "page": 5
+    },
+    "Suezmax": {
+      "price_usd_m": 65.0,
+      "size": "150'",
+      "page": 5
+    },
+    "Aframax": {
+      "price_usd_m": 54.0,
+      "size": "110'",
+      "page": 5
+    },
+    "Product": {
+      "price_usd_m": 37.5,
+      "size": "50'",
+      "page": 5
+    },
+    "Newcastlemax": {
+      "price_usd_m": 58.0,
+      "size": "210'",
+      "page": 5
+    },
+    "Kamsarmax": {
+      "price_usd_m": 31.0,
+      "size": "82'",
+      "page": 5
+    },
+    "Ultramax": {
+      "price_usd_m": 28.5,
+      "size": "64'",
+      "page": 5
+    },
+    "LNGC (MEGI) (cbm)": {
+      "price_usd_m": 193.0,
+      "size": "170'",
+      "page": 5
+    }
+  },
+  "secondhand_prices": {
+    "dry": {
+      "Capesize": {
+        "5_yr": 43.0,
+        "page": 6,
+        "10_yr": 30.5
+      },
+      "Kamsarmax": {
+        "5_yr": 30.0,
+        "page": 6,
+        "10_yr": 23.0
+      },
+      "Ultramax": {
+        "5_yr": 27.0,
+        "page": 6,
+        "10_yr": 21.0
+      }
+    },
+    "wet": {
+      "VLCC": {
+        "5_yr": 74.0,
+        "page": 6,
+        "10_yr": 51.5
+      },
+      "Suezmax": {
+        "5_yr": 47.5,
+        "page": 6,
+        "10_yr": 32.0
+      },
+      "Aframax / LR2": {
+        "5_yr": 40.0,
+        "page": 6,
+        "10_yr": 26.0
+      },
+      "MR": {
+        "5_yr": 28.0,
+        "page": 6,
+        "10_yr": 18.0
+      }
+    }
+  },
+  "rates": [
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/WEST",
+      "value": 18.5,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/Japan",
+      "value": 31.5,
+      "change": -0.5,
+      "vessel_size": "280'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/Singapore",
+      "value": 32.0,
+      "change": -0.5,
+      "vessel_size": "280'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "WAF/FEAST",
+      "value": 35.0,
+      "change": 0.0,
+      "vessel_size": "260'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "WAF/USAC",
+      "value": 52.5,
+      "change": 0.0,
+      "vessel_size": "130'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "Sidi Kerir/W Med",
+      "value": 57.5,
+      "change": 0.0,
+      "vessel_size": "135'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "N. Afr/Euromed",
+      "value": 87.5,
+      "change": 0.0,
+      "vessel_size": "80'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "UK/Cont",
+      "value": 92.5,
+      "change": -5.0,
+      "vessel_size": "80'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "Caribs/USG",
+      "value": 75.0,
+      "change": -5.0,
+      "vessel_size": "VLCC (Modern)",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Period & Availability",
+      "label": "Fixed in all areas last week",
+      "value": 53.0,
+      "change": 0.0,
+      "vessel_size": "-",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Capesize",
+      "value": 180.0,
+      "change": 0.0,
+      "vessel_size": "180'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Panamax",
+      "value": 30615.0,
+      "change": -4210.0,
+      "vessel_size": "75'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Supramax",
+      "value": 33687.0,
+      "change": 0.0,
+      "vessel_size": "58'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Newcastlemax",
+      "value": 34000.0,
+      "change": 0.0,
+      "vessel_size": "208'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Kamsarmax",
+      "value": 26250.0,
+      "change": -500.0,
+      "vessel_size": "82'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 3,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Ultramax",
+      "value": 25250.0,
+      "change": 0.0,
+      "vessel_size": "64'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "VLGC",
+      "value": 800000.0,
+      "change": 0.0,
+      "vessel_size": "84'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "LGC",
+      "value": 800000.0,
+      "change": 0.0,
+      "vessel_size": "60'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "MGC",
+      "value": 800000.0,
+      "change": 0.0,
+      "vessel_size": "38'",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "03 Gas",
+      "section": "LPG Spot",
+      "label": "COASTER Europe",
+      "value": 270000.0,
+      "change": -5000.0,
+      "vessel_size": "3 500-5 000 cbm",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "FOB North Sea/Ansi",
+      "value": 585.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "03 Gas",
+      "section": "LPG FOB",
+      "label": "Saudi Arabia/CP",
+      "value": 620.0,
+      "change": 0.0,
+      "vessel_size": "Propane/Butane",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 6,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "USD/JPY",
+      "value": 110.95,
+      "change": 0.0,
+      "vessel_size": "FX",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 6,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "USD/KRW",
+      "value": 1131.75,
+      "change": 0.0,
+      "vessel_size": "FX",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 6,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "USD/NOK",
+      "value": 8.57,
+      "change": 0.0,
+      "vessel_size": "FX",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 6,
+      "chapter": "06 Market Brief",
+      "section": "Exchange Rates",
+      "label": "EUR/USD",
+      "value": 1.19,
+      "change": 0.0,
+      "vessel_size": "FX",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    },
+    {
+      "page": 6,
+      "chapter": "06 Market Brief",
+      "section": "Interest Rates",
+      "label": "LIBOR USD",
+      "value": 0.16,
+      "change": -0.01,
+      "vessel_size": "Rate",
+      "issue_date": "2021-07-28",
+      "year": 2021,
+      "report_week": 30,
+      "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021.pdf"
+    }
+  ]
+}

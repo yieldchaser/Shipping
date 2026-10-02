@@ -1,0 +1,246 @@
+{
+  "convention": "iso",
+  "publisher": "Fearnleys",
+  "issue_date": "2023-02-15",
+  "year": 2023,
+  "report_week": 8,
+  "pages": 7,
+  "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf",
+  "activity_levels": {},
+  "newbuilding_prices": {
+    "VLCC": {
+      "price_usd_m": 121.0,
+      "size": "300'",
+      "page": 5
+    },
+    "Suezmax": {
+      "price_usd_m": 81.0,
+      "size": "150'",
+      "page": 5
+    },
+    "Aframax": {
+      "price_usd_m": 64.0,
+      "size": "110'",
+      "page": 6
+    },
+    "Product": {
+      "price_usd_m": 44.0,
+      "size": "50'",
+      "page": 6
+    },
+    "Newcastlemax": {
+      "price_usd_m": 66.0,
+      "size": "210'",
+      "page": 6
+    },
+    "Kamsarmax": {
+      "price_usd_m": 38.0,
+      "size": "82'",
+      "page": 6
+    },
+    "Ultramax": {
+      "price_usd_m": 36.0,
+      "size": "64'",
+      "page": 6
+    },
+    "LNGC (MEGI) (cbm)": {
+      "price_usd_m": 240.0,
+      "size": "170'",
+      "page": 6
+    }
+  },
+  "secondhand_prices": {
+    "dry": {
+      "Capesize": {
+        "5_yr": 44.0,
+        "page": 6,
+        "10_yr": 30.0
+      },
+      "Kamsarmax": {
+        "5_yr": 30.0,
+        "page": 6,
+        "10_yr": 23.0
+      },
+      "Ultramax": {
+        "5_yr": 29.0,
+        "page": 6,
+        "10_yr": 23.0
+      }
+    },
+    "wet": {
+      "VLCC": {
+        "5_yr": 95.0,
+        "page": 6,
+        "10_yr": 73.0
+      },
+      "Suezmax": {
+        "5_yr": 67.0,
+        "page": 6,
+        "10_yr": 52.0
+      },
+      "Aframax / LR2": {
+        "5_yr": 60.0,
+        "page": 6,
+        "10_yr": 48.0
+      }
+    }
+  },
+  "rates": [
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/WEST",
+      "value": 40.0,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/Japan",
+      "value": 65.0,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "MEG/Singapore",
+      "value": 66.0,
+      "change": 0.0,
+      "vessel_size": "280'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "WAF/FEAST",
+      "value": 63.5,
+      "change": 0.0,
+      "vessel_size": "260'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 1,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "WAF/USAC",
+      "value": 130.0,
+      "change": 0.0,
+      "vessel_size": "130'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "Sidi Kerir/W Med",
+      "value": 140.0,
+      "change": 0.0,
+      "vessel_size": "135'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "N. Afr/Euromed",
+      "value": 170.0,
+      "change": -2.5,
+      "vessel_size": "80'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "UK/Cont",
+      "value": 152.5,
+      "change": -2.5,
+      "vessel_size": "80'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 2,
+      "chapter": "01 Tankers",
+      "section": "Dirty Spot",
+      "label": "Caribs/USG",
+      "value": 227.5,
+      "change": 0.0,
+      "vessel_size": "VLCC (Modern)",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Panamax",
+      "value": 15500.0,
+      "change": 0.0,
+      "vessel_size": "75'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Ultramax",
+      "value": 15500.0,
+      "change": 0.0,
+      "vessel_size": "64'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    },
+    {
+      "page": 4,
+      "chapter": "02 Dry Bulk",
+      "section": "Dry 1Y TC",
+      "label": "Supramax",
+      "value": 13500.0,
+      "change": 0.0,
+      "vessel_size": "58'",
+      "issue_date": "2023-02-15",
+      "year": 2023,
+      "report_week": 8,
+      "source_file": "corpus/01-brokers/fearnleys/2023/fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023.pdf"
+    }
+  ]
+}

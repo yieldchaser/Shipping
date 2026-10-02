@@ -1,0 +1,2407 @@
+{
+  "done": {
+    "banchero_costa_2021_W26_Bancosta-Weekly-2021-26": {
+      "text_rows": 759,
+      "headings": 17,
+      "prose_chars": 42042,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43598
+    },
+    "banchero_costa_2021_W27_Bancosta-Weekly-2021-27": {
+      "text_rows": 744,
+      "headings": 17,
+      "prose_chars": 39103,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 40631
+    },
+    "banchero_costa_2021_W28_Bancosta-Weekly-2021-28": {
+      "text_rows": 739,
+      "headings": 17,
+      "prose_chars": 39133,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 40681
+    },
+    "banchero_costa_2021_W29_Bancosta-Weekly-2021-29": {
+      "text_rows": 717,
+      "headings": 17,
+      "prose_chars": 38409,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 39925
+    },
+    "banchero_costa_2021_W30_Bancosta-Weekly-2021-30": {
+      "text_rows": 716,
+      "headings": 17,
+      "prose_chars": 38972,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 40488
+    },
+    "banchero_costa_2021_W31_Bancosta-Weekly-2021-31": {
+      "text_rows": 671,
+      "headings": 18,
+      "prose_chars": 37279,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 38823
+    },
+    "banchero_costa_2021_W33_Bancosta-Weekly-2021-33-1": {
+      "text_rows": 706,
+      "headings": 17,
+      "prose_chars": 40443,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41948
+    },
+    "banchero_costa_2021_W34_Bancosta-Weekly-2021-34": {
+      "text_rows": 717,
+      "headings": 17,
+      "prose_chars": 39935,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41461
+    },
+    "banchero_costa_2021_W35_Bancosta-Weekly-2021-35": {
+      "text_rows": 636,
+      "headings": 18,
+      "prose_chars": 40703,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42193
+    },
+    "banchero_costa_2021_W36_Bancosta-Weekly-2021-36": {
+      "text_rows": 727,
+      "headings": 17,
+      "prose_chars": 40220,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41750
+    },
+    "banchero_costa_2021_W37_Bancosta-Weekly-2021-37": {
+      "text_rows": 729,
+      "headings": 17,
+      "prose_chars": 42291,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43815
+    },
+    "banchero_costa_2021_W38_Bancosta-Weekly-2021-38": {
+      "text_rows": 722,
+      "headings": 17,
+      "prose_chars": 40136,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41660
+    },
+    "banchero_costa_2021_W39_Bancosta-Weekly-2021-39": {
+      "text_rows": 716,
+      "headings": 17,
+      "prose_chars": 40150,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41665
+    },
+    "banchero_costa_2021_W40_Bancosta-Weekly-2021-40": {
+      "text_rows": 716,
+      "headings": 18,
+      "prose_chars": 40427,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41996
+    },
+    "banchero_costa_2021_W41_Bancosta-Weekly-2021-41-1": {
+      "text_rows": 714,
+      "headings": 17,
+      "prose_chars": 41292,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42807
+    },
+    "banchero_costa_2021_W42_Bancosta-Weekly-2021-42": {
+      "text_rows": 673,
+      "headings": 17,
+      "prose_chars": 40506,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41988
+    },
+    "banchero_costa_2021_W43_Bancosta-Weekly-2021-43": {
+      "text_rows": 702,
+      "headings": 16,
+      "prose_chars": 41181,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42659
+    },
+    "banchero_costa_2021_W44_Bancosta-Weekly-2021-44": {
+      "text_rows": 701,
+      "headings": 16,
+      "prose_chars": 40273,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41745
+    },
+    "banchero_costa_2021_W45_Bancosta-Weekly-2021-45": {
+      "text_rows": 646,
+      "headings": 16,
+      "prose_chars": 41692,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43130
+    },
+    "banchero_costa_2021_W46_Bancosta-Weekly-2021-46": {
+      "text_rows": 638,
+      "headings": 16,
+      "prose_chars": 40585,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42009
+    },
+    "banchero_costa_2021_W47_Bancosta-Weekly-2021-47": {
+      "text_rows": 702,
+      "headings": 16,
+      "prose_chars": 41201,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42688
+    },
+    "banchero_costa_2021_W48_Bancosta-Weekly-2021-48": {
+      "text_rows": 753,
+      "headings": 18,
+      "prose_chars": 44824,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46457
+    },
+    "banchero_costa_2021_W49_Bancosta-Weekly-2021-49": {
+      "text_rows": 749,
+      "headings": 18,
+      "prose_chars": 44524,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46155
+    },
+    "banchero_costa_2021_W50_Bancosta-Weekly-2021-50": {
+      "text_rows": 713,
+      "headings": 18,
+      "prose_chars": 46243,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47839
+    },
+    "banchero_costa_2022_W01_Bancosta-Weekly-2022-01": {
+      "text_rows": 914,
+      "headings": 18,
+      "prose_chars": 46750,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48551
+    },
+    "banchero_costa_2022_W02_Bancosta-Weekly-2022-02": {
+      "text_rows": 921,
+      "headings": 17,
+      "prose_chars": 47645,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 49408
+    },
+    "banchero_costa_2022_W03_Bancosta-Weekly-2022-03": {
+      "text_rows": 907,
+      "headings": 18,
+      "prose_chars": 48621,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 50398
+    },
+    "banchero_costa_2022_W05_Bancosta-Weekly-2022-05": {
+      "text_rows": 903,
+      "headings": 18,
+      "prose_chars": 45852,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47644
+    },
+    "banchero_costa_2022_W06_Bancosta-Weekly-2022-06": {
+      "text_rows": 905,
+      "headings": 18,
+      "prose_chars": 45936,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47729
+    },
+    "banchero_costa_2022_W07_Bancosta-Weekly-2022-07": {
+      "text_rows": 906,
+      "headings": 18,
+      "prose_chars": 46805,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48578
+    },
+    "banchero_costa_2022_W08_Bancosta-Weekly-2022-08": {
+      "text_rows": 915,
+      "headings": 18,
+      "prose_chars": 49733,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 51525
+    },
+    "banchero_costa_2022_W09_Bancosta-Weekly-2022-09-1-1": {
+      "text_rows": 915,
+      "headings": 18,
+      "prose_chars": 49057,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 50849
+    },
+    "banchero_costa_2022_W10_Bancosta-Weekly-2022-10": {
+      "text_rows": 919,
+      "headings": 17,
+      "prose_chars": 47864,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 49629
+    },
+    "banchero_costa_2022_W11_Bancosta-Weekly-2022-11": {
+      "text_rows": 904,
+      "headings": 17,
+      "prose_chars": 49549,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 51305
+    },
+    "banchero_costa_2022_W12_Bancosta-Weekly-2022-12": {
+      "text_rows": 907,
+      "headings": 18,
+      "prose_chars": 47359,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 49139
+    },
+    "banchero_costa_2022_W13_Bancosta-Weekly-2022-13": {
+      "text_rows": 915,
+      "headings": 18,
+      "prose_chars": 50294,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 52100
+    },
+    "banchero_costa_2022_W14_Bancosta-Weekly-2022-14": {
+      "text_rows": 905,
+      "headings": 18,
+      "prose_chars": 48236,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 50030
+    },
+    "banchero_costa_2022_W15_Bancosta-Weekly-2022-15": {
+      "text_rows": 883,
+      "headings": 18,
+      "prose_chars": 43678,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45440
+    },
+    "banchero_costa_2022_W16_Bancosta-Weekly-2022-16": {
+      "text_rows": 904,
+      "headings": 18,
+      "prose_chars": 46846,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48643
+    },
+    "banchero_costa_2022_W18_Bancosta-Weekly-2022-18": {
+      "text_rows": 914,
+      "headings": 18,
+      "prose_chars": 44461,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46248
+    },
+    "banchero_costa_2022_W19_Bancosta-Weekly-2022-19-1": {
+      "text_rows": 908,
+      "headings": 18,
+      "prose_chars": 45275,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47077
+    },
+    "banchero_costa_2022_W20_Bancosta-Weekly-2022-20": {
+      "text_rows": 889,
+      "headings": 18,
+      "prose_chars": 45236,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47003
+    },
+    "banchero_costa_2022_W21_Bancosta-Weekly-2022-21": {
+      "text_rows": 876,
+      "headings": 18,
+      "prose_chars": 46505,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48250
+    },
+    "banchero_costa_2022_W22_Bancosta-Weekly-2022-22": {
+      "text_rows": 900,
+      "headings": 18,
+      "prose_chars": 42121,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43926
+    },
+    "banchero_costa_2022_W23_Bancosta-Weekly-2022-23": {
+      "text_rows": 887,
+      "headings": 18,
+      "prose_chars": 44054,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45826
+    },
+    "banchero_costa_2022_W24_Bancosta-Weekly-2022-24-1": {
+      "text_rows": 894,
+      "headings": 18,
+      "prose_chars": 44371,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46147
+    },
+    "banchero_costa_2022_W25_Bancosta-Weekly-2022-25": {
+      "text_rows": 875,
+      "headings": 18,
+      "prose_chars": 45660,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47415
+    },
+    "banchero_costa_2022_W26_Bancosta-Weekly-2022-26": {
+      "text_rows": 930,
+      "headings": 18,
+      "prose_chars": 43869,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45687
+    },
+    "banchero_costa_2022_W27_Bancosta-Weekly-2022-27": {
+      "text_rows": 949,
+      "headings": 18,
+      "prose_chars": 41875,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43704
+    },
+    "banchero_costa_2022_W28_Bancosta-Weekly-2022-28": {
+      "text_rows": 920,
+      "headings": 18,
+      "prose_chars": 43043,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44833
+    },
+    "banchero_costa_2022_W29_Bancosta-Weekly-2022-29": {
+      "text_rows": 905,
+      "headings": 18,
+      "prose_chars": 44706,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46488
+    },
+    "banchero_costa_2022_W30_Bancosta-Weekly-2022-30": {
+      "text_rows": 888,
+      "headings": 18,
+      "prose_chars": 43069,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44847
+    },
+    "banchero_costa_2022_W33_Bancosta-Weekly-2022-33": {
+      "text_rows": 850,
+      "headings": 19,
+      "prose_chars": 43888,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45654
+    },
+    "banchero_costa_2022_W34_Bancosta-Weekly-2022-34": {
+      "text_rows": 874,
+      "headings": 19,
+      "prose_chars": 41596,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43385
+    },
+    "banchero_costa_2022_W35_Bancosta-Weekly-2022-35": {
+      "text_rows": 903,
+      "headings": 18,
+      "prose_chars": 42101,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43875
+    },
+    "banchero_costa_2022_W36_Bancosta-Weekly-2022-36": {
+      "text_rows": 906,
+      "headings": 18,
+      "prose_chars": 44227,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46007
+    },
+    "banchero_costa_2022_W37_Bancosta-Weekly-2022-37": {
+      "text_rows": 923,
+      "headings": 18,
+      "prose_chars": 43900,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45688
+    },
+    "banchero_costa_2022_W38_Bancosta-Weekly-2022-38": {
+      "text_rows": 911,
+      "headings": 18,
+      "prose_chars": 43779,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45575
+    },
+    "banchero_costa_2022_W39_Bancosta-Weekly-2022-39": {
+      "text_rows": 902,
+      "headings": 18,
+      "prose_chars": 43998,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45790
+    },
+    "banchero_costa_2022_W40_Bancosta-Weekly-2022-40": {
+      "text_rows": 868,
+      "headings": 403,
+      "prose_chars": 33729,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47232
+    },
+    "banchero_costa_2022_W41_Bancosta-Weekly-2022-41": {
+      "text_rows": 895,
+      "headings": 18,
+      "prose_chars": 43900,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45667
+    },
+    "banchero_costa_2022_W42_Bancosta-Weekly-2022-42": {
+      "text_rows": 917,
+      "headings": 18,
+      "prose_chars": 43949,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45750
+    },
+    "banchero_costa_2022_W43_Bancosta-Weekly-2022-43-1": {
+      "text_rows": 887,
+      "headings": 18,
+      "prose_chars": 44569,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46346
+    },
+    "banchero_costa_2022_W44_Bancosta-Weekly-2022-44": {
+      "text_rows": 874,
+      "headings": 18,
+      "prose_chars": 44664,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46426
+    },
+    "banchero_costa_2022_W45_Bancosta-Weekly-2022-45": {
+      "text_rows": 871,
+      "headings": 18,
+      "prose_chars": 43275,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45009
+    },
+    "banchero_costa_2022_W46_Bancosta-Weekly-2022-46": {
+      "text_rows": 878,
+      "headings": 18,
+      "prose_chars": 44473,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46221
+    },
+    "banchero_costa_2022_W47_Bancosta-Weekly-2022-47": {
+      "text_rows": 896,
+      "headings": 18,
+      "prose_chars": 43506,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45285
+    },
+    "banchero_costa_2022_W48_Bancosta-Weekly-2022-48": {
+      "text_rows": 870,
+      "headings": 18,
+      "prose_chars": 45457,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47199
+    },
+    "banchero_costa_2022_W49_Bancosta-Weekly-2022-49": {
+      "text_rows": 910,
+      "headings": 18,
+      "prose_chars": 44559,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46331
+    },
+    "banchero_costa_2022_W50_Bancosta-Weekly-2022-50": {
+      "text_rows": 875,
+      "headings": 19,
+      "prose_chars": 44471,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46296
+    },
+    "banchero_costa_2023_W01_Bancosta-Weekly-2023-01": {
+      "text_rows": 900,
+      "headings": 18,
+      "prose_chars": 42827,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44597
+    },
+    "banchero_costa_2023_W02_Bancosta-Weekly-2023-02": {
+      "text_rows": 895,
+      "headings": 18,
+      "prose_chars": 42777,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44562
+    },
+    "banchero_costa_2023_W03_Bancosta-Weekly-2023-03": {
+      "text_rows": 904,
+      "headings": 18,
+      "prose_chars": 42568,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44345
+    },
+    "banchero_costa_2023_W04_Bancosta-Weekly-2023-04": {
+      "text_rows": 887,
+      "headings": 18,
+      "prose_chars": 43109,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44875
+    },
+    "banchero_costa_2023_W05_Bancosta-Weekly-2023-05": {
+      "text_rows": 896,
+      "headings": 18,
+      "prose_chars": 42503,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44261
+    },
+    "banchero_costa_2023_W06_Bancosta-Weekly-2023-06": {
+      "text_rows": 878,
+      "headings": 18,
+      "prose_chars": 43054,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44811
+    },
+    "banchero_costa_2023_W07_Bancosta-Weekly-2023-07": {
+      "text_rows": 886,
+      "headings": 18,
+      "prose_chars": 42111,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43857
+    },
+    "banchero_costa_2023_W08_Bancosta-Weekly-2023-08": {
+      "text_rows": 901,
+      "headings": 18,
+      "prose_chars": 42663,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44430
+    },
+    "banchero_costa_2023_W09_Bancosta-Weekly-2023-09": {
+      "text_rows": 878,
+      "headings": 18,
+      "prose_chars": 42687,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44439
+    },
+    "banchero_costa_2023_W10_Bancosta-Weekly-2023-10": {
+      "text_rows": 895,
+      "headings": 18,
+      "prose_chars": 42774,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44547
+    },
+    "banchero_costa_2023_W11_Bancosta-Weekly-2023-11": {
+      "text_rows": 878,
+      "headings": 18,
+      "prose_chars": 43047,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44794
+    },
+    "banchero_costa_2023_W12_Bancosta-Weekly-2023-12-1": {
+      "text_rows": 890,
+      "headings": 18,
+      "prose_chars": 44990,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46767
+    },
+    "banchero_costa_2023_W13_Bancosta-Weekly-2023-13": {
+      "text_rows": 890,
+      "headings": 18,
+      "prose_chars": 43694,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45469
+    },
+    "banchero_costa_2023_W14_Bancosta-Weekly-2023-14": {
+      "text_rows": 881,
+      "headings": 18,
+      "prose_chars": 42653,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44410
+    },
+    "banchero_costa_2023_W15_Bancosta-Weekly-2023-15": {
+      "text_rows": 893,
+      "headings": 18,
+      "prose_chars": 41799,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43565
+    },
+    "banchero_costa_2023_W16_Bancosta-Weekly-2023-16": {
+      "text_rows": 868,
+      "headings": 18,
+      "prose_chars": 43116,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44861
+    },
+    "banchero_costa_2023_W17_Bancosta-Weekly-2023-17": {
+      "text_rows": 865,
+      "headings": 18,
+      "prose_chars": 41337,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43082
+    },
+    "banchero_costa_2023_W18_Bancosta-Weekly-2023-18": {
+      "text_rows": 876,
+      "headings": 18,
+      "prose_chars": 40307,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42057
+    },
+    "banchero_costa_2023_W19_Bancosta-Weekly-2023-19": {
+      "text_rows": 897,
+      "headings": 18,
+      "prose_chars": 42268,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44029
+    },
+    "banchero_costa_2023_W20_Bancosta-Weekly-2023-20": {
+      "text_rows": 869,
+      "headings": 18,
+      "prose_chars": 40721,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42479
+    },
+    "banchero_costa_2023_W21_Bancosta-Weekly-2023-21": {
+      "text_rows": 890,
+      "headings": 18,
+      "prose_chars": 42154,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43933
+    },
+    "banchero_costa_2023_W22_Bancosta-Weekly-2023-22": {
+      "text_rows": 878,
+      "headings": 18,
+      "prose_chars": 43427,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45173
+    },
+    "banchero_costa_2023_W23_Bancosta-Weekly-2022-23": {
+      "text_rows": 808,
+      "headings": 18,
+      "prose_chars": 41368,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43053
+    },
+    "banchero_costa_2023_W24_Bancosta-Weekly-2023-24": {
+      "text_rows": 810,
+      "headings": 18,
+      "prose_chars": 40260,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 41960
+    },
+    "banchero_costa_2023_W25_Bancosta-Weekly-2023-25": {
+      "text_rows": 908,
+      "headings": 18,
+      "prose_chars": 43341,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45141
+    },
+    "banchero_costa_2023_W26_Bancosta-Weekly-2023-26": {
+      "text_rows": 915,
+      "headings": 18,
+      "prose_chars": 44909,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46718
+    },
+    "banchero_costa_2023_W27_Bancosta-Weekly-2023-27-1": {
+      "text_rows": 882,
+      "headings": 18,
+      "prose_chars": 40800,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 42565
+    },
+    "banchero_costa_2023_W28_Bancosta-Weekly-2023-28": {
+      "text_rows": 912,
+      "headings": 18,
+      "prose_chars": 42202,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43991
+    },
+    "banchero_costa_2023_W29_Bancosta-Weekly-2023-29": {
+      "text_rows": 907,
+      "headings": 47,
+      "prose_chars": 40979,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43634
+    },
+    "banchero_costa_2023_W30_Bancosta-Weekly-2023-30": {
+      "text_rows": 929,
+      "headings": 18,
+      "prose_chars": 42254,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44059
+    },
+    "banchero_costa_2023_W31_Bancosta-Weekly-2023-31": {
+      "text_rows": 882,
+      "headings": 47,
+      "prose_chars": 41301,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43934
+    },
+    "banchero_costa_2023_W33_Bancosta-Weekly-2023-33-1": {
+      "text_rows": 892,
+      "headings": 47,
+      "prose_chars": 41700,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44342
+    },
+    "banchero_costa_2023_W34_Bancosta-Weekly-2023-34": {
+      "text_rows": 928,
+      "headings": 18,
+      "prose_chars": 43376,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45176
+    },
+    "banchero_costa_2023_W35_Bancosta-Weekly-2023-35": {
+      "text_rows": 891,
+      "headings": 47,
+      "prose_chars": 42279,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44915
+    },
+    "banchero_costa_2023_W36_Bancosta-Weekly-2023-36": {
+      "text_rows": 907,
+      "headings": 47,
+      "prose_chars": 43700,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46347
+    },
+    "banchero_costa_2023_W37_Bancosta-Weekly-2023-37": {
+      "text_rows": 881,
+      "headings": 47,
+      "prose_chars": 42798,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45427
+    },
+    "banchero_costa_2023_W38_Bancosta-Weekly-2023-38": {
+      "text_rows": 872,
+      "headings": 18,
+      "prose_chars": 44260,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46006
+    },
+    "banchero_costa_2023_W39_Bancosta-Weekly-2023-39": {
+      "text_rows": 888,
+      "headings": 47,
+      "prose_chars": 41935,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44589
+    },
+    "banchero_costa_2023_W40_Bancosta-Weekly-2023-40": {
+      "text_rows": 911,
+      "headings": 47,
+      "prose_chars": 41791,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44445
+    },
+    "banchero_costa_2023_W41_Bancosta-Weekly-2023-41": {
+      "text_rows": 878,
+      "headings": 47,
+      "prose_chars": 44036,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46658
+    },
+    "banchero_costa_2023_W42_Bancosta-Weekly-2023-42": {
+      "text_rows": 915,
+      "headings": 47,
+      "prose_chars": 42608,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45273
+    },
+    "banchero_costa_2023_W43_Bancosta-Weekly-2023-43": {
+      "text_rows": 885,
+      "headings": 47,
+      "prose_chars": 42152,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44794
+    },
+    "banchero_costa_2023_W44_Bancosta-Weekly-2023-44": {
+      "text_rows": 886,
+      "headings": 47,
+      "prose_chars": 42096,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44728
+    },
+    "banchero_costa_2023_W45_Bancosta-Weekly-2023-45": {
+      "text_rows": 889,
+      "headings": 47,
+      "prose_chars": 41286,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43934
+    },
+    "banchero_costa_2023_W46_Bancosta-Weekly-2023-46": {
+      "text_rows": 889,
+      "headings": 47,
+      "prose_chars": 42289,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44945
+    },
+    "banchero_costa_2023_W47_Bancosta-Weekly-2023-47": {
+      "text_rows": 879,
+      "headings": 47,
+      "prose_chars": 43709,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46334
+    },
+    "banchero_costa_2023_W48_Bancosta-Weekly-2023-48": {
+      "text_rows": 872,
+      "headings": 47,
+      "prose_chars": 45110,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47727
+    },
+    "banchero_costa_2023_W49_Bancosta-Weekly-2023-49-1": {
+      "text_rows": 914,
+      "headings": 47,
+      "prose_chars": 42892,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 45560
+    },
+    "banchero_costa_2023_W50_Bancosta-Weekly-2023-50": {
+      "text_rows": 933,
+      "headings": 48,
+      "prose_chars": 42772,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45546
+    },
+    "banchero_costa_2024_W01_Bancosta-Weekly-2024-01": {
+      "text_rows": 836,
+      "headings": 43,
+      "prose_chars": 34722,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 37158
+    },
+    "banchero_costa_2024_W02_Bancosta-Weekly-2024-02": {
+      "text_rows": 829,
+      "headings": 43,
+      "prose_chars": 33283,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 35733
+    },
+    "banchero_costa_2024_W03_Bancosta-Weekly-2024-03": {
+      "text_rows": 844,
+      "headings": 43,
+      "prose_chars": 35604,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 38067
+    },
+    "banchero_costa_2024_W04_Bancosta-Weekly-2024-04": {
+      "text_rows": 846,
+      "headings": 43,
+      "prose_chars": 34971,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 37416
+    },
+    "banchero_costa_2024_W05_Bancosta-Weekly-2024-05": {
+      "text_rows": 853,
+      "headings": 43,
+      "prose_chars": 35641,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 38108
+    },
+    "banchero_costa_2024_W06_Bancosta-Weekly-2024-06": {
+      "text_rows": 809,
+      "headings": 43,
+      "prose_chars": 34617,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 37029
+    },
+    "banchero_costa_2024_W07_Bancosta-Weekly-2024-07": {
+      "text_rows": 826,
+      "headings": 43,
+      "prose_chars": 36354,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 38783
+    },
+    "banchero_costa_2024_W08_Bancosta-Weekly-2024-08": {
+      "text_rows": 842,
+      "headings": 43,
+      "prose_chars": 34321,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 36771
+    },
+    "banchero_costa_2024_W09_Bancosta-Weekly-2024-09": {
+      "text_rows": 847,
+      "headings": 43,
+      "prose_chars": 35639,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 38087
+    },
+    "banchero_costa_2024_W10_Bancosta-Weekly-2024-10": {
+      "text_rows": 837,
+      "headings": 43,
+      "prose_chars": 34944,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 37391
+    },
+    "banchero_costa_2024_W11_Bancosta-Weekly-2024-11": {
+      "text_rows": 838,
+      "headings": 43,
+      "prose_chars": 33609,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 36054
+    },
+    "banchero_costa_2024_W12_Bancosta-Weekly-2024-12": {
+      "text_rows": 839,
+      "headings": 44,
+      "prose_chars": 33794,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 36329
+    },
+    "banchero_costa_2024_W14_Bancosta-Weekly-2024-14": {
+      "text_rows": 867,
+      "headings": 43,
+      "prose_chars": 36583,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 39065
+    },
+    "banchero_costa_2024_W15_Bancosta-Weekly-2024-15": {
+      "text_rows": 888,
+      "headings": 43,
+      "prose_chars": 33224,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35720
+    },
+    "banchero_costa_2024_W16_Bancosta-Weekly-2024-16": {
+      "text_rows": 814,
+      "headings": 16,
+      "prose_chars": 34307,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 35917
+    },
+    "banchero_costa_2024_W17_Bancosta-Weekly-2024-17": {
+      "text_rows": 886,
+      "headings": 43,
+      "prose_chars": 34535,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 37049
+    },
+    "banchero_costa_2024_W18_Bancosta-Weekly-2024-18": {
+      "text_rows": 888,
+      "headings": 43,
+      "prose_chars": 35181,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 37678
+    },
+    "banchero_costa_2024_W19_Bancosta-Weekly-2024-19": {
+      "text_rows": 857,
+      "headings": 43,
+      "prose_chars": 33942,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 36408
+    },
+    "banchero_costa_2024_W20_Bancosta-Weekly-2024-20": {
+      "text_rows": 848,
+      "headings": 43,
+      "prose_chars": 34350,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 36804
+    },
+    "banchero_costa_2024_W21_Bancosta-Weekly-2024-21": {
+      "text_rows": 865,
+      "headings": 43,
+      "prose_chars": 34669,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 37151
+    },
+    "banchero_costa_2024_W22_Bancosta-Weekly-2024-22": {
+      "text_rows": 855,
+      "headings": 43,
+      "prose_chars": 32757,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35226
+    },
+    "banchero_costa_2024_W23_Bancosta-Weekly-2024-23": {
+      "text_rows": 847,
+      "headings": 43,
+      "prose_chars": 34811,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 37271
+    },
+    "banchero_costa_2024_W24_Bancosta-Weekly-2024-24": {
+      "text_rows": 859,
+      "headings": 43,
+      "prose_chars": 37064,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 39541
+    },
+    "banchero_costa_2024_W25_Bancosta-Weekly-2024-25": {
+      "text_rows": 840,
+      "headings": 16,
+      "prose_chars": 35250,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 36879
+    },
+    "banchero_costa_2024_W26_Bancosta-Weekly-2024-26": {
+      "text_rows": 767,
+      "headings": 14,
+      "prose_chars": 29162,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 30629
+    },
+    "banchero_costa_2024_W27_Bancosta-Weekly-2024-27": {
+      "text_rows": 805,
+      "headings": 16,
+      "prose_chars": 32731,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 34324
+    },
+    "banchero_costa_2024_W28_Bancosta-Weekly-2024-28": {
+      "text_rows": 856,
+      "headings": 43,
+      "prose_chars": 32232,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 34719
+    },
+    "banchero_costa_2024_W30_Bancosta-Weekly-2024-30": {
+      "text_rows": 859,
+      "headings": 43,
+      "prose_chars": 35967,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 38460
+    },
+    "banchero_costa_2024_W31_Bancosta-Weekly-2024-31": {
+      "text_rows": 835,
+      "headings": 43,
+      "prose_chars": 34460,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 36910
+    },
+    "banchero_costa_2024_W32_Bancosta-Weekly-2024-32": {
+      "text_rows": 854,
+      "headings": 43,
+      "prose_chars": 32719,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35183
+    },
+    "banchero_costa_2024_W33_Bancosta-Weekly-2024-33": {
+      "text_rows": 845,
+      "headings": 43,
+      "prose_chars": 33135,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35584
+    },
+    "banchero_costa_2024_W34_Bancosta-Weekly-2024-34": {
+      "text_rows": 851,
+      "headings": 43,
+      "prose_chars": 32825,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35297
+    },
+    "banchero_costa_2024_W36_Bancosta-Weekly-2024-36": {
+      "text_rows": 882,
+      "headings": 43,
+      "prose_chars": 33505,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35987
+    },
+    "banchero_costa_2024_W37_Bancosta-Weekly-2024-37": {
+      "text_rows": 862,
+      "headings": 43,
+      "prose_chars": 32168,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 34653
+    },
+    "banchero_costa_2024_W38_Bancosta-Weekly-2024-38": {
+      "text_rows": 862,
+      "headings": 43,
+      "prose_chars": 35981,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 38464
+    },
+    "banchero_costa_2024_W39_Bancosta-Weekly-2024-39": {
+      "text_rows": 865,
+      "headings": 43,
+      "prose_chars": 33376,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35860
+    },
+    "banchero_costa_2024_W40_Bancosta-Weekly-2024-40": {
+      "text_rows": 848,
+      "headings": 43,
+      "prose_chars": 31684,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 34134
+    },
+    "banchero_costa_2024_W41_Bancosta-Weekly-2024-41": {
+      "text_rows": 885,
+      "headings": 43,
+      "prose_chars": 33331,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 35827
+    },
+    "banchero_costa_2024_W42_Bancosta-Weekly-2024-42": {
+      "text_rows": 849,
+      "headings": 43,
+      "prose_chars": 30524,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 32989
+    },
+    "banchero_costa_2024_W43_Bancosta-Weekly-2024-43": {
+      "text_rows": 836,
+      "headings": 43,
+      "prose_chars": 31635,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 34084
+    },
+    "banchero_costa_2024_W44_Bancosta-Weekly-2024-44": {
+      "text_rows": 853,
+      "headings": 43,
+      "prose_chars": 31227,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 33695
+    },
+    "banchero_costa_2024_W45_Bancosta-Weekly-2024-45": {
+      "text_rows": 852,
+      "headings": 42,
+      "prose_chars": 31938,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 34388
+    },
+    "banchero_costa_2024_W46_Bancosta-Weekly-2024-46": {
+      "text_rows": 812,
+      "headings": 16,
+      "prose_chars": 33295,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 34882
+    },
+    "banchero_costa_2024_W47_Bancosta-Weekly-2024-47": {
+      "text_rows": 844,
+      "headings": 42,
+      "prose_chars": 30017,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 32475
+    },
+    "banchero_costa_2024_W48_Bancosta-Weekly-2024-48": {
+      "text_rows": 811,
+      "headings": 16,
+      "prose_chars": 31414,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 33026
+    },
+    "banchero_costa_2024_W49_Bancosta-Weekly-2024-49": {
+      "text_rows": 887,
+      "headings": 42,
+      "prose_chars": 32411,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 34922
+    },
+    "banchero_costa_2024_W50_Bancosta-Weekly-2024-50": {
+      "text_rows": 850,
+      "headings": 42,
+      "prose_chars": 30633,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 33093
+    },
+    "banchero_costa_2025_W01_Bancosta-Weekly-2025-01": {
+      "text_rows": 863,
+      "headings": 42,
+      "prose_chars": 29206,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 31695
+    },
+    "banchero_costa_2025_W02_Bancosta-Weekly-2025-02": {
+      "text_rows": 857,
+      "headings": 42,
+      "prose_chars": 31903,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 34370
+    },
+    "banchero_costa_2025_W03_Bancosta-Weekly-2025-03": {
+      "text_rows": 868,
+      "headings": 42,
+      "prose_chars": 34049,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 36531
+    },
+    "banchero_costa_2025_W04_Bancosta-Weekly-2025-04": {
+      "text_rows": 885,
+      "headings": 46,
+      "prose_chars": 40314,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 42936
+    },
+    "banchero_costa_2025_W05_Bancosta-Weekly-2025-05": {
+      "text_rows": 887,
+      "headings": 46,
+      "prose_chars": 38901,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 41510
+    },
+    "banchero_costa_2025_W06_Bancosta-Weekly-2025-06": {
+      "text_rows": 888,
+      "headings": 46,
+      "prose_chars": 41087,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43704
+    },
+    "banchero_costa_2025_W07_Bancosta-Weekly-2025-07": {
+      "text_rows": 921,
+      "headings": 46,
+      "prose_chars": 41179,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43839
+    },
+    "banchero_costa_2025_W08_Bancosta-Weekly-2025-08": {
+      "text_rows": 1012,
+      "headings": 46,
+      "prose_chars": 40829,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43540
+    },
+    "banchero_costa_2025_W09_Bancosta-Weekly-2025-09": {
+      "text_rows": 990,
+      "headings": 46,
+      "prose_chars": 40486,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43182
+    },
+    "banchero_costa_2025_W10_Bancosta-Weekly-2025-10": {
+      "text_rows": 890,
+      "headings": 46,
+      "prose_chars": 41360,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43997
+    },
+    "banchero_costa_2025_W11_Bancosta-Weekly-2025-11": {
+      "text_rows": 902,
+      "headings": 46,
+      "prose_chars": 40865,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43499
+    },
+    "banchero_costa_2025_W12_Bancosta-Weekly-2025-12": {
+      "text_rows": 908,
+      "headings": 46,
+      "prose_chars": 42550,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45179
+    },
+    "banchero_costa_2025_W13_Bancosta-Weekly-2025-13": {
+      "text_rows": 905,
+      "headings": 46,
+      "prose_chars": 40861,
+      "routes": [
+        "garbled",
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 43514
+    },
+    "banchero_costa_2025_W14_Bancosta-Weekly-2025-14": {
+      "text_rows": 906,
+      "headings": 46,
+      "prose_chars": 41649,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 44282
+    },
+    "banchero_costa_2025_W17_Bancosta-Weekly-2025-17": {
+      "text_rows": 843,
+      "headings": 18,
+      "prose_chars": 42978,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 44736
+    },
+    "banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1": {
+      "text_rows": 873,
+      "headings": 47,
+      "prose_chars": 40103,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 42731
+    },
+    "banchero_costa_2025_W19_Bancosta-Weekly-2025-19": {
+      "text_rows": 897,
+      "headings": 47,
+      "prose_chars": 43251,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45909
+    },
+    "banchero_costa_2025_W20_Bancosta-Weekly-2025-20": {
+      "text_rows": 895,
+      "headings": 47,
+      "prose_chars": 39488,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 42149
+    },
+    "banchero_costa_2025_W21_Bancosta-Weekly-2025-21": {
+      "text_rows": 793,
+      "headings": 16,
+      "prose_chars": 31553,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 33124
+    },
+    "banchero_costa_2025_W22_Bancosta-Weekly-2025-22": {
+      "text_rows": 860,
+      "headings": 47,
+      "prose_chars": 42738,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45356
+    },
+    "banchero_costa_2025_W23_Bancosta-Weekly-2025-23": {
+      "text_rows": 913,
+      "headings": 47,
+      "prose_chars": 40656,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43342
+    },
+    "banchero_costa_2025_W24_Bancosta-Weekly-2025-24": {
+      "text_rows": 835,
+      "headings": 18,
+      "prose_chars": 39239,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 40940
+    },
+    "banchero_costa_2025_W25_Bancosta-Weekly-2025-25": {
+      "text_rows": 919,
+      "headings": 46,
+      "prose_chars": 42155,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 44809
+    },
+    "banchero_costa_2025_W26_Bancosta-Weekly-2025-26": {
+      "text_rows": 906,
+      "headings": 47,
+      "prose_chars": 44717,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 47353
+    },
+    "banchero_costa_2025_W27_Bancosta-Weekly-2025-27": {
+      "text_rows": 902,
+      "headings": 47,
+      "prose_chars": 41168,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43825
+    },
+    "banchero_costa_2025_W28_Bancosta-Weekly-2025-28": {
+      "text_rows": 925,
+      "headings": 47,
+      "prose_chars": 42088,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 44762
+    },
+    "banchero_costa_2025_W29_Bancosta-Weekly-2025-29": {
+      "text_rows": 921,
+      "headings": 47,
+      "prose_chars": 42746,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45406
+    },
+    "banchero_costa_2025_W30_Bancosta-Weekly-2025-30": {
+      "text_rows": 872,
+      "headings": 47,
+      "prose_chars": 42474,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45091
+    },
+    "banchero_costa_2025_W31_Bancosta-Weekly-2025-31": {
+      "text_rows": 878,
+      "headings": 47,
+      "prose_chars": 42381,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45010
+    },
+    "banchero_costa_2025_W32_Bancosta-Weekly-2025-32": {
+      "text_rows": 891,
+      "headings": 47,
+      "prose_chars": 40461,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 43103
+    },
+    "banchero_costa_2025_W34_Bancosta-Weekly-2025-34": {
+      "text_rows": 911,
+      "headings": 47,
+      "prose_chars": 42415,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45077
+    },
+    "banchero_costa_2025_W35_Bancosta-Weekly-2025-35": {
+      "text_rows": 867,
+      "headings": 47,
+      "prose_chars": 40168,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 42776
+    },
+    "banchero_costa_2025_W36_Bancosta-Weekly-2025-36": {
+      "text_rows": 889,
+      "headings": 47,
+      "prose_chars": 43985,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46643
+    },
+    "banchero_costa_2025_W37_Bancosta-Weekly-2025-37": {
+      "text_rows": 900,
+      "headings": 47,
+      "prose_chars": 44526,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 47185
+    },
+    "banchero_costa_2025_W38_Bancosta-Weekly-2025-38": {
+      "text_rows": 875,
+      "headings": 47,
+      "prose_chars": 43315,
+      "routes": [
+        "garbled",
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45943
+    },
+    "banchero_costa_2025_W39_Bancosta-Weekly-2025-39": {
+      "text_rows": 883,
+      "headings": 47,
+      "prose_chars": 44247,
+      "routes": [
+        "garbled",
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46883
+    },
+    "banchero_costa_2025_W40_Bancosta-Weekly-2025-40": {
+      "text_rows": 903,
+      "headings": 47,
+      "prose_chars": 45308,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 47952
+    },
+    "banchero_costa_2025_W41_Bancosta-Weekly-2025-41": {
+      "text_rows": 902,
+      "headings": 47,
+      "prose_chars": 43830,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46475
+    },
+    "banchero_costa_2025_W42_Bancosta-Weekly-2025-42": {
+      "text_rows": 882,
+      "headings": 47,
+      "prose_chars": 43039,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45686
+    },
+    "banchero_costa_2025_W44_Bancosta-Weekly-2025-44": {
+      "text_rows": 884,
+      "headings": 47,
+      "prose_chars": 43694,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46329
+    },
+    "banchero_costa_2025_W45_Bancosta-Weekly-2025-45": {
+      "text_rows": 897,
+      "headings": 47,
+      "prose_chars": 44881,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 47526
+    },
+    "banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed": {
+      "text_rows": 874,
+      "headings": 47,
+      "prose_chars": 43930,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46577
+    },
+    "banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed": {
+      "text_rows": 886,
+      "headings": 47,
+      "prose_chars": 45429,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 48085
+    },
+    "banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed": {
+      "text_rows": 881,
+      "headings": 47,
+      "prose_chars": 42883,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 45532
+    },
+    "banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed": {
+      "text_rows": 909,
+      "headings": 47,
+      "prose_chars": 41921,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 44599
+    },
+    "banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed": {
+      "text_rows": 869,
+      "headings": 47,
+      "prose_chars": 45487,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 48139
+    },
+    "banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed": {
+      "text_rows": 865,
+      "headings": 46,
+      "prose_chars": 45408,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 48047
+    },
+    "banchero_costa_2026_W03_Bancosta-Weekly-2026-03_compressed": {
+      "text_rows": 882,
+      "headings": 48,
+      "prose_chars": 45498,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 48177
+    },
+    "banchero_costa_2026_W06_Bancosta-Weekly-2026-06_compressed": {
+      "text_rows": 848,
+      "headings": 46,
+      "prose_chars": 46238,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 48831
+    },
+    "banchero_costa_2026_W07_Bancosta-Weekly-2026-07_compressed": {
+      "text_rows": 807,
+      "headings": 46,
+      "prose_chars": 45911,
+      "routes": [
+        "garbled",
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48481
+    },
+    "banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed": {
+      "text_rows": 817,
+      "headings": 46,
+      "prose_chars": 44250,
+      "routes": [
+        "garbled",
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46813
+    },
+    "banchero_costa_2026_W09_Bancosta-Weekly-2026-09": {
+      "text_rows": 825,
+      "headings": 46,
+      "prose_chars": 43056,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45562
+    },
+    "banchero_costa_2026_W10_Bancosta-Weekly-2026-10": {
+      "text_rows": 851,
+      "headings": 46,
+      "prose_chars": 43642,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 46169
+    },
+    "banchero_costa_2026_W11_Bancosta-Weekly-2026-11": {
+      "text_rows": 863,
+      "headings": 46,
+      "prose_chars": 44305,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 46862
+    },
+    "banchero_costa_2026_W12_Bancosta-Weekly-2026-12": {
+      "text_rows": 827,
+      "headings": 46,
+      "prose_chars": 42226,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 44724
+    },
+    "banchero_costa_2026_W13_Bancosta-Weekly-2026-13": {
+      "text_rows": 802,
+      "headings": 46,
+      "prose_chars": 42566,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45054
+    },
+    "banchero_costa_2026_W15_Bancosta-Weekly-2026-15": {
+      "text_rows": 779,
+      "headings": 46,
+      "prose_chars": 44050,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46515
+    },
+    "banchero_costa_2026_W16_Bancosta-Weekly-2026-16": {
+      "text_rows": 805,
+      "headings": 46,
+      "prose_chars": 43193,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45692
+    },
+    "banchero_costa_2026_W17_Bancosta-Weekly-2026-17_compressed": {
+      "text_rows": 858,
+      "headings": 46,
+      "prose_chars": 45039,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 47651
+    },
+    "banchero_costa_2026_W18_Bancosta-Weekly-2026-18_compressed": {
+      "text_rows": 850,
+      "headings": 46,
+      "prose_chars": 44673,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 47264
+    },
+    "banchero_costa_2026_W19_Bancosta-Weekly-2026-19_compressed": {
+      "text_rows": 832,
+      "headings": 46,
+      "prose_chars": 44171,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46760
+    },
+    "banchero_costa_2026_W20_Bancosta-Weekly-2026-20_compressed": {
+      "text_rows": 840,
+      "headings": 46,
+      "prose_chars": 43577,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46150
+    },
+    "banchero_costa_2026_W21_Bancosta-Weekly-2026-21_compressed": {
+      "text_rows": 855,
+      "headings": 50,
+      "prose_chars": 47425,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 50171
+    },
+    "banchero_costa_2026_W22_Bancosta-Weekly-2026-22_compressed": {
+      "text_rows": 857,
+      "headings": 50,
+      "prose_chars": 48118,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 50863
+    },
+    "banchero_costa_2026_W23_Bancosta-Weekly-2026-23": {
+      "text_rows": 829,
+      "headings": 46,
+      "prose_chars": 43885,
+      "routes": [
+        "garbled",
+        "text"
+      ],
+      "md_bytes": 46449
+    },
+    "banchero_costa_2026_W24_Bancosta-Weekly-2026-24": {
+      "text_rows": 857,
+      "headings": 46,
+      "prose_chars": 45173,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 47721
+    },
+    "banchero_costa_2026_W25_Bancosta-Weekly-2026-25": {
+      "text_rows": 802,
+      "headings": 46,
+      "prose_chars": 43646,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46160
+    },
+    "banchero_costa_2026_W26_Bancosta-Weekly-2026-26": {
+      "text_rows": 802,
+      "headings": 46,
+      "prose_chars": 43237,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 45729
+    },
+    "banchero_costa_2026_W27_Bancosta-Weekly-2026-27-1": {
+      "text_rows": 793,
+      "headings": 46,
+      "prose_chars": 43747,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46251
+    },
+    "banchero_costa_2026_W28_Bancosta-Weekly-2026-28": {
+      "text_rows": 817,
+      "headings": 46,
+      "prose_chars": 44309,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46830
+    },
+    "banchero_costa_2026_W29_Bancosta-Weekly-2026-29": {
+      "text_rows": 813,
+      "headings": 45,
+      "prose_chars": 44449,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 46972
+    },
+    "banchero_costa_2026_W30_Bancosta-Weekly-2026-30": {
+      "text_rows": 871,
+      "headings": 46,
+      "prose_chars": 47626,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 50239
+    },
+    "banchero_costa_2026_W31_Bancosta-Weekly-2026-31": {
+      "text_rows": 884,
+      "headings": 46,
+      "prose_chars": 47422,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 50043
+    },
+    "banchero_costa_2026_W32_Bancosta-Weekly-2026-32": {
+      "text_rows": 883,
+      "headings": 46,
+      "prose_chars": 48963,
+      "routes": [
+        "text"
+      ],
+      "md_bytes": 51587
+    },
+    "banchero_costa_2026_W33_Bancosta-Weekly-2026-33": {
+      "text_rows": 828,
+      "headings": 46,
+      "prose_chars": 45557,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48134
+    },
+    "banchero_costa_2026_W34_Bancosta-Weekly-2026-34": {
+      "text_rows": 838,
+      "headings": 46,
+      "prose_chars": 45330,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 47910
+    },
+    "banchero_costa_2026_W35_Bancosta-Weekly-2026-35": {
+      "text_rows": 820,
+      "headings": 46,
+      "prose_chars": 45620,
+      "routes": [
+        "image-heavy",
+        "text"
+      ],
+      "md_bytes": 48170
+    }
+  },
+  "failed": {}
+}

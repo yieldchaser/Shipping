@@ -1,0 +1,38 @@
+---
+title: "MMi Daily Iron Ore Index & Freight Report - 2023-02-20"
+date: "2023-02-20"
+year: 2023
+source: "hellenic/mmi"
+benchmark_fe_grade: "62.0%\product"
+iosi_bench_usd_dmt: 126.42
+iopi_bench_rmb_wmt: 908.0
+c3_tubarao_qingdao_usd_t: 16.11
+c5_waust_qingdao_usd_t: 6.06
+source_file: "2023-02-20_mmi-daily-iron-ore-index-report-february-20-2023_mmi-daily-iron-ore-report-for-20th-f_d2b7b2f9983c.pdf"
+---
+
+# MMi Daily Iron Ore Index Report — 2023-02-20
+
+## Daily Pricing & Freight Assessment Dashboard
+
+| Metric | Value | Unit | Daily Change |
+| :--- | :---: | :---: | :---: |
+| **Seaborne Benchmark (62.0%)** | 126.42 | USD/dmt (CFR Qingdao) | 0.0 |
+| **Seaborne 65% Fe Fines** | 137.35 | USD/dmt (CFR Qingdao) | 0.0 |
+| **Port Stock Benchmark (62.0%)** | 908.0 | RMB/wet tonne (FOT) | 7.0 |
+| **Port Stock 65% Fe Fines** | 1019.0 | RMB/wet tonne (FOT) | 7.0 |
+| **Port Stock 58% Fe Fines** | 791.0 | RMB/wet tonne (FOT) | 0.0 |
+| **Port Stock 62.5% Fe Lump** | 990.0 | RMB/wet tonne (FOT) | -8.0 |
+| **DCE Iron Ore Futures (Front)** | 894.0 | RMB/t | - |
+| **SGX Iron Ore Futures (Front)** | 127.75 | USD/dmt | - |
+| **SHFE Rebar Futures (Front)** | 4184.0 | RMB/t | - |
+| **Capesize C3 Tubarao–Qingdao** | 16.11 | USD/t | -0.06 |
+| **Capesize C5 W.Aus–Qingdao** | 6.06 | USD/t | -0.01 |
+| **Domestic Chinese Rebar** | 4180.0 | RMB/t | - |
+| **Domestic Chinese HRC** | 4240.0 | RMB/t | - |
+| **Chinese 35-Port Iron Ore Inventory** | 137.11 | Million Tonnes | - |
+| **Chinese Steel Inventory** | 19.88 | Million Tonnes | - |
+
+## Daily Market Commentary
+
+DCE iron ore futures open lower and go higher, the main contract I2305 closed 894, an increase of 1.02% throughout the day. Some traders were acƟve to sell, some steel procurement more cauƟous, the conƟnuaƟon of a small number of mulƟ-frequency procurement strategy. today's overall market transacƟon atmosphere in general.PBF at Shandong port dealt 895-900 yuan/mt; increased 5-10 yuan/mt from last Friday. PBF at Tangshan port dealt 905-910 yuan/mt; increased 8-10 yuan/mt from last Friday. According to SMM, the global iron ore shipments totaled 27.02 million tons, up 7.8% week-on-week. Among them, Australia shipped 15.15 million tons, an increase of 7.1% over the previous week. Brazil shipped 5.87 million tons, up 5.8% week-on-week. However, aﬀected by the reducƟon in the volume of Australia and Pakistan shipments in the early stage, the volume of arrivals in the current period was 28.52 million tons, down 1.06% week-on-week. Although the shipment volume has slightly increased this week, it remains at the annual low level. It is said in the market today that the heavy rain in Brazil has led to another ﬂood in some regions, which may have an impact on the shipment of Brazilian COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) ¹ Exchange rate applied: RMB/USD =   6.7522          ²Last 12 months 3 Weekly exchange rate applied: RMB/USD =6.7849 IRON ORE PORT STOCK INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES IRON ORE SEABORNE INDEX (IOSI) IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES IRON ORE SEABORNE INDEX, CFR QINGDAO (USD/DMT) FREIGHT RATES IRON ORE PORT LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES IRON ORE INDEX PREMIUMS/DISCOUNTS www.mmiprices.com Page 2/6 Feb 20th, 2023 Feb 20th, 2023 Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change % MTD YTD Low ² High ² IOPI62 62% Fe Fines 908 7 0.8% 869 880 858 892 123.32 0.85 0.7% 120.06 120.58 117.93 122.93 IOPI58 58% Fe Fines 791 0 0.0% 813 798 761 793 108.10 -0.12 -0.1% 113.29 110.17 105.29 110.04 IOPI65 65% Fe Fines 1019 7 0.7% 981 992 970 1003 138.87 0.83 0.6% 136.05 136.43 133.84 138.73 Feb 20th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹ Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-o-W Change % MTD YTD Low 2 High 2 IOPLI62 62.5% Fe Lump 990 -8 -0.8% 899 1036 770 1405 129.74 -1.99 -1.51% 115.69 138.89 94.72 199.13 CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3 Week Ending Feb 17th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne Index Fe Content October November December January MTD QTD YTD October November December January MTD QTD YTD IOPLI62 62.5% Fe Lump 877 811 922 964 899 900 1036 109.81 100.83 117.06 126.47 115.69 116.42 138.89 CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹ Week Ending Feb 17th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne Index Fe Content Price Change Change % MTD YTD Low 2 High 2 IOSI62 62% Fe Fines 126.42 0.00 0.00% 107.27 122.31 83.90 159.45 IOSI65 65% Fe Fines 137.35 0.00 0.00% 117.64 139.45 94.45 185.82 Feb 20th, 2023 CFR Qingdao, USD/dry tonne Index Fe Content October November December January MTD QTD YTD IOSI62 62% Fe Fines 95.80 93.05 108.92 119.76 107.27 107.62 122.31 IOSI65 65% Fe Fines 106.70 102.40 116.83 132.39 117.64 118.51 139.45 Feb 20th, 2023 CFR Qingdao, USD/dry tonne Province Region Product Basis This week Change % Low ² High ² This week Change % Low ² High ² Hebei Hanxing 66% Fe Concentrate Dry 1036 -4.3% 779 1645 151.62 -4.34% 110.31 255.69 Hebei Qian'an 65% Fe Concentrate Dry 1055 1.0% 780 1630 154.40 0.96% 110.51 251.57 Liaoning Anshan 65% Fe Concentrate Wet 790 0.0% 620 1310 115.62 0.00% 87.40 202.32 Shandong Zibo 65% Fe Concentrate Dry 1059 -4.2% 800 1752 154.98 -4.25% 117.19 272.32 USD/tonne (excluding tax) 3 Week Ending Feb 17th, 2023 RMB/tonne (excluding tax) 3 Week Ending Feb 17th, 2023 This week Change % Low 2 High 2 937.76 -1.07% 706.36 1511.22 China Mines Concentrate Composite Index RMB/WT 400 600 800 1000 1200 1400 1600 1800 2000 IOPI62 IOPI58 IOPI65 70 120 170 220 270 320 1-Jan-21 1-Feb-21 1-Mar-21 1-Apr-21 1-May-21 1-Jun-21 1-Jul-21 1-Aug-21 1-Sep-21 1-Oct-21 1-Nov-21 1-Dec-21 1-Jan-22 1-Feb-22 1-Mar-22 1-Apr-22 1-May-22 1-Jun-22 1-Jul-22 1-Aug-22 1-Sep-22 1-Oct-22 1-Nov-22 1-Dec-22 1-Jan-23 1-Feb-23 IOSI62 IOSI65 Feb 17th, 2023 Route Designation Change Change % Low 2 High 2 W. Australia - Qingdao C5 6.06 -0.01 -0.25% 3.57 16.77 Tubarao - Qingdao C3 16.11 -0.06 -0.38% 6.70 36.40 FREIGHT RATES - DRY BULK US$/wet tonne Feb 20th, 2023 Index Fe Content Spread to IOPI62 % Spread to IOPI62 IOPI58 58% Fe Fines -117 -12.89% IOPI65 65% Fe Fines 111 12.22% PORT STOCK INDEX (RMB/WT) Feb 20th, 2023 Index Fe Content Spread to IOSI62 % Spread to IOSI62 IOSI65 65% Fe Fines 10.93 8.65% SEABORNE INDEX (USD/DMT) Index Fe Content October November December January MTD QTD YTD October November December January MTD QTD YTD IOPI62 62% Fe Fines 736 714 822 856 869 881 880 95.56 92.18 109.43 117.00 120.06 120.90 120.58 IOPI58 58% Fe Fines 683 635 711 751 813 792 798 89.34 82.39 95.17 103.34 113.29 109.35 110.17 IOPI65 65% Fe Fines 918 865 935 968 981 993 992 120.08 112.37 124.90 132.80 136.05 136.72 136.43 Feb 20th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne

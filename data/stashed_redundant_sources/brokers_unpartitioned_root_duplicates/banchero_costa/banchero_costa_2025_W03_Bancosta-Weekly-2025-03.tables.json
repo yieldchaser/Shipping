@@ -1,0 +1,4604 @@
+{
+  "metadata": {
+    "issue_date": "2025-01-20",
+    "report_week": 3,
+    "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+  },
+  "reported_sales": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Pan Clover",
+      "imo": "9621417",
+      "dwt": "81177",
+      "built": "2012",
+      "yard": "New Century, China",
+      "buyer": "Turkish",
+      "seller": "",
+      "price_usd_m": "16.3",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Prabhu Yuvika",
+      "imo": "",
+      "dwt": "76310",
+      "built": "2004",
+      "yard": "Sumitomo, Japan",
+      "buyer": "Vietnamese",
+      "seller": "",
+      "price_usd_m": "/",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Argolis",
+      "imo": "9286970",
+      "dwt": "76263",
+      "built": "2005",
+      "yard": "Tsuneishi, Japan",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "8",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Jasmine",
+      "imo": "9514327",
+      "dwt": "56124",
+      "built": "2012",
+      "yard": "Mitsui, Japan",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "17.5",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Hai Bao",
+      "imo": "9582374",
+      "dwt": "35043",
+      "built": "2010",
+      "yard": "Zhejiang Hongsheng Shbldg Co, China",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "6.8",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Brabus",
+      "imo": "9211559",
+      "dwt": "28355",
+      "built": "2000",
+      "yard": "Tsuneishi, Philippines",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "4.2",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Tank",
+      "vessel": "Rolin",
+      "imo": "9286073",
+      "dwt": "308829",
+      "built": "2005",
+      "yard": "Samsung Heavy Inds - Geoje, South Korea",
+      "buyer": "Chinese",
+      "seller": "",
+      "price_usd_m": "31",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Tank",
+      "vessel": "Torm Helvig",
+      "imo": "9288021",
+      "dwt": "46081",
+      "built": "2005",
+      "yard": "STX Shipbuilding, South Korea",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "18",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Tank",
+      "vessel": "Eastern Petunia",
+      "imo": "9827982",
+      "dwt": "13499",
+      "built": "2018",
+      "yard": "Zhejiang Hongsheng Shbldg Co, China",
+      "buyer": "Vietnamese",
+      "seller": "",
+      "price_usd_m": "/",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Tank",
+      "vessel": "DH Glory",
+      "imo": "9815628",
+      "dwt": "13121",
+      "built": "2020",
+      "yard": "Nantong Tongbao, China",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "25.3",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Protector St. Raphael",
+      "imo": "9583615",
+      "dwt": "57000",
+      "built": "2010",
+      "yard": "Xiamen Shipbuilding, China",
+      "buyer": "Chinese",
+      "seller": "",
+      "price_usd_m": "rgn 11",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Capt. Stefanos",
+      "imo": "9227194",
+      "dwt": "74077",
+      "built": "2002",
+      "yard": "Namura, Japan",
+      "buyer": "Chinese",
+      "seller": "",
+      "price_usd_m": "6.8",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Nord Magellan",
+      "imo": "9874961",
+      "dwt": "63000",
+      "built": "2020",
+      "yard": "Iwagi Zosen Co Ltd, Japan",
+      "buyer": "Meghna Group",
+      "seller": "",
+      "price_usd_m": "29.2",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Papayiannis III",
+      "imo": "9577410",
+      "dwt": "59000",
+      "built": "2010",
+      "yard": "SPP, South Korea",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "12",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Tank",
+      "vessel": "Amax Anthem",
+      "imo": "9472634",
+      "dwt": "115000",
+      "built": "2011",
+      "yard": "Samsung Heavy Inds - Geoje, South Korea",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "39.5",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Lorentzos",
+      "imo": "9282871",
+      "dwt": "53000",
+      "built": "2005",
+      "yard": "New Century, China",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "9",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Woodgate",
+      "imo": "9493236",
+      "dwt": "28000",
+      "built": "2011",
+      "yard": "I-S Shipyard Co Ltd, Japan",
+      "buyer": "Vietnamese",
+      "seller": "",
+      "price_usd_m": "10.5",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Salt Lake city",
+      "imo": "9314129",
+      "dwt": "171810",
+      "built": "2005",
+      "yard": "Daewoo Shipbuilding, South Korea",
+      "buyer": "Chinese",
+      "seller": "",
+      "price_usd_m": "16.2",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Navios Asteriks",
+      "imo": "9304253",
+      "dwt": "76000",
+      "built": "2005",
+      "yard": "Sasebo Heavy Industries, Japan",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "8",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Blessing SW",
+      "imo": "9397262",
+      "dwt": "29747",
+      "built": "2010",
+      "yard": "Shikoku Dockyard, Japan",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "low 8",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Bulk",
+      "vessel": "Sunshine Bliss",
+      "imo": "9401996",
+      "dwt": "76000",
+      "built": "2010",
+      "yard": "Oshima Shipbuilding, Japan",
+      "buyer": "Undisclosed",
+      "seller": "",
+      "price_usd_m": "11.5",
+      "comments": "",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "freight_benchmarks": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "BCI TC Average",
+      "unit": "usd/day",
+      "rate_current": "11,555",
+      "rate_previous": "12,010",
+      "change_wow": "-3.8%",
+      "change_yoy": "-19.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "C2 Tubarao- Rotterdam",
+      "unit": "usd/t",
+      "rate_current": "8.51",
+      "rate_previous": "8.71",
+      "change_wow": "-2.3%",
+      "change_yoy": "-14.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "C3 Tubarao - Qingdao",
+      "unit": "usd/t",
+      "rate_current": "18.01",
+      "rate_previous": "18.16",
+      "change_wow": "-0.8%",
+      "change_yoy": "-7.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "C5 W. Aust. - Qingdao",
+      "unit": "usd/t",
+      "rate_current": "6.41",
+      "rate_previous": "6.25",
+      "change_wow": "+2.6%",
+      "change_yoy": "-17.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "C8 Transatlantic r/v",
+      "unit": "usd/day",
+      "rate_current": "15,250",
+      "rate_previous": "16,857",
+      "change_wow": "-9.5%",
+      "change_yoy": "-10.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "C14 China-Brazil r/v",
+      "unit": "usd/day",
+      "rate_current": "9,705",
+      "rate_previous": "10,560",
+      "change_wow": "-8.1%",
+      "change_yoy": "-20.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "C10 Pacific r/v",
+      "unit": "usd/day",
+      "rate_current": "5,827",
+      "rate_previous": "5,632",
+      "change_wow": "+3.5%",
+      "change_yoy": "-46.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "Newcastlemax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "22,800",
+      "rate_previous": "22,500",
+      "change_wow": "+1.3%",
+      "change_yoy": "-2.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CAPESIZE",
+      "route_or_benchmark": "Capesize 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "19,000",
+      "rate_previous": "18,800",
+      "change_wow": "+1.1%",
+      "change_yoy": "-2.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "BPI 82 TC Average",
+      "unit": "usd/day",
+      "rate_current": "8,070",
+      "rate_previous": "8,574",
+      "change_wow": "-5.9%",
+      "change_yoy": "-38.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "P1\\_82 Transatlantic r/v",
+      "unit": "usd/day",
+      "rate_current": "8,020",
+      "rate_previous": "9,790",
+      "change_wow": "-18.1%",
+      "change_yoy": "-40.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "P2\\_82 Skaw-Gib - F. East",
+      "unit": "usd/day",
+      "rate_current": "14,050",
+      "rate_previous": "15,568",
+      "change_wow": "-9.8%",
+      "change_yoy": "-37.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "P3\\_82 Pacific r/v",
+      "unit": "usd/day",
+      "rate_current": "6,829",
+      "rate_previous": "6,222",
+      "change_wow": "+9.8%",
+      "change_yoy": "-33.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "P4\\_82 Far East - Skaw-Gib",
+      "unit": "usd/day",
+      "rate_current": "4,101",
+      "rate_previous": "4,229",
+      "change_wow": "-3.0%",
+      "change_yoy": "-16.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "P5\\_82 China - Indo rv",
+      "unit": "usd/day",
+      "rate_current": "3,256",
+      "rate_previous": "3,567",
+      "change_wow": "-8.7%",
+      "change_yoy": "-65.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "P6\\_82 Spore Atlantic rv",
+      "unit": "usd/day",
+      "rate_current": "8,477",
+      "rate_previous": "8,638",
+      "change_wow": "-1.9%",
+      "change_yoy": "-41.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "Kamsarmax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "12,000",
+      "rate_previous": "12,000",
+      "change_wow": "+0.0%",
+      "change_yoy": "-20.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "PANAMAX",
+      "route_or_benchmark": "Panamax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "10,500",
+      "rate_previous": "10,500",
+      "change_wow": "+0.0%",
+      "change_yoy": "-19.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "BSI 63 TC Avg. (S11TC)",
+      "unit": "usd/day",
+      "rate_current": "9,437",
+      "rate_previous": "10,347",
+      "change_wow": "-8.8%",
+      "change_yoy": "-17.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "BSI 58 TC Avg. (S10TC)",
+      "unit": "usd/day",
+      "rate_current": "7,403",
+      "rate_previous": "8,313",
+      "change_wow": "-10.9%",
+      "change_yoy": "-35.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "S4A USG-Skaw/Pass",
+      "unit": "usd/day",
+      "rate_current": "17,257",
+      "rate_previous": "18,911",
+      "change_wow": "-8.7%",
+      "change_yoy": "-14.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "S1C USG-China/S Jpn",
+      "unit": "usd/day",
+      "rate_current": "17,800",
+      "rate_previous": "18,743",
+      "change_wow": "-5.0%",
+      "change_yoy": "-24.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "S9 WAF-ECSA-Med",
+      "unit": "usd/day",
+      "rate_current": "10,050",
+      "rate_previous": "10,686",
+      "change_wow": "-6.0%",
+      "change_yoy": "-9.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "S1B Canakkale-FEast",
+      "unit": "usd/day",
+      "rate_current": "12,217",
+      "rate_previous": "13,221",
+      "change_wow": "-7.6%",
+      "change_yoy": "-41.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "S2 N China Aus/Pac RV",
+      "unit": "usd/day",
+      "rate_current": "7,438",
+      "rate_previous": "8,038",
+      "change_wow": "-7.5%",
+      "change_yoy": "-15.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "S10 S China-Indo RV",
+      "unit": "usd/day",
+      "rate_current": "5,628",
+      "rate_previous": "7,100",
+      "change_wow": "-20.7%",
+      "change_yoy": "-31.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "Ultramax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "12,000",
+      "rate_previous": "12,500",
+      "change_wow": "-4.0%",
+      "change_yoy": "-22.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "Supramax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "10,500",
+      "rate_previous": "10,800",
+      "change_wow": "-2.8%",
+      "change_yoy": "-18.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "BHSI 38 TC Average",
+      "unit": "usd/day",
+      "rate_current": "8,161",
+      "rate_previous": "9,143",
+      "change_wow": "-10.7%",
+      "change_yoy": "-24.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "HS2\\_38 Skaw/Pass-US",
+      "unit": "usd/day",
+      "rate_current": "6,107",
+      "rate_previous": "6,954",
+      "change_wow": "-12.2%",
+      "change_yoy": "-37.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "HS3\\_38 ECSAm-Skaw/Pass",
+      "unit": "usd/day",
+      "rate_current": "12,989",
+      "rate_previous": "13,550",
+      "change_wow": "-4.1%",
+      "change_yoy": "-10.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "HS4\\_38 USG-Skaw/Pass",
+      "unit": "usd/day",
+      "rate_current": "11,114",
+      "rate_previous": "11,304",
+      "change_wow": "-1.7%",
+      "change_yoy": "-34.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "HS5\\_38 SE Asia-Spore/Jpn",
+      "unit": "usd/day",
+      "rate_current": "7,631",
+      "rate_previous": "8,988",
+      "change_wow": "-15.1%",
+      "change_yoy": "-16.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "HS6\\_38 Pacific RV",
+      "unit": "usd/day",
+      "rate_current": "7,644",
+      "rate_previous": "9,038",
+      "change_wow": "-15.4%",
+      "change_yoy": "-16.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "38k Handy 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "11,800",
+      "rate_previous": "11,800",
+      "change_wow": "+0.0%",
+      "change_yoy": "-12.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "SUPRAMAX",
+      "route_or_benchmark": "30k Handy 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "9,000",
+      "rate_previous": "9,000",
+      "change_wow": "+0.0%",
+      "change_yoy": "-14.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD3C MEG-China",
+      "unit": "ws",
+      "rate_current": "77.2",
+      "rate_previous": "49.3",
+      "change_wow": "+56.5%",
+      "change_yoy": "+14.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD3C-TCE MEG-China",
+      "unit": "usd/day",
+      "rate_current": "57,589",
+      "rate_previous": "27,143",
+      "change_wow": "+112.2%",
+      "change_yoy": "+25.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD15 WAF-China",
+      "unit": "ws",
+      "rate_current": "77.4",
+      "rate_previous": "51.9",
+      "change_wow": "+49.1%",
+      "change_yoy": "+14.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD15-TCE WAF-China",
+      "unit": "usd/day",
+      "rate_current": "57,966",
+      "rate_previous": "30,520",
+      "change_wow": "+89.9%",
+      "change_yoy": "+22.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "VLCC TCE Average",
+      "unit": "usd/day",
+      "rate_current": "57,025",
+      "rate_previous": "28,366",
+      "change_wow": "+101.0%",
+      "change_yoy": "+16.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "VLCC 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "49,000",
+      "rate_previous": "38,000",
+      "change_wow": "+28.9%",
+      "change_yoy": "+4.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD6 BSea-Med",
+      "unit": "ws",
+      "rate_current": "90.1",
+      "rate_previous": "76.6",
+      "change_wow": "+17.6%",
+      "change_yoy": "-39.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD6-TCE BSea-Med",
+      "unit": "usd/day",
+      "rate_current": "28,351",
+      "rate_previous": "18,291",
+      "change_wow": "+55.0%",
+      "change_yoy": "-59.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD20 WAF-Cont",
+      "unit": "ws",
+      "rate_current": "85.7",
+      "rate_previous": "67.7",
+      "change_wow": "+26.6%",
+      "change_yoy": "-40.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "MEG-EAST",
+      "unit": "ws",
+      "rate_current": "110.0",
+      "rate_previous": "85.0",
+      "change_wow": "+29.4%",
+      "change_yoy": "-15.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD23 MEG-Med",
+      "unit": "ws",
+      "rate_current": "99.8",
+      "rate_previous": "79.6",
+      "change_wow": "+25.4%",
+      "change_yoy": "-10.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD23-TCE MEG-Med",
+      "unit": "usd/day",
+      "rate_current": "46,163",
+      "rate_previous": "31,897",
+      "change_wow": "+44.7%",
+      "change_yoy": "-8.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "Suezmax TCE Average",
+      "unit": "usd/day",
+      "rate_current": "30,422",
+      "rate_previous": "20,165",
+      "change_wow": "+50.9%",
+      "change_yoy": "-54.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "Suezmax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "35,000",
+      "rate_previous": "34,000",
+      "change_wow": "+2.9%",
+      "change_yoy": "-20.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD7 NSea-Cont",
+      "unit": "ws",
+      "rate_current": "110.0",
+      "rate_previous": "108.0",
+      "change_wow": "+1.9%",
+      "change_yoy": "-40.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD7-TCE NSea-Cont",
+      "unit": "usd/day",
+      "rate_current": "20,317",
+      "rate_previous": "19,845",
+      "change_wow": "+2.4%",
+      "change_yoy": "-73.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD25 USG-UKC",
+      "unit": "ws",
+      "rate_current": "130.3",
+      "rate_previous": "168.9",
+      "change_wow": "-22.9%",
+      "change_yoy": "-53.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD25-TCE USG-UKC",
+      "unit": "usd/day",
+      "rate_current": "27,378",
+      "rate_previous": "42,176",
+      "change_wow": "-35.1%",
+      "change_yoy": "-65.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD19 Med-Med",
+      "unit": "ws",
+      "rate_current": "124.4",
+      "rate_previous": "100.7",
+      "change_wow": "+23.6%",
+      "change_yoy": "-43.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD19-TCE Med-Med",
+      "unit": "usd/day",
+      "rate_current": "29,970",
+      "rate_previous": "18,203",
+      "change_wow": "+64.6%",
+      "change_yoy": "-60.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD8 Kuwait-China",
+      "unit": "ws",
+      "rate_current": "138.21",
+      "rate_previous": "129.14",
+      "change_wow": "+7.0%",
+      "change_yoy": "-29.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD8-TCE Kuwait-China",
+      "unit": "usd/day",
+      "rate_current": "28,217",
+      "rate_previous": "25,639",
+      "change_wow": "+10.1%",
+      "change_yoy": "-39.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD9 Caribs-USG",
+      "unit": "ws",
+      "rate_current": "131.6",
+      "rate_previous": "155.3",
+      "change_wow": "-15.3%",
+      "change_yoy": "-67.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "TD9-TCE Caribs-USG",
+      "unit": "usd/day",
+      "rate_current": "22,821",
+      "rate_previous": "32,707",
+      "change_wow": "-30.2%",
+      "change_yoy": "-82.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "Aframax TCE Average",
+      "unit": "usd/day",
+      "rate_current": "25,068",
+      "rate_previous": "27,080",
+      "change_wow": "-7.4%",
+      "change_yoy": "-68.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "DIRTY_TANKER",
+      "route_or_benchmark": "Aframax 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "32,500",
+      "rate_previous": "31,000",
+      "change_wow": "+4.8%",
+      "change_yoy": "-26.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC1 MEG-Japan (75k)",
+      "unit": "ws",
+      "rate_current": "171.4",
+      "rate_previous": "132.8",
+      "change_wow": "+29.1%",
+      "change_yoy": "+0.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC1-TCE MEG-Japan (75k)",
+      "unit": "usd/day",
+      "rate_current": "39,180",
+      "rate_previous": "26,721",
+      "change_wow": "+46.6%",
+      "change_yoy": "-1.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC8 MEG-UKC (65k)",
+      "unit": "usd/mt",
+      "rate_current": "50.33",
+      "rate_previous": "43.41",
+      "change_wow": "+16.0%",
+      "change_yoy": "-19.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC5 MEG-Japan (55k)",
+      "unit": "ws",
+      "rate_current": "172.8",
+      "rate_previous": "157.5",
+      "change_wow": "+9.7%",
+      "change_yoy": "-17.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC2 Cont-USAC (37k)",
+      "unit": "ws",
+      "rate_current": "175.0",
+      "rate_previous": "128.8",
+      "change_wow": "+35.9%",
+      "change_yoy": "+18.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC14 USG-Cont (38k)",
+      "unit": "ws",
+      "rate_current": "127.9",
+      "rate_previous": "101.1",
+      "change_wow": "+26.5%",
+      "change_yoy": "-17.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC6 Med-Med (30k)",
+      "unit": "ws",
+      "rate_current": "174.4",
+      "rate_previous": "136.7",
+      "change_wow": "+27.6%",
+      "change_yoy": "-14.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC6-TCE Med-Med (30k)",
+      "unit": "usd/day",
+      "rate_current": "20,695",
+      "rate_previous": "10,541",
+      "change_wow": "+96.3%",
+      "change_yoy": "-23.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC7 Spore-ECAu (30k)",
+      "unit": "ws",
+      "rate_current": "179.9",
+      "rate_previous": "161.3",
+      "change_wow": "+11.5%",
+      "change_yoy": "-31.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC7-TCE Spore-ECAu (30k)",
+      "unit": "usd/day",
+      "rate_current": "16,840",
+      "rate_previous": "14,084",
+      "change_wow": "+19.6%",
+      "change_yoy": "-46.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC11-TCE SK-Spore (40k)",
+      "unit": "usd/day",
+      "rate_current": "17,452",
+      "rate_previous": "12,119",
+      "change_wow": "+44.0%",
+      "change_yoy": "-29.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TC20-TCE AG-UKC (90k)",
+      "unit": "usd/day",
+      "rate_current": "43,235",
+      "rate_previous": "33,787",
+      "change_wow": "+28.0%",
+      "change_yoy": "-10.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "MR Atlantic Basket",
+      "unit": "usd/day",
+      "rate_current": "28,100",
+      "rate_previous": "18,027",
+      "change_wow": "+55.9%",
+      "change_yoy": "+12.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "MR Pacific Basket",
+      "unit": "usd/day",
+      "rate_current": "22,889",
+      "rate_previous": "17,890",
+      "change_wow": "+27.9%",
+      "change_yoy": "-24.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "LR2 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "32,000",
+      "rate_previous": "30,000",
+      "change_wow": "+6.7%",
+      "change_yoy": "-23.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "MR2 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "20,000",
+      "rate_previous": "19,000",
+      "change_wow": "+5.3%",
+      "change_yoy": "-25.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "MR1 1-Y Period",
+      "unit": "usd/day",
+      "rate_current": "18,500",
+      "rate_previous": "18,500",
+      "change_wow": "+0.0%",
+      "change_yoy": "-28.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TD18 Baltic-UKC (30K)",
+      "unit": "ws",
+      "rate_current": "168.8",
+      "rate_previous": "174.6",
+      "change_wow": "-3.3%",
+      "change_yoy": "-51.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "TD18-TCE Baltic-UKC (30K)",
+      "unit": "usd/day",
+      "rate_current": "15,540",
+      "rate_previous": "17,452",
+      "change_wow": "-11.0%",
+      "change_yoy": "-69.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "Med-Med (30k)",
+      "unit": "ws",
+      "rate_current": "145.0",
+      "rate_previous": "142.5",
+      "change_wow": "+1.8%",
+      "change_yoy": "-55.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "sector": "CLEAN_TANKER",
+      "route_or_benchmark": "Black Sea-Med (30k)",
+      "unit": "ws",
+      "rate_current": "155.0",
+      "rate_previous": "150.0",
+      "change_wow": "+3.3%",
+      "change_yoy": "-59.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "ffa_assessments": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Jan-25",
+      "unit": "usd/day",
+      "rate_current": "10,750",
+      "rate_previous": "10,682",
+      "change_wow": "+0.6%",
+      "premium": "-2.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Feb-25",
+      "unit": "usd/day",
+      "rate_current": "8,575",
+      "rate_previous": "9,125",
+      "change_wow": "-6.0%",
+      "premium": "-22.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Mar-25",
+      "unit": "usd/day",
+      "rate_current": "12,571",
+      "rate_previous": "13,089",
+      "change_wow": "-4.0%",
+      "premium": "+14.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Apr-25",
+      "unit": "usd/day",
+      "rate_current": "15,079",
+      "rate_previous": "15,457",
+      "change_wow": "-2.4%",
+      "premium": "+37.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Jun-25",
+      "unit": "usd/day",
+      "rate_current": "17,843",
+      "rate_previous": "18,046",
+      "change_wow": "-1.1%",
+      "premium": "+62.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Q1 25",
+      "unit": "usd/day",
+      "rate_current": "10,632",
+      "rate_previous": "10,965",
+      "change_wow": "-3.0%",
+      "premium": "-3.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Q2 25",
+      "unit": "usd/day",
+      "rate_current": "16,459",
+      "rate_previous": "16,756",
+      "change_wow": "-1.8%",
+      "premium": "+49.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Capesize",
+      "tenor": "Q3 25",
+      "unit": "usd/day",
+      "rate_current": "20,054",
+      "rate_previous": "20,554",
+      "change_wow": "-2.4%",
+      "premium": "+82.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Jan-25",
+      "unit": "usd/day",
+      "rate_current": "8,379",
+      "rate_previous": "8,440",
+      "change_wow": "-0.7%",
+      "premium": "+4.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Feb-25",
+      "unit": "usd/day",
+      "rate_current": "8,329",
+      "rate_previous": "8,615",
+      "change_wow": "-3.3%",
+      "premium": "+3.6%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Mar-25",
+      "unit": "usd/day",
+      "rate_current": "10,365",
+      "rate_previous": "10,832",
+      "change_wow": "-4.3%",
+      "premium": "+29.0%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Apr-25",
+      "unit": "usd/day",
+      "rate_current": "11,607",
+      "rate_previous": "12,036",
+      "change_wow": "-3.6%",
+      "premium": "+44.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Jun-25",
+      "unit": "usd/day",
+      "rate_current": "12,165",
+      "rate_previous": "12,379",
+      "change_wow": "-1.7%",
+      "premium": "+51.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Q1 25",
+      "unit": "usd/day",
+      "rate_current": "9,024",
+      "rate_previous": "9,296",
+      "change_wow": "-2.9%",
+      "premium": "+12.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Q2 25",
+      "unit": "usd/day",
+      "rate_current": "11,956",
+      "rate_previous": "12,255",
+      "change_wow": "-2.4%",
+      "premium": "+48.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Panamax",
+      "tenor": "Q3 25",
+      "unit": "usd/day",
+      "rate_current": "12,322",
+      "rate_previous": "12,636",
+      "change_wow": "-2.5%",
+      "premium": "+53.3%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Jan-25",
+      "unit": "usd/day",
+      "rate_current": "9,663",
+      "rate_previous": "9,809",
+      "change_wow": "-1.5%",
+      "premium": "+5.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Feb-25",
+      "unit": "usd/day",
+      "rate_current": "9,209",
+      "rate_previous": "9,509",
+      "change_wow": "-3.2%",
+      "premium": "+0.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Mar-25",
+      "unit": "usd/day",
+      "rate_current": "11,284",
+      "rate_previous": "11,559",
+      "change_wow": "-2.4%",
+      "premium": "+22.8%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Apr-25",
+      "unit": "usd/day",
+      "rate_current": "12,259",
+      "rate_previous": "12,647",
+      "change_wow": "-3.1%",
+      "premium": "+33.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Jun-25",
+      "unit": "usd/day",
+      "rate_current": "12,834",
+      "rate_previous": "13,109",
+      "change_wow": "-2.1%",
+      "premium": "+39.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Q1 25",
+      "unit": "usd/day",
+      "rate_current": "10,052",
+      "rate_previous": "10,292",
+      "change_wow": "-2.3%",
+      "premium": "+9.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Q2 25",
+      "unit": "usd/day",
+      "rate_current": "12,565",
+      "rate_previous": "12,884",
+      "change_wow": "-2.5%",
+      "premium": "+36.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Supramax",
+      "tenor": "Q3 25",
+      "unit": "usd/day",
+      "rate_current": "12,997",
+      "rate_previous": "13,301",
+      "change_wow": "-2.3%",
+      "premium": "+41.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Jan-25",
+      "unit": "usd/day",
+      "rate_current": "8,600",
+      "rate_previous": "8,700",
+      "change_wow": "-1.1%",
+      "premium": "+7.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Feb-25",
+      "unit": "usd/day",
+      "rate_current": "7,850",
+      "rate_previous": "7,950",
+      "change_wow": "-1.3%",
+      "premium": "-2.2%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Mar-25",
+      "unit": "usd/day",
+      "rate_current": "9,400",
+      "rate_previous": "9,613",
+      "change_wow": "-2.2%",
+      "premium": "+17.1%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Apr-25",
+      "unit": "usd/day",
+      "rate_current": "10,313",
+      "rate_previous": "10,438",
+      "change_wow": "-1.2%",
+      "premium": "+28.5%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Jun-25",
+      "unit": "usd/day",
+      "rate_current": "10,813",
+      "rate_previous": "10,938",
+      "change_wow": "-1.1%",
+      "premium": "+34.7%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Q1 25",
+      "unit": "usd/day",
+      "rate_current": "8,617",
+      "rate_previous": "8,754",
+      "change_wow": "-1.6%",
+      "premium": "+7.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Q2 25",
+      "unit": "usd/day",
+      "rate_current": "10,546",
+      "rate_previous": "10,650",
+      "change_wow": "-1.0%",
+      "premium": "+31.4%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_class": "Handysize",
+      "tenor": "Q3 25",
+      "unit": "usd/day",
+      "rate_current": "10,825",
+      "rate_previous": "10,900",
+      "change_wow": "-0.7%",
+      "premium": "+34.9%",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "newbuilding_prices": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Capesize",
+      "price_usd_m": "71.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Kamsarmax",
+      "price_usd_m": "37.4",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Ultramax",
+      "price_usd_m": "34.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Handysize",
+      "price_usd_m": "30.6",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "VLCC",
+      "price_usd_m": "123.6",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Suezmax",
+      "price_usd_m": "81.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "LR2 Coated",
+      "price_usd_m": "69.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "MR2 Coated",
+      "price_usd_m": "44.7",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "demolition_assessments": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment_country": "Dry India",
+      "price_usd_per_ldt": "464.1",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment_country": "Dry Bangladesh",
+      "price_usd_per_ldt": "470.3",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment_country": "Tnk India",
+      "price_usd_per_ldt": "469.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment_country": "Tnk Bangladesh",
+      "price_usd_per_ldt": "477.9",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "secondhand_assessments": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Capesize",
+      "price_usd_m": "58.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Kamsarmax",
+      "price_usd_m": "33.6",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Supramax",
+      "price_usd_m": "27.3",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Handysize",
+      "price_usd_m": "26.2",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "VLCC",
+      "price_usd_m": "109.3",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Suezmax",
+      "price_usd_m": "80.7",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "Aframax",
+      "price_usd_m": "70.3",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_type": "MR Product",
+      "price_usd_m": "44.7",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "container_fixtures": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_name": "IRENES RULE",
+      "built": "2023",
+      "teu": "2782",
+      "teu_14": "2309",
+      "gear": "NO",
+      "account": "Hapag",
+      "period_mos": "34/37",
+      "rate_usd_day": "32000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_name": "ANDERSON DRAGON",
+      "built": "2008",
+      "teu": "1708",
+      "teu_14": "1260",
+      "gear": "NO",
+      "account": "Sitc",
+      "period_mos": "12/14",
+      "rate_usd_day": "20500",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_name": "OLIVIA",
+      "built": "2013",
+      "teu": "1705",
+      "teu_14": "1250",
+      "gear": "YES",
+      "account": "Maersk",
+      "period_mos": "14/17",
+      "rate_usd_day": "23500",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_name": "ZHI YING HE SHUN",
+      "built": "2024",
+      "teu": "1350",
+      "teu_14": "1070",
+      "gear": "NO",
+      "account": "Sea express",
+      "period_mos": "6/9",
+      "rate_usd_day": "18000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "vessel_name": "GREEN PACIFIC",
+      "built": "2008",
+      "teu": "1060",
+      "teu_14": "774",
+      "gear": "NO",
+      "account": "Sitc",
+      "period_mos": "12",
+      "rate_usd_day": "13000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "vhss_contex": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "ConTex",
+      "unit": "index",
+      "value_current": "1,430",
+      "value_previous": "1,427",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "4250 teu (1Y, g'less)",
+      "unit": "usd/day",
+      "value_current": "53,135",
+      "value_previous": "53,020",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "3500 teu (1Y, g'less)",
+      "unit": "usd/day",
+      "value_current": "41,625",
+      "value_previous": "41,585",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "2700 teu (1Y, g'less)",
+      "unit": "usd/day",
+      "value_current": "34,418",
+      "value_previous": "34,273",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "2500 teu (1Y, geared)",
+      "unit": "usd/day",
+      "value_current": "31,805",
+      "value_previous": "31,645",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "1700 teu (1Y, geared)",
+      "unit": "usd/day",
+      "value_current": "22,641",
+      "value_previous": "22,568",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "segment": "1100 teu (1Y, geared)",
+      "unit": "usd/day",
+      "value_current": "14,034",
+      "value_previous": "14,048",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "freightos_index": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "route_or_index": "FBX",
+      "unit": "index",
+      "value_current": "3,893",
+      "value_previous": "4,287",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "route_or_index": "China - WCNA",
+      "unit": "usd/feu",
+      "value_current": "5,321",
+      "value_previous": "5,924",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "route_or_index": "China - N. Europe",
+      "unit": "usd/feu",
+      "value_current": "4,694",
+      "value_previous": "5,640",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "currencies": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "currency_pair": "USD/EUR",
+      "rate_current": "1.03",
+      "rate_previous": "1.02",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "currency_pair": "JPY/USD",
+      "rate_current": "156.30",
+      "rate_previous": "157.69",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "currency_pair": "KRW/USD",
+      "rate_current": "1456",
+      "rate_previous": "1473",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "currency_pair": "CNY/USD",
+      "rate_current": "7.32",
+      "rate_previous": "7.33",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "commodity_prices": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Rotterdam",
+      "unit": "usd/t",
+      "price_current": "469.0",
+      "price_previous": "456.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Fujairah",
+      "unit": "usd/t",
+      "price_current": "486.0",
+      "price_previous": "463.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Singapore",
+      "unit": "usd/t",
+      "price_current": "517.0",
+      "price_previous": "478.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Rotterdam",
+      "unit": "usd/t",
+      "price_current": "551.0",
+      "price_previous": "547.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Fujairah",
+      "unit": "usd/t",
+      "price_current": "596.0",
+      "price_previous": "570.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Singapore",
+      "unit": "usd/t",
+      "price_current": "602.0",
+      "price_previous": "585.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Rotterdam",
+      "unit": "usd/t",
+      "price_current": "707.0",
+      "price_previous": "680.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Fujairah",
+      "unit": "usd/t",
+      "price_current": "785.0",
+      "price_previous": "765.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Singapore",
+      "unit": "usd/t",
+      "price_current": "735.0",
+      "price_previous": "701.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Rotterdam",
+      "unit": "usd/t",
+      "price_current": "82.0",
+      "price_previous": "91.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Fujairah",
+      "unit": "usd/t",
+      "price_current": "110.0",
+      "price_previous": "107.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "BUNKERS",
+      "item": "Singapore",
+      "unit": "usd/t",
+      "price_current": "85.0",
+      "price_previous": "107.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Crude Oil ICE Brent",
+      "unit": "usd/bbl",
+      "price_current": "80.8",
+      "price_previous": "79.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Crude Oil Nymex WTI",
+      "unit": "usd/bbl",
+      "price_current": "77.9",
+      "price_previous": "76.6",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Crude Oil Russia Urals",
+      "unit": "usd/bbl",
+      "price_current": "73.4",
+      "price_previous": "70.1",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Crude Oil Shanghai",
+      "unit": "rmb/bbl",
+      "price_current": "642.7",
+      "price_previous": "585.4",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Gasoil ICE",
+      "unit": "usd/t",
+      "price_current": "753.5",
+      "price_previous": "730.8",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Gasoline Nymex",
+      "unit": "usd/gal",
+      "price_current": "2.11",
+      "price_previous": "2.07",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Naphtha C\\&F Japan",
+      "unit": "usd/t",
+      "price_current": "676.5",
+      "price_previous": "660.3",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Jet Fuel Singapore",
+      "unit": "usd/bbl",
+      "price_current": "97.0",
+      "price_previous": "91.6",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "Nat Gas Henry Hub",
+      "unit": "usd/mmbtu",
+      "price_current": "3.95",
+      "price_previous": "3.99",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "LNG TTF Netherlands",
+      "unit": "usd/mmbtu",
+      "price_current": "14.27",
+      "price_previous": "13.63",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "OIL & GAS",
+      "item": "LNG North East Asia",
+      "unit": "usd/mmbtu",
+      "price_current": "13.90",
+      "price_previous": "14.00",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "COAL",
+      "item": "Steam Coal Richards Bay",
+      "unit": "usd/t",
+      "price_current": "100.0",
+      "price_previous": "103.2",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "COAL",
+      "item": "Steam Coal Newcastle",
+      "unit": "usd/t",
+      "price_current": "116.6",
+      "price_previous": "121.9",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "COAL",
+      "item": "Coking Coal Australia SGX",
+      "unit": "usd/t",
+      "price_current": "193.3",
+      "price_previous": "197.5",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "IRON ORE & STEEL",
+      "item": "Iron Ore SGX 62%",
+      "unit": "usd/t",
+      "price_current": "101.6",
+      "price_previous": "97.9",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "IRON ORE & STEEL",
+      "item": "Rebar Steel in China",
+      "unit": "rmb/t",
+      "price_current": "3276.0",
+      "price_previous": "3128.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "IRON ORE & STEEL",
+      "item": "HRC Steel in China",
+      "unit": "rmb/t",
+      "price_current": "3434.0",
+      "price_previous": "3266.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "AGRICULTURAL",
+      "item": "Soybeans CBoT",
+      "unit": "usc/bu",
+      "price_current": "1034.0",
+      "price_previous": "1013.5",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "AGRICULTURAL",
+      "item": "Corn CBoT",
+      "unit": "usc/bu",
+      "price_current": "484.2",
+      "price_previous": "470.5",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "AGRICULTURAL",
+      "item": "Wheat CBoT",
+      "unit": "usc/bu",
+      "price_current": "538.7",
+      "price_previous": "530.7",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "AGRICULTURAL",
+      "item": "Sugar ICE N.11",
+      "unit": "usc/lb",
+      "price_current": "18.41",
+      "price_previous": "19.22",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "AGRICULTURAL",
+      "item": "Palm Oil Malaysia",
+      "unit": "usd/t",
+      "price_current": "985.5",
+      "price_previous": "1047.0",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "AGRICULTURAL",
+      "item": "Ferts Urea Middle East",
+      "unit": "usd/t",
+      "price_current": "345.5",
+      "price_previous": "345.5",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ],
+  "chart_series": [
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "15000",
+        "15000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "25000",
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "28000",
+        "28000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "26000",
+        "32000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "27000",
+        "29000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "25000",
+        "26000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "24000",
+        "24000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "26000",
+        "27000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "28000",
+        "29000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "18000",
+        "15000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "17000",
+        "12000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CAPESIZE MARKET_ATLANTIC AND PACIFIC BASIN_BCI TC & CAPESIZE 1-YR TC (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "19000",
+        "13000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "15000",
+        "13000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "16500",
+        "16000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "19000",
+        "20000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "18500",
+        "18000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "17500",
+        "16500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "17000",
+        "15500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "16000",
+        "14500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "15500",
+        "13500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "14500",
+        "12000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "13500",
+        "11000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PANAMAX MARKET_PACIFIC BASIN_BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "12000",
+        "9000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BSI TC & SUPRAMAX 1-YR TC (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "14000",
+        "11500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BSI TC & SUPRAMAX 1-YR TC (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "15500",
+        "16000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BSI TC & SUPRAMAX 1-YR TC (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "14500",
+        "14000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BSI TC & SUPRAMAX 1-YR TC (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "10500",
+        "7500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BHSI 38 TC & HANDY 1-YR TC (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "14000",
+        "10500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BHSI 38 TC & HANDY 1-YR TC (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "14500",
+        "13000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BHSI 38 TC & HANDY 1-YR TC (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "12000",
+        "11000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "SUPRAMAX & HANDYSIZE MARKET_FAR EAST_PACIFIC_BHSI 38 TC & HANDY 1-YR TC (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "12000",
+        "8000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "70000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "65000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "60000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Dec-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD3C VLCC MEG-FAR EAST (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "65000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "70000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "50000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "20000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "20000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Dec-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD6 SUEZMAX BSEA-MED (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "75000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "65000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Dec-24",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD7 AFRAMAX NSEA-UKC (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "25000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "60000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "20000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "85000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "20000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "15000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "15000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "20000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Dec-24",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__TD19 AFRAMAX MED-MED (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "45000",
+        "45000",
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "45000",
+        "40000",
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "45000",
+        "40000",
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "50000",
+        "40000",
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "55000",
+        "45000",
+        "45000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "50000",
+        "40000",
+        "40000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "45000",
+        "35000",
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "40000",
+        "35000",
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "35000",
+        "35000",
+        "30000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "40000",
+        "35000",
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "35000",
+        "35000",
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Dec-24",
+      "values": [
+        "40000",
+        "35000",
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CRUDE TANKER MARKET__1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "50000",
+        "35000",
+        "35000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "100,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "90,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "80,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "70,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "60,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "50,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "40,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "30,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "25,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "20,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "15,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_TC1 LR2 MEG-JAPAN (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "40,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "30,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "35,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "25,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "30,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "50,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "40,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "35,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "25,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "20,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "18,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "22,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR ATLANTIC BASKET (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "25,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "30,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "55,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "45,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "40,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "50,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "35,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "25,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "20,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "15,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "18,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "20,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_MR PACIFIC BASKET (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "22,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "48,000",
+        "28,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Feb-24",
+      "values": [
+        "47,000",
+        "27,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Mar-24",
+      "values": [
+        "48,000",
+        "27,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Apr-24",
+      "values": [
+        "47,000",
+        "27,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "48,000",
+        "28,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Jun-24",
+      "values": [
+        "40,000",
+        "26,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Jul-24",
+      "values": [
+        "38,000",
+        "24,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Aug-24",
+      "values": [
+        "36,000",
+        "22,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "35,000",
+        "18,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Oct-24",
+      "values": [
+        "34,000",
+        "17,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Nov-24",
+      "values": [
+        "32,000",
+        "16,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "PRODUCT TANKER MARKET_CHARTS_1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "31,000",
+        "17,000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARLESS - 1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "20000",
+        "18000",
+        "15000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARLESS - 1 YR TC PERIOD (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "35000",
+        "32000",
+        "28000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARLESS - 1 YR TC PERIOD (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "48000",
+        "40000",
+        "32000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARLESS - 1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "55000",
+        "42000",
+        "33000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARED - 1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-24",
+      "values": [
+        "12000",
+        "8000",
+        "7000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARED - 1 YR TC PERIOD (USD/DAY)",
+      "date": "May-24",
+      "values": [
+        "25000",
+        "18000",
+        "10000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARED - 1 YR TC PERIOD (USD/DAY)",
+      "date": "Sep-24",
+      "values": [
+        "28000",
+        "21000",
+        "13000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_GEARED - 1 YR TC PERIOD (USD/DAY)",
+      "date": "Jan-25",
+      "values": [
+        "30000",
+        "22000",
+        "14000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "Jan-24",
+      "values": [
+        "3200"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "May-24",
+      "values": [
+        "5000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "Sep-24",
+      "values": [
+        "3500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_VHSS CONTAINERSHIP TIMECHARTER_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "Jan-25",
+      "values": [
+        "4000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_FREIGHTOS BALTIC GLOBAL CONTAINER INDEX_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "Jan-24",
+      "values": [
+        "5500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_FREIGHTOS BALTIC GLOBAL CONTAINER INDEX_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "May-24",
+      "values": [
+        "8000"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_FREIGHTOS BALTIC GLOBAL CONTAINER INDEX_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "Sep-24",
+      "values": [
+        "3500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "CONTAINERSHIP MARKET_FREIGHTOS BALTIC GLOBAL CONTAINER INDEX_FREIGHTOS BALTIC CONTAINER INDEX",
+      "date": "Jan-25",
+      "values": [
+        "5500"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Capesize_Forward_Curve",
+      "date_or_tenor": "Jan-24",
+      "value": "15000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Capesize_Forward_Curve",
+      "date_or_tenor": "Mar-24",
+      "value": "35000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Capesize_Forward_Curve",
+      "date_or_tenor": "Jul-24",
+      "value": "25000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Capesize_Forward_Curve",
+      "date_or_tenor": "Jan-25",
+      "value": "10000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Capesize_Forward_Curve",
+      "date_or_tenor": "Jul-25",
+      "value": "22000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Capesize_Forward_Curve",
+      "date_or_tenor": "Jan-26",
+      "value": "22000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Panamax_Forward_Curve",
+      "date_or_tenor": "Jan-24",
+      "value": "13000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Panamax_Forward_Curve",
+      "date_or_tenor": "Mar-24",
+      "value": "21000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Panamax_Forward_Curve",
+      "date_or_tenor": "Jul-24",
+      "value": "10000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Panamax_Forward_Curve",
+      "date_or_tenor": "Jan-25",
+      "value": "8000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Panamax_Forward_Curve",
+      "date_or_tenor": "Jul-25",
+      "value": "12000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Panamax_Forward_Curve",
+      "date_or_tenor": "Jan-26",
+      "value": "12500",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Supramax_Forward_Curve",
+      "date_or_tenor": "Jan-24",
+      "value": "11000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Supramax_Forward_Curve",
+      "date_or_tenor": "Mar-24",
+      "value": "17000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Supramax_Forward_Curve",
+      "date_or_tenor": "Jul-24",
+      "value": "16000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Supramax_Forward_Curve",
+      "date_or_tenor": "Jan-25",
+      "value": "9000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Supramax_Forward_Curve",
+      "date_or_tenor": "Jul-25",
+      "value": "13000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Supramax_Forward_Curve",
+      "date_or_tenor": "Jan-26",
+      "value": "13500",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Handysize_Forward_Curve",
+      "date_or_tenor": "Jan-24",
+      "value": "11000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Handysize_Forward_Curve",
+      "date_or_tenor": "Mar-24",
+      "value": "15000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Handysize_Forward_Curve",
+      "date_or_tenor": "Jul-24",
+      "value": "10000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Handysize_Forward_Curve",
+      "date_or_tenor": "Jan-25",
+      "value": "8500",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Handysize_Forward_Curve",
+      "date_or_tenor": "Jul-25",
+      "value": "11000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "category": "FFA_Handysize_Forward_Curve",
+      "date_or_tenor": "Jan-26",
+      "value": "11000",
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "EXCHANGE RATES__JPY/USD EXCHANGE RATE",
+      "date": "Jan-24",
+      "values": [
+        "145"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "EXCHANGE RATES__JPY/USD EXCHANGE RATE",
+      "date": "Mar-24",
+      "values": [
+        "160"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "EXCHANGE RATES__JPY/USD EXCHANGE RATE",
+      "date": "May-24",
+      "values": [
+        "155"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "EXCHANGE RATES__JPY/USD EXCHANGE RATE",
+      "date": "Jul-24",
+      "values": [
+        "140"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "EXCHANGE RATES__JPY/USD EXCHANGE RATE",
+      "date": "Sep-24",
+      "values": [
+        "145"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "EXCHANGE RATES__JPY/USD EXCHANGE RATE",
+      "date": "Jan-25",
+      "values": [
+        "155"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-24",
+      "values": [
+        "750",
+        "650",
+        "800"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "May-24",
+      "values": [
+        "780",
+        "600",
+        "750"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Sep-24",
+      "values": [
+        "700",
+        "550",
+        "650"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-25",
+      "values": [
+        "780",
+        "580",
+        "750"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-24",
+      "values": [
+        "75",
+        "70"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "May-24",
+      "values": [
+        "90",
+        "85"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Sep-24",
+      "values": [
+        "70",
+        "65"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-25",
+      "values": [
+        "80",
+        "78"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-24",
+      "values": [
+        "3.0"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "May-24",
+      "values": [
+        "2.8"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Sep-24",
+      "values": [
+        "2.5"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-25",
+      "values": [
+        "4.0"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-24",
+      "values": [
+        "130",
+        "135"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "May-24",
+      "values": [
+        "145",
+        "105"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Sep-24",
+      "values": [
+        "140",
+        "100"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-25",
+      "values": [
+        "120",
+        "105"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-24",
+      "values": [
+        "4000",
+        "3950"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "May-24",
+      "values": [
+        "3000",
+        "3100"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Sep-24",
+      "values": [
+        "3100",
+        "3400"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-25",
+      "values": [
+        "3200",
+        "3400"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-24",
+      "values": [
+        "580",
+        "580"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "May-24",
+      "values": [
+        "400",
+        "680"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Sep-24",
+      "values": [
+        "380",
+        "520"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    },
+    {
+      "issue_date": "2025-01-20",
+      "report_week": 3,
+      "chart_name": "COMMODITY PRICES__",
+      "date": "Jan-25",
+      "values": [
+        "480",
+        "520"
+      ],
+      "source_file": "banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf"
+    }
+  ]
+}

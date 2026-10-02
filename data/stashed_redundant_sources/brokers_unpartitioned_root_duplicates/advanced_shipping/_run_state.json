@@ -1,0 +1,2723 @@
+{
+  "done": {
+    "advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 23644
+    },
+    "advanced_shipping_2021_W27_ADVANCED-MARKET-REPORT-WEEK-27": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21039
+    },
+    "advanced_shipping_2021_W28_ADVANCED-MARKET-REPORT-WEEK-28-1": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18470
+    },
+    "advanced_shipping_2021_W29_ADVANCED-MARKET-REPORT-WEEK-29": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 24633
+    },
+    "advanced_shipping_2021_W30_ADVANCED-MARKET-REPORT-WEEK-30": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22761
+    },
+    "advanced_shipping_2021_W31_ADVANCED-MARKET-REPORT-WEEK-31": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20642
+    },
+    "advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18135
+    },
+    "advanced_shipping_2021_W33_ADVANCED-MARKET-REPORT-WEEK-33": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 20554
+    },
+    "advanced_shipping_2021_W34_ADVANCED-MARKET-REPORT-WEEK-34": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22047
+    },
+    "advanced_shipping_2021_W35_ADVANCED-MARKET-REPORT-WEEK-35": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21701
+    },
+    "advanced_shipping_2021_W36_ADVANCED-MARKET-REPORT-WEEK-36": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 24113
+    },
+    "advanced_shipping_2021_W37_ADVANCED-MARKET-REPORT-WEEK-37": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19596
+    },
+    "advanced_shipping_2021_W38_ADVANCED-MARKET-REPORT-WEEK-38": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 23603
+    },
+    "advanced_shipping_2021_W39_ADVANCED-MARKET-REPORT-WEEK-39": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22181
+    },
+    "advanced_shipping_2021_W40_ADVANCED-MARKET-REPORT-WEEK-40": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20826
+    },
+    "advanced_shipping_2021_W41_ADVANCED-MARKET-REPORT-WEEK-41": {
+      "pages": 11,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 20631
+    },
+    "advanced_shipping_2021_W42_ADVANCED-MARKET-REPORT-WEEK-42": {
+      "pages": 11,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 21296
+    },
+    "advanced_shipping_2021_W43_ADVANCED-MARKET-REPORT-WEEK-43": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 21536
+    },
+    "advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19625
+    },
+    "advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18972
+    },
+    "advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19589
+    },
+    "advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18066
+    },
+    "advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48": {
+      "pages": 10,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20379
+    },
+    "advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 21645
+    },
+    "advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 20527
+    },
+    "advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18873
+    },
+    "advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20173
+    },
+    "advanced_shipping_2022_W03_ADVANCED-MARKET-REPORT-WEEK-3": {
+      "pages": 11,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 21703
+    },
+    "advanced_shipping_2022_W04_ADVANCED-MARKET-REPORT-WEEK-4": {
+      "pages": 11,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 22170
+    },
+    "advanced_shipping_2022_W05_ADVANCED-MARKET-REPORT-WEEK-5": {
+      "pages": 11,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 20241
+    },
+    "advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20071
+    },
+    "advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21562
+    },
+    "advanced_shipping_2022_W08_ADVANCED-MARKET-REPORT-WEEK-8": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 23226
+    },
+    "advanced_shipping_2022_W09_ADVANCED-MARKET-REPORT-WEEK-9": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21145
+    },
+    "advanced_shipping_2022_W10_ADVANCED-MARKET-REPORT-WEEK-10": {
+      "pages": 12,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "7",
+        "10"
+      ],
+      "md_bytes": 28761
+    },
+    "advanced_shipping_2022_W11_ADVANCED-MARKET-REPORT-WEEK-11": {
+      "pages": 11,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 25313
+    },
+    "advanced_shipping_2022_W12_ADVANCED-MARKET-REPORT-WEEK-12": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 17919
+    },
+    "advanced_shipping_2022_W13_ADVANCED-MARKET-REPORT-WEEK-13": {
+      "pages": 12,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "7",
+        "10"
+      ],
+      "md_bytes": 25986
+    },
+    "advanced_shipping_2022_W14_ADVANCED-MARKET-REPORT-WEEK-14": {
+      "pages": 11,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 26441
+    },
+    "advanced_shipping_2022_W15_ADVANCED-MARKET-REPORT-WEEK-15": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22277
+    },
+    "advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19713
+    },
+    "advanced_shipping_2022_W17_ADVANCED-MARKET-REPORT-WEEK-17": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22065
+    },
+    "advanced_shipping_2022_W18_ADVANCED-MARKET-REPORT-WEEK-18": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21031
+    },
+    "advanced_shipping_2022_W19_ADVANCED-MARKET-REPORT-WEEK-19": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20277
+    },
+    "advanced_shipping_2022_W20_ADVANCED-MARKET-REPORT-WEEK-20": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 22134
+    },
+    "advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21": {
+      "pages": 11,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 24095
+    },
+    "advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22605
+    },
+    "advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22039
+    },
+    "advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19916
+    },
+    "advanced_shipping_2022_W25_ADVANCED-MARKET-REPORT-WEEK-25": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 24402
+    },
+    "advanced_shipping_2022_W26_ADVANCED-MARKET-REPORT-WEEK-26": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22404
+    },
+    "advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21528
+    },
+    "advanced_shipping_2022_W28_ADVANCED-MARKET-REPORT-WEEK-28": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22208
+    },
+    "advanced_shipping_2022_W29_ADVANCED-MARKET-REPORT-WEEK-29": {
+      "pages": 9,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 19840
+    },
+    "advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30": {
+      "pages": 10,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22723
+    },
+    "advanced_shipping_2022_W32_ADVANCED-MARKET-REPORT-WEEK-32": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 17642
+    },
+    "advanced_shipping_2022_W33_ADVANCED-MARKET-REPORT-WEEK-33": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19431
+    },
+    "advanced_shipping_2022_W35_ADVANCED-MARKET-REPORT-WEEK-35": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21660
+    },
+    "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19359
+    },
+    "advanced_shipping_2022_W37_ADVANCED-MARKET-REPORT-WEEK-37": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20654
+    },
+    "advanced_shipping_2022_W38_ADVANCED-MARKET-REPORT-WEEK-38": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21744
+    },
+    "advanced_shipping_2022_W39_ADVANCED-MARKET-REPORT-WEEK-39": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18814
+    },
+    "advanced_shipping_2022_W40_ADVANCED-MARKET-REPORT-WEEK-40": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19043
+    },
+    "advanced_shipping_2022_W41_ADVANCED-MARKET-REPORT-WEEK-41": {
+      "pages": 11,
+      "tables": 12,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 23927
+    },
+    "advanced_shipping_2022_W42_ADVANCED-MARKET-REPORT-WEEK-42": {
+      "pages": 11,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 20513
+    },
+    "advanced_shipping_2022_W43_ADVANCED-MARKET-REPORT-WEEK-43": {
+      "pages": 10,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20290
+    },
+    "advanced_shipping_2022_W44_ADVANCED-MARKET-REPORT-WEEK-44": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 17631
+    },
+    "advanced_shipping_2022_W45_ADVANCED-MARKET-REPORT-WEEK-45": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21210
+    },
+    "advanced_shipping_2022_W46_ADVANCED-MARKET-REPORT-WEEK-46": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21433
+    },
+    "advanced_shipping_2022_W47_ADVANCED-MARKET-REPORT-WEEK-47": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16757
+    },
+    "advanced_shipping_2022_W48_ADVANCED-MARKET-REPORT-WEEK-48": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20351
+    },
+    "advanced_shipping_2022_W49_ADVANCED-MARKET-REPORT-WEEK-49": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19148
+    },
+    "advanced_shipping_2022_W50_ADVANCED-MARKET-REPORT-WEEK-50": {
+      "pages": 10,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18878
+    },
+    "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18023
+    },
+    "advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16493
+    },
+    "advanced_shipping_2023_W01_ADVANCED-MARKET-REPORT-WEEK-1": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18303
+    },
+    "advanced_shipping_2023_W02_ADVANCED-MARKET-REPORT-WEEK-2": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 23288
+    },
+    "advanced_shipping_2023_W03_ADVANCED-MARKET-REPORT-WEEK-3": {
+      "pages": 11,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 27034
+    },
+    "advanced_shipping_2023_W04_ADVANCED-MARKET-REPORT-WEEK-4": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21422
+    },
+    "advanced_shipping_2023_W05_ADVANCED-MARKET-REPORT-WEEK-5": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18927
+    },
+    "advanced_shipping_2023_W06_ADVANCED-MARKET-REPORT-WEEK-6": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 23183
+    },
+    "advanced_shipping_2023_W07_ADVANCED-MARKET-REPORT-WEEK-7": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21449
+    },
+    "advanced_shipping_2023_W08_ADVANCED-MARKET-REPORT-WEEK-8": {
+      "pages": 11,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 23430
+    },
+    "advanced_shipping_2023_W09_ADVANCED-MARKET-REPORT-WEEK-9": {
+      "pages": 11,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 23105
+    },
+    "advanced_shipping_2023_W10_ADVANCED-MARKET-REPORT-WEEK-10": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21445
+    },
+    "advanced_shipping_2023_W11_ADVANCED-MARKET-REPORT-WEEK-11": {
+      "pages": 12,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "7",
+        "10"
+      ],
+      "md_bytes": 26439
+    },
+    "advanced_shipping_2023_W12_ADVANCED-MARKET-REPORT-WEEK-12": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 23446
+    },
+    "advanced_shipping_2023_W13_ADVANCED-MARKET-REPORT-WEEK-13": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21323
+    },
+    "advanced_shipping_2023_W14_ADVANCED-MARKET-REPORT-WEEK-14": {
+      "pages": 11,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 28298
+    },
+    "advanced_shipping_2023_W15_ADVANCED-MARKET-REPORT-WEEK-15": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19577
+    },
+    "advanced_shipping_2023_W16_ADVANCED-MARKET-REPORT-WEEK-16": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22827
+    },
+    "advanced_shipping_2023_W17_ADVANCED-MARKET-REPORT-WEEK-17": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21940
+    },
+    "advanced_shipping_2023_W18_ADVANCED-MARKET-REPORT-WEEK-18": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22916
+    },
+    "advanced_shipping_2023_W19_ADVANCED-MARKET-REPORT-WEEK-19": {
+      "pages": 11,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 23434
+    },
+    "advanced_shipping_2023_W20_ADVANCED-MARKET-REPORT-WEEK-20": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19564
+    },
+    "advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19522
+    },
+    "advanced_shipping_2023_W22_ADVANCED-MARKET-REPORT-WEEK-22": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19758
+    },
+    "advanced_shipping_2023_W23_ADVANCED-MARKET-REPORT-WEEK-23": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19402
+    },
+    "advanced_shipping_2023_W24_ADVANCED-MARKET-REPORT-WEEK-24": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 17756
+    },
+    "advanced_shipping_2023_W25_ADVANCED-MARKET-REPORT-WEEK-25": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19834
+    },
+    "advanced_shipping_2023_W26_ADVANCED-MARKET-REPORT-WEEK-26": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 20886
+    },
+    "advanced_shipping_2023_W27_ADVANCED-MARKET-REPORT-WEEK-27": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21475
+    },
+    "advanced_shipping_2023_W28_ADVANCED-MARKET-REPORT-WEEK-28": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19257
+    },
+    "advanced_shipping_2023_W29_ADVANCED-MARKET-REPORT-WEEK-29": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20424
+    },
+    "advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 19576
+    },
+    "advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20467
+    },
+    "advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18064
+    },
+    "advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18735
+    },
+    "advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20028
+    },
+    "advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19717
+    },
+    "advanced_shipping_2023_W38_ADVANCED-MARKET-REPORT-WEEK-38": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18161
+    },
+    "advanced_shipping_2023_W39_ADVANCED-MARKET-REPORT-WEEK-39": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20374
+    },
+    "advanced_shipping_2023_W41_ADVANCED-MARKET-REPORT-WEEK-41": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19563
+    },
+    "advanced_shipping_2023_W42_ADVANCED-MARKET-REPORT-WEEK-42": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19936
+    },
+    "advanced_shipping_2023_W44_ADVANCED-MARKET-REPORT-WEEK-44": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18486
+    },
+    "advanced_shipping_2023_W45_ADVANCED-MARKET-REPORT-WEEK-45": {
+      "pages": 10,
+      "tables": 20,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19964
+    },
+    "advanced_shipping_2023_W46_ADVANCED-MARKET-REPORT-WEEK-46": {
+      "pages": 11,
+      "tables": 20,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "md_bytes": 22959
+    },
+    "advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19555
+    },
+    "advanced_shipping_2023_W48_ADVANCED-MARKET-REPORT-WEEK-48": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19576
+    },
+    "advanced_shipping_2023_W49_ADVANCED-MARKET-REPORT-WEEK-49": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18011
+    },
+    "advanced_shipping_2023_W50_ADVANCED-MARKET-REPORT-WEEK-50": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20332
+    },
+    "advanced_shipping_2023_W51_ADVANCED-MARKET-REPORT-WEEK-51": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19598
+    },
+    "advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16036
+    },
+    "advanced_shipping_2024_W02_ADVANCED-MARKET-REPORT-WEEK-2": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20242
+    },
+    "advanced_shipping_2024_W03_ADVANCED-MARKET-REPORT-WEEK-3-1": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20162
+    },
+    "advanced_shipping_2024_W04_ADVANCED-MARKET-REPORT-WEEK-4": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21488
+    },
+    "advanced_shipping_2024_W06_ADVANCED-MARKET-REPORT-WEEK-6": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 23704
+    },
+    "advanced_shipping_2024_W07_ADVANCED-MARKET-REPORT-WEEK-8": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20892
+    },
+    "advanced_shipping_2024_W09_ADVANCED-MARKET-REPORT-WEEK-9": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19769
+    },
+    "advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 19094
+    },
+    "advanced_shipping_2024_W13_ADVANCED-MARKET-REPORT-WEEK-13": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 17262
+    },
+    "advanced_shipping_2024_W14_ADVANCED-MARKET-REPORT-WEEK-14": {
+      "pages": 9,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16836
+    },
+    "advanced_shipping_2024_W15_ADVANCED-MARKET-REPORT-WEEK-15": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21506
+    },
+    "advanced_shipping_2024_W16_ADVANCED-MARKET-REPORT-WEEK-16": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18094
+    },
+    "advanced_shipping_2024_W17_ADVANCED-MARKET-REPORT-WEEK-17": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19986
+    },
+    "advanced_shipping_2024_W18_ADVANCED-MARKET-REPORT-WEEK-18-1": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20594
+    },
+    "advanced_shipping_2024_W20_ADVANCED-MARKET-REPORT-WEEK-20": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22123
+    },
+    "advanced_shipping_2024_W21_ADVANCED-MARKET-REPORT-WEEK-21": {
+      "pages": 10,
+      "tables": 20,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20426
+    },
+    "advanced_shipping_2024_W23_ADVANCED-MARKET-REPORT-WEEK-23-1": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 17122
+    },
+    "advanced_shipping_2024_W24_ADVANCED-MARKET-REPORT-WEEK-24": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19544
+    },
+    "advanced_shipping_2024_W26_ADVANCED-MARKET-REPORT-WEEK-26": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18408
+    },
+    "advanced_shipping_2024_W27_ADVANCED-MARKET-REPORT-WEEK-27": {
+      "pages": 10,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22211
+    },
+    "advanced_shipping_2024_W28_ADVANCED-MARKET-REPORT-WEEK-28": {
+      "pages": 10,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 18472
+    },
+    "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29": {
+      "pages": 10,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19139
+    },
+    "advanced_shipping_2024_W30_ADVANCED-MARKET-REPORT-WEEK-30": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 22637
+    },
+    "advanced_shipping_2024_W31_ADVANCED-MARKET-REPORT-WEEK-31": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18075
+    },
+    "advanced_shipping_2024_W32_ADVANCED-MARKET-REPORT-WEEK-32": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16709
+    },
+    "advanced_shipping_2024_W33_ADVANCED-MARKET-REPORT-WEEK-33": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16800
+    },
+    "advanced_shipping_2024_W35_ADVANCED-MARKET-REPORT-WEEK-35": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 16309
+    },
+    "advanced_shipping_2024_W37_ADVANCED-MARKET-REPORT-WEEK-37": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21428
+    },
+    "advanced_shipping_2024_W38_ADVANCED-MARKET-REPORT-WEEK-38": {
+      "pages": 9,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 17063
+    },
+    "advanced_shipping_2024_W39_ADVANCED-MARKET-REPORT-WEEK-39_compressed": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 20043
+    },
+    "advanced_shipping_2024_W40_ADVANCED-MARKET-REPORT-WEEK-40": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21054
+    },
+    "advanced_shipping_2024_W41_ADVANCED-MARKET-REPORT-WEEK-41": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 19504
+    },
+    "advanced_shipping_2024_W42_ADVANCED-MARKET-REPORT-WEEK-42": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "8"
+      ],
+      "md_bytes": 21771
+    },
+    "advanced_shipping_2024_W43_ADVANCED-MARKET-REPORT-WEEK-43": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 17633
+    },
+    "advanced_shipping_2024_W44_ADVANCED-MARKET-REPORT-WEEK-44": {
+      "pages": 9,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18475
+    },
+    "advanced_shipping_2024_W45_ADVANCED-MARKET-REPORT-WEEK-45": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "md_bytes": 18047
+    },
+    "advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 19436
+    },
+    "advanced_shipping_2024_W48_ADVANCED-MARKET-REPORT-WEEK-48": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 19151
+    },
+    "advanced_shipping_2024_W49_ADVANCED-MARKET-REPORT-WEEK-49": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 19363
+    },
+    "advanced_shipping_2024_W50_ADVANCED-MARKET-REPORT-WEEK-50": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 18110
+    },
+    "advanced_shipping_2024_W51_ADVANCED-MARKET-REPORT-WEEK-51": {
+      "pages": 9,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 16591
+    },
+    "advanced_shipping_2025_W01_ADVANCED-MARKET-REPORT-WEEK-1": {
+      "pages": 8,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "4"
+      ],
+      "md_bytes": 13817
+    },
+    "advanced_shipping_2025_W02_ADVANCED-MARKET-REPORT-WEEK-2": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 19016
+    },
+    "advanced_shipping_2025_W03_ADVANCED-MARKET-REPORT-WEEK-3": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 18736
+    },
+    "advanced_shipping_2025_W04_ADVANCED-MARKET-REPORT-WEEK-4": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 17690
+    },
+    "advanced_shipping_2025_W05_ADVANCED-MARKET-REPORT-WEEK-5": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 18196
+    },
+    "advanced_shipping_2025_W06_ADVANCED-MARKET-REPORT-WEEK-6": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 17988
+    },
+    "advanced_shipping_2025_W07_ADVANCED-MARKET-REPORT-WEEK-7": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 19933
+    },
+    "advanced_shipping_2025_W08_ADVANCED-MARKET-REPORT-WEEK-8": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 19769
+    },
+    "advanced_shipping_2025_W09_ADVANCED-MARKET-REPORT-WEEK-9": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 17469
+    },
+    "advanced_shipping_2025_W10_ADVANCED-MARKET-REPORT-WEEK-10": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 19363
+    },
+    "advanced_shipping_2025_W11_ADVANCED-MARKET-REPORT-WEEK-11": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 20660
+    },
+    "advanced_shipping_2025_W12_ADVANCED-MARKET-REPORT-WEEK-12": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "6"
+      ],
+      "md_bytes": 20445
+    },
+    "advanced_shipping_2025_W13_ADVANCED-MARKET-REPORT-WEEK-13": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 17432
+    },
+    "advanced_shipping_2025_W14_ADVANCED-MARKET-REPORT-WEEK-14": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5"
+      ],
+      "md_bytes": 18031
+    },
+    "advanced_shipping_2025_W15_ADVANCED-MARKET-REPORT-WEEK-15": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21018
+    },
+    "advanced_shipping_2025_W16_ADVANCED-MARKET-REPORT-WEEK-16": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 15907
+    },
+    "advanced_shipping_2025_W17_ADVANCED-MARKET-REPORT-WEEK-17": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18671
+    },
+    "advanced_shipping_2025_W18_ADVANCED-MARKET-REPORT-WEEK-18": {
+      "pages": 9,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 16529
+    },
+    "advanced_shipping_2025_W20_ADVANCED-MARKET-REPORT-WEEK-20": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 17091
+    },
+    "advanced_shipping_2025_W21_ADVANCED-MARKET-REPORT-WEEK-21": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21270
+    },
+    "advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18614
+    },
+    "advanced_shipping_2025_W23_ADVANCED-MARKET-REPORT-WEEK-23": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19264
+    },
+    "advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 18632
+    },
+    "advanced_shipping_2025_W25_ADVANCED-MARKET-REPORT-WEEK-25": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19721
+    },
+    "advanced_shipping_2025_W26_ADVANCED-MARKET-REPORT-WEEK-26": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20152
+    },
+    "advanced_shipping_2025_W27_ADVANCED-MARKET-REPORT-WEEK-27": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20056
+    },
+    "advanced_shipping_2025_W28_ADVANCED-MARKET-REPORT-WEEK-28": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 17522
+    },
+    "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29": {
+      "pages": 10,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20187
+    },
+    "advanced_shipping_2025_W30_ADVANCED-MARKET-REPORT-WEEK-30": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20083
+    },
+    "advanced_shipping_2025_W31_ADVANCED-MARKET-REPORT-WEEK-31": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 16798
+    },
+    "advanced_shipping_2025_W32_ADVANCED-MARKET-REPORT-WEEK-32": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19649
+    },
+    "advanced_shipping_2025_W33_ADVANCED-MARKET-REPORT-WEEK-33": {
+      "pages": 9,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 16308
+    },
+    "advanced_shipping_2025_W34_ADVANCED-MARKET-REPORT-WEEK-34": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 15390
+    },
+    "advanced_shipping_2025_W35_ADVANCED-MARKET-REPORT-WEEK-35": {
+      "pages": 10,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19524
+    },
+    "advanced_shipping_2025_W36_ADVANCED-MARKET-REPORT-WEEK-36": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21387
+    },
+    "advanced_shipping_2025_W37_ADVANCED-MARKET-REPORT-WEEK-37": {
+      "pages": 10,
+      "tables": 21,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 22321
+    },
+    "advanced_shipping_2025_W38_ADVANCED-MARKET-REPORT-WEEK-38": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 17346
+    },
+    "advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39": {
+      "pages": 11,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "7",
+        "9"
+      ],
+      "md_bytes": 23123
+    },
+    "advanced_shipping_2025_W40_ADVANCED-MARKET-REPORT-WEEK-40": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20288
+    },
+    "advanced_shipping_2025_W41_ADVANCED-MARKET-REPORT-WEEK-41-1": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21312
+    },
+    "advanced_shipping_2025_W42_ADVANCED-MARKET-REPORT-WEEK-42": {
+      "pages": 9,
+      "tables": 13,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19175
+    },
+    "advanced_shipping_2025_W43_ADVANCED-MARKET-REPORT-WEEK-43": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19804
+    },
+    "advanced_shipping_2025_W44_ADVANCED-MARKET-REPORT-WEEK-44": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18507
+    },
+    "advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-45": {
+      "pages": 10,
+      "tables": 20,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21329
+    },
+    "advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18691
+    },
+    "advanced_shipping_2025_W46_ADVANCED-MARKET-REPORT-WEEK-46-1": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18695
+    },
+    "advanced_shipping_2025_W47_ADVANCED-MARKET-REPORT-WEEK-47": {
+      "pages": 10,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20440
+    },
+    "advanced_shipping_2025_W48_ADVANCED-MARKET-REPORT-WEEK-48": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19888
+    },
+    "advanced_shipping_2025_W49_ADVANCED-MARKET-REPORT-WEEK-49": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 22084
+    },
+    "advanced_shipping_2025_W50_ADVANCED-MARKET-REPORT-WEEK-50": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 17947
+    },
+    "advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 20054
+    },
+    "advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20417
+    },
+    "advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20713
+    },
+    "advanced_shipping_2026_W03_ADVANCED-MARKET-REPORT-WEEK-3": {
+      "pages": 11,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "7",
+        "9"
+      ],
+      "md_bytes": 23948
+    },
+    "advanced_shipping_2026_W04_ADVANCED-MARKET-REPORT-WEEK-4": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20654
+    },
+    "advanced_shipping_2026_W05_ADVANCED-MARKET-REPORT-WEEK-5": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20879
+    },
+    "advanced_shipping_2026_W06_ADVANCED-MARKET-REPORT-WEEK-6": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20884
+    },
+    "advanced_shipping_2026_W07_ADVANCED-MARKET-REPORT-WEEK-7": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21070
+    },
+    "advanced_shipping_2026_W08_ADVANCED-MARKET-REPORT-WEEK-8": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19811
+    },
+    "advanced_shipping_2026_W09_ADVANCED-MARKET-REPORT-WEEK-9": {
+      "pages": 10,
+      "tables": 19,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 22170
+    },
+    "advanced_shipping_2026_W10_ADVANCED-MARKET-REPORT-WEEK-10": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21738
+    },
+    "advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19335
+    },
+    "advanced_shipping_2026_W12_ADVANCED-MARKET-REPORT-WEEK-12": {
+      "pages": 10,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19845
+    },
+    "advanced_shipping_2026_W13_ADVANCED-MARKET-REPORT-WEEK-13": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19550
+    },
+    "advanced_shipping_2026_W14_ADVANCED-MARKET-REPORT-WEEK-14": {
+      "pages": 10,
+      "tables": 20,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19953
+    },
+    "advanced_shipping_2026_W15_ADVANCED-MARKET-REPORT-WEEK-15": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 18780
+    },
+    "advanced_shipping_2026_W16_ADVANCED-MARKET-REPORT-WEEK-16": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18437
+    },
+    "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19599
+    },
+    "advanced_shipping_2026_W18_ADVANCED-MARKET-REPORT-WEEK-18": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 19093
+    },
+    "advanced_shipping_2026_W19_ADVANCED-MARKET-REPORT-WEEK-19": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 18607
+    },
+    "advanced_shipping_2026_W20_ADVANCED-MARKET-REPORT-WEEK-20": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 20654
+    },
+    "advanced_shipping_2026_W21_ADVANCED-MARKET-REPORT-WEEK-21": {
+      "pages": 11,
+      "tables": 18,
+      "chart_pages": [
+        "1",
+        "2",
+        "7",
+        "9"
+      ],
+      "md_bytes": 22556
+    },
+    "advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 17597
+    },
+    "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18280
+    },
+    "advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19165
+    },
+    "advanced_shipping_2026_W25_ADVANCED-MARKET-REPORT-WEEK-25": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21572
+    },
+    "advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 20110
+    },
+    "advanced_shipping_2026_W27_ADVANCED-MARKET-REPORT-WEEK-27-1": {
+      "pages": 10,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 21988
+    },
+    "advanced_shipping_2026_W28_ADVANCED-MARKET-REPORT-WEEK-28": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18588
+    },
+    "advanced_shipping_2026_W29_ADVANCED-MARKET-REPORT-WEEK-29": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19391
+    },
+    "advanced_shipping_2026_W30_ADVANCED-MARKET-REPORT-WEEK-30": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19275
+    },
+    "advanced_shipping_2026_W31_ADVANCED-MARKET-REPORT-WEEK-31": {
+      "pages": 9,
+      "tables": 17,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 19173
+    },
+    "advanced_shipping_2026_W32_ADVANCED-MARKET-REPORT-WEEK-32": {
+      "pages": 9,
+      "tables": 14,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18587
+    },
+    "advanced_shipping_2026_W33_ADVANCED-MARKET-REPORT-WEEK-33-34": {
+      "pages": 10,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "md_bytes": 22210
+    },
+    "advanced_shipping_2026_W35_ADVANCED-MARKET-REPORT-WEEK-35": {
+      "pages": 9,
+      "tables": 15,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 18392
+    },
+    "advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36": {
+      "pages": 9,
+      "tables": 16,
+      "chart_pages": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "md_bytes": 21078
+    }
+  },
+  "failed": {}
+}

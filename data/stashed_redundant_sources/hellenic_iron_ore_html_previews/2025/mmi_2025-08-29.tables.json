@@ -1,0 +1,51 @@
+{
+  "issue_date": "2025-08-29",
+  "year": "2025",
+  "title": "MMI Daily Iron Ore Index Report August 29 2025",
+  "source_file": "2025-08-29_mmi-daily-iron-ore-index-report-august-29-2025.html",
+  "records_count": 2,
+  "records": [
+    {
+      "issue_date": "2025-08-29",
+      "index_family": "IOSI",
+      "index_code": "IOSI62",
+      "fe_grade": "62% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 106.58,
+      "cfr_change": 0.58,
+      "cfr_change_pct": 0.55,
+      "cfr_mtd": 102.1,
+      "cfr_ytd": 110.01,
+      "cfr_low": 89.79,
+      "cfr_high": 142.65,
+      "source_file": "2025-08-29_mmi-daily-iron-ore-index-report-august-29-2025.html"
+    },
+    {
+      "issue_date": "2025-08-29",
+      "index_family": "IOSI",
+      "index_code": "IOSI65",
+      "fe_grade": "65% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 121.82,
+      "cfr_change": 0.22,
+      "cfr_change_pct": 0.18,
+      "cfr_mtd": 112.02,
+      "cfr_ytd": 124.25,
+      "cfr_low": 98.23,
+      "cfr_high": 171.65,
+      "source_file": "2025-08-29_mmi-daily-iron-ore-index-report-august-29-2025.html"
+    }
+  ]
+}

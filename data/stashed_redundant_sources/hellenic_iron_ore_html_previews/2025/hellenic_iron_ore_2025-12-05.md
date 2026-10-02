@@ -1,0 +1,38 @@
+---
+title: "MMi Daily Iron Ore Index & Freight Report - 2025-12-05"
+date: "2025-12-05"
+year: 2025
+source: "hellenic/mmi"
+benchmark_fe_grade: "62.0%\product"
+iosi_bench_usd_dmt: 107.25
+iopi_bench_rmb_wmt: 813.0
+c3_tubarao_qingdao_usd_t: 25.81
+c5_waust_qingdao_usd_t: 12.54
+source_file: "2025-12-05_mmi-daily-iron-ore-index-report-december-05-2025_mmi-daily-iron-ore-report-for-5th-de_20fe75300f41.pdf"
+---
+
+# MMi Daily Iron Ore Index Report — 2025-12-05
+
+## Daily Pricing & Freight Assessment Dashboard
+
+| Metric | Value | Unit | Daily Change |
+| :--- | :---: | :---: | :---: |
+| **Seaborne Benchmark (62.0%)** | 107.25 | USD/dmt (CFR Qingdao) | -0.75 |
+| **Seaborne 65% Fe Fines** | 123.9 | USD/dmt (CFR Qingdao) | -0.05 |
+| **Port Stock Benchmark (62.0%)** | 813.0 | RMB/wet tonne (FOT) | -5.0 |
+| **Port Stock 65% Fe Fines** | 925.0 | RMB/wet tonne (FOT) | -4.96 |
+| **Port Stock 58% Fe Fines** | 714.0 | RMB/wet tonne (FOT) | -7.0 |
+| **Port Stock 62.5% Fe Lump** | 865.0 | RMB/wet tonne (FOT) | -12.0 |
+| **DCE Iron Ore Futures (Front)** | 785.5 | RMB/t | - |
+| **SGX Iron Ore Futures (Front)** | 103.2 | USD/dmt | - |
+| **SHFE Rebar Futures (Front)** | 3157.0 | RMB/t | - |
+| **Capesize C3 Tubarao–Qingdao** | 25.81 | USD/t | 0.39 |
+| **Capesize C5 W.Aus–Qingdao** | 12.54 | USD/t | 0.12 |
+| **Domestic Chinese Rebar** | 3190.0 | RMB/t | - |
+| **Domestic Chinese HRC** | 3307.0 | RMB/t | - |
+| **Chinese 35-Port Iron Ore Inventory** | 139.82 | Million Tonnes | - |
+| **Chinese Steel Inventory** | 9.58 | Million Tonnes | - |
+
+## Daily Market Commentary
+
+The DCE iron ore futures contract on the DCE traded in the doldrums today. As the contract rollover shiŌed to I2605, it closed at 769 yuan, down 0.77% from the previous trading day. Traders showed a moderate willingness to sell. Approaching the weekend, steel mills saw a decline in purchasing enthusiasm, resulƟng in a sluggish market transacƟon atmosphere. In Shandong, PB ﬁnes traded at 780-787 yuan/mt, down 5-10 yuan/mt from yesterday. In Hebei, PB ﬁnes traded at 790-800 yuan/mt, also down 5-10 yuan/mt from yesterday. As of December 5, SMM staƟsƟcs showed that iron ore inventories at 35 ports naƟonwide totaled 139.82 million mt, an increase of 1.21 million mt WoW. The average daily port pick-up volume this week was 2.686 million mt, down 69,000 mt WoW. Recently, as annual maintenance at blast furnaces in steel mills entered a concentrated period, iron ore demand declined signiﬁcantly, puƫng pressure on prices. Considering that an important meeƟng is scheduled for next week, market senƟment remains posiƟve, and downside room is expected to be limited. COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) ¹ Exchange rate applied: RMB/USD =   7.191          ²Last 12 months 3 Weekly exchange rate applied: RMB/USD =7.19258 IRON ORE PORT STOCK INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES IRON ORE SEABORNE INDEX (IOSI) IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES IRON ORE SEABORNE INDEX, CFR QINGDAO (USD/DMT) FREIGHT RATES IRON ORE PORT LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES IRON ORE INDEX PREMIUMS/DISCOUNTS Page 2/6 Dec 5th, 2025 Dec 5th, 2025 Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change % MTD YTD Low ² High ² IOPI62 62% Fe Fines 813 -5 -0.6% 785 832 683 1063 106.73 -0.74 -0.7% 101.85 108.39 89.33 140.24 IOPI58 58% Fe Fines 714 -7 -1.0% 689 729 610 963 94.29 -1.02 -1.1% 89.93 95.61 80.25 128.13 IOPI65 65% Fe Fines 925 -5 -0.5% 897 943 794 1175 121.96 -0.70 -0.6% 116.88 123.45 104.47 155.37 Dec 5th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹ Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW Change % MTD YTD Low 2 High 2 IOPLI62 62.5% Fe Lump 865 -12 -1.4% 901 963 820 1210 109.04 -1.51 -1.36% 112.51 120.73 102.77 153.57 CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3 Week Ending Dec 5th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne Index Fe Content August September October November MTD QTD YTD August September October November MTD QTD YTD IOPLI62 62.5% Fe Lump 921 926 909 880 901 896 963 115.37 116.51 114.52 110.83 112.51 111.98 120.73 CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹ Week Ending Dec 5th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne Index Fe Content Price Change Change % MTD YTD Low 2 High 2 IOSI62 62% Fe Fines 107.25 -0.75 -0.70% 103.27 109.66 89.79 142.65 IOSI65 65% Fe Fines 123.90 -0.05 -0.04% 114.50 124.07 98.23 171.65 Dec 5th, 2025 CFR Qingdao, USD/dry tonne Index Fe Content August September October November MTD QTD YTD IOSI62 62% Fe Fines 104.59 107.88 107.27 106.33 103.27 102.50 109.66 IOSI65 65% Fe Fines 118.01 122.98 122.90 122.46 114.50 113.67 124.07 Dec 5th, 2025 CFR Qingdao, USD/dry tonne Province Region Product Basis This week Change % Low ² High ² This week Change % Low ² High ² Hebei Hanxing 66% Fe Concentrate Dry 964 1.2% 859 1226 136.23 1.22% 119.88 172.59 Hebei Qian'an 65% Fe Concentrate Dry 1020 0.0% 880 1300 144.14 0.06% 122.81 183.23 Liaoning Anshan 65% Fe Concentrate Wet 762 0.0% 690 970 107.68 0.06% 96.49 136.72 Shandong Zibo 65% Fe Concentrate Dry 997 1.3% 878 1294 140.89 1.38% 122.53 182.16 USD/tonne (excluding tax) 3 Week Ending Dec 5th, 2025 RMB/tonne (excluding tax) 3 Week Ending Dec 5th, 2025 This week Change % Low 2 High 2 899.68 0.30% 802.20 905.40 China Mines Concentrate Composite Index RMB/WT 450 650 850 1050 1250 1450 1650 1850 2050 1-Jan-21 1-Mar-21 1-May-21 1-Jul-21 1-Sep-21 1-Nov-21 1-Jan-22 1-Mar-22 1-May-22 1-Jul-22 1-Sep-22 1-Nov-22 1-Jan-23 1-Mar-23 1-May-23 1-Jul-23 1-Sep-23 1-Nov-23 1-Jan-24 1-Mar-24 1-May-24 1-Jul-24 1-Sep-24 1-Nov-24 1-Jan-25 1-Mar-25 1-May-25 1-Jul-25 1-Sep-25 1-Nov-25 IOPI62 IOPI58 IOPI65 70 120 170 220 270 320 4-Jan-21 4-Mar-21 4-May-21 4-Jul-21 4-Sep-21 4-Nov-21 4-Jan-22 4-Mar-22 4-May-22 4-Jul-22 4-Sep-22 4-Nov-22 4-Jan-23 4-Mar-23 4-May-23 4-Jul-23 4-Sep-23 4-Nov-23 4-Jan-24 4-Mar-24 4-May-24 4-Jul-24 4-Sep-24 4-Nov-24 4-Jan-25 4-Mar-25 4-May-25 4-Jul-25 4-Sep-25 4-Nov-25 IOSI62 IOSI65 Dec 4th, 2025 Route Designation Change Change % Low 2 High 2 W. Australia - Qingdao C5 12.54 0.12 1.0% 5.92 14.89 Tubarao - Qingdao C3 25.81 0.39 1.5% 16.08 35.02 FREIGHT RATES - DRY BULK US$/wet tonne Dec 5th, 2025 Index Fe Content Spread to IOPI62 % Spread to IOPI62 IOPI58 58% Fe Fines -99 -12.18% IOPI65 65% Fe Fines 112 13.78% PORT STOCK INDEX (RMB/WT) Dec 5th, 2025 Index Fe Content Spread to IOSI62 % Spread to IOSI62 IOSI65 65% Fe Fines 16.65 15.53% SEABORNE INDEX (USD/DMT) Index Fe Content August September October November MTD QTD YTD August September October November MTD QTD YTD IOPI62 62% Fe Fines 795 801 792 805 785 780 832 103.51 104.69 103.56 105.46 101.85 101.19 108.39 IOPI58 58% Fe Fines 683 716 726 720 689 684 729 89.38 94.18 95.66 95.02 89.93 89.25 95.61 IOPI65 65% Fe Fines 907 914 903 917 897 892 943 118.58 119.85 118.69 120.64 116.88 116.24 123.45 Dec 5th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne

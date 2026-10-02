@@ -1,0 +1,1392 @@
+{
+  "reports_processed": 173,
+  "total_extracted_sales": 1304,
+  "total_extracted_demos": 120,
+  "unique_issues": 173,
+  "reports": [
+    {
+      "stem": "2021-07-02_clarkson-platou-hellas-sp-weekly-bulletin-107_report-02-07-2021_e704689b98db",
+      "filename": "2021-07-02_clarkson-platou-hellas-sp-weekly-bulletin-107_report-02-07-2021_e704689b98db.pdf",
+      "issue_date": "2021-07-02",
+      "printed_date": "02/07/2021",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022",
+      "filename": "2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf",
+      "issue_date": "2021-07-09",
+      "printed_date": "09/07/2021",
+      "sales_count": 16,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40",
+      "filename": "2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf",
+      "issue_date": "2021-07-16",
+      "printed_date": "16/07/2021",
+      "sales_count": 8,
+      "demo_count": 1
+    },
+    {
+      "stem": "2021-07-23_clarkson-platou-hellas-sp-weekly-bulletin-110_report-23-07-2021_af556d5231b5",
+      "filename": "2021-07-23_clarkson-platou-hellas-sp-weekly-bulletin-110_report-23-07-2021_af556d5231b5.pdf",
+      "issue_date": "2021-07-23",
+      "printed_date": "23/07/2021",
+      "sales_count": 10,
+      "demo_count": 1
+    },
+    {
+      "stem": "2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f",
+      "filename": "2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf",
+      "issue_date": "2021-07-30",
+      "printed_date": "30/07/2021",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28",
+      "filename": "2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf",
+      "issue_date": "2021-08-06",
+      "printed_date": "06/08/2021",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07",
+      "filename": "2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf",
+      "issue_date": "2021-08-13",
+      "printed_date": "13/08/2021",
+      "sales_count": 6,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797",
+      "filename": "2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf",
+      "issue_date": "2021-08-20",
+      "printed_date": "20/08/2021",
+      "sales_count": 5,
+      "demo_count": 1
+    },
+    {
+      "stem": "2021-08-27_clarkson-platou-hellas-sp-weekly-bulletin-115_report-27-08-2021_7a47ea7ea567",
+      "filename": "2021-08-27_clarkson-platou-hellas-sp-weekly-bulletin-115_report-27-08-2021_7a47ea7ea567.pdf",
+      "issue_date": "2021-08-27",
+      "printed_date": "27/08/2021",
+      "sales_count": 7,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb",
+      "filename": "2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf",
+      "issue_date": "2021-09-03",
+      "printed_date": "03/09/2021",
+      "sales_count": 5,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df",
+      "filename": "2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf",
+      "issue_date": "2021-09-10",
+      "printed_date": "10/09/2021",
+      "sales_count": 4,
+      "demo_count": 3
+    },
+    {
+      "stem": "2021-09-17_clarkson-platou-hellas-sp-weekly-bulletin-118_report-17-09-2021_e22a785afef4",
+      "filename": "2021-09-17_clarkson-platou-hellas-sp-weekly-bulletin-118_report-17-09-2021_e22a785afef4.pdf",
+      "issue_date": "2021-09-17",
+      "printed_date": "17/09/2021",
+      "sales_count": 20,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac",
+      "filename": "2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf",
+      "issue_date": "2021-09-24",
+      "printed_date": "24/09/2021",
+      "sales_count": 12,
+      "demo_count": 1
+    },
+    {
+      "stem": "2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc",
+      "filename": "2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf",
+      "issue_date": "2021-10-01",
+      "printed_date": "01/10/2021",
+      "sales_count": 11,
+      "demo_count": 3
+    },
+    {
+      "stem": "2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8",
+      "filename": "2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf",
+      "issue_date": "2021-10-08",
+      "printed_date": "08/10/2021",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98",
+      "filename": "2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf",
+      "issue_date": "2021-10-15",
+      "printed_date": "15/10/2021",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5",
+      "filename": "2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf",
+      "issue_date": "2021-10-22",
+      "printed_date": "22/10/2021",
+      "sales_count": 7,
+      "demo_count": 4
+    },
+    {
+      "stem": "2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c",
+      "filename": "2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf",
+      "issue_date": "2021-10-29",
+      "printed_date": "29/10/2021",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-11-05_clarkson-platou-hellas-sp-weekly-bulletin-125_report-05-11-2021_27b485b43cdf",
+      "filename": "2021-11-05_clarkson-platou-hellas-sp-weekly-bulletin-125_report-05-11-2021_27b485b43cdf.pdf",
+      "issue_date": "2021-11-05",
+      "printed_date": "05/11/2021",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-11-12_clarkson-platou-hellas-sp-weekly-bulletin-126_report-12-11-2021_19f50837725b",
+      "filename": "2021-11-12_clarkson-platou-hellas-sp-weekly-bulletin-126_report-12-11-2021_19f50837725b.pdf",
+      "issue_date": "2021-11-12",
+      "printed_date": "12/11/2021",
+      "sales_count": 7,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af",
+      "filename": "2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf",
+      "issue_date": "2021-11-19",
+      "printed_date": "19/11/2021",
+      "sales_count": 9,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9",
+      "filename": "2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf",
+      "issue_date": "2021-11-26",
+      "printed_date": "26/11/2021",
+      "sales_count": 6,
+      "demo_count": 2
+    },
+    {
+      "stem": "2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53",
+      "filename": "2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf",
+      "issue_date": "2021-12-03",
+      "printed_date": "03/12/2021",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b",
+      "filename": "2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf",
+      "issue_date": "2021-12-10",
+      "printed_date": "10/12/2021",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786",
+      "filename": "2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf",
+      "issue_date": "2021-12-17",
+      "printed_date": "17/12/2021",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d",
+      "filename": "2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf",
+      "issue_date": "2021-12-24",
+      "printed_date": "24/12/2021",
+      "sales_count": 6,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-01-07_clarksons-platou-hellas-snp-weekly-bulletin-3_report-07-01-2022_aef50b22d82c",
+      "filename": "2022-01-07_clarksons-platou-hellas-snp-weekly-bulletin-3_report-07-01-2022_aef50b22d82c.pdf",
+      "issue_date": "2022-01-07",
+      "printed_date": "07/01/2022",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-01-14_clarksons-platou-hellas-snp-weekly-bulletin-4_report-14-01-2022_c9c757c0d170",
+      "filename": "2022-01-14_clarksons-platou-hellas-snp-weekly-bulletin-4_report-14-01-2022_c9c757c0d170.pdf",
+      "issue_date": "2022-01-14",
+      "printed_date": "14/01/2022",
+      "sales_count": 5,
+      "demo_count": 2
+    },
+    {
+      "stem": "2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f",
+      "filename": "2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf",
+      "issue_date": "2022-01-21",
+      "printed_date": "21/01/2022",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739",
+      "filename": "2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf",
+      "issue_date": "2022-01-28",
+      "printed_date": "28/01/2022",
+      "sales_count": 31,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f",
+      "filename": "2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf",
+      "issue_date": "2022-02-04",
+      "printed_date": "04/02/2022",
+      "sales_count": 5,
+      "demo_count": 2
+    },
+    {
+      "stem": "2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda",
+      "filename": "2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf",
+      "issue_date": "2022-02-11",
+      "printed_date": "11/02/2022",
+      "sales_count": 8,
+      "demo_count": 5
+    },
+    {
+      "stem": "2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7",
+      "filename": "2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf",
+      "issue_date": "2022-02-18",
+      "printed_date": "18/02/2022",
+      "sales_count": 6,
+      "demo_count": 3
+    },
+    {
+      "stem": "2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9",
+      "filename": "2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf",
+      "issue_date": "2022-02-25",
+      "printed_date": "25/02/2022",
+      "sales_count": 22,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209",
+      "filename": "2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf",
+      "issue_date": "2022-03-04",
+      "printed_date": "04/03/2022",
+      "sales_count": 7,
+      "demo_count": 2
+    },
+    {
+      "stem": "2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a",
+      "filename": "2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf",
+      "issue_date": "2022-03-11",
+      "printed_date": "11/03/2022",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-03-18_clarksons-platou-hellas-snp-weekly-bulletin-13_report-18-03-2022_61857c23cc73",
+      "filename": "2022-03-18_clarksons-platou-hellas-snp-weekly-bulletin-13_report-18-03-2022_61857c23cc73.pdf",
+      "issue_date": "2022-03-18",
+      "printed_date": "18/03/2022",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51",
+      "filename": "2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf",
+      "issue_date": "2022-03-25",
+      "printed_date": "25/03/2022",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-04-01_clarkson-platou-hellas-sp-weekly-bulletin-133_report-01-04-2022_daa56db7c6e0",
+      "filename": "2022-04-01_clarkson-platou-hellas-sp-weekly-bulletin-133_report-01-04-2022_daa56db7c6e0.pdf",
+      "issue_date": "2022-04-01",
+      "printed_date": "01/04/2022",
+      "sales_count": 11,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c",
+      "filename": "2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf",
+      "issue_date": "2022-04-08",
+      "printed_date": "08/04/2022",
+      "sales_count": 18,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-04-15_clarksons-platou-hellas-snp-weekly-bulletin-14_report-15-04-2022_72ae8847975f",
+      "filename": "2022-04-15_clarksons-platou-hellas-snp-weekly-bulletin-14_report-15-04-2022_72ae8847975f.pdf",
+      "issue_date": "2022-04-15",
+      "printed_date": "15/04/2022",
+      "sales_count": 6,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238",
+      "filename": "2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf",
+      "issue_date": "2022-04-22",
+      "printed_date": "22/04/2022",
+      "sales_count": 6,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877",
+      "filename": "2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf",
+      "issue_date": "2022-04-29",
+      "printed_date": "29/04/2022",
+      "sales_count": 12,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da",
+      "filename": "2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf",
+      "issue_date": "2022-05-06",
+      "printed_date": "06/05/2022",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328",
+      "filename": "2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf",
+      "issue_date": "2022-05-13",
+      "printed_date": "13/05/2022",
+      "sales_count": 10,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57",
+      "filename": "2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf",
+      "issue_date": "2022-05-20",
+      "printed_date": "20/05/2022",
+      "sales_count": 5,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-05-27_clarksons-platou-hellas-snp-weekly-bulletin-20_report-27-05-2022_ef553fc36b4b",
+      "filename": "2022-05-27_clarksons-platou-hellas-snp-weekly-bulletin-20_report-27-05-2022_ef553fc36b4b.pdf",
+      "issue_date": "2022-05-27",
+      "printed_date": "27/05/2022",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df",
+      "filename": "2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf",
+      "issue_date": "2022-06-03",
+      "printed_date": "03/06/2022",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-06-10_clarksons-platou-hellas-snp-weekly-bulletin-22_report-10-06-2022_bafa88ee146a",
+      "filename": "2022-06-10_clarksons-platou-hellas-snp-weekly-bulletin-22_report-10-06-2022_bafa88ee146a.pdf",
+      "issue_date": "2022-06-10",
+      "printed_date": "10/06/2022",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc",
+      "filename": "2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf",
+      "issue_date": "2022-06-17",
+      "printed_date": "17/06/2022",
+      "sales_count": 8,
+      "demo_count": 2
+    },
+    {
+      "stem": "2022-06-24_clarksons-platou-hellas-snp-weekly-bulletin-24_report-24-06-2022_dd74ff1f1925",
+      "filename": "2022-06-24_clarksons-platou-hellas-snp-weekly-bulletin-24_report-24-06-2022_dd74ff1f1925.pdf",
+      "issue_date": "2022-06-24",
+      "printed_date": "24/06/2022",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4",
+      "filename": "2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf",
+      "issue_date": "2022-07-01",
+      "printed_date": "01/07/2022",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991",
+      "filename": "2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf",
+      "issue_date": "2022-07-08",
+      "printed_date": "08/07/2022",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40",
+      "filename": "2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf",
+      "issue_date": "2022-07-15",
+      "printed_date": "15/07/2022",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6",
+      "filename": "2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf",
+      "issue_date": "2022-07-22",
+      "printed_date": "22/07/2022",
+      "sales_count": 5,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24",
+      "filename": "2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf",
+      "issue_date": "2022-07-29",
+      "printed_date": "29/07/2022",
+      "sales_count": 9,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581",
+      "filename": "2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "issue_date": "2022-08-05",
+      "printed_date": "05/08/2022",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-08-12_clarksons-platou-hellas-snp-weekly-bulletin-31_report-12-08-22_bd3e711833dc",
+      "filename": "2022-08-12_clarksons-platou-hellas-snp-weekly-bulletin-31_report-12-08-22_bd3e711833dc.pdf",
+      "issue_date": "2022-08-12",
+      "printed_date": "12/08/2022",
+      "sales_count": 13,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f",
+      "filename": "2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf",
+      "issue_date": "2022-08-19",
+      "printed_date": "19/08/2022",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d",
+      "filename": "2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "issue_date": "2022-08-26",
+      "printed_date": "26/08/2022",
+      "sales_count": 4,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-09-03_clarksons-platou-hellas-snp-weekly-bulletin-34_report-02-09-2022_3ed076c9b22b",
+      "filename": "2022-09-03_clarksons-platou-hellas-snp-weekly-bulletin-34_report-02-09-2022_3ed076c9b22b.pdf",
+      "issue_date": "2022-09-03",
+      "printed_date": "03/09/2022",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c",
+      "filename": "2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
+      "issue_date": "2022-09-09",
+      "printed_date": "09/09/2022",
+      "sales_count": 2,
+      "demo_count": 3
+    },
+    {
+      "stem": "2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6",
+      "filename": "2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf",
+      "issue_date": "2022-09-16",
+      "printed_date": "16/09/2022",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b",
+      "filename": "2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf",
+      "issue_date": "2022-09-23",
+      "printed_date": "23/09/2022",
+      "sales_count": 12,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840",
+      "filename": "2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf",
+      "issue_date": "2022-09-30",
+      "printed_date": "30/09/2022",
+      "sales_count": 12,
+      "demo_count": 2
+    },
+    {
+      "stem": "2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab",
+      "filename": "2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf",
+      "issue_date": "2022-10-07",
+      "printed_date": "07/10/2022",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8",
+      "filename": "2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf",
+      "issue_date": "2022-10-14",
+      "printed_date": "14/10/2022",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a",
+      "filename": "2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf",
+      "issue_date": "2022-10-21",
+      "printed_date": "21/10/2022",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-10-28_clarksons-platou-hellas-snp-weekly-bulletin-42_report-29-10-2022_d88997c2e5f4",
+      "filename": "2022-10-28_clarksons-platou-hellas-snp-weekly-bulletin-42_report-29-10-2022_d88997c2e5f4.pdf",
+      "issue_date": "2022-10-28",
+      "printed_date": "28/10/2022",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200",
+      "filename": "2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "issue_date": "2022-11-04",
+      "printed_date": "04/11/2022",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee",
+      "filename": "2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf",
+      "issue_date": "2022-11-11",
+      "printed_date": "11/11/2022",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692",
+      "filename": "2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf",
+      "issue_date": "2022-11-18",
+      "printed_date": "18/11/2022",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274",
+      "filename": "2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf",
+      "issue_date": "2022-11-25",
+      "printed_date": "25/11/2022",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1",
+      "filename": "2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf",
+      "issue_date": "2022-12-02",
+      "printed_date": "02/12/2022",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6",
+      "filename": "2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf",
+      "issue_date": "2022-12-09",
+      "printed_date": "09/12/2022",
+      "sales_count": 5,
+      "demo_count": 1
+    },
+    {
+      "stem": "2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e",
+      "filename": "2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf",
+      "issue_date": "2022-12-16",
+      "printed_date": "16/12/2022",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2",
+      "filename": "2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf",
+      "issue_date": "2022-12-23",
+      "printed_date": "23/12/2022",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902",
+      "filename": "2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf",
+      "issue_date": "2023-01-09",
+      "printed_date": "09/01/2023",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587",
+      "filename": "2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf",
+      "issue_date": "2023-01-13",
+      "printed_date": "13/01/2023",
+      "sales_count": 3,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de",
+      "filename": "2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf",
+      "issue_date": "2023-01-20",
+      "printed_date": "20/01/2023",
+      "sales_count": 12,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19",
+      "filename": "2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "issue_date": "2023-01-27",
+      "printed_date": "27/01/2023",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0",
+      "filename": "2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "issue_date": "2023-02-03",
+      "printed_date": "03/02/2023",
+      "sales_count": 4,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-02-10_clarksons-platou-hellas-snp-weekly-bulletin-56_report-10-02-2023_ec9e0ce4d0c3",
+      "filename": "2023-02-10_clarksons-platou-hellas-snp-weekly-bulletin-56_report-10-02-2023_ec9e0ce4d0c3.pdf",
+      "issue_date": "2023-02-10",
+      "printed_date": "10/02/2023",
+      "sales_count": 8,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289",
+      "filename": "2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf",
+      "issue_date": "2023-02-17",
+      "printed_date": "17/02/2023",
+      "sales_count": 10,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef",
+      "filename": "2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
+      "issue_date": "2023-02-24",
+      "printed_date": "24/02/2023",
+      "sales_count": 4,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6",
+      "filename": "2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "issue_date": "2023-03-03",
+      "printed_date": "03/03/2023",
+      "sales_count": 4,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2",
+      "filename": "2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf",
+      "issue_date": "2023-03-10",
+      "printed_date": "10/03/2023",
+      "sales_count": 15,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f",
+      "filename": "2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf",
+      "issue_date": "2023-03-17",
+      "printed_date": "17/03/2023",
+      "sales_count": 18,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de",
+      "filename": "2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf",
+      "issue_date": "2023-03-24",
+      "printed_date": "24/03/2023",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068",
+      "filename": "2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf",
+      "issue_date": "2023-03-31",
+      "printed_date": "31/03/2023",
+      "sales_count": 10,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64_report-07-04-2023_42c63f0f7234",
+      "filename": "2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64_report-07-04-2023_42c63f0f7234.pdf",
+      "issue_date": "2023-04-11",
+      "printed_date": "11/04/2023",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc",
+      "filename": "2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
+      "issue_date": "2023-04-18",
+      "printed_date": "18/04/2023",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66_report-21-04-2023_cd28114850b9",
+      "filename": "2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66_report-21-04-2023_cd28114850b9.pdf",
+      "issue_date": "2023-04-21",
+      "printed_date": "21/04/2023",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9",
+      "filename": "2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf",
+      "issue_date": "2023-04-28",
+      "printed_date": "28/04/2023",
+      "sales_count": 9,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32",
+      "filename": "2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf",
+      "issue_date": "2023-05-05",
+      "printed_date": "05/05/2023",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-05-12_clarksons-platou-hellas-snp-weekly-bulletin-69_report-12-05-2023_c4a42e611d08",
+      "filename": "2023-05-12_clarksons-platou-hellas-snp-weekly-bulletin-69_report-12-05-2023_c4a42e611d08.pdf",
+      "issue_date": "2023-05-12",
+      "printed_date": "12/05/2023",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c",
+      "filename": "2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf",
+      "issue_date": "2023-05-19",
+      "printed_date": "19/05/2023",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-05-26_clarksons-platou-hellas-snp-weekly-bulletin-71_report-26-05-2023_611f6a0e2ea8",
+      "filename": "2023-05-26_clarksons-platou-hellas-snp-weekly-bulletin-71_report-26-05-2023_611f6a0e2ea8.pdf",
+      "issue_date": "2023-05-26",
+      "printed_date": "26/05/2023",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72_report-02-06-2023_7143eb483b0b",
+      "filename": "2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72_report-02-06-2023_7143eb483b0b.pdf",
+      "issue_date": "2023-06-02",
+      "printed_date": "02/06/2023",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd",
+      "filename": "2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf",
+      "issue_date": "2023-06-09",
+      "printed_date": "09/06/2023",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461",
+      "filename": "2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf",
+      "issue_date": "2023-06-16",
+      "printed_date": "16/06/2023",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75_report-23-06-2023_3eb4658af482",
+      "filename": "2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75_report-23-06-2023_3eb4658af482.pdf",
+      "issue_date": "2023-06-23",
+      "printed_date": "23/06/2023",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6",
+      "filename": "2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf",
+      "issue_date": "2023-06-30",
+      "printed_date": "30/06/2023",
+      "sales_count": 9,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92",
+      "filename": "2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "issue_date": "2023-07-10",
+      "printed_date": "10/07/2023",
+      "sales_count": 3,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-07-14_clarksons-platou-hellas-snp-weekly-bulletin-78_report-14-07-2023_a17851ba7a71",
+      "filename": "2023-07-14_clarksons-platou-hellas-snp-weekly-bulletin-78_report-14-07-2023_a17851ba7a71.pdf",
+      "issue_date": "2023-07-14",
+      "printed_date": "14/07/2023",
+      "sales_count": 11,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-07-21_clarksons-platou-hellas-snp-weekly-bulletin-79_report-21-07-2023_cebb0332bb75",
+      "filename": "2023-07-21_clarksons-platou-hellas-snp-weekly-bulletin-79_report-21-07-2023_cebb0332bb75.pdf",
+      "issue_date": "2023-07-21",
+      "printed_date": "21/07/2023",
+      "sales_count": 11,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6",
+      "filename": "2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf",
+      "issue_date": "2023-07-28",
+      "printed_date": "28/07/2023",
+      "sales_count": 7,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669",
+      "filename": "2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf",
+      "issue_date": "2023-08-04",
+      "printed_date": "04/08/2023",
+      "sales_count": 8,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2",
+      "filename": "2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
+      "issue_date": "2023-08-11",
+      "printed_date": "11/08/2023",
+      "sales_count": 3,
+      "demo_count": 4
+    },
+    {
+      "stem": "2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84_report-18-08-2023_812f63a92355",
+      "filename": "2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84_report-18-08-2023_812f63a92355.pdf",
+      "issue_date": "2023-08-18",
+      "printed_date": "18/08/2023",
+      "sales_count": 3,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-08-25_clarksons-platou-hellas-snp-weekly-bulletin-85_report-25-08-2023_0fa1274c15b5",
+      "filename": "2023-08-25_clarksons-platou-hellas-snp-weekly-bulletin-85_report-25-08-2023_0fa1274c15b5.pdf",
+      "issue_date": "2023-08-25",
+      "printed_date": "25/08/2023",
+      "sales_count": 5,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46",
+      "filename": "2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf",
+      "issue_date": "2023-09-01",
+      "printed_date": "01/09/2023",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-09-08_clarksons-platou-hellas-snp-weekly-bulletin-87_report-08-09-2023_a08f1bb9d390",
+      "filename": "2023-09-08_clarksons-platou-hellas-snp-weekly-bulletin-87_report-08-09-2023_a08f1bb9d390.pdf",
+      "issue_date": "2023-09-08",
+      "printed_date": "08/09/2023",
+      "sales_count": 8,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88_report-15-09-2023_9f6565360e1e",
+      "filename": "2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88_report-15-09-2023_9f6565360e1e.pdf",
+      "issue_date": "2023-09-15",
+      "printed_date": "15/09/2023",
+      "sales_count": 5,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-09-22_clarksons-platou-hellas-snp-weekly-bulletin-89_report-22-09-2023_3c989c2b52f2",
+      "filename": "2023-09-22_clarksons-platou-hellas-snp-weekly-bulletin-89_report-22-09-2023_3c989c2b52f2.pdf",
+      "issue_date": "2023-09-22",
+      "printed_date": "22/09/2023",
+      "sales_count": 8,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea",
+      "filename": "2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf",
+      "issue_date": "2023-09-29",
+      "printed_date": "29/09/2023",
+      "sales_count": 6,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0",
+      "filename": "2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf",
+      "issue_date": "2023-10-06",
+      "printed_date": "06/10/2023",
+      "sales_count": 10,
+      "demo_count": 3
+    },
+    {
+      "stem": "2023-10-13_clarksons-platou-hellas-snp-weekly-bulletin-92_report-13-10-2023_adddb28d298e",
+      "filename": "2023-10-13_clarksons-platou-hellas-snp-weekly-bulletin-92_report-13-10-2023_adddb28d298e.pdf",
+      "issue_date": "2023-10-13",
+      "printed_date": "13/10/2023",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a",
+      "filename": "2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf",
+      "issue_date": "2023-10-20",
+      "printed_date": "20/10/2023",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0",
+      "filename": "2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf",
+      "issue_date": "2023-10-27",
+      "printed_date": "27/10/2023",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95_report-10-11-2023_c64234fb3851",
+      "filename": "2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95_report-10-11-2023_c64234fb3851.pdf",
+      "issue_date": "2023-11-10",
+      "printed_date": "10/11/2023",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720",
+      "filename": "2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf",
+      "issue_date": "2023-11-17",
+      "printed_date": "17/11/2023",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76",
+      "filename": "2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76.pdf",
+      "issue_date": "2023-11-24",
+      "printed_date": "24/11/2023",
+      "sales_count": 5,
+      "demo_count": 2
+    },
+    {
+      "stem": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9",
+      "filename": "2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+      "issue_date": "2023-12-01",
+      "printed_date": "01/12/2023",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e",
+      "filename": "2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf",
+      "issue_date": "2023-12-08",
+      "printed_date": "08/12/2023",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601",
+      "filename": "2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf",
+      "issue_date": "2023-12-15",
+      "printed_date": "15/12/2023",
+      "sales_count": 7,
+      "demo_count": 1
+    },
+    {
+      "stem": "2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3",
+      "filename": "2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf",
+      "issue_date": "2023-12-22",
+      "printed_date": "22/12/2023",
+      "sales_count": 1,
+      "demo_count": 0
+    },
+    {
+      "stem": "2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7",
+      "filename": "2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf",
+      "issue_date": "2024-01-05",
+      "printed_date": "05/01/2024",
+      "sales_count": 8,
+      "demo_count": 1
+    },
+    {
+      "stem": "2024-01-12_clarksons-platou-hellas-snp-weekly-bulletin-103_report-12-01-2024_0f467c38dd98",
+      "filename": "2024-01-12_clarksons-platou-hellas-snp-weekly-bulletin-103_report-12-01-2024_0f467c38dd98.pdf",
+      "issue_date": "2024-01-12",
+      "printed_date": "12/01/2024",
+      "sales_count": 11,
+      "demo_count": 1
+    },
+    {
+      "stem": "2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f",
+      "filename": "2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf",
+      "issue_date": "2024-01-26",
+      "printed_date": "26/01/2024",
+      "sales_count": 8,
+      "demo_count": 1
+    },
+    {
+      "stem": "2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631",
+      "filename": "2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf",
+      "issue_date": "2024-02-09",
+      "printed_date": "09/02/2024",
+      "sales_count": 13,
+      "demo_count": 1
+    },
+    {
+      "stem": "2024-02-16_clarksons-platou-hellas-snp-weekly-bulletin-106_report-16-02-2024_53d0798323a5",
+      "filename": "2024-02-16_clarksons-platou-hellas-snp-weekly-bulletin-106_report-16-02-2024_53d0798323a5.pdf",
+      "issue_date": "2024-02-16",
+      "printed_date": "16/02/2024",
+      "sales_count": 11,
+      "demo_count": 2
+    },
+    {
+      "stem": "2024-02-23_clarksons-platou-hellas-snp-weekly-bulletin-107_report-23-02-2024_550496b5b810",
+      "filename": "2024-02-23_clarksons-platou-hellas-snp-weekly-bulletin-107_report-23-02-2024_550496b5b810.pdf",
+      "issue_date": "2024-02-23",
+      "printed_date": "23/02/2024",
+      "sales_count": 12,
+      "demo_count": 2
+    },
+    {
+      "stem": "2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111_weekly-sales-24th-oct-2025_e721320e3ba1",
+      "filename": "2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111_weekly-sales-24th-oct-2025_e721320e3ba1.pdf",
+      "issue_date": "2025-10-24",
+      "printed_date": "24/10/2025",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f",
+      "filename": "2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf",
+      "issue_date": "2025-10-31",
+      "printed_date": "31/10/2025",
+      "sales_count": 3,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108_weekly-sales-7th-nov-2025_85db4cda082e",
+      "filename": "2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108_weekly-sales-7th-nov-2025_85db4cda082e.pdf",
+      "issue_date": "2025-11-07",
+      "printed_date": "07/11/2025",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10",
+      "filename": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf",
+      "issue_date": "2025-11-14",
+      "printed_date": "14/11/2025",
+      "sales_count": 2,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010",
+      "filename": "2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf",
+      "issue_date": "2025-11-21",
+      "printed_date": "21/11/2025",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c",
+      "filename": "2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf",
+      "issue_date": "2025-11-28",
+      "printed_date": "28/11/2025",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920",
+      "filename": "2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf",
+      "issue_date": "2025-12-05",
+      "printed_date": "05/12/2025",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054",
+      "filename": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+      "issue_date": "2025-12-12",
+      "printed_date": "12/12/2025",
+      "sales_count": 2,
+      "demo_count": 0
+    },
+    {
+      "stem": "2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8",
+      "filename": "2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf",
+      "issue_date": "2025-12-19",
+      "printed_date": "19/12/2025",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116_weekly-sales-09th-jan-2026_bad01e933afa",
+      "filename": "2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116_weekly-sales-09th-jan-2026_bad01e933afa.pdf",
+      "issue_date": "2026-01-09",
+      "printed_date": "09/01/2026",
+      "sales_count": 11,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589",
+      "filename": "2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf",
+      "issue_date": "2026-01-16",
+      "printed_date": "16/01/2026",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9",
+      "filename": "2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf",
+      "issue_date": "2026-01-23",
+      "printed_date": "23/01/2026",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a",
+      "filename": "2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf",
+      "issue_date": "2026-01-30",
+      "printed_date": "30/01/2026",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47",
+      "filename": "2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf",
+      "issue_date": "2026-02-06",
+      "printed_date": "06/02/2026",
+      "sales_count": 6,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121_weekly-sales-13th-feb-2026_4cdac6ac1686",
+      "filename": "2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121_weekly-sales-13th-feb-2026_4cdac6ac1686.pdf",
+      "issue_date": "2026-02-13",
+      "printed_date": "13/02/2026",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500",
+      "filename": "2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf",
+      "issue_date": "2026-02-20",
+      "printed_date": "20/02/2026",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9",
+      "filename": "2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf",
+      "issue_date": "2026-02-27",
+      "printed_date": "27/02/2026",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c",
+      "filename": "2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf",
+      "issue_date": "2026-03-07",
+      "printed_date": "07/03/2026",
+      "sales_count": 12,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125_weekly-sales-13th-mar-2026_661410bf5458",
+      "filename": "2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125_weekly-sales-13th-mar-2026_661410bf5458.pdf",
+      "issue_date": "2026-03-14",
+      "printed_date": "14/03/2026",
+      "sales_count": 3,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a",
+      "filename": "2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf",
+      "issue_date": "2026-03-21",
+      "printed_date": "21/03/2026",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9",
+      "filename": "2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf",
+      "issue_date": "2026-03-28",
+      "printed_date": "28/03/2026",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-04-03_clarksons-platou-hellas-snp-weekly-bulletin-128_weekly-sales-03rd-apr-2026_4ad5d3070a9d",
+      "filename": "2026-04-03_clarksons-platou-hellas-snp-weekly-bulletin-128_weekly-sales-03rd-apr-2026_4ad5d3070a9d.pdf",
+      "issue_date": "2026-04-03",
+      "printed_date": "03/04/2026",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b",
+      "filename": "2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf",
+      "issue_date": "2026-04-17",
+      "printed_date": "17/04/2026",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6",
+      "filename": "2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf",
+      "issue_date": "2026-05-08",
+      "printed_date": "08/05/2026",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132_weekly-sales-15th-may-2026_4b6e66461f46",
+      "filename": "2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132_weekly-sales-15th-may-2026_4b6e66461f46.pdf",
+      "issue_date": "2026-05-15",
+      "printed_date": "15/05/2026",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134_weekly-sales-29th-may-2026_28ba45ac5be5",
+      "filename": "2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134_weekly-sales-29th-may-2026_28ba45ac5be5.pdf",
+      "issue_date": "2026-05-29",
+      "printed_date": "29/05/2026",
+      "sales_count": 8,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480",
+      "filename": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "issue_date": "2026-06-05",
+      "printed_date": "05/06/2026",
+      "sales_count": 2,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8",
+      "filename": "2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf",
+      "issue_date": "2026-06-12",
+      "printed_date": "12/06/2026",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183",
+      "filename": "2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf",
+      "issue_date": "2026-06-19",
+      "printed_date": "19/06/2026",
+      "sales_count": 10,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138_weekly-sales-26th-jun-2026_5f72b66ff835",
+      "filename": "2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138_weekly-sales-26th-jun-2026_5f72b66ff835.pdf",
+      "issue_date": "2026-06-26",
+      "printed_date": "26/06/2026",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140_weekly-sales-10th-july-2026_789eccc1e473",
+      "filename": "2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140_weekly-sales-10th-july-2026_789eccc1e473.pdf",
+      "issue_date": "2026-07-10",
+      "printed_date": "10/07/2026",
+      "sales_count": 4,
+      "demo_count": 0
+    },
+    {
+      "stem": "2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9",
+      "filename": "2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf",
+      "issue_date": "2026-07-31",
+      "printed_date": "31/07/2026",
+      "sales_count": 3,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_18_09_2026_clarksons_hellas_snp_weekly",
+      "filename": "clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf",
+      "issue_date": "2026-09-18",
+      "printed_date": "18/09/2026",
+      "sales_count": 7,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_Weekly-Sales-11th-Sep-2026-",
+      "filename": "clarksons_2026_Weekly-Sales-11th-Sep-2026-.pdf",
+      "issue_date": "2026-09-11",
+      "printed_date": "11 Sep 2026",
+      "sales_count": 5,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_Weekly-Sales-25th-Sept-2026",
+      "filename": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+      "issue_date": "2026-09-25",
+      "printed_date": "25 Sept 2026",
+      "sales_count": 2,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_Weekly-Sales-7th-August-2026",
+      "filename": "clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
+      "issue_date": "2026-08-07",
+      "printed_date": "7 August 2026",
+      "sales_count": 3,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_nan_Weekly-Sales-04th-Sept-2026",
+      "filename": "clarksons_2026_nan_Weekly-Sales-04th-Sept-2026.pdf",
+      "issue_date": "2026-09-04",
+      "printed_date": "4 Sept 2026",
+      "sales_count": 2,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_nan_Weekly-Sales-14th-Aug-2026",
+      "filename": "clarksons_2026_nan_Weekly-Sales-14th-Aug-2026.pdf",
+      "issue_date": "2026-08-14",
+      "printed_date": "14 Aug 2026",
+      "sales_count": 9,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_nan_Weekly-Sales-21st-Aug-2026",
+      "filename": "clarksons_2026_nan_Weekly-Sales-21st-Aug-2026.pdf",
+      "issue_date": "2026-08-21",
+      "printed_date": "21 Aug 2026",
+      "sales_count": 3,
+      "demo_count": 0
+    },
+    {
+      "stem": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026",
+      "filename": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026.pdf",
+      "issue_date": "2026-08-28",
+      "printed_date": "28 Aug 2026",
+      "sales_count": 2,
+      "demo_count": 0
+    }
+  ]
+}

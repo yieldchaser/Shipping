@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "publisher": "SSY",
+    "title": "SSY Pacific Capesize Index",
+    "basin": "Pacific",
+    "issue_date": "2025-03-14",
+    "report_week": 11,
+    "year": 2025,
+    "rates_date_curr": "2025-03-14",
+    "rates_date_prev": "2025-03-07",
+    "publication_date_text": "2025-03-17"
+  },
+  "commentary": {
+    "market_commentary": null,
+    "index_notes": "The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was",
+    "contact_info": "For more information please contact David Beard/Roar Adland"
+  },
+  "calculated_index": {
+    "value_prev": 6005.0,
+    "value_curr": 6582.0,
+    "previous_index": {
+      "prev": 599.0,
+      "curr": 577.0
+    },
+    "four_weeks": {
+      "prev": 2157.0,
+      "curr": 3054.0
+    },
+    "previous_year": {
+      "prev": -3304.0,
+      "curr": -2067.0
+    },
+    "two_years": {
+      "prev": 1213.0,
+      "curr": 1132.0
+    }
+  },
+  "trade_rates": [
+    {
+      "route": "RICHARDS BAY/MUNDRA",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 8.85,
+      "rate_curr": 10.0,
+      "change_usd_t": 1.15
+    },
+    {
+      "route": "DAMPIER/QINGDAO",
+      "cargo_size": "170,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 10.1,
+      "rate_curr": 10.65,
+      "change_usd_t": 0.55
+    },
+    {
+      "route": "SALDAHNA BAY/QINGDAO",
+      "cargo_size": "170,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 16.2,
+      "rate_curr": 17.35,
+      "change_usd_t": 1.15
+    },
+    {
+      "route": "RICHARDS BAY/FANGCHENG",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 14.0,
+      "rate_curr": 15.15,
+      "change_usd_t": 1.15
+    },
+    {
+      "route": "CAPE LAMBERT/ROTTERDAM",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 8.7,
+      "rate_curr": 9.55,
+      "change_usd_t": 0.85
+    },
+    {
+      "route": "QUEENSLAND/JAPAN",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 12.45,
+      "rate_curr": 13.35,
+      "change_usd_t": 0.9
+    },
+    {
+      "route": "QUEENSLAND/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 18.35,
+      "rate_curr": 19.65,
+      "change_usd_t": 1.3
+    },
+    {
+      "route": "NSW/ZHOUSHAN",
+      "cargo_size": "130,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 14.0,
+      "rate_curr": 14.9,
+      "change_usd_t": 0.9
+    },
+    {
+      "route": "T/C TRIP FAR EAST/CONT",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10%",
+      "rate_prev": -0.25,
+      "rate_curr": 0.16,
+      "change_usd_t": 0.41
+    },
+    {
+      "route": "T/C TRANSPACIFIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10%",
+      "rate_prev": 4.14,
+      "rate_curr": 4.84,
+      "change_usd_t": 0.7
+    }
+  ],
+  "timecharter_day_rates": [
+    {
+      "route": "T/C TRIP FAR EAST/CONT",
+      "cargo_size": "180,000 DWT",
+      "day_rate_prev": -1500.0,
+      "day_rate_curr": 975.0,
+      "change_usd_day": 2475.0,
+      "source": "table"
+    },
+    {
+      "route": "T/C TRANSPACIFIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "day_rate_prev": 24500.0,
+      "day_rate_curr": 28650.0,
+      "change_usd_day": 4150.0,
+      "source": "table"
+    }
+  ],
+  "chart_series": {
+    "available": true,
+    "n_series": 3,
+    "total_points": 113,
+    "relative_gap_vs_printed": 0.05505
+  },
+  "n_trade_routes": 10,
+  "n_tc_routes": 2
+}

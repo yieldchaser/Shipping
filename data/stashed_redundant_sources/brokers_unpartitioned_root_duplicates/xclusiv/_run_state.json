@@ -1,0 +1,1601 @@
+{
+  "done": {
+    "xclusiv_2021_xclusiv_weekly_2021_07_26": {
+      "pages": 6,
+      "rates": 0,
+      "labelled": 0,
+      "md_bytes": 20677
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_02": {
+      "pages": 6,
+      "rates": 0,
+      "labelled": 0,
+      "md_bytes": 21413
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_09": {
+      "pages": 6,
+      "rates": 0,
+      "labelled": 0,
+      "md_bytes": 20325
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_16": {
+      "pages": 6,
+      "rates": 0,
+      "labelled": 0,
+      "md_bytes": 21746
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_23": {
+      "pages": 6,
+      "rates": 0,
+      "labelled": 0,
+      "md_bytes": 21727
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_30": {
+      "pages": 6,
+      "rates": 18,
+      "labelled": 13,
+      "md_bytes": 23500
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_06": {
+      "pages": 6,
+      "rates": 17,
+      "labelled": 12,
+      "md_bytes": 24029
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_13": {
+      "pages": 6,
+      "rates": 17,
+      "labelled": 13,
+      "md_bytes": 23975
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_20": {
+      "pages": 6,
+      "rates": 18,
+      "labelled": 14,
+      "md_bytes": 25235
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_27": {
+      "pages": 6,
+      "rates": 18,
+      "labelled": 14,
+      "md_bytes": 24847
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_11": {
+      "pages": 6,
+      "rates": 20,
+      "labelled": 14,
+      "md_bytes": 25072
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_18": {
+      "pages": 6,
+      "rates": 21,
+      "labelled": 16,
+      "md_bytes": 22790
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_25": {
+      "pages": 6,
+      "rates": 21,
+      "labelled": 15,
+      "md_bytes": 23601
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_4": {
+      "pages": 6,
+      "rates": 19,
+      "labelled": 17,
+      "md_bytes": 27008
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_01": {
+      "pages": 6,
+      "rates": 20,
+      "labelled": 16,
+      "md_bytes": 22143
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_08": {
+      "pages": 6,
+      "rates": 18,
+      "labelled": 14,
+      "md_bytes": 21943
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_15": {
+      "pages": 6,
+      "rates": 20,
+      "labelled": 16,
+      "md_bytes": 25017
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_22": {
+      "pages": 6,
+      "rates": 18,
+      "labelled": 14,
+      "md_bytes": 22275
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_29-": {
+      "pages": 7,
+      "rates": 15,
+      "labelled": 12,
+      "md_bytes": 23133
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_13": {
+      "pages": 7,
+      "rates": 21,
+      "labelled": 16,
+      "md_bytes": 25209
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_20": {
+      "pages": 7,
+      "rates": 23,
+      "labelled": 16,
+      "md_bytes": 25638
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_27": {
+      "pages": 7,
+      "rates": 20,
+      "labelled": 15,
+      "md_bytes": 22781
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_6-": {
+      "pages": 7,
+      "rates": 21,
+      "labelled": 17,
+      "md_bytes": 23497
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_10-1": {
+      "pages": 7,
+      "rates": 19,
+      "labelled": 14,
+      "md_bytes": 22593
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_17": {
+      "pages": 7,
+      "rates": 20,
+      "labelled": 15,
+      "md_bytes": 23628
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_24": {
+      "pages": 7,
+      "rates": 16,
+      "labelled": 12,
+      "md_bytes": 25287
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_31": {
+      "pages": 7,
+      "rates": 23,
+      "labelled": 15,
+      "md_bytes": 25825
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_07": {
+      "pages": 7,
+      "rates": 19,
+      "labelled": 13,
+      "md_bytes": 22407
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_14": {
+      "pages": 7,
+      "rates": 19,
+      "labelled": 15,
+      "md_bytes": 24706
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_21": {
+      "pages": 7,
+      "rates": 18,
+      "labelled": 14,
+      "md_bytes": 26416
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_28": {
+      "pages": 7,
+      "rates": 22,
+      "labelled": 16,
+      "md_bytes": 25894
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_14": {
+      "pages": 7,
+      "rates": 23,
+      "labelled": 16,
+      "md_bytes": 26425
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_21-1": {
+      "pages": 7,
+      "rates": 20,
+      "labelled": 14,
+      "md_bytes": 24278
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_28": {
+      "pages": 7,
+      "rates": 22,
+      "labelled": 15,
+      "md_bytes": 26297
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_8": {
+      "pages": 7,
+      "rates": 23,
+      "labelled": 16,
+      "md_bytes": 26114
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_04": {
+      "pages": 7,
+      "rates": 23,
+      "labelled": 18,
+      "md_bytes": 28352
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_11": {
+      "pages": 7,
+      "rates": 21,
+      "labelled": 13,
+      "md_bytes": 25590
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_18": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 26513
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_26": {
+      "pages": 7,
+      "rates": 24,
+      "labelled": 18,
+      "md_bytes": 27453
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_03": {
+      "pages": 7,
+      "rates": 26,
+      "labelled": 19,
+      "md_bytes": 27326
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_09": {
+      "pages": 7,
+      "rates": 24,
+      "labelled": 17,
+      "md_bytes": 24921
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_16": {
+      "pages": 7,
+      "rates": 23,
+      "labelled": 16,
+      "md_bytes": 26699
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_23": {
+      "pages": 7,
+      "rates": 24,
+      "labelled": 17,
+      "md_bytes": 26494
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_30": {
+      "pages": 7,
+      "rates": 24,
+      "labelled": 17,
+      "md_bytes": 26557
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_06": {
+      "pages": 7,
+      "rates": 25,
+      "labelled": 18,
+      "md_bytes": 25674
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_14": {
+      "pages": 7,
+      "rates": 24,
+      "labelled": 17,
+      "md_bytes": 24105
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_20": {
+      "pages": 7,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 26859
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_27": {
+      "pages": 7,
+      "rates": 28,
+      "labelled": 19,
+      "md_bytes": 26357
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_01": {
+      "pages": 7,
+      "rates": 28,
+      "labelled": 19,
+      "md_bytes": 27251
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_11": {
+      "pages": 7,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 27964
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_18": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 18,
+      "md_bytes": 26663
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_25": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 18,
+      "md_bytes": 26547
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_01": {
+      "pages": 7,
+      "rates": 28,
+      "labelled": 18,
+      "md_bytes": 29908
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_08": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 18,
+      "md_bytes": 27838
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_16": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 27589
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_22": {
+      "pages": 7,
+      "rates": 33,
+      "labelled": 22,
+      "md_bytes": 27459
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_29": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 21,
+      "md_bytes": 26208
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_05": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 26937
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_12": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 27801
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_19": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 26402
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_26": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 26496
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_03": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 30047
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_10": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 26516
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_17": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 28210
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_24": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 27642
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_31": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 25515
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_07": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 27436
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_14": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 27217
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_21": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 26166
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_28": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 27918
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_05": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 27260
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_12": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 21,
+      "md_bytes": 27311
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_19": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 26411
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_27": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 25013
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_09": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 26174
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_16": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 22,
+      "md_bytes": 29498
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_23": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 26608
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_30": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 25786
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_06": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 27798
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_13": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 27502
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_20": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 28096
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_28": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 20,
+      "md_bytes": 27850
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_06": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 26718
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_13": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 28800
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_20": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 21,
+      "md_bytes": 28599
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_27": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 21,
+      "md_bytes": 27343
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_03": {
+      "pages": 7,
+      "rates": 34,
+      "labelled": 24,
+      "md_bytes": 28422
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_10": {
+      "pages": 7,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 26574
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_18": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 27177
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_24": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 20,
+      "md_bytes": 26154
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_15": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 27691
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_2": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 25587
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_22": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 28843
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_29": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 27339
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_8": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 21,
+      "md_bytes": 28967
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_06": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26127
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_12": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26020
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_19": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 25766
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_26": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 26596
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_03": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26173
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_10": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 27045
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_17": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 27951
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_24": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 25,
+      "md_bytes": 26839
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_31": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 26167
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_07": {
+      "pages": 7,
+      "rates": 29,
+      "labelled": 22,
+      "md_bytes": 25693
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_14": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26480
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_21": {
+      "pages": 7,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 25611
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_28": {
+      "pages": 7,
+      "rates": 34,
+      "labelled": 25,
+      "md_bytes": 27542
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_04": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 25502
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_11": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 26979
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_18": {
+      "pages": 7,
+      "rates": 34,
+      "labelled": 25,
+      "md_bytes": 26339
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_25": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 23,
+      "md_bytes": 26810
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_02": {
+      "pages": 7,
+      "rates": 33,
+      "labelled": 24,
+      "md_bytes": 26990
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_16": {
+      "pages": 7,
+      "rates": 34,
+      "labelled": 25,
+      "md_bytes": 28513
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_23": {
+      "pages": 7,
+      "rates": 34,
+      "labelled": 24,
+      "md_bytes": 26669
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_30": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 24,
+      "md_bytes": 26432
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_06": {
+      "pages": 7,
+      "rates": 34,
+      "labelled": 26,
+      "md_bytes": 27826
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_13": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 24,
+      "md_bytes": 27157
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_20": {
+      "pages": 7,
+      "rates": 33,
+      "labelled": 25,
+      "md_bytes": 26422
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_27": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 22,
+      "md_bytes": 26736
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_04": {
+      "pages": 7,
+      "rates": 33,
+      "labelled": 25,
+      "md_bytes": 26589
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_11": {
+      "pages": 7,
+      "rates": 30,
+      "labelled": 23,
+      "md_bytes": 27357
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_18": {
+      "pages": 7,
+      "rates": 32,
+      "labelled": 24,
+      "md_bytes": 27046
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_27": {
+      "pages": 7,
+      "rates": 31,
+      "labelled": 24,
+      "md_bytes": 25862
+    },
+    "xclusiv_2024_xclusiv-2024_01_08": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 25,
+      "md_bytes": 27143
+    },
+    "xclusiv_2024_xclusiv-2024_01_15": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 22,
+      "md_bytes": 28171
+    },
+    "xclusiv_2024_xclusiv-2024_01_22": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26433
+    },
+    "xclusiv_2024_xclusiv-2024_01_29": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 27,
+      "md_bytes": 27803
+    },
+    "xclusiv_2024_xclusiv-2024_02_05": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 28829
+    },
+    "xclusiv_2024_xclusiv-2024_02_12": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 28292
+    },
+    "xclusiv_2024_xclusiv-2024_02_19": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 23,
+      "md_bytes": 26954
+    },
+    "xclusiv_2024_xclusiv-2024_02_26": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 27960
+    },
+    "xclusiv_2024_xclusiv-2024_03_04": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 23,
+      "md_bytes": 27088
+    },
+    "xclusiv_2024_xclusiv-2024_03_11": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 24,
+      "md_bytes": 28126
+    },
+    "xclusiv_2024_xclusiv-2024_03_19": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 27721
+    },
+    "xclusiv_2024_xclusiv-2024_03_26": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 26534
+    },
+    "xclusiv_2024_xclusiv-2024_04_01": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 25909
+    },
+    "xclusiv_2024_xclusiv-2024_04_08": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 23,
+      "md_bytes": 29209
+    },
+    "xclusiv_2024_xclusiv-2024_04_15": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 22,
+      "md_bytes": 26925
+    },
+    "xclusiv_2024_xclusiv-2024_04_22": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 28370
+    },
+    "xclusiv_2024_xclusiv-2024_04_29": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 28385
+    },
+    "xclusiv_2024_xclusiv-2024_05_08": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 27258
+    },
+    "xclusiv_2024_xclusiv-2024_05_13": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 20,
+      "md_bytes": 26713
+    },
+    "xclusiv_2024_xclusiv-2024_05_20": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 20,
+      "md_bytes": 27878
+    },
+    "xclusiv_2024_xclusiv-2024_05_27": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 20,
+      "md_bytes": 26021
+    },
+    "xclusiv_2024_xclusiv-2024_06_03": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 20,
+      "md_bytes": 25245
+    },
+    "xclusiv_2024_xclusiv-2024_06_10": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 23,
+      "md_bytes": 26907
+    },
+    "xclusiv_2024_xclusiv-2024_06_17": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 25,
+      "md_bytes": 28774
+    },
+    "xclusiv_2024_xclusiv-2024_06_25": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 22,
+      "md_bytes": 26692
+    },
+    "xclusiv_2024_xclusiv-2024_07_01": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 26538
+    },
+    "xclusiv_2024_xclusiv-2024_07_08": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 22,
+      "md_bytes": 27039
+    },
+    "xclusiv_2024_xclusiv-2024_07_15": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26278
+    },
+    "xclusiv_2024_xclusiv-2024_07_22": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 22,
+      "md_bytes": 28887
+    },
+    "xclusiv_2024_xclusiv-2024_07_29": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 27408
+    },
+    "xclusiv_2024_xclusiv-2024_08_05": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 23,
+      "md_bytes": 26655
+    },
+    "xclusiv_2024_xclusiv-2024_08_12": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 25674
+    },
+    "xclusiv_2024_xclusiv-2024_08_19": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 26821
+    },
+    "xclusiv_2024_xclusiv-2024_08_26": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 27040
+    },
+    "xclusiv_2024_xclusiv-2024_09_02": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 26612
+    },
+    "xclusiv_2024_xclusiv-2024_09_09": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 21,
+      "md_bytes": 27327
+    },
+    "xclusiv_2024_xclusiv-2024_09_16": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 27087
+    },
+    "xclusiv_2024_xclusiv-2024_09_23": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 25,
+      "md_bytes": 27968
+    },
+    "xclusiv_2024_xclusiv-2024_09_30": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 27046
+    },
+    "xclusiv_2024_xclusiv-2024_10_07": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 26315
+    },
+    "xclusiv_2024_xclusiv-2024_10_14": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 19,
+      "md_bytes": 27034
+    },
+    "xclusiv_2024_xclusiv-2024_10_21": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26480
+    },
+    "xclusiv_2024_xclusiv-2024_10_29": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 19,
+      "md_bytes": 27056
+    },
+    "xclusiv_2024_xclusiv-2024_11_04": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 21,
+      "md_bytes": 27222
+    },
+    "xclusiv_2024_xclusiv-2024_11_11": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 19,
+      "md_bytes": 26110
+    },
+    "xclusiv_2024_xclusiv-2024_11_18": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 24,
+      "md_bytes": 26279
+    },
+    "xclusiv_2024_xclusiv-2024_11_25": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 25,
+      "md_bytes": 27854
+    },
+    "xclusiv_2024_xclusiv-2024_12_02-1": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 27494
+    },
+    "xclusiv_2024_xclusiv-2024_12_09": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 26168
+    },
+    "xclusiv_2024_xclusiv-2024_12_16_compressed": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 25815
+    },
+    "xclusiv_2024_xclusiv-2024_12_23": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 24,
+      "md_bytes": 26733
+    },
+    "xclusiv_2025_Weekly-Ship-Recycling-Report-05-September-12-September-2025": {
+      "pages": 4,
+      "rates": 0,
+      "labelled": 0,
+      "md_bytes": 3993
+    },
+    "xclusiv_2025_xclusiv-2025_01_07": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 25189
+    },
+    "xclusiv_2025_xclusiv-2025_01_13": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 20,
+      "md_bytes": 25955
+    },
+    "xclusiv_2025_xclusiv-2025_01_20": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 19,
+      "md_bytes": 25882
+    },
+    "xclusiv_2025_xclusiv-2025_01_27": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 26635
+    },
+    "xclusiv_2025_xclusiv-2025_02_03": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 22,
+      "md_bytes": 26057
+    },
+    "xclusiv_2025_xclusiv-2025_02_10": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26478
+    },
+    "xclusiv_2025_xclusiv-2025_02_17": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 25743
+    },
+    "xclusiv_2025_xclusiv-2025_02_24": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 23,
+      "md_bytes": 26750
+    },
+    "xclusiv_2025_xclusiv-2025_03_04": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 19,
+      "md_bytes": 26830
+    },
+    "xclusiv_2025_xclusiv-2025_03_10": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 27034
+    },
+    "xclusiv_2025_xclusiv-2025_03_17": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 21,
+      "md_bytes": 26502
+    },
+    "xclusiv_2025_xclusiv-2025_03_24": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 26923
+    },
+    "xclusiv_2025_xclusiv-2025_03_31": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 22,
+      "md_bytes": 26955
+    },
+    "xclusiv_2025_xclusiv-2025_04_07_compressed": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 27029
+    },
+    "xclusiv_2025_xclusiv-2025_04_14": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 20,
+      "md_bytes": 27130
+    },
+    "xclusiv_2025_xclusiv-2025_04_22_compressed": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 22,
+      "md_bytes": 26042
+    },
+    "xclusiv_2025_xclusiv-2025_04_28_compressed": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 19,
+      "md_bytes": 26689
+    },
+    "xclusiv_2025_xclusiv-2025_05_05_compressed": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 19,
+      "md_bytes": 28729
+    },
+    "xclusiv_2025_xclusiv-2025_05_12": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 19,
+      "md_bytes": 26377
+    },
+    "xclusiv_2025_xclusiv-2025_05_19_compressed": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 20,
+      "md_bytes": 27559
+    },
+    "xclusiv_2025_xclusiv-2025_05_26_compressed": {
+      "pages": 9,
+      "rates": 34,
+      "labelled": 23,
+      "md_bytes": 27458
+    },
+    "xclusiv_2025_xclusiv-2025_06_02_compressed": {
+      "pages": 9,
+      "rates": 36,
+      "labelled": 20,
+      "md_bytes": 26509
+    },
+    "xclusiv_2025_xclusiv-2025_06_10-1": {
+      "pages": 9,
+      "rates": 35,
+      "labelled": 21,
+      "md_bytes": 26437
+    },
+    "xclusiv_2025_xclusiv-2025_06_16": {
+      "pages": 9,
+      "rates": 35,
+      "labelled": 25,
+      "md_bytes": 27370
+    },
+    "xclusiv_2025_xclusiv-2025_06_23": {
+      "pages": 9,
+      "rates": 36,
+      "labelled": 24,
+      "md_bytes": 27803
+    },
+    "xclusiv_2025_xclusiv-2025_06_30": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 21,
+      "md_bytes": 29234
+    },
+    "xclusiv_2025_xclusiv-2025_07_07": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 22,
+      "md_bytes": 27125
+    },
+    "xclusiv_2025_xclusiv-2025_07_14": {
+      "pages": 9,
+      "rates": 34,
+      "labelled": 22,
+      "md_bytes": 27265
+    },
+    "xclusiv_2025_xclusiv-2025_07_21": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 26412
+    },
+    "xclusiv_2025_xclusiv-2025_07_28": {
+      "pages": 9,
+      "rates": 35,
+      "labelled": 23,
+      "md_bytes": 27527
+    },
+    "xclusiv_2025_xclusiv-2025_08_04": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 23,
+      "md_bytes": 26115
+    },
+    "xclusiv_2025_xclusiv-2025_08_11": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 24,
+      "md_bytes": 26893
+    },
+    "xclusiv_2025_xclusiv-2025_08_18": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 24,
+      "md_bytes": 27484
+    },
+    "xclusiv_2025_xclusiv-2025_08_25": {
+      "pages": 9,
+      "rates": 35,
+      "labelled": 25,
+      "md_bytes": 27941
+    },
+    "xclusiv_2025_xclusiv-2025_09_01": {
+      "pages": 9,
+      "rates": 45,
+      "labelled": 23,
+      "md_bytes": 29771
+    },
+    "xclusiv_2025_xclusiv-2025_09_08": {
+      "pages": 9,
+      "rates": 34,
+      "labelled": 23,
+      "md_bytes": 29444
+    },
+    "xclusiv_2025_xclusiv-2025_09_22": {
+      "pages": 9,
+      "rates": 37,
+      "labelled": 20,
+      "md_bytes": 29011
+    },
+    "xclusiv_2025_xclusiv-2025_09_29": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 18,
+      "md_bytes": 27029
+    },
+    "xclusiv_2025_xclusiv-2025_10_06": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 21,
+      "md_bytes": 28352
+    },
+    "xclusiv_2025_xclusiv-2025_10_13": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 21,
+      "md_bytes": 29102
+    },
+    "xclusiv_2025_xclusiv-2025_10_20": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 19,
+      "md_bytes": 27913
+    },
+    "xclusiv_2025_xclusiv-2025_10_27": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 19,
+      "md_bytes": 27468
+    },
+    "xclusiv_2025_xclusiv-2025_11_03": {
+      "pages": 9,
+      "rates": 35,
+      "labelled": 21,
+      "md_bytes": 27052
+    },
+    "xclusiv_2025_xclusiv-2025_11_10": {
+      "pages": 9,
+      "rates": 34,
+      "labelled": 21,
+      "md_bytes": 29078
+    },
+    "xclusiv_2025_xclusiv-2025_11_17-1": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 19,
+      "md_bytes": 25880
+    },
+    "xclusiv_2025_xclusiv-2025_11_24": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 20,
+      "md_bytes": 28338
+    },
+    "xclusiv_2025_xclusiv-2025_12_01": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 20,
+      "md_bytes": 28625
+    },
+    "xclusiv_2025_xclusiv-2025_12_08": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 18,
+      "md_bytes": 26391
+    },
+    "xclusiv_2025_xclusiv-2025_12_15": {
+      "pages": 9,
+      "rates": 34,
+      "labelled": 21,
+      "md_bytes": 26932
+    },
+    "xclusiv_2025_xclusiv-2025_12_22": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 20,
+      "md_bytes": 25297
+    },
+    "xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 27828
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_10": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 26530
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_17": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 26788
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_24": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 25735
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_31": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 18,
+      "md_bytes": 27585
+    },
+    "xclusiv_2026_xclusiv-2026_01_05": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 20,
+      "md_bytes": 23963
+    },
+    "xclusiv_2026_xclusiv-2026_01_12": {
+      "pages": 9,
+      "rates": 33,
+      "labelled": 21,
+      "md_bytes": 28836
+    },
+    "xclusiv_2026_xclusiv-2026_01_19": {
+      "pages": 9,
+      "rates": 35,
+      "labelled": 22,
+      "md_bytes": 28908
+    },
+    "xclusiv_2026_xclusiv-2026_01_26": {
+      "pages": 9,
+      "rates": 32,
+      "labelled": 20,
+      "md_bytes": 28344
+    },
+    "xclusiv_2026_xclusiv-2026_02_02": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 19,
+      "md_bytes": 26499
+    },
+    "xclusiv_2026_xclusiv-2026_02_09": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 27880
+    },
+    "xclusiv_2026_xclusiv-2026_02_16": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 17,
+      "md_bytes": 28365
+    },
+    "xclusiv_2026_xclusiv-2026_02_24": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 17,
+      "md_bytes": 26753
+    },
+    "xclusiv_2026_xclusiv-2026_03_02": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 17,
+      "md_bytes": 27833
+    },
+    "xclusiv_2026_xclusiv-2026_03_09": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 19,
+      "md_bytes": 26520
+    },
+    "xclusiv_2026_xclusiv-2026_03_16": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 25230
+    },
+    "xclusiv_2026_xclusiv-2026_03_23": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 17,
+      "md_bytes": 27758
+    },
+    "xclusiv_2026_xclusiv-2026_03_30": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 17,
+      "md_bytes": 25553
+    },
+    "xclusiv_2026_xclusiv-2026_04_14": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 27223
+    },
+    "xclusiv_2026_xclusiv-2026_04_20": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 26885
+    },
+    "xclusiv_2026_xclusiv-2026_04_27": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 28676
+    },
+    "xclusiv_2026_xclusiv-2026_05_04": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 27329
+    },
+    "xclusiv_2026_xclusiv-2026_05_11": {
+      "pages": 9,
+      "rates": 26,
+      "labelled": 18,
+      "md_bytes": 25720
+    },
+    "xclusiv_2026_xclusiv-2026_05_18": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 28123
+    },
+    "xclusiv_2026_xclusiv-2026_05_25_": {
+      "pages": 9,
+      "rates": 26,
+      "labelled": 18,
+      "md_bytes": 27844
+    },
+    "xclusiv_2026_xclusiv-2026_06_01": {
+      "pages": 9,
+      "rates": 26,
+      "labelled": 17,
+      "md_bytes": 27703
+    },
+    "xclusiv_2026_xclusiv-2026_06_08": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 18,
+      "md_bytes": 26858
+    },
+    "xclusiv_2026_xclusiv-2026_06_15": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 18,
+      "md_bytes": 26701
+    },
+    "xclusiv_2026_xclusiv-2026_06_22": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 27295
+    },
+    "xclusiv_2026_xclusiv-2026_06_29": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 19,
+      "md_bytes": 26774
+    },
+    "xclusiv_2026_xclusiv-2026_07_06-1": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 18,
+      "md_bytes": 26698
+    },
+    "xclusiv_2026_xclusiv-2026_07_13": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 25440
+    },
+    "xclusiv_2026_xclusiv-2026_07_20": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 17,
+      "md_bytes": 27424
+    },
+    "xclusiv_2026_xclusiv-2026_07_27": {
+      "pages": 9,
+      "rates": 26,
+      "labelled": 18,
+      "md_bytes": 27553
+    },
+    "xclusiv_2026_xclusiv-2026_08_03": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 26981
+    },
+    "xclusiv_2026_xclusiv-2026_08_10": {
+      "pages": 9,
+      "rates": 31,
+      "labelled": 22,
+      "md_bytes": 26522
+    },
+    "xclusiv_2026_xclusiv-2026_08_17": {
+      "pages": 9,
+      "rates": 27,
+      "labelled": 18,
+      "md_bytes": 26780
+    },
+    "xclusiv_2026_xclusiv-2026_08_24": {
+      "pages": 9,
+      "rates": 30,
+      "labelled": 20,
+      "md_bytes": 25727
+    },
+    "xclusiv_2026_xclusiv-2026_08_31": {
+      "pages": 9,
+      "rates": 28,
+      "labelled": 18,
+      "md_bytes": 27577
+    },
+    "xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026": {
+      "pages": 9,
+      "rates": 29,
+      "labelled": 20,
+      "md_bytes": 27111
+    }
+  },
+  "failed": {}
+}

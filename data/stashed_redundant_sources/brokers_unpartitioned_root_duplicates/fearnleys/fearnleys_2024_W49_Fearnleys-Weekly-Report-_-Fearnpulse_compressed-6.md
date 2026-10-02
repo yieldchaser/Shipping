@@ -1,0 +1,77 @@
+---
+title: "Fearnleys Weekly Report - Week 49, 2024"
+issue_date: "2024-12-04"
+year: 2024
+report_week: 49
+publisher: "Fearnleys"
+category: "market_report"
+pages: 19
+source_file: "corpus/01-brokers/fearnleys/2024/fearnleys_2024_W49_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf"
+---
+
+# Fearnleys Weekly Market Report (Week 49, 2024)
+
+**Issue Date:** 2024-12-04 | **Pages:** 19 | **Publisher:** Fearnleys AS  
+**Source Document:** `corpus/01-brokers/fearnleys/2024/fearnleys_2024_W49_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6.pdf`  
+
+---
+
+## 01 Tankers
+
+### Market Commentary
+
+#### VLCC
+
+The VLCC market is like catching a falling knife right now and there aren't many signs in sight of an uptick any time soon. Daily returns are in the teens for the best of them at prevailing rates, and for the older end of the spectrum OPEX is under threat.
+
+#### Vlcc
+
+Questions are being asked if we are witnessing a paradigm shift in the market, or if it's just the same old game of hide and seek? The latter is probably the likely explanation, at least that's been the conclusion the last few months when looking in the rear-view window. China Inc. is becoming more and more dominating on both the ship and cargo side which has clouded she supply-demand picture further. However, volumes are relatively stable month on month and the fleet has not increased.
+
+Looking ahead, however, an ageing fleet and a market not even remotely encouraging new orders will all things equal lead to a boom. What comes around goes around - eventually.
+
+#### Suezmax
+
+West Africa tonnage tightened towards the back end of last week, charterers having fixed openly off natural dates and pushed TD20 to WS 85-87.5 region, but also fixing off market on the forward window to sponge ballasters. As such although lists remain on the tighter side lack of serious volume probably stops us ballooning. Keep in mind though that the USG market has reignited in the wake of Thanksgiving. UKC ships have a nice floor with local USG options dwindling, surely forcing charterers to pay transatlantic tonnage for their services. This puts a tighter spin on our West Africa list and should enable owners to sustain TD20 in the high WS 80s or push on, albeit significant gains remain unlikely given the cheap alternatives that VLCCs have become! In the Mediterranean/Black Sea it has been a quiet week as CPC stems closed out December last week, similar to the Aframax market. In the MEG, eastbound runs have corrected into the low WS 90s with USD/mt competitiveness enabling us to cannibalize Aframax volume after VLCCs did the same to Suezmaxes, whilst we have seen less pronounced erosion on Basrah levels into the low WS 50s on non-compromised units.
+
+#### North Sea
+
+Some steady activity in the North Sea with dates pushing into the 2nd decade. A lot of programming of tonnage but placing Bbls still proving tricky for charterers so we could well see some delays. Rates are flat at the moment but with USG firming we will see pressure on availability as tonnage heads out of the region.
+
+#### Aframax
+
+List now looking well established and relets are in the region. Prompter vessels are locking in on opportunities in front of them allowing charterers to squeeze some points out of last done rates. CPC somewhat lacks suitable candidates but with relets in the picture and the window reaching end-month dates rates won't be under pressure. Bad weather due in the region might yet have some influence.
+
+### Dirty Spot Freight Rates
+
+| Route | Vessel Size | Current (WS) | Change |
+| :--- | :---: | :---: | :---: |
+| MEG/WEST | 280' | 30 | 0.0 |
+| MEG/Japan | 280' | 44 | -3 |
+| MEG/Singapore | 280' | 45 | -3 |
+| WAF/FEAST | 260' | 51 | -2 |
+| WAF/USAC | 130' | 85 | 0.0 |
+| Sidi Kerir/W Med | 135' | 80 | -2.5 |
+| N. Afr/Euromed | 80' | 137.5 | -7.5 |
+| UK/Cont | 80' | 80 | 0.0 |
+| Caribs/USG | 70' | 105 | 0.0 |
+
+---
+
+## 02 Dry Bulk
+
+---
+
+## 03 Gas
+
+---
+
+## 04 Newbuilding
+
+---
+
+## 05 Sale & Purchase
+
+---
+
+## 06 Market Brief

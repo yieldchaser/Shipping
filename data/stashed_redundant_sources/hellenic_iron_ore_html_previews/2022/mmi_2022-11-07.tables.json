@@ -1,0 +1,30 @@
+{
+  "issue_date": "2022-11-07",
+  "year": "2022",
+  "title": "MMi Daily Iron Ore Index Report November 07 2022",
+  "source_file": "2022-11-07_mmi-daily-iron-ore-index-report-november-07-2022.html",
+  "records_count": 1,
+  "records": [
+    {
+      "issue_date": "2022-11-07",
+      "index_family": "IOPLI",
+      "index_code": "IOPLI62",
+      "fe_grade": "62.5% Fe Lump",
+      "fot_rmb_wmt": 770.0,
+      "fot_change": -90.0,
+      "fot_change_pct": -10.5,
+      "fot_mtd": 874.0,
+      "fot_ytd": 1074.0,
+      "fot_low": 730.0,
+      "fot_high": 1405.0,
+      "cfr_usd_dmt": 94.72,
+      "cfr_change": -12.46,
+      "cfr_change_pct": -11.62,
+      "cfr_mtd": 112.25,
+      "cfr_ytd": 145.71,
+      "cfr_low": 94.72,
+      "cfr_high": 199.13,
+      "source_file": "2022-11-07_mmi-daily-iron-ore-index-report-november-07-2022.html"
+    }
+  ]
+}

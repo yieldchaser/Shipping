@@ -1,0 +1,5 @@
+{
+  "charts": [],
+  "vector_drawings": 26,
+  "note": "Affinity has NO charts: the page's vector drawings are single horizontal rules spanning the card panel (card separators) plus two section-title underlines. Verified by dumping every drawing's geometry - docs/affinity_survey.md."
+}

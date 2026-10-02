@@ -1,0 +1,51 @@
+{
+  "issue_date": "2026-03-27",
+  "year": "2026",
+  "title": "MMI Daily Iron Ore Index Report March 27 2026",
+  "source_file": "2026-03-27_mmi-daily-iron-ore-index-report-march-27-2026.html",
+  "records_count": 2,
+  "records": [
+    {
+      "issue_date": "2026-03-27",
+      "index_family": "IOSI",
+      "index_code": "IOSI62",
+      "fe_grade": "62% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 107.02,
+      "cfr_change": -0.44,
+      "cfr_change_pct": -0.41,
+      "cfr_mtd": 103.55,
+      "cfr_ytd": 109.04,
+      "cfr_low": 89.79,
+      "cfr_high": 142.65,
+      "source_file": "2026-03-27_mmi-daily-iron-ore-index-report-march-27-2026.html"
+    },
+    {
+      "issue_date": "2026-03-27",
+      "index_family": "IOSI",
+      "index_code": "IOSI65",
+      "fe_grade": "65% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 126.22,
+      "cfr_change": 0.17,
+      "cfr_change_pct": 0.13,
+      "cfr_mtd": 115.85,
+      "cfr_ytd": 123.7,
+      "cfr_low": 98.23,
+      "cfr_high": 171.65,
+      "source_file": "2026-03-27_mmi-daily-iron-ore-index-report-march-27-2026.html"
+    }
+  ]
+}

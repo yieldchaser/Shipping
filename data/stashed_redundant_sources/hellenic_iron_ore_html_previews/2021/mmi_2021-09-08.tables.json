@@ -1,0 +1,51 @@
+{
+  "issue_date": "2021-09-08",
+  "year": "2021",
+  "title": "MMi Daily Iron Ore Index Report September 08 2021",
+  "source_file": "2021-09-08_mmi-daily-iron-ore-index-report-september-08-2021.html",
+  "records_count": 2,
+  "records": [
+    {
+      "issue_date": "2021-09-08",
+      "index_family": "IOSI",
+      "index_code": "IOSI62",
+      "fe_grade": "62% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 135.35,
+      "cfr_change": -10.75,
+      "cfr_change_pct": -7.36,
+      "cfr_mtd": 146.43,
+      "cfr_ytd": 183.88,
+      "cfr_low": 117.6,
+      "cfr_high": 230.5,
+      "source_file": "2021-09-08_mmi-daily-iron-ore-index-report-september-08-2021.html"
+    },
+    {
+      "issue_date": "2021-09-08",
+      "index_family": "IOSI",
+      "index_code": "IOSI65",
+      "fe_grade": "65% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 154.5,
+      "cfr_change": -12.65,
+      "cfr_change_pct": -7.57,
+      "cfr_mtd": 169.06,
+      "cfr_ytd": 212.53,
+      "cfr_low": 129.6,
+      "cfr_high": 262.95,
+      "source_file": "2021-09-08_mmi-daily-iron-ore-index-report-september-08-2021.html"
+    }
+  ]
+}

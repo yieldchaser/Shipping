@@ -1,0 +1,3726 @@
+{
+  "done": {
+    "star_asia_2022_W29_Market-report-Week-29": {
+      "pages": 15,
+      "tables": 21,
+      "header_recovered": 8,
+      "header_short": 3,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 28495
+    },
+    "star_asia_2022_W30_Market-report-Week-30_compressed": {
+      "pages": 16,
+      "tables": 17,
+      "header_recovered": 7,
+      "header_short": 3,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 29940
+    },
+    "star_asia_2022_W31_Market-report-Week-31_": {
+      "pages": 16,
+      "tables": 18,
+      "header_recovered": 6,
+      "header_short": 1,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 29930
+    },
+    "star_asia_2022_W35_Market-report-Week-35-2": {
+      "pages": 15,
+      "tables": 13,
+      "header_recovered": 5,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 26948
+    },
+    "star_asia_2022_W37_4ece41_472767ead5b0485190d397088e7ab434": {
+      "pages": 15,
+      "tables": 16,
+      "header_recovered": 6,
+      "header_short": 1,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 27497
+    },
+    "star_asia_2022_W38_Market-report-Week-38_": {
+      "pages": 15,
+      "tables": 21,
+      "header_recovered": 8,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 29039
+    },
+    "star_asia_2022_W40_weekly-report-40_compressed": {
+      "pages": 14,
+      "tables": 22,
+      "header_recovered": 7,
+      "header_short": 3,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 26807
+    },
+    "star_asia_2022_W41_Market-report-Week-41_compressed": {
+      "pages": 15,
+      "tables": 21,
+      "header_recovered": 7,
+      "header_short": 2,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 26807
+    },
+    "star_asia_2022_W43_Market-report-Week-43_": {
+      "pages": 16,
+      "tables": 20,
+      "header_recovered": 8,
+      "header_short": 3,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 28909
+    },
+    "star_asia_2022_W44_Market-report-Week-44_": {
+      "pages": 16,
+      "tables": 15,
+      "header_recovered": 5,
+      "header_short": 1,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 31199
+    },
+    "star_asia_2022_W45_Market-report-Week-45": {
+      "pages": 15,
+      "tables": 19,
+      "header_recovered": 6,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 27120
+    },
+    "star_asia_2022_W46_Market-report-Week-46_compressed": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 6,
+      "header_short": 2,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 29566
+    },
+    "star_asia_2022_W47_Market-report-Week-47_compressed-2": {
+      "pages": 15,
+      "tables": 17,
+      "header_recovered": 7,
+      "header_short": 3,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 8,
+      "arith_passed": 8,
+      "md_bytes": 27898
+    },
+    "star_asia_2022_W48_Market-report-Week-48_compressed": {
+      "pages": 15,
+      "tables": 16,
+      "header_recovered": 8,
+      "header_short": 4,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 8,
+      "arith_passed": 8,
+      "md_bytes": 27882
+    },
+    "star_asia_2022_W49_Market-report-Week-49_compressed": {
+      "pages": 15,
+      "tables": 16,
+      "header_recovered": 8,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 28884
+    },
+    "star_asia_2022_W50_Market-report-Week-50_compressed": {
+      "pages": 14,
+      "tables": 23,
+      "header_recovered": 8,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 25834
+    },
+    "star_asia_2022_W51_Market-report-Week-51_compressed-1": {
+      "pages": 15,
+      "tables": 23,
+      "header_recovered": 7,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 28385
+    },
+    "star_asia_2023_W01_Market-report-Week-1": {
+      "pages": 15,
+      "tables": 17,
+      "header_recovered": 10,
+      "header_short": 3,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 27995
+    },
+    "star_asia_2023_W02_4ece41_905c570b8aea4c2f9eee42aaab91f07a_compressed": {
+      "pages": 16,
+      "tables": 27,
+      "header_recovered": 1,
+      "header_short": 3,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 30275
+    },
+    "star_asia_2023_W04_Market-report-Week-4": {
+      "pages": 15,
+      "tables": 19,
+      "header_recovered": 2,
+      "header_short": 5,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "6",
+        "7"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 5,
+      "arith_passed": 5,
+      "md_bytes": 27024
+    },
+    "star_asia_2023_W05_Market-report-Week-5": {
+      "pages": 17,
+      "tables": 23,
+      "header_recovered": 3,
+      "header_short": 3,
+      "header_inherited": 5,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 5,
+      "md_bytes": 31934
+    },
+    "star_asia_2023_W06_Market-report-Week-6": {
+      "pages": 15,
+      "tables": 22,
+      "header_recovered": 2,
+      "header_short": 2,
+      "header_inherited": 4,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 28036
+    },
+    "star_asia_2023_W07_Market-report-Week-7": {
+      "pages": 15,
+      "tables": 23,
+      "header_recovered": 2,
+      "header_short": 2,
+      "header_inherited": 4,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 28764
+    },
+    "star_asia_2023_W08_Market-report-Week-8": {
+      "pages": 15,
+      "tables": 18,
+      "header_recovered": 2,
+      "header_short": 3,
+      "header_inherited": 3,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 27527
+    },
+    "star_asia_2023_W09_Market-report-Week-9": {
+      "pages": 15,
+      "tables": 21,
+      "header_recovered": 2,
+      "header_short": 1,
+      "header_inherited": 5,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 6,
+      "arith_passed": 6,
+      "md_bytes": 26033
+    },
+    "star_asia_2023_W10_4ece41_45ece0f8ea9145d78123bf43df625956": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 2,
+      "header_short": 4,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 29686
+    },
+    "star_asia_2023_W11_Market-report-Week-11": {
+      "pages": 15,
+      "tables": 22,
+      "header_recovered": 3,
+      "header_short": 5,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 5,
+      "md_bytes": 26714
+    },
+    "star_asia_2023_W12_Market-report-Week-12": {
+      "pages": 15,
+      "tables": 25,
+      "header_recovered": 4,
+      "header_short": 4,
+      "header_inherited": 3,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 26651
+    },
+    "star_asia_2023_W13_Market-report-Week-13": {
+      "pages": 15,
+      "tables": 17,
+      "header_recovered": 3,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 27221
+    },
+    "star_asia_2023_W14_Market-report-Week-14": {
+      "pages": 15,
+      "tables": 19,
+      "header_recovered": 3,
+      "header_short": 2,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 27911
+    },
+    "star_asia_2023_W15_Market-report-Week-15": {
+      "pages": 16,
+      "tables": 19,
+      "header_recovered": 2,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 29305
+    },
+    "star_asia_2023_W16_Market-report-Week-16": {
+      "pages": 17,
+      "tables": 23,
+      "header_recovered": 2,
+      "header_short": 3,
+      "header_inherited": 4,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 5,
+      "md_bytes": 31953
+    },
+    "star_asia_2023_W17_Market-report-Week-17": {
+      "pages": 16,
+      "tables": 20,
+      "header_recovered": 3,
+      "header_short": 3,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 30570
+    },
+    "star_asia_2023_W19_Market-report-Week-19": {
+      "pages": 17,
+      "tables": 22,
+      "header_recovered": 1,
+      "header_short": 3,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9"
+      ],
+      "image_only_pages": [
+        9
+      ],
+      "arith_checked": 4,
+      "arith_passed": 4,
+      "md_bytes": 30901
+    },
+    "star_asia_2023_W20_Market-report-Week-20": {
+      "pages": 17,
+      "tables": 20,
+      "header_recovered": 3,
+      "header_short": 3,
+      "header_inherited": 1,
+      "chart_pages": [
+        "5",
+        "8",
+        "9"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 33390
+    },
+    "star_asia_2023_W21_Market-report-Week-21": {
+      "pages": 17,
+      "tables": 23,
+      "header_recovered": 2,
+      "header_short": 3,
+      "header_inherited": 3,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 34190
+    },
+    "star_asia_2023_W22_Market-report-Week-22": {
+      "pages": 15,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 32767
+    },
+    "star_asia_2023_W23_Market-report-Week-23": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "16",
+        "17",
+        "18"
+      ],
+      "image_only_pages": [
+        17
+      ],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 38300
+    },
+    "star_asia_2023_W24_Market-report-Week-24": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "5",
+        "8",
+        "9"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 18,
+      "arith_passed": 18,
+      "md_bytes": 33899
+    },
+    "star_asia_2023_W25_4ece41_33c8519fc60a4c8a8e3babad1a8839b4": {
+      "pages": 17,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9"
+      ],
+      "image_only_pages": [
+        9
+      ],
+      "arith_checked": 18,
+      "arith_passed": 18,
+      "md_bytes": 28480
+    },
+    "star_asia_2023_W26_4ece41_51094a74a75c4066af13185269bb7d71": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "8",
+        "9"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 18,
+      "arith_passed": 18,
+      "md_bytes": 32556
+    },
+    "star_asia_2023_W28_4ece41_4383dacc937d45669e4a43b143d73c1f": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "5",
+        "8",
+        "9"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 34367
+    },
+    "star_asia_2023_W29_Market-report-Week-29": {
+      "pages": 16,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 26892
+    },
+    "star_asia_2023_W30_Market-report-Week-30": {
+      "pages": 17,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 29921
+    },
+    "star_asia_2023_W31_Market-report-Week-31": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 23,
+      "arith_passed": 22,
+      "md_bytes": 30247
+    },
+    "star_asia_2023_W32_4ece41_840fd93c65384a84b1aa5c55e9ae1f9d": {
+      "pages": 17,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 29599
+    },
+    "star_asia_2023_W33_4ece41_35a887424a3545ec990003616af9030d": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "5",
+        "8",
+        "9"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 28,
+      "arith_passed": 27,
+      "md_bytes": 33594
+    },
+    "star_asia_2023_W34_4ece41_920a241f74744c76be03283f1a17cc44": {
+      "pages": 16,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 28950
+    },
+    "star_asia_2023_W35_4ece41_fa72daca426a44aca8b52928f8cc36f1": {
+      "pages": 16,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 27449
+    },
+    "star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 32973
+    },
+    "star_asia_2023_W37_Market-report-Week-37": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 23,
+      "arith_passed": 22,
+      "md_bytes": 31142
+    },
+    "star_asia_2023_W38_Market-report-Week-38": {
+      "pages": 17,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 29068
+    },
+    "star_asia_2023_W39_4ece41_6e8db1d09bb94706ba1037c993daaa13": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 32740
+    },
+    "star_asia_2023_W40_4ece41_06018406e1d94716bef5fa4e17379813": {
+      "pages": 17,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 28280
+    },
+    "star_asia_2023_W41_Market-report-Week-41": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 29777
+    },
+    "star_asia_2023_W42_Market-report-Week-42": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 31419
+    },
+    "star_asia_2023_W43_Market-report-Week-43": {
+      "pages": 18,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 29689
+    },
+    "star_asia_2023_W44_Market-report-Week-44": {
+      "pages": 17,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 29174
+    },
+    "star_asia_2023_W45_Market-report-Week-45": {
+      "pages": 17,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 28584
+    },
+    "star_asia_2023_W46_Market-report-Week-46": {
+      "pages": 17,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 28920
+    },
+    "star_asia_2023_W47_Market-report-Week-47": {
+      "pages": 17,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "6",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 28273
+    },
+    "star_asia_2023_W48_Market-report-Week-48": {
+      "pages": 17,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 28,
+      "arith_passed": 28,
+      "md_bytes": 25835
+    },
+    "star_asia_2023_W49_Market-report-Week-49": {
+      "pages": 17,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "6",
+        "7",
+        "10"
+      ],
+      "image_only_pages": [
+        10
+      ],
+      "arith_checked": 15,
+      "arith_passed": 15,
+      "md_bytes": 27285
+    },
+    "star_asia_2023_W50_4ece41_8eca7ebe14fc4074889f62bc8711f436": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 23,
+      "arith_passed": 23,
+      "md_bytes": 29080
+    },
+    "star_asia_2023_W51_Market-report-Week-51": {
+      "pages": 18,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "18"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 30241
+    },
+    "star_asia_2023_W52_Market-report-Week-52_compressed": {
+      "pages": 15,
+      "tables": 17,
+      "header_recovered": 7,
+      "header_short": 2,
+      "header_inherited": 2,
+      "chart_pages": [
+        "4",
+        "7",
+        "8"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 27602
+    },
+    "other_2024_Market-report-Week-19": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 28388
+    },
+    "star_asia_2024_W01_Market-report-Week-1": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 31,
+      "md_bytes": 29160
+    },
+    "star_asia_2024_W02_Market-report-Week-2": {
+      "pages": 17,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        7,
+        11
+      ],
+      "arith_checked": 32,
+      "arith_passed": 31,
+      "md_bytes": 27256
+    },
+    "star_asia_2024_W03_Market-report-Week-3": {
+      "pages": 18,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 29374
+    },
+    "star_asia_2024_W04_Market-report-Week-4": {
+      "pages": 19,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 30263
+    },
+    "star_asia_2024_W05_ISM_coaster_week5-1": {
+      "pages": 2,
+      "tables": 0,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 4899
+    },
+    "star_asia_2024_W06_Market-report-Week-6": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 31,
+      "md_bytes": 29801
+    },
+    "star_asia_2024_W07_Market-report-Week-7": {
+      "pages": 20,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 1,
+      "chart_pages": [
+        "5",
+        "8",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 32424
+    },
+    "star_asia_2024_W08_Market-report-Week-8": {
+      "pages": 20,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 32837
+    },
+    "star_asia_2024_W09_Market-report-Week-9": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 31161
+    },
+    "star_asia_2024_W10_ISM_handy_week10": {
+      "pages": 2,
+      "tables": 0,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [],
+      "image_only_pages": [],
+      "arith_checked": 0,
+      "arith_passed": 0,
+      "md_bytes": 6137
+    },
+    "star_asia_2024_W11_Market-report-Week-11": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 29323
+    },
+    "star_asia_2024_W12_Market-report-Week-12": {
+      "pages": 19,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 31217
+    },
+    "star_asia_2024_W13_Market-report-Week-13": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30473
+    },
+    "star_asia_2024_W14_Market-report-Week-14": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 28078
+    },
+    "star_asia_2024_W15_Market-report-Week-15": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "5",
+        "8",
+        "10",
+        "13"
+      ],
+      "image_only_pages": [
+        5,
+        13
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 29429
+    },
+    "star_asia_2024_W16_Market-report-Week-16": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 28140
+    },
+    "star_asia_2024_W17_Market-report-Week-17": {
+      "pages": 18,
+      "tables": 22,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "8",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 27439
+    },
+    "star_asia_2024_W18_Market-report-Week-18": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 26,
+      "md_bytes": 27097
+    },
+    "star_asia_2024_W20_Market-report-Week-20": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30897
+    },
+    "star_asia_2024_W21_Market-report-Week-21": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "5",
+        "8",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 28123
+    },
+    "star_asia_2024_W22_Market-report-Week-22-23": {
+      "pages": 20,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 30652
+    },
+    "star_asia_2024_W24_Market-report-Week-24": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 27769
+    },
+    "star_asia_2024_W25_Market-report-Week-25": {
+      "pages": 20,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 32224
+    },
+    "star_asia_2024_W26_Market-report-Week-26": {
+      "pages": 21,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 26,
+      "md_bytes": 33740
+    },
+    "star_asia_2024_W27_Market-report-Week-27": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 31,
+      "arith_passed": 31,
+      "md_bytes": 29238
+    },
+    "star_asia_2024_W28_Market-report-Week-28": {
+      "pages": 18,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 31,
+      "arith_passed": 31,
+      "md_bytes": 28194
+    },
+    "star_asia_2024_W29_Market-report-Week-29": {
+      "pages": 21,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "5",
+        "8",
+        "10",
+        "13"
+      ],
+      "image_only_pages": [
+        5,
+        10,
+        13
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 34227
+    },
+    "star_asia_2024_W30_Market-report-Week-30": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "5",
+        "8",
+        "9",
+        "12"
+      ],
+      "image_only_pages": [
+        5,
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 27,
+      "md_bytes": 29741
+    },
+    "star_asia_2024_W32_Market-report-Week-32": {
+      "pages": 20,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 28954
+    },
+    "star_asia_2024_W33_Market-report-Week-33": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 27,
+      "arith_passed": 21,
+      "md_bytes": 32435
+    },
+    "star_asia_2024_W34_Market-report-Week-34": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 31574
+    },
+    "star_asia_2024_W35_Market-report-Week-35": {
+      "pages": 19,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30314
+    },
+    "star_asia_2024_W36_Market-report-Week-36": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        7,
+        11
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 32116
+    },
+    "star_asia_2024_W37_Market-report-Week-37": {
+      "pages": 20,
+      "tables": 20,
+      "header_recovered": 0,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 27,
+      "arith_passed": 26,
+      "md_bytes": 31559
+    },
+    "star_asia_2024_W39_Market-report-Week-39": {
+      "pages": 20,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 32184
+    },
+    "star_asia_2024_W40_4ece41_408cf6edb6f34764acf37f888a163a55": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 31127
+    },
+    "star_asia_2024_W41_Market-report-Week-41": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30867
+    },
+    "star_asia_2024_W42_Market-report-Week-42": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30565
+    },
+    "star_asia_2024_W43_Market-report-Week-43": {
+      "pages": 20,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 33293
+    },
+    "star_asia_2024_W44_Market-report-Week-44": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 28407
+    },
+    "star_asia_2024_W45_Market-report-Week-45": {
+      "pages": 18,
+      "tables": 20,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 31,
+      "arith_passed": 31,
+      "md_bytes": 25733
+    },
+    "star_asia_2024_W46_Market-report-Week-46": {
+      "pages": 21,
+      "tables": 35,
+      "header_recovered": 0,
+      "header_short": 1,
+      "header_inherited": 1,
+      "chart_pages": [
+        "5",
+        "8",
+        "10",
+        "12",
+        "13",
+        "14"
+      ],
+      "image_only_pages": [
+        5,
+        10,
+        13
+      ],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 29504
+    },
+    "star_asia_2024_W47_Market-report-Week-47": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30906
+    },
+    "star_asia_2024_W48_Market-report-Week-48": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 30676
+    },
+    "star_asia_2024_W50_Market-report-Week-50": {
+      "pages": 22,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "8",
+        "10",
+        "13",
+        "14"
+      ],
+      "image_only_pages": [
+        8,
+        10,
+        13
+      ],
+      "arith_checked": 32,
+      "arith_passed": 32,
+      "md_bytes": 32684
+    },
+    "star_asia_2024_W51_Market-report-Week-51": {
+      "pages": 21,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 32341
+    },
+    "star_asia_2024_W52_Market-report-Week-52": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25656
+    },
+    "star_asia_2025_W01_Market-report-Week-12": {
+      "pages": 21,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 30385
+    },
+    "star_asia_2025_W03_Market-report-Week-3": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28160
+    },
+    "star_asia_2025_W04_Market-report-Week-4": {
+      "pages": 19,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25594
+    },
+    "star_asia_2025_W05_Market-report-Week-5": {
+      "pages": 21,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 31626
+    },
+    "star_asia_2025_W06_Market-report-Week-6": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29549
+    },
+    "star_asia_2025_W07_Market-report-Week-7": {
+      "pages": 20,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 13,
+      "md_bytes": 31117
+    },
+    "star_asia_2025_W08_Market-report-Week-8": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 27312
+    },
+    "star_asia_2025_W09_Market-report-Week-9": {
+      "pages": 21,
+      "tables": 15,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 30628
+    },
+    "star_asia_2025_W10_Market-report-Week-10": {
+      "pages": 18,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28701
+    },
+    "star_asia_2025_W11_Market-report-Week-11": {
+      "pages": 18,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        3,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 24732
+    },
+    "star_asia_2025_W12_Market-report-Week-12": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28484
+    },
+    "star_asia_2025_W13_Market-report-Week-13": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25851
+    },
+    "star_asia_2025_W14_Market-report-Week-14": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "6",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        8,
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 30668
+    },
+    "star_asia_2025_W15_Market-report-Week-15": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29723
+    },
+    "star_asia_2025_W16_Market-report-Week-16": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29806
+    },
+    "star_asia_2025_W17_Market-report-Week-17": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "6",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        8,
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26840
+    },
+    "star_asia_2025_W18_Market-report-Week-18": {
+      "pages": 18,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        4,
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26776
+    },
+    "star_asia_2025_W19_Market-report-Week-19": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26788
+    },
+    "star_asia_2025_W20_Market-report-Week-20": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 23943
+    },
+    "star_asia_2025_W21_Market-report-Week-21": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 27369
+    },
+    "star_asia_2025_W22_Market-report-Week-22": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26656
+    },
+    "star_asia_2025_W23_Market-report-Week-23": {
+      "pages": 20,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29217
+    },
+    "star_asia_2025_W24_Market-report-Week-24": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26707
+    },
+    "star_asia_2025_W25_Market-report-Week-25": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25269
+    },
+    "star_asia_2025_W26_Market-report-Week-26": {
+      "pages": 22,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "6",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 34371
+    },
+    "star_asia_2025_W27_Market-report-Week-27": {
+      "pages": 18,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 10,
+      "arith_passed": 10,
+      "md_bytes": 26138
+    },
+    "star_asia_2025_W28_Market-report-Week-28": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26238
+    },
+    "star_asia_2025_W29_Market-report-Week-29": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25746
+    },
+    "star_asia_2025_W30_Market-report-Week-30": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28952
+    },
+    "star_asia_2025_W31_Market-report-Week-31": {
+      "pages": 18,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26612
+    },
+    "star_asia_2025_W32_Market-report-Week-32": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 10,
+      "md_bytes": 25851
+    },
+    "star_asia_2025_W33_Market-report-Week-33": {
+      "pages": 17,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 24783
+    },
+    "star_asia_2025_W34_Market-report-Week-34": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 1,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 23696
+    },
+    "star_asia_2025_W35_Market-report-Week-35": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25093
+    },
+    "star_asia_2025_W36_Market-report-Week-36": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25537
+    },
+    "star_asia_2025_W37_Market-report-Week-37": {
+      "pages": 18,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25889
+    },
+    "star_asia_2025_W38_Market-report-Week-38": {
+      "pages": 18,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26015
+    },
+    "star_asia_2025_W39_Market-report-Week-39": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 27997
+    },
+    "star_asia_2025_W41_Market-report-Week-41": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28327
+    },
+    "star_asia_2025_W43_Market-report-Week-43": {
+      "pages": 18,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28072
+    },
+    "star_asia_2025_W44_Market-report-Week-44": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 13,
+      "md_bytes": 28325
+    },
+    "star_asia_2025_W45_Market-report-Week-45": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 13,
+      "md_bytes": 28303
+    },
+    "star_asia_2025_W46_Market-report-Week-46": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 27626
+    },
+    "star_asia_2025_W47_Market-report-Week-47": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29854
+    },
+    "star_asia_2025_W48_Market-report-Week-48": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 27730
+    },
+    "star_asia_2025_W49_Market-report-Week-49": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 26609
+    },
+    "star_asia_2025_W52_Market-report-Week-52": {
+      "pages": 18,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "3",
+        "6",
+        "7",
+        "10",
+        "11"
+      ],
+      "image_only_pages": [
+        10
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 25429
+    },
+    "star_asia_2026_W01_Market-report-Week-1-2": {
+      "pages": 18,
+      "tables": 15,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 13,
+      "md_bytes": 23830
+    },
+    "star_asia_2026_W03_Market-report-Week-3": {
+      "pages": 20,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "8",
+        "10",
+        "13",
+        "14"
+      ],
+      "image_only_pages": [
+        8,
+        10,
+        13
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28237
+    },
+    "star_asia_2026_W04_Market-report-Week-4": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28620
+    },
+    "star_asia_2026_W05_Market-report-Week-5": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28202
+    },
+    "star_asia_2026_W06_Market-report-Week-6": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13",
+        "14"
+      ],
+      "image_only_pages": [
+        9,
+        12,
+        13
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28409
+    },
+    "star_asia_2026_W07_Market-report-Week-7": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29256
+    },
+    "star_asia_2026_W08_Market-report-Week-8": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28116
+    },
+    "star_asia_2026_W09_Market-report-Week-9": {
+      "pages": 20,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "8",
+        "10",
+        "13",
+        "14"
+      ],
+      "image_only_pages": [
+        4,
+        8,
+        10,
+        13
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28564
+    },
+    "star_asia_2026_W10_Market-report-Week-10": {
+      "pages": 20,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "8",
+        "10",
+        "13",
+        "14"
+      ],
+      "image_only_pages": [
+        8,
+        10,
+        13
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 31415
+    },
+    "star_asia_2026_W11_Market-report-Week-11": {
+      "pages": 20,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 30052
+    },
+    "star_asia_2026_W12_Market-report-Week-12": {
+      "pages": 19,
+      "tables": 19,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29432
+    },
+    "star_asia_2026_W14_Market-report-Week-14": {
+      "pages": 21,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 34070
+    },
+    "star_asia_2026_W15_Market-report-Week-15": {
+      "pages": 19,
+      "tables": 18,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        9,
+        12,
+        13
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 29557
+    },
+    "star_asia_2026_W16_Market-report-Week-16": {
+      "pages": 19,
+      "tables": 17,
+      "header_recovered": 1,
+      "header_short": 2,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 31091
+    },
+    "star_asia_2026_W17_Market-report-Week-17": {
+      "pages": 19,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        4,
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 13,
+      "md_bytes": 28845
+    },
+    "star_asia_2026_W18_Market-report-Week-18": {
+      "pages": 19,
+      "tables": 16,
+      "header_recovered": 1,
+      "header_short": 1,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "image_only_pages": [
+        9,
+        12
+      ],
+      "arith_checked": 14,
+      "arith_passed": 14,
+      "md_bytes": 28027
+    },
+    "star_asia_2026_W19_Market-report-Week-19": {
+      "pages": 16,
+      "tables": 19,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11",
+        "12"
+      ],
+      "image_only_pages": [
+        12
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 23245
+    },
+    "star_asia_2026_W20_Market-Report_Week-20": {
+      "pages": 15,
+      "tables": 21,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 8,
+      "md_bytes": 26607
+    },
+    "star_asia_2026_W21_Market-Report_Week-21": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 30220
+    },
+    "star_asia_2026_W22_Market-Report-Week-22": {
+      "pages": 16,
+      "tables": 19,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 27192
+    },
+    "star_asia_2026_W23_Market-Report_Week-23": {
+      "pages": 16,
+      "tables": 18,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 30495
+    },
+    "star_asia_2026_W24_Market-Report-Week-24": {
+      "pages": 16,
+      "tables": 20,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 31584
+    },
+    "star_asia_2026_W25_Market-Report-Week-25": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 31624
+    },
+    "star_asia_2026_W26_Market-Report-Week-26": {
+      "pages": 16,
+      "tables": 22,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 32124
+    },
+    "star_asia_2026_W28_Market-Report-Week-28-2": {
+      "pages": 17,
+      "tables": 25,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [],
+      "arith_checked": 9,
+      "arith_passed": 8,
+      "md_bytes": 35737
+    },
+    "star_asia_2026_W29_Market-Report-Week-29": {
+      "pages": 16,
+      "tables": 22,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "image_only_pages": [
+        10
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 32966
+    },
+    "star_asia_2026_W30_Market-Report-Week-30": {
+      "pages": 17,
+      "tables": 21,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 34578
+    },
+    "star_asia_2026_W31_Market-Report-Week-31": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 1,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 8,
+      "md_bytes": 34202
+    },
+    "star_asia_2026_W33_Market-Report-Week-33": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 32677
+    },
+    "star_asia_2026_W34_Market-Report-Week-34": {
+      "pages": 16,
+      "tables": 20,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 32870
+    },
+    "star_asia_2026_W35_Market-Report-Week-35": {
+      "pages": 16,
+      "tables": 20,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 33405
+    },
+    "star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38": {
+      "pages": 16,
+      "tables": 21,
+      "header_recovered": 0,
+      "header_short": 0,
+      "header_inherited": 0,
+      "chart_pages": [
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "image_only_pages": [
+        11
+      ],
+      "arith_checked": 9,
+      "arith_passed": 9,
+      "md_bytes": 34580
+    }
+  },
+  "failed": {}
+}

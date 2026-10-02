@@ -1,0 +1,51 @@
+{
+  "issue_date": "2023-01-17",
+  "year": "2023",
+  "title": "MMi Daily Iron Ore Index Report January 17 2023",
+  "source_file": "2023-01-17_mmi-daily-iron-ore-index-report-january-17-2023.html",
+  "records_count": 2,
+  "records": [
+    {
+      "issue_date": "2023-01-17",
+      "index_family": "IOSI",
+      "index_code": "IOSI62",
+      "fe_grade": "62% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 121.0,
+      "cfr_change": 1.5,
+      "cfr_change_pct": 1.26,
+      "cfr_mtd": 103.55,
+      "cfr_ytd": 122.03,
+      "cfr_low": 83.9,
+      "cfr_high": 159.45,
+      "source_file": "2023-01-17_mmi-daily-iron-ore-index-report-january-17-2023.html"
+    },
+    {
+      "issue_date": "2023-01-17",
+      "index_family": "IOSI",
+      "index_code": "IOSI65",
+      "fe_grade": "65% Fe Fines",
+      "fot_rmb_wmt": null,
+      "fot_change": null,
+      "fot_change_pct": null,
+      "fot_mtd": null,
+      "fot_ytd": null,
+      "fot_low": null,
+      "fot_high": null,
+      "cfr_usd_dmt": 133.0,
+      "cfr_change": -0.35,
+      "cfr_change_pct": -0.26,
+      "cfr_mtd": 113.87,
+      "cfr_ytd": 139.79,
+      "cfr_low": 94.45,
+      "cfr_high": 185.82,
+      "source_file": "2023-01-17_mmi-daily-iron-ore-index-report-january-17-2023.html"
+    }
+  ]
+}

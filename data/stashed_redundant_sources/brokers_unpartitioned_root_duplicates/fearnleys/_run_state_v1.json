@@ -1,0 +1,2318 @@
+{
+  "done": {
+    "fearnleys_2018_W29_fw_week_29_2018b": {
+      "pages": 3,
+      "era": "C-garbled",
+      "rows": 0,
+      "typed": 0,
+      "chars": 14164,
+      "images": 33,
+      "md_bytes": 14581
+    },
+    "fearnleys_2021_W27_Fearnleys-Weekly-Report-Week-27-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8405,
+      "images": 3,
+      "md_bytes": 15193
+    },
+    "fearnleys_2021_W28_Fearnleys-Weekly-Report-Week-28-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9017,
+      "images": 3,
+      "md_bytes": 15795
+    },
+    "fearnleys_2021_W29_Fearnleys-Weekly-Report-Week-29-2021": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9455,
+      "images": 3,
+      "md_bytes": 16291
+    },
+    "fearnleys_2021_W30_Fearnleys-Weekly-Report-Week-30-2021": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8810,
+      "images": 3,
+      "md_bytes": 15628
+    },
+    "fearnleys_2021_W31_Fearnleys-Weekly-Report-Week-31-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9206,
+      "images": 3,
+      "md_bytes": 15968
+    },
+    "fearnleys_2021_W32_Fearnleys-Weekly-Report-Week-32-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8926,
+      "images": 3,
+      "md_bytes": 15671
+    },
+    "fearnleys_2021_W33_Fearnleys-Weekly-Report-Week-33-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8217,
+      "images": 3,
+      "md_bytes": 14996
+    },
+    "fearnleys_2021_W34_Fearnleys-Weekly-Report-Week-34-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9244,
+      "images": 3,
+      "md_bytes": 15982
+    },
+    "fearnleys_2021_W35_Fearnleys-Weekly-Report-Week-35-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9139,
+      "images": 3,
+      "md_bytes": 15926
+    },
+    "fearnleys_2021_W36_Fearnleys-Weekly-Report-Week-36-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8885,
+      "images": 3,
+      "md_bytes": 15675
+    },
+    "fearnleys_2021_W37_Fearnleys-Weekly-Report-Week-37-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9166,
+      "images": 3,
+      "md_bytes": 15930
+    },
+    "fearnleys_2021_W38_Fearnleys-Weekly-Report-Week-38-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9379,
+      "images": 3,
+      "md_bytes": 16139
+    },
+    "fearnleys_2021_W39_Fearnleys-Weekly-Report-Week-39-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9843,
+      "images": 3,
+      "md_bytes": 16627
+    },
+    "fearnleys_2021_W40_Fearnleys-Weekly-Report-Week-40-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9273,
+      "images": 3,
+      "md_bytes": 16058
+    },
+    "fearnleys_2021_W41_Fearnleys-Weekly-Report-Week-41-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9519,
+      "images": 3,
+      "md_bytes": 16314
+    },
+    "fearnleys_2021_W42_Fearnleys-Weekly-Report-Week-42-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8490,
+      "images": 3,
+      "md_bytes": 15271
+    },
+    "fearnleys_2021_W43_Fearnleys-Weekly-Report-Week-43-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8790,
+      "images": 3,
+      "md_bytes": 15600
+    },
+    "fearnleys_2021_W44_Fearnleys-Weekly-Report-Week-44-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8979,
+      "images": 3,
+      "md_bytes": 15789
+    },
+    "fearnleys_2021_W45_Fearnleys-Weekly-Report-Week-45-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9330,
+      "images": 3,
+      "md_bytes": 16124
+    },
+    "fearnleys_2021_W46_Fearnleys-Weekly-Report-Week-46-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9056,
+      "images": 3,
+      "md_bytes": 15871
+    },
+    "fearnleys_2021_W47_Fearnleys-Weekly-Report-Week-47-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9597,
+      "images": 3,
+      "md_bytes": 16400
+    },
+    "fearnleys_2021_W48_Fearnleys-Weekly-Report-Week-48-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8267,
+      "images": 3,
+      "md_bytes": 15067
+    },
+    "fearnleys_2021_W49_Fearnleys-Weekly-Report-Week-49-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9213,
+      "images": 3,
+      "md_bytes": 15998
+    },
+    "fearnleys_2021_W50_Fearnleys-Weekly-Report-Week-50-2021": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9859,
+      "images": 3,
+      "md_bytes": 16640
+    },
+    "fearnleys_2021_W51_Fearnleys-Weekly-Report-Week-51-2021-2": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9697,
+      "images": 3,
+      "md_bytes": 16522
+    },
+    "fearnleys_2021_W52_Fearnleys-Weekly-Report-Week-52-2021": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8540,
+      "images": 3,
+      "md_bytes": 15395
+    },
+    "fearnleys_2022_W01_Fearnleys-Weekly-Report-Week-1-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10040,
+      "images": 3,
+      "md_bytes": 16842
+    },
+    "fearnleys_2022_W02_Fearnleys-Weekly-Report-Week-2-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9956,
+      "images": 3,
+      "md_bytes": 16745
+    },
+    "fearnleys_2022_W03_Fearnleys-Weekly-Report-Week-3-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9029,
+      "images": 3,
+      "md_bytes": 15819
+    },
+    "fearnleys_2022_W04_Fearnleys-Weekly-Report-Week-4-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10035,
+      "images": 3,
+      "md_bytes": 16805
+    },
+    "fearnleys_2022_W05_Fearnleys-Weekly-Report-Week-5-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10049,
+      "images": 3,
+      "md_bytes": 16849
+    },
+    "fearnleys_2022_W06_Fearnleys-Weekly-Report-Week-6-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10402,
+      "images": 3,
+      "md_bytes": 17201
+    },
+    "fearnleys_2022_W07_Fearnleys-Weekly-Report-Week-7-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9979,
+      "images": 3,
+      "md_bytes": 16762
+    },
+    "fearnleys_2022_W08_Fearnleys-Weekly-Report-Week-8-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9788,
+      "images": 3,
+      "md_bytes": 16574
+    },
+    "fearnleys_2022_W09_Fearnleys-Weekly-Report-Week-9-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9091,
+      "images": 3,
+      "md_bytes": 15876
+    },
+    "fearnleys_2022_W10_Fearnleys-Weekly-Report-Week-10-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10275,
+      "images": 3,
+      "md_bytes": 17097
+    },
+    "fearnleys_2022_W11_Fearnleys-Weekly-Report-Week-11-2022-1": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10050,
+      "images": 3,
+      "md_bytes": 16873
+    },
+    "fearnleys_2022_W12_Fearnleys-Weekly-Report-Week-12-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10842,
+      "images": 3,
+      "md_bytes": 17630
+    },
+    "fearnleys_2022_W13_Fearnleys-Weekly-Report-Week-13-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10660,
+      "images": 3,
+      "md_bytes": 17447
+    },
+    "fearnleys_2022_W14_Fearnleys-Weekly-Report-Week-14-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9909,
+      "images": 3,
+      "md_bytes": 16702
+    },
+    "fearnleys_2022_W16_Fearnleys-Weekly-Report-Week-16-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9727,
+      "images": 3,
+      "md_bytes": 16542
+    },
+    "fearnleys_2022_W17_Fearnleys-Weekly-Report-Week-17-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9416,
+      "images": 3,
+      "md_bytes": 16231
+    },
+    "fearnleys_2022_W18_Fearnleys-Weekly-Report-Week-18-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9432,
+      "images": 3,
+      "md_bytes": 16247
+    },
+    "fearnleys_2022_W19_Fearnleys-Weekly-Report-Week-19-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9962,
+      "images": 3,
+      "md_bytes": 16765
+    },
+    "fearnleys_2022_W20_Fearnleys-Weekly-Report-Week-20-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9288,
+      "images": 3,
+      "md_bytes": 16077
+    },
+    "fearnleys_2022_W21_Fearnleys-Weekly-Report-Week-21-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10313,
+      "images": 3,
+      "md_bytes": 17101
+    },
+    "fearnleys_2022_W22_Fearnleys-Weekly-Report-Week-22-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8598,
+      "images": 3,
+      "md_bytes": 15398
+    },
+    "fearnleys_2022_W23_Fearnleys-Weekly-Report-Week-23-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9151,
+      "images": 3,
+      "md_bytes": 15956
+    },
+    "fearnleys_2022_W24_Fearnleys-Weekly-Report-Week-24-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9649,
+      "images": 3,
+      "md_bytes": 16437
+    },
+    "fearnleys_2022_W25_Fearnleys-Weekly-Report-Week-25-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9506,
+      "images": 3,
+      "md_bytes": 16291
+    },
+    "fearnleys_2022_W26_Fearnleys-Weekly-Report-Week-26-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9883,
+      "images": 3,
+      "md_bytes": 16676
+    },
+    "fearnleys_2022_W27_Fearnleys-Weekly-Report-Week-27-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9659,
+      "images": 3,
+      "md_bytes": 16467
+    },
+    "fearnleys_2022_W28_Fearnleys-Weekly-Report-Week-28-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9668,
+      "images": 3,
+      "md_bytes": 16478
+    },
+    "fearnleys_2022_W29_Fearnleys-Weekly-Report-Week-29-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9968,
+      "images": 3,
+      "md_bytes": 16755
+    },
+    "fearnleys_2022_W30_Fearnleys-Weekly-Report-Week-30-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9039,
+      "images": 3,
+      "md_bytes": 15830
+    },
+    "fearnleys_2022_W31_Fearnleys-Weekly-Report-Week-31-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9941,
+      "images": 3,
+      "md_bytes": 16749
+    },
+    "fearnleys_2022_W32_Fearnleys-Weekly-Report-Week-32-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9302,
+      "images": 3,
+      "md_bytes": 16105
+    },
+    "fearnleys_2022_W33_Fearnleys-Weekly-Report": {
+      "pages": 1,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 128,
+      "images": 1,
+      "md_bytes": 655
+    },
+    "fearnleys_2022_W34_Fearnleys-Weekly-Report-Week-34-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9051,
+      "images": 3,
+      "md_bytes": 15855
+    },
+    "fearnleys_2022_W35_Fearnleys-Weekly-Report-Week-35-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9118,
+      "images": 3,
+      "md_bytes": 15907
+    },
+    "fearnleys_2022_W37_Fearnleys-Weekly-Report-Week-37-2022": {
+      "pages": 1,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 8994,
+      "images": 3,
+      "md_bytes": 15807
+    },
+    "fearnleys_2022_W38_Fearnleys-Weekly-Report-Week-38-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9477,
+      "images": 3,
+      "md_bytes": 16332
+    },
+    "fearnleys_2022_W40_Fearnleys-Weekly-Report-Week-40-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9595,
+      "images": 3,
+      "md_bytes": 16472
+    },
+    "fearnleys_2022_W41_Fearnleys-Weekly-Report": {
+      "pages": 8,
+      "era": "A-cards",
+      "rows": 30,
+      "typed": 30,
+      "chars": 8744,
+      "images": 3,
+      "md_bytes": 11202
+    },
+    "fearnleys_2022_W42_Fearnleys-Weekly-Report-Week-42-2022": {
+      "pages": 8,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 1003,
+      "images": 0,
+      "md_bytes": 1636
+    },
+    "fearnleys_2022_W43_Fearnleys-Weekly-Report-Week-43-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10015,
+      "images": 3,
+      "md_bytes": 16836
+    },
+    "fearnleys_2022_W44_Fearnleys-Weekly-Report-Week-44-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9336,
+      "images": 3,
+      "md_bytes": 16193
+    },
+    "fearnleys_2022_W45_Fearnleys-Weekly-Report-Week-45-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 10217,
+      "images": 3,
+      "md_bytes": 17057
+    },
+    "fearnleys_2022_W46_Fearnleys-Weekly-Report-Week-46-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9447,
+      "images": 3,
+      "md_bytes": 16320
+    },
+    "fearnleys_2022_W47_Fearnleys-Weekly-Report-Week-47-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9576,
+      "images": 3,
+      "md_bytes": 16442
+    },
+    "fearnleys_2022_W48_Fearnleys-Weekly-Report-Week-48-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9687,
+      "images": 3,
+      "md_bytes": 16543
+    },
+    "fearnleys_2022_W49_Fearnleys-Weekly-Report-Week-49-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9287,
+      "images": 3,
+      "md_bytes": 16141
+    },
+    "fearnleys_2022_W50_Fearnleys-Weekly-Report-Week-50-2022": {
+      "pages": 441,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 51320,
+      "images": 3,
+      "md_bytes": 58813
+    },
+    "fearnleys_2022_W51_Fearnleys-Weekly-Report-Week-51-2022": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9836,
+      "images": 3,
+      "md_bytes": 16672
+    },
+    "fearnleys_2022_W52_Fearnleys-Weekly-Report-Week-52-2022": {
+      "pages": 441,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 49528,
+      "images": 3,
+      "md_bytes": 57021
+    },
+    "fearnleys_2023_W01_Fearnleys-Weekly-Report-Week-1-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 84,
+      "typed": 84,
+      "chars": 9203,
+      "images": 3,
+      "md_bytes": 16113
+    },
+    "fearnleys_2023_W02_Fearnleys-Weekly-Report-Week-1-January-04-2023": {
+      "pages": 441,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 56380,
+      "images": 3,
+      "md_bytes": 63893
+    },
+    "fearnleys_2023_W03_Fearnleys-Weekly-Report-Week-3-January-11-2023": {
+      "pages": 441,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 56201,
+      "images": 3,
+      "md_bytes": 63714
+    },
+    "fearnleys_2023_W04_Fearnleys-Weekly-Report-Week-3-January-18-2023": {
+      "pages": 441,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 56649,
+      "images": 3,
+      "md_bytes": 64162
+    },
+    "fearnleys_2023_W05_Fearnleys-Weekly-Report-Week-4-January-25-2023": {
+      "pages": 441,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 55871,
+      "images": 3,
+      "md_bytes": 63384
+    },
+    "fearnleys_2023_W06_Fearnleys-Weekly-Report-Week-5-February-01-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 8757,
+      "images": 3,
+      "md_bytes": 15353
+    },
+    "fearnleys_2023_W07_Fearnleys-Weekly-Report-Week-6-February-08-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9711,
+      "images": 3,
+      "md_bytes": 16293
+    },
+    "fearnleys_2023_W08_Fearnleys-Weekly-Report-Week-7-February-15-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 10118,
+      "images": 3,
+      "md_bytes": 16688
+    },
+    "fearnleys_2023_W09_Fearnleys-Weekly-Report-Week-8-February-22-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9172,
+      "images": 3,
+      "md_bytes": 15757
+    },
+    "fearnleys_2023_W10_Fearnleys-Weekly-Report-Week-9-March-01-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9982,
+      "images": 3,
+      "md_bytes": 16582
+    },
+    "fearnleys_2023_W11_Fearnleys-Weekly-Report-Week-10-March-08-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9708,
+      "images": 3,
+      "md_bytes": 16305
+    },
+    "fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 8733,
+      "images": 3,
+      "md_bytes": 15358
+    },
+    "fearnleys_2023_W13_Fearnleys-Weekly-Report-Week-12-March-22-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9985,
+      "images": 3,
+      "md_bytes": 16595
+    },
+    "fearnleys_2023_W15_Fearnleys-Weekly-Report-Week-14-April-05-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9609,
+      "images": 3,
+      "md_bytes": 16220
+    },
+    "fearnleys_2023_W16_Fearnleys-Weekly-Report-Week-15-April-12-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 8868,
+      "images": 3,
+      "md_bytes": 15447
+    },
+    "fearnleys_2023_W17_Fearnleys-Weekly-Report-Week-16-April-19-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 9571,
+      "images": 3,
+      "md_bytes": 16145
+    },
+    "fearnleys_2023_W18_Fearnleys-Weekly-Report-Week-17-April-26-2023": {
+      "pages": 7,
+      "era": "B-rows",
+      "rows": 82,
+      "typed": 82,
+      "chars": 8732,
+      "images": 3,
+      "md_bytes": 15335
+    },
+    "fearnleys_2023_W21_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12185,
+      "images": 19,
+      "md_bytes": 17334
+    },
+    "fearnleys_2023_W22_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12418,
+      "images": 19,
+      "md_bytes": 17569
+    },
+    "fearnleys_2023_W23_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 11984,
+      "images": 19,
+      "md_bytes": 17122
+    },
+    "fearnleys_2023_W24_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12062,
+      "images": 19,
+      "md_bytes": 17179
+    },
+    "fearnleys_2023_W25_Fearnleys-Weekly-Report-_-Fearnpulse-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12157,
+      "images": 19,
+      "md_bytes": 17159
+    },
+    "fearnleys_2023_W26_Fearnleys-Weekly-Report-_-Fearnpulse-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 11995,
+      "images": 19,
+      "md_bytes": 17129
+    },
+    "fearnleys_2023_W27_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12655,
+      "images": 20,
+      "md_bytes": 17739
+    },
+    "fearnleys_2023_W28_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 61,
+      "typed": 61,
+      "chars": 13026,
+      "images": 20,
+      "md_bytes": 17490
+    },
+    "fearnleys_2023_W29_Fearnleys-Weekly-Report-_-Fearnpulse-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12503,
+      "images": 19,
+      "md_bytes": 17590
+    },
+    "fearnleys_2023_W30_Fearnleys-Weekly-Report-_-Fearnpulse-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 65,
+      "typed": 65,
+      "chars": 11343,
+      "images": 19,
+      "md_bytes": 15842
+    },
+    "fearnleys_2023_W31_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 4533,
+      "images": 19,
+      "md_bytes": 5352
+    },
+    "fearnleys_2023_W32_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12444,
+      "images": 19,
+      "md_bytes": 17479
+    },
+    "fearnleys_2023_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12648,
+      "images": 19,
+      "md_bytes": 17582
+    },
+    "fearnleys_2023_W34_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 52,
+      "typed": 52,
+      "chars": 11784,
+      "images": 19,
+      "md_bytes": 15587
+    },
+    "fearnleys_2023_W35_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12289,
+      "images": 19,
+      "md_bytes": 17317
+    },
+    "fearnleys_2023_W36_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 70,
+      "typed": 70,
+      "chars": 12460,
+      "images": 19,
+      "md_bytes": 17315
+    },
+    "fearnleys_2023_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 62,
+      "typed": 62,
+      "chars": 12501,
+      "images": 19,
+      "md_bytes": 16952
+    },
+    "fearnleys_2023_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 69,
+      "typed": 69,
+      "chars": 12605,
+      "images": 19,
+      "md_bytes": 17453
+    },
+    "fearnleys_2023_W39_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 13070,
+      "images": 341,
+      "md_bytes": 17442
+    },
+    "fearnleys_2023_W40_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13141,
+      "images": 19,
+      "md_bytes": 18146
+    },
+    "fearnleys_2023_W41_Fearnleys-Weekly-Report-_-Fearnpuls1e": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 6818,
+      "images": 19,
+      "md_bytes": 7940
+    },
+    "fearnleys_2023_W42_Fearnleys-Weekly-Report": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 13442,
+      "images": 20,
+      "md_bytes": 18509
+    },
+    "fearnleys_2023_W43_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 13232,
+      "images": 20,
+      "md_bytes": 18311
+    },
+    "fearnleys_2023_W44_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 66,
+      "typed": 66,
+      "chars": 12918,
+      "images": 20,
+      "md_bytes": 17542
+    },
+    "fearnleys_2023_W45_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12379,
+      "images": 19,
+      "md_bytes": 17423
+    },
+    "fearnleys_2023_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12871,
+      "images": 20,
+      "md_bytes": 17933
+    },
+    "fearnleys_2023_W47_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 13906,
+      "images": 20,
+      "md_bytes": 19005
+    },
+    "fearnleys_2023_W48_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 18,
+      "era": "A-cards",
+      "rows": 38,
+      "typed": 38,
+      "chars": 9073,
+      "images": 18,
+      "md_bytes": 11738
+    },
+    "fearnleys_2023_W49_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 20,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5204,
+      "images": 20,
+      "md_bytes": 6064
+    },
+    "fearnleys_2023_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 13594,
+      "images": 20,
+      "md_bytes": 18768
+    },
+    "fearnleys_2023_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 12558,
+      "images": 19,
+      "md_bytes": 17630
+    },
+    "fearnleys_2023_W52_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 11451,
+      "images": 19,
+      "md_bytes": 16539
+    },
+    "fearnleys_2024_W01_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 4850,
+      "images": 19,
+      "md_bytes": 5695
+    },
+    "fearnleys_2024_W02_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 73,
+      "typed": 73,
+      "chars": 13152,
+      "images": 20,
+      "md_bytes": 18235
+    },
+    "fearnleys_2024_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12968,
+      "images": 20,
+      "md_bytes": 18029
+    },
+    "fearnleys_2024_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12295,
+      "images": 19,
+      "md_bytes": 17271
+    },
+    "fearnleys_2024_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13062,
+      "images": 19,
+      "md_bytes": 18091
+    },
+    "fearnleys_2024_W06_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 11941,
+      "images": 19,
+      "md_bytes": 16924
+    },
+    "fearnleys_2024_W07_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13691,
+      "images": 20,
+      "md_bytes": 18704
+    },
+    "fearnleys_2024_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12539,
+      "images": 19,
+      "md_bytes": 17533
+    },
+    "fearnleys_2024_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12875,
+      "images": 19,
+      "md_bytes": 17883
+    },
+    "fearnleys_2024_W10_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 20,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5096,
+      "images": 20,
+      "md_bytes": 5952
+    },
+    "fearnleys_2024_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 14457,
+      "images": 20,
+      "md_bytes": 19538
+    },
+    "fearnleys_2024_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1-1": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 14217,
+      "images": 20,
+      "md_bytes": 19311
+    },
+    "fearnleys_2024_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5323,
+      "images": 19,
+      "md_bytes": 6164
+    },
+    "fearnleys_2024_W15_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12625,
+      "images": 19,
+      "md_bytes": 17642
+    },
+    "fearnleys_2024_W16_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5435,
+      "images": 19,
+      "md_bytes": 6254
+    },
+    "fearnleys_2024_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12816,
+      "images": 19,
+      "md_bytes": 17818
+    },
+    "fearnleys_2024_W19_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12787,
+      "images": 19,
+      "md_bytes": 17786
+    },
+    "fearnleys_2024_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-4": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12126,
+      "images": 19,
+      "md_bytes": 17145
+    },
+    "fearnleys_2024_W21_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13116,
+      "images": 19,
+      "md_bytes": 18109
+    },
+    "fearnleys_2024_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13514,
+      "images": 19,
+      "md_bytes": 18552
+    },
+    "fearnleys_2024_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 11705,
+      "images": 19,
+      "md_bytes": 16732
+    },
+    "fearnleys_2024_W24_Fearnleys-Weekly-24Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 43,
+      "typed": 43,
+      "chars": 11311,
+      "images": 19,
+      "md_bytes": 14262
+    },
+    "fearnleys_2024_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13440,
+      "images": 20,
+      "md_bytes": 18498
+    },
+    "fearnleys_2024_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13049,
+      "images": 19,
+      "md_bytes": 18064
+    },
+    "fearnleys_2024_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12530,
+      "images": 19,
+      "md_bytes": 17549
+    },
+    "fearnleys_2024_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 11840,
+      "images": 19,
+      "md_bytes": 16832
+    },
+    "fearnleys_2024_W29_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 22,
+      "era": "A-cards",
+      "rows": 49,
+      "typed": 49,
+      "chars": 11363,
+      "images": 438,
+      "md_bytes": 15084
+    },
+    "fearnleys_2024_W30_Fearnleys-Weekly-Report-_-Fearnpulse30": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12773,
+      "images": 19,
+      "md_bytes": 17728
+    },
+    "fearnleys_2024_W31_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13302,
+      "images": 19,
+      "md_bytes": 18319
+    },
+    "fearnleys_2024_W32_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12535,
+      "images": 19,
+      "md_bytes": 17569
+    },
+    "fearnleys_2024_W33_Fearnleys-Weekly-Report-_-Fearnpulse1_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12777,
+      "images": 19,
+      "md_bytes": 17785
+    },
+    "fearnleys_2024_W34_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12796,
+      "images": 19,
+      "md_bytes": 17789
+    },
+    "fearnleys_2024_W35_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5265,
+      "images": 19,
+      "md_bytes": 6108
+    },
+    "fearnleys_2024_W36_Fearnleys-Weekly-Report_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12357,
+      "images": 19,
+      "md_bytes": 17244
+    },
+    "fearnleys_2024_W37_Fearnleys-Weekly-Report-_-Fearnpulse24_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12290,
+      "images": 19,
+      "md_bytes": 17272
+    },
+    "fearnleys_2024_W38_Fearnleys-Weekly-Report-_-Fearnpulse3_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12371,
+      "images": 19,
+      "md_bytes": 17399
+    },
+    "fearnleys_2024_W39_Fearnleys-Weekly-Report-_-Fearnpulse4_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13050,
+      "images": 19,
+      "md_bytes": 18065
+    },
+    "fearnleys_2024_W40_Fearnleys-Weekly-Report-_-Fearnpulse54_compressed": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 4584,
+      "images": 19,
+      "md_bytes": 5429
+    },
+    "fearnleys_2024_W41_Fearnleys-Weekly-Report-_-Fearnpulse10_compressed": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5058,
+      "images": 19,
+      "md_bytes": 5903
+    },
+    "fearnleys_2024_W42_Fearnleys-Weekly-Report-_-Fearnpulse16_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12422,
+      "images": 19,
+      "md_bytes": 17489
+    },
+    "fearnleys_2024_W43_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12241,
+      "images": 19,
+      "md_bytes": 17316
+    },
+    "fearnleys_2024_W44_Fearnleys-Weekly-Report-_-Fearnpulse31_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13124,
+      "images": 19,
+      "md_bytes": 18144
+    },
+    "fearnleys_2024_W45_Fearnleys-Weekly-Report-_-Fearnpulsesdsdf_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13350,
+      "images": 19,
+      "md_bytes": 18402
+    },
+    "fearnleys_2024_W46_Fearnleys-Weekly-Report-_-Fearnpulse13_compressed": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5325,
+      "images": 19,
+      "md_bytes": 6170
+    },
+    "fearnleys_2024_W47_Fearnleys-Weekly-Report-_-Fearnpulse20_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13421,
+      "images": 19,
+      "md_bytes": 18461
+    },
+    "fearnleys_2024_W49_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-6": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 6876,
+      "images": 19,
+      "md_bytes": 8014
+    },
+    "fearnleys_2024_W50_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13582,
+      "images": 19,
+      "md_bytes": 18590
+    },
+    "fearnleys_2024_W51_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12961,
+      "images": 19,
+      "md_bytes": 17965
+    },
+    "fearnleys_2025_W02_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-5": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 60,
+      "typed": 60,
+      "chars": 11771,
+      "images": 19,
+      "md_bytes": 16137
+    },
+    "fearnleys_2025_W03_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13544,
+      "images": 19,
+      "md_bytes": 18674
+    },
+    "fearnleys_2025_W04_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12411,
+      "images": 19,
+      "md_bytes": 17385
+    },
+    "fearnleys_2025_W05_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12618,
+      "images": 19,
+      "md_bytes": 17739
+    },
+    "fearnleys_2025_W06_Fearnleys-Weekly-Report-_-Fearnpulse14_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12688,
+      "images": 19,
+      "md_bytes": 17785
+    },
+    "fearnleys_2025_W07_Fearnleys-Weekly-Report-_-Fearnpulse-": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12733,
+      "images": 19,
+      "md_bytes": 17815
+    },
+    "fearnleys_2025_W08_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12238,
+      "images": 19,
+      "md_bytes": 17360
+    },
+    "fearnleys_2025_W09_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12700,
+      "images": 19,
+      "md_bytes": 17795
+    },
+    "fearnleys_2025_W10_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 15,
+      "typed": 15,
+      "chars": 7504,
+      "images": 19,
+      "md_bytes": 9065
+    },
+    "fearnleys_2025_W11_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 14550,
+      "images": 20,
+      "md_bytes": 19768
+    },
+    "fearnleys_2025_W12_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 13612,
+      "images": 19,
+      "md_bytes": 18773
+    },
+    "fearnleys_2025_W13_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 72,
+      "typed": 72,
+      "chars": 12644,
+      "images": 19,
+      "md_bytes": 17775
+    },
+    "fearnleys_2025_W14_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13901,
+      "images": 19,
+      "md_bytes": 18994
+    },
+    "fearnleys_2025_W15_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13365,
+      "images": 19,
+      "md_bytes": 18511
+    },
+    "fearnleys_2025_W17_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12606,
+      "images": 19,
+      "md_bytes": 17692
+    },
+    "fearnleys_2025_W18_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 13,
+      "typed": 13,
+      "chars": 6992,
+      "images": 19,
+      "md_bytes": 8357
+    },
+    "fearnleys_2025_W19_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 15,
+      "typed": 15,
+      "chars": 7711,
+      "images": 19,
+      "md_bytes": 9314
+    },
+    "fearnleys_2025_W20_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13332,
+      "images": 19,
+      "md_bytes": 18468
+    },
+    "fearnleys_2025_W21_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13601,
+      "images": 19,
+      "md_bytes": 18731
+    },
+    "fearnleys_2025_W22_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12258,
+      "images": 19,
+      "md_bytes": 17336
+    },
+    "fearnleys_2025_W23_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 18,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 9358,
+      "images": 18,
+      "md_bytes": 14388
+    },
+    "fearnleys_2025_W24_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12748,
+      "images": 19,
+      "md_bytes": 17878
+    },
+    "fearnleys_2025_W25_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13366,
+      "images": 19,
+      "md_bytes": 18412
+    },
+    "fearnleys_2025_W26_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12879,
+      "images": 19,
+      "md_bytes": 18025
+    },
+    "fearnleys_2025_W27_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12238,
+      "images": 19,
+      "md_bytes": 17353
+    },
+    "fearnleys_2025_W28_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12634,
+      "images": 19,
+      "md_bytes": 17693
+    },
+    "fearnleys_2025_W29_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "empty",
+      "rows": 9,
+      "typed": 9,
+      "chars": 6646,
+      "images": 19,
+      "md_bytes": 7669
+    },
+    "fearnleys_2025_W30_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-3": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12559,
+      "images": 19,
+      "md_bytes": 17658
+    },
+    "fearnleys_2025_W31_Fearnleys-Weekly-Report-_-Fearnpulsef_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 11634,
+      "images": 19,
+      "md_bytes": 16773
+    },
+    "fearnleys_2025_W32_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "empty",
+      "rows": 9,
+      "typed": 9,
+      "chars": 6437,
+      "images": 19,
+      "md_bytes": 7460
+    },
+    "fearnleys_2025_W33_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12387,
+      "images": 19,
+      "md_bytes": 17400
+    },
+    "fearnleys_2025_W34_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 70,
+      "typed": 70,
+      "chars": 9376,
+      "images": 19,
+      "md_bytes": 14404
+    },
+    "fearnleys_2025_W35_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 1748,
+      "images": 19,
+      "md_bytes": 2578
+    },
+    "fearnleys_2025_W36_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 5587,
+      "images": 19,
+      "md_bytes": 6406
+    },
+    "fearnleys_2025_W37_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13088,
+      "images": 19,
+      "md_bytes": 18169
+    },
+    "fearnleys_2025_W38_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 11841,
+      "images": 19,
+      "md_bytes": 16952
+    },
+    "fearnleys_2025_W39_Fearnleys-Weekly-Report-_-Fearnpulse_compressed-2": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13097,
+      "images": 19,
+      "md_bytes": 18160
+    },
+    "fearnleys_2025_W41_Fearnleys-Weekly-Report-_-Fearnpulse23": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 6616,
+      "images": 19,
+      "md_bytes": 7756
+    },
+    "fearnleys_2025_W42_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 6531,
+      "images": 19,
+      "md_bytes": 7655
+    },
+    "fearnleys_2025_W43_Fearnleys-Weekly-Report-_-Fearnpulse12_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12793,
+      "images": 19,
+      "md_bytes": 17876
+    },
+    "fearnleys_2025_W44_Fearnleys-Weekly-Report-_-Fearnpulse324_compressed-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12872,
+      "images": 19,
+      "md_bytes": 17965
+    },
+    "fearnleys_2025_W45_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13185,
+      "images": 19,
+      "md_bytes": 18281
+    },
+    "fearnleys_2025_W46_Fearnleys-Weekly-Report-_-Fearnpulse_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12904,
+      "images": 19,
+      "md_bytes": 17975
+    },
+    "fearnleys_2025_W47_Fearnleys-Weekly-Report-_-Fearnpulse2_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12716,
+      "images": 19,
+      "md_bytes": 17818
+    },
+    "fearnleys_2025_W48_Fearnleys-Weekly-Report-_-Fearnpulse23_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13979,
+      "images": 20,
+      "md_bytes": 19125
+    },
+    "fearnleys_2025_W49_Fearnleys-Weekly-Report-_-Fearnpulse123123_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12437,
+      "images": 19,
+      "md_bytes": 17584
+    },
+    "fearnleys_2025_W50_Fearnleys-Weekly-Report-_-Fearnpulse124_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12660,
+      "images": 19,
+      "md_bytes": 17779
+    },
+    "fearnleys_2025_W51_Fearnleys-Weekly-Report-_-Fearnpulse123_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12485,
+      "images": 19,
+      "md_bytes": 17593
+    },
+    "10_09_2026_fearnleys_week_37_2026": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 11125,
+      "images": 20,
+      "md_bytes": 16181
+    },
+    "fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 4087,
+      "images": 19,
+      "md_bytes": 4906
+    },
+    "fearnleys_2026_W02_Fearnleys-Weekly-Report-_-Fearnpulseadba_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12714,
+      "images": 19,
+      "md_bytes": 17845
+    },
+    "fearnleys_2026_W03_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 19,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 2324,
+      "images": 19,
+      "md_bytes": 3152
+    },
+    "fearnleys_2026_W04_Fearnleys-Weekly-Report-_-Fearnpulsewergwb_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 16,
+      "typed": 16,
+      "chars": 7271,
+      "images": 20,
+      "md_bytes": 8900
+    },
+    "fearnleys_2026_W05_Fearnleys-Weekly-Report-_-Fearnpulseffff_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13258,
+      "images": 19,
+      "md_bytes": 18358
+    },
+    "fearnleys_2026_W06_Fearnleys-Weekly-Report-_-Fearnpulsejgf_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12854,
+      "images": 19,
+      "md_bytes": 17960
+    },
+    "fearnleys_2026_W07_Fearnleys-Weekly-Report-_-Fearnpulsevfkgo_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12731,
+      "images": 19,
+      "md_bytes": 17810
+    },
+    "fearnleys_2026_W08_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 9640,
+      "images": 19,
+      "md_bytes": 14682
+    },
+    "fearnleys_2026_W09_Fearnleys-Weekly-Report-_-Fearnpulsesdsdsf_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12803,
+      "images": 19,
+      "md_bytes": 17940
+    },
+    "fearnleys_2026_W10_Fearnleys-Weekly-Report-_-Fearnpulsehfhfhf_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12034,
+      "images": 19,
+      "md_bytes": 17241
+    },
+    "fearnleys_2026_W11_Fearnleys-Weekly-Report-_-Fearnpulsekljadv_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13264,
+      "images": 19,
+      "md_bytes": 18409
+    },
+    "fearnleys_2026_W12_Fearnleys-Weekly-Report-_-Fearnpulse089798897_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 7272,
+      "images": 20,
+      "md_bytes": 8454
+    },
+    "fearnleys_2026_W13_Fearnleys-Weekly-Report-_-Fearnpulsekjbadg_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 12,
+      "typed": 12,
+      "chars": 7875,
+      "images": 20,
+      "md_bytes": 9269
+    },
+    "fearnleys_2026_W14_Fearnleys-Weekly-Report-_-Fearnpulselkqdef_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 14,
+      "typed": 14,
+      "chars": 6483,
+      "images": 19,
+      "md_bytes": 7922
+    },
+    "fearnleys_2026_W15_Fearnleys-Weekly-Report-_-Fearnpulsekjbasdvkjbav_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13571,
+      "images": 20,
+      "md_bytes": 18709
+    },
+    "fearnleys_2026_W16_Fearnleys-Weekly-Report-_-Fearnpulseljknadv_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12550,
+      "images": 19,
+      "md_bytes": 17655
+    },
+    "fearnleys_2026_W17_Fearnleys-Weekly-Report-_-Fearnpulseadvqvg_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 6874,
+      "images": 19,
+      "md_bytes": 8030
+    },
+    "fearnleys_2026_W18_Fearnleys-Weekly-Report-_-Fearnpulsefnffjf_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12664,
+      "images": 19,
+      "md_bytes": 17769
+    },
+    "fearnleys_2026_W19_Fearnleys-Weekly-Report-_-Fearnpulsekjbasdvq_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 11,
+      "typed": 11,
+      "chars": 6454,
+      "images": 19,
+      "md_bytes": 7690
+    },
+    "fearnleys_2026_W20_Fearnleys-Weekly-Report-_-Fearnpulselkjbnadv_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12133,
+      "images": 19,
+      "md_bytes": 17227
+    },
+    "fearnleys_2026_W21_Fearnleys-Weekly-Report-_-Fearnpulsejhjhv_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12636,
+      "images": 19,
+      "md_bytes": 17740
+    },
+    "fearnleys_2026_W22_Fearnleys-Weekly-Report-_-Fearnpulseqefqwf_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 11,
+      "typed": 11,
+      "chars": 6426,
+      "images": 19,
+      "md_bytes": 7655
+    },
+    "fearnleys_2026_W23_Fearnleys-Weekly-Report-_-Fearnpulsesadvlknqwebvg_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 12353,
+      "images": 19,
+      "md_bytes": 17490
+    },
+    "fearnleys_2026_W24_Fearnleys-Weekly-Report-_-Fearnpulseljbihv_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13212,
+      "images": 20,
+      "md_bytes": 18356
+    },
+    "fearnleys_2026_W25_Fearnleys-Weekly-Report-_-Fearnpulsewgwwgb_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 11,
+      "typed": 11,
+      "chars": 6512,
+      "images": 19,
+      "md_bytes": 7741
+    },
+    "fearnleys_2026_W26_Fearnleys-Weekly-Report-_-Fearnpulsekjhbdfo_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13101,
+      "images": 19,
+      "md_bytes": 18221
+    },
+    "fearnleys_2026_W27_Fearnleys-Weekly-Report-_-Fearnpulsekjbwbv_compressed": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 11,
+      "typed": 11,
+      "chars": 6244,
+      "images": 19,
+      "md_bytes": 7469
+    },
+    "fearnleys_2026_W29_Fearnleys-Weekly-Report-_-Fearnpulsejnad_compressed": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 10,
+      "typed": 10,
+      "chars": 7312,
+      "images": 20,
+      "md_bytes": 8488
+    },
+    "fearnleys_2026_W30_Fearnleys-Weekly-Report-Fearnpulse": {
+      "pages": 20,
+      "era": "D-image",
+      "rows": 0,
+      "typed": 0,
+      "chars": 4279,
+      "images": 20,
+      "md_bytes": 5112
+    },
+    "fearnleys_2026_W31_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 10415,
+      "images": 20,
+      "md_bytes": 15482
+    },
+    "fearnleys_2026_W32_Fearnleys-Weekly-Report-_-Fearnpulse": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 8654,
+      "images": 19,
+      "md_bytes": 13747
+    },
+    "fearnleys_2026_W33_Fearnleys-Weekly-Report-_-Fearnpulse-1": {
+      "pages": 19,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 13370,
+      "images": 19,
+      "md_bytes": 18481
+    },
+    "fearnleys_2026_W34_Fearnleys-Weekly-Report-_-Fearnpulse-2": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 10190,
+      "images": 20,
+      "md_bytes": 15316
+    },
+    "fearnleys_2026_W35_Fearnleys-Weekly-Report-_-Fearnpulse-3": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 9438,
+      "images": 20,
+      "md_bytes": 14500
+    },
+    "fearnleys_2026_W36_Fearnleys-Weekly-Report-_-Fearnpulse_": {
+      "pages": 20,
+      "era": "A-cards",
+      "rows": 71,
+      "typed": 71,
+      "chars": 9996,
+      "images": 20,
+      "md_bytes": 15062
+    }
+  },
+  "failed": {}
+}
