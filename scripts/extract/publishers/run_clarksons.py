@@ -625,7 +625,7 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
 
     # 3. Write data/extracted/series/clarksons_sales_series.csv
     sales_cols = [
-        "issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT",
+        "issue_date", "issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT",
         "YARD", "PRICE", "BUYERS", "SS_DD", "COMMENTS", "extra_json"
     ]
     sales_csv_path = OUT_SERIES / "clarksons_sales_series.csv"
@@ -633,13 +633,16 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
         writer = csv.DictWriter(f, fieldnames=sales_cols)
         writer.writeheader()
         for row in all_sales_rows:
+            dt_val = row.get("issue_date") or row.get("issue", "")
+            row["issue_date"] = dt_val
+            row["issue"] = dt_val
             writer.writerow(row)
 
     print(f"\nWritten {len(all_sales_rows)} total S&P sales rows to {sales_csv_path}")
 
     # 4. Write data/extracted/series/clarksons_demolition_series.csv
     demo_cols = [
-        "issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT",
+        "issue_date", "issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT",
         "YARD", "PRICE", "DELIVERY", "COMMENTS", "extra_json"
     ]
     demo_csv_path = OUT_SERIES / "clarksons_demolition_series.csv"
@@ -647,6 +650,9 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
         writer = csv.DictWriter(f, fieldnames=demo_cols)
         writer.writeheader()
         for row in all_demo_rows:
+            dt_val = row.get("issue_date") or row.get("issue", "")
+            row["issue_date"] = dt_val
+            row["issue"] = dt_val
             writer.writerow(row)
 
     print(f"Written {len(all_demo_rows)} total demolition rows to {demo_csv_path}")

@@ -1052,13 +1052,13 @@ def process_document(pdf_path: Path) -> Dict[str, Any]:
 # ---------------------------------------------------------------------------
 
 SALES_COLUMNS = [
-    "issue", "report_week", "section", "page", "NAME", "TYPE", "DWT", "TEU", "CBM",
+    "issue_date", "issue", "report_week", "section", "page", "NAME", "TYPE", "DWT", "TEU", "CBM",
     "BUILT", "YARD", "M_E", "GEAR", "PRICE", "PRICE_USD_MILL", "BUYERS",
     "SS", "COMMENTS", "source_file", "extra_json"
 ]
 
 DEMO_COLUMNS = [
-    "issue", "report_week", "segment", "country", "price_usd_per_ldt", "source_file"
+    "issue_date", "issue", "report_week", "segment", "country", "price_usd_per_ldt", "source_file"
 ]
 
 NB_COLUMNS = [
@@ -1093,15 +1093,21 @@ def write_series_csvs(
         writer = csv.DictWriter(f, fieldnames=SALES_COLUMNS)
         writer.writeheader()
         for r in sales_rows:
-            writer.writerow({k: r.get(k, "") for k in SALES_COLUMNS})
+            row_dict = {k: r.get(k, "") for k in SALES_COLUMNS}
+            dt_val = r.get("issue_date") or r.get("issue", "")
+            row_dict["issue_date"] = dt_val
+            row_dict["issue"] = dt_val
+            writer.writerow(row_dict)
 
     # 2. Demolition Prices Series CSV
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=DEMO_COLUMNS)
         writer.writeheader()
         for r in demo_prices_rows:
+            dt_val = r.get("issue_date") or r.get("issue", "")
             writer.writerow({
-                "issue": r.get("issue_date", ""),
+                "issue_date": dt_val,
+                "issue": dt_val,
                 "report_week": r.get("report_week", ""),
                 "segment": r.get("segment", ""),
                 "country": r.get("country", ""),
