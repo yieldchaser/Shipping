@@ -338,10 +338,10 @@ def extract_desk_commentary(doc: pymupdf.Document) -> Dict[str, str]:
             nb_paras = []
             capture = False
             for b in sorted(blocks, key=lambda b: (b[1], b[0])):
-                b_txt = b[4].strip()
+                b_txt = " ".join(b[4].strip().split())
                 if "NEWBUILDING ORDERS" in b_txt.upper():
                     capture = True
-                    after = re.sub(r"NEWBUILDING ORDERS\s*", "", b_txt, flags=re.I).strip()
+                    after = " ".join(re.sub(r"NEWBUILDING ORDERS\s*", "", b_txt, flags=re.I).split())
                     if after and len(after) > 20:
                         nb_paras.append(after)
                     continue
@@ -357,10 +357,10 @@ def extract_desk_commentary(doc: pymupdf.Document) -> Dict[str, str]:
             sh_paras = []
             capture = False
             for b in sorted(blocks, key=lambda b: (b[1], b[0])):
-                b_txt = b[4].strip()
+                b_txt = " ".join(b[4].strip().split())
                 if "SECONDHAND SALES" in b_txt.upper():
                     capture = True
-                    after = re.sub(r"SECONDHAND SALES\s*", "", b_txt, flags=re.I).strip()
+                    after = " ".join(re.sub(r"SECONDHAND SALES\s*", "", b_txt, flags=re.I).split())
                     if after and len(after) > 20:
                         sh_paras.append(after)
                     continue
@@ -376,10 +376,10 @@ def extract_desk_commentary(doc: pymupdf.Document) -> Dict[str, str]:
             demo_paras = []
             capture = False
             for b in sorted(blocks, key=lambda b: (b[1], b[0])):
-                b_txt = b[4].strip()
+                b_txt = " ".join(b[4].strip().split())
                 if "DEMOLITION SALES" in b_txt.upper():
                     capture = True
-                    after = re.sub(r"DEMOLITION SALES\s*", "", b_txt, flags=re.I).strip()
+                    after = " ".join(re.sub(r"DEMOLITION SALES\s*", "", b_txt, flags=re.I).split())
                     if after and len(after) > 20:
                         demo_paras.append(after)
                     continue

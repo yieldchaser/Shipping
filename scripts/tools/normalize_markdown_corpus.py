@@ -55,8 +55,16 @@ def html_table_to_gfm(html: str) -> str:
     return '\n' + '\n'.join(res) + '\n\n'
 
 
-def normalize_content(pub: str, text: str) -> str:
+def normalize_content(pub: str, text: str, stem: str = "") -> str:
     original = text
+
+    # Specialized publisher normalizers
+    if pub in ("banchero_costa", "bancosta"):
+        try:
+            from scripts.tools.normalize_banchero_costa_md import normalize_banchero_content
+            text = normalize_banchero_content(text, stem)
+        except Exception:
+            pass
 
     # 1. Convert raw HTML <table> blocks to GFM tables
     if '<table' in text.lower():
@@ -103,7 +111,7 @@ def main():
             total_scanned += 1
             try:
                 content = md_file.read_text(encoding="utf-8")
-                normalized = normalize_content(pub_name, content)
+                normalized = normalize_content(pub_name, content, md_file.stem)
                 if normalized != content:
                     md_file.write_text(normalized, encoding="utf-8")
                     modified_in_pub += 1
