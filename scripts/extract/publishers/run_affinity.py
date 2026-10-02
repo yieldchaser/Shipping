@@ -551,7 +551,6 @@ def build(pdf: Path):
         md.append("")
     md += ["## Commentary", ""]
     md += render_prose(prose_lines(prose))
-    md += ["## Verbatim page 0 text", "", ptext.strip(), ""]
     return (md, cards, junk, nvec, verified, pnums, missing, npages, ref,
             panel, datefrag)
 
