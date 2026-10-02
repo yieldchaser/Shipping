@@ -420,36 +420,27 @@ def process_wci_file(file_path):
 | Shanghai – New York | {fmt_ny} |
 | Rotterdam – Shanghai | N/A |"""
 
-    # Extract commentary prose, discarding repeated navigation headers
-    lines = content.split('\n')
-    commentary_lines = []
-    found_real_commentary = False
-    for l in lines:
-        s = l.strip()
-        if not found_real_commentary:
-            if s.startswith('For many years, World Container Index') or s.startswith('The Drewry World Container Index'):
-                found_real_commentary = True
-                commentary_lines.append(s)
-        else:
-            if s:
-                commentary_lines.append(s)
-
-    cleaned_paragraphs = []
-    for cl in commentary_lines:
-        cl_clean = clean_text_encoding(cl).strip()
-        if not cl_clean:
+    # Extract commentary prose, discarding repeated navigation headers and promotional artifacts
+    paragraphs = []
+    for l in content.splitlines():
+        l_str = l.strip()
+        if not l_str:
             continue
-        cl_stripped = cl_clean.strip('*_ ')
-        if cl_stripped.startswith('Drewry World Container Index (US$/40ft)'):
-            cleaned_paragraphs.append('**Drewry World Container Index (US$/40ft)**\n')
-        elif cl_stripped.startswith('WCI Trade Routes from Shanghai (US$/40ft)'):
-            cleaned_paragraphs.append('**WCI Trade Routes from Shanghai (US$/40ft)**\n')
-        elif cl_stripped.startswith('Source:') or cl_stripped.startswith('Source :'):
-            cleaned_paragraphs.append('**Source:** Drewry World Container Index\n')
-        else:
-            cleaned_paragraphs.append(cl_clean + '\n')
+        if 'For many years, World Container Index' in l_str or 'If your organisation requires' in l_str:
+            continue
+        if 'WeChat' in l_str or re.search(r'[\u4e00-\u9fff]', l_str):
+            continue
+        if re.search(r'See detailed commentary below', l_str, re.I):
+            continue
+        if re.search(r'^(?:\*\*)?(?:Drewry World Container Index|WCI Trade Routes|Source:)(?:\*\*)?', l_str, re.I):
+            continue
+        # Strip trailing truncated hyperlinks / paywall references
+        l_str = re.sub(r'[\s.,;:]*According to Drewry[\'’]s\s*$', '.', l_str).strip()
+        cl_clean = clean_text_encoding(l_str).strip()
+        if cl_clean and (cl_clean.startswith('The Drewry World Container Index') or cl_clean.startswith('On the ') or cl_clean.startswith('The East') or cl_clean.startswith('Rates ')):
+            paragraphs.append(cl_clean)
 
-    commentary_text = '\n'.join(cleaned_paragraphs).strip()
+    commentary_text = '\n\n'.join(paragraphs).strip()
     category = "Container Shipping"
     body_text = f"{table_md}\n\n## Market Commentary & Analysis\n\n{commentary_text}"
     word_count = len(body_text.split())

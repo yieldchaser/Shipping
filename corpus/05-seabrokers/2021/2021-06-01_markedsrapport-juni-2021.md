@@ -1,45 +1,44 @@
-# Market Report June 2021
-
-**Publisher**: Seabrokers Chartering | **Series**: SEABREEZE Monthly Offshore Market Report  
-**Date**: 2021-06-01 | **Pages**: 16 | **Extraction Engine**: Anydoc OCR & Markdown  
-**PDF Source**: [Seabreeze-June-5.pdf](https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/05/Seabreeze-June-5.pdf)
-
+---
+title: "Seabreeze Monthly Offshore Market Report - June 2021"
+issue_date: "2021-06-01"
+year: 2021
+month: 6
+publisher: "Seabrokers Chartering"
+source: "seabrokers"
+category: "Offshore"
+pages: 16
+source_file: "corpus/05-seabrokers/pdfs/2021-06-01_markedsrapport-juni-2021.pdf"
+tables_count: 14
+word_count: 6871
+tags:
+  - Offshore
+  - OSV
+  - PSV
+  - AHTS
+  - Subsea
+  - Rigs
+  - Renewables
 ---
 
-## North Sea OSV Spot Rates & Fleet Utilisation
+# SEABREEZE
+### The Seabrokers Monthly Market Report — JUNE 2021
+*The Shipbroker with a Difference — Seabrokers Group*
 
-| Vessel Category | Average Rate (GBP) | Prior Year | YoY Change | Minimum | Maximum | Fleet Utilisation |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **SUPPLY DUTIES PSVS < 900M2** | £10,524 | £4,485 | +134.65% | £5,925 | £14,500 | Med PSV: 78%, Large PSV: 75% |
-| **SUPPLY DUTIES PSVS > 900M2** | £11,774 | £4,769 | +146.89% | £8,000 | £15,000 | Med PSV: 78%, Large PSV: 75% |
-| **AHTS DUTIES AHTS < 22,000 BHP** | £16,287 | £16,898 | -3.62% | £6,772 | £30,000 | Med AHTS: 56%, Large AHTS: 59% |
-| **AHTS DUTIES AHTS > 22,000 BHP** | £17,604 | £17,197 | +2.37% | £7,618 | £34,500 | Med AHTS: 56%, Large AHTS: 59% |
+## Cover Feature: QUARTET COLLABORATE ON UK ELECTRIFICATION
 
----
+## Contents
 
-## Market Analysis & Intelligence (Anydoc Extracted)
+- **OSV MARKET ROUND-UP** *(p. 3)*
+- **OSV AVAILABILITY, RATES & UTILISATION - NORTH SEA** *(p. 6)*
+- **MONTHLY OSV SPOT RATES - NORTH SEA** *(p. 7)*
+- **FEATURE VESSEL** *(p. 8)*
+- **OSV NEWBUILDINGS, CONVERSIONS, SALE & PURCHASE** *(p. 9)*
+- **SUBSEA** *(p. 11)*
+- **RENEWABLES** *(p. 14)*
+- **RIGS** *(p. 15)*
+- **CONUNDRUM CORNER & DUTY PHONES** *(p. 16)*
 
-JUNE 2021
-
-### QUARTET COLLABORATE ON UK ELECTRIFICATION
-
-# CONTENTS
-
-3 OSV MARKET ROUND-UP 6 OSV AVAILABILITY, RATES &
-
-UTILISATION-NORTH SEA 7 MONTHLY OSV SPOT RATES -
-
-NORTH SEA 8 FEATURE VESSEL
-
-OSV NEWBUILDINGS, CONVERSIONS, SALE & PURCHASE
-
-11 SUBSEA 14 RENEWABLES
-
-15 RIGS 16 CONUNDRUM CORNER
-
-& DUTY PHONES
-
-ABOUT SEABROKERS GROUP
+## ABOUT SEABROKERS GROUP
 
 The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facilities Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
@@ -47,591 +46,532 @@ The Seabrokers Group is different – and we are proud of this fact. Our informa
 
 Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
 
-Production and Administration: Seabrokers Ltd, Aberdeen For your free copy of Seabreeze, email: **chartering@seabrokers.co.uk**
+| Service             |
+| ------------------- |
+| SHIPBROKING         |
+| SECURALIFT          |
+| SEA SURVEILLANCE    |
+| YACHTING            |
+| REAL ESTATE         |
+| FACILITY MANAGEMENT |
+| FOUNDATIONS         |
+| HARBOUR CRANES      |
 
-The Seabreeze Monthly Market Report is distributed worldwide through our offices in Aberdeen, Stavanger and Rio de Janeiro.
+**OUR OFFICES:**
 
-© Seabrokers Group 2021
+**STAVANGER**  
+**ABERDEEN**  
+**BERGEN**  
+**RIO DE JANEIRO**  
+**SKIEN**
 
-SHIPBROKING REAL ESTATE
+# OSV MARKET ROUND-UP
 
-SECURALIFT FACILITY MANAGEMENT
+## **SPOT PSV MARKET IN OWNERS' FAVOUR**
 
-SEA SURVEILLANCE FOUNDATIONS
+PSV owners in the North Sea have been enjoying a prolonged spell of limited vessel availability on the spot market, with fixture rates remaining in their favour for most of June.
 
-YACHTING HARBOUR CRANES
+Charterers were well aware that the market would be tightening significantly this summer with a long list of vessels tied up on project fixtures in the Baltic Sea and up in the Arctic. Through the month of June, there were no spot PSV fixtures made below GBP 7,000 in the UK sector, or NOK 70,000 in Norway. The vast majority of charters were fetching rates of more than GBP 10,000 or NOK 110,000.
 
-OUR OFFICES: STAVANGER BERGEN SKIEN ABERDEEN RIO DE JANEIRO
+Specific to Norway, it wasn't necessarily that busy a month in terms of the number of fixtures but some UK charterers were forced to consider sourcing tonnage from the Norwegian maket due to the lack of vessels available closer to home.
 
-**www.seabrokers-group.com**
+In the AHTS sector, it was another steady month. A few charterers were stung with higher rates than they would have hoped for due to the low number of vessels trading on the spot market, but with average fixture rates of circa GBP 18,000 in the UK and NOK 190,000 in Norway, owners are still struggling to generate sufficient utilisation to turn a profit.
 
-#### SPOT PSV MARKET IN ELECTRIFYING UK OFFSHORE PLATFORMS OWNERS’ FAVOUR
+## **ELECTRIFYING UK OFFSHORE PLATFORMS**
 
-||Four major players in the UK oil|within the coming months over|
-|---|---|---|
-||& gas sector are coming together|which concepts will be taken|
-|PSV owners in the North Sea|to collaborate on a high level|forward into early engineering|
-|have been enjoying a prolonged|research study for the potential|in 2022, with a view to having|
-|spell of limited vessel availability|electrification of production hubs|at least two projects up and|
-|on the spot market, with fixture rates remaining in their favour|in the central North Sea.|running by 2027.|
-|for most of June.|BP, Harbour Energy, Shell and TotalEnergies have confirmed|Developments and technological advancements of this nature|
-|Charterers were well aware that|their participation in the study,|will be crucial if the sector is to|
-|the market would be tightening|as the UK Oil & Gas Authority|achieve the targets that it has|
-|significantly this summer with|has voiced its satisfaction with|committed to within the North|
-|a long list of vessels tied up on|the early progress that has been|Sea Transition Deal between|
-|project fixtures in the Baltic Sea|made so far. The participants|industry and government.|
-|and up in the Arctic. Through|are exploring how to convert|The agreed target is for a 50%|
-|the month of June, there were|their offshore platforms to use|reduction in operational carbon|
-|no spot PSV fixtures made below|low-carbon electricity instead|dioxide emissions by 2030. The|
-|GBP 7,000 in the UK sector, or|of higher-emitting gas-fired or|study is thought to be focused on|
-|NOK 70,000 in Norway. The|diesel generators. The hope now|the Central Graben Area, home|
-|vast majority of charters were|is that decisions could be made|to several production hubs.|
+Four major players in the UK oil & gas sector are coming together to collaborate on a high level research study for the potential electrification of production hubs in the central North Sea.
 
-fetching rates of more than GBP 10,000 or NOK 110,000.
+BP, Harbour Energy, Shell and TotalEnergies have confirmed their participation in the study, as the UK Oil & Gas Authority has voiced its satisfaction with the early progress that has been made so far. The participants are exploring how to convert their offshore platforms to use low-carbon electricity instead of higher-emitting gas-fired or diesel generators. The hope now is that decisions could be made within the coming months over which concepts will be taken forward into early engineering in 2022, with a view to having at least two projects up and running by 2027.
 
-#### NORWAY PROGRESSING LICENSING ROUNDS
+Developments and technological advancements of this nature will be crucial if the sector is to achieve the targets that it has committed to within the North Sea Transition Deal between industry and government. The agreed target is for a 50% reduction in operational carbon dioxide emissions by 2030. The study is thought to be focused on the Central Graben Area, home to several production hubs.
 
-Specific to Norway, it wasn’t
+## **NORWAY PROGRESSING LICENSING ROUNDS**
 
-|necessarily that busy a month in|The Norwegian Ministry of|in the Barents Sea with one in|
-|---|---|---|
-|terms of the number of fixtures but some UK charterers were|Petroleum and Energy has announced the award of four|the Norwegian Sea.|
-|forced to consider sourcing|production licences from its|With the 25th round concluded,|
-|tonnage from the Norwegian|25th licensing round. This was|the Ministry of Petroleum and|
-|maket due to the lack of vessels|a limited offering for the more|Energy has now launched its|
-|available closer to home.|prospective acreage offshore|Awards in Predefined Areas|
-||Norway with just nine areas|(APA) 2021 process, offering|
-|In the AHTS sector, it was another steady month. A few|available for bidding.|acreage in the best-understood geological areas offshore Norway|
-|charterers were stung with|The winning participants were|near to existing infrastructure|
-|higher rates than they would|Equinor, Idemitsu Petroleum,|or prior discoveries. This year,|
-|have hoped for due to the low|INEOS, Lundin, Norske Shell,|the predefined area open for|
-|number of vessels trading on the|OMV and Vår Energi. In terms|licensing has been expanded|
-|spot market, but with average|of operatorships, Equinor will|by 84 blocks. Four of these are|
-|fixture rates of circa GBP 18,000|take the lead role for two of|located in the North Sea, with|
-|in the UK and NOK 190,000|the licences while INEOS and|10 in the Norwegian Sea and 70|
-|in Norway, owners are still|Vår Energi were appointed the|in the Barents Sea. Awards are|
-|struggling to generate sufficient|operator of one licence apiece.|expected to be made early in|
-|utilisation to turn a profit.|Three of the licences are located|2022.|
+The Norwegian Ministry of Petroleum and Energy has announced the award of four production licences from its 25th licensing round. This was a limited offering for the more prospective acreage offshore Norway with just nine areas available for bidding.
 
-SEABREEZE 3
+The winning participants were Equinor, Idemitsu Petroleum, INEOS, Lundin, Norske Shell, OMV and Vår Energi. In terms of operatorships, Equinor will take the lead role for two of the licences while INEOS and Vår Energi were appointed the operator of one licence apiece. Three of the licences are located in the Barents Sea with one in the Norwegian Sea.
 
-#### NORTH SEA PSVS FLOCK TO BALTIC... Island Defender (pictured c/o P. Gowen)
+With the 25th round concluded, the Ministry of Petroleum and Energy has now launched its Awards in Predefined Areas (APA) 2021 process, offering acreage in the best-understood geological areas offshore Norway near to existing infrastructure or prior discoveries. This year, the predefined area open for licensing has been expanded by 84 blocks. Four of these are located in the North Sea, with 10 in the Norwegian Sea and 70 in the Barents Sea. Awards are expected to be made early in 2022.
+
+# OSV MARKET ROUND-UP
+
+## **NORTH SEA PSVs FLOCK TO BALTIC...**
+
+Island Defender (pictured c/o P. Gowen)
 
 PSV availability on the North Sea spot market has taken a hit after Saipem chartered no fewer than seven PSVs to provide support for its pipelay activities at the Baltic Pipe project in the Baltic Sea.
 
 The contracts went to Golden Energy Offshore for the Energy Duchess, Hoyland Offshore for the Sar Brage and Sartor, Island Offshore for the Island Champion and Island Defender, Seatankers for the Sea Goldcrest, and Vestland Offshore for the Solvik Supplier.
 
-||Saipem is undertaking pipelay|although the Energy Duchess|
-|---|---|---|
-|Each of the vessels has been|operations with the Castorone|has just been reactivated after|
-|chartered for a firm period of|and Castoro Sei pipelay vessels.|more than a year in layup, while|
-|40-50 days with further options||the Sar Brage is returning to|
-|available. They will be providing|Most of the PSVs have been|work for the first time in more|
-|support for the campaign while|active in the North Sea recently,|than five years.|
+Each of the vessels has been chartered for a firm period of 40-50 days with further options available. They will be providing support for the campaign while
 
-#### ... WHILE OTHERS HEAD FOR THE ARCTIC
+Saipem is undertaking pipelay operations with the Castorone and Castoro Sei pipelay vessels.
 
-Another batch of North Sea PSVs fourth slot for the Hermit Viking. are heading north after Gazprom The vessels have been chartered Neft chartered them to support for a firm period of three months a drilling campaign in Arctic with further options available. Russia. Solstad picked up three Sevnor has also sent the Sayan fixtures for the Normand Sitella, Princess north after picking up a Sea Spark and Sea Spear, while similar summer season contract *Hermit Viking (c/o DanoAberdeen)* Remøy Shipping secured the in Russia.
+Most of the PSVs have been active in the North Sea recently,
 
-#### NORWAY FIXTURES FOR EIDESVIK & ISLAND
+although the Energy Duchess has just been reactivated after more than a year in layup, while the Sar Brage is returning to work for the first time in more than five years.
 
-It has been a quiet spell in fixture with Aker BP and, after Norway for term chartering a brief interlude, will return activity but there have been a to the charterer in August to couple of recent PSV fixtures to support a drilling campaign for report. Eidesvik Offshore has roughly 100 days. Elsewhere, picked up a new charter for the Island Offshore has picked up a Viking Prince with AkerBP. The six-month charter for the Island vessel has just finished one term Chieftain with Lundin. *Viking Prince (pictured c/o D. Dodds)*
+## ... WHILE OTHERS HEAD FOR THE ARCTIC
 
-4 SEABREEZE
+Hermit Viking (c/o DanoAberdeen)
 
-#### SOLSTAD SCOOPS UK HAT-TRICK Normand Supra (pictured c/o O. Halland)
+Another batch of North Sea PSVs are heading north after Gazprom Neft chartered them to support a drilling campaign in Arctic Russia. Solstad picked up three fixtures for the Normand Sitella, Sea Spark and Sea Spear, while Remøy Shipping secured the fourth slot for the Hermit Viking. The vessels have been chartered for a firm period of three months with further options available. Sevnor has also sent the Sayan Princess north after picking up a similar summer season contract in Russia.
+
+## **NORWAY FIXTURES FOR EIDESVIK & ISLAND**
+
+It has been a quiet spell in Norway for term chartering activity but there have been a couple of recent PSV fixtures to report. Eidesvik Offshore has picked up a new charter for the Viking Prince with AkerBP. The vessel has just finished one term fixture with Aker BP and, after a brief interlude, will return to the charterer in August to support a drilling campaign for roughly 100 days. Elsewhere, Island Offshore has picked up a six-month charter for the Island Chieftain with Lundin.
+
+Viking Prince (pictured c/o D. Dodds)
+
+# OSV MARKET ROUND-UP
+
+## **SOLSTAD SCOOPS UK HAT-TRICK**
+
+Normand Supra (pictured c/o O. Halland)
 
 Solstad Offshore has had a successful spell in the UK sector, picking up new term contracts for three PSVs.
 
-Harbour Energy is taking a pair of Ulstein PX 105 vessels on hire for a firm period of two years with two further one-year options available. The vessels in question are the Normand Service, which will go on hire following the completion of its current charter with Serica Energy, and the Normand Supra which is currently being put through a class renewal having
+Harbour Energy is taking a pair of Ulstein PX 105 vessels on hire for a firm period of two years with two further one-year options available. The vessels in question are the Normand Service, which will go on hire following the completion of its current charter with Serica Energy, and the Normand Supra which is currently being put through a class renewal having recently returned from South America.
 
-|recently returned from South|opting to take another one of|also holds a one-year option on|
-|---|---|---|
-|America.|Solstad’s fleet on term charter. This time it is the Sea Falcon,|this contract. The Sea Falcon is currently supporting Equinor|
-|The Ulstein PX 105 design is|which will be going on hire to|UK’s drilling operations with|
-|evidently proving popular with|EnQuest in August for a firm|the West Hercules alongside the|
-|UK charterers, with EnQuest|period of 18 months. EnQuest|Normand Titus.|
+The Ulstein PX 105 design is evidently proving popular with UK charterers, with EnQuest opting to take another one of Solstad's fleet on term charter. This time it is the Sea Falcon, which will be going on hire to EnQuest in August for a firm period of 18 months. EnQuest also holds a one-year option on this contract. The Sea Falcon is currently supporting Equinor UK's drilling operations with the West Hercules alongside the Normand Titus.
 
-#### TOTALENERGIES KEEPS THREE
+## **TOTALENERGIES KEEPS THREE**
 
-TotalEnergies appears pleased move onto a new one-year plus with the performance of its one-year option contract with incumbent fleet, with new deals the same charterer. In Denmark, or contract extensions awarded TotalEnergies has exercised to three units. In the UK sector, options to extend its contracts Tidewater PSV Highland with the Havila Fanø and Herøy Defender has just concluded one until early December 2021 and *Highland Defender (c/o D. Dodds)* fixture with TotalEnergies to early January 2022 respectively.
+Highland Defender (c/o D. Dodds)
 
-#### LONG-TERM DEALS FOR MMA
+TotalEnergies appears pleased with the performance of its incumbent fleet, with new deals or contract extensions awarded to three units. In the UK sector, Tidewater PSV Highland Defender has just concluded one fixture with TotalEnergies to move onto a new one-year plus one-year option contract with the same charterer. In Denmark, TotalEnergies has exercised options to extend its contracts with the Havila Fanø and Herøy until early December 2021 and early January 2022 respectively.
 
-MMA Offshore has picked the Taranaki Basin. OMV holds up two significant long-term two further one-year options. In contracts in Australasia. AHTS Australia, INPEX has awarded vessel MMA Vision has been MMA a contract extension to chartered by OMV New Zealand keep the MMA Plover PSV on for a three-year firm period to hire for at least two more years provide field support duties at to provide drilling support at the the Maari and Maui gas fields in Ichthys field. *MMA Plover*
+## **LONG-TERM DEALS FOR MMA**
 
-SEABREEZE 5
+MMA Offshore has picked up two significant long-term contracts in Australasia. AHTS vessel MMA Vision has been chartered by OMV New Zealand for a three-year firm period to provide field support duties at the Maari and Maui gas fields in the Taranaki Basin. OMV holds two further one-year options. In Australia, INPEX has awarded MMA a contract extension to keep the MMA Plover PSV on hire for at least two more years to provide drilling support at the Ichthys field.
+
+MMA Plover
 
 # OSV RATES & UTILISATION
 
-#### JUNE 2021 - DAILY NORTH SEA OSV AVAILABILITY
+## JUNE 2021 - DAILY NORTH SEA OSV AVAILABILITY
 
-PSV 2021 PSV 2020 AHTS 2021 AHTS 2020 22
+| Date | PSV 2021 | PSV 2020 | AHTS 2021 | AHTS 2020 |
+| ---- | -------- | -------- | --------- | --------- |
+| 1    | 4        | 14       | 11        | 15        |
+| 2    | 4        | 13       | 10        | 15        |
+| 3    | 4        | 12       | 8         | 15        |
+| 4    | 5        | 14       | 7         | 20        |
+| 5    | 6        | 14       | 7         | 20        |
+| 6    | 6        | 14       | 6         | 17        |
+| 7    | 7        | 13       | 6         | 14        |
+| 8    | 5        | 13       | 5         | 7         |
+| 9    | 5        | 12       | 5         | 7         |
+| 10   | 5        | 11       | 4         | 8         |
+| 11   | 5        | 9        | 3         | 7         |
+| 12   | 5        | 9        | 5         | 10        |
+| 13   | 6        | 10       | 7         | 10        |
+| 14   | 7        | 9        | 8         | 9         |
+| 15   | 9        | 9        | 9         | 9         |
+| 16   | 9        | 9        | 9         | 4         |
+| 17   | 9        | 9        | 13        | 6         |
+| 18   | 8        | 9        | 13        | 8         |
+| 19   | 8        | 9        | 12        | 9         |
+| 20   | 8        | 10       | 12        | 10        |
+| 21   | 11       | 11       | 12        | 14        |
+| 22   | 6        | 11       | 8         | 14        |
+| 23   | 5        | 10       | 8         | 9         |
+| 24   | 4        | 10       | 8         | 9         |
+| 25   | 4        | 13       | 7         | 10        |
+| 26   | 5        | 13       | 10        | 11        |
+| 27   | 5        | 12       | 11        | 11        |
+| 28   | 5        | 12       | 12        | 10        |
+| 29   | 6        | 9        | 11        | 7         |
+| 30   | 6        | 9        | 11        | 6         |
 
-0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+## RATES & UTILISATION
 
-#### RATES & UTILISATION
+### NORTH SEA SPOT AVERAGE UTILISATION JUNE 2021
 
-||NORTH SEA SPOT AVERAGE UTILISATION JUNE 2021||||||
-|---|---|---|---|---|---|---|
-|TYPE|JUN 2021|MAY 2021|APR 2021|MAR 2021|FEB 2021|JAN 2021|
-|MED PSV|78%|70%|64%|51%|65%|67%|
-|LARGE PSV|75%|79%|68%|71%|82%|77%|
-|MED AHTS|56%|67%|49%|37%|30%|39%|
-|LARGE AHTS|59%|64%|54%|62%|54%|40%|
+| TYPE | JUN 2021 | MAY 2021 | APR 2021 | MAR 2021 | FEB 2021 | JAN 2021 |
+| ----------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | -------- |
+| MED PSV                                               | 78%                                                       | 70%                                                       | 64%                                                       | 51%                                                       | 65%                                                       | 67%      |
+| LARGE PSV                                             | 75%                                                       | 79%                                                       | 68%                                                       | 71%                                                       | 82%                                                       | 77%      |
+| MED AHTS                                              | 56%                                                       | 67%                                                       | 49%                                                       | 37%                                                       | 30%                                                       | 39%      |
+| LARGE AHTS                                            | 59%                                                       | 64%                                                       | 54%                                                       | 62%                                                       | 54%                                                       | 40%      |
 
-|NORTH SEA AVERAGE RATES JUNE 2021||||||
-|---|---|---|---|---|---|
-|CATEGORY|AVERAGE RATE JUN 2021|AVERAGE RATE JUN 2020|% CHANGE|MINIMUM|MAXIMUM|
-|SUPPLY DUTIES PSVS < 900M²|£10,524|£4,485|+134.65%|£5,925|£14,500|
-|SUPPLY DUTIES PSVS > 900M²|£11,774|£4,769|+146.89%|£8,000|£15,000|
-|AHTS DUTIES AHTS < 22,000 BHP|£16,287|£16,898|-3.62%|£6,772|£30,000|
-|AHTS DUTIES AHTS > 22,000 BHP|£17,604|£17,197|+2.37%|£7,618|£34,500|
+### NORTH SEA AVERAGE RATES JUNE 2021
 
-#### SPOT MARKET ARRIVALS & DEPARTURES: JUNE 2021
+| CATEGORY | AVERAGE RATE JUN 2021 | AVERAGE RATE JUN 2020 | % CHANGE | MINIMUM | MAXIMUM |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| SUPPLY DUTIES PSVs < 900M² | £10,524 | £4,485 | +134.65% | £5,925 | £14,500 |
+| SUPPLY DUTIES PSVs > 900M² | £11,774 | £4,769 | +146.89% | £8,000 | £15,000 |
+| AHTS DUTIES AHTS < 22,000 BHP | £16,287 | £16,898 | -3.62% | £6,772 | £30,000 |
+| AHTS DUTIES AHTS > 22,000 BHP | £17,604 | £17,197 | +2.37% | £7,618 | £34,500 |
 
-|DEPARTURES-NORTH SEA SPOT||
-|---|---|
-|HERMIT VIKING|RUSSIA|
-|HORIZON ARCTIC|NORTH ATLANTIC|
-|ISLAND CHAMPION|BALTIC SEA|
-|MAERSK HANDLER|BALTIC SEA|
-|MAERSK TENDER|PACIFIC OCEAN|
+## SPOT MARKET ARRIVALS & DEPARTURES: JUNE 2021
 
-|DEPARTURES-CONTINUED||
-|---|---|
-|NORMAND SITELLA|RUSSIA|
-|SAYAN PRINCESS|RUSSIA|
-|SIEM DIAMOND|FRANCE|
-|SKANDI RONA|SOUTH AMERICA|
-|SOLVIK SUPPLIER|BALTIC SEA|
+### ARRIVALS - NORTH SEA SPOT
 
-**ARRIVALS-NORTH SEA SPOT** ISLAND DISCOVERER NEWBUILD PRINCESS EX MEDITERRANEAN
+| ISLAND DISCOVERER | NEWBUILD | HERMIT VIKING | RUSSIA | NORMAND SITELLA | RUSSIA |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| PRINCESS | EX MEDITERRANEAN | HORIZON ARCTIC | NORTH ATLANTIC | SAYAN PRINCESS | RUSSIA |
+|  |  | ISLAND CHAMPION | BALTIC SEA | SIEM DIAMOND | FRANCE |
+|  |  | MAERSK HANDLER | BALTIC SEA | SKANDI RONA | SOUTH AMERICA |
+|  |  | MAERSK TENDER | PACIFIC OCEAN | SOLVIK SUPPLIER | BALTIC SEA |
 
-** Vessels arriving in or departing from the North Sea term/layup market are not included here.* 6 SEABREEZE
+* Vessels arriving *in* or departing *from* the North Sea term/layup market are not included here.
 
 # NORTH SEA AVERAGE SPOT RATES
 
-||£40,000 £40,000 £40,000 £15,000||PSVs < 900m²|||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||£12,500 £30,000 £30,000 £30,000 £10,000 £20,000 £20,000 £20,000 £7,500 £5,000 £10,000 £10,000 £10,000 £2,500||All Cargo Runs All Cargo Runs All Cargo Runs|||||||||||
-||£- £- £- £- 2020 2020 2020 2020 2021 2021 2021 2021 £15,000 £15,000 £15,000 £15,000 £12,500 £10,000 £10,000 £10,000 £10,000 £7,500 £5,000 £5,000 £5,000 £5,000 £2,500|Jan Jan Jan Jan £5,257 £5,257 £5,257 £5,257 £6,774 £6,774 £6,774 £6,774|Feb Feb Feb Feb £6,308 £6,308 £6,308 £6,308 £11,012 £11,012 £11,012 £11,012 PSVs > 900m² PSVs < 900M² PSVs < 900M2 PSVs < 900M2|Mar Mar Mar Mar £8,863 £8,863 £8,863 £8,863 £7,778 £7,778 £7,778 £7,778|Apr Apr Apr Apr £3,485 £3,485 £3,485 £3,485 £7,755 £7,755 £7,755 £7,755|May May May May £3,751 £3,751 £3,751 £3,751 £9,241 £9,241 £9,241 £9,241|Jun Jun Jun Jun £4,485 £4,485 £4,485 £4,485 £10,524 £10,524 £10,524 £10,524|Jul Jul Jul Jul £4,650 £4,650 £4,650 £4,650 £- £- £- £-|Aug Aug Aug Aug £7,529 £7,529 £7,529 £7,529 £- £- £- £-|Sep Sep Sep Sep £8,872 £8,872 £8,872 £8,872 £- £- £- £-|Oct Oct Oct Oct £6,651 £6,651 £6,651 £6,651 £- £- £- £-|Nov Nov Nov Nov £3,854 £3,854 £3,854 £3,854 £- £- £- £-|Dec Dec Dec Dec £7,618 £7,618 £7,618 £7,618 £- £- £- £-|
-||£- £- £- £- 2020 2020 2020 2020 2021 2021 2021 2021 £40,000 £40,000 £40,000 £40,000 £35,000 £30,000 £30,000 £30,000 £30,000 £25,000 £20,000 £20,000 £20,000 £20,000 £15,000 £10,000 £10,000 £10,000 £10,000 £5,000|Jan Jan Jan Jan £6,810 £6,810 £6,810 £6,810 £5,818 £5,818 £5,818 £5,818|Feb Feb Feb Feb £8,014 £8,014 £8,014 £8,014 £9,861 £9,861 £9,861 £9,861 AHTS < 22,000 bhp PSVs > 900M² PSVs > 900M2 PSVs > 900M2|Mar Mar Mar Mar £7,132 £7,132 £7,132 £7,132 £8,360 £8,360 £8,360 £8,360|Apr Apr Apr Apr £3,733 £3,733 £3,733 £3,733 £10,496 £10,496 £10,496 £10,496|May May May May £4,370 £4,370 £4,370 £4,370 £10,872 £10,872 £10,872 £10,872|Jun Jun Jun Jun £4,769 £4,769 £4,769 £4,769 £11,774 £11,774 £11,774 £11,774|Jul Jul Jul Jul £4,310 £4,310 £4,310 £4,310 £- £- £- £-|Aug Aug Aug Aug £4,175 £4,175 £4,175 £4,175 £- £- £- £-|Sep Sep Sep Sep £9,651 £9,651 £9,651 £9,651 £- £- £- £-|Oct Oct Oct Oct £6,664 £6,664 £6,664 £6,664 £- £- £- £-|Nov Nov Nov Nov £4,890 £4,890 £4,890 £4,890 £- £- £- £-|Dec Dec Dec Dec £5,542 £5,542 £5,542 £5,542 £- £- £- £-|
-||£- £- £- £- 2020 2020 2020 2020 2021 2021 2021 2021 £40,000 £40,000 £40,000 £40,000 £35,000 £30,000 £30,000 £30,000 £30,000 £25,000 £20,000 £20,000 £20,000 £20,000 £15,000 £10,000 £10,000 £10,000 £10,000 £5,000|Jan Jan Jan Jan £7,959 £7,959 £7,959 £7,959 £8,656 £8,656 £8,656 £8,656|Feb Feb Feb Feb £18,562 £18,562 £18,562 £18,562 £10,928 £10,928 £10,928 £10,928 AHTS > 22,000 bhp Rig Moves Rig Moves Rig Moves|Mar Mar Mar Mar £25,486 £25,486 £25,486 £25,486 £27,971 £27,971 £27,971 £27,971|Apr Apr Apr Apr £7,087 £7,087 £7,087 £7,087 £15,068 £15,068 £15,068 £15,068|May May May May £10,745 £10,745 £10,745 £10,745 £12,843 £12,843 £12,843 £12,843|Jun Jun Jun Jun £16,898 £16,898 £16,898 £16,898 £16,287 £16,287 £16,287 £16,287|Jul Jul Jul Jul £16,961 £16,961 £16,961 £16,961 £- £- £- £-|Aug Aug Aug Aug £32,250 £32,250 £32,250 £32,250 £- £- £- £-|Sep Sep Sep Sep £23,271 £23,271 £23,271 £23,271 £- £- £- £-|Oct Oct Oct Oct £12,042 £12,042 £12,042 £12,042 £- £- £- £-|Nov Nov Nov Nov £9,100 £9,100 £9,100 £9,100 £- £- £- £-|Dec Dec Dec Dec £12,526 £12,526 £12,526 £12,526 £- £- £- £-|
-||£- £- £- £- 2020 2020 2020 2020 2021 2021 2021 2021 £25,000 £25,000 £25,000 £25,000 £20,000 £20,000 £20,000 £20,000 £15,000 £15,000 £15,000 £15,000 £10,000 £10,000 £10,000 £10,000 £5,000 £5,000 £5,000 £5,000 £- £- £- £- 2020 2020 2020 2020 2021 2021 2021 2021|Jan Jan Jan Jan £9,203 £9,203 £9,203 £9,203 £8,442 £8,442 £8,442 £8,442|Feb Feb Feb Feb £16,901 £16,901 £16,901 £16,901 £20,121 £20,121 £20,121 £20,121 PSVs < 900m² PSVs < 900m² PSVs < 900m² PSVs < 900m² £5,850 £5,850 £5,850 £5,850 £8,941 £8,941 £8,941 £8,941|Mar Mar Mar Mar £21,268 £21,268 £21,268 £21,268 £35,211 £35,211 £35,211 £35,211 Average Day Rates To Month (June 2021)|Apr Apr Apr Apr £8,141 £8,141 £8,141 £8,141 £19,327 £19,327 £19,327 £19,327|May May May May £13,100 £13,100 £13,100 £13,100 £15,401 £15,401 £15,401 £15,401 Average Day Rates To Month (June 2013) Average Day Rates To Month (June 2013) Average Day Rates To Month (June 2013) PSVs > 900m² PSVs > 900m² PSVs > 900m² PSVs > 900m² £6,064 £6,064 £6,064 £6,064 £9,034 £9,034 £9,034 £9,034|Jun Jun Jun Jun £17,197 £17,197 £17,197 £17,197 £17,604 £17,604 £17,604 £17,604|Jul Jul Jul Jul £18,132 £18,132 £18,132 £18,132 £- £- £- £-|Aug Aug Aug Aug £32,256 £32,256 £32,256 £32,256 £- £- £- £- AHTS < 22,000 bhp AHTS < 22,000 bhp AHTS < 22,000 bhp AHTS < 22,000 bhp £15,599 £15,599 £15,599 £15,599 £16,386 £16,386 £16,386 £16,386|Sep Sep Sep Sep £29,683 £29,683 £29,683 £29,683 £- £- £- £-|Oct Oct Oct Oct £9,585 £9,585 £9,585 £9,585 £- £- £- £-|Nov Nov Nov Nov £13,013 £13,013 £13,013 £13,013 £- £- £- £- AHTS > 22,000 bhp AHTS > 22,000 bhp AHTS > 22,000 bhp AHTS > 22,000 bhp £14,760 £14,760 £14,760 £14,760 £20,939 £20,939 £20,939 £20,939|Dec Dec Dec Dec £11,762 £11,762 £11,762 £11,762 £- £- £- £-|
+| Category                                   | Month             | 2020                            | 2021    |
+| ------------------------------------------ | ----------------- | ------------------------------- | ------- |
+| **PSVs < 900m²**                           | Jan               | £5,257                          | £6,774  |
+|                                            | Feb               | £6,308                          | £11,012 |
+|                                            | Mar               | £8,863                          | £7,778  |
+|                                            | Apr               | £3,485                          | £7,755  |
+|                                            | May               | £3,751                          | £9,241  |
+|                                            | Jun               | £4,485                          | £10,524 |
+|                                            | Jul               | £4,650                          | £-      |
+|                                            | Aug               | £7,529                          | £-      |
+|                                            | Sep               | £8,872                          | £-      |
+|                                            | Oct               | £6,651                          | £-      |
+|                                            | Nov               | £3,854                          | £-      |
+|                                            | Dec               | £7,618                          | £-      |
+| **PSVs > 900m²**                           | Jan               | £6,810                          | £5,818  |
+|                                            | Feb               | £8,014                          | £9,861  |
+|                                            | Mar               | £7,132                          | £8,360  |
+|                                            | Apr               | £3,733                          | £10,496 |
+|                                            | May               | £4,370                          | £10,872 |
+|                                            | Jun               | £4,769                          | £11,774 |
+|                                            | Jul               | £4,310                          | £-      |
+|                                            | Aug               | £4,175                          | £-      |
+|                                            | Sep               | £9,651                          | £-      |
+|                                            | Oct               | £6,664                          | £-      |
+|                                            | Nov               | £4,890                          | £-      |
+|                                            | Dec               | £5,542                          | £-      |
+| **AHTS < 22,000 bhp**                      | Jan               | £7,959                          | £8,656  |
+|                                            | Feb               | £18,562                         | £10,928 |
+|                                            | Mar               | £25,486                         | £27,971 |
+|                                            | Apr               | £7,087                          | £15,068 |
+|                                            | May               | £10,745                         | £12,843 |
+|                                            | Jun               | £16,898                         | £16,287 |
+|                                            | Jul               | £16,961                         | £-      |
+|                                            | Aug               | £32,250                         | £-      |
+|                                            | Sep               | £23,271                         | £-      |
+|                                            | Oct               | £12,042                         | £-      |
+|                                            | Nov               | £9,100                          | £-      |
+|                                            | Dec               | £12,526                         | £-      |
+| **AHTS > 22,000 bhp**                      | Jan               | £9,203                          | £8,442  |
+|                                            | Feb               | £16,901                         | £20,121 |
+|                                            | Mar               | £21,268                         | £35,211 |
+|                                            | Apr               | £8,141                          | £19,327 |
+|                                            | May               | £13,100                         | £15,401 |
+|                                            | Jun               | £17,197                         | £17,604 |
+|                                            | Jul               | £18,132                         | £-      |
+|                                            | Aug               | £32,256                         | £-      |
+|                                            | Sep               | £29,683                         | £-      |
+|                                            | Oct               | £9,585                          | £-      |
+|                                            | Nov               | £13,013                         | £-      |
+|                                            | Dec               | £11,762                         | £-      |
 
-SEABREEZE 7
+### 2020: £5,850
+
+| **Average Day Rates To Month (June 2021)** | PSVs < 900m² | 2021: £8,941 |
+|                                            |
+
+ PSVs > 900m²      | 2020: £6,064<br/>2021: £9,034   |         |
+
+### 2020: £15,599
+
+| AHTS < 22,000 bhp | 2021: £16,386 |
+|                                            |
+
+ AHTS > 22,000 bhp | 2020: £14,760<br/>2021: £20,939 |         |
 
 # FEATURE VESSEL
 
-#### ISLAND DISCOVERER
+## ISLAND DISCOVERER
 
-*picture c/o UAVPIC*
+picture c/o UAVPIC
 
-##### Island Offshore has accepted delivery of its long-awaited newbuild PSV Island Discoverer from the
+Island Offshore has accepted delivery of its long-awaited newbuild PSV Island Discoverer from the VARD Langsten Shipyard in Norway.
 
-##### VARD Langsten Shipyard in Norway.
+Originally ordered back in 2014, delivery of the vessel had been postponed due to the difficult trading conditions that PSV owners have been experiencing for many years. However, in light of an improving market situation for owners today, Island Offshore has decided the time is right to welcome the Discoverer into its North Sea fleet.
 
-|Originally ordered back in 2014,|cargo capacity of 2,500t. The||
-|---|---|---|
-|delivery of the vessel had been|Discoverer has a main engine||
-|postponed due to the difficult|output of 7,724 bhp and she is||
-|trading conditions that PSV|outfitted with accommodation||
-|owners have been experiencing for many years. However, in|quarters for 26 persons.||
-|light of an improving market|The Island Discoverer will||
-|situation for owners today,|be utilised by charterers to||
-|Island Offshore has decided the|transport and supply both liquid|Island Discoverer Specs:|
-|time is right to welcome the|and dry cargo in tanks, as well|Delivery: May 2021|
-|Discoverer into its North Sea|as containers and pipes on deck.|Build Yard: VARD Langsten|
-|fleet.|Following her delivery at the end of May, she has already|Design: UT 717 CDX Designer: Kongsberg Maritime|
-|The Norwegian-flagged vessel|been awarded several charters|Length: 86.0m|
-|was built to the UT 717 CDX|on the Norwegian spot market.|Breadth: 18.5m|
-|design, giving her a length of||Deck Area: 900m²|
-|86m, breadth of 18.5m and a|The Island Discoverer is the|Deadweight: 4,215t|
-|deck area of 900m². She has a|fifth UT 717 CDX PSV in the|Main engine output: 7,724 bhp|
-|deadweight of 4,215t and deck|Island Offshore fleet.|Accommodation: 26 persons|
+The Norwegian-flagged vessel was built to the UT 717 CDX design, giving her a length of 86m, breadth of 18.5m and a deck area of 900m<sup>2</sup>. She has a deadweight of 4,215t and deck cargo capacity of 2,500t. The Discoverer has a main engine output of 7,724 bhp and she is outfitted with accommodation quarters for 26 persons.
 
-*picture c/o O. Halland*
+The Island Discoverer will be utilised by charterers to transport and supply both liquid and dry cargo in tanks, as well as containers and pipes on deck. Following her delivery at the end of May, she has already been awarded several charters on the Norwegian spot market.
 
-8 SEABREEZE
+The Island Discoverer is the fifth UT 717 CDX PSV in the Island Offshore fleet.
+
+picture c/o O. Halland
+
+<u>**Island Discoverer Specs:**</u>
+Delivery: May 2021
+**Build Yard:** VARD Langsten
+**Design:** UT 717 CDX
+**Designer:** Kongsberg Maritime
+**Length:** 86.0m
+**Breadth:** 18.5m
+**Deck Area:** 900m<sup>2</sup>
+**Deadweight:** 4,215t
+**Main engine output:** 7,724 bhp
+**Accommodation:** 26 persons
 
 # NEWBUILDS, CONVERSIONS, S&P
 
-#### SAYAN PRINCE DELIVERED TO SEVNOR
+## SAYAN PRINCE DELIVERED TO SEVNOR
+Sevnor has added a newbuild AHTS vessel to its fleet in the form of the Sayan Prince. Built to the MOSS 919 design, the vessel was ordered by Finarge back in 2013. The original plan was for the unit to be built by SPP Shipbuilding in South Korea, however the partially- built vessel was resold to Sevnor in 2016 after the Finarge contract had been cancelled. Construction was completed at the Tersan Shipyard in Yalova, Turkey. Sevnor has already secured a three-month firm charter for the Sayan Prince with Gazprom Nedra in Russia.
 
-built vessel was resold to Sevnor in 2016 after the Finarge contract had been cancelled. Construction was completed at the Tersan Shipyard in Yalova, Turkey. Sevnor has already secured a three-month firm charter for the Sayan Prince with Gazprom Nedra in Russia.
+## SIEM SELLS TWO
+Diamond & Garnet (c/o F. Montreuil)
 
-The Siem AHTS Pool AS, a with the buyers rumoured to subsidiary of Siem Offshore Inc, be the French Coastguard. The has sold sister AHTS vessels objective of the sale for Siem was Siem Diamond and Siem Garnet. to reduce debt. The surplus cash The VS 491 CD vessels have been after debt repayment on the two sold for further trading outside vessels sold will be used by Siem the offshore shipping industry. for additional debt repayment The pair have been mobilised on the eight remaining vessels in *Diamond & Garnet (c/o F. Montreuil)* to Le Havre in northern France, the Siem AHTS Pool AS fleet.
+The Siem AHTS Pool AS, a subsidiary of Siem Offshore Inc, has sold sister AHTS vessels Siem Diamond and Siem Garnet. The VS 491 CD vessels have been sold for further trading outside the offshore shipping industry. The pair have been mobilised to Le Havre in northern France, with the buyers rumoured to be the French Coastguard. The objective of the sale for Siem was to reduce debt. The surplus cash after debt repayment on the two vessels sold will be used by Siem for additional debt repayment on the eight remaining vessels in the Siem AHTS Pool AS fleet.
 
-#### STANDARD SELLING OLYMPUS
+## STANDARD SELLING OLYMPUS
+Standard Drilling has entered into a Memorandum of Agreement to sell the Standard Olympus to undisclosed buyers for USD 7.5 million. Standard Drilling will recognise a gross gain of USD 1.3 million. Built to the Havyard 832 design, the PSV was originally delivered by Havyard Ship Technology in Norway in 2014. She was later acquired by Standard Drilling in 2019. Under the management of the Fletcher Group, the Standard Olympus is currently on hire to PSE Kinsale Energy in Ireland. The transaction is expected to be concluded by August 2021.
 
-Standard Drilling has entered by Havyard Ship Technology in into a Memorandum of Norway in 2014. She was later Agreement to sell the Standard acquired by Standard Drilling in Olympus to undisclosed buyers
+Standard Olympus (pictured c/o J. Moore)
 
-2019. Under the management of
-for USD 7.5 million. Standard the Fletcher Group, the Standard Drilling will recognise a gross Olympus is currently on hire to gain of USD 1.3 million. Built PSE Kinsale Energy in Ireland. to the Havyard 832 design, the The transaction is expected to be PSV was originally delivered concluded by August 2021. *Standard Olympus (pictured c/o J. Moore)*
+## CALEDONIAN CLASS PSVs DEPARTING
+Caledonian Vision (pictured c/o J. Bartels)
 
-#### CALEDONIAN CLASS PSVS DEPARTING
-
-Sevnor has added a newbuild AHTS vessel to its fleet in the form of the Sayan Prince. Built to the MOSS 919 design, the vessel was ordered by Finarge back in 2013. The original plan was for the unit to be built by SPP Shipbuilding in South Korea, however the partially-
-
-#### SIEM SELLS TWO
-
-The last Caledonian Class PSV will soon depart the North Sea market following BP Shipping’s sale of the four vessels to GSP. The Caledonian Vanguard left in late 2020; she is now trading in Romania as the GSP Pegasus. The Caledonian Vision had been renamed as the GSP Phoenix but
-
-she is now known as the Ile de Molene; she has been relocated to Dunkirk, France, with Alcatel Submarine Networks listed as her owner. She has been joined in Dunkirk by the GSP Licorn (ex Caledonian Vigilance). The Caledonian Victory will be the last to leave.
-
-SEABREEZE 9
-
-*Caledonian Vision (pictured c/o J. Bartels)*
+The last Caledonian Class PSV will soon depart the North Sea market following BP Shipping's sale of the four vessels to GSP. The Caledonian Vanguard left in late 2020; she is now trading in Romania as the GSP Pegasus. The Caledonian Vision had been renamed as the GSP Phoenix but she is now known as the Ile de Molene; she has been relocated to Dunkirk, France, with Alcatel Submarine Networks listed as her owner. She has been joined in Dunkirk by the GSP Licorn (ex Caledonian Vigilance). The Caledonian Victory will be the last to leave.
 
 # NEWBUILDS, CONVERSIONS, S&P
 
-#### ANOTHER SALE FOR SOLSTAD
+## **ANOTHER SALE FOR SOLSTAD**
 
-Solstad Offshore is continuing to make good progress with its plans to sell the non-core vessels in its OSV fleet. The latest transaction has seen Farstad Marine AS, a wholly owned subsidiary of Solstad, sell the Far *Far Spirit (c/o D. Debnam)* Spirit PSV to undisclosed buyers.
+Far Spirit
+Far Spirit (c/o D. Debnam)
 
-#### AXXIS GEO SELLS NAIAD
+Solstad Offshore is continuing to make good progress with its plans to sell the non-core vessels in its OSV fleet. The latest transaction has seen Farstad Marine AS, a wholly owned subsidiary of Solstad, sell the Far Spirit PSV to undisclosed buyers.
 
-Ocean bottom node seismic the sale of the 65m vessel along company Axxis Geo Solutions with certain equipment. Axxis has completed the sale of its Geo has also confirmed that it seismic survey vessel Neptune has now repaid the remaining Naiad. Axxis had entered into principle and accrued interest a Memorandum of Agreement from its loan with Eksportkreditt with Sanco Holding in May for Norge.
+The Far Spirit is a VS 470 MkII vessel that was delivered in 2007. She has been out of work since concluding her most recent fixture in Southeast Asia back in the first quarter of 2016. Solstad is looking to offload a total of 37 non-strategic vessels this year.
 
-#### WESTERN TRIDENT TO BE RECYCLED
+## **AXXIS GEO SELLS NAIAD**
 
-As seismic companies continue to right-size their fleets in an attempt to secure financial and operational stability, Shearwater GeoServices has recently sold the Western Trident seismic *Western Trident (c/o P. Lenderink)* vessel for recycling. The 1999-
+Ocean bottom node seismic company Axxis Geo Solutions has completed the sale of its seismic survey vessel Neptune Naiad. Axxis had entered into a Memorandum of Agreement with Sanco Holding in May for the sale of the 65m vessel along with certain equipment. Axxis Geo has also confirmed that it has now repaid the remaining principle and accrued interest from its loan with Eksportkreditt Norge.
 
-#### FOUR GRANDWELD CREWBOATS FOR HSM
+Naiad
 
-Grandweld Shipyards in the challenges posed by Covid-19. UAE has delivered four new HSM will be utilising the vessels crew boats to Saudi-based owner to provide fast crew transfer High Seas Marine Industrial services to Saudi Aramco. They Services Co (HSM). The four are heavier vessels with a deeper units have been delivered within draft than standard crew boats a period of 14 months despite the in the region.
+## **WESTERN TRIDENT TO BE RECYCLED**
 
-The Far Spirit is a VS 470 MkII vessel that was delivered in
+Western Trident
+Western Trident (c/o P. Lenderink)
 
-2007. She has been out of work since concluding her most recent fixture in Southeast Asia back in the first quarter of 2016. Solstad is looking to offload a total of 37 non-strategic vessels this year.
-#### RECENT DELIVERIES OF NEWBUILD OSVS
+As seismic companies continue to right-size their fleets in an attempt to secure financial and operational stability, Shearwater GeoServices has recently sold the Western Trident seismic vessel for recycling. The 1999-built unit has been delivered to a shipbreaking facility in Turkey for recycling in line with EU laws and the 2009 Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships.
 
-|NAME|TYPE/DESIGN|OWNER/ MANAGER|COMMITMENT|
-|---|---|---|---|
-|ISLAND DISCOVERER|UT 717 CDX PSV|ISLAND OFFSHORE|NORTH SEA SPOT|
-|SAYAN PRINCE|MOSS 919 AHTS|SEVNOR|ARCTIC RUSSIA|
+## **FOUR GRANDWELD CREWBOATS FOR HSM**
 
-10 SEABREEZE
+Grandweld Shipyards in the UAE has delivered four new crew boats to Saudi-based owner High Seas Marine Industrial Services Co (HSM). The four units have been delivered within a period of 14 months despite the challenges posed by Covid-19. HSM will be utilising the vessels to provide fast crew transfer services to Saudi Aramco. They are heavier vessels with a deeper draft than standard crew boats in the region.
 
-built unit has been delivered to a shipbreaking facility in Turkey for recycling in line with EU laws and the 2009 Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships.
+HSM Crewboat
 
-# SUBSEA
+## **RECENT DELIVERIES OF NEWBUILD OSVs**
 
-#### SUBSEA MARKET ROUND-UP
-
-|Brazil has been a focal point for|Delivery and installation is|for Phase 1 of the Bacalhau|
-|---|---|---|
-|conversation for a while now|scheduled to take place during|field in the Brazilian pre-salt|
-|with an anticipated increase|the second quarter of 2022, with|Santos area. The USD 8 billion|
-|in activity levels, particularly|first oil anticipated for the first|investment makes Bacalhau the|
-|deep water, prompting many companies to vye for a piece of|quarter of 2023.|first green field development by an international operator in the|
-|the action.|At the end of June, Petrobras also awarded TechnipFMC a subsea|pre-salt area.|
-|In June, TechnipFMC secured|contract covering the Búzios|The project has a breakeven|
-|its first integrated engineering,|6-9 fields. The contract will see|price below USD 35 per barrel|
-|procurement, construction and|TechnipFMC supply subsea|and first oil is planned for 2024.|
-|installation (iEPCI) contract in|trees with controls, electrical|However, due to the Covid-19|
-|Brazil with Karoon Energy. The|& hydraulic distribution units|pandemic and associated|
-|contract includes engineering,|and topside systems, as well as|uncertainties, project plans|
-|procurement, construction and|installation and intervention|may be adjusted in response to|
-|installation of subsea trees,|support services with rental|health and safety restrictions.|
-|flexible pipes and umbilicals at|tooling. Delivery is expected to|The development will consist|
-|the Patola field. Patola is situated in water depths of 300m and|begin in the first quarter of 2023.|of 19 subsea wells tied back to the FPSO, which will be one of|
-|will be tied back to the existing|Also in June, Equinor and its|the largest in Brazil with a total|
-|Baúna floating production,|partners ExxonMobil, Petrogal|production capacity of 220,000|
-|storage and offloading (FPSO)|and Pré-sal Petróleo SA (PPSA)|barrels per day with two million|
-|vessel Cidade de Itajaí.|made a final investment decision|barrels in storage capacity.|
-
-#### SIA SECURES MAJOR CONTRACT FOR BACALHAU
-
-|Following on from the Bacalhau|the engineering, procurement,|19 subsea trees, and associated|
-|---|---|---|
-|FID, the Subsea Integration|construction and installation|subsea equipment to be installed|
-|Alliance, a partnership between|(EPCI) of the subsea pipelines|in water depths of 2,050m.|
-|Subsea 7 and OneSubsea, has|(SURF) and production systems|Offshore activities for the|
-|been awarded a major contract|(SPS). The first phase of the|project will take place from|
-|with Equinor for the Bacalhau|development will consist|2022 to 2023, utilising Subsea|
-|Phase 1 project offshore Brazil.|of 140km of rigid risers and|7’s reel-lay, flex-lay and light|
-|The work scope will incorporate|flowlines, 40km of umbilicals,|construction vessels.|
-
-#### SIEM AWARDED CABLE LAY CONTRACT
-
-Siem Offshore has secured a 150 days in 2022. This will be contract for its 2013-built OCV the first campaign Siem has Siem Day to undertake cable lay carried out for the undisclosed activities offshore Norway. client. The Siem Day was built The name of the client has not to the STX OSCV 11L design yet been revealed but the vessel with a length of 120m, a 250t will carry out cable lay activities subsea crane and a quarters for a period potentially reaching capacity for 110 persons. *Siem Day (pictured c/o J. Bartels)*
-
-SEABREEZE 11
+| NAME              | TYPE/DESIGN    | OWNER/ MANAGER  | COMMITMENT     |
+| ----------------- | -------------- | --------------- | -------------- |
+| ISLAND DISCOVERER | UT 717 CDX PSV | ISLAND OFFSHORE | NORTH SEA SPOT |
+| SAYAN PRINCE      | MOSS 919 AHTS  | SEVNOR          | ARCTIC RUSSIA  |
 
 # SUBSEA
 
-#### LIMBAYONG EPCI AWARDED TO TECHNIPFMC
+## **SUBSEA MARKET ROUND-UP**
 
-|Prior to securing its Búzios|Wellhead Equipment will be|umbilicals, risers and flowlines.|
-|---|---|---|
-|subsea contract with Petrobras|responsible for the provision of|The Limbayong campaign is|
-|last month, Technip FMC had|the subsea production system,|expected to pave the way for the|
-|already secured a new EPCI|umbilical, riser and flowline|development of the surrounding|
-|contract with Petronas relating|(SURF) scope for the Limbayong|prospects within 18-30km of the|
-|to the subsea equipment for the operator’s Limbayong deep water development offshore Malaysia. TechnipFMC’s subsidiary FMC|project. The field consists of 10 deep water wells which will be tied back to the project’s FPSO while the subsea system is made up of|project’s vicinity.|
+Brazil has been a focal point for conversation for a while now with an anticipated increase in activity levels, particularly deep water, prompting many companies to vye for a piece of the action.
 
-#### MAERSK SUPPLY WINS BIG IN BRAZIL
+In June, TechnipFMC secured its first integrated engineering, procurement, construction and installation (iEPCI) contract in Brazil with Karoon Energy. The contract includes engineering, procurement, construction and installation of subsea trees, flexible pipes and umbilicals at the Patola field. Patola is situated in water depths of 300m and will be tied back to the existing Baúna floating production, storage and offloading (FPSO) vessel Cidade de Itajaí.
 
-|While TechnipFMC and the|and 2022. The scope of work|gas, and will be connected to 16|
-|---|---|---|
-|Subsea Integration Alliance have|for the campaign will include|wells. It will also have a water|
-|been picking up contracts in|the pre-lay of twenty-four 23m|injection capacity of 250,000 b/d|
-|Brazil, Maersk Supply Service|torpedo anchors, each weighing|and a minimum storage capacity|
-|has also been getting in on the|120 tonnes, in water depths of|of 1.4 MMbbl of crude oil. First|
-|act. The Libra Consortium has|2,000m offshore Rio de Janeiro.|oil is targeted for 2023.|
-|selected Maersk to perform the|Maersk will be responsible for|The Libra consortium includes|
-|pre-lay of the mooring system|all activities from engineering,|Petrobras (40% and operator),|
-|for the newbuild FPSO Sepetiba.|procurement and offshore|Shell (20%), TotalEnergies (20%),|
-|The award includes engineering,|execution.|CNODC (10%) and CNOOC|
-|procurement, construction and installation (EPCI) work at the Mero 2 project with operations to be carried out during 2021|The FPSO Sepetiba, currently under construction, will be capable of producing 180,000 bbl of oil and 12 MMcm/d of|(10%).|
+Delivery and installation is scheduled to take place during the second quarter of 2022, with first oil anticipated for the first quarter of 2023.
 
-#### MCDERMOTT AWARDED SHENZI PROJECT
+At the end of June, Petrobras also awarded TechnipFMC a subsea contract covering the Búzios 6-9 fields. The contract will see TechnipFMC supply subsea trees with controls, electrical & hydraulic distribution units and topside systems, as well as installation and intervention support services with rental tooling. Delivery is expected to begin in the first quarter of 2023.
 
-|BHP has awarded McDermott|McDermott will utilise its|field, entered into a deal with|
-|---|---|---|
-|the installation contract for|2009-built flexlay vessel North|Hess late last year to boost its|
-|its Shenzi subsea multiphase|Ocean 102 to transport and|Shenzi interest. Following the|
-|pumping project in the US Gulf|install all of the materials and|completion of that agreement in|
-|of Mexico. The work scope|equipment.|November 2020, BHP’s stake in|
-|covers project management,|The project is scheduled for|the field was increased from 44%|
-|detailed design and fabrication for a pump station suction pile, umbilical installation and flexible jumpers and flying leads installation, transport of all materials and equipment, and pre-commissioning services and other necessary testing and surveys.|completion during the summer of 2022. The North Ocean 102 has a length of 133.6m and she is equipped with a vertical lay system, a 4,000 tonne carousel, a 300 tonne single tensioner and a 250 tonne main crane. BHP, the operator of the Shenzi|to 72%.|
+Also in June, Equinor and its partners ExxonMobil, Petrogal and Pré-sal Petróleo SA (PPSA) made a final investment decision for Phase 1 of the Bacalhou field in the Brazilian pre-salt Santos area. The USD 8 billion investment makes Bacalhou the first green field development by an international operator in the pre-salt area.
 
-12 SEABREEZE
+The project has a breakeven price below USD 35 per barrel and first oil is planned for 2024. However, due to the Covid-19 pandemic and associated uncertainties, project plans may be adjusted in response to health and safety restrictions. The development will consist of 19 subsea wells tied back to the FPSO, which will be one of the largest in Brazil with a total production capacity of 220,000 barrels per day with two million barrels in storage capacity.
+
+## **SIA SECURES MAJOR CONTRACT FOR BACALHAU**
+
+Following on from the Bacalhou FID, the Subsea Integration Alliance, a partnership between Subsea 7 and OneSubsea, has been awarded a major contract with Equinor for the Bacalhou Phase 1 project offshore Brazil. The work scope will incorporate the engineering, procurement, construction and installation (EPCI) of the subsea pipelines (SURF) and production systems (SPS). The first phase of the development will consist of 140km of rigid risers and flowlines, 40km of umbilicals, 19 subsea trees, and associated subsea equipment to be installed in water depths of 2,050m. Offshore activities for the project will take place from 2022 to 2023, utilising Subsea 7's reel-lay, flex-lay and light construction vessels.
+
+## **SIEM AWARDED CABLE LAY CONTRACT**
+
+Siem Offshore has secured a contract for its 2013-built OCV Siem Day to undertake cable lay activities offshore Norway. The name of the client has not yet been revealed but the vessel will carry out cable lay activities for a period potentially reaching 150 days in 2022. This will be the first campaign Siem has carried out for the undisclosed client. The Siem Day was built to the STX OSCV 11L design with a length of 120m, a 250t subsea crane and a quarters capacity for 110 persons.
+
+Siem Day
+
+*Siem Day (pictured c/o J. Bartels)*
 
 # SUBSEA
 
-#### BEACON LIGHTS UP HELIX
+## **LIMBAYONG EPCI AWARDED TO TECHNIPFMC**
 
-Beacon Offshore has awarded and accommodation for 104 2021 with an option to renew Helix Robotics Solutions a person. She commenced the the contract through 2022. 120-day plus options contract campaign in late June. for the Volstad Maritime-owned The work scope covers well ST259 CD-designed OCV Grand severance and decommissioning Canyon II. work in the Gulf of Thailand. The DP3 vessel has a length of The Grand Canyon II’s long-
+Prior to securing its Búzios subsea contract with Petrobras last month, Technip FMC had already secured a new EPCI contract with Petronas relating to the subsea equipment for the operator's Limbayong deep water development offshore Malaysia. TechnipFMC's subsidiary FMC Wellhead Equipment will be responsible for the provision of the subsea production system, umbilical, riser and flowline (SURF) scope for the Limbayong project. The field consists of 10 deep water wells which will be tied back to the project's FPSO while the subsea system is made up of umbilicals, risers and flowlines. The Limbayong campaign is expected to pave the way for the development of the surrounding prospects within 18-30km of the project's vicinity.
 
-127.75m and she is equipped term charter agreement with with a 250 tonne subsea crane Helix has been extended through
-#### FLOATEL ENDURANCE TO REMAIN AT MARTIN LINGE
+TechnipFMC
 
-Equinor has been granted due to expire at the end of June consent from the Norwegian for the 440-bed accommodation Petroleum Safety Authority unit. Equinor now has approval for the extended use of Floatel to use the unit at the field until International’s 2015-built 2nd October 2021. The Floatel accommodation unit Floatel Endurance has been working Endurance at Martin Linge. for Equinor at the Martin Linge The consent is an extension to field since November 2019 when the existing contract which was she replaced Floatel Superior.
+## **MAERSK SUPPLY WINS BIG IN BRAZIL**
 
-#### HELIX CHARTERS SIEM DORADO
+While TechnipFMC and the Subsea Integration Alliance have been picking up contracts in Brazil, Maersk Supply Service has also been getting in on the act. The Libra Consortium has selected Maersk to perform the pre-lay of the mooring system for the newbuild FPSO Sepetiba. The award includes engineering, procurement, construction and installation (EPCI) work at the Mero 2 project with operations to be carried out during 2021 and 2022. The scope of work for the campaign will include the pre-lay of twenty-four 23m torpedo anchors, each weighing 120 tonnes, in water depths of 2,000m offshore Rio de Janeiro. Maersk will be responsible for all activities from engineering, procurement and offshore execution. The FPSO Sepetiba, currently under construction, will be capable of producing 180,000 bbl of oil and 12 MMcm/d of gas, and will be connected to 16 wells. It will also have a water injection capacity of 250,000 b/d and a minimum storage capacity of 1.4 MMbbl of crude oil. First oil is targeted for 2023. The Libra consortium includes Petrobras (40% and operator), Shell (20%), TotalEnergies (20%), CNODC (10%) and CNOOC (10%).
 
-|Returning to South America,|periods. The work scope will|It is worth noting that last year|
-|---|---|---|
-|Helix has agreed to charter Siem|consist of fibre optic cable lay,|local media in Guyana reported|
-|Offshore’s 2009-built IMR vessel|support and hook-up.|that ExxonMobil, the operator|
-|Siem Dorado for a cable lay|The 93.6m diesel electric vessel|of the prolific Stabroek offshore|
-|contract offshore Guyana. Helix|is equipped with a 100 tonne|block, was moving forward with|
-|will charter the MT 6017 MkII|heave compensated offshore|plans to build its own fibre-optic|
-|vessel for a firm period of 55|crane, accommodation for 68|line to assist its offshore and|
-|days plus options, in addition to mobilisation and demobilisation|persons and 1,046m² of deck space.|onshore operations in Guyana.|
+MAERSK SUPPLY SERVICE
 
-#### NEW CONTRACT AND UPGRADE FOR NORMAND OCEAN
+## **MCDERMOTT AWARDED SHENZI PROJECT**
 
-|After securing a new long-term|The upgrade will allow the|in 2014. The contract renewal|
-|---|---|---|
-|contract with DeepOcean to|107.6m vessel to operate with|will keep her occupied until|
-|utilise the MT6022 IMR vessel|the same efficiency but with less|the end of 2023, with options|
-|Normand Ocean, Solstad will|emissions.|available to extend the contract|
-|upgrade the vessel with a 1MWh|The 2014-built vessel, which is|for a further year. The Normand|
-|battery system and shore power|equipped with a 150 tonne crane|Ocean will continue to support|
-|connection to reduce overall|and accommodation for 110|DeepOcean’s IMR and light|
-|emissions in line with both|persons, has been on charter to|construction projects in the|
-|Solstad and DeepOcean’s goals.|DeepOcean since her delivery|North Sea.|
+BHP has awarded McDermott the installation contract for its Shenzi subsea multiphase pumping project in the US Gulf of Mexico. The work scope covers project management, detailed design and fabrication for a pump station suction pile, umbilical installation and flexible jumpers and flying leads installation, transport of all materials and equipment, and pre-commissioning services and other necessary testing and surveys. McDermott will utilise its 2009-built flexlay vessel North Ocean 102 to transport and install all of the materials and equipment. The project is scheduled for completion during the summer of 2022. The North Ocean 102 has a length of 133.6m and she is equipped with a vertical lay system, a 4,000 tonne carousel, a 300 tonne single tensioner and a 250 tonne main crane. BHP, the operator of the Shenzi field, entered into a deal with Hess late last year to boost its Shenzi interest. Following the completion of that agreement in November 2020, BHP's stake in the field was increased from 44% to 72%.
 
-SEABREEZE 13
+North Ocean 102
+
+# SUBSEA
+
+## BEACON LIGHTS UP HELIX
+
+Beacon Offshore has awarded Helix Robotics Solutions a 120-day plus options contract for the Volstad Maritime-owned ST259 CD-designed OCV Grand Canyon II. The DP3 vessel has a length of 127.75m and she is equipped with a 250 tonne subsea crane and accommodation for 104 person. She commenced the campaign in late June. The work scope covers well severance and decommissioning work in the Gulf of Thailand. The Grand Canyon II's long-term charter agreement with Helix has been extended through 2021 with an option to renew the contract through 2022.
+
+## FLOATEL ENDURANCE TO REMAIN AT MARTIN LINGE
+
+| Image                        | Text                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](floatel_endurance_image) | Equinor has been granted consent from the Norwegian Petroleum Safety Authority for the extended use of Floatel International's 2015-built accommodation unit Floatel Endurance at Martin Linge. The consent is an extension to the existing contract which was due to expire at the end of June for the 440-bed accommodation unit. Equinor now has approval to use the unit at the field until 2nd October 2021. The Floatel Endurance has been working for Equinor at the Martin Linge field since November 2019 when she replaced Floatel Superior. |
+
+## HELIX CHARTERS SIEM DORADO
+
+Returning to South America, Helix has agreed to charter Siem Offshore's 2009-built IMR vessel Siem Dorado for a cable lay contract offshore Guyana. Helix will charter the MT 6017 MkII vessel for a firm period of 55 days plus options, in addition to mobilisation and demobilisation periods. The work scope will consist of fibre optic cable lay, support and hook-up. The 93.6m diesel electric vessel is equipped with a 100 tonne heave compensated offshore crane, accommodation for 68 persons and 1,046m² of deck space.
+
+It is worth noting that last year local media in Guyana reported that ExxonMobil, the operator of the prolific Stabroek offshore block, was moving forward with plans to build its own fibre-optic line to assist its offshore and onshore operations in Guyana.
+
+## NEW CONTRACT AND UPGRADE FOR NORMAND OCEAN
+
+After securing a new long-term contract with DeepOcean to utilise the MT6022 IMR vessel Normand Ocean, Solstad will upgrade the vessel with a 1MWh battery system and shore power connection to reduce overall emissions in line with both Solstad and DeepOcean's goals. The upgrade will allow the 107.6m vessel to operate with the same efficiency but with less emissions. The 2014-built vessel, which is equipped with a 150 tonne crane and accommodation for 110 persons, has been on charter to DeepOcean since her delivery in 2014. The contract renewal will keep her occupied until the end of 2023, with options available to extend the contract for a further year. The Normand Ocean will continue to support DeepOcean's IMR and light construction projects in the North Sea.
 
 # RENEWABLES
 
-#### OFFSHORE WIND HEADING TO THE U.S. GULF OF MEXICO?
+## **OFFSHORE WIND HEADING TO THE U.S. GULF OF MEXICO?**
 
-|The U.S. Department of the|The discussion will focus on the|other renewable technologies.|
-|---|---|---|
-|Interior is assessing potential|Western and Central Planning|The move is part of the Biden|
-|opportunities to advance wind|Areas offshore the states of|administration’s goal to deploy|
-|development on the Gulf of|Louisiana, Texas, Mississippi,|30 GW of offshore wind by|
-|Mexico Outer Continental Shelf.|and Alabama. It will also look at|2030.|
+The U.S. Department of the Interior is assessing potential opportunities to advance wind development on the Gulf of Mexico Outer Continental Shelf.
 
-#### BP ADDS TO CONSORTIUM
+The discussion will focus on the Western and Central Planning Areas offshore the states of Louisiana, Texas, Mississippi, and Alabama. It will also look at other renewable technologies. The move is part of the Biden administration's goal to deploy **30 GW** of offshore wind by 2030.
 
-|BP is joining the recently|and Aker Offshore Wind entered|Utsira Nord is best suited for|
-|---|---|---|
-|established consortium between|into a cooperation for the|floating wind technology, while|
-|Statkraft and Aker Offshore|development of a fixed-bottom|Sørlige Nordsjø II will host|
-|Wind, which is preparing a bid|offshore wind project in Norway|fixed-bottom offshore wind|
-|to build a wind farm offshore|at the beginning of this year,|farms. For the latter, which is|
-|Norway. The consortium will|after the Norwegian government|the area BP, Statkraft and Aker|
-|propose to develop a wind|opened two areas for offshore|Offshore Wind are set to bid for,|
-|project in the Sørlige Nordsjø|wind in 2020.|the award announcement is due|
-|II area, with a plan to explore|The two areas, with a total|in the first quarter of 2022. The|
-|further opportunities to power|potential capacity of 4.5 GW, are|government expects that the|
-|offshore oil and gas facilities|Utsira Nord and Sørlige Nordsjø|Sørlige Nordsjø II wind farms|
-|with clean electricity. Statkraft|II. According to the government,|will be built without state aid.|
+## **BP ADDS TO CONSORTIUM**
 
-#### ESVAGT ALBA DELIVERED
+BP is joining the recently established consortium between Statkraft and Aker Offshore Wind, which is preparing a bid to build a wind farm offshore Norway. The consortium will propose to develop a wind project in the Sørlige Nordsjø II area, with a plan to explore further opportunities to power offshore oil and gas facilities with clean electricity. Statkraft and Aker Offshore Wind entered into a cooperation for the development of a fixed-bottom offshore wind project in Norway at the beginning of this year, after the Norwegian government opened two areas for offshore wind in 2020. The two areas, with a total potential capacity of 4.5 GW, are Utsira Nord and Sørlige Nordsjø II. According to the government, Utsira Nord is best suited for floating wind technology, while Sørlige Nordsjø II will host fixed-bottom offshore wind farms. For the latter, which is the area BP, Statkraft and Aker Offshore Wind are set to bid for, the award announcement is due in the first quarter of 2022. The government expects that the Sørlige Nordsjø II wind farms will be built without state aid.
 
-|Esvagt has accepted delivery of|The Esvagt Alba is contracted|for Vestas at the Borssele 3 & 4|
-|---|---|---|
-|its newbuild Havyard 831L SOV Esvagt Alba from the Havyard|to MHI Vestas for 15 years and will operate at Moray Offshore’s|and Northwester 2 wind farms.|
-|Leirvik shipyard in Norway.|950MW Moray East offshore||
-|This is the second of three sister|wind farm which is currently||
-|vessels ordered in September|under construction off the coast||
-|2018. The 70.5m vessels are|of Scotland.||
-|equipped with an SMST|The first Havyard 831L SOV, the||
-|walk-to-work gangway and accommodation for 60 persons.|Esvagt Schelde, was delivered in December 2020 and is working||
+## **ESVAGT ALBA DELIVERED**
 
-#### WIND OF HOPE ENTERS SERVICE
+Esvagt has accepted delivery of its newbuild Havyard 831L SOV Esvagt Alba from the Havyard Leirvik shipyard in Norway. This is the second of three sister vessels ordered in September 2018. The 70.5m vessels are equipped with an SMST walk-to-work gangway and accommodation for 60 persons.
 
-|The Cemre Shipyard in Turkey|technology. She has a hybrid|crane and an accommodation|
-|---|---|---|
-|has delivered the newbuild SOV|propulsion system that uses|capacity for 90 persons. This|
-|Wind of Hope to Louis Dreyfus|variable speed diesel generator|is the second SOV in the Louis|
-|Armateurs. The vessel is now|sets linked with ABB’s OnBoard|Dreyfus fleet. Sister vessel Wind|
-|being mobilised to the UK to|DC GridTM switchboards with|of Change was delivered in|
-|commence her maiden charter|the support of batteries.|May 2019 and is fully booked by|
-|with Ørsted at the Hornsea Two|The Wind of Hope is also|Ørsted at the Borkum Riffgrund|
-|offshore wind farm. The 83m|equipped with a TTS Horizon|1 & 2 and Gode Wind 1 and 2|
-|vessel features carbon saving|gangway system, a TTS Colibri|offshore wind farms.|
+The Esvagt Alba is contracted to MHI Vestas for 15 years and will operate at Moray Offshore's 950MW Moray East offshore wind farm which is currently under construction off the coast of Scotland. The first Havyard 831L SOV, the Esvagt Schelde, was delivered in December 2020 and is working for Vestas at the Borssele 3 & 4 and Northwester 2 wind farms.
 
-14 SEABREEZE
+Esvagt Alba
+
+## **WIND OF HOPE ENTERS SERVICE**
+
+The Cemre Shipyard in Turkey has delivered the newbuild SOV Wind of Hope to Louis Dreyfus Armateurs. The vessel is now being mobilised to the UK to commence her maiden charter with Ørsted at the Hornsea Two offshore wind farm. The 83m vessel features carbon saving technology. She has a hybrid propulsion system that uses variable speed diesel generator sets linked with ABB's OnBoard DC Grid<sup>TM</sup> switchboards with the support of batteries. The Wind of Hope is also equipped with a TTS Horizon gangway system, a TTS Colibri crane and an accommodation capacity for 90 persons. This is the second SOV in the Louis Dreyfus fleet. Sister vessel Wind of Change was delivered in May 2019 and is fully booked by Ørsted at the Borkum Riffgrund 1 & 2 and Gode Wind 1 and 2 offshore wind farms.
 
 # RIGS
 
-|INACTIVE RIGS NORTHWEST EUROPE|||
-|---|---|---|
-|NAME|TYPE|STATUS|
-|BIDEFORD DOLPHIN|SS|WARM STACK|
-|BOLETTE DOLPHIN|DS|COLD STACK|
-|COSLINNOVATOR|SS|WARM STACK|
-|COSLPIONEER|SS|WARM STACK|
-|COSLPROMOTER|SS|WARM STACK|
-|ISLAND INNOVATOR|SS|WARM STACK|
-|MAERSK INNOVATOR|JU|WARM STACK|
-|MAERSK INTERCEPTOR|JU|WARM STACK|
-|MAERSK REACHER|JU|WARM STACK|
-|NOBLE HOUSTON COLBERT|JU|WARM STACK|
-|NOBLE SAM HARTLEY|JU|WARM STACK|
-|OCEAN VALIANT|SS|COLD STACK|
-|RAN|JU|WARM STACK|
-|SWIFT 10|JU|WARM STACK|
-|TRANSOCEAN LEADER|SS|COLD STACK|
-|TRANSOCEAN NORGE|SS|WARM STACK|
-|VALARIS DS-4|DS|COLD STACK|
-|VALARIS DS-8|DS|COLD STACK|
-|VALARIS JU-100|JU|COLD STACK|
-|VALARIS JU-101|JU|WARM STACK|
-|VALARIS JU-121|JU|HOT STACK|
-|VALARIS JU-249|JU|WARM STACK|
-|WEST LEO|SS|COLD STACK|
-|WEST MIRA|SS|WARM STACK|
-|WEST PHOENIX|SS|HOT STACK|
-|WEST TAURUS|SS|COLD STACK|
-|WILHUNTER|SS|COLD STACK|
+## OIL PRICE VS CONTRACTED RIG UTILISATION
 
-#### OIL PRICE VS CONTRACTED RIG UTILISATION
+| Date   | Average Brent Crude US$ / Bbl | Northwest Europe Rig Utilisation | US Gulf Rig Utilisation |
+| ------ | ----------------------------- | -------------------------------- | ----------------------- |
+| Jun 20 | $39.93                        | 54.3%                            | 38.0%                   |
+| Jul 20 | $42.81                        | 51.6%                            | 36.1%                   |
+| Aug 20 | $44.26                        | 50.7%                            | 38.8%                   |
+| Sep 20 | $41.09                        | 54.3%                            | 40.7%                   |
+| Oct 20 | $40.47                        | 51.1%                            | 40.8%                   |
+| Nov 20 | $43.23                        | 50.0%                            | 39.3%                   |
+| Dec 20 | $49.87                        | 49.2%                            | 40.8%                   |
+| Jan 21 | $54.55                        | 48.3%                            | 36.2%                   |
+| Feb 21 | $61.96                        | 49.4%                            | 37.0%                   |
+| Mar 21 | $65.19                        | 49.4%                            | 33.3%                   |
+| Apr 21 | $64.77                        | 54.7%                            | 34.1%                   |
+| May 21 | $68.04                        | 57.3%                            | 37.2%                   |
+| Jun 21 | $73.17                        | 61.7%                            | 43.2%                   |
 
-100% $75 **$73.17** $70 90% **$65.19** **$68.04** $65 **$61.96**$60 **$64.77** 80% **$54.55** $55 **$49.87** $45 $50 70% **$44.26** **$39.93** **$42.81** **$41.09 $40.47 61.7%** $35 **$43.23** $40 60%
+## INACTIVE RIGS NORTHWEST EUROPE
 
-**57.3%**
-**54.3% 54.3% 54.7%**$30
-**51.6% 50.7% 51.1%**
-**50.0% 49.4% 49.4%**
-**49.2% 48.3%**$25
-50% $20
+| NAME                  | TYPE | STATUS     |
+| --------------------- | ---- | ---------- |
+| BIDEFORD DOLPHIN      | SS   | WARM STACK |
+| BOLETTE DOLPHIN       | DS   | COLD STACK |
+| COSLINNOVATOR         | SS   | WARM STACK |
+| COSLPIONEER           | SS   | WARM STACK |
+| COSLPROMOTER          | SS   | WARM STACK |
+| ISLAND INNOVATOR      | SS   | WARM STACK |
+| MAERSK INNOVATOR      | JU   | WARM STACK |
+| MAERSK INTERCEPTOR    | JU   | WARM STACK |
+| MAERSK REACHER        | JU   | WARM STACK |
+| NOBLE HOUSTON COLBERT | JU   | WARM STACK |
+| NOBLE SAM HARTLEY     | JU   | WARM STACK |
+| OCEAN VALIANT         | SS   | COLD STACK |
+| RAN                   | JU   | WARM STACK |
+| SWIFT 10              | JU   | WARM STACK |
+| TRANSOCEAN LEADER     | SS   | COLD STACK |
+| TRANSOCEAN NORGE      | SS   | WARM STACK |
+| VALARIS DS-4          | DS   | COLD STACK |
+| VALARIS DS-8          | DS   | COLD STACK |
+| VALARIS JU-100        | JU   | COLD STACK |
+| VALARIS JU-101        | JU   | WARM STACK |
+| VALARIS JU-121        | JU   | HOT STACK  |
+| VALARIS JU-249        | JU   | WARM STACK |
+| WEST LEO              | SS   | COLD STACK |
+| WEST MIRA             | SS   | WARM STACK |
+| WEST PHOENIX          | SS   | HOT STACK  |
+| WEST TAURUS           | SS   | COLD STACK |
+| WILHUNTER             | SS   | COLD STACK |
 
-**43.2%**
-**38.0% 38.8%**
-**40.7% 40.8%**
-**39.3%**
-**40.8%**
-**37.0% 37.2%**
-$15
+## NEW NORWAY GIGS FOR TRANSOCEAN
 
-|40%|38.0%|36.1%||||||36.2%|37.0%|||37.2%||$10|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||33.3%|34.1%||||
-|||||||||||||||$5|
-|30%||||||||||||||$0|
-||Jun 20|Jul 20|Aug 20 Sep 20 Oct 20 Nov 20 Dec 20 Jan 21 Feb 21 Mar 21||||||||Apr 21 May 21 Jun 21||||
-||Average Brent Crude US$ / Bbl|||||Northwest Europe Rig Utilisation|||||US Gulf Rig Utilisation||||
+Transocean has secured two new fixtures in Norway, adding USD 116 million to its contract backlog. The Transocean Norge was awarded a four-well plus five one-well options contract with ConocoPhillips starting in March 2022. The Transocean Barents was awarded a two-well contract starting in February 2022, thought to be with Norske Shell. Both of the contracts have an estimated duration of 200 days for the firm periods.
 
-40% **36.1% 36.2%**
+## SAIPEM TAKING NEWBUILD ON BAREBOAT
 
-**34.1%**$10
-**33.3%**
-#### NEW NORWAY GIGS FOR TRANSOCEAN
+Saipem has signed a contract with Samsung Heavy Industries in South Korea to take the seventh generation drillship Samsung Santorini on bareboat charter for two years following her delivery in November 2021. This will allow Saipem to strengthen the competitiveness of its fleet without having to actually invest in new assets. However, Saipem will have an option to purchase the rig if the market continues to recover.
 
-Transocean has secured two March 2022. The Transocean new fixtures in Norway, adding Barents was awarded a two-well USD 116 million to its contract contract starting in February backlog. The Transocean Norge 2022, thought to be with Norske was awarded a four-well plus Shell. Both of the contracts have five one-well options contract an estimated duration of 200 with ConocoPhillips starting in days for the firm periods.
+## CONTRACTED RIG UTILISATION AND DAY RATES
 
-#### SAIPEM TAKING NEWBUILD ON BAREBOAT
+| UTILISATION | JUN 2021 | JUN 2020 | JUN 2019 | JUN 2018 | JUN 2017 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NORTH SEA | 61.7% | 54.3% | 68.1% | 62.6% | 44.4% |
+| SOUTH AMERICA | 76.1% | 86.7% | 62.5% | 71.9% | 73.5% |
+| US GULF | 43.2% | 38.0% | 54.8% | 44.8% | 38.1% |
+| CURRENT ESTIMATED FIXTURE RATES (SOURCE: BASSOE OFFSHORE) |  |  |  |  |  |
+| PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70) | USD 90,000 |  |  |  |  |
+| VINTAGE HARSH ENVIRONMENT JACKUP | USD 75,000 |  |  |  |  |
+| SIXTH GENERATION HARSH ENVIRONMENT SEMISUBMERSIBLE | USD 300,000 |  |  |  |  |
+| VINTAGE HARSH ENVIRONMENT SEMISUBMERSIBLE | USD 170,000 |  |  |  |  |
+| SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE | USD 165,000 |  |  |  |  |
+| SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP | USD 190,000 |  |  |  |  |
 
-Saipem has signed a contract 2021. This will allow Saipem to with Samsung Heavy Industries strengthen the competitiveness in South Korea to take the of its fleet without having to seventh generation drillship actually invest in new assets. Samsung Santorini on bareboat However, Saipem will have an charter for two years following option to purchase the rig if the her delivery in November market continues to recover.
+# CONUNDRUM CORNER, DUTY PHONES
 
-#### CONTRACTED RIG UTILISATION AND DAY RATES
+## SEADRILL SALES CONTINUE
 
-JUN JUN JUN JUN JUN UTILISATION 2021 2020 2019 2018 2017
-
-|CURRENT ESTIMATED FIXTURE RATES (SOURCE: BASSOE OFFSHORE)||
-|---|---|
-|PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)|USD 90,000|
-|VINTAGE HARSH ENVIRONMENT JACKUP|USD 75,000|
-|SIXTH GENERATION HARSH ENVIRONMENT SEMISUBMERSIBLE|USD 300,000|
-|VINTAGE HARSH ENVIRONMENT SEMISUBMERSIBLE|USD 170,000|
-|SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE|USD 165,000|
-|SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP|USD 190,000|
-
-||2021|2020|2019|2018|2017|
-|---|---|---|---|---|---|
-|NORTH SEA|61.7%|54.3%|68.1%|62.6%|44.4%|
-|SOUTH AMERICA|76.1%|86.7%|62.5%|71.9%|73.5%|
-|US GULF|43.2%|38.0%|54.8%|44.8%|38.1%|
-
-SEABREEZE 15
-
-## CONUNDRUM CORNER, DUTY PHONES
-
-#### THE SEABREEZE ARCHIVE
-
-For the current or archive copies of Seabreeze go to: **[http://www.seabrokers.co.uk/**](http://www.seabrokers.co.uk/**) - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: **chartering@seabrokers.co.uk**
-
-#### SEADRILL SALES CONTINUE
-
-Following Seadrill’s progression into Chapter 11 bankrupty protection earlier this year, several of the rig owner’s assets have been sold. As part of the restructuring process, five cold-stacked floating rigs were sold to ROTA Shipping for recycling. Four of these units have been idle in Norway: the 1986-built semi West Alpha (sold for USD 4.1 million), the 2000-built semi West Venture (sold for USD 6.5 million), the 2000-built drillship West Navigator (sold for USD 11.9 million), and the 2011-built semi West Pegasus (sold for USD 7.7 million). The fifth unit is the 2009-built semi West Eminence, which has been stacked in the Canary Islands, which was sold for USD 7.5 million.
+Following Seadrill's progression into Chapter 11 bankruptcy protection earlier this year, several of the rig owner's assets have been sold. As part of the restructuring process, five cold-stacked floating rigs were sold to ROTA Shipping for recycling. Four of these units have been idle in Norway: the 1986-built semi West Alpha (sold for USD 4.1 million), the 2000-built semi West Venture (sold for USD 6.5 million), the 2000-built drillship West Navigator (sold for USD 11.9 million), and the 2011-built semi West Pegasus (sold for USD 7.7 million). The fifth unit is the 2009-built semi West Eminence, which has been stacked in the Canary Islands, which was sold for USD 7.5 million.
 
 On the jackup side, recent sales include the 2008-built West Vigilant to PT Duta Marine for USD 7.3 million, and the 2009-built West Freedom to New Fortress Energy for USD 5 million.
 
-#### CONUNDRUM CORNER
+## THE SEABREEZE ARCHIVE
 
-##### Last month’s answer :-
+For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: chartering@seabrokers.co.uk
+
+| SEABROKERS GROUP CONTACTS |
+| :--- |
+| 
+
+## CONUNDRUM CORNER
+
+**Last month's answer :-**
 
 George, Helen and Steve are drinking coffee. Bert, Karen and Dave are drinking soda. Is Elizabeth drinking coffee or soda?
 
 The answer was :- Coffee (the letter E appears twice in her name, as it does with the names of the others that are drinking coffee).
 
-##### This month, our poser is:
+**This month, our poser is:**
 
 - I am associated with holidays.
 - Change one letter and I am a coating.
 - Add one letter and I am acceptance of truth.
 - Change one letter and I am an edge.
-- Change one final letter and I am a tuft of feathers. What was I and what did I become?
-##### Answers back to chartering@seabrokers.co.uk.
+- Change one final letter and I am a tuft of feathers.
 
-16 SEABREEZE
+What was I and what did I become?
 
-#### SEABROKERS GROUP CONTACTS
-
-**SEABROKERS HEAD OFFICE** Forusbeen 78 - 4033 Stavanger-Norway Tel: (+47) 51 80 00 00 Internet: www.seabrokers-group.com
-
-**SEABROKERS CHARTERING AS-STAVANGER** Duty Telephone ++47 51 815400 (24 Hrs) E-mail chartering@seabrokers.no
-
-**SEABROKERS LTD-ABERDEEN** Duty Telephone ++44 1224 747744 (24 Hrs) Duty Mobile ++44 7802 304129 E-Mail chartering@seabrokers.co.uk
-
-**SEABROKERS BRAZIL LTDA-RIO DE JANEIRO** Duty Telephone ++55 21 3505 4200 (24 Hrs) E-mail chartering@seabrokers.com.br
-
-**SECURALIFT AS-STAVANGER** Telephone ++47 51 800000 E-mail stig@seabrokers.no
-
-**SEA SURVEILLANCE AS-BERGEN** Telephone ++47 55 136500
-
-#### HEADING E-mail info@seasurv.net
-
-**SEABROKERS EIENDOM AS-STAVANGER** Quiatis imaximilitem num enis porum ne dolles Telephone ++47 51 800000 qui rerum id min corepta dolo quo conet il idE-mail rolf.aarthun@seabrokers.no quisto que voluptatus eatis re ventur? Hilibust quis as mincias peribustis qui dolorit officatus **SEABROKERS SERVICES AS-STAVANGER** aut preiumquas qui iuscimu sapelest, esto odio. Telephone ++47 51 800000 E-mail lars.hagen@seabrokers.no Itatecum cus acerum ipidunture corporpores et int faccum remperi onsequi **SEABROKERS FUNDAMENTERING AS-STAVANGER** Telephone ++47 51 800000 E-mail fundamentering@seabrokers.no
-
-**SEABROKERS HAVNEKRANER AS-STAVANGER** Telephone ++47 51 800000 E-mail havnekraner@seabrokers.no
+**Answers back to chartering@seabrokers.co.uk.**

@@ -526,6 +526,11 @@ tags:
     full_markdown = f"{frontmatter}{clean_text}\n"
     target_md_path.write_text(full_markdown, encoding="utf-8")
 
+    # Also synchronize to corpus/05-seabrokers/{year}/{stem}.md
+    corpus_md_dir = REPO_ROOT / "corpus" / "05-seabrokers" / str(year)
+    corpus_md_dir.mkdir(parents=True, exist_ok=True)
+    (corpus_md_dir / f"{stem}.md").write_text(full_markdown, encoding="utf-8")
+
     # 6. Save structured table sidecar
     table_sidecar = {
         "title": report_title,

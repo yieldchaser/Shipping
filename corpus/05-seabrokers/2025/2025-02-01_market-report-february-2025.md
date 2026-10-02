@@ -1,402 +1,669 @@
-# Market Report February 2025
-
-**Publisher**: Seabrokers Chartering | **Series**: SEABREEZE Monthly Offshore Market Report  
-**Date**: 2025-02-01 | **Pages**: 15 | **Extraction Engine**: Anydoc OCR & Markdown  
-**PDF Source**: [Seabreeze-February.pdf](https://seabrokers.no/chartering/wp-content/uploads/sites/8/2025/03/Seabreeze-February.pdf)
-
+---
+title: "Seabreeze Monthly Offshore Market Report - February 2025"
+issue_date: "2025-02-01"
+year: 2025
+month: 2
+publisher: "Seabrokers Chartering"
+source: "seabrokers"
+category: "Offshore"
+pages: 15
+source_file: "corpus/05-seabrokers/pdfs/2025-02-01_market-report-february-2025.pdf"
+tables_count: 14
+word_count: 7778
+tags:
+  - Offshore
+  - OSV
+  - PSV
+  - AHTS
+  - Subsea
+  - Rigs
+  - Renewables
 ---
 
-## North Sea OSV Spot Rates & Fleet Utilisation
+# SEABREEZE
+### The Seabrokers Monthly Market Report — February 2025
+*The Shipbroker with a Difference — Seabrokers Group*
 
-| Vessel Category | Average Rate (GBP) | Prior Year | YoY Change | Minimum | Maximum | Fleet Utilisation |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **SUPPLY DUTIES PSVS < 900M2** | £6,431 | £13,432 | -52.12% | £4,000 | £14,611 | Med PSV: 59%, Large PSV: 71% |
-| **SUPPLY DUTIES PSVS > 900M2** | £8,494 | £10,967 | -22.55% | £5,500 | £14,255 | Med PSV: 59%, Large PSV: 71% |
-| **AHTS DUTIES AHTS < 22,000 BHP** | £17,999 | £48,559 | -62.93% | £9,976 | £45,000 | Med AHTS: 41%, Large AHTS: 51% |
-| **AHTS DUTIES AHTS > 22,000 BHP** | £26,428 | £53,962 | -51.02% | £10,691 | £49,891 | Med AHTS: 41%, Large AHTS: 51% |
+## Contents
 
----
-
-## Market Analysis & Intelligence (Anydoc Extracted)
-
-##### The Seabrokers Chartering Monthly Market Report
-
-##### February 2025
-
-## Saipem and Subsea 7 to merge / 4
-
-#### Britoil secures multiple PSV contracts / 7 More CSV newbuilds ordered / 18-19
-
-#### And more ...
-
-#### 4 OSV Market Round-Up 10 North Sea OSV Utilisation & Rates
-
-#### 12 North Sea Average Spot Rates 14 Feature vessel
-
-#### 16 Newbuilds, Conversions, S&P
-
-# Contents18 Subsea
-
-#### 21 Renewables 25 Rigs
-
-#### 28 Seabrokers Contact Details
-
-**SEABROKERS GROUP:** Over the last 40+ years, Seabrokers has established itself as a market leader in the fields of ship brokering, property development, property management, foundation engineering, geoenergy, port cranes and heavy lifting equipment, and autonomous transport.
-
-**February 2025seabrokers.no**
-
-SEABREEZE © Seabrokers Group 2025 | Production and Administration: Seabrokers Ltd, Aberdeen The Seabreeze Monthly Market Report is distributed worldwide through our offices in Aberdeen, **Seabreeze** Stavanger and Rio de Janeiro. For your free copy of Seabreeze, email: chartering@seabrokers.co.uk
-
-*Picture c/o Getty Images*
+- **OSV Market Round-Up** *(p. 4)*
+- **North Sea OSV Utilisation & Rates** *(p. 10)*
+- **North Sea Average Spot Rates** *(p. 12)*
+- **Feature vessel** *(p. 14)*
+- **Newbuilds, Conversions, S&P** *(p. 16)*
+- **Subsea** *(p. 18)*
+- **Renewables** *(p. 21)*
+- **Rigs** *(p. 25)*
 
 # OSV Market Round-Up
 
-#### SAIPEM AND SUBSEA7 IN TALKS TO MERGE
+## SAIPEM AND SUBSEA7 IN TALKS TO MERGE
 
-**Saipem and Subsea7 have reached an agreement in principle on a potential merger, creating a** company’s capital, while Eni and CDP Equity, being the largest shareholders of Saipem, would **new entity named Saipem7.** own approximately 10.6% and approximately 6.4%, respectively. The combined company would be listed on both the Milan and Oslo stock exchange and have its headquarters in Milan. If the merger goes ahead, it will create a global market leader in the subsea and E&C offshore sector. Shareholders of both companies would own 50 percent of the new entity. In addition to The combined company would currently have a fleet of more than 60 vessels but excluding the getting 6.688 Saipem shares for each Subsea7 share held, Subsea7 shareholders would receive barges and drilling fleet the graph below highlights a managed fleet of 49 vessels. Fourteen of an extraordinary cash dividend of €450 million before the completion of the merger. these vessels are not owned by either Saipem or Subsea7 and are on long-term charter, which are due to come to the end of their firm period between 2025 and 2027. There are outstanding The merger is expected to generate annual synergies of around EUR 300 million by the third-year options on some of the chartered in fleet so the fleet size could be reduced by the time of the post-completion, with one-off costs estimated at EUR 270 million. completed deal in 2026, if approved.
+**Saipem and Subsea7 have reached an agreement in principle on a potential merger, creating a new entity named Saipem7.**
 
-The combined company will have a backlog of EUR 43 billion, revenue of approximately EUR 20 This isn’t the first time this deal has been spoken about. A similar deal was discussed back in billion, EBITDA exceeding EUR 2 billion and would employ over 45,000 people. The alignment of 2019. the companies would leverage complementary strengths in the market through the shared fleet, geographic location, as well as technologies to benefit their client base.
+If the merger goes ahead, it will create a global market leader in the subsea and E&C offshore sector. Shareholders of both companies would own 50 percent of the new entity. In addition to getting 6.688 Saipem shares for each Subsea7 share held, Subsea7 shareholders would receive an extraordinary cash dividend of €450 million before the completion of the merger.
+
+The merger is expected to generate annual synergies of around EUR 300 million by the third-year post-completion, with one-off costs estimated at EUR 270 million.
+
+The combined company will have a backlog of EUR 43 billion, revenue of approximately EUR 20 billion, EBITDA exceeding EUR 2 billion and would employ over 45,000 people. The alignment of the companies would leverage complementary strengths in the market through the shared fleet, geographic location, as well as technologies to benefit their client base.
 
 Final terms of the proposed combination are expected to be submitted to their respective boards of directors for approval in mid-2025, when the duo would sign a merger agreement. Completion of the transaction is anticipated to take place in the second half of 2026.
 
-The combined company will operate across four business segments-Offshore Engineering & Construction, Onshore Engineering & Construction, Sustainable Infrastructures and Offshore Drilling.
+The combined company will operate across four business segments - Offshore Engineering & Construction, Onshore Engineering & Construction, Sustainable Infrastructures and Offshore Drilling.
 
-The Offshore Engineering & Construction business will be incorporated in an operationally autonomous company, named Subsea7 and branded as “Subsea7 – a Saipem7 Company”, and it is currently envisaged that it will be led by Mr John Evans. It will comprise all of Subsea7’s business and the Asset Based Services business of Saipem, representing approximately 83% of the combined group’s EBITDA of the last 12 months as of 30 September 2024. The company will be headquartered in London.
+The Offshore Engineering & Construction business will be incorporated in an operationally autonomous company, named Subsea7 and branded as "Subsea7 – a Saipem7 Company", and it is **currently** envisaged that it will be led by Mr John Evans. It will comprise all of Subsea7's business and the Asset Based Services business of Saipem, representing approximately 83% of the combined group's EBITDA of the last 12 months as of 30 September 2024. The company will be headquartered in London.
 
 Meanwhile, the Onshore Engineering & Construction will be run with a focus on reducing overall risk and maximising profitability. The Sustainable Infrastructures business will aim to consolidate its presence in the Italian market with potential expansion overseas. The Offshore Drilling division will seek to continue to maximise its EBITDA and cash flow.
 
-Siem Industries, reference shareholder of Subsea7, as well as Eni and CDP Equity, reference shareholders of Saipem, have expressed their strong support for the deal. Siem Industries, being the largest shareholder of Subsea7, would own approximately 11.9% of the combined
+Siem Industries, reference shareholder of Subsea7, as well as Eni and CDP Equity, reference shareholders of Saipem, have expressed their strong support for the deal. Siem Industries, being the largest shareholder of Subsea7, would own approximately 11.9% of the combined company's capital, while Eni and CDP Equity, being the largest shareholders of Saipem, would own approximately 10.6% and approximately 6.4%, respectively. The combined company would be listed on both the Milan and Oslo stock exchange and have its headquarters in Milan.
 
-*BOS Patriot (c/o P. Gowen)*
+The combined company would currently have a fleet of more than 60 vessels but excluding the barges and drilling fleet the graph below highlights a managed fleet of 49 vessels. Fourteen of these vessels are not owned by either Saipem or Subsea7 and are on long-term charter, which are due to come to the end of their firm period between 2025 and 2027. There are outstanding options on some of the chartered in fleet so the fleet size could be reduced by the time of the completed deal in 2026, if approved.
 
-### OSV Market Round-Up
+This isn't the first time this deal has been spoken about. A similar deal was discussed back in 2019.
 
-#### AHTS OWNERS WAITING FOR MARKET MOMENTUM
+| Category           | Subsea 7 | Saipem |
+| ------------------ | -------- | ------ |
+| Cable Lay          | 3        | 0      |
+| CSV S              | 0        | 0      |
+| CSV M              | 6        | 0      |
+| CSV L              | 3        | 1      |
+| CSV VL             | 2        | 1      |
+| DSV                | 4        | 0      |
+| Heavy Lift         | 3        | 2      |
+| Heavy Lift Pipelay | 3        | 8      |
+| Pipelay            | 9        | 2      |
+| SOV                | 1        | 0      |
+| Well Int.          | 1        | 0      |
 
-##### The majority of AHTS owners in the North Sea have probably been quite
+BOS Patriot (c/o P. Gowen)
 
-**underwhelmed with the start to 2025 they have experienced thus far although there is still some positivity being expressed.**
+# OSV Market Round-Up
 
-Average spot fixture rates for the first potential limitations on vessel supply couple of months of the year have this year. We are already in a trading been just GBP 27,418 (NOK 388,333) situation where there is a limited pool for large AHTS vessels (>22,000 bhp), of AHTS vessels on the spot market, and GBP 24,008 (NOK 340,043) for and several more departures have small-medium vessels (see p.12-13). To been confirmed. The Normand Ferking, add to the woes that owners have been Skandi Jupiter and Skandi Mercury will experiencing, many of them have been all be heading for Brazil in the near struggling to maintain anywhere near future, while the Maersk/Skandi Mariner adequate levels of utilisation on the and Skandi Mover will be relocated to **February 2025** spot market. Canada. With a number of North Sea- based AHTS vessels well placed for Nevertheless, there is a rising sentiment further contract awards from Petrobras, that trading conditions may soon start and a rising number of project scopes to improve for owners, partially as a on the horizon, the market may not result of activity levels increasing as the remain quite as much in charterers’ **Seabreeze** better weather arrives, but also due to favour as it has been so far in 2025.
+## AHTS OWNERS WAITING FOR MARKET MOMENTUM
 
-#### BRITOIL SECURES MULTIPLE PSV FIXTURES
+**The majority of AHTS owners in the North Sea have probably been quite underwhelmed with the start to 2025 they have experienced thus far although there is still some positivity being expressed.**
 
-Britoil Offshore Services has secured new contracts for several of the PSVs that were acquired from Vroon Offshore back in 2023. Perhaps the most significant fixture is an attractive seven-year firm North Sea contract for the BOS Prelude with SeaRenergy. Scheduled to commence in the third quarter of 2025, there are three further one-year options available that could ultimately lead to a decade-long charter for the 15 year-old vessel.
+Average spot fixture rates for the first couple of months of the year have been just **GBP 27,418 (NOK 388,333)** for large AHTS vessels (>22,000 bhp), and **GBP 24,008 (NOK 340,043)** for small-medium vessels (see p.12-13). To add to the woes that owners have been experiencing, many of them have been struggling to maintain anywhere near adequate levels of utilisation on the spot market.
 
-Another multi-year fixture has been secured by Britoil for the BOS Patriot. This vessel has recently been relocated from the Mediterranean to West Africa following the completion of a term charter with Chevron in Egypt. The BOS Patriot’s next job will be a three-year firm charter with Azule Energy offshore Angola, where two further one-year options are available. The BOS Patriot, an Ulstein PX 121 PSV, had been working for Chevron in Egypt alongside her sister vessel, the BOS Patience. The latter unit is still in Egypt but will be returning to the North Sea soon. Britoil has secured a two-month firm contract for the vessel with Saipem in Norway; that charter is scheduled to commence in the second quarter of 2025.
+Nevertheless, there is a rising sentiment that trading conditions may soon start to improve for owners, partially as a result of activity levels increasing as the better weather arrives, but also due to potential limitations on vessel supply this year. We are already in a trading situation where there is a limited pool of AHTS vessels on the spot market, and several more departures have been confirmed. The Normand Ferking, Skandi Jupiter and Skandi Mercury will all be heading for Brazil in the near future, while the Maersk/Skandi Mariner and Skandi Mover will be relocated to Canada. With a number of North Sea-based AHTS vessels well placed for further contract awards from Petrobras, and a rising number of project scopes on the horizon, the market may not remain quite as much in charterers' favour as it has been so far in 2025.
 
-#### MULTI-YEAR CONTRACT FOR GOLDEN ENERGY SECURES CAPITAL PSV PSV CONTRACT EXTENSIONS
+## BRITOIL SECURES MULTIPLE PSV FIXTURES
 
-Capital Offshore has secured a long-term Golden Energy Offshore is continuing to add contract for the Ace Supplier PSV. The vessel to its contract backlog, with charter extensions has been fixed up to TenneT for a five-year secured for two of its PSVs in recent days. In firm charter with three further one-year Spain, Repsol has extended its charter with options available. Operations are scheduled to the Energy Duchess for six more months; commence in April, with the vessel providing the 2019-built vessel is now firmly committed support to offshore wind farm activity in German until September 2025 with a six-month option waters. The Ace Supplier is currently plying her outstanding. trade on the North Sea spot market. In the UK, TotalEnergies has extended its The Ace Supplier is an 18 year-old PSV that contract with the Energy Passion for an operates under the management of Aurora additional year until March 2026 with a further Offshore. Built to the ST-216L CD design, the one-year option available. Golden Energy is vessel has a length of 93.4m, deck area of also thought to be close to finalising a new 1,060m² and an accommodation capacity for 28 contractual commitment for another of its UK- persons. based PSVs in the near future.
+Britoil Offshore Services has secured new contracts for several of the PSVs that were acquired from Vroon Offshore back in 2023. Perhaps the most significant fixture is an attractive seven-year firm North Sea contract for the **BOS Prelude** with SeaRenergy. Scheduled to commence in the third quarter of 2025, there are three further one-year options available that could ultimately lead to a decade-long charter for the 15 year-old vessel.
 
-*Ace Supplier (c/o G. Saunders) Energy Duchess (c/o P. Gowen)*
+Another multi-year fixture has been secured by Britoil for the **BOS Patriot**. This vessel has recently been relocated from the Mediterranean to West Africa following the completion of a term charter with Chevron in Egypt. The **BOS Patriot's** next job will be a three-year firm charter with Azule Energy offshore Angola, where two further one-year options are available. The **BOS Patriot**, an Ulstein PX 121 PSV, had been working for Chevron in Egypt alongside her sister vessel, the **BOS Patience**. The latter unit is still in Egypt but will be returning to the North Sea soon. Britoil has secured a two-month firm contract for the vessel with Saipem in Norway; that charter is scheduled to commence in the second quarter of 2025.
 
-|||FS Aries (c/o Capt J. Plug)|USNS Black Powder (c/o B. Hezlep)|
-|---|---|---|---|
-|N-SEA CHARTERS PSV FOR BOULDER CLEARANCE WORK The Fletcher Group has secured a term North Sea charter for the FS Aries with N-Sea. The PSV has been awarded a six-month firm contract with commencement scheduled for March/April 2025; further options are available beyond the end of the six-month firm period. The vessel has been chartered by N-Sea to support boulder clearance||||
-|operations. This is the first term charter that the recent months.|Fletcher Group has secured for the vessel. She has been working on the North Sea spot market in The FS Aries, previously known as the GMS Legend, is a 2008-built PSV that joined the Fletcher fleet last year. Built to the VS 470 MkII design, the FS Aries has a length of 73.4m, deck area of 700m² and an accommodation capacity for 34 persons.||OSV Market Round-Up|
-|SPIRIT RETAINS TALISMAN FOR ANOTHER YEAR Spirit Energy has extended its contract with multirole vessel Grampian Talisman in the UK market for at least another year. The North Star Shipping MRV is now committed until the first quarter of 2026. She is currently working for Spirit in the Irish Sea. The Grampian Talisman is a DP2 PSV, built to the IMT 978 design in 2007, that is further outfitted as a Group B ERRV. She has a length of 78.2m, breadth of 17.0m and a deck area of 790m². With regards to her multifunction capabilities, the vessel is outfitted with a 15-man Avon FRC/FRB and a pair of Delta Phantom daughter craft.|ISLAND CHALLENGER CONTINUES WITH ITHACA Another contract extension that has been finalised in the UK sector recently has seen an additional year added to the Island Challenger’s contract with Ithaca Energy. The 2007-built PSV is now firmly committed until the first quarter of 2026. She has been working for Ithaca Energy since the fourth quarter of 2022, primarily providing support at the Alba field in the Central North Sea. Built to the UT 776E design, the Island Challenger has a length of 93.0m, breadth of 20.0m and a deck area of 1,008m². She has an accommodation capacity for 25 persons.|MULTI-YEAR CONTRACT EXTENSION FOR CROMARTY Sentinel Marine has secured a multi-year contract extension with INEOS UK for its Cromarty Sentinel ERRV. INEOS has firmed up a three-year extension with two further one-year options available. The Cromarty Sentinel is providing support for INEOS’ operations at the Breagh and Clipper South platforms in the Southern North Sea. The Cromarty Sentinel is a 2022-built multi-role Group B ERRV. The DP2 vessel is equipped with Class 1 FiFi equipment and has extensive oil recovery capabilities.|HORNBECK AWARDED U.S. NAVY CONTRACT In North America, Hornbeck Offshore has been awarded a fixed price contract, with a value of USD 48.36 million, for the operation and maintenance of four U.S. Government-owned Transportation Auxiliary General Submarine Escort (T-ASGE) vessels. The contract incorporates a six-month base period with a further six-month option. The vessels in question are the USNS Arrowhead, USNS Black Powder, USNS Eagleview and USNS Westwind. All four were originally built as 250EDF-class PSVs for Hornbeck but were later acquired by the U.S. Government for the purpose of escorting Navy submarines. They were originally known as the HOS Arrowhead, HOS Black Powder, HOS Eagleview and HOS Westwind. All four vessels were built by Leevac Shipyards and delivered in 2008 and 2009. The four units will be operating out of the Kings Bay Naval Submarine Base in Camden County, Georgia, and the Kitsap Naval Base in Bangor,|
-|Grampian Talisman (c/o H. Harrison) 8|Island Challenger (c/o G. Saunders)|Cromarty Sentinel (c/o P. Gowen)|Washington. 9|
+## MULTI-YEAR CONTRACT FOR CAPITAL PSV
 
-||North Sea OSV Utilisation & Rates||||NORTH SEA AVERAGE RATES FEBRUARY 2025 AVERAGE RATE AVERAGE RATE CATEGORY % CHANGE MINIMUM MAXIMUM FEB 2025 FEB 2024 SUPPLY DUTIES PSVS < 900M² £6,431 £13,432 -52.12% £4,000 £14,611|
-|---|---|---|---|---|---|
-||FEBRUARY 2025 - DAILY NORTH SEA OSV AVAILABILITY PSV 2025 PSV 2024 AHTS 2025 AHTS 2024 20 18 16 14 12 10 8 6 4 2 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29||||SUPPLY DUTIES PSVS > 900M² £8,494 £10,967 -22.55% £5,500 £14,255 AHTS DUTIES AHTS < 22,000 BHP £17,999 £48,559 -62.93% £9,976 £45,000 AHTS DUTIES AHTS > 22,000 BHP £26,428 £53,962 -51.02% £10,691 £49,891 ARRIVALS NORTH SEA SPOT * ENERGY SWAN EX MEDITERRANEAN HORIZON ARCTIC EX PORTUGAL DEPARTURES NORTH SEA SPOT *|
-|February 2025 Seabreeze 10|NORTH SEA SPOT AVERAGE UTILISATION FEBRUARY 2025 TYPE FEB 2025 JAN 2025 DEC 2024 NOV 2024 OCT 2024 SEP 2024 MED PSV (<900m²) 59% 57% 70% 63% 58% 72% LARGE PSV (>900m²) 71% 69% 73% 60% 52% 82% MED AHTS (<22,000 bhp) 41% 33% 44% 33% 36% 47% LARGE AHTS (>22,000 bhp) 51% 64% 45% 45% 39% 55%||||BOURBON MONSOON SOUTH AMERICA NORMAND FERKING SOUTH AMERICA SARTOR BLACK SEA SKANDI LASER SPAIN *Vessels arriving in or departing from the North Sea term/layup market are not included here. 11|
+Capital Offshore has secured a long-term contract for the **Ace Supplier PSV**. The vessel has been fixed up to TenneT for a five-year firm charter with three further one-year options available. Operations are scheduled to commence in April, with the vessel providing support to offshore wind farm activity in German waters. The **Ace Supplier** is currently plying her trade on the North Sea spot market.
 
-# North Sea Average
+The **Ace Supplier** is an 18 year-old PSV that operates under the management of Aurora Offshore. Built to the ST-216L CD design, the vessel has a length of 93.4m, deck area of 1,060m² and an accommodation capacity for 28 persons.
 
-£60,000 **AHTS < 22,000 bhp** £50,000
+## GOLDEN ENERGY SECURES PSV CONTRACT EXTENSIONS
 
-# Spot Rates
+Golden Energy Offshore is continuing to add to its contract backlog, with charter extensions secured for two of its PSVs in recent days. In Spain, Repsol has extended its charter with the **Energy Duchess** for six more months; the 2019-built vessel is now firmly committed until September 2025 with a six-month option outstanding.
 
-£40,000
+In the UK, TotalEnergies has extended its contract with the Energy Passion for an additional year until March 2026 with a further one-year option available. Golden Energy is also thought to be close to finalising a new contractual commitment for another of its UK-based PSVs in the near future.
 
-£30,000
+Ace Supplier
+*Ace Supplier (c/o G. Saunders)*
 
-£20,000
+Energy Duchess
+*Energy Duchess (c/o P. Gowen)*
 
-£10,000
+USNS Black Powder (c/o B. Hezlep)
 
-£- Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2024 £21,777 £48,559 £51,813 £35,198 £32,032 £48,060 £52,140 £39,324 £30,028 £19,442 £24,791 £21,023 2025 £28,169 £17,999 £-£-£-£-£-£-£-£-£-£-
+# N-SEA CHARTERS PSV FOR BOULDER CLEARANCE WORK
 
-£20,000
+**FS Aries (c/o Capt J. Plug)**
 
-**PSVs < 900m²**
+The Fletcher Group has secured a term North Sea charter for the FS Aries with N-Sea. The PSV has been awarded a six-month firm contract with commencement scheduled for March/April 2025; further options are available beyond the end of the six-month firm period. The vessel has been chartered by N-Sea to support boulder clearance operations. This is the first term charter that the Fletcher Group has secured for the vessel. She has been working on the North Sea spot market in recent months.
 
-£15,000
+The FS Aries, previously known as the GMS Legend, is a 2008-built PSV that joined the Fletcher fleet last year. Built to the VS 470 MkII design, the FS Aries has a length of 73.4m, deck area of 700m² and an accommodation capacity for 34 persons.
 
-£10,000 £70,000 **AHTS > 22,000 bhp** £60,000
+# SPIRIT RETAINS TALISMAN FOR ANOTHER YEAR
 
-£5,000 £50,000
+Spirit Energy has extended its contract with multirole vessel Grampian Talisman in the UK market for at least another year. The North Star Shipping MRV is now committed until the first quarter of 2026. She is currently working for Spirit in the Irish Sea.
 
-£40,000
+The Grampian Talisman is a DP2 PSV, built to the IMT 978 design in 2007, that is further outfitted as a Group B ERRV. She has a length of 78.2m, breadth of 17.0m and a deck area of 790m². With regards to her multifunction capabilities, the vessel is outfitted with a 15-man Avon FRC/FRB and a pair of Delta Phantom daughter craft.
 
-£30,000
+Grampian Talisman (c/o H. Harrison)
 
-|£-|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2024|£9,028|£13,432|£6,349|£12,758|£15,948|£15,926|£13,826|£8,317|£16,953|£6,806|£4,643|£7,306|
-|2025|£5,770|£6,431|£-|£-|£-|£-|£-|£-|£-|£-|£-|£-|
+# ISLAND CHALLENGER CONTINUES WITH ITHACA
 
-£20,000
+Another contract extension that has been finalised in the UK sector recently has seen an additional year added to the Island Challenger's contract with Ithaca Energy. The 2007-built PSV is now firmly committed until the first quarter of 2026. She has been working for Ithaca Energy since the fourth quarter of 2022, primarily providing support at the Alba field in the Central North Sea.
 
-£10,000
+Built to the UT 776E design, the Island Challenger has a length of 93.0m, breadth of 20.0m and a deck area of 1,008m². She has an accommodation capacity for 25 persons.
 
-£- Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2024 £27,593 £53,962 £45,681 £33,784 £38,361 £64,179 £57,014 £42,694 £38,638 £18,251 £26,287 £29,848 2025 £28,294 £26,428 £-£-£-£-£-£-£-£-£-£-
+Island Challenger (c/o G. Saunders)
 
-£20,000
+# OSV Market Round-Up
 
-**PSVs > 900m²**
+## MULTI-YEAR CONTRACT EXTENSION FOR CROMARTY
 
-£15,000 £45,000 **Average Spot Day Rates To Month (February 2025)** £40,000 £10,000 £35,000 £30,000 £5,000 £25,000 £20,000 **February 2025** £15,000
+Sentinel Marine has secured a multi-year contract extension with INEOS UK for its Cromarty Sentinel ERRV.
 
-|£-|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2024|£11,365|£10,967|£7,182|£15,311|£18,071|£19,485|£14,408|£10,129|£16,375|£7,113|£8,820|£8,926|
-|2025|£7,034|£8,494|£-|£-|£-|£-|£-|£-|£-|£-|£-|£-|
+INEOS has firmed up a three-year extension with two further one-year options available. The Cromarty Sentinel is providing support for INEOS' operations at the Breagh and Clipper South platforms in the Southern North Sea.
 
-£10,000 £5,000 £- PSVs < 900m² PSVs > 900m² AHTS < 22,000 bhp AHTS > 22,000 bhp £11,340 £11,189 £35,630 £40,777 £6,059 £7,747 £24,008 £27,418 **Seabreeze**
+The Cromarty Sentinel is a 2022-built multi-role Group B ERRV. The DP2 vessel is equipped with Class 1 FiFi equipment and has extensive oil recovery capabilities.
+
+Cromarty Sentinel (c/o P. Gowen)
+
+## HORNBECK AWARDED U.S. NAVY CONTRACT
+
+In North America, Hornbeck Offshore has been awarded a fixed price contract, with a value of USD 48.36 million, for the operation and maintenance of four U.S. Government-owned Transportation Auxiliary General Submarine Escort (T-ASGE) vessels.
+
+The contract incorporates a six-month base period with a further six-month option.
+
+The vessels in question are the USNS Arrowhead, USNS Black Powder, USNS Eagleview and USNS Westwind. All four were originally built as 250EDF-class PSVs for Hornbeck but were later acquired by the U.S. Government for the purpose of escorting Navy submarines. They were originally known as the HOS Arrowhead, HOS Black Powder, HOS Eagleview and HOS Westwind.
+
+All four vessels were built by Leevac Shipyards and delivered in 2008 and 2009.
+
+The four units will be operating out of the Kings Bay Naval Submarine Base in Camden County, Georgia, and the Kitsap Naval Base in Bangor, Washington.
+
+# North Sea OSV Utilisation & Rates
+
+## FEBRUARY 2025 - DAILY NORTH SEA OSV AVAILABILITY
+
+| Date | PSV 2025 | PSV 2024 | AHTS 2025 | AHTS 2024 |
+| ---- | -------- | -------- | --------- | --------- |
+| 1    | 9        | 10       | 10        | 7         |
+| 2    | 9        | 13       | 11        | 5         |
+| 3    | 9        | 12       | 15        | 6         |
+| 4    | 9        | 11       | 16        | 10        |
+| 5    | 9        | 10       | 16        | 11        |
+| 6    | 3        | 8        | 16        | 11        |
+| 7    | 5        | 7        | 14        | 5         |
+| 8    | 5        | 5        | 14        | 4         |
+| 9    | 5        | 5        | 13        | 5         |
+| 10   | 5        | 6        | 13        | 5         |
+| 11   | 6        | 6        | 13        | 5         |
+| 12   | 12       | 5        | 13        | 5         |
+| 13   | 13       | 3        | 17        | 1         |
+| 14   | 12       | 6        | 13        | 5         |
+| 15   | 12       | 5        | 12        | 5         |
+| 16   | 12       | 5        | 12        | 5         |
+| 17   | 5        | 5        | 13        | 5         |
+| 18   | 10       | 8        | 17        | 12        |
+| 19   | 10       | 13       | 18        | 12        |
+| 20   | 13       | 16       | 16        | 16        |
+| 21   | 13       | 17       | 12        | 16        |
+| 22   | 14       | 17       | 10        | 16        |
+| 23   | 14       | 16       | 8         | 16        |
+| 24   | 14       | 17       | 8         | 10        |
+| 25   | 14       | 18       | 8         | 10        |
+| 26   | 14       | 18       | 9         | 10        |
+| 27   | 14       | 17       | 9         | 10        |
+| 28   | 14       | 17       | 9         | 11        |
+| 29   | 12       | 12       | 9         | 10        |
+
+## NORTH SEA SPOT AVERAGE UTILISATION FEBRUARY 2025
+
+| TYPE                     | FEB 2025 | JAN 2025 | DEC 2024 | NOV 2024 | OCT 2024 | SEP 2024 |
+| ------------------------ | -------- | -------- | -------- | -------- | -------- | -------- |
+| MED PSV (<900m²)         | 59%      | 57%      | 70%      | 63%      | 58%      | 72%      |
+| LARGE PSV (>900m²)       | 71%      | 69%      | 73%      | 60%      | 52%      | 82%      |
+| MED AHTS (<22,000 bhp)   | 41%      | 33%      | 44%      | 33%      | 36%      | 47%      |
+| LARGE AHTS (>22,000 bhp) | 51%      | 64%      | 45%      | 45%      | 39%      | 55%      |
+
+## NORTH SEA AVERAGE RATES FEBRUARY 2025
+
+| CATEGORY                      | AVERAGE RATE FEB 2025 | AVERAGE RATE FEB 2024 | % CHANGE | MINIMUM | MAXIMUM |
+| ----------------------------- | --------------------- | --------------------- | -------- | ------- | ------- |
+| SUPPLY DUTIES PSVs < 900M²    | £6,431                | £13,432               | -52.12%  | £4,000  | £14,611 |
+| SUPPLY DUTIES PSVs > 900M²    | £8,494                | £10,967               | -22.55%  | £5,500  | £14,255 |
+| AHTS DUTIES AHTS < 22,000 BHP | £17,999               | £48,559               | -62.93%  | £9,976  | £45,000 |
+| AHTS DUTIES AHTS > 22,000 BHP | £26,428               | £53,962               | -51.02%  | £10,691 | £49,891 |
+
+## ARRIVALS NORTH SEA SPOT *
+
+|                |                  |
+| -------------- | ---------------- |
+| ENERGY SWAN    | EX MEDITERRANEAN |
+| HORIZON ARCTIC | EX PORTUGAL      |
+
+## DEPARTURES NORTH SEA SPOT *
+
+|                 |               |
+| --------------- | ------------- |
+| BOURBON MONSOON | SOUTH AMERICA |
+| NORMAND FERKING | SOUTH AMERICA |
+| SARTOR          | BLACK SEA     |
+| SKANDI LASER    | SPAIN         |
+
+# North Sea Average Spot Rates
+
+## Table 1: PSVs < 900m²
+
+| Month | 2024    | 2025   |
+| ----- | ------- | ------ |
+| Jan   | £9,028  | £5,770 |
+| Feb   | £13,432 | £6,431 |
+| Mar   | £6,349  | £-     |
+| Apr   | £12,758 | £-     |
+| May   | £15,948 | £-     |
+| Jun   | £15,926 | £-     |
+| Jul   | £13,826 | £-     |
+| Aug   | £8,317  | £-     |
+| Sep   | £16,953 | £-     |
+| Oct   | £6,806  | £-     |
+| Nov   | £4,643  | £-     |
+| Dec   | £7,306  | £-     |
+
+## Table 2: AHTS < 22,000 bhp
+
+| Month | 2024    | 2025    |
+| ----- | ------- | ------- |
+| Jan   | £21,777 | £28,169 |
+| Feb   | £48,559 | £17,999 |
+| Mar   | £51,813 | £-      |
+| Apr   | £35,198 | £-      |
+| May   | £32,032 | £-      |
+| Jun   | £48,060 | £-      |
+| Jul   | £52,140 | £-      |
+| Aug   | £39,324 | £-      |
+| Sep   | £30,028 | £-      |
+| Oct   | £19,442 | £-      |
+| Nov   | £24,791 | £-      |
+| Dec   | £21,023 | £-      |
+
+## Table 3: AHTS > 22,000 bhp
+
+| Month | 2024    | 2025    |
+| ----- | ------- | ------- |
+| Jan   | £27,593 | £28,294 |
+| Feb   | £53,962 | £26,428 |
+| Mar   | £45,681 | £-      |
+| Apr   | £33,784 | £-      |
+| May   | £38,361 | £-      |
+| Jun   | £64,179 | £-      |
+| Jul   | £57,014 | £-      |
+| Aug   | £42,694 | £-      |
+| Sep   | £38,638 | £-      |
+| Oct   | £18,251 | £-      |
+| Nov   | £26,287 | £-      |
+| Dec   | £29,848 | £-      |
+
+## Table 4: PSVs > 900m²
+
+| Month | 2024    | 2025   |
+| ----- | ------- | ------ |
+| Jan   | £11,365 | £7,034 |
+| Feb   | £10,967 | £8,494 |
+| Mar   | £7,182  | £-     |
+| Apr   | £15,311 | £-     |
+| May   | £18,071 | £-     |
+| Jun   | £19,485 | £-     |
+| Jul   | £14,408 | £-     |
+| Aug   | £10,129 | £-     |
+| Sep   | £16,375 | £-     |
+| Oct   | £7,113  | £-     |
+| Nov   | £8,820  | £-     |
+| Dec   | £8,926  | £-     |
+
+## Table 5: Average Spot Day Rates To Month (February 2025)
+
+| Category          | 2024    | 2025    |
+| ----------------- | ------- | ------- |
+| PSVs < 900m²      | £11,340 | £6,059  |
+| PSVs > 900m²      | £11,189 | £7,747  |
+| AHTS < 22,000 bhp | £35,630 | £24,008 |
+| AHTS > 22,000 bhp | £40,777 | £27,418 |
 
 # Feature vessel
 
-#### MONNA LISA
+## MONNA LISA
 
-Following completion of its sea trials the cable lay vessel Monna Lisa has joined Prysmian’s fleet.
+Following completion of its sea trials the cable lay vessel Monna Lisa has joined Prysmian's fleet.
 
-The hull of the 171-metre-long newbuild was constructed at the Vard Tulcea yard in Romania and outfitted at Vard’s Søviknes yard in Norway. The DP3 vessel is equipped with two carousels with 10,000t and 7,000t load capacity, 100t AHC crane, 20t offshore crane, 85t A-Frame, two enclosed hangers for work-class ROVs and accommodation for 120 beds.
+The hull of the 171-metre-long newbuild was constructed at the Vard Tulcea yard in Romania and outfitted at Vard's Søviknes yard in Norway. The DP3 vessel is equipped with two carousels with 10,000t and 7,000t load capacity, 100t AHC crane, 20t offshore crane, 85t A-Frame, two enclosed hangers for work-class ROVs and accommodation for 120 beds.
 
 Its maiden assignment will be on the USD 5 billion Eastern Green Link 2 (EGL2) project, a joint venture between SSEN Transmission and National Grid, said to be the longest HVDC cable connection ever built in Great Britain.
 
 The Monna Lisa also features a 3 MWh battery energy storage system and diesel generators ready for biodiesel blends. Prysmian has a further two CLVs under construction, the Prysmian Marco Polo is due to be delivered this year while the Prysmian Alessandro Volta is expected to join the fleet in 2026.
 
-The addition of Monna Lisa has expanded Prysmian’s installation fleet to six cable-laying vessels.
+The addition of Monna Lisa has expanded Prysmian's installation fleet to six cable-laying vessels.
 
-**Owner:** Prysmian offshore crane **Manager:** Prysmian **Carousel:** 10,000t and 7,000t **Yard:** Vard Søviknes carousels **Year Built:** 2025 **Accommodation:** 120 persons **Length:** 171m **Propulsion:** 3 x Aft 3 MWh **Breadth:** 34m batteries, 3 x Forward 2.4 MWh **February 2025** **Dynamic Position:** Class 3 retractable azimuth thrusters & 2 x persons 2.5 MWh bow tunnel thrusters **Crane:** 100t AHC crane & 20t
+| **Owner:** Prysmian                   | offshore crane                                                                                                                |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Manager:** Prysmian                 | **Carousel:** 10,000t and 7,000t carousels                                                                                    |
+| **Yard:** Vard Søviknes               | **Accommodation:** 120 persons                                                                                                |
+| **Year Built:** 2025                  | **Propulsion:** 3 x Aft 3 MWh batteries, 3 x Forward 2.4 MWh retractable azimuth thrusters & 2 x 2.5 MWh bow tunnel thrusters |
+| **Length:** 171m                      |                                                                                                                               |
+| **Breadth:** 34m                      |                                                                                                                               |
+| **Dynamic Position:** Class 3 persons |                                                                                                                               |
+| **Crane:** 100t AHC crane & 20t       |                                                                                                                               |
 
-**Seabreeze**
+[signature]
 
-*Ulstein render of the U-Stern design*
+Ulstein render of the U-Stern design
 
 # Newbuilds, Conversions, S&P
 
-#### ASTRO SEGIN ARRIVES IN UAE
+## ASTRO SEGIN ARRIVES IN UAE
 
 Having acquired the Astro Segin AHTS vessel from Fujian Funing Shipping in January, Astro Offshore has already mobilised the 2021-built vessel from China to the Middle East. The vessel completed her mobilisation to the United Arab Emirates in early March. Previously known as the Dong Nan 17, the Astro Segin was built to the DN59M design at the Fujian Southeast Shipyard in China. Prior to this relocation, the 59m vessel had been based in China since her delivery.
 
-|||Keyfield Offshore has relocated its latest|Raj Shipping has acquired the 2009-built PSV|
-|---|---|---|---|
-|||purchase, the Keyfield Gratitude, from China to Indonesia. Previously known as the Zhong Shang 1, the DP2 PSV was acquired by Keyfield in January for a consideration of USD 17.6 million. The seller was a private limited company|Ocean Amethyst from Samson Maritime. The DP2 vessel has been renamed as the Offshore Symphony. The 70m vessel was built at Jingjiang Nanyang|
-|Five of ten sister AHTS vessels that are being|The POSH Raptor has been acquired by ADNOC|incorporated in Hong Kong, where the sole|Shipbuilding in China but has spent nearly all of|
-|built for Rawabi Vallianz Offshore have now|Logistics & Services from POSH Semco. The|director and shareholder was a Mr He Hui.|her time in service working in India apart from|
-|arrived in the Middle East. The Rawabi, 209, 210,|2016-built AHTS vessel has been renamed as||a brief period circa 2022-2023 when she was|
-|211, 215 and 218 are all now located in Bahrain.|the ADNOC A12 and reflagged from Singapore|Delivered in 2019 from the Fujian Southeast|based in the Middle East.|
-|The remaining five vessels (Rawabi 212, 213,|to the United Arab Emirates. Built at the|Shipyard in China, the Keyfield Gratitude has||
-|214, 216 and 217) are all expected to follow|PaxOcean Engineering Shipyard in Zhuhai,|a length of 78.5m, a deck area of 750m² and|The Offshore Symphony/Ocean Amethyst is|
-|in the near future. This is a series of ten 64m|China, the vessel was relocated to the Middle|an accommodation capacity for 59 passengers|currently berthed at Angre port on the west|
-|diesel-electric shallow-draft AHTS vessels that|East shortly after her delivery, and has remained|including crew members. Keyfield Offshore|coast of India; she has been idle since mid-2024|
-|are being built for Rawabi Vallianz at various|in the region ever since. The ADNOC A12 is a|is applying to Jabatan Laut Malaysia to|following the completion of her most recent|
-|shipyards in Asia.|70m vessel with a bollard pull of 106t.|permanently reflag the vessel to Malaysia.|charter with ONGC.|
+## FIFTH NEWBUILD AHTS VESSEL ARRIVES IN BAHRAIN
 
-#### FIFTH NEWBUILD AHTS ADNOC ACQUIRES ANOTHER VESSEL ARRIVES IN BAHRAIN AHTS VESSEL
+Five of ten sister AHTS vessels that are being built for Rawabi Vallianz Offshore have now arrived in the Middle East. The Rawabi, 209, 210, 211, 215 and 218 are all now located in Bahrain. The remaining five vessels (Rawabi 212, 213, 214, 216 and 217) are all expected to follow in the near future. This is a series of ten 64m diesel-electric shallow-draft AHTS vessels that are being built for Rawabi Vallianz at various shipyards in Asia.
 
-#### CDB FL ADDS TO PSV ORDERBOOK IN CHINA
+Rawabi 210
+*Rawabi 210 (c/o Rawabi Vallianz Holdings)*
+
+## ADNOC ACQUIRES ANOTHER AHTS VESSEL
+
+The POSH Raptor has been acquired by ADNOC Logistics & Services from POSH Semco. The 2016-built AHTS vessel has been renamed as the ADNOC A12 and reflagged from Singapore to the United Arab Emirates. Built at the PaxOcean Engineering Shipyard in Zhuhai, China, the vessel was relocated to the Middle East shortly after her delivery, and has remained in the region ever since. The ADNOC A12 is a 70m vessel with a bollard pull of 106t.
+
+POSH Raptor/ADNOC A11
+*POSH Raptor/ADNOC A11 (c/o I. Dzhamaev)*
+
+## CDB FL ADDS TO PSV ORDERBOOK IN CHINA
+
+**CDB FL ADDS TO PSV ORDERBOOK IN CHINA**
 
 Jiangsu Rainbow Heavy Industries has confirmed that its subsidiary, Nantong Rainbow Offshore & Engineering Equipment, has secured an order to build another pair of PSVs to the SPP40 design for CDB Financial Leasing (CDB FL). That raises the total number of orders at the yard for CDB FL to four vessels. According to local reports, CDB FL actually has eight newbuild PSVs on order, all of the SPP40 design, with four to be built at Nantong Rainbow and four to be built at CIMC Sinopacific Offshore & Engineering. The total build cost has been pegged at no more than USD 240 million. The eight vessels will have a length of 81.75m, breadth of 17.4m and a deadweight of 4,000 tons; they will be equipped with a replaceable containerised battery system.
 
-#### LATEST KEYFIELD PURCHASE SAMSON PSV ACQUIRED BY ARRIVES IN INDONESIA RAJ SHIPPING
+## LATEST KEYFIELD PURCHASE ARRIVES IN INDONESIA
 
-*Rawabi 210 (c/o Rawabi Vallianz Holdings) POSH Raptor/ADNOC A11 (c/o I. Dzhamaev)* *Keyfield Gratitude (c/o Keyfield Offshore) Ocean Amethyst/Offshore Symphony (c/o D. Stommen)*
+Keyfield Offshore has relocated its latest purchase, the Keyfield Gratitude, from China to Indonesia. Previously known as the Zhong Shang 1, the DP2 PSV was acquired by Keyfield in January for a consideration of USD 17.6 million. The seller was a private limited company incorporated in Hong Kong, where the sole director and shareholder was a Mr He Hui.
 
-#### ENI RETAINS WELL-SAFE
+Delivered in 2019 from the Fujian Southeast Shipyard in China, the Keyfield Gratitude has a length of 78.5m, a deck area of 750m² and an accommodation capacity for 59 passengers including crew members. Keyfield Offshore is applying to Jabatan Laut Malaysia to permanently reflag the vessel to Malaysia.
 
-Eni has extended Well-Safe Solutions’ Eni has extended Well-Safe Solutions’ contract to utilise the jackup Well-Safe contract to utilise the jackup Well-Safe Protector, covering work to decommission Protector, covering work to decommission selected subsea and platform wells in the selected subsea and platform wells in the Dutch sector of the North Sea. Dutch sector of the North Sea.
+Keyfield Gratitude
+*Keyfield Gratitude (c/o Keyfield Offshore)*
 
-Eni recently exercised a second 90-day Eni recently exercised a second 90-day option for the rig under a newly agreed option for the rig under a newly agreed contract amendment. This will be executed contract amendment. This will be executed
+## SAMSON PSV ACQUIRED BY RAJ SHIPPING
 
-# Subseain direct continuation with the previously in direct continuation with the previously
+Raj Shipping has acquired the 2009-built PSV Ocean Amethyst from Samson Maritime. The DP2 vessel has been renamed as the Offshore Symphony.
 
-declared option which commenced in declared option which commenced in November 2024. Following this work with November 2024. Following this work with Eni, Well-Safe Protector will move directly Eni, Well-Safe Protector will move directly onto a five-well plug-and-abandonment (P&A) onto a five-well plug-and-abandonment (P&A) contract with Spirit Energy in the UK sector. contract with Spirit Energy in the UK sector. These programs will see the rig committed These programs will see the rig committed
+The 70m vessel was built at Jingjiang Nanyang Shipbuilding in China but has spent nearly all of her time in service working in India apart from a brief period circa 2022-2023 when she was based in the Middle East.
 
-#### SECOND NSK 6480 DESIGNED CSV ORDERED
+The Offshore Symphony/Ocean Amethyst is currently berthed at Angre port on the west coast of India; she has been idle since mid-2024 following the completion of her most recent charter with ONGC.
 
-until at least August 2025. Eni will also have until at least August 2025. Eni will also have the option for an additional 120 days of work the option for an additional 120 days of work At the end of 2023 Reach signed a contract to charter Agalas/Ediesvik’s low-to decommission platform wells immediately to decommission platform wells immediately after the Spirit Energy work, along with two after the Spirit Energy work, along with two emission NSK 6480 designed CSV newbuild, which is due to be delivered from the further options at 180 days each. These further options at 180 days each. These Sefine Shipyard during the second quarter of 2026 for three years firm plus two options could keep the rig committed until options could keep the rig committed until years of options. fourth quarter 2026. fourth quarter 2026.
+Ocean Amethyst/Offshore Symphony
+*Ocean Amethyst/Offshore Symphony (c/o D. Stommen)*
 
-|In February this year Reach has entered a|It will also be fitted with a battery hybrid|||
-|---|---|---|---|
-|newbuild contract with Eidesvik and Agalas|system alongside dual-fuel generator sets|||
-|to equally own the sister vessel to the Viking|capable of operating on either methanol|||
-|Vigor. This newbuild, which will have a length|or marine gas oil (MGO), as well as being|||
-|of 99.9 meters, a 21-metre beam, 150-tonne heave-compensated crane, 900m² deck|equipped with an ROV and a LARS system.|||
-|and accommodation for 100 persons, will be|The newbuild will be targeted for both the|||
-|delivered from the Sefine shipyard during|oil & gas sector and the offshore renewables|Olympic has signed an agreement to build|Agreement by a significant margin.|
-|the second quarter of 2027 and Reach will|industries.|two UT7623 SEV (Sustainable Energy Vessel)|The project will generate contracts worth|
-|charter the vessel for five years firm plus two||designed CSVs at the CMHI shipyard in|around NOK 1 billion for Norwegian businesses,|
-|one-year options.||Shenzhen. Kongsberg Maritime has designed the vessel in close collaboration with Olympic and delivery is scheduled for the summer of 2027. The design exceeds the requirements of the Paris|including NOK 700 million for the maritime cluster in Northwestern Norway. The newbuilds will be targeted for both the oil & gas sector and the offshore renewables industries.|
+# Subsea
 
-#### OLYMPIC ORDERS TWO SEV VESSELS WITH CMHI SHIPYARD
+## SECOND NSK 6480 DESIGNED CSV ORDERED
 
-**February 2025 February 2025**
+At the end of 2023 Reach signed a contract to charter Agalas/Ediesvik's low-emission NSK 6480 designed CSV newbuild, which is due to be delivered from the Sefine Shipyard during the second quarter of 2026 for three years firm plus two years of options.
 
-**Seabreeze Seabreeze**
+In February this year Reach has entered a newbuild contract with Eidesvik and Agalas to equally own the sister vessel to the Viking Vigor. This newbuild, which will have a length of 99.9 meters, a 21-metre beam, 150-tonne heave-compensated crane, 900m² deck and accommodation for 100 persons, will be delivered from the Sefine shipyard during the second quarter of 2027 and Reach will charter the vessel for five years firm plus two one-year options.
 
-#### NORTH SEA GIANT TO REMAIN WITH OCEAN INSTALLER
+It will also be fitted with a battery hybrid system alongside dual-fuel generator sets capable of operating on either methanol or marine gas oil (MGO), as well as being equipped with an ROV and a LARS system.
+
+The newbuild will be targeted for both the oil & gas sector and the offshore renewables industries.
+
+## ENI RETAINS WELL-SAFE
+
+Eni has extended Well-Safe Solutions' contract to utilise the jackup Well-Safe Protector, covering work to decommission selected subsea and platform wells in the Dutch sector of the North Sea.
+
+Eni recently exercised a second 90-day option for the rig under a newly agreed contract amendment. This will be executed in direct continuation with the previously declared option which commenced in November 2024. Following this work with Eni, Well-Safe Protector will move directly onto a five-well plug-and-abandonment (P&A) contract with Spirit Energy in the UK sector. These programs will see the rig committed until at least August 2025. Eni will also have the option for an additional 120 days of work to decommission platform wells immediately after the Spirit Energy work, along with two further options at 180 days each. These options could keep the rig committed until fourth quarter 2026.
+
+## OLYMPIC ORDERS TWO SEV VESSELS WITH CMHI SHIPYARD
+
+Olympic has signed an agreement to build two UT7623 SEV (Sustainable Energy Vessel) designed CSVs at the CMHI shipyard in Shenzhen.
+
+Kongsberg Maritime has designed the vessel in close collaboration with Olympic and delivery is scheduled for the summer of 2027. The design exceeds the requirements of the Paris Agreement by a significant margin. The project will generate contracts worth around NOK 1 billion for Norwegian businesses, including NOK 700 million for the maritime cluster in Northwestern Norway.
+
+The newbuilds will be targeted for both the oil & gas sector and the offshore renewables industries.
+
+# NORTH SEA GIANT TO REMAIN WITH OCEAN INSTALLER
+
+Ocean Installer has extended its charter agreement with North Sea Shipping for the 2011-built multi-purpose offshore construction vessel North Sea Giant for an additional 18 months, keeping it firm until the end of the first quarter of 2027.
+
+Ocean Installer also have additional options that could retain the services of the vessel, which is equipped with a 150t vertical lay spread system, 400t active heave-compensated crane, two work-class ROVs and accommodation for 120 persons, until the end of 2029.
+
+Ocean Installer has confirmed that the 154-metre-long vessel, which is equipped with a hybrid battery system and has a fuel-efficient power and propulsion system, will work on secured work and new prospects in both the North Sea and international waters.
+
+## PROSAFE SELLS 2005-BUILT SEMI
+
+Prosafe has agreed to sell its 2005-built accommodation semi-submersible vessel Safe Concordia for a gross price of USD 5 million to an undisclosed buyer.
+
+The delivery of the vessel is expected to take place between March and June 2025, following the completion of its current charter obligations. The sale is contingent upon customary closing conditions and requirements. The Safe Concordia, which has accommodation for 461 persons, is currently operating on Chevron's Blind Faith project in the US Gulf of Mexico.
+
+## SEAMEC SWORDFISH SECURES 730-DAY CHARTER
+
+Safeen Al Behar Limited Company has entered a contract with Seamec to charter the 2007-built MT 6016 L designed DSV Seamec Swordfish for a firm period of 730 days, with additional options, for work offshore Saudi Arabia and the United Arab Emirates.
+
+The DSV, which is equipped with a 150t crane, 15-man SAT dive system and accommodation for 100 persons, will commence the campaign between March 1 and March 30. The firm period has a value of USD 57.40 million.
 
 # Renewables
 
-#### WINDWARD ATHENS LAUNCHED
+## WINDWARD ATHENS LAUNCHED
 
-Ocean Installer has extended its charter agreement class ROVs and accommodation for 120 persons, with North Sea Shipping for the 2011-built multi-until the end of 2029. purpose offshore construction vessel North Sea Giant for an additional 18 months, keeping it firm Ocean Installer has confirmed that the 154-metre- until the end of the first quarter of 2027. long vessel, which is equipped with a hybrid battery system and has a fuel-efficient power and Ocean Installer also have additional options that propulsion system, will work on secured work could retain the services of the vessel, which is and new prospects in both the North Sea and **Windward Offshore has launched the first of its four newbuild Vard 4** equipped with a 150t vertical lay spread system, international waters. **19-designed CSOVs from Vard’s Tulcea yard in Romania.** 400t active heave-compensated crane, two work- The Windward Athens is scheduled to be be carried out by one of Vard’s shipyards delivered during the third quarter of this in Norway. The other two hulls will be SEAMEC SWORDFISHyear and the subsequent vessels to be delivered from Vard’s shipyard in Vietnam. PROSAFE SELLS 2005-BUILT delivered throughout 2026.
+**Windward Offshore has launched the first of its four newbuild Vard 4 19-designed CSOVs from Vard's Tulcea yard in Romania.**
 
-#### SEMI SECURES 730-DAY CHARTER
+The Windward Athens is scheduled to be delivered during the third quarter of this year and the subsequent vessels to be delivered throughout 2026.
 
-They will be equipped with an electrical
+All four vessels are designed by Vard Design in Ålesund, Norway. The hulls of two of the newbuilds will be built in Vard's shipyards in Romania, while the final outfitting, commissioning, and delivery will be carried out by one of Vard's shipyards in Norway. The other two hulls will be delivered from Vard's shipyard in Vietnam.
 
-|Prosafe has agreed to sell its 2005-built|Safeen Al Behar Limited Company has entered|All four vessels are designed by Vard|driven, motion compensated gangway,|
-|---|---|---|---|
-|accommodation semi-submersible vessel Safe|a contract with Seamec to charter the 2007-built|Design in Ålesund, Norway. The hulls of|an electric 3D compensated crane, and a|
-|Concordia for a gross price of USD 5 million to an|MT 6016 L designed DSV Seamec Swordfish|two of the newbuilds will be built in Vard’s|battery-hybrid technology with Methanol-|
-|undisclosed buyer. The delivery of the vessel is expected to take place between March and June 2025, following the completion of its current charter obligations.|for a firm period of 730 days, with additional options, for work offshore Saudi Arabia and the United Arab Emirates. The DSV, which is equipped with a 150t crane,|shipyards in Romania, while the final outfitting, commissioning, and delivery will|ready engines to enable more sustainable maritime operations.|
-|The sale is contingent upon customary closing|15-man SAT dive system and accommodation|After the Norwegian government decided|would require hybrid cables that would|
-|conditions and requirements. The Safe Concordia,|for 100 persons, will commence the campaign|to cancel the tender for the fixed-bottom|connect to Norway and neighbouring|
-|which has accommodation for 461 persons, is|between March 1 and March 30. The firm period|Sørvest F offshore wind area citing|countries while only one would connect|
-|currently operating on Chevron’s Blind Faith project in the US Gulf of Mexico.|has a value of USD 57.40 million.|high grid costs. This has resulted in the|solely to the mainland but would require|
+They will be equipped with an electrical driven, motion compensated gangway, an electric 3D compensated crane, and a battery-hybrid technology with Methanol-ready engines to enable more sustainable maritime operations.
 
-#### NORWAY TO FOCUS ON FLOATING WIND
+## NORWAY TO FOCUS ON FLOATING WIND
 
-**February 2025** government switching the focus away from significant government support. fixed bottom to floating wind. The main reason for prioritising floating Sørvest F wind farm was cancelled after wind offshore wind projects is the ability to Statnett carried out a study to come up with connect to the Norwegian mainland with solutions to connect to the grid. The study single point connects. **Seabreeze** revealed that four out of the five solutions
+After the Norwegian government decided to cancel the tender for the fixed-bottom Sørvest F offshore wind area citing high grid costs. This has resulted in the government switching the focus away from fixed bottom to floating wind.
 
-#### CADELER SECURES SECOND GRAND CANYON III AWARDED U.S. CONTRACT TRENCHING CONTRACT
+Sørvest F wind farm was cancelled after Statnett carried out a study to come up with solutions to connect to the grid. The study revealed that four out of the five solutions would require hybrid cables that would connect to Norway and neighbouring countries while only one would connect solely to the mainland but would require significant government support.
 
-An undisclosed client has awarded Cadeler a firm Seaway7 has awarded Helix Robotics Solutions contract for work at an offshore wind project in the a contract for the trenching of the inter-array US with a contract value between EUR 67 million cables on Ørsted’s 2.9 GW Hornsea Three and EUR 75 million. project offshore the UK.
+The main reason for prioritising floating wind offshore wind projects is the ability to connect to the Norwegian mainland with single point connects.
 
-Cadeler will utilise the second P-class newbuild Helix will utilise the ST259-CD designed Grand SALT TO DESIGN AND ZMPC TO BUILD LDA NEWBUILDSvessel, Wind Pace, on the campaign upon delivery Canyon III CSV on the campaign. It is fitted with from the COSCO Qidong yard. The contract will the T1500 jet trencher, the i-Trencher trenching Louis Dreyfus Armateurs (LDA) has selected Salt operational by the end of 2027 and will service commence during the second quarter of 2025 and system, a work-class remotely operated vehicle Ship Design as the naval architect and ZPMC the Nordlicht 1 and 2 wind farms, with a capacity will be committed until the first quarter of 2026. and associated survey services for the project. as the shipbuilder for the three new service of 980 MW and 630 MW, respectively. The third, operation vessels (SOVs) for which LDA recently optional SOV, is intended for future projects in The Wind Pace is the sister vessel to the Wind The 2016-built Grand Canyon III, which is signed contracts with Vattenfall to support their the North Sea. Peak, which was delivered from the COSCO equipped with a 250t crane and accommodation windfarms in the German North Sea. Shipping Heavy Industry shipyard in August 2024. for 104 persons, will bury 192 inter-array cables, The 90m-long newbuilds will feature a They both feature a 5,600m² deck, 17,600 tons totalling around 500 km in length. The first SOV is scheduled to be delivered mid-double-ended hull and will be equipped with and a 2,600t crane. They can transport and install 2027 to operate on the DanTysk and Sandbank an advanced gangway system, a 3D motion-seven complete 15 MW turbine sets per load or Work is due to commence during the third offshore wind farms, each with a 288 MW compensated crane and accommodation for 96 five sets of 20+ MW turbines. quarter of 2026 for around 300 days. capacity. The second newbuild will become persons.
+# SALT TO DESIGN AND ZMPC TO BUILD LDA NEWBUILDS
 
-#### BP TO CUT BACK ON RENEWABLE ENERGY INVESTMENTS
+Louis Dreyfus Armateurs (LDA) has selected Salt Ship Design as the naval architect and ZPMC as the shipbuilder for the three new service operation vessels (SOVs) for which LDA recently signed contracts with Vattenfall to support their windfarms in the German North Sea.
 
-BP has announced it will cut its renewable energy Prior to this announcement BP formally withdrew investments and instead focus on increasing oil and its application in February for the 320km-long gas production. cable and interconnection plan for its Beacon Wind project located in US federal waters. They have attributed the change in strategy
+The first SOV is scheduled to be delivered mid-2027 to operate on the DanTysk and Sandbank offshore wind farms, each with a 288 MW capacity. The second newbuild will become operational by the end of 2027 and will service the Nordlicht 1 and 2 wind farms, with a capacity of 980 MW and 630 MW, respectively. The third, optional SOV, is intended for future projects in the North Sea.
 
-|following pressure from some investors being|This followed Beacon Wind’s decision in January|||
-|---|---|---|---|
-|unhappy its profits and share price is lower than|2024 to terminate a previously awarded state|||
-|rivals who already focus on more oil and gas|contract for energy from the array. The cancellation|||
-|production.|of the deal came after partners Equinor and BP split up and divided their offshore assets. BP retained|Dominion Energy’s wind turbine installation|completed. The NG-16000X-SJ designed jackup|
-|Investment in oil and gas will be increased by 20%|control of Beacon 1 and Beacon 2 lease areas while|vessel (WTIV) Charybdis has commenced sea|has a length of 144m, breadth of 56m and is|
-|to USD 10 billion a year, while decreasing planned|Equinor gained control of the Empire Wind offshore|trials after recently completing the jacking trial|fitted with a 2,200t crane and accommodation|
-|funding for renewables by more than USD 5 billion, resulting in funding being between USD 1.5 billion|wind projects off Long Island.|and main crane load testing.|for 119 persons.|
-|and 2 billion per year.|Beacon 1 was expected to deliver 1.2 GW of power to the New York City grid.|This will be the first Jones Act-compliant wind turbine installation vessel (WTIV), built in the|It is designed to handle current and next- generation wind turbines up to 12 MW or larger.|
-|Other majors, like Shell and Equinor have also||U.S. Seatrium’s AmFELS shipyard in Brownsville,||
-|February 2025 scaled back plans for investment in green energy.||Texas.|The 2.6 GW CVOW project will feature 176|
-|BP has already placed its offshore wind business in|||Siemens Gamesa 14 MW wind turbines and will|
-|a joint venture with Japanese company Jera and is||Upon delivery it will support Dominion Energy’s|become the biggest U.S. offshore wind farm|
-|looking to find a partner to do the same with its solar||Coastal Virginia Offshore Wind (CVOW) project later this year after vessel preparation works,|once in operation.|
+The 90m-long newbuilds will feature a double-ended hull and will be equipped with an advanced gangway system, a 3D motion-compensated crane and accommodation for 96 persons.
 
-#### CHARYBDIS SEA TRIALS UNDERWAY
+# BP TO CUT BACK ON RENEWABLE ENERGY INVESTMENTS
 
-business. including grillage installation works, are **Seabreeze**
+BP has announced it will cut its renewable energy investments and instead focus on increasing oil and gas production.
 
-#### UK GOVERNMENT DELAYS RAMPION 2 DECISION
+They have attributed the change in strategy following pressure from some investors being unhappy its profits and share price is lower than rivals who already focus on more oil and gas production.
 
-The UK government has delayed the decision It was the first offshore wind farm on the south deadline regarding the proposed 1.2GW Rampion coast of England. 2 offshore wind extension project.**Rigs** If the Rampion 2 project is approved the project The original deadline date was February 6, but a could start construction in 2026 or in early 2027 new date of April 4 has now been set so the UK to meet its targeted operational start before Planning Inspectorate has more time to gather 2030. further information.
+Investment in oil and gas will be increased by 20% to USD 10 billion a year, while decreasing planned funding for renewables by more than USD 5 billion, resulting in funding being between USD 1.5 billion and 2 billion per year.
 
-|100% 90%|||||||84.3%|||83.3%||83.5%||$100 $90|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||82.6%|82.0%|78.1%|80.8%|84.1%|84.2%||81.9%|81.3%||82.3%||81.8%|$80|
-|80% 70% 60% 50% 40% 30%|72.0% 58.8% $83.76|73.5% 58.8% $85.45|77.9% 58.3% $90.05 Feb 24 Mar 24 Apr 24 May 24 Jun 24 BRENT USD / Bbl|76.7% 58.8% $83.01 South America Rig Utilisation|80.6% 57.0% $82.92|84.1% 54.3% $84.26 Jul 24|82.5% 53.4% $78.92|80.8% 54.3% $72.83|79.4% 52.2% $75.46|76.3% 49.6% $73.40 Aug 24 Sep 24 Oct 24 Nov 24 Dec 24 Jan 25 Feb 25|78.9% 48.6% $73.13 Northwest Europe Rig Utilisation US Gulf Rig Utilisation|77.6% 50.5% $78.12|78.1% 54.4% $74.84|$70 $60 $50 $40 $30 $20 $10 $0|
+Other majors, like Shell and Equinor have also scaled back plans for investment in green energy.
 
-The main issue relating to the project is the onshore cable route which goes through theOIL PRICE VS South Downs National Park between a landfall
+BP has already placed its offshore wind business in a joint venture with Japanese company Jera and is looking to find a partner to do the same with its solar business.
 
-#### CONTRACTED
+Prior to this announcement BP formally withdrew its application in February for the 320km-long cable and interconnection plan for its Beacon Wind project located in US federal waters.
 
-site near Climping and substations at Cowfold and Bolney, as well as the position of the RIG UTILISATION turbines.
+This followed Beacon Wind's decision in January 2024 to terminate a previously awarded state contract for energy from the array. The cancellation of the deal came after partners Equinor and BP split up and divided their offshore assets. BP retained control of Beacon 1 and Beacon 2 lease areas while Equinor gained control of the Empire Wind offshore wind projects off Long Island.
+
+Beacon 1 was expected to deliver 1.2 GW of power to the New York City grid.
+
+# CADELER SECURES SECOND U.S. CONTRACT
+
+An undisclosed client has awarded Cadeler a firm contract for work at an offshore wind project in the US with a contract value between EUR 67 million and EUR 75 million.
+
+Cadeler will utilise the second P-class newbuild vessel, Wind Pace, on the campaign upon delivery from the COSCO Qidong yard. The contract will commence during the second quarter of 2025 and will be committed until the first quarter of 2026.
+
+The Wind Pace is the sister vessel to the Wind Peak, which was delivered from the COSCO Shipping Heavy Industry shipyard in August 2024. They both feature a 5,600m² deck, 17,600 tons and a 2,600t crane. They can transport and install seven complete 15 MW turbine sets per load or five sets of 20+ MW turbines.
+
+# GRAND CANYON III AWARDED TRENCHING CONTRACT
+
+Seaway7 has awarded Helix Robotics Solutions a contract for the trenching of the inter-array cables on Ørsted's 2.9 GW Hornsea Three project offshore the UK.
+
+Helix will utilise the ST259-CD designed Grand Canyon III CSV on the campaign. It is fitted with the T1500 jet trencher, the i-Trencher trenching system, a work-class remotely operated vehicle and associated survey services for the project.
+
+The 2016-built Grand Canyon III, which is equipped with a 250t crane and accommodation for 104 persons, will bury 192 inter-array cables, totalling around 500 km in length.
+
+Work is due to commence during the third quarter of 2026 for around 300 days.
+
+# CHARYBDIS SEA TRIALS UNDERWAY
+
+Dominion Energy's wind turbine installation vessel (WTIV) Charybdis has commenced sea trials after recently completing the jacking trial and main crane load testing.
+
+This will be the first Jones Act-compliant wind turbine installation vessel (WTIV), built in the U.S. Seatrium's AmFELS shipyard in Brownsville, Texas.
+
+Upon delivery it will support Dominion Energy's Coastal Virginia Offshore Wind (CVOW) project later this year after vessel preparation works, including grillage installation works, are completed. The NG-16000X-SJ designed jackup has a length of 144m, breadth of 56m and is fitted with a 2,200t crane and accommodation for 119 persons.
+
+It is designed to handle current and next-generation wind turbines up to 12 MW or larger.
+
+The 2.6 GW CVOW project will feature 176 Siemens Gamesa 14 MW wind turbines and will become the biggest U.S. offshore wind farm once in operation.
+
+# UK GOVERNMENT DELAYS RAMPION 2 DECISION
+
+The UK government has delayed the decision deadline regarding the proposed 1.2GW Rampion 2 offshore wind extension project.
+
+The original deadline date was February 6, but a new date of April 4 has now been set so the UK Planning Inspectorate has more time to gather further information.
+
+The main issue relating to the project is the onshore cable route which goes through the South Downs National Park between a landfall site near Climping and substations at Cowfold and Bolney, as well as the position of the turbines.
 
 The project will feature a total of 90 turbines, and it is being developed by RWE. The already operational Rampion wind farm has a capacity of 400MW and was commissioned in April 2018.
 
-#### EQUINOR TO REDUCE INVESTMENT IN RENEWABLE ENERGY STRATEGIC ALLIANCE VANTAGE MARKETING
+It was the first offshore wind farm on the south coast of England.
 
-|Similar to BP, Equinor announced that they will|would go ahead, despite a recent court ruling|||
-|---|---|---|---|
-|reduce investment in renewable energy. Equinor will half investment over the next two years while|that consent had been awarded unlawfully.|||
-|increasing oil and gas production.|The reduction will see investment in renewables|||
-||reduced to USD 5 billion over the next two|Arabian Drilling and Shelf Drilling have|Vantage Drilling International has entered into|
-|The decision was based on the transition to|years, down from around USD 10 billion. The|signed a Memorandum of Understanding|a marketing agreement with Eldorado Drilling|
-|lower carbon energy moving slower, as well|reduction will also see the company remove its|with the intention of forming a strategic|in relation to the seventh generation drillship|
-|as increased costs, customers being reluctant|target to spend half of its fixed assets budget on|alliance to work together on international|Dorado.|
-|to commit to long-term contracts and it not|renewables and low carbon products by 2030.|rig deployment. The terms of the alliance||
-|generating enough profit.||would see Arabian Drilling provide access to|Delivered from the Samsung Heavy Industries|
-||The reduction will allow Equinor to increase oil|certain of its premium offshore jackups while|Shipyard in South Korea less than a year ago,|
-|Chief executive Anders Opedal said he was|and gas production by 10% over the next two|Shelf Drilling would leverage its international|the Dorado has not yet been awarded her|
-|confident that Rosebank oil field in the North Sea|years.|fooprint to source new contracts for the rigs in question. This would enable Arabian Drilling to expand its international presence while Shelf Drilling could strengthen its established position in its core markets. Arabian Drilling is the largest onshore and|maiden contract. Capable of operating in water depths of up to 12,000ft (3,658m), the drillship is currently stacked in Labuan, Malaysia. Vantage has secured the rights to market the rig for drilling opportunities in various locations in Africa, the Mediterranean, Asia and|
-|February 2025||offshore drilling company in Saudi Arabia by fleet size, while Shelf Drilling is a leading international shallow water drilling contractor with operations across the Middle East, Southeast Asia, India, West Africa, the Mediterranean and the North Sea.|Australasia. Eldorado is the owner of three sister drillships: the Dorado, Draco and Zonda. All three were built by Samsung Heavy Industries and delivered in 2024.|
+If the Rampion 2 project is approved the project could start construction in 2026 or in early 2027 to meet its targeted operational start before 2030.
 
-#### BETWEEN ARABIAN & SHELF DORADO DRILLSHIP
+# EQUINOR TO REDUCE INVESTMENT IN RENEWABLE ENERGY
 
-**Seabreeze**
+Similar to BP, Equinor announced that they will reduce investment in renewable energy. Equinor will half investment over the next two years while increasing oil and gas production.
 
-#### NOBLE & VANTAGE ANNOUNCE RAFT OF RIG RETIREMENTS VALARIS ADDING TO GLOBAL CONTRACT BACKLOG
+The decision was based on the transition to lower carbon energy moving slower, as well as increased costs, customers being reluctant to commit to long-term contracts and it not generating enough profit.
 
-While trading conditions for drilling contractors have improved dramatically in recent years, it is certainly not plain-sailing for rig owners by any stretch of the imagination. With utilisation levels and From a more positive perspective in relation to day rates stuttering against a backdrop of project delays and increased rig availability in 2025, both Valaris, the drilling contractor has managed to secure Noble Corporation and Valaris have made the difficult decision to retire rigs from their active fleets. approximately USD 120 million of additional contract backlog in recent weeks. In the case of Noble Corporation, the contractor has announced plans to divest drillships Pacific Meltem and Pacific Scirocco, which are both cold-stacked in the Canary Islands. This decision Most significantly, Valaris has secured a 600-day has been made to eliminate costs and prioritise resources towards the company’s marketed rig contract extension with TotalEnergies for the Valaris fleet. Noble intends to divest the two drillships “in a manner which would effectively retire them Stavanger in the UK sector of the North Sea. This permanently from drilling operation, including potentially scrapping the units.” The Pacific Scirocco priced extension is expected to commence in the third is a 2011-built rig that last worked offshore West Africa way back in 2017. In even more depressing quarter of 2025 with a contract value of more than USD circumstances, the Pacific Meltem is a 2014-built drillship, with an estimated price tag of USD 600 *Valaris Stavanger (c/o R. M. Hausken)* 75 million. million, that has never worked a single day of her life. In addition to the Meltem and Scirocco, Noble has “effectively removed” four more rigs from the lower end of its floater fleet. Semisubmersibles Elsewhere, Valaris has secured a one-well contract for Ocean Onyx and Ocean Valiant were sold for scrap, while drillships Noble Globetrotter I and Noble the Valaris 247 jackup with Jadestone Energy offshore
+Chief executive Anders Opedal said he was confident that Rosebank oil field in the North Sea would go ahead, despite a recent court ruling that consent had been awarded unlawfully.
 
-|INACTIVE RIGS NORTHWEST EUROPE|||
-|---|---|---|
-|NAME|TYPE|STATUS|
-|HERCULES|SS|WARM STACK|
-|ISLAND INNOVATOR|SS|WARM STACK|
-|NOBLE HIGHLANDER|JU|WARM STACK|
-|NOBLE INTERCEPTOR|JU|WARM STACK|
-|NOBLE RESOLVE|JU|HOT STACK|
-|VALARIS VIKING|JU|COLD STACK|
-|WELL-SAFE DEFENDER|SS|HOT STACK|
-|WELL-SAFE GUARDIAN|SS|WARM STACK|
-|WEST AQUARIUS|SS|COLD STACK|
-|WEST PHOENIX|SS|COLD STACK|
+The reduction will see investment in renewables reduced to USD 5 billion over the next two years, down from around USD 10 billion. The reduction will also see the company remove its target to spend half of its fixed assets budget on renewables and low carbon products by 2030.
 
-Globetrotter II are no longer being offered for drilling opportunities other than “highly specific niche Australia, and a 100-day contract for the Valaris 249 situations”; they will be targeted at well intervention opportunities instead. jackup with BP offshore Trinidad. BP has also exercised a two-well priced option on its contract with the Valaris Meanwhile, three semis are to be retired by Valaris. The Valaris DPS-3 (2010-built), Valaris DPS-5 106 jackup offshore Indonesia. (2012) and Valaris DPS-6 (2012) have been stacked for several years and will either be repurposed for alternative uses outside the drilling industry or recycled. Furthermore, the Valaris 75 (a 25 year- In the Middle East, the bareboat charter agreements old jackup that has been stacked in the USA for five years) has been sold to White Fleet for USD 24 between Valaris and ARO Drilling for jackups Valaris million. Under the terms of the agreement, future use of the rig will be restricted to the US Gulf. 116, Valaris 146 and Valaris 250 had been extended until the end of February. Valaris and ARO have been continuing discussions with Saudi Aramco regarding longer-term contract extensions for these rigs.
+The reduction will allow Equinor to increase oil and gas production by 10% over the next two years.
 
-#### SIX-MONTH AMERICAS DEAL FOR NOBLE DEVELOPER
+# Rigs
 
-Noble Corporation has picked up a new contract in the Americas for ultra-deepwater semisubmersible Noble Developer. The rig will be going on hire to Shell in the third quarter of 2026 for a firm period of 180 days. Noble has indicated that the firm contract value from this fixture, including mobilisation and demobilisation fees, will be approximately USD 70 million. While no further details have been disclosed by Noble, **February 2025** it is expected that this contract will involve drilling operations offshore Trinidad & Tobago.
+## OIL PRICE VS CONTRACTED RIG UTILISATION
 
-The Noble Developer is currently being reactivated following an idle period ahead of commencing a three-well (200-day) contract with Petronas offshore Suriname in June. *Source: Westwood Global RigLogix* **Seabreeze** *Pacific Meltem & Pacific Scirocco (c/o Graham Buchan Innes)*
+| Date   | BRENT USD / Bbl | Northwest Europe Rig Utilisation | South America Rig Utilisation | US Gulf Rig Utilisation |
+| ------ | --------------- | -------------------------------- | ----------------------------- | ----------------------- |
+| Feb 24 | *$83.76*        | 72.0%                            | 82.6%                         | 58.8%                   |
+| Mar 24 | *$85.45*        | 73.5%                            | 82.0%                         | 58.8%                   |
+| Apr 24 | *$90.05*        | 78.1%                            | 77.9%                         | 58.8%                   |
+| May 24 | *$83.01*        | 80.8%                            | 76.7%                         | 58.8%                   |
+| Jun 24 | *$82.92*        | 84.1%                            | 80.6%                         | 57.0%                   |
+| Jul 24 | *$84.26*        | 84.2%                            | 84.1%                         | 54.3%                   |
+| Aug 24 | *$78.92*        | 84.3%                            | 82.5%                         | 53.4%                   |
+| Sep 24 | *$72.83*        | 81.9%                            | 80.8%                         | 54.3%                   |
+| Oct 24 | *$75.46*        | 81.3%                            | 79.4%                         | 52.2%                   |
+| Nov 24 | *$73.40*        | 83.3%                            | 76.3%                         | 49.6%                   |
+| Dec 24 | *$73.13*        | 82.3%                            | 78.9%                         | 48.6%                   |
+| Jan 25 | *$78.12*        | 83.5%                            | 77.6%                         | 50.5%                   |
+| Feb 25 | *$74.84*        | 81.8%                            | 78.1%                         | 54.4%                   |
 
-#### SEABROKERS GROUP
+## STRATEGIC ALLIANCE BETWEEN ARABIAN & SHELF
 
-**Seabrokers Head Office** Forusbeen 78 4033 Stavanger Norway (+47) 51 80 00 00 | seabrokers.no
+Arabian Drilling and Shelf Drilling have signed a Memorandum of Understanding with the intention of forming a strategic alliance to work together on international rig deployment. The terms of the alliance would see Arabian Drilling provide access to certain of its premium offshore jackups while Shelf Drilling would leverage its international footprint to source new contracts for the rigs in question. This would enable Arabian Drilling to expand its international presence while Shelf Drilling could strengthen its established position in its core markets.
 
-**Seabrokers Ltd – Aberdeen** (+44) 1224 747 744 | chartering@seabrokers.co.uk
+Arabian Drilling is the largest onshore and offshore drilling company in Saudi Arabia by fleet size, while Shelf Drilling is a leading international shallow water drilling contractor with operations across the Middle East, Southeast Asia, India, West Africa, the Mediterranean and the North Sea.
 
-**Seabrokers Chartering – Stavanger** (+47) 51 81 54 00 | chartering@seabrokers.no
+## VANTAGE MARKETING DORADO DRILLSHIP
 
-**Seabrokers Brazil Ltda – Rio De Janeiro** (+55) 21 3505 4200 | chartering@seabrokers.com.br
+Vantage Drilling International has entered into a marketing agreement with Eldorado Drilling in relation to the seventh generation drillship Dorado.
 
-**Skagen Ship Consulting** (+47) 45 51 45 51 or (+47) 46 51 80 00 hr@skagenship.com or pr@skagenship.com
+Delivered from the Samsung Heavy Industries Shipyard in South Korea less than a year ago, the Dorado has not yet been awarded her maiden contract. Capable of operating in water depths of up to 12,000ft (3,658m), the drillship is currently stacked in Labuan, Malaysia.
 
-##### JACKUP ACTIVITY ON THE RISE
+Vantage has secured the rights to market the rig for drilling opportunities in various locations in Africa, the Mediterranean, Asia and Australasia.
 
-##### IN WEST AFRICA
+Eldorado is the owner of three sister drillships: the Dorado, Draco and Zonda. All three were built by Samsung Heavy Industries and delivered in 2024.
+
+# NOBLE & VANTAGE ANNOUNCE RAFT OF RIG RETIREMENTS
+
+While trading conditions for drilling contractors have improved dramatically in recent years, it is certainly not plain-sailing for rig owners by any stretch of the imagination. With utilisation levels and day rates stuttering against a backdrop of project delays and increased rig availability in 2025, both Noble Corporation and Valaris have made the difficult decision to retire rigs from their active fleets.
+
+In the case of Noble Corporation, the contractor has announced plans to divest drillships Pacific Meltem and Pacific Scirocco, which are both cold-stacked in the Canary Islands. This decision has been made to eliminate costs and prioritise resources towards the company's marketed rig fleet. Noble intends to divest the two drillships "in a manner which would effectively retire them permanently from drilling operation, including potentially scrapping the units." The Pacific Scirocco is a 2011-built rig that last worked offshore West Africa way back in 2017. In even more depressing circumstances, the Pacific Meltem is a 2014-built drillship, with an estimated price tag of USD 600 million, that has never worked a single day of her life. In addition to the Meltem and Scirocco, Noble has "effectively removed" four more rigs from the lower end of its floater fleet. Semisubmersibles Ocean Onyx and Ocean Valiant were sold for scrap, while drillships Noble Globetrotter I and Noble Globetrotter II are no longer being offered for drilling opportunities other than "highly specific niche situations"; they will be targeted at well intervention opportunities instead.
+
+Meanwhile, three semis are to be retired by Valaris. The Valaris DPS-3 (2010-built), Valaris DPS-5 (2012) and Valaris DPS-6 (2012) have been stacked for several years and will either be repurposed for alternative uses outside the drilling industry or recycled. Furthermore, the Valaris 75 (a 25 year-old jackup that has been stacked in the USA for five years) has been sold to White Fleet for USD 24 million. Under the terms of the agreement, future use of the rig will be restricted to the US Gulf.
+
+Pacific Meltem & Pacific Scirocco (c/o Graham Buchan Innes)
+
+# VALARIS ADDING TO GLOBAL CONTRACT BACKLOG
+
+From a more positive perspective in relation to Valaris, the drilling contractor has managed to secure approximately USD 120 million of additional contract backlog in recent weeks.
+
+Most significantly, Valaris has secured a 600-day contract extension with TotalEnergies for the Valaris Stavanger in the UK sector of the North Sea. This priced extension is expected to commence in the third quarter of 2025 with a contract value of more than USD 75 million.
+
+Elsewhere, Valaris has secured a one-well contract for the Valaris 247 jackup with Jadestone Energy offshore Australia, and a 100-day contract for the Valaris 249 jackup with BP offshore Trinidad. BP has also exercised a two-well priced option on its contract with the Valaris 106 jackup offshore Indonesia.
+
+In the Middle East, the bareboat charter agreements between Valaris and ARO Drilling for jackups Valaris 116, Valaris 146 and Valaris 250 had been extended until the end of February. Valaris and ARO have been continuing discussions with Saudi Aramco regarding longer-term contract extensions for these rigs.
+
+## SIX-MONTH AMERICAS DEAL FOR NOBLE DEVELOPER
+
+Noble Corporation has picked up a new contract in the Americas for ultra-deepwater semisubmersible Noble Developer. The rig will be going on hire to Shell in the third quarter of 2026 for a firm period of 180 days. Noble has indicated that the firm contract value from this fixture, including mobilisation and demobilisation fees, will be approximately USD 70 million. While no further details have been disclosed by Noble, it is expected that this contract will involve drilling operations offshore Trinidad & Tobago.
+
+The Noble Developer is currently being reactivated following an idle period ahead of commencing a three-well (200-day) contract with Petronas offshore Suriname in June.
+
+### INACTIVE RIGS NORTHWEST EUROPE
+
+| NAME | TYPE | STATUS |
+| --------------------------------------- | --------------------------------------- | ----------------------------------------- |
+| HERCULES                                | SS                                      | WARM STACK                                |
+| *ISLAND INNOVATOR*                      | SS                                      | *WARM STACK*                              |
+| NOBLE HIGHLANDER                        | JU                                      | WARM STACK                                |
+| *NOBLE INTERCEPTOR*                     | JU                                      | *WARM STACK*                              |
+| NOBLE RESOLVE                           | JU                                      | HOT STACK                                 |
+| *VALARIS VIKING*                        | JU                                      | *COLD STACK*                              |
+| WELL-SAFE DEFENDER                      | SS                                      | HOT STACK                                 |
+| *WELL-SAFE GUARDIAN*                    | SS                                      | *WARM STACK*                              |
+| WEST AQUARIUS                           | SS                                      | COLD STACK                                |
+| *WEST PHOENIX*                          | SS                                      | *COLD STACK*                              |
+
+Valaris Stavanger (c/o R. M. Hausken)
+
+Source: Westwood Global RigLogix
+
+# SEABROKERS GROUP
+
+## **
+
+## Seabrokers Chartering
+
+## **Seabrokers Ltd – Aberdeen**
+(+44) 1224 747 744 | chartering@seabrokers.co.uk
+
+## **Seabrokers Chartering – Stavanger**
+(+47) 51 81 54 00 | chartering@seabrokers.no
+
+## **Seabrokers Brazil Ltda – Rio De Janeiro**
+(+55) 21 3505 4200 | chartering@seabrokers.com.br
+
+## **Skagen Ship Consulting**
+(+47) 45 51 45 51 or (+47) 46 51 80 00
+hr@skagenship.com or pr@skagenship.com
+
+## Seabrokers Eiendom
+
+## **Seabrokers Eiendom**
+(+47) 51 80 00 00 | rolf.aarthurun@seabrokers.no
+
+## Seabrokers Services
+
+## **Seabrokers Services**
+(+47) 51 80 00 00 | lars.hagen@seabrokers.no
+
+## 
+
+## **
+
+## 
+
+## **
+
+# JACKUP ACTIVITY ON THE RISE IN WEST AFRICA
 
 There has been a sustained increase to the level of contracting activity within the jackup market in West Africa lately.
 
-In Nigeria, Shelf Drilling has secured a one-year contract extension for the Shelf Drilling Scepter with Chevron; the rig is now firmly committed until July
+In Nigeria, Shelf Drilling has secured a one-year contract extension for the Shelf Drilling Scepter with Chevron; the rig is now firmly committed until July 2026. This has added approximately USD 50 million of contract backlog for Shelf Drilling. Meanwhile, ADES has secured a second contract for one of its jackups offshore Nigeria. Following the earlier confirmation of a six-well contract for the Admarine 504 with Brittania-U, ADES has now secured a two-well firm contract for the Admarine 501 with Nkuku Ikon Petroleum Development Company. This campaign will commence in the second quarter of 2025; the charter could extend to an estimated duration of six months if two additional option wells are to be exercised.
 
-2026. This has added approximately USD 50 million of contract backlog for Shelf Drilling. Meanwhile, ADES has secured a second contract for one of its jackups offshore Nigeria. Following the earlier confirmation of a six-well contract for the Admarine 504 with Brittania-U, ADES has now secured a two-well firm contract for the Admarine 501 with Nkuku Ikon Petroleum Development Company. This campaign will commence in the second quarter of 2025; the charter could extend to an estimated duration of six months if two additional option wells are to be exercised. Further south in Angola, Selective Marine Services has reportedly secured a two-year contract with Etu Energias for the SMS Essa jackup. According to Westwood Global, the rig is expected to be relocated from the Middle East to West Africa around mid-2025. One other fixture has been announced recently, with Borr Drilling securing a Letter of Award for the Gerd to go to work with an undisclosed client in West Africa from June until September 2025.
-**Seabrokers Eiendom** (+47) 51 80 00 00 | rolf.aarthun@seabrokers.no
+Further south in Angola, Selective Marine Services has reportedly secured a two-year contract with Etu Energias for the SMS Essa jackup. According to Westwood Global, the rig is expected to be relocated from the Middle East to West Africa around mid-2025. One other fixture has been announced recently, with Borr Drilling securing a Letter of Award for the Gerd to go to work with an undisclosed client in West Africa from June until September 2025.
 
-**Seabrokers Services** (+47) 51 80 00 00 | lars.hagen@seabrokers.no
-
-**Seabrokers Fundamentering** (+47) 51 80 00 00 | fundamentering@seabrokers.no
-
-**Seabrokers Heavy Machinery** (+47) 51 80 00 00 | ommund.vareberg@seabrokers.no
-
-##### Production & Administration
-
-Seabrokers Ltd, Aberdeen
+## Seabrokers Ltd, Aberdeen
 
 For your free copy of Seabreeze, or if you wish to Subscribe or Unsubscribe, please contact **chartering@seabrokers.co.uk**
 
-The Seabreeze Monthly Market Report is distributed worldwide through our offices in Aberdeen, Stavanger and Rio de Janeiro.
-
 Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
 
-##### The Seabreeze Archive
+## The Seabreeze Archive
 
 For the current or archive copies of Seabreeze go to seabrokers.co.uk under Shipbroking / Market Reports.

@@ -1028,20 +1028,26 @@ def main():
 | Shanghai – New York | {_fmt_curr('shanghai_ny')} |
 | Rotterdam – Shanghai | {_fmt_curr('rotterdam_shanghai')} |"""
 
-    # Filter commentary to strip repeated navigation breadcrumbs
-    cleaned_narrative_lines = []
-    found_content = False
-    for nl in narrative.splitlines():
-        s = nl.strip()
-        if not found_content:
-            if s.startswith('For many years, World Container Index') or s.startswith('The Drewry World Container Index'):
-                found_content = True
-                cleaned_narrative_lines.append(s)
-        else:
-            if s:
-                cleaned_narrative_lines.append(s)
+    # Filter commentary to strip repeated navigation breadcrumbs and promotional artifacts
+    paragraphs = []
+    for l in narrative.splitlines():
+        l_str = l.strip()
+        if not l_str:
+            continue
+        if 'For many years, World Container Index' in l_str or 'If your organisation requires' in l_str:
+            continue
+        if 'WeChat' in l_str or re.search(r'[\u4e00-\u9fff]', l_str):
+            continue
+        if re.search(r'See detailed commentary below', l_str, re.I):
+            continue
+        if re.search(r'^(?:\*\*)?(?:Drewry World Container Index|WCI Trade Routes|Source:)(?:\*\*)?', l_str, re.I):
+            continue
+        # Strip trailing truncated hyperlinks / paywall references
+        l_str = re.sub(r'[\s.,;:]*According to Drewry[\'’]s\s*$', '.', l_str).strip()
+        if l_str and (l_str.startswith('The Drewry World Container Index') or l_str.startswith('On the ') or l_str.startswith('The East') or l_str.startswith('Rates ')):
+            paragraphs.append(l_str)
 
-    commentary_text = "\n\n".join(cleaned_narrative_lines) if cleaned_narrative_lines else narrative
+    commentary_text = "\n\n".join(paragraphs) if paragraphs else narrative
     body_text = f"{table_md}\n\n## Market Commentary & Analysis\n\n{commentary_text}"
     word_count = len(body_text.split())
 
