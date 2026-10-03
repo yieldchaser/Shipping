@@ -201,6 +201,68 @@ def get_unique_clarksons_reports(pdf_root: Path) -> List[Path]:
     return unique_files
 
 
+# Page furniture that recurs on every page and is NOT market commentary:
+# the running masthead header, the logo line, the contact block and the legal
+# disclaimer. The pre-existing guards silently missed all four - "clarkson
+# hellas" (no trailing s) is not a substring of "Clarksons Hellas", and the
+# contact line renders as "<b>Direct</b> +(30)..." so "direct +" never matched.
+_FURNITURE_RE = re.compile(
+    # masthead / logo / running header. Three spellings appear in the corpus:
+    # "Clarksons Platou ...", "Clarkson Hellas Ltd ...", and the running header
+    # "Sale & Purchase | Clarksons Hellas Weekly Bulletin | <date>".
+    r"clarksons?\s+(?:platou|hellas|logo)"
+    r"|\bplatou\b"
+    r"|sale\s*(?:and|&)\s*purchase"
+    r"|hellas\s*s&p\s*weekly\s+bulletin"
+    # address + contact block (markdown emphasis varies: "Direct +(", "**Direct** +(",
+    # "<b>Direct</b> +(")
+    r"|kifissias|marousi|chalandri|snp@clarksons|clarksons\.(?:gr|com)"
+    r"|\+\(?30\)?\s*210\b"
+    r"|(?:direct|fax)\b[^+]{0,14}\+"
+    # legal disclaimer sentences. The word "disclaimer" itself almost never
+    # appears in the body, so the guards have to key on the sentences.
+    r"|this\s+information\s+is\s+confidential"
+    r"|any\s+reliance\s+placed\s+on\s+such\s+information"
+    r"|strictly\s+at\s+the\s+recipient"
+    r"|the\s+material\s+and\s+the\s+information"
+    r"|is\s+not\s+intended\s+to\s+recommend|variable\s+and\s+cyclical\s+business"
+    r"|to\s+the\s+extent\s+permitted\s+by\s+law"
+    r"|these\s+exclusions\s+do\s+not\s+apply"
+    r"|for\s+general\s+information\s+purposes"
+    r"|loss\s+of\s+profit|loss\s+of\s+goodwill|loss\s+of\s+data"
+    r"|breach\s+of\s+statutory\s+duty|even\s+if\s+foreseeable"
+    r"|in\s+this\s+disclaimer|governed\s+by\s+and\s+construed"
+    r"|prior\s+written\s+consent|purposes\s+of\s+raising\s+finance"
+    r"|holding\s+company,\s+subsidiaries|licensors"
+    r"|\(\+?\s*\d+\s+tons\s+ROB\)",
+    re.I,
+)
+
+
+# A whole line that is only a date ("**06 August 2021**") or only part of the
+# letterhead address ("151 25 Greece", "**Greece**<br><br>") is page furniture
+# too - neither is a sentence of market commentary.
+_BARE_DATE_RE = re.compile(r"^\d{1,2}(?:st|nd|rd|th)?\s+(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\w*\s+\d{4}$", re.I)
+_ADDR_ONLY_RE = re.compile(r"^(?:greece|151\s*25|marousi|chalandri)(?:\s|$)", re.I)
+
+
+def is_page_furniture(line: str) -> bool:
+    """True for masthead/contact/legal/letterhead lines that are not commentary.
+
+    Measured on 2023-03-17 bulletin 61: the running header
+    'Sale and Purchase | Clarksons Hellas Weekly Bulletin | 17 Mar. 23'
+    occurs 3x in the markdown (once per page) and was emitted as three
+    identical 'Tankers' commentary rows, one per table-boundary flush."""
+    # remove tags WITHOUT inserting a space so "13<sup>th</sup>" -> "13th"
+    stripped = re.sub(r"<[^>]+>", "", line).strip().strip("*_ ").strip()
+    stripped = re.sub(r"\s+", " ", stripped)
+    if not stripped:
+        return True
+    if _BARE_DATE_RE.match(stripped) or _ADDR_ONLY_RE.match(stripped):
+        return True
+    return bool(_FURNITURE_RE.search(line))
+
+
 def extract_clarksons_data(markdown_text: str, issue_date: str, report_week: int, source_file: str) -> Dict[str, Any]:
     """Comprehensive extractor handling Pipe tables, HTML tables, Line-by-line format, Commentary, and Macro."""
     sales: List[Dict[str, Any]] = []
@@ -251,12 +313,27 @@ def extract_clarksons_data(markdown_text: str, issue_date: str, report_week: int
             if curr_text_block:
                 commentary.append({"issue_date": issue_date, "report_week": report_week, "sector": curr_section, "commentary_text": " ".join(curr_text_block), "source_file": source_file})
                 curr_text_block = []
-        elif not l_str.startswith("#") and not l_str.startswith("---") and "clarkson hellas" not in l_str.lower() and "kifissias" not in l_str.lower() and "disclaimer" not in l_str.lower() and "direct +" not in l_str.lower() and not re.search(r"<(?:th|td|tr|table|div|tbody|thead)", l_str, re.I):
+        elif not l_str.startswith("#") and not l_str.startswith("---") and not is_page_furniture(l_str) and not re.search(r"<(?:th|td|tr|table|div|tbody|thead)", l_str, re.I):
             if len(l_str) > 15:
                 curr_text_block.append(l_str)
 
     if curr_text_block:
         commentary.append({"issue_date": issue_date, "report_week": report_week, "sector": curr_section, "commentary_text": " ".join(curr_text_block), "source_file": source_file})
+
+    # Drop byte-identical commentary rows emitted from a single document. The
+    # running header used to be flushed as a fresh block at every table
+    # boundary, producing 2-3 identical rows per issue (17 duplicate-key rows
+    # across the delivered series). Content-equal under the same sector is a
+    # duplicate, not two passages.
+    _seen_comm: Set[Tuple[str, str]] = set()
+    _deduped_comm: List[Dict[str, Any]] = []
+    for _c in commentary:
+        _k = (_c["sector"], _c["commentary_text"])
+        if _k in _seen_comm:
+            continue
+        _seen_comm.add(_k)
+        _deduped_comm.append(_c)
+    commentary = _deduped_comm
 
     def process_sales_row(v_raw: str, dwt_raw: Any, blt_raw: str, det_raw: str, ss_raw: str, p_raw: str, b_raw: str, sector: str):
         vessel = re.sub(r"[*_~]", "", v_raw).strip()
