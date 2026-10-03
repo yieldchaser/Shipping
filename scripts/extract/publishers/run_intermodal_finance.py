@@ -262,7 +262,12 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
         ("Brent", "Commodities"),
         ("WTI", "Commodities"),
     ]
-    IND_CAT = dict(INDICATORS)
+    # Whitespace-insensitive label keys. The publisher's text layer kernels some
+    # labels apart in certain eras ("Dow Jones" -> "Dow J ones " across 2023
+    # W21-W36, 15 documents), which an exact-match allowlist silently dropped.
+    def _nkey(s: str) -> str:
+        return re.sub(r"\s+", "", s).lower()
+    IND_CAT = {_nkey(k): (k, v) for k, v in INDICATORS}
     NUM_RX = re.compile(r"^[-+]?[\d,]+(?:\.\d+)?$")
     PCT_RX = re.compile(r"^[-+]?\d+(?:\.\d+)?%$")
     # A value column the publisher left blank with words rather than a number.
@@ -280,9 +285,10 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
 
     lines = [l.strip() for l in full_text.splitlines() if l.strip()]
     for i, lab in enumerate(lines):
-        cat = IND_CAT.get(lab)
-        if cat is None:
+        hit = IND_CAT.get(_nkey(lab))
+        if hit is None:
             continue
+        lab, cat = hit  # store the CANONICAL label, not the kerned form
         nxt = lines[i + 1] if i + 1 < len(lines) else ""
         # Anchor: the cell right after the label must be a value or a known
         # non-numeric marker. This rejects a prose mention of the index name.
