@@ -252,6 +252,10 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
         ("Nikkei", "Stock Indices"),
         ("Hang Seng", "Stock Indices"),
         ("DJ US Maritime", "Stock Indices"),
+        ("€ / $", "Currencies"),
+        ("£ / $", "Currencies"),
+        ("$ / ¥", "Currencies"),
+        ("$ / NoK", "Currencies"),
         ("Yuan / $", "Currencies"),
         ("Won / $", "Currencies"),
         ("$ INDEX", "Currencies"),
@@ -343,7 +347,13 @@ def run_all():
 
         # Update JSON sidecar if it exists
         stem = pdf_path.stem
-        sidecar_path = OUT_MD / f"{stem}.tables.json"
+        # Sidecars are YEAR-PARTITIONED (data/extracted/md/intermodal/<year>/),
+        # matching run_intermodal_full.py's writer. The old flat path
+        # (OUT_MD / f"{stem}.tables.json") never existed on disk, so this
+        # enrichment was a silent no-op (measured: 0/256 sidecars carried
+        # macro_indicators).
+        year_str = dt[:4] if dt and dt[:4].isdigit() else "2026"
+        sidecar_path = OUT_MD / year_str / f"{stem}.tables.json"
         if sidecar_path.exists():
             try:
                 sc_data = json.load(open(sidecar_path, encoding="utf-8"))
