@@ -2019,3 +2019,101 @@ regeneration - explicitly a human decision.
    (python3 scripts/extract/publishers/run_hellenic_demolition.py) and the derived DB rebuild
    (python3 scripts/extract/build_table_db.py --out data/extracted then
    python3 scripts/extract/check_measured_rules.py).
+
+
+## 2026-10-03 06:22 UTC (11:52 IST) - deep review: the Clarksons Desk Talk series was 45% page furniture, and the running header duplicated once per page (FIXED)
+
+### What I measured first
+
+`verify_extraction.py`: run COMPLETE (7,676 planned / 7,816 recorded, 0 remaining), golden 15/15, 78
+not-a-pdf quarantines (expected, verified genuine on 2026-10-01), inventory_drift 352 PDFs by
+filename (informational). No `run_batch` / `batch_worker` process on the box; checkpoint unchanged at
+7,816 lines. Disk 23.0 GB free. All 170 series CSVs were re-censused for duplicate keys
+(key = every column except `source_file`): **258 duplicate-key rows remain**, of which 229 are the
+known hellenic VV human decision (matrix 147 + sales 60 + benchmark 22) and 29 are scattered
+(clarksons_desk_talk 17, xclusiv_sales 5, star_asia_deals 2, poten_top_charterers 2,
+star_asia_ferrous_scrap 1, hellenic_gms_port_positions 1, carriers_sales 1).
+
+The 17 dupRows in `clarksons_desk_talk_series.csv` were not previously attributed, so I diagnosed
+them. The delivered series holds 608 rows.
+
+### Finding 1 (FIXED): one report emits the same row 2-3 times, and 45% of the series is not commentary
+
+The duplicate was not two files: the SAME source_file produced the SAME (issue_date, report_week,
+sector, commentary_text) row 2-3 times. Reproduced on the current code (so not a stale-file case)
+against the cached markdown for 2023-03-17 bulletin 61 - 7 commentary rows, of which 3 were the
+byte-identical string
+
+    'Sale & Purchase | Clarksons Hellas Weekly Bulletin | 17 Mar. 23'
+
+plus a contact block and the legal disclaimer. Chasing it down: that header occurs 3x in the markdown
+(once per page) and the line-based parser flushes `curr_text_block` at every table boundary, so each
+occurrence became its own commentary row.
+
+The root cause is four near-miss guards in `extract_clarksons_data`:
+
+    "clarkson hellas" not in l_str.lower()   <- the text says "Clarksons Hellas"; "clarkson hellas"
+                                                is not a substring of "clarksons hellas"
+    "direct +" not in l_str.lower()          <- the line renders as "<b>Direct</b> +(30) 210..."
+    "disclaimer" not in l_str.lower()        <- the word "disclaimer" never appears in the body
+    "kifissias" ...                          <- only caught one of the three address spellings
+
+Held on its own, none of the four fire. Quantified over all 165 cached reports: 273 of 608
+commentary rows (45%) matched a page-furniture pattern (232 contained "Clarksons Logo CLARKSONS",
+148 the masthead header, 41 a bare date).
+
+Fix: commit **abee30d58**, branch `auto/extract-fixes-2026-10-03-clarksons-desktalk`, one file
+(`scripts/extract/publishers/run_clarksons_hellas_world_class.py`, +78/-1, code only). A corrected
+`is_page_furniture()` predicate keyed on the shapes actually present in the corpus (masthead/logo in
+all three spellings, letterhead address, contact block including the HTML-markup forms, the seven
+disclaimer sentences, bare and `<sup>`-tagged dates), plus a per-document dedup of byte-identical
+commentary rows.
+
+Evidence: a harness imports the old module (from `git show HEAD:`) and the new one, and runs both over
+every cached report in memory. The corpus and the delivered files are never opened for writing. The
+before-half reproduces the delivered 608 rows exactly.
+
+| metric | before | after |
+|---|---|---|
+| commentary rows (165 docs) | 608 | **355** |
+| duplicate keys in the series | 17 | **0** |
+| rows still matching a furniture pattern | 273 | **0** |
+| docs where `sales` output differs | - | **0** |
+| docs where `demolitions` output differs | - | **0** |
+| genuine commentary rows lost | - | **0** |
+
+The loss control is the one that matters: for every old row that was NOT furniture, I required a new
+row sharing >= 60% of its longest common substring; every removed row resolved to masthead, contact,
+disclaimer or date-only furniture. The 5 shortest retained rows are 86-109 chars and all real
+("Another relatively slower week on the tanker market, with no confirmed sales reported."). A sandbox
+write of the full series to `scratch_review/` produced 355 rows with 0 duplicate keys; the directory
+was deleted afterwards. Golden gate after the change: Star Asia plumber-text 15/15, pymupdf-text
+15/15, camelot-stream 13/15, SSY 14/14 - unchanged (the change touches commentary parsing only).
+
+### Deliberately NOT changed, and why
+
+* The delivered `clarksons_desk_talk_series.csv` (608 rows) and the 165 Clarksons `.md` sidecars under
+  `data/extracted/md/hellenic/shipbuilding/clarksons/` and `data/extracted/md/clarksons/` still carry
+  the junk. Writing `data/extracted/**` is a data regeneration, not a code fix - see the human
+  decision below. The fix takes effect for anything extracted afterwards.
+* The other 29 scattered dup rows were measured, not diagnosed. xclusiv_sales (5), star_asia_deals (2),
+  poten_top_charterers (2), star_asia_ferrous_scrap (1), hellenic_gms_port_positions (1) and
+  carriers_sales (1, already named on 2026-10-03 as publisher-side) each need their own root cause; I
+  will not guess at them from the census alone.
+* The 229 hellenic VV duplicate rows remain the standing date-convention decision recorded on
+  2026-10-03; nothing here changes it.
+
+### HUMAN DECISIONS
+
+1. Regenerate the Clarksons Desk Talk series and the 165 Clarksons markdown sidecars so the 253
+   furniture rows leave the delivered files:
+
+       python3 scripts/extract/publishers/run_clarksons_hellas_world_class.py
+
+   Expected: `clarksons_desk_talk_series.csv` 608 -> 355 rows (0 duplicate keys); sales, demolition
+   and macro series unchanged (measured byte-identical). The register lists this CSV at 608 rows.
+
+2. Still pending from earlier runs: the hellenic VV date convention (229 dup rows), the lion series
+   regeneration, the Athenian demolition regeneration and the derived DB rebuild
+   (`python3 scripts/extract/build_table_db.py --out data/extracted` then
+   `python3 scripts/extract/check_measured_rules.py`).
