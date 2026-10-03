@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-03 ~12:3x, source-by-source) - INTERMODAL: the owed per-document row-count audit executed across all 16 series; TWO more recall gaps found and FIXED (+50 rows). Evidence `docs/intermodal_nb_recall_verdict.md`.**
+
+**Instrument:** re-ran the current parser over the 255 non-dup cached md and compared PER SERIES PER DOC the parser's **UNIQUE** row count vs the delivered CSV. The first pass used the RAW count and was WRONG: `2026_W12` "32 vs 20" was 12 duplicate rows of a twice-printed tanker block, collapsed to 20 by dedup. **Dedup before believing an API-count gap.**
+
+**Result:** 0 gaps in tanker_spot / indicative / baltic / currencies / sales / demo_prices / demo_sales. The 6 `tc_rates` gap docs are the KNOWN deliberate label-guard skips (2023 W21/24/29/30/31/33) - not reopened. Real gaps: **nb_orders (7 docs, +31)** and **nb_prices (4 docs, +19)**, all 2022-2023.
+
+**Verified real (not a metric):** stale sidecar keys. `intermodal_2022_W03`'s sidecar `newbuilding_orders` held **0**; the PDF **page 6** prints 7 order rows. Grounded every parser row against the source PDF's OWN text layer (independent of LlamaParse): nb_orders **31/31**, nb_prices **71/71**. **Fix:** `scratch/intermodal_audit/refresh_nb.py` rewrote ONLY the correct keys (`newbuilding_orders` x7, `indicative_newbuilding` x4) from a fresh parse, then `run_intermodal_full.py --year all --stack-only`. **nb_orders 1,864 -> 1,895 (+31); nb_prices 3,170 -> 3,189 (+19); union newbuilding 5,034 -> 5,084 (+50); 0 dup keys.**
+
+**CONTROL (byte-level):** md5 of all 170 series CSVs - **only the 3 newbuilding files changed; 167 byte-identical.**
+
+**REGISTER:** `sync_extraction_register.py` -> **170 CSVs / 594,263 logical rows**; `verify_registers.py` = **0 mismatches**. Section-1 Intermodal row hand-updated (5,084 / 3,189 / 1,895; total **62,809 -> 62,909** across 16 series).
+
+**RESIDUALS:** tc_rates 6 label-guard docs stay skipped (deliberate). Do NOT blanket-reparse: several series show the CSV RICHER than a fresh parse (tanker_spot 3,885 vs 3,419; indicative 2,360 vs 1,091) - the md is poorer there. No vision tool - substituted same-document PDF-text reconciliation.
+
 **THIS RUN (2026-10-03 ~11:xx, source-by-source) - intermodal SALES (+131) AND dry-bulk TC RATES (+153) recall gaps RECOVERED (+284 rows), found by the owed per-document row-count audit. Evidence `docs/intermodal_sales_recall_verdict.md`, fix in `scripts/extract/publishers/run_intermodal_full.py`.**
 
 **Method:** re-ran the parser over the cached md and reconciled per document against the delivered CSV (the audit the macro verdict owed). `intermodal_sales_series.csv` 3,348 vs parser 3,387. Verified against the source PDFs, not metrics: 2022 W13 page 3 prints `VLCC EASTERN JUNIPER 305,749 2007 ...` while the CSV carried only its 2 container rows; 2023 W06 page 3 prints NAVE PHOTON / STENA PROGRESS / KONSTANTIN JACOB, 13 of them absent from the CSV.
