@@ -94,6 +94,9 @@ def main():
     run_cmd([sys.executable, "scripts/fearnleys/daily_fearnleys_sync.py"], "Sync Fearnleys Hasura Delta & Publications")
     run_cmd([sys.executable, "scripts/acquire/cache_fearnleys_report_images.py", "--download-pdfs"], "Cache Fearnleys Research Images & Compiled PDFs")
 
+    # H. Corporate Regulatory Filings (SEC EDGAR 26 Target Companies)
+    run_cmd([sys.executable, "scripts/acquire/fetch_sec_filings.py", "--recent-days", "30"], "Poll & Ingest SEC Corporate Filings (26 Companies)", timeout=600)
+
     # 3. Incremental Specialized Ingestion
     print("\n--- STAGE 3: Incremental Ingestion & Structured Markdown Parsing ---")
     # A. Multi-Broker PDF Ingestion & Specialized Routing
@@ -124,6 +127,7 @@ def main():
     # 5. Strict Quality & Copy-Check Data Audit
     print("\n--- STAGE 5: Strict Copy-Check Quality & Data Integrity Audit ---")
     run_cmd([sys.executable, "scripts/audit/strict_broker_audit.py"], "Execute Strict Copy-Checking Audit Across Brokers", timeout=600)
+    run_cmd([sys.executable, "scripts/acquire/audit_sec_corpus.py"], "Audit Corporate SEC Filings Corpus & Frontmatter Integrity")
 
     # 6. Master Cadence Audit & Excel Ledger Regeneration
     print("\n--- STAGE 6: Master Cadence Audit & Excel Ledger Regeneration ---")

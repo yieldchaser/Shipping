@@ -52,6 +52,36 @@ CIK_OVERRIDES = {
     "FSUGY": "0001444325",  # Fortescue Metals Group Ltd
 }
 
+# Master company metadata for frontmatter generation
+COMPANY_METADATA: Dict[str, Dict[str, str]] = {
+    "VALE": {"name": "Vale S.A.", "cik": "0000917851"},
+    "RIO": {"name": "Rio Tinto plc", "cik": "0001091587"},
+    "BHP": {"name": "BHP Group Ltd", "cik": "0000817778"},
+    "FSUGY": {"name": "Fortescue Ltd", "cik": "0001444325"},
+    "SBLK": {"name": "Star Bulk Carriers Corp.", "cik": "0001386909"},
+    "GOGL": {"name": "Golden Ocean Group Ltd", "cik": "0001029145"},
+    "GNK": {"name": "Genco Shipping & Trading Ltd", "cik": "0001322439"},
+    "SB": {"name": "Safe Bulkers, Inc.", "cik": "0001423878"},
+    "DSX": {"name": "Diana Shipping Inc.", "cik": "0001318605"},
+    "SHIP": {"name": "Seanergy Maritime Holdings Corp.", "cik": "0001438533"},
+    "CTRM": {"name": "Castor Maritime Inc.", "cik": "0001720161"},
+    "GLBS": {"name": "Globus Maritime Ltd", "cik": "0001499780"},
+    "EDRY": {"name": "EuroDry Ltd.", "cik": "0001731388"},
+    "FRO": {"name": "Frontline plc", "cik": "0000913290"},
+    "INSW": {"name": "International Seaways, Inc.", "cik": "0001679049"},
+    "STNG": {"name": "Scorpio Tankers Inc.", "cik": "0001483934"},
+    "DHT": {"name": "DHT Holdings, Inc.", "cik": "0001331284"},
+    "TNK": {"name": "Teekay Tankers Ltd.", "cik": "0001419945"},
+    "TRMD": {"name": "TORM plc", "cik": "0001655891"},
+    "ECO": {"name": "Okeanis Eco Tankers Corp.", "cik": "0001964954"},
+    "NAT": {"name": "Nordic American Tankers Ltd", "cik": "0001000177"},
+    "TNP": {"name": "Tsakos Energy Navigation Ltd", "cik": "0001166663"},
+    "ASC": {"name": "Ardmore Shipping Corp", "cik": "0001577437"},
+    "SFL": {"name": "SFL Corporation Ltd", "cik": "0001289877"},
+    "NVGS": {"name": "Navigator Holdings Ltd.", "cik": "0001581804"},
+    "LPG": {"name": "Dorian LPG Ltd.", "cik": "0001596993"},
+}
+
 # Standard form directories
 FORM_DIRS = ["10-K", "20-F", "10-Q", "6-K", "8-K"]
 
@@ -268,11 +298,32 @@ def process_filing(
     if not md_content or len(md_content.strip()) < 50:
         return False, f"FAILED to extract markdown for {filename}"
 
+    # Prepend standardized YAML frontmatter
+    meta = COMPANY_METADATA.get(ticker, {"name": ticker, "cik": ""})
+    company_name = meta["name"]
+    cik = meta["cik"]
+    rel_path = f"corpus/10-companies/{ticker}/{form_dir.name}/{filename}"
+
+    frontmatter = (
+        "---\n"
+        f"ticker: {ticker}\n"
+        f'company_name: "{company_name}"\n'
+        f'cik: "{cik}"\n'
+        f"form: {form_clean}\n"
+        f"filing_date: '{filing_date}'\n"
+        f"accession_number: '{accession}'\n"
+        "source: sec_edgar\n"
+        f"source_file: {rel_path}\n"
+        "---\n\n"
+    )
+
+    full_markdown = frontmatter + md_content + "\n"
+
     # Write final markdown file atomically
     temp_path = target_path.with_suffix(".tmp")
     try:
         with open(temp_path, "w", encoding="utf-8") as f:
-            f.write(md_content)
+            f.write(full_markdown)
         temp_path.replace(target_path)
     except Exception as e:
         if temp_path.exists():
@@ -282,13 +333,14 @@ def process_filing(
     if rate_limit_delay > 0:
         time.sleep(rate_limit_delay)
 
-    return True, f"SAVED ({method}, {len(md_content):,} chars): {filename}"
+    return True, f"SAVED ({method}, {len(full_markdown):,} chars): {filename}"
 
 
 def download_company_filings(
     ticker: str,
     annual_years: int = 12,
     quarterly_years: int = 7,
+    recent_days: Optional[int] = None,
     limit_per_form: Optional[int] = None,
     limit_6k: Optional[int] = None,
     rate_limit_delay: float = 0.1
@@ -313,8 +365,14 @@ def download_company_filings(
         return {}
 
     now = datetime.now()
-    annual_cutoff = (now - timedelta(days=int(annual_years * 365.25))).strftime("%Y-%m-%d") if annual_years > 0 else "1990-01-01"
-    quarterly_cutoff = (now - timedelta(days=int(quarterly_years * 365.25))).strftime("%Y-%m-%d") if quarterly_years > 0 else "1990-01-01"
+    if recent_days is not None and recent_days > 0:
+        recent_cutoff = (now - timedelta(days=recent_days)).strftime("%Y-%m-%d")
+        annual_cutoff = recent_cutoff
+        quarterly_cutoff = recent_cutoff
+        print(f"[{ticker}] Running fast incremental polling (since {recent_cutoff}, last {recent_days} days)")
+    else:
+        annual_cutoff = (now - timedelta(days=int(annual_years * 365.25))).strftime("%Y-%m-%d") if annual_years > 0 else "1990-01-01"
+        quarterly_cutoff = (now - timedelta(days=int(quarterly_years * 365.25))).strftime("%Y-%m-%d") if quarterly_years > 0 else "1990-01-01"
 
     stats = {form: 0 for form in FORM_DIRS}
 
@@ -443,6 +501,7 @@ def main():
     parser.add_argument("--ticker", type=str, help="Single company ticker to download (e.g. VALE)")
     parser.add_argument("--companies", type=str, help="Comma-separated list of tickers")
     parser.add_argument("--all", action="store_true", help="Download all 26 target companies in sequence")
+    parser.add_argument("--recent-days", type=int, default=None, help="Only query filings from the last N days (for autonomous incremental polling)")
     parser.add_argument("--annual-years", type=int, default=12, help="Years back for 10-K and 20-F (default: 12, 0 for all)")
     parser.add_argument("--quarterly-years", type=int, default=6, help="Years back for 10-Q and 6-K (default: 6)")
     parser.add_argument("--limit", type=int, default=None, help="Limit filings per form type (for testing)")
@@ -471,6 +530,7 @@ def main():
             ticker=ticker,
             annual_years=args.annual_years,
             quarterly_years=args.quarterly_years,
+            recent_days=args.recent_days,
             limit_per_form=args.limit,
             limit_6k=args.limit_6k,
             rate_limit_delay=args.rate_limit

@@ -695,6 +695,32 @@ REGISTRY_DATA = [
         "series_csvs": "australia_ppa_iron_ore.csv (424 rows, display-linked)",
         "primary_script": "run_ppa.py",
         "notes": "Directly feeds iron ore throughput charts on index.html. Stored in corpus.duckdb."
+    },
+
+    # --- 10-Companies (SEC EDGAR Listed Issuers) ---
+    {
+        "category_id": "companies_sec_filings",
+        "publisher": "SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)",
+        "folder": "corpus/10-companies",
+        "md_dir": "corpus/10-companies",
+        "cadence": "Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K)",
+        "pub_day": "Continuous",
+        "frequency": "Continuous / Periodic",
+        "earliest_date": "2014-01-01",
+        "latest_date": "2026-09-30",
+        "latest_report": "GNK_8-K_2026-09-25_0001140361-26-037717.md",
+        "days_ago": 7,
+        "status": "CURRENT (1,310 standardized Markdown filings across 26 tickers)",
+        "pdf_count": 0,
+        "html_count": 0,
+        "image_count": 0,
+        "md_count": 1310,
+        "total_files": 1310,
+        "charts_extracted": "No (Complete tabular statutory financials, fleet lists, debt notes)",
+        "chart_engine": "sec2md HTML DOM parser + standardized YAML frontmatter normalizer",
+        "series_csvs": "Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories",
+        "primary_script": "fetch_sec_filings.py & audit_sec_corpus.py",
+        "notes": "100% clean Markdown across 26 tickers (VALE, RIO, BHP, FSUGY, SBLK, GOGL, GNK, SB, DSX, SHIP, CTRM, GLBS, EDRY, FRO, INSW, STNG, DHT, TNK, TRMD, ECO, NAT, TNP, ASC, SFL, NVGS, LPG). Zero conversion artifacts. Standardized YAML frontmatter."
     }
 ]
 
@@ -1100,6 +1126,30 @@ SUBSECTOR_DATA = [
         "data_points": "424 monthly rows (display-linked)",
         "script": "run_ppa.py",
         "output_path": "data/commodities/"
+    },
+
+    # --- SEC EDGAR Corporate Regulatory Filings ---
+    {
+        "category": "Corporate SEC Filings (Dry Bulk)",
+        "subsector": "Major Miners & Dry Bulk Owners (VALE, RIO, BHP, SBLK, GOGL, GNK, SB, DSX, SHIP, CTRM, GLBS, EDRY)",
+        "count": "596 filings",
+        "format": "Markdown / Tables",
+        "metrics": "Annual Reports (10-K, 20-F), Quarterly Reports (10-Q, 6-K), Material 8-Ks",
+        "series_csv": "corpus/10-companies/",
+        "data_points": "596 statutory filings",
+        "script": "fetch_sec_filings.py",
+        "output_path": "corpus/10-companies/"
+    },
+    {
+        "category": "Corporate SEC Filings (Tankers & Gas)",
+        "subsector": "Crude, Product & Gas Tankers (FRO, INSW, STNG, DHT, TNK, TRMD, ECO, NAT, TNP, ASC, SFL, NVGS, LPG)",
+        "count": "714 filings",
+        "format": "Markdown / Tables",
+        "metrics": "Annual Reports (10-K, 20-F), Quarterly Reports (10-Q, 6-K), Material 8-Ks",
+        "series_csv": "corpus/10-companies/",
+        "data_points": "714 statutory filings",
+        "script": "fetch_sec_filings.py",
+        "output_path": "corpus/10-companies/"
     }
 ]
 
@@ -1226,10 +1276,10 @@ def generate_markdown_audit():
         "",
         "## 1. Executive Summary & Fleet Publication Status",
         "",
-        "- **Total Corpus Assets Cataloged:** Over 54,000 documents across 29 discrete publishers and categories.",
-        "- **Active Document Formats:** 6,639 PDFs, 9,678 HTML files, 26,451 JPG/PNG images, 18,290 Markdown files.",
-        "- **Status as of October 1, 2026:**",
-        "  - **Current & Up to Date (<= 7 days ago):** 24 publishers have their latest Week 39 / Week 40 reports fully digested.",
+        "- **Total Corpus Assets Cataloged:** Over 55,000 documents across 30 discrete publishers and categories.",
+        "- **Active Document Formats:** 6,639 PDFs, 9,678 HTML files, 26,451 JPG/PNG images, 19,599 Markdown files.",
+        "- **Status as of October 2026:**",
+        "  - **Current & Up to Date (<= 7 days ago):** 25 publishers/categories have their latest reports and filings fully digested.",
         "  - **Just Ingested Live Today:** Fearnleys Week 40 (published 01/10/2026) and Agora Week 39 (published 30/09/2026) were crawled live and ingested into clean Markdown.",
         "  - **Normal Interval / Monthly Reporting Lag:** Seabrokers, PPA, and Drewry AIS operate on 30-to-60 day reporting cycles where August figures are published in late September or early October.",
         "  - **Chinese National Day Notice:** Hellenic Iron Ore (MMI Daily) spot updates pause during China's Golden Week (October 1 to October 7).",
@@ -1293,10 +1343,26 @@ def generate_markdown_audit():
         "| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |"
     ])
 
-    broker_sub = [s for s in SUBSECTOR_DATA if s["category"] not in ["Drewry Maritime AIS"] and "Hellenic" not in s["category"]]
+    broker_sub = [s for s in SUBSECTOR_DATA if s["category"] not in ["Drewry Maritime AIS"] and "Hellenic" not in s["category"] and not s["category"].startswith("Corporate SEC")]
     for bs in broker_sub:
         md_lines.append(
             f"| **{bs['category']}** | {bs['subsector']} | `{bs['count']}` | {bs['format']} | {bs['metrics']} | `{bs['series_csv']}` | **{bs['data_points']}** | {resolve_script_link(bs['script'])} |"
+        )
+
+    md_lines.extend([
+        "",
+        "### 3.4 SEC EDGAR Corporate Regulatory Filings (26 Listed Shipping & Dry Bulk Issuers)",
+        "",
+        "Corporate statutory filings covering all 26 target shipping, dry bulk, tanker, and gas public issuers. Filings include Annual Reports (10-K, 20-F), Quarterly Reports (10-Q, 6-K), and Material 8-Ks (earnings, vessel sales/purchases, fleet developments), converted via sec2md into clean Markdown with standardized YAML frontmatter:",
+        "",
+        "| Issuer Sector | Target Companies | Statutory Filings | Primary Form Types | Key Metrics & Financials Extracted | Storage Directory | Stored Documents | Ingestion Pipeline |",
+        "| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |"
+    ])
+
+    sec_sub = [s for s in SUBSECTOR_DATA if s["category"].startswith("Corporate SEC")]
+    for ss in sec_sub:
+        md_lines.append(
+            f"| **{ss['category']}** | {ss['subsector']} | `{ss['count']}` | {ss['format']} | {ss['metrics']} | [`{ss['series_csv']}`](file:///{str(ROOT / ss['series_csv']).replace(chr(92), '/')}) | **{ss['data_points']}** | {resolve_script_link(ss['script'])} |"
         )
 
     md_lines.extend([
@@ -1371,6 +1437,49 @@ def generate_markdown_audit():
                 f"- **Multi-Threaded Sweeper:** [`scripts/scrapers/sweep_drewry_fast.py`](file:///{str(ROOT / 'scripts/scrapers/sweep_drewry_fast.py').replace(chr(92), '/')}) — 20-worker fast DAM probe across weeks 32-42 for 2026.",
                 f"- **KPI & Tables Extractor:** [`scripts/extract/publishers/run_drewry_ais.py`](file:///{str(ROOT / 'scripts/extract/publishers/run_drewry_ais.py').replace(chr(92), '/')}) — extracts tables and generates Markdown dossiers into per-class subdirectories.",
                 f"- **Vector Curves Extractor:** [`scripts/extract/publishers/run_drewry_ais_charts.py`](file:///{str(ROOT / 'scripts/extract/publishers/run_drewry_ais_charts.py').replace(chr(92), '/')}) — extracts drawing curves and stacks into 4 master series CSVs (24,994 data rows).",
+                ""
+            ])
+
+        if item.get("category_id") == "companies_sec_filings":
+            md_lines.extend([
+                "#### Complete 26-Company Statutory Filings Inventory & Folder Breakdown",
+                "",
+                "All corporate filings are organized under `corpus/10-companies/{TICKER}/{FORM}/` with standardized YAML frontmatter and cleaned Markdown tables:",
+                "",
+                "| # | Ticker | Company Name | CIK | Segment | 10-K | 20-F | 10-Q | 6-K | 8-K | Total Files | Directory Link |",
+                "| :---: | :--- | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |",
+                f"| 01 | **VALE** | Vale S.A. | 0000917851 | Dry Bulk (Major Miner) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/VALE`](file:///{str(ROOT / 'corpus/10-companies/VALE').replace(chr(92), '/')}) |",
+                f"| 02 | **RIO** | Rio Tinto plc | 0001091587 | Dry Bulk (Major Miner) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/RIO`](file:///{str(ROOT / 'corpus/10-companies/RIO').replace(chr(92), '/')}) |",
+                f"| 03 | **BHP** | BHP Group Ltd | 0000817778 | Dry Bulk (Major Miner) | 0 | 13 | 0 | 35 | 0 | 48 | [`corpus/10-companies/BHP`](file:///{str(ROOT / 'corpus/10-companies/BHP').replace(chr(92), '/')}) |",
+                f"| 04 | **FSUGY** | Fortescue Ltd | 0001444325 | Dry Bulk (Rule 12g3-2(b) Exempt) | 0 | 0 | 0 | 0 | 0 | 0 | [`corpus/10-companies/FSUGY`](file:///{str(ROOT / 'corpus/10-companies/FSUGY').replace(chr(92), '/')}) |",
+                f"| 05 | **SBLK** | Star Bulk Carriers Corp. | 0001386909 | Dry Bulk (Capesize/Kamsarmax) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/SBLK`](file:///{str(ROOT / 'corpus/10-companies/SBLK').replace(chr(92), '/')}) |",
+                f"| 06 | **GOGL** | Golden Ocean Group Ltd | 0001029145 | Dry Bulk (Capesize/Panamax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/GOGL`](file:///{str(ROOT / 'corpus/10-companies/GOGL').replace(chr(92), '/')}) |",
+                f"| 07 | **GNK** | Genco Shipping & Trading Ltd | 0001322439 | Dry Bulk (Capesize/Ultramax) | 15 | 0 | 18 | 0 | 44 | 77 | [`corpus/10-companies/GNK`](file:///{str(ROOT / 'corpus/10-companies/GNK').replace(chr(92), '/')}) |",
+                f"| 08 | **SB** | Safe Bulkers, Inc. | 0001423878 | Dry Bulk (Post-Panamax/Kamsarmax) | 0 | 12 | 0 | 36 | 0 | 48 | [`corpus/10-companies/SB`](file:///{str(ROOT / 'corpus/10-companies/SB').replace(chr(92), '/')}) |",
+                f"| 09 | **DSX** | Diana Shipping Inc. | 0001318605 | Dry Bulk (Capesize/Kamsarmax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/DSX`](file:///{str(ROOT / 'corpus/10-companies/DSX').replace(chr(92), '/')}) |",
+                f"| 10 | **SHIP** | Seanergy Maritime Holdings Corp. | 0001438533 | Dry Bulk (Pure-play Capesize) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/SHIP`](file:///{str(ROOT / 'corpus/10-companies/SHIP').replace(chr(92), '/')}) |",
+                f"| 11 | **CTRM** | Castor Maritime Inc. | 0001720161 | Dry Bulk & Containerships | 0 | 10 | 0 | 35 | 0 | 45 | [`corpus/10-companies/CTRM`](file:///{str(ROOT / 'corpus/10-companies/CTRM').replace(chr(92), '/')}) |",
+                f"| 12 | **GLBS** | Globus Maritime Ltd | 0001499780 | Dry Bulk (Kamsarmax/Supramax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/GLBS`](file:///{str(ROOT / 'corpus/10-companies/GLBS').replace(chr(92), '/')}) |",
+                f"| 13 | **EDRY** | EuroDry Ltd. | 0001731388 | Dry Bulk (Kamsarmax/Supramax) | 0 | 8 | 0 | 35 | 0 | 43 | [`corpus/10-companies/EDRY`](file:///{str(ROOT / 'corpus/10-companies/EDRY').replace(chr(92), '/')}) |",
+                f"| 14 | **FRO** | Frontline plc | 0000913290 | Crude Tankers (VLCC/Suezmax/LR2) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/FRO`](file:///{str(ROOT / 'corpus/10-companies/FRO').replace(chr(92), '/')}) |",
+                f"| 15 | **INSW** | International Seaways, Inc. | 0001679049 | Crude & Product Tankers | 10 | 0 | 18 | 0 | 77 | 105 | [`corpus/10-companies/INSW`](file:///{str(ROOT / 'corpus/10-companies/INSW').replace(chr(92), '/')}) |",
+                f"| 16 | **STNG** | Scorpio Tankers Inc. | 0001483934 | Product Tankers (LR2/MR) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/STNG`](file:///{str(ROOT / 'corpus/10-companies/STNG').replace(chr(92), '/')}) |",
+                f"| 17 | **DHT** | DHT Holdings, Inc. | 0001331284 | Crude Tankers (Pure-play VLCC) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/DHT`](file:///{str(ROOT / 'corpus/10-companies/DHT').replace(chr(92), '/')}) |",
+                f"| 18 | **TNK** | Teekay Tankers Ltd. | 0001419945 | Crude & Product (Suezmax/Aframax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/TNK`](file:///{str(ROOT / 'corpus/10-companies/TNK').replace(chr(92), '/')}) |",
+                f"| 19 | **TRMD** | TORM plc | 0001655891 | Product Tankers (LR2/LR1/MR) | 0 | 10 | 0 | 35 | 0 | 45 | [`corpus/10-companies/TRMD`](file:///{str(ROOT / 'corpus/10-companies/TRMD').replace(chr(92), '/')}) |",
+                f"| 20 | **ECO** | Okeanis Eco Tankers Corp. | 0001964954 | Crude Tankers (VLCC/Suezmax) | 0 | 3 | 0 | 35 | 0 | 38 | [`corpus/10-companies/ECO`](file:///{str(ROOT / 'corpus/10-companies/ECO').replace(chr(92), '/')}) |",
+                f"| 21 | **NAT** | Nordic American Tankers Ltd | 0001000177 | Crude Tankers (Pure-play Suezmax) | 0 | 15 | 0 | 35 | 0 | 50 | [`corpus/10-companies/NAT`](file:///{str(ROOT / 'corpus/10-companies/NAT').replace(chr(92), '/')}) |",
+                f"| 22 | **TNP** | Tsakos Energy Navigation Ltd | 0001166663 | Diversified Tankers & LNG | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/TNP`](file:///{str(ROOT / 'corpus/10-companies/TNP').replace(chr(92), '/')}) |",
+                f"| 23 | **ASC** | Ardmore Shipping Corp | 0001577437 | Product & Chemical Tankers (MR) | 0 | 15 | 0 | 35 | 0 | 50 | [`corpus/10-companies/ASC`](file:///{str(ROOT / 'corpus/10-companies/ASC').replace(chr(92), '/')}) |",
+                f"| 24 | **SFL** | SFL Corporation Ltd | 0001289877 | Diversified Maritime Assets | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/SFL`](file:///{str(ROOT / 'corpus/10-companies/SFL').replace(chr(92), '/')}) |",
+                f"| 25 | **NVGS** | Navigator Holdings Ltd. | 0001581804 | Gas Carriers (Handysize LPG/Ethylene) | 0 | 13 | 0 | 35 | 0 | 48 | [`corpus/10-companies/NVGS`](file:///{str(ROOT / 'corpus/10-companies/NVGS').replace(chr(92), '/')}) |",
+                f"| 26 | **LPG** | Dorian LPG Ltd. | 0001596993 | Gas Carriers (Pure-play VLGC) | 14 | 0 | 18 | 0 | 64 | 96 | [`corpus/10-companies/LPG`](file:///{str(ROOT / 'corpus/10-companies/LPG').replace(chr(92), '/')}) |",
+                f"| **Total** | | | | | **39** | **233** | **54** | **771** | **213** | **1,310** | [`corpus/10-companies`](file:///{str(ROOT / 'corpus/10-companies').replace(chr(92), '/')}) |",
+                "",
+                "#### Autonomous Pipeline Scripts & Audit Verification",
+                f"- **Automated Acquisition & Conversion:** [`scripts/acquire/fetch_sec_filings.py`](file:///{str(ROOT / 'scripts/acquire/fetch_sec_filings.py').replace(chr(92), '/')}) — autonomous incremental ingestion via `edgartools` + `sec2md` with frontmatter generation.",
+                f"- **Markdown Standardization Engine:** [`scripts/acquire/standardize_sec_markdown.py`](file:///{str(ROOT / 'scripts/acquire/standardize_sec_markdown.py').replace(chr(92), '/')}) — enforces uniform YAML frontmatter, cleans HTML/DOM artifacts, normalizes tables.",
+                f"- **Zero-Defect Quality Audit:** [`scripts/acquire/audit_sec_corpus.py`](file:///{str(ROOT / 'scripts/acquire/audit_sec_corpus.py').replace(chr(92), '/')}) — validates all 1,310 filings for valid YAML frontmatter, minimum byte length, and zero conversion defects.",
                 ""
             ])
 

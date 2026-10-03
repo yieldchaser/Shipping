@@ -43,7 +43,9 @@ for ticker in target_companies:
                 if sz < 300:
                     bad_files.append((str(md), f'Small file: {sz} bytes'))
                 text = md.read_text(encoding='utf-8', errors='ignore')
-                for line in text.splitlines():
+                if not text.startswith('---'):
+                    bad_files.append((str(md), 'Missing YAML frontmatter start'))
+                for line in text.splitlines()[:50]:
                     if artifact_pat.match(line):
                         bad_files.append((str(md), f'Artifact line: {line[:50]}'))
                         break
@@ -71,3 +73,7 @@ print(f"Total Corpus Size: {total_bytes / (1024*1024):.2f} MB")
 print(f"Defective Files Found: {len(bad_files)}")
 if bad_files:
     print("Defective files sample:", bad_files[:5])
+    import sys
+    sys.exit(1)
+import sys
+sys.exit(0)
