@@ -43,12 +43,30 @@ CUSTOM_DESCRIPTIONS = {
 }
 
 def count_file_rows(file_path: Path) -> int:
-    """Accurately count rows in a CSV file, subtracting the header line."""
-    count = 0
-    with open(file_path, "r", encoding="utf-8", errors="replace") as f:
-        for _ in f:
-            count += 1
-    return max(0, count - 1)
+    """Count LOGICAL CSV data rows (header excluded).
+
+    Raw line counting OVERSTATES any series whose text fields contain embedded
+    newlines (multi-line broker commentary). Measured 2026-10-03: line counting
+    gave 615,101 rows against 592,848 logical csv.reader records across the 170
+    series - a +22,253 phantom overcount in the register. Use csv.reader.
+    """
+    import csv as _csv
+    with open(file_path, "r", encoding="utf-8", errors="replace", newline="") as f:
+        reader = _csv.reader(f)
+        try:
+            next(reader)
+        except StopIteration:
+            return 0
+        return sum(1 for row in reader if row)
+
+
+def read_header(file_path: Path):
+    import csv as _csv
+    with open(file_path, "r", encoding="utf-8", errors="replace", newline="") as f:
+        try:
+            return next(_csv.reader(f))
+        except StopIteration:
+            return []
 
 def sync_register():
     print("=" * 70)
@@ -166,6 +184,28 @@ def sync_register():
             
             # Update series inventory in JSON
             reg_data["series_inventory"] = {k: v for k, v in disk_inventory.items()}
+            # Keep the parallel master_series_inventory list (rows + columns) and the
+            # stacked totals in step with disk, so both structures and verify_registers agree.
+            _prev = {it.get("file"): it for it in reg_data.get("master_series_inventory", [])}
+            _msi = []
+            for _name in sorted(disk_inventory.keys()):
+                _previt = _prev.get(_name, {})
+                if _name in CUSTOM_DESCRIPTIONS:
+                    _tgt = CUSTOM_DESCRIPTIONS[_name]
+                else:
+                    _tgt = _previt.get("target_metric") or _name.replace("_series.csv", "").replace("_", " ").title()
+                _msi.append({
+                    "file": _name,
+                    "target_metric": _tgt,
+                    "rows": disk_inventory[_name],
+                    "columns": read_header(SERIES_DIR / _name),
+                    "status": _previt.get("status", "Verified"),
+                })
+            reg_data["master_series_inventory"] = _msi
+            reg_data["total_master_stacked_rows"] = total_csv_rows
+            reg_data["total_stacked_rows"] = total_csv_rows
+            reg_data["total_master_series_csvs"] = len(csv_files)
+            reg_data["total_series_csvs"] = len(csv_files)
             
             with open(REGISTER_JSON, "w", encoding="utf-8") as jf:
                 json.dump(reg_data, jf, indent=2)
