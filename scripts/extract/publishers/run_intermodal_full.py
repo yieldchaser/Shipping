@@ -792,6 +792,25 @@ def parse_all_intermodal_tables(
                 elif "size" in c or "type" in c: col_map["size"] = idx
                 elif "hull" in c or "gear" in c: col_map["gear_hull"] = idx
 
+            # Mangled-header family: LlamaParse fuses the section label into the
+            # header and inserts 'Sector'/'Size' cells AHEAD of 'Name' (measured:
+            # "Sector|Size|Tankers|Name|Dwt|..." on 2022 W13/W17/W24 and 2023 W06;
+            # "Sector|Size|Containers|Name|Teu|..." on 2022 W36/W09). The DATA row
+            # is unchanged (its first cell is the size/type code), so every header
+            # keyword sits (_hdr_shift) columns to the RIGHT of the value it names.
+            # Anchor on content: the shift is the number of cells before 'Name'.
+            # An unshifted map published the vessel NAME as the DWT and the BUILT
+            # year as the NAME (measured 2026-10-03: 19 rows on 2022 W13).
+            _hdr_shift = 0
+            if hdr0 and hdr0[0].strip().lower() == "sector" and "name" in col_map and col_map["name"] > 1:
+                _hdr_shift = col_map["name"] - 1
+            if _hdr_shift:
+                _rm: Dict[str, int] = {}
+                for _k, _i in col_map.items():
+                    _j = _i - _hdr_shift
+                    _rm[_k] = _j if _j >= 0 else 0   # spurious cell -> data col 0 (the size/type)
+                col_map = _rm
+
             for cols in grid[1:]:
                 if len(cols) < len(grid[0]):
                     cols += [""] * (len(grid[0]) - len(cols))
