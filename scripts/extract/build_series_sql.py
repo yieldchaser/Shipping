@@ -140,32 +140,44 @@ def main() -> int:
             print(f"   {r[0][:11]:<12}{r[1][:20]:<22}{r[2][:24]:<26}b{r[3]} n={r[4]}")
         return 0
 
-    con.execute("drop table if exists series_points")
-    con.execute("drop table if exists series")
-    con.execute("""
-        create table series_points as
-        select b.source || '|' || b.entity_key || '|' || b.header_key
-                 || '|b' || b.block_no
-                 || case when b.class_key <> '' then '|' || b.class_key else '' end
+    SEP = "\x1f"
+    con.execute(f"""
+        create temp table pts_full as
+        select b.source, b.entity_key, b.header_key, b.block_no, b.class_key,
+               b.source || '{SEP}' || b.entity_key || '{SEP}' || b.header_key
+                 || '{SEP}b' || b.block_no
+                 || case when b.class_key <> '' then '{SEP}' || b.class_key else '' end
                                                       as series_id,
                dd.d                                   as date,
                b.num_value                            as value
         from blocks b
         join doc_dates dd on dd.doc_stem = b.doc_stem
     """)
+
+    # The series key is a delimited string, but the entity/header TEXT can itself
+    # contain the delimiter (e.g. fearnleys "weekly report | fearnpulse"), so the
+    # old split_part() recovery mis-read those keys and the representative-
+    # spelling join then DROPPED their series: measured 267 orphan points / 162
+    # distinct series_ids, all carrying a "|".  Fix = keep the component columns
+    # beside the id and GROUP on them, so a key is never re-parsed from the
+    # string.  The id delimiter is the unit separator, absent from every cell
+    # value (measured 0 / 6,726,703).
+    con.execute("drop table if exists series_points")
+    con.execute("create table series_points as"
+                " select series_id, date, value from pts_full")
+    con.execute("drop table if exists series")
     con.execute("""
         create table series as
-        select series_id,
-               split_part(series_id,'|',1) as source,
-               split_part(series_id,'|',2) as entity_key,
-               split_part(series_id,'|',3) as measurement_key,
-               try_cast(replace(split_part(series_id,'|',4),'b','') as integer) as block_no,
-               split_part(series_id,'|',5)          as instrument_class,
+        select series_id, source, entity_key,
+               header_key as measurement_key,
+               block_no,
+               class_key  as instrument_class,
                count(*)            as points,
                count(distinct date) as distinct_dates,
                min(date)           as first_date,
                max(date)           as last_date
-        from series_points group by series_id
+        from pts_full
+        group by series_id, source, entity_key, header_key, block_no, class_key
     """)
     # representative spellings, one row per series (was fanning out per variant)
     con.execute("""
@@ -179,6 +191,7 @@ def main() -> int:
               from (select distinct header_key, header from blocks) group by 1) h
           on h.header_key = s.measurement_key
     """)
+
     if a.min_points > 1:
         con.execute("delete from series_points where series_id not in "
                     "(select series_id from series where points >= ?)", [a.min_points])
@@ -218,7 +231,10 @@ def main() -> int:
                   con.execute("select count(*) from series_daily where n_distinct_values>1").fetchone()[0])
     print(f"series={n_s:,}  series_points={n_p:,}  series_daily={n_d:,}")
     print(f"  daily rows with >1 distinct value (ambiguity disclosed, not averaged): {n_amb:,}")
-    print(f"integrity: orphans={orphans}  mismatched={mism}  duplicate(series,date)={dup_dates}")
+    print(f"integrity: orphans={orphans}  mismatched={mism}")
+    print(f"  duplicate(series,date) in series_points={dup_dates:,} "
+          "(BY DESIGN: every raw observation is kept; series_daily is the "
+          "one-row-per-(series,date) view)")
     if orphans or mism:
         print("INTEGRITY FAIL")
         return 2
