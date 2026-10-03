@@ -212,7 +212,16 @@ def clean_markdown_content(md_text: str) -> str:
 
     # 3. Collapse multiple blank lines
     result = re.sub(r'\n{3,}', '\n\n', "\n".join(cleaned_lines)).strip()
+
+    # 4. Standardize table structures, signature blocks, and typography
+    try:
+        from scripts.acquire.standardize_sec_markdown import process_markdown_content
+        result = process_markdown_content(result)
+    except Exception:
+        pass
+
     return result
+
 
 
 def convert_filing_to_markdown(filing) -> Tuple[str, str]:
