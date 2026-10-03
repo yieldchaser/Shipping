@@ -74,27 +74,78 @@ FILENAME_PATTERN = re.compile(
 
 
 def clean_typography(text: str) -> str:
-    """Clean typographic artifacts, printer banners, note numbers, and dollar escaping."""
+    """Clean typographic artifacts, printer banners, note numbers, corrupted encodings, and dollar escaping."""
+    # 0. Normalize Windows-1252 / Latin-1 control characters to clean Unicode
+    cp1252_map = {
+        chr(128): '€',
+        chr(130): ',',
+        chr(131): 'f',
+        chr(132): '"',
+        chr(133): '...',
+        chr(134): '†',
+        chr(135): '‡',
+        chr(136): '^',
+        chr(137): '‰',
+        chr(138): 'Š',
+        chr(139): '<',
+        chr(140): 'OE',
+        chr(142): 'Ž',
+        chr(145): "'",
+        chr(146): "'",
+        chr(147): '"',
+        chr(148): '"',
+        chr(149): '•',
+        chr(150): '–',
+        chr(151): '—',
+        chr(152): '~',
+        chr(153): '™',
+        chr(154): 'š',
+        chr(155): '>',
+        chr(156): 'oe',
+        chr(158): 'ž',
+        chr(159): 'Ÿ',
+        chr(253): '☐',
+        # Private Use Area & Wingdings / Symbol font bullets and boxes
+        chr(0xF020): ' ',
+        chr(0xF02D): '-',
+        chr(0xF097): '•',
+        chr(0xF09F): '☐',
+        chr(0xF0B7): '•',
+    }
+    for k, v in cp1252_map.items():
+        text = text.replace(k, v)
+
+    # Strip any remaining unassigned C1 control codes (129, 141, 143, 144, 157)
+    for c in [129, 141, 143, 144, 157]:
+        text = text.replace(chr(c), '')
+
     # 1. Strip standalone page numbers followed by Table of Contents
     text = re.sub(r'^\s*\d{1,4}\s*\n+Table of Contents\s*$', '', text, flags=re.M)
     # 2. Strip standalone Table of Contents
     text = re.sub(r'^\s*Table of Contents\s*$', '', text, flags=re.M)
-    # 3. Fix Note headers like '1 0 –' -> '10 –'
+    # 3. Strip broken image links pointing to non-existent local image files
+    text = re.sub(r'^\s*!\[+.*?\]+\([^\)]*\)\s*$', '', text, flags=re.M | re.I)
+    text = re.sub(r'!\[+.*?\]+\([^\)]+\.(?:jpg|png|gif|jpeg)\)', '', text, flags=re.I)
+    text = re.sub(r'^\s*Preview unavailable\s*$', '', text, flags=re.M)
+    # 4. Turn orphan bullets on their own lines into proper Markdown bullet list items
+    text = re.sub(r'^\s*[·•\u2022]\s*\n+(\S)', r'- \1', text, flags=re.M)
+    # 5. Fix Note headers like '1 0 –' -> '10 –'
     text = re.sub(r'^\s*(\d)\s+(\d)\s*([–\-])\s*', r'\1\2 \3 ', text, flags=re.M)
     text = re.sub(r'^\s*(\d)\s+(\d)\s+(\d)\s*([–\-])\s*', r'\1\2\3 \4 ', text, flags=re.M)
-    # 4. Fix SEC Rules
+    # 6. Fix Item number spacing: 'Item 1 .' -> 'Item 1.'
+    text = re.sub(r'\bItem\s+(\d+[A-Za-z]?)\s+\.', r'Item \1.', text)
+    # 7. Fix SEC Rules
     text = re.sub(r'Rule\s+12b\s+2\b', 'Rule 12b-2', text)
     text = re.sub(r'Rule\s+13a\s+16\b', 'Rule 13a-16', text)
     text = re.sub(r'Rule\s+15d\s+16\b', 'Rule 15d-16', text)
-    # 5. Fix numbers with spaces after commas (thousands separators): 136, 414 -> 136,414
-    # Run twice for millions (e.g. 1, 234, 567)
+    # 8. Fix numbers with spaces after commas (thousands separators): 136, 414 -> 136,414
     text = re.sub(r'\b(\d{1,3}),\s+(\d{3})\b', r'\1,\2', text)
     text = re.sub(r'\b(\d{1,3}),\s+(\d{3})\b', r'\1,\2', text)
-    # 6. Fix space after dollar sign: $ 748 -> $748
+    # 9. Fix space after dollar sign: $ 748 -> $748
     text = re.sub(r'\$\s+(\d)', r'$\1', text)
-    # 7. Clean spaced parentheses inside numbers: (3,105 ) -> (3,105)
+    # 10. Clean spaced parentheses inside numbers: (3,105 ) -> (3,105)
     text = re.sub(r'\(\s*([0-9,]+(?:\.[0-9]+)?)\s+\)', r'(\1)', text)
-    # 8. Escape unescaped dollar signs to prevent markdown previewers from triggering LaTeX math mode
+    # 11. Escape unescaped dollar signs to prevent markdown previewers from triggering LaTeX math mode
     text = re.sub(r'(?<!\\)\$', r'\$', text)
     return text
 
@@ -109,6 +160,24 @@ def is_numeric_value(cell: str) -> bool:
         return True
     except ValueError:
         return False
+
+
+def is_financial_number(cell: str) -> bool:
+    """Check if cell is a financial number, rate, or percentage (excluding standalone 4-digit years)."""
+    s = cell.replace('\\$', '').replace('$', '').replace(',', '').replace('(', '').replace(')', '').replace('-', '').replace('—', '').replace('%', '').strip()
+    if not s:
+        return False
+    try:
+        val = float(s)
+        # Standalone 4-digit year is not a financial number (e.g. 2026 in header row)
+        if re.match(r'^\d{4}$', s):
+            int_val = int(s)
+            if 1900 <= int_val <= 2100:
+                return False
+        return True
+    except ValueError:
+        return False
+
 
 
 def format_signature_block(rows: List[List[str]]) -> List[str]:
@@ -272,6 +341,15 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
                     r[c + 1] = curr_cell
                     r[c] = ''
 
+    # Step 1B: Detect and merge sub-item columns (e.g. 'a)', 'b)' in TOC tables)
+    for c in range(max_cols - 1):
+        has_subitem = any(re.match(r'^(?:[a-z]\)|\([a-z\d]+\))$', r[c].strip(), re.I) and r[c + 1].strip() for r in content_rows)
+        if has_subitem:
+            for r in content_rows:
+                if r[c + 1].strip():
+                    r[c] = f"{r[c]} {r[c + 1]}".strip()
+                    r[c + 1] = ''
+
     # Step 2: Detect header column shifts
     # If column c has header text but column c+1 has empty header and data in body rows, shift header text to c+1
     first_pass_data_idx = 0
@@ -306,52 +384,61 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
     new_cols = len(keep_cols)
 
     # Step 4: Determine Header Rows vs Body Rows
-    first_data_idx = 0
-    for idx, r in enumerate(pruned_rows):
-        has_financial_num = False
-        for c in r[1:]:
-            c_str = c.replace('\\$', '').replace('$', '').replace(',', '').strip()
-            # If comma-formatted number (e.g. 136,414), negative (1,234), or decimal (0.38)
-            if re.search(r'\d{1,3},\d{3}', c) or re.search(r'^\(?-?\d+\.\d+\)?$', c_str):
-                has_financial_num = True
-                break
-            # Or plain number not looking like a standalone year (e.g. 1..999, or >2100)
-            if re.match(r'^\(?-?\d+\)?$', c_str):
-                num_val = int(re.sub(r'[^\d]', '', c_str))
-                if num_val < 1900 or num_val > 2100:
-                    has_financial_num = True
-                    break
-        if has_financial_num:
-            first_data_idx = idx
+    # In SEC filings, a table header has AT MOST 3 rows.
+    # The header strictly ends before:
+    # 1. Any category row (e.g. 'Revenues:', 'Newcastlemax Vessels', '$680 Million Revolver')
+    # 2. Any row containing financial numbers, percentages, or rates
+    # 3. Any row in rows 1..3 that contains data values (dates like 'August 2026', charter terms 'Voyage', etc.)
+    max_header_limit = min(3, len(pruned_rows) - 1) if len(pruned_rows) > 1 else 1
+
+    header_end_idx = 1
+    for idx in range(max_header_limit):
+        r = pruned_rows[idx]
+        # Check if category row (only col 0 or only col 1 populated)
+        is_cat = (r[0] != '' and all(c == '' for c in r[1:])) or (len(r) > 1 and r[1] != '' and r[0] == '' and all(c == '' for c in r[2:]))
+        if is_cat:
+            header_end_idx = idx
             break
+        # Check if row has financial numbers
+        if any(is_financial_number(c) for c in r[1:]):
+            header_end_idx = idx
+            break
+        # Check if row looks like a data row
+        if idx > 0 and sum(1 for c in r if c) >= 2:
+            has_data = any(
+                re.search(r'\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b', c)
+                or c in ('Voyage', 'Spot', 'Bareboat', 'Time Charter')
+                or is_financial_number(c)
+                for c in r
+            )
+            if has_data:
+                header_end_idx = idx
+                break
+            header_end_idx = idx + 1
 
-    if first_data_idx > 0:
-        # Check for category rows immediately preceding first_data_idx (e.g. 'Revenues:' or '$680 Million Revolver')
-        split_idx = first_data_idx
-        while split_idx > 0 and pruned_rows[split_idx - 1][0] != '' and all(c == '' for c in pruned_rows[split_idx - 1][1:]):
-            split_idx -= 1
-
-        actual_header_rows = pruned_rows[:split_idx]
-        category_rows_to_prepend = pruned_rows[split_idx:first_data_idx]
-        body_rows = category_rows_to_prepend + pruned_rows[first_data_idx:]
-
-        if actual_header_rows:
-            merged_header: List[str] = []
-            for col_idx in range(new_cols):
-                parts: List[str] = []
-                for hr in actual_header_rows:
-                    v = hr[col_idx].strip()
-                    if v and v not in parts:
-                        parts.append(v)
-                h_text = ' '.join(parts).strip()
-                if not h_text and col_idx == 0:
-                    h_text = 'Line Item'
-                merged_header.append(h_text if h_text else f'Col {col_idx + 1}')
-        else:
-            merged_header = [c.strip() if c.strip() else f'Col {i + 1}' for i, c in enumerate(pruned_rows[0])]
+    if header_end_idx == 0:
+        actual_header_rows = []
+        body_rows = pruned_rows
     else:
-        merged_header = [c.strip() if c.strip() else f'Col {i + 1}' for i, c in enumerate(pruned_rows[0])]
-        body_rows = pruned_rows[1:]
+        actual_header_rows = pruned_rows[:header_end_idx]
+        body_rows = pruned_rows[header_end_idx:]
+
+    merged_header: List[str] = []
+    for col_idx in range(new_cols):
+        parts: List[str] = []
+        for hr in actual_header_rows:
+            v = hr[col_idx].strip()
+            if v and v not in parts:
+                parts.append(v)
+        h_text = ' '.join(parts).strip()
+        if not h_text:
+            if col_idx == 0:
+                h_text = 'Item' if any('Item' in r[0] for r in body_rows) else 'Line Item'
+            elif col_idx == 1 and any('Financial Statements' in r[col_idx] or 'Description' in r[col_idx] for r in body_rows):
+                h_text = 'Description'
+            else:
+                h_text = f'Col {col_idx + 1}'
+        merged_header.append(h_text)
 
     # Format category rows inside body with bold text
     formatted_body_rows: List[List[str]] = []
@@ -359,6 +446,9 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
         if r[0] != '' and all(c == '' for c in r[1:]):
             clean_name = r[0].strip().strip('*')
             formatted_body_rows.append([f"**{clean_name}**"] + [''] * (new_cols - 1))
+        elif len(r) > 1 and r[1] != '' and r[0] == '' and all(c == '' for c in r[2:]):
+            clean_name = r[1].strip().strip('*')
+            formatted_body_rows.append(['', f"**{clean_name}**"] + [''] * (new_cols - 2))
         else:
             formatted_body_rows.append(r)
 
@@ -379,6 +469,7 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
         out.append('| ' + ' | '.join(c.strip() for c in r) + ' |')
 
     return out
+
 
 
 def process_markdown_content(content: str) -> str:
