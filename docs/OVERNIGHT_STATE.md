@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-03 15:2x-15:4x, source-by-source, 30m job) - XCLUSIV VERIFIED: the delivered series are byte-reproducible, and the md tier was brought current with a committed fix it had MISSED. Evidence `docs/xclusiv_verify_verdict.md`.**
+
+The prompt's "xclusiv IN PROGRESS" is STALE (271 md on disk, 10 series, register CLOSED); no extraction job was running (the two `python.exe` are the Hermes gateway). So this run did the prompt's item 2/3 - VERIFY xclusiv - with a full re-run.
+
+**Ran** `python3 scripts/extract/publishers/run_xclusiv_tables.py --all` (offline PyMuPDF, no credits): `[dedup] skipped 7 byte-identical duplicate document(s)`, **264/264 ok, 0 failed, 455.2 s**. Summary: sales 5702 / demolition prices 2082 / secondhand 8529 / demo_sales 603.
+
+**CONTROL - numeric layer byte-identical:** all ten `xclusiv_*.csv` `md5sum -c` = OK (only 4 are written by this runner; all 4 reproduced byte-identically). Register unchanged, **170 CSVs / 594,101 rows, verify_registers.py = 0 mismatches**. Sidecar-vs-CSV reconciliation over 271 year sidecars: the ONLY docs absent from the CSVs are the **7 byte-duplicate stems** = the dedup working as designed; **no stacking gap**.
+
+**REAL FINDING - the delivered md predated a committed fix, so the md tier was STALE.** `run_xclusiv_tables.py` was committed **2026-10-02 16:15** (`a0d2d21bc`, "clean xclusiv freight commentary"); the delivered md was written 10-01 20:35. The re-run regenerated it: **263 of 271 md changed, and 0 of 271 differ outside the Dry Bulk/Tanker Freight sections** (control = stashed pre-fix copies in `data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/xclusiv/`, freight sections stripped from both). Freight-section delta: **removed 4,433 old lines (1,317 chart furniture) -> added 229 real commentary lines across 136 files**. The old predicate (`b[0] < w*0.55`) pulled chart titles/legends/axis ticks; the new (`x < 60`) takes the left-margin commentary. Content verify vs the PDF text layer: 2024-03-19 Dry Bulk 5 blocks / Tanker 4 blocks match the page **verbatim**.
+
+**SIDE EFFECT CONTROLLED:** the runner's backward-compat branch re-created **264 flat md + 264 flat tables.json** root duplicates (previously stashed, 809 files - the flat+year mirror hazard). **Removed again**; tier restored to **271 md + 271 tables.json, year-partitioned only, 0 flat**.
+
+**RESIDUAL (not fixed):** the register's `publishers.xclusiv` block is stale prose (sales 5713 / secondhand 8593 / demo 618 / nb_price 1397 / 21135 vs delivered 5702 / 8529 / 603 / 1379 / 20975); `verify_registers.py` checks `series_inventory`+totals (0 mismatches), not this block. No vision tool this session - substituted the PDF text layer and same-document pre/post controls, stated.
+
 **THIS RUN (2026-10-03 14:2x, source-by-source, 30m job) - CLARKSONS DESK TALK: the sales table fused into `commentary_text` is FIXED (355 -> 352 rows). Evidence `docs/clarksons_desk_talk_fusion_verdict.md`.**
 
 No extraction job was running (both `python.exe` are the Hermes gateway). The prompt's "xclusiv IN PROGRESS / start the next source" is STALE - xclusiv and every broker source are CLOSED in the register. The register the last run owed is already synced and verified clean. So this run closed the residual the 13:3x supervisor explicitly left open.
