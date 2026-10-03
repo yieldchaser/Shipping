@@ -36,7 +36,10 @@ from sec2md.parser import Parser
 
 # SEC identity
 SEC_IDENTITY = "Antigravity Research research@shippinganalytics.com"
-CORPUS_DIR = Path(__file__).resolve().parent.parent.parent / "corpus" / "10-companies"
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+CORPUS_DIR = REPO_ROOT / "corpus" / "10-companies"
 
 # Target companies in exact order
 TARGET_COMPANIES = [
@@ -217,8 +220,14 @@ def clean_markdown_content(md_text: str) -> str:
     try:
         from scripts.acquire.standardize_sec_markdown import process_markdown_content
         result = process_markdown_content(result)
-    except Exception:
-        pass
+    except ImportError:
+        try:
+            from standardize_sec_markdown import process_markdown_content
+            result = process_markdown_content(result)
+        except Exception as e:
+            print(f"[WARN] Failed to standardize markdown: {e}")
+    except Exception as e:
+        print(f"[WARN] Failed to standardize markdown: {e}")
 
     return result
 

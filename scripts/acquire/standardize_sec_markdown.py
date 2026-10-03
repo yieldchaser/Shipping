@@ -27,6 +27,7 @@ Comprehensive formatting and normalization pass across SEC Markdown filings in c
    - 100% Zero-Data-Loss guarantee.
 """
 
+import argparse
 import os
 import re
 import sys
@@ -123,6 +124,9 @@ def clean_typography(text: str) -> str:
     text = re.sub(r'^\s*\d{1,4}\s*\n+Table of Contents\s*$', '', text, flags=re.M)
     # 2. Strip standalone Table of Contents
     text = re.sub(r'^\s*Table of Contents\s*$', '', text, flags=re.M)
+    # Strip standalone printer page numbers (e.g. isolated page numbers on their own lines)
+    text = re.sub(r'\n{2,}\s*\d{1,4}\s*\n{2,}', '\n\n', text)
+    text = re.sub(r'\n{2,}\s*\d{1,4}\s*$', '\n', text)
     # 3. Strip broken image links pointing to non-existent local image files
     text = re.sub(r'^\s*!\[+.*?\]+\([^\)]*\)\s*$', '', text, flags=re.M | re.I)
     text = re.sub(r'!\[+.*?\]+\([^\)]+\.(?:jpg|png|gif|jpeg)\)', '', text, flags=re.I)
@@ -145,7 +149,16 @@ def clean_typography(text: str) -> str:
     text = re.sub(r'\$\s+(\d)', r'$\1', text)
     # 10. Clean spaced parentheses inside numbers: (3,105 ) -> (3,105)
     text = re.sub(r'\(\s*([0-9,]+(?:\.[0-9]+)?)\s+\)', r'(\1)', text)
-    # 11. Escape unescaped dollar signs to prevent markdown previewers from triggering LaTeX math mode
+    # 11. Split joined Date and By in signature blocks: DATE: August 5, 2026 By: /s/ Peter Allen -> DATE: August 5, 2026\nBy: /s/ Peter Allen
+    text = re.sub(
+        r'\b((?:DATE|Date):\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s*\d{4})\s+(By:\s*/s/)',
+        r'\1  \n\2',
+        text,
+        flags=re.IGNORECASE,
+    )
+    # 12. Add blank line between signatories
+    text = re.sub(r'(\))\s*\n+((?:DATE|Date):)', r'\1\n\n\2', text)
+    # 13. Escape unescaped dollar signs to prevent markdown previewers from triggering LaTeX math mode
     text = re.sub(r'(?<!\\)\$', r'\$', text)
     return text
 
@@ -180,12 +193,24 @@ def is_financial_number(cell: str) -> bool:
 
 
 
+def is_footnote_or_item_marker(cell: str) -> bool:
+    """Check if cell is an exhibit marker, footnote marker, or list item number like (*), (1), 1., 31.1, 101, (a)."""
+    s = cell.strip()
+    if not s:
+        return False
+    if re.match(r'^\(?[\*\d]+[\)\.]?$', s) or re.match(r'^\([a-z\d]+\)$', s, re.I):
+        return True
+    if re.match(r'^\d{1,3}(?:\.\d{1,2})?$', s):
+        return True
+    return False
+
+
 def format_signature_block(rows: List[List[str]]) -> List[str]:
-    """Convert a SEC signature table into clean, standard Markdown text."""
+    """Convert a SEC signature table into clean, standard Markdown text with distinct signatories."""
     lines: List[str] = []
-    extracted_date = ""
     company_name = ""
-    body_lines: List[str] = []
+    signatories: List[List[str]] = []
+    current_sig: List[str] = []
 
     date_regex = re.compile(
         r'\b(?:Date:\s*)?(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s*\d{4}\b',
@@ -197,28 +222,42 @@ def format_signature_block(rows: List[List[str]]) -> List[str]:
         if not non_empty:
             continue
         row_str = ' '.join(non_empty)
-        m_date = date_regex.search(row_str)
-        if m_date and not extracted_date:
-            extracted_date = m_date.group(0).strip()
-            row_rem = date_regex.sub('', row_str).strip()
-            if row_rem:
-                body_lines.append(row_rem)
-        else:
-            body_lines.append(row_str)
 
-    if body_lines:
-        company_name = body_lines[0]
-        body_lines = body_lines[1:]
+        # Check if company name row
+        if not company_name and not any(k in row_str.lower() for k in ['/s/', 'date:', 'by:', 'title:', 'name:']):
+            company_name = row_str
+            continue
+
+        # Check if new signatory starts
+        is_new_sig_start = bool(date_regex.search(row_str) or '/s/' in row_str.lower())
+        if is_new_sig_start and current_sig and any('/s/' in l for l in current_sig):
+            signatories.append(current_sig)
+            current_sig = []
+
+        m_date = date_regex.search(row_str)
+        if m_date and ('/s/' in row_str or 'by:' in row_str.lower()):
+            # Row has both date and signature/by
+            d_val = m_date.group(0).strip()
+            if not d_val.lower().startswith('date:'):
+                d_val = f"Date: {d_val}"
+            rem = date_regex.sub('', row_str).strip()
+            current_sig.append(d_val)
+            if rem:
+                current_sig.append(rem)
+        else:
+            current_sig.append(row_str)
+
+    if current_sig:
+        signatories.append(current_sig)
 
     if company_name:
         lines.append(f"**{company_name}**\n")
-    if extracted_date:
-        if not extracted_date.lower().startswith('date:'):
-            extracted_date = f"Date: {extracted_date}"
-        lines.append(f"{extracted_date}  ")
 
-    for l in body_lines:
-        lines.append(f"{l}  ")
+    for idx, sig in enumerate(signatories):
+        if idx > 0:
+            lines.append("")
+        for l in sig:
+            lines.append(f"{l}  ")
 
     return lines
 
@@ -342,7 +381,8 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
                     r[c] = ''
 
     # Step 1B: Detect and merge sub-item columns (e.g. 'a)', 'b)' in TOC tables)
-    for c in range(max_cols - 1):
+    # Only search columns c >= 1 to protect primary key / footnote marker columns at c = 0
+    for c in range(1, max_cols - 1):
         has_subitem = any(re.match(r'^(?:[a-z]\)|\([a-z\d]+\))$', r[c].strip(), re.I) and r[c + 1].strip() for r in content_rows)
         if has_subitem:
             for r in content_rows:
@@ -378,7 +418,12 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
             keep_cols.append(c)
 
     if len(keep_cols) < 2:
-        return table_lines
+        out = []
+        for r in content_rows:
+            line_content = ' '.join(c for c in r if c).strip()
+            if line_content:
+                out.append(line_content)
+        return out
 
     pruned_rows = [[r[c] for c in keep_cols] for r in content_rows]
     new_cols = len(keep_cols)
@@ -386,14 +431,19 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
     # Step 4: Determine Header Rows vs Body Rows
     # In SEC filings, a table header has AT MOST 3 rows.
     # The header strictly ends before:
-    # 1. Any category row (e.g. 'Revenues:', 'Newcastlemax Vessels', '$680 Million Revolver')
-    # 2. Any row containing financial numbers, percentages, or rates
-    # 3. Any row in rows 1..3 that contains data values (dates like 'August 2026', charter terms 'Voyage', etc.)
+    # 1. Footnote or item markers in row 0 (e.g. '(*)', '(1)', '1.')
+    # 2. Any category row (e.g. 'Revenues:', 'Newcastlemax Vessels', '$680 Million Revolver')
+    # 3. Any row containing financial numbers, percentages, or rates
+    # 4. Any row in rows 1..3 that contains data values (dates like 'August 2026', charter terms 'Voyage', etc.)
     max_header_limit = min(3, len(pruned_rows) - 1) if len(pruned_rows) > 1 else 1
 
     header_end_idx = 1
     for idx in range(max_header_limit):
         r = pruned_rows[idx]
+        # Check if row 0 starts with footnote/exhibit marker
+        if idx == 0 and is_footnote_or_item_marker(r[0]):
+            header_end_idx = 0
+            break
         # Check if category row (only col 0 or only col 1 populated)
         is_cat = (r[0] != '' and all(c == '' for c in r[1:])) or (len(r) > 1 and r[1] != '' and r[0] == '' and all(c == '' for c in r[2:]))
         if is_cat:
@@ -419,26 +469,48 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
     if header_end_idx == 0:
         actual_header_rows = []
         body_rows = pruned_rows
+        merged_header = []
+        for col_idx in range(new_cols):
+            if col_idx == 0:
+                is_fn = all(
+                    re.match(r'^\(?[\*]+\)?$', r[0].strip()) or re.match(r'^\(\d+\)$', r[0].strip())
+                    for r in body_rows if r[0].strip()
+                )
+                if is_fn:
+                    h_text = 'Note'
+                else:
+                    full_text = ' '.join(' '.join(r) for r in body_rows).lower()
+                    if any(w in full_text for w in ['exhibit', 'form 8-k', 'filed', 'incorporat', 'certification']):
+                        h_text = 'Exhibit'
+                    elif any('Item' in r[0] for r in body_rows):
+                        h_text = 'Item'
+                    else:
+                        h_text = 'Line Item'
+            elif col_idx == 1:
+                h_text = 'Description'
+            else:
+                h_text = f'Col {col_idx + 1}'
+            merged_header.append(h_text)
     else:
         actual_header_rows = pruned_rows[:header_end_idx]
         body_rows = pruned_rows[header_end_idx:]
 
-    merged_header: List[str] = []
-    for col_idx in range(new_cols):
-        parts: List[str] = []
-        for hr in actual_header_rows:
-            v = hr[col_idx].strip()
-            if v and v not in parts:
-                parts.append(v)
-        h_text = ' '.join(parts).strip()
-        if not h_text:
-            if col_idx == 0:
-                h_text = 'Item' if any('Item' in r[0] for r in body_rows) else 'Line Item'
-            elif col_idx == 1 and any('Financial Statements' in r[col_idx] or 'Description' in r[col_idx] for r in body_rows):
-                h_text = 'Description'
-            else:
-                h_text = f'Col {col_idx + 1}'
-        merged_header.append(h_text)
+        merged_header = []
+        for col_idx in range(new_cols):
+            parts = []
+            for hr in actual_header_rows:
+                v = hr[col_idx].strip()
+                if v and v not in parts:
+                    parts.append(v)
+            h_text = ' '.join(parts).strip()
+            if not h_text:
+                if col_idx == 0:
+                    h_text = 'Item' if any('Item' in r[0] for r in body_rows) else 'Line Item'
+                elif col_idx == 1 and any('Financial Statements' in r[col_idx] or 'Description' in r[col_idx] for r in body_rows):
+                    h_text = 'Description'
+                else:
+                    h_text = f'Col {col_idx + 1}'
+            merged_header.append(h_text)
 
     # Format category rows inside body with bold text
     formatted_body_rows: List[List[str]] = []
@@ -472,6 +544,20 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
 
 
 
+def is_compatible_table_header(h1: Optional[str], a1: Optional[str], h2: str, a2: str) -> bool:
+    if h1 is None or a1 is None:
+        return False
+    if h1 == h2 and a1 == a2:
+        return True
+    c1 = [c.strip().lower() for c in h1.strip('|').split('|')]
+    c2 = [c.strip().lower() for c in h2.strip('|').split('|')]
+    if len(c1) == len(c2) == 2 and a1 == a2:
+        if c1[0] in ('exhibit', 'item') and c2[0] in ('exhibit', 'item'):
+            if c1[1] in ('document', 'description') and c2[1] in ('document', 'description'):
+                return True
+    return False
+
+
 def process_markdown_content(content: str) -> str:
     """Process an entire SEC markdown file, repairing all tables and text."""
     # First clean typography and printer artifacts
@@ -482,6 +568,9 @@ def process_markdown_content(content: str) -> str:
     out_lines: List[str] = []
     in_table = False
     cur_table_lines: List[str] = []
+    last_table_end_idx: Optional[int] = None
+    last_table_header: Optional[str] = None
+    last_table_align: Optional[str] = None
 
     for line in lines:
         line_strip = line.strip()
@@ -493,14 +582,58 @@ def process_markdown_content(content: str) -> str:
         else:
             if in_table:
                 repaired = repair_table_block(cur_table_lines)
-                out_lines.extend(repaired)
                 in_table = False
                 cur_table_lines = []
+
+                can_merge = False
+                if (
+                    repaired and len(repaired) >= 3
+                    and last_table_end_idx is not None
+                    and repaired[0].startswith('|') and repaired[1].startswith('|')
+                    and is_compatible_table_header(last_table_header, last_table_align, repaired[0], repaired[1])
+                ):
+                    intermediate = out_lines[last_table_end_idx:]
+                    if all(l.strip() == '' for l in intermediate):
+                        can_merge = True
+
+                if can_merge:
+                    del out_lines[last_table_end_idx:]
+                    out_lines.extend(repaired[2:])
+                    last_table_end_idx = len(out_lines)
+                else:
+                    if repaired and len(repaired) >= 2 and repaired[0].startswith('|') and repaired[1].startswith('|'):
+                        last_table_header = repaired[0]
+                        last_table_align = repaired[1]
+                    else:
+                        last_table_header = None
+                        last_table_align = None
+                    out_lines.extend(repaired)
+                    last_table_end_idx = len(out_lines) if last_table_header else None
+
             out_lines.append(line)
+            if line_strip:
+                last_table_header = None
+                last_table_align = None
+                last_table_end_idx = None
 
     if in_table:
         repaired = repair_table_block(cur_table_lines)
-        out_lines.extend(repaired)
+        can_merge = False
+        if (
+            repaired and len(repaired) >= 3
+            and last_table_end_idx is not None
+            and repaired[0].startswith('|') and repaired[1].startswith('|')
+            and is_compatible_table_header(last_table_header, last_table_align, repaired[0], repaired[1])
+        ):
+            intermediate = out_lines[last_table_end_idx:]
+            if all(l.strip() == '' for l in intermediate):
+                can_merge = True
+
+        if can_merge:
+            del out_lines[last_table_end_idx:]
+            out_lines.extend(repaired[2:])
+        else:
+            out_lines.extend(repaired)
 
     # Normalize excessive blank lines
     result = '\n'.join(out_lines)
@@ -564,13 +697,36 @@ def standardize_file(file_path: Path) -> Tuple[bool, str]:
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Standardize SEC filings Markdown format.")
+    parser.add_argument("--file", type=str, help="Process a single markdown file.")
+    parser.add_argument("--ticker", type=str, help="Process all markdown files for a specific company ticker.")
+    args = parser.parse_args()
+
+    if args.file:
+        target = Path(args.file)
+        if not target.is_absolute():
+            target = REPO_ROOT / target
+        if not target.exists():
+            print(f"Error: File not found: {target}")
+            sys.exit(1)
+        success, status = standardize_file(target)
+        print(f"File {target.name}: {status}")
+        return
+
+    if args.ticker:
+        ticker_dir = CORPUS_DIR / args.ticker.upper()
+        if not ticker_dir.exists():
+            print(f"Error: Ticker directory not found: {ticker_dir}")
+            sys.exit(1)
+        all_files = sorted(list(ticker_dir.glob("*/*.md")))
+    else:
+        all_files = sorted(list(CORPUS_DIR.glob("*/*/*.md")))
+
     print("=" * 70)
     print("EXECUTING STANDARDIZED SEC FILINGS FORMATTING PASS")
     print(f"Target Directory: {CORPUS_DIR}")
-    print("=" * 70)
-
-    all_files = sorted(list(CORPUS_DIR.glob("*/*/*.md")))
     print(f"Total Markdown files discovered: {len(all_files):,}")
+    print("=" * 70)
 
     updated_count = 0
     unchanged_count = 0

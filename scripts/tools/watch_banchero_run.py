@@ -20,6 +20,7 @@ sitting idle until the next tick.
 from __future__ import annotations
 
 import json
+import os
 import subprocess
 import sys
 import time
@@ -79,18 +80,26 @@ def output_coverage():
         return None, None
     if not stems:
         return None, None
-    missing = 0
-    for st in stems:
-        found = False
-        for base in (LOGDIR, ROOT / "data/extracted/md/banchero_costa"):
-            for ext in (".md", ".items.json", ".tables.json"):
-                if (base / (st + ext)).exists():
-                    found = True
+    # The md deliverable is nested by year (md/banchero_costa/<year>/<stem>.md), so a
+    # flat exists() check under-counted coverage and kept restarting docs that WERE
+    # delivered. Index every candidate file once, recursively, then compare stems.
+    have = set()
+    for base in (LOGDIR, ROOT / "data/extracted/md/banchero_costa"):
+        if not base.exists():
+            continue
+        for q in base.rglob("*"):
+            if not q.is_file():
+                continue
+            n = q.name
+            for ext in (".items.json", ".tables.json"):
+                if n.endswith(ext):
+                    n = n[: -len(ext)]
                     break
-            if found:
-                break
-        if not found:
-            missing += 1
+            else:
+                if n.endswith(".md"):
+                    n = n[:-3]
+            have.add(n)
+    missing = sum(1 for st in stems if st not in have)
     return len(stems), missing
 
 
@@ -118,12 +127,37 @@ def log_age() -> float | None:
         return None
 
 
+def _pool_key():
+    """Best-effort: draw a non-exhausted key from the shared LlamaParse pool.
+
+    The runner reads LLAMA_CLOUD_API_KEY from the ambient env, which held an
+    exhausted account (project 43ad4139). That stalled the run at 166/248 docs
+    from 2026-10-03 01:18 to 11:05: every restart 402'd instantly and the
+    watchdog restarted it again 30 minutes later. Overlaying a pool key makes
+    a restart actually able to do work. Any failure falls back to ambient env.
+    """
+    try:
+        import importlib.util
+        spec = importlib.util.spec_from_file_location(
+            "llama_manager_watchdog", ROOT / "scripts/extract/llama_manager.py")
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod.KeyManager().get_current_key()
+    except Exception as e:
+        log(f"pool key unavailable ({e}); using ambient env")
+        return None
+
 def restart() -> int | None:
     try:
+        env = os.environ.copy()
+        key = _pool_key()
+        if key:
+            env["LLAMA_CLOUD_API_KEY"] = key
         with open(LOG, "a", encoding="utf-8") as fh:
             p = subprocess.Popen(
                 [str(PYTHON), str(RUNNER), "--tier", "cost_effective"],
                 cwd=str(ROOT), stdout=fh, stderr=subprocess.STDOUT,
+                env=env,
                 creationflags=subprocess.CREATE_NEW_PROCESS_GROUP
                 | getattr(subprocess, "DETACHED_PROCESS", 0),
             )
