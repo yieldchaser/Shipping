@@ -2117,3 +2117,169 @@ was deleted afterwards. Golden gate after the change: Star Asia plumber-text 15/
    regeneration, the Athenian demolition regeneration and the derived DB rebuild
    (`python3 scripts/extract/build_table_db.py --out data/extracted` then
    `python3 scripts/extract/check_measured_rules.py`).
+## 2026-10-03 09:58 UTC (15:28 IST) - deep review: the Star Asia S&P sales series was delivered EMPTY (0 of ~3,600 rows) by a header-key plus row-shape mismatch, and 96% of its sidecar tables were mis-typed by the same bug (FIXED)
+
+### What I measured first (all read-only)
+
+`verify_extraction.py` over the bulk pass reported: 7,816/7,816 checkpoint rows
+(7,816 unique), `actions: []`, golden 15/15, `db: not built yet`, 74 not-a-pdf
+quarantines, 352 inventory-drift PDFs, disk free 22.7 GB. The bulk `extract_all`
+pass is COMPLETE. The PowerShell `Win32_Process` query for `run_batch` /
+`batch_worker` returned nothing: no batch is live, so the open-append-handle
+prohibition does not apply this run.
+
+I then swept all 172 delivered series CSVs in `data/extracted/series/` for
+structural smells (all-null columns, zero-row files). Two files are header-only:
+
+| file | rows | bytes | mtime |
+|---|---|---|---|
+| `star_asia_snp_sales_series.csv` | 0 | 128 | 2026-10-02 08:39 |
+| `signal_vessel_counts_series.csv` | 0 | 67 | 2026-10-02 22:39 |
+
+`docs/EXTRACTION_REGISTER.md` still asserts Star Asia S&P = **3,717 rows**
+("Secondhand sales transactions ($M)"), and names `run_star_asia_world_class.py`
+as the pipeline.
+
+### Finding 1 (FIXED): the S&P series is empty - the extractor reads the wrong header key AND the wrong row shape
+
+`run_star_asia_tables.py::extract_snp_sales()` read the table header from
+`t.get("header", [])`. Every one of the 198 delivered sidecars under
+`data/extracted/md/star_asia/` stores it under `"headers"` (plural: 5,348 tables
+carry `"headers"`, 215 legacy tables carry `"header"`). With the wrong key the
+gate matched 2 of 5,566 tables. Replacing the key alone exposed a second layer:
+rows are stored as list-of-dicts keyed by header name, while the function indexed
+them positionally (`r[col_map["vsl"]]` raised `KeyError: 0` on 192 of 198
+documents).
+
+Measured over all 198 sidecars, with the module imported from `git show HEAD:`
+versus the corrected file (no writes; scratch out-dir only):
+
+| | shipped | corrected |
+|---|---|---|
+| S&P rows recovered | **23** (1 document) | **3,598** (193 documents) |
+| documents crashing | 0 (silently matched nothing) | 0 |
+| `table_type` = `market_data` (fallback) | **5,360 / 5,566 (96.3%)** | **3,076 / 5,566 (55.3%)** |
+
+Compounding cause of the zero: the CSV write at the end of the same module is
+unconditional, so the 2026-10-02 08:39 run of that runner truncated whatever was
+in the file to its own (near-empty) result - 128 bytes, header only. Compare
+`run_star_asia_world_class.py`, which guards the same series with `if snp_rows:`.
+
+The recovered values ground out against the sidecar: for
+`star_asia_2022_W29_Market-report-Week-29.tables.json` the first row is
+`THERESA SHANDONG / KMAX / 82,000 / 2012 / CHINA / 22.0 / GREEK BUYERS`, and the
+rebuilt scratch CSV row 1 is identical
+(`dwt=82000.0, year_built=2012, price_usd_mill=22.0, buyers_comments=GREEK BUYERS`).
+A second sampled row, `STI ROCHER / STI LARVOTTO | MR | 49,990 | 2013 | 72.4 |
+GULF ENERGY MARITIME` (2024-03-30), likewise matches its sidecar.
+
+"Delivered empty by a broken writer" is the claim; I did not observe a
+previously-populated copy of the file during this run, so the earlier row count
+is attested only by the register (3,717) and by `run_star_asia_world_class.py`,
+whose own gate (vessel name + price + buyer) matches 524 of the 5,566 tables.
+
+### Finding 2 (FIXED, same root cause): classify_table_type mis-typed 2,284 of 5,566 sidecar tables
+
+`classify_table_type()` read the same wrong key (`t.get("header", [])`), so its
+`hdr` was empty for almost every table and the classifier fell through to the
+`market_data` default. The delivered sidecars carry that mis-stamp: 5,360 of
+5,566 tables (96.3%) are `market_data`, versus 3,076 (55.3%) under the corrected
+key - 2,284 tables change type (389 become `secondhand_sales`, 615
+`beaching_position`, 388 `indicative_scrap_prices`, 295 `indices`, 257
+`exchange_rates`, 193 `demolition_sales`, 191 `bunkers`, 162 `commodities`).
+
+Scope note, measured: `table_type` is written at `run_star_asia_tables.py:563`
+and read nowhere - a repo grep for the field finds only that file. So this is a
+metadata-quality defect on a delivered artefact, not a live series break. It is
+recorded because it is the same bug and because a future consumer keying on
+`table_type` would be silently misled.
+
+### Golden gate after the change
+
+The change touches S&P parsing and table typing only. Star Asia `plumber-text`
+**15/15**, `pymupdf-text` **15/15**, camelot-stream 13/15, SSY atlantic 14/14 -
+identical to the levels recorded on 2026-10-03 06:22 UTC. No golden recall lost.
+
+### What I changed
+
+Branch `auto/extract-fixes-2026-10-03-star-asia-snp`, one file
+(`scripts/extract/publishers/run_star_asia_tables.py`, +95/-49, code only):
+
+1. `extract_snp_sales()` reads `"headers"` with a `"header"` fallback, reads rows
+   through a new `_sidecar_cell()` helper that handles list-of-dicts and
+   positional lists, and uses the same gate as `run_star_asia_world_class.py`
+   (vessel-level row carrying a price and a BUYER column, so both the dry-bulk
+   DWT and the container TEU tables match).
+2. `classify_table_type()` gets the same key fallback.
+3. The S&P CSV write is now guarded: a zero-row result prints a warning and
+   leaves the delivered file untouched instead of truncating it.
+
+Verification: module import and `py_compile` clean; the before/after table above;
+a scratch write of the full 3,598-row series to
+`data/extracted/scratch_review_starasia/` (deleted afterwards); the golden
+matrix. No delivered file was written. `ruff` is not installed in this
+interpreter, so no lint run.
+
+### Deliberately NOT changed, and why
+
+* The delivered empty `star_asia_snp_sales_series.csv` and the 198 mis-typed
+  sidecars. Rewriting `data/extracted/**` is a data regeneration, not a code fix
+  - see human decision 1. The fix takes effect for the next run of the runner.
+* The identical unconditional-write pattern in the same function for the
+  indicative-scrap and demolition-deals series. I can prove the S&P writer
+  truncated a file; I cannot prove those two ever did (both are populated today:
+  `star_asia_deals_series.csv` 3,349 rows, `star_asia_demolition_series.csv`
+  3,072 rows). Guarding them is a behaviour change I did not measure, so I left
+  them and name them here.
+* The hardcoded narrative row in `update_extraction_register.py` that still
+  prints "3,717 rows" for this series (see human decision 2).
+* `signal_vessel_counts_series.csv` (0 rows). Not diagnosed this run.
+
+### Checked and found NOT to be defects
+
+* `drewry_ais_lpg_fr_series.csv` has `current_utilisation_pct` empty on all 32
+  rows while the other nine Drewry AIS sector series are fully filled (VLCC
+  32/32, Aframax 31/31, Suezmax 30/30, LR1 34/34, LR2 31/31, Capesize 27/27,
+  Handysize 25/25, Panamax 23/23, Supramax 23/23). I opened three LPG_FR reports
+  (2024 W04, 2026 W26, 2026 W38) and the string "util" appears on NO page of any
+  of them: the LPG report page 2 carries "Current tonne-miles index" and "Change
+  in trading status - MoM" where the other sectors carry "Current Utilisation".
+  The empty column is the source shape, not an extraction defect. No change made.
+* Empty columns in `bancosta_demolition_series.csv` (buyer 0/959) and
+  `bancosta_newbuilding_series.csv` (owner/size/yard 0/2,377) are partitioned by
+  `record_type` and empty by design on the assessment/indicative rows.
+
+### Measured but not diagnosed
+
+* `star_asia_deals_series.csv` (3,349 rows) has one effectively empty column,
+  `arrival_date_status` (1 of 3,349 filled), i.e. the date-status fields that the
+  runner added alongside `arrival_date_raw` are never populated on the 2,748
+  `Beaching / Arrival` rows. Not chased; the raw date columns are present.
+* `signal_vessel_counts_series.csv` is header-only. Its runner (`run_signal.py`)
+  writes it; whether zero is correct for that source was not established.
+
+### HUMAN DECISIONS
+
+1. Regenerate the Star Asia series from the cached sidecars. This reads no PDFs
+   and spends no LlamaParse credits - it re-derives from
+   `data/extracted/md/star_asia/*.tables.json`:
+
+       python3 scripts/extract/publishers/run_star_asia_tables.py
+
+   Expected: `star_asia_snp_sales_series.csv` goes 0 -> **3,598 rows** (measured
+   from the current sidecars; the register figure of 3,717 is not reproducible
+   from today's corpus). The same run re-stamps `table_type` on 198 sidecars
+   (2,284 tables change) and rewrites the indicative-scrap and demolition-deals
+   CSVs.
+
+2. The generated narrative in `update_extraction_register.py` (line 155) still
+   hardcodes "3,717 rows" for this series, so regenerating the register will not
+   correct it, and the document currently contradicts itself (its generated
+   section already prints 0 for this file). Correct it with the number measured
+   after decision 1.
+
+   Still open from earlier runs: the hellenic VesselsValue date convention (229
+   duplicate rows), the lion series regeneration, the Athenian demolition
+   regeneration, the Clarksons Desk Talk 608 -> 355 row regeneration, and the
+   derived DB rebuild (`python3 scripts/extract/build_table_db.py --out
+   data/extracted` then `python3 scripts/extract/check_measured_rules.py`).

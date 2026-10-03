@@ -408,10 +408,39 @@ def extract_demolition_deals(
     return deals
 
 
+def _sidecar_cell(row: Any, name: str, idx: Optional[int] = None) -> Any:
+    """Read one cell from a sidecar row.
+
+    The delivered sidecars store rows as list-of-dicts keyed by header name
+    (written by run_star_asia_world_class.py); older/legacy sidecars stored
+    rows as positional lists. Support both.
+    """
+    if isinstance(row, dict):
+        if name in row:
+            return row[name]
+        up = name.upper()
+        for k, v in row.items():
+            if str(k).strip().upper() == up:
+                return v
+        return None
+    if isinstance(row, (list, tuple)) and idx is not None and idx < len(row):
+        return row[idx]
+    return None
+
+
 def extract_snp_sales(
     tables_data: Any, issue_date: str, report_week: int, pdf_name: str
 ) -> List[Dict[str, Any]]:
-    """Extract S&P Secondhand Sales from existing table sidecars."""
+    """Extract S&P Secondhand Sales from existing table sidecars.
+
+    2026-10-03 (deep review): this function read the table header from key
+    "header" (singular) while every star_asia sidecar uses "headers" (plural),
+    AND it indexed rows positionally while the sidecars store list-of-dicts.
+    Measured over all 198 sidecars it matched 1 document / 23 rows, and the
+    unconditional CSV write at the end of this module had truncated the
+    delivered series to 0 rows. Reading the real key and both row shapes
+    recovers the whole series from the cached sidecars (no PDFs, no credits).
+    """
     snp_sales = []
     if isinstance(tables_data, dict):
         tables_data = tables_data.get("tables", [])
@@ -420,56 +449,69 @@ def extract_snp_sales(
     for t in tables_data:
         if not isinstance(t, dict):
             continue
-        hdr = [str(c).upper().strip() for c in t.get("header", [])]
+        hdr = [str(c).upper().strip() for c in (t.get("headers") or t.get("header") or [])]
         hdr_str = " ".join(hdr)
-        if ("VESSEL NAME" in hdr_str or "VESSEL" in hdr_str) and "DWT" in hdr_str and ("PRICE" in hdr_str or "BUYER" in hdr_str):
-            sec = t.get("title") or "Secondhand Sales"
-            col_map = {}
-            for idx, h in enumerate(hdr):
-                if "VESSEL" in h: col_map["vsl"] = idx
-                elif "TYPE" in h: col_map["type"] = idx
-                elif "DWT" in h: col_map["dwt"] = idx
-                elif "YEAR" in h: col_map["year"] = idx
-                elif "BUILT" in h: col_map["built"] = idx
-                elif "PRICE" in h: col_map["price"] = idx
-                elif "BUYER" in h or "COMMENT" in h: col_map["comments"] = idx
+        # Same gate as run_star_asia_world_class.py: vessel-level rows carrying a
+        # price and a buyer column (dry-bulk DWT tables and container TEU tables).
+        if not (("VESSEL NAME" in hdr_str or "VESSEL" in hdr_str) and "PRICE" in hdr_str):
+            continue
+        if "BUYER" not in hdr_str:
+            continue
+        sec = t.get("title") or "Secondhand Sales"
+        col_map: Dict[str, int] = {}
+        for idx, h in enumerate(hdr):
+            if "VESSEL" in h: col_map["vsl"] = idx
+            elif "TYPE" in h: col_map["type"] = idx
+            elif "DWT" in h or "TEU" in h: col_map.setdefault("dwt", idx)
+            elif "YEAR" in h: col_map["year"] = idx
+            elif "BUILT" in h: col_map["built"] = idx
+            elif "PRICE" in h: col_map.setdefault("price", idx)
+            elif "BUYER" in h: col_map["comments"] = idx
 
-            for r in t.get("rows", []):
-                if not r or not any(r):
-                    continue
-                vsl = str(r[col_map["vsl"]] or "").strip().replace("\n", " ") if "vsl" in col_map and col_map["vsl"] < len(r) else ""
-                if not vsl or not any(ch.isalpha() for ch in vsl) or any(w in vsl.upper() for w in ["VESSEL", "PAGE", "TOTAL", "SOURCE"]):
-                    continue
-                
-                v_type = str(r[col_map["type"]] or "").strip().replace("\n", " ") if "type" in col_map and col_map["type"] < len(r) else ""
-                v_dwt = parse_clean_num(r[col_map["dwt"]]) if "dwt" in col_map and col_map["dwt"] < len(r) else None
-                v_yr = None
-                if "year" in col_map and col_map["year"] < len(r):
-                    m_yr = re.search(r"\b(19\d\d|20\d\d)\b", str(r[col_map["year"]]))
-                    if m_yr: v_yr = int(m_yr.group(0))
-                v_cty = str(r[col_map["built"]] or "").strip().replace("\n", " ") if "built" in col_map and col_map["built"] < len(r) else ""
-                v_price = parse_clean_num(r[col_map["price"]]) if "price" in col_map and col_map["price"] < len(r) else None
-                v_comm = str(r[col_map["comments"]] or "").strip().replace("\n", " ") if "comments" in col_map and col_map["comments"] < len(r) else ""
+        def _f(row: Any, role: str, default: Any = "") -> Any:
+            if role not in col_map:
+                return default
+            idx = col_map[role]
+            return _sidecar_cell(row, hdr[idx] if idx < len(hdr) else "", idx)
 
-                snp_sales.append({
-                    "issue_date": issue_date,
-                    "report_week": report_week,
-                    "section": sec,
-                    "vessel_name": vsl,
-                    "vessel_type": v_type,
-                    "dwt": v_dwt,
-                    "year_built": v_yr or "",
-                    "built_country": v_cty,
-                    "price_usd_mill": v_price,
-                    "buyers_comments": v_comm,
-                    "source_file": pdf_name,
-                })
+        for r in t.get("rows", []):
+            if not r:
+                continue
+            if isinstance(r, (list, tuple)) and not any(r):
+                continue
+            vsl = str(_f(r, "vsl") or "").strip().replace("\n", " ")
+            if not vsl or not any(ch.isalpha() for ch in vsl) or any(w in vsl.upper() for w in ["VESSEL", "PAGE", "TOTAL", "SOURCE"]):
+                continue
+            v_type = str(_f(r, "type", None) or "").strip().replace("\n", " ")
+            v_dwt = parse_clean_num(_f(r, "dwt", None))
+            v_yr = None
+            y_raw = _f(r, "year", None)
+            if y_raw is not None:
+                m_yr = re.search(r"\b(19\d\d|20\d\d)\b", str(y_raw))
+                if m_yr: v_yr = int(m_yr.group(0))
+            v_cty = str(_f(r, "built", None) or "").strip().replace("\n", " ")
+            v_price = parse_clean_num(_f(r, "price", None))
+            v_comm = str(_f(r, "comments", None) or "").strip().replace("\n", " ")
+
+            snp_sales.append({
+                "issue_date": issue_date,
+                "report_week": report_week,
+                "section": sec,
+                "vessel_name": vsl,
+                "vessel_type": v_type,
+                "dwt": v_dwt,
+                "year_built": v_yr or "",
+                "built_country": v_cty,
+                "price_usd_mill": v_price,
+                "buyers_comments": v_comm,
+                "source_file": pdf_name,
+            })
     return snp_sales
 
 
 def classify_table_type(t: Dict[str, Any]) -> str:
     """Classify the functional purpose of a table."""
-    hdr = " ".join(str(c).upper() for c in t.get("header", []))
+    hdr = " ".join(str(c).upper() for c in (t.get("headers") or t.get("header") or []))
     title = str(t.get("title") or "").upper()
     comb = hdr + " " + title
     if "RECYCLING MARKET SNAPSHOT" in comb or ("DESTINATION" in comb and "TANKER" in comb and "BULKER" in comb):
@@ -613,10 +655,14 @@ def process_star_asia_corpus() -> Dict[str, Any]:
         "issue_date", "report_week", "section", "vessel_name", "vessel_type",
         "dwt", "year_built", "built_country", "price_usd_mill", "buyers_comments", "source_file"
     ]
-    with open(SNP_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=snp_headers)
-        writer.writeheader()
-        writer.writerows(all_snp_series)
+    if all_snp_series:
+        with open(SNP_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=snp_headers)
+            writer.writeheader()
+            writer.writerows(all_snp_series)
+    else:
+        print(f"WARNING: 0 S&P rows extracted; leaving {SNP_SERIES_CSV.name} untouched "
+              "(an empty result must not truncate a populated series).")
 
     summary = {
         "total_documents": len(pdfs),
