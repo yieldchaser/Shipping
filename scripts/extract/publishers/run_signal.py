@@ -655,34 +655,21 @@ def run_pipeline():
             ])
     print(f"[+] Stacked master metadata catalog: {metadata_csv_path} ({len(extracted)} rows)")
 
-    # Generate vessel count time series
-    vessel_series_path = os.path.join(SERIES_DIR, "signal_vessel_counts_series.csv")
-    vessel_headers = ["issue_date", "year", "week", "sector", "vessel_class", "metric", "count", "source_file"]
-    vessel_rows = []
-
-    for r in extracted:
-        if r.get('data_tables'):
-            for tbl in r['data_tables']:
-                for row_dict in tbl:
-                    # check for Vessel Class / Ballasters or Number of Vessels
-                    v_class = row_dict.get('Vessel Class') or row_dict.get('Vessel')
-                    cnt = row_dict.get('Ballasters') or row_dict.get('Number of Vessels') or row_dict.get('Count')
-                    if v_class and cnt:
-                        # clean numeric count
-                        clean_cnt = re.sub(r'[^\d.]', '', cnt)
-                        metric = "Ballasters" if "ballaster" in str(row_dict).lower() else "Vessel Count"
-                        sector = "Dry Bulk" if "dry" in r['slug'] else ("Tankers" if "tanker" in r['slug'] else r['category'])
-                        vessel_rows.append([
-                            r['date'], r['year'], r['week'], sector, v_class, metric, clean_cnt,
-                            f"corpus/07-signal/html/{r['slug']}.html"
-                        ])
-
-    with open(vessel_series_path, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(vessel_headers)
-        for v in sorted(vessel_rows, key=lambda x: (x[0], x[3], x[4])):
-            writer.writerow(v)
-    print(f"[+] Stacked vessel counts series: {vessel_series_path} ({len(vessel_rows)} rows)")
+    # Generate vessel count time series.
+    # NOTE (2026-10-03): signal's vessel counts are PROSE in the weekly monitors,
+    # NOT HTML <table>s. A structural scan found ZERO th/td cells containing
+    # 'Vessel Class'/'Ballasters'/'Number of Vessels', so the old table-key path
+    # here emitted a HEADER-ONLY csv. Delegated to the bespoke per-source
+    # extractor (region + self-validating regional-sum control):
+    #   scripts/extract/publishers/run_signal_vessel_counts.py
+    try:
+        import run_signal_vessel_counts as _svc
+    except ImportError:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import run_signal_vessel_counts as _svc
+    _blocks = _svc.extract_blocks()
+    _n = _svc.write_series(_svc.build_rows(_blocks))
+    print(f"[+] Stacked vessel counts series: {_svc.SERIES_PATH} ({_n} rows)")
 
     # Update manifest with retry
     for attempt in range(10):
