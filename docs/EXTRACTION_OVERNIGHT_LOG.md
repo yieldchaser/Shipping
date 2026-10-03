@@ -2295,3 +2295,164 @@ delivered 0 rows is a mismatch between what the runner reads and what the source
 holds, not an absent source. I did NOT run the runner or its HTML table parser, so
 I am not naming the exact failed key - that is the next step, and it is a second
 candidate of the same shape as the Star Asia defect.
+
+
+## 2026-10-03 17:05 UTC (22:35 IST) - deep review: 25,274 mojibake table cells across 1,175 docs were stamped `garbled_cells 0` by a detector that cannot see pdfminer's `(cid:N)` form (FIXED)
+
+### What I measured first (read-only)
+
+No batch is live: the `Win32_Process` query for `run_batch` / `batch_worker` returned
+nothing (the five `python.exe` are the Hermes gateway, two socket probes and two
+proxy gateways). `data/extracted/corpus_checkpoint.jsonl` is untouched since
+2026-09-22 11:12, so the bulk pass is COMPLETE and the open-append-handle
+prohibition does not apply this run. I wrote nothing to it.
+
+`verify_extraction.py` (out `data/extracted`, state/checkpoint = corpus*): 7,816
+checkpoint rows, 7,816 unique, `actions: []`, golden 15/15, db **189,481 tables /
+6,726,703 cells** (now correctly found at `corpus/db`), 74 not-a-pdf quarantines,
+352 inventory-drift PDFs, disk free 22.1 GB.
+`check_measured_rules.py`: all 11 rules present (EU/ISO decimals, currency-space).
+
+`verify_registers.py` reports **1 mismatch**: `hellenic_athenian_demolition_series.csv`
+disk 3,052 logical rows vs JSON 2,916. Cause measured, not a defect of mine: a
+sibling job rewrote the four athenian CSVs at 22:14:52 IST, about 15 minutes before
+the check, and has not re-run the register sync. Sibling commit `50a23c3ab`
+("athenian runner no longer clobbers the deduped mirror") landed while this run was
+measuring. Left alone.
+
+### Finding (reproduced on ONE document, then FIXED): the mojibake detector cannot see `(cid:N)`
+
+The corpus DB holds **25,274 cells whose value is pdfminer's unmapped-glyph token
+`(cid:N)`** (hellenic 25,224 / 1,159 docs, of which 24,903 are MMi iron-ore reports;
+seabrokers 10 docs, shipbrokers 4, one textbook 33, poten 1). Every one of those
+cells carries `garbled_cells` 0 or no such key at all, because
+`garbled_ratio()` counts only control codes and code points in `0x100..0x36F` --
+and every character of `(cid:NNN)` is ASCII.
+
+Reproduced today by re-extracting one document to a scratch out-dir
+(`2021-08-10_mmi-daily-iron-ore-index-report ... _cb11d855ef22.pdf`, 6 pages, 33
+tables, 1m32s):
+
+| | pdfplumber tables | (cid:) cells | `garbled_cells` reported |
+|---|---|---|---|
+| before the fix | 11 | 64 | **0 on all 11 tables** |
+| after the fix | 11 | 64 | 6, 1, 12, 6, 11, 12, 10, 1, 5 (sum 64) |
+
+Doc-level summary is otherwise byte-identical (pymupdf's Latin-Extended form of the
+same defect was already caught here: `garbled_blocks` 64, tables 33, blocks 504,
+`ocr_queue_pages` 0). One of the pdfplumber tables has **5 cells and all 5 are
+`(cid:)` tokens** with `text_verified` 0.0 -- the table is unreadable text by
+content, and the old metric called it clean. `text_verified` is self-consistent but
+blind here: the page text is the same gibberish, so the tokens "verify".
+
+### What I changed
+
+Branch `auto/extract-fixes-2026-10-03-cid-mojibake`, one file
+(`scripts/extract/extract_all.py`, +16/-4): `CID_TOKEN_RE` plus one line in
+`garbled_ratio()` that counts the characters of `(cid:N)` runs as glyphed. Nothing
+else moved: `route_page()`, the table gate and the thresholds are untouched, and the
+change can only ever ADD detections (a cell is newly flagged only if it contains a
+`(cid:N)` token).
+
+### Controls
+
+* **Blast radius is enumerable and bounded.** Distinct cell values containing
+  `(cid:)`: 3,207. Newly flagged by the fix: **2,219**, of which **2,202 (99.2%) are
+  all-token cells** (`(cid:47)(cid:90)(cid:75)(cid:69)...` = "Power BI" interleaved)
+  and only **17 (0.8%) are readable cells with an embedded token**. All 17 are
+  disclosed as a judgement call: mostly chart-axis blobs (`50%
+40%...IOPI65 %
+  Spread to IOPI62(cid:116)(cid:28)...`) plus a handful of bullet glyphs
+  (`(cid:31) Acquirer: Excel Maritime Carriers Ltd`) where `(cid:31)` is an
+  unmapped bullet. None is a false positive on ordinary text.
+* **`garbled_cells` has no reader.** A scoped grep finds the field only in
+  `extract_all.py` (plus its `__pycache__`). The change is additive metadata on
+  future extractions, not a behaviour change to delivered data.
+* **Golden gate**: `python3 scripts/analysis/golden_matrix.py` -> star_asia
+  `plumber-text` **15/15**, `pymupdf-text` **15/15**, camelot-stream 13/15,
+  pdfplumber-tables 13/15; ssy_atlantic camelot-stream **14/14**. Identical to the
+  levels recorded 2026-10-03 09:58 UTC. No golden recall lost.
+
+### Deliberately NOT changed, and why
+
+* The 25,274 existing `(cid:)` cells in `data/extracted/corpus/**` and in the derived
+  DB. Applying the fix to already-extracted documents is a re-extraction, which is a
+  human decision. The fix takes effect for documents extracted after this commit.
+* `decode_mojibake.py` and the MMi mojibake LABELS (`/ZKEKZ...` =
+  "IRON ORE PORT STOCK IN IOPI"). That pipeline is deliberately report-only because
+  the header/title glyph table is incomplete ("teekly" for "Weekly"), and it is
+  documented in its own header. Not reopened.
+
+### Measured but NOT fixed (a defect in the refreshed series layer's key, one level up)
+
+The sibling run refreshed `series`/`series_points` from the rebuilt cells and its
+integrity gate passes (orphans 0). Plausibility was not part of that gate, and it
+fails in exactly the shape the skill warns about: **764 (source, entity,
+measurement) triples carry more than one `series_id`**, and for most of them the
+ranges are DISJOINT, so the pair is not a series key.
+
+Quoted from the DB, `hellenic / IOPI58 / YTD` (both starting 2021-07-14):
+
+| series_id | block_no | n | min | median | max |
+|---|---|---|---|---|---|
+| `helleniciopi58ytdb1` | 1 | 2,532 | 622.0 | 758.0 | **1,107.0** |
+| `helleniciopi58ytdb2` | 2 | 2,337 | **90.55** | 104.09 | 162.13 |
+
+This is the RMB-versus-USD split of ONE printed row. In
+`2021-08-10_mmi-...cb11d855ef22` the header row reads
+`Index, Fe Content, Price, Change, Change %, MTD, YTD, Low 2, High 2 | Price,
+Change, Change %, MTD, YTD, Low 2, High 2` -- "YTD" appears in BOTH the
+`FOT Qingdao (inc. 13% VAT), RMB/wet tonne` block and the
+`CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne` block. The data row is
+`['IOPI58','58% Fe Fines','1052','1267','1199','1186','1013','1144','1102',
+'152.78
+187.31', ..., '161.40']`: 1,102 RMB/wet tonne and 161.40 USD/dry tonne are
+two measurements, one key. Worse cases: `shipbrokers / BCI / (empty)` is 9 series
+spanning -3,530 to 83,865; `drewry_ais_pdfs / MoM change in / (empty)` is 16 series
+spanning 10 to 50 (utilisation, speed, availability, congestion).
+
+The layer is not internally fused (`block_no` separates them), so nothing is
+corrupt; what is wrong is the human-readable key, which is what a consumer would
+join on. NOT changed: `build_series_sql.py` was patched by a sibling minutes before
+this run and is their file right now; changing the key model is a data regeneration,
+not a code fix.
+
+Note on the deltas: my `wc -l`-based row counts in an early pass disagreed with
+`verify_registers.py` (athenian 2,916 vs 3,052). The register counts LOGICAL CSV
+rows; several series carry embedded newlines inside quoted fields, so physical line
+counts understate them. Use `csv.DictReader`, not `wc -l`.
+
+### Checked and found NOT to be defects
+
+* `star_asia_deals_series.csv` `arrival_date`: the long-open ledger item (European
+  `DD.MM.YYYY` on 2,680/2,727) is CLOSED. Measured: 2,700 of 3,349 rows carry a
+  clean ISO date, `arrival_date_note` says `EU_DDMMYYYY` on 2,692; the 48 gaps are
+  all genuinely unparseable source typos (`29.02.2022` -- not a leap year,
+  `31.012.2022`, `02.02.20323`) correctly left blank with note `UNPARSED`
+  (41), `EMPTY_DASH` (6), `STATUS` (1). `arrival_date_status` being empty on
+  3,348/3,349 rows is therefore a dead column, not lost data.
+* No delivered series CSV contains mojibake or `(cid:)`. A signature scan over all
+  170 files matched 10, and every match is legitimate Unicode (ALIAGA, CELIK,
+  SZCZECINKA with Turkish/Polish diacritics, `ReBar HRB400 018mm` with a diameter
+  glyph).
+* `drewry_ais_pdfs` median `text_verified` 0.333 and 3,900 zero-verified tables are
+  real but expected: the pages are Power BI exports whose pdfplumber pass interleaves
+  two text layers (`'Aframax', 'PoweOr BvI eDrevskiteopw'` = "Power BI Desktop" over
+  "Overview"). Drewry is served by its own runner (`drewry_ais_*_series.csv`, 10
+  sector series), so this is audit-tier noise, not a series break.
+* `1,973` shipbrokers tables with numeric cells on a single `col_idx` are chart
+  pseudo-tables, not fused data rows: `xclusiv_2026_06_01` page 2 col 1 is the y-axis
+  tick ladder `360,000 / 330,000 / ... / 30,000` beside prose in col 0. Known class
+  (evenly spaced rule chains exist in both tables and charts), no change made.
+
+### HUMAN DECISIONS
+
+1. Nothing new is required from the fix itself: it is prophylactic for documents
+   extracted after this commit. If you want the 1,175 affected documents re-stamped,
+   that is a re-extraction of the existing corpus, not something to run unattended.
+2. Still open from earlier runs, unchanged by this one: the hellenic VesselsValue
+   date convention (229 dup rows - a sibling is mid-fix on
+   `run_hellenic_vv_matrix.py`, edited 21:36 IST), lion series regeneration,
+   intermodal_macro 4.3 (1,290 rows), ism agreement tail (1,178 rows), affinity
+   WS-era md rounding (144 cells, display only), and the register sync for the
+   athenian CSVs a sibling rewrote at 22:14 IST.

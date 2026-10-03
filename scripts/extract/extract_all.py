@@ -59,13 +59,16 @@ def img_dhash(pil_img, size=8):
         return None
 
 
+CID_TOKEN_RE = re.compile(r"\(cid:\d+\)")
+
+
 def garbled_ratio(text, limit=600):
     """Share of characters in a text block that are glyphed, not typed.
 
-    Counts control codes (other than whitespace) and Latin-Extended /
-    combining / replacement code points in the first `limit` characters.
-    Accented Latin-1 text is NOT counted, so Portuguese and Danish broker
-    reports measure 0.00 on this predicate.
+    Counts control codes (other than whitespace), Latin-Extended /
+    combining / replacement code points, and pdfminer glyph tokens in the
+    first `limit` characters. Accented Latin-1 text is NOT counted, so
+    Portuguese and Danish broker reports measure 0.00 on this predicate.
     """
     s = text[:limit]
     if not s:
@@ -78,6 +81,15 @@ def garbled_ratio(text, limit=600):
                 n += 1
         elif 0x100 <= o <= 0x36F or o == 0xFFFD:
             n += 1
+    # pdfminer - the engine under pdfplumber and camelot - writes a glyph it
+    # cannot map as the pure-ASCII token "(cid:N)". Every character of that
+    # token is below 0x100, so the loop above counted none of them and a cell
+    # that was ENTIRELY such tokens scored 0.0 -> is_garbled_text False.
+    # Measured 2026-10-03 on 2021-08-10_mmi-daily-iron-ore-index-report-
+    # august-10-2021: 64 (cid:) cells over 11 pdfplumber tables, every one of
+    # them stamped garbled_cells 0, while the pymupdf Latin-Extended form of
+    # the same defect was flagged correctly (64 garbled_blocks).
+    n += sum(m.end() - m.start() for m in CID_TOKEN_RE.finditer(s))
     return n / len(s)
 
 
