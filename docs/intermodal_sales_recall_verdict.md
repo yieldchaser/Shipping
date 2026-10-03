@@ -91,3 +91,52 @@ parser defect.
 - **tc_rates +36 / indicative +70 inside the sidecars** equal the delivered file after
   dedup, so they are not a gap - but a per-page row-count audit of those two series (the
   parser yields 5,225 tc_rates rows, 26 docs short for other reasons) is still owed.
+
+---
+
+## Same audit, second series: dry-bulk TC RATES RECOVERED (+153 rows)
+
+`intermodal_tc_rates_series.csv` was **5,080** rows; the parser's per-document UNIQUE
+count (deduped the way the writer does) yields more on **24** documents. The missing block
+is the **dry-bulk Time-Charter table** (Capesize/Panamax/Supramax/Handysize x 1yr/3yr TC),
+absent from those sidecars. Verified against the PDFs, not metrics:
+
+- `intermodal_2026_W12` page 2 prints `180K 1yr TC 29,750`, `180K 3yr TC 23,500`,
+  `76K 1yr TC 16,250`, `58K`, `32K` ... The delivered CSV for that document held **12**
+  rows, all Tanker.
+- `intermodal_2023_W21`: all 8 dry-bulk current rates (15,750 / 16,750 / 12,000 /
+  12,250 / 13,000 / 11,750 / 11,500 / 9,500) are printed on page 2 - all 8 present.
+
+**Applied with a LABEL guard.** 6 documents (2023 W21/W24/W29/W30/W31/W33) were SKIPPED
+because the LlamaParse markdown itself corrupted the class column - it stamps a single
+`Capesize`/`Handysize`/`Panamax` on every dry-bulk row (e.g. W21 md line 165-171 carry
+`**Capesize**` for the 76K/58K/32K rows, which are Panamax/Supramax/Handysize). Adding
+those rows would publish a wrong class, so they are left missing (a wrong value is worse
+than a missing one). 9 further documents are REGRESSION docs where the current md is
+poorer than the delivered CSV (parser_unique < csv) - untouched.
+
+| | before | after |
+|---|---|---|
+| `intermodal_tc_rates_series.csv` | 5,080 | **5,233** (+153) |
+| documents refreshed | - | 18 |
+| duplicate full-row keys | 0 | 0 |
+
+**Control:** md5 of all 16 `intermodal_*_series.csv` before/after - only
+`intermodal_tc_rates_series.csv` changed; `intermodal_sales_series.csv` stayed 3,479.
+
+**Content verification:** every dry-bulk `rate_usd_day_current` of the 245 documents that
+now carry dry-bulk TC rows reconciled against the **PDF text layer** - **2,240/2,240 =
+100.0%** present. Class distribution is sane (Capesize 539 / Panamax 549 / Supramax 541 /
+Handysize 581); the only garbled-class rows (28 fused `CapesizePanamaxSupramaxHandysize`
++ 2 `Capasize`) live in **untouched** documents (2021 W29, 2024 W46, 2025 W27, 2025 W04) -
+pre-existing md artefacts, not introduced here.
+
+Register re-synced: **594,163 logical rows / 170 CSVs**, `verify_registers.py` = **0
+mismatches**. Combined with the sales recovery: intermodal +284 rows this run
+(3,348->3,479 sales; 5,080->5,233 tc_rates).
+
+### Still owed after this run
+- The 6 label-corrupt documents and the 9 regression documents need a class-label fix
+  (derive the class from the size token on the page) before their dry-bulk rows can be
+  recovered - the same content-anchored principle as the sales shift fix.
+- `indicative_values` and `nb_orders` also carry parser_unique > csv; not yet audited.
