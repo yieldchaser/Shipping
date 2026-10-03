@@ -573,22 +573,13 @@ def main():
         writer.writerows(all_indicative_rows)
     print(f"Wrote {len(all_indicative_rows)} rows to {csv_indicative.name}")
 
-    # Synchronize legacy test mirror
-    legacy_indicative = SERIES_DIR / "hellenic_athenian_demolition_series.csv"
-    with open(legacy_indicative, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["issue_date", "report_week", "country", "sector", "price_usd_per_ldt", "source_file"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for r in all_indicative_rows:
-            writer.writerow({
-                "issue_date": r["issue_date"],
-                "report_week": r["report_week"],
-                "country": r["country"],
-                "sector": r["vessel_type"],
-                "price_usd_per_ldt": r["price_usd_per_ldt"],
-                "source_file": r["source_file"],
-            })
-    print(f"Synchronized {len(all_indicative_rows)} rows to {legacy_indicative.name}")
+    # DO NOT write data/extracted/series/hellenic_athenian_demolition_series.csv here.
+    # That file is owned by run_hellenic_demolition.py, which dedups by filename AND
+    # (sha256, issue_date, publisher_branch). This runner has no such dedup: on
+    # 2026-10-03 a run of this script overwrote the canonical deduped 2,916-row file
+    # with its own 3,052-row (136 duplicate rows) "legacy mirror" variant, regressing
+    # the series and drifting it from the register. Removed; the canonical producer
+    # keeps the file current. See docs/athenian_verify_verdict.md.
 
     # 2. Yearly Demolition Volume
     csv_volume = SERIES_DIR / "athenian_yearly_demolition_volume_series.csv"
