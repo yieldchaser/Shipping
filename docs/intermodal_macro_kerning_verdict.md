@@ -72,3 +72,11 @@ Sample `intermodal_2023_W21`: page `Dow J ones / 33,093.34 ... -1.0%` matches th
   finance page, but a full row-count audit per series is still owed.
 - `Yuan / $` and `Won / $` show 252 rows vs 254 docs; the 2 gaps are the same
   `_broker_s_insi` duplicate copies (data held), not a parser defect.
+
+## Full macro reconciliation (post-fix, all indicators)
+
+For every one of the **255** canonical documents, the page-side indicator set (whitespace-normalised label anchored on a following numeric cell) was compared to the CSV hold for that document, across all 20 indicators:
+
+**TOTAL missing rows = 0.** No indicator printed on a finance page is absent from the CSV.
+
+Method note: no vision tool exists in this cron session, so the skill's "render and look" step is substituted by an exact same-document reconciliation (label + printed next cell) - stated here rather than implied.
