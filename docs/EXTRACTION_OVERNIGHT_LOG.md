@@ -2283,3 +2283,15 @@ interpreter, so no lint run.
    regeneration, the Clarksons Desk Talk 608 -> 355 row regeneration, and the
    derived DB rebuild (`python3 scripts/extract/build_table_db.py --out
    data/extracted` then `python3 scripts/extract/check_measured_rules.py`).
+
+### Addendum to "Measured but not diagnosed": signal_vessel_counts
+
+`signal_vessel_counts_series.csv` is written header-only by `run_signal.py`, whose
+extractor keys on `row_dict.get('Vessel Class')` / `.get('Ballasters')` /
+`.get('Number of Vessels')` / `.get('Count')`. The raw source does carry those
+headers: over `corpus/07-signal/html/` the literal strings "Ballasters" (728
+occurrences), "Vessel Class" (35) and "Number of Vessels" (2) are present. So the
+delivered 0 rows is a mismatch between what the runner reads and what the source
+holds, not an absent source. I did NOT run the runner or its HTML table parser, so
+I am not naming the exact failed key - that is the next step, and it is a second
+candidate of the same shape as the Star Asia defect.
