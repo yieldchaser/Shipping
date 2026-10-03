@@ -1,3 +1,11 @@
+**THIS RUN (2026-10-03 ~13:3x, source-by-source) - AGORA date-hygiene recovery + W37/W39 recall (+94 rows). Evidence `docs/agora_date_hygiene_verdict.md`.**
+
+Agora's delivered series was **invisible to date joins on 7 issues**: 5 named `agora_<YYYY>_w<NN>.pdf` carried BLANK issue_date AND week (235 rows), the W38 issue carried a BLANK week (47 rows), and **W37/W39 were absent entirely** (94 rows). A content sweep of the 217-PDF corpus against the series found exactly these. Convention derived from the data, not assumed: `issue_date == Friday of ISO week report_week` (**9,626 rows, 0 mismatches**). Weeks read off each DOCUMENT'S COVER, not the filename (agora filenames have lied before).
+
+**Fix:** dated the 5 blank issues from their covers; filled W38=38; normalised `report_week` floats (`36.0`) to ints to match every other series; recovered W37/W39 by re-running the source's OWN extractor (`run_agora.build`) in-schema. **Builder validated byte-exact against the existing W36 + W35 rows (47/47 each) before it was trusted.** Controls: only date/week columns changed (all other columns byte-identical row-for-row); append-only for W37/W39. **9,908 -> 10,002 rows; blank dates 235 -> 0; blank weeks 282 -> 0; dup keys 0.** W39/W38 confirmed byte-identical to their download-named copies (no double-count). Content verified vs page text (W39 Crude `94.61/-8.38/13.26` == page `94,61/-8,38%/13,26%`). Register re-synced (agora 9,908 -> 10,002; total 594,568 -> 594,409, also picks up the parallel clarksons_desk_talk 608 -> 355 fix).
+
+**RESIDUAL:** the stacker that builds `agora_indicators_series.csv` is NOT in `scripts/`; the delivered CSV is patched directly. Stale FLAT `source_file` paths affect every agora row (corpus-wide path item, not touched).
+
 **THIS RUN (2026-10-03 ~12:3x, source-by-source) - INTERMODAL: the owed per-document row-count audit executed across all 16 series; TWO more recall gaps found and FIXED (+50 rows). Evidence `docs/intermodal_nb_recall_verdict.md`.**
 
 **Instrument:** re-ran the current parser over the 255 non-dup cached md and compared PER SERIES PER DOC the parser's **UNIQUE** row count vs the delivered CSV. The first pass used the RAW count and was WRONG: `2026_W12` "32 vs 20" was 12 duplicate rows of a twice-printed tanker block, collapsed to 20 by dedup. **Dedup before believing an API-count gap.**
