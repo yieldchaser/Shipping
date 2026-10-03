@@ -263,6 +263,47 @@ def is_page_furniture(line: str) -> bool:
     return bool(_FURNITURE_RE.search(line))
 
 
+def flattened_table_cell_indices(lines):
+    """Line indices belonging to a COLUMN-FLATTENED S&P table.
+
+    The pre-2021-09 bulletins render the sales table as stacked bare cells with
+    no pipe table: a VESSEL .. BUYER header row, then 7-9 lines per vessel
+    (name, dwt, built+yard, engine, [gear], SS, DD, price, buyer). Those cell
+    lines are table data, not market commentary, but the commentary block below
+    used to append them (no pipe -> not a table to the guards), fusing the sales
+    table into the Desk Talk text.
+
+    The block is delimited by content, not geometry: it starts at the literal
+    'VESSEL' header (running to the 'BUYER' header) and ends at the first page
+    break, page furniture, or prose line (commentary is wrapped at ~120 chars,
+    cells are short). Only used when the document has no pipe character, so
+    pipe-table reports are untouched.
+    """
+    idx = set()
+    n = len(lines)
+    i = 0
+    while i < n:
+        s = lines[i].strip()
+        if s.upper() == "VESSEL":
+            j = i
+            while j < min(n, i + 14):
+                idx.add(j)
+                if lines[j].strip().upper() == "BUYER":
+                    break
+                j += 1
+            k = j + 1
+            while k < n:
+                body = lines[k].strip()
+                if body == "---" or len(body) > 80 or is_page_furniture(lines[k]):
+                    break
+                idx.add(k)
+                k += 1
+            i = k
+        else:
+            i += 1
+    return idx
+
+
 def extract_clarksons_data(markdown_text: str, issue_date: str, report_week: int, source_file: str) -> Dict[str, Any]:
     """Comprehensive extractor handling Pipe tables, HTML tables, Line-by-line format, Commentary, and Macro."""
     sales: List[Dict[str, Any]] = []
@@ -275,10 +316,14 @@ def extract_clarksons_data(markdown_text: str, issue_date: str, report_week: int
 
     # 1. Parse Desk Talk & Narrative Commentary
     lines = markdown_text.splitlines()
+    # The pre-2021-09 reports render the S&P table as stacked bare cells
+    # (no pipe table); index those cell lines so the commentary block skips
+    # them instead of fusing the sales table into the Desk Talk text.
+    _cell_idx = flattened_table_cell_indices(lines) if "|" not in markdown_text else set()
     curr_section = "Desk Talk"
     curr_text_block: List[str] = []
 
-    for line in lines:
+    for _li, line in enumerate(lines):
         l_str = line.strip()
         if not l_str:
             continue
@@ -313,7 +358,7 @@ def extract_clarksons_data(markdown_text: str, issue_date: str, report_week: int
             if curr_text_block:
                 commentary.append({"issue_date": issue_date, "report_week": report_week, "sector": curr_section, "commentary_text": " ".join(curr_text_block), "source_file": source_file})
                 curr_text_block = []
-        elif not l_str.startswith("#") and not l_str.startswith("---") and not is_page_furniture(l_str) and not re.search(r"<(?:th|td|tr|table|div|tbody|thead)", l_str, re.I):
+        elif not l_str.startswith("#") and not l_str.startswith("---") and not is_page_furniture(l_str) and _li not in _cell_idx and not re.search(r"<(?:th|td|tr|table|div|tbody|thead)", l_str, re.I):
             if len(l_str) > 15:
                 curr_text_block.append(l_str)
 
