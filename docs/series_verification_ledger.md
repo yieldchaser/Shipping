@@ -510,3 +510,27 @@ The "only open item" above is closed. The tier itself had ALSO drifted from the 
 the two series regenerated - `docs/ism_tier_drift_verdict.md`. The residual agreement tail is
 the publisher's own axis-label shift, already read and measured; the one lever that is ours was
 deliberately not applied (it would report a value the publisher never printed that week).
+
+
+---
+
+# CLOSED 2026-10-03 - intermodal_macro currency-block recall gap (a NEW item, found by rendering the page)
+
+4.3 and the ism tail are both already closed (above); a fresh session re-ran the page comparison
+on `intermodal_macro_series.csv` and found a defect neither had captured:
+
+* The finance page prints **7 currencies** (`€ / $`, `£ / $`, `$ / ¥`, `$ / NoK`, `Yuan / $`,
+  `Won / $`, `$ INDEX`); the runner's hardcoded `INDICATORS` allowlist matched only the 3 ASCII
+  ones, so **the other 4 were dropped on every issue**.
+* Not held elsewhere: `intermodal_currencies_series.csv` is a different table (USD/BDT, INR, PKR,
+  TRY); `index.html` does not consume the macro series.
+* Fix: 4 labels added to `INDICATORS`; `run_intermodal_finance.py` re-run (255 reports, no spend).
+  macro **3,787 -> 4,803** (+1,016 = 4 x 254); distinct indicators 16 -> 20; dup keys 0.
+* Verification: **1,016 / 1,016 = 100.0%** of new rows confirmed verbatim against their source
+  PDF page (label + two values + printed change). Control: stocks/bunkers CSVs **byte-identical**.
+* Also fixed a silent no-op: the runner's sidecar write used a FLAT path while sidecars are
+  year-partitioned, so `macro_indicators` had never been written (0/256 sidecars). Now 255 do.
+  Residual (disclosed): `run_intermodal_full.py` writes a fresh sidecar dict and would clobber the
+  key on its next pass; no reader consumes it today.
+* Register Intermodal row re-measured and corrected (16 counts, total **62,510** rows).
+* Evidence: `docs/intermodal_macro_verdict.md` (ADDENDUM 2026-10-03).
