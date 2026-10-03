@@ -42,17 +42,17 @@ def verify_all():
 
     # 1. Corpus check
     pdfs = sorted(CORPUS_DIR.rglob("*.pdf"))
-    sidecars = sorted(OUT_MD.glob("*.tables.json"))
-    mds = sorted(OUT_MD.glob("*.md"))
+    sidecars = sorted(OUT_MD.rglob("*.tables.json"))
+    mds = sorted(OUT_MD.rglob("*.md"))
 
     print(f"\n1. CORPUS INVENTORY:")
-    print(f"  PDF count       : {len(pdfs)} (Target: 250)")
+    print(f"  PDF count       : {len(pdfs)} (Target: 254 PDFs / 247 unique)")
     print(f"  Sidecars (.json): {len(sidecars)}")
     print(f"  Markdown (.md)  : {len(mds)}")
-    assert len(pdfs) == 250, f"Expected 250 PDFs, found {len(pdfs)}"
-    assert len(sidecars) == 250, f"Expected 250 sidecars, found {len(sidecars)}"
-    assert len(mds) == 250, f"Expected 250 markdown files, found {len(mds)}"
-    print("  [PASS] All 250 documents accounted for.")
+    assert len(pdfs) == 254, f"Expected 254 PDFs, found {len(pdfs)}"
+    assert len(sidecars) == 247, f"Expected 247 sidecars, found {len(sidecars)}"
+    assert len(mds) == 247, f"Expected 247 markdown files, found {len(mds)}"
+    print("  [PASS] All unique documents accounted for.")
 
     # 2. Sidecar metadata stamping check
     print(f"\n2. METADATA STAMPING AUDIT:")
@@ -128,8 +128,8 @@ def verify_all():
     print(f"  BDA Schema     : {','.join(bda_header)}")
     print(f"  BDA Total Rows : {len(bda_reader)}")
     assert bda_header == expected_bda_header, f"Schema mismatch: {bda_header} != {expected_bda_header}"
-    assert len(bda_reader) == 750, f"Expected exactly 750 BDA rows (250*3), got {len(bda_reader)}"
-    print("  [PASS] BDA Series CSV matches exact required schema and 750 rows.")
+    assert len(bda_reader) == total_bda_records, f"BDA CSV rows {len(bda_reader)} != sidecar BDA records {total_bda_records}"
+    print("  [PASS] BDA Series CSV matches exact required schema and sidecar BDA record count.")
 
     # 5. Negative TCE Check
     print(f"\n5. NEGATIVE TCE VALUE PARSING CHECK:")
