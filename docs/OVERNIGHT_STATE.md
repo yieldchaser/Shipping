@@ -10,6 +10,8 @@ No extraction job was running (both `python.exe` are the Hermes gateway). The pr
 
 **Residual (not fixed):** these 3 docs keep the publisher's own section label (the 2021-07-02/09 `Tankers` row now holds newbuilding prose); no relabel - wrong is worse than missing.
 
+**ALSO THIS RUN - the breakwave duplicate-residue side finding is CLOSED, independently re-measured:** `corpus/02-hellenic/shipbuilding/pdfs` holds 353 breakwave-named PDFs spanning **182 distinct filename dates**. Against THREE baselines (corpus/03-breakwave file dates 291, `breakwave_fundamentals_series.csv`, `breakwave_insights_metadata.csv`) exactly 3 filename-dates looked uncovered: `2021-07-07`, `2021-09-01`, `2024-01-02`. They are **download dates, not report dates** - the files are `BreakwaveJuly62021Report`, `BreakwaveAugust312021Report`, `BreakwaveDryJanuary92024Report`; the true report dates `2021-07-06` / `2021-08-31` / `2024-01-09` are ALL present in `breakwave_fundamentals_series` and in 03-breakwave. **No gap; duplicate residue only.** (Filenames lie about dates - same lesson as the agora cover-date fix.)
+
 **THIS RUN (2026-10-03 13:3x-13:5x, HOURLY SUPERVISOR 345bc8db9233) - HUMAN DECISION #1 TAKEN: the Clarksons Desk Talk furniture fix is now IN the delivered file (608 -> 355 rows); controls exact; one residual class measured. Evidence `docs/clarksons_desk_talk_regen_verdict.md`.**
 
 **Why this item:** no extraction process was running; the live sibling is the 30m source-by-source job (up since 13:28:44, actively rewriting `agora_indicators_series.csv` at 13:39:18 / 13:43:01), so agora + intermodal are its thread. The parked item with a measured expectation and no owner was the committed fix `abee30d58` whose DATA regeneration was deferred as a human decision.
