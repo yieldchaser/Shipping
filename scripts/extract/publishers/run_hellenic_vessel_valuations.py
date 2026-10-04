@@ -246,15 +246,84 @@ def parse_deal(txt: str, sector: str) -> Optional[Dict[str, Any]]:
     }
 
 
+_MONTH_NAMES = ("january", "february", "march", "april", "may", "june", "july",
+                "august", "september", "october", "november", "december")
+
+
+def _page_title(h_path: Path) -> str:
+    """The report page's own <title>, or "" - an identity the filename lacks."""
+    try:
+        text = h_path.read_text(encoding="utf-8", errors="ignore")
+    except OSError:
+        return ""
+    m = re.search(r"<title>([^<]*)", text)
+    return m.group(1).strip() if m else ""
+
+
+def _title_iso_date(h_path: Path) -> str:
+    """'Weekly Vessel Valuations Report, September 15 2026' -> '2026-09-15'.
+
+    The page's OWN report date. The filename prefix is the next-day CRAWL date
+    (measured: 78 of 261 pages differ, -1d x69, -2d x8, +10d x1), so the page
+    title is authoritative and the filename is only the fallback.
+    """
+    title = _page_title(h_path)
+    m = re.search(r"Report,?\s*([A-Za-z]+)\s+(\d{1,2})\s+(\d{4})", title or "")
+    if not m:
+        return ""
+    month = m.group(1).lower()
+    if month not in _MONTH_NAMES:
+        return ""
+    return "%s-%02d-%02d" % (m.group(3), _MONTH_NAMES.index(month) + 1, int(m.group(2)))
+
+
+def _title_date_token(title: str) -> str:
+    """'Weekly Vessel Valuations Report, February 17 2026' -> 'february-17-2026'."""
+    m = re.search(r"Report,?\s*([A-Za-z]+)\s+(\d{1,2})\s+(\d{4})", title or "")
+    if not m:
+        return ""
+    month = m.group(1).lower()
+    if month not in _MONTH_NAMES:
+        return ""
+    return "%s-%02d-%s" % (month, int(m.group(2)), m.group(3))
+
+
+def dedupe_report_copies(html_files: List[Path]) -> List[Path]:
+    """One file per report page, keyed on the publisher's own <title>.
+
+    The collector stores the SAME report several times under different names
+    (measured: 6 of 261 VV pages are copies - 3 of the February 17 2026 report,
+    all saved 2026-02-19, and 5 of the March 31 2026 report, all saved
+    2026-04-01). No two of a group are byte-identical (each fetch rewrites the
+    asset paths), so a hash dedup misses them, and each copy was parsed
+    independently - which put one report's deals into the series 3x and 5x
+    (measured on the pre-fix series: 36 rows on 2026-02-19 = 3 x 12; 45 rows on
+    2026-04-01 = 5 x 9). Mirrors the identical fix already shipped in
+    run_hellenic_vv_matrix.py (2026-10-03).
+    """
+    best: Dict[str, Tuple[Path, bool]] = {}
+    for hp in html_files:
+        title = _page_title(hp)
+        key = title or hp.name
+        token = _title_date_token(title)
+        owns = bool(token) and token in hp.stem.lower().replace("_", "-")
+        cur = best.get(key)
+        if cur is None or (owns and not cur[1]):
+            best[key] = (hp, owns)
+    return sorted(hp for hp, _owns in best.values())
+
+
 def parse_vv_html(html_path: Path) -> Dict[str, Any]:
     """Parse complete VesselsValue weekly report."""
     fname = html_path.name
     # Extract date YYYY-MM-DD
     m_date = re.match(r"^(\d{4}-\d{2}-\d{2})", fname)
-    issue_date = m_date.group(1) if m_date else "UNKNOWN"
+    filename_date = m_date.group(1) if m_date else ""
 
     content = html_path.read_text(encoding="utf-8", errors="ignore")
     soup = BeautifulSoup(content, "html.parser")
+    # The page's own report date wins; the filename prefix is the crawl date.
+    issue_date = _title_iso_date(html_path) or filename_date or "UNKNOWN"
 
     title = soup.title.string.strip() if soup.title and soup.title.string else f"Weekly Vessel Valuations Report - {issue_date}"
 
@@ -355,6 +424,11 @@ def process_all() -> Dict[str, Any]:
 
     # Collect all weekly reports (bypassing one-offs)
     html_files = sorted(list(CORPUS_DIR.glob("**/*weekly-vessel-valuations-report*.html")))
+    n_input = len(html_files)
+    html_files = dedupe_report_copies(html_files)
+    if len(html_files) != n_input:
+        print(f"Dropped {n_input - len(html_files)} duplicate copies of the same report page "
+              f"({n_input} -> {len(html_files)})")
     print(f"Discovered {len(html_files)} weekly VesselsValue HTML reports")
 
     all_deals_rows: List[Dict[str, Any]] = []

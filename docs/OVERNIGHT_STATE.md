@@ -1,3 +1,33 @@
+**THIS RUN (2026-10-04 20:5x, source-by-source, 30m job) - HELLENIC VESSELSVALUE DATE CONVENTION APPLIED (was the carried "one command away" item): page-title date now wins over the filename CRAWL date, and the sales runner's missing 3x/5x dedup was ported from the matrix runner. Evidence `docs/hellenic_vv_date_verdict.md`.**
+
+No extraction job was running (live python.exe set = Hermes gateway). All named sources
+CLOSED. This run took the state file's named next-target and executed it.
+
+**Fix (2 runners, API-free).** `_title_iso_date()` added to both; `issue_date = page-title
+date or filename`. The image cache is keyed on the IMAGE STEM, not the date, so the 266-entry
+`cache_hellenic_vv/` served every matrix parse -> 0 LlamaParse calls.
+
+**Second defect found + fixed:** the sales runner never got the 2026-10-03 `dedupe_report_copies`
+the matrix runner did, so 6 of 261 pages (3 copies of Feb-17-2026, 5 of Mar-31-2026) landed in
+`hellenic_vv_sales_series.csv` 3x/5x - measured **36 rows on 2026-02-19 (3x12)** and **45 on
+2026-04-01 (5x9)**. Helper ported; rows now 12 / 9.
+
+**Measured after (all 3 series): rows sales 2,122 -> 2,062 (-60 = the 24 + 36 de-duped rows);
+matrix 12,350 (unchanged); benchmark 124. 0 files still on the crawl date; 0 source_file with
+>1 issue_date; 0 page-date collisions; 0 exact-dup rows (matrix's 15 are pre-existing, in the
+backup). Example: 2021-11-17 (crawl) -> 2021-11-16 (page).** md = 255 files, 0 unpadded names.
+The md dir was wiped first (an unpadded-day bug in this run's first trial had left mixed names).
+
+**NOTE for a future run:** BOTH VV runners write md to the SAME `<year>/vv_<date>.md` path -
+a pre-existing collision. Sales was run LAST to keep the historical sales-format deliverable;
+a run that reverses the order silently changes the md format. Candidate one-line cleanup, not done.
+
+**Next-run target:** the ledger defect list is EMPTY. Remaining carried items are the VV-matrix
+image-recall residual (paid - needs a per-page measured comparison) and the two-writer
+`hellenic_iron_ore_pdf_*` family. Nothing free and unblocked remains beyond those.
+
+---
+
 **THIS RUN (2026-10-04 20:0x, source-by-source, 30m job) - LION DEDUP FIX CLOSED OUT: the parquet writer's latent double-count fixed, deliverables re-verified, code committed. Evidence `docs/lion_regeneration_determinism_verdict.md`.**
 
 No extraction job was running (live python.exe set = Hermes gateway + terminal). All named sources

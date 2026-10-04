@@ -282,11 +282,13 @@ def parse_vv_commentary_and_sales(soup: BeautifulSoup, issue_date: str, source_f
 async def process_vv_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[Dict[str, Any], List[Dict[str, Any]], List[Dict[str, Any]]]:
     fname = h_path.name
     m_date = re.match(r"^(\d{4}-\d{2}-\d{2})", fname)
-    issue_date = m_date.group(1) if m_date else "UNKNOWN"
-    year = issue_date[:4]
+    filename_date = m_date.group(1) if m_date else ""
 
     content = h_path.read_text(encoding="utf-8", errors="ignore")
     soup = BeautifulSoup(content, "html.parser")
+    # The page's own report date wins; the filename prefix is the crawl date.
+    issue_date = _title_iso_date(page_title(h_path)) or filename_date or "UNKNOWN"
+    year = issue_date[:4]
     title = soup.title.string.strip() if soup.title and soup.title.string else f"Weekly Vessel Valuations Report - {issue_date}"
 
     commentary, sales = parse_vv_commentary_and_sales(soup, issue_date, fname)
@@ -404,6 +406,20 @@ def _title_date_token(title: str) -> str:
     if month not in _MONTH_NAMES:
         return ""
     return "%s-%02d-%s" % (month, int(m.group(2)), m.group(3))
+
+
+def _title_iso_date(title: str) -> str:
+    """'Weekly Vessel Valuations Report, September 15 2026' -> '2026-09-15'.
+
+    The page's OWN report date. The filename prefix is the next-day CRAWL date
+    (measured: 78 of 261 pages differ, -1d x69, -2d x8, +10d x1), so the page
+    title is authoritative and the filename is only the fallback.
+    """
+    token = _title_date_token(title)
+    m = re.match(r"([a-z]+)-(\d{2})-(\d{4})$", token)
+    if not m or m.group(1) not in _MONTH_NAMES:
+        return ""
+    return "%s-%02d-%02d" % (m.group(3), _MONTH_NAMES.index(m.group(1)) + 1, int(m.group(2)))
 
 
 def dedupe_report_copies(html_files: List[Path]) -> List[Path]:
