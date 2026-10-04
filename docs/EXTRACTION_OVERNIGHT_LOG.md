@@ -2835,3 +2835,95 @@ re-typed blindly.
    flag apply, the xclusiv 2021-10-04 CSV re-run, the `hellenic_iron_ore_pdf_*` two-writer
    family, hellenic VesselsValue date convention, lion series regeneration, affinity WS-era
    md rounding, DB `label_series`, intermodal_macro ism agreement tail.
+
+## 2026-10-05 00:5x IST (19:2x UTC 10-04) - deep review: independent quality pass over the finished corpus; the one code change made was WITHDRAWN (it would break a project gate)
+
+No extraction job of OURS was running (live python.exe set = Hermes gateway + litellm +
+code_review_graph serve; no run_batch/batch_worker). Bulk corpus COMPLETE
+(`verify_extraction.py`: 7816/7816 recorded, 0 remaining; golden 15/15). Working tree clean at
+start; branch `main` (a parallel agent advanced it 1a2489134 -> 09aa8dac8 -> 9e79700dc during
+this run).
+
+### What I measured (independent of the state file)
+
+Sweeps over all 175 `data/extracted/series/*.csv` (blank-ratio, duplicate rows, date sanity,
+`unit` consistency) plus open-and-reconcile of real outputs against the rendered PDF text
+layer. Everything checked came back FAITHFUL:
+
+* **star_asia** W39 2026 p10: `MAESTRO 1 / BULKER / LDT 5,142 / 1998 / JAPAN / 507 /
+  DELIVERED GADANI` extracted identically cell-for-cell; ALANG TANKERS `$490-500` ->
+  low 490 / high 500 / mid 495. Correct.
+* **agora** W40 2026: raw `92,87` -> 92.87, `1,72%` -> 1.72, S&P `7737,24` -> 7737.24
+  (European comma, derived per document). Correct.
+* **bancosta_freight_rates** TC9: two rows per week with `unit=ws` (120.0) and
+  `unit=usd/day` (1,247) - the PDF prints BOTH (`TC9 Baltic-UKC (22k) ws 120.0` and
+  `... usd/day 1,247`), so the `unit`-in-key handling is right. Not a defect.
+* **affinity** TCE cards: values verbatim from the text layer (`TD3C 270,000 1,286,655`).
+* **intermodal_macro** (the carried ledger item 4.3): the "stated change not reproducible"
+  rows are the PUBLISHER's construction, not our defect. Verified on two eras: the macro
+  table prints FIVE daily columns (`2-Jul-21 1-Jul-21 30-Jun-21 29-Jun-21 28-Jun-21`) plus a
+  printed `W-O-W Change %` computed against the previous FRIDAY, which is not in the table.
+  `prior_value` is the previous TRADING DAY (1.431 vs 1.480; 2026 W39 100.97 vs 101.29) while
+  `wow_change_pct` is the printed week change (-6.8%). Faithful; `index.html` hits = 0.
+  **Closed as non-defect.**
+* No fake `YYYY-00-00` dates remain anywhere (0 cells).
+
+### The one code change - made, proven, then WITHDRAWN
+
+I added a per-cell `unit` column to `run_affinity_tables.py` (carrying Worldscale vs USD/day
+for the 161 CLEAN cells that print an explicit `WS ` prefix - TC6 68, TC8 25, TC9 68) so the
+delivered `affinity_tce_series.csv` stops presenting e.g. TC6 `119.56` (2021-07-02) as if it
+were USD/day next to TC6 `57,494` (2026-10-02). One-document proof passed and golden held
+15/15.
+
+**Withdrawn, for two measured reasons:**
+
+1. It is NOT new. `docs/affinity_ws_verdict.md` (2026-10-04 15:06) already root-caused and
+   fixed this on the primary deliverable (the md): `polish_affinity_markdown.py` now renders
+   explicitly WS-quoted cells verbatim (`WS {val:g}`) and derives the Rate header from the
+   printed unit; it records the same 161 cells (`unit_source='explicit-ws'`) and explicitly
+   states the patch "touches NO series data ... all three CSVs are byte-reproducible". The
+   CSV unit-drop is a KNOWN, deliberately-preserved state, not an open defect.
+2. It breaks a project gate. `scripts/verify/verify_affinity.py` line 119 asserts the TCE CSV
+   header EXACTLY equals the 9-column list (no `unit`), and that file is outside my allowed
+   edit scope (`scripts/extract/` + `docs/EXTRACTION_*.md`). Adding the column would take
+   affinity verification from 6/6 to 5/6.
+
+`scripts/extract/publishers/run_affinity_tables.py` has been restored to its pre-run content
+(`git checkout 09aa8dac8 -- ...`); the delivered CSVs were restored byte-for-byte earlier
+(`affinity_tce_series.csv` sha256 6b689a85..., `affinity_bda_series.csv` 19ff66bf...), verified
+after the stacker re-run. **Nothing this run changed any delivered data.**
+
+### HYGIENE NOTE (needs no action but should be known)
+
+While this run was editing that file in the working tree, a PARALLEL agent's commit
+`9e79700dc` ("fix(pipeline): harden dynamic 2027 rollover across ingestion and extraction",
+00:36) swept my uncommitted edit into itself, so `main` currently carries the `unit` column
+change in `run_affinity_tables.py`. Today that is inert (the on-disk CSV still has the old
+header, so `verify_affinity.py` still passes), but the next full `orchestrate_pipeline.py`
+run of the stacker would emit the 10-column CSV and fail that check. Concurrent agents
+committing with `git add -A`-style sweeps is exactly the collision the runbook warns about.
+
+### Convention re-confirmed (worth keeping)
+
+`affinity_tce_series.csv` has TWO live writers with different schemas/formatting:
+`run_affinity_tables.py` (float quantity, `"↑Firmer"`, run by `orchestrate_pipeline.py`) and
+`orchestrate_incremental_ingest.py::extract_affinity` (int quantity, `"↑ Firmer"`, via
+`polish_affinity_markdown`). Measured: re-running the stacker over the same sidecars
+reproduces all 4,039 rows but rewrites 8,078 cells' FORMAT only. The delivered file matches
+the second writer. Pre-existing (already noted in `affinity_ws_verdict.md`); no ownership
+change made here.
+
+### HUMAN DECISIONS
+
+1. If the CSV should carry the unit (it is a machine-readable deliverable and currently
+   cannot be told apart from $/day), that is a 2-file change: add `unit` in
+   `run_affinity_tables.py` (code is `git show 9e79700dc -- scripts/extract/publishers/run_affinity_tables.py`)
+   **and** update `scripts/verify/verify_affinity.py`'s expected header. Decide, then run the
+   stacker once.
+2. Nominate ONE owner writer for `affinity_tce_series.csv`; today `orchestrate_pipeline.py`
+   runs the stacker while the incremental harness upserts the same path, so whichever runs
+   last silently changes the file's formatting.
+3. Unchanged carried calls: the two-part `hellenic_iron_ore_pdf_*` pass (scoped, one
+   controlled ~43 min run), the VV-matrix image-recall residual (paid), DB `label_series`.
+   Ledger defect list remains EMPTY.
