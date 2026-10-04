@@ -26,6 +26,17 @@ Artefact: `data/extracted/table_audit.json` (gitignored) updated in place; prior
 `scratch/table_audit/table_audit.pre_unitshealth_20261004.json` + `_pre_20261004/units_fixed.pre.json`.
 `recomputed_2026_10_04.prior_still_stale` is now EMPTY - all four sections current.
 
+**SECOND FINDING - `EURO_DECIMAL_MISPARSE` (audit outstanding_gap #1) VERIFIED CLOSED on the
+current DB.** The audit's rebuild note CLAIMED the fix was applied; verified the artefact on
+corpus.duckdb: all **105,202 strict EU-decimal numeric cells (comma=decimal, periods=thousands)
+have num_value == the European reading = 100.000%** (0 wrong, 0 null; pre-rebuild 93,076 wrong).
+Ground truth (same-document page-text reconciliation - this session has NO vision tool): 20 docs
+/ 3,690 strict EU cells -> the literal string is on the exact page 3,690/3,690 = 100.00%.
+Spot: '-3,91%'->-3.91, '2,79%'->2.79 (advanced_shipping rendered text). The remaining ambiguous
+case (comma + exactly 3 digits, 375,546 cells) is unresolvable from text alone - NOT a defect.
+`outstanding_gaps[0]` marked CLOSED and `defects.EURO_DECIMAL_MISPARSE.resolved_2026_10_04`
+stamped in the audit json.
+
 **Next-run target:** the carried items are unchanged human/display calls (hellenic
 VesselsValue date convention; lion regeneration; the VV-matrix image-recall residual -
 paid). The table-audit stale-section thread is CLOSED.

@@ -101,3 +101,28 @@ known shape, not new.
 Updated artefact: data/extracted/table_audit.json (sections unit_coverage, per_doc_health;
 prior copy scratch/table_audit/table_audit.pre_unitshealth_20261004.json).
 recomputed_2026_10_04.prior_still_stale is now empty - all four sections current.
+
+---
+
+## EURO_DECIMAL_MISPARSE (outstanding_gap #1) VERIFIED CLOSED on the current DB (2026-10-04 ~18:2x)
+
+The audit's `parser_rebuild_2026_09_23` note CLAIMED the fix "has since been applied". Per
+doctrine, verified the ARTEFACT, not the intent, on the current corpus.duckdb:
+
+    strict EU-decimal numeric cells (^[^0-9]*[0-9][0-9.]*,[0-9]{1,2}[^0-9]*$)   105,202
+    num_value == European reading (comma=decimal, periods=thousands)   105,202 / 105,202 = 100.000%
+    num_value wrong   0        num_value NULL   0
+    pre-rebuild (2026-09-23 audit): 93,076 cells materially wrong
+
+Ground truth (same-document page-text reconciliation; this session has NO vision tool, so
+this is the documented substitute, not a look): 20 sampled docs across sources / 3,690
+strict EU cells -> the literal value string is present on the exact page in 3,690 / 3,690
+= 100.00% (0 misses). Spot examples (advanced_shipping, page text): '-3,91%' -> -3.91,
+'2,79%' -> 2.79, '5,11%' -> 5.11 - all stored correctly.
+
+Verdict: **outstanding_gap #1 is CLOSED - the 10^k-class error is gone.** The remaining
+ambiguous case (comma + exactly 3 digits, 375,546 cells) is genuinely unresolvable from
+text alone (thousands vs decimal) and is NOT a defect - the audit already states this.
+
+Updated in data/extracted/table_audit.json: `outstanding_gaps[0]` marked CLOSED;
+`defects.EURO_DECIMAL_MISPARSE.resolved_2026_10_04` stamped.
