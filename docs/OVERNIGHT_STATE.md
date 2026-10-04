@@ -1,3 +1,21 @@
+**THIS RUN (2026-10-04 14:5x, source-by-source, 30m job) - AFFINITY WS-ERA md RENDERING FIXED: `WS 130.63` no longer rendered as `$131`. 144 md cells -> 0. Evidence `docs/affinity_ws_verdict.md`.**
+
+No extraction job was running (python.exe set = Hermes gateway). No source left to extract, so this run took the carried-open item "affinity WS-era md rounding (144 cells, DISPLAY ONLY)" - the md is affinity's PRIMARY deliverable and the defect was a WRONG displayed value, so it was measured and fixed rather than left as a decision.
+
+**Defect (proven against the rendered page, not another extractor).** In the WS era (68 docs: 2021=26, 2022=42) the CLEAN card header prints `$ / WS` and some routes print `WS 130.63`. `polish_affinity_markdown.py` ran every rate through `format_rate()` (`{val:,.0f}` + `$`), so `WS 130.63` -> `$131` (lost the unit AND the decimal). Ground truth 2021-10-01 p0 panel: `490.8 747.7 'WS 130.63'` -> md `$131`; `525.1 755.8 'WS 25'` -> md `$25`; `542.3 747.7 'WS 130.71'` -> md `$131`. The md also hardcoded `Rate ($/Day)` for the CLEAN block whose printed header is `$ / WS`.
+
+**Fix (source only).** `polish_affinity_markdown.py`: new `format_rate_cell(raw_val,val,unit_source)` renders an explicitly WS-quoted cell as `WS {val:g}` (keeps unit + decimals); new `rate_header(unit)` derives the column header from the block's printed unit; rows now carry `value_raw`/`unit`/`unit_source`. The same fix applied to `orchestrate_incremental_ingest.py` (the live incremental path renders affinity md too, same hardcoded header + `pam.format_rate`); it only sees the modern era so its behaviour is unchanged, but the renderer is now single-sourced.
+
+**Controls (ran ORIGINAL vs PATCHED side by side).** All three series CSVs BYTE-IDENTICAL across the change (`cmp` tce/bda/indices) - the patch touches NO data. md changed in EXACTLY 68 files = {2021:26, 2022:42} = the WS era; the 2021-10-01 diff is only the 4 intended lines. `polish` is idempotent (2 passes byte-identical). Reconciliation: **4,039 / 4,039** TCE rate cells match the exact CSV + printed card, mismatches **144 -> 0**, explicit-WS cells **161**, block-header errors **0/496**.
+
+**Second finding, fixed.** `verify_affinity.py` (after its stale counts below were relaxed) exposed that the 2026-10-02 issue's sidecar was written by the fetcher with NO top-level stamps and NO BDA `records` list that every other sidecar has. Stamped in place via the canonical resolver (`resolve_metadata` -> 2026-10-02, week 40) and regenerated its 3 BDA records; no other file touched. Also relaxed `verify_affinity.py`'s three hardcoded counts (254/247/247) that went stale when the 2026-09-25 and 2026-10-02 issues landed - now asserts `sidecars == mds` and `pdfs >= sidecars` (the 7 extra PDFs are byte-duplicates). Result: **`verify_affinity.py` 6/6 PASSED** (was failing at check 1 on a stale count, then checks 2 and 4 on the incomplete newest sidecar).
+
+**Noted, NOT touched (pre-existing, not this fix):** `affinity_tce_series.csv` / `affinity_bda_series.csv` have TWO writers (`polish` and `run_affinity_tables`) whose `trend_wow` formatting differs (`↑ Firmer` vs `↑Firmer`), so their on-disk hashes move whenever the other writer runs. The CSV row counts match the register's refreshed values.
+
+**Next-run target:** unchanged human/display calls (hellenic VesselsValue date convention; lion regeneration; DB `label_series`; derived 764-key collisions / 43% empty `measurement_key`), plus the VV-matrix image-recall decision. The affinity WS item is CLOSED.
+
+---
+
 **THIS RUN (2026-10-04 13:5x, source-by-source, 30m job) - PUSH + UNCOMMITTED CODE LANDED + ENUMERATION COVERAGE SWEEP (no gap found).**
 
 No extraction job was running. The live `python.exe` set is the Hermes gateway, a `proxy_gateway` litellm server, and `code_review_graph serve`. A PARALLEL sibling agent committed concurrently this run (atlas book work `815d63c90`, and a `docs(state)` log `db330efc7`) - my commits sit on top of those; no collision.
@@ -40,7 +58,8 @@ No extraction job was running (the python.exe set is the Hermes gateway). No bro
 No extraction job was running (the python.exe set is the Hermes gateway). No source is left to extract - all named sources CLOSED. This run closed the NEW HAZARD the 11:4x run flagged and could not fix.
 
 **Reproduced the hazard (measured):** `python scripts/audit/generate_cadence_audit.py` rewrites `corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md` WHOLESALE. Diff vs the committed file was `122,141d120` + `53d52` = the entire books block (master-matrix row at line 53 + section 3.5, 12 rows, 20 lines) MISSING from the generator, plus a CRLF/LF flip (Python text-mode translated `
-`->`
+`->`
+
 `; the committed file is LF). Net: 697 -> 676 lines on regeneration.
 
 **Fix (source only):** added a `md_lines.append(<books matrix row>)` after the REGISTRY_DATA loop and a `md_lines.extend([...])` emitting section 3.5 (both read VERBATIM from the committed md, so byte-faithful), and made the writer `newline="

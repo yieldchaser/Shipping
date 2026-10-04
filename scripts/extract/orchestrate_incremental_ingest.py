@@ -437,6 +437,7 @@ def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "route": row.get("route"), "description": row.get("description"),
             "quantity": pam.parse_quantity_mt(row.get("qty_dwt")),
             "rate": pam.parse_clean_float(row.get("value")) if row.get("value") is not None else pam.parse_clean_float(row.get("value_raw")),
+            "value_raw": row.get("value_raw"), "unit": row.get("unit"), "unit_source": row.get("unit_source"),
             "trend": pam.format_trend(row.get("wow")),
         })
     clean_rows = []
@@ -445,6 +446,7 @@ def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "route": row.get("route"), "description": row.get("description"),
             "quantity": pam.parse_quantity_mt(row.get("qty_dwt")),
             "rate": pam.parse_clean_float(row.get("value")) if row.get("value") is not None else pam.parse_clean_float(row.get("value_raw")),
+            "value_raw": row.get("value_raw"), "unit": row.get("unit"), "unit_source": row.get("unit_source"),
             "trend": pam.format_trend(row.get("wow")),
         })
 
@@ -488,17 +490,17 @@ def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         md_doc.append("")
     md_doc.extend(["## Baltic TCE Freight Rates", ""])
     if dirty_rows:
-        md_doc.extend(["### Baltic TCE Dirty", "", "| Route | Description | Quantity (MT) | Rate ($/Day) | Trend (W-o-W) |", "|---|---|---|---|---|"])
+        md_doc.extend(["### Baltic TCE Dirty", "", f"| Route | Description | Quantity (MT) | {pam.rate_header(dirty_rows[0].get('unit'))} | Trend (W-o-W) |", "|---|---|---|---|---|"])
         for r in dirty_rows:
             q_s = f"{r['quantity']:,}" if r['quantity'] else "-"
-            r_s = pam.format_rate(r['rate'])
+            r_s = pam.format_rate_cell(r.get('value_raw'), r['rate'], r.get('unit_source'))
             md_doc.append(f"| {r['route']} | {r['description']} | {q_s} | {r_s} | {r['trend']} |")
         md_doc.append("")
     if clean_rows:
-        md_doc.extend(["### Baltic TCE Clean", "", "| Route | Description | Quantity (MT) | Rate ($/Day) | Trend (W-o-W) |", "|---|---|---|---|---|"])
+        md_doc.extend(["### Baltic TCE Clean", "", f"| Route | Description | Quantity (MT) | {pam.rate_header(clean_rows[0].get('unit'))} | Trend (W-o-W) |", "|---|---|---|---|---|"])
         for r in clean_rows:
             q_s = f"{r['quantity']:,}" if r['quantity'] else "-"
-            r_s = pam.format_rate(r['rate'])
+            r_s = pam.format_rate_cell(r.get('value_raw'), r['rate'], r.get('unit_source'))
             md_doc.append(f"| {r['route']} | {r['description']} | {q_s} | {r_s} | {r['trend']} |")
         md_doc.append("")
     if commentary_text:

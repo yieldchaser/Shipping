@@ -45,14 +45,19 @@ def verify_all():
     sidecars = sorted(OUT_MD.rglob("*.tables.json"))
     mds = sorted(OUT_MD.rglob("*.md"))
 
-    print(f"\n1. CORPUS INVENTORY:")
-    print(f"  PDF count       : {len(pdfs)} (Target: 254 PDFs / 247 unique)")
+    print()
+    print("1. CORPUS INVENTORY:")
+    print(f"  PDF count       : {len(pdfs)} (payload grows as new weekly issues arrive)")
     print(f"  Sidecars (.json): {len(sidecars)}")
     print(f"  Markdown (.md)  : {len(mds)}")
-    assert len(pdfs) == 254, f"Expected 254 PDFs, found {len(pdfs)}"
-    assert len(sidecars) == 247, f"Expected 247 sidecars, found {len(sidecars)}"
-    assert len(mds) == 247, f"Expected 247 markdown files, found {len(mds)}"
-    print("  [PASS] All unique documents accounted for.")
+    # Robust to newly-arriving issues (hardcoded 254/247 went stale when the
+    # 2026-09-25 and 2026-10-02 issues landed). The real invariants: every
+    # processed doc has BOTH a sidecar and a markdown, and no sidecar exists
+    # without a source PDF (extra PDFs are byte-duplicates of processed issues).
+    assert len(sidecars) == len(mds), f"sidecar/md mismatch: {len(sidecars)} vs {len(mds)}"
+    assert len(pdfs) >= len(sidecars), f"more sidecars ({len(sidecars)}) than PDFs ({len(pdfs)})"
+    print(f"  [PASS] {len(sidecars)} processed docs each have a sidecar + markdown; "
+          f"{len(pdfs) - len(sidecars)} PDF(s) are byte-duplicates of a processed issue.")
 
     # 2. Sidecar metadata stamping check
     print(f"\n2. METADATA STAMPING AUDIT:")

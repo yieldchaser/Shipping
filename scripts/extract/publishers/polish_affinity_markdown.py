@@ -116,6 +116,35 @@ def format_rate(val: Optional[float]) -> str:
     return f"${val:,.0f}"
 
 
+def format_rate_cell(raw_val: Any, val: Optional[float], unit_source: Any = None) -> str:
+    """Render ONE TCE rate cell faithfully to the printed card.
+
+    In the WS era (68 docs, 2021-07..2022-11) the CLEAN card quotes some routes
+    in Worldscale, printed as e.g. "WS 130.63". The old path ran every value
+    through format_rate(), which round()s to an integer and prefixes "$", so
+    "WS 130.63" became "$131" - losing the unit AND the decimal. Measured: 144
+    md cells mismatched the (exact) CSV, all in the WS era. An explicitly
+    WS-quoted cell keeps the printed unit and decimals; every other cell is
+    unchanged, so non-WS-era markdown stays byte-identical.
+    """
+    raw = "" if raw_val is None else str(raw_val).strip()
+    src = "" if unit_source is None else str(unit_source).strip()
+    if src == "explicit-ws" or raw.upper().startswith("WS"):
+        if val is None:
+            return raw or "-"
+        return f"WS {val:g}"
+    return format_rate(val)
+
+
+def rate_header(unit: Any) -> str:
+    """Column header for a TCE rate block, taken from the printed unit.
+
+    The card prints '$ / Day' or '$ / WS'; hardcoding '$/Day' mislabelled the
+    WS-era CLEAN block (whose header the PDF prints as '$ / WS').
+    """
+    return "Rate ($/WS)" if "WS" in ("" if unit is None else str(unit)).upper() else "Rate ($/Day)"
+
+
 def format_trend(trend: Optional[str]) -> str:
     """Standardize trend arrows and labels."""
     if not trend:
@@ -408,6 +437,9 @@ def run_polish():
                     "description": desc,
                     "quantity": qty,
                     "rate": val,
+                    "value_raw": raw_val,
+                    "unit": r.get("unit"),
+                    "unit_source": r.get("unit_source"),
                     "trend": trend,
                 })
                 tce_series.append({
@@ -438,6 +470,9 @@ def run_polish():
                     "description": desc,
                     "quantity": qty,
                     "rate": val,
+                    "value_raw": raw_val,
+                    "unit": r.get("unit"),
+                    "unit_source": r.get("unit_source"),
                     "trend": trend,
                 })
                 tce_series.append({
@@ -512,11 +547,11 @@ def run_polish():
         if dirty_rows:
             md_doc.append("### Baltic TCE Dirty")
             md_doc.append("")
-            md_doc.append("| Route | Description | Quantity (MT) | Rate ($/Day) | Trend (W-o-W) |")
+            md_doc.append(f"| Route | Description | Quantity (MT) | {rate_header(dirty_rows[0].get('unit'))} | Trend (W-o-W) |")
             md_doc.append("|---|---|---|---|---|")
             for r in dirty_rows:
                 qty_str = f"{r['quantity']:,}" if r['quantity'] else "-"
-                rate_str = format_rate(r['rate'])
+                rate_str = format_rate_cell(r.get('value_raw'), r['rate'], r.get('unit_source'))
                 md_doc.append(f"| {r['route']} | {r['description']} | {qty_str} | {rate_str} | {r['trend']} |")
             md_doc.append("")
 
@@ -524,11 +559,11 @@ def run_polish():
         if clean_rows:
             md_doc.append("### Baltic TCE Clean")
             md_doc.append("")
-            md_doc.append("| Route | Description | Quantity (MT) | Rate ($/Day) | Trend (W-o-W) |")
+            md_doc.append(f"| Route | Description | Quantity (MT) | {rate_header(clean_rows[0].get('unit'))} | Trend (W-o-W) |")
             md_doc.append("|---|---|---|---|---|")
             for r in clean_rows:
                 qty_str = f"{r['quantity']:,}" if r['quantity'] else "-"
-                rate_str = format_rate(r['rate'])
+                rate_str = format_rate_cell(r.get('value_raw'), r['rate'], r.get('unit_source'))
                 md_doc.append(f"| {r['route']} | {r['description']} | {qty_str} | {rate_str} | {r['trend']} |")
             md_doc.append("")
 
