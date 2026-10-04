@@ -1,3 +1,20 @@
+**THIS RUN (2026-10-04 23:5x, source-by-source, 30m job) - IRON-ORE FAULT 2 BLAST RADIUS MEASURED: the reserved option (a) alone would inject ~2,707 WRONG values. Evidence `docs/iron_ore_fault2_blast_radius_verdict.md`.**
+
+No extraction job of OURS was running (live python.exe set = Hermes gateway + litellm + code_review_graph; no broker/extraction runner). Branch is `main`; a parallel automation is active (last commit e91f66056 23:46). All named sources CLOSED and CURRENT - measured this run: across the 14 `corpus/01-brokers/*` publishers, **0 PDFs are newer than that source's newest md** (nothing newly collected is unextracted). md counts still >= distinct PDFs.
+
+**New, measured, decision-relevant.** The carried `hellenic_iron_ore_pdf_*` two-writer item was root-caused last runs and option (a) (union-preserving upsert + re-stack) is named as its low-risk fix. This run measured the SEPARATE row-selection fault's blast radius from the 1,190 sidecars (`data/extracted/md/hellenic/iron_ore_pdf/*/*.tables.json`, the re-stack's source):
+
+- `benchmark_indices` entries: **11,583**, all carrying a `price`.
+- rows with `|change| > 0.5*price` (impossible daily change = the stats-row signature): **2,707 (23.4%)**; by unit RMB/wet-tonne 1,294 of 4,629, USD/dry-tonne 1,413 of 6,954.
+- concentrated by index name: IOPI58 / IOPI62_61 / IOPI65 / IOPLI62 **395 each** + `_CFR_EQ` variants.
+- ground truth (2021-07-14 sidecar IOPI58): `price=1027, change=1052, change_pct=1267, mtd=1199, ytd=1251, low_52w=1251, high_52w=1104` vs the page's `1240 / -17 / -1.4% / 1251 / 1104 / 755 / 1421` - price is the March period, change the April one, and low>high (inverted, impossible).
+
+**Consequence:** option (a) recovers the blank `value` column (11,553 of 11,625 rows) from the sidecars, but the sidecars THEMSELVES hold the mis-selected row for those 2,707 - so option (a) alone would publish plausible-looking WRONG prices/changes. The parser value-gate (`low <= price <= high`) must land in the SAME pass. The gate is sound on this data (correct row 755<=1240<=1421 passes; stats row 1027/l.1251/h.1104 fails). The defect is LIVE in the shipped CSV (`change` imported verbatim) but **no `index.html` consumer reads that CSV (0 hits)**, so nothing user-visible is affected.
+
+**Next-run target:** unchanged reserved human calls (the two-part iron-ore pass above, now scoped to parser + schema; the VV-matrix image-recall residual - paid). Ledger defect list remains EMPTY.
+
+---
+
 **THIS RUN (2026-10-04 23:1x, source-by-source, 30m job) - SESSION CLOSED OUT: NOTHING LEFT TO EXTRACT, THE LEDGER IS EMPTY, AND THE DUPLICATE-KEY CENSUS IS NOW FULLY DIAGNOSED (31 rows, all faithful or a single-date image artefact). Evidence `docs/dupe_key_census_verdict.md`.**
 
 No extraction job of ours was running (live `python.exe` set = Hermes gateway + terminals). This run first re-verified the whole programme state, then worked the ONE open measurement thread the state filed as "NEXT RUN: diagnose the small ones".
