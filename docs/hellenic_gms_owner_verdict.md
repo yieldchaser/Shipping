@@ -88,7 +88,16 @@ Three stale assertions were fixed (the file's own drift, not a data decision):
 - The cadence audit's recorded counts for the two Best-Oasis files are 882 / 859 vs the
   measured 887 / 863; the audit numbers are a few rows stale. Attribution (which script
   owns which file) is what matters and is correct. Not chased - display/doc only.
-- NOT fixed (flagged): `hellenic_iron_ore_pdf_dashboard_series.csv` is still written by
-  `run_hellenic_iron_ore_pdf.py` (full overwrite) AND `run_smm_iron_ore_daily.py`
-  (upsert by key) - overwrite-vs-merge on one path, a different publisher. Needs an
-  ownership decision; left untouched.
+- NOT fixed (flagged, now MEASURED): `hellenic_iron_ore_pdf_dashboard_series.csv` still has
+  two writers with INCOMPATIBLE shapes, not merely two schemas:
+    * `run_hellenic_iron_ore_pdf.py:2530` - `open(..., "w")` FULL OVERWRITE, rows =
+      `dashboard_indicators` dicts keyed by `issue_date` (one WIDE row per issue, dynamic
+      header from `dash_rows[0].keys()`).
+    * `run_smm_iron_ore_daily.py:673` - `upsert_rows_to_csv(..., key=["date","indicator"])`,
+      LONG format (one row per date+indicator), fixed header
+      `date,year,indicator,value,unit,change,source_file`.
+  The file on disk (138 rows, mtime 2026-10-02 22:43) is the SMM LONG shape; a
+  `run_hellenic_iron_ore_pdf.py` pass would replace it with MMI WIDE rows. Which shape is
+  canonical - and whether the two publishers should share one file at all - is a genuine
+  ownership/design call, so it is left untouched (a wrong shape is worse than the current
+  one). Same class as the family fixed above; next run's candidate.

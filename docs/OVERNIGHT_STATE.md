@@ -12,7 +12,7 @@ No extraction job was running (the four `python.exe` are the Hermes gateway). Th
 
 **Side effect measured:** the GMS runner's own cleanup pruned 26 broken-empty md in md/hellenic/demolition/gms (547 -> 521) - its designed behaviour, runs on every orchestrate_pipeline pass.
 
-**STILL OPEN (all human/display calls):** `hellenic_iron_ore_pdf_dashboard_series.csv` two-writer (overwrite vs upsert, flagged not fixed); cadence-audit BO counts 882/859 vs measured 887/863 (doc stale, attribution correct); hellenic VesselsValue date convention; lion regeneration; affinity WS-era md rounding; DB `label_series`.
+**STILL OPEN (all human/display calls):** `hellenic_iron_ore_pdf_dashboard_series.csv` two-writer MEASURED this run - run_hellenic_iron_ore_pdf.py FULL-OVERWRITES with WIDE per-issue `dashboard_indicators` rows (dynamic header) while run_smm_iron_ore_daily.py upserts LONG (date,indicator) rows; disk = SMM long, 138 rows. Incompatible SHAPES -> design call, left untouched; cadence-audit BO counts 882/859 vs measured 887/863 (doc stale, attribution correct); hellenic VesselsValue date convention; lion regeneration; affinity WS-era md rounding; DB `label_series`.
 
 **THIS RUN (2026-10-04 09:3x, source-by-source, 30m job) - TWO-WRITER HAZARD SWEPT: the hellenic demolition family has 4 multi-writer files (GMS one has 3 writers / 3 schemas) and the guard test is RED. Evidence `docs/hellenic_two_writer_verdict.md`.**
 
