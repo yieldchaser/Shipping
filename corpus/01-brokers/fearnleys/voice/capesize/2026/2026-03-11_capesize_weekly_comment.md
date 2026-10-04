@@ -1,0 +1,26 @@
+---
+id: "a319ad55-9f03-4be2-bd0f-30681327abe6"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-03-11"
+year: 2026
+week: 11
+title: "Fearnleys Capesize Weekly Comment - 2026-03-11"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-03-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-03-11 (Week 11)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `a319ad55-9f03-4be2-bd0f-30681327abe6`
+
+---
+
+## Market Commentary
+
+This week on Capesize, C5 remains steady but softening tone. Fresh bids for early April stems are heard at USD 11.00 and late March seen at mid USD 11s. The tone is softening compared to early week highs (up to mid USD 12). Overall outlook in the Pacific is bearish as bunker price volatility combined with easing oil prices weigh on the previous bullish forecast. C3 (Brazil/China) sentiment is holding firm with ideas above USD 28. Forward positions in mid-April are seeing offers in the USD 31 range. The North Atlantic sees strong front haul sentiment but limited fresh cargo. C3 21-32 March offers USD 27, 1-10 April fixtures at USD 26.35, 21-31 April bids at USD 28. C5 25-27 March last done USD 11.3, 28-31 March offers at USD 11.5.

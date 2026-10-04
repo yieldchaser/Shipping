@@ -1,0 +1,26 @@
+---
+id: "7E31993B-512B-4043-9781-28E947D4130F"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2019-12-04"
+year: 2019
+week: 49
+title: "Fearnleys LPG Western Weekly Comment - 2019-12-04"
+---
+
+# Fearnleys LPG Western Weekly Comment (2019-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2019-12-04 (Week 49)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `7E31993B-512B-4043-9781-28E947D4130F`
+
+---
+
+## Market Commentary
+
+AMERICAS: Winter market is here and Arb is popping. As stated before the NWE and Eastern markets have come to rely on the US as the principal supplier and as a result the Arb is, and will remain firmly open for the foreseeable future. It is even seems to have evolved in to what economist like to call a Goldy Locks scenario, where it is neither too hot nor too cold, but just right. With today’s economics , terminal operators are making money, ship owners are making money, and traders seem happier than they have for a few years. These markets never seem to last but for now it is hard to see how and when it will end. In the domestic market propane inventories drew 1.7 million barrels on the week which was in line with industry expectations. There is enough propane in the US to support cold weather and strong exports and hence we do not expect prices to blow out either way.

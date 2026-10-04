@@ -1,0 +1,26 @@
+---
+id: "9c5cbdc8-84bc-4f85-baf7-bec10471f571"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-01-24"
+year: 2024
+week: 4
+title: "Fearnleys VLCC Weekly Comment - 2024-01-24"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-01-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-01-24 (Week 4)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `9c5cbdc8-84bc-4f85-baf7-bec10471f571`
+
+---
+
+## Market Commentary
+
+In the MEG, KPC fixing ws59.5 to China on Tuesday came as a bit of a shock (Note - Bitr at ws61.33, but rates inputted 10 mins prior to the KPC deal released). Most Market watchers were expecting Owners to hold the line in the ws60’s, however, tonnage lists rarely lie and with 7+ offers in, the pressure took its toll. From here, Charterers will be looking to drag the market further down through the ws50’s, despite a few market quotes fresh today and a decent volume count for February - we count 50+ fixtures already completed for the month. The Atlantic is what often spurs the VL market into life and there is a feel of subsurface activity and plenty of cargoes reported the board (however, one is denied, one has own ship, and one I am sure is a fabrication). Yes, plenty of ships in the West or heading West, so no turnaround yet in market direction yet, but we have seen these markets change quickly. However, there is little support from the smaller sizes (although Afras still earning $50k+), with Smaxes coming off 10 points in Wafr, so therefore on VL’s, USG/China is now flirting with the $9m level and Wafr/East around the ws60 level.

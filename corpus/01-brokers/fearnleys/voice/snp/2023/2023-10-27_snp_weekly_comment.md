@@ -1,0 +1,26 @@
+---
+id: "14d89838-56fc-46df-b9d1-1ff41041e4c5"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-10-27"
+year: 2023
+week: 43
+title: "Fearnleys S&P Weekly Comment - 2023-10-27"
+---
+
+# Fearnleys S&P Weekly Comment (2023-10-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-10-27 (Week 43)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `14d89838-56fc-46df-b9d1-1ff41041e4c5`
+
+---
+
+## Market Commentary
+
+A fairly volatile week in the Tanker market takes nothing away from the overall picture that good times are here to stay in this sector. Aframax spot rates are driving increased interest in this size, with some routes paying a mouth-watering USD 100k/day+. Little coincidence then, that the headline transaction this week comes in the form of ice 1A LR2 HIBERNIAN TIDE (108K DWT 2019 SWS), to Minerva at USD 65.5M. VLCC TIMMUS (318K DWT 2002 HHI), sold at USD 32M, a softening on last done, GOOD NEWS (319K 2002 HSHI) at USD 34.75M. A softer week in the Dry market and a subsequent correction in the recent strong rates hasn’t discouraged buyers, as liquidity remains strong. Otherwise, a rather unremarkable week in the sector as the reported sales do little to raise eyebrows. Japanese tonnage is at the top of most buyers’ shopping lists, with modern tonnage still tricky to acquire, hence the older sales as below. In the most modern of the transactions, Ultramax ATLANTIC ISLAND (61K DWT 2014 IWAGI ZOSEN) sold for USD 24M to Greek buyers while Capesize FRONTIER BRILLIANCE (180K DWT 2013 IMABARI) sold at USD 30M.

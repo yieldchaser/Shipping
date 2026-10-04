@@ -1,0 +1,26 @@
+---
+id: "8645EC4E-CCAC-4466-BE41-898FFAAD7705"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-24"
+year: 2021
+week: 12
+title: "Fearnleys S&P Weekly Comment - 2021-03-24"
+---
+
+# Fearnleys S&P Weekly Comment (2021-03-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-03-24 (Week 12)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `8645EC4E-CCAC-4466-BE41-898FFAAD7705`
+
+---
+
+## Market Commentary
+
+Activity in the dry snp market is sustained with sales ranging across all sectors. Compared to the substantial jumps witnessed over the past few weeks, values seem to have relatively stabilised for the time being with levels paid broadly falling in line with last done. However few particular segments such as very modern Japanese and top tier Chinese Kamsarmax/Ultramax have caught up in terms of liquidity this week resulting in values marking a more significant jump. Notably we are now seeing very modern tonnage achieving relative premiums against current newbuilding prices. With the lack of such second hand candidates being openly marketed for sale, we expect the sellers to keep the upper hand against an ever increasing buying enquiry. The recent uptick in values of Japanese handysizes seem to have changed the focus of buyers to Chinese tonnage which should trigger a narrowing of the gap currently witnessed between Chinese and Japanese built vessels. With subdued freight rates continuing to loom across most tanker segments buyers are not yet finding the incentive to increase their bids; this against a background of sellers that share a more general consensus that a market upturn is underway for the 2nd half of this year. This trend is evident by the nature of the this week’s reported sales whereas 6 out of 11 transactions are bank driven. Values of 10 year product tankers seem to have bottomed out after a period of continuous downward correction with the sale of 2010 Iwagi built MR “NORD INSPIRATION” at a reported sales price of Usd 15.75m.

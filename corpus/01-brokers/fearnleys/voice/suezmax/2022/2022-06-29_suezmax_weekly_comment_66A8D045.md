@@ -1,0 +1,26 @@
+---
+id: "66A8D045-F04E-4775-9EE7-0E4D88BF0A9A"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-06-29"
+year: 2022
+week: 26
+title: "Fearnleys Suezmax Weekly Comment - 2022-06-29"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-06-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-06-29 (Week 26)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `66A8D045-F04E-4775-9EE7-0E4D88BF0A9A`
+
+---
+
+## Market Commentary
+
+Concentric tonnage flows have become the "new normal" in the Atlantic which should eventually result in the term "back-haul", becoming redundant, at least for the foreseeable future. Suezmax rates appears to be coming off a touch, whilst conversely, VLCCs appear to be adding a little bit of weight. A glance at available tonnage for TD20 suggests that rates shouldn't drop too much in the present fixing window as on the early side it still looks fairly tight. The USG also looks like it should trade flat/firm, and from what we have seen during the last few months, it just needs an ounce of resistance on Aframax's for rates to feed through to the larger segments. In the East, TD23 should trade in the WS 50's with some slack in the list whilst a MEG/China run will set charterers back about WS 105-110.

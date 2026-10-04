@@ -1,0 +1,26 @@
+---
+id: "f1a53ba1-a516-431f-aa45-5f33590d1412"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-08-11"
+year: 2023
+week: 32
+title: "Fearnleys S&P Weekly Comment - 2023-08-11"
+---
+
+# Fearnleys S&P Weekly Comment (2023-08-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-08-11 (Week 32)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `f1a53ba1-a516-431f-aa45-5f33590d1412`
+
+---
+
+## Market Commentary
+
+With the summer in full swing, many Tanker S&P discussions have found themselves on hold. Buying interest has more or less dried up, which has forced sellers of the decidedly thin number of candidates circulated in the market to reevaluate their price expectations. This has coincided with rates slipping across the larger end of the size curve, putting buyers back in the driving seat. It seems, for now at least, the next transactions will not eclipse last done but instead will provide the wet market with a much-needed correction in values. This week’s sales are dominated by smaller tankers with Celsius continuing to offload their older units, this time in the form of MR2 CELSIUS ROSKILDE (46K DWT 2009 HMD) for USD 25M. Elsewhere, scrubber fitted Suezmax MONTE TOLEDO (150K DWT 2004 UNIVERSAL) sold for USD 35M. The Dry sector price correction, something which has been discussed in the market since Q4 2022, is finally taking hold with market candidates attracting interest at c.10-15% lower than original asking price. That said, there hasn’t been a rush of sales candidates to meet the ever-increasing enquiry. Japanese built eco units are still at the top of buyers’ shopping lists but the lack of replacement ships being delivered from yards are stifling those looking for a potential bargain. In a rare example of a modern Japanese ship changing hands, Meadway Shipping picked up scrubber fitted Ultramax NORD AMAZON (64K DWT 2020 OSHIMA) for USD 32M. Furthermore, in the Ultramax sector, SSI FORMIDABLE (63K DWT 2017 JINLING) sold for USD 27M.

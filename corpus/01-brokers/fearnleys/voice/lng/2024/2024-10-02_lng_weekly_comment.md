@@ -1,0 +1,26 @@
+---
+id: "0ab24971-d41a-4080-8367-498126d33c5f"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-10-02"
+year: 2024
+week: 40
+title: "Fearnleys LNG Weekly Comment - 2024-10-02"
+---
+
+# Fearnleys LNG Weekly Comment (2024-10-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-10-02 (Week 40)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `0ab24971-d41a-4080-8367-498126d33c5f`
+
+---
+
+## Market Commentary
+
+A new month in a new quarter but a continuation of recent themes in LNG shipping this October 2024 as weak fundamentals weigh heavily on short to medium term sentiment. There remains a degree of activity in both basins on the spot side although availability lists have continued to grow more quickly than ships have found spot employment. The spot-fixing window is becoming more prompt, typical of a looser freight environment. Whilst a handful of prompt fixtures have been seen, this is more likely an indicator of Charterers’ confidence in vessel supply, rather than an uptick in demand. In the Atlantic, several prompter positions have been cleared out with charter rates largely stable. However, interest in multi-month coverage into Q1-25 has evaporated, with the East/West Arb firmly shut since traders returned from Gastech. There is a long list of modern tonnage available for early November liftings against next to no firm enquiry at present. The oversupply on the prompt is more apparent in the East where several vessels are redelivering from period charters. Spot rates have shown some decline in response to renewed activity for end October dates. Visibility on November positions is more limited although with several cargoes seemingly heading inter-basin despite the closed Arb, the list is likely to be repopulated in due course. The biggest, in all senses, news in the newbuilding space this week is MOL’s order at Hanwha Ocean for an FSRU to be delivered by October 2027. The unit, which will be utilized in Singapore, was reportedly contracted for $413.7mn and will feature high spec low-emissions and fuel-efficiency elements.

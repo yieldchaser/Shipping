@@ -1,0 +1,26 @@
+---
+id: "9972B287-5976-44A3-9A33-F898C2881D68"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-02-10"
+year: 2020
+week: 7
+title: "Fearnleys Suezmax Weekly Comment - 2020-02-10"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-02-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-02-10 (Week 7)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `9972B287-5976-44A3-9A33-F898C2881D68`
+
+---
+
+## Market Commentary
+
+Rates have bottomed out for the time being following a week of good fixing activity despite force majeure in Libya. Suezmax/VLCC parity would suggest that charterers should combine stems but the current state of world trade and with all the uncertainty that follows it seems it will only be a theoretical exercise for the foreseeable future. But we would expect this potential threat from VLCCs to eventually cap Suezmax earnings should Suezmaxes pick up the pace over that of their bigger siblings. All in all we see limited downside in rates for the week to come

@@ -1,0 +1,26 @@
+---
+id: "c12df872-ed99-4a95-8a1a-20a3f6430bfd"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2024-12-05"
+year: 2024
+week: 49
+title: "Fearnleys LPG Western Weekly Comment - 2024-12-05"
+---
+
+# Fearnleys LPG Western Weekly Comment (2024-12-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2024-12-05 (Week 49)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `c12df872-ed99-4a95-8a1a-20a3f6430bfd`
+
+---
+
+## Market Commentary
+
+AMERICAS The FOB market on the Gulf Coast, while having declined from earlier high levels upwards of 30cpg, appears to have settled in the mid-teens at this point for January volumes. There are a series of offers at present, but buyers seem reluctant and as a result very little has been accomplished. Meanwhile, the EIA this week reported that propane stock levels in the US declined by a rather paltry 700,000bbls – where expectations ranged wildly from -1.25 to -4.0mmbbls. Overall inventories now reside at 96mmbbls, or about 99% of the same time last year, and 107% of two years ago. As the holiday season is now in full swing and year-end events are now regularly taking place many have retreated to the sidelines in an effort to preserve not only the profits that have been achieved thus far in 2024, but also any year-end bonuses.

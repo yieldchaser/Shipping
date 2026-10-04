@@ -1,0 +1,26 @@
+---
+id: "16D921F6-C253-4376-AE16-CF7C6767BE12"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-08-21"
+year: 2020
+week: 34
+title: "Fearnleys S&P Weekly Comment - 2020-08-21"
+---
+
+# Fearnleys S&P Weekly Comment (2020-08-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-08-21 (Week 34)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `16D921F6-C253-4376-AE16-CF7C6767BE12`
+
+---
+
+## Market Commentary
+
+The recovery in the dry markets is still feeble but at least we continue to have a decent S&P volume. Last week we reported the sale of a Kamsarmax newbuilding with prompt delivery ex Oshima at Usd 30.5 mill, we now understand that this transaction has failed to materialize. Two Capesize sales are certainly on the low side – nine year old PACIFIC ENDURANCE BUILT Koyo at Usd 18 mill is well below expectations, the vessel was initially reported to be withdrawn but subsequently understood to be sold after all. Furthermore, the price for 2013 Koyo built JUBILANT EXCELLENCE gives no encouragement for an uptick in values in the near term. It comes as no surprise that values for vintage crude tankers continue to soften, however various reports that Suezmax SONANGOL KIZOMBA built 2001 is sold in the mid Usd 12 mill is incorrect and we understand the deal was done in the mid Usd 16 mill to Dubai based buyers.

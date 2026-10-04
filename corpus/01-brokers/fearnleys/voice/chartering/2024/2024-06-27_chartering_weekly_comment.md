@@ -1,0 +1,26 @@
+---
+id: "3a6a3f57-bf03-4721-9a0b-ba90a092fee5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-06-27"
+year: 2024
+week: 26
+title: "Fearnleys Chartering Weekly Comment - 2024-06-27"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-06-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-06-27 (Week 26)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `3a6a3f57-bf03-4721-9a0b-ba90a092fee5`
+
+---
+
+## Market Commentary
+
+EAST This week most of the cargos worked has been in and around the second decade of July ex Middle East. Last decade July deals are starting to be looked at but after a flurry of fixtures in the beginning of the week Charterers could prefer to see things cool down a bit before jumping on to the next train of fixing. Come next week vessel itineraries will also become more clear for this window. WEST Activity on freight in the West remains uneventful as market fundamentals still not there time of writing, despite East fixing picking up. One Indonesian major is however expected to quote an early August cargo at some point, which will provide a usual benchmark of where freight is at. Fixture count ex US in July stands at 19 deals (6 first decade/9 second decade/4 third decade) compared to a monthly average of 30 deals so far in 2024.

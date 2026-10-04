@@ -1,0 +1,26 @@
+---
+id: "d8a07d23-483b-4b4c-9e01-05c22341f97e"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-11-21"
+year: 2025
+week: 47
+title: "Fearnleys S&P Weekly Comment - 2025-11-21"
+---
+
+# Fearnleys S&P Weekly Comment (2025-11-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-11-21 (Week 47)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `d8a07d23-483b-4b4c-9e01-05c22341f97e`
+
+---
+
+## Market Commentary
+
+Sky high sentiment in the tanker market is driving activity forward with some unexpected results. Okeanis have purchased scrubber fitted resales NORTH STAR/VIKING STAR (157K DWT Daehan 2025/2026) for USD 97M per unit, setting a new benchmark for the sector. These units were ordered by Atlas in 2023 for USD 84M each, and the owners will reap significant upside by delivering the units into a strong, tonnage hungry market. This will only add fuel to the fire of the current ordering, as owners bet on future strong markets. Elsewhere in the clean sector, MR rates and activity continue to push higher. It will be interesting to see how the market will react to an extensive number of deliveries in Q1 26. The story is similar on the dry side, sentiment high as a result of robust and consistent earnings. 2020 Bulkers this week sold off the last of their vessels in a deal worth USD 145.5M, Scrubber fitted Newcastlemax pair BULK SYDNEY/SANTOS ( 208K DWT New Times 2020) acquired by Genco. Buyers have been clambering for Newcastlemaxes in the last few months to try and capitalise on healthy long term employment opportunities in this sector. Staying in the larger sizes there is significant demand around the 15-year-old mark, mostly form Far Eastern buyers. LAKE DOLPHIN (179K DWT Hanjin Hi 2011) was sold for USD 30.5M, while FORTUNE VIOLET (181k DWT Imabari 2012) achieved USD $34M.

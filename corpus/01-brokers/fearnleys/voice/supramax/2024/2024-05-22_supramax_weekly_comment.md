@@ -1,0 +1,26 @@
+---
+id: "46ed8359-c362-44d6-832e-1cdaf58d32ae"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-05-22"
+year: 2024
+week: 21
+title: "Fearnleys Supramax Weekly Comment - 2024-05-22"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-05-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-05-22 (Week 21)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `46ed8359-c362-44d6-832e-1cdaf58d32ae`
+
+---
+
+## Market Commentary
+
+The Atlantic market spreads negative trends in most segments and areas. The trans-Atlantic continues to need more fresh volume, with rates falling sharply for vessels opening the North Continent, Mediterranean, and USG. ECSA saw some resistance support with the volume of fixtures for both trips East and Atlantic. However, some sources suggest that charts are giving bids substantially lower than the last done. Supramax fixing at USD 22,000 pd delivery Brazil for TCT with sugar to East Mediterranean. Japanese Ultramax 63’ dwt was rumored fixed at USD 18,000 pd + 800,000 GBB for a trip with sugar to Singapore-Japan range. On the other hand, Asian markets hold a positive trend, with rates higher than in the Atlantic. Ultramax 63’ dwt with delivery Indonesia fixed at USD 25,000 pd for a trip via Indonesia SE Asia, while Supramax owners asking USD 20,000 on similar run. In general, we see health fixing activity with good cargo flow. Nopac and Ausie trop pay high USD 10,000, and some achieve as much as USD 18,000-19,000. Indexes falling consecutively from last week, bringing today BSI (S10TC) USD 15,076.

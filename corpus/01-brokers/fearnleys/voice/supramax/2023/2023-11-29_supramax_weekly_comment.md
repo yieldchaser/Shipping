@@ -1,0 +1,26 @@
+---
+id: "754212d5-679d-4097-adb6-661fa35bf955"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-11-29"
+year: 2023
+week: 48
+title: "Fearnleys Supramax Weekly Comment - 2023-11-29"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-11-29 (Week 48)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `754212d5-679d-4097-adb6-661fa35bf955`
+
+---
+
+## Market Commentary
+
+Laden vessels in the Pacific are at all-time highs, and laden vessels in the Indian Ocean are slightly down from all-time highs. The market has tightened considerably in the Atlantic, where like in the other segments earnings is comparable to the heights of 2021 and 2022. This ongoing late-year rally strongly suggest fundamentals will be firm far into next year in our opinion, as it is unusual to see a rally at this time of year. The forward curve is likely to continue being bid in the coming months.

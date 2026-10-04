@@ -1,0 +1,26 @@
+---
+id: "89A86B65-94FB-492B-B30B-B9F4901562EB"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-04-07"
+year: 2021
+week: 14
+title: "Fearnleys Panamax Weekly Comment - 2021-04-07"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-04-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-04-07 (Week 14)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `89A86B65-94FB-492B-B30B-B9F4901562EB`
+
+---
+
+## Market Commentary
+
+Easter has for sure not changed the market’s trend. Post Easter we see the same market tendency in both hemispheres. Negative sentiment with rates slipping on all trades. P1A currently yielding 17k and the Pac round pricing is slipping down to 22k. It is still a ‘sit and wait’ situation among chrts and owners, but with Capes pulling up on all trades mid week – we do believe Pmax will follow shortly.

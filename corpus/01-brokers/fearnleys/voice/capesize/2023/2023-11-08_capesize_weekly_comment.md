@@ -1,0 +1,30 @@
+---
+id: "86a6a4fa-8607-4eb3-b1f8-dff617fdd8e7"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-11-08"
+year: 2023
+week: 45
+title: "Fearnleys Capesize Weekly Comment - 2023-11-08"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-11-08 (Week 45)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `86a6a4fa-8607-4eb3-b1f8-dff617fdd8e7`
+
+---
+
+## Market Commentary
+
+We see an uptick in volumes for C5, East Australia coal, and Pacific trades for mid to late November. On C3 ex Brazil to China, there is little activity as vast majority of November stems seem to have been covered and we await December prospects. On West and South Africa, volumes are scarce with little fresh enquiries. On the Atlantic front, we see several new stems this week but high resistance for bids and fixing of ships. On a whole, market optimism has ticked upwards albeit unstable.
+
+**Far East**
+
+ tonnage is moderately tight. Ballaster count is sizable with a large majority of vessels going for first half of December dates. On C5, fixtures concluded at mid to high USD 9 pmt levels mid-week. On C3, little fixtures were concluded with a huge spread of low 20 pmt versus mid to high USD 21 pmt levels.

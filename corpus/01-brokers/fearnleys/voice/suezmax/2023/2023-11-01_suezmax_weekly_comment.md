@@ -1,0 +1,26 @@
+---
+id: "809e19ea-dacb-465d-94aa-bb5941db3017"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-01"
+year: 2023
+week: 44
+title: "Fearnleys Suezmax Weekly Comment - 2023-11-01"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-11-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-11-01 (Week 44)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `809e19ea-dacb-465d-94aa-bb5941db3017`
+
+---
+
+## Market Commentary
+
+The global Suezmax market is well into winter mode with the Atlantic market exhibiting all the signs of volatility. During the last few weeks, West Africa has found it impossible to benchmark itself with rates failing to settle on a particular number. As of going to print, last done Angola/UKCM priced WS 162.5, with TD20 likely to trade closer to WS 170 with the fixing window focused on 20-25 November. In the East, Basrah/UKC has just been booked at WS 90 which is the highest rate we have seen thus far for Q4, whilst MEG/China needs a test on modern but unlikely to be below WS 130's.

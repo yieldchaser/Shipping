@@ -1,0 +1,30 @@
+---
+id: "EC423768-BFCF-4CA3-8075-7727F3361A6F"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-08-15"
+year: 2022
+week: 33
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-08-15"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-08-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-08-15 (Week 33)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `EC423768-BFCF-4CA3-8075-7727F3361A6F`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco released their Sep acceptance with no major changes reported but term lifting volumes was said to be 100kt less compared to Aug lifting. And they are reported to have spot cargos available for sale at flexible ratio. KPC’s sale tender for 11/12th Sep lifting evenly split cargo was reported awarded at CP minus mid-teens. Following the crude rebound, Sep CP was traded at $646 for C3 and $10 less for C4. Sep/Oct C3 was traded at $10 contango.
+
+**FAR EAST**
+
+ Earlier market activities are muted but sentiment changed when several cargos for Sep delivery absorbed slowly. 23kt propane for 2h Sep delivery was concluded in window at Sep FEI minus $12 during mid-week. And same bid for such parcel was not lifted on Thurs. Outside window a handful of tenders are ongoing. One Echina PDH bought a 2h Sep delivered 46kt propane parcel from another China major at 50% FEI minus low teens and 50% CP plus mid high 20s reportedly. One Schina importer also tendered to buy one 2h Sep delivered 11/11 parcel. And FPCC issued tender to buy 23 to 46kt LPG (Butane not exceed 24kt) for 2h Sep delivery.

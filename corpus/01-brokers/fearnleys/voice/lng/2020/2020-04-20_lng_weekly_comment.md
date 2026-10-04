@@ -1,0 +1,26 @@
+---
+id: "D4955BB1-10D7-4D34-8693-515EE562E263"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-04-20"
+year: 2020
+week: 17
+title: "Fearnleys LNG Weekly Comment - 2020-04-20"
+---
+
+# Fearnleys LNG Weekly Comment (2020-04-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-04-20 (Week 17)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `D4955BB1-10D7-4D34-8693-515EE562E263`
+
+---
+
+## Market Commentary
+
+Implications of Covid-19 continue to affect global markets as demand keeps plummeting worldwide. Oil is trading at remarkably low levels, and whilst the oil price contango has a positive impact on tanker rates due to storage, when it comes to LNG the scenario is different. Cargo prices have remained soft and shipping rates may see further pressure as vessel availability increases in both basins. As was widely anticipated, a significant number of cargoes for June loading in the US have been cancelled leaving excess shipping length from portfolio players, utilities and traders. In this environment we could see further rate drops as talks on potential production cuts continue. On the operational side, vessel discharges, Dry docks and quarantine restrictions have caused uncertainties in availability amongst market participants and one could argue that we might see sporadic upticks on the back of these disruptions. Only time will tell as economies start recovering, but there is no doubt we anticipate a bumpy ride in the months to come. In the Newbuilding market, it was reported today that Qatar Petroleum signed a Deed of Agreement with Chinese yard Hudong- Zhonghua to reserve yard capacity for upto 16 vessels of 174,000 cbm for delivery 2024 and 2025, and with options into 2026.

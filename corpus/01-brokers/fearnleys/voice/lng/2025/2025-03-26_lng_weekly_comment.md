@@ -1,0 +1,26 @@
+---
+id: "06452e79-7c3b-4fef-acb8-9f7fd7c46f78"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-03-26"
+year: 2025
+week: 13
+title: "Fearnleys LNG Weekly Comment - 2025-03-26"
+---
+
+# Fearnleys LNG Weekly Comment (2025-03-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-03-26 (Week 13)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `06452e79-7c3b-4fef-acb8-9f7fd7c46f78`
+
+---
+
+## Market Commentary
+
+LNG freight rates remain steady across all basins, but under the surface, the market has a slightly softer feel. It was inevitable that chartering activity would slow compared to the flurry seen earlier in March, but looking further ahead spot requirements in both basins are thinning out. There is an ongoing debate as to whether this will herald a fall in rates, with the counter-argument that multi-month fixtures remain at a premium to spot levels and some portfolios are choosing to hold on to tonnage for FOB cargoes rather than subletting. Term interest continues to build especially for 2026–2027 coverage, but the bid/offer spread is a little wide; charterers are reluctant to commit while spot rates are below term levels, and with rate volatility and mixed macro signals, decisions are difficult to make. In summary, the LNG shipping market looks tight on paper but feels soft in practice. On the production side, the recent lightning strike that disrupted pipeline flows to Freeport LNG caused only a brief hiccup and pipeline flows have resumed, yet it serves as a reminder of infrastructure fragility and the potential impact on the freight market. There are been no new orders placed this week.

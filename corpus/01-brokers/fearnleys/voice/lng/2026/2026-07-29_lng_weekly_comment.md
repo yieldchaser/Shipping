@@ -1,0 +1,26 @@
+---
+id: "c83ec1d6-2a20-4649-9115-e961a898267e"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-07-29"
+year: 2026
+week: 31
+title: "Fearnleys LNG Weekly Comment - 2026-07-29"
+---
+
+# Fearnleys LNG Weekly Comment (2026-07-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-07-29 (Week 31)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `c83ec1d6-2a20-4649-9115-e961a898267e`
+
+---
+
+## Market Commentary
+
+A lack of requirements to work and a sensitive arbitrage has continued to pressure Atlantic rates, and with abundant tonnage there is likely to be strong competition among owners for the emerging fresh cargoes. Rates have been bound within a fairly narrow range for several months, but it is likely the next round of fixtures will align closer with the bid than the offer. Conversely, in the East recent requirements have been covered at steady levels that suggest a balanced or even slight undersupplied spot market, aided by owners opting to relocate vessels West to take advantage of premium rates. However, there remains high competition for smaller cargoes among the TFDE fleet, with owners showing sharp numbers to attract Charterers' attention. The Middle East situation remains tense and seemingly at a stalemate, and LNG prices have been edging higher - trading strategies that account for a higher LNG price through winter will be gaining traction. The multimonth market has remained active with several tenders underway or recently concluded and levels are broadly flat or trending down, so reducing risk by forward fixing winter coverage at today’s softer rates is clearly attractive to certain charterers.

@@ -1,0 +1,26 @@
+---
+id: "721EB4A0-9EC4-477E-B77D-73D0B1074520"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-16"
+year: 2021
+week: 24
+title: "Fearnleys Capesize Weekly Comment - 2021-06-16"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-06-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-06-16 (Week 24)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `721EB4A0-9EC4-477E-B77D-73D0B1074520`
+
+---
+
+## Market Commentary
+
+Bull mood continues with modest but significant daily gains on very robust fundamentals and positive outlook for commodities. Average daily earnings up some 60 pct w-o-w, coming in at tick over USD 33k/day. All areas living up to expectations, with the Atlantic being the brightest spot - transatlantic short trades approaching USD 50k/day. Brazil/China iron ore trade picking up speed, with voyage rates for July heading for USD 30 pmt and 100-days China-Brazil-China rounds improving almost 70 pct in value to stand at more than USD 32k/day. West Aussie/China volumes steady, short Pacific rounds still yielding better than general market, at USD 35-36k/day. Little done, but considerable period interest from main players, with focus on index-linked structures.

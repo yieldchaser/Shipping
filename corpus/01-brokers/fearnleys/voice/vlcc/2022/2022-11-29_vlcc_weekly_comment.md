@@ -1,0 +1,26 @@
+---
+id: "70C0D279-D6FD-4305-B860-36F4736D1D72"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-11-29"
+year: 2022
+week: 48
+title: "Fearnleys VLCC Weekly Comment - 2022-11-29"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-11-29 (Week 48)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `70C0D279-D6FD-4305-B860-36F4736D1D72`
+
+---
+
+## Market Commentary
+
+It’s been a sluggish week for VLCC owners as November draws to an end, with MEG/East rates now dipped well below the psychologically important WS 100 barrier courtesy of a MEG/Korea fixture concluded at WS 91.5. Charterers have shown great restraint, just drip feeding the odd cargo into the market and chipping away on owner’s confidence. The Atlantic basin - having previously underpinned other areas - has seen more failures than fixtures over the past few days adding insult to injury. That said, returns are still healthy with T/C equivalents ranging from USD 60-70k/day pending on propulsion and the voyage in question. Alas, that also means owners have more to lose than gain by digging their heals in. Time to “get out of Dodge” for those who can and do not have multiple ships coming up behind.

@@ -1,0 +1,26 @@
+---
+id: "D43B4F10-890E-4E3F-950B-AA5D6DD8EFB8"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-03-10"
+year: 2020
+week: 11
+title: "Fearnleys LPG Western Weekly Comment - 2020-03-10"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-03-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-03-10 (Week 11)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `D43B4F10-890E-4E3F-950B-AA5D6DD8EFB8`
+
+---
+
+## Market Commentary
+
+AMERICAS: Mt Belvieu propane has not been falling as fast as global propane markets, or even crude oil markets for that matter. Non-TET propane now lies at 46.8% WTI. This has closed the arbs East and West, and although freight has been coming off helping netbacks slightly , we are now in cargo cancellation territory. The 2.9 million barrel draw for the week ending March 6th was the 5th consecutive draw in inventories which is not unusual for winter however in this new era of mega production we had become used to Winter inventory builds. With the current oil price war going on there have been worries of shrinking domestic oil and gas production through 2020. US companies already in danger to survive might be forced into bankruptcy with WTI crude in the high 20’s and Natural Gas well below 2.00 / mcf. Many have a view that 100 million barrels in inventories by the start of the 2020 draw season (October 1,2020) are needed to sustain new export capacity and US winter demand. These factors are lending strength to the Mt Belvieu propane market, and the question is will cancellations in April be needed to weaken Mt Belvieu and reopen the arb.

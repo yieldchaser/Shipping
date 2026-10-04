@@ -1,0 +1,26 @@
+---
+id: "15ef59c2-43ae-42b9-bfa9-31fc7aecff3b"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-07-22"
+year: 2026
+week: 30
+title: "Fearnleys Suezmax Weekly Comment - 2026-07-22"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-07-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-07-22 (Week 30)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `15ef59c2-43ae-42b9-bfa9-31fc7aecff3b`
+
+---
+
+## Market Commentary
+
+Stronger USG Aframax rates are expected to improve the sentiment across the Atlantic, while limited VLCC availability in West Africa ahead of the 10th prohibits their crash from disrupting volume in the present window. That said, any disruption to CPC exports could lead to more tonnage seeking employment in the Atlantic basin & VLCC rates look like they are on a collision course, and at the very least encourage 2nd decade charterers to utilise them at higher rates than we have become accustomed to. Looking ahead, continued tensions in the Strait of Hormuz and growing uncertainty surrounding Aden transits are encouraging more vessels to ballast West, which may place some pressure on the Atlantic markets going forward, but demand fundamentals ex West Africa (12MBBLS 1st decade / 26MBBLS 2nd decade uncovered) could counterweight this.

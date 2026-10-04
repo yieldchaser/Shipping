@@ -1,0 +1,26 @@
+---
+id: "86168514-8A75-41A7-B968-DABF440C4665"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-02-19"
+year: 2020
+week: 8
+title: "Fearnleys Aframax Weekly Comment - 2020-02-19"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-02-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-02-19 (Week 8)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `86168514-8A75-41A7-B968-DABF440C4665`
+
+---
+
+## Market Commentary
+
+Although cargo activity has been healthy in the North Sea and Baltic, the market has moved more or less sideways this week much due to weather delays keeping rates at current levels. In the coming week more tonnage is coming into position, and if activity doesn’t pick up we could see a downwards correction coming into first decade of March. The remainder of February however, still looks interesting. Also in the Mediterranean and Black Sea the market has moved sideways, except for a slight pick up in rates the last couple of days following a small rush of cargoes coming into the market. TD19 is currently trading at WS 87.5, giving owners a return of approx. USD 10,000 per day on TCE for a cross-Med voyage. We expect the trend to continue sideways in the week to come as there are plenty of ship that need to find employment before we will see rates firming further.

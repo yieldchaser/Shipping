@@ -1,0 +1,30 @@
+---
+id: "e99801c2-d56c-4913-943b-0311e3f9292c"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-04-15"
+year: 2026
+week: 16
+title: "Fearnleys LNG Weekly Comment - 2026-04-15"
+---
+
+# Fearnleys LNG Weekly Comment (2026-04-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-04-15 (Week 16)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `e99801c2-d56c-4913-943b-0311e3f9292c`
+
+---
+
+## Market Commentary
+
+Another week, another batch of very bizarre news and non-news to digest. While geopolitical risk continues to support LNG prices, the impact on LNG shipping has eased considerably from the immediate spike after the early attacks. This is perhaps not a surprise given the underlying fundamentals, but rates remain at multiples of their pre-war levels. In the Atlantic basin, prompt requirements remains relatively scarce, and there is sufficient tonnage to keep rates broadly flat. However, there is a sense that more demand exists just below the surface and while rates may not have shifted significantly, the balance of risk is turning to the upside.
+
+**East of Suez**
+
+ has shown comparatively steadier activity including from the sole Middle East producer, Oman. The availability list is not being stretched at present though, and rates are drifting slightly downwards. Looking ahead, much will depend on how regional imports respond to current pricing dynamics, such as whether Asia will draw more volumes out of the Atlantic and when Europe will begin refilling storage. For now, the market remains finely balanced but with freight lagging broader fundamentals, any shift in activity could see rates react quickly.

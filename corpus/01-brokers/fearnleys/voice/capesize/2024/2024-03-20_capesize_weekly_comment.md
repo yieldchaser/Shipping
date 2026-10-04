@@ -1,0 +1,26 @@
+---
+id: "8cd5e657-da0d-4336-bf77-53b9fcf0e9a1"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-03-20"
+year: 2024
+week: 12
+title: "Fearnleys Capesize Weekly Comment - 2024-03-20"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-03-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-03-20 (Week 12)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `8cd5e657-da0d-4336-bf77-53b9fcf0e9a1`
+
+---
+
+## Market Commentary
+
+On the C5 front, we see a reasonably healthy volume of enquiries from miners for early April dates and operators from early to mid April dates. Several were seen for second half of April and forward May dates. In comparison, things were quiet on the East Australia coal front at the beginning of the week but gradually picked up as we approach mid-week. Volumes on other Pacific business and South Africa remained flat from last week. On C3 ex Brazil to China and West Africa, we see enquiries primarily for second half of April. Tonnage in Far East remains moderately tight. Ballasting tonnage weighs heavily on April with seemingly few ships left for late March. On C5, we observe the same trend as last week; starting off with fixtures concluding at USD 13 pmt levels and retreating to high USD 11 pmt levels by mid-week. On C3, we see fixtures concluding at USD 28 to USD 29 pmt levels for second half of April dates.

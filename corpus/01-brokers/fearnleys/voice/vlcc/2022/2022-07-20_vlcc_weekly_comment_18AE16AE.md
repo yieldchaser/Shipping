@@ -1,0 +1,30 @@
+---
+id: "18AE16AE-E2D7-411F-B717-76FC89277A5C"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-07-20"
+year: 2022
+week: 29
+title: "Fearnleys VLCC Weekly Comment - 2022-07-20"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-07-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-07-20 (Week 29)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `18AE16AE-E2D7-411F-B717-76FC89277A5C`
+
+---
+
+## Market Commentary
+
+Better rates across the board allowing owners TCE’s continue further into the positive, even for those burning the low sulphur fuel. Rates have moved up through the high WS 50’s and Tuesday saw the WS 60 glass ceiling broken. However, given the activity, charterers have played it well. We've had consecutive months of 150+ deals out of the MEG, and despite the resulting dwindling position list, charterers have worked off market, picking targets quietly which has prevented the market running away in owner's favour. In the West, strong returns continue on the smaller sizes and this reflecting on the VL’s. WS 62 on subs for Wafr/China and continued activity today should encourage rates further upward.
+
+**USG**
+
+/China now USD 7.25m and the USG/UKC trade shows no signs of slowing, with more ships rptd on subs this morning.

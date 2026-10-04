@@ -1,0 +1,30 @@
+---
+id: "DAF47547-D565-4431-88B7-FBCCBFFFDB35"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-02-07"
+year: 2022
+week: 6
+title: "Fearnleys LPG Western Weekly Comment - 2022-02-07"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-02-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-02-07 (Week 6)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `DAF47547-D565-4431-88B7-FBCCBFFFDB35`
+
+---
+
+## Market Commentary
+
+AMERICAS Mont Belvieu propane prices softened earlier this week and interest levels were renewed as both buyers and sellers emerged for Feb and Mar when netbacks improved significantly. Prior to that the market seemed to have begun to resign itself to waiting for the conclusion of the Olympics, the Chinese New Year, and, perhaps, some encouraging news on the Covid front. With the renewed interest levels terminal fees were buoyed from the lows seen at the front of Feb to a current bid/ask range of around 6.00-6.50cpg, depending on timing and location, etc. Meanwhile, the EIA report for the week ending 04 Feb shows the U.S. to have consumed a ‘net’ 2mmbbls from the previous week and putting the overall U.S. propane stock total at 47.8mmbbls, or about 93% of last year. The market, however, based its expectations off of cold weather and heavy exports, and was predicting a draw of around 3.8-4.0mmbbls. The difference has now given cause for speculation as to whether next week’s number will include corrective data. NWE Crude rises again! With CIF ARA lagging leaving the propane naphtha spread at $117pmt in Feb and widening, heavily favouring propane as a petchem feedstock. A physical propane deal was done for end Feb at February CIF ARA -$7pmt, seen as low by the market. The regions production continues to be reduced due to LPG spiking into the natural gas stream. Which has lead to a large, 430,000MT being imported to the region in February, and these large monthly import volumes are expected to continue. The strength of the European demand has been keeping the arb form the US open. Drawing US volume form the Gulf Coast. The reduced US East Coast supply due to the cold weather in the region, and the reduced February export volume from the USGC forced European traders to pay-up and buy FOB cargoes from US terminals direct this week. As the market flipped from heading for cancellation to 6-7cpg FOB, for cargoes which will be 1H March arrivals in NWE. Butane is at 99% naphtha and with naphtha strengthening in line with crude this has opened the butane arb from the US.
+
+**MED**
+
+ There has been some action in the Med this week with Cepsa offer 4KT butane FOB Huelva $931pmt. The market weakened in reaction to this offer, the North Sea Mediterranean butane arb lost $19pmt on the day. Morocco’s butane demand looks well supplied through February.

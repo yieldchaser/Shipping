@@ -1,0 +1,26 @@
+---
+id: "1d6651fd-4438-4c96-85c7-416a5d8385f5"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-07-24"
+year: 2024
+week: 30
+title: "Fearnleys Suezmax Weekly Comment - 2024-07-24"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-07-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-07-24 (Week 30)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `1d6651fd-4438-4c96-85c7-416a5d8385f5`
+
+---
+
+## Market Commentary
+
+At the beginning of the week, the Atlantic Suezmax market looked like it was on the edge of a precipice, but owners have managed to avert all an out rate-capitulation (at least as far as the US Gulf is concerned). A key insight into owners’ resolve was a USG/TA fixture that traded marginally down on last done from WS 82.5 to WS 81.25, crucially staying above the WS 80 barrier. In West Africa, all eyes are on ENI West Africa/UKCM 10-11th August which is likely to test TD 20 down a tad, although having been in the market for days now, natural dates might start to work past them. Non-Indian flagged vessels have had to watch from the sidelines as circa 80 percent of Indian cargoes were awarded to Indian flagged vessels. There is a long list of FOC vessels and MEG/East rates are under downward pressure.

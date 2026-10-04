@@ -1,0 +1,26 @@
+---
+id: "78B1E264-445F-4717-BD62-10E4C2B9950A"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-31"
+year: 2020
+week: 14
+title: "Fearnleys Chartering Weekly Comment - 2020-03-31"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-03-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-03-31 (Week 14)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `78B1E264-445F-4717-BD62-10E4C2B9950A`
+
+---
+
+## Market Commentary
+
+WEST: Looking at Western positions lists, it becomes clear that different owners have taken different strategies with regards to the short term. Some have fixed out their tonnage quickly, while others have bet that there should be more uncovered cargoes in April which are waiting in the wings. The result is that tonnage is generally controlled by a smaller number of players. There is little in the way of relets. Given limited liquidity in the freight market, this has meant that rates discussions of late have been very volatile, and it is possible some of the next few fixtures could be stronger, subject to cancellations ex USG. Looking further ahead, strong Indian demand and rumours of supply bottlenecks could mean that some US origin cargoes head towards India. This should be good for the tonne-mile and supportive of freight in the slightly longer term if so. EAST: Short term residential demand for LPG into India remains strong, and hence we have seen more requirements on freight and delivered cargoes into India. The activity level remains on the active side with fixing mainly focused around last decade of April, but despite a healthy number of inquiries, we are still left with significant length on shipping and hence the Baltic is yet to find a floor. We expect the current Baltic premium to the West to narrow or even out and it will be interesting to keep an eye on where Owners choose to send their ships going forward.

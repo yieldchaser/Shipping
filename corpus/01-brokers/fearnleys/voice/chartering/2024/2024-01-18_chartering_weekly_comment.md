@@ -1,0 +1,26 @@
+---
+id: "2440a6e1-1737-4cf1-a1a7-70e4df583bb3"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-01-18"
+year: 2024
+week: 3
+title: "Fearnleys Chartering Weekly Comment - 2024-01-18"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-01-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-01-18 (Week 3)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `2440a6e1-1737-4cf1-a1a7-70e4df583bb3`
+
+---
+
+## Market Commentary
+
+EAST Since Monday Eastern freight rates have fallen 25 dollars and now trades close to parity with the West. Although not usually the biggest driver, with current direction in the market there has been little incentive for charterers to make a move prior to Aramco dates. Tonnage availability should be plentiful once fixing gets restarted, but with Panama still being a somewhat accessible alternative for vessels going in ballast back to US, charterers need to keep in mind that vessels able to catch early February laycans in MEG soon may start their journey in the opposite direction. WEST With the few latest fixtures done ex USG at levels from 100 and 105 H/C v Pan there are some signs of the western market possibly finding its feet again, but the vessel supply for what’s left of February still looks relatively lengthy. There are currently a handful of uncovered cargoes out there and some are already looking first decade March dates.

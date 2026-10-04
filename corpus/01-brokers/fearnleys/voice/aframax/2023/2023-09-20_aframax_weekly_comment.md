@@ -1,0 +1,26 @@
+---
+id: "ef049167-9b06-46ea-b339-69b36a877698"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-09-20"
+year: 2023
+week: 38
+title: "Fearnleys Aframax Weekly Comment - 2023-09-20"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-09-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-09-20 (Week 38)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `ef049167-9b06-46ea-b339-69b36a877698`
+
+---
+
+## Market Commentary
+
+NORTH It has been quite a sluggish week for Aframax owners trading in the North Sea. Lack of activity has kept rates at bottom levels and the tonnage list is building up. However, some owners might turn their bow towards the Mediterranean as that market looks a bit more interesting. A positive recovery can only be expected once we move into October fixing dates. MEDITERRANEAN Tables turned quickly in the Mediterranean earlier this week as charterers kept coming out with end-September inquiries and position list suddenly got tighter. Sentiment is changing and owners are in the mood to push for more and more now. October dates have started kicking in and if activity remains healthy, we will probably see further improvement on the rates.

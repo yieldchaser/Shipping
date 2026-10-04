@@ -1,0 +1,30 @@
+---
+id: "87913d92-17b1-40d2-98da-6ecc256243bd"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-07-18"
+year: 2024
+week: 29
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-07-18"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-07-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-07-18 (Week 29)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `87913d92-17b1-40d2-98da-6ecc256243bd`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco released their Aug lifting acceptance with small delays heard. Owing to the weakening freight, FOB AG cash premium soared up further and mid-single digit was concluded earlier this week for a 1st decade Aug lifting 2/2 cargos. Following such, similar cargo is offered at CP plus teens level. At the time of writing, Aug CP was traded at $585 and C3/C4 CP at $12. Aug/Sep CP was assessed at small contango.
+
+**FAR EAST**
+
+ A couple of 23kt propane parcels for 2h Aug delivery was traded at Aug FEI plus $6. But discussions softened on Thurs with bids at plus $3.5 and offer at $5.75 in window only. Outside window propane trades are limited especially when petchem players refrained buyings. Despite such, a couple of traders have covered their propane shorts into EChina or NChina at Aug FEI plus high single or low teens level. Quite the opposite we’ve been seeing a handful of butane inquiries this week. HTC was reported to award their buy tender for 23kt butane mid Aug delivery. CPC also issued tender to secure 11/11 or 0/22 or even 1/3 for late Aug early Sep delivery. Sinobenny tendered to buy 11/11 for last decade Aug delivery. And Shanghai Jinshan tendered to buy 20-40kt LPG at flexible ratio. Apart from such, two special origin cargos for end Jul/early Aug delivery were rumored to sold at CP plus 40s, which apparently no competitive to normal stems. And we believed regular receivers might divert interests to normal stems instead. Other than spot purchases, three Indian PSUs all issued term tenders to secure next year AG FOB supply, among which some were concluded at CP minus high single to low/mid teens based on different quarter delivery.

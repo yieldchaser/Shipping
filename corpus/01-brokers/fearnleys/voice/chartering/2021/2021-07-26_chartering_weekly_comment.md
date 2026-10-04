@@ -1,0 +1,26 @@
+---
+id: "3703863E-FD30-4293-A5D7-CB19DDCBE5E8"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-07-26"
+year: 2021
+week: 30
+title: "Fearnleys Chartering Weekly Comment - 2021-07-26"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-07-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-07-26 (Week 30)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `3703863E-FD30-4293-A5D7-CB19DDCBE5E8`
+
+---
+
+## Market Commentary
+
+EAST Last deal in the MEG was done by an oil major whom fixed a ship in the mid-40s Baltic (inclusive of options to go to India). This deal was done last Friday but since then it has been rather muted in the East. We count approx. 15 spot deals concluded from the Middle East in August, but we do expect to see a handful more during 20-30 August before we can close the month off. Meanwhile, a more active market in the US has continued to pull further ships away from the East, and together with recent weather delays seen in around F.E.A, this has started to tighten up the vessel positions list for current fixing window. WEST On the back of improved cargo economics together with a stronger shipping market in the East we have started to see deals into the 80s H/C this week. August fixing seems more or less settled with only a few potential vessels remaining as September deals now well underway. At the moment Panama waiting time is around 1 week which is a small improvement from same time last week, however that’s not to say schedule planning is all that straight forward with uncertainties still needing to be factored in. Typhoons and bad weather in East China could potentially also create some more disruptions in the short term.

@@ -1,0 +1,26 @@
+---
+id: "3854A3EE-188E-4E2C-B6A8-A1D8F6A9BFFA"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-06-24"
+year: 2019
+week: 26
+title: "Fearnleys Suezmax Weekly Comment - 2019-06-24"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-06-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-06-24 (Week 26)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `3854A3EE-188E-4E2C-B6A8-A1D8F6A9BFFA`
+
+---
+
+## Market Commentary
+
+As mentioned in last week’s update, the market corrected down in all areas following the recent spike in rates after the MEG incidents. Some replacing business coupled with a few inquiries are keeping WAF from sliding further right now, but charterers with cargoes off more natural dates have plenty of ships to choose from and we would need an increase in activity in order for rates to hold.

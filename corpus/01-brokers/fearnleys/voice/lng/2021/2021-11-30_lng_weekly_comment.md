@@ -1,0 +1,26 @@
+---
+id: "5F6E4653-3CB2-4B18-997D-85AD74D43577"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-11-30"
+year: 2021
+week: 48
+title: "Fearnleys LNG Weekly Comment - 2021-11-30"
+---
+
+# Fearnleys LNG Weekly Comment (2021-11-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-11-30 (Week 48)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `5F6E4653-3CB2-4B18-997D-85AD74D43577`
+
+---
+
+## Market Commentary
+
+Following a flurry of sublet activity and market volatility in LNG these past couple of months, it appears we may finally be peaking and on trajectory to softer markets. Although Asian LNG prices remain relatively elevated in recent days off the back of stronger than usual European gas, it seems shipping rates have plateaued in part due to growing spot availability from subletters keen to get a taste for record high shipping rates. Optimization has surely been key to lucrative trading reported, with most sublets seen from portfolio players and traders dominating the vessel list. On term shipping, given a fair few vessel redeliveries to Head Owners are expected within Q1 of 2022, several multi-month and short term enquiries appear to be on hold with Owners and Charterers as they evaluate the market and consider their approach. That said, we still do see and expect continued activity on the term market as Charterers seek coverage through 2022, with some even issuing requirements earlier than expected. On the newbuilding front, it was an active week with Qatari, Asian and Greek Owners all adding to their newbuilding orderbook in Korea.

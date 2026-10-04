@@ -1,0 +1,30 @@
+---
+id: "7BD111F8-41DF-4640-9F26-761FB252B51E"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-11-16"
+year: 2022
+week: 46
+title: "Fearnleys Aframax Weekly Comment - 2022-11-16"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-11-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-11-16 (Week 46)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `7BD111F8-41DF-4640-9F26-761FB252B51E`
+
+---
+
+## Market Commentary
+
+Nsea market moved sideways for another week with charterers fixing quietly and repeating the rates. Owners that can fix Baltic focused on this last week but with 5th December approaching it remains to be seen what will happen after this date. Meanwhile, rest of the owners might ballast away from Nsea as the other areas keeps climbing, so we will see an uptick on the current rates moving forward.
+
+**Med**
+
+ and Bsea were very busy and rates surged as inquiries just kept coming. Owners had the upper hand and they managed to consistently push rates higher for every fixture. With very strong sentiment right now, owners are looking to push even higher on the cargoes to come or at least maintain the current levels. CPC and North Africa is expected to remain busy in December, so we don’t foresee considerable downward risk.

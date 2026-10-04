@@ -1,0 +1,30 @@
+---
+id: "436C72F2-F482-4039-B927-28F57D9A02E2"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2021-09-20"
+year: 2021
+week: 38
+title: "Fearnleys LPG Eastern Weekly Comment - 2021-09-20"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2021-09-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2021-09-20 (Week 38)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `436C72F2-F482-4039-B927-28F57D9A02E2`
+
+---
+
+## Market Commentary
+
+MEG Following the crude, Oct Propane CP edged up further this week, traded at $762 at the time of writing. And Butane CP was traded at $8 less. Saudi released their acceptance with no cuts reportedly. One evenly spilt cargo for Oct lifting was reported to change hand at CP plus $2.
+
+**FAR EAST**
+
+ Cash premium for 2h Oct delivered propane remained at negative territory and declined further this week. We’ve seen one Chinese major sold two parcels of 23kt propane for such period delivery, at Oct FEI minus $6.5 and minus $8 respectively. Bids on the next day retreated to Oct FEI minus $10 while offers at minus $7. In order to meet targets aimed at controlling energy use and gas emissions, some manufacturing plants in EChina have cut rates and there are concerns arising whether LPG-feed crackers and PDHs might be under impact. Consequently, LPG and PP futures on DCE are traded in volatility this week, which also partially affecting FEI swap trades by hedge funds. Several term tenders issued last week by Chinese and SEA players are closed and under discussions. Apart from these, Indonesia PERTAMINA issued another term buy tender to purchase 11 lots of evenly split cargo for monthly CFR delivery except Feb in 2022. Their last CFR term tender was reported to award to two trading houses.

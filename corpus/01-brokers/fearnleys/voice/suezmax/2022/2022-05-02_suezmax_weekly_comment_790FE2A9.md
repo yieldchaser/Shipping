@@ -1,0 +1,30 @@
+---
+id: "790FE2A9-2EC5-42D8-BCE9-9BFE0DB97A9F"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-05-02"
+year: 2022
+week: 18
+title: "Fearnleys Suezmax Weekly Comment - 2022-05-02"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-05-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-05-02 (Week 18)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `790FE2A9-2EC5-42D8-BCE9-9BFE0DB97A9F`
+
+---
+
+## Market Commentary
+
+The Suezmax market is a little disjointed this week as the majority of the planet has taken some time off for some R&R. Unfortunately, the short-term prognosis remains the same, at least this side of the weekend, with rates likely to trade sideways at best. TD20 has seen a couple of cargoes enter the fray in the 17-21 window suggesting second decade stems will be all but covered by the end of the week. With TD20 trading mid WS 70's, some charterers might see that as a "take" and start reaching forward with freight levels relatively low. In the East, there has been a trickle of activity for TD23 runs, with that particular route not giving much change from WS 45.
+
+**MEG**
+
+/East remains the ultra quite relative in this segment and for a modern, well approved vessel will trade at about WS 80 for a China run.

@@ -1,0 +1,26 @@
+---
+id: "df12f093-751f-4102-b3e8-aca2dc5804c6"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-06-04"
+year: 2025
+week: 23
+title: "Fearnleys Supramax Weekly Comment - 2025-06-04"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-06-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-06-04 (Week 23)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `df12f093-751f-4102-b3e8-aca2dc5804c6`
+
+---
+
+## Market Commentary
+
+The Supramax and Handysize markets remained subdued across both the Atlantic and Pacific, weighed down by limited fresh demand and oversupply of tonnage. In the Atlantic, Supramax activity was mostly flat, with only minor improvement in the Continent-Mediterranean, while the South Atlantic and US Gulf remained soft. Asia saw reduced activity due to regional holidays and weak sentiment. Similarly, the Handysize market continued to weaken in the Continent and Mediterranean, with firming limited to the US Gulf. The South Atlantic stayed under pressure, and Asia remained quiet with little new inquiry and a growing tonnage list.

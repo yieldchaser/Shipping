@@ -1,0 +1,30 @@
+---
+id: "61a2654c-cfa6-44bb-898c-6ce8f1ba371b"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-09-24"
+year: 2025
+week: 39
+title: "Fearnleys VLCC Weekly Comment - 2025-09-24"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-09-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-09-24 (Week 39)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `61a2654c-cfa6-44bb-898c-6ce8f1ba371b`
+
+---
+
+## Market Commentary
+
+The week gone by has been a roller coaster ride in the VLCC market. The whole of last week saw a continued upward trajectory culminating at W105 MEG/east, repeated several times.
+
+**West Africa**
+
+ and Brazilian exports followed suit, helped further by USG exports paying into the $12 million for the benchmark Ningbo discharge. However, Monday came with a couple of surprise fixtures reported done at W95 MEG/China for a couple of oil company relets. A Mexican stand off followed with independent owners refusing to recognise these as relevant to the market. The stubbornness paid off with Baltic’s TD15 estimate coming in at W102 and change yesterday evening. We have yet to see same printed, but the downside appears firmly capped with several fixtures concluded around the W100 mark since. However, the sky is not without clouds. The surge in shipping costs and WTI premiums has all but shut the US-Asia oil arbitrage putting a damper on the Atlantic market.

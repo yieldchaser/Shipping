@@ -1,0 +1,26 @@
+---
+id: "508b0300-ec11-49ac-893b-e0949abbec89"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-02-25"
+year: 2026
+week: 9
+title: "Fearnleys Panamax Weekly Comment - 2026-02-25"
+---
+
+# Fearnleys Panamax Weekly Comment (2026-02-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2026-02-25 (Week 9)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `508b0300-ec11-49ac-893b-e0949abbec89`
+
+---
+
+## Market Commentary
+
+The Panamax market continues to show a clear split this week, with the Atlantic remaining under pressure while the Pacific maintains a firm tone. In the Atlantic, prompt tonnage is building amid limited fresh enquiry, keeping competition among owners high and rates under gradual pressure, particularly on transatlantic routes, while the lack of grain support from NCSA and the USG remains notable. Some support is seen in ECSA forward dates, which are still trading at a premium, but overall sentiment remains cautious. By contrast, the Pacific is holding well on the back of tight vessel availability and steady cargo flow from Indonesia, Australia, and the North Pacific, allowing owners to maintain firm ideas and pushing charterers to cover at stronger levels. Forward indicators and vessel tightness continue to point toward a constructive near-term outlook into March, although seasonal factors suggest some moderation may emerge later in the spring.

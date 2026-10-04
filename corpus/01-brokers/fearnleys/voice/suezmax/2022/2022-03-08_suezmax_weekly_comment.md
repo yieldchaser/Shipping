@@ -1,0 +1,26 @@
+---
+id: "95AAC5DE-C534-400E-8F4C-BF386CF73C52"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-03-08"
+year: 2022
+week: 10
+title: "Fearnleys Suezmax Weekly Comment - 2022-03-08"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-03-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-03-08 (Week 10)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `95AAC5DE-C534-400E-8F4C-BF386CF73C52`
+
+---
+
+## Market Commentary
+
+As the saying goes "a week is a long time in politics" and the same can be said of the Suezmax market. Healthy premiums are still being paid for Russian Baltic and Black Sea cargoes with a noticeable drop off in non-Russian rates, where skyrocketing bunker prices are savagely wiping out any profits. Attempts by America to lead an all-out ban on Russian crude may have fallen on deaf ears as the EU will take some time to be weaned of its Russian dependence. This oil will continue to flow, both short and long haul and if there's an example of cheap oil that doesn't find a home, we would love to be enlightened. TD20 appears susceptible to further falls and may test low WS 80s whilst MEG/East will hover in the mid/high WS 80s for 15T crane requirements. Td23 may start to come off a little and trade in the WS 40s.

@@ -1,0 +1,26 @@
+---
+id: "cde60e17-7195-44aa-81ba-b20bfdc20cd4"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-05-27"
+year: 2026
+week: 22
+title: "Fearnleys Aframax Weekly Comment - 2026-05-27"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-05-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-05-27 (Week 22)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `cde60e17-7195-44aa-81ba-b20bfdc20cd4`
+
+---
+
+## Market Commentary
+
+North Sea North Sea dates are slowly moving into June. The first 5 days stems are not that populated and we have seen a lot of programming which explains the muted start to the month activity wise. Even with a continued softer US market the North Sea list is being kept balanced with vessels ballasting. Market looks like it will remain steady/soft likely through the first decade. Mediterranean Rates are hovering around last-done levels with decent levels of activity and the tonnage list looking much better compared to last week. Sentiment is the issue these days as owners seem to have accepted last done and at the same time fundamentals aren't helping them either.

@@ -1,0 +1,26 @@
+---
+id: "46BCCFAA-6DAD-421B-9314-061B44B7E175"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-03-15"
+year: 2023
+week: 11
+title: "Fearnleys LNG Weekly Comment - 2023-03-15"
+---
+
+# Fearnleys LNG Weekly Comment (2023-03-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-03-15 (Week 11)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `46BCCFAA-6DAD-421B-9314-061B44B7E175`
+
+---
+
+## Market Commentary
+
+The spot LNG shipping market has remained stagnant, with limited activity reported. While there are a few pending requirements, most of them are within the East of Suez and are more than 6 weeks out. Presently, there is a surplus of prompt vessel availability compared to the requirements in the market, with vessels opening in the Atlantic still commanding lower spot rates than those in the Pacific. A potential window of opportunity for the East – West Arbitrage could arise as the spread between TTF and JKM spot prices shows signs of reversal, with JKM now commanding a marginal premium to TTF. In the term market, charterers remain focused on securing tonnage for winter coverage, and there is continued interest in long-term charters. On newbuildings, Maran Gas has reportedly ordered two 174,000 cbm LNG carriers at the DSME yard, with delivery expected around mid-2027.

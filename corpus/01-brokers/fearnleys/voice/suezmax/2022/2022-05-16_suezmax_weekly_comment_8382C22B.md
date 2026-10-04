@@ -1,0 +1,26 @@
+---
+id: "8382C22B-5282-4E43-A121-838F25F1AEF9"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-05-16"
+year: 2022
+week: 20
+title: "Fearnleys Suezmax Weekly Comment - 2022-05-16"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-05-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-05-16 (Week 20)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `8382C22B-5282-4E43-A121-838F25F1AEF9`
+
+---
+
+## Market Commentary
+
+There continues be an overall flat/soft feel to the Suezmax market this week, with the exception of possibly the US Gulf, which could start to uptick (modestly). TD20 has seen a trickle of activity but the main source of tonnage for this region, the Far East, continues to supply a never-ending supply of ships which keep chipping away at rates. We could see TD20 rates trade down to low WS 80's if MEG maintains its lackluster performance. Thus far, the EU hasn't created a unified response to Russian crude oil exports which will keep a number of traditional owners away from the wider market, although Russian Baltic stems have gone a little quiet and may throw some ships back onto the regular list. TD23 is a falling market and may start to trade WS 30's as is MEG/China, which should trade WS 80'S.

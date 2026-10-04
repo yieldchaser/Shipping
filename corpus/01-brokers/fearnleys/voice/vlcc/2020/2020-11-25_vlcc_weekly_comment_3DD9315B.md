@@ -1,0 +1,26 @@
+---
+id: "3DD9315B-D548-4C7D-B4DE-32475762951D"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-25"
+year: 2020
+week: 48
+title: "Fearnleys VLCC Weekly Comment - 2020-11-25"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-11-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-11-25 (Week 48)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3DD9315B-D548-4C7D-B4DE-32475762951D`
+
+---
+
+## Market Commentary
+
+Steady as she goes this week. Low volumes keeping a cap on rates as owners scramble for available cargoes and Chinese COAs dominate the MEG/China route. Lines in the sand seem to have been drawn however, with owners of modern tonnage able to keep ws26.5 as the basement rate. Small celebrations in the owning community as half a point was pulled back yesterday. A busier mid-week could usher in a point or two more. In the Atlantic, many owners are contemplating a direct ballast West in search of higher TCE’s but West Africa/East has not moved off the ws29 conference rate to China. Cargoes ex USG are also flat, with ex dry docker fixing at USD 4.5m to Ningbo and regular tonnage 100-200k more. The North Sea has seen activity, as charterers try to get their ducks in line. A little under USD 4.5m for Hound Point East secures tonnage.

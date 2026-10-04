@@ -1,0 +1,26 @@
+---
+id: "090AFE4A-1837-43F5-A291-2A64B2675928"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-12"
+year: 2020
+week: 42
+title: "Fearnleys Panamax Weekly Comment - 2020-10-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-10-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-10-12 (Week 42)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `090AFE4A-1837-43F5-A291-2A64B2675928`
+
+---
+
+## Market Commentary
+
+After the Chinese holidays came to an end, we have experienced a declining market – especially in the Atlantic. The rates kept falling even though the index did not pick this up until mid-week. We see chrts withdrawing from the market after owners confirming bids without any negotiations and we do expect a falling curve short term. TA’s are currently yielding USD 13.5k on the index, but the physical market is priced lower. In the Pacific we see NoPac rounds being concluded at USD 13k for modern Kmax units, while the longer rounds are being priced in the low 12k.

@@ -1,0 +1,26 @@
+---
+id: "0ed6f598-6559-4d97-9ec2-3b9f7b09c516"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-03-12"
+year: 2025
+week: 11
+title: "Fearnleys Capesize Weekly Comment - 2025-03-12"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-03-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-03-12 (Week 11)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `0ed6f598-6559-4d97-9ec2-3b9f7b09c516`
+
+---
+
+## Market Commentary
+
+On the Pacific front, not much peripheral cargo out of East Australia and other fronts of the Pacific, but we see decent volumes of enquiry out of West Australia for end March dates. Some tick forward enquiries for early April have popped up as well. On C3 ex Brazil and West Africa, there are relatively few enquiries left for 1 to 10 April range. Majority of enquiries are from 11 April onwards to end April. Spot tonnage in the Pacific is tightening a fair bit as well as we approach mid-week due to several factors. Multiple vessels were cleared out by miners and operators at the start of the week, coupled with the closure of CJK/North China ports further limiting the number of available tonnage. Of the remaining vessels, some have chosen to ballast as well due to the strong support we see on the Brazil/West Africa front. Ballasting tonnage is thinning quickly for first half of April and number of ships en route to Singapore which will make second half of April in Tub dates are relatively low. On C5, we see fixtures concluding at high USD 9 pmt levels to low USD 10 pmt levels at start of the week. Today we see fixtures concluding at tick above mid USD 10 pmt levels and excess of USD 11 pmt levels for prompter dates. On C3, fixtures are at mid-high USD 24 pmt levels for mid April dates.

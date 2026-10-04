@@ -1,0 +1,26 @@
+---
+id: "87ff076f-6ecf-4eb0-b543-390870c21de6"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-07-10"
+year: 2024
+week: 28
+title: "Fearnleys Aframax Weekly Comment - 2024-07-10"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-07-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-07-10 (Week 28)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `87ff076f-6ecf-4eb0-b543-390870c21de6`
+
+---
+
+## Market Commentary
+
+Market remains steady with a few quiet fixtures taking tonnage, but general market activity remains limited. Tonnage availability remains healthy with forward dates being replenished. Natural window heading towards 3rd decade dates. US markets still attractive to ballast from North Sea. Mediterranean market has ticked along in a steady fashion with some business being done, but rates holding fast in the region for now. Tonnage outlook is plentiful at the moment and with ships engaging from the North down it will take some increase in volume to see significant pressure mount on rates.

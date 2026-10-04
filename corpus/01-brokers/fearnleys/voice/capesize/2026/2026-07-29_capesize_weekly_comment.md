@@ -1,0 +1,34 @@
+---
+id: "15568eb2-2aa8-47be-b545-8b67347a7565"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-07-29"
+year: 2026
+week: 31
+title: "Fearnleys Capesize Weekly Comment - 2026-07-29"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-07-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-07-29 (Week 31)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `15568eb2-2aa8-47be-b545-8b67347a7565`
+
+---
+
+## Market Commentary
+
+This week on Capesize, we have seen a slow retreat across major Atlantic and Pacific basins.
+
+**Pacific**
+
+ C5 West Australia/China saw relatively limited fresh cargo out of Australia with two main active miners in play. Latest last done levels on C5 reported at low-mid USD 12 levels with the most recent fixture reported at USD 12.25 for mid August dates. Refreshed ideas today are at high USD 11s and low USD 12s for mid August. C3 Brazil/China and West Africa also saw softening this week, in part due to easing oil prices earlier in the week. Charterers took a more patient approach amid the weaker market levels with bids hovering around the USD 33s for late August dates and offers aiming in the mid-low USD 34s. Ideas moving to September are rumored in the USD 32s signaling potential further softening.
+
+**Atlantic**
+
+ activity has remained subdued this week following limited fresh interest. Transatlantic stems saw a slight increase in cargo volume but levels are below owners' expectations. Charterers are hopeful for rate corrections before committing and owners continue to discount prompt vessels in order to secure employment. Transatlantic paper has increased marginally today with C8 transatlantic valuing USD 44,500 per day.

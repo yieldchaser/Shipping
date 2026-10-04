@@ -1,0 +1,26 @@
+---
+id: "28f19c44-e603-4153-929b-7bd5d6cac193"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-03-05"
+year: 2025
+week: 10
+title: "Fearnleys Capesize Weekly Comment - 2025-03-05"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-03-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-03-05 (Week 10)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `28f19c44-e603-4153-929b-7bd5d6cac193`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see a steady flow of enquiries from some operators and miners for mid-late March dates. Some operators are out forward seeking for full April dates on index linked basis. Overall peripheral on other fronts of the Pacific such as East Australia coal, South Australia, and NoPac have ticked down slightly compared to last week. On C3 ex Brazil to China and West Africa, we see an even mix of enquiries for late March and first half of April dates. Spot tonnage opening in the Far East is tighter this week, partly attributable to bad weather in North China. Ballasting tonnage is slowly thinning for second half March. On C5, we saw fixtures concluding at mid USD 10 pmt levels at the start of the week but retreated quickly to mid USD 9 pmt levels by mid-week. On C3, fixtures concluded at low-mid USD 20 pmt levels for late March dates and mid USD 20 pmt levels for early April dates.

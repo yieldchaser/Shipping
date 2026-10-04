@@ -1,0 +1,26 @@
+---
+id: "0195fc1e-a8e7-41ca-b6b4-53ed35556008"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2025-06-12"
+year: 2025
+week: 24
+title: "Fearnleys LPG Western Weekly Comment - 2025-06-12"
+---
+
+# Fearnleys LPG Western Weekly Comment (2025-06-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2025-06-12 (Week 24)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `0195fc1e-a8e7-41ca-b6b4-53ed35556008`
+
+---
+
+## Market Commentary
+
+US Despite a robust (but generally anticipated) propane inventory build reported by the EIA this week, the Mont Belvieu propane market defied gravity yet again and closed up by over a penny on the day. The 4.1mmbbl increase brought overall propane stocks in the US to 66mmbbls, or more than 94% of the same time last year, which is why the market saw the increase as a potential avenue toward a wider arb. This was not to be the case, however, and even as of this writring the arb from the East remains in the high $-140s/mt. Furthermore, with freight inching slightly higher with each of the next fixtures, the netback has been subdued. At present there are bids in the low 4cpg range, but inasmuch as the last done was vastly nearer to 5cp – sellers are standing their ground as terminal fees continue to hover just above cargo cancellation levels.

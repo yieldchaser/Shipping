@@ -1,0 +1,34 @@
+---
+id: "6D1AF0D5-A039-4FDA-BC73-0302723CFD50"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-01"
+year: 2021
+week: 5
+title: "Fearnleys Capesize Weekly Comment - 2021-02-01"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-02-01 (Week 5)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `6D1AF0D5-A039-4FDA-BC73-0302723CFD50`
+
+---
+
+## Market Commentary
+
+Rates for the big ships levelling out and possibly improving again after some 10 trading days of losses. Daily average earnings for the typical 180000-tonner hovering around usd 13k, down more than 25 pct w-o-w.
+
+**Far East**
+
+ rounds, typically West Australia/China, have suffered the most – values down almost 35 pct and presently standing around usd 7500/day. Fundamentals for both coal and in particular iron ore nevertheless appear healthy, and number of prompt units including ballasters remain limited.
+
+**Atlantic**
+
+ basin is very well balanced if not tight, and as more fronthaul demand keeps appearing the short-term views are positive – add to this the fact that last month was the best January seen in this segment for several years then general outlook also remains bull. Fixed-period levels have recently not met expectations, thus the handful of long-terms deals known concluded last few days have been at floating rates.

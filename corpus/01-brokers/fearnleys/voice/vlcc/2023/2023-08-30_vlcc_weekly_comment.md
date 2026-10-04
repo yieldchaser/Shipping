@@ -1,0 +1,30 @@
+---
+id: "b3d5d1c3-b979-4ab6-a514-dbf6c9ea4f6c"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-08-30"
+year: 2023
+week: 35
+title: "Fearnleys VLCC Weekly Comment - 2023-08-30"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-08-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-08-30 (Week 35)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `b3d5d1c3-b979-4ab6-a514-dbf6c9ea4f6c`
+
+---
+
+## Market Commentary
+
+The MEG market is busy and September MEG stems have flown by, fixture count now into the 70’s. You would expect rates to reflect this buoyant hive of activity, but in reality, with most cargoes now fixed under the radar with no details attached, we sit at the WS 42-43 level for MEG/China. The only “official” benchmark fixtures leaked into the public domain are rarely representative of the top tier. With lack of prospects in the MEG, turning left at Rondo – or opting for the Suez transit option - has become even more appealing for the owning community, in turn putting pressure on Atlantic rates too, which have thus far having resisted the rot.
+
+**Wafr**
+
+/East sits around the WS 50 level and USG around USD 8m to Ningbo. For assistance, the big ships can look to their smaller sisters for support, but only flickering signs of improvement and unlikely sufficient buzz for an immediate turn around.

@@ -1,0 +1,26 @@
+---
+id: "8ED3A80D-D727-4367-9AC8-5121D2890454"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-08"
+year: 2019
+week: 19
+title: "Fearnleys Panamax Weekly Comment - 2019-05-08"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-05-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-05-08 (Week 19)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `8ED3A80D-D727-4367-9AC8-5121D2890454`
+
+---
+
+## Market Commentary
+
+With last weeks holidays in the east and the UK-holiday on Monday, the market has remained quite flat in both hemispheres. With the latest increase in tariffs imposed on China by the Trump-administration, many expect China to take on countermeasures shortly - which obviously can affect the market negatively. A transatlantic round voyage currently pays owners about USD 10,000 per day, while a short fronthaul from the continent yields about USD 17,000. In the east, a Pacific round voyage pays around the low USD 8,000's. The BPI 4TC-index is currently at 1188 points.

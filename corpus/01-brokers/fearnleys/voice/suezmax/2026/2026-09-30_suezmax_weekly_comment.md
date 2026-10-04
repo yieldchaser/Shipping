@@ -1,0 +1,26 @@
+---
+id: "0b2e3218-d53e-41e7-b3f5-1d516a288f48"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-09-30"
+year: 2026
+week: 40
+title: "Fearnleys Suezmax Weekly Comment - 2026-09-30"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-09-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-09-30 (Week 40)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `0b2e3218-d53e-41e7-b3f5-1d516a288f48`
+
+---
+
+## Market Commentary
+
+Limited supply and heavy demand, not just working but expected too, plagues/boosts the Atlantic basin significantly. The only weights on the market are CPC & FUJA, where activity on Suezmaxes remain muted. TD6 has failed to move up in line with the Atlantic, is likely close to finalising the October programme, after which over a week of silence would be expected before the November programme is released. FUJA action on VLCC has been plentiful, so an abscence of Suezmax activity likely reflects the efficiencies Charterers are prioritising regarding STS operations amidst compromised local logistics rather than a pricing issue. The opposite could be true in Brazil where seasonal local conditions may promote Suezmax utilisation even if VLCCs continue to lag on rates. With VLCC presence off end/ely dates WAF & BRZ close to zero, TA & Eastbound arbs open ex USG and AFRAs achieving high freight rates for USG/TA runs we expect strong demand fundamentals to continue to feed this Suezmax market.

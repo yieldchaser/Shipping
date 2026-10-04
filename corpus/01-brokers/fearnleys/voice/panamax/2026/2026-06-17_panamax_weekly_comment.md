@@ -1,0 +1,26 @@
+---
+id: "a715f5b8-04c2-4352-b693-d15ffaf23fcb"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-06-17"
+year: 2026
+week: 25
+title: "Fearnleys Panamax Weekly Comment - 2026-06-17"
+---
+
+# Fearnleys Panamax Weekly Comment (2026-06-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2026-06-17 (Week 25)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `a715f5b8-04c2-4352-b693-d15ffaf23fcb`
+
+---
+
+## Market Commentary
+
+The Panamax market presents a mixed picture, with the Atlantic outperforming the Pacific. In the Atlantic, activity has improved with better cargo replenishment, steady transatlantic and fronthaul demand, and tighter prompt tonnage supporting sentiment and helping rates remain stable. Meanwhile, the Pacific remains under pressure due to limited grain and mineral demand, an oversupply of prompt vessels, and a lack of fresh cargoes. Overall, Atlantic strength is providing some support to the broader market, but Pacific weakness continues to weigh on sentiment.

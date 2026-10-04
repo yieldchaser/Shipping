@@ -1,0 +1,26 @@
+---
+id: "8a9bc484-b67e-4dee-a653-eae3334dfe32"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-07-26"
+year: 2023
+week: 30
+title: "Fearnleys Panamax Weekly Comment - 2023-07-26"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-07-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-07-26 (Week 30)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `8a9bc484-b67e-4dee-a653-eae3334dfe32`
+
+---
+
+## Market Commentary
+
+The Panamax market has experienced a slow start due to a lack of fresh orders, and there is an oversupply of tonnage in the Continent/Gibraltar area. The South American market remains subdued, impacting not only Atlantic committed and ballaster positions but also opportunities in the East. In the northern Atlantic, there are rumors of more accessible rates compared to previous periods. Despite the improved activity in the Asia region, the market still lacks a definitive floor, leading to easing rates and some owners offering discounts on shorter runs to mitigate exposure to challenging rates.

@@ -1,0 +1,26 @@
+---
+id: "69DA9B4B-DA5B-43E7-8FF9-F17EA4F599C6"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-05"
+year: 2021
+week: 18
+title: "Fearnleys VLCC Weekly Comment - 2021-05-05"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-05-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-05-05 (Week 18)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `69DA9B4B-DA5B-43E7-8FF9-F17EA4F599C6`
+
+---
+
+## Market Commentary
+
+A truncated week, with a day or two off around the globe has given a subdued pace to the market. We went in to the long weekend with rates slowly ticking up, driven by a firmer Atlantic and a tighter feel to the tonnage list, certainly off earlier dates. Often, however, a few days of quiet can be the enemy of the owning community, and as such, a quoted Brazil export cargo on Tuesday was met by a host of offers (reportedly 12) that dented owners’ confidence. As such, the market likely slipping to sub ws40 level for West Africa-East (Brazil-East at ws37.5). The MEG market providing few alternatives with China and Korea taking time off, and very few cargoes working. Volume was strong for early May but has tailed off and rates remaining flat to soft in the mid ws30’s. Owners will be hoping May cargoes kick on this week.

@@ -1,0 +1,26 @@
+---
+id: "3FAB6F81-9102-4505-B8E8-096A4B9C0773"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-04"
+year: 2019
+week: 45
+title: "Fearnleys VLCC Weekly Comment - 2019-11-04"
+---
+
+# Fearnleys VLCC Weekly Comment (2019-11-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2019-11-04 (Week 45)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3FAB6F81-9102-4505-B8E8-096A4B9C0773`
+
+---
+
+## Market Commentary
+
+The VLCC market has been surprisingly slow this week, with only the odd cargo being drip-fed into the market - and all areas have been correspondingly inactive. As a consequence, rates have dropped, albeit less than previous in similarly quiet spells, with latest benchmark standing at ws85 for MEG/China on modern tonnage, an oil company relet at that. The third decade MEG November program has hardly been touched, so optimism persists within the owning community for another 35-40 cargoes still to be covered. Albeit widened the last few days, the position list still appears balanced when it comes to modern tonnage, although there’s an oversupply of restricted ship, old and/or ex d/d etc., hanging like a cloud over the market, as and if workable.

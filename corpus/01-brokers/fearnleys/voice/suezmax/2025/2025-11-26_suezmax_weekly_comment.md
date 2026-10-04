@@ -1,0 +1,34 @@
+---
+id: "86df2600-525a-4bfc-ade2-28c480386dcb"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-11-26"
+year: 2025
+week: 48
+title: "Fearnleys Suezmax Weekly Comment - 2025-11-26"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-11-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-11-26 (Week 48)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `86df2600-525a-4bfc-ade2-28c480386dcb`
+
+---
+
+## Market Commentary
+
+Whilst consistent fixing keeps the front of the Atlantic basin tonnage availabilities tighter, the forward window looks a little softer, both with increased appetite to ballast ex east via Cape of Good Hope on the back end, and in the medium term a big delta between USG and Guyana TCEs offer versus TD20 for ballasters from the continent. As such rates have been chipped away, 150 achieved ex Nigeria for UKCM, minus 2.5 for Angola load, but last done for West Africa/US Atlantic Coast was in line with a 152.5 TD20 (over 2.5 over market) and utilised an ex West Africa itinerary to achieve this.
+
+**USG**
+
+ last dones in the region of 120 earn a good USD 6K less PDPR for Rotterdam ballasters, with both USG & Liza markets using local tonnage to push the market down, unable to charm UKC ships.
+
+**MEG**
+
+ has also dropped off a little, 160 last done albeit on an EX DD ship. We have a good 5 or so FOC ships pointing towards Cape of Good Hope, partly wary of this, and the VLCC trajectory is looking a little softer also which undermines confidence in the eastern markets. Overall, expecting further incremental erosion, but it is a slow decay not a violent one.

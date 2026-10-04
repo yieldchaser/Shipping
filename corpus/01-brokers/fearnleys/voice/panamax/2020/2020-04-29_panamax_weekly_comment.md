@@ -1,0 +1,26 @@
+---
+id: "24CD14D4-2459-4006-9C2F-86662AFB4372"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-04-29"
+year: 2020
+week: 18
+title: "Fearnleys Panamax Weekly Comment - 2020-04-29"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-04-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-04-29 (Week 18)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `24CD14D4-2459-4006-9C2F-86662AFB4372`
+
+---
+
+## Market Commentary
+
+A very slow start to the week with an uneventful Atlantic market. Some Baltic cgos has been done at lower than last done. The same goes for the usec and usg market. In the Pacific we see the NoPac Round market hovering ard Usd 5500 bss North China delivery. The ECSA market is still in play and well spec'ed ships are still being fixed DOP or retro India-Spore rge.

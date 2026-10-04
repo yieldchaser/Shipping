@@ -1,0 +1,26 @@
+---
+id: "80838378-09b0-4412-a81a-2998e2ce4ed3"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-09-04"
+year: 2025
+week: 36
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-09-04"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-09-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-09-04 (Week 36)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `80838378-09b0-4412-a81a-2998e2ce4ed3`
+
+---
+
+## Market Commentary
+
+Saudi Aramco announced Sep CP at $520 for C3, and $490 for C4, rollover from Aug. And market participants are expecting a increase for Oct CP as of winter demand. Despite limited trades, cash differentials for Oct FOB evenly split cargo ex AG stand firm at minus teens level, owing to active CFR demand especially for butane. Indian IOC also issued buy tender for Q4 on evenly split cargos, which shall lend further support to discussions. By the time of writing, Oct CP was traded at $542 for C3 and C3/C4 at $25, Oct/Nov C3 was at $8 contango. Terminal fee for FOB Oct ex US was heard offered at 6 to 7ish, with expectation on winter seasonal demand increment. However, the narrowing ARB and uncertainty US-China tariff talk for Nov onwards, refrained buyers’ appetites on spot trades. As for the EIA statistics, the 3.2mmbbl build was higher than expected, though the build month-on-month, though a slight decrease of 2.7% year-on-year of 93.1mm. bbls now resides in primary storages, which is 99% of the same time last year. CFR east window is active with 23/0 for 1h Oct delivery basis Chiba being traded at Oct FEI minus $9.5. Similar parcel for 2h Oct delivery was bid at minus low teens. 4/0 for 1h Oct delivery basis Ningbo was offered at $544, equates to Oct FEI minus small digit. Outside window a tender galore before the upcoming APPEC meeting. Around 250kt propane were placed into China for end Sep to Oct delivery for feedstock use, with two Canadian stems reported at Oct CP plus 30s and 40s and AG stem at 50s or equivalence basis South/Echina, whereas US origin into NChina at Oct FEI minus mid single digit. One SChina player was reported to buy a 1/1 for late Sep to Oct delivery at Oct CP plus 50s. FPCC also procured one 46/0 for 2h Oct delivery into Mailiao at Oct Mopj minus 50s. HTC was said to buy a late Oct delivered 2/0 at Sep FEI plus low single.

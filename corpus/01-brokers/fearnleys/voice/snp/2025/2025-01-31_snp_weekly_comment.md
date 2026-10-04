@@ -1,0 +1,26 @@
+---
+id: "aa0a9abe-72da-49ea-a8e9-1d650896f14a"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-01-31"
+year: 2025
+week: 5
+title: "Fearnleys S&P Weekly Comment - 2025-01-31"
+---
+
+# Fearnleys S&P Weekly Comment (2025-01-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-01-31 (Week 5)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `aa0a9abe-72da-49ea-a8e9-1d650896f14a`
+
+---
+
+## Market Commentary
+
+Uncertainty in the tanker market has made and lost fortunes over the years, and is generally welcomed, however at the moment there is a sense that you can have too much of a good thing. With the Far East celebrating Lunar New Year, the European market has been rife with rumour as a fresh wave of new buyers emerge to exploit potentially lucrative trades in the aframax sector. This has led to a sense of confusion over values, which had been correcting after a period of stubborn resistance in the wake of an illiquid 2024. Demand for older tankers too seems to be picking up, with demand focused from the Far East – seen in VLCC ALRAYA (300K DWT IHI 2005) being bought by Chinese buyers at USD 43M. Even market veterans will scarcely believe a 20-year-old VLCC can be worth over double its scrap value, it seems, this buoyant values period is far from over. The dry market is slipping into an unprecedented scenario. Granted, seasonality can be blamed for uninspiring earnings right now, but the overall story remains the same in the sense owners are waiting for a supply/demand shock to change their fortunes for 2025. What gives this market its unprecedented nature, is the fact that despite a sustained low earnings environment, owners for the most part are financially sound and have less exposure to lenders than they would have done in recent low markets (2016 for example). This creates less opportunity for buyers to use the prevailing conditions to their advantage in playing hardball with sellers. Chronos offloading their fleet this week dominates the sales this week, but also shows there is still demand for non eco tonnage and not just the highly sought after eco units. Elsewhere, CAPE FRIENDSHIP (185K DWT KAWASAKI 2005) sold for USD 16M, a correction of almost 25% on what the ship was marketed for in Q3 24.

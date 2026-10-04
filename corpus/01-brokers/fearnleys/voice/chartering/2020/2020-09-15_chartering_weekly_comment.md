@@ -1,0 +1,26 @@
+---
+id: "06EC87C0-51DB-4F7C-89E9-28ACF79AB110"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-09-15"
+year: 2020
+week: 38
+title: "Fearnleys Chartering Weekly Comment - 2020-09-15"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-09-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-09-15 (Week 38)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `06EC87C0-51DB-4F7C-89E9-28ACF79AB110`
+
+---
+
+## Market Commentary
+
+WEST The West market has been relatively uneventful this week apart from a South American oil major entering the market for a VLGC 6-10 October. Despite shipping availability being relatively scarce in the first half of October, the market remains quite resilient for the time being. Mid October onwards there are some relets appearing in the USG, which may give an impression of the market weakening. Nevertheless, the number of spot fixtures concluded thus far for the month would suggest that there are at some fifteen to twenty spot deals left to be done, that is, if comparing to the monthly average number of fixtures done so far this year. EAST With more cargoes from the Indian majors shown to the market this week for 1st decade October loading, we have also started to see other trading companies looking at freight in the Middle East. A couple of ships were booked last night in the USD mid 50 Baltic range, and there are still 2 uncovered Indian cargoes which are being worked today. We are still also waiting for the announcement of Saudi acceptances which could possibly create further shipping requirements. In the meantime there are 3-4 trader relets available for the current fixing window, and together with the open ships from the main owners freight is looking fairly balanced at the moment (unless we see a sudden additional demand for shipping post Saudi acceptances).

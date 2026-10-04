@@ -1,0 +1,26 @@
+---
+id: "f173bcd5-f481-4150-b1ca-52a4e2f42346"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-07-26"
+year: 2023
+week: 30
+title: "Fearnleys VLCC Weekly Comment - 2023-07-26"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-07-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-07-26 (Week 30)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `f173bcd5-f481-4150-b1ca-52a4e2f42346`
+
+---
+
+## Market Commentary
+
+What a difference a day makes, as the song goes. After a few days of a steady slow decline the Atlantic gave the VLCC market a shot in the arm yesterday. An ECMex/Korea run was booked at USD 8.3 million, dictating rates north USD 8 million for TD22, a good quarter million improvement over last done, and Wafr and Brazil loads likely to follow in the footsteps. To what extent the MEG, where downward pressure persists, will follow suit remains to be seen, but it should encourage owner to dig their heals in at the WS 50+ mark for MEG/East. A major typhoon expected to hit Taiwan, Philippines, and South China this week could cause delays, with possible replacements needing to be arranged and tightening the front end of the position list.

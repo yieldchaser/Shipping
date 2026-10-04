@@ -1,0 +1,26 @@
+---
+id: "AC86163D-1023-4AA7-84FC-8D04207364B5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-10-11"
+year: 2021
+week: 41
+title: "Fearnleys Chartering Weekly Comment - 2021-10-11"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-10-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-10-11 (Week 41)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `AC86163D-1023-4AA7-84FC-8D04207364B5`
+
+---
+
+## Market Commentary
+
+EAST Since our Shipping Weekly report last Wednesday, the RT/C Baltic benchmark has climbed just a few cents shy of three dollars. Although there has been lots of chatter and various traders looking to buy spot FOBs, market has mostly been focused on end October Indian PSU cargoes which has been paying hefty premiums to the Baltic. Last round of acceptances for November is expected to be published on Sunday or early next week. In view of steadily increasing freight ideas from those controlling open vessels in the first half of November, we would not be surprised to see some November fixing kicking off already this week. WEST With first half of November largely covered on freight, there are still more than a handful relets available within 2nd decade November. The freight market is showing signs of being long as freight rates essentially gone from USD 86-87 last week to USD 84-85. At the same time as we are seeing a small decrease in freight rates, it’s not helping owners’ earning levels as bunker prices keeps increasing in tandem with crude. Neo Panama Canal is currently not experiencing anything near the amount of congestion we saw last year this time. It is however too early to conclude that we won’t have congestion increasing for the VLGC’s as we come closer to Christmas and container ships starts claiming their space through the canal.

@@ -1,0 +1,26 @@
+---
+id: "EAA11B1D-9A16-41E2-BA6E-87113FA4B962"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-24"
+year: 2021
+week: 8
+title: "Fearnleys S&P Weekly Comment - 2021-02-24"
+---
+
+# Fearnleys S&P Weekly Comment (2021-02-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-02-24 (Week 8)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `EAA11B1D-9A16-41E2-BA6E-87113FA4B962`
+
+---
+
+## Market Commentary
+
+Crude spot market remains sad and depressing, but another modern VLCC was sold this week when Hunter announced the exit of its 1,5 year old HUNTER ATLA (delivered Sept 2019). A price of USD 84.5 mill paid by ADNOC is considered firm by some market players, but in our books it is a fair level – especially in light of the recent pricing from leading shipyards. Generally speaking, there are not many sellers of modern tonnage in this space today. Still, we see an impressive number of takers for older crude tankers, and prices keep up fairly well. Given the scrap-levels on offer, the poor earnings in the (conventional) market and the increasing bunker prices we had expected more older ships sold for demolition. There is a strong demand in the product market and both MR and LR2 tonnage in decent condition and age do get a lot of attention. The dry markets continue to display strength. Supramax rates are up excess 40% the last week, breaking USD 20k/day on Wednesday for the first time in a decade. Even crazier, the historically less volatile handies are also on fire where the Baltic has recorded over a month of daily consecutive gains and are now at excess USD 19k/day. There are a lot of bidders on available ships for sale and we expect values to quickly follow suit. Also this week we see a lot of activity on region 10yrs old Kamsars, and again the values are increasing slightly from last week. Less transactions for the modern Eco units, but that is not due to a lack of buyers. There are many owners scavenging the market for Eco units in fear of future IMO requirements, but there is simply very few units for sale. The only one this week was the BULK HERO (61k dwt, Universal, 2016) sold at at USD 20.6mill, which will represents a new benchmark on the 5yrs old Ultramax.

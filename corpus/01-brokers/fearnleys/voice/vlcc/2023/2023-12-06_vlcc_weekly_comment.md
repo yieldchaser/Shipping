@@ -1,0 +1,26 @@
+---
+id: "c86bf3cf-442f-47a6-92c8-53b482cf65ba"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-12-06"
+year: 2023
+week: 49
+title: "Fearnleys VLCC Weekly Comment - 2023-12-06"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-12-06 (Week 49)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `c86bf3cf-442f-47a6-92c8-53b482cf65ba`
+
+---
+
+## Market Commentary
+
+Owners are holding the market together remarkably well, despite charterers tactics of holding off and fixing quietly off market (19 deals done over the week passed with no details attached). At the time of writing, an MEG/Vietnam run just on subs at WS 64. It looks lower on a WS basis, but freights well and equates similar to a WS 67.5 for like TD3C and WS 66.5 also just done ex Basrah to China. Given last Wednesday MEG/China was at WS 68.5, it shows the lack of excitement, so a small points victory for charterers then. As for the Atlantic, despite the bright spot of Venezuela reappearing as a loading destination (and the welcome million plus premium on freight - we will see how long that continues), the lower export volumes, notably in the USG have stressed owners resolve. The Atlantic tonnage list builds, perhaps discouraging potential ballasters which likely have a knock-on effect on the MEG market. Continued lack of support from Suezmaxes and Aframaxes does not help. It is not all doom and gloom as owners holding the line and of course, hope springs eternal, as there remains appetite from charterers for T/C. But for modern, scrubber, it will cost in excess of USD 50k/day. So, evidence from all sides the market will remain strong.

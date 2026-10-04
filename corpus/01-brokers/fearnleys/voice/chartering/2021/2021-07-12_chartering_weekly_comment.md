@@ -1,0 +1,26 @@
+---
+id: "A79670D3-BD86-4F7A-8D58-22C6F0C7FA08"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-07-12"
+year: 2021
+week: 28
+title: "Fearnleys Chartering Weekly Comment - 2021-07-12"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-07-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-07-12 (Week 28)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `A79670D3-BD86-4F7A-8D58-22C6F0C7FA08`
+
+---
+
+## Market Commentary
+
+EAST VLGC fixing East of Suez has picked up its pace this week with more cargoes quoted out of MEG and Australia. Still with a hefty premium in the West a good amount of ships is sailing towards this direction or planning to do so - helping the supply of available tonnage to decrease. On the back of both more activity and vessels disappearing out of the region we expect the bottom has been reached for now in the East. WEST Activity wise so far this week US has been lagging a bit behind the East – with freight now hovering in the high 70s pmt Houston/Chiba, continued difficult arb economics and delays both North and South bound in the Panama Canal some Charterers are sitting on the fence to see the direction of the market before making their next moves.

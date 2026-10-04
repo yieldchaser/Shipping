@@ -1,0 +1,26 @@
+---
+id: "E940504B-AA63-454E-8910-1329AFFF20E7"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-08-31"
+year: 2021
+week: 35
+title: "Fearnleys Chartering Weekly Comment - 2021-08-31"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-08-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-08-31 (Week 35)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `E940504B-AA63-454E-8910-1329AFFF20E7`
+
+---
+
+## Market Commentary
+
+EAST Slight downward pressure on freight in the East and last reported non-Indian deal in the market was fixed at a discount to Baltic. We have seen about 16 spot deals concluded from the Middle East in September thus far, but we expect there is a handful more uncovered cargos during 20-30 September before we can close the month off. Freight ideas from Owners going forward is in the mid $40s territory, however some might still be there to consider less against firm cargos. WEST At the time of writing, there are only a couple of vessels left open for the balance of September in the USG. There is also a handful of FOBs for sale from various terminals which in theory could leave September wiped out on shipping availability, however, the mismatch between owners’ and charterers’ freight ideas and terminals’ selling ideas is strangling any momentum to get deals done. Uncertainty around Panama southbound slot delays is one of the contributing factors as to why the bids and offers doesn’t get to terms. Most deals concluded during the last week for end September and beginning October laycans have been done around mid USD 80’s Houston/Chiba basis and mid/low USD 40s Houston/Flushing basis. Freight is seemingly quite resilient at or around this level and going further into October any vessels with firm northbound Panama slot may be preferred and thus fetch a dollar or so premium to non-booked vessels. Inefficiencies are expected to prevail and may tilt the market up or down a notch depending on vessel availability on certain laycans.

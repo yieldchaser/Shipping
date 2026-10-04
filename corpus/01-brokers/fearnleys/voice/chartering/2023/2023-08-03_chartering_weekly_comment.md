@@ -1,0 +1,26 @@
+---
+id: "2b1674f3-b8b5-485b-aba1-9fc6a0a2acb0"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-08-03"
+year: 2023
+week: 31
+title: "Fearnleys Chartering Weekly Comment - 2023-08-03"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-08-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-08-03 (Week 31)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `2b1674f3-b8b5-485b-aba1-9fc6a0a2acb0`
+
+---
+
+## Market Commentary
+
+EAST Although we’ve only seen 20 spot fixtures in August ex AG so far (v. 28 average for the past three months), the question now is what’s actually left of spot demand for the rest of the month. OPEC continues to reduce production which means, even with healthy Natgas production, we could see decreased tons ex AG this month. The position list for last decade of August in AG still looks pretty healthy, although some vessels obviously may choose to go US or elsewhere. With some weather delays and some cargos popping up outside of just US and AG, maybe freight in the East will manage to stay put a while longer. WEST The first available vessel in USG we find from 28 Aug onwards. Some players already looking at mid Sep dates, but with only 5-6 spot fixtures concluded for September we still see a large chunk of open vessels available at earlier dates. For the first half of September the position list looks balanced with an even split of trader relets and shipowner-controlled vessels. With Panama delays to increase combined with incoming Typhoons/Hurricanes and a still widening arb we should expect todays strong rates to stay put.

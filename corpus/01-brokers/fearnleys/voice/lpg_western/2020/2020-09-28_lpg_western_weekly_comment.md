@@ -1,0 +1,26 @@
+---
+id: "BD255E68-07E1-46DF-8015-71CBFD9EBC1A"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-09-28"
+year: 2020
+week: 40
+title: "Fearnleys LPG Western Weekly Comment - 2020-09-28"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-09-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-09-28 (Week 40)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `BD255E68-07E1-46DF-8015-71CBFD9EBC1A`
+
+---
+
+## Market Commentary
+
+AMERICAS A larger than expected build of 4.1 million barrels finally pushed US propane inventories above 100million barrels for the first time since 2015. With inventories at 102.0 million barrels Mt Belvieu was expected to weaken from above 50% WTI. This has not happened mainly due to the strength in international markets. This strength has partly been fueled by delays in USGC loadings caused by Tropical storm Laura and waiting time in the Panama Canal. Structural shifts in the forward curve in both NWE and FEI have strengthened prompt netback values and in turn US FOB buying ideas for November. This has caused the US FOB market to flip from well offered to well bid. Energizing FOB discussions and pushing bids up from a 5 handle to a 6 handle in a very short space of time. Going forward we believe US FOB values will continue to improve, even once the delays and bottlenecks have cleared.

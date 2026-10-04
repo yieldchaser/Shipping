@@ -288,9 +288,12 @@ def parse_period_fixtures(table_text: str) -> list[dict]:
 def clean_intermodal(txt: str, file_path: Path = None) -> tuple[str, dict]:
     stats = {"tables_decoupled": 0, "prose_math_escaped": 0, "period_charters_normalized": 0}
     try:
-        from scripts.extract.publishers.normalize_intermodal_md import normalize_markdown
+        try:
+            import normalize_intermodal_md
+        except ImportError:
+            from publishers import normalize_intermodal_md
         dummy_p = file_path if file_path else Path("intermodal_2026_W01.md")
-        res = normalize_markdown(txt, dummy_p)
+        res = normalize_intermodal_md.normalize_markdown(txt, dummy_p)
         stats["tables_decoupled"] = 1
         stats["prose_math_escaped"] = 1
         stats["period_charters_normalized"] = 1
@@ -313,16 +316,45 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
             txt = txt[:m.start()] + replacement + txt[m.end():]
             stats["category_lists_reformatted"] += 1
 
-    # 2. Beaching tide dates table
-    tide_pattern = re.compile(
-        r'\n\|[ \t]*BEACHING TIDE DATES 2023[ \t]*\|\n\|[ \t]*[-:]+[ \t]*\|\n((?:\|[ \t]*[^\n\|]+[ \t]*\|\n)+)'
-    )
-    for m in list(tide_pattern.finditer(txt)):
-        rows = [r.strip('| \t') for r in m.group(1).splitlines() if r.strip('| \t')]
-        items = [f"- {r}" for r in rows]
-        replacement = "\n\n### Beaching Tide Dates 2023\n\n" + "\n".join(items) + "\n\n"
-        txt = txt[:m.start()] + replacement + txt[m.end():]
-        stats["category_lists_reformatted"] += 1
+    # 3. Prune pseudo-tables with empty/blank header cells
+    def _clean_sa_tables(tbl_match):
+        block = tbl_match.group(0).strip()
+        lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
+        if len(lines) < 3:
+            return block
+        header_cells = [c.strip() for c in lines[0].split('|')[1:-1]]
+        empty_hdrs = [c for c in header_cells if not c]
+        if empty_hdrs and len(empty_hdrs) >= len(header_cells) // 2:
+            # Drops pseudo-tables produced by raster charts
+            return ""
+        row_lines = lines[2:]
+        col_has_val = [False] * len(header_cells)
+        for r in row_lines:
+            cells = [c.strip() for c in r.split('|')[1:-1]]
+            for idx in range(min(len(cells), len(col_has_val))):
+                if cells[idx] and cells[idx] != '-':
+                    col_has_val[idx] = True
+        active_indices = [i for i, has_v in enumerate(col_has_val) if has_v]
+        if not active_indices or len(active_indices) < len(header_cells):
+            new_hdrs = [header_cells[i] for i in active_indices]
+            if not new_hdrs:
+                return ""
+            out_lines = ['| ' + ' | '.join(new_hdrs) + ' |', '| ' + ' | '.join(['---'] * len(new_hdrs)) + ' |']
+            for r in row_lines:
+                cells = [c.strip() for c in r.split('|')[1:-1]]
+                new_cells = [cells[i] if i < len(cells) else '' for i in active_indices]
+                out_lines.append('| ' + ' | '.join(new_cells) + ' |')
+            return '\n'.join(out_lines) + '\n'
+        return block
+
+    txt = re.sub(r'(\|(?:[^\n]+\|)+\n\|(?:\s*[-:]+[-| :]*)\|\n(?:\|(?:[^\n]+\|)*(?:\n|$))+)', _clean_sa_tables, txt)
+
+    # 4. Clean dangling single headers and malformed numbers as headers
+    txt = re.sub(r'(?m)^#+\s*[\d,.]+\s*$', '', txt)
+    txt = re.sub(r'(?m)^#+\s*(?:TYPE|VESSEL|COUNTRY|DWT|LDT|PRICE)\s*$', '', txt)
+
+    # 5. Collapse consecutive redundant headers
+    txt = re.sub(r'(?m)^##\s*Baltic Dry Indices\s*\n+(?:[ \t]*\n+)*##\s*BDI\b', '### Baltic Dry Index (BDI)', txt)
 
     txt = re.sub(r'\n{3,}', '\n\n', txt)
     return txt, stats

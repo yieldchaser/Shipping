@@ -1,0 +1,26 @@
+---
+id: "E52584AE-E14B-4B12-A93D-BCAC0F656435"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-06-21"
+year: 2023
+week: 25
+title: "Fearnleys Capesize Weekly Comment - 2023-06-21"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-06-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-06-21 (Week 25)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `E52584AE-E14B-4B12-A93D-BCAC0F656435`
+
+---
+
+## Market Commentary
+
+The activity has been extremely quiet over the last week, however sentiment started to change on Tuesday as the tonnage/cargo balance suddenly looked much healthier in the Atlantic. Thus, sentiment changed to positive with Atlantic numbers gradually improving. We now see the time charter basket of all routs up 10% week on week and seemingly going further up the next trading days.

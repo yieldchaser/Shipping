@@ -1,0 +1,26 @@
+---
+id: "9D2A2CB0-0AA9-46A9-B4A0-998BDBF175E3"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-07-27"
+year: 2020
+week: 31
+title: "Fearnleys Aframax Weekly Comment - 2020-07-27"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-07-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-07-27 (Week 31)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `9D2A2CB0-0AA9-46A9-B4A0-998BDBF175E3`
+
+---
+
+## Market Commentary
+
+As expected, the Baltic and North Sea market has been through a downward correction the past week. Although the cargo program out of Baltic for August is a healthier one than the previous month, the tonnage list is still long enough to keep a stable pressure on rates as we approach the 2nd decade fixing window of August, and we expect a balanced market in the week to come. Also in the Mediterranean and Black Sea we have seen the availability of prompt tonnage impose a declining pressure on rates, and the market has dropped close to 10 points across the board since last week. Although an increase in cargo activity out of Black Sea is forecasted for next month, we still expect the market to remain soft in the short run.

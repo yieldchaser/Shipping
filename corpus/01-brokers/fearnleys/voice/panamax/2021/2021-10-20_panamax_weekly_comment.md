@@ -1,0 +1,26 @@
+---
+id: "0C023DE5-4BB9-46C4-AC2E-46BE144C9CAA"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-10-20"
+year: 2021
+week: 42
+title: "Fearnleys Panamax Weekly Comment - 2021-10-20"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-10-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-10-20 (Week 42)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `0C023DE5-4BB9-46C4-AC2E-46BE144C9CAA`
+
+---
+
+## Market Commentary
+
+The Panamax market continued its positive trend from last week and we see better than last done being concluded in both hemispheres. The P1A has gained about USD 5k w-o-w and now trading in the mid 30’s region. In the Pacific, Nopac rounds are being concluded at above 40k basis North China delivery.

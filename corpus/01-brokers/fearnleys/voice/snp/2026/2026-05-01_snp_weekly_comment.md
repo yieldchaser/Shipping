@@ -1,0 +1,26 @@
+---
+id: "d6e668c7-5624-404e-b330-b51207aaaced"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-05-01"
+year: 2026
+week: 18
+title: "Fearnleys S&P Weekly Comment - 2026-05-01"
+---
+
+# Fearnleys S&P Weekly Comment (2026-05-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-05-01 (Week 18)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `d6e668c7-5624-404e-b330-b51207aaaced`
+
+---
+
+## Market Commentary
+
+Confidence in the strength of this crude tanker market shows no signs of waning as buyers continue to pay the ever increasing price asks. Monte Nero are reported to have paid USD 140M en bloc, for scrubber fitted suezmax pair FRONT ULL/FRONT IDUN (156K DWT Rongsheng 2014/15), a figure well in excess of the price these ships were ordered for over a decade ago. Owners expectations on Aframax pricing are also being met, with scrubber fitted Aframax pair SOUTHERN REVERENCE/PUSAKA BORNEO (108K DWT Tsuneishi 2018) sold for USD 75M and USD 78M respectively. These are only the second and third transactions in the eco Aframax space this year, setting well needed benchmarks for this vintage. While not quite at the towering heights of the tanker market, the dry space is still providing healthy returns and strong values. Buyers are not shying away either, this week GENCO purchased scrubber fitted capesize LOWLANDS SPIRIT (182K DWT Imabari 2019) for USD 67M, which interestingly represents the most modern capesize sale of the year so far. Modern dry deals have been hard to come by, perhaps we are now at a price point where we might see a few more sellers coming to the table.

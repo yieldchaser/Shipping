@@ -1,0 +1,26 @@
+---
+id: "E5F4778E-A397-4FA8-BEE7-C7DC6A9916EC"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-06-24"
+year: 2019
+week: 26
+title: "Fearnleys Supramax Weekly Comment - 2019-06-24"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-06-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-06-24 (Week 26)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `E5F4778E-A397-4FA8-BEE7-C7DC6A9916EC`
+
+---
+
+## Market Commentary
+
+Still strong positive development in specially Emed/Bsea, while levels in Pacific is also moving in a positive direction. Ultras seeing 5 digits rates for Fh from Bsea and USG. Cont to Ecsa paying ownes around $5500. In the Indian Ocean vessels open Bdesh are fixing around USD 11500 for trips to China via ECI, while Safr/Feast is paying arnd $12250 + $250k gbb. Nopac rv's are paying in the mid $9k and Indo coal rv is fixing around mid $7k to China.

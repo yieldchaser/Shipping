@@ -1,0 +1,26 @@
+---
+id: "91213088-A460-4BC7-91C4-6D9AE0E3F870"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-07-16"
+year: 2021
+week: 28
+title: "Fearnleys S&P Weekly Comment - 2021-07-16"
+---
+
+# Fearnleys S&P Weekly Comment (2021-07-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-07-16 (Week 28)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `91213088-A460-4BC7-91C4-6D9AE0E3F870`
+
+---
+
+## Market Commentary
+
+In the tanker space we have witnessed some interesting transactions just before the holiday season kicks in and we see a continued lift in values on the older and bigger tankers. Olympic managed to squeeze out an extra bonus when they sold their M/T Olympic Legend (2003, Samsung, 309k dwt) at Usd 31.5 mill. No attenuating circumstances such as BWTS or scrubber that could have condoned this higher price even more so considering that she is due for docking later this year. It’s a good Usd 2.5 mill up from Maran’s sale of similarly aged VLCC only a couple of weeks back. A continued interest for modern tankers is proven yet again by JP Morgan’s move who have confirmed this week the purchase of 2 x 114k dwt LR2 resales from CMB. Although the vessels were originally caught up in the Hanjin Subic liquidation at building stage, they were subsequently completed in South Korea and have now achieved Usd 55 mill each. A relative strong price given the original yard and history of construction but one that underlines the current newbuilding markets with yards uninterested to go meet the tanker demand having taken on a flurry of more competitive container orders on their orderbooks. Perhaps the first week within this past month that most dry players have had the time to digest more recent activity with only a handful of sales to report. As previously reported the Cape market saw a number of units being placed for sale over the past weeks which are now changing hands. Namely the scrubber and BWTS-fitted “BULK DENMARK” (2010, Koyo, 181k dwt) which was picked up by Thenamaris at Usd 31m. JP Morgan also invited offers on their 2012 HHI built Capesize “TRUE ENDURANCE” earlier this week after having up to 10 parties registering their interest.

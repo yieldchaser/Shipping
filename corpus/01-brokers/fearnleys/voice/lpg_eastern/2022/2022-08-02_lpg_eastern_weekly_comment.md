@@ -1,0 +1,30 @@
+---
+id: "03B5F867-8C04-4968-A262-20C806FC2CC6"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-08-02"
+year: 2022
+week: 31
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-08-02"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-08-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-08-02 (Week 31)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `03B5F867-8C04-4968-A262-20C806FC2CC6`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco set Aug CP over weekend at $670 for C3 and $660 for C4, which is below market expectation. Sep C3 CP was traded at $660 at the time of writing and C4 estimated at $10 less. Evenly split cargo for Sep lifting was assessed at CP minus low-mid teens. Late last week KPC was reported to award their 2/3 Sep lifting 2/2 at CP minus mid-teens, and this week one Indian Major have procured one or two cargos for Sep delivery on FOB basis at low teens discount. Qatar Petroleum released their Sep acceptance with some advancement reported.
+
+**FAR EAST**
+
+ Bearish outlook for front market as ample supply in both propane and butane for Sep delivery against limited buying inquiries. Window was quiet till Thursday traders started offering 1h Sep delivered propane at Sep FEI minus $13 for 46kt parcel and minus $10 for 23kt parcel, whereas bid for 23kt parcel at minus $15 only. Earlier off window one 23kt C3 for 1h Sep delivery was heard concluded at Sep FEI minus high single digit, and 46kt C3 for similar range was at minus $12-13 level. A few tenders were awarded this week. Two North China based PDH user have issued buy tender for Sep delivered propane. One was reported to cover a 23kt parcel for 1h Sep delivery at Sep FEI plus small premium. The other was said to procure two full cargos for 1h and 2h Sep delivery respectively at Sep FEI minus mid high single digit or equivalence. Other than this, Indonesia PERTAMINA was reported to award their buy tender for mid Sep delivery 22.5/22.5 at Sep CP plus low 30s.

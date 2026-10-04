@@ -1,0 +1,26 @@
+---
+id: "792B422B-0F24-4717-AB09-9000D25A85C2"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-08-15"
+year: 2022
+week: 33
+title: "Fearnleys Panamax Weekly Comment - 2022-08-15"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-08-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-08-15 (Week 33)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `792B422B-0F24-4717-AB09-9000D25A85C2`
+
+---
+
+## Market Commentary
+
+A week of red has passed and with the exception of Indo coal there is no immediate sign of a floor being found. In The Atlantic, the tonnage list is not overwhelming, but a general lack of cargoes sends for most trades keeps the market falling. In the Pacific, the Indonesian coal market is active with rates slightly up the last few days, however for Nopac and Aussie the levels are still under pressure. A limited supply of EC South America cargoes is also a negative factor. A few period fixtures have been reported but it seems most owners holding back from period fixing at the moment.

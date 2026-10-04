@@ -1,0 +1,26 @@
+---
+id: "27f94d89-f1e5-4154-b8e9-59631fceb181"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-09-13"
+year: 2023
+week: 37
+title: "Fearnleys Suezmax Weekly Comment - 2023-09-13"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-09-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-09-13 (Week 37)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `27f94d89-f1e5-4154-b8e9-59631fceb181`
+
+---
+
+## Market Commentary
+
+VLCCs are coming more into play and diluting/capping Suezmax rates. A case in point is a Basrah/West-East stem that is presently looking at both vessel classes. TD23 has traded mid/high WS 50's this week and has only been saved by the fact that Suezmax tend to work out marginally cheaper when going through the ditch (plus port restrictions on larger ladies). However, if the cargo needs to go East, it's a no brainer to take a VLCC over a Suezmax. The wider Atlantic has a flat fleet with no evident upswing in the offing. TD23 will trade out the balance of the week in the low WS 70's with TD6 pinned down at a steady WS 72.5.

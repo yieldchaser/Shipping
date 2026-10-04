@@ -1,0 +1,26 @@
+---
+id: "8E713E0B-D7DE-4124-9D71-3336A7F1CE6F"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-03"
+year: 2020
+week: 45
+title: "Fearnleys Chartering Weekly Comment - 2020-11-03"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-11-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-11-03 (Week 45)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `8E713E0B-D7DE-4124-9D71-3336A7F1CE6F`
+
+---
+
+## Market Commentary
+
+EAST The week got off to a quiet start in the East, but we are slowly starting to see a few companies looking at freight quietly for loading within 2H November. There is also an expectation of 2 possible Indian cargoes being shown to the market within this or next week. Out of a list of potentially 8-9 vessels open for the balance of November, we expect that a few of these could go back into own programs, while some Owners might also send ships West on spec. As a result the actual open tonnage for the remaining days of November may not be as long as it looks at first glance. WEST First half December shipping availability is very much down to only a handful of vessels. Cargo enquiries for the same period are more or less done by the looks of it, however, delays in Far Eastern discharge ports is- and most likely will continue causing vessels to run late.

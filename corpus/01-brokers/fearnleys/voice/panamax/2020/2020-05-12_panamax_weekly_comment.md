@@ -1,0 +1,26 @@
+---
+id: "E709FD0C-8521-482E-8040-7D07B58E61AB"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-12"
+year: 2020
+week: 20
+title: "Fearnleys Panamax Weekly Comment - 2020-05-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-05-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-05-12 (Week 20)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `E709FD0C-8521-482E-8040-7D07B58E61AB`
+
+---
+
+## Market Commentary
+
+With most countries back from holidays, this week has seen more fixing activity and a marginal uptick in rate for specific trades. The tonnage list is still long thus it will take time before we will see a well-balanced market – however some positive signs are appearing. In the Atlantic we see rounds still hovering around 2.5-3k, while the ECSA/Far East candidates are being paid around USD 12k + 200k GBB. In the Pacific, we see NoPac rounds being fixed at around 6-7k bss China delivery. Some period fixtures have been reported – however details are scarce.

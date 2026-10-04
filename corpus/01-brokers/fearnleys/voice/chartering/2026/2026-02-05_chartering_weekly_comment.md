@@ -1,0 +1,26 @@
+---
+id: "94fc111b-fcc9-4d9a-82fa-bf8248e8d7da"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-02-05"
+year: 2026
+week: 6
+title: "Fearnleys Chartering Weekly Comment - 2026-02-05"
+---
+
+# Fearnleys Chartering Weekly Comment (2026-02-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2026-02-05 (Week 6)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `94fc111b-fcc9-4d9a-82fa-bf8248e8d7da`
+
+---
+
+## Market Commentary
+
+EAST The daily Baltic print keeps rising to new highs on the back of a rock solid West market coupled with an ever slimming position list in the East due to same. Two Indian cargos was fixed yesterday at around 100 RT/C equivalent basis and two more Australian cargos are being worked at the time of writing. Market in the East is expected to remain firm with more near term upside. WEST Activity in the Western hemisphere has picked up again after a quiet start to the week, and a handful of vessels are reported on subs at rates higher than what we saw last week. Current fixing ideas are hovering around very high 150s to low 160s pmt HCvP. Laycans fixed are thus far focused around the first two decades of March, and within a week or two, we expect that the entire month will be done and dusted.

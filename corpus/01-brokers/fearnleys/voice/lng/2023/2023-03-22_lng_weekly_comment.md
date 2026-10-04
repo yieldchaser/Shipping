@@ -1,0 +1,26 @@
+---
+id: "B6D7BB0A-0325-49D4-B6C3-699E20711405"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-03-22"
+year: 2023
+week: 12
+title: "Fearnleys LNG Weekly Comment - 2023-03-22"
+---
+
+# Fearnleys LNG Weekly Comment (2023-03-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-03-22 (Week 12)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `B6D7BB0A-0325-49D4-B6C3-699E20711405`
+
+---
+
+## Market Commentary
+
+Timing is everything, as they say, and there’s no escaping the fact that we’ve run headfirst into the shoulder months once again. And as usual, this has caused a pile-up of tonnage that begets a natural rate correction. What is significant, historically speaking, is the location of this fleet build-up, however. This year it’s in the West rather than the East, which of course explains the premium that Pacific vessels are earning over their Atlantic counterparts. The size of the East-West delta is also noteworthy ($30k pdpr for a TFDE as we go to print this week) owing to the magnifying effect of fewer ships in Asia leading to more Eastern spot requirements. Whilst this will provide some comfort to owners delivering and /or redelivering into JKTC, there is still a rate reduction along the curve and accordingly term rates (for prompt delivery) have softened also. Ultimately, this may all be short lived as two regularly recurring themes of the last few years have been volatility and uncertainty. Nonetheless, based on the current outlook, one would expect this to remain a charter’s market until the middle of the year when the contango into winter should firm up and then the pre-Christmas rush can begin in earnest. Whilst we don’t have any Newbuild orders to mention this week, we can congratulate Sempra on a new FID (their Port Arthur project) and CoolCo on their New York Stock Exchange listing. At the other end of the spectrum, there has been a solitary vessel scrapping (Sinokor’s 127k ST, Grace Energy) which brings the total number of demolitions for this year to three.

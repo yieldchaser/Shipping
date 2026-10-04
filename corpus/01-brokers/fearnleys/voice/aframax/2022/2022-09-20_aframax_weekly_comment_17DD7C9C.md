@@ -1,0 +1,26 @@
+---
+id: "17DD7C9C-6E3E-4D11-B671-4D12D7B3ABD9"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-09-20"
+year: 2022
+week: 38
+title: "Fearnleys Aframax Weekly Comment - 2022-09-20"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-09-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-09-20 (Week 38)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `17DD7C9C-6E3E-4D11-B671-4D12D7B3ABD9`
+
+---
+
+## Market Commentary
+
+Nsea/Baltic market remained flat last week with charterers repeating last done levels without much hustle. Activity was moderate and some of the cargoes were covered on relets, preventing the rates from moving higher. Moving forward in October dates we expect market to improve on the back of healthier activity and tight position list. On the other side, despite activity ex CPC being very low, Med market jumped around 40p on the back of hefty cargo program, delays in strategic disports and vessels ballasting to the USG. Owners seem to have the momentum for now so market is expected to be steady in the short term as long as activity remains healthy.

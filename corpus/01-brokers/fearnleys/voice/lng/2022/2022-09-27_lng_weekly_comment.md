@@ -1,0 +1,26 @@
+---
+id: "228F1616-379C-406A-BCA6-DE28F6082F2A"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-09-27"
+year: 2022
+week: 39
+title: "Fearnleys LNG Weekly Comment - 2022-09-27"
+---
+
+# Fearnleys LNG Weekly Comment (2022-09-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-09-27 (Week 39)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `228F1616-379C-406A-BCA6-DE28F6082F2A`
+
+---
+
+## Market Commentary
+
+LNG prices remain high as continuing uncertainties over gas supplies in Europe put further pressure on markets. Charterers still have a close eye on the contango into December and January, hence interest on tonnage that can cover winter months remains strong, thereby elevating the forecast rates further. There has been some more sublet length shown this week but almost all have restrictions on periods. In the West shippers have their focus on 2 strokes but these availabilities are almost non-existent, especially while market players awaiting further updates on Freeport hide their length. In the East, steamers are having considerable interest for spot or longer (!) as available modern tonnage is limited in the region. With Requirements popping up in both basins and with availability proving challenging we do expect rates to increase. On the NewBuilding market, China Merchants have exercised options on two additional vessels and signed an LOI for four vessels with Dalian Shipyard.

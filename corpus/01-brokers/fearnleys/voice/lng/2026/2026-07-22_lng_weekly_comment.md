@@ -1,0 +1,26 @@
+---
+id: "8593161f-fef2-4826-b481-394ac0db97af"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-07-22"
+year: 2026
+week: 30
+title: "Fearnleys LNG Weekly Comment - 2026-07-22"
+---
+
+# Fearnleys LNG Weekly Comment (2026-07-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-07-22 (Week 30)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `8593161f-fef2-4826-b481-394ac0db97af`
+
+---
+
+## Market Commentary
+
+High fixing activity has cleared the long list of active requirements seen over the past weeks in the Atlantic. As the market pauses for breath and the number of firm cargoes thins, headline rates have dipped slightly - while still maintaining a significant premium to the East. Availability has widened for mid/late-August laycans, but Charterers requiring worldwide redelivery flex will be constrained by Autumn backstops for most opening tonnage. A slowdown in Pacific requirements and fixing activity has bolstered the TFDE availability lists in the East. Conversely, with 2-strokes being enticed West, securing larger tonnage for 2H August laycans proves more of a challenge. Competition for cargoes is putting downward pressure on TFDE rates, with 2-stroke owners also needing to sharpen to compete for smaller cargoes. Delivered LNG price continues to rally, and this week saw the most expensive cargo per MMBtu since 2022, at USD 21.88. These levels are justifying charter rates at a significant premium to the levels otherwise expected in a market that is structurally oversupplied. With pricing unlikely to dip significantly as we head towards Northern Hemisphere winter, it will be a fascinating second half of the year. Certain portfolio players continue to release tonnage on multi-month and 1-year bases, with fixing rates below current spot rates. This does signal bearish sentiment into next year, although it is not clear-cut yet how different trading strategies will play out in the coming months and thus whether there will be more demand building as LNG players shape up for winter.

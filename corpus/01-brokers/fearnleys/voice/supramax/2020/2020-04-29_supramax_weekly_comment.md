@@ -1,0 +1,30 @@
+---
+id: "212CAB79-E3A6-403E-ABCA-7487CEBD1196"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-04-29"
+year: 2020
+week: 18
+title: "Fearnleys Supramax Weekly Comment - 2020-04-29"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-04-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-04-29 (Week 18)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `212CAB79-E3A6-403E-ABCA-7487CEBD1196`
+
+---
+
+## Market Commentary
+
+The Supramax and Ultramax market showed resistance and rates started to increase. Increased cargo enquiries from Brazil and Argentina was the main driver in the South Atlantic market. An Ultramax del SW Pass was fixed with grain to Egypt for $7,500 pd. For trip from Miss River to Japan an Ultramax was rumoured to fix $12,000 pd.
+
+**Continent**
+
+ and Mediterranean basins didn’t see much of obvious improvement. Clinker cargos were fixed frm Med to West Africa around $5 – 6,000 pd level and trip from W Africa to Med/ Bsea were paid only $3- 4,000 pd. Thus average earning for Supra in Atlantic about $5-6,000 pd and somewhat more for Ultra. The market in the East flattened out and seen some premiums on the rates. We are coming from a market of $2- 3,000 pd to a market of $4-5,000 pd. Supra fixed dely S China was at $4,000 pd for a trip via Vietnam to China .

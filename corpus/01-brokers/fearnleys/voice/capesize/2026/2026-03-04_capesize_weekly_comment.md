@@ -1,0 +1,26 @@
+---
+id: "27bfe45b-114c-40e6-ae61-07f27e0083bd"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-03-04"
+year: 2026
+week: 10
+title: "Fearnleys Capesize Weekly Comment - 2026-03-04"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-03-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-03-04 (Week 10)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `27bfe45b-114c-40e6-ae61-07f27e0083bd`
+
+---
+
+## Market Commentary
+
+This week on Capesize, both C3 and C5 are showing upward momentum, with C5 supported by limited March tonnage as well as bunker spikes. The C5 (West Australia/China) front is active and bullish, with mid-March fixtures reported at USD 11.5, driven by rising fuel costs and tight West Australia tonnage. C3 (Brazil/China) market is firm with bullish undertones. Bids have been seen at USD 26 for full April dates, and early April fixture seen at USD 27. In the Atlantic, activity is thin, but sentiment is strong, supported by coal demand. Overall tone is firm to strong, with both basins showing upward pressure. C3 11-12 March fixed USD 23.25, 21-31 March fixed USD 23.5. C5 16-18 March fixture USD 11.30, 19-21 March fixture USD 10.8.

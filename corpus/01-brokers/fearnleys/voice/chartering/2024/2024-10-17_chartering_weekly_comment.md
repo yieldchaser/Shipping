@@ -1,0 +1,26 @@
+---
+id: "ce897198-9497-45f1-b064-7e7245f72788"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-10-17"
+year: 2024
+week: 42
+title: "Fearnleys Chartering Weekly Comment - 2024-10-17"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-10-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-10-17 (Week 42)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `ce897198-9497-45f1-b064-7e7245f72788`
+
+---
+
+## Market Commentary
+
+EAST We have seen one spot fixture in the East so far this week, but the market remains largely in wait mode pending Saudi acceptances which are expected to come out within Friday. Sentiment is trending downwards as the position list before 10 November appears well supplied – including a good number of trader relets. However, the outlook could change quickly if a wave of cargoes suddenly emerge. WEST The last available position for October is finally gone after being fixed as the only spot fixture so far this week. The first open vessel in USG will be from 9 November onwards, and we see a further 6-7 ships open in the second decade. We have seen 18 spot fixtures ex USG/USEC so far for November; 10 in 1st decade and 8 in 2nd decade, but 3rd decade remains unexplored. Charterers are not in a hurry to move for this window yet as rate sentiment keep coming off.

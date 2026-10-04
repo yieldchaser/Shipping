@@ -1,0 +1,26 @@
+---
+id: "3ecec881-da4a-4a25-b37d-553599f6c47b"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-08-16"
+year: 2023
+week: 33
+title: "Fearnleys Panamax Weekly Comment - 2023-08-16"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-08-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-08-16 (Week 33)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `3ecec881-da4a-4a25-b37d-553599f6c47b`
+
+---
+
+## Market Commentary
+
+The North Atlantic continues to experience a limited tonnage supply, leading to gains for owners, especially in the Baltic area for TA and fronthaul. Delays at the Panama Canal hint at further improvements. Meanwhile, the South Atlantic's demand remains robust in September, with owners in ECSA confident in asking prices above previous rates. Additionally, in Asia, there's been an uptick for owners due to limited tonnage and steady enquiries from regions like NoPac, Australia, and Indonesia.

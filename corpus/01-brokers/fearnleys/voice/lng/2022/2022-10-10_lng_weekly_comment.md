@@ -1,0 +1,26 @@
+---
+id: "DB2B50D3-8D39-489E-891B-CCF0C378A06E"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-10-10"
+year: 2022
+week: 41
+title: "Fearnleys LNG Weekly Comment - 2022-10-10"
+---
+
+# Fearnleys LNG Weekly Comment (2022-10-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-10-10 (Week 41)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `DB2B50D3-8D39-489E-891B-CCF0C378A06E`
+
+---
+
+## Market Commentary
+
+Whilst LNG prices have continued their correction this week, it appears that the only thing preventing rates firming further is a lack of available ships to be fixed. With a number of uncovered cargoes in the East, it’s not surprising to see projects selling their upside cargoes FOB. And herein lies the paradox of this market - there are ships that could lift all these cargoes, but for any number of reasons they aren’t being released. It’s a classic Prisoner Dilemma whereby portfolios are keeping their length in order to respond to Freeport’s potential restart or to capitalise on distressed cargo sales. No charterer wants to fix out in October for $500k pdpr if they have to give twice that amount back a month later to cover an unexpected short. Ultimately, it’s therefore no surprise that we now see Charterers in the market for 2023 tonnage because whilst current sentiment is keeping next year’s rates high, this year has taught us that the most expensive shipping is in fact no shipping. On newbuilds, there’s been talk of one new order this week in Korea.

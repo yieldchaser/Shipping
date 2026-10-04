@@ -1,0 +1,26 @@
+---
+id: "fb3d7452-381b-45f7-bb63-407697c8d9c2"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-08-06"
+year: 2025
+week: 32
+title: "Fearnleys Suezmax Weekly Comment - 2025-08-06"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-08-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-08-06 (Week 32)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `fb3d7452-381b-45f7-bb63-407697c8d9c2`
+
+---
+
+## Market Commentary
+
+A manic day on the Suezmaxes, with West Africa and CPC seeing immense gains after a combination of replacements, difficult option cargoes, and a list devoid of available vessels. Charterers have attempted to approach VLCCs for UKCM runs, but seemingly without success. The larger class has also picked up and appears destined to make gains, albeit more incrementally than the Suezmaxes. The lifting of the VLCC ceiling should assist owners in the East — supply has been tight in the region, but the VLCCs have done their best to hoover up available volume.

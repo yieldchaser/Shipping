@@ -1,0 +1,26 @@
+---
+id: "87DAC6E8-201F-4E44-B8A0-2B6E3875D727"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-12-28"
+year: 2020
+week: 53
+title: "Fearnleys Panamax Weekly Comment - 2020-12-28"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-12-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-12-28 (Week 53)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `87DAC6E8-201F-4E44-B8A0-2B6E3875D727`
+
+---
+
+## Market Commentary
+
+Holidays are upon us, and this is clearly seen in the Panamax market. Early January positions are being circulated and activity is next to none. Charterers are bidding less than last done, but in no hurry as it seems everyone is holding back till after New Year’s before moving. This quiet tendency reflects in both hemispheres and we can only wish you all a Happy New Year!

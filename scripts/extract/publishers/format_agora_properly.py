@@ -168,13 +168,31 @@ def format_agora_document(pdf_path: Path) -> str:
     
     doc.close()
 
+    # Derive ISO issue_date and report_week
+    iso_date = f"{year_val}-01-01"
+    wk_num = 0
+    if cover_meta.get("ref_date"):
+        try:
+            from datetime import datetime
+            dt_clean = re.sub(r"(st|nd|rd|th)", "", cover_meta["ref_date"])
+            parsed_dt = datetime.strptime(dt_clean.strip(), "%d %B %Y")
+            iso_date = parsed_dt.strftime("%Y-%m-%d")
+        except Exception:
+            pass
+    m_wk_num = re.search(r"Week\s*(\d+)", cover_meta.get("week_str", ""))
+    if m_wk_num:
+        wk_num = int(m_wk_num.group(1))
+
     # Frontmatter
     md = [
         "---",
         f"title: \"Agora Snapshot of Commercial Indicators - {cover_meta['week_str'] or stem}\"",
+        f"issue_date: \"{iso_date}\"",
+        f"report_week: {wk_num}",
         f"reference_date: \"{cover_meta['ref_date']}\"",
         f"year: {year_val}",
-        f"broker: \"agora\"",
+        f"broker: \"Agora Shipbroking\"",
+        f"category: \"market_report\"",
         f"pages: {len(pages)}",
         f"source_file: \"{str(pdf_path.relative_to(ROOT)).replace(chr(92), '/')}\"",
         f"number_convention: \"{conv}\"",
@@ -232,19 +250,32 @@ def format_agora_document(pdf_path: Path) -> str:
         ""
     ])
 
-    return "\n".join(md)
+    sidecar_data = {
+        "stem": stem,
+        "issue_date": iso_date,
+        "report_week": wk_num,
+        "reference_date": cover_meta.get("ref_date", ""),
+        "convention": conv,
+        "pages": len(pages),
+        "source_file": str(pdf_path.relative_to(ROOT)).replace("\\", "/"),
+        "tables": {f"page_{p['pno']+1}": p["sections"] for p in pages if p["sections"]}
+    }
+
+    return "\n".join(md), sidecar_data
 
 
 def process_single_agora_file(pdf_path: Path) -> Path:
-    """Renders and saves the updated clean markdown file."""
+    """Renders and saves the updated clean markdown file and table sidecar."""
     m_yr = re.search(r"202\d|201\d", pdf_path.stem)
     year_str = m_yr.group(0) if m_yr else "2026"
     dest_dir = AGORA_MD_DIR / year_str
     dest_dir.mkdir(parents=True, exist_ok=True)
     
-    clean_md = format_agora_document(pdf_path)
+    clean_md, sidecar_data = format_agora_document(pdf_path)
     out_file = dest_dir / f"{pdf_path.stem}.md"
     out_file.write_text(clean_md, encoding="utf-8")
+    sidecar_file = dest_dir / f"{pdf_path.stem}.tables.json"
+    sidecar_file.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
     return out_file
 
 

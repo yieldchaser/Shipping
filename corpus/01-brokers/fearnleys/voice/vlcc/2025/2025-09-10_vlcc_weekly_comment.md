@@ -1,0 +1,26 @@
+---
+id: "be8ef86c-85f8-444b-b3c6-2b97d950af7c"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-09-10"
+year: 2025
+week: 37
+title: "Fearnleys VLCC Weekly Comment - 2025-09-10"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-09-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-09-10 (Week 37)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `be8ef86c-85f8-444b-b3c6-2b97d950af7c`
+
+---
+
+## Market Commentary
+
+After having roared into the WS 80’s MEG/East rates have dropped back into the low WS 70’s, by and large led by oilco-trader relets taking a less aggressive stand, simultaneously making it more palatable when having the “buyer” hat on. That said, an offer a few weeks back of something starting with a 7 for September loading dates would have endangered the offering hand. However, the question is whether it’s sustainable or if we’ll see a further downward pressure. The “official” cargo board was wanting this morning and with a fixture count around the 140 mark we’re approaching the end of the month’s program with October stems not due out before next week. The Atlantic, however, is still a healthy alternative with USG exports continuing to “pump, baby, pump”, albeit date sensitive. And geopolitical tensions are not making predictions any easier to say the least.

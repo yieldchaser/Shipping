@@ -1,0 +1,30 @@
+---
+id: "46C50260-E634-4F1A-9AF6-88350EDCACF2"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-12-21"
+year: 2020
+week: 52
+title: "Fearnleys Suezmax Weekly Comment - 2020-12-21"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-12-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-12-21 (Week 52)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `46C50260-E634-4F1A-9AF6-88350EDCACF2`
+
+---
+
+## Market Commentary
+
+We think it is safe to say now that the Xmas-rush is cancelled, and owners are now focusing on getting their ships fixed before the Xmas and New Year’s festivities begins.
+
+**Wafr**
+
+ still have a long list of ballasters coming from the East, and we expect the market to remain in the high WS30's into the new year. The MEG-market seems to remain stable in the high WS30's as well, and with up to 5 offers on market cargoes needing modern, non-ex-dd ships, we don’t see this market going anywhere. Only area that has a tight-ish tonnage list is the Nsea/Baltic, but the lack of cargoes there have made ships ballast out of the area so does not seem like we will see any obvious Xmas-gifts for owners there either.

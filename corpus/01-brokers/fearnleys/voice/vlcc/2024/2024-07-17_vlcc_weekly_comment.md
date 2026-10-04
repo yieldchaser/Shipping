@@ -1,0 +1,26 @@
+---
+id: "9d8c3367-24c3-4cc1-aa95-aae26bff415e"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-07-17"
+year: 2024
+week: 29
+title: "Fearnleys VLCC Weekly Comment - 2024-07-17"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-07-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-07-17 (Week 29)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `9d8c3367-24c3-4cc1-aa95-aae26bff415e`
+
+---
+
+## Market Commentary
+
+From an owner’s perspective, the less said about the past week the better, with rates drifting into the lower WS 40’s for a TD3 run, which on a TCE basis leaves a Baltic vessel teetering around the USD 20k TCE. Others will be dipping firmly into the teens. This, despite healthy activity for end July/early August dates which had failed to light up the market. BUT, and it is a big but, there seems to be some green shoots of a gentle recovery. A number of early August stems looking to Korea and some Chinese enquiry at least giving the owners some choice. The drawback remains that a long list with plenty of overhang and the prevalence of relets interspersed within said list will weigh heavy. Bit brighter in the MEG then, but the Atlantic, reporting a few failings with ships handed back to owners in a dropping market is never a good sign. Possible fewer ballasters will head to the Cape due to the lower numbers will help down the line, but in the short term, little demand for oil in the Atlantic basin will mean lower numbers. Roll on the Autumn.

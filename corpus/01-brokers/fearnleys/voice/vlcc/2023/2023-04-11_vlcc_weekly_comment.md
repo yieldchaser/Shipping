@@ -1,0 +1,26 @@
+---
+id: "FFAEFC43-5BCE-477F-8302-36E4465A73D4"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-04-11"
+year: 2023
+week: 15
+title: "Fearnleys VLCC Weekly Comment - 2023-04-11"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-04-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-04-11 (Week 15)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `FFAEFC43-5BCE-477F-8302-36E4465A73D4`
+
+---
+
+## Market Commentary
+
+On paper, the MEG April stems seem far from finished. 20 cargoes remain? 30 cargoes? With many ships on subs, no details becoming a daily occurrence, an accurate picture can be hard to ascertain. Many charterers now increasing the way information is leaked, often when/if it suits their next cargo is a clever tactic. However, April is far from finished and the position list for the balance of the month is tightening. A couple of deals reported at WS 70+ MEG/East and owners have regained some lost confidence and showing resistance. Also, April also being the last month before OPEC+ put the squeeze on supply so some may try to maximize what the month has on offer. A busier Atlantic will assist owners resolve as Wafr/East back to life at the WS 70 level and USG/East rates above USD 10m. Steady to a touch firmer in the short term.

@@ -1,0 +1,26 @@
+---
+id: "b5fa6d13-ee66-4b03-a09b-432a649dc444"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-10-23"
+year: 2024
+week: 43
+title: "Fearnleys Supramax Weekly Comment - 2024-10-23"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-10-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-10-23 (Week 43)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `b5fa6d13-ee66-4b03-a09b-432a649dc444`
+
+---
+
+## Market Commentary
+
+The market saw a mixed week. In the Atlantic, the US Gulf continued to show demand for fronthaul business, but transatlantic rates softened as recent gains stalled. The Mediterranean showed improved demand. In Asia, the gradual decline continued, with limited fresh inquiry and minimal changes in the Indian Ocean. The Handysize market remained positive, with rates edging higher in the Atlantic, particularly in the Continent and Mediterranean. Market fundamentals in the US Gulf and South Atlantic stayed strong, contributing to a positive outlook. In the Pacific, the market remained stable with some new orders, but tonnage availability increased.

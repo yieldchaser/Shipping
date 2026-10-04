@@ -1,0 +1,26 @@
+---
+id: "3b75280e-904c-4b8e-bc6b-6c183a6deef5"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-12-06"
+year: 2023
+week: 49
+title: "Fearnleys Suezmax Weekly Comment - 2023-12-06"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-12-06 (Week 49)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `3b75280e-904c-4b8e-bc6b-6c183a6deef5`
+
+---
+
+## Market Commentary
+
+The Suezmax market remains fairly flat in both hemispheres. Interesting to note that whilst the East has experienced very little surface activity (in recent weeks), this lack of market noise has not resulted in an all out rate-capitulation, with rates remaining comparatively resilient. TD 23 should trade WS 67.5-70 with a MEG/East run trading circa WS 115-120 for a modern unit. Thus far, the Atlantic basin has failed to deliver an end of year bull run with all major load zones failing to fire on all cylinders. TD 20 is likely to trade out the balance of the week at about WS 100-102.5 with the only real support mechanism coming from confusion over who should shoulder the burden of EU/ETS payments. Early deals suggest this will be baked freight rates for now.

@@ -1,0 +1,26 @@
+---
+id: "1326552d-e344-42f1-a275-ef08c42fbbd7"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-06-12"
+year: 2024
+week: 24
+title: "Fearnleys Panamax Weekly Comment - 2024-06-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-06-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-06-12 (Week 24)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `1326552d-e344-42f1-a275-ef08c42fbbd7`
+
+---
+
+## Market Commentary
+
+The Panamax market anticipates a rally within 1 to 3 weeks, driven by increased grain shipments from the Black Sea and rising coal demand in Asia. This could potentially push the BPI5TC to around USD 19,000 per day within a month. In the Atlantic market, there are significant discrepancies between bids for grain and mineral trips. The North Atlantic seems bullish with tight tonnage and expectations of rising rates, while the South Atlantic remains stable but firm due to plentiful cargo volumes. In contrast, Asia remains quiet with limited activity and a weaker overall tone. The slow start to the week is attributed to holidays in parts of Asia, with sentiment remaining bearish and minimal overall market activity despite some stronger bids for grain transatlantic round trips.

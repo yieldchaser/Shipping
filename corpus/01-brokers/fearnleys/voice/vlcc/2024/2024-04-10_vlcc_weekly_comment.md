@@ -1,0 +1,26 @@
+---
+id: "277a7f79-3a0a-453d-85f9-76f212801932"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-04-10"
+year: 2024
+week: 15
+title: "Fearnleys VLCC Weekly Comment - 2024-04-10"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-04-10 (Week 15)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `277a7f79-3a0a-453d-85f9-76f212801932`
+
+---
+
+## Market Commentary
+
+A quiet week for the VLCCs as a lot of under the radar activity have resulted in TD3C sliding 3-4 points from WS 66.15 to WS 62.70. Charterers have done well in keeping a lid on the requirements being worked as owners have been satisfied with fixing last done, or slightly less depending on the voyage/counterpart/terms. The April MEG count lacking about 20 cargoes or so to compare with the last couple of months, and the tonnage list should be more than enough stacked to absorb the remaining stems for April. Quiet in the market at the time of writing with Korea, Singapore, and Middle East off due to Eid celebrations. There are though a ‘pick up’ in activity on the smaller sizes in the West, and owners with ships in the Atlantic hoping it will spill over to the bigger sisters.

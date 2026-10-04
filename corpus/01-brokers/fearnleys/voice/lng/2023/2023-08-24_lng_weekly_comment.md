@@ -1,0 +1,26 @@
+---
+id: "3164e18e-9af8-4606-8340-3fa513cc4c39"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-08-24"
+year: 2023
+week: 34
+title: "Fearnleys LNG Weekly Comment - 2023-08-24"
+---
+
+# Fearnleys LNG Weekly Comment (2023-08-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-08-24 (Week 34)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3164e18e-9af8-4606-8340-3fa513cc4c39`
+
+---
+
+## Market Commentary
+
+Outside of a small number of isolated spot requirements released early in the week in the East, fresh demand in the spot LNG shipping market has remained light. However, recent gains resulting from an improving cargo market have been retained for larger, more efficient vessels and some see this as "winter coning early". Competition between owners with older tonnage vying for business in Asia has led to a cooling for steamships in the region. In the Atlantic, we continue to see a sizeable bid ask spread between owners of modern tonnage and charterers, however, it’s only a matter of time before we see this gap shrink as availability tightens in the weeks ahead. This is likely to be exacerbated while the labour disruption endures in Australia. There are no newbuild orders to report this week and prices remaining unchanged.

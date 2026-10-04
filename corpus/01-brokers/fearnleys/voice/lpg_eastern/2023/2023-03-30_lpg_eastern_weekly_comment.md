@@ -1,0 +1,30 @@
+---
+id: "6F992153-64B4-48CB-8213-8B947C23975F"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-03-30"
+year: 2023
+week: 13
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-03-30"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-03-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-03-30 (Week 13)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `6F992153-64B4-48CB-8213-8B947C23975F`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco announced Apr CP at $555 for C3, down by $165; and $545 for C4 respectively, down by $195, which is in line with expectation. May CP was assessed at $10 backwardation, and C3/C4 spread is believed to widen further, seeing ample supply on butane tons. Qatar Petroleum issued tender to sell 10-20th May lifting evenly split cargo, whose last tender for similar ratio was awarded at May CP minus teens for end Apr lifting. And apart from producers, several lifters with AG length were also looking to resell their FOBs instead of lifting it themselves.
+
+**FAR EAST**
+
+ Cash premium for May delivered cargos weakened especially when deals into China traded at discounted value to curve value plus deviation. In window, 23kt propane parcel for 1h May delivery was bid at May FEI plus low single digit, and 46kt parcel for end Apr early May delivery into Ningbo was bid at May FEI plus mid single digit. However, both yet to entice seller interest yet. Seeing the decline on feedstock flat price, coupled with the termination of maintenance in May, several petchem players have emerged this week to secure end Apr to 1h May delivery propane. Two 46kt propane parcels for 1h May delivery into East China were traded at May FEI plus mid single digit, and a couple of 23kt propane parcels for similar period were sold at May FEI plus low teens or CP plus 20ish. PDH operating rates increased this week with improved margins and we are expecting more players coming out to cover their rigid feedstock demand.

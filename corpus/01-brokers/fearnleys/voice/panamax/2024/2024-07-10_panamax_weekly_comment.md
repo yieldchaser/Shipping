@@ -1,0 +1,26 @@
+---
+id: "f8839411-b59a-4077-a985-a67403941f58"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-07-10"
+year: 2024
+week: 28
+title: "Fearnleys Panamax Weekly Comment - 2024-07-10"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-07-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-07-10 (Week 28)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `f8839411-b59a-4077-a985-a67403941f58`
+
+---
+
+## Market Commentary
+
+The Panamax market is experiencing a subdued week with mixed signals and no substantial improvement despite gains in the FFA market. In the Atlantic, minimal transatlantic activity and a flat market in the South characterized the week, with rates expected to continue falling due to a lack of demand. Asia also saw little change, with insufficient demand causing rates to drift and initial hopes of stabilization from South America not materializing. The overall sentiment remained negative, with limited trade reported and inactive regions like NCSA and USEC, combined with an oversupply of tonnage, giving charters the upper hand to maintain low bids. This has resulted in a weak market outlook overall, with owners facing pressure to lower their ideas further to cover.

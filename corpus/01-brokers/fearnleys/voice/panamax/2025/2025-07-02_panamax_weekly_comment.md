@@ -1,0 +1,26 @@
+---
+id: "d5d98625-cc54-4886-bb7f-2281754847f4"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-07-02"
+year: 2025
+week: 27
+title: "Fearnleys Panamax Weekly Comment - 2025-07-02"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-07-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-07-02 (Week 27)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `d5d98625-cc54-4886-bb7f-2281754847f4`
+
+---
+
+## Market Commentary
+
+This week saw a subdued Panamax market with limited momentum across both basins. In the Atlantic, sentiment remained cautious, as uncertainty over true market levels led to widening gaps between owners and charterers, particularly for forward cargoes off the Continent and NCSA. Fronthaul cargoes continue to underpin activity, but volumes need replenishing to sustain current rate stability. Further south, activity eased slightly, reflecting softer bids and more flexible owners. Asia opened mixed but gradually softened, with charterers gaining confidence and owners beginning to face resistance, especially on forward dates. Australian coal remains supportive, but elsewhere Pacific activity has quietened. Overall, the market feels delicately balanced, with cargo replenishment critical to maintaining momentum in the weeks ahead.

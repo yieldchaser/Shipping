@@ -1,0 +1,30 @@
+---
+id: "2153CABC-B2E8-48BF-8DDA-780AD307501B"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-09-12"
+year: 2022
+week: 37
+title: "Fearnleys VLCC Weekly Comment - 2022-09-12"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-09-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-09-12 (Week 37)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `2153CABC-B2E8-48BF-8DDA-780AD307501B`
+
+---
+
+## Market Commentary
+
+Any toppish feel that may have crept into the market was quickly dispelled, despite several offers into open cargoes owners offered high.
+
+**MEG**
+
+/East looking north of WS 85 as charterers start to test the water for October stems. A tightening tonnage list and the typhoon presently threatening the Chinese Eastern seaboard could delay berthings and shorten the list further. The Atlantic (often the driving force for the market, as usually only modern, well approved units will clear) continued swings in owner’s favor as USD 9 mill reportedly paid USG/Spore (therefore USD 10m + for Ningbo) and WS 88 for Wafr/China is setting new highs not seen since April 2020. With the US evaluating further SPR oil releases after October, any limits on further rate increases will rest on owner’s profit taking and the skill of charterers holding back.

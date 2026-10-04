@@ -1,0 +1,30 @@
+---
+id: "A6B18E47-F9C9-431E-BA24-C4C84CCCAEF3"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2021-12-06"
+year: 2021
+week: 49
+title: "Fearnleys LPG Eastern Weekly Comment - 2021-12-06"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2021-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2021-12-06 (Week 49)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `A6B18E47-F9C9-431E-BA24-C4C84CCCAEF3`
+
+---
+
+## Market Commentary
+
+MEG Following the crude, Jan C3 CP rebounded to $688 and C3/C4 spread widened to $30 at the time of writing. Jan/Feb CP was traded at over $20 backwardation. Qatar Petroleum issued a tender to sell 45kt propane for 14 to 26th Jan lifting and can consider sell on CFR basis.
+
+**FAR EAST**
+
+ Far East market is full of volatility and vitality this week, and most significant cash differentials improved healthy from negative to positive territory on FEI link price. 23kt propane for 1h Jan delivery was traded at Jan FEI plus mid-single digit. Similar cargo for 2h Jan delivery was bid at FEI plus mid-single range while offer at plus low teens. Outside window a plenty of tenders are floating in the market, except that Chinese buyers have concerns on subdued consumption for end Jan/1h Feb CNY period. Two Australia suppliers tendered to sell one evenly split and one heavy propane cargo for 2h Jan to 1st decade Feb arrival. One Korean Importer secured 23kt butane for 2h Jan delivery for cracking via tender, and another Korean importer also issued tender to procure similar cargo for Jan delivery. One Vietnam-based PDH user tendered to buy 46kt propane from 25th Dec to 25th Jan delivery. One Indian PSU was said to explore monthly one evenly split cargo for Jan and Feb delivery.

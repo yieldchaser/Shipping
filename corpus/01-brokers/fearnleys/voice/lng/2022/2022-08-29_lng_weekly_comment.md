@@ -1,0 +1,26 @@
+---
+id: "E10AF9D7-4E5E-4238-B5FF-E0F92D29202B"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-08-29"
+year: 2022
+week: 35
+title: "Fearnleys LNG Weekly Comment - 2022-08-29"
+---
+
+# Fearnleys LNG Weekly Comment (2022-08-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-08-29 (Week 35)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `E10AF9D7-4E5E-4238-B5FF-E0F92D29202B`
+
+---
+
+## Market Commentary
+
+Spot and multi year charter rates continue to move upwards this week in line with a further tightening shipping market. Further to last week, spot requirements remain plentiful in both basins however, the east maintains a majority of those, along with considerable vessel availability keeping the discount to the west intact. On term, modern tonnage is becoming increasingly scarce as market participants hold on to the highly sought-after low BOG vessels that they have managed to secure over winter and beyond. The current market environment indicates that it is only matter of time before Charterers will look to older and smaller ships to accommodate their impending requirements, although at a costly expense given the relative boil off capabilities of such vessels and the high price of LNG. No orders have been reported in the market this week, however, newbuilding prices continue to firm as demand shows no signs of slowing. For those of you who will be attending Gastech next week, we look forward to seeing you in Milan.

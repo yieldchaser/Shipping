@@ -1,0 +1,30 @@
+---
+id: "e2e730d6-a9c0-4005-9448-39be45669a56"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-10-26"
+year: 2023
+week: 43
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-10-26"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-10-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-10-26 (Week 43)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `e2e730d6-a9c0-4005-9448-39be45669a56`
+
+---
+
+## Market Commentary
+
+MEG Bids for evenly split cargo edged up this week, as of firm bid in window for late Nov lifting at $615 for C3 and $635 for C4 respectively, which equates to CP plus $15 approximately. At the time of writing, Nov C3 CP was traded at $600 and C4 CP at $10 higher. But Nov/Dec CP was traded at -$3 backwardation from earlier flattish level.
+
+**FAR EAST**
+
+ A couple of full propane cargos for 1h Dec delivery were changed hand. One 46/0 for 1h Dec delivery basis Chiba were said to be placed into Japan, rumored at Dec FEI minus high single digit. And similar parcel for 1h Dec arrival into Ningbo was said concluded at Nov FEI plus $3.5 late last week, which equates to Dec FEI plus around $5-6 by then. 23kt propane parcel was bid in window today at Dec FEI flat while off window deal concluded at mid-single digit reportedly. HTC was also reported to award their spot buy tender to secure 23kt propane for early Dec arrival. Other than this, spot inquiries for Dec tons especially demand from China remained thin amid weak margins. However, term tenders are under active discussion. One Chinese importer is reported to have awarded their tender for monthly heavy propane or evenly split ratio cargo at FEI plus single digit and CP plus 50s. Another three petchem players are still in the process of negotiation, likely will reach higher premium in general due to foreseeable tight supply amid strong freight next year.

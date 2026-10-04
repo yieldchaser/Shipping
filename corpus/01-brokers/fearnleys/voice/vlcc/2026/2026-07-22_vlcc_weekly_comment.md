@@ -1,0 +1,26 @@
+---
+id: "417b6f2c-c189-411e-9404-a1b2d8efaac6"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-07-22"
+year: 2026
+week: 30
+title: "Fearnleys VLCC Weekly Comment - 2026-07-22"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-07-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-07-22 (Week 30)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `417b6f2c-c189-411e-9404-a1b2d8efaac6`
+
+---
+
+## Market Commentary
+
+Petrobras managed to chip off another 15 and a bit points off their last done Brazil/East enquiry yesterday, down 51 points from the high in the better part of a week, and the likelihood is they’ll manage a bit more on their next enquiry as owners shy away from potential danger in the Middle East and head west. On the other side, now that both the Strait of Hormuz and the Bab el-Mandeb Strait are fast becoming a “no go zone” focus must change to alternative supply from the likes of USG and West Africa, and punchy Suez- and Aframax rates will encourage economy of scale both transatlantic and eastbound. US Secretary of State Marco Rubio said in a meeting of Southeast Asian foreign ministers today that the US is still willing to negotiate an end to the Iran crisis, but Tehran is not serious about talks. Where there’s a will there’s a way they say, but where it leads right now is anyone’s guess. One day (hour) at the time….

@@ -1,0 +1,26 @@
+---
+id: "436E6699-1CBD-410B-9A5F-EE121442509E"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-03-10"
+year: 2020
+week: 11
+title: "Fearnleys VLCC Weekly Comment - 2020-03-10"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-03-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-03-10 (Week 11)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `436E6699-1CBD-410B-9A5F-EE121442509E`
+
+---
+
+## Market Commentary
+
+To yet again quote our brilliant analyst; supply trumps demand, and that’s true because supply has turned into demand big time - for oil tankers, and VLCCs in particular. Saudi Aramco have stated they will increase production to 13 mbpd, which is a 34% increase over the 9.7 mbpd they have been pumping. ADNOC will do the same, increasing from 3 mbpd to in excess of 4 mbpd and plan to accelerate their expansion to 5 mbpd, and everyone is scrambling for tonnage. Rates have soared, with ws152.5 being last reported MEG/China, corresponding to daily returns in the USD 150k/day region, and further upward potential evident. The Atlantic basin is being dragged up as well, as its source of tonnage has dwindled considerably with the MEG absorbing most of the tonnage.

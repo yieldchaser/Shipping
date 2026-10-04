@@ -1,0 +1,26 @@
+---
+id: "2C4389FC-533F-446D-82EF-1E30CD1215B0"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-04"
+year: 2020
+week: 10
+title: "Fearnleys S&P Weekly Comment - 2020-03-04"
+---
+
+# Fearnleys S&P Weekly Comment (2020-03-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-03-04 (Week 10)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `2C4389FC-533F-446D-82EF-1E30CD1215B0`
+
+---
+
+## Market Commentary
+
+Euronav making another counter-cyclical move for a fourth newbuilding VLCC resale with delivery in Q1 2021. This is an exact sister to the three newbuilding resales it recently acquired, and with the Covid-19 outbreak now edging closer to a global pandemic, such later delivery may prove to be an advantage. The jury is still out as to how values for older crude tankers will develop but the sense of urgency to buy early-to-mid 2000 built units is temporarily gone. Whilst there are still buyers around we see a downside risk for values. For product tankers, values are mostly holding up and we will continue to see a steady flow of transactions. Sellers of larger dry sizes are opting to take a step back amidst the prevailing wide bid/ask spread. Ultra-/supramax and handysize values are more balanced with ditto higher transaction volume.

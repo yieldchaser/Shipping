@@ -1,0 +1,26 @@
+---
+id: "C314DE2B-3A2F-4087-AFFF-22850B91447A"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-01-03"
+year: 2022
+week: 1
+title: "Fearnleys Panamax Weekly Comment - 2022-01-03"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-01-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-01-03 (Week 1)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `C314DE2B-3A2F-4087-AFFF-22850B91447A`
+
+---
+
+## Market Commentary
+
+It was the first week back for some post festive holidays, but on the surface, it appears the market has continued to thrive despite holidays with firmer numbers being talked and reported, the BPI5TC average posting a USD 2,707 advance to return at USD 25,865 on the first day of publishing of 2022. The Atlantic has seen further substantial gains both in the North and South with most areas seeing healthy fresh demand thus giving further impetus for further expected advances in coming days. In Asia, despite an Indonesian coal export ban in place the market overall appeared buoyant, well supported by a buoyant EC South American market but also a glut of coal fixtures ex Australia into India at better to last done levels. The immediate outlook appeared firm. Some representative fixtures this week: -The Key Action (82,168/2010) Hamburg spot/prompt was said to have fixed lade legs within the Atlantic (1st leg ex St Lawrence) at USD 36,000 with Cargill. -Seacon Shanghai (80,811/2019) Ghent 4 January was alleged to have fixed for a trip via Baltic redelivery India at a rate rumoured in the mid USD 50,000’s. -Tata NYK were linked to the Astrea (81,838/2015) Lianyungang 5 January for a trip via EC Australia redelivery India at USD 26,000. -Aquila (77,283/2008) sailed Busan 2 January fixed at USD 22,000 with Bainbridge. -Axios (81,960/2016) Wenzhou 4 January fixing at USD 27,000 to Bulk Marine.

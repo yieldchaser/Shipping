@@ -1,0 +1,26 @@
+---
+id: "36F5AC56-E01D-42AA-B256-937B6D90052D"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-17"
+year: 2021
+week: 11
+title: "Fearnleys Panamax Weekly Comment - 2021-03-17"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-03-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-03-17 (Week 11)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `36F5AC56-E01D-42AA-B256-937B6D90052D`
+
+---
+
+## Market Commentary
+
+After last week’s pause in increasing rates and activity we see a different trend this week. Rates are firming in both hemispheres. Also backhaul trades are seeing a decent increase. Period market is well back into play with a good spec Kamsarmax achieving 22k for 6/8 months with fwd delivery in June. FFA’s are also pushing up and giving support to the period market. We see increased demand in the Atlantic and also a very active ECSA market. P1A currently yielding around the 20k mark while P3 is almost priced at 25k.

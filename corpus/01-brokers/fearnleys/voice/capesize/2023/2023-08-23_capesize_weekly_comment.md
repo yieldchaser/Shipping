@@ -1,0 +1,26 @@
+---
+id: "64a6b414-33e5-4de2-9532-a9e692edf194"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-08-23"
+year: 2023
+week: 34
+title: "Fearnleys Capesize Weekly Comment - 2023-08-23"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-08-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-08-23 (Week 34)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `64a6b414-33e5-4de2-9532-a9e692edf194`
+
+---
+
+## Market Commentary
+
+Volumes are comparatively lower than last week on front haul, Indian business, South and West Africa. Abundant tonnage available in Far East caps possibility of any potential gains. We see a substantial number of vessels choosing the alternative option of ballasting. C5 seen a drop from last week, with fixtures concluding in the mid to high USD 7 pmt range as opposed to low USD 8 pmt last week. More resistance seen on C3 with low charterer willingness to bid. Week started off with USD 20 pmt levels for 5-15 September as opposed to low to mid USD 21 pmt levels for mid-end September concluded last week. Period activity remains low apart from a single known 1-year fixture on 2020-built 179,000 dwt scrubbered vessel at USD 17,300.

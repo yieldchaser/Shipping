@@ -1,0 +1,26 @@
+---
+id: "2f98a925-cf33-4994-94a2-564a63ddc8f8"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-06-05"
+year: 2024
+week: 23
+title: "Fearnleys Aframax Weekly Comment - 2024-06-05"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-06-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-06-05 (Week 23)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `2f98a925-cf33-4994-94a2-564a63ddc8f8`
+
+---
+
+## Market Commentary
+
+NORTH SEA With uncertain itineraries some replacement business and busy mid-month activity, the market has firmed rapidly. Tonnage still looking to ballast TA for longer returns. Lists should replenish, but while itineraries remain uncertain market looks to remain positive. MEDITERRANEAN A slower start to the week with Posidonia well underway; rates have come off in the Mediterranean with owners’ keen to fix what opportunities they have in front of them. Not much in the way of market cargoes but ships are being picked off, and with the North on the up and potential delays still apparent in Mediterranean ports, some consistent supply could eat the tonnage and help to support rates and slow further softening.

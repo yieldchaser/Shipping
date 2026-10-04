@@ -1,0 +1,30 @@
+---
+id: "5C4F84D0-7BFD-41BF-B03B-94A58381B941"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2019-05-06"
+year: 2019
+week: 19
+title: "Fearnleys LPG Eastern Weekly Comment - 2019-05-06"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2019-05-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2019-05-06 (Week 19)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `5C4F84D0-7BFD-41BF-B03B-94A58381B941`
+
+---
+
+## Market Commentary
+
+**MEG:** Earlier this week May Propane CP has been under downward pressure at 430ish and rebounded mid- week. At the time of writing, May CP is traded at 450$. However, butane CP value has dropped significantly and traded at $15 less than propane, which is irregular in a summer season. One main reason is less demand from both Indian and China, and the other being more Us butane into east available now.
+
+**FAR EAST**
+
+: 1H/2H June backwardation is widening. Bids for 23kt propane for 1h June delivery has edging up to June FEI plus 37$ on Thurs window while no offer seen. While off window 2h June delivery cargos were reported done at June FEI plus mid-teens. On Wed a non-Us 22/22 split cargo for 2h June delivery is traded at flat price of 494$, equates to May CP plus mid low 50s, which has surprised players as initially some sellers asking at a premium of 70s for cargos sale into China. Premium has come off rapidly and a couple of cargos have been placed into China. 11/11 for 1h June delivery is reported concluded at May CP plus mid low 50s while propane a few bucks more. Taiwan CPC issued buy tender for 22kt equal ratio cargo during 21-30 June delivery. The result is yet to know. FPC has issued buy term tender for 22-44k C3 delivered from July 2019 to June 2020. The escalating China-Us trade tension is another focus of this week, and stock/commodity market have been very volatile. Players are cautiously waiting for official results on Friday, although most not really anticipate for a positive result according to latest reactions.

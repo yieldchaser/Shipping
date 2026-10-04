@@ -1,0 +1,26 @@
+---
+id: "34F96F61-BDFD-40A1-910C-5B4D9BB20C7B"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-10-12"
+year: 2022
+week: 41
+title: "Fearnleys Aframax Weekly Comment - 2022-10-12"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-10-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-10-12 (Week 41)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `34F96F61-BDFD-40A1-910C-5B4D9BB20C7B`
+
+---
+
+## Market Commentary
+
+Same story in the Nsea market last week as rates moved sideways with Charterers fixing tight to repeat last done levels. There are still delays in some strategic discharge ports limiting the options for Charterers while most of the Owners in position are focusing solely on Russian business. We don’t foresee any downside risk moving forward and we might see rates moving even higher.Little change in the Med market last week with Owners keeping the momentum alive as market remained busy for another week. Charterers have found it hard to bring rates lower as tight/balanced supply of vessels persists in whole West of Suez market and activity is healthy. As we move closer to end-month fixing window and with CPC loadings for Aframaxes coming back for November we anticipate rates to continue improving.

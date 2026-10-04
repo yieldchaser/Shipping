@@ -1,0 +1,26 @@
+---
+id: "196364BD-8C1F-4440-BCFD-D9DDA39852ED"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-11-23"
+year: 2022
+week: 47
+title: "Fearnleys LNG Weekly Comment - 2022-11-23"
+---
+
+# Fearnleys LNG Weekly Comment (2022-11-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-11-23 (Week 47)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `196364BD-8C1F-4440-BCFD-D9DDA39852ED`
+
+---
+
+## Market Commentary
+
+It’s long been understood that what goes up must eventually come down, and the question for the spot LNG shipping market has been when and by how much. Well, as the World Cup kicks off and much of the wider world looks to Qatar with nervous excitement, those of us in the LNG world are looking at the floating situation in Europe with nervous…ness. As the contango narrows and the weather gets colder, floating vessels will start to head in for discharge and the resulting tonnage will either be cycled back into charterer’s schedules or else offered to the market. Either way, without an arbitrage to pull cargoes East this will put downward pressure on spot rates. In contrast, there are few signs of the term market slowing down: there are very few vessel coming open next year under independent owner’s control, and given relatively high LNG price forecasts and demand expectations shipping balances are being maintained with some additional length. There were also five further newbuilds reported this week: Seapeak are reported to have confirmed the 174,000cbm MEGA vessels for delivery in 2027.

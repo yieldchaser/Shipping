@@ -1,0 +1,26 @@
+---
+id: "C6EC72CF-B3C1-48C2-9A3F-6003BE386D46"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-05-29"
+year: 2019
+week: 22
+title: "Fearnleys LNG Weekly Comment - 2019-05-29"
+---
+
+# Fearnleys LNG Weekly Comment (2019-05-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-05-29 (Week 22)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `C6EC72CF-B3C1-48C2-9A3F-6003BE386D46`
+
+---
+
+## Market Commentary
+
+We are a few days away from June, which will mark the beginning of the Northern Hemisphere summer months. Although we are only reaching the opening of the summer ‘’peak’’ demand period, it is already proving to be a quite different setup for this summer in the LNG market compared to same time last year, predominantly driven by the sluggish cargo demand and ample supply, pushing the LNG prices close to annual lows. This seems to have caught up with the prompt spot LNG shipping market too as we have recorded only a handful of fresh requirements across the basins, halting the hike of the freight rates for now. Shipping availability has also increased, as we have seen a number of sublets appearing, possibly putting some pressure on the spot freight rates in the upcoming weeks. It is quite a different story on term requirements however, as owners are still holding on to their strong views about the second half of this year, supported by the fact that we see a steady flow of interest for multi-month charters from different LNG players and expect more LNG volume to come online. On the newbuilding front, Hyundai Heavy Industries confirmed late last week to have secured an order for two 180kcbm LNGC newbuilds, increasing the order tally for 2019 to a total of 22.

@@ -1,0 +1,26 @@
+---
+id: "0FE25294-F905-496E-9151-1673BE483335"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-09"
+year: 2020
+week: 46
+title: "Fearnleys Chartering Weekly Comment - 2020-11-09"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-11-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-11-09 (Week 46)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `0FE25294-F905-496E-9151-1673BE483335`
+
+---
+
+## Market Commentary
+
+EAST As cargo acceptances for next month gradually has started to come out, fixing focus in the East has shifted towards 1st decade December. One Oil Major did secure shipping for early December while talks of some receiving delayed ADNOC dates could mean less cargos from the supplier in the first half of December. That said, together with the release of Aramco dates which is expected early next week, the picture for next month will become more clear. Available tonnage is not in abundance, and as such we expect freight to remain stable to slightly increasing going forward. WEST The West market continues in a similar fashion to what we have seen over the last couple of weeks; relatively tight vessel supply, a couple of owners largely in control of the majority of vessels and rates simmering somewhere between USD 103 and USD 106 per ton Houston/Chiba basis. As we are not yet done with all of the December fixing, it is likely that we are a couple of dollars away from the peak of the market.

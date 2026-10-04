@@ -1,0 +1,34 @@
+---
+id: "a8c374d8-7fb1-4742-8159-48e78dbf44c2"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-04-17"
+year: 2024
+week: 16
+title: "Fearnleys Supramax Weekly Comment - 2024-04-17"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-04-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-04-17 (Week 16)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `a8c374d8-7fb1-4742-8159-48e78dbf44c2`
+
+---
+
+## Market Commentary
+
+Positive sentiment across the Supramax sector with firmer numbers on the spot trading and period. South Atlantic and USG pushing indexes in green territories, bringing both TA and FH trips to better levels. The 10TC average closed today at USD 14,702. Ultramax MV Al Wathba (63,555 dwt, built 2019) opened Veracruz on 24 April and heard about subs for USG/Japan with wood pellets at USD 26,000 pd. ECSA fixing healthy levels MV Valiant Sapphire (63,646 dwt, built 2023) fixed for TCT via Brazil at USD 17,775 + USD 775,000 GBB for Asia discharge. Transatlantic is now trading at around USD 15,000 pd.
+
+**Pacific**
+
+ market looks healthy with lots of fresh inequity appearing on the spot – prompt dates.
+
+**Pacific**
+
+ China round trips fixing sub USD 15,000 pd.

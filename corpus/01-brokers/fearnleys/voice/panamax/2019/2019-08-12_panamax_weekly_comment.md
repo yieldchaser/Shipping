@@ -1,0 +1,26 @@
+---
+id: "E78BB49B-96D5-472E-B4F7-5C3DF4826610"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-08-12"
+year: 2019
+week: 33
+title: "Fearnleys Panamax Weekly Comment - 2019-08-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-08-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-08-12 (Week 33)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `E78BB49B-96D5-472E-B4F7-5C3DF4826610`
+
+---
+
+## Market Commentary
+
+Rates have been increasing in both hemispheres for a good week by now, as we see additional cargoes constantly emerging in the market. The ECSA-market has arguably been the dominant force in pushing the rates, where we have seen LME's (around 75.000 DWT) fixing at levels above 18.000 + 800k GBB for grain-trips to the far east. A TA round voyage currently pays owners around USD 20,000 per day, while a fronthaul from the continent now pays about USD 28,000. In the east, a Pacific round voyage pays above the USD 13,500-mark. The BPI 4TC-index is currently at 2089 points, up 318 points from last week.

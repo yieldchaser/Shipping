@@ -1,0 +1,30 @@
+---
+id: "00EDD243-9E69-4D1D-B9C7-229E32E5C447"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-07-13"
+year: 2022
+week: 28
+title: "Fearnleys LPG Western Weekly Comment - 2022-07-13"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-07-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-07-13 (Week 28)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `00EDD243-9E69-4D1D-B9C7-229E32E5C447`
+
+---
+
+## Market Commentary
+
+AMERICAS Crude oil peaked in the first week June at just over $122/bbl but has softened rather dramatically over the last month and is presently trading in the ~$93/bbl range, though with quite a lot of inter-day volatility. This is causing volatility in the LPG space, as well, with propane having declined from $1.24/gal the first week of June to $1.10/gal in robust trading sessions. Butane length in the U.S. continues to play a role and RVP waivers are being sought to alleviate the surplus, though this was considered a bit of a long-shot. The EIA data on Wednesday showed a build of 2.9mmbbls to an overall total of 57.8mmbbls as of 8 July, or about 97% of last year but just ~68% of two years ago. The market had been anticipating a build of between about 750,000bbls and 1.9mmbbls, and as such the healthy growth was welcome and well received. Terminal fees remain subdued, with buy-side interest at/below 4cpg, but sellers seem anxious to commence talks nearer to 5cpg. Little is known to have been fixed, but at this point there seem to be more sellers than buyers. 2H 2022 values, however, are healthier and were seen worked at/above 6cpg. NWE The European propane market sprung to life for end June/early July TOT cargoes, with two bids bringing assessed values up to a $2.75pmt premium to July CIF ARA. Surprising as July imports from the US are set to be 800,000MT smashing the previous monthly record of 700,000MT. The butane market in the region remains long and stocks high. The steepening contango could temp some traders to look at storing tons. The netback values form the US are not as attractive, the August East / West spread $59pmt, though many European traders have TC vessels and European systems, skewing spot cargo netbacks. The huge trans-Atlantic volume continues to flow!
+
+**MED**
+
+ Has been quiet as movements in other markets take front and centre in this low demand period of the year. The region remains long butane as Northwest European traders continue to try to place tons in the region.

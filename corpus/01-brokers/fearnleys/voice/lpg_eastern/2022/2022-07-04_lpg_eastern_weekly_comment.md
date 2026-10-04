@@ -1,0 +1,30 @@
+---
+id: "1384D2D5-92A0-4B9B-ABFD-7216842FC2CD"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-07-04"
+year: 2022
+week: 27
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-07-04"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-07-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-07-04 (Week 27)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `1384D2D5-92A0-4B9B-ABFD-7216842FC2CD`
+
+---
+
+## Market Commentary
+
+MEG Aug propane Cp tumbled to $704, followed the crude and butane was traded at $700 at the time of writing. Sep Propane Cp was traded at flattish to Aug but into Q4 a contango structure, reflecting the anticipated demand growth in winter season. Producers are marketing their spot length continuously. KPC was reported to award their sell tender for a 7/8th Aug lifting evenly split cargo. Qatar Petroleum released their Aug acceptance with some advanced liftings reported and it was said to market two proapne cargos for early and late Aug lifting respectively.
+
+**FAR EAST**
+
+ Despite the contango structure in forward months, cash premium for 1h Aug delivery is slightly higher than 2h, as we are seeing potentials delays caused by Panama congestion. On Thursday a 23kt propane parcel for 1h Aug delivery was traded at Aug FEI minus $3, whereas similar cargo for 2h delivery was bid at minus $6 only. Off window one EChina PDH user is said to procure a 1h Aug delivered 23kt propane as they cancelled their last tender due to high offers. One Schina importer tendered to buy a 11-20th Aug delivered 11/11 parcel. And outside tender a couple of players also seek for evenly split cargos for Aug delivery.

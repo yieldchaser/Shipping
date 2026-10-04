@@ -1,0 +1,26 @@
+---
+id: "3C53C121-5A53-4142-ADE2-83E1D6037521"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-10-07"
+year: 2019
+week: 41
+title: "Fearnleys Supramax Weekly Comment - 2019-10-07"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-10-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-10-07 (Week 41)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `3C53C121-5A53-4142-ADE2-83E1D6037521`
+
+---
+
+## Market Commentary
+
+Some more positive sentiment this week after Golden Week in China last week. Rates remained quite stable last week and is so far this week Pacific routes gaining again. In the Atlantic, scrap cargoes Cont/Emed is getting fixed at around USD 17,000, while Med to ECSA paying around USD 14,000. TA from ECSA is paying around USD 18,000 while fh ex ECSA to Se Asia paying USD 15,000+500k bb. In the Indian Ocean, ships are trading in around USD 13,000+300k bb for South Africa/Pakistan-WCI range, while in the Pacific, Indo/China rv's paying in the high 12k's bss S.China delivery and Nopac rv's around USD 11k.

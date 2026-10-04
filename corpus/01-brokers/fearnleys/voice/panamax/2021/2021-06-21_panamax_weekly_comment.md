@@ -1,0 +1,26 @@
+---
+id: "04EE5B34-B3EB-45E0-83D1-37B1463D63C8"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-21"
+year: 2021
+week: 25
+title: "Fearnleys Panamax Weekly Comment - 2021-06-21"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-06-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-06-21 (Week 25)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `04EE5B34-B3EB-45E0-83D1-37B1463D63C8`
+
+---
+
+## Market Commentary
+
+The Panamax market started the week on a negative trend, and indices showed red figures in both hemispheres. Mid-week it seems that the bottom is reached and that we will see further strengthening in the days to come. FFA’s are back to levels from mid last week and period takers are back in play. The P1A is yielding 30k while P3A is priced at about the same.

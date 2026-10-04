@@ -1,0 +1,26 @@
+---
+id: "5FB836D0-E219-4413-BB32-C1D8E794DD0E"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-02-11"
+year: 2019
+week: 7
+title: "Fearnleys Supramax Weekly Comment - 2019-02-11"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-02-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-02-11 (Week 7)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `5FB836D0-E219-4413-BB32-C1D8E794DD0E`
+
+---
+
+## Market Commentary
+
+After the return from holidays in the East rates in the Supra market started climbing this week. Indo/China coal rv is by mid-week paying owners around USD 8000 bss Spore delivery. In Indian Ocean, Rbay to Ag/WCI owners are looking at around USD 10k + 100k gbb, while ECI to China is paying around USD 5000. In the Atlantic some stronger rates has been seen, from USEC Supras to Cont seeing around USD 11000, to Emed via USG around USD 7000. From the Baltic to India, is paying around USD 11000. Further south in ECSA vessels fixing USD 10k+100k to Seasia and to Emed around USD 5500.

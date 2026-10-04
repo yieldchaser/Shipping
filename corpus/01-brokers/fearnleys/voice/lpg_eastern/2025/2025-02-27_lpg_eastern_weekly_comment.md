@@ -1,0 +1,30 @@
+---
+id: "86982d52-967b-42c5-8efb-4ccfa64cbd2a"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-02-27"
+year: 2025
+week: 9
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-02-27"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-02-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-02-27 (Week 9)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `86982d52-967b-42c5-8efb-4ccfa64cbd2a`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco announced March CP at $615 for C3 and $605 for C4, a $20 decline for both propane and butane vs Feb, reflecting the selling pressure for Mar loaders against weakening Indian demand. However, it is still higher than expectation, especially when swap value trades at around $600. Evenly split cargo for March lifting was assessed at March CP minus high 20s, yet to entice buyer interest. By the time or writing, April C3 CP was traded at $599 and C3/C4 at $10.
+
+**FAR EAST**
+
+ Cash premium stands firm this week for April discussions, with the anticipation on improved demand from petchem segments. 23/0 for 1h April delivery was offered at April FEI plus mid teens, while bid shown at $603, equates to Apr FEI plus $10. No deals were concluded in the window. Outside window a flurry of buy tenders been working this week. Tianjin bohai was reported to buy two 4/0 cargos for Apr delivery at April FEI plus mid teens. Ningbo Huatai also issued tender to procure one 4/0 for 1st decade April delivery des Ningbo, which believed will attract abundant selling interests. Hyosung vina tendered to buy 2/0 or 4/0 for 1h April delivery basis Vung Tau. HTC also sought the late Apr delivery propane and butane via tender. However two tenders were cancelled with few offers, one looking for Mar delivery propane into EChina and the other asking for half cargo propane or butane for 2nd port delivery into NChina on April delivery. Taiwan FPC managed to award one 2/2 for Mar delivery at Mar MOPJ minus mid 50s, while they cancelled the procurement for April to June delivery as the offer discounts not attractive. Other than normal stems, there are three Iranian cargos for 1h/Mid April delivery marketed via sale tender, which consists of one evenly split and two heavy propane.

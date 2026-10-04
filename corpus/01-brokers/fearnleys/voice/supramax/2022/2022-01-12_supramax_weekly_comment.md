@@ -1,0 +1,26 @@
+---
+id: "A302FAE7-FD06-46D2-9C9D-A69370023D16"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-01-12"
+year: 2022
+week: 2
+title: "Fearnleys Supramax Weekly Comment - 2022-01-12"
+---
+
+# Fearnleys Supramax Weekly Comment (2022-01-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2022-01-12 (Week 2)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `A302FAE7-FD06-46D2-9C9D-A69370023D16`
+
+---
+
+## Market Commentary
+
+Both physical and FFA taking the beating. Even though Indonesian coal ban soothed - Pacific basin still remained under pressure. From the Atlantic, only vibes came from USG although little was reported. 58,000 dwt open in Oran was fixed closed to USD 20,000 for a clinker run to West Africa. Smx dop mid China covered trip to Bangladesh with steels USD 20,000. Ultramax open China fixed trip via Vietnam to Chittagong at USD 21,000. Backhauls from China to EC South America concluded at USD 16,000 on an Ultramax. Smx open Philippines was fixed for a nickel ore trip to South China at USD 16,500 with option to North China at USD 1,000 more. From the Indian Ocean, Ultramax open Magdalla was fixed for a trip via MEG redel Bangladesh at USD 32,000. On period front a 53,000 dwt was fixed around USD 25,000 for 3-5 months. The next weeks the market usually trends downwards until the Chinese New Year.

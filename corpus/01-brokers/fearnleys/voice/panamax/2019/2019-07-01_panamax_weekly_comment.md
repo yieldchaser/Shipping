@@ -1,0 +1,26 @@
+---
+id: "AC226AB5-6A3E-408B-A4EE-3925DB0AAAC7"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-07-01"
+year: 2019
+week: 27
+title: "Fearnleys Panamax Weekly Comment - 2019-07-01"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-07-01 (Week 27)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `AC226AB5-6A3E-408B-A4EE-3925DB0AAAC7`
+
+---
+
+## Market Commentary
+
+A very strong week for shipowners in the spot market, as rates in both hemispheres have surged throughout the week. Many owners are trying their best to stay in the Atlantic, awaiting the rising fronthaul-rates. A TA round voyage currently pays owners about USD 12,500 per day, while a short fronthaul from the Continent now pays USD 20,000. In the east, a Pacific round voyage pays above the USD 10,000-mark. The BPI 4TC-index is currently at 1433 points, up 242 points from last week.

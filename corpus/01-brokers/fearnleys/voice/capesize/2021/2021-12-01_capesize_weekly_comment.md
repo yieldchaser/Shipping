@@ -1,0 +1,26 @@
+---
+id: "6D93E9AA-5C87-4145-AFEE-A3D27A831B65"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-01"
+year: 2021
+week: 48
+title: "Fearnleys Capesize Weekly Comment - 2021-12-01"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-12-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-12-01 (Week 48)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `6D93E9AA-5C87-4145-AFEE-A3D27A831B65`
+
+---
+
+## Market Commentary
+
+Volatile market, currently coming slightly off in the Pacific with c5 again approaching USD 13 pmt level, whilst the Atlantic fleet balance remains tight, obviously illustrated by improving rates here. Interesting to see the c3 route priced very close to 30 whilst there apparently are fixtures concluded closer to USD 25 level.

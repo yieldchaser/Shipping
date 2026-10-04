@@ -1,0 +1,26 @@
+---
+id: "1134C2A6-CFFA-4851-A592-20A7D0EA8777"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-02-23"
+year: 2022
+week: 8
+title: "Fearnleys Suezmax Weekly Comment - 2022-02-23"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-02-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-02-23 (Week 8)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `1134C2A6-CFFA-4851-A592-20A7D0EA8777`
+
+---
+
+## Market Commentary
+
+At the time of going to press, Russian crude is trading at a substantial discount to Brent which will draw in more Eastern buyers as a more cautious approach appears to be taken by receivers in the West. Suezmax owners will also be keeping one eye on their larger sibling, VLCC's, as firming rates in that segment are likely to have a knock on impact at some stage. For now, lists in the East and West have a fair degree of slack, but with simmering political tensions, firmer VLCC's, and a rising oil price, there is a real chance that rates may start to nudge up over the next few days. For now, MEG/East trades just below WS 60 on plus 15YR tonnage and low WS 60's for modern units. TD23 is likely to trade about WS 30 with some potential to tick.

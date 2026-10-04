@@ -1,0 +1,26 @@
+---
+id: "4F655705-683F-4312-9412-83E532F40807"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-11-29"
+year: 2022
+week: 48
+title: "Fearnleys Suezmax Weekly Comment - 2022-11-29"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-11-29 (Week 48)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `4F655705-683F-4312-9412-83E532F40807`
+
+---
+
+## Market Commentary
+
+The global Suezmax market has a softer feel to it this week with bearish Aframax and VLCC segments not really providing any support. In the MEG, it's been a very quiet week with the occasional fuel oil enquiry, but otherwise dead. TD23 will do well to keep its head above WS 100 whilst MEG/East will trade somewhere in the WS 190's on modern tonnage, but needs a test. Focusing on the Atlantic, West Africa is almost done for the second decade, save the odd straggler cargo and with a number of vessels missing the fixing window rates will trade down to somewhere in the WS 190's, but this region needs a proper, open market test. The USG has been very quiet and has failed to wake up from its Thanksgiving slumber, but given the lack of activity and tonnage beginning to build, USG/TA will trade touch below WS 200.

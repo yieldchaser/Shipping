@@ -1,0 +1,26 @@
+---
+id: "36DD266A-0852-477A-90F2-BCEE67145FE4"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-01-13"
+year: 2020
+week: 3
+title: "Fearnleys Supramax Weekly Comment - 2020-01-13"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-01-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-01-13 (Week 3)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `36DD266A-0852-477A-90F2-BCEE67145FE4`
+
+---
+
+## Market Commentary
+
+The market flattening out and some more resistance from owners in the East, although still at low levels. Indo/China rv fixing around low/mid USD 6,000 bss aps Indo, while Cis rv to China talking around USD 4,500 aps. Nopac rv fixing around USD 7500 + 250k gbb aps nopac, while Aussie rv talking around low 6k dop China delivery. In the Atlantic, ECSA fh are paying around 13,000+300k gbb, while to TA to Med around USD 12,000. From Med to Wafr it is paying around USD 7,500, while fh ex Continent is paying around USD 20,000. There has been some period activity where Ultras covered short period around USD 9,500 in the Far East, while for longer periods close to 1 year, split rates are discussed roughly around 5,000 first 30 days and in the 8k's for the balance.

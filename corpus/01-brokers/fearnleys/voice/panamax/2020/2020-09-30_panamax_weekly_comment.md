@@ -1,0 +1,26 @@
+---
+id: "9A3BBF47-0575-4B98-B13E-508A0E59B4D3"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-09-30"
+year: 2020
+week: 40
+title: "Fearnleys Panamax Weekly Comment - 2020-09-30"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-09-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-09-30 (Week 40)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `9A3BBF47-0575-4B98-B13E-508A0E59B4D3`
+
+---
+
+## Market Commentary
+
+The Panamax market has experienced a flat tendency in both hemispheres this week. It has been slow activity and with Chinese and Korean Holidays starting off today, we believe the activity will remain slow. TA’s are yielding USD low 12k while fronthauls bss Continent delivery are being fixed in region of USD low 20k. The Pacific round voyages are priced similar to the Atlantic rounds and are being fixed in the low 12k’s.

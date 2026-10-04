@@ -1,0 +1,26 @@
+---
+id: "01CC4D1D-6E4C-4017-B91C-DE7120A344AF"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-11-07"
+year: 2022
+week: 45
+title: "Fearnleys Aframax Weekly Comment - 2022-11-07"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-11-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-11-07 (Week 45)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `01CC4D1D-6E4C-4017-B91C-DE7120A344AF`
+
+---
+
+## Market Commentary
+
+The Nsea Aframax market ticked a few points in upward direction, but would be considered a bit undervalued by owners who has got better alternatives in other load areas like the Mediterranean or the USG if they are willing to ballast. The tonnage list is still looking tight for any cargoes loading in the 2nd decade of November, and some bad weather in the area is also causing delays. In the Mediterranean, owners seen freight levels move in their favor over the last week. A steady flow of spot enquiries and with charterers searching for alternatives due delays in certain main hubs have continued to put an upward pressure on rates. Suezmax owners have also been in play this week, picking of Afra stems – though predominantly Blsea stems ex CPC. We expect the area to remain attractive in the near term.

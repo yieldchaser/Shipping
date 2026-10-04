@@ -1,0 +1,26 @@
+---
+id: "11a39ab0-4e60-49b1-89a5-f5709165ff33"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-08"
+year: 2023
+week: 45
+title: "Fearnleys Aframax Weekly Comment - 2023-11-08"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-11-08 (Week 45)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `11a39ab0-4e60-49b1-89a5-f5709165ff33`
+
+---
+
+## Market Commentary
+
+North Sea market has seen steady fixing with prompter tonnage being picked off for mid-month stems - rates have held steady at WS 195. List is starting to thin which may start to have an impact heading into the last decade. US Markets still attractive to owners so we continue to see vessels ballasting away. Activity has been ticking over slowly but nothing of great significance. Western Suezmaxes have shown signs of weakness and may look for part cargoes putting a strain on Afra rates. Maintenance in some ports due next week; this will be factored in when chartering a vessel pushing dates out to early 3rd decade Nov. Rates should continue in a steady motion with delays now being the main influence in keeping these levels afloat. Volume should pick up as we proceed through Q4 but no upward trajectory we predict anytime soon. Rates sit steady/soft for now.

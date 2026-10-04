@@ -1,0 +1,26 @@
+---
+id: "b0073a61-5d2c-4497-a900-6e997447e562"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-01-10"
+year: 2025
+week: 2
+title: "Fearnleys S&P Weekly Comment - 2025-01-10"
+---
+
+# Fearnleys S&P Weekly Comment (2025-01-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-01-10 (Week 2)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `b0073a61-5d2c-4497-a900-6e997447e562`
+
+---
+
+## Market Commentary
+
+It feels too soon to make sweeping statements on the fate of the 2025 tanker second hand market, but the sale of the LR2 SUVRETTA (109k DWT STX 2008) for USD 31.5M is certainly a sign of things to come for non eco tanker tonnage. This age of Aframax for example would have been asking in excess of USD 40M at its peak in 2024. Non eco ships however are still in a historically good position, and there remains plenty of money on the table for those who invested shrewdly over the past cycle. What will be interesting to watch is how eco tonnage holds up against potentially volatile price swings across non eco ships. Usual seasonality dictates a somewhat subdued start to the year in the dry market, and 2025 is no different. Enquiry remains healthy, though buyers are adjusting their budgets to reflect the quieter times. This should help pricing fall into line with the earnings environment, an issue that caused significant disillusionment with the second-hand market last year. Eco tonnage will remain highly sought after, especially that of Japanese build, and buyers will be monitoring the markets closely for any fresh candidates. Handy IYO SEA (37k DWT IMABARI 2015) was sold for USD 17.5M to Greek buyers, a pattern which is likely to repeat itself over the course of the year.

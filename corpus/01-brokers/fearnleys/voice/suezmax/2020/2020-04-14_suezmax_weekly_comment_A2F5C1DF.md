@@ -1,0 +1,26 @@
+---
+id: "A2F5C1DF-ACC3-41BA-A363-5695111F9B24"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-04-14"
+year: 2020
+week: 16
+title: "Fearnleys Suezmax Weekly Comment - 2020-04-14"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-04-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-04-14 (Week 16)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `A2F5C1DF-ACC3-41BA-A363-5695111F9B24`
+
+---
+
+## Market Commentary
+
+This week the Suezmax market have one key word - itinerary. Berthing prospects is for the few lucky ones, and we see ships floating all over. This of course thins out the fleet, but also causes uncertainty which usually should benefit the owners. As of now, we still remain steady, but as more ships gets delayed and replacement jobs will pop up, we could yet again see this market move. Activity at the moment is decent at best, so with an increase here we expect this to move.

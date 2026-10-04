@@ -1,0 +1,26 @@
+---
+id: "49F3E422-6E0E-4FF2-9456-40CC7CEFC00D"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-06"
+year: 2020
+week: 19
+title: "Fearnleys Capesize Weekly Comment - 2020-05-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-05-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-05-06 (Week 19)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `49F3E422-6E0E-4FF2-9456-40CC7CEFC00D`
+
+---
+
+## Market Commentary
+
+Spot again nervous, negative and far below OPEX for the big ships, as underlying industrial fundamentals remain weak and in particular atlantic/fronthaul volumes nowhere near recovery. Values for the China-Brazil-China conference trade consequently chopped almost 40 pct, whilst worldwide average daily earnings down 33 pct w-o-w, coming in at a poor usd 5300. The West Australia/China ore trade is steady in volume and USD/MT pricing, but pacific nevertheless sees a 20 pct drop as coal trades slow, bunkers are up and major players on holiday. Period activity limited as most owners resist committing tonnage too much forward at poor levels, exceptions being index-linked charters where for instance 2012-built 180000 dwt recently done for upto about 12 mos at BCI AVE5TC + 4.5 pct. Market balance improvements expected going some way forward as major brazilian miners slashing 25 vlocs presently servicing long-term coa's.

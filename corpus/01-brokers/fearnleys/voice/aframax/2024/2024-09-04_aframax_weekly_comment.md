@@ -1,0 +1,26 @@
+---
+id: "054623cf-663e-4e24-9397-b737b7a27a0c"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-09-04"
+year: 2024
+week: 36
+title: "Fearnleys Aframax Weekly Comment - 2024-09-04"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-09-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-09-04 (Week 36)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `054623cf-663e-4e24-9397-b737b7a27a0c`
+
+---
+
+## Market Commentary
+
+Very limited activity in the North Sea with a lot of programming of oil company tonnage taking a lot of the stems for the first half of the month. Rates have been stable with soft undertones in the first half of the week and with surrounding markets both in the US and Mediterranean not providing support/alternatives, the market looks likely to remain where we are in the short term. The situation in Libya has had its effect on the Mediterranean Aframax market and where owners have been left with few alternatives, X-Mediterranean rates have borne the brunt of the uncertainty. History has shown that an influx of cargoes should hit the market once the dust settles and with this, owners will look to put pressure on rates as the tonnage gets put to work.

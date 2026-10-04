@@ -1,0 +1,26 @@
+---
+id: "5001CBDC-CA4A-4023-8B84-F2F327908C39"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-04"
+year: 2021
+week: 9
+title: "Fearnleys S&P Weekly Comment - 2021-03-04"
+---
+
+# Fearnleys S&P Weekly Comment (2021-03-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-03-04 (Week 9)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `5001CBDC-CA4A-4023-8B84-F2F327908C39`
+
+---
+
+## Market Commentary
+
+Another week that has seen a flurry of dry transactions with values continuing their unhindered upward drive. The Supramax/Ultramax sector has seen five vessels changing hands with the notable sale of Japanese controlled BASIC PORTLAND (61k dwt, 2016 Sanoyas) which achieved Usd 21.5m from Greek buyers. The transaction illustrates well the current momentum considering that only last week the same owners disposed of BULK HERO ( 61k dwt, 2016 Shin Kurushima) at Usd 20.5m. Signs of ever increasing buying enquiries with ongoing negotiations that clearly means that the upward trend is set to continue. On the larger segments, Panamax/Kamsarmax also joy of strong activity with four vessels being sold whereas Capesize slowly seem to follow suit with a number of candidates being placed for sale suggesting further sales in the near future. Also worth mentioning the Newcastlemax resale 2021 SWS at Usd 53m where initial expectations were region Usd 50m. Prices are clearly moving north in case anyone was in doubt. OPEC+ rolls over current production levels into April, and Saudi Arabia will only gradually return its 1mbpd additional cut. Not exactly what tanker owners would be hoping for, and leaves downside risk for earnings the next couple of months. However our outlook for improving tanker rates in the second half of the year remains unchanged; certainly a view shared by many owners who are increasingly getting ready to move for attractive candidates. Our read being that we have passed the bottom as far as values go (save for the oldest ones) and sellers will increasingly hold the upper-hand. Exciting times ahead.

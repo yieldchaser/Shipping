@@ -1,0 +1,26 @@
+---
+id: "13C8263E-5B32-4FFB-92CB-A7781D4BEA9A"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-11-11"
+year: 2020
+week: 46
+title: "Fearnleys Aframax Weekly Comment - 2020-11-11"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-11-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-11-11 (Week 46)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `13C8263E-5B32-4FFB-92CB-A7781D4BEA9A`
+
+---
+
+## Market Commentary
+
+In the North Sea and Baltic markets, Aframax rates have been steadily fixing around bottom levels give or take a couple of WS points pending on the voyage in question. We now see more ships ballast out of the area as surrounding areas are offering a better alternative than fixing current levels in the Nsea. Going forward we expect the market ex Baltic to increase slightly, but unless we don’t see any increased activity for cross Nsea it won’t be a significant upward correction in rates. In the Mediterranean and Black Sea, we have seen a rush of cargoes this week with activity both cross-Med and out of the Bsea. Rates across the board have picked up 5 points or so, and although the tonnage list is still looking healthy it is tighter than it has been in recent weeks. We expect the market to remain firm in the week to come.

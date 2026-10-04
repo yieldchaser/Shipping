@@ -1,0 +1,26 @@
+---
+id: "5d81a049-ed88-472e-903b-dc3775eecc54"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2025-05-08"
+year: 2025
+week: 19
+title: "Fearnleys LPG Western Weekly Comment - 2025-05-08"
+---
+
+# Fearnleys LPG Western Weekly Comment (2025-05-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2025-05-08 (Week 19)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `5d81a049-ed88-472e-903b-dc3775eecc54`
+
+---
+
+## Market Commentary
+
+US Tariff-related market uncertainty continues, and very little is being accomplished unless necessary since no one wants to lock in a trade which might later prove to be unwise. As such, while there was a rash of activity on the announcement of the tariffs – mostly attempts to secure 2:2 volumes (in place of 4:0 cargoes and/or fix pre-tariff deadline laycans) – the June market is now littered with both buyers and sellers. There exists a divide, however, and where buyers are more apt to place value in the 4cpg range, sellers are reluctant to break below 6cpg. Netback calculations presently show value at 5cpg. The EIA this week reported a 1.0mmbbl propane inventory increase which brought stocks to a total of 48.20mmbbls, or ~81% of last year’s total, and just ~78% of two years ago. The modest build was on the lower end of expectations but overall considered a step in the right direction. It is anticipated by some that the recent switching from 4:0 cargoes to 2;2 cargoes could have an impact on stock levels, though terminal owners have indicated that in some other cases they’re seeing maximum propane volumes being nominated. This speculation is largely related to the expectation that propane stocks may not rise to sufficient levels. That, in turn, is a price-driver, and that, in part, determines the arb. Armed with the ongoing uncertainty of whether or not trade deals will be achieved, the market naturally remains in limbo.

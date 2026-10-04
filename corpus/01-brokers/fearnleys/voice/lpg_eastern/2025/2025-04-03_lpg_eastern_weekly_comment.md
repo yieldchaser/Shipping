@@ -1,0 +1,30 @@
+---
+id: "909e7ec8-567f-4408-b115-80d208dd1f47"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-04-03"
+year: 2025
+week: 14
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-04-03"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-04-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-04-03 (Week 14)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `909e7ec8-567f-4408-b115-80d208dd1f47`
+
+---
+
+## Market Commentary
+
+MEG Spot differentials for May evenly split cargos still remained at teens discount level to Mar Cp amid muted discussions. May Cp was traded at $601 for C3 and C3/C4 at $15.
+
+**FAR EAST**
+
+ Cash premium was traded highest at $27 to May FEI for 1H May 23/0 parcel earlier this week, but bids softened to low 20s afterwards. Similar parcel for 2H May delivery was bid at $2 whereas offered at $20. The surging premium has refrained buyer interests. Huatai canceled their buy tender for 4/0 for 1st decade May delivery into Ningbo as offers at FEI plus 30s level. A couple of PDHs decided to advance their turnaround plans as the higher feedstock costs eroded the margins. Trump’s steep tariff gamble brings volatilities over political risks and concerns on potential economy recessions. Chinese importers are awaiting China government’s countermeasures before taking further actions.

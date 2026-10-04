@@ -1,0 +1,26 @@
+---
+id: "4BD4D857-F4EF-4FC7-8316-A5EBB7627E97"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-06-16"
+year: 2023
+week: 24
+title: "Fearnleys S&P Weekly Comment - 2023-06-16"
+---
+
+# Fearnleys S&P Weekly Comment (2023-06-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-06-16 (Week 24)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `4BD4D857-F4EF-4FC7-8316-A5EBB7627E97`
+
+---
+
+## Market Commentary
+
+An increasing level of uncertainty is getting hold of the dry SnP markets with a subdued sentiment leading potential buyers to take a wait and see position unless a discount to last done can be secured. A number of vessels have however changed hands this week, notably in the Kamsarmax space where two units have been sold, setting much needed benchmarks in a segment that has seen limited activity in recent past. The Chinese controlled JY BULK (82k dwt, Chengxi , 2018) has been sold at Usd 28.5m while the Korean built DANHIL (82kdwt, Sugdong, 2012) was sold with her balance of TC attached at Usd 23.5m. Clearer signs of softening values can be seen in the Supramax sector with some Sellers of circa 10-year-old units deciding to go meet an ever-softening bid. More resistance is of course witnessed on more modern Ultramax designs with Owners reluctant to entertain the lower levels currently indicated in the market. Very little to report on the secondhand tanker front which continues to see a thin list of available modern tonnage unless a substantial premium is offered. A subdued activity which is however not reflective of the bullish sentiment shared by most tanker players, a positive outlook which becomes more apparent on the newbuilding front with an ever increasing number of contracts being placed in China.

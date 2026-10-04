@@ -1,0 +1,30 @@
+---
+id: "2F6DA4E0-970E-44FE-BE92-FE03232C7E42"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-01-19"
+year: 2022
+week: 3
+title: "Fearnleys Suezmax Weekly Comment - 2022-01-19"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-01-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-01-19 (Week 3)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `2F6DA4E0-970E-44FE-BE92-FE03232C7E42`
+
+---
+
+## Market Commentary
+
+You'd be forgiven for thinking that oil prices, presently at eight year highs, had parted permanent company with the physical freight market. The silver lining that may clear away the present bleakness comes from Goldman Sachs, who believe that by the next Northern Summer, oil inventories in OECD countries will fall to their lowest levels since 2000, and with it, Brent oil prices rising to USD 100 later this year. To the here and now, the Atlantic remains active with no discernible back haul market, as everything has become fronthaul. If this activity persists TD20 may nudge to high WS 50's. In the East, there's been an uptick in enquiry which may add a point or two, but a fresh round of cargoes is required for it to truly push on.
+
+**MEG**
+
+/East trades WS 62.5 for now.

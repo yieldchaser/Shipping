@@ -1,0 +1,26 @@
+---
+id: "0E224118-93F6-4E15-B842-8E6E42C77223"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-05-12"
+year: 2021
+week: 19
+title: "Fearnleys Suezmax Weekly Comment - 2021-05-12"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-05-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-05-12 (Week 19)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `0E224118-93F6-4E15-B842-8E6E42C77223`
+
+---
+
+## Market Commentary
+
+The Suezmax market remains depressed with all load-zones under downward pressure. Volumes remain so pitifully low in the East that we saw a modern unit booked at 130kt x ws52 for a MAF/Bataan run. Had charterers stuck around and fished for a bit longer, it may even have been less. Td23 looks like the next route to lose a point or two and could touch ws15 S/S as the list of FOC ships at Galle is starting to pile up. The East list is so long and Wafr/East cargoes in such short supply, logic dictates that further falls could drag that run down to mid/high ws50's. In the West, a Libya/Ningbo cargo dragged rates to a new recent low of USD 2.25M which hopefully represent some sort of bottom. There is zero support from Aframax or VLCCs which paints a rather bleak picture for the ultra short term.

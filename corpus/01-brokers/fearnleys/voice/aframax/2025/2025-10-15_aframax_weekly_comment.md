@@ -1,0 +1,26 @@
+---
+id: "5b9a28b7-f0df-4126-a0a7-0ceca943cfeb"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-10-15"
+year: 2025
+week: 42
+title: "Fearnleys Aframax Weekly Comment - 2025-10-15"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-10-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-10-15 (Week 42)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `5b9a28b7-f0df-4126-a0a7-0ceca943cfeb`
+
+---
+
+## Market Commentary
+
+North Sea Dates pushing out toward the final 5 days of October. Positions have remained tight with a mixture of delayed Itineraries and vessels heading out of the area. With the tight list even though activity has been muted rates have held and allowed owners to be a bit more selective in what they offer for. Heading into the last 5 days of October window market remains balanced and could easily tip in a firmer direction. Mediterranean Activity is still strong in the Mediterranean/Black Sea as fixing window reaches end-month dates soon and some ports already sold-out for October. Tonnage list will refresh a bit with some natural local vessels returning in position but overall, it remains thin. No downside for the rates and repeating last dones should be there as some owners are keen on profit-taking as returns are healthy.

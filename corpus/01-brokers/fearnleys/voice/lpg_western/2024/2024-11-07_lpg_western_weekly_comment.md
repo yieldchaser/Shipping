@@ -1,0 +1,26 @@
+---
+id: "6f957943-2d86-440f-94c7-0d7ae9c1fcbe"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2024-11-07"
+year: 2024
+week: 45
+title: "Fearnleys LPG Western Weekly Comment - 2024-11-07"
+---
+
+# Fearnleys LPG Western Weekly Comment (2024-11-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2024-11-07 (Week 45)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `6f957943-2d86-440f-94c7-0d7ae9c1fcbe`
+
+---
+
+## Market Commentary
+
+AMERICAS LPG market activity levels have been subdued this week due to the very well-attended seminar in Houston. With November trades effectively concluded, the focus is now squarely on December when offers are being seen at 19cpg and bids at the 18cpg level for a 4:0, which is off from earlier levels but still robust. The EIA this week posted a 1mmbbl decline in overall stocks for a total as of 1st November of 100.5mmbbls. There was general agreement, however, that there remains a considerable chance for builds in the coming weeks, but nonetheless this is a hearty start to the winter season. Meanwhile, a late season tropical storm in the Caribbean is expected to grow to hurricane classification. The storm is presently aimed at the upper Texas Gulf Coast is being monitored.

@@ -1,0 +1,30 @@
+---
+id: "36999C6B-418E-40B2-A816-F50DFCC79A36"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-05-31"
+year: 2021
+week: 22
+title: "Fearnleys VLCC Weekly Comment - 2021-05-31"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-05-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-05-31 (Week 22)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `36999C6B-418E-40B2-A816-F50DFCC79A36`
+
+---
+
+## Market Commentary
+
+Not a week to live long in the memory, made shorter by the holiday Monday in many places. Rates remained pretty steady and credit due to owners who’ve been able to prevent further slides in the face of pretty mediocre enquiry.
+
+**MEG**
+
+/East has remained at the ws36 level and with the MEG volume count a little behind schedule (approx. 65 fixtures of an expected 100-110), many expected a bit of a kick up this week, that so far has failed to materialize. Little support from the Atlantic market as West Africa/East deals remain around ws36.5, and the USG cargoes only drip-feeding in. Many charterers keeping cargoes off the open market, keeping a lid on things by working in the shadows. With bunker prices now ticking up to the USD 520 level for vlsfo in Singapore, owners returns will take a hit, so a little resistance can be expected.

@@ -1,0 +1,26 @@
+---
+id: "72E32364-D002-425A-A70C-29D5595D7509"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-05-14"
+year: 2020
+week: 20
+title: "Fearnleys LPG Western Weekly Comment - 2020-05-14"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-05-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-05-14 (Week 20)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `72E32364-D002-425A-A70C-29D5595D7509`
+
+---
+
+## Market Commentary
+
+AMERICAS: A large build of 2.2 million barrels in US inventories was not enough to have a significant bearish effect on Mt Belvieu propane value. Strong Mt Belvieu propane and global demand destruction due to the corona virus has lead to weak FEI and CIF ARA values. Putting netback values close to cancellation levels to the East and negative to Europe. There is hope that further production cuts from the AG for June will clear some of the overhang of cargoes in the East and Indian markets, and improve the arb. No US cargo cancellations have occurred for June liftings . The question is will the arb improve rapidly enough to stimulate trades and keep cancellations to zero? Our guess is YES.

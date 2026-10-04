@@ -1,0 +1,26 @@
+---
+id: "a2552636-dfa3-46e5-b9c6-d07238116ef4"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-07-31"
+year: 2024
+week: 31
+title: "Fearnleys Aframax Weekly Comment - 2024-07-31"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-07-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-07-31 (Week 31)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `a2552636-dfa3-46e5-b9c6-d07238116ef4`
+
+---
+
+## Market Commentary
+
+The North continues to be quiet on the forefront and with bits happening under the radar. Demand is expectedly weak exhibiting the traits of a traditional summer market with relets being on hold for internal cargoes and owners looking for the best options available to them. Even with the USG softening, ballasting out is still a safe option for some of the players in position. In the context of a summer market the Mediterranean has seen some increased activity this week. Owners have been content fixing last done numbers, but with tonnage being worked through they might feel empowered moving forward if opportunities in the second decade keep coming. Suezmax are soft in West Africa and USG so maybe some potential to interject with a few vessels open in the region.

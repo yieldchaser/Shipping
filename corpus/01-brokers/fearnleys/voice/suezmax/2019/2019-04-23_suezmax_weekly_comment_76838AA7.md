@@ -1,0 +1,26 @@
+---
+id: "76838AA7-52FF-44A3-92F1-2AD6EABB88FC"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-04-23"
+year: 2019
+week: 17
+title: "Fearnleys Suezmax Weekly Comment - 2019-04-23"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-04-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-04-23 (Week 17)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `76838AA7-52FF-44A3-92F1-2AD6EABB88FC`
+
+---
+
+## Market Commentary
+
+Suezmax owners managed to keep some momentum in a firmer market leading into the Easter holidays as Charterers rushed to cover stems before the impending prolonged break, TD20 briefly saw returns close to 18k per day. However, inevitably tonnage again built as the market was paused for a few days, thus the early part of this week has seen rates eroding again. We are round the corner from a predicted impending market recovery at the back end of June and surely this is the last chance for Charterers to wrestle control in a downward direction for a while.

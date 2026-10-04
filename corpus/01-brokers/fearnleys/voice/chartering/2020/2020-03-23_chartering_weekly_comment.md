@@ -1,0 +1,26 @@
+---
+id: "6158EAF7-DCA9-41FA-A59F-F4BDECC364B5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-23"
+year: 2020
+week: 13
+title: "Fearnleys Chartering Weekly Comment - 2020-03-23"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-03-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-03-23 (Week 13)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `6158EAF7-DCA9-41FA-A59F-F4BDECC364B5`
+
+---
+
+## Market Commentary
+
+EAST It has been a week of many moving parts in the East. Covid-19 continues to create a lot of uncertainty, such as India on lockdown and implementation of 14-day quarantine rule from departure of last port, which could potentially create havoc for MEG to India trade. We already seeing the effects of this with delays at most Indian ports. Activity on shipping has been limited to a couple of freight tenders, surprisingly from players who are not usually active in the freight market. One of these tenders is on the back of spot fob purchase therefore taking advantage of current low prices. Freight rates have so far been holding up for current fixing window 1H April, but moving into 2H April we feel that freight may come under pressure again. This partly due to weakening spot demand for LPG in countries like India, as industrial demand is expected to take a big hit. WEST In the West, the general consensus this week has been that freight rates should be lower given a weaker outlook on the product front. However, a lack of liquidity has made it difficult to determine exactly where the market should be. The number of fixtures beyond 10th of April has been few and given that we are now too late for cancellations in the second decade of the month there should still be a handful of uncovered cargoes for that period. With that said, the third decade looks a lot more sparse on inquiries since a handful of cancellations are rumoured in the market towards the end of April. As a result, it is difficult to find compelling arguments for why freight rates would be supported going into May, as charterers will seek lower rates to compensate for poor netbacks.

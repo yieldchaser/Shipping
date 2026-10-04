@@ -1,0 +1,26 @@
+---
+id: "B223F3D1-6B1F-44CC-9032-D043FC8AA0D5"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-11-17"
+year: 2021
+week: 46
+title: "Fearnleys Aframax Weekly Comment - 2021-11-17"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-11-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-11-17 (Week 46)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `B223F3D1-6B1F-44CC-9032-D043FC8AA0D5`
+
+---
+
+## Market Commentary
+
+Aframax activity in the North Sea and Baltic came to a halt this week. Inevitably rates came off on the back of a longer tonnage list and less cargoes quoted in the market. Going forward we expect the market to remain soft, and we could also see a further decrease in rates. Much of the same can be said about the Mediterranean/Black Sea market where rates have come off due to there are not being enough cargoes to satisfy the tonnage build up which is currently keeping the rates in favor of charterers. Neither in the Mediterranean/Black Sea we expect rates to firm in the short run.

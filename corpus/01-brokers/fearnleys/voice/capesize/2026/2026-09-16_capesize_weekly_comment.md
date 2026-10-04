@@ -1,0 +1,34 @@
+---
+id: "7a70d1fd-810d-4869-b27f-3720185fe162"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-09-16"
+year: 2026
+week: 38
+title: "Fearnleys Capesize Weekly Comment - 2026-09-16"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-09-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-09-16 (Week 38)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `7a70d1fd-810d-4869-b27f-3720185fe162`
+
+---
+
+## Market Commentary
+
+This week we saw softening sentiment across the Capesize basins. Today activity across Atlantic and Pacific was fairly quiet following last week's market highs; sentiment turned negative as we saw C3 and C5 easing yesterday.
+
+**Pacific**
+
+ weakness dominated as yesterday's fixtures concluded in the mid USD 16s, well below the earlier week USD 17+ offers, reflecting a lack of bidding in the pacific. This morning a recent fixture reported for a West Australian fixture at USD 15.95 for early October laycans, signaling potential further softening.
+
+**Atlantic**
+
+ sentiment also flattened with TA and FH under pressure as forward offers struggle to find support. Although todays C3 index rose slightly to USD 42.46, owners continue to offer at mid USD 43 levels with little feedback, and yesterday we saw last done levels for mid-October dates around mid-low USD 42. Both basins overall have seen a loss in momentum compared to last week's hot market. FFAs has mixed sentiment with future freight showing slight upside going forward.

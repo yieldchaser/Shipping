@@ -1,0 +1,26 @@
+---
+id: "9B372AB3-5528-43FA-8191-14EF4AD90486"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-12-21"
+year: 2022
+week: 51
+title: "Fearnleys Aframax Weekly Comment - 2022-12-21"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-12-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-12-21 (Week 51)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `9B372AB3-5528-43FA-8191-14EF4AD90486`
+
+---
+
+## Market Commentary
+
+The Nsea Aframax market slowed down on the back of increased Suezmax and VLCC tonnage fixing stems ex East Coast UK and West Coast Norway leaving less volumes to lift for their smaller siblings. Rates have started to come off and we expect this soft sentiment to continue into the new year fixing window. More of the same in the Med/BSea market as a mix of Suezmaxes fixing Aframax stems, oversupply of Afras, and slower activity cut around 100 WS points for local runs. Owners accepted their fate and fixed lower, however they still earn decent returns. Last week of the year might be busy with charterers reaching forward and owners having the chance to prevail rates from losing more ground.

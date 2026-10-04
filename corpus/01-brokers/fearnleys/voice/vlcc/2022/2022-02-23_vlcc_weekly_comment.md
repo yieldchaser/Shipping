@@ -1,0 +1,26 @@
+---
+id: "DC907FE8-96AF-44F7-9BF1-4142B7FB6F7F"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-02-23"
+year: 2022
+week: 8
+title: "Fearnleys VLCC Weekly Comment - 2022-02-23"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-02-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-02-23 (Week 8)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `DC907FE8-96AF-44F7-9BF1-4142B7FB6F7F`
+
+---
+
+## Market Commentary
+
+A small surge of enquiry in Wafr saw a WS 37.5 logged eastbound and WS 41 reported to WCI yesterday, with potential for more as cargoes remain uncovered. Today a WS 40 was concluded for a Brazil/China run. With oil prices eying USD 100/bbl the freight element becomes negligible compared to the cargo value, easing the downward rate pressure. Alas, most rate gains are offset by galloping bunker prices, and with compliant bunkers now north of USD 750/mt in Singapore those ships not scrubbered up are becoming sitting ducks. Unipec and their likes have gotten away with a WS 32 MEG/China on multiple occasions of late, but are finally meeting a bit more resistance as owners eye upward potential. It may be too early to call a paradigm shift, but any improvement will be welcomed by a starved owning community.

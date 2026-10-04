@@ -1,0 +1,26 @@
+---
+id: "0587681E-57C3-4F9B-B39A-52B5F4DE2883"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-02-04"
+year: 2019
+week: 6
+title: "Fearnleys Aframax Weekly Comment - 2019-02-04"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-02-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-02-04 (Week 6)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `0587681E-57C3-4F9B-B39A-52B5F4DE2883`
+
+---
+
+## Market Commentary
+
+As expected, Aframax rates in the N.Sea and Baltic came under downward pressure this week. The downward correction was mainly due to lack of activity and a build-up of available tonnage in the area. As it will take some time to absorb the prompt available tonnage, we expect the market to stay soft till we reach 3rd decade fixing window. A rather quiet week in Med and Bl.Sea. Owners have been more reluctant to ballast away from the area in the back of seeing alternative markets taking a hit, with Carib-USG dropping around ws45 points and USG-TA dropping ws25-30 points in a week’s time. We have seen a slight downward trend on straight cross Med voyages while Bl.Sea stems continued to trade sideways. Expect the market to remain steady/soft in the coming week with the support of a healthy tonnage list.

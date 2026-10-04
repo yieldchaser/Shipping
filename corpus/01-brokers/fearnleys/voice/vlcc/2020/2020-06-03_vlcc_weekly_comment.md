@@ -1,0 +1,30 @@
+---
+id: "3610E972-5BC8-45A6-82B5-F5F47428D307"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-06-03"
+year: 2020
+week: 23
+title: "Fearnleys VLCC Weekly Comment - 2020-06-03"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-06-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-06-03 (Week 23)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3610E972-5BC8-45A6-82B5-F5F47428D307`
+
+---
+
+## Market Commentary
+
+June is generally a happy month, and if it hadn’t been for Covid-19 we'd all be enjoying Posidonia poolside in Greece now. That said the weather in Oslo has been better than Greece in the last week, although there are now clouds on the horizon, as is the case in the VLCC market. With rates having soared in the region of 35% last week, all but a couple of points have now been negated.
+
+**MEG**
+
+/east is currently standing at a flat W50 MEG/East for older tonnage, and 2.5-5 points more for a modern unit. Still quite a healthy demand in the Atlantic helping to shore up rates. However, everything is interconnected and unless the rot is stopped in the MEG, then rates from the western hemisphere will inevitably follow suit. Bunker prices have also gone up on the back of soaring crude prices, denting daily earnings further - although still yielding somewhere in the $40k's/day depending on the ship's attributes and the voyage in question.

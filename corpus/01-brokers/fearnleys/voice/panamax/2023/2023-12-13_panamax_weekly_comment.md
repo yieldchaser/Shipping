@@ -1,0 +1,26 @@
+---
+id: "884e78c9-96f4-445e-b51b-d287c69d7e00"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-12-13"
+year: 2023
+week: 50
+title: "Fearnleys Panamax Weekly Comment - 2023-12-13"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-12-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-12-13 (Week 50)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `884e78c9-96f4-445e-b51b-d287c69d7e00`
+
+---
+
+## Market Commentary
+
+The Panamax market is experiencing diverse trends. In the North Atlantic, a surplus of vessels has led to a softer market, giving charterers the upper hand to negotiate lower rates and favorable terms. This scenario contrasts with the South Atlantic, which is performing well due to increased activity and higher rates driven by regional demands. In Asia, the market is mixed with pressures on Indonesian coal routes, yet there's potential for growth in the southern regions. Overall, the market is cautious, shaped by regional disparities in supply and demand.

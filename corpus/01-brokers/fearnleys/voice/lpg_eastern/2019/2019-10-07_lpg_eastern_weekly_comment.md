@@ -1,0 +1,34 @@
+---
+id: "E3A2821C-AE28-4043-99DA-0259F5301720"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2019-10-07"
+year: 2019
+week: 41
+title: "Fearnleys LPG Eastern Weekly Comment - 2019-10-07"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2019-10-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2019-10-07 (Week 41)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `E3A2821C-AE28-4043-99DA-0259F5301720`
+
+---
+
+## Market Commentary
+
+**MEG:** After the quietness of last week, with it’s limited liquidity, November CP saw a rapid rebound this week. Compared to 1 week ago, November CP has gone up by $45 to $430 at the time of writing.
+
+**Baltic**
+
+ also risen sharply, by $4.57 and close to hitting $80, which has put a limit to FOB buyer’s appetite. One early Nov lifting of an equal ratio cargo is reportedly offered for sale at November CP plus mid-single digit but buyers are not queuing up. ADNOC released their November lifting acceptances, reportedly with only minor delays.
+
+**FAR EAST**
+
+: A bullish market in both shipping and products. The freight increase is undoubtedly propping up all CFR premium. During this week, 23kt Propane for 1h November delivery has been bid up from discounts to a premium of $2/3 on November FEI, this level of premium hasn’t been seen since August. Off window, quite a few traders are heard to cover shorts for their 1h November delivery program, which will support the premium for a while. The FEI/MB spread grew to $180ish, which kept the arbitrage window open despite the rising freight. In the “hot” CFR market Pertamina reissued a buy tender for delivery into Teluk Semangka during 6th to 11th November, the result is yet to know. Robust demand was also seen from China after arriving back from their holidays. One S.China importer was reported to pay November CP plus over $70 to secure a 1h November delivery of 11+11 kt c3/c4, this even before freights sharp increase. One North China PDH user issued a buy tender to secure half or upto full cargo Propane for delivery during November, which will close on Friday. Other PDHs users also explore possible Propane purchases in November but sellers are cautious in making offers as freight continue to edge up on a daily basis.

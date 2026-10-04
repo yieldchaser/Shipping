@@ -1,0 +1,26 @@
+---
+id: "84e8bc65-517c-40d7-bfb6-58510e1ae782"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-11-06"
+year: 2025
+week: 45
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-11-06"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-11-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-11-06 (Week 45)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `84e8bc65-517c-40d7-bfb6-58510e1ae782`
+
+---
+
+## Market Commentary
+
+Despite limited spot trades, cash premium for Dec AG FOB, particularly 2/2 grade, stands firm. BPCL issued tender to buy Nov or Dec split cargo, either FOB or CFR, but was heard no Nov offer received but Dec stems only and asking at CP plus teens. By the time of writing, Nov CP was traded at $464 and Nov C3/C4 at $9. Netbacks for FOB ex US on Dec lifting declined, with ARB to EAST narrowing down against soaring freight. Terminal fee for Dec spot was assessed at around 5cpg however under downward pressure, as CFR Asian market being traded at deep discounts. A 23/0 parcel for 1h Dec delivery basis Chiba was traded in window at Dec MOPJ minus $86, which equates to Dec FEI minus $6. A 4/0 parcel for 1h Dec delivery was bid at Bal Nov FEI minus $7, which equates to Dec FEI minus around $15. Outside window a flurry of spot buy tenders for late Nov/Dec delivered propane are ongoing. Jinneng was reported to award two cargos, with one at Dec FEI minus mid high single for US origin, while the other at Dec FEI plus 30s for Non-US origin. FIC cancelled their buy tender for Ningbo PDH as offers are higher than expected in view of weakening downstream margins. Kingfa procured one cargo for 1h Dec delivery into Panjin at Dec FEI minus mid-single and issued another tender to secure 2/0 or 4/0 for 1h Dec delivery into Ningbo. The shrinking propane/propylene spread has led to some PDH shutdown or rate cuts, due to negative economics. China has announced that it will suspend the additional 24% tariff imposed on US goods for one year, while maintaining 10% levies. Chinese importers have reconsidered taking US cargos in latest tenders, if the cost with 10% additional tariff levied is more competitive than non-us stems. Meanwhile, the global shipping market remained unsettled, as market players are still cautiously awaiting the official announcement on US-China port fee truce.

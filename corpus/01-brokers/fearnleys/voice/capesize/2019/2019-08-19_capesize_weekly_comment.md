@@ -1,0 +1,26 @@
+---
+id: "7A836558-D894-4676-BFC7-44FFD11A6F81"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-08-19"
+year: 2019
+week: 34
+title: "Fearnleys Capesize Weekly Comment - 2019-08-19"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-08-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-08-19 (Week 34)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `7A836558-D894-4676-BFC7-44FFD11A6F81`
+
+---
+
+## Market Commentary
+
+After a significant push last week the market calmed down and started to slide on Friday. The West Australia to China route was down from USD 10.00 per metric tonn to USD 9.50 per metric tonn whilst presently again turning positive. The Brazil to China route has been stable in the low 20's and now showing signs of improvement as well. All in all the sentiment is positive and the capesize segment is confident and well supported.

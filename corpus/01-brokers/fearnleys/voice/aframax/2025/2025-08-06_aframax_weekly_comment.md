@@ -1,0 +1,26 @@
+---
+id: "3a2c4e0f-9d2e-4715-aaeb-358738350903"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-08-06"
+year: 2025
+week: 32
+title: "Fearnleys Aframax Weekly Comment - 2025-08-06"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-08-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-08-06 (Week 32)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `3a2c4e0f-9d2e-4715-aaeb-358738350903`
+
+---
+
+## Market Commentary
+
+NORTH SEA Out to the 15th August crude stems are all but covered. Majority of the stems utilizing relets with a few Suezmaxes also in the mix from WCN with rates remaining steady around the 115-117.50 level. The last few days in July and this first week in August have seen a good number of vessels ballast from the area, especially to the US where freight levels have jumped 50 points in the last week although this looks like it will be tested by charterers. Outlook for the next fixing window in the North Sea remains steady. MEDITERRANEAN Mediterranean is steady/sideways this week with most of the activity taking place under the radar and charterers trying to get levels lower than last-done. Tonnage list remains balanced and demand for tonnage will define the direction.

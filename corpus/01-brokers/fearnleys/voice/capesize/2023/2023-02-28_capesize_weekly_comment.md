@@ -1,0 +1,26 @@
+---
+id: "11DFA273-CBCA-4899-B600-A84379A97291"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-28"
+year: 2023
+week: 9
+title: "Fearnleys Capesize Weekly Comment - 2023-02-28"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-02-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-02-28 (Week 9)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `11DFA273-CBCA-4899-B600-A84379A97291`
+
+---
+
+## Market Commentary
+
+There has been a massive push percentage wise the last week, and though levels itself not fantastic, the sentiment is very strong and market activity solid. The average of all time charter routs is up by 138% and we see the buildup of spot ships seen the last weeks dropping. For the week to come we expect a further increase, but hard to imagine it without some kind of breather.

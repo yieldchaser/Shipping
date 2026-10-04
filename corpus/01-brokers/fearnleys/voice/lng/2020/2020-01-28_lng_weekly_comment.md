@@ -1,0 +1,26 @@
+---
+id: "B23D1964-C8DE-4D47-88C9-AC08B204EC94"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-01-28"
+year: 2020
+week: 5
+title: "Fearnleys LNG Weekly Comment - 2020-01-28"
+---
+
+# Fearnleys LNG Weekly Comment (2020-01-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-01-28 (Week 5)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `B23D1964-C8DE-4D47-88C9-AC08B204EC94`
+
+---
+
+## Market Commentary
+
+As we are nearing the end of January, shipping rates have seen further decline with more vessels expected to hit the market once redelivered by her present Charterers. Although the Atlantic market did provide some support with a handful of potential requirements and FOB cargo tenders seen loading from W. Africa and the US Gulf, the extended holidays, limited requirements in the East and an over supplied product market have put pressure on the current spot rates. It’s no surprise given that the shouldering months are resurfacing around this time of the year and as such, utilization is key. With that in mind, it seems tonnage providers are looking for multi month charter opportunities while most Charterers seem to prefer to only cover with spot charters instead. Although there are no new building deals concluded this week, there are a handful of larger ongoing long-term tenders which could in turn see more delivery slots being reserved or firmed up from the shipyards. After passing her 40th year birthday, another LNG vessel was sold for demolition last week.

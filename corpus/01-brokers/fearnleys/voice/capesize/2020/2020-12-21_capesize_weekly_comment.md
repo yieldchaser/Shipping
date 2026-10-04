@@ -1,0 +1,30 @@
+---
+id: "204C6FE0-FCF7-45DF-8B0E-F3C0A126C7DC"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-12-21"
+year: 2020
+week: 52
+title: "Fearnleys Capesize Weekly Comment - 2020-12-21"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-12-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-12-21 (Week 52)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `204C6FE0-FCF7-45DF-8B0E-F3C0A126C7DC`
+
+---
+
+## Market Commentary
+
+It is looking brighter as year-end is approaching. West Australia iron ore is in demand and present levels are excess of USD 8 pmt, up from sub 7 level last week. The number of ships in ballast has recently been relatively low, resulting in a recent increase in rates on this route as well. With the miners still there to fix tonnage for January, rates are presently around USD 16 level, up USD 1 from last week.
+
+**Atlantic**
+
+ remains firm; coal still being sold from Atlantic discharging ports to China. Period activity has been fairly active recently with tonnage being fixed for 1 year in the mid/upper 14,000s.

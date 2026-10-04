@@ -1,0 +1,30 @@
+---
+id: "7570F582-D030-4CA3-B189-501F60444903"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-19"
+year: 2021
+week: 20
+title: "Fearnleys Suezmax Weekly Comment - 2021-05-19"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-05-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-05-19 (Week 20)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `7570F582-D030-4CA3-B189-501F60444903`
+
+---
+
+## Market Commentary
+
+With chatter abounding of a possible Iranian return to the open market (in the not too distant future), there is some marginal expectation that this could translate into better returns at some point. Whilst that's not going to positively impact rates this week, we have seen a moderate uptick in TD23 enquiry with ws18 reported on subs. Whilst those levels provide terrible returns, it's at least up, not down. With the risk of sounding like the most scratched record in history, the East has been too quiet and the build of tonnage at deviation point Wafr/MEG tells its own story. TD20 will remain flat for the remainder of this week as Wafr/East cargoes have failed to materialize in high enough volumes, forcing owners to take Wafr/up, or, book TD23 at negative earnings.
+
+**MEG**
+
+/East will trade low/mid ws50's on modern.

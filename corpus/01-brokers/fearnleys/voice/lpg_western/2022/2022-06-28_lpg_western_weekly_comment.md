@@ -1,0 +1,30 @@
+---
+id: "046CE61B-C11E-4518-922E-FD5179529285"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-06-28"
+year: 2022
+week: 26
+title: "Fearnleys LPG Western Weekly Comment - 2022-06-28"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-06-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-06-28 (Week 26)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `046CE61B-C11E-4518-922E-FD5179529285`
+
+---
+
+## Market Commentary
+
+AMERICAS The EIA’s propane inventory report yesterday was viewed with skepticism, if only because of the technical-related hiatus the bureau took in the week prior. For the week ending 25 Jun the 5-year average build has been 2.85mmbbls, where the two week span from the last EIA report to the most current showed a build from 51.8mmbbls on 10 June to 54mmbbls on 24 June, or a 2.2mmbbl increase. In other words – on average – a 1.1mmbbl weekly build, which was viewed as weak, thus causing the market to resign itself to wait until next week’s data, which is hoped to provide a clearer view of stock levels. That said, at 54.00mmbbls as of 24 Jun 2022, propane stocks in the U.S. are 94% of last year, 72% of two years ago, 76% of three-years ago, 97% of four years ago, and 97% of five years ago. With regards current market rates, spot terminal fees were earlier fixed at as high as 6.50cpg, but have softened at present. Spot FOB offers are presently seen at 6.00cpg, but depending on timing/ratio there is some room to the downside. A recent four cargo tender to supply Mexico was awarded to a trader who will deliver 30,000mt propane parcels: Two in July and two in August, reportedly at 5cpg FOB. Brasil and Chile also remain active covering their winter demand. NWE The butane bloodbath has been the main talking point in the region this week. Storages for butane in the region are full and multiple cargoes are looking for homes with no luck so far. Window offers for butane have fallen from 87% to 84% July Naphtha this week and are yet to find buying interest. The European propane market has taken a backseat and has been relatively quiet. It is clear that the market is not short propane, netbacks from the US for July and August are deep in cancellation territory. We are approaching the seasonal demand lows for the region at the same time as seeing some North Sea LPG production increases, and this increased supply and reduced demand has caused the market to go quiet.
+
+**MED**
+
+ Butane is long in the region as traders look to the region to release some of the North West European butane pressure. Sonatrach postings for July of $700 propane and $650 butane, will have done little to spur demand in the region. Demand above term supplies is not being seen.

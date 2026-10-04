@@ -1,0 +1,26 @@
+---
+id: "4F4AA571-D938-4605-AE6A-8D9AB69FD414"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-09"
+year: 2021
+week: 23
+title: "Fearnleys Panamax Weekly Comment - 2021-06-09"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-06-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-06-09 (Week 23)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `4F4AA571-D938-4605-AE6A-8D9AB69FD414`
+
+---
+
+## Market Commentary
+
+With a slow start to the week and no clear direction, the Panamax market has developed into sliding rates in the Pacific and firming rates in the Atlantic. Especially the North Atlantic is seeing more demand for minerals and a tight list of available tonnage. Good demand out of North America for fronthauls is also keeping pressure to the market. In the Pacific however the exact opposite is happening. Tonnage list is growing and the wide gap between bid/offer is closing in favor of chrts. Period demand is back into play and we value a good spec Kmax at low 24k for 1-year basis PRC delivery.

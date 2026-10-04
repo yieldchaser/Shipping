@@ -1,0 +1,30 @@
+---
+id: "144f05f8-6d3e-4bb8-97ba-98df10b648d6"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-08-14"
+year: 2025
+week: 33
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-08-14"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-08-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-08-14 (Week 33)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `144f05f8-6d3e-4bb8-97ba-98df10b648d6`
+
+---
+
+## Market Commentary
+
+MEG FOB discounts for September lifting remain steady at CP minus $20s due to soaring freight costs, with minimal new deal activity reported. By the time of writing, September CP is traded at $520, while C3/C4 at $23, and Sep/Oct C3 CP at $13 contango.
+
+**FAR EAST**
+
+ Cash differential improved with 23/0 parcels for both 1h and 2h Sep delivery basis Chiba were traded at Sep FEI minus $9 in window. As Us and China extend tariff truce by another 90 days, Chinese importers returned to consider US stems. Kingfa was reported to procure a non-Us 4/0 basis Panjin at Sep CP plus 50s, and two parcels of US 2/0 basis Ningbo at Sep FEI minus low mid-teens. Whereas another Chinese Major importer canceled their tender as offers hover at Sep CP plus 50s seeming unattractive. Other than Propane, Butane is relatively active with a handful of 2/2 cargos placed into NChina, at Sep CP plus high 40s and Sep FEI plus 20s reportedly. FPCC also issued buy tender for 23kt butane on 2h Sep delivery into Mailiao.

@@ -1,0 +1,26 @@
+---
+id: "6A410D8D-618A-4156-9635-F11B0817B7D5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-08-03"
+year: 2020
+week: 32
+title: "Fearnleys Chartering Weekly Comment - 2020-08-03"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-08-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-08-03 (Week 32)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `6A410D8D-618A-4156-9635-F11B0817B7D5`
+
+---
+
+## Market Commentary
+
+WEST Activity has been limited in the US this week. Arb economics don’t seem to support current high freight levels, while some charterers still have time to decide whether or not to cancel US liftings if things don’t improve. Elsewhere, there was some noise around WAF, where one oil major had a freight requirement for early September and an FOB was tendered for sale for around the same dates. VLGC freight offers were too strong for the former, and as a result the cargo ended up being loaded onto a smaller ship. Looking at the positions list for September in the US, the first half of the month remains tight with only a couple of ships available for the period. Further into September, the picture becomes less clear; it is still too far out to determine how owners will position their ships and whether or not more relets will emerge if any liftings are cancelled. EAST Shipping market in the East has finally taken a breather after 2-3 weeks with lots of activity. The August program seems pretty covered for now (unless ships run late for their laycans later), and time of writing we are awaiting Adnoc and Aramco acceptances for September which will set the tone for next month. A couple of fob tenders from middle eastern suppliers in early September has created some attention from the Owners, but otherwise we expect the market to remain fairly quiet until the balance acceptances for September are announced.

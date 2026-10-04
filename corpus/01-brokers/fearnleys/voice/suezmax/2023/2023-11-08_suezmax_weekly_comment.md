@@ -1,0 +1,26 @@
+---
+id: "37fa772d-a4bd-419e-93e6-84fa89b334ec"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-08"
+year: 2023
+week: 45
+title: "Fearnleys Suezmax Weekly Comment - 2023-11-08"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-11-08 (Week 45)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `37fa772d-a4bd-419e-93e6-84fa89b334ec`
+
+---
+
+## Market Commentary
+
+What to say, what to say, what to say.... There's not been a market cargo fixed in West Africa, Brazil, or the US yet this week that we know of, so I think it's fair to say this market is well and truly softer without actually anything to show for it. Tonnage has now built up and we're due a reset on rates. Earnings for owners are still good but the dizzy heights of WS 160 level for TD20 are not sustainable. Right now it's fast looking like this market will reach WS 120s soon. The MEG hasn't exactly been busy either. Relets are there to fix and the assessment above goes for all Suezmax markets. Rates will drop.

@@ -1,0 +1,26 @@
+---
+id: "da151fd8-d23c-4f28-ad87-0cbc8f78d0ae"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-11-06"
+year: 2024
+week: 45
+title: "Fearnleys Supramax Weekly Comment - 2024-11-06"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-11-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-11-06 (Week 45)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `da151fd8-d23c-4f28-ad87-0cbc8f78d0ae`
+
+---
+
+## Market Commentary
+
+The market continued to face some challenges across both Supramax and Handysize segments, with weak sentiment and limited fresh inquiries placing downward pressure on rates. In the Supramax market, the Atlantic remained sluggish, particularly in the US Gulf and South Atlantic, while Asian routes showed some signs of stabilizing after recent declines. The Handysize market also experienced a quiet week, with increased tonnage availability in Asia contributing to softening rates. Activity was slow in the Continent-Mediterranean region, where rates largely held at previously established levels. A notable fixture involved a 37,000 dwt vessel fixed at USD 12,500 for a Casablanca to Caribbean trip.

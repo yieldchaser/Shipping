@@ -1,0 +1,26 @@
+---
+id: "9643db5a-5ae2-40c6-999b-e1405faff28d"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-05-28"
+year: 2025
+week: 22
+title: "Fearnleys Supramax Weekly Comment - 2025-05-28"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-05-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-05-28 (Week 22)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `9643db5a-5ae2-40c6-999b-e1405faff28d`
+
+---
+
+## Market Commentary
+
+The week began on a softer note, with sentiment remaining weak across both the Atlantic and Asian markets. In the Atlantic, limited fresh enquiry and a lack of support from the south continued to weigh on rates, while the US Gulf held relatively steady but lacked momentum. Asia remained under pressure, particularly in the south, where an oversupply of tonnage and scarce cargo availability kept the market subdued. Overall, activity was muted and confidence remained low. By the end of the week, the tone across both basins was soft, with the 11TC average reflecting the weaker conditions. Limited activity on period side.

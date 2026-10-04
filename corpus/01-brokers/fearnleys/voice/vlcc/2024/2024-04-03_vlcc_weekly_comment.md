@@ -1,0 +1,30 @@
+---
+id: "320b8025-d962-424f-bcb9-19d757ce643e"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-04-03"
+year: 2024
+week: 14
+title: "Fearnleys VLCC Weekly Comment - 2024-04-03"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-04-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-04-03 (Week 14)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `320b8025-d962-424f-bcb9-19d757ce643e`
+
+---
+
+## Market Commentary
+
+If not a resurrection, the market showed signs of improvement as the trading week kicked off. Whilst most of the Western world were still stuffing their face with Easter eggs Monday saw a couple of MEG/East concluded at higher numbers. Extrapolating on the last couple of months we might have another 3-5 cargoes left to be covered for 2nd decade April in the MEG but barring some Chinese Uber bookings the third decade has hardly been touched, and there’s only the balance of this week and next week to cover it before we start to see May stems emerging. The front end of the MEG position list is also well balanced, if not tight. However, Atlantic action has been wanting and the position list has been added to by Venezuelan stems evaporating.
+
+**USG**
+
+ export is also behind the curve and downward pressure appears inevitable unless activity picks up.

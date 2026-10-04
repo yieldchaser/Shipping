@@ -1,0 +1,26 @@
+---
+id: "603df7cc-d9e9-4a4b-848d-0e198ceb2f5d"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-06-17"
+year: 2026
+week: 25
+title: "Fearnleys Supramax Weekly Comment - 2026-06-17"
+---
+
+# Fearnleys Supramax Weekly Comment (2026-06-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2026-06-17 (Week 25)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `603df7cc-d9e9-4a4b-848d-0e198ceb2f5d`
+
+---
+
+## Market Commentary
+
+Over the past week, sentiment in the Supramax and Handysize sectors remained broadly positive, led by continued strength across the Atlantic basin. The US Gulf and South Atlantic markets consistently provided support, with improving confidence and healthy cargo demand underpinning activity despite limited reported fixtures. Mediterranean conditions also firmed gradually, benefiting from steady enquiry and better cargo coverage. In contrast, Asian markets were generally more balanced, with sentiment ranging from stable to mildly positive. While demand remained present, particularly for regional and long-haul employment, momentum appeared less pronounced than in the Atlantic. Overall, owners retained a positive outlook, supported by tightening vessel availability in Atlantic regions and a steady flow of cargo requirements across both vessel segments. Period appetite remains however very few fixtures reported past week.

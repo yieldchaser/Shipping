@@ -1,0 +1,30 @@
+---
+id: "84b9f5b9-973d-46be-b0bc-e236a950019c"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-04-24"
+year: 2025
+week: 17
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-04-24"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-04-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-04-24 (Week 17)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `84b9f5b9-973d-46be-b0bc-e236a950019c`
+
+---
+
+## Market Commentary
+
+MEG Qatar Energy was reported to sell a late May lifting heavy propane cargo to a Middle East trading house at Jun CP plus high teens. KPC also offered a late May lifting evenly split cargo via tender, yet to hear result. Saudi Aramco released their May acceptance with tolerance cuts on propane, similar as Apr liftings. With higher demand on propane from China petchem users to replace US stems, against abundant butane supply, netback for even split cargo is assessed with no premium or even in discounts, amid limited CFR/DES discussions. By the time of writing, May C3 was assessed at $594 and May C3/C4 at $28. May/Jun CP was traded at $30 backwardation.
+
+**FAR EAST**
+
+ Cash differentials for May delivery propane edged up this week, with 23/0 parcel for 2h May reported changed hand at May FEI flat, and similar bid improved to plus $0.5 to May FEI in Thurs Window. Outside window a flurry of buying tenders floating, especially Chinese importers seeking Jun and forward month non-US propane supply. A handful of Jun delivered propane, including both 4/0 and 2/0 was reported sold basis South China at Jun CP plus 60s. Taiwan FPCC canceled their term buy tender for flexible ratio delivered from Jun to Sep into Mailiao, as discounts to MOPJ is not attractive. Jinneng issued mini term buy tender to secure heavy propane cargo supply from Aug to Dec delivery. Compared to active propane trades, butane is less favored among Chinese importers, as of slow consumption amid high butane inventory, squeezed margin in gasoline additives, and no advantage for cracking use. Indian importers are approached with offers on Us stem at much aggressive landed price vs CP link term supply. HTC issued tender to buy 23k butane for 2nd decade Jun delivery. A couple of May arrival special origins cargo of heavy propane ratio were not sold and expected to roll for Jun sales. However with soaring premium on non US propane, cash premium for such stems on Jun delivery was also bid up, and bids for propane was heard at CP plus 40s.

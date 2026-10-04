@@ -1,0 +1,30 @@
+---
+id: "3f9932b5-3179-4563-94b4-40658223398a"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-12-27"
+year: 2023
+week: 52
+title: "Fearnleys Capesize Weekly Comment - 2023-12-27"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-12-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-12-27 (Week 52)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `3f9932b5-3179-4563-94b4-40658223398a`
+
+---
+
+## Market Commentary
+
+We see volumes holding consistent with enquiries from miners and operators on C5 for mid-January dates. On the East Australia coal and Pacific front, we see several fresh enquiries and an uptick in volumes from previous week. On South Africa and Indian business, we see limited enquiries primarily for mid to late January stems. On C3 ex Brazil to China and West Africa, we see enquiries for mid to late January.
+
+**Far East**
+
+ tonnage seems to be slightly tight. Ballasting tonnage weighs heavily on mid-January onwards. On C5, we see conclusions at high USD 10 pmt at start of week and mid USD 10 pmt levels by mid-week. On C3, we see limited fixtures concluding at USD 25 pmt levels for 2nd half of January and several adopting a wait and see approach.

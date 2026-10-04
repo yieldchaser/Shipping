@@ -1,0 +1,26 @@
+---
+id: "9124EE0E-7D74-432F-AE4D-23B1B3C4604A"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-07-15"
+year: 2022
+week: 28
+title: "Fearnleys S&P Weekly Comment - 2022-07-15"
+---
+
+# Fearnleys S&P Weekly Comment (2022-07-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-07-15 (Week 28)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `9124EE0E-7D74-432F-AE4D-23B1B3C4604A`
+
+---
+
+## Market Commentary
+
+The positive momentum experienced over the past couple of weeks in the tanker snp markets continue to drive activity in most sectors with a number of sales to report this week. As expected, the product markets are leading the charge with values reflecting the healthy earning which has gradually been taking hold over the past couple of months. A trend in pricing particularly apparent on the MR front which has seen a higher volume of transactions setting improved benchmarks across most vintages. Elsewhere we continue to see a drive on Aframax values with a strong buying enquiry competing over a limited supply of sale candidates. Saying that we expect a number of potential sellers to come meet this renewed interest in hope to capture the value offered by the most recent appreciation in values. A jump well illustrated by the sale of the “ELANDRA ANGEL” (115k dwt 2009 Samsung) which was sold by Vitol at Usd 32m. Important to note that the vessel is scrubber fitted which would condone a notable premium against a comparable non scrubber fitted vessel. With most headlines stolen by Tanker activity dry SnP markets remain relatively uneventful with values still showing resilience against a certain degree of uncertainty that seems to be settling in. A flat pricing curve that is as usual well supported in the Supramax market with units such as the “NEUTRINO” (58k dwt 2012 Kawasaki) still achieving levels in line with their relative last done.

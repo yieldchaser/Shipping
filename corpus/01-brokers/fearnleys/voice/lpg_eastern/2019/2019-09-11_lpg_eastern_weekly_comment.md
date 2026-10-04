@@ -1,0 +1,30 @@
+---
+id: "A25F991E-C0F2-4360-9E66-B20E4949888E"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2019-09-11"
+year: 2019
+week: 37
+title: "Fearnleys LPG Eastern Weekly Comment - 2019-09-11"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2019-09-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2019-09-11 (Week 37)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `A25F991E-C0F2-4360-9E66-B20E4949888E`
+
+---
+
+## Market Commentary
+
+**MEG:** ADNOC released their October acceptances without any major delay’s or advancements being reported, at the same time it seems they have no spot tons avails. Qatar Petroleum reportedly to have awarded their early October lifting of a full cargo Propane at October CP minus a small discount to a Chinese Major. Following this, Qatar Petroleum issued yet another tender, this time to sell basis middle October loading a full Propane, closing Monday 16th Sept. KPC was also reported to award their mid Oct lifting 3/1 cargo as well at some small premium to October CP, which gains value from forward month contango if delivered into Nov. Compared to full Propane or Propane heavy cargoes, equal ratio cargoes are presently more in favor as there seems more shorts into India and Indonesia. This week a late October lifting of 2/2 FOB was traded at October CP plus a small premium. Over the week October CP fluctuated with Crude, yet still gained the support from demand driven by the SE Asia market. At time of writing, October CP is traded at $353 and butane at $13 higher. November CP maintains a $3-4 contango, reflecting the anticipation of a probable tightness of Non-Us origin cargoes against a better demand in winter.
+
+**FAR EAST**
+
+: Big gap exists between bid and offer for 23/0 delivered during 1h October, with Seller’s asking Oct FEI minus $21 while Buyer’s at minus $30. This is despite a similar cargo earlier this week was traded at minus $18 off window. Buyer’s appetite is limited, seeing ample US supply and an impending expansion in LPG exports. A Seller with 2h October arrival of full cargo Propane is asking Oct FEI minus $15 but no buyer seen. One E.China importer is reported to have awarded their buy tender for 23/0 for delivery during 2h October at October CP plus low 50s while another similar cargo was sold at mid-50s into NChina. There are still a few more Propane heavy inquiries, which value still assessed at +50ish. Pertamina reissued buy tender for two equal-ratio cargos for early Oct and end Oct delivery respectively, the result is yet to reach the market but market players reckon that the early October delivery inquiry might not have been awarded, or the price could be higher than the perceived market level. Latest India’s IOC is reported to have awarded an equal ratio cargo for October delivery at Oct CP plus high 40s.

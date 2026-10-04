@@ -1,0 +1,26 @@
+---
+id: "B2089C10-B636-46CB-AA38-6D35068456B9"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-18"
+year: 2020
+week: 21
+title: "Fearnleys Chartering Weekly Comment - 2020-05-18"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-05-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-05-18 (Week 21)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `B2089C10-B636-46CB-AA38-6D35068456B9`
+
+---
+
+## Market Commentary
+
+WEST Although the past week has been a slightly busier one, little or no fixtures have involved the largest owners in the market. This is because owners have so far been unwilling to offer freight on a floating basis while charterers have had an appetite for the same to make unfavourable product conditions more workable. With stronger crude and Saudi cutbacks in the MEG, there seems to be more buy-side interest in USGC FOB cargoes, and it would not be surprising to see owners rejoin the fray with lower fixed rate ideas than previously given length on position lists. However, there remain a handful of relets throughout June, and this could put further pressure on freight in the short term. EAST The Saudi dates for June were announced at the beginning of the week, which finally triggered some much needed activity on freight after several quiet weeks. A variety of ships from the owners and traders were taken out, and despite most of these deals still being done at discount levels to last printed Baltic, it took out a lot of the spot open tonnage from the market. Some of these ships later failed subjects, but irrespective of this the sentiment on freight seem to have turned (for now) in the East. Cyclone ‘Amphan’, one of the worst storms to hit Eastern India in decades made landfall overnight. It is still unclear what impact this will have on seaborne imports of LPG into this part of India, if any, but it could potentially result in further delays for ships who are due to discharge there.

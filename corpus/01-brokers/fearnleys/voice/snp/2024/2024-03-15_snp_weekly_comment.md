@@ -1,0 +1,26 @@
+---
+id: "653589cc-2cb9-4e7d-baeb-e74ef8bf822c"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-03-15"
+year: 2024
+week: 11
+title: "Fearnleys S&P Weekly Comment - 2024-03-15"
+---
+
+# Fearnleys S&P Weekly Comment (2024-03-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-03-15 (Week 11)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `653589cc-2cb9-4e7d-baeb-e74ef8bf822c`
+
+---
+
+## Market Commentary
+
+There is a feeling of the second-hand S&P market resembling a runaway train, particularly on dry, where we see huge activity at rapidly firming levels. Modern tonnage is still hard to come by, however, over the next few months owners may find the surging prices too much to resist provided the market is willing to pay up. Scrubber fitted Newcastlemax sisters ATLANTIC TIGER/DRAGON 209K DWT SWS 2020 fetched a notable USD 71M per vessel to Pan Ocean. A rally in values that becomes particularly apparent when compared to the USD 63.5M per vessel paid for scrubber fitted BULK SHANGHAI/SEOUL 208K DWT NEW TIMES 2019 in February of this year. Otherwise, players have been jostling for older units where competition is quickly driving up prices and expectations. There were 10 buyers on supramax QUEEN BUSAN 55K DWT KAWASAKI HI 2010, which eventually sold at USD 17.15M, setting a new benchmark in this competitive size and age bracket. The tanker market of late has been somewhat flying under the radar, rates have remained firm with a high level of purchase enquiry that is met short by an ever-thinning list of available candidates . In the immediate term, appetite is slightly lower on older units, perhaps due to some scepticism over sanctions and longevity of this run. That said, Turkish buyers are reported to have picked up suezmax KARVOUNIS 156K DWT SUMITOMO 2013 at 67.5M. Elsewhere, older units have softened, seen in scrubber fitted VLCC ACHELOUS 299K DWT IHI 2004 at USD 30M (SS due 09/24).

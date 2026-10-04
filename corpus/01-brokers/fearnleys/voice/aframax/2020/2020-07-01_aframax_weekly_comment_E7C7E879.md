@@ -1,0 +1,26 @@
+---
+id: "E7C7E879-D106-4315-BCB0-1CF7B7DC77A6"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-07-01"
+year: 2020
+week: 27
+title: "Fearnleys Aframax Weekly Comment - 2020-07-01"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-07-01 (Week 27)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `E7C7E879-D106-4315-BCB0-1CF7B7DC77A6`
+
+---
+
+## Market Commentary
+
+It is still a continuous struggle for Aframax owners trading in the North Sea and Baltic to find suitable employment for their vessels, resulting in a freight that barely cover their operation costs. Going forward, rates will continue at these bottom levels yielding minimal returns for owners which also encourages owners to sit idle instead of competing for cargoes giving negative returns. Also the Mediterranean and Black Sea market has continued to trade sideways yet another week as we are approaching the midst of summer. As in the North, TCE returns are barely in the black as cargo activity is not satisfying the supply of available tonnage in the area. We expect a continued flat market in the week to come, as there are no signs of activity picking up in the short run.

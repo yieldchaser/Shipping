@@ -1,0 +1,26 @@
+---
+id: "ce29d077-aad9-4c98-8a07-e65d09d9dfa4"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-08-01"
+year: 2025
+week: 31
+title: "Fearnleys S&P Weekly Comment - 2025-08-01"
+---
+
+# Fearnleys S&P Weekly Comment (2025-08-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-08-01 (Week 31)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `ce29d077-aad9-4c98-8a07-e65d09d9dfa4`
+
+---
+
+## Market Commentary
+
+Sales activity in the tanker sector was limited this week, with the only reported transaction being the sale of the MR SEAWAYS MIA (49k dwt HMD 2008) at $16.5 million. Despite the subdued volume, the deal underscores continued liquidity in the MR segment and suggests a slight firming in values for MRs of this age. On the dry side, activity remains robust. Notable sales include the HERUN ZHEJIANG (181k dwt SWS 2017), sold for $48 million - marking the second eco Capesize sale recorded this year. Eco Ultramaxes continue to change hands with Belships rumoured to offload the four Chinese blt units BELATLANTIC/BELINDA/BELMONT/BELSOUTH* (63k dwt Jiangsu Hantong 2016/2015*) for $83.6 million en bloc to Singaporean Buyers.

@@ -1,0 +1,26 @@
+---
+id: "e95d2305-2fb8-463e-9fc1-200b83b4b15f"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-12-04"
+year: 2024
+week: 49
+title: "Fearnleys VLCC Weekly Comment - 2024-12-04"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-12-04 (Week 49)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `e95d2305-2fb8-463e-9fc1-200b83b4b15f`
+
+---
+
+## Market Commentary
+
+The VLCC market is like catching a falling knife right now and there aren’t many signs in sight of an uptick any time soon. Daily returns are in the teens for the best of them at prevailing rates, and for the older end of the spectrum OPEX is under threat. Questions are being asked if we are witnessing a paradigm shift in the market, or if it’s just the same old game of hide and seek? The latter is probably the likely explanation, at least that’s been the conclusion the last few months when looking in the rear-view window. China Inc. is becoming more and more dominating on both the ship and cargo side which has clouded she supply-demand picture further. However, volumes are relatively stable month on month and the fleet has not increased. Looking ahead, however, an ageing fleet and a market not even remotely encouraging new orders will all things equal lead to a boom. What comes around goes around – eventually.

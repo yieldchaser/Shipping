@@ -1,0 +1,30 @@
+---
+id: "47D20150-9A92-45F5-989F-2FE1225D731C"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-23"
+year: 2020
+week: 13
+title: "Fearnleys Supramax Weekly Comment - 2020-03-23"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-03-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-03-23 (Week 13)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `47D20150-9A92-45F5-989F-2FE1225D731C`
+
+---
+
+## Market Commentary
+
+A week of negative sentiment brought rates sharply down. Especially with Corona Virus escalation made negative influence on spot and forward rate. Demand in ECSA was vanishing away. South Atlantic rates dropped rapidly. Supramax del South Brasil to Mediterranean was reported to fix USD 10,000, while TCT to WCSA from Argentina paid USD 12,500.
+
+**USG**
+
+ market also felt under pressure with tonnage building up and lack of fresh cargoes. TCT to Mediterranean with petcoke was paid around USD 16,000, however for clean cargoes such as grain, charterers were willing to pay much less. The Mediterranean and Continent market had decent activity with seasonal fertilizers export from Baltic and enough minerals from Black Sea and Medeternina. Ultramax was rumored to fix del Canakkale to West Africa with clinker at healthy USD 13,500. The Asian basin came under pressure, and rates fall for about USD 2,000 per day from previous week. We have seen owners accepting USD 6,000 for Indo RV and slightly more for trips to China. The Indian Ocean is under pressure and due to South Africa shutting down, there is a big concern about near future. End of last week, Ultramax was fixing delivery Richards Bay trip to Vietnam at USD 12,000 plus USD 200,000 ballast bonus.

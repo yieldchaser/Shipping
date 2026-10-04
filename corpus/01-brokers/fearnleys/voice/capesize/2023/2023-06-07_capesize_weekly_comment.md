@@ -1,0 +1,26 @@
+---
+id: "488EB1B9-3F76-4D8B-A3A1-B4529814E84D"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-06-07"
+year: 2023
+week: 23
+title: "Fearnleys Capesize Weekly Comment - 2023-06-07"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-06-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-06-07 (Week 23)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `488EB1B9-3F76-4D8B-A3A1-B4529814E84D`
+
+---
+
+## Market Commentary
+
+After a long period of softening rates, market turned towards the end of the week as FFA values were recovering and demand from the big miners were increasing. The c5 route is up USD 1 from last week, to present mid 8s whilst c3 is presently in the low 19s. However, we don’t see the same support behind the c3 increase as we do on the c5 route.

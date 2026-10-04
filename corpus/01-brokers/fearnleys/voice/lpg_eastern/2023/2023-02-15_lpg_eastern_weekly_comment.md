@@ -1,0 +1,30 @@
+---
+id: "F983CB42-9CEB-47E1-A039-A38B54F9D06D"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-02-15"
+year: 2023
+week: 7
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-02-15"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-02-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-02-15 (Week 7)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `F983CB42-9CEB-47E1-A039-A38B54F9D06D`
+
+---
+
+## Market Commentary
+
+MEG Mar C3 CP surged up to $734 and C4 assessed at flattish to C3. Mar/Apr CP backwardation widen further to $85, from last week’s $75. FOB discussion interests appear thin this week as demands out of India fall below expectation. However, we’ve still see Indonesia PERTAMINA out to buy one evenly split cargo for 15/23 Mar lifting, or can consider buy on CFR basis alternatively. Evenly split cargo for Mar lifting are offered at minus mid single digit discount to Mar CP but yet to entice buyer’s interest in view of the huge backwardation.
+
+**FAR EAST**
+
+ Discussions for 2h Mar arrival cargos quieted down after the deal on Tue for one 46kt propane parcel traded at Bal Feb FEI plus $7 which equates to Mar FEI plus $75. Bids for 1h Apr delivery propane softened at Apr FEI plus $50s in the window, whereas one 46kt parcel for same period sold at Apr FEI plus 70ish outside window. Despite the current eroding petchem margins, we expect strong demand in Apr as of the decline in flat price and low feedstock inventory, together with the potential economic alternative over napatha. Two Korean importer tender to buy LPG, with one asking for 2/2 and/or 3/1 and/or 0/23 for 1h Apr delivery and the other for 23/0 delivered in end Mar/early Apr. One Chinese Major managed to procure two propane cargos delivered in Apr and Jun respectively for their new PDH. Another NChina PDH user also issued tender to buy 46kt propane for 1st decade Apr delivery.

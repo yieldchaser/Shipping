@@ -1,0 +1,30 @@
+---
+id: "2E7A198C-651F-435B-9121-D47FED2F2C90"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2021-12-13"
+year: 2021
+week: 50
+title: "Fearnleys LPG Eastern Weekly Comment - 2021-12-13"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2021-12-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2021-12-13 (Week 50)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `2E7A198C-651F-435B-9121-D47FED2F2C90`
+
+---
+
+## Market Commentary
+
+MEG With the prompt demand surging for Jan arrival propane, Jan C3 CP edged up to $718 and C3/C4 widened further to $36. Jan/Feb CP was traded at over $30 backwardation. Qatar Petroleum was reported to award their sale tender for 14-26th Jan lifting 45kt C3 at CP minus 30ish. Evenly split cargo for any Jan lifting was offered via window at Jan CP minus $10, yet to entice buying interests.
+
+**FAR EAST**
+
+ Cash differentials continued to improve this week, as cargos being absorbed for cracking previously, and delivery disruption caused by latest fog affecting on Houston channel. 23kt C3 for 2h Jan delivery was bid up from mid-teens to low 20s on FEI link, while offers not shown in window. One Vietnam PDH user was reported to award their buy tender for a Jan arrival full propane at Jan CP plus around $20. One SEA importer also awarded their prompt buy tender for 23kt C3 on 1-10th delivery at Jan CP plus 40ish reportedly. However, One EChina was said that they didn’t award the buy tender for upto 46kt C3 during late Jan/Feb delivery into Ningbo.

@@ -1,0 +1,30 @@
+---
+id: "653194e8-718e-49cf-ac1d-dcaf882d4745"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-01-22"
+year: 2025
+week: 4
+title: "Fearnleys Capesize Weekly Comment - 2025-01-22"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-01-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-01-22 (Week 4)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `653194e8-718e-49cf-ac1d-dcaf882d4745`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see enquiries from a miner and some operators for early-mid February dates. Some are expressing interest for forward March dates. Volumes out of East Australia and other fronts of the Pacific remain relatively quiet. On C3 ex Brazil to China, operators are seen enquiring for full February with some interest for early March.
+
+**Far East**
+
+ spot tonnage is abundance. Ballasting tonnage is thinning for prompt end January to early February dates and remain heavy for second half of February dates. On C5, fixtures concluded in the low-mid USD 6 pmt levels. On C3, we observe a general trend of backwardation with early February fixtures concluding at high USD 17 to USD 18 pmt, mid February at mid-high USD 17 pmt levels, and low USD 17 pmt levels for end February.

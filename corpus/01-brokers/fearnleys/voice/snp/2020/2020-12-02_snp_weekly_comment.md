@@ -1,0 +1,26 @@
+---
+id: "83DD88B3-339E-4894-8805-DC2DDEB627E1"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-12-02"
+year: 2020
+week: 49
+title: "Fearnleys S&P Weekly Comment - 2020-12-02"
+---
+
+# Fearnleys S&P Weekly Comment (2020-12-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-12-02 (Week 49)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `83DD88B3-339E-4894-8805-DC2DDEB627E1`
+
+---
+
+## Market Commentary
+
+A sustained amount of activity across SnP markets this week with a number of vessels changing hands. In the dry markets Scorpio Bulk has disposed of a further three units. The levels achieved on all three Ultramax vessels fall in line with last comparable transactions. With a continuous stream of sales candidates meeting the current buying enquiry we expect the values to continue moving sideways for the foreseeable future. Tanker markets continue to see a high level of interest especially across the MR and Aframax segments which have seen the vast majority of sales. An increasing number of ten to fifteen years old MR tankers are being placed for sale suggesting values are most likely to remain under pressure. The same applies to older Aframax tankers as clearly illustrated by this week’s sales, although it should be noted that the price for the two 2003 built BAKU and AZERBAIJAN reflects that the vessels have been in lay-up for some time. Younger ones are faring better with PAMISOS (105k dwt 2011 HHI) achieving the same price as the same age sister vessel KALAMI went for in early November. Sign of ongoing inspections and negotiations suggest we will be in position to report further transactions in the near future.

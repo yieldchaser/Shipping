@@ -1,0 +1,26 @@
+---
+id: "D29E2EFB-1D67-4A69-88F6-8BDBDD6D0FA0"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-04-04"
+year: 2022
+week: 14
+title: "Fearnleys S&P Weekly Comment - 2022-04-04"
+---
+
+# Fearnleys S&P Weekly Comment (2022-04-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-04-04 (Week 14)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `D29E2EFB-1D67-4A69-88F6-8BDBDD6D0FA0`
+
+---
+
+## Market Commentary
+
+A week dominated by a tanker market that seem to have finally caught up with the long drawn expectations of a market upturn. We have witnessed rates going from strength to strength in all major sectors establishing a positive sentiment across the board. A sentiment supported by news of further consolidation with the announcement of the merger between Frontline and Euronav creating the largest tanker owning company in the market comprising of 69 VLCCs and 57 Suezmax. A move that seems to have been mostly welcome by most as a sign of great commitment by some of the market leaders. This week also comes to a close with a number of units changing hands, notable activity in the Aframax market that has seen GNTMC acquire the two sisterships from Atlas Maritime built at Daehan with delivery in 2022 at a price of Usd 61m each. A price reflective of current NB environment considering that these contracts were placed in the mid 40s in 2020. We expect further activity in the sector as exhibited by a growing buying enquiry with strengthening bids trying to go meet an offer that is now firmly into a sellers market.

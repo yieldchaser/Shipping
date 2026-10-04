@@ -1,0 +1,30 @@
+---
+id: "9c5793e8-aac1-4fb2-896d-70b10f8339d2"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2024-02-01"
+year: 2024
+week: 5
+title: "Fearnleys LPG Western Weekly Comment - 2024-02-01"
+---
+
+# Fearnleys LPG Western Weekly Comment (2024-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2024-02-01 (Week 5)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `9c5793e8-aac1-4fb2-896d-70b10f8339d2`
+
+---
+
+## Market Commentary
+
+AMERICAS: The EIA this week reported a 5.3mmbbl draw for the week ending 26 Jan which brought US overall propane stock levels to 62.60mmbbls, or about 86% of last year and 125% of two years ago. The market had generally been anticipating a decline of ~2.5-3.0mmbbls. Based on 5-year averages, each of the next two reports should see draws of ~3.25mmbbls which – if realized – would put overall stocks at around the 56mmbbl level as of mid-Feb, above the 5-year mid-Feb average of ~52mmbbls. The inventory decline reported this week is primarily attributed to the recent spate of cold weather which enveloped the U.S. and gave cause for robust res/com demand, but as an extension to that there have also been cold-weather-related production issues across the Permian, SCOOP and Stack regions which continue to linger and, in fact, gave cause for a declaration of Force Majeure at one of the Gulf Coast LPG marine terminals. Depending on the weather across North America in February – which is again forecast to turn colder in around mid-Feb – current stock levels do not presently represent any concerns or bring to the forefront any kind of supply-related issues for this winter season. Meanwhile, along the Gulf Coast, export volumes are expected to increase in March and with that anticipation the terminal fees have risen, with the most recent transactions having been concluded at around the 9cpg level for late Feb. 1H Mar was earlier reported fixed at as high as 13cpg, but that type of level appears for the moment to have receded NWE: A mid-February TOT window bid pushed the physical premium up to February CIF ARA +$11/MT. Up from a small discount to February CIF ARA. The a large jump in value has come after large January import volume of 475,000/MT, showing signs of strength in the European market. The larger than expected draw in US inventories led to a chaotic market, while traders assess if the European market strength can keep up with MT Belvieu. Butane values saw a jump to 90.5% February Naphtha on the back of a bid seen earlier in the week, though no deal was heard done.
+
+**MED**
+
+: Sonatrach posted it’s February price at $520/MT for propane and $540/MT for butane. Saudi also set February CP prices at $630/MT & $/640/MT for propane and butane respectively. This was a modest increase in light of recent Brent strength remains above $80/bbl. A move to keep volume proice attratively and help keep the arb East open

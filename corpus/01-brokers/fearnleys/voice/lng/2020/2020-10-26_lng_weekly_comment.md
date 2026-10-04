@@ -1,0 +1,26 @@
+---
+id: "574DD16A-D196-429E-8BA9-24ED3E4E668B"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-10-26"
+year: 2020
+week: 44
+title: "Fearnleys LNG Weekly Comment - 2020-10-26"
+---
+
+# Fearnleys LNG Weekly Comment (2020-10-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-10-26 (Week 44)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `574DD16A-D196-429E-8BA9-24ED3E4E668B`
+
+---
+
+## Market Commentary
+
+The LNG shipping market slowed to catch its breath at the start of this week after the frantic finish of last. Many Charterers gave pause for thought as we saw the enquiry escalate as last week moved on, and this week Owners with availability kept the pressure up knowing there is a genuine lack of available tonnage ahead to match the current requirement. Owing to this, rates firmed into six figures in both basins. Tonnage Owners currently looking for employment continue to hold out in hope that the gains some have made are mirrored for the vessels they have opening. However, some of these marketed cargoes cannot support such high freight levels and as such, several Charterers looked at FOB options to move their product. Those with shipping in place, and the ability to purchase FOB, will be seeing strong gains as delivered prices in North East Asia jumped as end-users seek coverage for an anticipated cold winter. Despite the lack of activity early on this week, sentiment remains firm with Owners and backed with some robust fundamentals, especially within the Cargo market, this lull is likely to be short lived and activity is expected to ramp up again. In sale and purchase, no newbuilds have been reported this week and pressure on prices continue.

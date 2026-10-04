@@ -1,0 +1,26 @@
+---
+id: "6ebd8349-fafa-4317-a7fb-5abd47a80dbd"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-06-18"
+year: 2025
+week: 25
+title: "Fearnleys Panamax Weekly Comment - 2025-06-18"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-06-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-06-18 (Week 25)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `6ebd8349-fafa-4317-a7fb-5abd47a80dbd`
+
+---
+
+## Market Commentary
+
+This week, the Panamax market appears to be nearing a short-term peak, with softer spot activity hinting at potential downward pressure on the 5TC index, possibly pushing it back towards the mid-10k levels in the weeks ahead. The Atlantic market has seen patchy activity; limited visibility persists in the North Atlantic, while South America shows a softer undertone despite still commanding some premiums on prompt transatlantic rounds. The Pacific market has maintained selective firmness, supported notably by consistent Japanese tender activity and steady East Australian enquiry, though a clear two-tiered dynamic has emerged, with some pockets of tonnage oversupply tempering overall sentiment. Owners might consider fixing coverage while current levels hold, whereas charterers should stay alert for opportunities as market sentiment shifts cautiously weaker.

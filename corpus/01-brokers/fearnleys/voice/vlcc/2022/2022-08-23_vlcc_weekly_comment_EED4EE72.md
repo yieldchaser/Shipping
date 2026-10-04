@@ -1,0 +1,30 @@
+---
+id: "EED4EE72-B131-4A0B-943D-A11E8BBA126C"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-08-23"
+year: 2022
+week: 34
+title: "Fearnleys VLCC Weekly Comment - 2022-08-23"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-08-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-08-23 (Week 34)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `EED4EE72-B131-4A0B-943D-A11E8BBA126C`
+
+---
+
+## Market Commentary
+
+Some expectations charterers might sit on their hands and let some steam escape this week. However, this morning suggests otherwise, as a few quoted MEG cargoes coming in for early 2nd decade and owners will push the increased activity in their favor. A couple of quiet days (Friday and Monday) often leads to a wobble, and we saw a little profit taking by handicapped vessels (Ex dd/change of tech) as TCE’s remained healthy and owners did not want to miss the opportunity. However, we are back to the WS 80 level MEG/China with expectations of more. The Atlantic taking a back seat after driving the market last week. Enquiry remains however and with a stronger MEG market, potential ballasters will have choice.
+
+**Wafr**
+
+ remains quiet, but WS 80 is attainable to China and USG/Ningbo likely to rebound back towards the USD 9m level.

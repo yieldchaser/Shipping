@@ -1,0 +1,26 @@
+---
+id: "596B44F2-1C8D-4983-A6CA-86369C4CF6EB"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-08-19"
+year: 2019
+week: 34
+title: "Fearnleys Suezmax Weekly Comment - 2019-08-19"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-08-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-08-19 (Week 34)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `596B44F2-1C8D-4983-A6CA-86369C4CF6EB`
+
+---
+
+## Market Commentary
+
+Finally we see some positivity in the Suezmax market. This market has been flat at bottom levels for some time now, but with increasing activity and bullish Owners it looks like the table has turned. In wafr we have now got rid of most of the overhang and the position list is looking really tight. Whats interesting now, is that we also have a rather short 30-day count in MEG as well, so both markets are pulling in the same direction. We dont see any reason why this should stop, as cargo activity is expected to increase and Owners are finally smelling money.

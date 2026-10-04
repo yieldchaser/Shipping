@@ -1,0 +1,26 @@
+---
+id: "75B79396-98A7-48AA-A8A9-C3FDB2484BAD"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-04-14"
+year: 2020
+week: 16
+title: "Fearnleys Aframax Weekly Comment - 2020-04-14"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-04-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-04-14 (Week 16)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `75B79396-98A7-48AA-A8A9-C3FDB2484BAD`
+
+---
+
+## Market Commentary
+
+Rates in the North Sea and Baltic took a hit this week due to a quiet Easter period with ships piling up in early position looking for coverage. Charterers seized this opportunity to push rates down. Rates will continue around current levels going forward. However, with some expected delays at strategic discharge ports and some ships floating with cargo onboard. This coupled with a bit more busier market in the 3rd decade of April could eventually push rates back up again for end month fixing window. In the Mediterranean and Black Sea, we have seen activity roll back somewhat last week as several offices have been closed for Easter break holidays and rates have consequently taken a slight dip. Although charterers can enjoy the luxury of several prompt ships at the moment, we expect the market to firm up a bit going into next week due to a healthy cargo program in the Mediterranean as well as Black Sea, combined with the delays we are seeing in several ports at the moment.

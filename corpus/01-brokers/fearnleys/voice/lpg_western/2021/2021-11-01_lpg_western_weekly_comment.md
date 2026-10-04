@@ -1,0 +1,30 @@
+---
+id: "E81D62B4-1154-4FAE-9BC2-5E9595C869B9"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2021-11-01"
+year: 2021
+week: 44
+title: "Fearnleys LPG Western Weekly Comment - 2021-11-01"
+---
+
+# Fearnleys LPG Western Weekly Comment (2021-11-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2021-11-01 (Week 44)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `E81D62B4-1154-4FAE-9BC2-5E9595C869B9`
+
+---
+
+## Market Commentary
+
+AMERICAS The month of October – historically considered the conclusion of the inventory ‘build’ season and the simultaneous commencement of the winter consumption period – has seen a series of surprises. Stocks are now 79% of the total achieved last year, and 79% of the total recorded two years ago. Wednesday’s build of 400,000bbls is being viewed as sentimentally bullish, as the Gulf Coast drew by 600,00bbls on the back of Enterprise buybacks and reduced rates in October at Targa’s Galena Park facility (which have been solved by now but were related to onshore hydrate issues). But reduced market values yesterday afternoon paint a different story as MB Non-TET propane values fell below $1.39/gal however most believe the drop was more related to ZWTIs fall than propane directly. As for the near-term prospects, most of it will depend on the weather, and then where that weather occurs, and when. For the moment forecasts are calling for a cold and wet Thanksgiving which should propel the market in a bullish direction. Terminal fees on the Gulf Coast remain tiered and based on whether the seller is a terminal owner or a reseller. Bids and offers are nonetheless occurring on a resale basis on either side of 6cts/gal for Dec. NWE The region is tight prompt propane tons. ToT window bid for 14-18 November delivery has been pushing up window premiums. The bid is equivalent to November CIF ARA +$4.5pmt, and it seems sellers are testing how badly the cargo is needed with window offers some way off at +$8pmt for Novmeber 23-27 and +$11pmt for November 20-24. With netback values from the US supporting trans-Atlantic trade late November is seen as balanced in the region. The East / West spread in November is at +$50pmt but this does not tell the whole story. With Panama Canal delays at expensive freight rates traders are factoring in around $8pmt in waiting time. US imports to the region will undoubtedly be higher than in October. The question is how much volume can the market take before coming off?
+
+**MED**
+
+ Temperatures are falling in the region and heating demand is increasing. There are two VLGC heading to Gibraltar from the US keeping traders from showing bids before tons arrive in the market. Though the more likely explanation is that these vessels are headed to the Suez Canal to go East. Cutting out waiting time in Panama. That said if the price is right traders could decide to sell cargoes in the region.

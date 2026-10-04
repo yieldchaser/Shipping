@@ -1,0 +1,26 @@
+---
+id: "ab37a412-886c-4cfe-a9ca-e53deb6fa57a"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2024-02-29"
+year: 2024
+week: 9
+title: "Fearnleys LPG Western Weekly Comment - 2024-02-29"
+---
+
+# Fearnleys LPG Western Weekly Comment (2024-02-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2024-02-29 (Week 9)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `ab37a412-886c-4cfe-a9ca-e53deb6fa57a`
+
+---
+
+## Market Commentary
+
+AMERICAS Mont Belvieu propane market values have shown themselves to be resilient, as weather-related demand has waned while the crude markets continue to provide support. The YTD propane/WTI ratio stands at over 48%, where the 2023 average was calculated at 38%. There are, nonetheless, a slowly growing number who point to inventory levels and who expect the pricing structure to weaken. The EIA this week, however, reported a 3.4mmbbl decline in stocks which brought overall volumes to 51.2mmbbls, or 85% of last year, but which is almost exactly equal to the 5-year total inventory average for mid/late February. Expectations were almost unanimously calling for a ~2mmbbl decline, leading some to speculate whether this week’s data may have included ‘corrected’ data from the previous week. In any case, if the averages hold true, US propane stock levels should conclude February at just above 49mmbbls, slightly above the 5-yr average. Meanwhile, terminal fees on the Gulf Coast are pegged at somewhere between 6 and 7cpg in what is described as a ‘thin’ market. A couple of transactions have been concluded, and at this point March is all but concluded – but April is presently littered with sell-side interest and only modest representation from the buy-side. Several cargo cancellations have been noted for March. NWE Northwest Europe got off to a strong start in January of 2024, importing close to 500,000 tons of LPG, of US and North Sea origin. It is expected February imports will total approx 345,000 tons, with bulk of the decrease coming from a reduction in North Sea liftings. US exporters, however, continue to favor Europe as opposed to the far east when able, for the obvious freight savings, along with rising auction fees in the Panama canal. Mild weather across Europe, along with comfortable inventory levels allowed for a softening in NWE values to start the week-however propane’s discount to naphtha, along with an increase petrochemical run rates in the region, are expected to keep the buying active in the short term.

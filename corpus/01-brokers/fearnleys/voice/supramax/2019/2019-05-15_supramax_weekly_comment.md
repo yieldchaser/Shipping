@@ -1,0 +1,30 @@
+---
+id: "D24E98FC-7F14-4639-AD31-858388926234"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-15"
+year: 2019
+week: 20
+title: "Fearnleys Supramax Weekly Comment - 2019-05-15"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-05-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-05-15 (Week 20)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `D24E98FC-7F14-4639-AD31-858388926234`
+
+---
+
+## Market Commentary
+
+We see stronger demand in some areas in Atlantic, with tight supply of tonnage for prompt dates in US. ECSA, the larger sizes have also improved. For TA delivery Brazil chrts indicating USD 14,000, while TCT to Brazil ex Continent fixing around mid USD 5,000. Ultras fixed at around USD 14,000 plus USD 400,000 BB for a front haul.
+
+**Continent**
+
+/Baltic see a steady flow of fertilizers to ECSA and India-China destinations, with rates around USD 5,000 for ECSA. In the Mediterranean and Black Sea, we see more fresh grain stems to Far East regions, with rates indicating mid USD 10,000. Ultra open Morocco fixed fh redel Spore-Japan at USD 16,000. In Se Asia, the market was softening. Indo/China coal RV trading around USD 9,000 bss S.China delivery, while Aussie RV to China paying around USD 10,500 bss Singapore delivery.

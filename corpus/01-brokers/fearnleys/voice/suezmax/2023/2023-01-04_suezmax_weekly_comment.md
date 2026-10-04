@@ -1,0 +1,26 @@
+---
+id: "E08D73F0-005E-49B3-B1C1-AC9F4BEF4500"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-01-04"
+year: 2023
+week: 1
+title: "Fearnleys Suezmax Weekly Comment - 2023-01-04"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-01-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-01-04 (Week 1)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `E08D73F0-005E-49B3-B1C1-AC9F4BEF4500`
+
+---
+
+## Market Commentary
+
+This week the Suezmax market has been a tale of two hemispheres. In the East, rates have rebounded on the back of a very busy first decade for 20-ton crane requirement which has considerably trimmed the early side of the list for the second decade meaning that MEG/China is likely to trade around the WS 190 level whist TD23 is WS 90 with a firmer feel. The Atlantic basin is proving not to be as fruitful with lists well stocked for all load-zones against a backdrop of very little surface activity. TD20 is in danger of slipping into WS 120's territory unless we see an influx of sustained activity today. The one silver lining is the Med' Aframax market which is beginning to take a bite at Suezmax tonnage, but this is unlikely to yield bumper returns for owners, but it may stop the rot. All rates basis 2022 WS.

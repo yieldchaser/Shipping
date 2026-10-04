@@ -1,0 +1,30 @@
+---
+id: "23e15815-9a24-4094-89d6-7cec9ed4d152"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-07-02"
+year: 2025
+week: 27
+title: "Fearnleys Suezmax Weekly Comment - 2025-07-02"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-07-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-07-02 (Week 27)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `23e15815-9a24-4094-89d6-7cec9ed4d152`
+
+---
+
+## Market Commentary
+
+West Africa is under pressure with 30+ ETS within 5-days or already FOC, but 8 of the 13 FOC ships are ex-UKC and finding USG/TA suitors off 19-20 window trying to tempt them across so perhaps this props it up a little. With TD20 around 85 and under downward pressure, USG/TA for 20th onwards is capped at 72.5 with pressure to hit 70, but the prompt window in the USG is conversely very tight. Within the mid-hi 60s Aframaxes provide a spongy base, as we suspect they are prone to softening as owners look to lock in healthy earnings through the summer. The Black Sea has been active under the surface in the interim, a few East Mediterranean ships off the list, a few UKC-GIB vessels heading EMED/CANAK indicative that deals have been snuck away.
+
+**East of Suez**
+
+ we are valued higher than a single VLCC, a quandary which plagues Aframaxes also on TD8 - as such don't expect heavy levels of action unless rates realign into the 90s.

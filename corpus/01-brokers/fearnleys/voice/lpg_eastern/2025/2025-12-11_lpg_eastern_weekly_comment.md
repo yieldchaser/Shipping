@@ -1,0 +1,26 @@
+---
+id: "4da2827f-6d05-44db-962a-e6f72ccb0cfc"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-12-11"
+year: 2025
+week: 50
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-12-11"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-12-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-12-11 (Week 50)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `4da2827f-6d05-44db-962a-e6f72ccb0cfc`
+
+---
+
+## Market Commentary
+
+Cash premiums for Jan AG FOB evenly split cargos, continued to soar up with active bids against tight supply. Indian HPCL covered two lots of such grades for Jan and one each for Feb and Mar reportedly. Last spot deal was concluded at Jan CP plus $20s. Nevertheless, one producer trading arm bid through window for Jan open date FOB 2/2 at the fixed price of $555, which equates to Jan CP plus $30 for C3 and $38 for C4, yet to entice offers. Another trader also called similar buy tender. There are some delays reported for ADNOC acceptance, understanding most lifters would like to ask for early month loading to cover front demand. Market participants are still awaiting Saudi’s acceptance to have a full scheme on Jan supply. By the time of writing, Jan CP was traded at $525 for C3 and $517 for C4. Jan/Feb C3 CP was traded at $13 backwardation. Arbitrage for Jan FEI/Lst widened to 160s, supported by the firming CFR FAR EAST demand for Jan delivery. US FOBs for earlier Jan lifting were changed hand at around 8cpg while discussion for later days subdued, in view of narrowing ARB and backwardation. US propane/propylene inventory fell by 1.78 mil barrels to 101.770 mil barrels on the week ended 5th Dec, leaving 9% higher on YOY basis. Supply shortage persisted for Jan arrival and bids for CFR FAR EAST Window continued surging up. 23/0 parcel for 1h and 2h Jan delivery basis Chiba were bid at Jan FEI plus $35 and Bal Dec FEI plus $6 respectively, which equates to Jan FEI plus $40. Similar parcel for 1h Feb delivery was bid at Jan FEI plus $3, equivalent to Feb FEI plus $26. 46/0 parcel for 2h Jan delivery basis Chiba was bid at Jan FEI plus $21. Outside window a flurry of buy tenders seeking propane for Jan and Feb delivery, total up to 184kt demand. Among such one tender was reported awarded for a 23/0 parcel on Feb delivery basis Schina at Feb CP plus high 80s. Butane for Jan delivery into Asian market are also in high demand, as Indonesia Pertamina keep reissuing buy tender for three even split cargos for Jan delivery.

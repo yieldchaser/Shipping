@@ -1,0 +1,26 @@
+---
+id: "09F41A85-6ED0-485F-9F8A-D7A07A8B7F1A"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-10-19"
+year: 2020
+week: 43
+title: "Fearnleys Suezmax Weekly Comment - 2020-10-19"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-10-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-10-19 (Week 43)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `09F41A85-6ED0-485F-9F8A-D7A07A8B7F1A`
+
+---
+
+## Market Commentary
+
+At the beginning of the week there was a palpable sense that the market was grazing the bottom with possible upside. There was sustained enquiry in both Eastern and Western Hemispheres, which had created small pockets of resistance. All was looking up, or so we thought. That quiet optimism was shattered by a Wafr/options cargo booking UKCM at WS29 which other charterers will now surely use as leverage. TD6 will trade low 40's whilst long cross-Med is stable in the mid/high WS30's. In the East there's a balanced feel with MEG/East trading mid/high WS30's for modern. The key fundamentals of oversupplied tonnage and reduced oil output have not disappeared, meaning that if any resistance resurfaces the foundations remain soft.

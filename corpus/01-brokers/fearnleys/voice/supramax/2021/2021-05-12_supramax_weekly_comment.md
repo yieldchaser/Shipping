@@ -1,0 +1,26 @@
+---
+id: "60EB7986-B773-40EA-B435-72FAB0338237"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-12"
+year: 2021
+week: 19
+title: "Fearnleys Supramax Weekly Comment - 2021-05-12"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-05-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-05-12 (Week 19)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `60EB7986-B773-40EA-B435-72FAB0338237`
+
+---
+
+## Market Commentary
+
+More fresh orders from South America. Supra from ECSA to Continent was covered at USD 30,000. Trips from Continent to USG were done around USD 18-19,000. Ultramax from West Africa being closed at USD 30,000 to Far East. Most gains coming from Pacific basin. Trips via Indo to SE Asia been fixed at low USD 30,000 and similar trip with redelivery China at USD 37,500. Ships from MEG to China collected high USD 20,000 for the business. Still firm numbers on period front. Supramax for 6/8 MOS being concluded at USD 25,000, whereas one-year deals still discussed around USD 17,000.

@@ -1,0 +1,26 @@
+---
+id: "AB95E4BE-796D-4B22-88DE-91F2F6F7D7FD"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-04-27"
+year: 2022
+week: 17
+title: "Fearnleys LNG Weekly Comment - 2022-04-27"
+---
+
+# Fearnleys LNG Weekly Comment (2022-04-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-04-27 (Week 17)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `AB95E4BE-796D-4B22-88DE-91F2F6F7D7FD`
+
+---
+
+## Market Commentary
+
+As we approach end-April and set our sights towards summer, market activity continues to strengthen across both basins as more requirements come to surface, predominantly in the East, hinting at a potential increase in Asian appetite in the coming months. With June Atlantic LNG cargoes heard being offered at relatively large discounts to NBP/ TTF in response to European Terminals hitting max capacity, this increase in appetite is well timed and could develop the long-awaited re-emergence of the Arb to Asia. That said, considering the Russo-Ukrainian conflict and Russia recently cutting exports to Poland, Bulgaria, and maybe others in the coming weeks, its expected that any arb to Asia going forward would be limited by such factors. Current spot availability from Owners & Portfolio’s alike remains plentiful across both basins for the time being, however given a further increase in activity we can expect this pool of availability to slowly start drying up. On the term side of the equation, sentiment remains firm with rate levels inching higher week-on-week as vessels continue getting mopped up by projects, end-users, and portfolios alike. On the newbuilding front, a Far East owner has placed an order at HHI for 2 vessels with delivery in 2025. A western owner has also confirmed 2 newbuildings at the same yard.

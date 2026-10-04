@@ -1,0 +1,26 @@
+---
+id: "BC8160A1-0EFD-4AAF-9C4B-2C2E61BEB5D5"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-31"
+year: 2020
+week: 14
+title: "Fearnleys Capesize Weekly Comment - 2020-03-31"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-03-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-03-31 (Week 14)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `BC8160A1-0EFD-4AAF-9C4B-2C2E61BEB5D5`
+
+---
+
+## Market Commentary
+
+Rates are improving with the current BCI average presently at 5899, up approximately 50 percent from last week. There has been more activity on c3 this week, with present freight levels around 10,5 USD. The West Australia route is presently relatively active and freight rates have improved to over 5 USD per ton. For earlier positions, some owners have been gaining in the upper 5’s. Despite these encouraging signs, uncertainty remains with regards to the durability of an eventual imminent market upturn as estimates are that 1/3 of the global population are under some degree of covid-19 induced lockdown.

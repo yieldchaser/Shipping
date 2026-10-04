@@ -1,0 +1,26 @@
+---
+id: "10F2E0DC-A371-412B-89F0-6F4288E27C78"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-10-07"
+year: 2019
+week: 41
+title: "Fearnleys LNG Weekly Comment - 2019-10-07"
+---
+
+# Fearnleys LNG Weekly Comment (2019-10-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-10-07 (Week 41)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `10F2E0DC-A371-412B-89F0-6F4288E27C78`
+
+---
+
+## Market Commentary
+
+The LNG shipping market has exceeded expectations this week. The lack of firm vessel availability and a rush of spot cargoes seen earlier have driven rates into the six digits, breaking through $100,000 for the first time since early January this year. Sentiments are extremely bullish at the moment and Owners with vessels available for end October to November were carefully evaluating their options; it was clear to the market that the number of cargoes surpassed the ships available for charter. Furthermore, although most of the requirements seen are for intra-basin voyages, there were also a good mix of forward and fairly prompt cargoes. As such, the tables turned as Owners began requesting offers instead of offering their ships to Charterers, and as outlandish as it would have sounded a month back, ships were snapped up almost immediately at terms favorable to the Owners. This evidently shows how illiquid the LNG shipping market is and how it can generate such high volatility when the supply or demand changes rapidly. With the amount of cargoes still left uncovered, we would expect rates to continue to soar this week. On the newbuilding front, there are no new reports of transaction seen this week.

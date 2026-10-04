@@ -1,0 +1,26 @@
+---
+id: "9CD56CE7-8085-47A1-B350-8D5BCF31772F"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-28"
+year: 2023
+week: 9
+title: "Fearnleys Supramax Weekly Comment - 2023-02-28"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-02-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-02-28 (Week 9)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `9CD56CE7-8085-47A1-B350-8D5BCF31772F`
+
+---
+
+## Market Commentary
+
+All-time high count of vessels heading to load and discharge countries in the North Atlantic. Coincident to this, demand is recovering strongly in Asia. This combination of increasing demand and a “wrongly” positioned fleet is what is causing the extremely sharp upturn. The 5-day change of the BSI10TC index was the highest ever as per yesterday’s index closing. Other than the count of vessels heading to the North Atlantic, we are yet to see all-time highs in any other indicator.

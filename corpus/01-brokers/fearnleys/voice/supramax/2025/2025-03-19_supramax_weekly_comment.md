@@ -1,0 +1,26 @@
+---
+id: "62c38246-ff42-4e2b-9452-895ef27b68db"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-03-19"
+year: 2025
+week: 12
+title: "Fearnleys Supramax Weekly Comment - 2025-03-19"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-03-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-03-19 (Week 12)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `62c38246-ff42-4e2b-9452-895ef27b68db`
+
+---
+
+## Market Commentary
+
+The Supramax market saw continued positivity, with demand strengthening in key areas. The US Gulf maintained its upward push, especially for transatlantic runs, while the South Atlantic showed mixed sentiment, with some seeing stable demand and others believing rates had peaked. Asia remained firm, helping owners maintain confidence, while the Indian Ocean also saw steady activity. The Handy market had a relatively active week, with fresh demand in the Continent and Mediterranean supporting slight rate increases. However, the South Atlantic and US Gulf remained sluggish due to stable tonnage levels and limited new inquiries. In Asia, market fundamentals held firm, driven by steel shipments and consistent cargo flow. Overall, both sectors showed rate improvements.

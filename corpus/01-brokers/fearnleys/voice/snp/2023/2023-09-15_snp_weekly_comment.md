@@ -1,0 +1,26 @@
+---
+id: "9b31e912-915a-4042-9bf2-bfa60ae28b3b"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-09-15"
+year: 2023
+week: 37
+title: "Fearnleys S&P Weekly Comment - 2023-09-15"
+---
+
+# Fearnleys S&P Weekly Comment (2023-09-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-09-15 (Week 37)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `9b31e912-915a-4042-9bf2-bfa60ae28b3b`
+
+---
+
+## Market Commentary
+
+No action on the larger Tanker front this week as spot rates continue to give a lethargic feel to what is fundamentally, a strong market. Interest, however, seems to be swirling around the Aframax space with a number of candidates entering the market. CENTENNIAL SAPPORO (110K DWT Mitsui 2008) bought by Beks for USD 35.5M with delivery SS due, and FULMAR (115K DWT Hanjin HI 2009) at USD 39.5M to Middle Eastern buyers will certainly help guide the growing list of enquiries. In the MR space, SUNNY APATITE (49K DWT GSI 2016) sold for USD 34M, while GRAND ACE8 (46K DWT HMD 2008) at USD 23.8M with SS passed, showing that despite a cooling since highs of earlier this year there remains robust interest in this sector. Activity across Dry remains strong as prices stabilise. The most notable of the recent deals is 4 x Crown 63 Dayang Ultramax units GIANTS CAUSEWAY/SADLERS WELLS/GALILEO/CAPE CROSS (63K DWT 2014-2015) being bought en bloc at USD 86M by Greek buyers. This provides an interesting benchmark for what is clearly a high level of buying interest of modern Ultramaxes. Two transactions in the Kamsarmax sector as GENEVA STAR (81K DWT Tsuneishi Cebu 2015) received numerous offers, eventually going to Chinese buyers at USD 26.5M, and CUMA (83K DWT Tsuneishi 2006) acquired by Bulkseas for USD 13.2M.

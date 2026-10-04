@@ -1,0 +1,26 @@
+---
+id: "e1f12228-26ba-4369-942a-51ed684f663c"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-04-16"
+year: 2025
+week: 16
+title: "Fearnleys Suezmax Weekly Comment - 2025-04-16"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-04-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-04-16 (Week 16)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `e1f12228-26ba-4369-942a-51ed684f663c`
+
+---
+
+## Market Commentary
+
+Tonnage for WAF remains extremely tight, while demand potential appears considerable. According to our counts, approx 4-6 smax stems for the 1st decade May have been covered from WAF, leaving potentially 10+ still to be worked. One could argue that, given our firm footing, VLCCs might absorb some of this volume. However, it seems the larger vessels have not made a huge dent in their own May volumes. Yesterday, reports centred around other regions with a couple of Liza moves and a slew of BSEA deals, with TD6 fixing up to WS135 - making last weeks w125’s look weak. WAF itself reportedly covered again at w107.5, but with LIZA exceeding 130KT x 110, and a list this tight, TD20 should firm further. The AG has started to get busier, however, with dates shifting into May we have seen a low number done for ag/usg. This is no real surprise given the complexion of tonnage at the opening of business yesterday. But, as of this morning there seems to be good levels of enquiry out there and a reasonable number of ships are now on subs. Owners are in a better position to recoup their losses today.

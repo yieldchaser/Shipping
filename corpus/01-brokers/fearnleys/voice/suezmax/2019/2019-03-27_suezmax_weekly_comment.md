@@ -1,0 +1,26 @@
+---
+id: "646BE173-4E46-485D-B3CF-8E4E5B9E3A1A"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-03-27"
+year: 2019
+week: 13
+title: "Fearnleys Suezmax Weekly Comment - 2019-03-27"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-03-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-03-27 (Week 13)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `646BE173-4E46-485D-B3CF-8E4E5B9E3A1A`
+
+---
+
+## Market Commentary
+
+It has been fairly good activity in the West the last week, and finally the tonnage list for cargoes out of West Africa on natural dates is looking more healthy. Rates are still scraping the bottom of what Owners consider beneficiary compared to throwing anchor and waiting for better times, but at least now we could see a slight improvement going forward. In the MEG, on the other hand, there is not much positive signs for Owners going forward. The list of available tonnage is increasing, and even in a tight window for 20t crane ships, Owners didn’t manage to capitalize. Activity in the area still remains decent, but not to the extent where anything will happen rate wise. In the Black Sea, rates are coming off as well, with last done on TD6 at ws60. Not unexpected as the Turkish Strait delays are down to 3-4 days each way.

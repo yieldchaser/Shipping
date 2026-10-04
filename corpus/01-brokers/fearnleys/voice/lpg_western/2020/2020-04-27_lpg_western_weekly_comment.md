@@ -1,0 +1,26 @@
+---
+id: "D03192BB-7335-4F18-8800-BB2C2B13635F"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-04-27"
+year: 2020
+week: 18
+title: "Fearnleys LPG Western Weekly Comment - 2020-04-27"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-04-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-04-27 (Week 18)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `D03192BB-7335-4F18-8800-BB2C2B13635F`
+
+---
+
+## Market Commentary
+
+AMERICAS: Widespread capex cuts were announced in quarterly earnings calls for a large number of US oil & gas companies this week. With many projects now on hold, many traders have been wondering what this means for LPG production and export volumes in 2020. Since the oil price war, propane production has remained above 2 million barrels per day. Export volumes in April have been near record levels and the May volume is expected to be similar. Inventory build season is now well underway and we have only seen one build so far. The most recent EIA report showed a 607,000 barrel draw for the week ending April 24th. This came as a surprise to many and caused them to question when we will start to see the large builds required this year to maintain these high export volumes?

@@ -1,0 +1,26 @@
+---
+id: "B22977C8-02ED-40F0-9342-E82E4DC3C3D9"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-02-15"
+year: 2023
+week: 7
+title: "Fearnleys VLCC Weekly Comment - 2023-02-15"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-02-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-02-15 (Week 7)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `B22977C8-02ED-40F0-9342-E82E4DC3C3D9`
+
+---
+
+## Market Commentary
+
+As interesting a market as we have seen in a while. With a bumper February in the MEG (150 cargoes in a 28-day month), we are moving into the early March stems at the time of writing. Two schools of thought persist on where we go from here, but both have limited downside. Current levels for MEG/China sit around the WS 65 level, and owners could try to hold back, harness the sentiment and drive rates up through the WS 60’s. However, the alternative is for charterers to play it well from the shadows and owners to ‘profit take’ on cargoes off their dates. Either way, any imminent downside in the market remains unlikely. The Atlantic cargoes continue, with a fresh Petrobras quote at the time of writing. Some recent deals not quite the jumps owners will have hoped for, but TD15 stands around WS 62.5 and rates Wafr/UKC at WS 72.

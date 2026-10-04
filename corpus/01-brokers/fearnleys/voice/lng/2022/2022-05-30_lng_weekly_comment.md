@@ -1,0 +1,26 @@
+---
+id: "D623F55C-B7FA-4FFF-88C7-BD9A7EDCD5CC"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-05-30"
+year: 2022
+week: 22
+title: "Fearnleys LNG Weekly Comment - 2022-05-30"
+---
+
+# Fearnleys LNG Weekly Comment (2022-05-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-05-30 (Week 22)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `D623F55C-B7FA-4FFF-88C7-BD9A7EDCD5CC`
+
+---
+
+## Market Commentary
+
+Over the last few weeks, the LNG shipping market have seen consistent gains. Firm sentiments and rate ideas were predominately driven by the West of Suez as more requirements were seen for delivery into Europe. Lack of vessel availability for June to 1H July in the Atlantic have spurred spot rates to break the six-figure barrier for the larger vessel sizes, which are highly sought after. The growing demand for modern tonnage is holding sturdy and anticipated to continue for the remaining of the year as US exports increases. Charterers with limited flexibility on their requirement have seen fewer options and often with a significant premium attached. Discussion on longer term charters are ever-present as offtake agreements especially from the US are being secured. With the ongoing geopolitical issues and gas supply disruptions, FSRU/ FSU related LNG projects have also gain traction with more engagements than previous years as Utilities, National Oil companies and governments prioritize energy security. There are no new orders reported this week, nevertheless, shipyard capacity continue to diminish as demand for Newbuilds from all other shipping sectors continue to push LNGC newbuild deliveries further into the backend of 2026. One LNG vessel arrived for recycling this week, which is the first for the year 2022. In 2021, 7 units were recycled.

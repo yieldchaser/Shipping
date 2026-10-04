@@ -1,0 +1,26 @@
+---
+id: "42F2DF7C-48E1-4E2D-A718-B00AB70B45F9"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-04-07"
+year: 2021
+week: 14
+title: "Fearnleys Suezmax Weekly Comment - 2021-04-07"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-04-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-04-07 (Week 14)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `42F2DF7C-48E1-4E2D-A718-B00AB70B45F9`
+
+---
+
+## Market Commentary
+
+The long Easter weekend in Europe gave some participants a much welcome break, but it came at a heavy price. This is a momentum game and in a market that was already softening, a Meg/China cargo took full advantage of this lull and dragged this route down to W59. With a fleet of Eastern ballasters hellbent on West African loads, the prognosis in both hemispheres remains rather subdued this week. Td20 will stay bogged down in the low W60's whilst Td23 will struggle to stay out of teens territory. On the upside, but possibly a little further down the line, economic figures emanating out of China and the USA suggest that those respective economies are riding out the pandemic much better than expected, which should help sentiment in the medium term.

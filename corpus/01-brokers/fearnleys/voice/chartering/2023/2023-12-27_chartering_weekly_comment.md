@@ -1,0 +1,26 @@
+---
+id: "0764d2c9-4a33-4394-b9d4-f5b80c125952"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-12-27"
+year: 2023
+week: 52
+title: "Fearnleys Chartering Weekly Comment - 2023-12-27"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-12-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-12-27 (Week 52)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `0764d2c9-4a33-4394-b9d4-f5b80c125952`
+
+---
+
+## Market Commentary
+
+As the year draws to a close, market has been quiet this week and there is not much activity to report East or West. Market looking strong with last done deals at mid 270s H/C v Cape and mid 130s RT/C.

@@ -1,0 +1,26 @@
+---
+id: "26998D35-A76A-4BC6-9441-BFBD71911305"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-12-16"
+year: 2019
+week: 51
+title: "Fearnleys Aframax Weekly Comment - 2019-12-16"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-12-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-12-16 (Week 51)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `26998D35-A76A-4BC6-9441-BFBD71911305`
+
+---
+
+## Market Commentary
+
+Freight rates in the Baltic and North Sea market seem to have found their feet around ws235 levels in the Nsea and ws190 levels ex Baltic, depending on what discharge options one needs. Stems loading very end year are currently being fixed with quite a lot of cargo activity taking place off the market. Although certain owners have expressed their willingness to put their clean ships into dirty trade, the tonnage list remains tight, and thus we still expect a firm market going into the new year. Cargo activity has been healthy in the Mediterranean and Black Sea this week and owners are pleased to see the market bounce back. Benchmark routes both ex Bsea and cross-Med have picked up about 25 ws-points, and at the time of writing TD19 is trading just above ws200. As transits through straits keep delaying and charterers are looking to cover their stems ex Bsea for second decade January, we expect the market to remain firm in the week to come.

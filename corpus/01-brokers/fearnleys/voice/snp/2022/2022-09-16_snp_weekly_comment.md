@@ -1,0 +1,26 @@
+---
+id: "C6418B5B-D1DB-465F-AE5B-33C8BF34059E"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-09-16"
+year: 2022
+week: 37
+title: "Fearnleys S&P Weekly Comment - 2022-09-16"
+---
+
+# Fearnleys S&P Weekly Comment (2022-09-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-09-16 (Week 37)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `C6418B5B-D1DB-465F-AE5B-33C8BF34059E`
+
+---
+
+## Market Commentary
+
+The dry market remains delicately poised as players align themselves with lowering asset values, despite a brief jolt in earnings. Capesize FRONTIER TRIUMPH 2012 Imabari is rumoured to have had over 10 suitors, showing that the appetite is very much present on the buying side despite variable market conditions. A notable sale this week is HANTON TRADER I (2014/Jiangsu/63k dwt) to Jinhui for USD 25.4m. With many ships being considered in the market, we predict a flurry of transactions once market players are at ease with the ongoing value correction. There is clearly plenty of potential equity following the dry space these days in anticipation of lower asset values in the short to medium term. Appetite in the wet market shows no signs of letting off as asset values continue to rise in line with a buoyant earnings environment. The VLCC TSURUSAKI blt 2002 being sold to Greek interests at USD 33m is an example, demonstrating that there is still money to be made from old rope. However, with strengthening freight rates, the bid/ask spread is widening across the board. Modern tanker sales remain few and far between.

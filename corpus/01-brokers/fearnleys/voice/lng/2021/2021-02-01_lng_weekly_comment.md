@@ -1,0 +1,26 @@
+---
+id: "6A56DC2D-B2E2-4348-BF5F-1DFA21D4C546"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-02-01"
+year: 2021
+week: 5
+title: "Fearnleys LNG Weekly Comment - 2021-02-01"
+---
+
+# Fearnleys LNG Weekly Comment (2021-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-02-01 (Week 5)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `6A56DC2D-B2E2-4348-BF5F-1DFA21D4C546`
+
+---
+
+## Market Commentary
+
+The LNG market have continued with a breather following weeks of reduced intensity on LNG trading and ship chartering efforts since the heights of mid-January 2021. Cargo prices and headline shipping rates have corrected to levels of today. The shoulder months are upon us as vessel availabilities stack up from redeliveries. This week’s shipping fixtures have been reported with rate levels at five-digits and back to round-trip economics, down from the “three-way” terms which shipowners and subletters have enjoyed during the last two months. Despite the backwardation and the dwindling sentiments amongst shipowners, it is not to forget that the shoulder months of this year are still expected to be relatively healthier in terms of LNG shipping rate levels as compared to the previous years of 2019 and 2020. This winter has been epitomised by the supply squeeze for both LNG and LNG shipping. Despite months of planning ahead by players to mitigate winter demand with additional shipping positions, it is almost certain that unpredictability remains a constant and change of sentiment can happen in an instant. No LNG newbuilding orders to report this week.

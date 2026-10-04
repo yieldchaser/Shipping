@@ -1,0 +1,26 @@
+---
+id: "956b21cf-5db8-4183-9095-4deac3004058"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-08-12"
+year: 2026
+week: 33
+title: "Fearnleys VLCC Weekly Comment - 2026-08-12"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-08-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-08-12 (Week 33)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `956b21cf-5db8-4183-9095-4deac3004058`
+
+---
+
+## Market Commentary
+
+There’s no lack of VLCC activity judging from a long list of ships reported fixed or on subs. Details of which are few and far in between, these days motivated further not wanting to advertise to hostile elements where and when the ship in question will be appearing in the wider Middle East. This makes navigating the market even more difficult, although if there were deals done considerable different from “last done” levels I am sure it would have been alluded to. There is huge money to be had for the risk takers out there, of which there are not too many for the top prize inside MEG load. But Fujairah-Oman load still pays a decent premium and Yanbu/East even more as the Houthis continue to attack Saudi controlled ships and installations – although third party ships/owners have not yet been targeted. The MEG position list is balanced, albeit littered with oil company and trader relets so what is really available, or not, remains to be tested. With a solution of the US-Iran conflict looking increasingly further away, and soaring refinery margins, logic dictates Atlantic eastbound interest will increase going forward, albeit as of now several ships ballasting west on spec has kept a lid on rates.

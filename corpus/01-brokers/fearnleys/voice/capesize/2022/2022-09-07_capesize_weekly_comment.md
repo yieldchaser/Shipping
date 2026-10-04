@@ -1,0 +1,26 @@
+---
+id: "079157ED-A78B-4AEC-A0E9-F90E19300D5C"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-09-07"
+year: 2022
+week: 36
+title: "Fearnleys Capesize Weekly Comment - 2022-09-07"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-09-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-09-07 (Week 36)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `079157ED-A78B-4AEC-A0E9-F90E19300D5C`
+
+---
+
+## Market Commentary
+
+Immediate demand still simply does not match supply for the big ones, and merit of trading at well below operating expenses being questioned. A doubling of average daily earnings w-o-w does little to excite as long as spot stuck at below USD 6k for standard model tonnage. One tiny little positive may be the China-Brazil-China route, finally at least paying better than the much shorter Pacific rounds and thus possibly indicating impending recovery. Whilst the West Australia/China milk route is mediocre but steady in volume, the Brazil/Far East iron ore trade nevertheless remains a huge disappointment providing ton-mile far below expectations. Spot woes keep translating into negative forward views and consequent brutal paper + period level dives - "Cadillac" Japanese-built top-spec 180,000 dwt NB linked to 4 years at a very unimpressive USD 21k/day.

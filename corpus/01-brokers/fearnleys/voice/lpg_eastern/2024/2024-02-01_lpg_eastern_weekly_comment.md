@@ -1,0 +1,30 @@
+---
+id: "dc91a024-ad86-4799-a86d-ed6c508e0f9b"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-02-01"
+year: 2024
+week: 5
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-02-01"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-02-01 (Week 5)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `dc91a024-ad86-4799-a86d-ed6c508e0f9b`
+
+---
+
+## Market Commentary
+
+**MEG:** Saudi Aramco set Feb CP at $630 for C3 and $640 for C4, up by $10 respectively, which is out of surprise as it’s higher than majorities’ expectation. At the time of writing, Mar C3 CP was traded at $586 only, reflecting the bearish outlook on forward propane market. To the contrary, robust butane demand from both SEA residential market and Asian cracking feedstock have lent support to the evenly split cargo and we’ve heard sellers reluctant to offer deep discounts anymore.
+
+**FAR EAST**
+
+: Cash differentials for Mar delivery softened this week, with offer for 23/0 1h Mar delivery seen at Mar FEI plus $3 and bid for similar parcel but 2h Mar delivery at Mar FEI minus $5. Off window a couple of 46/0 were heard to be placed into North China at Mar FEI plus low single digit, which was at the equivalence of Mar CP plus high single digit only due to the narrowing FEI/CP, more attractive compared to Iranian stems seemingly. Also a flurry of buying tenders this week but some failed to award as of unattractive offers. Last Friday one EChina cracker cancelled their buy tender for 23/0 or 46/0 1h Mar delivery as offers asking Mar FEI plus high single to low teens level. Similarly, Taiwan FPCC withdrew their buy tender for 22-44kt propane des Mailiao 1st decade Mar and offers at MOPJ minus 50s reportedly. However, latest one EChina PDH was reported to award their buy tender for 23/0 or 46/0 in Mar delivery at Mar FEI plus low single digit into Ningbo. One NChina PDH buy tender for 23/0 or 46/0 in Mar delivery are still ongoing, and result of Hyosung Vina’s tender to buy heavy propane for 2h Feb to Mar delivery is yet to know. One Korean importer also tendered to procure 23/0 for late Mar delivery into Daesan. Apart from propane, one petchem player tendered to procure a end Mar early Apr delivered 0/23 into EChina, and Indonesia PERTAMINA tendered to buy a 22/22 for 4-8 Mar delivery. Taiwan CPC also seek 11/11 or 0/22 last decade of Mar delivery via tender.

@@ -1,0 +1,26 @@
+---
+id: "924641B0-1D64-49F9-B0E8-B9D50E46A6F3"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-06-29"
+year: 2022
+week: 26
+title: "Fearnleys Aframax Weekly Comment - 2022-06-29"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-06-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-06-29 (Week 26)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `924641B0-1D64-49F9-B0E8-B9D50E46A6F3`
+
+---
+
+## Market Commentary
+
+One of the slowest weeks this year in the Nsea/Baltic with limited cargoes in the market as main Nsea fields are expected to return from maintenance. Owners managed to push rates higher in the end of last week for Nsea runs, however market seems softer right now. Tight supply of Baltic candidates also pushed rates higher in this area. We expect rates to cool off a bit in the short term but moving forward into July rates might hike again. The Med/Blsea market has continued its softening trend from last week with lack of cargo activity. We have seen regular cross Mediterranean routes dropping 25 worldscale points give or take. With Force Majeure still prevailing in some of the Libyan ports, we expect the area to remain soft in the short run.

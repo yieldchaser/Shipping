@@ -1,0 +1,26 @@
+---
+id: "19e945f8-a74c-466f-b7e4-c1d22e548b52"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-03-14"
+year: 2025
+week: 11
+title: "Fearnleys S&P Weekly Comment - 2025-03-14"
+---
+
+# Fearnleys S&P Weekly Comment (2025-03-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-03-14 (Week 11)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `19e945f8-a74c-466f-b7e4-c1d22e548b52`
+
+---
+
+## Market Commentary
+
+No real rhyme or rhythm to the activity in the tanker sector this week. Perhaps quite symptomatic of the current environment whereby, aside from modern units, no obvious plays are presenting themselves. Yes, there is some opportunity for high margin trades, however this tends to come with future sanction risk. Aside from that, the market has a bloated feel to it with owners’ ideas still on the high side. MARLIN AMBER (49K DWT COMEC 2015) at sub-USD 30M is a continuation of the MR values correction, but buyers are still waiting for further reductions before the space becomes top priority. Despite a buoyant week in terms of transactions, the underlying story remains the same. That story being of course that younger ships still very much in demand (but hard to come by), while older units provide the liquidity. Capesize rates continue to rally, hitting their highest levels since November last year. The rally has trickled down into the smaller sizes, providing some much-needed optimism. Chinese buyers were once again showing their unwavering appetite for tonnage, taking 4x Panamax/Kamsarmax from ArcelorMittal. It was also a busy week in the handy sector, helped by the en bloc transaction of ERHAN/DOGAN/ORHAN (38K/35K dwt SPP 2013) for USD 45M.

@@ -1,0 +1,26 @@
+---
+id: "caf46b12-7597-41ed-8e02-54354bc5e983"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-07-08"
+year: 2026
+week: 28
+title: "Fearnleys Capesize Weekly Comment - 2026-07-08"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-07-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-07-08 (Week 28)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `caf46b12-7597-41ed-8e02-54354bc5e983`
+
+---
+
+## Market Commentary
+
+As storms brew in the Pacific, strong demand continues on C5 West Australia/Brazil trade routes with offers between low-mid USD 13s. Earlier in the week we saw a series of stems for second half July dates fixing in low-mid USD 13s while other majors fixed C5 in low USD 13s and one reported selling 13 flat for end July dates. Today fresh fixtures were seen, all in low USD 13 levels. Further uncertainty awaits as Typhoon Maysak is expected to bring continued storms to already flooded regions of southern and central China, which may lead to further discharge disruptions. C3 Brazil/China trades are also at potential risk of discharge disruptions in the coming days, however markets have seen stronger offers this week, with offers in the mid USD 32s and low USD 30s for August dates. Others have seen bids in low USD 32 levels and fixtures have been reported in mid USD 32 levels for end July and early August laycans. North Atlantic activity has also picked up this week, with a recent transatlantic stem ex West Africa to Arzew fixing in the USD 10s (about USD 49.5k/day equivalent to opening Gibraltar). C8 has +5.77% gains today on paper, while C3 and C5 routes are down slightly compared to yesterday.

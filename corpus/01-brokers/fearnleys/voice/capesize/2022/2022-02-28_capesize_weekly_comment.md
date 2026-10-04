@@ -1,0 +1,26 @@
+---
+id: "E410CAB5-1708-4458-ADA0-398C218610DC"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-02-28"
+year: 2022
+week: 9
+title: "Fearnleys Capesize Weekly Comment - 2022-02-28"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-02-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-02-28 (Week 9)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `E410CAB5-1708-4458-ADA0-398C218610DC`
+
+---
+
+## Market Commentary
+
+Whilst the horrible actions taking place in Ukraine, the market first responded negative as rates were coming off. Later in the week however, rates were up to present average of USD 15,300. Dry shares have been increasing, with expectations linked to coal possibly will replace some of the gas demand. The number of ships sailing towards Brazil is relatively low, at the same time as Vale is start fixing ships after a rather long inactive period from their side. This may suggest a further increase on the Brazil/ China route. Period ships are still in demand and there is a steady flow of period fixtures.

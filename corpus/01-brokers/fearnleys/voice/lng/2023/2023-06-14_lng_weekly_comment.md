@@ -1,0 +1,26 @@
+---
+id: "EC2635BE-9003-4CDB-95EF-6541A9401965"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-06-14"
+year: 2023
+week: 24
+title: "Fearnleys LNG Weekly Comment - 2023-06-14"
+---
+
+# Fearnleys LNG Weekly Comment (2023-06-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-06-14 (Week 24)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `EC2635BE-9003-4CDB-95EF-6541A9401965`
+
+---
+
+## Market Commentary
+
+Summer has arrived, at least in London, and as we know with the coming of summer comes the anticipation and build-up for winter in LNG. This past week, the market in the East has remained muted while the West has been abuzz with a flurry of requirements, a few of which with the potential to go East. However, with the recent volatility in JKM-TTF pricing and the frequent “open-closing” of the arb, these requirements have been left in limbo or quashed altogether given the inability to sell East. Although the case, activity and rates in the West seem to have started building. On term and multi-month, we see a similar story of growing sentiment for winter and 1-year periods as the bid-offer spread starts to narrow and liquidity starts to pick up with a pair of multi-month fixtures concluded in the past week. With that, we surmise even further activity to develop in the coming weeks off the back of this increased activity prior to the summer holidays. On the newbuild front, Chevron has been reported to order 2x LNGC’s for delivery in February 2028 at circa $260M.

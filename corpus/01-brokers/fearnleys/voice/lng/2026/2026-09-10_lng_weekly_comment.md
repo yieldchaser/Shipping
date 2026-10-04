@@ -1,0 +1,26 @@
+---
+id: "b85c8337-2c35-40b7-be25-f5c81438775e"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-09-10"
+year: 2026
+week: 37
+title: "Fearnleys LNG Weekly Comment - 2026-09-10"
+---
+
+# Fearnleys LNG Weekly Comment (2026-09-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-09-10 (Week 37)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `b85c8337-2c35-40b7-be25-f5c81438775e`
+
+---
+
+## Market Commentary
+
+The market has seen an increase in chartering activity across the basins, and this coupled with stronger delivered gas prices has provided some support to sentiment if not yet to rates. Attention is now shifting towards the October fixing window, a time when the market is typically firming rapidly. It is therefore unsurprising that some players seek to capitalize on the persistently weak market conditions to build winter coverage at levels that remain well below those seen earlier in the year. TFDE vessels have continued to face challenges in the spot market, struggling to compete on a UFC basis even for smaller cargo parcels, in part because of the prevalence of 2-stroke availability shown by portfolios. There are some promising signs for the optimist to point to, including the recent transit of a laden LNGC from Qatar to Pakistan (and signs other Qatari vessels are ballasting towards the Gulf) and a likely uptick in vessels repositioning themselves back to the Atlantic for what lies in store during the Winter season. The outcome of the firm requirements being worked today may shed some light on whether the positive sentiment building will translate into significant rate gains despite the oversupply on fundamentals.

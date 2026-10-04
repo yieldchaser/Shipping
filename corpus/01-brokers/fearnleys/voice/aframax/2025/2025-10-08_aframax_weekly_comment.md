@@ -1,0 +1,26 @@
+---
+id: "f34bc159-e2aa-4a5e-af0e-826bbc5bea91"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-10-08"
+year: 2025
+week: 41
+title: "Fearnleys Aframax Weekly Comment - 2025-10-08"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-10-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-10-08 (Week 41)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `f34bc159-e2aa-4a5e-af0e-826bbc5bea91`
+
+---
+
+## Market Commentary
+
+North Sea Rates in the North Sea have been fairly steady even though the tonnage list is still short for local candidates. A couple of relets around on hold for internal needs. Demand will set the tone but if we see any delays with forward deliveries the list will remain tight heading into what looks like a fuller 3rd decade program. Tonnage also looking to head out of the area which will continue to keep pressure on the available tonnage for North Sea cargoes. Mediterranean Mediterranean has been busy with vessels taken quietly all week and WS 155 repeated many times for the benchmark TD19. Tonnage list has cleared out in the front end with few ppt/safe vessels available. We are seeing some itineraries slip which is also keeping pressure on the list. Dates are well into the 3rd decade now for all ports as charterers try and secure early safe tonnage and pressure from the owners' side doesn't seem to be fading.

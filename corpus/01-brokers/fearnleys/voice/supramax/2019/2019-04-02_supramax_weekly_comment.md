@@ -1,0 +1,26 @@
+---
+id: "FA64C466-4DBB-4977-BE96-FB8F6DDEFD7C"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-04-02"
+year: 2019
+week: 14
+title: "Fearnleys Supramax Weekly Comment - 2019-04-02"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-04-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-04-02 (Week 14)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `FA64C466-4DBB-4977-BE96-FB8F6DDEFD7C`
+
+---
+
+## Market Commentary
+
+More downward pressure on rates across both basins this week. From the USG, Ultras are fixing in the high-teens and mid-teens for FH and TA, respectively. ECSA have seen some activity this week where Supras fixing around mid USD 13,000 for TA, while from Emed to Wafr rates are around USD 7,000. In the Pacific, the Indo coal rates have been falling especially on prompt dates, where Supras are facing USD 7k in front for rv to China at the time of writing. CIS rv paying owners in the mid 6k bss CJK delivery to SE Asia, while clinker trips from Vietnam to North China is trading around USD high 8k.

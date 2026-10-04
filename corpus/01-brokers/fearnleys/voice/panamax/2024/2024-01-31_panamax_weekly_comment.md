@@ -1,0 +1,26 @@
+---
+id: "def6d105-3b70-4628-b3f2-7abc334cb577"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-01-31"
+year: 2024
+week: 5
+title: "Fearnleys Panamax Weekly Comment - 2024-01-31"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-01-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-01-31 (Week 5)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `def6d105-3b70-4628-b3f2-7abc334cb577`
+
+---
+
+## Market Commentary
+
+The Panamax market is currently strained, with the Atlantic and Pacific basins facing challenges. In the Atlantic, increased tonnage and competitive rates are causing downward pressure, while optimism from EC South America is waning. The Pacific market is sluggish, with low rates for Australian and NOPAC voyages leading vessels to seek alternatives. This situation is affecting market sentiment, though the period market remains active as players look to secure positions for 2024. The overall market lacks clear direction, with a need for increased activity to stabilize rates.

@@ -1,0 +1,26 @@
+---
+id: "07FEA69A-EF50-4A4F-B052-6AE82ACF2AB6"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-06-24"
+year: 2019
+week: 26
+title: "Fearnleys Aframax Weekly Comment - 2019-06-24"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-06-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-06-24 (Week 26)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `07FEA69A-EF50-4A4F-B052-6AE82ACF2AB6`
+
+---
+
+## Market Commentary
+
+The Aframax market in the North Sea and Baltic has continued to move sideways the past week, with a steady balance between cargoes and available tonnage making sure freight levels on benchmark routes have remained unaltered throughout the week. Such has also been the case in the Mediterranean and Black Sea market for most of the week, except the last two days where we have seen an upward correction. Much to the delight of the owners, increased activity out of Tunisia and Libya, but also the Black Sea, has given freight levels a steady boost. Most routes have picked up at least 10 points the last day or so, and as there is still a number of cargoes in the market yet to be fixed, we expect the market to stay firm in the week to come.

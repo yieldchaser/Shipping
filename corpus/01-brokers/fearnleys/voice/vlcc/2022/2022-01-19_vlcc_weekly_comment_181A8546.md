@@ -1,0 +1,26 @@
+---
+id: "181A8546-09DE-48B9-ACD6-2F01CC54395D"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-01-19"
+year: 2022
+week: 3
+title: "Fearnleys VLCC Weekly Comment - 2022-01-19"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-01-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-01-19 (Week 3)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `181A8546-09DE-48B9-ACD6-2F01CC54395D`
+
+---
+
+## Market Commentary
+
+It is still tumbling rates for the VLCC’s, with the switch to '22 flat rates making the drop even more stark. As Jan is completed and we are already 20 fixtures deep in to Feb in the MEG, charterers are exploring how low they can go in the WS 30’s for East, with each cargo collecting multiple offers. Owners are certainly not helped by bunker prices, with Brent at an eight year high, prices are up close to the USD 700/mt in Singapore, making voyage calculations a harrowing experience. Alas, precious few cargoes working at present for owners to practice calcs on. The Atlantic is no better, with Wafr/East on subs at WS 37. Some owners are turning to T/C options, where first year returns in a 3-year deal in the low USD 30,000’s per day may seem attractive. But the key for owners will be the Q3 and Q4. They just need to get there!

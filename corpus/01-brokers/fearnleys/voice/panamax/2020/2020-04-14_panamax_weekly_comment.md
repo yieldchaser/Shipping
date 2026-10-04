@@ -1,0 +1,26 @@
+---
+id: "178B6395-9796-4701-BC10-1CBA5581466A"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-04-14"
+year: 2020
+week: 16
+title: "Fearnleys Panamax Weekly Comment - 2020-04-14"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-04-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-04-14 (Week 16)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `178B6395-9796-4701-BC10-1CBA5581466A`
+
+---
+
+## Market Commentary
+
+With Easter Holidays coming to an end on Tuesday, it has been a slow start to the week with few deals being concluded in the North Atlantic. The ECSA grain market has however made for a steady volume of deals being concluded. LME’s are being paid in region of USD 13.5k + 350k GBB, while the ECSA/Continent trade yields around USD 10.5k bss APS delivery. It has been a fair number of deals for NoPac rounds being concluded as well, and paying around USD 7k bss delivery North China.

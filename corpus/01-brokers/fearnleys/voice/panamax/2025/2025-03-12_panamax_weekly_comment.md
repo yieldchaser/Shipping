@@ -1,0 +1,26 @@
+---
+id: "fa862a76-596e-4688-9a79-824e481ba25f"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-03-12"
+year: 2025
+week: 11
+title: "Fearnleys Panamax Weekly Comment - 2025-03-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-03-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-03-12 (Week 11)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `fa862a76-596e-4688-9a79-824e481ba25f`
+
+---
+
+## Market Commentary
+
+The Panamax market experienced notable gains this week, driven by strong activity in both the Atlantic and Pacific basins. In the Atlantic, fresh cargo flows and tightening vessel availability boosted transatlantic rates, with ongoing optimism from the expected second ECSA grain wave and emerging demand from North America, though uncertainty persists around USTR proposals affecting U.S. origins. The Pacific market strengthened significantly, supported by robust NoPac grain activity and recovering Australian cargo volumes, prompting owners to remain local rather than ballasting to ECSA, thereby inflating April premiums in the South. The short Indonesian rounds also showed strength, providing further upside potential for Pacific indices, particularly the P5 route. Overall, sentiment remains bullish, but sustained momentum will depend heavily on the upcoming ECSA grain volumes and continued strength from Pacific cargo flows.

@@ -1,0 +1,26 @@
+---
+id: "4ef6ee92-1098-4e30-85d1-8ac141f600b6"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-12-20"
+year: 2024
+week: 51
+title: "Fearnleys S&P Weekly Comment - 2024-12-20"
+---
+
+# Fearnleys S&P Weekly Comment (2024-12-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-12-20 (Week 51)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `4ef6ee92-1098-4e30-85d1-8ac141f600b6`
+
+---
+
+## Market Commentary
+
+What goes up must come down’ has been the feel in the tanker market this year, resulting in a struggle for liquidity throughout 2024. Correcting values are keeping prospective investors on their toes, and it is likely we will see increased activity once the market returns from winter breaks. CHIBA (45K DWT Shin Kurushima 2007) sold for USD 17M, representing a new benchmark for Japanese blt pumproom MRs. The Dry market has been the avenue for the majority of second hand investment this year, this is despite an underwhelming Q4 and a mixed outlook on 2025. 15 year old capesize units are still proving popular with Far Eastern buyers as Korea Line acquired scrubber fitted FEG SUCCESS (182K DWT Kawasaki 2010)*ss/dd due for USD 28M. In a rare eco Newcastlemax transaction, Oldendorff sold scrubber fitted LINDA OLDENDORFF (207K DWT HHI 2014) for USD 48.3M to Bohai.

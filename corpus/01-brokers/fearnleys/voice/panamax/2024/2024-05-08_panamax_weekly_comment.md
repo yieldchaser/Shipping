@@ -1,0 +1,26 @@
+---
+id: "241e9b74-8723-481a-9299-2d0f4d7e396d"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-05-08"
+year: 2024
+week: 19
+title: "Fearnleys Panamax Weekly Comment - 2024-05-08"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-05-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-05-08 (Week 19)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `241e9b74-8723-481a-9299-2d0f4d7e396d`
+
+---
+
+## Market Commentary
+
+This week in the Panamax market, despite previous expectations of a downward trend, prices continued to rise, particularly in the Pacific compared to the Atlantic. This rise occurred despite a high concentration of fleet in the East of Suez and a seasonal decline in coal demand. Market movements remain aligned with seasonal expectations, suggesting a possible drop next month followed by a significant rise in Q3. The market started strong this week, bolstered by positive trading sentiments and gains across most routes, though the trans-Atlantic route experienced slower activity. Sentiment remains cautiously optimistic.

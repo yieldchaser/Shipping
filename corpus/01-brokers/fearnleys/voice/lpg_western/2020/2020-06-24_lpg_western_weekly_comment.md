@@ -1,0 +1,26 @@
+---
+id: "20750796-07CD-40C0-BC63-81ED2C9744DC"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-06-24"
+year: 2020
+week: 26
+title: "Fearnleys LPG Western Weekly Comment - 2020-06-24"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-06-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-06-24 (Week 26)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `20750796-07CD-40C0-BC63-81ED2C9744DC`
+
+---
+
+## Market Commentary
+
+AMERICAS: The 2.36 million barrel weekly build along with tanking crude caused the July propane price at Mt. Belvieu to drop sharply (aprox 48cpg) - However, this did little to support the dwindling arb as the FEI and NWE prices came off considerably as well. Further discussions of cancellations, (two) are being reported, though unconfirmed, for US Gulf July FOB cargos, as freight shot up basis Houston/Chiba. That being said, exports increased week on week, as US production has come back online in a big way following COVID 19 related cuts. As it stands, FOB bid side interest in the gulf has dissipated, with offers around 4.5-5cpg. In Latin America , Gasmar tendered for their third cargo of Southern Hemisphere Winter with offers due today for 44,000 mts propane basis delivery August 13-18.

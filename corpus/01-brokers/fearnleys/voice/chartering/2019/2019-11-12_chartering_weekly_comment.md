@@ -1,0 +1,26 @@
+---
+id: "4E18F01C-363E-4AA3-B087-822F91874391"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-12"
+year: 2019
+week: 46
+title: "Fearnleys Chartering Weekly Comment - 2019-11-12"
+---
+
+# Fearnleys Chartering Weekly Comment (2019-11-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2019-11-12 (Week 46)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `4E18F01C-363E-4AA3-B087-822F91874391`
+
+---
+
+## Market Commentary
+
+EAST This week has generally been very quiet thus far and only real activity on shipping has been from the Indian majors. The Baltic seems pretty balanced for now and last done deal reported at USD 77 pmt. We are still awaiting the December Aramco acceptances which ultimately should set next direction on freight going forward. WEST This week the Western market seemed to be catching its breath, with rates cooling slightly. Most likely, this is partly due to the market fixing too far ahead and partly to a weakening of netbacks relative to recent weeks. That being said, position lists now look very short for the final fixing period of 2019, with a handful of uncovered cargoes expected in the market. We anticipate West-East freight rates to strengthen again as a consequence.

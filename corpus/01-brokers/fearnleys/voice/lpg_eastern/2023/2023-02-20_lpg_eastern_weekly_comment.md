@@ -1,0 +1,30 @@
+---
+id: "FC0631E6-2381-4F7C-87B6-3C1E4530357F"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-02-20"
+year: 2023
+week: 8
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-02-20"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-02-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-02-20 (Week 8)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `FC0631E6-2381-4F7C-87B6-3C1E4530357F`
+
+---
+
+## Market Commentary
+
+MEG 1st round CP idea was recommended at the range from $705 to $730 for C3, and C4 at flattish or $5 higher to C3. Expecting export volume resumed from maintenance, and the crude drop, Mar C3 CP fell to $697 and C4 at $707. Butane was reckoned at higher value with front prompt demand into SEA, also higher butane price from other origins. Qatar Petroleum issued tender to sell late Mar lifting flexible ratio cargo and was reported to sell one evenly split cargo and one full propane cargo reportedly.
+
+**FAR EAST**
+
+ Premium for Apr arrival cargos softened as of the end of winter season, together with the refrained buying for PDHs due to the bad margins from downstream products. A handful of PDH units planed scheduled turnarounds in Mar or extend their turnaround from Feb to Mar or maintain low running rates. Buy or sale ideas varied widely, we’ve seen 46kt propane for 2h Mar delivery was bid at Mar FEI plus $5, but offered at Mar CP minus $15, which equates to Mar FEI plus $50. The decline in flat price however attracts cracking buying demand, with better economy for feedstock. One Korean importer issued buy tender for 23kt propane delivered during 8 to 14th Apr delivery into Daesan. Previously they have procured similar cargo for end Mar to early Apr delivery at Apr FEI plus $90s reportedly. Another cracker user located in Ningbo, EChina also reported to cover a 23kt propane parcel for end Mar/early Apr delivery at Mar FEI plus mid-20s, which equated to Apr FEI plus 60s by then. Following this, one PDH user covered their demand for 46kt propane delivered into Qinzhou, SChina in 1h Apr delivery, which was reported done at Apr CP plus $40. We are expecting some more inquires for Apr delivered propane will surge after CP set, however most likely for 2h Apr instead of early deliveries, depending on the margins. Apart from such, one 5-6 Mar lifting ex Australia evenly split cargo was sold via tender to a SEA importer reportedly.

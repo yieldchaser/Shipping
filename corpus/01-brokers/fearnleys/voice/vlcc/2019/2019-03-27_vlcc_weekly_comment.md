@@ -1,0 +1,26 @@
+---
+id: "3501D6BD-6FC9-49EC-8A2B-605DC2C0BCBD"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-03-27"
+year: 2019
+week: 13
+title: "Fearnleys VLCC Weekly Comment - 2019-03-27"
+---
+
+# Fearnleys VLCC Weekly Comment (2019-03-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2019-03-27 (Week 13)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3501D6BD-6FC9-49EC-8A2B-605DC2C0BCBD`
+
+---
+
+## Market Commentary
+
+The VLCC market took a turn for the worse this week, as activity slowed down in all areas and ships of all classes have been piling up. Those charterers dipping their feet in receive double digit offers, with tonnage offering initially below last done levels. Thus, we expect rates to drop further as the week progresses, and owners could find themselves trading at OPEX levels before long. At the time of writing, ws45 has been done on a ship older than 15 years for MEG/East, and modern tonnage will probably follow suit soon.

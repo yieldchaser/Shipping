@@ -1,0 +1,26 @@
+---
+id: "8D42AF6F-444E-4794-AD13-F62B89B861A2"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-11-25"
+year: 2020
+week: 48
+title: "Fearnleys LNG Weekly Comment - 2020-11-25"
+---
+
+# Fearnleys LNG Weekly Comment (2020-11-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-11-25 (Week 48)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `8D42AF6F-444E-4794-AD13-F62B89B861A2`
+
+---
+
+## Market Commentary
+
+LNG markets continue to improve with buoyant demand supporting LNG shipping. Although there has been a short plateau in rates, requirements continue to surface as vessel positions firm up and ships are fixed with little idle time. Tight availability thus persists globally and is expected to remain light, as the wave of fixtures earlier this month will see ships employed through December and into the New Year. The regional imbalance continues with very few vessels in the Atlantic, and Panama Canal delays and longer voyages delivering into the colder winter in the East exacerbating the issue. There were reports of cancellations of January cargoes loading out the US Gulf, due in part to a lack of available shipping. Views looking further into 2021 are more pessimistic, as reflected by the difference in spot and one year levels. Owners seeking utilisation over spot exposure may move to avoid competing with uncommitted new arrivals next year and the redelivery of existing tonnage. On the new building market it has been reported that Shell is adding to it’s tally of vessels by signing up shipowners to berths is has reserved in South Korea taking the total from 14 vessels up to 18.

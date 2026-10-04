@@ -1,0 +1,26 @@
+---
+id: "B7575233-58DF-451F-BCEE-97D28BD60728"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-03-30"
+year: 2022
+week: 13
+title: "Fearnleys VLCC Weekly Comment - 2022-03-30"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-03-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-03-30 (Week 13)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `B7575233-58DF-451F-BCEE-97D28BD60728`
+
+---
+
+## Market Commentary
+
+Working the VLCC market at present, can seem like being uninvited to a party and resorting to looking through the windows. While other markets ebb and flow, ours remain somewhat subdued. However, for owners, some optimism should remain. At the time of writing, there are plenty of cargoes looking for transport. A pickup in activity (72 MEG cargoes, and we only fixing mid-month laycans) and many owners slow steaming is thinning the position list in both Atlantic and Fuj, (albeit mainly the modern-Approved-scrubbered vessels). With the MEG paying up to WS 42.5, some charterers may look to older/handicapped, and of those, plenty remain. The Atlantic is the realm of those who can – a premium of USD 200+ for low over high sulphur bunkers pricing out the unscrubbered. It feels the VL’s in need of a little trickle-up economics.

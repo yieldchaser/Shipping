@@ -1,0 +1,30 @@
+---
+id: "8216046D-4036-4FF1-942D-B911626FBFC9"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2023-07-06"
+year: 2023
+week: 27
+title: "Fearnleys LPG Western Weekly Comment - 2023-07-06"
+---
+
+# Fearnleys LPG Western Weekly Comment (2023-07-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2023-07-06 (Week 27)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `8216046D-4036-4FF1-942D-B911626FBFC9`
+
+---
+
+## Market Commentary
+
+AMERICAS With the July market all but concluded at this point (save for a mid-month FOB) most are eyeing the August market, in which there presently seems to be only modest interest. With shipping now showing volatile gains and declines it may prove difficult for tons to move. Furthermore, competing volumes from the Middle East continue to compete for Asian demand. Meanwhile, the MB propane market has been under pressure from the weight of ever-increasing inventory levels, which the EIA today recorded at 81.10mmbbls, an increase of 1.60mmbbls, which is just under the 5-year average of 1.98mmbbls. In any event, overall stock levels are now well above the preceding 5 years, and fully 17mmbbls above the 5-year average for the 26th week of the year. The immediate reaction in the MB propane market has (so far) been an uptick in values against yesterday’s close of 52.625cpg. Terminal fees, all the while, remain rather muted and any potential increases have been absconded by the freight market, though a recent reversal to the downside may allow for limited growth. Current Aug FOBs are pegged in the mid 5s cpg range, with Sep talked in the upper 6s and lower 7s. NWE Recent propane weakness in the region narrowed the East/West spread $10/MT so far this week, the spread now +$81/MT. Netback values to the region have been improving, although no new US imports have been heard. Naphtha saw strength widening the August propane naphtha spread $9/MT to $125/MT as propane lost ground. The hope is that the improved spread will increase petchem run rates through the summer increasing demand, end product demand will have to improve for this to happen. The TOT window has been quiet, with assessed value at July CIF ARA flat. Butane saw a slight uptick in value to 58% July Naphtha which is still $226/MT below outright naphtha value.
+
+**MED**
+
+ Butane strengthened rapidly last week as low import volume began to have an effect. Unmet bids pushing up value.

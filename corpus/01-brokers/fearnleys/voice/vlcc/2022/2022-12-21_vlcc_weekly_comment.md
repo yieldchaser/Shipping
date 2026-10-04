@@ -1,0 +1,26 @@
+---
+id: "9F9929A7-F846-4338-BAC4-677E60A6E5AF"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-12-21"
+year: 2022
+week: 51
+title: "Fearnleys VLCC Weekly Comment - 2022-12-21"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-12-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-12-21 (Week 51)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `9F9929A7-F846-4338-BAC4-677E60A6E5AF`
+
+---
+
+## Market Commentary
+
+A negative swing for VLCC owners this past week, as rates have taken a 10-point dive across the board. A couple of deals done on ships that only have to calculate one leg (i.e., sold and delivered at the completion of discharge). Nonetheless, each enquiry received a dozen offers, and therefore each fixture will have 11 or so disappointed candidates. "Special reasons" or not the market is now set in the low-mid WS 70's for MEG/East. Charterers' current tactics of sitting on hands and drip-feeding cargoes is working in their favour, hoping for someone to break ranks yet again as Christmas moves closer. However, judging from the January fixture count, and moving closer on the curve laycan wise, charterers could be creating a bottleneck for themselves with enquiry shoe-horned into the days between Christmas and New Year.

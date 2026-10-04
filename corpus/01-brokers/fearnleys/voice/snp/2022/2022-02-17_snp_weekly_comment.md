@@ -1,0 +1,26 @@
+---
+id: "5B80C00C-E76F-4D3D-9662-B974A1F9AA31"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-02-17"
+year: 2022
+week: 7
+title: "Fearnleys S&P Weekly Comment - 2022-02-17"
+---
+
+# Fearnleys S&P Weekly Comment (2022-02-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-02-17 (Week 7)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `5B80C00C-E76F-4D3D-9662-B974A1F9AA31`
+
+---
+
+## Market Commentary
+
+This week continues to see a climb in dry cargo snp activity with up to 20 vessels changing hands. As mentioned in our last report, potential buyers have re-entered the market supported by clear benchmarks being set by recent transactions taking place in all sectors. Levels that broadly remain in line with the relative highs achieved over the past quarter making it easier for sellers to trigger a sale. The Ultramax and Supramax sectors are once again capturing most of the activity with a steady stream of candidates being placed on the market to meet those increased levels of buying enquiry. A rather more subdued sentiment in the Tanker space where values are continuing their corrections, lead by sellers who are gradually deciding to give in a market that is showing no signs of bouncing back. The mid 2000 crude carriers seem to be the first to take the hit with a number of units being sold. The Product sector is showing more resiliance with sellers keeping units out of the market or continuing to hold for levels in line with last done.

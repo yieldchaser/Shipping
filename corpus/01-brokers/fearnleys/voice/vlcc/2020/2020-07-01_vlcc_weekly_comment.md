@@ -1,0 +1,26 @@
+---
+id: "C4CEA374-11D8-409B-8E30-F67421C3A10C"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-07-01"
+year: 2020
+week: 27
+title: "Fearnleys VLCC Weekly Comment - 2020-07-01"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-07-01 (Week 27)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `C4CEA374-11D8-409B-8E30-F67421C3A10C`
+
+---
+
+## Market Commentary
+
+It's been slim pickings for VLCC owners in the week gone by. Activity picked up a tad in the last 24 hours, mostly from the Atlantic with a couple of West African cargoes to go with some North Sea and USG inquiry. Rates have continued south across the board, although charterers' efforts to break the WS30 mark for the benchmark MEG/China route have so far proven overambitious, as owners have dug their heels in closer to WS35. Alas, the light at the end of the tunnel is as likely to be a train coming in the opposite direction, with July volumes so far trending down from an 18-year low June. With summer holidays just around the corner most owners will sign up to the quote; “A vacation is what you take when you can no longer take what you’ve been taking.”

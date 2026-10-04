@@ -1,0 +1,30 @@
+---
+id: "2d250968-3852-4df6-b04c-115ff9b22fd1"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-12-12"
+year: 2024
+week: 50
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-12-12"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-12-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-12-12 (Week 50)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `2d250968-3852-4df6-b04c-115ff9b22fd1`
+
+---
+
+## Market Commentary
+
+MEG FOB discounts for Jan lifting evenly split cargos deepened further to minus $20, reflecting recent trade discussions with slim buying inquiries. Despite such, Jan CP swaps remained firm, which traded at $630 by the time of writing, and Jan C3/C4 at $5. Jan/Feb CP was traded at $10 backwardation.
+
+**FAR EAST**
+
+ Cash differentials for Jan discussion into FAR EAST has edged down to discounted level this week, with a handful of offers available against limited bids. 23/0 for 2h Jan delivery was once traded at Jan FEI minus $1, and it’s expected to slide further as of lengthy supply. 46/0 for 2h Jan delivery into Yantai was bid at Jan FEI minus $3 in window. Off window similar cargo was placed into Qingdao at Jan FEI minus small single digit reportedly, at the equivalence of CP minus mid-teens, as Jan FEI/CP traded at -$16. A flurry of buy tenders issued this week but only partial awarded. FPCC was reported to cancel buy tender to procure one 46/0 for next Aug delivery into Taiwan, assuming discounts not favorable yet. One SChina PDH player only procured 11kt C3 for Jan delivery at Jan FEI minus low single, despite their original tender asking for 2/0 or 4/0. HTC issued tender to buy 11kt C3 for late Jan delivery. And CPC tendered to buy 11/11 for late Jan delivery as well. Compared to normal stems, special origin cargos are reckoned to be discussed at least 20 bucks cheaper, especially with three cargos unsold from prompt delivery to 1st week of Jan basis SChina. From our shiptracks, exports into China this year maintained similar at close to 9mmt vs last year, however at more prompt discussion via spot tenders.

@@ -1,0 +1,26 @@
+---
+id: "6AB05EB1-2B40-4BDB-A9BE-AE832F89F542"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-03-20"
+year: 2019
+week: 12
+title: "Fearnleys Panamax Weekly Comment - 2019-03-20"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-03-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-03-20 (Week 12)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `6AB05EB1-2B40-4BDB-A9BE-AE832F89F542`
+
+---
+
+## Market Commentary
+
+More activity and positive sentiment this week, as rates have been increasing in both hemispheres. A transatlantic round voyage currently yields about USD 5,500 per day, while a short fronthaul from the Continent yields around low USD 13,000's. In the East, a Pacific round voyage pays around the USD 8,000's. The BPI 4TC-index is up 123 points for the week, currently at 962 points.

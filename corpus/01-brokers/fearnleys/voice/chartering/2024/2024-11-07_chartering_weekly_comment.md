@@ -1,0 +1,26 @@
+---
+id: "2f165bc6-740c-4f64-a5f4-d920fa66b82a"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-11-07"
+year: 2024
+week: 45
+title: "Fearnleys Chartering Weekly Comment - 2024-11-07"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-11-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-11-07 (Week 45)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `2f165bc6-740c-4f64-a5f4-d920fa66b82a`
+
+---
+
+## Market Commentary
+
+EAST East market has been relatively muted so far this week with only a couple spot fixtures concluded – one of them already for December dates. More talks about December cargos from the Middle East rather than end November cargos does not necessarily mean November is done just yet – so far we are counting just two spot cargos fixed in the last 10 days of November from Middle Eastern ports. In total only 15 spot fixtures have been done that month – 11 of them being Indian PSUs. WEST In the West we have seen two spot fixtures done this week – both for December dates. At the time of writing we still find 3 available vessels left in November USG, all from the same owner, and it remains to be seen how many cargoes are left as we have already seen 31 spot fixtures this month. This is 3 more than the monthly YTD average. December fixing has just begun counting 4 spot fixtures and the position list is looking rather balanced first half of the month. Last done deals at mid/high to high 90s H/C.

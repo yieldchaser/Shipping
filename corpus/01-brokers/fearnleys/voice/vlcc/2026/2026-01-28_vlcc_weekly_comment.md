@@ -1,0 +1,34 @@
+---
+id: "543847ea-15fd-4b9f-be18-22d1a47687b5"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-01-28"
+year: 2026
+week: 5
+title: "Fearnleys VLCC Weekly Comment - 2026-01-28"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-01-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-01-28 (Week 5)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `543847ea-15fd-4b9f-be18-22d1a47687b5`
+
+---
+
+## Market Commentary
+
+VLCC rates have been on a steady downward trajectory in the week gone by, dipping below the WS 100 mark both east and west of Suez for eastbound cargoes and currently pegged at low-mid WS 90 depending on the voyage/ship in question. Charterers will continue to test owner’s resolve, but the market never sleeps and quite a few ships have been tucked away under the radar in the last 24 hours, which could, repeat could signal support to keep things staring with a 9, although we would not be surprised to see someone tempted to do a smidgen less. Still, daily earnings in the USD 70’s k/day is not to be sniffed it.
+
+**USG**
+
+ export cargoes east continue to be few and far between with ton-mile considerably down despite a steady flow from Brazil spiced with a few West Africa liftings.
+
+**MEG**
+
+ volumes are holding on par with previous months but signals from OPEC+ suggest the group will keep the pause on oil output increases for March at their upcoming meeting on February 1st.

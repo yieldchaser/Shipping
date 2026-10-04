@@ -1,0 +1,26 @@
+---
+id: "AAF15916-738F-49DB-AB69-87832D40DEAD"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-07-06"
+year: 2020
+week: 28
+title: "Fearnleys LPG Western Weekly Comment - 2020-07-06"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-07-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-07-06 (Week 28)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `AAF15916-738F-49DB-AB69-87832D40DEAD`
+
+---
+
+## Market Commentary
+
+AMERICAS The EIA reported a build of 2.2 million barrels this week, in line with expectation- all the while exports rose to 1.33mn b/d. As it stands, the butane arb to Europe looks better than propane, (around $80/ton) while the propane arb in that direction has come off. The LST/FEI spread last showed $83 lst/fei following the build, netting back just over 4cpg (when using low 60s for freight on a houston/chiba basis) where FOB discussion for August cargos now stand. Many participants have taken the view that the catalyst for higher netback values will come in the form of Indian demand -as China, South Korea and Japanese stocks seem well built at this time. US producers, notably in the Marcellus, Utica and Permian regions have pressed onward with their volume recovery as the crude price now sits in the low 40's following the mid april crash that subsequently choked out Marcus Hook export volumes.

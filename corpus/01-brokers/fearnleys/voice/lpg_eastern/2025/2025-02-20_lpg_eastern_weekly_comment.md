@@ -1,0 +1,30 @@
+---
+id: "9b747e85-d5dc-433c-b9b0-c5eecd0723e6"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-02-20"
+year: 2025
+week: 8
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-02-20"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-02-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-02-20 (Week 8)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `9b747e85-d5dc-433c-b9b0-c5eecd0723e6`
+
+---
+
+## Market Commentary
+
+MEG Spot differentials are still discussed at CP minus 30s level for Mar evenly split loaders, under selling pressure with abundant offers amidst dampened demand, especially from India. We’ve been hearing Indian players are deferring their Mar lifting, which resulted in a plenty of offers from producers and their trading arms. KPC was reported to award their sale tender for end Mar lifting evenly split cargo at Apr CP minus 20s range. Qatar Energy also offered two heavy propane cargos for late Mar lifting, yet to know the result. By the time of writing, Mar C3 CP was traded at $608 and C3/C4 was assessed at $10.
+
+**FAR EAST**
+
+ Cash premium edged up this week with active bids emerging. 23/0 parcel for 2h Mar delivery was concluded at Mar FEI plus $12.5 and a few more similar bids are left untaken in window. 46kt parcels were also actively changed hand. Earlier this week such parcel for Mar delivery was traded basis Chiba at high single level but later softened to mid-single range reportedly. Outside window, a flurry of cargos length is absorbed into China as well. FIC was reported to award their buy tender for 46/0 Mar delivery at Mar FEI plus high single digit, and similar parcels were also concluded at low mid teens range. Given the widening spread on FEI/MOPJ, FPC issued a mini term tender to secure monthly 46kt LPG from Mar to Jun delivery for cracking. Tianjin Bohai also tendered to procure two full propane cargos for 2h Mar and Apr delivery.

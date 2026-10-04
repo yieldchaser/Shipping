@@ -1,0 +1,26 @@
+---
+id: "b930f0be-62a1-44d4-9692-519af4b218c6"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-07-01"
+year: 2026
+week: 27
+title: "Fearnleys Panamax Weekly Comment - 2026-07-01"
+---
+
+# Fearnleys Panamax Weekly Comment (2026-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2026-07-01 (Week 27)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `b930f0be-62a1-44d4-9692-519af4b218c6`
+
+---
+
+## Market Commentary
+
+The Panamax market remained firm, supported by improving demand in both the Atlantic and Pacific. In the Atlantic, prompt tonnage remains relatively tight despite the emergence of more early July vessels, with strong transatlantic, mineral fronthaul and East Coast South America demand continuing to support sentiment. Owners are maintaining a firm stance, although an increase in ballasting vessels into ECSA may gradually improve tonnage availability. In the Pacific, stronger demand from Australia and the NOPAC, combined with fewer owners committing to longer trips, has tightened effective vessel supply and kept market sentiment positive.

@@ -1,0 +1,26 @@
+---
+id: "dbe7aad9-5fd0-42f6-837b-cb626eef53f8"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-03-26"
+year: 2025
+week: 13
+title: "Fearnleys VLCC Weekly Comment - 2025-03-26"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-03-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-03-26 (Week 13)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `dbe7aad9-5fd0-42f6-837b-cb626eef53f8`
+
+---
+
+## Market Commentary
+
+The VLCC market is trudging along with variations over last done in USD/day terms for MEG/eastbound cargoes. There’s no overabundance of modern ships in the fixing window although for those charterers having more flexibility there is a good choice of older ships, ex dry docks and its ilk with corresponding discounts. The USG continues to give, and the position list there is bordering on tight. Charterers with West Africa and Brazil exposure can be slightly more relaxed, however, as tonnage supply is more closely linked to the MEG. Summed up: "steady as she goes".

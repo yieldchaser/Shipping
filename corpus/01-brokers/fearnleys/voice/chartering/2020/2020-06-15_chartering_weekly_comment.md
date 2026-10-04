@@ -1,0 +1,26 @@
+---
+id: "89180A6B-C597-4865-9E61-B246883AE78A"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-06-15"
+year: 2020
+week: 25
+title: "Fearnleys Chartering Weekly Comment - 2020-06-15"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-06-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-06-15 (Week 25)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `89180A6B-C597-4865-9E61-B246883AE78A`
+
+---
+
+## Market Commentary
+
+EAST: The market in the East has remained fairly inactive this week apart from a couple of companies checking freight ideas against early July loading in the Middle East. Most players are still waiting for the announcement of Saudi July acceptances, and as freight remains long with available ships from both the main owners and the traders, the sentiment is rather weak and there is no real rush to commit on shipping just yet. We are also seeing additional delays for ships coming open ex India. This could normally lead to some tightness of the spot available fleet in the East, but with continued LPG production cuts and the current length in vessel supply elsewhere we do not expect this to have any significant impact. WEST: There hasn’t been much to write home about this week with regards to the VL market West of Suez. Things seem to be in a state of inertia: bunkers have been largely stable, East and West still seem broadly equivalent on a baltic basis and earnings have weakened only marginally. Positions lists remain long with a number of relets available, and as we head further into the weaker summer months it seems the market will come under some more pressure. On the basis of a weak CFR market in the East and given the low cost of waiting time compared to the Panama Canal fee, it seems the vast majority of ships should be routing via the Cape of Good Hope. However, it is hard to say when any bullishness of the longer tonne mile will feed through to the market; sentiment is still unanimously bearish and is expected to remain so for a while longer.

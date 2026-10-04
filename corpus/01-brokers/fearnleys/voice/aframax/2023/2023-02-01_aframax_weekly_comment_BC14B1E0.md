@@ -1,0 +1,26 @@
+---
+id: "BC14B1E0-28FA-4E63-9DCE-4947A5B627D8"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-02-01"
+year: 2023
+week: 5
+title: "Fearnleys Aframax Weekly Comment - 2023-02-01"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-02-01 (Week 5)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `BC14B1E0-28FA-4E63-9DCE-4947A5B627D8`
+
+---
+
+## Market Commentary
+
+Despite a couple of vessels ballasting away from the area, NSea rates moved sideways last week as market activity wasn’t as strong as expected. Bad weather in the area caused delays which led to vessels being replaced, however rates were repeated even on these fixtures. Moving forward we expect market to remain balanced. In the Med/BSea market, rates took hit a last week as ballasters from surrounding markets added downward pressure. Activity was strong but not enough to absorb the long supply of vessels. Rates seem to have reached bottom right now and if activity continues being strong, we might see owners gaining momentum and pushing for more on the next fixing window.

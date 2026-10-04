@@ -1,0 +1,26 @@
+---
+id: "22ECE73A-E77E-4904-93F3-4159D1757DA6"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-07-12"
+year: 2023
+week: 28
+title: "Fearnleys LNG Weekly Comment - 2023-07-12"
+---
+
+# Fearnleys LNG Weekly Comment (2023-07-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-07-12 (Week 28)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `22ECE73A-E77E-4904-93F3-4159D1757DA6`
+
+---
+
+## Market Commentary
+
+Summer and / or Vancouver is keeping the industry quiet on the prompt, but down the curve there’s enough happening on the time spreads to reinforce the value of a 2-Stroke going into Christmas. That we are at the mercy of the weather is always the case in LNG but interestingly, consensus this year seems to have shifted "peak winter" firmly into Q4. This could prove interesting if we have a repeat of 2021 (with January the peak fixing month for February’s peak demand) because many of the recent fixtures will be returning to their (disponent) owners at this exact time. Of course, the bigger news this week is the "yet to be announced" FIDs out of North America. Next Decade and Delfin are expected to hit the launch button imminently, and given recent SPA announcements, one assumes that Mexico Pacific is just around the corner too? Given the number of vessels we have delivering over the next few years, the promise of more volumes will be welcome news to both Buyers and Owners. No newbuilds to report this week.

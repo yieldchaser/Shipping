@@ -1,0 +1,30 @@
+---
+id: "d6a0b848-72d7-44dc-aea4-0150d5b6f90d"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-10-16"
+year: 2025
+week: 42
+title: "Fearnleys Chartering Weekly Comment - 2025-10-16"
+---
+
+# Fearnleys Chartering Weekly Comment (2025-10-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2025-10-16 (Week 42)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `d6a0b848-72d7-44dc-aea4-0150d5b6f90d`
+
+---
+
+## Market Commentary
+
+The VLGC market has shown signs of renewed activity over the past week, particularly in the Western hemisphere. While the monthly fixing count in both the East and West remains slightly below the year-to-date average, the pace of fixtures has picked up compared to previous months. Notably, seven fixtures for November loading ex-USG have already been recorded—an encouraging sign of forward momentum. In the US Gulf, vessels are now arriving open and ready to load on prompt dates, a scenario not seen in quite some time. This shift suggests a loosening of the tight tonnage situation that has recently characterized the region, potentially offering more flexibility for charterers. Despite this uptick, the broader market continues to be weighed down by ongoing trade tensions between the US and China. The uncertainty surrounding the scope and enforcement of sanctions has led market participants to adopt a more cautious approach. In response, many are securing vessels that fall outside the affected jurisdictions to avoid potential disruptions to trading and delivery operations. Nevertheless, TCE earnings remain relatively stable, hovering around the USD 50,000/day mark—still a respectable return for owners navigating an otherwise uncertain environment.
+
+**East of Suez**
+
+, November acceptances are nearing completion, with one fixture already concluded via a vessel swap. However, a significant overhang of October tonnage is expected to carry into November, keeping freight rates under pressure and limiting upside potential in the short term. Looking ahead, any further developments in the US-China trade landscape could quickly reshape market dynamics. That said, given the inherently supply-driven nature of the VLGC market, we expect a swift adjustment to any new trading norms as players adapt to evolving conditions.

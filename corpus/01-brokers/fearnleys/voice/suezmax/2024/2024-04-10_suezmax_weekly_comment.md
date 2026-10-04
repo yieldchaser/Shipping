@@ -1,0 +1,26 @@
+---
+id: "eb973b69-e789-4081-8d22-6c288560649b"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-04-10"
+year: 2024
+week: 15
+title: "Fearnleys Suezmax Weekly Comment - 2024-04-10"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-04-10 (Week 15)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `eb973b69-e789-4081-8d22-6c288560649b`
+
+---
+
+## Market Commentary
+
+US Gulf Aframax's are the gift that keeps on giving (to owners at least) and are the key support mechanism for Suezmax with rates in the wider Atlantic, benefiting from the US Gulf's unique microclimate (the tail is well and truly wagging the dog). Thanks to activity across the pond TD 20 has up-ticked 12.5 points in the last forty-eight hours to WS 120 with no downside. There is no evident butterfly effect from the Atlantic into the Far East (for now) where miserly enquiry levels will keep MEG/East rates pinned down at WS 115-120 whilst BOT/UKCM should trade conference WS 67.5. We repeat are call from previous updates that with fewer ships performing West/East moves, there will be a crunch time in the offing where the supply of ships becomes very low by historical comparison, but that is a little further down the line.

@@ -1,0 +1,26 @@
+---
+id: "6d443a0f-b76f-424e-9367-87057e93be8c"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-10-06"
+year: 2023
+week: 40
+title: "Fearnleys S&P Weekly Comment - 2023-10-06"
+---
+
+# Fearnleys S&P Weekly Comment (2023-10-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-10-06 (Week 40)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `6d443a0f-b76f-424e-9367-87057e93be8c`
+
+---
+
+## Market Commentary
+
+Headlines at the end of this week are dominated by Frontline & Euronav, and the proposed end to a very public battle for control of the Belgian Tanker giant. John Fredriksen’s Frontline, if approved by regulatory bodies and relevant shareholders, will walk away with 24 Euronav VLCCs in exchange for their 26.12% stake in the company. Transactions this week were concentrated in the MR sector, with five units changing hands. The 22 tanks, fully IMO2 capable TRF BERGEN (49K DWT HYUNDAI VINASHIN 2015) was sold for USD 37M, while EVINOS (49K DWT STX 2013) and SANDPIPER PACIFIC (51K DWT SUNGDONG 2013) both received around USD 34M. Finally, Turkish buyers paying a strong USD 40.5M each for the two 2016 SPP built MR's LACERTA and BORA BORA. Despite the Golden Week holiday in China, liquidity in the dry sector remains strong. The Capesize market has bounced this week as manufacturing has rebounded. This has filtered down across the dry market where price expectations are firming across the board, meaning those waiting out the bottom of the market might well have missed their chance for now. The standout transaction is Sinokor selling scrubber fitted pair COMANCHE/CHOW (180K DWT SWS 2016) for USD 43.5M each en bloc to buyers Arcelor Mittal, and CONTAMINES (180K DWT SWS 2016) for USD 41.5M to Neda Maritime. Elsewhere, scrubber-fitted Kamsarmax LORD STAR (82K DWT SANOYAS 2013) sold for USD 23.8M.

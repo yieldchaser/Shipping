@@ -1,0 +1,26 @@
+---
+id: "57B77085-633E-4531-B252-242E183308A3"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-12-07"
+year: 2022
+week: 49
+title: "Fearnleys LNG Weekly Comment - 2022-12-07"
+---
+
+# Fearnleys LNG Weekly Comment (2022-12-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-12-07 (Week 49)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `57B77085-633E-4531-B252-242E183308A3`
+
+---
+
+## Market Commentary
+
+Cold weather conditions have boosted demand for heating in North Europe as well as China, but European LNG prices have kept their premium to JKM this week. In shipping, more vessels are opening up after discharge in Europe as storage capacity is being depleted. These, coupled with the available tonnage in the Atlantic from the Freeport outtage, have resulted in excess prompt availability and a further drop in spot rates. Looking out into next month, spot rates for 2-strokes are holding higher given the uncertainty around Freeport delays, while more requirements are emerging and there are a steady flow of Egas cargo tenders into the market. On the other hand, the term market remains disconnected from the recent drop in spot rates, and activity and rates remains high. In the Newbuilding market, China Merchants has order 2 x 175,000 LNGCs at Dalian Shipyard, bringing the number of units ordered for the Owner to 10 in total.

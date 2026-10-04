@@ -1,0 +1,26 @@
+---
+id: "094dd460-8039-458c-a236-18915ef55353"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-04-02"
+year: 2025
+week: 14
+title: "Fearnleys Capesize Weekly Comment - 2025-04-02"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-04-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-04-02 (Week 14)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `094dd460-8039-458c-a236-18915ef55353`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see a relatively healthy level of enquiries for mid April dates. Some operators are out looking for forward May dates as well. Periphery volumes out of East Australia are healthy as well. On C3 ex Brazil and West Africa, we start seeing cargo popping up for first half of May and a small handful for late April dates. Spot tonnage in the Pacific is tightening as we approach mid-week with prompt vessels cleared out at the earlier half of the week and a number choosing to ballast West. Ballasting tonnage is growing for May dates with a handful of sellers left for second half of April dates. The week started off with C5 concluding at mid-high USD 8 pmt levels and rose to low-mid USD 9 pmt levels today. On C3, numbers are generally at mid USD 21 pmt levels and high USD 22 pmt levels for buyers and sellers respectively.

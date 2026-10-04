@@ -1,0 +1,26 @@
+---
+id: "93b45c29-54f7-46e5-9ece-dc771e292ca7"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2025-04-10"
+year: 2025
+week: 15
+title: "Fearnleys LPG Western Weekly Comment - 2025-04-10"
+---
+
+# Fearnleys LPG Western Weekly Comment (2025-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2025-04-10 (Week 15)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `93b45c29-54f7-46e5-9ece-dc771e292ca7`
+
+---
+
+## Market Commentary
+
+US As a direct result of the implementation of tariffs WTI was seen in virtual freefall over the course of this week, only to surge again yesterday after tariffs were – at least temporarily – rescinded, in most part. As of this writing front-month WTI is pegged at $60.57/bbl, off from the $71.20/bbl level seen at the front of April. Correspondingly, Mont Belvieu propane has seen an equivalent descent and closed Wednesday at $59.00cts/gal, off from $92.00cts/gal on 1st April. The EIA yesterday reported an overall propane inventory build of 1.6mmbbls, which was generally expected, and brought stocks to ~88% of the levels achieved at the same time last year, but just 81% of two years ago. As a percentage of crude, propane has fallen from over 50% of WTI to just over 41% at the close of business Wednesday. Meanwhile, terminal fees have slid, as well, with 4:0 parcels being talked at around 5cts/gal and 2:2 parcels at just below 6cts/gal. In response to the tariffs being placed on China there have been a number of attempts to opt for 2:2 cargoes (in place of 4:0 parcels) as India and Southeast Asia are ostensibly meant to be the next best alternatives to Chinese delivery. China, meanwhile, is expected to see additional volumes from the Middle East – but it is fully expected that the next chapter to the story has yet to be written.

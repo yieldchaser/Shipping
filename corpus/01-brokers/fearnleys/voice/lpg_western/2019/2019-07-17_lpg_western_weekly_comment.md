@@ -1,0 +1,26 @@
+---
+id: "655528B0-C398-4C8E-9982-EDB7EAE9188A"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2019-07-17"
+year: 2019
+week: 29
+title: "Fearnleys LPG Western Weekly Comment - 2019-07-17"
+---
+
+# Fearnleys LPG Western Weekly Comment (2019-07-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2019-07-17 (Week 29)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `655528B0-C398-4C8E-9982-EDB7EAE9188A`
+
+---
+
+## Market Commentary
+
+AMERICAS: After a 3 month run of open arbs, rising freights, and a general good feeling, the window has been slammed shut. For the second week in a row, the inventories in the US showed a much smaller build than the industry had expected. A week ago the US showed a small draw and this week the inventories showed a small build of 500,000 barrels. This has occurred at a time when most were expecting builds in the magnitude of around 2 million barrels a week, and combined with these expectations, the US market has firmed considerably. We are still believers in the growing US production and nececessity to export, but afor now traders have become much more skeptical and th netbacks have fallen back to cancellation levels.

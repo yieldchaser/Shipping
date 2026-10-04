@@ -1,0 +1,26 @@
+---
+id: "8720D26C-C45F-456F-B594-15A9504D96F7"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-09-15"
+year: 2021
+week: 37
+title: "Fearnleys VLCC Weekly Comment - 2021-09-15"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-09-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-09-15 (Week 37)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `8720D26C-C45F-456F-B594-15A9504D96F7`
+
+---
+
+## Market Commentary
+
+The ‘mini buzz’ of last week has dissipated due to the scant enquiry for the balance of the September MEG stems so far. We count just under 115 cargoes for the month, with expectations of a repeat of July’s 125+ fading. Owners were pushing the market up through the WS 30’s, but Friday saw CPC fixing ‘vintage’ (15+) tonnage at WS 29. For modern, the market has found equilibrium just under WS 35 for MEG/China at present. In Wafr, WS 36 achieved (up a point), but many owners reluctant to tie in for long voyages, when the prospect of improvement may be likely. Therefore, many holding off to see what the next week or so brings. We expect the recent IEA’s estimate of 3 mbpd global oil production growth from now until year-end to boost rates and sentiment, however it will take time before current overcapacity has been absorbed.

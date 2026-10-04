@@ -1,0 +1,26 @@
+---
+id: "4716BE49-A24E-4209-B49C-04612F3B4596"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-09-12"
+year: 2022
+week: 37
+title: "Fearnleys Chartering Weekly Comment - 2022-09-12"
+---
+
+# Fearnleys Chartering Weekly Comment (2022-09-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2022-09-12 (Week 37)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `4716BE49-A24E-4209-B49C-04612F3B4596`
+
+---
+
+## Market Commentary
+
+EAST So far this week most of the action has been found West of Suez. A couple cargoes being looked at in the East and we expect more to follow post the release of the Aramco acceptances. Current fixing window concentrated on 1H October dates, with last done deal concluded at the front in the mid-high 60s Baltic eqv. As we continue to see more ships heading West on the back of more activity there, we don’t expect freight rates to come off much further in the East, for now. WEST For the Western market we have seen a rather busy market with a dozen fixtures concluded this week with last done at mid/high USD 110s H/C and mid 60s H/F. We can now count over 30 deals so far in October which is the most since June, and there are still more uncovered cargoes out there. The typhoon continues to roar in the Eastern part of China and with waiting time in Panama also increasing to 16 days Northbound and 12 days South the position list gets even more stretched and scheduling uncertain. At the time of writing there is over a week between last of the 3 ships left in 1H October against the first of the 4-5 ships in 2H. With that said we expect freight to continue moving in the same direction as seen the recent weeks.

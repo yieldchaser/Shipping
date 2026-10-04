@@ -1,0 +1,30 @@
+---
+id: "9081B08D-4314-4BCB-8FAB-2329204173C3"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-25"
+year: 2020
+week: 48
+title: "Fearnleys Panamax Weekly Comment - 2020-11-25"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-11-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-11-25 (Week 48)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `9081B08D-4314-4BCB-8FAB-2329204173C3`
+
+---
+
+## Market Commentary
+
+The positive sentiment from last week continues into this. More mineral demand in the North Atlantic and a short tonnage list gives ground for a firming market.
+
+**Baltic**
+
+ rounds been concluded at around 16k, while p1A is currently yielding 15k. In the Eastern Hemisphere we do see the same tendency with increased demand for Indonesian coal into China, and same goes for the Aussie/India trade. The Pacific round is priced at high 11k. The period market is also coming back into play with several short periods being concluded.

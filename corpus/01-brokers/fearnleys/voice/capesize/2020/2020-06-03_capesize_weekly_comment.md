@@ -1,0 +1,26 @@
+---
+id: "87B2FB1F-BE06-4728-9CE0-62C131EA3C46"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-06-03"
+year: 2020
+week: 23
+title: "Fearnleys Capesize Weekly Comment - 2020-06-03"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-06-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-06-03 (Week 23)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `87B2FB1F-BE06-4728-9CE0-62C131EA3C46`
+
+---
+
+## Market Commentary
+
+There is finally a more positive trend for the Capes. The average index is USD 5300, not an impressive number in itself but more interesting is it up excess USD 1,000 in one day. West Australia Iron Ore is the main driver, with c5 being fixed in the low USD 5’s, up from low USD 4’s last week. C3 has been more active this week as well, with freight presently in the low -mid 9’s, up from low 8s last week. Period interest is slowly increasing again and it is overall a more positive feeling.

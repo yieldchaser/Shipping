@@ -1,0 +1,26 @@
+---
+id: "af963f9f-af93-4077-915c-64753b3364ae"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-02-05"
+year: 2025
+week: 6
+title: "Fearnleys Supramax Weekly Comment - 2025-02-05"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-02-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-02-05 (Week 6)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `af963f9f-af93-4077-915c-64753b3364ae`
+
+---
+
+## Market Commentary
+
+The Handy & Supra markets showed signs of recovery, particularly in the Atlantic, where we note a possible bottoming out in the US Gulf and South Atlantic. The 11TC remained relatively stable, closing at USD 7,649. More volumes emerging in the Atlantic. Asian markets gained momentum post-Lunar New Year holidays. The Indian Ocean saw improved activity and renewed volumes. Even though market sentiment turned slightly positive (also on the back of Panamax market push), caution persisted across regions. Period activity is picking up and we see more interest especially on Supra/Ultra segments.

@@ -1,0 +1,26 @@
+---
+id: "a184767b-63f3-4d10-ae9f-bb3b4c3c0fa0"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-08-06"
+year: 2025
+week: 32
+title: "Fearnleys Panamax Weekly Comment - 2025-08-06"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-08-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-08-06 (Week 32)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `a184767b-63f3-4d10-ae9f-bb3b4c3c0fa0`
+
+---
+
+## Market Commentary
+
+The Panamax market showed a fragmented picture this week. The North Atlantic continued to soften with limited fresh demand and a subdued tone, while the South Atlantic showed glimpses of support but lacked follow-through, leaving sentiment largely flat. The Pacific saw a more dynamic shift mid-week, with improving demand from Australia and Indonesia and firmer paper prompting some owners to pull back offers. Although the tonnage list remains long and charterers are still highly selective, there’s been a noticeable pickup in momentum, particularly on the period front. Overall, while the market remains cautious, there are early signs of renewed interest and a more optimistic undertone developing in the East.

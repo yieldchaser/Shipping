@@ -1,0 +1,26 @@
+---
+id: "4e7d731a-949d-4b6c-8af7-16be35cd1c01"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-07-02"
+year: 2025
+week: 27
+title: "Fearnleys LNG Weekly Comment - 2025-07-02"
+---
+
+# Fearnleys LNG Weekly Comment (2025-07-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-07-02 (Week 27)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `4e7d731a-949d-4b6c-8af7-16be35cd1c01`
+
+---
+
+## Market Commentary
+
+Congratulations to all those involved in the LNG Canada project as the newly commissioned export terminal shipped Canada's first LNG export cargo this week. A significant milestone for the LNG market as new volume directly enters the Pacific region free of Panama Canal risk or diversion to Europe. Whilst the ramp up this year will not be enough to absorb excess supply on the shipping side, it brings a new dynamic to the market in the East. Most of the past week's chartering activity has also taken place East of Suez with a pair of Middle East fixtures levelling out what had become a hotspot for activity amidst rising geopolitical tensions. Rates have pulled back slightly, and competition remains for outstanding requirements in the Pacific, nonetheless at healthier levels than observed year to date. The Atlantic has been more muted with the lack of activity and a growing availability for prompter tonnage to load end July into 1H August leaving rates to drift downward. There are additional requirements further forward in both basins with some premiums expected for interbasin trade. There has been an increasing interest in term tonnage in recent weeks, and several ships are now on subjects and a couple more requirements remain uncovered for now. The fundamentals remain unchanged although rates appear to be edging higher, so we are braced for interesting times ahead.

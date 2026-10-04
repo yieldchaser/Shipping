@@ -1,0 +1,30 @@
+---
+id: "35bfdbae-cade-4175-b465-781786d5a323"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-08-09"
+year: 2023
+week: 32
+title: "Fearnleys VLCC Weekly Comment - 2023-08-09"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-08-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-08-09 (Week 32)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `35bfdbae-cade-4175-b465-781786d5a323`
+
+---
+
+## Market Commentary
+
+At the time of writing, a certain Korean cargo working 25-27 laycan and they are usually market setters (as in down). They have been assisted by a fresh MEG/China run on subs at WS 47, and likely any other charterers will now await a result - see what they do and hang off the coat tails. Plenty of ships fixing away off market, but also plenty to offer in (10 offers on recent stems). Yesterday’s Bitr sat at WS 48 and change, but next done will slice a few points off that. Still, only just over 100 fixtures for the month, so volume to come, but the cuts are likely starting to bite. An active Atlantic, with mid Sept USG stems holding the market up at USD 8.3m to Ningbo.
+
+**Wafr**
+
+ a touch softer, with TD15 down to WS 53.5 level and a softer MEG will push more vessels West. Petrobras working now, but with prompter dates, not inundated with offers. Owners perhaps not willing to fix out their Q4 at these numbers. We will see.

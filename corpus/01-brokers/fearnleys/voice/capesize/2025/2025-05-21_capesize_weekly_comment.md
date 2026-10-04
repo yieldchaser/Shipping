@@ -1,0 +1,30 @@
+---
+id: "42b34448-8b98-430a-adf8-e99123a8de1b"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-05-21"
+year: 2025
+week: 21
+title: "Fearnleys Capesize Weekly Comment - 2025-05-21"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-05-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-05-21 (Week 21)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `42b34448-8b98-430a-adf8-e99123a8de1b`
+
+---
+
+## Market Commentary
+
+We see a reasonable level of enquiries from miners and operators for early June dates. Peripheral volume out of other fronts of the Pacific are still present, albeit a tick lower form last week. Enquiries for C3 ex Brazil and West Africa are primarily for second half of June dates.
+
+**Far East**
+
+ spot tonnage seem to be on the tighter side. Ballasting tonnage is slowly thinning for June dates. Fixtures concluded in the low USD 8 pmt levels for C5 and around mid USD 18 pmt levels for mid June dates in Brazil.

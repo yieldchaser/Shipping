@@ -1,0 +1,34 @@
+---
+id: "ab4e798b-2de2-4799-9453-7b5b10c6a632"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-10-30"
+year: 2024
+week: 44
+title: "Fearnleys Capesize Weekly Comment - 2024-10-30"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-10-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-10-30 (Week 44)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `ab4e798b-2de2-4799-9453-7b5b10c6a632`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see enquiries from miners, operators, and tender for mid November dates and some operators expressing interest for first full December forward dates. Volumes out of East Australia is relatively healthy and held up from last week. Relatively little activity on other fronts of the Pacific. On C3 ex Brazil to China, we see operators enquiring primarily for second half of November dates as well as first half of December dates.
+
+**West Africa**
+
+ volumes remain relatively robust.
+
+**Far East**
+
+ spot tonnage is abundant with a notable number of prompt vessels. Ballasting tonnage is heavy for second half of November. On C5, the week started with fixtures concluding at mid USD 8 pmt levels and remained flat till mid-week. On C3, fixtures concluded at low-mid USD 20 pmt levels. We see some resistance with bids in the USD 19 pmt levels and offers at USD 22 pmt levels for second half of November dates.

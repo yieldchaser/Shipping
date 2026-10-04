@@ -1,0 +1,26 @@
+---
+id: "A3A4F560-ED7C-405D-94F0-BF6F5E9F5384"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-03-25"
+year: 2022
+week: 12
+title: "Fearnleys S&P Weekly Comment - 2022-03-25"
+---
+
+# Fearnleys S&P Weekly Comment (2022-03-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-03-25 (Week 12)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `A3A4F560-ED7C-405D-94F0-BF6F5E9F5384`
+
+---
+
+## Market Commentary
+
+With a market still trying to find its bearings in light of an ever-changing geopolitical situation and a week that is cut short by several national holidays, we close this Friday with a relatively subdued snp sentiment. Despite already closing one month into the conflict, the situation as expected remains highly volatile with sanctions and their impact on global trade representing a constant moving target for market players trying to identify alternative trading patterns. An uncertainty that is as usual felt the most in the SnP markets where potential buyers and sellers prefer to apply a wait and see approach before committing to any long-term decisions. This becomes particularly apparent in the tanker space where the gradual rate recovery should in essence provide enough support for buyers to start meeting the offers at hand but where we are still experiencing some reserve as to whether this gradual "recovery" has legs. Dry markets continue to see very high levels of enquiry and as such liquidity remains relatively high in most sectors with Supramax and Ultramax leading the charge with a handful of vessels changing hands and signs of a number of ongoing negotiations. Levels are therefore well supported across the board with some segments seeing an appreciation in values, a trend that should be set for the foreseeable future.

@@ -1,0 +1,26 @@
+---
+id: "78706EF9-80EC-41DA-B47E-6829FDAB1308"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-09-09"
+year: 2020
+week: 37
+title: "Fearnleys Panamax Weekly Comment - 2020-09-09"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-09-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-09-09 (Week 37)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `78706EF9-80EC-41DA-B47E-6829FDAB1308`
+
+---
+
+## Market Commentary
+
+Even though we do see more demand in the Atlantic with fresh orders out of the Baltic and USG, the rates are still sliding south. TA is currently yielding around USD low/mid 11k. ECSA grain cargoes are still at good volumes and fronthauls are being fixed in the low 20k region. In the eastern hemisphere, we see the same trend with declining rates and Pacific rounds are priced at low 12k.

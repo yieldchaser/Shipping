@@ -1,0 +1,26 @@
+---
+id: "689A1F1D-AD8E-4A82-AD80-2C23F7C910FE"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-07-08"
+year: 2020
+week: 28
+title: "Fearnleys Suezmax Weekly Comment - 2020-07-08"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-07-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-07-08 (Week 28)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `689A1F1D-AD8E-4A82-AD80-2C23F7C910FE`
+
+---
+
+## Market Commentary
+
+The Suezmax market continues to be active, especially in the West. With market jumping 7.5 points late last week, and activity picking up in West Africa, we expected owners to pick up the thread Monday. The tonnage list was looking tight for dates being worked, but as many times before, oil company relets tend to spoil the fun. Rates did not move further, rather opposite, and TD20 is now looking rather stable just above WS50. In the East, it’s the same old story. Market hoovering around WS50, and seems difficult to move, especially without help from the V's. Going into next week we expect the Suezmax market to remain stable at current levels.

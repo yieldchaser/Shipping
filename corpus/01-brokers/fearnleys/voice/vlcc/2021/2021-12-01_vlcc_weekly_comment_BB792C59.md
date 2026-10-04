@@ -1,0 +1,26 @@
+---
+id: "BB792C59-EE01-4B3E-896A-C2197A580A01"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-01"
+year: 2021
+week: 48
+title: "Fearnleys VLCC Weekly Comment - 2021-12-01"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-12-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-12-01 (Week 48)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `BB792C59-EE01-4B3E-896A-C2197A580A01`
+
+---
+
+## Market Commentary
+
+The VLCC segment has been in a slow decline in the week gone by, as players are digesting the effects of the latest Covid variant. Falling bunker prices have eased the drop in TCE’s, but fundamentals remain bearish with more than ample supply to cover demand. Several deciding factors are in play, amongst them OPEC+ upcoming decision for January production quotas and ongoing talks for revival of the Iran nuclear deal. In the meantime, charterers and traders are sitting on their hands and keeping activity to a minimum.

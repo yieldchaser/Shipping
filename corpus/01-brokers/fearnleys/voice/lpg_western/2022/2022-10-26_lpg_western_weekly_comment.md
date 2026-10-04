@@ -1,0 +1,30 @@
+---
+id: "605D516E-DED8-49F9-B587-43F73E6C91E0"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-10-26"
+year: 2022
+week: 43
+title: "Fearnleys LPG Western Weekly Comment - 2022-10-26"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-10-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-10-26 (Week 43)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `605D516E-DED8-49F9-B587-43F73E6C91E0`
+
+---
+
+## Market Commentary
+
+AMERICAS The US market was mildly surprised by this week’s EIA data which revealed an 800,000bbl build which occurred over the week ending 21 Oct and propelled overall total inventories to 86.8mmbbls. Above-normal temperatures are being forecast across the Eastern half of the US through mid-Nov, and production levels at/near record levels. Further, and with respect to a modest hiccup in Gulf Coast export volumes, it stands to reason that additional low-impact inventory builds are being anticipated over the coming weeks. The weight of the additional inventories should further help the arb which has improved significantly over the course of October, though freight levels and canal delays will no doubt play a significant role. Terminal fees have all the while been seen improving and though the buy-sell range remains wide, buy-side interest starts in the low 5cpg range with selling interest – depending on timing/location – exists at or above the 6cpg range. NWE The window continues to see both bids and offers, and is gaining value vs CIF ARA. This has pushed assessed window values to November CIF ARA plus a small premium for a TOT delivery. This accompanies CIF ARA’s rise in relative values vs Mt Belvieu, that arb increasing from high $110s to low $120s, a $5pmt improvement. Traders continue to look to place cargoes in the region due to the potential delays in the Panama Canal, and to optimize their vessels for future FOB loadings rather than having to consider spot freight. The the East/ West spread for large cargo butane has been quiet and lack of activity means butane in the region has not tracked rising crude values, moving from 93.5% to 90.5% with no recent action.
+
+**MED**
+
+ The region is seeing imports from the US arriving to balance the market. The mild start to winter means term contract deliveries are satisfying demand.

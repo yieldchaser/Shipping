@@ -1,0 +1,30 @@
+---
+id: "9799ed97-d871-4bc7-a03e-a266ed6337ed"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-11-07"
+year: 2024
+week: 45
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-11-07"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-11-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-11-07 (Week 45)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `9799ed97-d871-4bc7-a03e-a266ed6337ed`
+
+---
+
+## Market Commentary
+
+MEG Cash premium for Dec lifting evenly split cargo retreated from high teens to mid-single digit based on recent spot trade. Surprisingly KPC issued tender to sell a 1-2 Dec lifting 2/2, whose last spot was Jul lifting. BPCL issued buy tender for any 2/2 Dec lifting ex AG or CIF in Dec. By the time of writing, Dec CP was traded at $631, and C3/C4 at flattish level.
+
+**FAR EAST**
+
+ Spot differentials for Dec delivery softened amidst thin buying appetites. 23/0 parcels basis Chiba delivery were traded at Dec FEI plus $0.5 for 1h Dec and flat for 2h Dec respectively. Outside window similar cargo for 2h Dec delivery was heard done at small discount. 46/0 parcel for 2H Dec delivery basis Chiba was reported concluded at Dec FEI minus around $5. Dec FEI/CP also narrowed down from $10 to $3 in view of the weakening demand. Despite such, a handful of tenders have been awarded. Hyosung was reported to procure a 23/0 from one Chinese player for 1h Dec delivery, reported at mixed price of FEI and CP plus low 20s. Formosa was reported to award both buy tenders, with one 46/0 at Dec FEI plus low single into Ningbo and the other 23/0 at Dec MOPJ minus high teens for 22/0 into Mailiao (which equates to FEI plus single digit). The US election result has raised some concerns on Us-China trade flows. Whether the history will repeat or remains unknown. However, as of enormous volumes growth on LPG exports from US to China, it’s expected that China might possibly continue tax waiver to secure enough supply if trade war happens, or US stems’ prices might need to drop significantly to be affordable with extra tax levied into China.

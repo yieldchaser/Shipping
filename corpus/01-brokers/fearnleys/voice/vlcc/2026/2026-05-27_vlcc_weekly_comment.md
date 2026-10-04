@@ -1,0 +1,26 @@
+---
+id: "a8f99598-f8b3-4a11-a131-4b54382b7168"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-05-27"
+year: 2026
+week: 22
+title: "Fearnleys VLCC Weekly Comment - 2026-05-27"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-05-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-05-27 (Week 22)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `a8f99598-f8b3-4a11-a131-4b54382b7168`
+
+---
+
+## Market Commentary
+
+All mouth and no trousers still when it comes to a deal to reopen the now famous Strait. In the meantime, nothing material has changed, although a few ships managed to “escape” the MEG over the weekend. Going the other way, however, is no more likely than it was last week. Tonnage has “disappeared” in the area, likely heading for Oman (outside) or Yanbu to load, but not quite enough to ease the pressure on alternative cargoes in the Atlantic. That said, had you offered 3 digits for a June load Atlantic/East to the owning community a few moths back they would probably have eaten your hand - so, all about perspective. Much of the activity has gone under the radar and unless directly involved it is difficult to find out what happened and definitely not in real time – and the lack of transparency has made it much harder to gauge the market. That said, if it’s up, or more likely down, it tends to be leaked - but lack of context makes it a less credible benchmark.

@@ -1,0 +1,34 @@
+---
+id: "7557081D-0715-4491-A1A7-E69F0693C2C4"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-09-22"
+year: 2021
+week: 38
+title: "Fearnleys Supramax Weekly Comment - 2021-09-22"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-09-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-09-22 (Week 38)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `7557081D-0715-4491-A1A7-E69F0693C2C4`
+
+---
+
+## Market Commentary
+
+Slow start of the week mainly due to the holidays in Asia with high volatility on FFA trading, but it all subsided to flat and unexcited market across the borders at the time of writing. Rates from Med to West Africa reaching USD 40,000 pd.
+
+**Continent**
+
+ is tight on tonnage with grain cargo to Med paying USD 45,000 pd and slightly less on fertiliser run from Continent to ECSA.
+
+**USG**
+
+ been lacking action with natural disaster disturbances. Building up tonnage last few weeks had a negative effect on the rates, however the situation is starting to look better and rates have improved for all directions. TA paying mid USD 30,000 pd and FH above USD 45,000 pd. ECSA is well supported rates from Santos to Far East was paid on Ultra USD 28,000 plus 1.8 mil GBB. Asia and Indian Ocean market remain stable with rates as per “last done” and some premium. Young Harmony (63,567 dwt, 2014) open Koh Sichang 24/28 Sep trip via Indonesia redel Thailand USD 41,000 pd. On period market owners asking mid/high USD 30,000 pd for 6-8 months and low USD 30,000 pd for 9-11 months.

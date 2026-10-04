@@ -1,0 +1,26 @@
+---
+id: "c018d74f-073b-4f8f-8362-64af08435206"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-09-04"
+year: 2024
+week: 36
+title: "Fearnleys LNG Weekly Comment - 2024-09-04"
+---
+
+# Fearnleys LNG Weekly Comment (2024-09-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-09-04 (Week 36)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `c018d74f-073b-4f8f-8362-64af08435206`
+
+---
+
+## Market Commentary
+
+As anticipated, the LNG spot market started this week relatively sluggishly, with persistently low demand leading to flat levels. The availability of prompt tonnage remains extended, likely sufficient to cover any immediate shipping needs. While several spot requirements have emerged from ADP cargoes or FOB tenders, the number of developing requirements in both basins remains limited. The pace of discussions on multi-month and short-term charters has also slowed. However, we anticipate movement as both charterers and owners work to bridge gaps in periods and rates. Some activity is evolving in the second-hand market for older steamers, and we anticipate there will a surge in this segment as more vessels come off long-term charters. The LNG product market remains balanced, with production shortages offset by comfortable inventory levels in importing regions. Despite limited demand, spot cargo prices continue to fluctuate within double digits, potentially encouraging spot market activity and potentially more shipping activity in the near term. Despite relatively strong newbuilding prices, shipyards have not seen many new transactions for some time now. A few long term tenders could, however, end up with new orders.

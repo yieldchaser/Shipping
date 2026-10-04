@@ -1,0 +1,26 @@
+---
+id: "77D84874-8A0A-4DBE-A6F8-83FF26E2291D"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-02-12"
+year: 2020
+week: 7
+title: "Fearnleys LPG Western Weekly Comment - 2020-02-12"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-02-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-02-12 (Week 7)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `77D84874-8A0A-4DBE-A6F8-83FF26E2291D`
+
+---
+
+## Market Commentary
+
+AMERICAS: The EIA reported a head-turning 6.2 million barrel draw for the week ending Feb 7th. Traders saw this as a correction from the unseasonable build seen the week before and US inventories are 19 million barrels above last year. These combined factors meant the exceptionally large draw did not have a large bullish effect on Mt Belvieu prices, which still lies in the doldrums slightly above 30% WTI. In the spot US cargo market, a few participants have been trying, with little success, to find first-half March cargoes for sale FOB. As it stands, bids are slowly approaching Mt. Belvieu plus double digit premiums while buyers are waiting as long as possible with hopes freight will come down. Some fog uncertainty remains leaving traders asking themselves how long will the winter market last.

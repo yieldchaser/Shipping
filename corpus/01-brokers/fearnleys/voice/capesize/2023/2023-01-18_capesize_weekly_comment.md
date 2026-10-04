@@ -1,0 +1,26 @@
+---
+id: "72F54203-00F2-434C-8290-65635E117E84"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-01-18"
+year: 2023
+week: 3
+title: "Fearnleys Capesize Weekly Comment - 2023-01-18"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-01-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-01-18 (Week 3)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `72F54203-00F2-434C-8290-65635E117E84`
+
+---
+
+## Market Commentary
+
+The main routes are more or less unchanged from last week, with c5 just below USD 7 and c3 around USD 18 levels. TC average however touch down, approaching USD 9,000 on average. This is in line with expectations as Chinese New Year holidays about to start and already affecting activity and suggesting activity will come off further next week. After CNY, however, we are positive to increased activity and improving levels.

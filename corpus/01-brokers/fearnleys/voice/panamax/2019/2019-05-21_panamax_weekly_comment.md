@@ -1,0 +1,26 @@
+---
+id: "088AE39F-605C-4B2E-B5A4-4F542CAC5E9C"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-21"
+year: 2019
+week: 21
+title: "Fearnleys Panamax Weekly Comment - 2019-05-21"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-05-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-05-21 (Week 21)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `088AE39F-605C-4B2E-B5A4-4F542CAC5E9C`
+
+---
+
+## Market Commentary
+
+A rather quiet and balanced week without many changes to the rates. The ECSA-market is still firm and to some extend dictating the mood for both hemispheres. A transatlantic round voyage currently pays owners about USD 10,500 per day, while a short fronthaul from the continent yields about USD 18,000. In the east, a Pacific round voyage pays around the USD 9,000's. The BPI 4TC-index is currently at 1268 points, up 25 points from last week.

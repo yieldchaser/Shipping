@@ -1,0 +1,26 @@
+---
+id: "699c1906-4e7a-44ee-9ca4-dbefbcd2d852"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-09-03"
+year: 2025
+week: 36
+title: "Fearnleys Capesize Weekly Comment - 2025-09-03"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-09-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-09-03 (Week 36)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `699c1906-4e7a-44ee-9ca4-dbefbcd2d852`
+
+---
+
+## Market Commentary
+
+The Capesize market has softened this week, with both basins under pressure as sentiment turns cautious. In the Pacific, activity from the majors has been sporadic, with C5 slipping back toward USD 10.00, while in the Atlantic a growing ballaster list and thin enquiry has weighed on C3, despite owners trying to hold mid USD 24,000s. Fundamentally, Chinese steel mill margins have weakened, with rebar profitability turning negative, and the near-month iron ore futures curve in contango - both pointing to downside risks ahead. Iron ore imports remain strong but have eased slightly, while Guinea bauxite exports have picked up, signaling the seasonal low is behind us. With coal markets also cooling, the outlook feels more bearish than last week, and the best of this year’s strength may now be behind us.

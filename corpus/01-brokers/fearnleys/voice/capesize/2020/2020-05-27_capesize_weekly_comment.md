@@ -1,0 +1,26 @@
+---
+id: "E4C53ED1-DC2C-469A-8751-5C5BCB74F9B5"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-27"
+year: 2020
+week: 22
+title: "Fearnleys Capesize Weekly Comment - 2020-05-27"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-05-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-05-27 (Week 22)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `E4C53ED1-DC2C-469A-8751-5C5BCB74F9B5`
+
+---
+
+## Market Commentary
+
+After last week’s «push», the market started to slide prior the long weekend for UK and Singapore and continued so this week. Week on week the Australia-China iron ore route is down by 10% and the average time charter route down by 4%. The Brazil-China route has been very quiet and value more or less the same as last week, however sentiment is also negative for this trade. There has been some period activity, but on index linked structures as owners hardly see it as a good timing to go for fixed priced.

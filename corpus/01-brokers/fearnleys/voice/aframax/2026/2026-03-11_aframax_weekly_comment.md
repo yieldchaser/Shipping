@@ -1,0 +1,26 @@
+---
+id: "02f318ad-d7b9-450c-8e66-5f5b6df42027"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-03-11"
+year: 2026
+week: 11
+title: "Fearnleys Aframax Weekly Comment - 2026-03-11"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-03-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-03-11 (Week 11)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `02f318ad-d7b9-450c-8e66-5f5b6df42027`
+
+---
+
+## Market Commentary
+
+North Sea After a quiet week rates have taken a correction. WS 195 on subs admittedly for a vessel that will deliver on time charter after the voyage, but the correction has happened. Natural dates are starting to push into the 3rd decade. There are a few relets around and with US markets softening the draw to ballast may not be as strong, so list should start to grow again and remains to be seen if new floor has been established. Mediterranean Mid way through this week and the Mediterranean market has been quieter after the correction in the USG and North Sea. There are still outstanding cargoes which need to cover and charterers want to test it down as Mediterranean now is still providing much higher returns compared to surrounding markets. Remains to be seen where the owners will draw the line.

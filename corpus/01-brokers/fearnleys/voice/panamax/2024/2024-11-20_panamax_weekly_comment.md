@@ -1,0 +1,30 @@
+---
+id: "f1423c48-6096-48bc-98ca-6d7d092776f3"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-11-20"
+year: 2024
+week: 47
+title: "Fearnleys Panamax Weekly Comment - 2024-11-20"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-11-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-11-20 (Week 47)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `f1423c48-6096-48bc-98ca-6d7d092776f3`
+
+---
+
+## Market Commentary
+
+The Panamax market faced sustained headwinds this week, marked by bearish sentiment and declining rates as both the Atlantic and Pacific basins struggled with weak fundamentals. In the Atlantic, a lack of fresh demand, especially from EC South America and the US Gulf, led to an oversupply of tonnage, forcing owners to accept lower rates to secure cover.
+
+**Baltic**
+
+ activity for December provided some cargo, but this was not enough to counterbalance the broader market weakness. The Pacific saw slightly better activity, with a steady flow of fresh demand from Australia offering some relief; however, the growing tonnage count prevented any meaningful recovery, keeping rates under pressure. Global congestion levels on the loading side are at their lowest since the start of 2023, while discharging congestion has risen slightly but remains below average. Despite coal volumes showing a significant year-on-year increase, the need for longer-haul voyages continues to weigh on the market. Seasonal trends hint at a potential bounce, but the overall picture remains subdued, and any substantial rally is unlikely before February when the Brazilian soybean season - forecasted to be strong - could inject much-needed demand into the market. Until then, the outlook remains challenging, with limited support expected in the coming weeks.

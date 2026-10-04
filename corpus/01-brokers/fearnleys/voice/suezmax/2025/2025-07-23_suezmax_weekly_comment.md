@@ -1,0 +1,26 @@
+---
+id: "52e29b8f-c6ba-4970-acd9-42608315ac45"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-07-23"
+year: 2025
+week: 30
+title: "Fearnleys Suezmax Weekly Comment - 2025-07-23"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-07-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-07-23 (Week 30)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `52e29b8f-c6ba-4970-acd9-42608315ac45`
+
+---
+
+## Market Commentary
+
+Tonnage for West Africa remains in healthy supply, with strong relet presence and a couple of ‘cheaper’ boats dropped back into the market. Demand wise we have not seen a huge amount of 2nd decade bbls worked on the surface. However, with the three-week window reaching out to 13 August, charterers are not feeling time pressure and can afford to fix cargoes at a measured pace. Across in the USG, rates continue to flatline. Tonnage is not long, however, drip-fed demand hasn’t allowed owners to push on. In addition, the Aframaxes remain working at eq, 145 x 58 so do offer a cheaper alternative. Despite no movement in rates, with TD20 poised to come off and local supplementation minimal expect some owners to ballast TA. Reasonable activity this week, albeit for MEG/India runs. The mystery list is long, hinting that a good amount of cargoes in the fixing window have already been covered. In addition, the draw of West Africa is becoming weaker meaning a greater proportion of tonnage in the region may focus on MEG business.

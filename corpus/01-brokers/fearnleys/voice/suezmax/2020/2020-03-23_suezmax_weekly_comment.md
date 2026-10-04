@@ -1,0 +1,26 @@
+---
+id: "85F02D81-E5B1-42F2-A5FE-957AB2F7E090"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-23"
+year: 2020
+week: 13
+title: "Fearnleys Suezmax Weekly Comment - 2020-03-23"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-03-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-03-23 (Week 13)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `85F02D81-E5B1-42F2-A5FE-957AB2F7E090`
+
+---
+
+## Market Commentary
+
+After a rough week for the Suezmax owners, rates seem to have bottomed out. TD20 stopped at ws100, and now with activity picking up - this might be difficult to repeat. The supply of oil is still massive, and finding a home for all these cargoes could prove difficult. Covid-19 virus not only decrease demand, but turnaround in ports is also much slower. We expect more ships to be floating, and there has been an increase in TC/storage requests from charterers already. All these are pointers that the market could tick back up again, possibly already this week.

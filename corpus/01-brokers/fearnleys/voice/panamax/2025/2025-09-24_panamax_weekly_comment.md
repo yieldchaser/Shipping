@@ -1,0 +1,26 @@
+---
+id: "6c3f505a-2fc4-4fa7-b33e-21ee0eb8e05d"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-09-24"
+year: 2025
+week: 39
+title: "Fearnleys Panamax Weekly Comment - 2025-09-24"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-09-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-09-24 (Week 39)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `6c3f505a-2fc4-4fa7-b33e-21ee0eb8e05d`
+
+---
+
+## Market Commentary
+
+The Panamax market has been split this week, with the Atlantic struggling to find momentum while the Pacific has shown a firmer tone. In the North Atlantic, limited fresh inquiry and a growing list of available tonnage continue to weigh on sentiment, with charterers pushing levels down and owners holding back from deeper discounts. South America has been steadier, with grain flows helping to absorb some of the nearby tonnage, though forward positions remain flat. By contrast, the Pacific has been more active, with steady demand from Indonesia and Australia, charterers covering ahead of Golden Week in China, and weather delays tightening supply in parts of the basin, all lending a more positive outlook compared to the Atlantic.

@@ -1,0 +1,26 @@
+---
+id: "97D8E51B-0081-4B3E-8280-A473229B138C"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-18"
+year: 2020
+week: 21
+title: "Fearnleys Supramax Weekly Comment - 2020-05-18"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-05-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-05-18 (Week 21)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `97D8E51B-0081-4B3E-8280-A473229B138C`
+
+---
+
+## Market Commentary
+
+The Supramax market compared to last week was able to gain small increase in rates with evidence of fixtures reported. The increased activity in the Pacific helped rates rebound, coming up from their lowest market to slightly better level. Main driving force was India and South Asia. We have witnessed good flow of fresh enquiries and rates jumped from range of USD 4-6,000 pd to USD 7-9,000 pd range. Cos Prosperity (55,676 dwt/2006) open Singapore, fixed USD 9,500 for EC India trip China. Ultramax 60’ dwt open Fangcheng for load Thailand redel China USD 7,500 pd. The Mediterranean and Continent was a more active compared to last week’s slow drifting. Small Supra was rumoured fixed from West Mediterranean to India USD 9,500 pd. Also, from West Africa, 58’ dwt was on subs from Owendo to China with manganese ore at USD 10,750 pd. Fixture of mv Antakya-M (55,888 dwt/2005) with dely Chittagong trip via Richards Bay redel Vietnam USD 8,500.

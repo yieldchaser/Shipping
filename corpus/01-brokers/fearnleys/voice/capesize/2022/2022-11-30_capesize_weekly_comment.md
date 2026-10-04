@@ -1,0 +1,26 @@
+---
+id: "217B005F-23D7-4811-AE68-599EA08DBA1B"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-11-30"
+year: 2022
+week: 48
+title: "Fearnleys Capesize Weekly Comment - 2022-11-30"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-11-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-11-30 (Week 48)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `217B005F-23D7-4811-AE68-599EA08DBA1B`
+
+---
+
+## Market Commentary
+
+Market extremely volatile and nervous with rates going up and down as a rollercoaster. The underlying sentiment is very poor, but the fact is that there is a shortage of spot ships, and the prompt dates are being paid well and the average of all routes are up by 35% week on week. However, there is not a lot of excitement as the tonnage shortage is mainly driven by ships stuck due to bad weather and that the same ships will come back to the market as soon as weather improves, and probably by a decent number.

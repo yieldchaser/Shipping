@@ -1,0 +1,26 @@
+---
+id: "A9AE1601-1066-4CEF-9EBD-E53801C5C5C9"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-01"
+year: 2021
+week: 5
+title: "Fearnleys Aframax Weekly Comment - 2021-02-01"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-02-01 (Week 5)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `A9AE1601-1066-4CEF-9EBD-E53801C5C5C9`
+
+---
+
+## Market Commentary
+
+Last week was another tough one for Owners fixing in the Nsea/Baltic market as couple of deals were concluded with negative returns. Most of the Owners are willing to hold the line and put some upward pressure on the rates in order to cover opex at least. However, we expect rates to remain at bottom levels as the fundamentals are not there to support a strong bounceback yet. Following last week’s rush of cargoes in the Med/Bsea which resulted in a slight uptick in rates, the market has calmed down again somewhat this week as cargo activity has come off and tonnage builds up again. Also in the Med/Bsea we expect the market to remain at bottom levels in the short run.

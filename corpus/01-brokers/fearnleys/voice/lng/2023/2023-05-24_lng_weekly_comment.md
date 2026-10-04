@@ -1,0 +1,26 @@
+---
+id: "0E49F1D1-53BE-4488-B40E-354A024B4EC6"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-05-24"
+year: 2023
+week: 21
+title: "Fearnleys LNG Weekly Comment - 2023-05-24"
+---
+
+# Fearnleys LNG Weekly Comment (2023-05-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-05-24 (Week 21)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `0E49F1D1-53BE-4488-B40E-354A024B4EC6`
+
+---
+
+## Market Commentary
+
+During the past week, a handful of vessels have been placed on subjects but support for rates has been minimal. For “Owners”, each successive fixture has been lower than the last, which is especially telling in a sublet-dominated market. In short, the floor, which some envisaged the portfolios would not breach, has opened; now, keeping vessels cold and moving is more important than securing better rates. Accordingly, and despite a slight decrease in vessel availability, spot rates are softer this week, affording Charterers the confidence of securing spot tonnage as required in both basins. On the term front, all eyes are on the contango into Q4 which, when open, exponentially increases the demand for 2H 2023 2-strokes but whilst closed, sees Charterers defer their winter procurement activities until absolutely necessary. The gulf between the spot and term markets persists, but as period-flexible tonnage hits the spot fixing window, the Bid-Ask spread closes and another term deal is generally concluded. This keeps the premium for term fixtures alive as the availability – especially from independent owners – of tonnage that can cover all of this coming winter is limited at best. Given that there are more requirements still under discussion, one expects that Q3 delivering term fixtures will be concluded at a premium to those we’ve seen on the prompt. No newbuilding orders have been placed this week; however, prices remain elevated with some yards now booked out until 2028.

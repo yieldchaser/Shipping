@@ -1,0 +1,26 @@
+---
+id: "9D6EBE3F-C9D0-4138-9024-8341AE6D7C73"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-11-17"
+year: 2021
+week: 46
+title: "Fearnleys LNG Weekly Comment - 2021-11-17"
+---
+
+# Fearnleys LNG Weekly Comment (2021-11-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-11-17 (Week 46)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `9D6EBE3F-C9D0-4138-9024-8341AE6D7C73`
+
+---
+
+## Market Commentary
+
+It has been a volatile week since our last report. In the East, stronger buying interest from end-users has prompted moderate gains while in the West, these gains have been outstripped on news of NS2 pipeline delays due to regulatory approvals, firmly slamming shut the window to any arbitrage opportunities. Although the ramifications of headline pipeline delays has yet to be uncovered fundamentally, the matter of fact is that the LNG shipping market continues to stay very tight. If last week appeared to be the calm before the storm, this week we may’ve just started to feel the breeze picking up. In recent days this has been made clear by an emergence of new requirements issued in advance from apprehensive end-users seeking coverage for their peak winter cargoes, aware that shipping availability over the coming period to be sparce. To this end, with many subletters holding tight onto their dear tonnage and most independent owners sold out, Charterers may have few other options than to pay up, and more often than not, also absorb hefty idle time costs in order to secure a vessel. The newbuilding market also remains firm with another week of new and confirmed orders, this time by Maran Gas Maritime with DSME and Celsius Tankers with SHI for a pair of newbuilds each. Besides attending signing ceremonies, yards have their hands busy with multiple ongoing newbuilding enquiries.

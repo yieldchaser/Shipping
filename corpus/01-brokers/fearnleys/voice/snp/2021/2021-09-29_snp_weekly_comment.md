@@ -1,0 +1,26 @@
+---
+id: "E95A7E3A-4220-4D76-B82F-4D278C1E6697"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-09-29"
+year: 2021
+week: 39
+title: "Fearnleys S&P Weekly Comment - 2021-09-29"
+---
+
+# Fearnleys S&P Weekly Comment (2021-09-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-09-29 (Week 39)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `E95A7E3A-4220-4D76-B82F-4D278C1E6697`
+
+---
+
+## Market Commentary
+
+This week comes to a close with yet again a number of transactions to add onto the dry snp tally - with markets not only showing no sign of respite but a momentum that seems to actually be picking up. New benchmarks are being set at a faster pace with heightened competition driving buyers to strike decisively in an effort to secure tonnage. Vessels able to give prompter deliveries will joy of the stronger bids with buyers scouting for any candidate able to offer them the yield offered by the chartering markets. This dynamic is particularly well illustrated in the Supramax/Ultramax sectors where the high liquidity of transactions highlights the more dramatic jump in values. The 2011 built Mitsui 56 “Medi Okinawa" is understood to be trading in the region of Usd 21.5m whereas only last week the 2011 IHI built “Ivy Delta” changed hands for a million less in what was already considered to be very strong price against last done. Similarly on the younger end of the spectrum we witness signs of ongoing negotiations on the modern ultramax front suggesting yet another upward correction in the near future. Against this backdrop of activity the Tanker space is eerily silent with only three sales to report. Xihe Holdings is entering its final stages of proceedings with the sale of the OCEAN VELA (2009 SWS 109kdwt LR2) which invited offers end of last week and has now been committed at Usd 18.5m after attracting about 10 buyers outright - a number of potential buyers which highlights the now settled disparity between a strong buying enquiry and an ever thinning number of available candidates.

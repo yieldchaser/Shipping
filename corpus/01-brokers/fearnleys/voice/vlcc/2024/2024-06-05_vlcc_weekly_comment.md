@@ -1,0 +1,26 @@
+---
+id: "1d30d9f4-440f-4100-8b01-37aea3a2c6e7"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-06-05"
+year: 2024
+week: 23
+title: "Fearnleys VLCC Weekly Comment - 2024-06-05"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-06-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-06-05 (Week 23)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `1d30d9f4-440f-4100-8b01-37aea3a2c6e7`
+
+---
+
+## Market Commentary
+
+With Posidonia in full swing, anywhere else feels like a back water. Stories coming back to London of parties and Kylie Minogue the only real highlights in an otherwise drab week for VLCC rates. A week ago, TD3C was sitting mid WS 60’s and we have seen a drop almost 10 WS points lower at the time of writing. Deals done under the radar are rarely positive and with many fixtures done over a plate of tzatziki in a sun-drenched taverna, likely more still to come off. TD3 sits WS 55 level, and USG to Ningbo around USD 8.75m at best, certainly considering the lengthening tonnage lists.

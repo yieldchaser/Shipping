@@ -1,0 +1,26 @@
+---
+id: "63eb605c-81be-46ed-85c4-fc41684ef913"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-08-27"
+year: 2025
+week: 35
+title: "Fearnleys Supramax Weekly Comment - 2025-08-27"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-08-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-08-27 (Week 35)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `63eb605c-81be-46ed-85c4-fc41684ef913`
+
+---
+
+## Market Commentary
+
+The week opened on a firm note for both the Supramax and Handysize segments, with sentiment strengthening across the Atlantic and Asia. In the Atlantic, the Continent–Mediterranean showed improvement on fresh demand, while the South Atlantic and US Gulf gained momentum as a tight tonnage list continued to pressure charterers into higher bids. Asia was notably more active in the Supramax sector, where renewed enquiry lifted rates above last-done levels, while the Handysize market saw a quieter session but maintained a positive state.

@@ -1,0 +1,26 @@
+---
+id: "6845D46C-94EC-488C-B68B-F7F3F09AEA58"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-07-25"
+year: 2022
+week: 30
+title: "Fearnleys Suezmax Weekly Comment - 2022-07-25"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-07-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-07-25 (Week 30)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `6845D46C-94EC-488C-B68B-F7F3F09AEA58`
+
+---
+
+## Market Commentary
+
+East and West Suezmax markets have seen rates stall over the last week as open market enquiry levels fizzled out. Off market enquiries have evidently been able to fix at last done levels without being smoked into the open market and as a result there's a softer feel to proceedings today. With Vlcc's feeling capped there is no upside for Suezmax's in the East where MEG/East probably trades maximum 130kt x WS127.5-130 whilst TD23 will do well to stay out of WS70's territory. In the West there's a little more optimism with firm Med' Aframax's well into crossover levels and as such this will hold a number of Suezmax's in that region and away from wafr. Notionally, TD20 has a notional floor and trades mid W130's with further enquiry needed to maintain these levels. Td6 is following Afra's at about WS110

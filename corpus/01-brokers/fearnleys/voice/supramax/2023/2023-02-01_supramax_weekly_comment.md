@@ -1,0 +1,34 @@
+---
+id: "F81C70C3-AD57-44B2-83C5-D4E55B461007"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-01"
+year: 2023
+week: 5
+title: "Fearnleys Supramax Weekly Comment - 2023-02-01"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-02-01 (Week 5)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `F81C70C3-AD57-44B2-83C5-D4E55B461007`
+
+---
+
+## Market Commentary
+
+The Supramax and Ultramax market has yet another week where rates are under pressure despite the Chinese coming back after NY celebrations.
+
+**USG**
+
+ and ECSA lack cargo supply and tonnage building up due to the ballasters from other areas. TA on Supra fixing USD 8,000-9,000 pd and fronthaul at USD 13,000-15,000 pd. On the bright side, Pacific market slowly improving, and owners obtain better rates for Pacific RV and BH cargoes.
+
+**Pacific**
+
+ RV at USD 9,000-10,000 pd and a backhaul to Atlantic getting close to USD 8,500 pd.

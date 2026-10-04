@@ -1,0 +1,26 @@
+---
+id: "6E7FD760-F4B4-4D91-A270-C96123598F07"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-06-14"
+year: 2023
+week: 24
+title: "Fearnleys Capesize Weekly Comment - 2023-06-14"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-06-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-06-14 (Week 24)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `6E7FD760-F4B4-4D91-A270-C96123598F07`
+
+---
+
+## Market Commentary
+
+Overall, slightly up from last week by approx USD 2,000 to current average of USD 13,000. C5 has been very stable in the mid 8s for some days now and is even the same value as one week back. There were expected more volume on this trade as miners were expected to increase activity end of their financial year in June. C3 is looking slightly stronger on the paper but no real change from last week. The Atlantic is volatile as ever before. All in all, typical pre-summer market.

@@ -1,0 +1,34 @@
+---
+id: "0704F17E-7AE2-420D-8278-851E338F7221"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-17"
+year: 2021
+week: 11
+title: "Fearnleys VLCC Weekly Comment - 2021-03-17"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-03-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-03-17 (Week 11)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `0704F17E-7AE2-420D-8278-851E338F7221`
+
+---
+
+## Market Commentary
+
+A few more deals this week then last, but not at the volume to force any turn around in numbers. Owners can take some comfort in the fact that rates are unlikely to get much lower, certainly at the current bunker prices. But many are resigned that they are unlikely to jump up in the near future either. Plenty of optimism remains for later in the year, it is simply a case of getting there. This week falls in the gap between March and April MEG stems, so the remainder of the week, bar a few early birds, will unlikely fire up.
+
+**MEG**
+
+/East remains mired in the high WS20’s with charterers trying to chip a fraction of a point from last. In the Atlantic, the longer ton-mile often requires a longer ballast, so bunker prices preventing any major drops.
+
+**West Africa**
+
+ flatlining at the WS32 going East. Mong/Ningbo at the USD 4.125m level.

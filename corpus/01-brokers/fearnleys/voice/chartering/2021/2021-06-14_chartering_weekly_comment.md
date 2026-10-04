@@ -1,0 +1,26 @@
+---
+id: "B1A6245A-6310-41BB-8780-3AD57A291D93"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-14"
+year: 2021
+week: 24
+title: "Fearnleys Chartering Weekly Comment - 2021-06-14"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-06-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-06-14 (Week 24)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `B1A6245A-6310-41BB-8780-3AD57A291D93`
+
+---
+
+## Market Commentary
+
+EAST The focus has mainly been on the Western market this week with a few exceptions. A couple of trader relets were taken out in the AG rep low usd 40s, but since then we saw another Charterer having to pay a premium for a short t/c for Indian trade. The general feeling is that freight market may have reached a bottom, for now, as more ships are expected to be sent back West on the back of improved arb economics. But at the same time we are still seeing less exports from the Middle East, and Aramco are reported to have cut several cargos in July due to production issues. This certainly needs to improve as well going forward, in order for sentiment on freight to change in the East. WEST The West market has been very busy since last time this report was published. Several fixtures have been concluded close to the USD 80 mark for laycans spread out during the second and third decades of July and yesterday the momentum changed a bit and rates started ticking slightly upwards. The position list for July is not really tight just yet, however, there are considerably less vessels available compared to a week ago. We expect more vessels to get tucked away during the course of this week and market to tighten accordingly.

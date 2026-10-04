@@ -1,0 +1,26 @@
+---
+id: "1d1405af-c299-4d51-8884-9d0c8726786f"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-06-10"
+year: 2026
+week: 24
+title: "Fearnleys Suezmax Weekly Comment - 2026-06-10"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-06-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-06-10 (Week 24)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `1d1405af-c299-4d51-8884-9d0c8726786f`
+
+---
+
+## Market Commentary
+
+A busy first half of the week, with an enormous amount of off market activity alongside some reported fixtures. Tonnage in the West has tightened, however, supply should remain healthy enough to prevent aggressive upside. With this level of activity, the demand outlook has also been somewhat undermined. We are likely down to the last 5 mbbls to cover in West Africa for June, with a similar volume remaining out of Guyana for the month. Naturally, with July stems only just entering the 3 week window, charterers may opt to take a step back from fixing into July.

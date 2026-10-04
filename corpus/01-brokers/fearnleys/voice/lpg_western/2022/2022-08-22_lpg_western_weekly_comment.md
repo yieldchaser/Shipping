@@ -1,0 +1,30 @@
+---
+id: "6642F6A6-C6ED-4006-8DF3-29F5B403AA8F"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-08-22"
+year: 2022
+week: 34
+title: "Fearnleys LPG Western Weekly Comment - 2022-08-22"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-08-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-08-22 (Week 34)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `6642F6A6-C6ED-4006-8DF3-29F5B403AA8F`
+
+---
+
+## Market Commentary
+
+AMERICAS Per the latest EIA report, the U.S. propane stocks saw no changes, which remain at 68.00mmbbls. This equates to 99% of last year and 75% of two years ago. Robust export volumes over the previous week are the primary cause. The market had been anticipating something on the order of a 1.6-1.7mmbbl build. Still more surprising - is the fact that after the stock levels were revealed Mont Belvieu propane values saw a modest decline over the course of the day. Current prices are just below 50% of crude at ~$1.1225/gal. Terminal fees remain subdued, with bids in the 4cpg range and offers in the upper 4cpg level. As yet there are not known to have been any ‘buybacks’, and for September the number of cancellations is thought to be only a couple so far. It is anticipated that LatAm demand – specifically in Mexico - should begin to improve as Q4 nears and winter-related demand begins to appear. NWE The region looks balanced to short, and CIF ARA has been strengthening this week, kept strong by the dual push of firming crude and disappointing unchanged US inventories. There is interest from Eastern traders to place cargoes in Europe, at this time European traders are managing term deliveries, and feel one extra VLGC heading into the region could tip the market to long. Petchem margins in the region are not looking good, but we are yet to see a serious reduction in demand. September Propane / Naphtha spread at a measly minus $4pmt, with October and November at minus $1pmt. Butane has been firm in anticipation on blending season, and is 92.5% August Naphtha, although open buying interest for October arrival is yet to be seen. The Rhine water levels have risen to 120cm at Kaub allowing some normality to barge market and propane to reach upstream demand.
+
+**MED**
+
+ Petroineos sold a 4KT C4 lot to Trafigura on Monday ex-Lavera, since then the market has been quiet. The expectation that Turkey would continue to import cargoes loaded in Ust-Luga was incorrect. We continue to see those handy vessels STS-ing into VLGCs and going East, with 2 VLGCs completing this operation in August.

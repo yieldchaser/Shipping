@@ -1,0 +1,30 @@
+---
+id: "43A41393-5BA1-4287-B49F-FC2D14DCB2D8"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-08-12"
+year: 2019
+week: 33
+title: "Fearnleys Supramax Weekly Comment - 2019-08-12"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-08-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-08-12 (Week 33)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `43A41393-5BA1-4287-B49F-FC2D14DCB2D8`
+
+---
+
+## Market Commentary
+
+The market started on a quiet cosious mode with a firm undertone at the beginning of the week, however the signs of improvement overall became quite obvious and indexes pushed up.
+
+**Atlantic**
+
+ basin pushing up with lots of fresh requirements in Black Sea Aran and Continent. Strong demand in ECSA adding pressure for South Atlantic loaders. Ulta fixed above $16,000 plus $650,000 BB del ECSA to Japan. Indian ocean experiences shortage of tonnage and rates pushing up, Tess 58 obtaining $ 14,000 plus $400,000 BB TCT South Africa - China. The US Gulf improved significantly with rates for 63000DWT achieving $30,000 for FH. Overall rates from the Pacific improved with good support of coal export from South East Asian to China and India. Supra seen $10,000 plus for Indo RV and premium paid for India discharge.

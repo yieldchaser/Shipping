@@ -1,0 +1,26 @@
+---
+id: "cebc2873-3db7-415b-8b39-6ce5b024cf97"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-05-07"
+year: 2025
+week: 19
+title: "Fearnleys LNG Weekly Comment - 2025-05-07"
+---
+
+# Fearnleys LNG Weekly Comment (2025-05-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-05-07 (Week 19)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `cebc2873-3db7-415b-8b39-6ce5b024cf97`
+
+---
+
+## Market Commentary
+
+There has been no shortage of chartering activity in the LNG shipping market this year, and the action didn’t let up last week. There hasn’t been a huge increase in rates over the record lows seen in the first quarter, but the recovery has been fairly well-sustained by emerging enquiries and a relative lack of modern tonnage. Lower landed LNG prices in Europe have encouraged interest from Asian importers and the subsequent tonne mile boost coincides with strong U.S. production, which is supporting charter rates through the summer months. Amidst all the uncertainty within and around the U.S. economic proposals, there has been good news on projects, with Woodside announcing FID on Louisiana LNG and the potential advancement in the delayed commissioning of Golden Pass LNG. With ongoing debates about the timing and extent of the anticipated tighter market towards the end of the decade, these developments present a positive outlook for LNG freight in the medium term. We remain cautious for the near term given the weak fundamentals on paper, though demand for the most modern ship types is certainly driving some of the recovery and this segment is leading the way in edging rates higher. TFDEs are continuing to find a role in the market with several fixtures recently, although the differential to 2-strokes is wide and likely to grow over time, while steam turbines are struggling with few attractive requirements and most focus being on Sale and Purchase transactions. Much of this has been expected, although uncertainty remains as to how quickly this rebalancing will take place and whether the recent uptick will be sustained considering the fleet growth still to be seen this year.

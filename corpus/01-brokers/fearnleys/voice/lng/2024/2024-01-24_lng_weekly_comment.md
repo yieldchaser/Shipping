@@ -1,0 +1,26 @@
+---
+id: "7b986af4-9019-4c41-826b-a8756b2d0257"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-01-24"
+year: 2024
+week: 4
+title: "Fearnleys LNG Weekly Comment - 2024-01-24"
+---
+
+# Fearnleys LNG Weekly Comment (2024-01-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-01-24 (Week 4)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `7b986af4-9019-4c41-826b-a8756b2d0257`
+
+---
+
+## Market Commentary
+
+LNG Shipping freight rates continue their descent, despite ongoing missile attacks in the Middle East. As a consequence, trade patterns have shifted away from the Suez Canal with QatarEnergies joining the rest of the market and diverting around the Cape of Good Hope for European deliveries. This is a significant change and a large increase in tonne-miles which is absorbing some of the surplus capacity in the Qatari fleet, yet the impact on the market has been muted so far despite the execution of a handful of fixtures by QatarEnergies over the past week. The Atlantic is currently awash with volume, FOB tenders are in progress with renewed cargo availability out of both West and North Africa and European storage remains well above yearly averages. Turning to vessel availability, a step-up in supply sees multiple vessels indicate for each requirement as vessels are redelivered from multi-month charters in conjunction with vessels trading within their regional basins. Floating storage plays are down and despite recent bad weather, voyages have faced less disruption of late. The newbuild market remains subdued and stable with news expected in the coming months as long-term tenders continue their progress to a final decision.

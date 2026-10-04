@@ -1,0 +1,26 @@
+---
+id: "DF70257F-921C-4CD8-ADA1-24AD8F81EE5A"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-28"
+year: 2023
+week: 9
+title: "Fearnleys S&P Weekly Comment - 2023-02-28"
+---
+
+# Fearnleys S&P Weekly Comment (2023-02-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-02-28 (Week 9)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `DF70257F-921C-4CD8-ADA1-24AD8F81EE5A`
+
+---
+
+## Market Commentary
+
+GNMTC stole the tanker headlines this week with the resale acquisition of scrubber fitted Aframax pair DELAWARE/GALVESTON STAR (115K DWT 2023 DAEHAN) at USD 76M per unit, with sellers Atlas making a healthy profit on the original contract price of USD 45M. Elsewhere, the hot ticket in the tanker market appears to be in the MR sector, as players look to cash in on buoyant TC rates. MSEA sold MR MARLIN AMETHYST (51K DWT 2015 COMEC) to Union Maritime for USD 33M, a price that is unlikely to be repeated for foreseeable future as interest surges in modern units. There is also a lot of activity on older MR units, with JOHNNY TRADER (46K DWT 2004 STX JINHAE), SPRUCE EXPRESS (51K DWT 2006 STX JINHAE) and LILA RHINE (51K DWT 2007 STX JINHAE) all being sold this week. In the dry space, deal flow seems to be the only thing holding the market back as interest remains incredibly high across the size curve (provided the presence of an ECO engine). Supramax pair PACIFIC VISION/DREAM (56K DWT 2013 JIANGSU HANTONG) fetched USD 15.5M per unit, a transaction that should help price a number of similar units in the market. Further to these sales, SUPRA ONIKI (57K DWT 2010 QINGSHAN) sold for USD 13M to undisclosed buyers.

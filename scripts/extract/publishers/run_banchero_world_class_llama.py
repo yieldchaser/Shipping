@@ -669,9 +669,12 @@ def clean_banchero_document_text(text: str, report_week: int, issue_date: str) -
     """
     Cleans running banners, footers, logo markers, and structures the top macro insight.
     """
-    # 1. Strip running headers and footer artifacts
+    # 1. Normalize unicode replacement artifacts
+    text = text.replace('\ufffd', '-')
+
+    # 2. Strip running headers and footer artifacts
     text = re.sub(r'(?m)^[ \t]*#+\s*COMMENT(?:\s+MARKET\s+REPORT.*)?\s*$', '', text)
-    text = re.sub(r'(?m)^[ \t]*#+\s*(?:[A-Z\s]+)?MARKET REPORT\s*[-–]\s*WEEK\s*\d+/\d{4}(?:\s+\d+)?\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*#+\s*.*?(?:MARKET\s+REPORT|RESEARCH|DERIVATIVES|CHARTERING).*?WEEK\s*\d+/\d{4}(?:\s+\d+)?\s*$', '', text, flags=re.I)
     text = re.sub(r'(?m)^[ \t]*(?:CHARTERING|DERIVATIVES|COMMODITIES|NEWS)\s+\d+\s*$', '', text)
     text = re.sub(r'(?m)^[ \t]*#+\s*RESEARCH\s*[IVX\d]*\s*$', '', text)
     text = re.sub(r'(?m)^[ \t]*RESEARCH\s*[IVX\d]*\s*$', '', text)
@@ -682,7 +685,10 @@ def clean_banchero_document_text(text: str, report_week: int, issue_date: str) -
     text = re.sub(r'(?m)^[ \t]*#+\s*ebc\s*$', '', text, flags=re.I)
     text = re.sub(r'(?m)^[ \t]*ebc\s*$', '', text, flags=re.I)
 
-    # 2. Fix typos/spacing
+    # 2. Fix typos, double hashes, and spacing
+    text = re.sub(r'(?m)^[ \t]*#+\s*#+\s*SUPRAMAX', '# SUPRAMAX', text)
+    text = re.sub(r'(?m)^[ \t]*#+\s*#+\s*', '## ', text)
+    text = re.sub(r'(?m)^[ \t]*#+\s*(?:NEWS|COMMODITIES)\s*$', '', text)
     text = re.sub(r'\bmln tin\b', 'mln t in', text)
     text = re.sub(r'\blaycan(\d+)', r'laycan \1', text)
     text = re.sub(r'y-\s*o-y', 'y-o-y', text)

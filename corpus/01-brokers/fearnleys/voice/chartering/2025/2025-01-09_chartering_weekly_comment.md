@@ -1,0 +1,26 @@
+---
+id: "b02646da-e565-46a3-ac45-6d0c17e8d7bf"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-01-09"
+year: 2025
+week: 2
+title: "Fearnleys Chartering Weekly Comment - 2025-01-09"
+---
+
+# Fearnleys Chartering Weekly Comment (2025-01-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2025-01-09 (Week 2)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `b02646da-e565-46a3-ac45-6d0c17e8d7bf`
+
+---
+
+## Market Commentary
+
+EAST To date, only 14 spot deals have been concluded in January for Middle East loadings which still leaves some hope for more to be done, before focus fully moves into February. Even if it would turn out to be a fair amount of uncovered cargos on January dates, there is no getting away from the fact that the position list looks long. WEST We have seen a few spot deals concluded in the Western hemisphere this week with last done in the low $100s H-C via Pan. All of the deals have been done on traders relets, and the position list for 1H Feb is now dominated by two pure shipowners. In total we count 13 spot fixtures for February dates ex USG/USEC - 9 first decade and 4 second decade.

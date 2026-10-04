@@ -1,0 +1,26 @@
+---
+id: "ACDBE365-D782-4FF8-8334-4FA8F880A3C7"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-03-04"
+year: 2019
+week: 10
+title: "Fearnleys LNG Weekly Comment - 2019-03-04"
+---
+
+# Fearnleys LNG Weekly Comment (2019-03-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-03-04 (Week 10)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `ACDBE365-D782-4FF8-8334-4FA8F880A3C7`
+
+---
+
+## Market Commentary
+
+We’ve noticed a small increase in fixture activity from the past few weeks, but the charter levels are in line with shoulder season expectations. Shipping rates, both in the West and in the East were somewhat soft and we’ve logged a small reduction on the spot headliner rates. On a positive note there isn’t too much downside risk left in the spot market and «Owners» continues to be optimistic about 3Q and the winter to come. Vessel availability has come off slightly, but not enough to have an impact yet on spot rates. We kept LNG newbuild prices stable this week, but shipyards are reporting good interest in LNG slots.

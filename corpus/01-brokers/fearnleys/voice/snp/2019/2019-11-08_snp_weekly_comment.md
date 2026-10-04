@@ -1,0 +1,26 @@
+---
+id: "C4932BBA-6EDB-408E-8A2D-EAECC609B5E8"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-08"
+year: 2019
+week: 45
+title: "Fearnleys S&P Weekly Comment - 2019-11-08"
+---
+
+# Fearnleys S&P Weekly Comment (2019-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2019-11-08 (Week 45)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `C4932BBA-6EDB-408E-8A2D-EAECC609B5E8`
+
+---
+
+## Market Commentary
+
+The 2007 Japanese owned VLCC “PHOENIX VANGUARD” did, as expected, receive several offers this week and was quickly sold. The price is reported to be in the usd 41.5 – 42.5 mill range. Whilst this is 8-10% up on the previous deal which failed, it comes in the lower end of our expectations considering the original deal was concluded back in June and the spot market has since then settled at very healthy numbers; albeit considerably less than the initial spiky ones. Early 2000 built crude tankers remain in demand and sellers able to give prompt delivery will be able to see new higher levels. Several such deals are in the making. However sellers should be cautioned that the number of determined buyers is fairly thin on the ground and now may prove the right window of opportunity to exit; come Q1 and Q2 the number of older sales candidates will for sure increase. It’s all about prompt delivery and a realistic runway for buyers to make a decent return. The dry s&p market is lacking direction with many buyers taking a wait-and-see attitude. The freight market is not lending support to the case and buyers are gaining the upper hand.There’s a very large number of ships for sale across the board, albeit few very modern ones.

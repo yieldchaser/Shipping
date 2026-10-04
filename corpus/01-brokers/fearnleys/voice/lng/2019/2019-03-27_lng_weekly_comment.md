@@ -1,0 +1,26 @@
+---
+id: "8306F3C3-7216-4233-84B2-14AB92B90CF4"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-03-27"
+year: 2019
+week: 13
+title: "Fearnleys LNG Weekly Comment - 2019-03-27"
+---
+
+# Fearnleys LNG Weekly Comment (2019-03-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-03-27 (Week 13)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `8306F3C3-7216-4233-84B2-14AB92B90CF4`
+
+---
+
+## Market Commentary
+
+Despite wider uncertainty in the short term outlook of the cargo market due to oversupply, with some referencing output shutdowns as a consequence, multi-month charter rates remain buoyant. Record imports persist into Europe not only from the US but also from Middle East and Africa which are struggling to find demand in the Middle East, China and the Far East. Despite the weak voyage length fundamentals spot levels this week have risen modestly off the latest floor and may signal the first signs of an upward trend. Owners and Charterers will convene in Shanghai next week at the LNG19 conference with many discussions focusing the forward outlook which sees a variety of influencing factors, shut-ins, commissioning, summer cargo demand and yard prices. 2019 has plenty of variable elements to consider and it is this backdrop that appears to be fueling an array of forward views. The order-book grew again this week by 1 with the quoted price at 191M USD, a tick up from last done and likely to continue. In summary, short term fundamentals look weak but improving throughout the year with potential for huge volatility.

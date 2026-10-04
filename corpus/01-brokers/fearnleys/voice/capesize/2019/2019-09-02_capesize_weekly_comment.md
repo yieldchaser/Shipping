@@ -1,0 +1,30 @@
+---
+id: "5DB0D7A4-54F6-4CC7-975A-7799484691F3"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-09-02"
+year: 2019
+week: 36
+title: "Fearnleys Capesize Weekly Comment - 2019-09-02"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-09-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-09-02 (Week 36)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `5DB0D7A4-54F6-4CC7-975A-7799484691F3`
+
+---
+
+## Market Commentary
+
+From good to great - going strong and enjoying levels not seen for several years. Fronthaul again being the main driver, as Brazilian iron ore miners with a substantial autumn programme struggle to find enough early ships. Unforeseen circumstances excepted, this is set to continue as a huge number of units leave longhaul spot scene for drydock/scrubber/IMO2020 fitting - where delays are considerable.
+
+**Far East**
+
+ volumes healthy, although demand from miners, mill and utilities not more than modest. Average daily earnings up almost 20 pct w-o-w to come in at USD 38k. High period interest/activity, recently exemplified by 180,000 dwt/built 2011 China mid September for about a year at USD 21,750.

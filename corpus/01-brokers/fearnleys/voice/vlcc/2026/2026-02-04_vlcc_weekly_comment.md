@@ -1,0 +1,26 @@
+---
+id: "4320ba85-3937-44a3-8c12-7825a305a9b0"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-02-04"
+year: 2026
+week: 6
+title: "Fearnleys VLCC Weekly Comment - 2026-02-04"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-02-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-02-04 (Week 6)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `4320ba85-3937-44a3-8c12-7825a305a9b0`
+
+---
+
+## Market Commentary
+
+The VLCC market took off end of last week, partly pre-empting a possible US attack on Iran, which did not materialise. However, yesterday the US shot down an Iranian drone, and armed Iranian boats approached a US-flagged vessel in the Strait of Hormuz, rekindling fears of an escalation in tensions between Washington and Tehran. The rate hike was also underpinned by South Korean kingpin Sinokor controlling a large portion of the available fleet in the front end and pricing it accordingly. Paper has been trading in tandem with the physical market and has to some extent been front running proceedings, notably also lifting the forward curve. Monday followed suit with a few MEG/East fixtures logged at WS 142.5. However, come mid-week the upward trajectory has stalled a bit, and some charterers have turned to the more vintage fraternity with corresponding discounts. TD numbers came off a smidgeon as well, with yesterday’s TD3C logged at WS 139 and change. Very little of note to report from and in the Atlantic barring a continues flow of Brazilian export, largely sourcing from the same pool as the MEG.

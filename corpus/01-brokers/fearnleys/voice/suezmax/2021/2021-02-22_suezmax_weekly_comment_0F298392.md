@@ -1,0 +1,30 @@
+---
+id: "0F298392-F04F-4874-9639-1A62CC8003B6"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-02-22"
+year: 2021
+week: 8
+title: "Fearnleys Suezmax Weekly Comment - 2021-02-22"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-02-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-02-22 (Week 8)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `0F298392-F04F-4874-9639-1A62CC8003B6`
+
+---
+
+## Market Commentary
+
+This week has seen a number of Suezmax fix and/or appraise Aframax stems in North West Europe and the Mediterranean basin. This may hold vessels away from West Africa and provide some short-term stability. In the pre-Covid era, any tightening of the UKC/MED list would have almost certainly firmed Td20, but slap bang in the middle of this pandemic, all it can manage to do is maintain rates. There are some positive signs in the USG where Aframax have firmed and may drag Suezmax into the game, but any benefit from these crossover scenarios is likely to remain highly regionalized.
+
+**West Africa**
+
+ East trades 130 x WS59 with MEG/East on modern trying to move on from WS55. Td23 has shown some signs of resistance with most owners holding for WS20 S/S.

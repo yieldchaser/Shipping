@@ -1,0 +1,26 @@
+---
+id: "b06aae30-dc01-47b0-9c8c-743146dae838"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-12-06"
+year: 2023
+week: 49
+title: "Fearnleys Panamax Weekly Comment - 2023-12-06"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-12-06 (Week 49)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `b06aae30-dc01-47b0-9c8c-743146dae838`
+
+---
+
+## Market Commentary
+
+The Panamax market is facing volatility, influenced by stable fundamentals but tempered by cautious sentiment due to fluctuations in the FFA market. This has led to a pause in charterer activity and a noticeable gap between charterers' and owners' rate expectations. Despite these challenges, the market remains resilient, though it is subject to ongoing adjustments and external market pressures.

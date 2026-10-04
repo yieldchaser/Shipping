@@ -1,0 +1,26 @@
+---
+id: "76db1d11-302c-4e47-a246-f0e78b258dc1"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-02-01"
+year: 2024
+week: 5
+title: "Fearnleys Chartering Weekly Comment - 2024-02-01"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-02-01 (Week 5)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `76db1d11-302c-4e47-a246-f0e78b258dc1`
+
+---
+
+## Market Commentary
+
+We are currently counting 18 spot deals for February dates ex Middle East matching the amount of deals in the same period last year. Considering almost no deals have so far been concluded in the last decade of Feb, we should see a small handful of deals at the back end of February. But this is quite far out and as such Charterers have no rush to jump into the market just yet. Theoretically, more than a dozen vessels can still reach the Middle East Gulf within this fixing month, so we need to see ships being absorbed in the West as well as more activity in the East. The West market has been rather quiet this week except for a few fob’s discussed for sale in February and a freight tender for 1st decade of March. The latter was booked in the low $70s H/C via Pan equivalent (versus low $90s – 100 level week before). As shipping remains long and arb continues to narrow the freight market is still searching for a floor, but we do expect to see an increase in activity eventually with only 4 deals concluded in March so far.

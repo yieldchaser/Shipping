@@ -1,0 +1,26 @@
+---
+id: "8cabe2e0-72cb-431c-8da2-38782fb786db"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-07-17"
+year: 2026
+week: 29
+title: "Fearnleys S&P Weekly Comment - 2026-07-17"
+---
+
+# Fearnleys S&P Weekly Comment (2026-07-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-07-17 (Week 29)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `8cabe2e0-72cb-431c-8da2-38782fb786db`
+
+---
+
+## Market Commentary
+
+Further escalation in the Middle East is a worrying scenario as much for the global markets as it is for tanker owners and operators. Production shut-ins, lower export capacities, and eventually higher oil prices are hardly things the global economy needs right now, and the effect on tanker rates should be negative as cargoes dwindle. Rates have however, remained resilient so far during the disruption and are at very healthy levels, meaning we are unlikely to see softening in tanker values anytime soon. Sizeable premiums are still being paid on older units, seen in the sale of 2x Ice class 1A suezmax pair ALASKA/ARCHANGEL (163k dwt Hyundai 2006) at USD 50.75M each. Quiet week once again on the dry second-hand front, likely a combination of the exasperating conditions in the Middle East and the beginning of summer holidays. The general situation on dry is rosy, with earnings consistent across all sectors, and values firm. Some action to report this week as Meghna continue their ultramax buying spree with scrubber fitted pair BRITTA/BENJAMIN OLDENDORFF (62k dwt Oshima 2020) at just over USD 37M each.

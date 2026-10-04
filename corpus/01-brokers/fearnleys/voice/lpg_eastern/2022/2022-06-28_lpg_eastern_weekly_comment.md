@@ -1,0 +1,30 @@
+---
+id: "3C84C803-48E4-47B1-98E8-DAAC6D08C74F"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-06-28"
+year: 2022
+week: 26
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-06-28"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-06-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-06-28 (Week 26)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `3C84C803-48E4-47B1-98E8-DAAC6D08C74F`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco cut Jul CP to $725 for both propane and butane, each down by $25 from Jun. It is in line with 2nd round recommendation, however some players reckon it lower than expectation as seeing less Jul spot availability from producers compared to Jun. Aug C3 CP was traded at $729 and C3/C4 traded at flat.
+
+**FAR EAST**
+
+ A couple of deals were concluded in window this week. 23kt propane for 2h Aug delivery was traded at Jul and Aug FEI flat. Similar cargo for 1h Aug delivery was offered at Aug FEI plus $4, while bid at Jul FEI minus $1, which equates to Aug FEI minus $1. Off window 23kt parcel for 1h Aug delivery was traded at FEI plus small premium and 46kt parcel was changed hand at Aug FEI minus small digit reportedly. Two Chinese EChina based importers tendered to buy propane for late Jul/10th Aug delivery. One is reported to procure one or two lots of 23kt propane for Jul delivery at FEI plus mid-single digit. Another one is still within validity at the time of writing.

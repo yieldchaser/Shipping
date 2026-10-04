@@ -1,0 +1,30 @@
+---
+id: "247C74DC-5A45-406D-A13B-86BBAFFCDA1C"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-08-02"
+year: 2022
+week: 31
+title: "Fearnleys Suezmax Weekly Comment - 2022-08-02"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-08-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-08-02 (Week 31)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `247C74DC-5A45-406D-A13B-86BBAFFCDA1C`
+
+---
+
+## Market Commentary
+
+The Suezmaxes in the West remains rather active, after TD20 got a small correction last week. The V's taking out Suez-cargoes was bound to have that effect on the market, but even after this the market still remains in the WS 130's.
+
+**USG**
+
+ and Brazil still busy as well which keeps the rates in the West at decent levels. In the East we don’t see much crude going long from MEG, but a busy fuel market and a steady amount of crude cargoes going to India keep rates at current levels. Going forward we expect rates to remain rather stable, with some downward pressure as we are going in to holiday season. Historically August tends to be a more quiet month, but so far we have not seen much change.

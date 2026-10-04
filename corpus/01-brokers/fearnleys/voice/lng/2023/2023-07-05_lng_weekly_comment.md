@@ -1,0 +1,26 @@
+---
+id: "DB85ADD0-2715-4775-95CD-B433AC46EF24"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-07-05"
+year: 2023
+week: 27
+title: "Fearnleys LNG Weekly Comment - 2023-07-05"
+---
+
+# Fearnleys LNG Weekly Comment (2023-07-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-07-05 (Week 27)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `DB85ADD0-2715-4775-95CD-B433AC46EF24`
+
+---
+
+## Market Commentary
+
+Spot market activity dropped this week in comparison to last week’s upturn in fixtures. A couple of requirements were withdrawn in the East and more sublet availability emerged in both basins, which may hint at a more bearish view of prompt demand in the coming weeks; however, spot rates discussed for laycans in August and 1H September have held steady for the time being, so this may be a plateau rather than a peak. On the contrary, term rates for prompt deliveries have softened, although the expectation of strengthening rates as we move towards the winter months remains unaltered. In the newbuilding market, NYK were reported to have placed an order for 2 vessels with Korean Shipbuilder Hyundai Samho Heavy Industries. The newbuildings are due for delivery during 2H 2027.

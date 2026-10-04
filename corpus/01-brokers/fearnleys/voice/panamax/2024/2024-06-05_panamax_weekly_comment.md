@@ -1,0 +1,26 @@
+---
+id: "e411fea8-ddc6-4c48-a9aa-c08699cec958"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-06-05"
+year: 2024
+week: 23
+title: "Fearnleys Panamax Weekly Comment - 2024-06-05"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-06-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-06-05 (Week 23)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `e411fea8-ddc6-4c48-a9aa-c08699cec958`
+
+---
+
+## Market Commentary
+
+This week, the Panamax market continues to face challenges with softening rates in both the Atlantic and Pacific basins. Limited activity and owner resistance to low bids marked the Atlantic market, while the Pacific experienced a milder decline but is expected to weaken further. Posidonia in Athens contributed to a quiet start to the week with minimal new inquiries. Additionally, the North Atlantic is under pressure from a lack of cargo, pushing rates lower as owners seek cover. Conversely, the ECSA region has shown slight improvements in rates, suggesting a potential market floor might be forming.

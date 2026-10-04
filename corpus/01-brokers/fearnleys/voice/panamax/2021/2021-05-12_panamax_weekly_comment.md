@@ -1,0 +1,26 @@
+---
+id: "5F4D43DC-9C0D-498D-B0EA-9C74F7B5FE23"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-12"
+year: 2021
+week: 19
+title: "Fearnleys Panamax Weekly Comment - 2021-05-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-05-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-05-12 (Week 19)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `5F4D43DC-9C0D-498D-B0EA-9C74F7B5FE23`
+
+---
+
+## Market Commentary
+
+The positive sentiment from last week continued into this week, also supported by FFA values. Fixtures has been concluded at more than last done in both hemispheres. The South Atlantic is holding up and mid-week the P1A is valued around USD 25k. In the North Atlantic we feel the sentiment is a bit toppish with a longer tonnage list compared to last week. For the Pacific rounds, ships are being fixed in the 30k region.

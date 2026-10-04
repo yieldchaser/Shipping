@@ -1,0 +1,30 @@
+---
+id: "E009062E-EF7E-48BB-8FED-4D3CB6BAF2C5"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-05-02"
+year: 2022
+week: 18
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-05-02"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-05-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-05-02 (Week 18)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `E009062E-EF7E-48BB-8FED-4D3CB6BAF2C5`
+
+---
+
+## Market Commentary
+
+MEG Following the crude rebound, June propane CP was traded higher at $815 and butane at $825. June/Jul CP was traded at $10ish backwardation. Spot discounts for early June lifting FOB was assessed at minus high single digit, however some buyer asking double digits discounts or more, in view of weak cash premium on delivered basis against firm freight rates.
+
+**FAR EAST**
+
+ Activities were muted earlier this week as of holiday. In window 23kt propane for 1h June delivery was offered at Jun FEI plus low teens and barely see bid interests, while parcel for 2h June was assessed slightly lower. Off window a handful of tenders are floating in the market from Thursday. Taiwan FPCC issued buy tender to secure 23kt or upto 46kt LPG for 1h Jun delivery. One Korean importer also tendered to buy 1-9th June delivered 23kt propane or evenly split cargo. Another Korean petchem importer tendered to procure monthly 3 lots of 23kt propane from Jul 2022 to June 2023 delivery, whom recent was reported to secure a 23kt butane for mid June delivery at mopj minus 30s.

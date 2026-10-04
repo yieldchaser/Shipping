@@ -1,0 +1,26 @@
+---
+id: "cfc0445d-83bb-4cb5-a0f8-f531f97a798a"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-09-03"
+year: 2025
+week: 36
+title: "Fearnleys LNG Weekly Comment - 2025-09-03"
+---
+
+# Fearnleys LNG Weekly Comment (2025-09-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-09-03 (Week 36)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `cfc0445d-83bb-4cb5-a0f8-f531f97a798a`
+
+---
+
+## Market Commentary
+
+Spot charter rates have come under pressure this week with vessel oversupply in both basins leading to fixtures concluded at close to $30,000 pd on modern tonnage. Additional requirements are naturally being shown as charterers look to dip into the weaker sentiment for Atlantic loadings throughout October. Extended periods are still valued at some premium whilst the spot fluctuates within a relatively tight range. Independent owners’ share of the short-term market is likely to continue growing through the balance year with an increase in redeliveries from term charters, as the gap between bid and offer for periods covering 2026/27 remains too wide in most cases. That said, there are a handful of structural requirements coming forward which may lead to more manageable levels for owners in that one-to-two-year space, though competition remains strong. On the longer-term side, fleet replacement and a healthy year for new FID’s continue to fuel discussions for long term coverage following the massive increases in LNG supply set to come online later in the decade.

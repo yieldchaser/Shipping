@@ -1,0 +1,26 @@
+---
+id: "bcf0722e-4fa9-458b-879d-a678d1e4315c"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-10-04"
+year: 2023
+week: 40
+title: "Fearnleys Aframax Weekly Comment - 2023-10-04"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-10-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-10-04 (Week 40)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `bcf0722e-4fa9-458b-879d-a678d1e4315c`
+
+---
+
+## Market Commentary
+
+The North Sea Aframax market started the week with an influx of activity which saw rates push up from last done, but on the surface has now gone a bit quieter. Natural window now 11-13 October. Ballasting USG remains an attractive option for certain tonnage which will keep a check on the list even with vessels coming into the area. Activity has shown consistent flow the past week helping to maintain steady levels in the Mediterranean. Natural tonnage still looks relatively tight for current fixing window as dates push forward and with continued supply, we expect to see owners hold firm. Recent USG action has given owners an outlet for vessels sat off Europe wanting a home and with opportunities in other markets there to entertain, would expect rates to remain steady-ish with any movement wanting to be in an upward trend. Suezmaxes will be watching with interest... again.

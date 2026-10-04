@@ -1,0 +1,26 @@
+---
+id: "9847391a-66d8-49d2-bea1-110cc4a3e429"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-09-17"
+year: 2025
+week: 38
+title: "Fearnleys Suezmax Weekly Comment - 2025-09-17"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-09-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-09-17 (Week 38)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `9847391a-66d8-49d2-bea1-110cc4a3e429`
+
+---
+
+## Market Commentary
+
+Within the current fixing window in WAF, we currently have abt. 12 vessels in ballast, with an additional of 20 vessels expected to supplement the list by Sunday. In terms of cargo coverage, we likely have sub 10 mbbls remaining. Despite the significant number of vessels expected to sail in the coming days and limited 1st decade cargoes left to cover in WAF, we expect that there should still be sufficient activity elsewhere in the West to help balance the list. Additionally, if the current strength on the VLCC’s continues, we expect that the sentiment may override the underlying fundamentals. In the AG, the tonnage list is comparatively tighter and prospects remain strong, with VLCC’s holding at elevated levels. We are likely to see further VLCC stems split into Suezmaxes.

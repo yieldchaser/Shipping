@@ -1,0 +1,26 @@
+---
+id: "6AC3C721-2251-4E0E-BBD3-3556AA27FA8E"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-04-27"
+year: 2020
+week: 18
+title: "Fearnleys LNG Weekly Comment - 2020-04-27"
+---
+
+# Fearnleys LNG Weekly Comment (2020-04-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-04-27 (Week 18)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `6AC3C721-2251-4E0E-BBD3-3556AA27FA8E`
+
+---
+
+## Market Commentary
+
+“COVID-19” has been a consistent feature in our weekly reports lately, as the impact of the pandemic is evident on LNG and LNG shipping. LNG prices are undoubtedly kept at low levels due to the glut of LNG cargoes. While the summer months are traditionally with the weakest LNG demand for the year, this year comes with the added element of pandemic-induced bearishness. One may expect muted activity but this is actually far from what we observe. Vessels are being fixed in both basins, many on the back of cargo tenders or spare cargoes on offer from producers, seemingly due to cargo deferments from long term buyers. LNG prices from the long term contracts are higher priced compared to reported spot prices, providing portfolio players the opportunities to acquire FOB cargoes at low prices to fill these high-priced shorts, which is leading to vessel enquiries for optimisation.

@@ -1,0 +1,26 @@
+---
+id: "527A8BA4-EC62-4D66-AF80-4B975B0DC730"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-25"
+year: 2019
+week: 48
+title: "Fearnleys S&P Weekly Comment - 2019-11-25"
+---
+
+# Fearnleys S&P Weekly Comment (2019-11-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2019-11-25 (Week 48)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `527A8BA4-EC62-4D66-AF80-4B975B0DC730`
+
+---
+
+## Market Commentary
+
+The sales activity is dominated by older vessels, both wet and dry. Recent bulker sales reaffirm a softening in dry values across the board and there is certainly no lack of vessels for sale. Several bulker deals are in the making with varying reports that AZUL FORTUNA 204k dwt built 2005 Universal is close to being sold for high usd 15 mill. If confirmed, this will be a notch down from the sale of one year older sister AZUL INTEGRA a month ago at usd 16 mill. Tanker values are in positive trajectory but we have yet to see any very modern units being transacted. Increased buying interest now also for LR1’s with reports that GULF CASTLE 75k dwt built 2009 HMD is under negotiation after being inspected by up to 10 buyers before inviting offers earlier this week.

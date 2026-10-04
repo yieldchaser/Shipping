@@ -1,0 +1,30 @@
+---
+id: "A7488E95-1EBA-4DC4-98AC-B2C5508CA91B"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2020-03-16"
+year: 2020
+week: 12
+title: "Fearnleys LPG Eastern Weekly Comment - 2020-03-16"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2020-03-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2020-03-16 (Week 12)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `A7488E95-1EBA-4DC4-98AC-B2C5508CA91B`
+
+---
+
+## Market Commentary
+
+**MEG:** Another week of drastic market drop. Crude has slashed by another 20% and Apr C3 CP plunged to $207 while Butane CP maintains at $3 spread higher. Saudi Aramco released their Apr lifting acceptance as per nomination with minor changes only, and they still have spot tons available after 5-6 cargos were sold reportedly. Qatar Petroleum was said to award their 23-25 Apr lifting 3/1 sale tender at single digit discount to Apr CP link, however some players reckon this price too aggressive as of $15 Apr/May backwardation, let alone the negative FOB netback due to weak demand amid long supply in the front.
+
+**FAR EAST**
+
+: April offer stood firm earlier this week with seller asking at teens’ premium over Apr FEI. Until later this week offer dropped down to plus $5 only and bid at flat in the window, as more sellers emerged with clear shipping structure. This week, premium for propane delivered in Apr into China has come off to 30ish level on Apr CP link. Some talk one 1h May arrival propane was also traded into China at 30s but on May CP link. China import in 2020 Q1 is expected to decrease by roughly 35% compared to last Q1 at 4.76mmt, and hopefully the volume can recover from Apr onwards. Chinese domestic PDHs has improved run rates lately as great margin to produce propylene, and Zhejiang Satellite has restarted their 450,000tonnes/y unit from maintenance. Taiwan CPC has secured 11/11 end Apr delivery Apr CP plus 40s via tender late last week.

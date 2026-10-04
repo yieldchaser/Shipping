@@ -1,0 +1,26 @@
+---
+id: "157880e7-53e0-492f-b768-d08172bf3070"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-02-20"
+year: 2025
+week: 8
+title: "Fearnleys LNG Weekly Comment - 2025-02-20"
+---
+
+# Fearnleys LNG Weekly Comment (2025-02-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-02-20 (Week 8)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `157880e7-53e0-492f-b768-d08172bf3070`
+
+---
+
+## Market Commentary
+
+The biggest news in LNG shipping over the past week has been Venture Global’s announcement of the commercial start-up of its long-term offtake from CP1, commencing mid-April. Those that have received their notices will be reviewing schedules and aligning tonnage, and this will inevitably pull ships out of the spot market and reduce the number of disponent owners. While this is a welcome sign for those who still have length, and should lead to higher rates, it's unlikely to spark a renaissance in the spot market as the plant has been producing well for some time now and there remains strong competition for March laycans. On top of this news, there has been a healthy level of spot activity in both basins and slight increases in charter rates have been seen in the Atlantic despite ample vessel supply. Meanwhile, a clear-out of tonnage for Middle East loading has prompted additional Pacific enquiries reaching through March, with rates at a premium versus the West but broadly steady.

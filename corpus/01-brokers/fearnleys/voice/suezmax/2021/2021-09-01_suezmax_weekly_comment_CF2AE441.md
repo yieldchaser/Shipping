@@ -1,0 +1,30 @@
+---
+id: "CF2AE441-5649-42EC-9455-9AA3C435EB95"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-09-01"
+year: 2021
+week: 35
+title: "Fearnleys Suezmax Weekly Comment - 2021-09-01"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-09-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-09-01 (Week 35)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `CF2AE441-5649-42EC-9455-9AA3C435EB95`
+
+---
+
+## Market Commentary
+
+When the market has recently traded in such narrow parameters, there was understandably some incredulity amongst participants when Wafr/East started to trade at a discount to Td20. There was a forty eight hour period which could only be described as a disorientated market. The East Suezmax market, or lack of market, to be more precise, singlehandedly created the anomaly that lead to Wafr trading in such an odd manner. The perceived impact of unemployed Eastern ballasters heading to Wafr is the reason for its limited upside. Whether it is now at parity or has returned to its old differential, will be decided by the next pure East run. For now, we are calling both Wafr/East and Td20 in mid WS50's.
+
+**MEG**
+
+/China should settle at WS55 given that a short East is on subs at WS57.5, whilst Td23 trades at WS22.5-25 flat'ish.

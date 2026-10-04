@@ -1,0 +1,26 @@
+---
+id: "B7E9510D-F4CE-4452-9369-D8C26CD46250"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-09-09"
+year: 2020
+week: 37
+title: "Fearnleys LNG Weekly Comment - 2020-09-09"
+---
+
+# Fearnleys LNG Weekly Comment (2020-09-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-09-09 (Week 37)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `B7E9510D-F4CE-4452-9369-D8C26CD46250`
+
+---
+
+## Market Commentary
+
+After weeks of gradual firming rates, the LNG shipping market has taken a pause. We have seen an increase in prompt availability, predominately sublets from portfolio players and traders, emerged in the market as a result of the disruptions caused by the hurricane. Spot rates have therefore softened for the first time since mid-May this year due to a cargo overhang which has put rates under pressure. Although the damages in the US Gulf were heard to be minimal, the uncertainty and duration taken to resume operations are threatening hopes of a quick bounce back in rates. However, if production resumes swiftly at most US terminals, resulting in sublets withdrawn from the market and an increase in LNG demand moving into Q4, we may see an improvement in rates again. Until then, the shipping market remains uncertain. We have kept LNG newbuilding prices stable and no new orders have been reported this week.

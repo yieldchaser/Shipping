@@ -1,0 +1,26 @@
+---
+id: "2165142a-b67c-422b-a129-4c882e820f1e"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-05-28"
+year: 2025
+week: 22
+title: "Fearnleys Panamax Weekly Comment - 2025-05-28"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-05-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-05-28 (Week 22)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `2165142a-b67c-422b-a129-4c882e820f1e`
+
+---
+
+## Market Commentary
+
+The Panamax market saw little improvement this week, with long tonnage lists and weak demand keeping sentiment bearish across both the Atlantic and Pacific basins. In the Atlantic, sluggish activity after the UK and US holidays led to softer rates, with charterers firmly in control as fresh cargoes remained scarce and fixtures often slipped below previous benchmarks. The Pacific basin mirrored this trend, as a steady stream of open vessels and a lack of new enquiries saw owners under increasing pressure to accept lower levels, especially on Indonesian coal runs and Australian trips. Overall, with limited fresh business and oversupply of ships in both basins, owners are facing another challenging week ahead unless demand picks up meaningfully.

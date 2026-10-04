@@ -1,0 +1,26 @@
+---
+id: "b38e0b4e-c8a2-4fab-8a15-cf079511e2f2"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-06-04"
+year: 2025
+week: 23
+title: "Fearnleys Capesize Weekly Comment - 2025-06-04"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-06-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-06-04 (Week 23)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `b38e0b4e-c8a2-4fab-8a15-cf079511e2f2`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see healthy volumes from miners and operators alike for 20 June onwards. Enquiries for East Australia coal have moved a tick up as well. On C3 ex Brazil and West Africa, we see a handful of enquiries for end June dates with operators out for first half of July dates. Some interested as well for more forward second half of July dates. Tonnage opening Far East is getting a tick tighter. Same can be observed for ballasting tonnage. On C5, we reached high USD 9 pmt levels by mid-week. For C3, sentiment is uptick as we see mid-high USD 21 pmt levels done for early-mid July dates.

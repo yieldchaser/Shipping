@@ -1,0 +1,30 @@
+---
+id: "3a7d4461-da45-49ba-919e-4224f9776c9c"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-02-19"
+year: 2025
+week: 8
+title: "Fearnleys Panamax Weekly Comment - 2025-02-19"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-02-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-02-19 (Week 8)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `3a7d4461-da45-49ba-919e-4224f9776c9c`
+
+---
+
+## Market Commentary
+
+The Panamax market continued to firm this week, closely tracking seasonal trends, with the Atlantic seeing stronger sentiment driven by a firm ECSA market, while the North remained stable with limited tonnage supporting owners' ideas.
+
+**Pacific**
+
+ rates pushed higher, with grains fixing closer to USD 11,000 per day and minerals following closely behind, as a tight tonnage balance and strong demand kept momentum positive. With FFAs pricing in further gains towards mid-March, the outlook remains constructive across both basins.

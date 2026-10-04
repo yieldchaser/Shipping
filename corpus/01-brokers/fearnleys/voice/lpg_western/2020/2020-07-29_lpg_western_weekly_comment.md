@@ -1,0 +1,26 @@
+---
+id: "86A32650-7F68-42E6-83A0-4E5B40CF90D0"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-07-29"
+year: 2020
+week: 31
+title: "Fearnleys LPG Western Weekly Comment - 2020-07-29"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-07-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-07-29 (Week 31)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `86A32650-7F68-42E6-83A0-4E5B40CF90D0`
+
+---
+
+## Market Commentary
+
+AMERICAS Although the seasonal build was predicted by majority of the market, the propane price at Mt. Belvieu continued downward following the EIA's report of a 2 million barrel inventory build. It appears that crude production has not decreased to the degree many had originally thought and furthermore- it seems propane production is declining at a rate half as quickly as crude-hence the downward pressure on the C3 flat price. In ordinary circumstances, the preceding could have a positive effect on LST/FEI arbitrage economics however, the length in Asia, coupled with sky high freight has kicked up discussions of as many as three cancellations out of the US Gulf.

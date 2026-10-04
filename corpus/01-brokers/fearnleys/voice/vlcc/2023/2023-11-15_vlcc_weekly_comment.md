@@ -1,0 +1,30 @@
+---
+id: "c6defad2-5905-4abe-aef0-6245ae470a08"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-15"
+year: 2023
+week: 46
+title: "Fearnleys VLCC Weekly Comment - 2023-11-15"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-11-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-11-15 (Week 46)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `c6defad2-5905-4abe-aef0-6245ae470a08`
+
+---
+
+## Market Commentary
+
+As the post Dubai dust settles, we saw no major jumps this year, but there is certainly an upward trajectory in the week after. As December stems start to filter in the MEG, charterers sentiment is starting to drive rates up. Paper came out this morning, jumping up to 72 for TD3C (a 10 point move in 2 days). At the time of writing MEG/Singapore on subs at WS 72.5 and TD3C now naturally starts with a 7. Older vessels and, or better, freighting voyages able to encourage numbers still in the WS 60’s. As more stems are confirmed, it is likely owners can keep this trajectory in their favor.
+
+**Atlantic**
+
+ yet to really move. We see 9 vessels controlled by 6 different owners coming to the Cape, but the activity in the East will likely assist in higher numbers in the near future. A safe bet now is a USD 10m USG/Ningbo - touch either side depending dates, but with the Venezuela business coming back on line (at present paying a million dollar premium), should increase volumes and push us higher in the coming weeks.

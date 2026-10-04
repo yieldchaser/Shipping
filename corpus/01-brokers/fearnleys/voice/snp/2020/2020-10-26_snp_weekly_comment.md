@@ -1,0 +1,26 @@
+---
+id: "12DB9A47-AE1F-4A81-824E-F5A02856B863"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-26"
+year: 2020
+week: 44
+title: "Fearnleys S&P Weekly Comment - 2020-10-26"
+---
+
+# Fearnleys S&P Weekly Comment (2020-10-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-10-26 (Week 44)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `12DB9A47-AE1F-4A81-824E-F5A02856B863`
+
+---
+
+## Market Commentary
+
+Another busy week in both the wet and dry S&P markets. Subjects are now lifted on Hunter Group’s sale of two 2019 built VLCC’s to ADNOC. The Usd 84.2 mill agreed is in line with expectations but still a far cry from where we were at the outset of the year. The creditor controlled Xihe tanker fleet sell-off continues. Following the sale of tranche 1 vessels, inspections are now invited for additional tankers including three VLCC’s built 2008, 2009 and 2013 in China. Any “normal” sales efforts are inevitably affected by this process and prices achieved are likely to continue being a cold shower for values across the board. Crude earnings are certainly not helping the short to medium term outlook either. Bulker values are still very transparent and in a sideways trajectory. All sizes see a healthy transaction volume with several noteworthy sales. The Usd 25 mill reported for 2017 JMU built Kamsarmax GEMINI OCEAN is the same as SAKIZAYA JUSTICE built 2017 Namura achieved at the end of August.

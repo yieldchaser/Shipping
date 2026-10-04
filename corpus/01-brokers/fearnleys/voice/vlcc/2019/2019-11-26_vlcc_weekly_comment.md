@@ -1,0 +1,26 @@
+---
+id: "DB5BA5D0-F0CB-4B81-9635-DDA6C8D06985"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-26"
+year: 2019
+week: 48
+title: "Fearnleys VLCC Weekly Comment - 2019-11-26"
+---
+
+# Fearnleys VLCC Weekly Comment (2019-11-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2019-11-26 (Week 48)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `DB5BA5D0-F0CB-4B81-9635-DDA6C8D06985`
+
+---
+
+## Market Commentary
+
+With VLCC rates having gone from strength to strength as last week went by, things looked rigged for further improvement form the get go on Monday. However, activity was slow as the day progressed, and players were taken by surprise at a ws130 concluded for a MEG/Thailand run late in the day – a good 15-20 point jump on last done levels, with nothing in between. Arguably it was based on a min 14.5 knots laden speed for a shorter type voyage, but nevertheless it immediately added fuel to the fire. However, charterers kept their cool, and come Tuesday managed to convince owners to accept ws115-117.5 deals for MEG/China voyages, yielding daily returns in the USD 90’s/day. With the Thanksgiving tomorrow, and the Christmas party season kicking off in London next week, charterers and owners alike possibly feel a sense of urgency to get things done – and a gradual strengthening is likely more sustainable than the boom/bust scenario we saw not too long ago. Current earnings are not to be sniffed at, and It’s also important to remember that waiting days have become correspondingly expensive.

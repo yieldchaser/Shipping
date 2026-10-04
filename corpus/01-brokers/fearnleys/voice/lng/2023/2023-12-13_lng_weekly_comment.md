@@ -1,0 +1,26 @@
+---
+id: "2f8d79a5-a7ab-480a-9be4-5680aa60997f"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-12-13"
+year: 2023
+week: 50
+title: "Fearnleys LNG Weekly Comment - 2023-12-13"
+---
+
+# Fearnleys LNG Weekly Comment (2023-12-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-12-13 (Week 50)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `2f8d79a5-a7ab-480a-9be4-5680aa60997f`
+
+---
+
+## Market Commentary
+
+Global high inventory levels, coupled with a significant decrease in freight and gas prices, raise the question of whether winter has already passed. The widening delta between the Pacific and Atlantic persists. The possibility of more tonnage shifting westward from the Pacific could be contemplated given there seems more enquiry there, but the challenge lies in the time lag associated with redirecting vessels to the Atlantic, especially when both the Panama and Suez Canals routes are unpredictable. While rates have decreased with most fixtures in the East, it's worth noting that some prompter requirements have encountered difficulties in securing shipping particularly in the West. Despite the time available for a potential recovery before holidays commence in most countries, the prospect of a significant surge in activity seems highly unlikely at the moment. Although no newbuild orders have been placed at the yards this week, prices remain robust.

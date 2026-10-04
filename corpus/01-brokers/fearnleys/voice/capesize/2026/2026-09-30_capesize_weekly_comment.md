@@ -1,0 +1,30 @@
+---
+id: "2b5eea28-ae96-46ce-9ef9-753e8bf37a0d"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-09-30"
+year: 2026
+week: 40
+title: "Fearnleys Capesize Weekly Comment - 2026-09-30"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-09-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-09-30 (Week 40)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `2b5eea28-ae96-46ce-9ef9-753e8bf37a0d`
+
+---
+
+## Market Commentary
+
+Capes across all segments were in decline this week amid a clear imbalance of tonnage and demand, with Pacific leading the softening. With FFAs showing more positive sentiment in the days to come, we hope to see improved market levels going forward.
+
+**Pacific**
+
+ C5 West Australia/Qingdao prints USD 13.44 today on the Baltic Exchange, down from USD 16.27 last week - indicating a fairly rapid decline in pacific markets. Earlier week fixtures were recorded in the USD 13.70-13.80 levels, while this morning we saw fixtures at USD 13.45 ex Dampier/Qingdao. With Iron Ore prices softening due to weaker demand and high inventory (especially ahead of the China National Holiday) we expect to see some further weakening in Australia markets in the short term. C3 Brazil/China has also seen a downturn this week, following expanding tonnage lists and minimal cargo flow out of Brazil, with market levels falling below the USD 40s levels, today printing USD 38.6 on the Baltic (dropping from a previous high of USD 43.12 just one week ago). Owners are holding their offers, hovering around USD 39-40 levels today, with many choosing to stay quiet with the hope of renewed premium rates. Fresh stems ex West Africa and Brazil are collecting ideas in the USD 37 levels this morning, and several offers in USD 40-41 levels have been recorded today with little traction. Both basins show a defensive outlook moving forward as market pressure increases, and some owners are choosing to ballast to the North Atlantic as some fresh stems for November laycans offer potential premium returns. FFA going forward shows some promise, with levels showing some improvement.

@@ -1,0 +1,26 @@
+---
+id: "84acac5e-f755-44d7-b77c-a7b1e24ae200"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-02-21"
+year: 2025
+week: 8
+title: "Fearnleys S&P Weekly Comment - 2025-02-21"
+---
+
+# Fearnleys S&P Weekly Comment (2025-02-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-02-21 (Week 8)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `84acac5e-f755-44d7-b77c-a7b1e24ae200`
+
+---
+
+## Market Commentary
+
+MR tankers have largely been ignored by SnP players so far this year with subdued rates leading Sellers to gradually correct expectations in hope to entice any potential Buyers. An exercise that seems to bear its fruit this week with a notable bump in reported transactions, setting some welcomed benchmarks in the product space. HANSA OSLO (51K DWT STX JINHAE 2007) was sold for USD 17.2M, a drop of almost 25% on what she was asking in Q3’24, but interestingly still higher than the USD 15M that was paid for her when she was bought in 2022. Dry bulk is still providing an avenue for investment where willing sellers are found, however, this remains mostly on the older end of the spectrum. Owners who have ridden out this seasonal downturn are seeing a rise in sentiment as China’s imported iron ore consumption has rebounded after the holidays, while other sub sectors will hope for a similar rebound in fortunes. Newcastlemaxes continue to change hands this week with Berge Bulk acquiring the “HL FRONTIER” (Abt 207k dwt Universal 2010) at USD 32.5m. Bringing the tally, in what is usually a very illiquid segment, to a total of 4 units transacted so far this year.

@@ -1,0 +1,26 @@
+---
+id: "20EC4F15-3105-43CE-A328-17A8F3256DBE"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-01"
+year: 2021
+week: 9
+title: "Fearnleys Capesize Weekly Comment - 2021-03-01"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-03-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-03-01 (Week 9)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `20EC4F15-3105-43CE-A328-17A8F3256DBE`
+
+---
+
+## Market Commentary
+
+The big topic last week was all the ballasters towards Brazil impacting levels negative. But after a very quiet Monday sentiment suddenly changed as the Pacific market saw a rush of requirements together with Panamax and Supramax cargoes being put on Capesize vessels. The C5 route with iron ore from West Australia to China is up by 25% since last report and the time charter of all routs up by 13% and a time charter hire of USD 13,910 per day.

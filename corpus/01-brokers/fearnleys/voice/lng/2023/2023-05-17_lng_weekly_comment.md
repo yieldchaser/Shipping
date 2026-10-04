@@ -1,0 +1,26 @@
+---
+id: "CD5E6D27-5CA6-41DD-A183-CC24BD81CF02"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-05-17"
+year: 2023
+week: 20
+title: "Fearnleys LNG Weekly Comment - 2023-05-17"
+---
+
+# Fearnleys LNG Weekly Comment (2023-05-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-05-17 (Week 20)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `CD5E6D27-5CA6-41DD-A183-CC24BD81CF02`
+
+---
+
+## Market Commentary
+
+The LNG spot shipping market has seen subdued activity this week. The emergence of a small number of spot requirements has highlighted the lack of opportunities relative to the size of the availability lists; the majority of potential vessels provided offers, suggesting that the market is quiet across both the Atlantic and Pacific basins. Despite the muted spot market, LNG industry participants are actively engaged in managing internal fleets, including optimizing their portfolios, strategic vessel repositioning, cargo swaps, or time charter extensions to address operational requirements. Looking ahead, the second half of 2023 is anticipated to bring about a tightening of the market. Rates for multi-month charters during the winter season and multi-year charters spanning multiple winters are expected to remain at elevated levels, indicating that market participants anticipate strong demand and potential supply constraints during this period. In terms of newbuilding LNG vessels, prices have maintained their firmness in recent times. The limited availability of the newbuilding slots is anticipated to keep newbuilding prices at higher levels, consequently exerting upward pressure on corresponding long-term charter rates. Shipowners with existing modern LNG vessels, influenced by the expectation of high newbuilding rates, are likely to maintain their rate level expectations or demand rates close to those required by newbuilding vessels.

@@ -1,0 +1,30 @@
+---
+id: "9d624c94-f564-4a49-bf27-18f262fd5af6"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-05-23"
+year: 2024
+week: 21
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-05-23"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-05-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-05-23 (Week 21)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `9d624c94-f564-4a49-bf27-18f262fd5af6`
+
+---
+
+## Market Commentary
+
+MEG Discussions for Jun lifting evenly split cargo improved to CP minus low single digit, owing to active buying from one producer trading arm, which was reported have procured at least 4 cargos for Jun. And some sellers for Jul FOBs are seeking premium. Saudi released their Jun acceptance with some liftings nominated at minus tolerance. Qatar Petroleum tendered to sell evenly split or heavy propane cargo for 23-29 Jun lifting. At the time of writing, Jun C3 CP was assessed at $570, up $30 WOW. Jun C3/C4 CP was traded at $4 and Jun/Jul C3 CP at $22 backwardation.
+
+**FAR EAST**
+
+ Inquires for Jun arrival propane subdued, and traders started to bid for Jul arrival parcels. 23kt propane for 1h Jul arrival was bid at Jul FEI plus high single digit in the window. With the longer haul via cape, we expect cargos to be traded at some good premium to the curve value. Outside window a handful of tenders floating. HTC was reported to procure 23kt C4 for late Jun delivery. One SChina PDH managed to cover a full propane cargo for Jun delivery at Jun FEI plus low teens. Similarly, another EChina petchem user also tendered to procure 23/0 or 46/0 des Ningbo during last decade Jun delivery, which is still in validity by the time of writing. Apart from Jun delivery, we’ve seen one NChina PDH called tender for three heavy propane cargos, and another player also issued private tender for monthly 1-2 lots of propane delivered in Q3. Taiwan FPC also tendered for monthly max 46kt LPG for Q3 delivery into Mailiao.

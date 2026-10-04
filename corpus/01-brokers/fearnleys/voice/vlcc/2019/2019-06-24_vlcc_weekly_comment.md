@@ -1,0 +1,26 @@
+---
+id: "8D171430-5D9A-4438-A39B-78310E71D0C6"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-06-24"
+year: 2019
+week: 26
+title: "Fearnleys VLCC Weekly Comment - 2019-06-24"
+---
+
+# Fearnleys VLCC Weekly Comment (2019-06-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2019-06-24 (Week 26)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `8D171430-5D9A-4438-A39B-78310E71D0C6`
+
+---
+
+## Market Commentary
+
+The long awaited uptick in rates for the VLCC’s appear to be still somewhere in the future. A few quiet days this week after the busy last week with sharply increased war risk-premiums pushing rates up some 10 ws points for Meg/East , has put a dampening effect on the rates being concluded this week. The older ships or those with ‘special needs’ are the ones in vogue and still appear in abundance. Rates for this category are softening whilst modern ships in the Meg remain relatively stable. Less activity in wafr and also Americas has infused some doubt and rates here also a little off the rates concluded last week. Slightly more bearish undertones for now and increased volumes in all areas required for rates to stabilize.

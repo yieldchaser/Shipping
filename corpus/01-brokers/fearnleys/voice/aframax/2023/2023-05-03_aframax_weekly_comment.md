@@ -1,0 +1,26 @@
+---
+id: "AE26A1A8-9F35-4B52-8C12-E0900472FD9C"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-05-03"
+year: 2023
+week: 18
+title: "Fearnleys Aframax Weekly Comment - 2023-05-03"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-05-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-05-03 (Week 18)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `AE26A1A8-9F35-4B52-8C12-E0900472FD9C`
+
+---
+
+## Market Commentary
+
+The North Sea Aframax market remained relatively flat at the start of the week with relets dominating the tonnage list. But we see somewhat increased activity in surrounding areas. The local market is looking balanced right now, but we might see rates firming as Owners could push for higher rates in the North Sea area due to better alternatives ballasting out of the area.After tumbling the last two weeks, Med/BSea market touched bottom early this past week as tonnage list started clearing away from prompt vessels. Owners gained some momentum as tonnage list became thinner and managed to earn some extra Worldscale points. Moving forward we expect market to remain firm with the Suezmaxes being the only threat capping Aframaxes.

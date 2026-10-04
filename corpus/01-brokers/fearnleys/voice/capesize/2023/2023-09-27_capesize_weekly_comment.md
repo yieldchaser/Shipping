@@ -1,0 +1,30 @@
+---
+id: "ee3c3976-318c-4d09-b67f-5847c9969b89"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-09-27"
+year: 2023
+week: 39
+title: "Fearnleys Capesize Weekly Comment - 2023-09-27"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-09-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-09-27 (Week 39)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `ee3c3976-318c-4d09-b67f-5847c9969b89`
+
+---
+
+## Market Commentary
+
+The week started with a moderate level for early-mid October C5 cargo. Volumes remain healthy on East Australia and Pacific. Moving into mid-week, South Africa and India volumes are flat. On C3 ex Brazil to China, volume is healthy. Volumes for West Africa has improved from previous weeks as we see several fresh enquiries for late October-early November stems.
+
+**Far East**
+
+ tonnage remain tight. Number of ballasters dwindled further from last week. On C5, fixtures concluded higher at high USD 9 pmt to low USD 10 pmt levels. On C3, we see fixtures concluding at mid to high USD 23 pmt levels for 15th October onwards. On period, we continue to see limited activity with one fixture detailing a 179k dwt 2011-build non-scrubber for 21 to 24 months at USD 17,500 per day.

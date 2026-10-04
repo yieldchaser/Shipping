@@ -1,0 +1,26 @@
+---
+id: "6F3B8008-7F07-4F19-BC96-8F7A0374037D"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-07-20"
+year: 2020
+week: 30
+title: "Fearnleys Aframax Weekly Comment - 2020-07-20"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-07-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-07-20 (Week 30)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `6F3B8008-7F07-4F19-BC96-8F7A0374037D`
+
+---
+
+## Market Commentary
+
+Aframaxes trading in the North Sea and Baltic have seen an uptick in rates since last week. This on the back of owners either being fixed or ballasting away from the area, leaving a tight tonnage list for charterers trying to cover 3rd decade stems. In the week to come, we expect to see a downward pressure on rates following the insufficient cargo activity in the area. The Mediterranean and Black Sea market have maintained in an equilibrium state the past week, with straight cross Mediterranean route (td19) trading around ws70 levels. With the current tonnage availability in the region and with a steady flow of cargoes entering the market, we foresee the market to remain stable in the natural fixing window.

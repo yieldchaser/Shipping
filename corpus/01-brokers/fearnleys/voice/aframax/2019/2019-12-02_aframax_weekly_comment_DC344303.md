@@ -1,0 +1,26 @@
+---
+id: "DC344303-4401-43F4-A621-0C58792A6FF0"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-12-02"
+year: 2019
+week: 49
+title: "Fearnleys Aframax Weekly Comment - 2019-12-02"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-12-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-12-02 (Week 49)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `DC344303-4401-43F4-A621-0C58792A6FF0`
+
+---
+
+## Market Commentary
+
+As expected rates in the Baltic and North Sea market have picked up this week with the North Sea being the main driving force for the upward pressure. This is because the tonnage list is tight for North Sea cargoes loading up to mid-month. Currently ships open in the Baltic are picking off the stems loading in the 14th - 20th December window. However, the cargo program coming out of the Baltic in the 3rd decade fixing window looks healthy, and therefore we expect the market to remain firm going forwards. In the Mediterranean and Black Sea however, we have seen a downwards correction in rates this week since cargo activity has not been strong enough to prevent tonnage building up in the area. Across the board it has been a quiet week on the cargo side, and we have seen re-lets covering the few cargoes around. In the week to come we will keep an eye on further delays in Straits, and it is expected that activity will pick up somewhat as charterers will want to cover their program through the holiday season.

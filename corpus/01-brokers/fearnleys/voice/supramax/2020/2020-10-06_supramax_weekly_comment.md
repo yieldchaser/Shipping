@@ -1,0 +1,34 @@
+---
+id: "1CCE8D22-69B2-4840-98D1-509D68C60D0D"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-06"
+year: 2020
+week: 41
+title: "Fearnleys Supramax Weekly Comment - 2020-10-06"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-10-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-10-06 (Week 41)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `1CCE8D22-69B2-4840-98D1-509D68C60D0D`
+
+---
+
+## Market Commentary
+
+Continent remained firm. Usual scrap runs were discussed now closer to 20k.
+
+**Black Sea**
+
+ seems losing some ground with many ballasters from ECI. Fhauls with grains now concluded at ca 22k. More activity from USG and ECSA remaining flat, where grain runs on Ultra were concluded at USD 15k to Continent and Supras to West Africa at USD 12k. Ships with bauxite from West Africa to Black Sea payed 11k. Ships for fhaul from Kamsar to ECI levelled at USD 17k.
+
+**Pacific**
+
+ basin kept its slow speed due to remaining holidays in the area. Indo/India trips where covered closer to USD 9k. Ultra open Philippines via Indo to SE Asia reached USD 11k. Ultras fixed at 13k + 200k bb for trip to Far East. Trip from MEG to Bangladesh on Supra payed USD 11,600.

@@ -1,0 +1,26 @@
+---
+id: "e4b29d0b-7daf-400e-97f7-87c04e933566"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-07-19"
+year: 2023
+week: 29
+title: "Fearnleys Panamax Weekly Comment - 2023-07-19"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-07-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-07-19 (Week 29)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `e4b29d0b-7daf-400e-97f7-87c04e933566`
+
+---
+
+## Market Commentary
+
+The week started with a modest positive sentiment across the market following the push we saw at the end of last week. Still, it was quickly subdued by Russia’s exit from the JCC initiative and China’s economic recovery falling short of market expectations, with rate levels falling across both basins. With the lack of significant demand across the Atlantic and Asian markets, charters continue to hold the upper hand with a growing tonnage list in search of employment. Some owners are now entertaining reduced bids to secure business.

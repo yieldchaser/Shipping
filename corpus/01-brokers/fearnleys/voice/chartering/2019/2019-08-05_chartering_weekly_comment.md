@@ -1,0 +1,26 @@
+---
+id: "D0D69976-07A1-43DF-AD81-8E4B5180A14A"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-08-05"
+year: 2019
+week: 32
+title: "Fearnleys Chartering Weekly Comment - 2019-08-05"
+---
+
+# Fearnleys Chartering Weekly Comment (2019-08-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2019-08-05 (Week 32)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `D0D69976-07A1-43DF-AD81-8E4B5180A14A`
+
+---
+
+## Market Commentary
+
+WEST Following a very quiet fixing period for 1H August, and despite European and Korean/Japanese storage capacity being limited, there were a number of fixtures for the final decade of August this week. Given that the state of the product side did not seem especially conducive to lifting, it seems players either took advantage of cheaper freight which had been locked in previously or sold cargoes on a FOB basis and relet their vessels. Since this flurry of fixtures, freight has seemed slightly shorter in the West than it has been in the last couple of months. Going forward, the direction of rates will depend on 1H September cargoes and whether or not the peak of hurricane season in the USG will bring any delays. EAST In the East this week, freight rates have remained under pressure as we move closer to the next fixing window in September. There have been few deals concluded, but each has been a couple of dollars below the last Baltic print. Given that it is unlikely there will be many more cargoes to help absorb vessel availability for the remainder of this month, it is likely further pressure will be faced in the short term.

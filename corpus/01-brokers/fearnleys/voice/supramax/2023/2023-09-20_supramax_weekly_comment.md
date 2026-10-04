@@ -1,0 +1,26 @@
+---
+id: "e2a114b7-264d-4557-b40b-a1f5313abb4a"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-09-20"
+year: 2023
+week: 38
+title: "Fearnleys Supramax Weekly Comment - 2023-09-20"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-09-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-09-20 (Week 38)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `e2a114b7-264d-4557-b40b-a1f5313abb4a`
+
+---
+
+## Market Commentary
+
+Congestion in South America is the highest since early last year, and in Indonesia it is close to all-time highs. Year-to-date highs made in vessels in or heading to the North Atlantic/Europe Continent, and vessels in or heading to the South Atlantic remain close to year-to-date highs. Overall, the market is looking strong. The usual seasonal pattern has not been followed this year, but “on average” the market continues to climb until late October before trending down into year-end.

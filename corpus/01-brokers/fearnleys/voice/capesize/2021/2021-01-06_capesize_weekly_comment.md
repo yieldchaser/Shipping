@@ -1,0 +1,26 @@
+---
+id: "2D157F09-525F-489B-9EBF-5E452A258846"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-01-06"
+year: 2021
+week: 1
+title: "Fearnleys Capesize Weekly Comment - 2021-01-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-01-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-01-06 (Week 1)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `2D157F09-525F-489B-9EBF-5E452A258846`
+
+---
+
+## Market Commentary
+
+This year started fairly positive with a lot of new requirements in the East, and together with the bad weather currently experienced in China, delaying discharge operations, makes the demand/supply ratio for prompt tonnage very healthy. We see the West Australia to China route up from about USD 8.00 to 8.80 per metric ton week-on-week. The Brazil segment is still pretty busy, but as the prompt dates where we saw a very limited amount of tonnage now been covered, the levels are now slightly lower for index dates. That said, they are still much higher than what was expected only a couple of weeks back. The North Atlantic should also be mentioned being very tight on tonnage, however activity fairly slow so a dramatic push there is yet to be seen.

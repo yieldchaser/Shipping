@@ -1,0 +1,30 @@
+---
+id: "bf487bf9-83c7-4cc1-b72e-e93db6701075"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-10-02"
+year: 2024
+week: 40
+title: "Fearnleys Capesize Weekly Comment - 2024-10-02"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-10-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-10-02 (Week 40)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `bf487bf9-83c7-4cc1-b72e-e93db6701075`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see enquiries from miners, operators, and some tenders primarily for mid to late October dates. Volumes out of East Australia have dropped compared to last week with few of the limited orders seen seeking for prompt dates. On the Pacific and west coast South America front, some enquiries were present for mid October and late October dates, respectively. On C3 ex Brazil to China, operators were seeking for late October to early November dates.
+
+**Far East**
+
+ spot tonnage is moderate with some availability of prompt vessels. Ballasting tonnage is reasonably heavy for late October. On C5, fixtures concluded at mid USD 11 pmt levels as the week started and retreated to low USD 11 pmt levels by mid-week. On C3, we see fixtures concluding at high USD 26 pmt levels for end October dates and low/mid USD 27 pmt levels for early October dates.

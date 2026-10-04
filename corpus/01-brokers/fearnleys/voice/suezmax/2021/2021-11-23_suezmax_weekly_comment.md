@@ -1,0 +1,26 @@
+---
+id: "40200590-EC0A-4E3A-B93E-3B1D3992E729"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-23"
+year: 2021
+week: 47
+title: "Fearnleys Suezmax Weekly Comment - 2021-11-23"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-11-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-11-23 (Week 47)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `40200590-EC0A-4E3A-B93E-3B1D3992E729`
+
+---
+
+## Market Commentary
+
+The outlook for the Suezmax market remains unchanged with all load zones trading flat/soft. With VLCCs fighting to hold onto every point, the chances of a mid-winter Suezmax revival appear dim. Western charterers have become spoiled when it comes to the sheer choice of vessel for their long-haul cargoes. A quiet Eastern market has supplied them with a well-stocked menu of ballasters that have kept rates pinned to the floor. A bizarre anomaly of this market is that owners are willing to lock their fleets in at terrible rates on long haul despite consecutive short haul Western cargoes paying slightly more. Bot/East trades WS 70 for now, but if enquiry levels persist as they are, expect further softening. Next stop for TD23 is WS 30 and TD20 will struggle to stay out of mid WS 50s territory.

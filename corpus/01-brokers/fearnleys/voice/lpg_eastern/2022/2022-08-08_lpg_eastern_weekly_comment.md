@@ -1,0 +1,30 @@
+---
+id: "4322DC38-377A-40E8-8D80-1C53C35446E9"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-08-08"
+year: 2022
+week: 32
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-08-08"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-08-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-08-08 (Week 32)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `4322DC38-377A-40E8-8D80-1C53C35446E9`
+
+---
+
+## Market Commentary
+
+MEG Sep C3 CP was traded at $648, and C4 at $10 cheaper. Sep/Oct CP was traded at $8 contango. Qatar Petroleum was reported to sell an early Sep lifting full propane cargo at FEI link price to a Chinese player. KPC tendered to sell a 11/12th Sep lifting evenly split cargo. Market player expects a mid-high single digit discount, as CFR EAST demand for such ratio remained lukewarm.
+
+**FAR EAST**
+
+ Very thin buying interests for front market, especially for 1h Sep delivery. In Window, 23kt propane for 2h Sep delivery was offered at Sep FEI minus around $9 while bid at minus $13.5. Earlier off window 23kt propane parcel for 1h Sep delivery was reported concluded at FEI minus $15ish. One EChina cracker issued tender to buy 23kt propane DES Ningbo during last decade Sep, but didn’t award due to “unattractive” offers as buyer expected at double digit discounts to Sep FEI reportedly. One Korean importer tendered to procure 23kt propane for 6-11th Sep DES Daesan. Other than spot purchase, one Indian Major issued term tender to buy upto 45 evenly split cargos in VLGC size and 24 cargos in MGC size for 2023 delivery. Another Indian Major also negotiated for procurement on evenly split cargo for Q3 2023 delivery this week.

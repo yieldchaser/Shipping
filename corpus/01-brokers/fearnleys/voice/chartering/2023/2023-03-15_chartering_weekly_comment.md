@@ -1,0 +1,26 @@
+---
+id: "8BC4875E-DF2A-49C9-AC31-A037211D9C68"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-03-15"
+year: 2023
+week: 11
+title: "Fearnleys Chartering Weekly Comment - 2023-03-15"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-03-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-03-15 (Week 11)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `8BC4875E-DF2A-49C9-AC31-A037211D9C68`
+
+---
+
+## Market Commentary
+
+EAST After a few quiet weeks we are starting to see a bit more activity in the East. A couple of cargoes are being circulated and a late running ship required some puzzle solving in order to free up a replacement. Tonnage supply is still looking quite sufficient in the East, especially for cargoes with laycans at the end of first decade April and onwards. Reports of less cargoes from both Aramco and Adnoc in April further emphasizes the current downward trend for East spot freight. WEST With a small handful of spot fixtures this week we are now counting a total of 24 for April out of the USG/USEC (7 first decade, 12 second decade and 5 last decade). At this moment we only see a couple open vessels left for mid April laycans while last decade have about 5-6 open positions before we move over to the month of May which currently is looking very tight in the front. Using latest Baltic print we get a 12-dollar discount in the West before waiting in the Panama Canal. With that being said, we believe today’s freight rates at around mid 140s H/C and low 80s H/F to stay put, unless the arb dictates otherwise.

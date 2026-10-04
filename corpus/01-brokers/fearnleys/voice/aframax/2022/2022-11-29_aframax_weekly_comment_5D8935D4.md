@@ -1,0 +1,26 @@
+---
+id: "5D8935D4-BE19-43F1-8247-F1A358535A7E"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-11-29"
+year: 2022
+week: 48
+title: "Fearnleys Aframax Weekly Comment - 2022-11-29"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-11-29 (Week 48)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `5D8935D4-BE19-43F1-8247-F1A358535A7E`
+
+---
+
+## Market Commentary
+
+North Sea Aframax rates hit all-time high levels last week as owners did their best to push for higher rates on the back of surrounding alternatives paying significantly better. Supply of vessels in the area is very thin in the current fixing window. Moving forward we expect rates to remain firm. However, the possibility of Suezmaxes being booked for local runs could cool off the Aframax market slightly. On the other side, Med-BSea market took a step back, seeing a downward correction, but still owners are enjoying hefty returns. Charterers managed to cool off the market a bit by using own tonnage for their cargoes and at the same time cargo programs aren’t that busy for 1st decade December. We will possibly see rates coming off a bit more next week, but overall market fundamentals don’t indicate a freefall of the rates.

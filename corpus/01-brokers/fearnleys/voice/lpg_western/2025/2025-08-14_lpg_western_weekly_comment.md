@@ -1,0 +1,26 @@
+---
+id: "454e750c-9ecb-46dc-862a-85b54074449d"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2025-08-14"
+year: 2025
+week: 33
+title: "Fearnleys LPG Western Weekly Comment - 2025-08-14"
+---
+
+# Fearnleys LPG Western Weekly Comment (2025-08-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2025-08-14 (Week 33)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `454e750c-9ecb-46dc-862a-85b54074449d`
+
+---
+
+## Market Commentary
+
+US The market is largely inactive due to a couple of industry outings, and the holiday schedule is now fully engaged. That said, the few who remain in office are eyeing a buy/sell range of 4.75-5.75cpg for FOB USGC spot parcels. Cancellation talk has been growing in the meanwhile, as the freight market continues to absorb any uptick in the arb, leaving the terminal fee market perilously close engagement. The EIA yesterday reported a well-received 3.9mmbbl build, which brought overall US propane stock levels to 88.60mmbbls, or about 98% of both last year and two years ago. The US inventory levels are poised to reach the upper 90mmbbl level by end Oct, which would be satisfactory in terms of both domestic winter supplies and exports, which at this point are being well supported by domestic US production levels.

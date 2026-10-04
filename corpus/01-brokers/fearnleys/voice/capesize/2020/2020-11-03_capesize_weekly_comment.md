@@ -1,0 +1,26 @@
+---
+id: "F648CC9C-6A99-435D-A0AE-EA562BD39814"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-03"
+year: 2020
+week: 45
+title: "Fearnleys Capesize Weekly Comment - 2020-11-03"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-11-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-11-03 (Week 45)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `F648CC9C-6A99-435D-A0AE-EA562BD39814`
+
+---
+
+## Market Commentary
+
+The market has lost a lot of confident over the last week, and we are down by 18% week-on-week for the basket of all Capesize timecharter routes. The West Australian miners have not been stuck with their positions, and the Brazilian iron ore shippers have been more or less dictating the ballasters’ fixing level as owners failed to find other alternatives out of other areas. That said, there is cargo volume coming out and vessels being fixed, so the supply/demand ratio could quickly turn.

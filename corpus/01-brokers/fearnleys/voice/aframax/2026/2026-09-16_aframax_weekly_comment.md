@@ -1,0 +1,30 @@
+---
+id: "49b9b95c-1018-4ba1-8b3b-152b0697fcfd"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-09-16"
+year: 2026
+week: 38
+title: "Fearnleys Aframax Weekly Comment - 2026-09-16"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-09-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-09-16 (Week 38)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `49b9b95c-1018-4ba1-8b3b-152b0697fcfd`
+
+---
+
+## Market Commentary
+
+NSEA A less populated list, firm surrounding markets and Charterers reaching further out has all pushed the NSea up pushing close to 100 ws points since the middle of last week. Natural working window is now pushing towards 28-29 dates. The first 5 days of October stems are relatively balanced month on month but we should start to see natural tonnage come back around heading into October. Market remains firm for the time being it seems.
+
+**MED**
+
+ TCE remains massive in all markets across the West with the Mediterranean market still busy despite the withdrawal of all STS Port Said/Sidi cargoes. Ceyhan dates have pushed to end-month now while Libya is still around mid-3rd decade. The list is balanced and won't replenish too much before 22-23sep and West Med positions could give priority to the USG market.

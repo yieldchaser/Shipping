@@ -1,0 +1,34 @@
+---
+id: "63A11462-0352-4B0F-BCD9-387EEE872CA3"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-01-13"
+year: 2020
+week: 3
+title: "Fearnleys Capesize Weekly Comment - 2020-01-13"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-01-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-01-13 (Week 3)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `63A11462-0352-4B0F-BCD9-387EEE872CA3`
+
+---
+
+## Market Commentary
+
+Still very rough seas for the big ships, with the majority of the fleet trading Far East or fronthaul and consequently earning far less than the mathematical average - same being stable w-o-w at USD 9000/day. Vintage, non-eco, non-scrubber units suffering by far the most. With historically high bunker prices, scrubber-fitted ships presently earn an extra USD 8-10k/day in comparison.
+
+**Far East**
+
+ iron ore and coal volumes are fair but not sufficient to change a nervous spot sentiment.
+
+**Atlantic**
+
+ and fronthaul minerals outlook is better, but still remains to be seen if live up to expectations next few weeks. Healthy period interest, but actual activity limited and much focused on index-linked levels view poor spot and forward values - representative fixtures including spot 180,000 dwt, built 2010, for about 12 months at ave5tc plus 10 pct.

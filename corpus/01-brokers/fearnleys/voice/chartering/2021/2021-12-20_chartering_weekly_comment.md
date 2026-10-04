@@ -1,0 +1,26 @@
+---
+id: "D7380AD4-4E8B-482E-9767-4AF2780A0829"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-20"
+year: 2021
+week: 51
+title: "Fearnleys Chartering Weekly Comment - 2021-12-20"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-12-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-12-20 (Week 51)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `D7380AD4-4E8B-482E-9767-4AF2780A0829`
+
+---
+
+## Market Commentary
+
+EAST Fixing for mid-2H January in the Middle East is well underway as people start to get ready for Xmas holidays. Last done deals for non-India is around $73-75 Baltic, while one Indian Charterer paid a big premium for an early Jan cargo loading Yanbu earlier this week. We are still left with a handful of open ships during 1-10 Jan, but some of these might be sent West unless we see firm requirements for earlier dates. Further into January there is still a variety of open ships, and it remains to be seen how many uncovered cargos there are before we are done for the month. WEST The VLGC market marches on with both Eastern and Western rates improving. Having traded at a large discount for some time, Eastern VLGC rates are now trading on par (and even marginally above) its Western counterpart. In TCE terms, both key routes are now returning c. USD 56k/d, some 30-35k/d above cash breakeven levels. Looking into 2022, there are reasons for some optimism with higher prices likely stimulating further growth, first and foremost out of US but also MEG volumes on the back of higher OPEC+ output. Inefficiencies are also expected to continue aiding the supply side, particularly the Panama Canal. With 19 VLGCs pinned for delivery next year, the underlying S/D balance should be in favour of owners, with the big unknown being US propane prices and by extension product differentials. With prices down >30% from the peak, fears over product shortage have come down substantially in tandem with better weather conditions. The big question in our mind is to what extent the market is willing to price in near-term earnings for the VLGC names with an OB for 2023 that counts 45 vessels, more than the previous peak year of 44 units in 2016.

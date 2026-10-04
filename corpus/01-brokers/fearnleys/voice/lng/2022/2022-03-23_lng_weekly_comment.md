@@ -1,0 +1,26 @@
+---
+id: "1B1BE56C-E9AB-4E7F-98F7-2F80DEBEB1E7"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-03-23"
+year: 2022
+week: 12
+title: "Fearnleys LNG Weekly Comment - 2022-03-23"
+---
+
+# Fearnleys LNG Weekly Comment (2022-03-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-03-23 (Week 12)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `1B1BE56C-E9AB-4E7F-98F7-2F80DEBEB1E7`
+
+---
+
+## Market Commentary
+
+The trend in the charter market is set to continue from the previous weeks where demand for LNG vessels for a term charter has increased with various charterers issuing requirements seeking to secure tonnage over a period. The driver has certainly been security of LNG supply, given the recent geopolitical situation, however vessels are still expected to be in demand by charterers in anticipation of this year’s trading for winter, regardless of the ongoing events in Europe. These recent events have only added further demand to the already short tonnage situation for LNG vessels. As more vessels are secured by charterers on multi-year periods, the list of available modern vessels with length are diminishing over time, increasing owner’s expectations on the term charter rates. Meanwhile the spot market is relatively long with available vessels in both basins. Shipowners and subletters have been quite willing to propose competitive terms to secure spot charters during these “shoulder months” of April and May. On newbuildings, an order has been reported at Daewoo Shipbuilding & Marine Engineering (DSME) with two (2) ME-GI propelled vessels, with specifications including reliquefaction unit, air lubrication system and shaft generators. These vessels are expected to be delivered at the very end of 2025.

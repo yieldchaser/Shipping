@@ -1,0 +1,26 @@
+---
+id: "B6939556-F7E4-474A-A133-C1E0A393172F"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-04-17"
+year: 2023
+week: 16
+title: "Fearnleys Aframax Weekly Comment - 2023-04-17"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-04-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-04-17 (Week 16)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `B6939556-F7E4-474A-A133-C1E0A393172F`
+
+---
+
+## Market Commentary
+
+The North Sea Aframax market tumbled last week as activity was low and the tonnage list was mainly dominated by relets which were programmed for own cargoes. The downward pressure also increased with Suezmaxes absorbing significant volumes for local runs. It feels that market has reached the bottom for now, however any upside potential is not in the cards before May dates kick in and activity again could improve. More of the same for the BSea/Med market as well where inevitably rates took a hit and moved lower as tonnage list was long and activity was moderate. We don’t expect rates to improve massively in the short fixture but if charterers rush to secure tonnage at present levels, owners might be able to slightly push for more. Again, we need to see May volumes before this will happen.

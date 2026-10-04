@@ -1,0 +1,26 @@
+---
+id: "f037a734-8e1a-4271-9eb0-df04f7f87adb"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-07-15"
+year: 2026
+week: 29
+title: "Fearnleys VLCC Weekly Comment - 2026-07-15"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-07-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-07-15 (Week 29)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `f037a734-8e1a-4271-9eb0-df04f7f87adb`
+
+---
+
+## Market Commentary
+
+The market never sleeps of course, and ships are being picked off quietly, but the sense is nevertheless that things have slowed down as hostilities have worsen in the Middle East. President Trump reimposed a naval blockade on all Iranian ports and Tehran launched strikes on US infrastructure in the region. Early today, the US began a fresh round of strikes to continue degrading Iranian capabilities used to attack commercial shipping in the Strait of Hormuz and any further escalation involving the Strait of Hormuz or additional sanctions on Iranian exports could quickly tighten ‌market sentiment ⁠and add further risk premiums. Iran's army also said that it had launched drone attacks against US positions at Jordan's Azraq base and targeted weapons and storage facilities in Bahrain and Kuwait. War risk insurance is back in the melting pot, to the extent it is available, and with that rates reported are not necessarily comparable like for like. The devil is in the detail as the saying goes. Fujairah and Oman are now back as priority number one in addition to Yanbu of course, where possible additional risk is added as the Houthis have started saber-rattling again. Although the Atlantic has seen a bit more action as far eastern refineries seek alternative supply the market in general is left searching for direction.

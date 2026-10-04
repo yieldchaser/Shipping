@@ -1,0 +1,26 @@
+---
+id: "615812AC-D7F1-4E66-8D0D-D2F4CD7FA7CC"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-08-19"
+year: 2019
+week: 34
+title: "Fearnleys LNG Weekly Comment - 2019-08-19"
+---
+
+# Fearnleys LNG Weekly Comment (2019-08-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-08-19 (Week 34)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `615812AC-D7F1-4E66-8D0D-D2F4CD7FA7CC`
+
+---
+
+## Market Commentary
+
+During the past trading week we’ve seen a firming sentiment in all basins, but this has yet to translate into firming rates. The stronger sentiment is mainly driven by a reduction in available tonnage, a number of cargoes to work/ offer on and expectations of strong winter shipping market. Sublets are however keeping the shipping market in check but only for the time being. The sublet tonnage will eventually be required back to its original intended trades which will again set the stage for the independent owners and the winter market. In other news, Samsung has secured yet another LNGC newbuild order and Global Venture has reached FID on their 10+ MTPA Calcasieu Pass LNG project. We also congratulate Cameron LNG train 1 for starting commercial operations. Next in line may be Freeport Train 1?

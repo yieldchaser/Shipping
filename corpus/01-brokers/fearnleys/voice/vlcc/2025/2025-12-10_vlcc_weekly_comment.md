@@ -1,0 +1,26 @@
+---
+id: "209bf81a-3893-4f76-85c9-0f04df3fb776"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-12-10"
+year: 2025
+week: 50
+title: "Fearnleys VLCC Weekly Comment - 2025-12-10"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-12-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-12-10 (Week 50)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `209bf81a-3893-4f76-85c9-0f04df3fb776`
+
+---
+
+## Market Commentary
+
+VLCC rates remains at status quo in the low W120’s for MEG/east, more or less identical to last Wednesday. Owners had a go at pushing rates up yesterday, eg. offering at W150 level on a MEG/Vietnam requirement, and only a handful of punters at that. However, it landed at W123.5, albeit on a 16-year-old lady and a voyage calculating better than your standard TD3C in comparison. Notably none on the oilco/trade relets supposedly available offered in, make of that what you like. The list is still balanced, bordering on tight if relets shown is just window dressing, and although it feels more like rates are just holding some charterers may get caught out if they wait too long or must revisit and existing fixture. The Atlantic continues to lag barring the continuous flow of Brazilian export, shedding a point or two on each successive fixture, albeit on relets.

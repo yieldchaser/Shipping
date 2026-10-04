@@ -1,0 +1,26 @@
+---
+id: "3f9cf51d-07c5-4de3-96da-06fe94e27b62"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-07-09"
+year: 2025
+week: 28
+title: "Fearnleys Panamax Weekly Comment - 2025-07-09"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-07-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-07-09 (Week 28)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `3f9cf51d-07c5-4de3-96da-06fe94e27b62`
+
+---
+
+## Market Commentary
+
+The Panamax market has gained significant upward momentum this week, primarily fueled by a robust Atlantic basin. Strong demand from ECSA for late July and early August loadings has drawn in tonnage and tightened availability in the North Atlantic, leading to firmer rates for both transatlantic and front-haul voyages. This Atlantic strength has had a positive spillover effect, stimulating the previously quiet Indonesian market and lending support to a firmer tone in the Pacific. While the North Pacific remains more mixed, a healthy cargo count and tightening tonnage in the South have emboldened owners, who are holding for higher rates against a backdrop of positive FFA and overall bullish sentiment.

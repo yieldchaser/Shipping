@@ -1,0 +1,26 @@
+---
+id: "70c0d795-99af-4ae4-9c6c-923786da5c0a"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-12-04"
+year: 2024
+week: 49
+title: "Fearnleys Supramax Weekly Comment - 2024-12-04"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-12-04 (Week 49)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `70c0d795-99af-4ae4-9c6c-923786da5c0a`
+
+---
+
+## Market Commentary
+
+The Supramax and Handysize markets remained quiet, with slow activity and mixed views across the Atlantic and the Pacific. In the Atlantic, the South Atlantic felt balanced, the US Gulf rates might have hit the bottom. The Continent and Mediterranean stayed sluggish, with little fresh interest and plenty of ships putting pressure on rates. In the Pacific, things didn’t look much better. Both markets faced weak demand and longer tonnage lists, with no real change in sentiment. As the festive season kicks in, the slowdown seems to be taking hold, and rates struggled to find any upward momentum.

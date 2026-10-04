@@ -1,0 +1,26 @@
+---
+id: "324493f7-cc69-4230-a794-5d5a64905054"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-07-08"
+year: 2026
+week: 28
+title: "Fearnleys VLCC Weekly Comment - 2026-07-08"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-07-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-07-08 (Week 28)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `324493f7-cc69-4230-a794-5d5a64905054`
+
+---
+
+## Market Commentary
+
+Two steps forward and one step back. Iran and the US have been at it again trading airstrikes. And Washington has also reimposed crude sales sanctions on Tehran. You could have been fooled to think we were back to normal in the last few days with numerous enquiries and fixtures inside the MEG and rates have strengthened accordingly, but the exchange of fire underlines how fragile the situation still is. Players are likely to take a breather to see where we go from here. It will probably “blow over” but you never know after President Trump today indicated that the tentative ceasefire with Iran is over. Having been largely "dormant" lately, barring Brazilian export, focus could again change to the Atlantic for alternative supply.

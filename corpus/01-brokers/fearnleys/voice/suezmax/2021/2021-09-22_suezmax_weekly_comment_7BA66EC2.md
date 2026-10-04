@@ -1,0 +1,30 @@
+---
+id: "7BA66EC2-BA25-4411-9AA4-16BAA67CC0DB"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-09-22"
+year: 2021
+week: 38
+title: "Fearnleys Suezmax Weekly Comment - 2021-09-22"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-09-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-09-22 (Week 38)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `7BA66EC2-BA25-4411-9AA4-16BAA67CC0DB`
+
+---
+
+## Market Commentary
+
+A firmer VLCC market is likely to feed into Suezmax's at some point as owners look to recoup losses and buck recent historical lows. Simply counting ships versus cargoes may catch some participants by surprise, because as we start to hunt down the fourth quarter, you have to add "expectation" into the algorithm, which hasn't necessarily formed part of the market playbook during the last year. Another vital ingredient, MEG Suezmax enquiry, has made a return, with ships disappearing in bulk and thus handing owners additional options, as opposed to default ballasting on spec' to West Africa. Td23 has fixed a wadge of relets at WS 25, but this number is likely to uptick.
+
+**MEG**
+
+/East will threaten the WS 60 lvl within the next week whilst Td20 owners will be pushing for mid 50's.

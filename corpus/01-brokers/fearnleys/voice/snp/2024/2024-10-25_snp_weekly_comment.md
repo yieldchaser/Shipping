@@ -1,0 +1,26 @@
+---
+id: "3c2ddee3-6a30-464b-ae02-7b772e281618"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-10-25"
+year: 2024
+week: 43
+title: "Fearnleys S&P Weekly Comment - 2024-10-25"
+---
+
+# Fearnleys S&P Weekly Comment (2024-10-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-10-25 (Week 43)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `3c2ddee3-6a30-464b-ae02-7b772e281618`
+
+---
+
+## Market Commentary
+
+The tanker market this week continues to slide in unfamiliar fashion as firm buyers are finding themselves inundated with possible candidates, particularly in the 10YO+ age range. These buyers though, will likely be rewarded for showing patience while sellers begin considering interest at well below last done levels. Modern units however, continue to show resilience to this story. C.15yo MR tankers are under pressure in terms of value due to the persisting flat sentiment, however it is worth remembering that most owners of these units have enjoyed buoyant earnings and will be exiting positions well in the money. Helping price this part of the age curve AHINOS (53k DWT GSI 2007) which was sold for USD 22M. The disconnect between values and rates persists across the dry sector, with many buyers waiting in the wings at tomorrow’s prices. Owners for the most part are resilient and are not so inclined to drop their price ideas despite a lacklustre earnings environment. That said, there is still a fairly healthy amount of liquidity within the market, particularly when those price ideas are reduced. For example, scrubber fitted Ultramax pair ALWINE/AUGUST OLDENDORFF (63k DWT JMU 2014/2015) were sold SS/DD due en bloc at USD 51.5M to Greek Buyers, having failed at c.USD 30M per vessel during the summer. In the modern Ultramax sector GREENWICH PIONEER (63k DWT Nantong Xiangyu 2020) was sold for USD 32.5M with TC attached until March 2026.

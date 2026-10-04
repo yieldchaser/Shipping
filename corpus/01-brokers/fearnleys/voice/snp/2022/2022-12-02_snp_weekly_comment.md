@@ -1,0 +1,26 @@
+---
+id: "6796DC0E-8C36-45A9-B126-A0C686EFFFFB"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-12-02"
+year: 2022
+week: 48
+title: "Fearnleys S&P Weekly Comment - 2022-12-02"
+---
+
+# Fearnleys S&P Weekly Comment (2022-12-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-12-02 (Week 48)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `6796DC0E-8C36-45A9-B126-A0C686EFFFFB`
+
+---
+
+## Market Commentary
+
+Tanker market players must be running out of superlatives to describe the market, as another bullish week comes to a close. Ice class 1A Aframaxes SAMRAA ALKHALEEJ & ALHANI (114K DWT 2006/07 SAMSUNG HI) sold for USD 86m enbloc, representing an over 30% jump in price compared to the last done back in October (PAROSEA/BLUESEA 113K DWT 2006 SAMSUNG HI FOR USD 62.5m enbloc). Market players seem to be recognising the inflated price environment, as Marinakis’ Capital ship management penned orders at New Times for 2x 115K DWT LR2 Tankers at USD 60m each. Elsewhere, MR GWN2 (50K DWT 2020 SAMSUNG HI) sold for USD 38.5m to Japanese buyers in an internal sale. The dry market will be buoyed by the news China are soon to be easing their long standing COVID restrictions, however, such effects from this easing will take time before reflecting in rates and values. More market jostling this week saw 2 transactions in the Kamsarmax sector LOWLANDS COMFORT (81K DWT 2016 TSUNEISHI CEBU) and DL CARNATION (81K DWT 2014 JIANGSU EASTERN HI), sold for USD 26.4m and USD 18.8m respectively. In the modern Ultramax space, ITALIAN BULKER (63K DWT 2017 SHIN KASADO) was sold for USD 26m.

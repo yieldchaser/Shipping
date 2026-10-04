@@ -1,0 +1,26 @@
+---
+id: "BFB38770-AF21-48BB-8BAD-1AAA4E047BED"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-12"
+year: 2020
+week: 20
+title: "Fearnleys Aframax Weekly Comment - 2020-05-12"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-05-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-05-12 (Week 20)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `BFB38770-AF21-48BB-8BAD-1AAA4E047BED`
+
+---
+
+## Market Commentary
+
+With a large proportion of available vessels on the tonnage list in the North Sea and Baltic being relets, we had as a result less spot cargoes in the market. As activity cooled off a little rates came off accordingly down to ws105 level. This week we have seen a bit more activity and owners holding back and thoroughly calculating returns on each cargo being proposed. Sentiment has changed a bit and we could see rates firm further in the week to come. In the Mediterranean and Black Sea, we have seen some activity this week with a healthy flow of fresh cargoes coming into the market, among them quite a few FO stems with options going East. However, the tonnage list is still long and with a number of ships available in the natural fixing window, rates have more or less remained at steady levels throughout the week. In the week to come we expect the market to keep on moving sideways, if not a slightly softening trend.

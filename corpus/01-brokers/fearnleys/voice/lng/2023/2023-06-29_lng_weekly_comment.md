@@ -1,0 +1,26 @@
+---
+id: "F41467B8-D711-42F5-9E59-A49C4ED1FED6"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-06-29"
+year: 2023
+week: 26
+title: "Fearnleys LNG Weekly Comment - 2023-06-29"
+---
+
+# Fearnleys LNG Weekly Comment (2023-06-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-06-29 (Week 26)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `F41467B8-D711-42F5-9E59-A49C4ED1FED6`
+
+---
+
+## Market Commentary
+
+This week the LNG shipping market remained buoyant with a number of fixtures being concluded. In its wake, July cargoes across both basins have been covered and the market turns its attention to August and September. Whilst that might sound bearish for prompt demand, July has, so far, set the record in 2023 for fixtures by delivery month. Given this backdrop, perhaps it is not surprising that fixtures this week have focused on laycans in 2H August and 1H September, however, this is a marked change compared to last year when owners valued tonnage so dearly that they only looked to commit to prompt laycans rather than to offering freight further out (and thereby losing out on contango opportunities). This is perhaps the most important item to consider this week, particularly thinking about what it may imply for the rest of Q3. National holidays will affect demand (and reduce activity) for the rest of this week yet there remains apparent length in the Atlantic as intra-basin trade returns tonnage in time to service the next USG requirements. This may in turn see the freight market continue on a flat trajectory, at least for now, despite the expectation that rates will improve through the latter part of Q3 and into winter. The Pacific remains balanced and given the shorter voyage length, as well as the propensity for projects to keep their surplus tonnage within the region, charterers have a little more time to consider their options. No new activity was witnessed in the newbuilding market this week, and whilst prices remain stable, we continue to experience more upward pressure than anything else.

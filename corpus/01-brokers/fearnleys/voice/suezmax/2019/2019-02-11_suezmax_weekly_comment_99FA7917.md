@@ -1,0 +1,30 @@
+---
+id: "99FA7917-21FE-4CA2-A5B5-4E5622F0EB94"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-02-11"
+year: 2019
+week: 7
+title: "Fearnleys Suezmax Weekly Comment - 2019-02-11"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-02-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-02-11 (Week 7)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `99FA7917-21FE-4CA2-A5B5-4E5622F0EB94`
+
+---
+
+## Market Commentary
+
+The Suezmax market has been a mix of bewilderment and an acceptance of reality as the continued slow pace of firm cargoes working has continued to sap owners of their resilience.
+
+**WAfr**
+
+ saw a drip feed of cargoes for early March dates and rates have been somewhat voyage sensitive but TD20 has fallen to ws67.5 and earnings sub 20k/day. Delays in the Turkish straits have reduced but this has not really affected market rates significantly, TD6 has fallen away to ws87.5 and the potential to soften even further. The outlook unfortunately in the week ahead is for more of the same with a softer tone across the board prevailing.

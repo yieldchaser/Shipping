@@ -1,0 +1,26 @@
+---
+id: "54121E11-74EF-4199-81E1-FDE077AA330C"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-16"
+year: 2020
+week: 47
+title: "Fearnleys S&P Weekly Comment - 2020-11-16"
+---
+
+# Fearnleys S&P Weekly Comment (2020-11-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-11-16 (Week 47)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `54121E11-74EF-4199-81E1-FDE077AA330C`
+
+---
+
+## Market Commentary
+
+This week has seen a flurry of transactions in the dry sale and purchase markets with vessels changing hands across all segments. The increased buying enquiry witnessed over the past weeks in the kamsarmax segment has met a flow of sales candidates with 7 units changing hands this week alone. Four of which were sold as part of Scorpios Bulks divestment programme. Off the back of this increased liquidity values remain well supported and we expect them to remain flat as long as tonnage continues to be made available for sale. Despite only a handful of sales to report on the tanker front, activity remains high in the sector with a number of upcoming inspections and ongoing discussions. We expect further activity in the Aframax segment with four units inviting offers next week. This is following a number of sales which should give a clear idea of what direction values will take going forward.

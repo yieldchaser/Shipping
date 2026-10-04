@@ -1,0 +1,26 @@
+---
+id: "1354ce06-7b8b-4bcd-952b-ca59f6f0ce0e"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-03-07"
+year: 2025
+week: 10
+title: "Fearnleys S&P Weekly Comment - 2025-03-07"
+---
+
+# Fearnleys S&P Weekly Comment (2025-03-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-03-07 (Week 10)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `1354ce06-7b8b-4bcd-952b-ca59f6f0ce0e`
+
+---
+
+## Market Commentary
+
+Despite a relatively busy week, the transactions tell a story of the difficulties plaguing the current tanker markets. Pricing clarity has been hard to come by, particularly on older tonnage where trading history and KYC scrutiny form a key part of the deal. Such is the uncertainty on pricing, that we see 2x VLCCs sold, USD 10M difference in price despite only being one year apart in age. Also laid bare are the changes seen in the modern MR space. Empire Navigation bought Scrubber fitted NORD SWIFT (49K DWT STX 2015) for USD 33.25M, marking a significant correction from last done transactions in Summer last year where comparable units were transacted at xs USD 42M. Buyers can still be found on older tonnage too with TORM offloading 3x older units for USD 15M each, lower than their original ideas when initially marketed, but still at extremely healthy levels for 20-year-old MRs. A mixture of headlines this week as momentum and confidence are being built in the earnings market, represented in cape futures eclipsing USD 20K/day, while also one of shipping’s most influential players John Fredriksen turned his back on the segment entirely. Fredriksen sold his 40.8% stake in Golden Ocean to Saverys family lead CMB.Tech, ensuring the company remains in experienced shipping hands, while giving him an exit at a premium. Overall, sentiment in the dry market remains cautious, with industry eyes and hopes pinned mostly on Chinese demand for shoots of genuine recovery. Transaction wise, scrubber fitted DREAM STAR (81K DWT Tadostsu 2014) was sold from Japanese control to Greeks Brave Maritime for USD 20.5M. Elsewhere, ss/dd freshly passed KMARIN OSLO (63K DWT Jiangsu New Hantong 2015) sold for USD 22M.

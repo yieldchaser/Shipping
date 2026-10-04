@@ -1,0 +1,30 @@
+---
+id: "1787E2C1-BF4D-41CF-94DC-6A488105EE16"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2020-08-17"
+year: 2020
+week: 34
+title: "Fearnleys LPG Eastern Weekly Comment - 2020-08-17"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2020-08-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2020-08-17 (Week 34)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `1787E2C1-BF4D-41CF-94DC-6A488105EE16`
+
+---
+
+## Market Commentary
+
+**MEG:** Sep Propane CP stands firm at $365 level, while spread against butane narrows down to $10. Saudi Aramco released their Sep acceptance as per term lifters’ nomination, except for some ratio switch to more butane. FOB discussions improved from pervious CP minus 30s to minus 20s with better netbacks from India. KPC was reported to sell its 19/20th Sep lifting 2/2 at CP minus low 20s.
+
+**FAR EAST**
+
+: 1h Sep discussions are muted while 2h Sep deals are active this week. Cash differentials for 2h Sep delivery inched higher, with 23kt propane for this period traded at FEI minus $10-12. Full propane cargo for 2h Sep arrival was placed into NChina at around CP flat, while evenly split cargo for late Sep delivery was sold at CP plus low teens. Taiwan CPC has secured one 22k butane for Sep/Oct delivery at CP plus mid 20s via tender. And similarly, one SChina importer also purchased one late Sep arrival 11/11 parcel at CP plus 20ish.

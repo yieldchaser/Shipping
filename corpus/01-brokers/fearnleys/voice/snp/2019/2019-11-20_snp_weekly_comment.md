@@ -1,0 +1,26 @@
+---
+id: "421D6361-BB2B-4C85-B498-299001E4E8E0"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-20"
+year: 2019
+week: 47
+title: "Fearnleys S&P Weekly Comment - 2019-11-20"
+---
+
+# Fearnleys S&P Weekly Comment (2019-11-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2019-11-20 (Week 47)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `421D6361-BB2B-4C85-B498-299001E4E8E0`
+
+---
+
+## Market Commentary
+
+The headline story this week has been the auction sale of six year old VLCC “BRIGHTOIL GEM.” This was an online auction sale (local “Ebay”) in China and we understand only two buyers participated. This is clearly a bargain for the buyers, our read being they are USD 10 mill in the money after DD and BWTS completed. We fail to understand the commercial logic behind this deal and we do not consider this a bench-mark sale due to the sales process. Most other deals coming to light this week are yesterday’s news. The only significant deal concluded at today’s numbers is Zodiac selling aframax VIRGO SUN 115k dwt blt 2007 Sasebo at USD 26 mill. In our book this equates to low 30’s for a suezmax of similar age. Zodiac as always proving to be an agile player willing to take a profit when possible. Zodiac purchased the vessel in October 2013 for low 25’s. Dry bulk values are falling on the back of a growing pool of sales candidates. Kamsarmax KM TOKYO built 2010 Sanoyas is rumoured sold at high 15’s which is certainly on the low side of expectations.

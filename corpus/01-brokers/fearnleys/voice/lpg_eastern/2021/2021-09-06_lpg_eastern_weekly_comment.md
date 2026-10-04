@@ -1,0 +1,30 @@
+---
+id: "D5487158-9062-4C15-BD74-C514FA738287"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2021-09-06"
+year: 2021
+week: 36
+title: "Fearnleys LPG Eastern Weekly Comment - 2021-09-06"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2021-09-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2021-09-06 (Week 36)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `D5487158-9062-4C15-BD74-C514FA738287`
+
+---
+
+## Market Commentary
+
+MEG At the time of writing, Oct Propane CP was traded at $694, however butane was traded from $4-5 higher to flattish level. FOB discussions were muted this week, cash premium for evenly split cargos softened from previous healthy premium to flattish level on FOB netbacks, as most Indian buyers covered their spot purchases for Oct and not yet to see new demand emerge.
+
+**FAR EAST**
+
+ Cash premium for Oct delivered cargos fell this week, due to ample supply against limited buying inquires, affected by eroding margins either in residential or petchem segments. 23kt propane parcel for 1h Oct delivery was offered at FEI minus $6 with no bids seen, and similar cargo for 2h Oct range was offered at FEI minus $2 and bids at minus $10. Off window earlier this week, one full cargo propane for 2h Oct delivery was traded at Oct FEI minus low single digit basis NChina. And similar cargo was sold at minus high single digit basis Chiba. One Chinese major tendered a few times to secure 3 lots of 23kt propane parcels for Oct delivery, among which two were reported done at FEI minus low single digit and CP plus around $30 respectively. One EChina petchem player also tendered to buy 23kt to 46kt propane for mid/2h Oct delivery for cracking use. Additionally, one SChina importer purchased a 11/11 parcel for Oct delivery at Oct CP plus 30ish.

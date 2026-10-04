@@ -1,0 +1,30 @@
+---
+id: "8AA0C0E5-CE4D-465D-9917-82E5FD82515C"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-07-12"
+year: 2023
+week: 28
+title: "Fearnleys Aframax Weekly Comment - 2023-07-12"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-07-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-07-12 (Week 28)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `8AA0C0E5-CE4D-465D-9917-82E5FD82515C`
+
+---
+
+## Market Commentary
+
+NORTH Rates for Aframax rates trading in the North Sea area have been hovering around similar levels for the last week or so. The tonnage list is looking tight for the current fixing windows as not all ships on the list will clear some of the strategic loading ports. There is also a lot of relets open in the area which could absorb the upward pressure. Unless we see some more owners ballasting towards the USG, we expect the market to remain at current levels in the natural fixing window.
+
+**MED**
+
+ The Med/BSea market kept losing ground this week despite healthy activity levels in the area. Available tonnage was more than enough with charterers taking advantage of it by pushing rates a tad lower on every deal. Fixing window has reached quite ahead even for end-month dates for local runs ex Ceyhan, and the market conditions are not expected to change any time soon.

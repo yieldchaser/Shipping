@@ -1,0 +1,26 @@
+---
+id: "784B68D2-FC4A-4F4B-B605-EAB66C52C4B5"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-02-25"
+year: 2020
+week: 9
+title: "Fearnleys LNG Weekly Comment - 2020-02-25"
+---
+
+# Fearnleys LNG Weekly Comment (2020-02-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-02-25 (Week 9)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `784B68D2-FC4A-4F4B-B605-EAB66C52C4B5`
+
+---
+
+## Market Commentary
+
+The tone of the market hasn’t changed this week and a muted IP week attendance in London sums up the LNGC market. Headline rates continue their decline in tandem with ballast bonus sentiment, although market activity remains strong with numerous vessels coming into the week on subs and look set to go clean this week. The problem is more vessels keep turning up in all four corners of the globe at a rate above the number of vessels re-entering employment. Some charterers are looking to make the most of the situation with some conversations being protracted as charterers turn the screw in an effort to secure even lower econs. Cargo demand remains weak along with relatively low margins, and this is fueling a further squeeze on owners more than normal both for spot and multi-month charters. New build activity remains quiet whilst live tenders continue to assess offers and prices remain stable. In short, it will take a few months and potentially longer to rebuild the sentiment and clear the tonnage currently sitting on the water with prompt availability. We watch with interest.

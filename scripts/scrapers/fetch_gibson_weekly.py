@@ -209,5 +209,19 @@ def fetch_latest_gibson_rates():
 
         print(f"Gibson update finished: {len(final_rows)} total dates (from {initial_count}, added/updated {new_obs} rate points).")
 
+    # Incrementally trigger HTML report parser to update Markdown, tables, and Excel
+    try:
+        from extract.publishers.run_gibson_html import run_gibson_html_pipeline
+        run_gibson_html_pipeline()
+    except Exception as e:
+        # Fallback direct path
+        try:
+            import sys
+            sys.path.insert(0, str(REPO_ROOT / "scripts"))
+            from extract.publishers.run_gibson_html import run_gibson_html_pipeline
+            run_gibson_html_pipeline()
+        except Exception as e2:
+            print(f"  [Note] HTML extraction trigger note: {e2}")
+
 if __name__ == "__main__":
     fetch_latest_gibson_rates()

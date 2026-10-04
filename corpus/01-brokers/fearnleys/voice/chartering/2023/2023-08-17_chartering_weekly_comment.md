@@ -1,0 +1,26 @@
+---
+id: "094aa133-c7df-4cd6-8746-b9c0023e6fb5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-08-17"
+year: 2023
+week: 33
+title: "Fearnleys Chartering Weekly Comment - 2023-08-17"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-08-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-08-17 (Week 33)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `094aa133-c7df-4cd6-8746-b9c0023e6fb5`
+
+---
+
+## Market Commentary
+
+EAST The Eastern market has been quiet this week compared to the West. Positions still look healthy before 10th September in MEG, but about half of them are coming out of India (dates may be deferred) and some may go to West, so eventually it could be balanced. So far we have only seen two spot fixtures in the first decade of September, but with Saudi acceptances expected by tomorrow we should expect more activity to come. WEST We are no longer seeing any ships left in the end of August and the first available position in the USG we now find from 19-20 Sep onwards. This position is followed by a small handful of about 5 workable ships in the last decade of the month where 3 of them are still candidates for MEG. At the time of writing, we count 25 spot fixtures for September ex USG/USEC with last done concluded at 170 H/C and high 90s H/F. Seeing the arb still wide and delays caused by both the Panama Canal and extreme weather, in addition to a relatively tight position list, we can expect today’s strong freight rates to maintain.

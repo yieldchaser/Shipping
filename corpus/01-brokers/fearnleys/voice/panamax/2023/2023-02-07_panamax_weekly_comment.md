@@ -1,0 +1,26 @@
+---
+id: "5B9ED844-E32F-44A8-8BAE-45F4980D7856"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-07"
+year: 2023
+week: 6
+title: "Fearnleys Panamax Weekly Comment - 2023-02-07"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-02-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-02-07 (Week 6)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `5B9ED844-E32F-44A8-8BAE-45F4980D7856`
+
+---
+
+## Market Commentary
+
+The recent declines in the market failed to diminish again this week with further cheaper rates reported trading and fixed. This said, in some quarters came talk that owners’ resistance appeared a tick more resolute with hopes for some of a floor being found in the market, but evidence was in short supply with both basins losing further ground.

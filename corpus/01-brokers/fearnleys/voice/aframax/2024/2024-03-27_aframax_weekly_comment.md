@@ -1,0 +1,34 @@
+---
+id: "5243d244-c8e5-467c-b89a-66342d625878"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-03-27"
+year: 2024
+week: 13
+title: "Fearnleys Aframax Weekly Comment - 2024-03-27"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-03-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-03-27 (Week 13)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `5243d244-c8e5-467c-b89a-66342d625878`
+
+---
+
+## Market Commentary
+
+**NSEA:** Market has seen some activity the last couple of days with rates moving sideways.
+
+**North Sea**
+
+ crude stems look to be almost covered for at least the first 5 days of April and with relets/ Vlcc’s and Suezmax in the equation probably closer to the 10th. This could leave the market lacking in opportunity up to the end of the first decade. Surrounding markets still attractive to ballast out of the North but the volume ballasting has petered somewhat.
+
+**MED**
+
+: Rates steady/softer even with some pre-Easter long weekend activity as Charterers worked ahead to fill their programmes. Early Libyan stems are slight for 1st decade April already jumping toward mid-first decade dates whilst Ceyhan and CPC push on in to the second decade fixing window. A good number of units scheduled to discharge end/ely in this region so come next week there is potential for some downward pressure on rates.

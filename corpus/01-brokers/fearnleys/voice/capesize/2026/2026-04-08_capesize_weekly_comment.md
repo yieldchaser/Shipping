@@ -1,0 +1,26 @@
+---
+id: "e39d82ef-848f-430c-886a-2d6ebb6adfd9"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-04-08"
+year: 2026
+week: 15
+title: "Fearnleys Capesize Weekly Comment - 2026-04-08"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-04-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-04-08 (Week 15)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `e39d82ef-848f-430c-886a-2d6ebb6adfd9`
+
+---
+
+## Market Commentary
+
+This week on Capesize, Pacific trades steady but slightly softer. C5 (West Australia/China) stems have seen multiple fixtures done at USD 12.25-12.4 for 21-24 April dates. Overall Pacific tone is firm but under pressure. In the Atlantic we are seeing firm undertones but two tiered, with steady activity for Brazil and West Africa stems. Physical offers for mid-May laycans are still seeing high USD 31-32, with some guiding 32 on standard Cape for Brazil/Qingdao C3 stems. North Atlantic tonnage remains tight, keeping owners bullish for transatlantic and fronthaul runs. Transatlantic routes are steady with selective upside on fronthaul, supported by firm Pacific returns. Overall, the Cape market has regained traction post-holiday. C3 (Brazil/China) 21-30 April offers USD 30.75, 1-10 May offers USD 31.8, 11-20 May offers USD 32. C5 (West Australia/China) 21-23 April fixtures done USD 12.25, 22-24 April fixtures done USD 12.4.

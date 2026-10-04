@@ -1,0 +1,30 @@
+---
+id: "EF9D2029-BC18-4C4E-B4F9-DB1412E43173"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-11-21"
+year: 2022
+week: 47
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-11-21"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-11-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-11-21 (Week 47)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `EF9D2029-BC18-4C4E-B4F9-DB1412E43173`
+
+---
+
+## Market Commentary
+
+MEG At the time of writing, Dec C3 CP was traded firm at $648, and C4 at parity to C3 despite the crude drop. 1st round C3 CP recommendation ranged from $635 to $645, and C4 was at $5 less to flattish. Dec/Jan CP widened further from last week’s $9 to $29, reflecting the front strength and bearish outlook for forward market. Qatar Petroleum issued private tender to sell late Dec lifting full propane cargo but was cancelled reportedly as bids are not satisfactory.
+
+**FAR EAST**
+
+ Cash premium soared up due to extended Panama delays. 23kt propane for 2h dec delivery was changed hand at Dec FEI plus hi 20s earlier and surged to hi 30s during mid-week. Similar cargo for 1h Jan delivery was bid at FEI plus low 30s and yet to see firm offers. Off window some importers refrained from buying especially petchem players as of poor margins. FPCC cancelled their buy tender for late dec to early Jan delivered 33/11 or 11/11 cargo due to the high offers. HTC was reported to award their buy tender for 23kt propane delivered late Dec to early Jan, at FEI plus 20s. One EChina PDH user cancelled their term buy tender also due to high offers resulted by the rising freights and volatile forward curve. For Dec solely, FEI/CP once was widened to $62 earlier and quickly narrowed to $41.

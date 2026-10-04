@@ -1,0 +1,30 @@
+---
+id: "3FD7C847-9457-42B5-865D-99E889093763"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-08-12"
+year: 2020
+week: 33
+title: "Fearnleys Capesize Weekly Comment - 2020-08-12"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-08-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-08-12 (Week 33)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `3FD7C847-9457-42B5-865D-99E889093763`
+
+---
+
+## Market Commentary
+
+Spot again moving north for the big ships, on a combination of commodity trading fundamentals, crewing issues related to Covid-19 and expected effects of new Chinese customs procedures. Whilst iron ore trade volumes are at year-high and import stockpile quantities drop, supply of tonnage may be reduced as crew-changing becomes an ever more complicated task. Adding to this, dramatically increased time required for Chinese customs clearance may tie up a further massive number of ships.
+
+**Far East**
+
+ levels are marginally down as only one major miner and a handful of operators picking ships for the west Australia/China conference trade, coming in at around USD 7.90-8.20 pmt depending on age/position. Picture is rapidly changing for the Brazil/China trade, where sentiment and fundamentals have brought levels from USD low 16's to more than USD 18.00 pmt in just a few days - further improvements expected. Paper levels follow suit, and increased period activity/pay apparent.

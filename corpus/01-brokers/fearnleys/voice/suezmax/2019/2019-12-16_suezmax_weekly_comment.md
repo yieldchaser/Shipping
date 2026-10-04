@@ -1,0 +1,26 @@
+---
+id: "EB0F56E6-4C81-47EA-96D0-E3DFCE941114"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-12-16"
+year: 2019
+week: 51
+title: "Fearnleys Suezmax Weekly Comment - 2019-12-16"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-12-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-12-16 (Week 51)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `EB0F56E6-4C81-47EA-96D0-E3DFCE941114`
+
+---
+
+## Market Commentary
+
+In the beginning of the week, the Suezmax market world-wide looked fairly balanced, and it looked like we would have a situation where owners would be keen to fix their ships before the holidays without putting too much pressure on the charterers. After a very busy Tuesday, tables have turned, and charterers are now the ones that need to fix their cargoes in time for Xmas. The rest of the week, we could see rates moving further with tight position lists in the Atlantic as well as MEG. Still quite a lot of cargoes left uncovered, so the rest of the year is looking really interesting.

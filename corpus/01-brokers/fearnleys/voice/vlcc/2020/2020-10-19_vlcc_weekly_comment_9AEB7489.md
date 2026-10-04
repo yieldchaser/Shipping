@@ -1,0 +1,26 @@
+---
+id: "9AEB7489-726B-438D-9D75-CE6860BEA481"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-19"
+year: 2020
+week: 43
+title: "Fearnleys VLCC Weekly Comment - 2020-10-19"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-10-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-10-19 (Week 43)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `9AEB7489-726B-438D-9D75-CE6860BEA481`
+
+---
+
+## Market Commentary
+
+Flat and sideways are probably the best ways to sum up the past seven days. Considering much of the week has fallen in the twilight zone prior to the November stems release, that is perhaps not a bad thing for owners. Rates for modern MEG/East have steadied just below the WS30 level, and decent Wafr/East and Brazil/East volume at a point or so more. Despite the October MEG count following in the same pattern as the previous 4 months (of approx. 100 fixtures ex MEG), the position list has not spiralled to ever increasing lengths. Owners reporting this week of delays getting through China, with ships drifting back a week or so for discharge. Also, the number of vessels choosing this quiet/soft period to enter dry dock is extensive, with around 50 VLCCs either just come out, just gone in, or patiently waiting their turn.

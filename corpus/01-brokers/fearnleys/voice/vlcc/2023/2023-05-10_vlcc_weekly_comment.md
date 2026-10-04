@@ -1,0 +1,30 @@
+---
+id: "4504864C-D97C-442F-9ABB-A5CE5166672E"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-05-10"
+year: 2023
+week: 19
+title: "Fearnleys VLCC Weekly Comment - 2023-05-10"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-05-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-05-10 (Week 19)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `4504864C-D97C-442F-9ABB-A5CE5166672E`
+
+---
+
+## Market Commentary
+
+It is likely the VLCC market has found the base around the WS 40-41 level MEG/China and a little below that for voyages with better freights, and things are looking up. With many vessels fixing under the radar there is certainly more going on than meets the eye and as such ships disappearing off a (albeit long) list. In these situations, it is often an uptick in volume of USG cargoes that drive the market upwards and right on cue for owners, we have seen 10 or so cargoes fixing ex USG in the last few days. This, coupled with a busy Suezmax market and the clear temptation for VLCC’s to move in on their smaller sisters turf.
+
+**Wafr**
+
+ UKC fixing at WS 52.5 and USG/East at USD 6.6m.

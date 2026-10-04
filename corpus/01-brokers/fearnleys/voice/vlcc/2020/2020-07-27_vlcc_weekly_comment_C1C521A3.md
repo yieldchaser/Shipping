@@ -1,0 +1,26 @@
+---
+id: "C1C521A3-F843-4898-B072-5152CC7FE6DD"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-07-27"
+year: 2020
+week: 31
+title: "Fearnleys VLCC Weekly Comment - 2020-07-27"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-07-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-07-27 (Week 31)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `C1C521A3-F843-4898-B072-5152CC7FE6DD`
+
+---
+
+## Market Commentary
+
+The VLCC market continues to stumble along at more or less unchanged levels from a week ago, the MEG/East being in the mid WS 30’s for modern tonnage with the normal discounts available for older and restricted units. Volumes are marginally up from the last couple of months, reflective of the increased production, but rates stay put. Tonnage supply remains plentiful allowing charterers ample choice, whatever their preference, and owners appear happy to fix and get out of Dodge for the summer. On the plus side it seems to be holding 'firm' around current levels, and earnings in the high teens/low USD 20's/day is currently just a dream scenario for the other smaller classes. The Atlantic has fared a tad better with West Africa/East leading the way, rates coming in around the WS 40 mark, although for a considerably longer commitment.

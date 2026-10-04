@@ -1,0 +1,26 @@
+---
+id: "22307a73-88be-413a-a4f0-d3ff733d9978"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-12-18"
+year: 2024
+week: 51
+title: "Fearnleys Panamax Weekly Comment - 2024-12-18"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-12-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-12-18 (Week 51)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `22307a73-88be-413a-a4f0-d3ff733d9978`
+
+---
+
+## Market Commentary
+
+The Panamax market has faced further downward pressure this week, with rates continuing to slide amid weak sentiment and oversupply across both the Atlantic and Pacific regions. In the Atlantic, despite slightly improved transatlantic volumes, the abundance of available tonnage - particularly in the East Mediterranean - has kept rates under strain, while fronthaul routes remain depressed due to limited Black Sea activity and pressure from ballasting towards Gibraltar. The Pacific saw minimal cargo replenishment, with bid-offer spreads narrowing further as vessel oversupply continues to dominate. Owners are under pressure to accept lower rates, with no clear floor yet in sight. Looking ahead, optimism is pinned on record-high Brazilian soybean exports expected to begin early next year, but for now, the market remains subdued as it heads into the holiday season.

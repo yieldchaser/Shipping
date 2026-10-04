@@ -1,0 +1,26 @@
+---
+id: "06a14da2-5a22-437a-8e41-71a4b3126b7f"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2025-01-23"
+year: 2025
+week: 4
+title: "Fearnleys LPG Western Weekly Comment - 2025-01-23"
+---
+
+# Fearnleys LPG Western Weekly Comment (2025-01-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2025-01-23 (Week 4)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `06a14da2-5a22-437a-8e41-71a4b3126b7f`
+
+---
+
+## Market Commentary
+
+US While the January spot FOB market is fully complete at this point, the February market is quiet from both the buyer and seller perspectives. Some mid and 2H Feb interest remains, but availability is limited. March interest has begun to surface, however, and where terminal fees had been in decline – having fallen to the upper single-digit range – sellers feel as though the pendulum has begun to swing back in their direction and as such are openly discussing transactions 10.50cpg and at 11.00cpg. Nothing is known to have transpired as yet, however. Meanwhile, the US is just emerging from a large weather system which enveloped the nation in bitter cold temperatures; the kind that can cause natural gas freeze-offs at field production locations such as the Permian, where the bulk of the NGLs are produced. It is reported that something between 10-15% of production was lost which, along with (then) rising crude values caused MB propane prices to increase. The weather, and subsequently the pricing structure, are moderating at this point, however. As for the EIAs, total US stock levels per the EIA this week came in at 74.1mmbbls, down 3.8mmbbls from the week prior, and generally in line with expectations. Production figures were recorded at 2.605mmbbls/day, just off the 2025 YTD average of 2.635mmbbls/day. Export volumes as of 17 Jan were listed at 1.760mmbbls/day, off slightly from last week and just below the average of 1.780mmbbls/day.

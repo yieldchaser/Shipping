@@ -1,0 +1,30 @@
+---
+id: "A1F19B6B-FADC-40A3-B9E6-CFE1BB798649"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-19"
+year: 2021
+week: 20
+title: "Fearnleys Supramax Weekly Comment - 2021-05-19"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-05-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-05-19 (Week 20)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `A1F19B6B-FADC-40A3-B9E6-CFE1BB798649`
+
+---
+
+## Market Commentary
+
+Quiet start to the week with careful market development. Feeling of market slowing down or perhaps stabilizing is the right way to describe it. However positive sentiment and BSI in the green gives room for optimism. Spot market in Atlantic is more quiet and lacking fresh cargo flow. Mediterranean and Continent a bit slow due to the prolonged Russian holidays from last week. Tonnage list is getting longer and cargo clearing out. Rates from Med to West Africa steady fixing in region USD 20k-23k. From Continent to East Med we have seen fixtures done around low USD 20k pd.
+
+**USG**
+
+ is flat and well balanced. Supra was reporting loading in USG TCT to Japan USD 27k. ECSA is active and we see more fresh grain stems appearing on the market. Ultramax USD 20k plus USD 1 mill. GBB for trip to Spore-Japan. NOPAC RV on Ultramax is about USD 28k and backhaul Supramax paying close to USD 28k with delivery China. India Ocean is on alert due to the pandemic situation in India, however demand for tonnage remain strong. Period market is dominating in the area where owners asking USD 30k for min 6 months period on Ultramax deliver MEG-WC India.

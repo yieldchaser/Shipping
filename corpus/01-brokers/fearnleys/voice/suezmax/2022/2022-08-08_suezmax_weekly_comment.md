@@ -1,0 +1,26 @@
+---
+id: "CF66FE77-1904-4B43-A7B7-6CE41FF881CC"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-08-08"
+year: 2022
+week: 32
+title: "Fearnleys Suezmax Weekly Comment - 2022-08-08"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-08-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-08-08 (Week 32)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `CF66FE77-1904-4B43-A7B7-6CE41FF881CC`
+
+---
+
+## Market Commentary
+
+The Suezmax market have been absolutely nothing to talk about the last week. Activity has been almost non-existing and the whole market have basically been waiting for a downward correction. This all changed yday with activity picking up in the USG on Afras, in addition to V's looking a bit better. The USG market is more attractive for ships open Cont/Med and the only ship willing to look at Wafr will be eastern ballasters. All of this will limit available tonnage in these markets, hopefully keeping rates close to last done levels. In the MEG, it’s still rather quiet, except from short voyages into India. A lot of ships still looking Wafr or Bsea instead, so we expect the MEG market to remain around current levels.

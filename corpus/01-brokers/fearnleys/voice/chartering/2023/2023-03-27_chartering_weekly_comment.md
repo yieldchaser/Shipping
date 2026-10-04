@@ -1,0 +1,26 @@
+---
+id: "C2A60926-A4F3-4348-A67F-91BF83DEF1A8"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-03-27"
+year: 2023
+week: 13
+title: "Fearnleys Chartering Weekly Comment - 2023-03-27"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-03-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-03-27 (Week 13)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `C2A60926-A4F3-4348-A67F-91BF83DEF1A8`
+
+---
+
+## Market Commentary
+
+EAST Baltic keeps dropping across the board on the back of a weaker product market coupled with a lack of firm shipping requirements. So far we have seen 11 spot deals concluded in April in the Middle East (6 in first decade and 5 in the second) and it remains to be seen how many cargoes will be available until the last decade of April. Some of the early April positions are expected to head West, but with an equally slow market in this region little help is found to shorten the list in the East so far. WEST With well over a week without any spot fixtures in the West and freight rates dropping fast, we are now finally seeing willingness to fix after an Indonesian spot tender came out in the market for early May dates in USG. We now see a handful of uncovered cargoes out there for end April/early May with freight ideas around USD 110 H/C, which is a huge discount compared to the East. The position list still shows 8-9 ships left in April and it remains to be seen if there are enough cargoes to cover them all or if some of them will roll over to early May dates.

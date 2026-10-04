@@ -1,0 +1,26 @@
+---
+id: "934D683B-CEC4-4211-B4D6-FD0A475228A5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-10-18"
+year: 2021
+week: 42
+title: "Fearnleys Chartering Weekly Comment - 2021-10-18"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-10-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-10-18 (Week 42)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `934D683B-CEC4-4211-B4D6-FD0A475228A5`
+
+---
+
+## Market Commentary
+
+EAST With the final round of acceptances being published at the start of the week November fixing has kicked off in due course. So far, the activity has mainly been focused around Indian PSUs who’s already quoted a handful of cargoes for the early part of the month. Freight has steadily been increasing in the East and while the West, so far, has been more flattish, West premium has diminished leading a few more vessels towards the East. It remains to be seen how long this will last as rate ideas in the West now is starting to increase. WEST As we are over halfway through October, fixing window is mainly 3rd decade November in the US. Relets are disappearing quickly and more than a handful owner controlled ships are fixed or on subs. The freight rates have been stable around mid/low USD 80s for some time, with last done fixtures in the mid/high USD 80s. The congestions in the Panama Canal are on the rise, but the current arbs are supporting freight levels at time of writing.

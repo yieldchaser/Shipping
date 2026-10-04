@@ -1,0 +1,26 @@
+---
+id: "7E5640BF-F536-4F52-917E-EDC5510A65D0"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-05-11"
+year: 2022
+week: 19
+title: "Fearnleys Supramax Weekly Comment - 2022-05-11"
+---
+
+# Fearnleys Supramax Weekly Comment (2022-05-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2022-05-11 (Week 19)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `7E5640BF-F536-4F52-917E-EDC5510A65D0`
+
+---
+
+## Market Commentary
+
+Supramax market holding firm momentum both in the Atlantic and Pacific basin, South Asia sees good improvements, despite recent holidays in Australia. The rates for TC from SE Asia to China around USD 27,000 pd. From North China and Japan seems market is quieter. Supra rates for round trips to the Far East and NOPAC still at stable level around USD 27,000 pd. India market was moving fast after the holidays that was ending last week and the rates was reported between USD 30,000 for east direction and USD 35,000 for trip into Atlantic. Supramax rates for Atlantic RV estimates about USD 34,500 pd, whole Pacific still lacking behind and estimates about USD 27,000 pd. The Atlantic still missing big volume from the Baltic and Black Sea area due to the Russia – Ukraine situation. The US Gulf/ECSA market still remain firm with sign of further improvements.

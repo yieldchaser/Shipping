@@ -1,0 +1,26 @@
+---
+id: "de6aa3e6-582d-4eb3-b9d0-0c63aa3da4d0"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-11-03"
+year: 2023
+week: 44
+title: "Fearnleys S&P Weekly Comment - 2023-11-03"
+---
+
+# Fearnleys S&P Weekly Comment (2023-11-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-11-03 (Week 44)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `de6aa3e6-582d-4eb3-b9d0-0c63aa3da4d0`
+
+---
+
+## Market Commentary
+
+Quite simply, the S&P world at the moment is a very busy one. Conflict, adverse weather, and humanitarian crises dominate the headlines, impacting long and short-term strategy, all while market players rush to conclude deals before the end of the calendar year. In the only large crude transaction, VLCC JIU YUE (305K DWT DSME 2007) sold for USD 48M. Behind the scenes on the large crude tonnage there is swell of activity, which will dominate reports to come over the next few weeks. Elsewhere, Scorpio sold scrubber fitted MR STI AMBER (49K DWT HMD 2012) for USD 33.9M, which will help price other units in the market. The Dry market is proving tough to measure as the BDI hit a seven-week low, but appetite on the asset side remains high. There is a steady flow of Japanese built units hitting the market, but mostly on the older end of the size curve, with buyers being forced to either wait for younger Japanese units or shift their attention to modern Chinese built bulkers. An example of this is Ultramax FJM GLORY (61K DWT COSCO Dalian 2019) selling for USD 29.6M. In the largest sub size, Capesize OCEAN CORONA (180K DWT Koyo 2009) was sold for USD 20.8M and SATORI (177K DWT Mitsui 2007 ) sold for USD 18.5M, these were to Chinese and Turkish buyers, respectively.

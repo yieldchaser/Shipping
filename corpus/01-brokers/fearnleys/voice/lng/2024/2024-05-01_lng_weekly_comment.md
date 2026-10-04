@@ -1,0 +1,26 @@
+---
+id: "bc73bf60-b1ff-4873-93b9-b10c6af98af1"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-05-01"
+year: 2024
+week: 18
+title: "Fearnleys LNG Weekly Comment - 2024-05-01"
+---
+
+# Fearnleys LNG Weekly Comment (2024-05-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-05-01 (Week 18)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `bc73bf60-b1ff-4873-93b9-b10c6af98af1`
+
+---
+
+## Market Commentary
+
+This week began at a slower pace compared to the previous week, as many regions around the world observed holidays. Consequently, the LNG shipping market saw limited spot fixtures concluded. Vessel availability remains slightly longer than the spot requirements seen this week and while spot charter rates have remained unchanged across all basins, there has been an increase in enquires and a slight upward trend in rates for multi-month and short-term charters. There are also some signs of the arbitrage opening again and although trading margins would be limited, the market is braced for some longer voyages. Thus, there are positive sentiments for spot and multi-month charters as both charterers and owners work towards bridging those gaps to align on period and rates. Aside from the open arbitrage, the broader LNG product market remains stable, with supply more than able to meet current demand. Inventory levels in Japan and Korea are at comfortable levels, while European storage levels experienced a slight increase. There has been some suggestion of floating cargoes into July or August, given the anticipated slight weakness in June pricing, and this has the potential to improve shipping utilisation in the near term. With a well-supplied availability list, any rate rises would be modest. In the LNG newbuilding segment, Qatar Energy has reportedly expanded its orders for 18 LNG Carriers of 271,000m3 with Chinese shipbuilder Hudong Zhonghua, at an estimated price of approximately US$310 million per vessel. Eight of these newbuilds are slated for delivery within 2028 and 2029, while the remaining ten vessels are scheduled for delivery between 2030 and 2031.

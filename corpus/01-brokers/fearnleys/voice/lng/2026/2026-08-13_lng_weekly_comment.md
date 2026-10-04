@@ -1,0 +1,26 @@
+---
+id: "9e45948c-8ee6-4aaf-8c19-2449fa9c668b"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-08-13"
+year: 2026
+week: 33
+title: "Fearnleys LNG Weekly Comment - 2026-08-13"
+---
+
+# Fearnleys LNG Weekly Comment (2026-08-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-08-13 (Week 33)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `9e45948c-8ee6-4aaf-8c19-2449fa9c668b`
+
+---
+
+## Market Commentary
+
+The Atlantic spot market remains muted, with a small number of requirements seeing a considerable number of open vessels. Rates have cooled considerably and with the ongoing lack of liquidity, what bids there are suggest the trend will continue downwards for a while yet. However, where the West is quiet, the market East of Suez has gained momentum and seen a steady stream of firm requirements and subsequent fixtures to keep owners and subletters busy. This activity has helped whittle down the availability list and softened the decline, although it has not been enough to see rates reverse their recent fall. Charterers’ cargo-specific preferences are often dictating the vessel fixed rather than price tag, so average rates remain relatively firm across the tonnage classes versus the drops seen in the Atlantic. The growing delta between the basins is significant enough that owners with ships redelivering in the East, or who had plans to ballast West, may now opt to stay put and trade in the more active Pacific spot market. The multimonth market continues to point the way through winter, and that way looks to be relatively flat. High LNG prices and low European storage may not come to Owners’ rescue in the coming months, as the bearish fundamentals are finally winning through.

@@ -1,0 +1,26 @@
+---
+id: "713dab75-f78f-4136-80d3-b9b3d81b84ce"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-07-30"
+year: 2025
+week: 31
+title: "Fearnleys Suezmax Weekly Comment - 2025-07-30"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-07-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-07-30 (Week 31)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `713dab75-f78f-4136-80d3-b9b3d81b84ce`
+
+---
+
+## Market Commentary
+
+The tides are turning in the West for the Suezmaxes. Since Monday a vast clearout of tonnage has occurred, FOC availabilities are down and supplementation over the weekend is minimal. Charterers x-CPC have already begun reaching and realistically charterers x-West Africa should also do so as downside seems out of the question. This sensitivity is further compounded by a USG market that will continue to poach UKCM boats as few local vessels remain and USAC delays persist. In the East, despite a good level of enquiry and a list that has seen some erosion, as long as the VLCCs linger in the mid WS 40s positive momentum will be capped.

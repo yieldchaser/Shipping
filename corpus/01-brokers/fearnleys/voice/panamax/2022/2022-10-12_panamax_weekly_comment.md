@@ -1,0 +1,26 @@
+---
+id: "2B39DE67-62E9-4028-AFC5-55F18835749C"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-10-12"
+year: 2022
+week: 41
+title: "Fearnleys Panamax Weekly Comment - 2022-10-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-10-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-10-12 (Week 41)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `2B39DE67-62E9-4028-AFC5-55F18835749C`
+
+---
+
+## Market Commentary
+
+The Panamax market yielded a further week of losses as the market in the Atlantic appeared to idle, with little activity of note. Some spoke of certain grain trips paying a premium over mineral trades, but a wide bid/offer gap curtailed any decent activity. Conversely Asia witnessed minor gains primarily on the back of the NoPac trade but overall a week of minimal action despite an influx of Indonesian coal demand further south.

@@ -1,0 +1,26 @@
+---
+id: "7b4081f5-481b-43dd-812d-fb7beb34b532"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-05-14"
+year: 2025
+week: 20
+title: "Fearnleys Supramax Weekly Comment - 2025-05-14"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-05-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-05-14 (Week 20)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `7b4081f5-481b-43dd-812d-fb7beb34b532`
+
+---
+
+## Market Commentary
+
+The Atlantic market maintained a generally positive tone throughout the week, with steady demand and stronger numbers particularly from the US Gulf and South America. The Continent/Mediterranean region remained subdued with limited fresh inquiry. In contrast, the Asian market continued its slow decline amid a lack of activity, though the Indian Ocean stood out with consistent demand, especially from South Africa. Several fixtures were reported across various regions, supporting localized strength. With the monsoon season incoming, the cargo volumes in WC India will go down eventually in the weeks to come. There remains interest on the period side but very little reported in the market this past week.

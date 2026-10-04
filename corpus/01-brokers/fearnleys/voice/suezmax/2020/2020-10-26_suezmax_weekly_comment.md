@@ -1,0 +1,26 @@
+---
+id: "6CB25A4F-647A-48B2-9B0A-4446E30AB995"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-26"
+year: 2020
+week: 44
+title: "Fearnleys Suezmax Weekly Comment - 2020-10-26"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-10-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-10-26 (Week 44)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `6CB25A4F-647A-48B2-9B0A-4446E30AB995`
+
+---
+
+## Market Commentary
+
+Coming into this week, Suezmax owners had a different mindset than they have had in several months. Increased activity at the end of last week, with prompt cargoes begging for offers during the weekend, made owners bullish for the first time in a while. The main factor behind this is the massive export from Libya entering the market. This activity pushed Med/East rates up USD 500k, and even TD20 was up 7.5p in a couple of hours. Owners were holding back, and market looked to be improving significantly. But as charterers managed to keep their cool, it all slowed down quickly. Tonnage list is looking healthier but still plenty of ship to fix, and owners started taking out cargoes one by one. Now we see healthier tonnage lists both in the East and Atlantic, but still prompt ships around, and we expect market to stabilize.

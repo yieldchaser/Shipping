@@ -1,0 +1,26 @@
+---
+id: "9B5118B1-889F-4A01-8079-91D2099389D1"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-05-26"
+year: 2021
+week: 21
+title: "Fearnleys LNG Weekly Comment - 2021-05-26"
+---
+
+# Fearnleys LNG Weekly Comment (2021-05-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-05-26 (Week 21)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `9B5118B1-889F-4A01-8079-91D2099389D1`
+
+---
+
+## Market Commentary
+
+Sentiments for the spot market have certainly dropped as the recent spot fixtures were done at lower levels against the recent highs. More vessels are being shown as available to the market, following redeliveries from previous month’s string of fixtures. Players with spare tonnage capacities continue to seek opportunities for sublets in both basins, although these vessels have a limited available period of about one to three months. These sublets constitute of great proportion of the available tonnage list. Looking a little further out to July, and there are signs the current dip may be short-lived. There appear to be more requirements on the horizon especially out the US Gulf, and these may test how tight the market really is, with or without the sublets. Despite the reduced sentiments in the spot market, the charter rate expectation for term employment, i.e. multi-months over the winter, one year and multi-year charters remain firm and intact, with little indication that rates for such a duration would soften based on the expectations from shipowners with the remaining available vessels for the period. No orders reported this week, price indication for newbuilding LNG vessels are continuing its gradual upward trend.

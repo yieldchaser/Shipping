@@ -1,0 +1,26 @@
+---
+id: "e2ad9cab-3cd0-41d4-86fd-ac099f800c94"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-02-06"
+year: 2026
+week: 6
+title: "Fearnleys S&P Weekly Comment - 2026-02-06"
+---
+
+# Fearnleys S&P Weekly Comment (2026-02-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-02-06 (Week 6)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `e2ad9cab-3cd0-41d4-86fd-ac099f800c94`
+
+---
+
+## Market Commentary
+
+This week’s sales are not representative of the raucous undercurrent of the present tanker market. The high level of enquiry and numerous ongoing discussions suggest that more second hand activity is to come. Pricing remains firm and shows no signs of respite, which may encourage prospective investors to seek better value down the newbuilding avenue. This week, scrubber fitted MARAN PYTHIA (158K DWT HHI 2009) was sold to Greek Buyers for USD 46M. The excitement isn’t limited to the crude space, MRs and LR1s have seen an uptick in demand, particularly in the mid age (rgn 15-year-old) bracket. SSDD passed sisters ELANDRA BALTIC/FJORD (51K DWT HMD 2011) were sold for USD 24.5M each en bloc. A relatively quiet week in the dry market despite the strong start to the year. Predictably, China remains the source of much of the buying interest for ageing bulk carriers. Upcoming Lunar New Year may curtail this demand for the coming weeks, but this will likely be a temporary blip as appetite remains high across the range of sizes from Chinese buyers. In the only ECO transaction of the week, MGJ bought DARYA TAPTI (35K DWT Shikoku 2015) for USD 18.9M.

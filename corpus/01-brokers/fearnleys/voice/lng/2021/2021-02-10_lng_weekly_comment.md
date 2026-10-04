@@ -1,0 +1,26 @@
+---
+id: "2BD2DB92-FE59-4064-A419-E2AD5BD663F5"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-02-10"
+year: 2021
+week: 6
+title: "Fearnleys LNG Weekly Comment - 2021-02-10"
+---
+
+# Fearnleys LNG Weekly Comment (2021-02-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-02-10 (Week 6)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `2BD2DB92-FE59-4064-A419-E2AD5BD663F5`
+
+---
+
+## Market Commentary
+
+LNG shipping market continues to soften this week as the nearest fixing opportunities get pushed to March and beyond. There is no hiding from the fact that the recent build up in available tonnage has caused a deep dive on the daily rates in both Atlantic and Pacific basins, as owners compete with subletters for the limited spot requirements left in the market. Furthermore, with the Lunar New Year starting this week, we don’t expect any catalyst to the current market situation in the near term especially in the East, possibly adding to the injury for those who have available tonnage in the Pacific after the winter cargoes have been discharged. All things said, it is good to remember that this ongoing correction in charter rates was anticipated, and moreover, LNG shipping market has been epitomized by high volatility and seasonality during the last few years. Thus, it is no big surprise that we see a switch in focus from spot market opportunities to term market opportunities as market participants are already starting to gauge the next winter, however there still seems to be a bit of discrepancy in the rate ideas between charterers and owners. Finally, there are no LNG newbuilding orders to report this week, but it is noteworthy that earlier in the week Qatar Petroleum reached FID on its North Field Expansion project, which may indicate a greenlight for their LNGC newbuilding programme in due course. Wishing all our readers a Happy and Healthy Lunar New Year – Gong Xi Fa Cai!

@@ -1,0 +1,26 @@
+---
+id: "223E0CCC-3C01-454B-8822-005D75FE8AB9"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-10-05"
+year: 2022
+week: 40
+title: "Fearnleys Panamax Weekly Comment - 2022-10-05"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-10-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-10-05 (Week 40)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `223E0CCC-3C01-454B-8822-005D75FE8AB9`
+
+---
+
+## Market Commentary
+
+A two-tiered basin again for the Panamax market with the Atlantic building up a head of steam particularly for the front haul trips with improved demand seen in the market. The trans-Atlantic saw less activity however rates were now getting impacted as tonnage appeared tighter on a Cont/Mediterranean delivery with rates seemingly following suit. Golden Week holidays again impacted trade with a slow market this week

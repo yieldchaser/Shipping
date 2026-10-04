@@ -1,0 +1,34 @@
+---
+id: "6617E0EA-9108-4C24-9FFE-CFC4953803C2"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-06-24"
+year: 2019
+week: 26
+title: "Fearnleys Capesize Weekly Comment - 2019-06-24"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-06-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-06-24 (Week 26)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `6617E0EA-9108-4C24-9FFE-CFC4953803C2`
+
+---
+
+## Market Commentary
+
+Overall very positive, but mixed signals for the big ships. Average daily earnings for standard 180000-tonners up 16 pct w-o-w, coming in at USD 19k.
+
+**Atlantic**
+
+ and fronthaul going strong on a combination of increased prompt demand and a very limited number of ballasters/early ships, rates for the continent/far east milk routes jumping close to 25 pct and set to continue.
+
+**Far east**
+
+ lagging and partly sliding as positive coal flow developments unable to compensate for committed pacific traders and limited iron ore volumes, west australia/china conference trade typically dropping 11 pct. Preference for short voyages due to scrubber/DD/WBTS positioning could again be partly to blame for negative pacific developments. Period interest remains strong, exemplified by recent fixture of mediocre 2004-built 174000 dwt reportedly fetching USD 16k for about 18 months, also nicer 2004-built 180000 dwt obtaining some usd 18500 basis 6-8 months.

@@ -1,0 +1,26 @@
+---
+id: "46a50490-87f0-46f6-8a35-e92859095fb3"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-11-12"
+year: 2025
+week: 46
+title: "Fearnleys Suezmax Weekly Comment - 2025-11-12"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-11-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-11-12 (Week 46)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `46a50490-87f0-46f6-8a35-e92859095fb3`
+
+---
+
+## Market Commentary
+
+There have been rumours circulating about a couple of stems working in West Africa; however, the majority of activity has been attributed to other regions. Fundamentally, we remain firm, with the list still fairly short and cargo coverage lacking for the 25–30 November window, as well as for December where we’ve seen VLCCs failing. The safe ships currently on the list are mostly ETA Bonny around 25-26 Nov, so a cargo around this window may result in a few points being chipped off, as waiting days carry a significant cost in this market. However, with each passing day the flexibility for charterers to sit on stems will diminish. In theory, we should begin to see December dates worked next week, which will congest the market. Additionally, VLCCs in the MEG have rebounded with MEG/East on suezmax also paying up to w180 (albeit with a ‘new’ charterer). This will likely keep attentions of vessels opening in the East.

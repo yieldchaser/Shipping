@@ -1,0 +1,26 @@
+---
+id: "E23FE45C-A407-4C6F-B4EB-1C018684DB79"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-13"
+year: 2019
+week: 46
+title: "Fearnleys Suezmax Weekly Comment - 2019-11-13"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-11-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-11-13 (Week 46)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `E23FE45C-A407-4C6F-B4EB-1C018684DB79`
+
+---
+
+## Market Commentary
+
+The Atlantic Suezmax market finally hit bottom this week and even bounced back some points. Some charterers ex West Africa were holding back a bit too long and ended up being above ws100 for Wafr/UKCM. Position list in West Africa is looking short for November dates, and owners finally feeling a bit more bullish after two really slow weeks. One thing that also could help this market going forward is the fog has arrived the Turkish Straits. This, and expected increasing cargo activity, could point towards a positive market the next weeks. In the East, on the other hand, the market is looking really slow. Hopefully a bullish Wafr market could make owners ballast some ships, but until then the we expect the East-market to remain slow.

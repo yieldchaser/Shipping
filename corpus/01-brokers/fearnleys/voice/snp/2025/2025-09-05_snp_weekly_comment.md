@@ -1,0 +1,26 @@
+---
+id: "440d1ce6-cba0-49c3-a7b2-af73225604c9"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-09-05"
+year: 2025
+week: 36
+title: "Fearnleys S&P Weekly Comment - 2025-09-05"
+---
+
+# Fearnleys S&P Weekly Comment (2025-09-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-09-05 (Week 36)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `440d1ce6-cba0-49c3-a7b2-af73225604c9`
+
+---
+
+## Market Commentary
+
+Only a trickle of tanker sales to report in the first week back since the official end of summer. Overall, the underlying factor remains, particularly across more modern tonnage, that asset values are on the high side compared to current achievable TC rates. On spot however, there is a mixed story with VLCCs ending the week strongly, while products experience more variable conditions. In the Aframax market, scrubber fitted BLUE PRINCE (109K DWT Hudong Zhonghua 2009) sold for USD 32.7M. A seemingly extremely busy week in the dry market. This is likely due in part to many returning from summer holidays, with broker channels and information streams up and running once again, but also perhaps a symptom of the overall perception that brighter times are on the horizon for the dry market, with the hope that the TC market will mirror the current buoyant spot earnings. The majority of sales have occurred in the 10+yo space, with investors sensing now is the time to strike for a potential asset play. In the only modern transaction, open hatch LILAC HARMONY (38K DWT Tsuneishi Cebu 2020) sold for USD 25.05M.

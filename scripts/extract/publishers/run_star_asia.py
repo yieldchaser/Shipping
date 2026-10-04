@@ -202,6 +202,8 @@ def drop_prose_rows(tables):
 
 def build_md(pdf: Path):
     import liteparse
+    import clean_all_brokers_formatting as cabf
+    import run_star_asia_tables as sa
     lp = liteparse.LiteParse(ocr_enabled=False, quiet=True,
                              output_format="markdown", keep_headers_footers=True)
     res = lp.parse(str(pdf))
@@ -209,12 +211,40 @@ def build_md(pdf: Path):
         src_ref = pdf.resolve().relative_to(ROOT).as_posix()
     except ValueError:
         src_ref = pdf.as_posix()
-    lines = [f"# {pdf.stem}", "",
-             f"source: `{src_ref}`  |  pages: {res.num_pages}", ""]
+        
+    try:
+        with pymupdf.open(pdf) as d:
+            report_week, issue_date = sa.extract_meta(d, pdf)
+    except Exception:
+        report_week, issue_date = 0, "2026-01-01"
+    year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+
+    lines = [
+        "---",
+        f'title: "Star Asia Shipbroking Weekly Demolition Report - Week {report_week}, {year_str}"',
+        f'issue_date: "{issue_date}"',
+        f'year: "{year_str}"',
+        f'report_week: {report_week}',
+        'broker: "Star Asia Shipbroking"',
+        'category: "demolition_report"',
+        f'source_file: "{src_ref}"',
+        f'pages: {res.num_pages}',
+        "---",
+        "",
+        f"# Star Asia Weekly Demolition Report - Week {report_week}, {year_str}",
+        "",
+        f"**Issue Date:** {issue_date} | **Report Week:** {report_week} | **Publisher:** Star Asia Shipbroking  ",
+        f"**Source Document:** `{src_ref}`  ",
+        "",
+        "---",
+        ""
+    ]
     for i in range(1, res.num_pages + 1):
         lines.append(f"\n## Page {i}\n")
         lines.append((res.get_page(i).markdown or "").strip())
-    return "\n".join(lines)
+    raw_md = "\n".join(lines)
+    cleaned_md, _ = cabf.clean_star_asia(raw_md)
+    return cleaned_md
 
 
 def chart_pages(pdf: Path):

@@ -1,0 +1,26 @@
+---
+id: "ce837d1c-7ed8-4b8e-bcd2-d98f3ec2f96c"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-01-09"
+year: 2026
+week: 2
+title: "Fearnleys S&P Weekly Comment - 2026-01-09"
+---
+
+# Fearnleys S&P Weekly Comment (2026-01-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-01-09 (Week 2)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `ce837d1c-7ed8-4b8e-bcd2-d98f3ec2f96c`
+
+---
+
+## Market Commentary
+
+Few would have expected this start to the new year. Rumours have been swirling around the market from Monday this week on a huge VLCC deal involving various new TCs, extended TCs and 2nd hand S&P transactions to Sinokor. Details continue to emerge on number of ships sold, and quantity/length of the TCs, though what has caught the eye is that many of the ships were not known sales candidates, and they come from a vast spread of counterparties. Frontline, CMB Tech, TMS, Capital, Dynacom and Advantage are among the known sellers thus far, proving that in this market everything is for sale at a price. Elsewhere beyond the Sinokor excitement, Greek buyers have acquired zinc coated scrubber fitted MR pair MARITIME TRANQUILITY/COMITY (49K DWT GSI 2020) for USD 39.2M each. No such fireworks in the dry market this week but it is worth noting this could be a fruitful period for dealmaking in this sector this year. With many market analyst touting great things across dry throughout 2026, the seasonal Q1 lull up to and including Chinese New Year could provide buyers the opportunity to increase their market exposure at potentially the softest prices they will see all year. Levels are still historically high, but owners will be open to taking money off the table to themselves reinvest or expand further. The mid-aged capesize second hand space is proving ever busy with MINERAL HONSHU (181K DWT Koyo 2012) selling for a firm USD 37.1M.

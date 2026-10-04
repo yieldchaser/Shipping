@@ -1,0 +1,26 @@
+---
+id: "184C909D-96F9-4A7A-A139-6193849669D0"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-01"
+year: 2021
+week: 5
+title: "Fearnleys Chartering Weekly Comment - 2021-02-01"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-02-01 (Week 5)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `184C909D-96F9-4A7A-A139-6193849669D0`
+
+---
+
+## Market Commentary
+
+EAST We have finally seen some activity on freight in the East this week with a couple of ships fixed for 2H February in the AG. These deals were all done in the high USD 40s rt/ch, and as such the Baltic index has fallen below USD 50 for the first time since July last year. The negative sentiment on freight is expected to continue as there are still far too many open ships versus outstanding shipping requirements (time of writing we do not see any uncovered cargos for the rest of February), and the focus will slowly shift to March as the cargo acceptances for next month have started to come out. WEST After a relatively quiet period, activity finally resurrected ex US-Gulf during the course of the last week. The market has for a while been struggling to find its feet in terms of fixed rates and although a handful of vessels were fixed at rates in the mid USD 80’s per ton on a Houston/Chiba basis, the majority of the March US-Gulf deals concluded were done at Baltic average rates. There seems to be more momentum and willingness to conclude shipping deals going forward although not at any price.

@@ -1,0 +1,26 @@
+---
+id: "c656f611-e60a-4f5a-ba59-18febd2a62f6"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-10-08"
+year: 2025
+week: 41
+title: "Fearnleys VLCC Weekly Comment - 2025-10-08"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-10-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-10-08 (Week 41)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `c656f611-e60a-4f5a-ba59-18febd2a62f6`
+
+---
+
+## Market Commentary
+
+The VLCC market has seen a steady slow decline in the week gone by, culminating with a WS 69 fixture MEG/China reported this morning. With much of the Far East on holiday activity has gone under-ground. Ships have been fixed off in a steady tempo but few if any details leaked to the market has fuelled a fear-of-missing-out sentiment. However, daily returns are still in the USD 55-65k range depending on the voyage/ship in question and although we might see a bit more profit taking, independent owners have started stepping on the break paddle. The Atlantic has also sprung back to life again, with USG/east rates back up to USD 10.5 million for the benchmark Ningbo discharge, largely down to very few ships having ballasted west on spec so charterers must make do with what’s already in the area.

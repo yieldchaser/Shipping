@@ -1,0 +1,30 @@
+---
+id: "7b093958-551e-4d95-8a22-476fc20ad63b"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-03-26"
+year: 2025
+week: 13
+title: "Fearnleys Panamax Weekly Comment - 2025-03-26"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-03-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-03-26 (Week 13)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `7b093958-551e-4d95-8a22-476fc20ad63b`
+
+---
+
+## Market Commentary
+
+The Panamax market maintained its upward trajectory this week, aligning with our earlier expectations of strength driven by the second ECSA grain wave.
+
+**Atlantic**
+
+ demand remained robust, particularly for front-haul voyages from the North and late-April stems out of ECSA, though the bid-offer spread there remains wide. In the Pacific, despite earlier concerns of weaker coal trades due to high Chinese inventories and softening Indian demand, the market strengthened notably, supported by solid cargo replenishment from Australia and Indonesia, especially on shorter Indo rounds and NoPac grain runs. With owners holding firm rate ideas and tightening prompt tonnage availability in both basins, the market continues to defy seasonal pressure, showing resilience as we move towards month-end.

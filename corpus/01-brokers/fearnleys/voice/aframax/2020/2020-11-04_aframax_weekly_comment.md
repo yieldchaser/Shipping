@@ -1,0 +1,26 @@
+---
+id: "3FE7657C-E9C4-4D36-85C5-46AC4DB1F620"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-11-04"
+year: 2020
+week: 45
+title: "Fearnleys Aframax Weekly Comment - 2020-11-04"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-11-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-11-04 (Week 45)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `3FE7657C-E9C4-4D36-85C5-46AC4DB1F620`
+
+---
+
+## Market Commentary
+
+In the North Sea and Baltic, Aframax owners experienced another setback in rates as cross North Sea levels went back to WS67.5 levels. We don’t expect any increased activity going forward. This combined with a re-populated tonnage list as more tonnage is coming into the area from USG, we expect the market to remain soft going forward. In the Mediterranean/Black Sea, the market has moved more or less sideways this week with a slight softening trend for cross-Med voyages. This is mainly because there is still an abundance of ships in the area looking for employment and creating a downward pressure on rates. As the surrounding markets are not showing any promising alternatives, we expect the market to remain soft in the short run.

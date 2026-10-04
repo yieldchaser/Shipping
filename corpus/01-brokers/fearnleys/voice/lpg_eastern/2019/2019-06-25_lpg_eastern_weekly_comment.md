@@ -1,0 +1,30 @@
+---
+id: "35FB41F2-5757-4FBF-AE83-CD5AA7908D35"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2019-06-25"
+year: 2019
+week: 26
+title: "Fearnleys LPG Eastern Weekly Comment - 2019-06-25"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2019-06-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2019-06-25 (Week 26)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `35FB41F2-5757-4FBF-AE83-CD5AA7908D35`
+
+---
+
+## Market Commentary
+
+**MEG:** Flat price spiked up from mid-week following the crude price rise, buoyed by the larger decline on crude stock and the concerns on oil supply over the tension between US-Tehran. At the time of writing, Jul CP traded at $376, while Jul FEI at $421. Aug swap number is being volatile, followed tightly at flattish level to July at the moment. But it seems too early to judge if it’s into a contango or backwadation structure, mirroring player’s sentiment on future uncertainties. Jul CP is expected to be announced by this Sunday, and Saudi Aramco is reported to have a mid/2h July lifting 2/2 cargo available.
+
+**FAR EAST**
+
+: With the IHS conference held in HK this week, and the last week before July CP announced, window appears quiet. On Tue 23kt propane for 1H Aug delivery is traded at Aug FEI plus 1.5$. One fob seller is offering 17-21 Jul lifting 2/2 at discount of 5$, however difficult to entice buyer’s interest as freight still hovering at high 70s level. And propane for 2h Jul was bid at Jul FEI plus $4 while 1h Aug at Aug fei flat only, reflecting the length in in forward market. One North China petchem user have purchased a full propane cargo for 1H Aug delivery reported at CP plus 70s. We expect into Aug China petchem demand to be robust as SP chemical cracker is stockpiling feedstock for the cracker, with all PDHs running at good margin, far better compared to the retailing demand. Indonesia Pertamina issued buy tender for a 3/1 cargo delivered to Kalbut at 9-11th Aug while result was yet to hear. Taiwan FPCC awarded their buy tender for 44kt C3 for 1-10th Aug delivery at Aug MOPJ minus $80.

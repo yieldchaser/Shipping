@@ -1,0 +1,26 @@
+---
+id: "135E22A9-D1C7-44CC-9F21-5AD9B4DAB772"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-06-08"
+year: 2020
+week: 24
+title: "Fearnleys Panamax Weekly Comment - 2020-06-08"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-06-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-06-08 (Week 24)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `135E22A9-D1C7-44CC-9F21-5AD9B4DAB772`
+
+---
+
+## Market Commentary
+
+It was a slow start to the week across both hemispheres with Fhauls keeping somewhat flat allthough chrts bidding lower. Both the P1A and P3A kept sliding with rounds being concluded in region USD 3,5-4k and 7,5-8k respectively. Mid week we do however experience a more positive sentiment, much led by the bigger Capes and for what could be more split cgos entering the mrkt.

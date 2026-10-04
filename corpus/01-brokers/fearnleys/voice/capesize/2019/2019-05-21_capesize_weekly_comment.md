@@ -1,0 +1,26 @@
+---
+id: "A2B14FE2-D85F-4AE6-A2A0-8981B7DC7970"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-21"
+year: 2019
+week: 21
+title: "Fearnleys Capesize Weekly Comment - 2019-05-21"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-05-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-05-21 (Week 21)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `A2B14FE2-D85F-4AE6-A2A0-8981B7DC7970`
+
+---
+
+## Market Commentary
+
+This segment is not yet in equilibrium, but present moderate but positive developments for the big ships nevertheless appear robust. Average spot earnings up 5 pct w-o-w coming in at USD 12300/day, mostly due to Australian iron ore exporters being busy and increasing period appetite amongst major players. The effect of hundreds of units disappearing from spot scene for 1-1.5 months each to fit scrubbers/wbts before deadline now starts to kick in, and an expected return of crucial Brazilian iron ore export capacity may add fuel to an impending fire come summer/autumn. Representative period fixtures include 177000/2005 with end-year drydock coming up reportedly done basis spot delivery Japan for 16-20 months at around USD 15500.

@@ -1,0 +1,30 @@
+---
+id: "96443F81-7BA9-43A5-A8F2-56DFEF32F001"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-07-06"
+year: 2023
+week: 27
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-07-06"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-07-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-07-06 (Week 27)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `96443F81-7BA9-43A5-A8F2-56DFEF32F001`
+
+---
+
+## Market Commentary
+
+MEG Discounts for Aug lifting AG cargos have lessened as inquiries for evenly split ratio emerged, most likely to cover shorts into India; and due to less spot liftings expected from the major producer trading arm in Jul. Quite a handful of bids for Aug lifting evenly split cargos at Aug CP minus low teens. Qatar Petroluem issued tender to sell 6-8th Aug lifting 45/0 or 3/1 ratio cargo, and KPC also tendered to sell 4-5th Aug lifting evenly split ratio cargo. Aug C3 CP was traded at $426 and C3/C4 narrowed down to $10 from last week’s $20. Aug/Sep was assessed at $18 contango.
+
+**FAR EAST**
+
+ Bid and offer for 23kt propane parcel for 1h Aug delivery were shown at Aug FEI plus $2 vs plus $6 respectively, and similar cargo for 2h Aug delivery was bid at Aug FEI flattish level but barely see offers. However, 11/11 parcel (including US origin)was offered at Aug FEI minus mid-single digit. Apart from window, 46kt propane parcel for 1h Aug delivery into Ningbo was offered at Aug FEI plus low-mid single range, yet to entice buyers. The widened FEI/CP suppressed the buying interests and players prefer to wait and see the cash premium to drop further following the decline in freight rates. This being said, some players are still calling tender to secure Aug feedstock. One EChina PDH user awarded their buy tender for min 40kt propane delivered in 2h Aug at 50% Aug FEI plus low teens and 50% Aug CP plus 70s reportedly. Another NChina PDH player also tender to buy 46kt propane for 2h Jul or Aug delivery, which result is yet to know by the time of writing. Meanwhile, a flow of evenly split and heavy propane grade Iranian cargos are available in coming August, which expected to be at least $40 cheaper based on last traded level.

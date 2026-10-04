@@ -1,0 +1,30 @@
+---
+id: "362FA084-E23F-4E6C-83B3-6BB77C19A600"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-12-07"
+year: 2022
+week: 49
+title: "Fearnleys Suezmax Weekly Comment - 2022-12-07"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-12-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-12-07 (Week 49)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `362FA084-E23F-4E6C-83B3-6BB77C19A600`
+
+---
+
+## Market Commentary
+
+Not the all-out capitulation that some thought was inevitable with the East market holding up remarkably well. Tupras were forced to take a ship that has yet to go through west coast India and managed WS 95 for a TD23, suggesting a degree of resistance. Conversely, any further upside is ultimately capped by VLCCs. Ex Wafr, the front end of the list remains fairly tight but similarly, VLCCs provide a cap. The Black Sea has an increasing number of vessels unable to transit southbound Bosphorus with P&I clubs unwilling and practically, unable to provide the assurance requested by the Turkish government. This will have to be sorted out at government to government level with TD6 trading WS 295 + protective clause.
+
+**USG**
+
+ is dead and needs further enquiry.

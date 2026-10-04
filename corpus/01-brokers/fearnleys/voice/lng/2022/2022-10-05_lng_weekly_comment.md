@@ -1,0 +1,26 @@
+---
+id: "68C7637C-32E8-4A0C-BEA6-792BA33D914E"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-10-05"
+year: 2022
+week: 40
+title: "Fearnleys LNG Weekly Comment - 2022-10-05"
+---
+
+# Fearnleys LNG Weekly Comment (2022-10-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-10-05 (Week 40)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `68C7637C-32E8-4A0C-BEA6-792BA33D914E`
+
+---
+
+## Market Commentary
+
+This week started where last week ended, those Charterers that still find themselves short continue to scramble for whatever tonnage is left. It goes without saying that any available (or even potentially attainable) modern tonnage has received the most attention, but the lack thereof has resulted in some surprise fixtures on the older, and smaller, steam turbine fleet. In tandem with the firm spot market, the term market has also stayed active, as multiple charterers are looking for term coverage down the curve. And next week, after the Golden Week holidays end, our friends in China may re-enter the market again! On the newbuilding front, Excelerate Energy announced that it has ordered a 170,000m3 FSRU from HHI for June 2026 delivery which is the first FSRU newbuilding order in many years. Furthermore, it was reported that ExxonMobil has confirmed another 7 newbuilding berth slots at SHI, adding to their existing orderbook and firmly reasserting their commitment to this segment. Newbuilding prices remain firm.

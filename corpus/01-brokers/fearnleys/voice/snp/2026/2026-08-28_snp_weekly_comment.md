@@ -1,0 +1,26 @@
+---
+id: "4b5de1a3-ad61-4452-aaef-9ca95ae67860"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-08-28"
+year: 2026
+week: 35
+title: "Fearnleys S&P Weekly Comment - 2026-08-28"
+---
+
+# Fearnleys S&P Weekly Comment (2026-08-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-08-28 (Week 35)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `4b5de1a3-ad61-4452-aaef-9ca95ae67860`
+
+---
+
+## Market Commentary
+
+Record profits in the crude space continue to fuel rampant tanker buying appetite. Lofty valuations, even for this market, are being met by buyers who are targeting prompt tonnage, often bypassing usual concerns such as yard or survey dates. The suezmax sector has seen particular action this week with new benchmarks being set across the curve. Scrubber fitted CAPE BENAT (156k dwt Rongsheng 2010) sold at USD 62.5M to Lila Global, and SS due ANTIGUA I (157k dwt New Times 2016) sold for USD 90M. The dry bulk market action is more modest by comparison, but still healthy for this time of year. Owners are in a luxurious position of having the option to sell ageing tonnage at firm valuations, or indeed just keep operating their ships in healthy earnings environments. The supramax sector was busiest this week with a flurry of transactions, helping to price the older end of the curve. With the Q4 supra/ultra futures curve sitting around the USD 20K/day mark, buyers are clearly plentiful. The 20-year-old benchmark was set with SPAR SCORPIO (53k dwt Chengxi 2006) sold for USD 11.5M despite surveys being due in October of this year.

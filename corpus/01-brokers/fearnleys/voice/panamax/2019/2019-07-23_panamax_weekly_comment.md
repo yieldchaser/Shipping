@@ -1,0 +1,26 @@
+---
+id: "AB0FB152-BF8A-42F2-9442-A382B11E98B7"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-07-23"
+year: 2019
+week: 30
+title: "Fearnleys Panamax Weekly Comment - 2019-07-23"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-07-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-07-23 (Week 30)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `AB0FB152-BF8A-42F2-9442-A382B11E98B7`
+
+---
+
+## Market Commentary
+
+Nothing lasts forever, and indicators show that the market may take a breather from the recent weeks heavy increase in rates. Today (Wednesday) was the first time in a long while where the Panamax-index fell, even though the reduction was only USD 84 on the 4TC average and has been in the green up to this point in the week. A transatlantic round voyage for regular Panamaxes currently yields about USD 21,300 per day, and a fronthaul from the continent pays shipowners around USD 29,000's. In the east, a Pacific round voyage currently pays around mid USD 14,000's per day.

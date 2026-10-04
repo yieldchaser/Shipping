@@ -1,0 +1,26 @@
+---
+id: "A479F797-934C-4521-B0E7-068032A00237"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-04-20"
+year: 2022
+week: 16
+title: "Fearnleys Suezmax Weekly Comment - 2022-04-20"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-04-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-04-20 (Week 16)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `A479F797-934C-4521-B0E7-068032A00237`
+
+---
+
+## Market Commentary
+
+The Suezmax market has experienced some heady days recently with the wider, non-Russia market, sustaining long periods of strong freight rates. But, as with any volatile market, there are peaks and troughs and after such spectacular highs, rates are likely to correct downwards (moderately). Although the East market has seen a flurry of end/early cargoes, there just hasn't been enough activity to trim the list sufficiently to prevent a significant number of ships ballasting west. With this in mind, our call is that Wafr/East may threaten WS 160's levels whilst MEG/East on modern tonnage may dip under WS 110. TD23 has been all over the place recently but owners will do well to hang onto WS 60's, with even a WS 50's possibly on the cards.

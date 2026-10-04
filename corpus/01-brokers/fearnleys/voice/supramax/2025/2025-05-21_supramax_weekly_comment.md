@@ -1,0 +1,26 @@
+---
+id: "8203142f-8ed4-4f98-b89b-63bff34690b3"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-05-21"
+year: 2025
+week: 21
+title: "Fearnleys Supramax Weekly Comment - 2025-05-21"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-05-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-05-21 (Week 21)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `8203142f-8ed4-4f98-b89b-63bff34690b3`
+
+---
+
+## Market Commentary
+
+The Supramax/Ultramax market began the week on a quieter note, with limited fresh activity across most regions. In the Atlantic, the US Gulf maintained a firm tone, though signs suggest it may be nearing a peak, while the Continent-Mediterranean remained under slight downward pressure and the South Atlantic held steady in a balanced state. In contrast, the Pacific showed a firmer outlook, supported by a tightening tonnage list in Southeast Asia and modest improvements in demand further north. The Indian Ocean and Middle East regions were more subdued, with activity levels stable but lacking momentum. Overall, the market reflected a stable yet regionally uneven sentiment, with Pacific areas generally showing more strength than the Atlantic.

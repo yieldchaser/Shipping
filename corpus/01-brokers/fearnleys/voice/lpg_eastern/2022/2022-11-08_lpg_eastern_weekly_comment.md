@@ -1,0 +1,30 @@
+---
+id: "A2A84580-73BF-409C-B618-80D4E2590A93"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-11-08"
+year: 2022
+week: 45
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-11-08"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-11-08 (Week 45)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `A2A84580-73BF-409C-B618-80D4E2590A93`
+
+---
+
+## Market Commentary
+
+MEG Despite the volatility in crude, LPG swap is relatively stable this week. Dec C3 CP was traded at $619 and C3/C4 maintained at $7-8. Dec/Jan was in slight backwardation at $3. Qatar Petroleum issued sale tender for 2-9th Dec lifting 3/1 cargo. Discussions for Dec lifting evenly split cargo was in low mid-teens discounts to CP, due to the soaring freight rates. Indian IOC tendered again this week for one evenly split cargo in Dec on FOB AG basis but result is yet to know by the time of writing.
+
+**FAR EAST**
+
+ Cash premium rebounded for Dec delivery cargoes owing to the Panama delays. 23kt propane for 2h dec delivery was traded at Dec FEI plus $9.5 in the window and similar parcel off window was traded at around $10. Active bids for 1h dec delivery parcels were shown but no offers seen. Several parcels for 46kt propane were also changed hand, for both 1h and 2h dec delivery, being placed into China at Dec FEI plus low teens range basis E/NChina reportedly. Apart from spot discussion, a handful of term tenders are under negotiations. Three China petchem users issued term buy tender for next year delivery into Ningbo, upto one cargo monthly delivery. Among which, one player asks for flexible ratio while the other two aim for propane only. One NChina PDH player’s propane procurement term tender was closed earlier this week but still within validity. One SChina traditional importer also tendered to buy monthly 11/11 for next Mar to Dec delivery.

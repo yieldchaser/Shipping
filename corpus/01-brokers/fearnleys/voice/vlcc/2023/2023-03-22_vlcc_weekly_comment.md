@@ -1,0 +1,26 @@
+---
+id: "36D8378F-74F0-4AC2-8E42-F15E153B9098"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-03-22"
+year: 2023
+week: 12
+title: "Fearnleys VLCC Weekly Comment - 2023-03-22"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-03-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-03-22 (Week 12)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `36D8378F-74F0-4AC2-8E42-F15E153B9098`
+
+---
+
+## Market Commentary
+
+“Great expectations” – not materializing. Logic dictated that a well-stocked cargo list and correspondingly balanced position lists would result in a rate hike this week. However, charters kept their powder dry, patiently waiting, and when an oil company relet fixed a Brazil/East export cargo at WS 85 the upward sentiment reversed which was then followed by MEG/East rates sliding into low WS 90’s. That said, the downside appears capped short term and owners in general are so far trying to add a point or two to last done levels. The Atlantic market has calmed down a bit after the recent USG export fixing frenzy, but a trickle of cargoes is keeping the light burning. Steady as she goes.

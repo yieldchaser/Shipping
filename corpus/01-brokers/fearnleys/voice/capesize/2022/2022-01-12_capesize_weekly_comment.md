@@ -1,0 +1,26 @@
+---
+id: "94C67908-A3D2-493F-B193-B72DB92A1865"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-01-12"
+year: 2022
+week: 2
+title: "Fearnleys Capesize Weekly Comment - 2022-01-12"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-01-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-01-12 (Week 2)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `94C67908-A3D2-493F-B193-B72DB92A1865`
+
+---
+
+## Market Commentary
+
+The New Year starts with some degree of uncertainty, not only related to the Indonesian coal export ban but also concerning the impacts of the heavy rains in Brazil. For the former, it was estimated 13-15 mt has been affected so far this year, and only recently 14 ships were allowed for export. For Brazilian iron ore, it becomes clear that some chartering activity has been put on hold, however there is limited information emerging about the actual impacts the rain has created. There is generally limited information emerging from the c3 market, and the c3 index is off USD 1 from last week to close to USD 20 pmt this week. Present Cape average is presently USD 17,000 and has potentially some room for further drop, but an improvement is expected prior to Chinese New year only 3 weeks ahead.

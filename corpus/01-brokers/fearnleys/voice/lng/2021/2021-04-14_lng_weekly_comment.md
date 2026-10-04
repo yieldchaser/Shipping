@@ -1,0 +1,26 @@
+---
+id: "3B945F07-BC64-458E-8FE2-C67D82107E2E"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-04-14"
+year: 2021
+week: 15
+title: "Fearnleys LNG Weekly Comment - 2021-04-14"
+---
+
+# Fearnleys LNG Weekly Comment (2021-04-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-04-14 (Week 15)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3B945F07-BC64-458E-8FE2-C67D82107E2E`
+
+---
+
+## Market Commentary
+
+We are witnessing a rare scenario, as the start of Q2 2021 has been rather exciting compared to previous years. LNG Shipping remains positive as fixing levels across both basins continues to increase day-by-day, and Owners with prompt availability in the Atlantic or those able to work 2H May US loadings are likely to see considerable interest on their ships. The lack of availability in the West, strong gas demand and decreasing inventory levels in Europe are just a handful of reasons why sentiment is holding firm. While the LNG market continue the steady upward trend, several Owners are still prioritizing utilization, longer period businesses instead of spot charters. This could mean more inclination from Owners to work more competitive rates at present for longer duration such as multi months to short term time charters.

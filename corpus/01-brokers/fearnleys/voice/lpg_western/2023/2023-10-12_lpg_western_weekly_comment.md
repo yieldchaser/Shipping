@@ -1,0 +1,30 @@
+---
+id: "83b03b5a-eb2a-4ed1-a35c-251774833505"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2023-10-12"
+year: 2023
+week: 41
+title: "Fearnleys LPG Western Weekly Comment - 2023-10-12"
+---
+
+# Fearnleys LPG Western Weekly Comment (2023-10-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2023-10-12 (Week 41)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `83b03b5a-eb2a-4ed1-a35c-251774833505`
+
+---
+
+## Market Commentary
+
+AMERICAS MB propane values have largely mirrored the movements recorded in the WTI arena, and – as in September - the relationship so far in October has been maintained in the 34% range. Flat prices, meanwhile, have seen an approximate 5cpg decline since the start of October and now are pegged at 69.00cpg (against a WTI price today of $84.31/bbl). And after waiting an extra day for the inventory data to be released, the EIA today reported that overall US propane stocks grew by 100,000bbls, which turns out to have been surprising to many since predictions ranged from a -700,000bbl draw to a +1.7mmbbl build. The EIA also reported an export level of 2.1mmbbls/day, which has also come in to question since several of the LPG marine terminals on the Gulf Coast have been suffering reduced rates which resulted in a trio of Force Majeure declarations. Terminal fees, all the while, were in decline at the front of the month after having been driven to the mid teens for October business and retreated to buy-side ideas in the upper single digits. That, however, was replaced by low-teens sell-side ideas for propane, and (at least) double-digits for butane. NWE The physical window has been more active recently, with an end October TOT offer vs an early November TOT bid, bringing the physical premium to +$2.5/MT to October CIF ARA. Demand in the region is sluggish as petrochemical buying remains low, and is forecast to until mid 2024, while seasonal heating demand is yet to begin. Term imports continue to account for most new demand. While the netback values to the region are still not competitive against heading East. The European market could tighten rapidly as a cold snap heads for the region, while US Gulf loading delays could restrict supply. The butane market have been uneventful, though seasonal demand increase is expected.
+
+**MED**
+
+ Warmer than average temperatures in the region have kept demand stagnant. US butane continues to flow into Morocco. As natural gas prices in Europe increase refinery LPG supply will be reduced, the large volume of US imports will continue to maek up for a any supply shortfall.

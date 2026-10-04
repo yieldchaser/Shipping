@@ -1,0 +1,30 @@
+---
+id: "9414bfa3-1c47-498e-9169-51759ea60480"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-11-30"
+year: 2023
+week: 48
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-11-30"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-11-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-11-30 (Week 48)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `9414bfa3-1c47-498e-9169-51759ea60480`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco announced Dec CP at $610 for C3 and $620 for C4, a rollover from Nov CP. Although no increment into winter season, it’s still higher than expectation as of front length supply amid sluggish demand, probably at the anticipation on further OPEC cuts. At the time of writing, Jan C3 CP was traded at $605.
+
+**FAR EAST**
+
+ A handful of offers for Jan delivered propane emerged in window this week. 23kt propane for 1h Jan delivery was offered at Jan FEI minus $4, and similar cargo for 2h Jan period was offered at minus $1 while bid at minus $4.5. Off window such parcels for 1h Jan delivery was reported concluded at Jan FEI minus $5/6. Following this, Dec FEI slashed by $20 vs the start of the week, seeing players relentlessly selling either in physical or paper market. On Monday four Chinese PDH players tendered to buy Jan and Feb delivery propane at max 230kt in total. At the time of writing, two SChina players were reported to award one 46kt each at Jan CP plus high 50s and 60s respectively. One was canceled due to few offer to up NChina port. Another one is still ongoing. Meanwhile, Hanwha Total also reported to procure 23kt propane for 2-8 Jan delivery at some discounts to Dec FEI via tender. One Japanese importer also said to award their buy tender for 46kt propane delivered in 2h Feb to 1h Mar. With the declined in flat price and heavy discounts for 46kt propane into EChina, we might expect some more Chinese PDHs to replenish their feedstock. This being said, there are still a couple of Iranian heavy propane cargos for Dec delivery unsold, which might exert further pressure to the front.

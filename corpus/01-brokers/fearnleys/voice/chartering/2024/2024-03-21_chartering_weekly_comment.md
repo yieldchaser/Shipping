@@ -1,0 +1,26 @@
+---
+id: "34c107a4-3b1b-4844-8140-87b4548cc53d"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-03-21"
+year: 2024
+week: 12
+title: "Fearnleys Chartering Weekly Comment - 2024-03-21"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-03-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-03-21 (Week 12)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `34c107a4-3b1b-4844-8140-87b4548cc53d`
+
+---
+
+## Market Commentary
+
+EAST The East has been quiet this week with only one spot fixture registered, and in total we now count 8 deals for April dates ex MEG. 7 of these have been done 1-10 April which is one above the average for the first decade the last three months. There are currently no signs of Indian PSUs in April just yet – which quoted 7 cargoes in March. With earnings in the West weakening lately, meaning less incentive to sail that direction, we could see more ships considering going East. WEST After a rush of deals in the West last week, we have only seen one spot deal this week and it was concluded 13-14 dollars lower than last done. Currently we count 26 spot fixtures for April ex USG/USEC and we still see about 10 vessels open that month – the majority of them in the last decade. At the same time there are still half a dozen uncovered cargoes left for end April dates.

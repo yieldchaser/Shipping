@@ -1,0 +1,26 @@
+---
+id: "5F4048B7-DC6A-401F-A5F6-4A5180459EA0"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-17"
+year: 2021
+week: 50
+title: "Fearnleys S&P Weekly Comment - 2021-12-17"
+---
+
+# Fearnleys S&P Weekly Comment (2021-12-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-12-17 (Week 50)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `5F4048B7-DC6A-401F-A5F6-4A5180459EA0`
+
+---
+
+## Market Commentary
+
+The year comes to an end with a rather unexpected burst of activity in the Tanker space, with a number of sellers deciding to go meet the current bid instead of waiting for a market recovery that seems to become more evasive by the day. Athenian has now sold the sisterships “ATHENIAN HARMONY" & "ATHENIAN SUCCESS” (300k dwt HHI 2010) to Greek buyers, Altomare, at a price of Usd 42m each. This follows an extensive period of inactivity for Korean built VLs of such vintage. Last comparable sale actually being the “ATHENIAN VICTORY” (300k dwt HHI 2009) which was sold by same owners in June at Usd 42.5m. The Aframax/LR2 sector has also seen increased liquidity for units around 10 years and younger with Socar committing their “SILVER” & “GOLD” (107k dwt Tsuneishi 2010) to Seaworld of Greece at a price of Usd 49.5m enboc while the coated Daehan 2018 built unit “PROSKY” was sold to Neda Maritime at Usd 52m basis the remainder of its TC to Shell attached. Notable activity in the Dry front as well with Norden disposing of three modern Ultramax units. As mentioned throughout our past reports, values for more modern tonnage have showed increased resilience compared to vessels of older vintage. This being mainly explained by the high replacement cost in the sector with high Newbuilding pricing supporting values for modern second-hand units.

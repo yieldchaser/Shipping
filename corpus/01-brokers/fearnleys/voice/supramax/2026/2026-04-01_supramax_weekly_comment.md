@@ -1,0 +1,30 @@
+---
+id: "492db193-20f0-4cb6-ac73-5141ecb6ddfc"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-04-01"
+year: 2026
+week: 14
+title: "Fearnleys Supramax Weekly Comment - 2026-04-01"
+---
+
+# Fearnleys Supramax Weekly Comment (2026-04-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2026-04-01 (Week 14)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `492db193-20f0-4cb6-ac73-5141ecb6ddfc`
+
+---
+
+## Market Commentary
+
+The Supramax market remained soft across both basins, with limited fresh enquiries and rates easing slightly overall.
+
+**Atlantic**
+
+ market was mixed, with the Continent and Mediterranean under pressure from tonnage build-up, while the South Atlantic basin held a more stable tone; USG continued to trend weaker amid oversupply of tonnages. In Asia, sentiment stayed subdued with rates mostly flat to slightly lower despite steady cargo flow. Handysize saw a similarly mixed-to-soft environment, with limited activity in the Continent/Mediterranean and a softer tone in the USG due to slower demand. The South Atlantic showed some improvement with firmer undertones, while Asian markets remained largely balanced with stable fundamentals. Overall, both segments continue to face muted demand and ample tonnage, keeping sentiment cautious in the near term.

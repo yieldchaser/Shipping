@@ -1,0 +1,26 @@
+---
+id: "83E89713-88D7-4D5B-92C6-C2F4008470CF"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-08-03"
+year: 2020
+week: 32
+title: "Fearnleys Aframax Weekly Comment - 2020-08-03"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-08-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-08-03 (Week 32)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `83E89713-88D7-4D5B-92C6-C2F4008470CF`
+
+---
+
+## Market Commentary
+
+The first half of August we have witnessed a very slow and dull Aframax market in the North Sea and Baltic. However, due to a busier Baltic program in the last decade of the month there is a bit more optimism to trace among owners. This week we will see rates move sideways, but then with a firming potential from next week. Also in the Mediterranean and Black Sea market there has been little excitement for owners during the week that has passed, although they have been able to maintain the rate levels we saw last week. This is much due to the fact that TCE’s have reached bottom levels. In the week to come we expect this to continue and the market to remain soft.

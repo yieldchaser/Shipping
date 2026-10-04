@@ -1,0 +1,26 @@
+---
+id: "8d65a07f-55c6-4786-b13e-56a93190feff"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-10-09"
+year: 2024
+week: 41
+title: "Fearnleys LNG Weekly Comment - 2024-10-09"
+---
+
+# Fearnleys LNG Weekly Comment (2024-10-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-10-09 (Week 41)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `8d65a07f-55c6-4786-b13e-56a93190feff`
+
+---
+
+## Market Commentary
+
+The LNG Shipping market has come to life this week led by a burst of predominantly Atlantic Basin activity which saw at least seven fresh requirements emerge in the past seven days. A welcome sight for those with length although the wide window of uncovered dates spanning late October to end November dampens hopes of any immediate recovery in charter rates. Nevertheless, a healthy amount of liquidity ensures good competition, and we see several other cargoes which should be covered in the coming days, with Charterers keen to lock in freight for laycans over 45 days ahead. A few requirements have also played out in the Pacific across November dates with Tri-Fuels and Steamers the preferred taste of Charterers. Most modern ships are preparing to ballast back to the Atlantic Basin to compete for longer utilization through Winter. The short and mid-term space remains muted with limited interest to bring in additional vessels on the prompt as the market awaits to see whether any semblance of the “Winter” we have come to take for granted hits during Q4-24/Q1-25.

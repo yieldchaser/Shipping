@@ -1,0 +1,26 @@
+---
+id: "3216F273-C32D-447E-83F9-65E67909E9AF"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-01-15"
+year: 2020
+week: 3
+title: "Fearnleys LPG Western Weekly Comment - 2020-01-15"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-01-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-01-15 (Week 3)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `3216F273-C32D-447E-83F9-65E67909E9AF`
+
+---
+
+## Market Commentary
+
+AMERICAS: Mt Belvieu propane has come back below 30% of WTI which is where we expect it to stay. After a 947,000 barrel draw US inventories standing at 87.9 million barrels for the week ending January 10th 2020. The inventory draw or build seems to be dictated by the amount of exports / day as opposed to the domestic demand and production which are holding fairly steady. This is a healthy level, 30% higher than the same week last year. Export capacity increases were seen as the big threat to having enough barrels in stock to survive the winter but production seems to have calmed this threat. With East and West arbs wide open, we expect freight to remain strong and terminalling fees as well. Finally the biggest news of the week seems to be the lifting of LPG tariffs in China on US LPG which is now scheduled to take place in April.

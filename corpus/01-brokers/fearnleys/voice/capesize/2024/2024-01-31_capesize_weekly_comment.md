@@ -1,0 +1,30 @@
+---
+id: "7d8555d8-fef1-416e-8ad6-7b14929351b0"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-01-31"
+year: 2024
+week: 5
+title: "Fearnleys Capesize Weekly Comment - 2024-01-31"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-01-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-01-31 (Week 5)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `7d8555d8-fef1-416e-8ad6-7b14929351b0`
+
+---
+
+## Market Commentary
+
+On the C5 front, we see volumes holding up from miners and operators alike. Enquiries are primarily for mid to late February dates and several for early March forward dates. On the East Australia coal front, volume has been dampened with a slight rise at the start of the week. On South Africa and Indian business, we see limited increase in enquiries. On C3 ex Brazil to China and West Africa, we see operators present for second half of February and March dates.
+
+**Far East**
+
+ tonnage is moderately abundant while ballasting tonnage weighs heavily on the second half of February. On C5, we see fixtures concluding at high USD 7 pmt to USD 8 pmt levels by mid-week. On C3, we see some concluding at mid to high USD 20 pmt levels. On the period front, we see a fixture of a scrubbered 207k dwt, 2012-built, for 1 year at USD 29,000 per day.

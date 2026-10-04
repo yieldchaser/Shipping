@@ -1,0 +1,30 @@
+---
+id: "6649C1F5-4386-452D-AA3F-CE594C32102E"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-03-15"
+year: 2023
+week: 11
+title: "Fearnleys Supramax Weekly Comment - 2023-03-15"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-03-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-03-15 (Week 11)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `6649C1F5-4386-452D-AA3F-CE594C32102E`
+
+---
+
+## Market Commentary
+
+The trend across all markets remains positive despite some areas such as USG and North Atlantic could see softer rates as the number of ships is greater than the number of new requirements. Rates paid for trips to Far East were achieving close to USD 20,000 pd, and trips within the Atlantic improved from low USD 10,000 pd to mid USD 10,000 pd.
+
+**Black Sea**
+
+ and Mediterranean markets see a sharp shortage of tonnage and rates improving substantially. Owners demanding a premium to go East. Rates from Med to West Africa directions reaching USD 20,000 pd. A lack of tonnages in Indian Ocean pushed charterers to pay higher levels. A Supra open WC India was fixed at USD 18,000 pd for EC India range, while Ultramax open WC India was fixed around USD 20,000 pd. The market in the Pacific basin remained stable with potential upside due to coal imports to China. Supra fixed dely Spore at USD 16,000 pd for a trip to China.

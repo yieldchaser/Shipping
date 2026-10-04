@@ -1,0 +1,38 @@
+---
+id: "40752812-4DD3-4DDC-8067-AEB8C05C9CA4"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-12-16"
+year: 2019
+week: 51
+title: "Fearnleys VLCC Weekly Comment - 2019-12-16"
+---
+
+# Fearnleys VLCC Weekly Comment (2019-12-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2019-12-16 (Week 51)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `40752812-4DD3-4DDC-8067-AEB8C05C9CA4`
+
+---
+
+## Market Commentary
+
+What a rollercoaster ride! As last week drew to a close VLCC rates were on a downward trajectory with MEG/East testing the ws100 mark. However, things turned on a sixpence this week as January cargoes came into play.
+
+**MEG**
+
+/East went from ws100 to ws110 in one jump, and panic set in. Rates have since continued to climb, with owners now eying rates above ws120.
+
+**MEG**
+
+ rates have also been supported by an influx of USG export cargoes, currently trading close to USD 12 million for China/Korea discharge. N.Sea/East has been correspondingly active, and ships discharging in the area have all but been absorbed.
+
+**Wafr**
+
+/East runs, however, has been surprisingly few and far between, although we’re seeing signs of a pickup in last decade of January. With a heaving Suezmax market there are few “get out of jail cards” at present, so the run up to Christmas is looking bright for the owning community.

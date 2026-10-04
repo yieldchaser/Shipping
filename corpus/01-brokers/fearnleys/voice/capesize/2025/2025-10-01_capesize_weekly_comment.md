@@ -1,0 +1,26 @@
+---
+id: "ff2571b0-c233-4804-a7c5-9065f9358ca6"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-10-01"
+year: 2025
+week: 40
+title: "Fearnleys Capesize Weekly Comment - 2025-10-01"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-10-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-10-01 (Week 40)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `ff2571b0-c233-4804-a7c5-9065f9358ca6`
+
+---
+
+## Market Commentary
+
+As we approach Golden week, quieter on all ends of the pacific. Some players are out seeking for mid October C5 dates. Activity for East Australia coal has generally fallen this week. On C3 ex Brazil and West Africa, we see a build up of ballasters and bids are a rare sight. Prompt tonnage is accumulating out of the pacific which might create more downward pressure for early November C3 dates. Fixtures concluded at sub USD 9 pmt levels for C5 and low USD 23 pmt levels for Oct/Nov split dates C3.

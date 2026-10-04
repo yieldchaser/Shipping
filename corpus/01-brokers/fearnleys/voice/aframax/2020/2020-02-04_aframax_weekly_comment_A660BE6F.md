@@ -1,0 +1,26 @@
+---
+id: "A660BE6F-7151-4643-A653-F1642704BC60"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-02-04"
+year: 2020
+week: 6
+title: "Fearnleys Aframax Weekly Comment - 2020-02-04"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-02-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-02-04 (Week 6)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `A660BE6F-7151-4643-A653-F1642704BC60`
+
+---
+
+## Market Commentary
+
+In the North Sea and Baltic, the market took a hit this week with rates decreasing rapidly. Slow activity and other surrounding markets showing weakness added to this downward pressure on rates. However, rates seem to have bottomed out for now and with renewed activity we can see rates pick up again getting closer to third decade fixing window. Also in the Mediterranean and Black Sea we have seen the rates take a further drop over the course of the week. The lack of cargo activity across the board combined with a build-up of prompt ships has left owners battling to fix the few cargoes entering the market. Cross-Med voyages are currently paying low ws70’s now, and since owners are seeing returns barely covering their OPEX there is consensus among them that rates have now bottomed out.

@@ -1,0 +1,26 @@
+---
+id: "B24DC12B-281B-4C27-B5C5-43873F3A0F14"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-04-26"
+year: 2023
+week: 17
+title: "Fearnleys LNG Weekly Comment - 2023-04-26"
+---
+
+# Fearnleys LNG Weekly Comment (2023-04-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-04-26 (Week 17)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `B24DC12B-281B-4C27-B5C5-43873F3A0F14`
+
+---
+
+## Market Commentary
+
+Market participants have slowly returned from holidays, but although this might have triggered more activity in the past the LNG market has remained stubbornly stable this past week. The majority of spot activity revolved around FOB cargo tenders, with limited new firm requirements seen in either basin and thus spot rates have remained broadly unchanged. The term market has been busier but not exactly surging, though with limited independent owner availability and and expectation of growing sentiment in the coming months, we may start to see some more activity picking up towards the end of Q2. In the newbuilding market, prices keep firming. NYK was reported securing four vessels at Hyundai Heavy Industries delivering 2026-2027 for EnBW.

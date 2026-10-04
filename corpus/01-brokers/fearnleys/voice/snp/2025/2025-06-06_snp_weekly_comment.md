@@ -1,0 +1,26 @@
+---
+id: "1dd87598-cbfc-4b97-9e98-d28218a65395"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-06-06"
+year: 2025
+week: 23
+title: "Fearnleys S&P Weekly Comment - 2025-06-06"
+---
+
+# Fearnleys S&P Weekly Comment (2025-06-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-06-06 (Week 23)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `1dd87598-cbfc-4b97-9e98-d28218a65395`
+
+---
+
+## Market Commentary
+
+As much of the market descended on Oslo for Norshipping the story in the tanker second hand market remained the same, with MRs still providing the majority of activity. Values appear to be stabilising, having corrected significantly from the heights of the market during summer last year. Torm continued the sell out of their older units, with Chemsea acquiring TORM DISCOVERER/VOYAGER (45k dwt Brodotogir 2008) for USD 34M en bloc. Elsewhere, Navios provided the market with a new benchmark in the Afra sector, acquiring resale sisters (115k dwt Zhoushan Changhong 2026) for USD xs 67M each, from Pro Tanker Investment. Similarly this week was not one of great change for the dry bulk market. Rates on the smaller and medium size tonnage are unremarkable, and capesize returns have calmed down somewhat after a recent spike. This is resulting in a consistent story for the second-hand space, with occasional modern transactions and mostly c.15-year-old ships being sold into Far Eastern buyers. In the one modern transaction this week, Greek buyers picked up scrubber fitted Kamsarmax AOM SOPHIE II (81k dwt Sanoyas 2020) for USD 31.5M, in line with last done units. In the Capsesize sector, Costamare bought IMPERATOR AUSTRALIS (176k dwt Shanghai Jiangnan Changxing 2012) for USD 25.5M, from Japanese sellers.

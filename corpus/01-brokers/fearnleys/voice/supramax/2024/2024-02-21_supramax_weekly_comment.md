@@ -1,0 +1,26 @@
+---
+id: "683db179-498c-48b7-ab4c-64b7be65556c"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-02-21"
+year: 2024
+week: 8
+title: "Fearnleys Supramax Weekly Comment - 2024-02-21"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-02-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-02-21 (Week 8)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `683db179-498c-48b7-ab4c-64b7be65556c`
+
+---
+
+## Market Commentary
+
+It seems like seasonality is playing out as usual. The ballaster/laden vessel ratio have dropped to around the lowest levels seen the last few years, which reflects the high shipment volume growth (9% year on year in January). A high share of the fleet is positioned in the North Atlantic/Mediterranean/Continent. A still low share of the fleet is positioned in the South Atlantic.

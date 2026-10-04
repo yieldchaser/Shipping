@@ -1,0 +1,30 @@
+---
+id: "7CF54173-7471-4F3B-9643-BCF51B327E09"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-07-08"
+year: 2020
+week: 28
+title: "Fearnleys Supramax Weekly Comment - 2020-07-08"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-07-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-07-08 (Week 28)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `7CF54173-7471-4F3B-9643-BCF51B327E09`
+
+---
+
+## Market Commentary
+
+The market continued with a positive trend in all basins. The spot market well supported with healthy demand. Rates have increased by 10-15 percent from previous week. ECSA and USG driven by grain movements pushed rates further up. Charterers have to pay big premium for Ultramax delivery USG for grain loading Mississippi River to Continent/Mediterranean direction, Ultramax fixed USD 19,000/day.
+
+**USG**
+
+-WCSA rumoured fixed above USD 20,000/day. Fronthaul from Black Sea and Continent pushed close to low USD 20,000/day. South African and Indian Ocean was stable with firm demand for coal and Iron ore cargoes. The Far East markets was lacking slightly behind with sideways sentiment. We expect market to improve further in the coming week.

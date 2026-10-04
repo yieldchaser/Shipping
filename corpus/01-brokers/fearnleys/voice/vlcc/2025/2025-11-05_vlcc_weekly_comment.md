@@ -1,0 +1,30 @@
+---
+id: "020535bd-b26c-4efd-a149-95c4cada55b4"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-11-05"
+year: 2025
+week: 45
+title: "Fearnleys VLCC Weekly Comment - 2025-11-05"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-11-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-11-05 (Week 45)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `020535bd-b26c-4efd-a149-95c4cada55b4`
+
+---
+
+## Market Commentary
+
+W127.5 was logged MEG/China end of last week, and despite balanced position lists east and west of Suez VLCCs got a punch in the snout as W115 was logged for a MEG/China cargo yesterday on a trader relet, after which TD3C came in at W113 and change. A cargo being traded at the time of writing has seen punters firm at very low teens against low W100’s from the charterer. That said, barring Chinese “system liftings” we have hardly seen any fixtures concluded in the 20-30/11 window from the MEG and if we extrapolate there should be another 50 odd cargoes to cover before November is a wrap, and a relative short time to do it seeing as most players head for Dubai next week for the yearly Bahri get together, after which December dates will come into play. So, in as much as we may see a bit more profit taking the downside should be capped and rates hold in 3 digits with corresponding daily earnings at USD 100k/day or more.
+
+**West Africa**
+
+ and Brazil exports have parred the MEG with W110 conclude for a TD15 run.

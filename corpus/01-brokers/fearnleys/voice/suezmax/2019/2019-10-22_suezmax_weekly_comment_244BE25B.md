@@ -1,0 +1,26 @@
+---
+id: "244BE25B-E31E-4FA8-8956-AFA14A76526F"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-10-22"
+year: 2019
+week: 43
+title: "Fearnleys Suezmax Weekly Comment - 2019-10-22"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-10-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-10-22 (Week 43)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `244BE25B-E31E-4FA8-8956-AFA14A76526F`
+
+---
+
+## Market Commentary
+
+After a slow week last week where charterers built momentum for the downward push, rates started to slide this week with oil company relets making the first move. Rates in the Atlantic are experiencing a hefty re-pricing bearing in mind the last couple of week's bonanza. We expect rates to establish a floor in the mid W150s, implying that we are near the bottom for now with fundamentals still looking good for the owners. Allthough this means a solid 120+ WS point drop from the top, these levels still yields solid returns to owners...

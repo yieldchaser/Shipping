@@ -1,0 +1,26 @@
+---
+id: "7F0AF1EC-6296-46D6-A18E-F73833926703"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-06-16"
+year: 2020
+week: 25
+title: "Fearnleys LNG Weekly Comment - 2020-06-16"
+---
+
+# Fearnleys LNG Weekly Comment (2020-06-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-06-16 (Week 25)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `7F0AF1EC-6296-46D6-A18E-F73833926703`
+
+---
+
+## Market Commentary
+
+Global markets have gradually started their recovery, although improvements in the LNG market are likely to lag a little as product prices and shipping rates remain flat across the board. Shipping availability is slowly building into July, and in anticipation of US cargo cancellations a rather tough environment exists in the prompt market. The current bid/ask spread remains relatively wide, making transactions challenging as Owners and Charterers expectations remain somewhat disconnected. Nevertheless, there is some optimism looking further ahead to autumn and winter. A West-to-East arbitrage and contango pricing may result in a stronger cargo market, where ship owners and players long tonnage may see some profitable opportunities. On the Newbuilding front, again there have been no new large LNG vessel orders to report this week or this year, and we may end up with no new orders to report for first half 2020!

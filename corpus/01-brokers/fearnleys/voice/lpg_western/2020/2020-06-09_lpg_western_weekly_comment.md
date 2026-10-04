@@ -1,0 +1,26 @@
+---
+id: "1924D64E-4CE3-4AB2-97F3-3BDD8C9AD60F"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-06-09"
+year: 2020
+week: 24
+title: "Fearnleys LPG Western Weekly Comment - 2020-06-09"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-06-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-06-09 (Week 24)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `1924D64E-4CE3-4AB2-97F3-3BDD8C9AD60F`
+
+---
+
+## Market Commentary
+
+AMERICAS: Following a flurry of July FOB cargo sales at the beginning of the week, the US/ Asia arbitrage narrowed Wednesday following an unseasonable draw in Inventories. The US Gulf made up the entirety of the draw (1.3 million barrels) as the Mid continent built. As it stands, US inventories now rest at a similar level to this time last year, though the sentiment of considerable Q3 and Q4 product tightness remains throughout the market. With that said, two US producers echoed a similar feel this week in that barrels redacted last month, following cutbacks due to tanking crude prices have reappeared due to the historic May rally. A handful of July cargos remain unsold. Traders and terminals alike continue to target terminalling fee’s at or above 5cpg to move, while others hope to roll cargos back. In South America, a Tender was issued for 44,000mts of propane for an end July arrival.

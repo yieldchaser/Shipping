@@ -1,0 +1,26 @@
+---
+id: "D463E881-D0E4-4300-8D87-DBA317795304"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-02-09"
+year: 2022
+week: 6
+title: "Fearnleys Supramax Weekly Comment - 2022-02-09"
+---
+
+# Fearnleys Supramax Weekly Comment (2022-02-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2022-02-09 (Week 6)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `D463E881-D0E4-4300-8D87-DBA317795304`
+
+---
+
+## Market Commentary
+
+A more positive sentiment as was expected. Ultramax open Dakar fixed trip via East Africa to China around USD 27,000. Clinker run from Med to West Africa was done around USD 23,000 on bigger Supramax. 56k dwt open in USG was fixed to WC South America around USD 32,000. Usual scrap runs from Baltic to Med were concluded at USD 15,000 and to Far East at USD 26,000. Indo-China rounds were done at USD 24,000. Scrubber fitted Ultramax was confirmed at USD 20,000 for a trip with rice from North China to Med. From the period front, 58k dwt open Skaw was fixed for 4 to 6 mos redel Atlantic at USD 20,750. 56k dwt open Diliskelesi was fixed min 5 to about 7 months trading redelivery Atlantic at USD 25,000.

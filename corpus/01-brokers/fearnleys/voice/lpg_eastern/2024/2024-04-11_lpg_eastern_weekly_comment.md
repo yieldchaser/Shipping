@@ -1,0 +1,30 @@
+---
+id: "5b3756fe-bf85-4541-a07a-8a14b7ed2b4f"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-04-11"
+year: 2024
+week: 15
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-04-11"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-04-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-04-11 (Week 15)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `5b3756fe-bf85-4541-a07a-8a14b7ed2b4f`
+
+---
+
+## Market Commentary
+
+MEG Low buying sentiment for May with a handful of evenly split cargos offered in the market, from both importers and traders resale availabilities. Offers for May loaders reported asked at May CP minus teens while few bids heard. May CP was traded at $590 for C3 and C4/C3 at $5. May/Jun CP was traded at $15 backwardation.
+
+**FAR EAST**
+
+ CFR east discussion level also softened this week compared to last week, seeing bids for 23/0 parcels for 2h May delivery at May FEI plus $2 only and offers assessed at plus high single digit. Outside window a couple of 46kt propane for 1h May delivery into North and East China are concluded at May FEI plus mid-teens level. Several buy tenders into China ongoing this week. FIC tendered to buy 46/0 for late May delivery des Ningbo at May FEI plus high single, which is the 2nd purchase for their PDH on May delivery. Another Echina cracker also issued buy tender for 23/0 or 46/0 des Ningbo during mid May, whose last tender only awarded 23/0 for earlier May delivery. However, due to scheduled maintenance (which resulted in general run rate lower than 60%) and unstable trial run on new PDHs we are expecting limited buying interests on May. Apart from C3, One Schina importer awarded their buy tender for 11/11 2h May to early Jun delivery at May FEI and Jun CP related price reportedly.

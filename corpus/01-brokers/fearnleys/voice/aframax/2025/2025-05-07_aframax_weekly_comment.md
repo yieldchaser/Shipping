@@ -1,0 +1,26 @@
+---
+id: "9898cc8c-9418-4e4a-bb7e-af1ee4f594ff"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-05-07"
+year: 2025
+week: 19
+title: "Fearnleys Aframax Weekly Comment - 2025-05-07"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-05-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-05-07 (Week 19)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `9898cc8c-9418-4e4a-bb7e-af1ee4f594ff`
+
+---
+
+## Market Commentary
+
+NORTH SEA After the long weekend the market managed to get going so far. The early positions on the available tonnage is seeing vessels ballast both to USG and Mediterranean to minimize waiting and take opportunities in busier markets. Activity in the natural window has suffered from relet programming and bigger vessels taking stems limiting what is actually there to fix. With dates pushing further out and the list growing we will see more ballasting and rates will be tested by charterers. MEDITERRANEAN A busy start to the week with some relatively prompt cargoes left from last week, but the growing tonnage list is pushing the rates downwards. Competition for cargoes is increasing with vessels ballasting from North Sea, but with activity also looking stable/active 2nd half May in the USG we may see some a few vessels head off.

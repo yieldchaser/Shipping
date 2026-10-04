@@ -1,0 +1,26 @@
+---
+id: "97089977-BBC9-4454-A706-9C44DFC490E9"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-10-07"
+year: 2019
+week: 41
+title: "Fearnleys Panamax Weekly Comment - 2019-10-07"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-10-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-10-07 (Week 41)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `97089977-BBC9-4454-A706-9C44DFC490E9`
+
+---
+
+## Market Commentary
+
+A positive week with increased rates from both basins, where a TA round voyage currently pays owners around the mid USD 15,500 per day on a standard Panamax, while a fronthaul from the Continent now yields around USD 25,000. In the East, a Pacific round voyage pays around the USD 13,000-mark. The BPI 4TC-index is currently at 1852 points, 127 up since last week.

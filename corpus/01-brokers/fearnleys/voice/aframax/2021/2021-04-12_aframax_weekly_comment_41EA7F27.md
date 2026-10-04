@@ -1,0 +1,26 @@
+---
+id: "41EA7F27-018B-4077-9150-7535E4C5AF4E"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-04-12"
+year: 2021
+week: 15
+title: "Fearnleys Aframax Weekly Comment - 2021-04-12"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-04-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-04-12 (Week 15)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `41EA7F27-018B-4077-9150-7535E4C5AF4E`
+
+---
+
+## Market Commentary
+
+The North Sea/Baltic market hit its lowest level since early month of February when we had cheaper bunker prices. Despite a few injection stems in the 3rd decade of the Baltic Urals schedule a long tonnage list coupled with less fuel enquiries put charterers in a position to test rates. No surrounding markets provide owners with any better alternatives, so we expect rates to move sideways for now. Much of the same can be said about the Mediterranean/Black Sea market where the mere amount of cargo activity is a far cry from satisfying the long list of prompt ships in the area. Rates have come off this week and we expect this to continue in the week to come, at best moving sideways.

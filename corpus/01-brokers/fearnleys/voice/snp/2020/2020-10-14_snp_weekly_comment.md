@@ -1,0 +1,26 @@
+---
+id: "CE78D80B-1662-4A2A-BE7F-3D7ED3078630"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-14"
+year: 2020
+week: 42
+title: "Fearnleys S&P Weekly Comment - 2020-10-14"
+---
+
+# Fearnleys S&P Weekly Comment (2020-10-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-10-14 (Week 42)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `CE78D80B-1662-4A2A-BE7F-3D7ED3078630`
+
+---
+
+## Market Commentary
+
+The Interim Judicial Managers of Xihe Holdings called for offers this week on 3 x VLCC’s (2010 & 2011) and 2 x LR2’s (2008 & 2009) all built at SWS. We understand the VLCC’s saw a hefty amount of interest and around 8 bids where placed. The jury is still out, however early reports suggest that the vessels are closed to being committed at USD 110mill en bloc. If confirmed, it represents a solid correction in values in light of the recent sale of the “TAKAOKA” (2011/Universal/300kdwt) which was sold for USD 45m last week. Albeit a discount is expected in light of the auction process, that the vessels have been idle for some time and Chinese built. Furthermore, ADS Crude sold “ADS SERENADE” (2002/Hitachi/300kdwt) to UAE based buyers for USD 25.5m, leaving the company with only one vessel left in their fleet. The sale falls in with the sistership “ADS STRATUS” they sold in September also for USD 25,5m. In the dry sector Nissen Kaiun have sold yet another cape this week, namely the “HUGE HAKATA” (2012/Koyo/180kdwt) for USD 21m to clients of Zodiac. Moreover, Oldendorff have sold the “TILDA OLDENDORFF” (2011/STX/180kdwt) for USD 18.7m to Alpha Bulkers. “Scorpio Bulkers” stole the headline this week by selling 4 x Ultramax’s bringing their total sell-off to excess of 100m since the company announced their move into offshore wind. Navigare is understood to have picked up the “SBI PHOENIX” & “SBI SAMSON” (2017/Chengxi/63kdwtI) for USD 17m each, whilst the “SBI HERA” (2016/Mitsui/60kdwt) was sold for USD 18.5m to undisclosed buyers. Lastly, the “SBI HYPERION” (2016/Nacks/61kdwt) was sold for USD 17m. Scorpios sell-off is making them the market maker in the Ultramax segment at the moment.

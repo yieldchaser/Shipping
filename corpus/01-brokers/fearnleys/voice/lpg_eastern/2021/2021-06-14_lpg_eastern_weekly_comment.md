@@ -1,0 +1,30 @@
+---
+id: "84A36E81-D665-4F05-B7B6-0B475E13F619"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2021-06-14"
+year: 2021
+week: 24
+title: "Fearnleys LPG Eastern Weekly Comment - 2021-06-14"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2021-06-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2021-06-14 (Week 24)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `84A36E81-D665-4F05-B7B6-0B475E13F619`
+
+---
+
+## Market Commentary
+
+MEG July swap continued to strengthen alongside the rising crude. At the time of writing, July C3 was traded at $595, and C4 was traded at $2 higher, reflecting the tightness on butane for prompt loading. Saudi Aramco was reported to have some volume cuts on their July program due to the facility issues. Qatar Petroleum was reported to award their 19/21st Jul loading full propane cargo at Jul CP minus small discounts. Whereas evenly split cargo for Jul loading was bid at Jul CP plus $8 but yet to see sellers.
+
+**FAR EAST**
+
+ Earlier this week, 23k propane parcel for 2h Jul delivery was traded at Jul CP plus $29. Afterwards, a similar parcel for same period delivery was bid at Jul FEI plus $5, which equates to Jul CP plus low-mid 20s only. Off window, a handful of tenders are floating in the market. One Vietnam petchem player was reported to secure a heavy propane cargo for mid Aug delivery at Aug CP plus low-mid 30s via tender. Taiwan CPC issued buy tender to purchase one 11/11 for late July delivery but few offers received reportedly. Indian BPCL also issued buy tender to procure one evenly split cargo for 15th Jul to 15th Aug delivery. Other petchem players appear quieter this week, as margins are eroding by the rising feedstock costs against weakening end products price.

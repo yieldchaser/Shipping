@@ -1,0 +1,26 @@
+---
+id: "0f432245-ab14-4f8b-a31f-da832ba47b09"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-12-31"
+year: 2025
+week: 1
+title: "Fearnleys Suezmax Weekly Comment - 2025-12-31"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-12-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-12-31 (Week 1)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `0f432245-ab14-4f8b-a31f-da832ba47b09`
+
+---
+
+## Market Commentary
+
+Some further activity yesterday on suezmaxes has helped to trim a healthy amount of tonnage off the front end of the list. However, as laycans push into 3rd decade January supply does replenish a reasonable amount. Unfortunately, with VLCCs continuing to slide with TD3 paying equivalent to 130kt x 104 and TD15 equivalent to 130kt x 115 it is hard to foresee any turn around in the near term. It seems possible we will see a similar downward correction as we did early this week. This is despite fairly stable fundamentals, in isolation from VLCCs.

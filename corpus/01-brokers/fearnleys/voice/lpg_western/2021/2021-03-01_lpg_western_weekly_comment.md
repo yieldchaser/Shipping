@@ -1,0 +1,30 @@
+---
+id: "D9E55541-0227-4AE4-9E87-1245F68A02E6"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2021-03-01"
+year: 2021
+week: 9
+title: "Fearnleys LPG Western Weekly Comment - 2021-03-01"
+---
+
+# Fearnleys LPG Western Weekly Comment (2021-03-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2021-03-01 (Week 9)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `D9E55541-0227-4AE4-9E87-1245F68A02E6`
+
+---
+
+## Market Commentary
+
+AMERICAS The US market has rebounded quickly from the freeze that impacted many of the export terminal operations in the US Gulf. However, some reverberating effects remain. Delays have limited spot activity in March, and many of the terminals have shifted their spot focus to April- For this reason, ships are abundant and freight levels are low (around 55 pmt basis Houston/ Chiba). It has been reported that as many as 80 unladen VLGC's stand available to load in the US Gulf in the next 30 days. The good news is that fog has played less of a role than expected in the days following the storm- and the forecast looks promising for the time being. The premium that Marcus Hook cargos had commanded (in efforts to opt out of potential storm and fog delays in gulf) had reached a premium close to one cent per gallon to cargos offered in the US Gulf- but has since leveled off. At present offers for April, cargos are being discussed close to 5cpg, buyers coming from the mid 4's. Yesterday (Wednesday) the EIA reported a draw of 2.2 million barrels for the week ended February 26th on the back of seasonal heating demand-the bulk draw came from the Gulf (964,000 bl) and the Midcontinent (786,000 bl). NWE The physical window premiums continue to strengthen in the region now assessed at CIF ARA +$12.5pmt for March. This due partly to a cold spell in Europe and partly due to the pro/nap spread remaining at -$27pmt. Keeping both heating and industrial demand high. A trend expected to continue with crude above $60bbl and forecast to remain strong. Imports from the US are being looked at with traders focusing on 1-10 April. To be sure that they arrive in the same month as loading as the April/ May backwardation remains a steep +$24pmt.
+
+**MED**
+
+ Values remain steady and with minimal cargo discussions occurring. An early March US Gulf loaded VLGC heading to the East Med is expected to keep the market balanced. In the West Med butane values are seen to be strengthening on sentiment, due to the lack of firm discussions.

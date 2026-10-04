@@ -1,0 +1,26 @@
+---
+id: "acf85102-2aed-4175-a1b7-3fbb5c07f75c"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-04-22"
+year: 2026
+week: 17
+title: "Fearnleys Suezmax Weekly Comment - 2026-04-22"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-04-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-04-22 (Week 17)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `acf85102-2aed-4175-a1b7-3fbb5c07f75c`
+
+---
+
+## Market Commentary
+
+The US Gulf has been propping up the Atlantic basin with TCEs for UK Continent openers outstripping the earnings we have seen achieved ex West Africa. TD20 runs have been scarce this week, whilst an active TD6 cooled before hitting an impasse yesterday with muted appetite amongst owners. A few committed vessels keep a lid on TD20, but UKC tonnage cannot be leaned on to depress the market. Owners are hopeful that reduced interference from VLCCs in the 2nd decade has left more volume than we saw in April, where the Suezmax share dropped from 75MBBLS in March to 42MBBLS. However, with the strait of Hormuz remaining shut, there is a danger Asian buyers reignite their appetite for West African crude and in doing so push volume back to VLCC. Suezmax owners should be able to hold the market in the 10-15 window both sides of the Atlantic, but the trajectory thereafter looks a little shakier.

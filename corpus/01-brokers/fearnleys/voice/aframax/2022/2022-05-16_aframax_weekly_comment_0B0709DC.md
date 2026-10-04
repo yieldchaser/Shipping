@@ -1,0 +1,26 @@
+---
+id: "0B0709DC-1369-4B20-91D8-23BE1435C135"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-05-16"
+year: 2022
+week: 20
+title: "Fearnleys Aframax Weekly Comment - 2022-05-16"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-05-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-05-16 (Week 20)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `0B0709DC-1369-4B20-91D8-23BE1435C135`
+
+---
+
+## Market Commentary
+
+The NSea took another hit last week as the market is dominated by relets and Suezmaxes for local runs. Supply of vessels is sufficient for the time being and with Baltic loadings becoming more complex owners are on the look for alternatives. Moving forward we expect market to remain weak and with owners fighting to keep earnings above OPEX. In the Med/Bsea, the market has come off further this week dropping another 15 points on cross Med voyages. The situation in Libya is still unchanged, and we don’t see any imminent improvement in freight levels in the short run as it will take quite a bit of cargo activity to satisfy the number of prompt open ships in the area.

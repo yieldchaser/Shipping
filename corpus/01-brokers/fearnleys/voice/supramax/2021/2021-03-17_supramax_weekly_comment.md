@@ -1,0 +1,26 @@
+---
+id: "8DA2DE19-0CE2-4F97-8F52-C79BE7FAEF8A"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-17"
+year: 2021
+week: 11
+title: "Fearnleys Supramax Weekly Comment - 2021-03-17"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-03-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-03-17 (Week 11)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `8DA2DE19-0CE2-4F97-8F52-C79BE7FAEF8A`
+
+---
+
+## Market Commentary
+
+Rates increasing mainly in the Pacific, while the Atlantic appears more flat, however the trend is firm and expected to continue in this way. In the Atlantic, rates are seeing around USD 28,000 for Continent/Mediterranean and USD 26,000 for Mediterranean/West Africa and USG/Continent paying around USD 29,000. Fronthaul ex ECSA paying Ultras around USD 20,000+1mio gbb, while fronthaul ex Continent/Mediterranean fixing in the low-mid 30's. Strong numbers reported from the Indian Ocean where India/China paying high 30k and backhaul to the Continent in the mid USD 20k. Further East, SE Asia round back to China paying around USD 24,000 and USD 22-23,000 to MEG/India range.

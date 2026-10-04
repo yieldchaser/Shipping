@@ -1,0 +1,30 @@
+---
+id: "cf282f65-42c3-41a8-a161-f2fc7fee7694"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-09-17"
+year: 2025
+week: 38
+title: "Fearnleys Aframax Weekly Comment - 2025-09-17"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-09-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-09-17 (Week 38)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `cf282f65-42c3-41a8-a161-f2fc7fee7694`
+
+---
+
+## Market Commentary
+
+NSEA Dates are pushing well into 3rd decade and available tonnage for natural nsea owners is on the light side for balance of the month. Rates have moved up since last week and we could still see some tight points which may see owners make further gains.
+
+**MED**
+
+ A couple of cargoes off end-month dates worked yesterday in the market or quietly with Owners pushing above last-done on some specific ones. Tonnage list is getting shorter but expected to replenish a bit despite some few more ballasters to the States and at the same time we are closer to be sold-out for September.

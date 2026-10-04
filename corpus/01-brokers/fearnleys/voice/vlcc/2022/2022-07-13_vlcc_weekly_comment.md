@@ -1,0 +1,34 @@
+---
+id: "754F02CC-B72B-4760-A238-24BD08A79293"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-07-13"
+year: 2022
+week: 28
+title: "Fearnleys VLCC Weekly Comment - 2022-07-13"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-07-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-07-13 (Week 28)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `754F02CC-B72B-4760-A238-24BD08A79293`
+
+---
+
+## Market Commentary
+
+The MEG July volume has finished off with 140 or so fixtures for the month, continuing the trend of healthy activity. This week the Eid holidays coupled with falling in the twilight zone between July and August stems has meant a quieter few days, but rates continue to improve for owners with each successive fixture.
+
+**MEG**
+
+/China sits a little under WS 60, but consensus is that once the August stems kick in, passing WS 60 is likely. The smaller sizes continue their firm trend, certainly in the Atlantic, so strong upward pressure on VL rates from below.
+
+**West Africa**
+
+/China rates sit at WS 58.5, and stronger numbers in the USG, with USD 7.2m fixed STS USG/China (albeit off prompter dates), and a couple of unfixed Vitol stems to the UKC reported at the time of writing. No downside for the VLCC’s in the short term.

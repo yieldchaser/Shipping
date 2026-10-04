@@ -1,0 +1,26 @@
+---
+id: "650BAE91-6663-43F2-B1EA-BDE9B5485BC0"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-03-20"
+year: 2019
+week: 12
+title: "Fearnleys LNG Weekly Comment - 2019-03-20"
+---
+
+# Fearnleys LNG Weekly Comment (2019-03-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-03-20 (Week 12)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `650BAE91-6663-43F2-B1EA-BDE9B5485BC0`
+
+---
+
+## Market Commentary
+
+The spot LNG shipping market sentiment is holding relatively flat for another week, although there were quite a few requirements surfacing this week in both basins, but their impact has been rather minimal, as there are still enough prompt ships looking to be chartered. The Pacific rates have not moved this week whereas the Atlantic rates have been adjusted to correspond with the latest reported levels. However, there is an underlying firmer tone developing and the markets may well experience an upturn further out, as we are seeing Charterers looking to secure tonnage for multi-month or even multi-year period(s) with delivery later part of the year, and the availability list for such periods has seen reductions. LNG end-users were also heard looking at purchasing a few spot cargoes, which could be positive development for the shipping markets.

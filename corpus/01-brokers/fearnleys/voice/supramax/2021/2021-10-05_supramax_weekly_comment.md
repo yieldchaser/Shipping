@@ -1,0 +1,26 @@
+---
+id: "5DE7FF69-CB01-44CF-9097-1DFDCA3C6AB8"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-10-05"
+year: 2021
+week: 40
+title: "Fearnleys Supramax Weekly Comment - 2021-10-05"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-10-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-10-05 (Week 40)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `5DE7FF69-CB01-44CF-9097-1DFDCA3C6AB8`
+
+---
+
+## Market Commentary
+
+Slow start to the week and limited fresh orders in light of Golden Week in China. Index losing ground from Asia routes, while in the Atlantic USG making most of the gains. From the paper side, Supra FFAs joined the larger sizes in making decent gains, especially for Cal 22. From the Atlantic, the Mediterranean remained balanced where inter Med trips were covered at USD 40,000. Grains from the Black Sea to the Continent were fixed at USD 39,000 and to the Far East around USD 52,000. Fertz from the Continent to the USG covered around USD 40,000. More push from the USG with several fixtures this week. Coal run from Mississippi River to the West Med was concluded around USD 45,000. From similar position to ECSA, an Ultramax was paid USD 47,000 levels. Grain runs to China settled around USD 53,000. Little activity from the Pacific Basin. Indo/China runs fixed around USD 45,000. The Pacific RV close to USD 40,000. Ultra from WCI via MEG to Bangla with aggregates got fixed around USD 51,000.

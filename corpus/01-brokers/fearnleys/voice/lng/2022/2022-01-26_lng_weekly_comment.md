@@ -1,0 +1,26 @@
+---
+id: "68D4B30C-BC88-4B20-B7CD-BDF09BE30D30"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-01-26"
+year: 2022
+week: 4
+title: "Fearnleys LNG Weekly Comment - 2022-01-26"
+---
+
+# Fearnleys LNG Weekly Comment (2022-01-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-01-26 (Week 4)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `68D4B30C-BC88-4B20-B7CD-BDF09BE30D30`
+
+---
+
+## Market Commentary
+
+Muted chartering activity continued across both basins this week. The ever fluctuating LNG price seems to be doing little to bolster freight but levels being discussed remain firm rather than continuing to drop. Current vessel availability remains high globally, and this will probably keep rates under pressure short term as more subletters look to push out tonnage. With Lunar New Year approaching in Asia, activity within the Pacific is likely to continue waning - any short positions that needed covering are likely already concluded, and offices will start to empty for the holiday period. However, more activity was seen in the Atlantic. Both geopolitical tensions and gas prices competing with Asia are causing some unsettlement and could drum up activity for shipping. The term market remains strong with a steady stream of enquiries entering the market. Rates however soften slightly as some subletters willing to consider such periods are putting downward pressure on levels, albeit still healthy. The recent order boom on newbuilds takes a breather this week with no new orders being placed at yards, however newbuild prices remain robust.

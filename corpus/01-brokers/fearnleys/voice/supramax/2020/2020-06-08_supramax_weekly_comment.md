@@ -1,0 +1,30 @@
+---
+id: "34649E1F-F0CA-4F2C-BAE4-47017A996104"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-06-08"
+year: 2020
+week: 24
+title: "Fearnleys Supramax Weekly Comment - 2020-06-08"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-06-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-06-08 (Week 24)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `34649E1F-F0CA-4F2C-BAE4-47017A996104`
+
+---
+
+## Market Commentary
+
+Despite a slow start from the Monday there was heightened activity in both basins. The most strength in rates have been in USG and ECSA .
+
+**West Africa**
+
+ saw good demand for tonnage both for Far East and Transatlantic destinations. From the Mediterranean and Continent activity remains low. Indian ocean and South East Asia continue last weeks trend of increasing demand. On the period side Mv Nikolaos A 58k dwt open Surabaya 5 June fixed min 3 abt 5 months redelivery worldwide at $9,500 p/day. Forward NB TBN (63,500 2020) dely cjk in sept clean fixed 1 year at $10,500.

@@ -1,0 +1,26 @@
+---
+id: "6617a298-70b8-422c-89e0-47ea0f50a1dd"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-09-24"
+year: 2025
+week: 39
+title: "Fearnleys Capesize Weekly Comment - 2025-09-24"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-09-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-09-24 (Week 39)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `6617a298-70b8-422c-89e0-47ea0f50a1dd`
+
+---
+
+## Market Commentary
+
+On the C5 front, we see miners and operators out seeking for early up to mid October dates. Periphery volumes out of East Australia and other fronts of the pacific have held up since last week. Overall healthy levels as fixtures concluded at high USD 10 pmt levels for C5. On the buy side, we see strong volumes with excess of 10 spot fixtures ex West Australia concluded yesterday, typical daily average is 6-7. On sell side, upside is further exacerbated by typhoon in South China and increasing attractiveness to ballast, resulting in fewer candidates in the pacific. On the C3 ex Brazil and West Africa front, enquiries are primarily for end October and October/November split dates. Number of ballasters is thinning across all dates. Fixtures have concluded in the high USD 25 pmt levels, up more than USD 1 pmt from mid last week.

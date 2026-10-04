@@ -1,0 +1,26 @@
+---
+id: "3EB48996-191C-4066-B77E-F1D843B646B1"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-07-10"
+year: 2019
+week: 28
+title: "Fearnleys LNG Weekly Comment - 2019-07-10"
+---
+
+# Fearnleys LNG Weekly Comment (2019-07-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-07-10 (Week 28)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3EB48996-191C-4066-B77E-F1D843B646B1`
+
+---
+
+## Market Commentary
+
+LNG cargo market remains soft with Far East DES price at low levels and with East to West arbitrage firmly shut, yet this week more shipping activity appeared with a few spot requirements mainly witnessed east of Suez. Sentiment seems to be picking up as players prepare for winter and the latest sub fixtures concluded suggest that we might see rates steadily firming. In the West, things remain relatively muted as closed arbitrage encourages limited cross basin trades and give some sublet availability, putting pressure on prompt rates. The scenery completely changes when we looking into Q3 cargoes where Owners are indicating more robust figures. On term, interest from Charterers on multimonth and multiyear business remains strong and it will be interesting to see the outcome of these requirements within the next few weeks. There have been no new orders reported this week and newbuilding prices remain stable.

@@ -1,0 +1,26 @@
+---
+id: "f7d685bb-2501-446f-bda5-63274715fbc5"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-10-30"
+year: 2024
+week: 44
+title: "Fearnleys Supramax Weekly Comment - 2024-10-30"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-10-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-10-30 (Week 44)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `f7d685bb-2501-446f-bda5-63274715fbc5`
+
+---
+
+## Market Commentary
+
+Slow start to the week. Past week has been relatively quiet except for the fresh influx of cargoes especially in west Africa early this week - cargo covered well below last done levels given ample tonnage in the region. In Asia, the market picked up start of the week with fresh volumes taking up the available tonnages. The Handysize market remained positive, however the Continent and Mediterranean remains relatively weaker. Market fundamentals in the US Gulf and South Atlantic stay strong, contributing to a positive outlook. With the grain season coming up, we expect more volumes out of ECSA in the coming weeks. Period market is slow with fewer fixtures reported this week.

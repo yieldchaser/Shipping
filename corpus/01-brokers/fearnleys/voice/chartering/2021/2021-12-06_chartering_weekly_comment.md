@@ -1,0 +1,26 @@
+---
+id: "A47B8A71-1F49-4F54-8C57-6D7AA9677698"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-06"
+year: 2021
+week: 49
+title: "Fearnleys Chartering Weekly Comment - 2021-12-06"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-12-06 (Week 49)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `A47B8A71-1F49-4F54-8C57-6D7AA9677698`
+
+---
+
+## Market Commentary
+
+EAST Still some uncovered cargoes remaining on December dates in the East before we soon expect January to kick off after the last round of acceptances next week. We are seeing a tendency of less vessels sailing via Cape/Suez as the waiting time in Panama North bound has been decreasing lately potentially reducing the theoretical availability in the East. Freight ideas has been upped slightly the past couple of days as we are about to be closing December fixing and availability for actual East vessel slimming. WEST Some early signs of increased activity have surfaced this week. A handful of first half January cargoes are being worked or at least within striking range and at the same time there were two FOB/CFR tenders in the market requiring shipping this week (of which one has been concluded already). It seems the product and freight market are finding its feet around the USD 110-112 mark and will probably hoover this range for the next handful of deals if the arbitrage sustains. As we are getting closer to January and most vessels still open during first half January are coming from the West or via Cape/Suez, the true effect of not being able to prebook northbound Panama is yet to be seen.

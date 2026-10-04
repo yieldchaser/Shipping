@@ -1,0 +1,26 @@
+---
+id: "B2A03F82-59C4-434F-B541-D7A1701BDA8E"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-17"
+year: 2020
+week: 47
+title: "Fearnleys Supramax Weekly Comment - 2020-11-17"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-11-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-11-17 (Week 47)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `B2A03F82-59C4-434F-B541-D7A1701BDA8E`
+
+---
+
+## Market Commentary
+
+The week started quietly with limited offers. By mid week almost all routes were pushing up. Especially USG in Atl, where trip to Far east was paying close to USD22,000 and to Continent direction rates were closed to USD16,000. Grain runs from Brazil to China where concluded at USD12,000 + 400k bb on Ultramax. Ships with fertz dop Cont to USG fixed at USD11-12,000 and usual scrap round could pay USD17,000. In Pacific basin all in all not many fresh orders. Vsls from South Africa to China went at USD12,000k + 200 k bb. Trip from AG to Bangladesh at USD12,500. Business from WCI to China was paying USD11,000 and steel run from ECI to China at low USD13,000 on ultra. Less attractive trading on the period front where supras were covered at 8700 for 11-12 mos redel ww.

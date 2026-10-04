@@ -1,0 +1,26 @@
+---
+id: "e9039263-d6fa-469d-842f-760129575ae1"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-08-24"
+year: 2023
+week: 34
+title: "Fearnleys Chartering Weekly Comment - 2023-08-24"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-08-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-08-24 (Week 34)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `e9039263-d6fa-469d-842f-760129575ae1`
+
+---
+
+## Market Commentary
+
+EAST Although freight rates seem steady in the US at the moment, the MEG market appears a bit weaker as the tonnage availability for early September is currently outweighing available cargoes. Considering the spot count for first decade of Sep now stands at 5 v 1 in second decade, there could be a few more cargoes requiring spot fixing before the second decade of Sep. WEST We are currently seeing several uncovered cargoes out there for 1H Oct dates in USG as we count 9-10 spot fixtures in total for October (all in first decade). There are still a few vessels left in end Sep, but they might also be candidates for 1-10 Oct dates as we only see 2 firm open position left there this period. Further out for 10-20 Oct dates the position list continues looking tight, but we have at the time of writing yet to see a spot fixture this decade as it is still 6-7 weeks out.

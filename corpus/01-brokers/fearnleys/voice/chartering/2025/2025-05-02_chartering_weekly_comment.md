@@ -1,0 +1,26 @@
+---
+id: "af4c2458-b9de-4e9c-95b0-1344c163359d"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-05-02"
+year: 2025
+week: 18
+title: "Fearnleys Chartering Weekly Comment - 2025-05-02"
+---
+
+# Fearnleys Chartering Weekly Comment (2025-05-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2025-05-02 (Week 18)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `af4c2458-b9de-4e9c-95b0-1344c163359d`
+
+---
+
+## Market Commentary
+
+EAST In the first half of the week, freight sentiment gradually started to look negative in the Middle East as it was becoming apparent that the market was lacking spot demand in May. However, we have seen more spot cargos 2 half of May dates. At the time of writing, whether this will bring the market up again, remain to be seen. WEST With Golden week holidays and Labor Day observance, fixing activity kicked off for 1st decade June beginning of the week. Time of writing we have seen 8 deals concluded in this window with last done fixed just shy off $100 HCvP. Freight rates have held up until now, despite Arb trying to suggest otherwise.

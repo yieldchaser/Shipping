@@ -1,0 +1,26 @@
+---
+id: "4a21aa8c-82c1-46d9-97d1-ce2bad620262"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-06-10"
+year: 2026
+week: 24
+title: "Fearnleys VLCC Weekly Comment - 2026-06-10"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-06-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-06-10 (Week 24)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `4a21aa8c-82c1-46d9-97d1-ce2bad620262`
+
+---
+
+## Market Commentary
+
+Ships continue to disappear under the radar on the VLCC front and the position lists both sides of Suez are becoming wanting in the front end, which should dictate a further uptick in rates. Capping that is lack of transparency. A tight supply/demand picture is one thing but not having a pricing reference is clouding proceedings. If owners really want to push this, they will have to start leaking a bit more information – real time – if not the assumption will be that it’s just more of the same. Rumours suggest there is still prompt interest from Fuj/Oman from the likes of Admic and KPC et al., and not much to choose from with WS 140 eastbound seemingly a “given” if nothing else comes to light. Petrobras keeps the flame burning from the Atlantic with almost daily cargo quotes Brazil/East and rates have inched up a couple of points north of the WS 115 mark. Sinkor is back in buying mood if we are to believe reports, the Maxim being the latest to be added, at a stonking price for an older lady ('11 built). Never have so many had one player to thank for so much to paraphrase Churchill, without Sinokor’s big market share and restraint in fixing we wouldn’t be even close to current levels.

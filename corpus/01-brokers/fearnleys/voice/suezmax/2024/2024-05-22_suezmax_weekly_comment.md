@@ -1,0 +1,26 @@
+---
+id: "156ab8c3-28e4-4733-9051-908860d8a3af"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-05-22"
+year: 2024
+week: 21
+title: "Fearnleys Suezmax Weekly Comment - 2024-05-22"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-05-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-05-22 (Week 21)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `156ab8c3-28e4-4733-9051-908860d8a3af`
+
+---
+
+## Market Commentary
+
+There's a lot of positive talk emanating from Atlantic players, but the question is, do the fundamentals support upward movement? We feel that the one shining light is the Mediterranean Aframax market which has brought Suezmax into its crosshairs making TD 6 jump up to WS 122.5. In West Africa, there is a similarly bullish feel, but the outstanding second decade stems suggest it will have to be more sentiment driven that supply demand with max 12mb left to left in that window. In the East, last done MEG/East is WS 115 (which is up) against a tightening list with no downside. Bot/UKCM (Cape) should pay WS 70’ish - again, no downside.

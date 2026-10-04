@@ -1,0 +1,26 @@
+---
+id: "a0aa26b7-f279-4d30-816c-e4e5d67ea53b"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-06-26"
+year: 2024
+week: 26
+title: "Fearnleys LNG Weekly Comment - 2024-06-26"
+---
+
+# Fearnleys LNG Weekly Comment (2024-06-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-06-26 (Week 26)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `a0aa26b7-f279-4d30-816c-e4e5d67ea53b`
+
+---
+
+## Market Commentary
+
+The LNGC spot market continues to show a significant regional imbalance, bubbling over in the Atlantic while remaining a little flat in the Middle East and Pacific basins. The arbitrage driving Atlantic volume into Asia is modest but still present, and the resulting conveyor belt taking ships East is making the summer far more interesting than many would have expected (and also, more than some would have liked). Taken globally, the fleet is more than capable of handling current LNG production levels with quite some length to spare; however, trying to find certain vessels for specific dates out the US Gulf is now proving very difficult – hence the spike in rates. There are some signs that the Pacific may feel a modest knock-on impact as disponent owners price tonnage off Atlantic levels, but this is not likely to push levels much higher since competition remains strong. The multi-month market up to periods of a year has continued to firm up, although there is a sense of “wait and see” from some players on winter tonnage, whether chartering in or out. For multiyear business, sentiment is softening slightly mainly due to anticipated delays in project start-ups. Yet as today’s spot activity shows, a surplus of global tonnage does not necessarily mean a dull market. Looking to geopolitics, there was a fresh round of sanctions adopted against Russian reloads from European terminals, but there is a considerable phase-in period and the overall impact will likely be small. There were no newbuildings ordered this week.

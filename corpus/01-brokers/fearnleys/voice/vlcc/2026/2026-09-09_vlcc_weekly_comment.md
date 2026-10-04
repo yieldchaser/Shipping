@@ -1,0 +1,30 @@
+---
+id: "021cad1f-9384-49f5-90c7-2f156b3b8637"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-09-09"
+year: 2026
+week: 37
+title: "Fearnleys VLCC Weekly Comment - 2026-09-09"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-09-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-09-09 (Week 37)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `021cad1f-9384-49f5-90c7-2f156b3b8637`
+
+---
+
+## Market Commentary
+
+The VLCC positions list is now so tight that no one would be too surprised if we see the W400 mark breached for a Fujairah/east for a prompt-ish position before the week is over, crazy as it may sound. Speed blindness does not even begin to describe the current mood. However, the oil still needs to get out through the Strait of Hormuz and Iranians have increased efforts to stop that from happening. It’s a fragile state of affairs.
+
+**Atlantic**
+
+/east rates have followed suit as refiners look for supply security regardless of higher oil prices. Ship values have also skyrocketed in tandem with the spot market with reports of new building resales at $200 million- and 16–17-year-olds more than half of that. Fasten seat belts.

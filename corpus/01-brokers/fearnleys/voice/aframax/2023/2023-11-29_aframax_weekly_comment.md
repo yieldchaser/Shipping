@@ -1,0 +1,30 @@
+---
+id: "1e3c1d89-fd78-4ad5-b087-7875dc0cb20c"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-29"
+year: 2023
+week: 48
+title: "Fearnleys Aframax Weekly Comment - 2023-11-29"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-11-29 (Week 48)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `1e3c1d89-fd78-4ad5-b087-7875dc0cb20c`
+
+---
+
+## Market Commentary
+
+NORTH In the North Sea, we have seen very limited activity for early December and rates have fallen as a result. Fixing window now into the 5-10 December window. After the quiet start to December fixing the balance of the month beyond the 10th does look like it should be more active with a relatively large North Sea program. MEDITERRANEAN Activity this week has helped to clear the way for some firming looking forward on the Mediterranean Afras with owner’s keen to quickly close the gap up to the Suezmax.
+
+**Black Sea**
+
+ fixing mid-month with the window X-Mediterranean slightly earlier off end/early first decade dates; with a predicted increase in supply through December.

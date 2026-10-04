@@ -1,0 +1,30 @@
+---
+id: "109087f7-68f1-4aee-924d-4fa684607f88"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-09-06"
+year: 2023
+week: 36
+title: "Fearnleys Capesize Weekly Comment - 2023-09-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-09-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-09-06 (Week 36)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `109087f7-68f1-4aee-924d-4fa684607f88`
+
+---
+
+## Market Commentary
+
+Volumes remain consistent for mid-late September C5, East Australia, and Pacific business, contributing to slight improvement in optimism. Slight improvement in volumes on South Africa and India business. Volumes remain scarce on West Africa, C3 ex Brazil/China and North Atlantic.
+
+**Far East**
+
+ tonnage remains abundant while ballasters continue to remain substantial. C5 levels improved slightly and we see a slight uptick to high USD 7 pmt levels. C3/West Africa fixtures are limited and experienced further decline to sub USD 19 pmt levels. On period, we see 180k dwt 2011-build non-scrubber fixed with narrow spread of 4-6 months at high USD 13,000/day.

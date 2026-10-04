@@ -1,0 +1,26 @@
+---
+id: "2a11a34b-9346-4803-8448-f674a6cfe82f"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-11-22"
+year: 2024
+week: 47
+title: "Fearnleys S&P Weekly Comment - 2024-11-22"
+---
+
+# Fearnleys S&P Weekly Comment (2024-11-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-11-22 (Week 47)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `2a11a34b-9346-4803-8448-f674a6cfe82f`
+
+---
+
+## Market Commentary
+
+Although spot rates have improved somewhat this week, the tanker winter market continues to be elusive. Enquiry on larger crude tonnage remains tentative as a result, but despite this, any discussion will be taken very seriously by owners who are keen to exit positions at these elevated levels. What is uncertain is the extent to which values will correct following this ongoing slump. As expected, values for non-eco aframaxes, around the 15-year age bracket, are the first to feel the heat as uncertainty takes hold. Tellingly, the sale of SOFIA II (105k DWT Sumitomo 2008) at USD 32.2M is a rude awakening for owners still stuck with yesterday’s price expectations. History has shown however, that bids accepted in a falling market may prove to be a smart move once the dust settles. It can be argued that the reason for the well documented disconnect between values and rates has been driven by sentiment, rather than by genuine market fundamentals in this year’s dry market. Despite this somewhat lacklustre earnings environment, investors are still keen to pursue opportunities in this sector. Sellers, for the same reason, are willing to service this enquiry even as values are correcting. This is demonstrated in the sales of scrubber fitted capesize sisters NORD ENERGY/POWER (178k DWT HHIC Phil 2012) to Hayfin at USD 31.8M each, 6 months after the same owners sold a year older ship scrubber fitted unit NORD FERRUM (179k DWT HHIC Phil 2011) for USD 34.3M (in May).

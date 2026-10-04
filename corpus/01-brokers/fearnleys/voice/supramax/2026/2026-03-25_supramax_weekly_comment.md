@@ -1,0 +1,26 @@
+---
+id: "1f694007-e9b4-4b09-8aab-69c274bb52e0"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-03-25"
+year: 2026
+week: 13
+title: "Fearnleys Supramax Weekly Comment - 2026-03-25"
+---
+
+# Fearnleys Supramax Weekly Comment (2026-03-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2026-03-25 (Week 13)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `1f694007-e9b4-4b09-8aab-69c274bb52e0`
+
+---
+
+## Market Commentary
+
+The Supramax market showed a generally subdued and mixed trend, with limited fresh activity across most regions and a growing tonnage list, particularly in the Continent and Mediterranean. Demand softened compared to the previous week, while the US Gulf and South Atlantic remained notably quiet, though there are early signs that rates may be stabilizing as new cargoes are slowly coming in. In Pacific, activity was limited, the Handysize continued to face weak sentiment, with less vessel and limited cargo availability in both the Atlantic and Asia.

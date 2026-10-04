@@ -1,0 +1,26 @@
+---
+id: "CF181180-4718-4DC2-9634-A06C9F3DB7FE"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-01-02"
+year: 2023
+week: 1
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-01-02"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-01-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-01-02 (Week 1)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `CF181180-4718-4DC2-9634-A06C9F3DB7FE`
+
+---
+
+## Market Commentary
+
+Nothing from East this week

@@ -1,0 +1,26 @@
+---
+id: "d9392f0f-f674-4a6f-afa9-ee74f1619abe"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-12-10"
+year: 2025
+week: 50
+title: "Fearnleys Capesize Weekly Comment - 2025-12-10"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-12-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-12-10 (Week 50)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `d9392f0f-f674-4a6f-afa9-ee74f1619abe`
+
+---
+
+## Market Commentary
+
+On the C5 front, we see enquiries for miners and operators for end December dates. Level of enquiries from players decreased as we approached midweek. Volumes out of East Australia and other fronts of the pacific are low. On C3 ex Brazil and West Africa, focus is on early to mid January dates. Ballasting tonnage is more abundant for first half January. Spot tonnage out of Far East is increasingly abundant. Fixtures concluded at sub USD 11 pmt levels by midweek. C3 concluded in the mid-high USD 22 pmt levels for early to mid January.

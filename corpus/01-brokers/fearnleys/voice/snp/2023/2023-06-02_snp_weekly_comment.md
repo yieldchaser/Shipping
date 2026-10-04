@@ -1,0 +1,26 @@
+---
+id: "D4B1C312-A0ED-4CF8-AD1B-07D58B3365B7"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-06-02"
+year: 2023
+week: 22
+title: "Fearnleys S&P Weekly Comment - 2023-06-02"
+---
+
+# Fearnleys S&P Weekly Comment (2023-06-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-06-02 (Week 22)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `D4B1C312-A0ED-4CF8-AD1B-07D58B3365B7`
+
+---
+
+## Market Commentary
+
+In what looks like a good deal for DHT, its purchase of five-year-old scrubber fitted VLCC MARIA P. LEMOS (319K DWT HHI 2018) at USD 94.5M stands out. The price is well below market consensus on values which arguably have been inflated by Barhi's purchase in November 2022 of ELANDRA DENALI/ELBRUS (299K DWT HHI 2020) at USD 112M each. That said, despite the big numbers, there is very little liquidity in VLCCs aged 5 and younger. In what has become a very competitive space in the market, 10-15 yo Suezmaxes, Frontline sold non scrubber fitted FRONT NJORD (156K DWT RONGSHENG 2010) at USD 44.5M. This, in comparison to the sale of its scrubber fitted sister EVERBRIGHT in March at USD 42M, shows the trajectory of this market. Rounding off the larger tanker sales, Aframax duo STAR PROSPERITY (115K DWT SASEBO 2009 ) and DAKOTA STRENGTH (115K DWT SAMSUNG 2007) both sold to Middle Eastern buyers at USD 43M and USD 40M respectively. Alarm bells are sounding in the dry market with both the BDI and average spot rates languishing. To put it into context, this week the Capesize Atlantic Index registered its third largest daily decline on record. Time will tell whether, or how soon, concerns over the Chinese demand story will impact the second-hand market. It is worth remembering that despite the speculation over the performance of the dry market in what has been a rollercoaster 1H 2023, prices have generally remained firm, with sellers unwilling to take a haircut despite volatile rates. In the only headline transaction, Ultramax GREAT VENTURE (61K DWT COSCO DALIAN 2019) was bought by Greek buyers for USD 30.3M.

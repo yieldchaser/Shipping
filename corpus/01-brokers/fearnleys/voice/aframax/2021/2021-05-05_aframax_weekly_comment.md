@@ -1,0 +1,26 @@
+---
+id: "E7CB77C7-C056-44A8-A397-740C96867EB8"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-05"
+year: 2021
+week: 18
+title: "Fearnleys Aframax Weekly Comment - 2021-05-05"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-05-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-05-05 (Week 18)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `E7CB77C7-C056-44A8-A397-740C96867EB8`
+
+---
+
+## Market Commentary
+
+Owners’ optimism for improved rates on the back of a heavier Urals program was quickly curbed as some owners fixed lower than last done levels. Less fuel inquiries and an abundance of relets in the area would explain their rationale behind their decision. We expect rates to move sideways till the next possible tight window in the 3rd decade of May. Although the tonnage list remains healthy in the Mediterranean/Black Sea, we have seen rates pick up a few points during the course of the week as expected. This is mainly due to a fair amount of cargoes coming into the market. The last few days it has balanced out somewhat, also due to a quiet start of the week as a few countries had public holiday. We don’t expect any significant change in freight levels in the week to come, but if any a slight softening trend.

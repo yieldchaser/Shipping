@@ -12,6 +12,8 @@ scripts/__pycache__/
 # Temp / scratch
 tmp/
 scratch/
+proxy_gateway/
+logs/
 
 # AI tool metadata & agent instructions (Local-Only)
 .agents/

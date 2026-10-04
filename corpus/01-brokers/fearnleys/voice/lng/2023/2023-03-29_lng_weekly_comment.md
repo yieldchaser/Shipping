@@ -1,0 +1,26 @@
+---
+id: "1912773A-935E-447E-BC9E-B96CB02D3FD8"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-03-29"
+year: 2023
+week: 13
+title: "Fearnleys LNG Weekly Comment - 2023-03-29"
+---
+
+# Fearnleys LNG Weekly Comment (2023-03-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-03-29 (Week 13)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `1912773A-935E-447E-BC9E-B96CB02D3FD8`
+
+---
+
+## Market Commentary
+
+The LNG shipping market continues to soften this week as we slide further down the shoulder months of 2023. The lack of prompt requirements in both basins has resulted in an eerily quiet week across the market thus far and has been made more apparent when reviewing the Fearnley LNG Availability Report. The number of available vessels in the Atlantic remains high, with Owners of modern tonnage struggling to find the prompt employment while tonnage East of Suez also appears to be stacking up. Consequently, we have lowered our spot rate assessments to reflect the softening market sentiment and surplus of tonnage which corresponds to the backwardation seen on the LNG product side going forward. On the term side of equation, the current lull in spot rates has translated into reduced short-term rates of 1-3 years, however, we expect this to correct upwards and remain bullish as we inch towards winter. For now, heads turn to the fiercely contested EGAS spot tender for which bids are due by 30th March. On the newbuilding front, prices remain firm with reports this week that Taiping & Sinopec Financial Leasing placed orders for two 175,000m3 LNG carriers with China’s Jiangnan Shipyard while Capital Gas were reported to be identified as Owner of two LNGCs ordered with Hyundai Samho Heavy Industries for delivery by March 2027.

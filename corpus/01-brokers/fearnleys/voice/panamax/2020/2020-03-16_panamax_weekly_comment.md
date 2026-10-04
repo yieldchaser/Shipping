@@ -1,0 +1,26 @@
+---
+id: "A8236254-6739-45D7-AA6F-543627128646"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-16"
+year: 2020
+week: 12
+title: "Fearnleys Panamax Weekly Comment - 2020-03-16"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-03-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-03-16 (Week 12)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `A8236254-6739-45D7-AA6F-543627128646`
+
+---
+
+## Market Commentary
+
+A turbulent week as the Covid-19 virus continues to impact and distract both world trade and financial markets. Less fixtures were concluded than normal, and the sentiment points to a further erosion. For a transatlantic trip, Kamsarmaxes (82,500 dwt) currently earn around USD 7,000 per day, while short fronthauls from the UK/Continent-region are priced at the low USD 17,000s. From East Coast South America to China, charterers are willing to pay around USD 9,000 DOP Singapore for a roundtrip. A transpacific round voyage in the East pay shipowners around USD 6,500, and the Baltic 4TC-Index is down 75 points since last week, now at 886 points.

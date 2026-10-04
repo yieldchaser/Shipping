@@ -1,0 +1,26 @@
+---
+id: "435F33B0-DCFE-4DF4-9827-513FD00FAA06"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-07-25"
+year: 2022
+week: 30
+title: "Fearnleys Panamax Weekly Comment - 2022-07-25"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-07-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-07-25 (Week 30)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `435F33B0-DCFE-4DF4-9827-513FD00FAA06`
+
+---
+
+## Market Commentary
+
+After the Panamax market levelled out and turned positive last week, this week has been more mixed. The FFA drop on Monday caused a pull back from the charterers to re-evaluate levels and market direction. In the Pacific, market felt under pressure with low volume of cargo and increased tonnage counts so rates dropped below last done. In the Atlantic, despite of low activities, the cargo volume and tonnage list are more or less balanced, and levels concluded at last done. The tonnage count in Atlantic is reduced and low for next two weeks, therefore we reckon Atlantic market may be stable this week. ECSA is flat and tick below last done, therefore we need a clearing out current vessels before seeing any improvement. There is still very limited period business being reported.

@@ -1,0 +1,30 @@
+---
+id: "348689BD-6099-4749-9282-7B0B97B9AB5D"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2019-03-28"
+year: 2019
+week: 13
+title: "Fearnleys LPG Eastern Weekly Comment - 2019-03-28"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2019-03-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2019-03-28 (Week 13)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `348689BD-6099-4749-9282-7B0B97B9AB5D`
+
+---
+
+## Market Commentary
+
+MEG： The intermonth CP value is still in a heavily backwardated structure. April/May remains at $45-50 while May/June now stands at $15-20. At time of writing, April Propane CP is traded at 507$, and butane stands at $20 higher. Cargoes which can make within April delivery are being favored and discussed at teens premium. Freight has soared to above $40, as plenty of vessels are lining up outside US and limited tonnage showing open in the AG gulf.
+
+**FAR EAST**
+
+: Front market is extremely tight, with a handful of cargoes being delayed due to the Houston ship channel closure. On Wednesday 23kt propane for 2h April arrival was traded at Apr FEI plus $50, and a similar cargo for 1h May arrival was concluded at May FEI plus $40. Some traders have continue trying to arrange time swaps to secure tons with delivery within April. Indonesia’s Pertamina have issued tenders to secure two split-ratio cargoes for 1h May delivery, while BPCL also tendered to buy similar cargos for 1h/mid-May delivery. Results of these are yet to be known. Most Chinese importers are exploring cargos for 1h May arrival, even so there are still some prompt inquiries for April delivery. Sellers are hesitant showing offers because of heavy backwardations. As MEG supply is short, Chinese players have turned to some other origins. Our shiptrack shows around 500k tons Iranian origin cargoes discharge into China within the month of March, which is the highest on record in the recent past. April volume is expected to be slightly smaller as less floating cargoes are available.

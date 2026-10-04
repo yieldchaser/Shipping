@@ -1,0 +1,26 @@
+---
+id: "94E874F3-902C-439A-BA48-4D14376E2E49"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-11-01"
+year: 2021
+week: 44
+title: "Fearnleys VLCC Weekly Comment - 2021-11-01"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-11-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-11-01 (Week 44)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `94E874F3-902C-439A-BA48-4D14376E2E49`
+
+---
+
+## Market Commentary
+
+Sentiment is somewhat undecided in the VLCC market, and rates have flatlined in the mid WS 40’s for MEG/Eastbound voyagers. A quieter Atlantic Basin has also limited alternative opportunities. Chinese charterers have been busy scheduling more or less the entire domestic fleet for voyages back to the homeland, in addition to fixing “third party” tonnage. However, most of which have been done on the quiet, and the owning community has been caught slightly off guard with volumes slipping through their fingers. Although treading water, the downside appears limited short term.

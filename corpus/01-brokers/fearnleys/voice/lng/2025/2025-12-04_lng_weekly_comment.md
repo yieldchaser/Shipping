@@ -1,0 +1,26 @@
+---
+id: "4b09928d-b049-4416-b91c-482e86d162ff"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-12-04"
+year: 2025
+week: 49
+title: "Fearnleys LNG Weekly Comment - 2025-12-04"
+---
+
+# Fearnleys LNG Weekly Comment (2025-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-12-04 (Week 49)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `4b09928d-b049-4416-b91c-482e86d162ff`
+
+---
+
+## Market Commentary
+
+December has started in a slightly softer mood in the Atlantic, as the recent flurry of relatively prompt fixtures has relaxed into requirements a little further out into January and thus towards some lower rates. Interestingly, the decline in levels hasn’t been as rapid or as sharp as some may have expected. Seasonal spikes have historically lasted little more than four weeks so whilst it’s natural to expect a downturn before too long, the recent rise has not come on the back of a cold snap or a regional demand swing. The main driver has been increased production and this is not likely to reverse anytime soon, instead the market will be seeing the benefits of sharper optimisations and the delivery of more newbuildings to help rebalance the picture. As the Atlantic eases a little, the Pacific remains a little quiet with very few requirements or fixtures and rates holding firm. Instead, we look to the Middle East again as the region has returned to the foreground with a number of spot requirements and FOB cargo sales, and therefore firming rates. If it feels a little quiet just look left or right or give it a day or two, it’s still a very busy market out there.

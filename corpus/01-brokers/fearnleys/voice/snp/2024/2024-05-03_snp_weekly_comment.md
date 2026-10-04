@@ -1,0 +1,26 @@
+---
+id: "478e9054-1850-4435-b0d6-0f58193c10ea"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-05-03"
+year: 2024
+week: 18
+title: "Fearnleys S&P Weekly Comment - 2024-05-03"
+---
+
+# Fearnleys S&P Weekly Comment (2024-05-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-05-03 (Week 18)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `478e9054-1850-4435-b0d6-0f58193c10ea`
+
+---
+
+## Market Commentary
+
+A somewhat interrupted week due to holidays across the market saw a handful of transactions reported. Chinese buyers continue to dominate mid aged Aframax tonnage, as scrubber fitted CLARET PRINCE 109K DWT HUDONG ZHONGHUA 2010 was picked up for USD 43.5M – in line with recent sales. With the Canadian Trans Mountain pipeline soon to be opened, one could speculate these recent Chinese acquisitions are to service this new increased export capacity to Asian markets. China was also the destination for ageing VLCC PHOEBE 311K DWT MITSUI 2005, as she was sold for USD 40M. In the clean market, LR1 ALPINE PERSEFONE 74K DWT SUNGDONG 2008 was bought by Spring Marine for USD 29M. Modern tonnage is still proving hard to come by in the dry market, and any candidates that do emerge are hotly contested. As a result, we continue to see an abundance of mid aged and older ships being traded. Pricing emerged on the Newcastlemax sisters CAPE KALLIA/NEWMAX 203K DWT BOHAI 2012, which were bought for USD 38M each by Pioneer. Owners of capesize HENG SHAN 174K DWT SWS 2007, took advantage of the recent run on values with a healthy USD 21.75M achieved to undisclosed buyers.

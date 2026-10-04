@@ -1,0 +1,26 @@
+---
+id: "c2e5f3ac-30d5-4964-946e-7355309ff7bc"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-06-05"
+year: 2026
+week: 23
+title: "Fearnleys S&P Weekly Comment - 2026-06-05"
+---
+
+# Fearnleys S&P Weekly Comment (2026-06-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-06-05 (Week 23)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `c2e5f3ac-30d5-4964-946e-7355309ff7bc`
+
+---
+
+## Market Commentary
+
+No second-hand transactions are reported in the tanker market this week, though not due to any change in sentiment, which remains strong. Newbuilding continues to be the preferred outlet for investors in this sector, with activity particularly focused on larger crude tonnage. Earnings across dry are in keeping with the overall buoyant shipping markets, with the lower than usual reported sales likely due to Posidonia 2026 taking place in Athens this week. SSDD due Supramax AE MARS (53K DWT Yangzhou Dayang 2006) was sold for USD 9.05M.

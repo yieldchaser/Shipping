@@ -1,0 +1,26 @@
+---
+id: "4DD54033-E048-4C5D-BDDF-BB7DE5B0123B"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-15"
+year: 2019
+week: 20
+title: "Fearnleys Panamax Weekly Comment - 2019-05-15"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-05-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-05-15 (Week 20)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `4DD54033-E048-4C5D-BDDF-BB7DE5B0123B`
+
+---
+
+## Market Commentary
+
+A positive week in both hemispheres, where especially the grain market from ECSA has shown a solid increase in rates. A transatlantic round voyage currently pays owners about USD 10,500 per day, while a short fronthaul from the Continent yields about USD 18,000. In the East, a Pacific round voyage pays around the mid USD 8,000's. The BPI 4TC-index is currently at 1243 points, up 55 points from last week.

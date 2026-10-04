@@ -1,0 +1,26 @@
+---
+id: "44c4fb4e-46fa-4ecf-ab1c-5b93d42c4e6d"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-06-25"
+year: 2025
+week: 26
+title: "Fearnleys Aframax Weekly Comment - 2025-06-25"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-06-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-06-25 (Week 26)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `44c4fb4e-46fa-4ecf-ab1c-5b93d42c4e6d`
+
+---
+
+## Market Commentary
+
+NORTH SEA Stems steadily covering in the first 5 days of July although actual market activity has not been that busy. Market remains relatively steady and prompt vessels now looking to have to absorb a fair amount of waiting time. A slightly unusual fuel oil cargo has paid a premium which has given some uplift in owner sentiments. The 5-10 July window stem wise doesn’t look to be that full so for the time being we anticipate market to remain on an even keel. MEDITERRANEAN Activity in the Mediterranean has been steady and strong as rates are moving sideways under some upward pressure. Dates are moving way too forward now and we might see a couple of quiet days until the end of this week. Also, replacement jobs might be needed for some tight fixing but there are still enough vessels around to protect.

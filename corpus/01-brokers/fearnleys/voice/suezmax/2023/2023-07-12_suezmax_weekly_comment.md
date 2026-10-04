@@ -1,0 +1,26 @@
+---
+id: "5FD399F6-A846-41AC-88D2-D489AEBD9990"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-07-12"
+year: 2023
+week: 28
+title: "Fearnleys Suezmax Weekly Comment - 2023-07-12"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-07-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-07-12 (Week 28)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `5FD399F6-A846-41AC-88D2-D489AEBD9990`
+
+---
+
+## Market Commentary
+
+During the last ten months or so, the Atlantic Suezmax market has been fairly predictable. TD 20 tends to have a floor in the WS 80's and a ceiling in the WS 130-140 range, and there is very little recent evidence to suggest it will play out otherwise (at least in the short-term). TD20 is presently hovering around the WS 90 mark with the fixing window focused on early August dates. It's far too early to suggest that the summer market will deliver the top end of the algorithm, but one can say with a degree of confidence, that the outlook remains volatile. In the East, a slew of replacement cargoes has failed to wake this region up with 130KT x WS 105 booked MEG/Malaysia for prompt dates and that's where it's likely to trade for the remainder of the week.

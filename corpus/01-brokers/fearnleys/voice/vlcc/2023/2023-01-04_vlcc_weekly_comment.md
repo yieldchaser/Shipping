@@ -1,0 +1,26 @@
+---
+id: "1F6E6FAA-D715-4F5E-9580-C5544B3CC165"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-01-04"
+year: 2023
+week: 1
+title: "Fearnleys VLCC Weekly Comment - 2023-01-04"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-01-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-01-04 (Week 1)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `1F6E6FAA-D715-4F5E-9580-C5544B3CC165`
+
+---
+
+## Market Commentary
+
+It’s been a lackluster start to the New Year in the VLCC segment and lack of fresh enquiries and transparency is weighing on the sentiment. The change in WS flat rates, considerably up from last year, is exacerbating the picture rather than improving in it. However, daily earnings are still ranging from low USD 30’s and into the USD 40’s/day for the most modern scrubber fitted units. TD3C is probably not more than WS 65-67.5 in 2022 “money” at the writing moment and will be further tested. But, although further downwards pressure persists owners will likely resist dragging things down to last year’s lows.

@@ -1,0 +1,26 @@
+---
+id: "73fd71f4-6616-42d4-ad28-c91789e688b7"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-04-30"
+year: 2025
+week: 18
+title: "Fearnleys Capesize Weekly Comment - 2025-04-30"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-04-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-04-30 (Week 18)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `73fd71f4-6616-42d4-ad28-c91789e688b7`
+
+---
+
+## Market Commentary
+
+On the West Australia front, we see a healthy level of enquiries from miners, tenders, and operators alike for mid to late May dates. Other fronts of the Pacific see a tick up in volumes as well. On C3 ex Brazil and West Africa, enquiries are primarily for second half of May and early June dates. We see a tightening of number of spot vessels opening in Far East while number of ballasters remain lengthy for May dates. Fixtures concluded at USD 8.00 pmt levels and low USD 19 pmt levels for West Australia and Brazil round, respectively.

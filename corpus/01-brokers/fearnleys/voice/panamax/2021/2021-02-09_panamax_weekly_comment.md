@@ -1,0 +1,26 @@
+---
+id: "1076E892-8EA3-4B03-B4E1-C6B3A47D435E"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-09"
+year: 2021
+week: 6
+title: "Fearnleys Panamax Weekly Comment - 2021-02-09"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-02-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-02-09 (Week 6)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `1076E892-8EA3-4B03-B4E1-C6B3A47D435E`
+
+---
+
+## Market Commentary
+
+The market is continuing its positive trend since the start of the week. Mainly driven by South America and North Atlantic trade. On Wednesday we had 20 vessels reported fixed for ECSA trade alone. The North Continent is also working for full pistons and we have seen +30,000 pd for quick rounds. It’s not only grains driving the market but also minerals have been active. Period rates continues to push and with +500 on BPI every day it is not likely to ease off any time soon.

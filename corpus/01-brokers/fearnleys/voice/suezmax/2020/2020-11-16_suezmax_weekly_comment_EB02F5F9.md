@@ -1,0 +1,30 @@
+---
+id: "EB02F5F9-E699-4D85-9769-B43AF4E71F48"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-16"
+year: 2020
+week: 47
+title: "Fearnleys Suezmax Weekly Comment - 2020-11-16"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-11-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-11-16 (Week 47)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `EB02F5F9-E699-4D85-9769-B43AF4E71F48`
+
+---
+
+## Market Commentary
+
+Those participants who started the week with a sense of optimism may be feeling a little short changed. Td20 has spent a week flirting with W40, but attempts to push rates further have been thwarted by Charterers slow trading every cargo. Whilst the WAFR December program is fairly lean, the main physical and psychological support may yet come from the Black Sea and Libya. The December Russian Black Sea program is noticeably bigger than November, which has encouraged Charterers to reach forward, creating date-convergence with the West African fixing window. This has held a number of vessels on the Continent and West Mediterranean away from WAFR, creating some balance .
+
+**MEG**
+
+/East has taken a breather for now with rates likely to settle at 130KT x W45 on modern whilst Basrah/Med trades 140kt x W20-22.5.

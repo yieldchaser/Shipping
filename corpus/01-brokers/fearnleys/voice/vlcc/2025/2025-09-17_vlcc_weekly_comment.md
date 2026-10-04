@@ -1,0 +1,30 @@
+---
+id: "66c64491-d468-4b15-9650-f473127735b1"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-09-17"
+year: 2025
+week: 38
+title: "Fearnleys VLCC Weekly Comment - 2025-09-17"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-09-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-09-17 (Week 38)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `66c64491-d468-4b15-9650-f473127735b1`
+
+---
+
+## Market Commentary
+
+"Show me the money honey" - Rates have continued to firm since in the week gone by and VLCC owners are now seeing earnings at $90-100k per day and above, which is in Word Scale terms is circa W105 for MEG/eastbound voyages. The MEG cargo count for September came in north of 165 in the MEG, up from the previous month, and the October program promises to be higher still.
+
+**USG**
+
+-East movements have also increased and the list of candidates for the current loading window is very slim. There are question marks whether current levels are sustainable into the winter months, but the here now show no sign of weakening.

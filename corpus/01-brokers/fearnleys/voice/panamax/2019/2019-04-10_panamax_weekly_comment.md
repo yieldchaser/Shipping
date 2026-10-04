@@ -1,0 +1,26 @@
+---
+id: "60301852-0FAD-4127-AD3E-A45A5C26B132"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-04-10"
+year: 2019
+week: 15
+title: "Fearnleys Panamax Weekly Comment - 2019-04-10"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-04-10 (Week 15)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `60301852-0FAD-4127-AD3E-A45A5C26B132`
+
+---
+
+## Market Commentary
+
+After a couple of strong weeks, rates are down in both hemispheres. A recovery is, however, anticipated next week as a larger quantity of cargoes has been entering the market in the last couple of days. A transatlantic round voyage currently pays owners about low USD 9,000 per day, while a short fronthaul from the Continent yields about USD 16,000. In the East, a Pacific round voyage pays around the high USD 6,000's. The BPI 4TC-index is down 53 points to 1,074.

@@ -1,0 +1,26 @@
+---
+id: "682ABB34-D83F-48DC-8A18-A98EB46C8490"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-07-01"
+year: 2020
+week: 27
+title: "Fearnleys Chartering Weekly Comment - 2020-07-01"
+---
+
+# Fearnleys Chartering Weekly Comment (2020-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2020-07-01 (Week 27)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `682ABB34-D83F-48DC-8A18-A98EB46C8490`
+
+---
+
+## Market Commentary
+
+EAST As a knock-on effect to the increased activity on shipping seen in the West from last week, the Eastern VLGC market finally came back to life again as well. Several ships have been taken out for 2H July MEG load during the week, and freight rates have slowly started to climb upwards again. Owners’ ideas are now in the USD 30s Baltic (compared to low USD 20s the week before), and time being they would rather send their open ships back West on speculation unless they are able to secure voyages at these sorts of levels in the East. Meanwhile we are awaiting next month’s acceptances from the Middle Eastern suppliers, which are expected to start coming out from this and next week onwards. WEST West of Suez, this week has been calmer than last as the market takes a breather. Less inquiries have been seen and players seem to have paused to make sure their programs are lined up properly. Although there are still a few loose ends remaining in July, fixing looks generally over with for this period. Freight has cooled off marginally as the focus turns to August. This is due to slightly more freight length and reduced interest from charterers for the time being.

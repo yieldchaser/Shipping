@@ -1,0 +1,26 @@
+---
+id: "61153554-9503-4a54-becd-ce5a426592cd"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-03-18"
+year: 2026
+week: 12
+title: "Fearnleys Aframax Weekly Comment - 2026-03-18"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-03-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-03-18 (Week 12)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `61153554-9503-4a54-becd-ce5a426592cd`
+
+---
+
+## Market Commentary
+
+North Sea After a brief correction last week North Sea bounced back almost straight away with a busy end to last week. Natural dates have moved towards end month with a limited amount left to cover in March. With US and Mediterranean markets remaining interesting, rates have remained steady in the North Sea, even with the limited activity we have seen so far this week. At the returns the Aframax markets are providing in the current window, waiting time is a big consideration and will also influence owners to ballast out for longer sustained returns whilst limiting downtime. Mediterranean Market in the Mediterranean/Black Sea remains steady and firm with WS 340 being the go-to rate for medium-large local flat rates. Window has pushed out to end-month now and we will be sold-out of March cargo before the end of this week. The list remains thin but with ballasters from the North Sea expected to join the party. Steady as it goes rate wise with very healthy returns for owners.

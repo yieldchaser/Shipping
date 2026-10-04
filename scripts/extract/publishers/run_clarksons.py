@@ -441,8 +441,22 @@ def build_markdown_document(pdf_path: Path, issue_date: str, printed_date: str,
                             demos: List[Dict[str, Any]]) -> str:
     """Build high-fidelity markdown artifact for knowledge base."""
     stem = pdf_path.stem
-    rel_path = f"corpus/02-hellenic/shipbuilding/pdfs/{pdf_path.name}"
+    try:
+        rel_path = pdf_path.resolve().relative_to(REPO_ROOT).as_posix()
+    except Exception:
+        rel_path = f"corpus/02-hellenic/shipbuilding/pdfs/{pdf_path.name}"
+    year_str = issue_date[:4] if issue_date else "2026"
+
     lines = [
+        "---",
+        f'title: "Clarksons Hellas S&P Weekly - {printed_date}"',
+        f'issue_date: "{issue_date}"',
+        f'year: "{year_str}"',
+        'broker: "Clarksons Hellas"',
+        'category: "market_report"',
+        f'source_file: "{rel_path}"',
+        "---",
+        "",
         f"# Clarksons Hellas S&P Weekly - {printed_date}",
         "",
         f"- **Date**: {issue_date} ({printed_date})",
@@ -505,7 +519,7 @@ def build_markdown_document(pdf_path: Path, issue_date: str, printed_date: str,
         "",
         "**Clarkson Hellas Ltd.**  ",
         "Direct: +(30) 210 458 6700 | Fax: +(30) 210 458 6799  ",
-        "Email: snp@clarksons.gr | Web: www.clarksons.com  ",
+        "Website: www.clarksons.com  ",
         "",
         "> *The material and information contained herein are provided by Clarkson Hellas Ltd for general information purposes only.*",
         ""

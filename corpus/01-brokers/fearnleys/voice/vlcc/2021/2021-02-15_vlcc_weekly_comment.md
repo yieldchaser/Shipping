@@ -1,0 +1,26 @@
+---
+id: "460C53F1-620A-45BD-B09A-EE0D8AAF7FF9"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-02-15"
+year: 2021
+week: 7
+title: "Fearnleys VLCC Weekly Comment - 2021-02-15"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-02-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-02-15 (Week 7)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `460C53F1-620A-45BD-B09A-EE0D8AAF7FF9`
+
+---
+
+## Market Commentary
+
+Xin nian kuai le (Happy Chinese New Year). We welcome in the year of the Ox, which is meant to bring stability and calmness and it has certainly started that way. Calm, as there has been very little for owners to get their teeth into; and stable as rates have gone nowhere. It also coincides with the gap between the February and March MEG stems, which exacerbates the feeling of quiet. Chinese tonnage quickly snaring the compatriot cargoes that are available on COA, leaving others to fight over the remaining business. With the MEG so quiet (a disappointing sub 90 fixtures for February), much of the action has been in the Atlantic. Petrobras leading the charge with a couple of deals, but were able to keep rates suppressed. Alarming for owners, who given the oil price, are calculating in some bigger bills for their bunkers.

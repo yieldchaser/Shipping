@@ -1,0 +1,26 @@
+---
+id: "a66eb441-232c-4eb6-9356-b2baff475e35"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-04-02"
+year: 2025
+week: 14
+title: "Fearnleys Aframax Weekly Comment - 2025-04-02"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-04-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-04-02 (Week 14)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `a66eb441-232c-4eb6-9356-b2baff475e35`
+
+---
+
+## Market Commentary
+
+Activity looks to have subsided after a push on rates last week in the North. Pressure has eased a little with both US and Mediterranean markets lacking the levels of activity seen recently. The natural window is now into the 2nd decade and freight levels are likely to be tested by charterers as we start to see enquiry for mid-month dates. Market trend this week has been sideways with a softer tone as competition for Mediterranean requirement has increased as ballasters from UKC and Suezmaxes take out some volume. Rates look to be stable but with the fixing window moving ahead owners will be tempted to give up some points for firm employment. Disruptions in CPC are impacting Suezmax; whether it will affect the Afras as well remains to be seen.

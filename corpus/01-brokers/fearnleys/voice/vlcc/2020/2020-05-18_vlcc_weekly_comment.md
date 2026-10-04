@@ -1,0 +1,30 @@
+---
+id: "1E0A5836-E72F-4297-ADD3-98CF6235144B"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-18"
+year: 2020
+week: 21
+title: "Fearnleys VLCC Weekly Comment - 2020-05-18"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-05-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-05-18 (Week 21)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `1E0A5836-E72F-4297-ADD3-98CF6235144B`
+
+---
+
+## Market Commentary
+
+Although a softer bias persists in the VLCC market, the owning community hasn't rolled over in defeat just yet. The focus so far has been on a re-surge of activity in the Atlantic, where fixtures concluded have been better than what could've been expected, and a number of charterers/traders remain exposed. The quick re-balancing in the oil market has taken most by surprise. The following price jump is a result of factories across Asia’s largest economy restarting and people return to work, with some favouring their cars over taking public transport. Crude processing at China’s independent refineries is now higher than pre-virus levels, while fuel demand is also starting to rebound in India.
+
+**MEG**
+
+ production cuts, and corresponding price hikes, has turned Asian buyers’ attention back to the Atlantic for alternative- and for some a more favoured supply. A couple of MEG players have dipped their feet in and had a stab the more vintage end of the market, but still facing rates in the ws50'ies - albeit at the lower end of the scale.

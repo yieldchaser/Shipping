@@ -1,0 +1,26 @@
+---
+id: "DDA07104-874D-4DFE-93AF-7D51EC9745B9"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-08-04"
+year: 2020
+week: 32
+title: "Fearnleys LPG Western Weekly Comment - 2020-08-04"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-08-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-08-04 (Week 32)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `DDA07104-874D-4DFE-93AF-7D51EC9745B9`
+
+---
+
+## Market Commentary
+
+AMERICAS The EIA reported a build of 2.3 million barrels for the week ended July 31st all the while propane exports increased nearly 600,000 barrels on the week compared to last. The strong build atop robust strong exports further illustrates the sentiment that propane supply has been cut into disproportionately less than crude following the April crash. Physical Delivered cargoes in the east continue to trade at substantial discounts, effectively crushing the lst/fei netback and bolstering cancellation discussions. It has been reported that between 5-7 August, US Gulf origin FOB cargoes had been cancelled as well as 3 September cargoes. In Latin America, a tender was issued for for 44,000 mts for delivery Sep 15-19 into Chile

@@ -1,0 +1,26 @@
+---
+id: "8A818E49-C059-4E95-A64A-420B381B8CCE"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-10-18"
+year: 2022
+week: 42
+title: "Fearnleys S&P Weekly Comment - 2022-10-18"
+---
+
+# Fearnleys S&P Weekly Comment (2022-10-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-10-18 (Week 42)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `8A818E49-C059-4E95-A64A-420B381B8CCE`
+
+---
+
+## Market Commentary
+
+With the tanker market taking the majority of recent headlines, dry market players enacted a flurry of transactions this week. Within the much sought after modern Japanese ultramax tonnage space, scrubber fitted NORD BISCAY (62K DWT 2019 OSHIMA) sold for USD 32.5m. Another sale to note from this sector was Pacific Basin picking up ULTRA WOLLONGONG (61K DWT 2011 OSHIMA) for USD 22m. A total of 15 sales were concluded across the board. This increased activity is dividing opinions with one hand believing a relative bottom has been been reached while the other see it as a signal that a broader sell off is around the corner. Extensive demand and firm prices in older tonnage such as the EUROGLORY (166 DWT 2005 BRODOSPLIT) USD 26m reassures market players that the tanker market ascent shows no signs of letting off. Ice class Suezmax vessels are commanding a particular premium seen in the CAP PHILIPPE (158 DWT 2006 SAMSUNG HI) changing hands for USD 32 m. In what is regarded by some as a significant, sentiment assuring transaction, AQUAVIRTUE (156 DWT 2022 SAMSUNG HI) was bought by Thenamaris at USD 76m.

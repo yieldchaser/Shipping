@@ -1,0 +1,26 @@
+---
+id: "0E011089-2BC0-4FBE-8DA2-1AC3C34D7F98"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-01"
+year: 2021
+week: 48
+title: "Fearnleys Aframax Weekly Comment - 2021-12-01"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-12-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-12-01 (Week 48)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `0E011089-2BC0-4FBE-8DA2-1AC3C34D7F98`
+
+---
+
+## Market Commentary
+
+The Nsea/Baltic market inevitably hit a new bottom this week as charterers had a plethora of vessels to choose from. On the other side, owners are trying to secure positive returns and take a good position for the next fixing window. We expect rates to move sideways for the week to come and patience is the key before an upward correction. Also in the Med/Bsea market the tonnage list remains long due to lack of activity on the cargo side, with benchmark rates having come off another 5-10 points since last week. Although delays in the straits continue, and a number of stems are expected to come out of Bsea end December, we do not expect an upward pressure on rates until the tonnage list tightens.

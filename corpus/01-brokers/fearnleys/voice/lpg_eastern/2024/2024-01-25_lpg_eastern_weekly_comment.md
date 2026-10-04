@@ -1,0 +1,30 @@
+---
+id: "327f9d9e-feea-4dc1-ba0c-0c16ef274dcd"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-01-25"
+year: 2024
+week: 4
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-01-25"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-01-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-01-25 (Week 4)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `327f9d9e-feea-4dc1-ba0c-0c16ef274dcd`
+
+---
+
+## Market Commentary
+
+MEG A couple of evenly split cargos for Mar lifting were reported changed hand at CP minus low teens. Due to the escalation of Red Sea situation, Yanbu liftings are least “favorable” and we’ve seen some player struggling to get a ship there, with option to go via Suez and Cape of Good Hope on laden voyage. At the time of writing, Feb C3 CP edged up to $600 and C4 was at $13 higher. Feb/Mar CP was in $10 backwardation.
+
+**FAR EAST**
+
+ Cash differentials assessed for 1h Mar 46/0 CFR Chiba improved from minus $10 to minus low single digit, as of concerns on potential delays caused by foggy weather in US. Despite such, there is limited discussion in the window. Focus of the week was the cracking feedstock procurement. Seeing FEI/MOPJ spread for Feb and Mar have enlarged to -$50s, crackers have emerged to secure LPG feedstock. One SChina cracker was reported to secure two propane cargos at Feb MOPJ minus 40s or equivalence. Another SChina cracker was said to procure a 11/11 for Feb delivery at Feb CP flattish which suspected to be Iranian stem. Taiwan FPCC awarded their buy tender for an evenly split cargo for end Feb to early Mar delivery at Feb MOPJ minus mid high 40s. HTC also issued tender to buy early Mar arriving LPG at flexible ratio. One EChina cracker also issued buy tender for 23/0 or 46/0 on 1h/mid Mar delivery. Front spot freight rates continued falling and one more PDH importer issued term tender to secure upto 276kt propane from Apr to Dec delivery. Indonesia Pertamina was reported to award their latest term tender for 22/22 monthly delivery from Apr to Dec at CP plus 30s.

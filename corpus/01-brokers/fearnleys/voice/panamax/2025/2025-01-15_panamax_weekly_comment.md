@@ -1,0 +1,26 @@
+---
+id: "d7c2743f-de9c-4194-a0b7-7ab82330d6c1"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-01-15"
+year: 2025
+week: 3
+title: "Fearnleys Panamax Weekly Comment - 2025-01-15"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-01-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-01-15 (Week 3)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `d7c2743f-de9c-4194-a0b7-7ab82330d6c1`
+
+---
+
+## Market Commentary
+
+This week, the Panamax market experienced continued weakness across both the Atlantic and Pacific basins, with rates declining further due to oversupply and subdued demand. In the Atlantic, limited activity from South America weighed heavily on sentiment, leaving ballaster positions under pressure, while thin visibility in the North led to fixtures at discounted rates. The Pacific offered slightly better volumes, particularly on NoPac runs, but shorter routes remained under significant pressure, with owners discounting heavily to secure cover. Grain trades in the East provided some support, but this was insufficient to counter the overall negative sentiment. A recovery is unlikely before the Chinese New Year, with market hopes focused on increased coal trades and the seasonal ramp-up of South American soybean exports to boost activity.

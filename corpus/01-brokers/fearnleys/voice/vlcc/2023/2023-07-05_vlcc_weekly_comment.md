@@ -1,0 +1,26 @@
+---
+id: "792F97A5-882B-4998-B73E-EF29CABABF13"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-07-05"
+year: 2023
+week: 27
+title: "Fearnleys VLCC Weekly Comment - 2023-07-05"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-07-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-07-05 (Week 27)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `792F97A5-882B-4998-B73E-EF29CABABF13`
+
+---
+
+## Market Commentary
+
+There was some glimmer of hope for owners at the end of last week/early this week, as prompt cargoes found owners of prompt ships in a bullish mood. A busy 10-20 July window in the MEG (48 cargoes so far) meant charterers late to the party saw rates climb, albeit a point at a time to just shy of the WS 60 level MEG/East. Some of these reported rates came with no details attached, but it gave owners a boost in sentiment, nonetheless. However, a generously opening position list as we head later into July means that a few cargoes working at present, are seeing plenty of offers. Owners will have to work hard to keep the market in the high WS 50’s, but a few quiet days of charterers wading through all their offers will apply downward pressure. The Atlantic has been somewhat truncated with the July 4th celebrations in the US. But others active. At the time of writing Petrobras quoting a cargo Brazil/UKCM, claiming 13 offers, which speaks volumes to market direction. Rates USG/East peaked at USD 8.55m, down to USD 8.375m, but likely we see further decreases, given the availability of tonnage and little further excitement on the board regarding fresh cargoes. The recent excitement may have been a bit of a dead cat bouncing. Sentiment will now wobble and only an influx of cargoes will turn things around.

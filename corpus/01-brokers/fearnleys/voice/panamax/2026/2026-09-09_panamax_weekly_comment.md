@@ -1,0 +1,26 @@
+---
+id: "3c6e3917-efb5-444b-9c85-920a18db3583"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-09-09"
+year: 2026
+week: 37
+title: "Fearnleys Panamax Weekly Comment - 2026-09-09"
+---
+
+# Fearnleys Panamax Weekly Comment (2026-09-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2026-09-09 (Week 37)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `3c6e3917-efb5-444b-9c85-920a18db3583`
+
+---
+
+## Market Commentary
+
+After several weeks of steady gains the Panamax market has levelled off, with the index easing gently over recent sessions from what now looks to have been an early-September high. The Atlantic accounts for most of the softening: prompt tonnage has built up in the North Continent while fresh transatlantic enquiry has slowed, leaving owners there with less leverage, though fronthaul remains the firmer part of the basin and owners continue to favour Atlantic employment over repositioning east. The Pacific has held its ground more comfortably, supported by Australian and Indonesian coal, North Pacific grain and a useful flow of additional cargo from split Capesize stems, but the urgency that characterised late August has faded and charterers are no longer chasing. Period remains active and, notably, better bid than the softening spot market would imply – business is still clearing at levels close to recent highs, with owners of modern tonnage holding their ideas firmly and the gap to charterers' bids widening rather than closing. Our own indicators argue for caution from here: shipment volumes continue to run below fleet supply growth, the South Atlantic tightness reading suggests the recent correction has further to run, and we would treat the current period market as an opportunity to secure cover rather than expect a renewed push higher.

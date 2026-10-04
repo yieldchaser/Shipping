@@ -1,0 +1,26 @@
+---
+id: "49B868D9-580B-4C40-B6E6-02F5230F3184"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-01"
+year: 2021
+week: 44
+title: "Fearnleys Chartering Weekly Comment - 2021-11-01"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-11-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-11-01 (Week 44)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `49B868D9-580B-4C40-B6E6-02F5230F3184`
+
+---
+
+## Market Commentary
+
+EAST The bullish sentiment on freight has continued in the East this week, and another 3-4 deals were fixed on subs from the Middle East and Australia. Last done range from USD 56-58 Baltic eqv, and the East is currently trading close to parity compared to the West (if excluding waiting time for Panama transit). There are still reports of some uncovered cargos during November, and as open ships with firm itineraries are now few, we do not expect rates to come off anytime soon. The QP acceptances for December were published beginning of this week, but we have yet to see any companies starting to look at December laycans for now. WEST This week the West has calmed down a bit after some very busy days last week. First decade December looks to be fully covered as most now focusing on 2nd decade onwards. We only see a couple of relets this period while the majority of the available vessels is owner controlled. The freight rates are stabilizing at USD mid/high 90s after the jump last week. At the same time the congestions in the Panama Canal are still increasing, estimated waiting time is 14 days Northbound in the Neo Canal.

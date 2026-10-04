@@ -1,0 +1,26 @@
+---
+id: "65dce805-dab0-4230-a40a-99044c7680ad"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-08-26"
+year: 2026
+week: 35
+title: "Fearnleys LNG Weekly Comment - 2026-08-26"
+---
+
+# Fearnleys LNG Weekly Comment (2026-08-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-08-26 (Week 35)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `65dce805-dab0-4230-a40a-99044c7680ad`
+
+---
+
+## Market Commentary
+
+Spot activity remains broadly muted although the list of developing requirements has begun to build in both basins, giving some much needed encouragement to. High LNG prices prove a double-edged sword in a market predominantly controlled by subletters; whilst some prefer to hold back, the cost of idling and boil-off for others is of greater concern than negligible rates of hire and this has been a factor in rates falling so fast on the back of weak sentiment and high competition. The supply and demand fundamentals have reached a particularly soft level in recent weeks thanks to fewer cargoes, shorter distances and substantial fleet growth being felt in the Atlantic, where the majority of modern vessels have been positioned. The resistance shown in the East is proving to be more of a lag than a snag and rates look set to fall further unless more demand emerges for September laycans. There remains a real possibility that availability becomes constricted by tonnage warming up, with insufficient opportunities East of Suez and unattractive econs further West.

@@ -1,0 +1,26 @@
+---
+id: "5951D351-08E3-49E4-ABF4-E476091F9FDF"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-17"
+year: 2021
+week: 46
+title: "Fearnleys VLCC Weekly Comment - 2021-11-17"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-11-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-11-17 (Week 46)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `5951D351-08E3-49E4-ABF4-E476091F9FDF`
+
+---
+
+## Market Commentary
+
+Much of the recent news about oil production and consumption remains very up-beat, barring the odd Covid hiccup. However, inside of our VLCC market bubble, the positivity is yet to spill in to owners’ daily returns. As the week has progressed, rates have been steady and soft, with charterers able to pull a point or so from the MEG/East rates (down to WS 42.5 for TD3C), helped by the lull prior to the December stem date release. The Atlantic has promised much, yet stuttered and failed to spring to life (Wafr/East to test in the mid WS 40's). Some owners are ballasting modern vessels in that direction on speculation of an improvement. December usually heralds better returns, but nothing has been close to normal in the last few years. Charterers need to keep what they are doing, and owners need to keep the faith.

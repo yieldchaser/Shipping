@@ -1,0 +1,30 @@
+---
+id: "0BDC8393-0498-4612-951E-ED01A0D24355"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-26"
+year: 2020
+week: 44
+title: "Fearnleys VLCC Weekly Comment - 2020-10-26"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-10-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-10-26 (Week 44)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `0BDC8393-0498-4612-951E-ED01A0D24355`
+
+---
+
+## Market Commentary
+
+The November MEG program is in full swing, however rates continue on a downward trajectory. Any normal year we’d see increased demand and rates ticking up for the winter season, but Covid-19 has put a stop to any normality.
+
+**MEG**
+
+/East rates are drifting down through the WS20’s, and Wafr/eastbound rates have also dipped below the WS30 mark. From the USG, often an area of strength in comparison, charterers are understandably using their own vessels whenever possible. Many owners are taking the opportunity to dry dock their vessels in this depressed environment. However, upon completion these ships often become sitting ducks, given the (arguably) misplaced ‘perception’ of cargo clingage. Still, charterers have plenty to choose from, and without a viable vaccine and a big shift in global demand we expect more of the same.

@@ -1,0 +1,30 @@
+---
+id: "4d53141f-7bf2-41da-b4f0-f514b6e4552c"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-09-20"
+year: 2023
+week: 38
+title: "Fearnleys Capesize Weekly Comment - 2023-09-20"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-09-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-09-20 (Week 38)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `4d53141f-7bf2-41da-b4f0-f514b6e4552c`
+
+---
+
+## Market Commentary
+
+The week started with healthy volumes for late September-early October C5, East Australia and Pacific business, contributing to a further increase in optimism. Volumes on C5 tapered off mid-week while East Australia remains high. Early October South Africa and India volumes hold at reasonable levels. On C3 ex Brazil to China, the week started off quiet, but activity level started picked up mid-week for mid-October stems. For West Africa, we see fresh enquiries, but volume remains comparatively lower than other trades.
+
+**Far East**
+
+ and ballasting tonnage further tightened this week. C5 levels increased substantially from last week, with fixtures concluding at mid USD 9 pmt levels. On C3, discussions are at USD 21 pmt level for end September to early October stems. Fixtures concluded at mid USD 22 pmt for 15th October onwards. On period, we continue to see limited activity with one known fixture of a 171k dwt 2005-build non-scrubber for spread of 4 to 6 months at USD 14,000 per day.

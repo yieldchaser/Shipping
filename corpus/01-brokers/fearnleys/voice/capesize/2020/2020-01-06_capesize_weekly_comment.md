@@ -1,0 +1,26 @@
+---
+id: "5834E743-0352-4E1D-9A42-7C9C7A44AD54"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-01-06"
+year: 2020
+week: 2
+title: "Fearnleys Capesize Weekly Comment - 2020-01-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-01-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-01-06 (Week 2)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `5834E743-0352-4E1D-9A42-7C9C7A44AD54`
+
+---
+
+## Market Commentary
+
+The Capesize market has hit new low's in the first week of the new year, with the West Australia route being fixed at USD 6.6 being the lowest, before improving to USD 7 level towards the second half of the week. TC level is presently sub USD 5,000 for a Pacific round. The weighted average is presently USD 9,000. Period fixing is more or less none-existing at fixed levels, whilst index linked deals are considered interesting.

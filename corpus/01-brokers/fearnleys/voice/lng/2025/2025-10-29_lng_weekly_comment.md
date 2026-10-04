@@ -1,0 +1,30 @@
+---
+id: "6a1b25c2-2e1d-4ab5-bb4d-d0ee944d58ac"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-10-29"
+year: 2025
+week: 44
+title: "Fearnleys LNG Weekly Comment - 2025-10-29"
+---
+
+# Fearnleys LNG Weekly Comment (2025-10-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-10-29 (Week 44)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `6a1b25c2-2e1d-4ab5-bb4d-d0ee944d58ac`
+
+---
+
+## Market Commentary
+
+The market through most of the year has remained quite flat and weekly reports had a sense of déjà vu; yet a glance back to our last report shows that a week can also be a very long time in LNG, and that a month ago can feel like ancient history. Rates across the three major regions have all moved higher, with Atlantic rates perhaps even entering “surging” territory, having more than doubled in recent weeks. One trigger for this tightening can be linked to delays discharging into Egypt and the knock-on impact on scheduling, but this was maybe only a starting gun for a winter upturn that many had thought would never come. There are now signs of an improving cargo market in Asia that is enticing for portfolios and traders, and ships are being pulled back from availability lists.
+
+**East of Suez**
+
+, there are very few 2-strokes available and TFDEs are now supporting the market at higher rates. It is often the case that a long freight market is only skin deep, and scratching the surface can quickly reveal a more complicated picture; that appears to be the case here. The opposite can happen too though, if the cargo market softens then recent gains can disappear even quicker. How long this upturn lasts is already a big topic of discussion. There have been no new orders or project FIDs this week, but the announcement that Totalenergies have lifted the Force Majeure on Mozambique LNG was a very welcome step. There will be more challenges ahead but we wish the project well as they target first production by the end of the decade.

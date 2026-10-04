@@ -1,0 +1,26 @@
+---
+id: "31121574-ce79-404a-8dbf-9ff3cbb852f1"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-08-16"
+year: 2023
+week: 33
+title: "Fearnleys Aframax Weekly Comment - 2023-08-16"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-08-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-08-16 (Week 33)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `31121574-ce79-404a-8dbf-9ff3cbb852f1`
+
+---
+
+## Market Commentary
+
+Aframax rates in the North Sea area are currently being fixed at bottom levels for yet a consecutive week. At time of writing, the market is WS 95 for a cross North Sea voyage. We need to see more vessels ballast away from the area before we will see any improvement in rates. In the Mediterranean/Blsea, rates picked up slightly over the last week with benchmark route TD19 currently trading around WS 100 level. A steady flow of enquiries from main Libyan hubs keeps the area alive. The tonnage list is still looking fairly healthy, giving charterers some leverage. We expect the market to remain steady/firm in the near term.

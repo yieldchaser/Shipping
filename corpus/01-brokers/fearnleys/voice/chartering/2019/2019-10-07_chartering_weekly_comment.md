@@ -1,0 +1,26 @@
+---
+id: "AF628F09-1DF8-40BB-BF48-3F5579FA148A"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-10-07"
+year: 2019
+week: 41
+title: "Fearnleys Chartering Weekly Comment - 2019-10-07"
+---
+
+# Fearnleys Chartering Weekly Comment (2019-10-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2019-10-07 (Week 41)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `AF628F09-1DF8-40BB-BF48-3F5579FA148A`
+
+---
+
+## Market Commentary
+
+Things are continuing to stay heated in the VLGC market. This is evidenced by several fixtures ex USG during first half November and by an increasing Baltic in the East. Despite relatively few deals done in the MEG for end October over the last week or so, tight vessel availability is supporting the market east of Suez. In the West, the current propensity of players looking to secure vessels some thirty to forty days ahead have stabilised the freight market in the mid/low USD 120’s per ton Houston/Chiba, and mid/high USD 60’s per ton on a Houston/Flushing basis. Although we have started to see freight enquiries for mid/second half November emerging, vessels getting delayed in the Far East due to either ullage issues or bad weather is forcing some owners to wait with fixing in order not to over-commit. At the time of writing, the West is trading at a discount to that of the East, however, it is likely we will see this continuing for a bit and rather slowly but surely the West will catch up the East equivalent rates.

@@ -1,0 +1,30 @@
+---
+id: "3258AB48-F666-400A-8692-9D4116E3533A"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-02-07"
+year: 2023
+week: 6
+title: "Fearnleys VLCC Weekly Comment - 2023-02-07"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-02-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-02-07 (Week 6)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3258AB48-F666-400A-8692-9D4116E3533A`
+
+---
+
+## Market Commentary
+
+We are entering another familiar cycle in the VL market, a pattern seen a number of times in 2022. The Atlantic (mainly USG) activity picks ups, rates jump, and the rest of the market is dragged along with it. The price for a VLCC USG/Ningbo has climbed USD 100k on successive fixtures, currently sitting at USD 8.4m. With West Africa/East also positive at the WS 60 level, modern vessels will ballast West purely for the richer hunting grounds not found in a lagging MEG market. As always however, the risk of dilution remains.
+
+**East of Suez**
+
+ (TD3C) rates creeping up in the low WS 50’s, and owners will be hoping for a pop in rates to match Western returns, but the February MEG program is close to completion and it's a short month also. However, the position list looks more balanced than for some time, as many ships turn left at Rondo.

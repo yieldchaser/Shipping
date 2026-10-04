@@ -1,0 +1,26 @@
+---
+id: "664998F6-18F0-4489-9200-BA9A05ECF7BF"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-03-29"
+year: 2022
+week: 13
+title: "Fearnleys LNG Weekly Comment - 2022-03-29"
+---
+
+# Fearnleys LNG Weekly Comment (2022-03-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-03-29 (Week 13)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `664998F6-18F0-4489-9200-BA9A05ECF7BF`
+
+---
+
+## Market Commentary
+
+While the Pacific remains flat on the spot market, there is an increase in activity and fixtures in the West over the past week. LNG demand for deliveries into Europe continues and as such, we have seen a slight disparity on spot fixing levels between both basins. There is a marginal increase in vessel availability, though most vessels are sublets and potentially could be withdrawn anytime causing rates to move fairly quickly. Term discussions are still ongoing amid a handful of multiyear deals being concluded and we do anticipate momentum to be kept strong in the following weeks. Larger size vessels above 170,000 cbm, ships with LNG Reliquefaction System and FSU/FSRUs are highly sought after as emphasis on security of LNG supply remains a priority. There are no new orders reported this week, nevertheless, the continued stable demand from various shipping sectors have contributed to the increase in newbuild prices.

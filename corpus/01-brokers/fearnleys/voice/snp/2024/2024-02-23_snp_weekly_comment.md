@@ -1,0 +1,26 @@
+---
+id: "c089d5af-72d6-4d1d-be89-93587ecae06d"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-02-23"
+year: 2024
+week: 8
+title: "Fearnleys S&P Weekly Comment - 2024-02-23"
+---
+
+# Fearnleys S&P Weekly Comment (2024-02-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-02-23 (Week 8)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `c089d5af-72d6-4d1d-be89-93587ecae06d`
+
+---
+
+## Market Commentary
+
+The week’s most impactive news story is not one of a tanker transaction, but that of fresh sanctions from the UK government “targeting individuals and businesses sustaining Putin’s illegal war in Ukraine” (from statement released yesterday 22.02.24), which could have deep implications for tanker owners involved in the trade of Russian oil. This has coincided with a typically volatile week on the charter front, seeing the gains from last week duly erased. Only a handful of transactions reported, with surveys due scrubber fitted VLCC NAVE SPHERICAL (297K DWT SHANGHAI JIANGNAN CHANGXING 2009) being bought for USD 53.9M. STST tankers continue to prove popular with BEATRICE (25K DWT ASAKAWA 2013) purchased by DM Shipping for a healthy USD 29M. The dry market looks as though it is gearing up for its moment in the sun, as the Actual Cape Index registers the best rate for this time of year since 2010 at USD 26,079/day. This will surely empower sellers to hold out for premium levels as buyers jostle for market position. There has been particular demand for Capesize units in the last few weeks, particular eco tonnage, with JPM attracting over 10 buyers on their scrubber fitted TRUE CARTIER (181K DWT IMABARI 2014), eventually selling for a shade under USD 41M. Bulker prices in general will surely benefit from tonnage hungry and cash rich market players who would rather have steel on the water than cash in the bank. Liquidity appears to be improving in the ultra sector, DARYA PADMA (60K DWT JMU 2015) showing exactly what is needed (USD 29M) for those looking to secure an early eco Japanese built unit. Those looking at a similarly aged Chinese unit will note SYROS/ANDROS (ISLAND 63K DWT ZHEJIANG SHIPBUILDING 2015/2016) selling for USD 52.5M en bloc.

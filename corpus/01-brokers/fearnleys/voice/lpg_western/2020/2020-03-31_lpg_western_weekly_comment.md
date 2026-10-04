@@ -1,0 +1,26 @@
+---
+id: "569BCE34-1CE5-4B1E-96D8-EFD71BA6EB64"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-03-31"
+year: 2020
+week: 14
+title: "Fearnleys LPG Western Weekly Comment - 2020-03-31"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-03-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-03-31 (Week 14)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `569BCE34-1CE5-4B1E-96D8-EFD71BA6EB64`
+
+---
+
+## Market Commentary
+
+AMERICAS: With all the changes in the world over the last fea weeks, two big questions are hanging over the US markets: 1.	Will there be enough supply to keep the mt Belvieu Price of propane and butane to support exports ? 2.	Will there be enough international demand to support the exports if the product and price maintain reasonable levels ? We feel the answers to both are supportive for US exports. Firstly, we do not expect the cheap crude markets to maintain beyond the Summer and within this time frame, we expect producers to maintain current production levels. Current economics will prevent growth, but maintaining current levels , can and will support exports. As far as international pull on US product, we feel this will be there as well. Possibly for different reasons than usual but there none the less. US inventories ended the demand season at 64 million barrels , a figure which is 21 million barrels above last year. The arb , a bit all over the place, seems to be maintaining above cancellation economics , which is certainly good news for all.

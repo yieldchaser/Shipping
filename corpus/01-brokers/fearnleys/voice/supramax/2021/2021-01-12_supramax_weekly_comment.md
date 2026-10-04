@@ -1,0 +1,26 @@
+---
+id: "BC7003B8-DE8E-4F26-B418-C8184792802B"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-01-12"
+year: 2021
+week: 2
+title: "Fearnleys Supramax Weekly Comment - 2021-01-12"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-01-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-01-12 (Week 2)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `BC7003B8-DE8E-4F26-B418-C8184792802B`
+
+---
+
+## Market Commentary
+
+Most of the routes gaining ground and this week’s best performers being Continent and ECSA in Atlantic basin, whereas USG cooling down. From Continent usual scrap runs getting covered at USD 17,000 and trips to USG around USD 12,000. From USG to Continent, Supras being fixed at USD 22,000 and Ultra tonnage at USD 25,000, fronthauls paying high 20s for same. More activity from ECSA where TA being covered at USD 17,000 and fronthauls at USD 15k+500bb on Ultra and 13,500+350 on Supra. Similar trend from the Black Sea where fronthauls now reported at around USD 20,000. Positive sentiment also from the East where Pacific round voyages covered at USD 10,000 this week. Trip with limestone from MEG to China done at USD 14,000. On the period front, bigger Supramaxes were covered at USD 10,500.

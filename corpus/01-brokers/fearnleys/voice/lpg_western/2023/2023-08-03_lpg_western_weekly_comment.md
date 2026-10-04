@@ -1,0 +1,26 @@
+---
+id: "c94965bd-aa1e-4558-a030-5fe7bc6b19cd"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2023-08-03"
+year: 2023
+week: 31
+title: "Fearnleys LPG Western Weekly Comment - 2023-08-03"
+---
+
+# Fearnleys LPG Western Weekly Comment (2023-08-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2023-08-03 (Week 31)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `c94965bd-aa1e-4558-a030-5fe7bc6b19cd`
+
+---
+
+## Market Commentary
+
+AMERICAS Expectations of crude oil production cuts in the Middle East has put pressure on the US supply system, and with August effectively sold out and September avails limited, terminal fees have been on the rise. Where at the end of July the market was hovering around the 6cpg range for the remaining Aug volumes, an 8cpg Sep deal is known and 9cpg is being asked – and justifiably since the arb is supportive. Talk of a 10cpg offer for Sep was heard but is not known to have been concluded. Part of the reason that dock space is limited is due to a couple of domestic mechanical tie-ins; the first being Targa’s terminal capacity expansion by a pair of monthly 4:0 VLGCs, the second being Enterpise’s PDH start-up. In all cases, however, the ongoing and rather dreadful heat wave which continues unabated is slowing the flow of product, which – at +40C ambient temps – is making it difficult to achieve -42C refrigeration levels. As for the stock levels, is not the volume of available propane supplies that is in question, but the limited dock space – particularly for 4:0 cargoes. The EIA this week again posted an inventory gain, this time a build of 2.9mmbbls for an overall US stock total of 88.6mmbbls – or nearly 140% of the total seen at the same time last year. The build was well beyond most expectations, particularly as compared to the 5-year average build for week #30 of 1.7mmbbls.

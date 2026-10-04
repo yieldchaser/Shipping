@@ -1,0 +1,26 @@
+---
+id: "b706ce2b-8036-425e-862c-fbf78afd30ec"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-12-18"
+year: 2024
+week: 51
+title: "Fearnleys LNG Weekly Comment - 2024-12-18"
+---
+
+# Fearnleys LNG Weekly Comment (2024-12-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-12-18 (Week 51)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `b706ce2b-8036-425e-862c-fbf78afd30ec`
+
+---
+
+## Market Commentary
+
+Requirements have kept rolling in during the build-up to the Christmas period. The Atlantic spot market remains the most liquid, although sufficient supply is keeping a lid on rates for laycans through January. There are still a handful of opportunities for the second half of January and the slight arbitrage may lead to some scheduling challenges as we head into 2025, but sentiment is fairly well contained for now and charterers seeking slightly longer coverage are also seeing quite a flat horizon. The coming days should see some interesting price points for inter-basin trade as well as for multimonth charters. In short, while rates are proving stubborn the level of activity is keeping players busy, and ships trading.

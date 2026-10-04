@@ -1,0 +1,34 @@
+---
+id: "f6da44a2-587b-4d6d-8a3a-55aa1613ee51"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-01-29"
+year: 2025
+week: 5
+title: "Fearnleys Suezmax Weekly Comment - 2025-01-29"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-01-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-01-29 (Week 5)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `f6da44a2-587b-4d6d-8a3a-55aa1613ee51`
+
+---
+
+## Market Commentary
+
+Market remains over supplied with tonnage, only one exception is the Black Sea where we’ve seen a lot of movement off the forward window, with some stem swapping, so this market has been able to maintain last done levels and possibly pushed slightly higher.
+
+**West Africa**
+
+ has been ticking over but with the amount of spot vessels and a quiet U.S. market has lead to rates dropping to WS 75 for a TD20 run.
+
+**US Gulf**
+
+ has been very quiet so far this week with little change to the market, last done levels still around WS 65 for T/A. Middle East Gulf has seen some activity but once again due to the lack of activity we've seen recently and long list of vessels available, this has lead to the market pushing back to just above WS 105 levels to the East, whilst the West voyages need to be tested.

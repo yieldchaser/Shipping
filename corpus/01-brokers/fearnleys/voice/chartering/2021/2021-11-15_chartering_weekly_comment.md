@@ -1,0 +1,26 @@
+---
+id: "8A3093BE-B928-4E26-AA65-3DF29AA27276"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-15"
+year: 2021
+week: 46
+title: "Fearnleys Chartering Weekly Comment - 2021-11-15"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-11-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-11-15 (Week 46)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `8A3093BE-B928-4E26-AA65-3DF29AA27276`
+
+---
+
+## Market Commentary
+
+EAST Saudi acceptances were released on Tuesday with no cuts being reported. We are starting to see some additional relets emerging on the East position lists, which for the short term could soften the recent increase in freight rates. That said, we are entering the winter period where we typically face more delays and inefficiencies, much of which we indeed already start to take note of. WEST As we are over halfway through November it seems like the last uncovered cargoes mid December have been absorbed. At the same time last decade December fixing is well underway. We only see a couple of relets left this period while most of the available ships are owner controlled. The freight rates continue to increase with last concluded fixture done at USD low 110s and USD 115 Houston/Chiba on subs. Congestions in the neo-Panama Canal is finally decreasing a bit to thirteen days Northbound and twelve days Southbound after seeing as much as nineteen days last week, but there is still an uncertainty for vessels without a pre booked slot.

@@ -1,0 +1,26 @@
+---
+id: "D7B0D3AE-3CF3-4BAB-A08E-91D096F03253"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-05-20"
+year: 2022
+week: 20
+title: "Fearnleys S&P Weekly Comment - 2022-05-20"
+---
+
+# Fearnleys S&P Weekly Comment (2022-05-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2022-05-20 (Week 20)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `D7B0D3AE-3CF3-4BAB-A08E-91D096F03253`
+
+---
+
+## Market Commentary
+
+Sentiment in the tanker sectors continue to show encouraging signs with a strengthening buying enquiry leading to increased SnP liquidity in most segments. Product sectors draw strong levels of interest however this week has seen a greater number of crude carriers changing hands with 5 units sold. Notable transactions in the VLCC sector where MT “LEONIDAS” (Abt 320k dwt built 2009 HHI) was sold at Usd 42m while the Chinese built “NEW TALISMAN” (Abt 300k dwt built 2009 Bohai) achieved Usd 38.2m from UAE based Buyers. Levels that remain surprisingly in line with most recently concluded business but which however are not necessarily reflective of the current buying appetite which should apply upward pressure on values going forward. Elsewhere the 2007 built Aframax “ALMI SPIRIT “ was sold at USd 20m basis surveys due providing clear direction for the several other similar candidates that are currently in the market for sale. Candidates that were struggling to transact due to a rather stubborn bid/offer spread that seems to finally tighten. Steady activity in the dry cargo sectors with healthy amount of transactions and ongoing negotiation in most segments; notable pick up for Capesize which are seeing an increasing number of buyers entering the market. Elsewhere the Chinese built Ultramax “YANGZHOU CONFIDENCE” (Abt 63k dwt built 2017 Dayang) has now been sold basis SS Passed and BWTS fitted. Indicative of the current appetite, it is understood that the vessel drew up to 10 potential buyers with SUMEC inviting offers on the 17th of May which saw the vessel being sold at price of Usd 31.3m

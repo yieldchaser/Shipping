@@ -1,0 +1,26 @@
+---
+id: "fa06d310-173b-49d3-8dc6-d2807642f1f9"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-08-20"
+year: 2025
+week: 34
+title: "Fearnleys Panamax Weekly Comment - 2025-08-20"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-08-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-08-20 (Week 34)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `fa06d310-173b-49d3-8dc6-d2807642f1f9`
+
+---
+
+## Market Commentary
+
+The Panamax market held broadly sideways this week, with the Atlantic showing more resilience as steady USEC coal demand and a firming ECSA market for September dates kept sentiment supported, even as prompt tonnage faced pressure. Transatlantic business remained largely flat, with Baltic coal lending stability, while the North Atlantic continued to lack momentum. In Asia, a lengthening tonnage list and quieter chartering interest saw sentiment soften and fixtures ease slightly, though activity levels across Australia and Indonesia routes stayed healthy. Overall, the basin remains finely balanced, with the Atlantic better supported than the Pacific for now.

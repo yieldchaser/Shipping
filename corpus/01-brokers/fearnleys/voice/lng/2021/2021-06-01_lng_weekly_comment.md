@@ -1,0 +1,26 @@
+---
+id: "7599321C-92A6-4B2B-8375-279426638A69"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-06-01"
+year: 2021
+week: 22
+title: "Fearnleys LNG Weekly Comment - 2021-06-01"
+---
+
+# Fearnleys LNG Weekly Comment (2021-06-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-06-01 (Week 22)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `7599321C-92A6-4B2B-8375-279426638A69`
+
+---
+
+## Market Commentary
+
+It has been another slightly quieter week from LNG shipping perspective, which is somewhat surprising considering that the LNG cargo market continues to thrive as LNG prices done for deals into Europe and into the Far East elevate higher. Most of the ongoing shipping activity is now focused on July deliveries and we have witnessed a modest uptick on rates in the Atlantic basin, since some of the sublets have disappeared from the availability list. However, it has been a different story in the Pacific, as we continue to see further softening on rates, as prompt availability continues to build up and there hasn’t been enough requirements to significantly reduce this. Few of the independent Owners have noticed this as well, and have therefore decided to start ballasting their prompt tonnage towards the more promising Atlantic market. Evidently the spot market continues to stay volatile with its rather unpredictable movements from one week to another, but the big picture seems to be holding strong which is clearly illustrated by the term rates remaining firm. On the newbuilding front, it was a noticeably busier week, since amidst the strengthening yard prices, it was reported that SHI have secured an order for two modern 174,000cbm LNG carriers for an Oceanic shipowner and additionally it was also announced that DSME has signed a contract to build one 174,000cbm LNG carrier for Hyundai LNG Shipping which will go to Repsol under a long-term charter.

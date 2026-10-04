@@ -1,0 +1,26 @@
+---
+id: "CD79BF80-65BE-4480-A3BD-C9255BF8E487"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-04"
+year: 2019
+week: 45
+title: "Fearnleys Panamax Weekly Comment - 2019-11-04"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-11-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-11-04 (Week 45)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `CD79BF80-65BE-4480-A3BD-C9255BF8E487`
+
+---
+
+## Market Commentary
+
+A week in the red with a rapid weakening of the BPI in both basins. Both the Atlantic and the Pacific continued to fall significantly, but the rates in the East have been slightly less affected by the softening. A TA round voyage currently pays owners around USD 9,500 per day, while a fronthaul from the Continent yields around USD 20,000. In the Pacific, a round voyage pays owners around USD 10,000 per day. The BPI 4TC-index is currently at 1385 points, 189 down since last week.

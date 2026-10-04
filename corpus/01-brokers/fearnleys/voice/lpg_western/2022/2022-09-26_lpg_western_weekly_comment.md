@@ -1,0 +1,30 @@
+---
+id: "6BF42A80-4832-4547-BAC3-6A684B46BB9F"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-09-26"
+year: 2022
+week: 39
+title: "Fearnleys LPG Western Weekly Comment - 2022-09-26"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-09-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-09-26 (Week 39)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `6BF42A80-4832-4547-BAC3-6A684B46BB9F`
+
+---
+
+## Market Commentary
+
+AMERICAS Activity levels in the domestic US market have been limited recently as most are eyeing the rising inventories and corresponding pricing structure declines. The EIA data this week showed yet another build, this time a ‘middle of the road’ 1.6mmbbl improvement to an overall total of 82.8mmbbls. The increase is the result of modestly reduced export volumes as well as stout production levels. Inventory expectations earlier in the year were aimed at the mid/upper 70mmbbl level which while sufficient has been well eclipsed and has shifted the market to a lengthier – and perhaps more comfortable - position. Terminal fees remain weak, with buy-side interest in the 3cpg range and sellers’ initial offers starting in the mid 4cpg. September export volumes have been muted, but sentiment is calling for October exports to be more robust. As winter nears and temperatures begin to subside, propane demand levels should commensurately improve, particularly with support from the crude arena if WTI continues its recent about-face. NWE A window deal was done Wednesday, pegging the TOT market at October CIF ARA +$2mpt. European netbacks are favourable to heading East from the US as the East West spread of +$54pmt is around $10pmt below the freight differential between the East and West routes. The difficulty for European shorts is finding vessels which can reach the region in time in this tight VLGC market. The window deal done was for delivery around October 20th, while VLGCs are being fixed for November 10th FOBs, which would be end November arrival in Europe. European butane has been depressed recently by the rumour of a full butane VLGC cargo heading to the region, pushing values from 94% October Naphtha down to 92%.
+
+**MED**
+
+ Refinery production continues to be reduced in the region as LPG is used for power during the continued high natural gas price environment. US volumes have been pushed into the Med calming any potential tightness, before the first signs of any winter demand

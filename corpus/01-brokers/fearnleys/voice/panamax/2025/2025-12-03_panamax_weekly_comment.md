@@ -1,0 +1,26 @@
+---
+id: "1359019f-8ac5-448f-ac3a-66937861d26a"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-12-03"
+year: 2025
+week: 49
+title: "Fearnleys Panamax Weekly Comment - 2025-12-03"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-12-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-12-03 (Week 49)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `1359019f-8ac5-448f-ac3a-66937861d26a`
+
+---
+
+## Market Commentary
+
+Sentiment has shifted into correction mode this week as building tonnage lists across both basins hand leverage back to Charterers. While NOPAC remains sluggish and the Atlantic drifts lower on quiet USG activity, a surging Capesize market is offering a vital lifeline via cargo splits. The one bright spot in the Pacific is Aussie coal, where a shortage of immediate tonnage is forcing operators to pay premiums. Technically, our indicators suggest this softer trend persists through year-end, but with coal futures signaling a January rally and copper supporting asset values, we view this as a temporary dip before a Q1 rebound.

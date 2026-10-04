@@ -1,0 +1,26 @@
+---
+id: "43ab2231-a596-42e6-89b9-0d32e2f0b2fd"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-03-22"
+year: 2024
+week: 12
+title: "Fearnleys S&P Weekly Comment - 2024-03-22"
+---
+
+# Fearnleys S&P Weekly Comment (2024-03-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-03-22 (Week 12)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `43ab2231-a596-42e6-89b9-0d32e2f0b2fd`
+
+---
+
+## Market Commentary
+
+After the furore of the last few weeks, it seems as though the dry market has taken somewhat of a breather. Small and medium sized buyers are looking at the market more tentatively than before, having seen price expectations on units increase rapidly over the last quarter. Earnings stuttered this week, reminding buyers that everything can change quickly. Capes are still receiving healthy premiums, with ORANGE TIARA 181K DWT KOYO 2012 selling at USD 35M, exceeding what was paid for 1-year younger KINOKAWA MARU 181K DWT IMABARI 2013 (USD 34M) back in February. Supramax STRAITS BAY 55K DWT KAWASAKI 2007 sold for a very sizeable USD 14.75M, showing the premium buyers would pay for a very prompt ship. Elsewhere Lauritzen sold scrubber fitted handy bc ASIAN BULKER 36K DWT SHIKOKU DOCKYARD 2017 for USD 24M. It was a fairly lacklustre week in the tanker market, despite a jump in earnings. Modern second hand tonnage is still hard to come by, with the majority of activity happening on the newbuilding front. In the notable transaction for the week, Scorpio sold MR pair STI LE ROCHER/STI LARVOTTO 49K DWT HMD 2013 for USD 36.2M each.

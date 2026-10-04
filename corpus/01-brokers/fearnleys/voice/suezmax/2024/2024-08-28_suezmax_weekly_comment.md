@@ -1,0 +1,30 @@
+---
+id: "6316ca28-bd71-4b3d-8276-281b582f17cb"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-08-28"
+year: 2024
+week: 35
+title: "Fearnleys Suezmax Weekly Comment - 2024-08-28"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-08-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-08-28 (Week 35)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `6316ca28-bd71-4b3d-8276-281b582f17cb`
+
+---
+
+## Market Commentary
+
+Last week saw Owner Sentiment gently nudge rates up in Wafr, Whilst this week, sentiment and improved fundamentals have converged. At the time of going to press, TD 20 trades minimum WS 80 with the fixing window focused on the 15-20 September window.
+
+**USG**
+
+/TA has traded a couple of times at WS 70 before retreating back to WS 69.75. We think this is a momentary blip with rates likely to head back to WS 70'ish very soon. In the East, the majority of activity is mainly short haul Indian cargoes which hasn't been enough to thin out the list although rates remain stubbornly healthy with reported last done MEG/East at WS105 NHC. BOT/UKCM needs a test but should trade W50-55 COGH.

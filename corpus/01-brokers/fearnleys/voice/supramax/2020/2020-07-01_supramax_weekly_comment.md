@@ -1,0 +1,30 @@
+---
+id: "B5730A93-6DC6-44EA-AA21-B57740F1BAEF"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-07-01"
+year: 2020
+week: 27
+title: "Fearnleys Supramax Weekly Comment - 2020-07-01"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-07-01 (Week 27)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `B5730A93-6DC6-44EA-AA21-B57740F1BAEF`
+
+---
+
+## Market Commentary
+
+A slow start to the week with various holidays around. Overall sideways, slightly positive feeling to the market with gains specifically in USG, Black Sea, and India.
+
+**USG**
+
+ fronthauls paying around USD 20,000, while ECSA fixing around USD 13,000+300k gbb, and Black Sea fh paying in the USD 15,000 region. Indian iron ore to Far East paying high teens for Supra, while South Africa rv paying around USD 12,250+225k, and Nopac rv’s are paying close to USD 8,000.

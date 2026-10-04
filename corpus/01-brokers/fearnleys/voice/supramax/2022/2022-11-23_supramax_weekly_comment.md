@@ -1,0 +1,30 @@
+---
+id: "3780D844-F467-4821-A829-C5BAC5D6E00A"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-11-23"
+year: 2022
+week: 47
+title: "Fearnleys Supramax Weekly Comment - 2022-11-23"
+---
+
+# Fearnleys Supramax Weekly Comment (2022-11-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2022-11-23 (Week 47)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `3780D844-F467-4821-A829-C5BAC5D6E00A`
+
+---
+
+## Market Commentary
+
+Softer undertone continued across all basins in the Supramax market, with few fresh news to bring the market to life. The Atlantic still looks better compared to Pacific with rates on Supra trading well sub USD 10,000 pd. Though we can clearly see activity in Atlantic reducing in main load areas.
+
+**USG**
+
+ lost its ground, FH fixture was reported USD 24,000 pd for TCT to South East Asia. ECSA remains stable with 61,000 dwt fixed basis delivery West Africa TCT via ECSA to Spore/Japan with grains at USD 24,000 pd. Asia market is stabilizing and found a bottom, however rates are still low. A modern Ultramax fixing around USD 8,000 pd for trip from Vietnam to USG.

@@ -1,0 +1,26 @@
+---
+id: "764b2f9b-4802-4f77-b997-23aed0cd0591"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-02-01"
+year: 2024
+week: 5
+title: "Fearnleys LNG Weekly Comment - 2024-02-01"
+---
+
+# Fearnleys LNG Weekly Comment (2024-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-02-01 (Week 5)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `764b2f9b-4802-4f77-b997-23aed0cd0591`
+
+---
+
+## Market Commentary
+
+LNG Spot rates have continued their downward trend in the East while in the West, rates appear to have stabilised - although vessel availability continues to grow in both basins. In the East, we have witnessed a handful of players approaching the market with spot requirements, but with multiple Owners showing availability, rates remain under pressure. Interestingly, the increased tonne miles resulting from LNGCs now avoiding the Red Sea has had minimal impact on levels. In short, the LNG market has quickly and comfortably adapted to life without the Red Sea (at least for now). In the West, demand for tonnage is mainly centered around increased FOB spot cargo purchases, coupled with increased interest in multi-month charters, where a few fixtures have been concluded at “competitive” levels. Some view this a sign that the “bottom” of the market has arrived, but all eyes will be on the next term fixture to see if rates are actually on the ascent again. Finding a clear trend may of course prove difficult as geopolitical factors continue to play an outsized role in the market. There have been no Newbuilding orders reported this week, but prices are strengthening as demand for 2027 delivering slots remains high.

@@ -1,0 +1,30 @@
+---
+id: "2DB5062A-A53F-462C-9BB4-F60F82C252F3"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-10-06"
+year: 2020
+week: 41
+title: "Fearnleys Suezmax Weekly Comment - 2020-10-06"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-10-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-10-06 (Week 41)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `2DB5062A-A53F-462C-9BB4-F60F82C252F3`
+
+---
+
+## Market Commentary
+
+With the fourth quarter well underway the Suezmax market is still hampered by tonnage-oversupply and depressed cargo volumes. Whilst the majority of load zones have experienced moderate cargo enquiry this week, seasonal and physical support mechanisms that we generally associate with this time of year are blatantly missing. In North West Europe we've seen a handful of arbitrage plays, albeit at insufficient volumes to hold most ships interest on the Continent. This will further add to freight woes in West Africa with TD20 likely to stay in the low WS30's for the remainder of the week. Compounding this issue is a plethora of eastern ballasters that continue to cap upside for Wafr/East moves at WS40.
+
+**MEG**
+
+/East and Basrah/West will stay depressed for the balance of this week in the WS30's and WS10's respectively.

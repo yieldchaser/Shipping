@@ -1,0 +1,26 @@
+---
+id: "749DD739-6324-4F2D-9737-79C4A1BC32FB"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-08-27"
+year: 2019
+week: 35
+title: "Fearnleys Capesize Weekly Comment - 2019-08-27"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-08-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-08-27 (Week 35)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `749DD739-6324-4F2D-9737-79C4A1BC32FB`
+
+---
+
+## Market Commentary
+
+Over the last week the Capesize market got stronger as the basket of all routes increased 13%. Especially on the Brasil to China route we have seen a big improvement with USD 4 dollars per metric ton added to the freight. For this route we see significant activity with less and less early tonnage available. This tightness indicates that we are looking at further improvement in the week to come, however it mostly depends on the schedule and activity of one major freight consumer.

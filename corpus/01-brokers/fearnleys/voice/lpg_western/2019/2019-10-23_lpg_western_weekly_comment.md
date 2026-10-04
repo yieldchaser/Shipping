@@ -1,0 +1,26 @@
+---
+id: "2A2D2872-F80E-4054-9C39-C72765881614"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2019-10-23"
+year: 2019
+week: 43
+title: "Fearnleys LPG Western Weekly Comment - 2019-10-23"
+---
+
+# Fearnleys LPG Western Weekly Comment (2019-10-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2019-10-23 (Week 43)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `2A2D2872-F80E-4054-9C39-C72765881614`
+
+---
+
+## Market Commentary
+
+AMERICAS: A draw of 460,000 barrels in US inventories has left stocks at 100 million barrels on the nose, and despite this slightly larger than expected draw, global LPG markets have weakened. Mt Belvieu propane has come down to 34% of WTI, from 36% earlier in the week. Mt Belvieu butane also saw a large loss in value post inventories and now stands at 46% of WTI, down from 49% the previous day. Both drops seem a bit odd as propane’s comes on top of the first cold weather forecast and an inventory drop while butanes comes with a strengthening gasoline market. There has been a noticeable drop in VLGC exports form PADD 1, Marcus Hook due to the majority of C4 being kept for domestic gasoline blending. US FOB stems available for trade through the end of the year are thin. The backwardation in CIF ARA and FEI markets is keeping interest for FOB cargoes prompt. We do not expect sellers to offer these remaining cargoes cheaply, so it will be interesting to see if the buyers or sellers win this battle.

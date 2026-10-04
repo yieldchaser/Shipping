@@ -1,0 +1,30 @@
+---
+id: "0CD23860-FA87-4A78-B2C1-63CDC40558E1"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-05-31"
+year: 2021
+week: 22
+title: "Fearnleys Suezmax Weekly Comment - 2021-05-31"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-05-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-05-31 (Week 22)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `0CD23860-FA87-4A78-B2C1-63CDC40558E1`
+
+---
+
+## Market Commentary
+
+Despite huge swathes of vessels disappearing in the East and West over the last couple of weeks, charterers have seemingly been able to pluck vessels off the list with impunity. Unfortunately, these tighter lists have not, hitherto, been tight enough, and that is wherein the problem lies. Eastern ballasters continue their procession to the West but curiously, West/East volumes have taken a downward turn over the last couple of months and we have noted fewer vessels being recycled onto the East list. This might cause a bottleneck on the tonnage supply front in the next couple of weeks and with that, possibly firmer rates. If owners start to tune into proceedings, then perhaps there could be some positivity.
+
+**MEG**
+
+/East trades ws53 whilst Wafr/East is likely to stay low ws50's this side of the weekend.

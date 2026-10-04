@@ -1,0 +1,30 @@
+---
+id: "813b8440-d000-4513-8103-4797bca18a84"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-01-22"
+year: 2025
+week: 4
+title: "Fearnleys Aframax Weekly Comment - 2025-01-22"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-01-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-01-22 (Week 4)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `813b8440-d000-4513-8103-4797bca18a84`
+
+---
+
+## Market Commentary
+
+The natural availability for North Sea voyages is limited for anything in January. Unfortunately, the activity has also been limited with the natural window pushing into February dates. Freight levels remain steady.
+
+**USG**
+
+ lacking activity so vessels ballasting to the Mediterranean which has shown more promise. Fundamentals do not support a big swing on rates in the Mediterranean/Black Sea, but sentiment has kept rates steady. Suezmaxes are there with the potential to interfere in trades moving forward as equivalent levels are more or less on par. There is scope for replacements to warrant more but there is no other obvious point of pressure right now.

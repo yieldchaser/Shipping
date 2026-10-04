@@ -1,0 +1,26 @@
+---
+id: "BC9B6546-73F9-4822-AEB9-B0CC392A6621"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-01"
+year: 2021
+week: 5
+title: "Fearnleys VLCC Weekly Comment - 2021-02-01"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-02-01 (Week 5)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `BC9B6546-73F9-4822-AEB9-B0CC392A6621`
+
+---
+
+## Market Commentary
+
+The VLCC market continues at a snail’s pace. Rates are being tested in all areas, and with bunker prices on the rise it's more or less negative territory all round unless a ship is scrubber fitted. China Inc. continues to cater for their own, leaving slim pickings for 3rd party owners. The question now is “should I stay or should I go” as the song goes. With plenty of available tonnage basically spot, with the option of heading west or sticking with the MEG, there’s currently no winners wherever you lean. If this continues the ultimate question will be “should I trade at all”. With USG export cargoes on offer now loading medio march, the commitment is well into spring for a China destination, leaving little hope of a recuperation any time soon.

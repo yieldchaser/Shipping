@@ -1,0 +1,26 @@
+---
+id: "0836E09B-1B23-4210-A70A-ED5DF48B4F58"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-05-11"
+year: 2022
+week: 19
+title: "Fearnleys Panamax Weekly Comment - 2022-05-11"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-05-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-05-11 (Week 19)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `0836E09B-1B23-4210-A70A-ED5DF48B4F58`
+
+---
+
+## Market Commentary
+
+The market in the Pacific region remained buoyant, levels continuing to improve with levels of enquiry from both Australia and North Pacific remaining strong. There is more enquiry in the US Gulf however felt that levels of enquiry further south from East Coast South America had reduced in recent days leading to an easing of levels. Some representative fixtures this week: BBG Guigang (81,567/2020) open CJK 14-20 May was rumored to have been placed on subjects for 6 to 8 months around USD 30,750-31,000. Penta (76,424/2011) was rumored to have been placed on subject for a trip basis delivery retro sailing passing Muscat outbound for a trip via East Coast South America to Singapore-Japan at USD 30,500. Medi Palmarola (81,874/2018) open Ghent 16 May was rumored to have been placed on subjects for a transatlantic round at USD 32,000. Glory Amsterdam (77,171/2006) open Swinoujscie with prompt dates was rumored to have been placed on subjects for a transatlantic round at USD 30,000 but further details were not yet available. The Sea Gemini (81,716/2014) open Dafeng 12-17 May was rumored to have been placed on subjects for a trip via East Coast Australia to India between USD 27,000 and 28,000. Great Hope (75,480/2012) open Hansha 9 May was also rumored on subjects for a trip via Indonesia to India at USD 25,000 with Tongli. Km MT. Jade (81,487/2008) open Kashima 9 May was rumored to have been placed on subjects for a trip via Indonesia to Japan at USD 27,000 to Asahi.

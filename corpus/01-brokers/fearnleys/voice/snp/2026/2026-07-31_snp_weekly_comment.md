@@ -1,0 +1,26 @@
+---
+id: "3da18525-cd77-4adb-af1b-6931d3c3191e"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-07-31"
+year: 2026
+week: 31
+title: "Fearnleys S&P Weekly Comment - 2026-07-31"
+---
+
+# Fearnleys S&P Weekly Comment (2026-07-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-07-31 (Week 31)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `3da18525-cd77-4adb-af1b-6931d3c3191e`
+
+---
+
+## Market Commentary
+
+ADNOC has made a splash in the VLCC market this week, acquiring at least five units for use in their own trading operations. The deals have prompted debate over whether the prices paid are representative of the wider market or instead reflect the lucrative and highly specific employment intended for the vessels. It remains to be seen, however, whether other owners will view these levels as grounds to raise their own price expectations. Dry bulk earnings remain healthy, giving Sellers little incentive to soften their price expectations. Despite firm asset values, liquidity remains elevated in the 15-year-old space, with several transactions reported this week. Kamsarmax sisters ARTVIN/ORDU (81k dwt HMD 2012/2011) were sold en bloc to Korean buyers for USD 39m.

@@ -1,0 +1,30 @@
+---
+id: "6F727483-519D-4350-B858-575709BBFB5F"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-06-17"
+year: 2019
+week: 25
+title: "Fearnleys Suezmax Weekly Comment - 2019-06-17"
+---
+
+# Fearnleys Suezmax Weekly Comment (2019-06-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2019-06-17 (Week 25)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `6F727483-519D-4350-B858-575709BBFB5F`
+
+---
+
+## Market Commentary
+
+Following last week’s incidents in the MEG, the war risk insurance quotas have surged. This in turn have forced rates up as suezmaxes – as opposed to certain VLCC charterers – still fix inclusive of war risk insurance. This spike have attracted a lot of attention from owners that would otherwise ballast ships westward.
+
+**Wafr**
+
+ have slipped slightly from last week’s levels and looks to be in for a bit of a repricing this week as we embark on early July dates.

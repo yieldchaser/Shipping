@@ -1,0 +1,30 @@
+---
+id: "2c7e8d79-0ef1-4532-9fab-b4fc1d7e44b3"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-01-17"
+year: 2024
+week: 3
+title: "Fearnleys Capesize Weekly Comment - 2024-01-17"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-01-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-01-17 (Week 3)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `2c7e8d79-0ef1-4532-9fab-b4fc1d7e44b3`
+
+---
+
+## Market Commentary
+
+We see a drop in overall C5 enquiries this week. Miners and some operators were seeking primarily late January to early February dates. On the East Australia coal and Pacific front, volume has somewhat maintained from last week. On South Africa and Indian business, we see several interests for early February dates. On C3 ex Brazil to China and West Africa, we see an uptick in enquiries for early to mid February dates.
+
+**Far East**
+
+ tonnage is building up. Ballasting tonnage is heavily weighted for February. On C5, we see fixtures concluding at mid to high USD 7 pmt levels by midweek. On C3, we see offers at 21 pmt levels for early February and sub 20 pmt levels for mid February. There is resistance with bids seen at mid to high 18 pmt levels.

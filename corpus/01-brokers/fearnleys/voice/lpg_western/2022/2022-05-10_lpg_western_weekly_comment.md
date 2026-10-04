@@ -1,0 +1,30 @@
+---
+id: "F0142174-9048-45D1-A1E1-F71C50F47092"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-05-10"
+year: 2022
+week: 19
+title: "Fearnleys LPG Western Weekly Comment - 2022-05-10"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-05-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-05-10 (Week 19)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `F0142174-9048-45D1-A1E1-F71C50F47092`
+
+---
+
+## Market Commentary
+
+AMERICAS The market was taken aback by the large inventory build reported by the EIA on Wednesday, which showed a build of 3.4mmbbls on a week-over-week basis and which now stand at 44.2mmbbls, or just over 100% of last year. Notably, however, current propane inventories are just 66% of two years ago. The market had been anticipating a build of between 1.25-2.25mmbbls, with most centered around the +1.75mmbbl level. To then realize a build of nearly double was surprising, but that soon gave way to a sense of skepticism, mostly related to the PADD III build of 3.8mmbbls, which suggests that either production levels have grown dramatically, or waterborne exports have declined – or both. But neither seems plausible and hence the doubt. As such, observers and participants alike are now expecting a set of corrected numbers in the forthcoming data. Terminal fees remain under pressure, though very little has been accomplished this week. The last known June transactions were fixed on either side of 5cpg, with 2H 2022 strip interest generally talked on either side of around the 6cpg level by both buyers and re-sellers. NWE The end-May TOT buying interest in the window from BASF was hit by Vitol at 84.75% May Naphtha. Total, the other sellers disappeared. That deal was the last expected to be done for May. The European market is now focused on June and with crackers expected to come out of spring maintenance mid-May through mid-June and the market is showing strength in anticipation of this rise in demand. This weeks rise in Brent coupled with a large build in US inventories has propane at a slightly better than $160pmt discount to Naphtha and netback values form the US above 5cpg. Workable once again! Freight has continued to rise, taking a large chunk of the wider arb particularly to Europe as owners set a premium for US to Europe voyages in the hope of fixing longer voyages East at today’s high rates. Spot butane deals have not been seen in the market for some time and any new deal would set market levels. CIF ARA Butane values have come off as US supply heads to the region. Value now assessed at 98% May Naphtha, relative to propane this is strong with the rise in crude pushing up May Naphtha values.
+
+**MED**
+
+ As other regions the local LPG prices have risen with crude oil values. May is more or less covered through term deliveries, with traders looking into June.

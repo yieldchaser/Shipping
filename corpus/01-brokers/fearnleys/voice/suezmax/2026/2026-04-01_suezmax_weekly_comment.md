@@ -1,0 +1,30 @@
+---
+id: "ce612c39-4cc5-49f3-9451-bfe6ff3149c3"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-04-01"
+year: 2026
+week: 14
+title: "Fearnleys Suezmax Weekly Comment - 2026-04-01"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-04-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-04-01 (Week 14)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `ce612c39-4cc5-49f3-9451-bfe6ff3149c3`
+
+---
+
+## Market Commentary
+
+Another quiet day in the West, with few deals concluded above the surface. Sensitivity around earlier laycans is diminishing, with 2nd decade being fixed down as owners weigh up the substantial cost of waiting. There have been some 3rd decade enquiries, though charterers still have time on their side to sit on cargoes. With tonnage lists now leaning towards an oversupply, this appears to be the appropriate course of action.
+
+**West Africa**
+
+ 3rd decade has likely seen greater than normal erosion from VLCCs, while the USG has also registered a significant number of 260kt fixtures for April. Therefore remainder of April may be less fruitful for the smaller sizes. Opportunities for those looking to fix Red Sea/Fujairah cargoes remain limited, and as a result we expect the continued flow of vessels either around the Cape of Good Hope or through the Suez Canal into the Mediterranean.

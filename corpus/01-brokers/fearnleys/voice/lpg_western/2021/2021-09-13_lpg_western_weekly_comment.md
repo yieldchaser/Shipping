@@ -1,0 +1,30 @@
+---
+id: "2247BFD8-6E42-4BDA-845E-2518CF87369E"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2021-09-13"
+year: 2021
+week: 37
+title: "Fearnleys LPG Western Weekly Comment - 2021-09-13"
+---
+
+# Fearnleys LPG Western Weekly Comment (2021-09-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2021-09-13 (Week 37)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `2247BFD8-6E42-4BDA-845E-2518CF87369E`
+
+---
+
+## Market Commentary
+
+NWE Rising crude is dragging CIF ARA up to seven year highs. Though CIF ARA remains in the shadows of Mt Belvieu’s strength. This keeping the arb closed, though not by much, and the trans-Atlantic trade to a bare minimum. A trading house continues to bid the window, at a small premium, failing to attract interest so far this week. Petchems in the region are cracking naphtha where possible with September pro/nap spread at +$48pmt. Natural Gas prices in the region remain high and it will be interesting to see if this pushes propane into any new markets. Refineries using propane as fuel has yet to push up the volume of imports to the region. Butane 104.5% Naphtha rising to 106.8% in November.
+
+**MED**
+
+ The main import countries continue to look for product. Tightness in the East Med looks less severe in October than September, with sufficient volume heading for Turkey. West Med demand is present though not urgent, with Morocco looking for small volumes of butane. AMERICAS Propane supply is now of concern to most parties, since the EIA inventory data revealed a bullishly paltry 700,000bbl build for the week ending 10 Sep, and which brought overall total stock levels to 70.8mmbbls, or 73.6% of last year. Naturally, the pricing structure at Mont Belvieu is responding and has moved up to over $1.30/gal. Inventory draws were recorded in both PADD I and PADD III, indicating that export volumes – despite the recent hurricane which landed near Houston and a bit of mid-month terminal downtime – remain robust. To further illustrate the point, Gulf Coast inventories are 33.2mmbbls, down from 54.9mmbbls last year – a nearly 40% reduction over twelve months. The ‘bright’ side is limited to the lack of crop drying in North America, but with a La Nina climate forecast on the horizon, winter – and any corresponding demand that comes alongside– looms. Terminal fees in the US remain tiered, with spot buy-side interest at sub-4cts/gal levels, and spot re-sellers at/below a nickel. The terminals themselves - depending on the ratio - have a stair-stepped system ranging from the low 5ct range up to more than 6.5cts/gal.

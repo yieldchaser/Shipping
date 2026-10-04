@@ -1,0 +1,26 @@
+---
+id: "69a27c67-036a-4d51-85b2-21c1cf994ebb"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-08-16"
+year: 2023
+week: 33
+title: "Fearnleys Suezmax Weekly Comment - 2023-08-16"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-08-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-08-16 (Week 33)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `69a27c67-036a-4d51-85b2-21c1cf994ebb`
+
+---
+
+## Market Commentary
+
+A bizarre set of circumstances have recently seen a Suezmax ballast from the Mediterannean to the MEG to perform a TD23 voyage. So dismal were the returns West of Suez, that this actually made sense. That was last week, and whilst the list for 20T crane vessels remains fairly balanced, it's unlikely we will see a repeat of this scenario in the near future. Otherwise, the East has been quiet on the surface and likely to trade flat. In the Atlantic, charterers have worked off market to secure a large volume of vessels for first decade West Africa stems, suggesting they think it's bottomed at about WS 65. A market quote has just entered the fray which will set the scene for the balance of the week. Elsewhere, in the USG there has been steady enquiry with the early side of the list thinning out therefore we are calling USG/UKCM 145KT x WS 54-55 with no downside.

@@ -1,0 +1,34 @@
+---
+id: "2dd332dc-ff6c-4872-b05b-db8fae98f547"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-11-22"
+year: 2023
+week: 47
+title: "Fearnleys Capesize Weekly Comment - 2023-11-22"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-11-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-11-22 (Week 47)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `2dd332dc-ff6c-4872-b05b-db8fae98f547`
+
+---
+
+## Market Commentary
+
+We see volumes holding up on C5, with enquiries from miners, operators, and tenders for early to mid December dates. On East Australia and the Pacific, the week started with scarce volume and picked up slightly midweek. On C3 ex Brazil to China and West Africa, we see healthy volumes for second half of December. Volume remains moderate on front haul and Indian business. All in all, market is softening from last week’s optimistic sentiment.
+
+**Far East**
+
+ tonnage is moderately tight. Ballaster count is scarce for early December with most vessels having mid December to early January 2024 dates.
+
+**Atlantic**
+
+ tonnage is tight. On C5, rates dipped slightly from las week with fixtures concluding at low 9 pmt levels. On C3, we see conclusions between high 20 to mid 21 pmt levels for late December stems. Bid offer spread is wide at low 22 pmt versus 20 to 21 pmt levels as owners and charterers adopt a wait and see approach.

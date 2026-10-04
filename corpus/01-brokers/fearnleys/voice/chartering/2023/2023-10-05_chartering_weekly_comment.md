@@ -1,0 +1,26 @@
+---
+id: "a885a92d-9f04-43cc-bf3b-4c89d930d0a5"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-10-05"
+year: 2023
+week: 40
+title: "Fearnleys Chartering Weekly Comment - 2023-10-05"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-10-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-10-05 (Week 40)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `a885a92d-9f04-43cc-bf3b-4c89d930d0a5`
+
+---
+
+## Market Commentary
+
+EAST Looking to the East earnings are now below USD 100k per day for the first time since the end of August. The East/West earnings spread has come in a bit since yesterday, but it may look like East currently has more downside than what we find currently in the West. We are now counting a total of 21 spot fixtures ex Middle East for October (average so far this year stands at 23) and with tonnage availability still plentiful with about a dozen potential open vessels still on end Oct dates it should be fair to suggest we might see freight coming off further before an eventual floor is found. WEST The West market has been more or less muted for the last two weeks as a change in sentiment has been looming and also in the wake of Asian holidays taking place this week. In the short term, the drop in freight rates of about USD 50 per ton seems to have taken the edge off the waiting game, however, it remains to be seen if the last done fixture at USD 200 Houston/Chiba off end November ex USG is the bottom or not. Although the drop in rates on a per-ton basis may feel and seem brutal, the market is still trading above USD 100k per day! Up till today, we've seen about 10 spot fixtures ex USG/EC for November, which compared with an average of about 30 fixtures per month implies that we will see more deals concluded in the weeks to come.

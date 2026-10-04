@@ -1,0 +1,26 @@
+---
+id: "0E457D5D-6FA5-478E-BB1E-802A31731C1E"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-09-19"
+year: 2022
+week: 38
+title: "Fearnleys Chartering Weekly Comment - 2022-09-19"
+---
+
+# Fearnleys Chartering Weekly Comment (2022-09-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2022-09-19 (Week 38)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `0E457D5D-6FA5-478E-BB1E-802A31731C1E`
+
+---
+
+## Market Commentary
+
+EAST The Indian majors have been at the center of activity so far this week, but we are now seeing several other players moving on freight for dates further into both mid and end October on the back of rising freight rates. With last non-Indian deal done at mid/high-70s RT/C we are at the time of writing approximately 15 spot fixtures concluded for October dates. We expect Eastern freight rates to remain strong. WEST This week we have seen freight rates continue to push upwards with last done deal concluded at mid 120 H/C and high 60s H/F for early November dates. Although focus have shifted towards this period there are still a few vessels left open in October as we have seen close to 40 spot fixtures for that month. Going forward, vessel supply looks very tight and with bad weather both sides of US, in addition to Panama congestions increasing, it will make scheduling more difficult.

@@ -1,0 +1,26 @@
+---
+id: "724afdb0-0e83-4fba-a665-71d8fafcce6e"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-08-06"
+year: 2025
+week: 32
+title: "Fearnleys VLCC Weekly Comment - 2025-08-06"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-08-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-08-06 (Week 32)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `724afdb0-0e83-4fba-a665-71d8fafcce6e`
+
+---
+
+## Market Commentary
+
+The VLCC market started with a bang on Monday with a handful of quoted cargoes before we’d finished the morning coffee. Probably in part spurred by OPEC+’s decision to boot production further on Sunday’s meeting. Rates inched up ending the day at WS 47 MEG/East. Tuesday and today have followed suit with a steady flow of cargoes and the position list thinning by the hour. A strengthening Atlantic market has and will entice owners to look West as well, thinning the list further. A WS 48 has been concluded on an ex D/D ship MEG/Korea today and a "regular" one at WS 53.5 for a Singapore discharge, so nobody will be surprised if TD3C tests the WS 55 mark before long. President Trump’s tariff-shenanigans in general and further potential Russian/Indian ones in particular continues to create uncertainty. That said, should India be pressured to stop import of Russian oil and buy “conventional” instead it would probably favor VLCCs more than most.

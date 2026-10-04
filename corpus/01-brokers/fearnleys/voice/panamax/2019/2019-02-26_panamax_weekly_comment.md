@@ -1,0 +1,26 @@
+---
+id: "DB415CA4-C18D-4231-B8D2-479AED62268B"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-02-26"
+year: 2019
+week: 9
+title: "Fearnleys Panamax Weekly Comment - 2019-02-26"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-02-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-02-26 (Week 9)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `DB415CA4-C18D-4231-B8D2-479AED62268B`
+
+---
+
+## Market Commentary
+
+Another week with increased rates in both hemispheres. The north Atlantic started the week slow, but a fresh injection of cargoes mid-week helped reducing the early vessels. A transatlantic round voyage still pays around USD 2500 per day, while a short fronthaul yields around the high 10,000's. In the east, a Pacific round voyage pays around the low USD 6,000's. The BPI 4TC-index is up 38 points to 649.

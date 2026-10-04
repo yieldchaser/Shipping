@@ -1,0 +1,30 @@
+---
+id: "F5800CB4-1380-40D6-974E-DE12AD903D6F"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-12-05"
+year: 2022
+week: 49
+title: "Fearnleys LPG Western Weekly Comment - 2022-12-05"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-12-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-12-05 (Week 49)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `F5800CB4-1380-40D6-974E-DE12AD903D6F`
+
+---
+
+## Market Commentary
+
+AMERICAS Mont Belvieu propane prices overall been soft since the end of the first quarter of 2022, though through the summer months that is generally the expected trajectory. Since the start of Q4, however – and presumably at the start of the winter season - the direction has not changed. This is likely due to the ongoing robust production levels in the U.S. which has resulted in much higher than anticipated inventory levels. And while this week’s EIA report showed a 900,000bbl decline, stocks are still – as of 02 Dec – at a total of 89.70mmbbls, or 122% of last year and 103% of two years ago. The market had been anticipating yet another build as weather-related demand has yet to fully commence. On the export front, lifting delays have been occurring due to a combination of Panama Canal congestion and, more recently, fog on the Houston Ship Channel which has been rather persistent in recent days. Terminal fees have been relatively well maintained through it all, with offers seen at nearly 6cpg and interest levels mostly in the 5cpg range. NWE No TOT window action has been seen since Monday. The January East/West spread has widened to $106pmt, with both strong FEI and CIF ARA values. Northerly Arctic winds hit Europe this week rapidly dropping temperatures across the region, now consistently below freezing nightly, winter has arrived! This has pushed Dutch TTF values up to $43.40/MMbtu, up by $4/MMbtu on the day. Relative CIF ARA LPG valeus are, Propane $11.60/MMbtu, Butane $11.80/MMbtu. The draw in US inventories also supported global propane values. The drop in crude oil has dragged European naphtha values with it leave Dec propane/naphtha at -49USD down 12USD from the start of the week. Butane values remain 91.5% December Naphtha, down relative to propane.
+
+**MED**
+
+ The region is slowly starting to see an increase in demand and 400,000MT of US LPG will be landing in December. Around 40% of those imports are headed for Turkey, 30% to Morocco and 20% to France. This December volume is likely to increase, bolstered by spot cargoes as temperatures drop.

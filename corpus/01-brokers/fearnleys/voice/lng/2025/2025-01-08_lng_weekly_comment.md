@@ -1,0 +1,26 @@
+---
+id: "0e2098ba-9c1c-4d1c-a5c4-01dd71d9e93c"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-01-08"
+year: 2025
+week: 2
+title: "Fearnleys LNG Weekly Comment - 2025-01-08"
+---
+
+# Fearnleys LNG Weekly Comment (2025-01-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-01-08 (Week 2)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `0e2098ba-9c1c-4d1c-a5c4-01dd71d9e93c`
+
+---
+
+## Market Commentary
+
+Whilst many in the market return to their desks to start the New Year this week, we salute those who have kept their noses to the grindstone to fix over the festive period. While some of these fixtures are being closed out now, a further handful of short term fixtures have already been concluded and levels in the Atlantic are a little higher than they were before the break. Things remain a little sluggish East of Suez, with most activity focussed on the Middle East, and rates have been fairly flat as a result. With the arrival of additional tonnage and reduced risk of being short shipping, we expect a continued increase in spot activity this year. We are beginning to see date sensitive volatility within the Atlantic spot market where requirements stack up on a similar window, although the range within which rates ebb and flow seems likely to be narrow. Looking ahead, the LNG market may present some challenges for inter-basin trade, as European supply concerns due to the end of Russian gas flows via Ukraine and increased drawdown of storages in the prevailing cold weather is pushing summer prices higher. This mismatch between robust LNG prices and historically low charter rates for modern tonnage may present a buying opportunity for producers and large portfolios, though. The increasing acceptance of index-linked rates as well as a convergence on fixed rates should encourage further charters for multimonth periods.

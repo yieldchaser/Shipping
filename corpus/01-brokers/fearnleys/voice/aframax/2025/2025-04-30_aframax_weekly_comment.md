@@ -1,0 +1,26 @@
+---
+id: "3732bfef-4cf7-4b4a-9fd5-e6cb500abf83"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-04-30"
+year: 2025
+week: 18
+title: "Fearnleys Aframax Weekly Comment - 2025-04-30"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-04-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-04-30 (Week 18)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `3732bfef-4cf7-4b4a-9fd5-e6cb500abf83`
+
+---
+
+## Market Commentary
+
+Rates have remained steady in the North Sea even with limited activity to start the week. As we move into May, although 2nd decade stems do look a little busier than the 1st, rates may come under downward pressure with a growing position list and relets/bigger sizes still there to absorb volume quietly. Still, there are opportunities to ballast for some owners as surrounding areas remain in a better state. Rates in the Mediterranean following a softer trend as dates are continually moving forward for the main ports of Libya and Ceyhan. Tonnage is still quite balanced but the additional competition coming from the North Sea is adding pressure. With a bank holiday early next week some more cargoes are expected to enter the market sooner or later.

@@ -1,0 +1,26 @@
+---
+id: "54165FF9-F704-40EA-82A0-00F86901C660"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-07-05"
+year: 2023
+week: 27
+title: "Fearnleys Aframax Weekly Comment - 2023-07-05"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-07-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-07-05 (Week 27)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `54165FF9-F704-40EA-82A0-00F86901C660`
+
+---
+
+## Market Commentary
+
+Despite some delays in strategic discharge ports in the area, the Aframax tonnage list looks fairly balanced for the natural fixing window in the North Sea area. Going forward we expect rates to remain around current levels, unless we see activity pick up in other areas and more ships will consider ballasting away. A tough week for the owning community in the Med as the rates for local runs fell by more than 5p after 2 weeks of holding their ground. Activity has been moderate in the area since last week, and the consistent flow of ballasters from the East is adding extra pressure as tonnage list is lengthening. Summer market is here to stay it seems, and the owners will need a burst of activity to push rates back higher.

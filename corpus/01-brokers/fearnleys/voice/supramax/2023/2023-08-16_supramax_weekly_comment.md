@@ -1,0 +1,30 @@
+---
+id: "f570f63e-3cf0-438f-ab56-9c74ceb8ea44"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-08-16"
+year: 2023
+week: 33
+title: "Fearnleys Supramax Weekly Comment - 2023-08-16"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-08-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-08-16 (Week 33)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `f570f63e-3cf0-438f-ab56-9c74ceb8ea44`
+
+---
+
+## Market Commentary
+
+Various holidays across the world hindering real action. The USG and ECSA stood out with tick more fixtures represented. A grain run on a Supramax was fixed for del South Brazil to Far East around 13k + 300k bb, and sugar to Nigeria around mid teens.
+
+**Continent**
+
+/Mediterranean rather few fresh requirements. Some of the pmx coal stems out of Baltic being priced on Supras now. From the East, overall sentiment remained positive, but it was experienced a small stand off and wider gap between bid offers with more positive expectations towards market.

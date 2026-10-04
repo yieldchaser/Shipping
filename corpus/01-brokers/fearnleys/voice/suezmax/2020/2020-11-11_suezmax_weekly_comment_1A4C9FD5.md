@@ -1,0 +1,26 @@
+---
+id: "1A4C9FD5-8930-4E84-98CD-95E7E41FA76A"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-11-11"
+year: 2020
+week: 46
+title: "Fearnleys Suezmax Weekly Comment - 2020-11-11"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-11-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-11-11 (Week 46)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `1A4C9FD5-8930-4E84-98CD-95E7E41FA76A`
+
+---
+
+## Market Commentary
+
+On the surface it looks like another uneventful week in the Suezmax market, but this belies some of the more subtle cues that point to modest optimism. Anticipation of a Covid-19 vaccine has helped kickstart a raft of TC enquiries as charterers hedge 2021 and a possible return to higher oil demand. These TC moves are straight out of the Warren Buffet playbook of being "greedy when others are fearful" and will likely payoff. The spot market has finally shown signs of life as lists tighten for early third decade stems in the Mediterranean and West Africa. A prompt WAFR/Portugal cargo clearly missed the memo and paid WS39, pricing TD20 in the high WS30'S. TD6 will trade mid/high WS40's whilst in the East we may see rates benefit from Western sentiment but ultimately capped by VLCCs.

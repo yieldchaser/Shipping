@@ -1,0 +1,26 @@
+---
+id: "260C5D65-542E-46E6-96A2-0670AA63D79A"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-11-16"
+year: 2020
+week: 47
+title: "Fearnleys LPG Western Weekly Comment - 2020-11-16"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-11-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-11-16 (Week 47)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `260C5D65-542E-46E6-96A2-0670AA63D79A`
+
+---
+
+## Market Commentary
+
+AMERICAS Yesterday, the EIA reported a conventional draw of 2 million barrels for the week ended 13 November, exceeding, though directionally in line with market expectations. Almost the entirety of the draw can be traced to the US Gulf coast (1.9million barrels), as exports continued to rise to 1.22mn b/day. Contrarily, the midcontinent built 180,000barrels as mild temperature persists, effectively cutting into heating demand. As it stands, the arbitrage east (lst/fei) hovers around $157/ton. A forthcoming tender for a 1h December VLGC cargo- from a US Gulf terminal will provide insight as to truth of value, but as it stands, 1h December cargos are seen offered in the low 8cpg region, while bids are in the upper 7's/ just about 8cpg, a far cry from the double-digit levels seen concluded for December cargos in the weeks prior. With that said, second half December cargos carry a premium to the earlier barrels, and remain on offer in the 9-cent region. Freight basis Houston/ Chiba which was last done at $108/ton has effectively hampered what potential lifters can pay for spot cargos.

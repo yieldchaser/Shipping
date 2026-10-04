@@ -1,0 +1,26 @@
+---
+id: "79D010FC-C38F-4023-B0C5-0E345DCE478D"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-11-04"
+year: 2019
+week: 45
+title: "Fearnleys Capesize Weekly Comment - 2019-11-04"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-11-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-11-04 (Week 45)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `79D010FC-C38F-4023-B0C5-0E345DCE478D`
+
+---
+
+## Market Commentary
+
+Spot market saw some improvements in the beginning of the week with c5 levels increasing to mid 9 pmt levels, but soon to drop back to sub 9s, more or less in line with last week’s levels. The demand from Brazil is limited, and freight rates are coming off on the c3 route accordingly. Overall, five TC average dropped 13% from last week to present USD 22,217. Forward values are taking a further hit with next year trading below USD 15,000 level at the time of writing, discouraging owners from fixing period.

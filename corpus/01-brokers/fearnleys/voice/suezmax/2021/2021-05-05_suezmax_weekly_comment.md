@@ -1,0 +1,26 @@
+---
+id: "57AB180E-3DE5-4C38-B132-27F42F4C8A99"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-05-05"
+year: 2021
+week: 18
+title: "Fearnleys Suezmax Weekly Comment - 2021-05-05"
+---
+
+# Fearnleys Suezmax Weekly Comment (2021-05-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2021-05-05 (Week 18)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `57AB180E-3DE5-4C38-B132-27F42F4C8A99`
+
+---
+
+## Market Commentary
+
+The Suezmax market has been relatively slow the last week. With half of the world off at the end of last week, activity died out, and owners are still out there waiting for it to come back. So far what we are seeing is a tonnage list, both East and West, that is building up day by day. Free of cargo ships are piling up, and some serious activity in all areas is needed to get rid of this overhang. Suezmax owners were looking towards the V's at the beginning of the week, but what was a glimpse of hope was quickly taken away when Petrobras received close to a dozen offers on a Brazil/East cargo. Going forward we do not expect much to change unfortunately. Activity needs to improve drastically, and fixing last done levels is the best an owner can hope for at the moment.

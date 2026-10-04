@@ -1,0 +1,26 @@
+---
+id: "71af125b-ec26-44e8-a243-52b5791eeb62"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-10-22"
+year: 2025
+week: 43
+title: "Fearnleys Aframax Weekly Comment - 2025-10-22"
+---
+
+# Fearnleys Aframax Weekly Comment (2025-10-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2025-10-22 (Week 43)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `71af125b-ec26-44e8-a243-52b5791eeb62`
+
+---
+
+## Market Commentary
+
+North Sea North Sea is fixing End month and like all the western Aframax markets North Sea has firmed albeit more slowly. Tonnage has been leaving the area for better returns keeping pressure on available tonnage. Sentiment will remain firm even if limited activity heading into November in the North Sea while surrounding areas give other options and remain firm. Mediterranean The market in the Mediterranean remains firm as TD19 has almost reached the ws200 mark up nearly 40p from last week. Local tonnage list remains thin however vessels from the UKC have open eyes down there and try to fix anything that makes more sense than a North Sea run. Owners are tempted to do some profit taking on the right dates and at the same time Suezmaxes are also monitoring if anything makes sense for them.

@@ -1,0 +1,26 @@
+---
+id: "7677fbb8-5353-4671-9d96-9c5efef32ff9"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-11-20"
+year: 2025
+week: 47
+title: "Fearnleys Chartering Weekly Comment - 2025-11-20"
+---
+
+# Fearnleys Chartering Weekly Comment (2025-11-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2025-11-20 (Week 47)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `7677fbb8-5353-4671-9d96-9c5efef32ff9`
+
+---
+
+## Market Commentary
+
+EAST The week got off to an active start in the Middle East on the back of Saudi Acceptances with 3 deals confirmed and 1 failed. Levels are currently being concluded in the low USD 70s. As of writing, we count five spot fixtures for December, all in the first decade. Additionally, an Indian spot cargo is currently being worked for mid-December dates, suggesting that Indian PSUs may have completed their spot program for the first decade. WEST After some eventful weeks, fixing activity has calmed down in the West. We count 27 deals done thus far in December (11/11/5 by decade), while we still see a handful of uncovered stems off end December. Last done at around USD 118-119 pmt bss HCVP. We expect some of the term lifters to receive their January nominations by today, and this could potentially spark activity for next fixing window.

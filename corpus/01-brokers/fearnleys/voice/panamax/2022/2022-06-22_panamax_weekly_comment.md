@@ -1,0 +1,26 @@
+---
+id: "66580368-D3DC-444B-8B49-2584E40E1488"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-06-22"
+year: 2022
+week: 25
+title: "Fearnleys Panamax Weekly Comment - 2022-06-22"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-06-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-06-22 (Week 25)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `66580368-D3DC-444B-8B49-2584E40E1488`
+
+---
+
+## Market Commentary
+
+The market began slowly entering a new week, no holidays of note but the market had yet to find a clear direction with a mixture of views for next done deals. However, the majority felt rates in the Atlantic appeared relatively healthy so far with fundamentals largely unchanged from the end of last week. The market in Asia appeared at first sight a little sloppy, but yet again market players had yet to show their hands so a little too early to call the market. Some representative fixtures this week: KM Singapore (80,559/2013) ex dd Zhoushan 26/30 Jun fxd 1 year USD 25,000 – Tongli. Sakizaya Queen (81,858/2018) Gibraltar 25-27 Jun fxd tct via NCSA redel Skaw-Span Med USD 27,500 – Bunge. Panamax Nostos (76,620/2005) Hazira 24-25 Jun fxd subs tct via ECSA redel Feast USD 23,500 – Cofco. Flag Mette (80,785/2016) Passero 24/26 Jun fxd subs 29/30,000 2-3 llegs redel Atlantic– Ultrabulk Sea Proteus (81,762/2013) Manila 30 Jun fxd Aussie rv mid USD 26,000’s. CL Tianjing (81,315/2016) Fangcheng 20/21 Jun tct via Indonesia redel India USD 25,000 -LSS.

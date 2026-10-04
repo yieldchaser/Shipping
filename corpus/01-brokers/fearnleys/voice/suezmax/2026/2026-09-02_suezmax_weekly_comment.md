@@ -1,0 +1,26 @@
+---
+id: "7284d07c-c1fa-4533-abf2-b2375ba5a2ad"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-09-02"
+year: 2026
+week: 36
+title: "Fearnleys Suezmax Weekly Comment - 2026-09-02"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-09-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-09-02 (Week 36)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `7284d07c-c1fa-4533-abf2-b2375ba5a2ad`
+
+---
+
+## Market Commentary
+
+Despite Suezmaxes regaining competitiveness against VLCCs following last week’s sharp correction, a front-heavy tonnage list and muted activity have continued to weigh on the rates in West Africa. Meanwhile, Aframaxes remain firmly in the driving seat across the Atlantic. That said, the improved economics of the Suezmaxes appear to be attracting renewed interest, with activity showing signs of picking up.

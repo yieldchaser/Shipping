@@ -1,0 +1,30 @@
+---
+id: "F621BE68-156B-4F84-B971-9E256726093B"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2023-05-19"
+year: 2023
+week: 20
+title: "Fearnleys LPG Western Weekly Comment - 2023-05-19"
+---
+
+# Fearnleys LPG Western Weekly Comment (2023-05-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2023-05-19 (Week 20)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `F621BE68-156B-4F84-B971-9E256726093B`
+
+---
+
+## Market Commentary
+
+AMERICAS Domestic US propane inventory levels – as reported by the EIA – are at the forefront of many conversations, and many have been left with the impression that corrective data will again be required in order that a truer picture might be revealed. In any case, stock levels this week were said to have risen by 2.3mmbbls this week where expectations of ~1.4-1.5mmbbls was anticipated. Most notably, however, was the 700,000bbl decline in PADD I stocks when there has been little demand pressure. Overall stocks are presently 143% of the totals achieved in 2022 and 2021, respectively, and the second highest since 2015. This has led to questions regarding potential late-summer containment, and whether there is sufficient above-ground brine storage capacity. Most agree, however, that the owners/operators of MB storage are monitoring the situation but at present see no cause for alarm. As for market levels, MB propane is off by about 6cts/gal from the start of May and presently marked in the mid-64cts/gal range. And while WTI crude oil values have also declined over the past couple of weeks, the relationship between the two has declined from around 40% to approximately 37%, against the YTD 2023 average which is in the 43-44% range. Terminal fees remain at modest levels and most talk for June and July is in the mid/upper-5cpg, having risen from the upper 4s and low 5s, but through the summer levels are slowly improving to the 6cpg range. NWE The region has not been competitive vs the East on a netback basis from the US for a sometime. This has not stopped large volumes of LPG being imported 650,000MT in April and 600,000MT in May. This pushed the May/June contango out to $6/MT and though CIF ARA values have been weak they did track crude oil values upwards Wednesday. This was surprising after consecutive larger than expected build in US inventories. Petrochemical continues to buy their maximum potential volume with the propane naphtha spread at $160/MT in May. The TOT window has been quiet with discounts assessed at May CIF ARA minus $12/MT. Butane is valued at 75% May Naphtha which has butane at a higher outright of TTF Natural Gas for the first time this year, while propane remains below.
+
+**MED**
+
+ US imports have been filling the Moroccan butane demand. Turkey is set to received 300,000MT in May, down from 320,000MT in April.

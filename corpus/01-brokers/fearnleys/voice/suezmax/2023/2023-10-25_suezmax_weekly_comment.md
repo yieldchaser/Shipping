@@ -1,0 +1,30 @@
+---
+id: "7f511718-3040-4e0e-ae84-e2fb4c693725"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-10-25"
+year: 2023
+week: 43
+title: "Fearnleys Suezmax Weekly Comment - 2023-10-25"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-10-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-10-25 (Week 43)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `7f511718-3040-4e0e-ae84-e2fb4c693725`
+
+---
+
+## Market Commentary
+
+The Atlantic Suezmax market continues to take the lead in this segment with TD20 last trading WS 140. If you look purely at the numbers, there is a case to be made that VLCCs should cap Suezmax, but on further examination, it's obvious that the Suezmax fixing window in West Africa (15-20/11) is simply too early to be impacted by VLCC cannibalization (at least for now). The USG and wider Atlantic are following the same trajectory. In the East, there's a mixed bag of rates with TD23 last trading WS 75, but with possible upside simply due to sentiment spillover from the Atlantic.
+
+**MEG**
+
+/China on modern tonnage should trade WS 130's for now. This is a sentiment driven market, and we envisage no downside this week.

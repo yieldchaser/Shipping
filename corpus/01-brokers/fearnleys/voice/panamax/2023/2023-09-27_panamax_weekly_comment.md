@@ -1,0 +1,26 @@
+---
+id: "53a7ae60-9551-409d-afb4-178c56aef3a5"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-09-27"
+year: 2023
+week: 39
+title: "Fearnleys Panamax Weekly Comment - 2023-09-27"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-09-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-09-27 (Week 39)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `53a7ae60-9551-409d-afb4-178c56aef3a5`
+
+---
+
+## Market Commentary
+
+The Panamax market remains robust with firming rates in the Atlantic despite recent highs and a mild increase in South ex East Coast South America rates. Asia maintains a neutral stance with older vessels seeing more traction, especially ex Indonesia. While the Atlantic experiences a surge in grains and minerals activity, the Pacific market shows signs of deceleration. Market indicators hinted at potential weakening, yet the coal and iron ore sectors are seeing increased activity. With the upcoming mid-Autumn festival holidays in Asia and the long holiday in China, an active week is expected, albeit with caution in interpreting market trends.

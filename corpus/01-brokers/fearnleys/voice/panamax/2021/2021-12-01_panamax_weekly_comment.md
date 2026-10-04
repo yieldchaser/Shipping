@@ -1,0 +1,30 @@
+---
+id: "F177BA99-BB53-487D-992C-33BADC846535"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-01"
+year: 2021
+week: 48
+title: "Fearnleys Panamax Weekly Comment - 2021-12-01"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-12-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-12-01 (Week 48)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `F177BA99-BB53-487D-992C-33BADC846535`
+
+---
+
+## Market Commentary
+
+The Panamax market has gained values the last week, especially in the Atlantic. TA’s are now paying mid 30’s level which is about 10k up from last week. In the Pacific we also see rates firming, however not at the same pace.
+
+**Pacific**
+
+ rounds are currently yielding 20k, up from about 18k last week. The period market has not been as active as recent weeks.

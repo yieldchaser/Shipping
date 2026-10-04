@@ -1,0 +1,26 @@
+---
+id: "F4D54792-AFA0-436E-A363-EA9CEB3727EB"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-01-12"
+year: 2021
+week: 2
+title: "Fearnleys Capesize Weekly Comment - 2021-01-12"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-01-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-01-12 (Week 2)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `F4D54792-AFA0-436E-A363-EA9CEB3727EB`
+
+---
+
+## Market Commentary
+
+It has been a very strong week, illustrated by present Baltic TC average at USD 26,500 against last week’s USD 17,500. The delays in China pointed out last week is still a factor as well as some COVID-19 cases in at least one of the Chinese ports, continue to put pressure on early ships. C5 was concluded up to USD 11 level and c3 well above USD 20, a sharp improvement from last week. There are also weather delays in the Atlantic and close to none early ships available. A volatile ffa market makes period somewhat challenging right now, but there is generally a buying interest as levels are increasing.

@@ -1,0 +1,30 @@
+---
+id: "2683ce17-f97d-4027-bab0-b028242f22f3"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-02-25"
+year: 2026
+week: 9
+title: "Fearnleys Capesize Weekly Comment - 2026-02-25"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-02-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-02-25 (Week 9)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `2683ce17-f97d-4027-bab0-b028242f22f3`
+
+---
+
+## Market Commentary
+
+This week on Cape, both basins showing forward upward pressure, with C3 leading strong and forward curves firming. C3 (Brazil/China) saw March fixtures in the high USD 23s, with offers heard in the mid to high USD 25 range for April dates.
+
+**West Africa**
+
+ remains in play, but Brazil is dominating the C3 market. Overall tone shows tight tonnage for end of March. In the Pacific, C5 sentiment remains steady to firm. Last done fixtures for early March is at USD 9.90. Overall tone in the Pacific region is slightly easier, with sub USD 10 trading, but tight tonnage in March is keeping sentiment balanced, with an expected upside into the second half of March firming above USD 10, setting a positive sentiment into April. C3 11-20 March offers USD 25, 21-31 March fixes at USD 25.2, 1-10 April offers USD 25.65. C5 10-12 March fixtures at USD 9.9, 13-15 March fixtures seen USD 10.3.

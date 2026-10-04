@@ -1,0 +1,26 @@
+---
+id: "3410AF23-1744-410D-920E-463DAAEEE135"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-06-08"
+year: 2022
+week: 23
+title: "Fearnleys LNG Weekly Comment - 2022-06-08"
+---
+
+# Fearnleys LNG Weekly Comment (2022-06-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-06-08 (Week 23)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3410AF23-1744-410D-920E-463DAAEEE135`
+
+---
+
+## Market Commentary
+
+Posidonia is well underway with great spirits and atmosphere across the board. With most of the market participants in Greece for the conference, spot is getting little attention and rates are mostly stable besides an adjustment to the 2-stroke rates reflecting the fact that the market is sold out until Q1 2023 and availability will have to be developed by subletters. Discussions around term and term availability has emphasis the latest trend and that rates are firming. So far 4 NBs confirmed but we're expecting a few more announcements.

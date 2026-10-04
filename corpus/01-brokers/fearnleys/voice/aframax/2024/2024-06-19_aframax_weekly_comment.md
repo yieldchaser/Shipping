@@ -1,0 +1,26 @@
+---
+id: "65fa91b3-566d-49ba-a328-c9ae37bf0a2c"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-06-19"
+year: 2024
+week: 25
+title: "Fearnleys Aframax Weekly Comment - 2024-06-19"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-06-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-06-19 (Week 25)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `65fa91b3-566d-49ba-a328-c9ae37bf0a2c`
+
+---
+
+## Market Commentary
+
+NORTH SEA Levels continue to move sideways for the time being in the North Sea market as tonnage lists remain balanced for the natural fixing window, but there is a buzz of activity under the radar as relets make their presence known. With opportunities for non-relet/non-local vessels hard to come by, some vessels are expected to ballast out towards USG which is still offering high returns. MEDITERRANEAN Activity in the Mediterranean continued to soften throughout the week as owners and charterers searched for the bottom of this cycle. Owners have had to work in a competitive nature to secure business with the front end of lists being busy and providing charterers with options, but as vessels fix out, owners are on the cusp of being able to hold some ground on numbers as we push into mid-end 3rd decade fixing.

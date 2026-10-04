@@ -1,0 +1,26 @@
+---
+id: "4d7332c5-9086-4a3c-8064-76ee292f3b41"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-01-07"
+year: 2026
+week: 2
+title: "Fearnleys Suezmax Weekly Comment - 2026-01-07"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-01-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-01-07 (Week 2)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `4d7332c5-9086-4a3c-8064-76ee292f3b41`
+
+---
+
+## Market Commentary
+
+TD20 has now fallen to WS 117.5 on a 2008-built vessel. After multiple weeks trading at higher lump-sum levels compared to VLCCs, Suezmaxes have finally corrected down to a level where taking a VLCC with a part cargo is no longer viable in the West. During this period of irrational pricing differences, VLCCs have taken a greater share of West Africa cargoes compared to normal conditions. In the MEG, VLCCs also continue to absorb cargoes both long and short. Although VLCCs show some stability and possible upside, Suezmax owners will still need to adjust ideas downward to claw back cargoes. Pure fundamentals aside, geopolitics will certainly have a positive effect on sentiment - we shall see what transpires.

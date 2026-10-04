@@ -1,0 +1,26 @@
+---
+id: "2ad05962-6935-484b-8caa-92a1c7009885"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-01-31"
+year: 2024
+week: 5
+title: "Fearnleys Suezmax Weekly Comment - 2024-01-31"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-01-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-01-31 (Week 5)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `2ad05962-6935-484b-8caa-92a1c7009885`
+
+---
+
+## Market Commentary
+
+Suezmax market feels poised in both East and West hemispheres. The Middle East Gulf has been extremely active off-market as charterers look to work quietly in an effort to prevent stoking the fire (rate-wise). Geopolitical aspects have positively impacted rates for back haul cargoes with Basrah/UKCM trading around the WS 100 mark (via Cape of Good Hope) with no evident downside. Bearing in mind how frequent Red Sea attacks have been and how many ships are being rerouted via the Cape, rates have a firm foundation for the near/medium term. In the Atlantic there have been steady activity with rates in West Africa last pricing WS 110 (TD 20) but with potential to slide to WS 105-107.5 before rates possibly bouncing again to recapture WS 110 levels very quickly (due to active USG market balancing out enquiry in the Atlantic).

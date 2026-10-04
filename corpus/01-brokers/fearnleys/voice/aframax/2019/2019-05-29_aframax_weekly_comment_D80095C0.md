@@ -1,0 +1,26 @@
+---
+id: "D80095C0-DCE0-4EBA-9C48-731C2EAF5413"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-29"
+year: 2019
+week: 22
+title: "Fearnleys Aframax Weekly Comment - 2019-05-29"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-05-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-05-29 (Week 22)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `D80095C0-DCE0-4EBA-9C48-731C2EAF5413`
+
+---
+
+## Market Commentary
+
+Despite expectations that the market would firm this week, it did not really happen. The market moved sideways due to a lack of activity in the North Sea and the fact that some Aframax stems have been fixed on Suezmaxes. Some vessels are still finding employment elsewhere that offer better returns, but still this has not been sufficient to push the rates in an upward direction. Aframaxes in the Mediterranean and Black Sea have also been trading more or less sideways. Although we have seen rates improve slightly on recent Black Sea stems, straight cross Mediterranean voyages have taken a slight dip in returns as also in the Mediterranean we have charterers finding attractive alternatives in the Suezmax segment. TD19 currently stands at ws110. In the week to come, we foresee a flat/soft market in the natural fixing window – supported by a healthy supply of available Aframax tonnage, especially if the Suezmaxes keep picking off Afra stems.

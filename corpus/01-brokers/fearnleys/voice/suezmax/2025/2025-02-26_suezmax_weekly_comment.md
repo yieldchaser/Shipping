@@ -1,0 +1,30 @@
+---
+id: "2ee730e0-f38d-4e92-8f1c-0d6f362c6788"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-02-26"
+year: 2025
+week: 9
+title: "Fearnleys Suezmax Weekly Comment - 2025-02-26"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-02-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-02-26 (Week 9)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `2ee730e0-f38d-4e92-8f1c-0d6f362c6788`
+
+---
+
+## Market Commentary
+
+Not much to report, which doesn’t bode well for the market, as seen in the broad softening of BDTI.
+
+**West Africa**
+
+ availabilities keep rising while volumes remain weak, pressuring TD20 into the mid 80s. With IE week’s packed schedules, some bbls may be moving quietly, but when information is scarce, sentiment inevitably wanes. Stateside, Suesmax activity has started to pick up but the Aframaxes continue to dominate. Supply remains in charterers’ favor for 145kt parcels, with at least half a dozen safe ships available for mid 1st decade March. Rates will likely correct to WS 75 for USG/TA. In the East, surface activity remains quiet, aside from a few Indian quotes. The list looks balanced for Eastbound, with ample older tonnage keeping the market steady and limiting upside potential. However, 20T crane-fitted vessels are in shorter supply, making Basrah bbls sensitive with possible upside if the volume emerges.

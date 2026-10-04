@@ -1,0 +1,26 @@
+---
+id: "927C2A80-DF21-4BD7-A71A-E04428AB2B16"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-11-01"
+year: 2021
+week: 44
+title: "Fearnleys Aframax Weekly Comment - 2021-11-01"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-11-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-11-01 (Week 44)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `927C2A80-DF21-4BD7-A71A-E04428AB2B16`
+
+---
+
+## Market Commentary
+
+Aframax rates in the North Sea/Baltic increased slightly on the back of a tighter tonnage list as charterers covered their cargoes up to mid-month November. Going forward we expect the market sentiment to remain firm. In the Mediterranean/Black Sea, we have seen the market continue to firm and pick up a few more points since last week. Although charterers have held back somewhat on the cargo side this week, owners will see the delays in the Straits along with an active Suez market as positives. Activity under the radar is still very much alive, and we expect the market to be stable with a firm potential in the week to come.

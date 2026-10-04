@@ -1,0 +1,26 @@
+---
+id: "F1A8A1F1-2558-4281-AD72-E98CECC917E0"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-10-29"
+year: 2019
+week: 44
+title: "Fearnleys Aframax Weekly Comment - 2019-10-29"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-10-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-10-29 (Week 44)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `F1A8A1F1-2558-4281-AD72-E98CECC917E0`
+
+---
+
+## Market Commentary
+
+In the Baltic and North Sea market, we have seen a continued downward correction the past week. Although activity has picked up at a slow pace the last few days, the tonnage list in the area is still healthy enough to keep a declining pressure on rates. Going forwards we are still expecting the market to firm as we approach mid-November fixing window. In the Mediterranean and Black Sea, owners have still been fighting over the stems that have come into the market. Voyages cross-Med has continued to drop and is currently trading at low ws100 levels. The tonnage list in the area is also long, and owners can only witness alternative markets seeing similar downward trends. Hence, we expect the market to remain soft in the Mediterranean/Black Sea in the week to come.

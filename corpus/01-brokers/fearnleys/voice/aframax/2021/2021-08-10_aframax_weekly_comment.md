@@ -1,0 +1,26 @@
+---
+id: "DA04CE69-4CEB-4BD2-B191-63A3E318ABF0"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-08-10"
+year: 2021
+week: 32
+title: "Fearnleys Aframax Weekly Comment - 2021-08-10"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-08-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-08-10 (Week 32)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `DA04CE69-4CEB-4BD2-B191-63A3E318ABF0`
+
+---
+
+## Market Commentary
+
+It was another lacklustre week for Aframaxes trading in the Nsea and Baltic area. On the back of limited cargo activity coupled with a longer tonnage list, charterers managed to push rates even lower from a level that was already perceived as a “bottomed out” market. Going forward, we expect the market to move sideways which only give marginal returns, if any at all. In the Med/Bsea we have seen a bit more activity on the cargo side compared to last week, however as in the North the activity levels are still nowhere close to satisfying the amount of prompt ships. We also expect the Med/Bsea market to trade sideways going into next week.

@@ -1,0 +1,26 @@
+---
+id: "F526152D-CC58-424F-9214-FFA10FDF63C9"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2019-10-07"
+year: 2019
+week: 41
+title: "Fearnleys LPG Western Weekly Comment - 2019-10-07"
+---
+
+# Fearnleys LPG Western Weekly Comment (2019-10-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2019-10-07 (Week 41)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `F526152D-CC58-424F-9214-FFA10FDF63C9`
+
+---
+
+## Market Commentary
+
+AMERICAS: The smaller than expected 132,000 barrel build in US inventories strengthened Mt Belvieu prices. The draw in PADD 1 of 900,000 barrels suggest domestic retailers are readying for winter and stocking up before the cold weather hits. Whereas the build in PADD 3 of 1 million barrels for the week points to continued strong production and more butane exports. The PADD 3 stock level of 62.1 million barrels for the week ended October 4th is very large showing producers see Mt Belvieu as the best value for their tons. Mt Belvieu prices have strengthened to 39% of WTI. This has not had an affect on exports with a strengthening global LPG market. Terminalling fees remains healthy as the arb continues to support strong freight levels. Cancellations are unthinkable in this market and traders are wondering if double digit FOB terminalling fees are here to stay..

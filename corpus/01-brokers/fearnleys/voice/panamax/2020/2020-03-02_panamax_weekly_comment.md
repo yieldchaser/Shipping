@@ -1,0 +1,26 @@
+---
+id: "93E3414D-4427-484F-A6D6-FAE9DA832FB4"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-02"
+year: 2020
+week: 10
+title: "Fearnleys Panamax Weekly Comment - 2020-03-02"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-03-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-03-02 (Week 10)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `93E3414D-4427-484F-A6D6-FAE9DA832FB4`
+
+---
+
+## Market Commentary
+
+Healthier levels have been seen in all regions, especially from East Coast South America grains. Shipowners have mostly been getting higher rates than the last done, although the majority of the improved fixtures in the East have been limited to the better-described ships. For a transatlantic trip, Kamsarmaxes (82,500 dwt) currently earn around USD 7,000, while short fronthauls from the UK/Continent region are priced at the high USD 16,000s. From East Coast South America to China, charterers are willing to pay around USD 11,000 DOP Singapore for a roundtrip. A transpacific round voyage in the East pay shipowners around the low USD 7,000s, and the Baltic 4TC Index is up 239 points since last week, now at 961 points.

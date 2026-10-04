@@ -1,0 +1,26 @@
+---
+id: "7c94b4d5-9d43-4934-ae20-797f54a51bcb"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-04-10"
+year: 2024
+week: 15
+title: "Fearnleys Supramax Weekly Comment - 2024-04-10"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-04-10 (Week 15)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `7c94b4d5-9d43-4934-ae20-797f54a51bcb`
+
+---
+
+## Market Commentary
+
+Seasonality suggests the market will bottom here and rise slowly the next couple of months. Fundamentals are supportive, with shipment volume growth above the rate of supply growth. Industrial metals prices (copper, aluminum, zinc, and nickel) are rising, suggesting firming global industrial activity. Industrial metals prices often lead the Supra/Ultra (as well as Panamax/Kamsarmax and Handysize) market by 4-6 months. The lead points upwards going forward.

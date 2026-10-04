@@ -1,0 +1,26 @@
+---
+id: "5B4511A7-DFF8-4510-A67D-ACB241F1B203"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-07-31"
+year: 2019
+week: 31
+title: "Fearnleys VLCC Weekly Comment - 2019-07-31"
+---
+
+# Fearnleys VLCC Weekly Comment (2019-07-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2019-07-31 (Week 31)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `5B4511A7-DFF8-4510-A67D-ACB241F1B203`
+
+---
+
+## Market Commentary
+
+Although the long term optimism remains strong, the VLCC market has continued to tread water in the week gone by, with little or no upward traction. However, the owning community has drawn a line in the sand each side of the W40 mark Meg/ East for unrestricted tonnage, pending on the voyage in question, terms and conditions. There are of course discounts to be had, with plenty of more vintage- and/or ex d/d's or ex scrubber retrofits etc. available, but even this class has shown unwillingness to drop below the mid W30 level. Although suffering from the present malaise in the Meg, the Atlantic basin is showing upward bias potential, as activity has picked up substantially over the last day or so with a number of cargoes from both Wafr and the Americas.

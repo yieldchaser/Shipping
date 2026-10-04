@@ -1,0 +1,26 @@
+---
+id: "b57b4f64-3ba7-464e-b595-0f82d473049d"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-08-30"
+year: 2023
+week: 35
+title: "Fearnleys Aframax Weekly Comment - 2023-08-30"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-08-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-08-30 (Week 35)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `b57b4f64-3ba7-464e-b595-0f82d473049d`
+
+---
+
+## Market Commentary
+
+The Nsea Aframax market, despite lack of activity this week, is looking a bit more interesting from an owner’s perspective. This is mainly due to delays at disport with vessels sitting off discharge port waiting to discharge. Also, more tonnage leaving the area either in ballast or laden condition. As a result, there aren’t as many natural North Sea positions to choose from for any cargoes loading in the 10-15 September window and rates could tick up slightly. Rates in the Med/BSea moved sideways with a softer tone last week as activity was slower. Supply of vessels in the area is expected to increase in the short term as we see an overflow of vessels from NSea and USG to discharge there, which will put rates under downward pressure. As a result, we expect charterers to push for lower rates in September and it will be up to the owners to show the necessary resistance.

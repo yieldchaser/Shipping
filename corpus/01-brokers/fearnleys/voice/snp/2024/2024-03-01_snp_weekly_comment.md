@@ -1,0 +1,26 @@
+---
+id: "401dea2b-62b1-4512-a20d-f2b11378aefd"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-03-01"
+year: 2024
+week: 9
+title: "Fearnleys S&P Weekly Comment - 2024-03-01"
+---
+
+# Fearnleys S&P Weekly Comment (2024-03-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-03-01 (Week 9)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `401dea2b-62b1-4512-a20d-f2b11378aefd`
+
+---
+
+## Market Commentary
+
+The dry market rally continues to gather momentum this week, with capesize values in particular going from strength to strength. Scrubber fitted SEALINK 180K DWT DAEHAN 2010 was bought by Kisamos for USD 31 M, while scrubber fitted MOUNT CARAMEL 177K DWT NAMURA 2007 was sold for USD 25M despite having surveys due in June. This is seeing values in older market units jump over 10% in the last week or two. It is conceivable that there is some way to go in this rally, so we expect to see asset players cashing in over the course of the year. In modern tonnage, ultramax BULK MONACO 63K DWT SHIN KASADO 2023 priced the market, having been transacted for a considerable USD 40.5M. It may look that the tanker market has taken a breather, but the attendance of London’s IE Week and the ongoing transactions behind closed doors say otherwise. In the only reported transaction this week Ice 1A STST MIRELLA S 20K DWT QINGSHAN 2006 was bought by Vietnamese and then subsequently fixed on a 2-year TC at $18k/d.

@@ -1,0 +1,26 @@
+---
+id: "04B4AE97-7BC5-487B-9A37-6CFB4EE93397"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-02-23"
+year: 2022
+week: 8
+title: "Fearnleys Capesize Weekly Comment - 2022-02-23"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-02-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-02-23 (Week 8)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `04B4AE97-7BC5-487B-9A37-6CFB4EE93397`
+
+---
+
+## Market Commentary
+
+Bull mood again taking over for the big ships, despite alarming developments in Russia/Ukraine resembling what seen done by others back in 1939. Average daily spot earnings up almost 50 pct w-o-w to come in at USD 18k. Australian miners busy loading + booking whatever available tonnage for the West Australia/China iron ore conference trade, and with assistance of healthy inter-pacific coal volumes, value of Pacific round voyages almost tripling to USD 19k/day over last 5 trading days. Fronthaul trade improvement so far moderate in comparison, as Brazil iron ore exports still not back to normal volumes after a troublesome/wet period and the West Africa/Far East minerals trade not being sufficient to compensate – limited number of ballasters could however change this situation quickly. North Atlantic seeing a small boost as both inter-atlantic and export volumes of coal + iron ore destined for Far East and India increase significantly. “Almost ALL” relevant players on lookout for period candidates as timing being considered right – representative fixtures include 208,000 dwt, built 2017, done for 12-15 months at USD 30,500, also 180,000 dwt, built 2012, fetching USD 27,300 basis 9-13 months.

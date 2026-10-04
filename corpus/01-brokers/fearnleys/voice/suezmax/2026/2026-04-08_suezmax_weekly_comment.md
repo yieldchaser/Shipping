@@ -1,0 +1,26 @@
+---
+id: "efe519a9-feaa-4d1b-8262-496382e194ad"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-04-08"
+year: 2026
+week: 15
+title: "Fearnleys Suezmax Weekly Comment - 2026-04-08"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-04-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-04-08 (Week 15)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `efe519a9-feaa-4d1b-8262-496382e194ad`
+
+---
+
+## Market Commentary
+
+A temporary “ceasefire” has been agreed between Israel‑US and Iran, though this should be treated with caution. A number of charterers have entered the market with prompt enquiries; however, we do not expect this to curtail the flow of ballasters to the Cape of Good Hope immediately. The tonnage count ETA West Africa by 30 April is the highest recorded at the start of a week since 08/12/2025, with a large proportion of vessels ballasting from the East. WS 300 was done yesterday on a Djeno/Trieste run, which is not necessarily indicative of TD20 levels due to the very large USD 30+ flat rate. That said, given the elevated tonnage count, charterers will look to push rates towards this level in due course. Additionally, with VLCCs absorbing a significant share of 3rd‑decade West Africa barrels, further demand impetus may be limited. While the prompt window remains tight, US supply has increased modestly compared to the past fortnight. Coupled with lengthening tonnage in the wider Atlantic, the market currently favours charterers.

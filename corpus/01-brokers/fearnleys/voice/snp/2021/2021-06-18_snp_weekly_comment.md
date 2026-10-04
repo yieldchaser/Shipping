@@ -1,0 +1,26 @@
+---
+id: "9B4A209D-A2CA-432E-A7DD-636672DEC97A"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-18"
+year: 2021
+week: 24
+title: "Fearnleys S&P Weekly Comment - 2021-06-18"
+---
+
+# Fearnleys S&P Weekly Comment (2021-06-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-06-18 (Week 24)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `9B4A209D-A2CA-432E-A7DD-636672DEC97A`
+
+---
+
+## Market Commentary
+
+Another busy week in the Dry cargo markets which have seen a number of transactions continuing to consolidate the now well established upward trend we have been witnessing across all segments. Supramax and Ultramax prices have seen another jump with the sale of the “NORD OLIVE” (2014, Oshima, 56k dwt) which was sold by Norden at Usd 22.5m while the Japanese controlled “WHITE HAWK” (2012, Oshima, 61k dwt) was sold at Usd 20.9m. To put the longevity of the abovementioned trend in perspective, Norden acquired the vessel in December last year at a price of Usd 14m. Chinese designs have also followed suit with Hayfin disposing of the last of their 14 Ultramax units; namely the “GH DAWN RUN” (2018, Yangfan, 64k dwt) which was sold at Usd 23.5m to Greek buyers. Elsewhere the Cape segment also joyed of improved values with the “BULK KYUSHU” (2006, Imabari, 180k dwt) achieving Usd 20.5m whereas only last month the 2004 Koyo built “MINERAL KYOTO” was sold for Usd 15.5m. Tanker markets remain quiet in terms of concluded transactions however some notable activity this week on the VLCC front with Athenian Tankers selling the “ATHENIAN VICTORY” (2009, HHI, 317k dwt) at Usd 42.5m. This breaks a long period of inactivity for Korean designed units of region ten years of age with most recent comparable sales being those of the Xihe Holding units, which saw a number of Chinese VLs being sold through the liquidation process undertook by the judicial managers.

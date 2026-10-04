@@ -1,0 +1,26 @@
+---
+id: "78D06130-7D2B-4014-A2AD-7A154520314F"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-01-29"
+year: 2020
+week: 5
+title: "Fearnleys Aframax Weekly Comment - 2020-01-29"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-01-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-01-29 (Week 5)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `78D06130-7D2B-4014-A2AD-7A154520314F`
+
+---
+
+## Market Commentary
+
+In the Baltic and North Sea, we have seen a few date sensitive cargoes being fixed at higher levels supporting an upward correction in rates. Although we have seen Suezmaxes compete on a few Afra-stems, the cargo program ex Baltic for the month of February is healthy enough to avoid a dramatic downward correction in rates as seen in other regions. Despite having some faith in the Mediterranean and Black Sea last week, we have not seen the necessary cargo activity needed to support a firm trend. On the contrary, benchmark routes have dropped significantly since last week, with TD19 currently trading around ws107.5. Although ships have been ballasting to surrounding markets, the tonnage list of available ships in the Med/Bsea is still long. In the week to come, all eyes will be on Libya, as owners wait for Libyan crude exports to re-enter the market.

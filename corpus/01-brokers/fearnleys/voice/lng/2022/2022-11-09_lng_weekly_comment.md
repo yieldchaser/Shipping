@@ -1,0 +1,26 @@
+---
+id: "C0555036-15BB-4BB5-B463-1EF1E7CF4E3D"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-11-09"
+year: 2022
+week: 45
+title: "Fearnleys LNG Weekly Comment - 2022-11-09"
+---
+
+# Fearnleys LNG Weekly Comment (2022-11-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-11-09 (Week 45)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `C0555036-15BB-4BB5-B463-1EF1E7CF4E3D`
+
+---
+
+## Market Commentary
+
+Normally when we talk about a market being “quiet”, it is synonymous with being in the doldrums – not so this market. A complete lack of liquidity has led to spot rate inertia but somewhat paradoxically, the levels seem paralysed at historical highs. Requirements remain uncovered due to an inability to find suitable tonnage, rather than any unbridgeable bid-ask spread. Past experience suggests that this situation can’t last but then again, past experience has oft proved irrelevant this year. Looking beyond this winter (odd to be writing this before thermostats have even marked its commencement) and the tightness in 2023 now seems to be written in ink. Charterers have been working their way through the term tonnage availability lists at such a rate that one wonders whether independent owners will have anything left to do next year? In summary, we see continuing demand for term shipping and no cause to moderate spot rates. And the sentiment has clearly flowed over to the Newbuild market; we raise our price estimates here once again on reports this week of a $252 Million order at DSME.

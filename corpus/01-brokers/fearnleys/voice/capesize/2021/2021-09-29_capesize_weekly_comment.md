@@ -1,0 +1,30 @@
+---
+id: "19848EE6-8E25-45EF-BC9E-B2EDEDC0ED40"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-09-29"
+year: 2021
+week: 39
+title: "Fearnleys Capesize Weekly Comment - 2021-09-29"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-09-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-09-29 (Week 39)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `19848EE6-8E25-45EF-BC9E-B2EDEDC0ED40`
+
+---
+
+## Market Commentary
+
+Full speed ahead for the big ships as congestion keeps being a significant factor supporting already very healthy fundamentals. Spot scene hectic as Australian miners struggle to fill early slots, particularly for iron ore. Average daily earnings up 25 pct w-o-w to come in at USD 75k, a level not seen for half a generation.
+
+**Atlantic**
+
+ spot is close to becoming short of tonnage as number of ballasters is limited and hardly enough to satisfy needs of miners, power plants and steel mills - resultant fronthaul values up to USD 100k/day, China-Brazil-China round up 30 pct to USD 65k, and pushing. Short-term outlook very bull, supported by ffa's. Considerable period interest but considerable gap in bid/offer for fixed-price deals - whilst around 10 ships taken by major players during last 5 trading days for about 12 mos duration at indexed rates.

@@ -1,0 +1,26 @@
+---
+id: "01B8CFED-1C61-416D-A158-9F268BE62A61"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-10-13"
+year: 2021
+week: 41
+title: "Fearnleys LNG Weekly Comment - 2021-10-13"
+---
+
+# Fearnleys LNG Weekly Comment (2021-10-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-10-13 (Week 41)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `01B8CFED-1C61-416D-A158-9F268BE62A61`
+
+---
+
+## Market Commentary
+
+We’ve seen yet another week with gains on LNG Spot rates, confirming the trend over the last few weeks. That said, it’s on a small trading volume and in such an illiquid market there is considerable uncertainty and volatility. There are relatively few spot cargoes requiring shipping as compared to previous years, and most of the independent tonnage is sold out. Current availability is controlled by subletters, and those can and does disappear quickly as schedules change so it is a risk going short shipping right now. Furthermore, most of these sublets are restricted on period as they have their own scheduled cargoes further down the line. We are certainly set up for a very interesting winter! This week we’ve added the four Qatar Gas ordered ME-GA’s at Hudong.

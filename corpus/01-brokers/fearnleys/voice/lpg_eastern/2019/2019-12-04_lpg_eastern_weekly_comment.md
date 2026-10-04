@@ -1,0 +1,30 @@
+---
+id: "07981377-8EDB-480F-9110-1A5833F04088"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2019-12-04"
+year: 2019
+week: 49
+title: "Fearnleys LPG Eastern Weekly Comment - 2019-12-04"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2019-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2019-12-04 (Week 49)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `07981377-8EDB-480F-9110-1A5833F04088`
+
+---
+
+## Market Commentary
+
+**MEG:** Qatar Petroleum has released Jan lifting schedule with a few delays being reported, mainly due to early-month nominations. Swap price has ridden a roller coaster this week, with Jan CP being traded from $431 in mid-week to $444 at the time of writing. End Dec lifting FOB was traded at small premium on Jan CP, and sellers with Jan lifting Fobs also targeted at premium level, especially seeing robust demand into Asia in front amid softening freight.
+
+**FAR EAST**
+
+: 1H Jan CFR Asia Market appear tight, either US or Non-Us origin. Off window 23kt US-origin propane for 1h Jan delivery is traded at Jan FEI plus $13-14. Discussion for similar cargo delivered in 2h Jan is slightly cheaper but sellers’ ideas hover above teens on FEI link as well. Non-US origin supply for 1h Jan arrival is short as well. One SChina PDH user has secured 23kt propane for 1h Jan delivery at Jan CP plus mid 60s via tender, while another Major also purchased a full propane for mid/2h Jan delivery at Jan CP plus 60ish. However not every buyer is that lucky to cover their demand. Till the time of writing, Indonesia Pertamina was reported not covering the 22/22 demand for 1-6th Jan delivery; One Echina petchem user was said that not cover their prompt demand for 23kt propane delivered from 2h Dec into 1h Jan; even Taiwan CPC tender for 11/11 delivered during 1-10th Jan was not heard awarded either. Some Chinese importers has reprogramed and tried to defer their demand into 2h Jan arrival. Apart from spot inquiries, term discussion are still going on. Mid-week one Schina importer was said to cancel their term inquires for 11/11 monthly as the received offers not satisfactory.

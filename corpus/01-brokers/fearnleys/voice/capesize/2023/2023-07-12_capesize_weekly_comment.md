@@ -1,0 +1,26 @@
+---
+id: "CA839B95-0820-484A-B993-2B38A9E4DC8A"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-07-12"
+year: 2023
+week: 28
+title: "Fearnleys Capesize Weekly Comment - 2023-07-12"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-07-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-07-12 (Week 28)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `CA839B95-0820-484A-B993-2B38A9E4DC8A`
+
+---
+
+## Market Commentary
+
+Marginal gains at still unsatisfactory levels for the big ships - average daily earnings up 13 pct w-o-w where most of the improvement is linked to areas of limited significance. Despite all or most of miners plus handful of operators’ active ex West Australia, C5 remains in limbo around USD 8.00 pmt Dampier/Qingdao - and Pacific rounds consequently struggle to support over USD 13-14k. Similar pattern on fronthaul trades ex Brazil and West Africa, as substantial number of early ballasters leave exporters with the upper hand - modest activity and immaterial gains made last 5 trading days. North Atlantic much better balanced but at usual low volumes - talk of sharply improved USD 38k/day paid for trip via St.Lawrence to Feast. Period activity negligible as paper levels allow for nowhere near most tonnage providers' forward earnings expectations/requirements.

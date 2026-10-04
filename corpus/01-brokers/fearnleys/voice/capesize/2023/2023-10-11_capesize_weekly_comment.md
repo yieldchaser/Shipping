@@ -1,0 +1,26 @@
+---
+id: "d51f095f-8072-4454-b767-c676801daf51"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-10-11"
+year: 2023
+week: 41
+title: "Fearnleys Capesize Weekly Comment - 2023-10-11"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-10-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-10-11 (Week 41)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `d51f095f-8072-4454-b767-c676801daf51`
+
+---
+
+## Market Commentary
+
+We see healthy volume levels on end October to early November C5, East Australia and Pacific. On South Africa and Indian business, we see several enquiries for end October to mid November. On C3 ex Brazil to China, volumes are healthy from operators and 2 major miners for early November and second half of November respectively. On West Africa, volumes remain comparatively flat. On a whole, market optimism sustained from last week. Tonnage remains tight in Far East and on ballasters. On C5, fixtures concluded at mid USD 10 pmt to low USD 11 pmt levels. On C3, fixtures concluded at a range of mid USD 25 pmt to high USD 26 pmt levels for first half of November stems. One known fixture of a 210k dwt 2024-built scrubber for 2 years at BCI 143% plus sharing basis 75/25% scrubber premium per day.

@@ -1,0 +1,26 @@
+---
+id: "1ddd08a9-e3a4-45e7-aa40-6f7ff154058f"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-11-20"
+year: 2024
+week: 47
+title: "Fearnleys Supramax Weekly Comment - 2024-11-20"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-11-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-11-20 (Week 47)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `1ddd08a9-e3a4-45e7-aa40-6f7ff154058f`
+
+---
+
+## Market Commentary
+
+The Handysize and Supramax markets experienced a slow week, with weak demand and plenty of available vessels keeping rates under pressure. In the Atlantic, the US Gulf and South Atlantic markets struggled due to oversupply, while the Continent and Mediterranean showed slight stability. In the Pacific, both sectors saw limited fixing activity, with high tonnage levels contributing to softer rates. Northern Asia showed some signs of stabilization for the Supramax market, but overall sentiment remained weak. The Indian Ocean experienced patchy demand, and rates stayed subdued across both sectors.

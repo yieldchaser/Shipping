@@ -1,0 +1,26 @@
+---
+id: "6E9EAB80-8A9F-4C55-B468-CEDF20DEDE0D"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-07-13"
+year: 2022
+week: 28
+title: "Fearnleys Aframax Weekly Comment - 2022-07-13"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-07-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-07-13 (Week 28)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `6E9EAB80-8A9F-4C55-B468-CEDF20DEDE0D`
+
+---
+
+## Market Commentary
+
+Last week the Aframax market in the North Sea took a very positive turn. Rates got fixed at above WS 200 levels yielding TC earnings at about USD 70k. This week started on a quiet note, but surrounding markets is still offering an alternative for those owners willing to ballast away. Going forward we expect spot earnings to stay healthy. However, some charterers could try and take advantage of a quiet market and challenge the current fixing levels which owners are asking for. In the Mediterranean and the Black Sea area we have seen some slightly improvement in rates. With some anticipation that we will see further liftings of force majeure on more ports in Libya, charterers have reached out to owners aiming to cover on forward dates. With more Libyan cargos coming into the market, rates will continue to firm.

@@ -1,0 +1,26 @@
+---
+id: "4aa01ae3-22ef-4eba-be5d-3a40dc08fe80"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-04-15"
+year: 2026
+week: 16
+title: "Fearnleys Supramax Weekly Comment - 2026-04-15"
+---
+
+# Fearnleys Supramax Weekly Comment (2026-04-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2026-04-15 (Week 16)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `4aa01ae3-22ef-4eba-be5d-3a40dc08fe80`
+
+---
+
+## Market Commentary
+
+The Supramax and Handysize markets maintained a generally positive tone. The Supra market, sentiment stayed firm despite a slow start to the week and a continued standoff between owners and charterers. The US Gulf and South Atlantic showed some strength, while the Continent and Mediterranean remained subdued. The Pacific provided the main support, with steady cargo flow and tighter tonnage helping sustain momentum. The Handysize market followed a similar but more subdued pattern, with limited activity overall. The Atlantic appeared mostly balanced, with some firmness in the South Atlantic, while the Pacific remained the key supportive region.

@@ -810,8 +810,20 @@ def generate_markdown(
     except ValueError:
         rel_path = pdf_path.as_posix()
 
+    year_str = issue_date[:4] if issue_date else "2026"
     md_lines = [
-        f"# {stem}",
+        "---",
+        f'title: "Advanced Shipping & Trading Weekly Report - Week {report_week}, {year_str}"',
+        f'issue_date: "{issue_date}"',
+        f'year: "{year_str}"',
+        f'report_week: {report_week if str(report_week).isdigit() else 0}',
+        'broker: "Advanced Shipping & Trading"',
+        'category: "market_report"',
+        f'source_file: "{rel_path}"',
+        f'pages: {len(doc)}',
+        "---",
+        "",
+        f"# Advanced Shipping & Trading Weekly Report - Week {report_week}, {year_str}",
         "",
         f"- **Publisher**: Advanced Shipping & Trading",
         f"- **Issue Date**: {issue_date}",
@@ -882,12 +894,15 @@ def generate_markdown(
                 rows = t.get("rows", [])
                 md_lines.append(f"### {sec}\n")
                 if hdr and rows:
-                    md_lines.append("| " + " | ".join(hdr) + " |")
-                    md_lines.append("| " + " | ".join(["---"] * len(hdr)) + " |")
-                    for r in rows:
-                        row_vals = [str(r.get(c, "")).replace("|", "\\|") for c in hdr]
-                        md_lines.append("| " + " | ".join(row_vals) + " |")
-                    md_lines.append("")
+                    # Filter out columns that are 100% blank across all rows
+                    active_hdr = [c for c in hdr if any(str(r.get(c, "")).strip() for r in rows)]
+                    if active_hdr:
+                        md_lines.append("| " + " | ".join(active_hdr) + " |")
+                        md_lines.append("| " + " | ".join(["---"] * len(active_hdr)) + " |")
+                        for r in rows:
+                            row_vals = [str(r.get(c, "")).replace("|", "\\|") for c in active_hdr]
+                            md_lines.append("| " + " | ".join(row_vals) + " |")
+                        md_lines.append("")
 
         # Indicative Demolition Prices
         if "indicative demolition prices" in p_text_lower and demo_prices:

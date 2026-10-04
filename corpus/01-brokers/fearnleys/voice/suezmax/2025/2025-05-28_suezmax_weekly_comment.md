@@ -1,0 +1,26 @@
+---
+id: "92677250-77dc-47e6-a67b-afbcd396ddee"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-05-28"
+year: 2025
+week: 22
+title: "Fearnleys Suezmax Weekly Comment - 2025-05-28"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-05-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-05-28 (Week 22)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `92677250-77dc-47e6-a67b-afbcd396ddee`
+
+---
+
+## Market Commentary
+
+Fairly active start to the week in West Africa, with a spread of 2nd decade dates worked. With tonnage lists looking more balanced and more volumes expected to come, it appears that fundamentals are leaning in owners favor. Hence, despite WS 76 standing as last done for West Africa/UKCM, do not expect other owners will be there to break WS 80 as easily - we expect rates to keep steady with potential for upside. Across the pond we are still short on local availabilities and it is unlikely we see UKCM vessels ballast TA given the gulf in TCEs when comparing USG/TA Vs TD20. However, a weak Aframax floor (eq.145kt x 55.5 has been repeated) and the presence of relets on the front end means we may not see rates respond accordingly. In the MEG, we have seen a few deals surface, however, owners need to see more volume this week before any momentum can build. Basrah/West candidates are not in huge supply, however, rates remain subdued as owners and relets alike have strong appetite to reposition back west. For Eastbound, the tonnage complexion is far friendlier with rates under continued pressure.

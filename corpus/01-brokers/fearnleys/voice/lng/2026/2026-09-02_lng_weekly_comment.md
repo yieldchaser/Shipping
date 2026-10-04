@@ -1,0 +1,26 @@
+---
+id: "c59b43c8-d27c-4dfa-a264-665c1f02542f"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-09-02"
+year: 2026
+week: 36
+title: "Fearnleys LNG Weekly Comment - 2026-09-02"
+---
+
+# Fearnleys LNG Weekly Comment (2026-09-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-09-02 (Week 36)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `c59b43c8-d27c-4dfa-a264-665c1f02542f`
+
+---
+
+## Market Commentary
+
+Summer holidays in Europe are over and chartering activity has returned, with September laycans in the U.S. largely covered now and the gaze raising to October. Surplus vessels remain but as enquiries begin to build, there has been renewed interest for periods covering winter. Rate expectations are a significant discounts to average traded levels for modern vessels for this time of year, and reflect the growing sense that weak shipping fundamentals will override high LNG pricing and trading opportunities. Whether the Winter bid continues to improve remains to be seen, but a bridging of the wide bid/offer spread suggests a softer view of winter and that portfolios continue to edge to the long side heading into a Q4 where Qatari supply is still stranded and DES markets East and West keep putting off demand until it really hits. The Pacific has now corrected with challenging supply/demand balance, and unfortunately for owners the market has come off rather than the Atlantic market picking up. The few multi-month fixtures reported suggest that several players see this as the bottom of the market – so perhaps rates can only strengthen from here?

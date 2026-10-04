@@ -1,0 +1,26 @@
+---
+id: "488077C5-58BE-46B9-9F6B-0A9DAE0F57F8"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-22"
+year: 2021
+week: 47
+title: "Fearnleys Chartering Weekly Comment - 2021-11-22"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-11-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-11-22 (Week 47)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `488077C5-58BE-46B9-9F6B-0A9DAE0F57F8`
+
+---
+
+## Market Commentary
+
+EAST Since our last weekly update, we have seen several spot deals concluded in the Middle East throughout December. It is evident that freight ideas have increased on the back of this activity, and last done deals range from mid-high 60s Baltic (depending on the business). With increased uncertainty on exact waiting to transit through the Panama Canal, we have started to see more owners sending ships back West via Cape or Suez. With new rules for Panama transits coming into effect shortly we expect this trend to continue, and this ultimately means that more ships will be positioned for Eastern business potentially creating more competition. WEST Fixing focus is slowly but surely shifting to first decade January as the number of December cargoes in need for shipping diminishes. Owners’ freight target has been relatively persistent at, or around, the USD 120 per ton mark, however, a handful of relets seems content with somewhat lower rates than that. We expect activity to resume relatively soon and that the market tightness will persist well into first quarter next year. Although the product market is indeed a large decision maker for the market direction and activity level, the inefficiencies in discharge ports and Panama will contribute to an exciting start to the next year.

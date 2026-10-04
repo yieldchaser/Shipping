@@ -1,0 +1,26 @@
+---
+id: "93D5755B-5260-4DA1-A626-FA2C3F566687"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-04-06"
+year: 2022
+week: 14
+title: "Fearnleys Aframax Weekly Comment - 2022-04-06"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-04-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-04-06 (Week 14)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `93D5755B-5260-4DA1-A626-FA2C3F566687`
+
+---
+
+## Market Commentary
+
+Aframax rates in the West have pushed up quite significantly over the past couple of days. Owners in the North Sea and Mediterranean have reassessed their rate ideas on the back of surrounding market in the Mediterranean and USG/Caribs offering an alternative. Going forward we expect a firm market with upward pressure on the rates as the tonnage list is looking tighter for the next loading window.

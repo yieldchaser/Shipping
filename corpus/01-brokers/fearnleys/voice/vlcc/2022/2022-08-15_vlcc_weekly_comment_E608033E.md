@@ -1,0 +1,26 @@
+---
+id: "E608033E-7591-4759-97D8-6AB419999F4D"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-08-15"
+year: 2022
+week: 33
+title: "Fearnleys VLCC Weekly Comment - 2022-08-15"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-08-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-08-15 (Week 33)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `E608033E-7591-4759-97D8-6AB419999F4D`
+
+---
+
+## Market Commentary
+
+A week in the VL market like few others in recemt times. Large leaps in Owners favour started end of last week, as the USG sprang to life and a number of cargoes battled over the few available ships willing East. Rates for USG/Ningbo swiftly jumped to the $8m level (a jump of $400k). As this week started, the September AG stems started falling over each other to fix and this has remained the pattern for the last few Days. AG/East now is a moving target, but rates pushing w80 AG/East for modern, less, depending on vintage and sire status. Of course, this may be out of date at the time of going to print! The Atlantic has continued to move, with $8.8m USG/ Ningbo on subs and a tighter list will encourage Owners to hold the gains and push for higher numbers in the coming week.

@@ -1,0 +1,26 @@
+---
+id: "FA2D1D16-911B-48F7-89B8-34F026AE1DF1"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-09-13"
+year: 2022
+week: 37
+title: "Fearnleys LNG Weekly Comment - 2022-09-13"
+---
+
+# Fearnleys LNG Weekly Comment (2022-09-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-09-13 (Week 37)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `FA2D1D16-911B-48F7-89B8-34F026AE1DF1`
+
+---
+
+## Market Commentary
+
+The northern hemisphere summer may now be officially over: there’s a chill in the air, the rains falling and…LNGC spot rates are surging. There though, the similarity to previous cycles ends. Global gas and LNG markets are now front-page news on a weekly basis, yet despite the added scrutiny the various supply and demand levers are aligned in a completely novel way and are a direct challenge to those trying to predict what will happen next. What we can say with confidence is that gas storage levels in Europe are higher than anticipated, despite the low- and no-flow through Nord Stream 1, and forward curves look less intimidating for buyers. Much will now depend on the weather in the East and West as to how much demand there is for winter heating, but this is only one factor for the freight market. Perhaps of greater impact will be the behaviour of potential subletters in control of marginal shipping: the risks of missing a scheduled loading set against the returns of a neat sublet are skewed heavily against the latter. Without a seismic change in the LNG market, we may expect to see far fewer fixtures but record-breaking levels. As for today, most of the action remains east of Suez…given we’re in the middle of September, just another sign that this is anything but a typical year. At the yards, Hudong have secured three newbuilds from MOL for delivery by 2028.

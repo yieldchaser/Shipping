@@ -1,0 +1,26 @@
+---
+id: "9A06E036-9C4B-42A0-BEF6-6E4D2A7C4BA8"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-08"
+year: 2021
+week: 45
+title: "Fearnleys Chartering Weekly Comment - 2021-11-08"
+---
+
+# Fearnleys Chartering Weekly Comment (2021-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2021-11-08 (Week 45)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `9A06E036-9C4B-42A0-BEF6-6E4D2A7C4BA8`
+
+---
+
+## Market Commentary
+
+EAST One trader fixed a ship early December MEG in the high 50s, but apart from this deal we are still waiting for more charterers to move for December laycans. This is partly due to some of the acceptance dates for next month not being out yet, and with Adnoc dates around the corner we expect to see more activity soon. With continuous delays in some of the major ports in China, shipping availability remains tight in the Middle East from early December, and most of the owners are aiming for 60s Baltic for next deals. WEST One of the big talking points in the VLGC market nowadays is the ‘substantial’ delays for non-booked transits via the neo–Panama Canal. Current projected waiting time is 18 days either way. These delays coupled with congested or slow turnaround time in Far Eastern discharge ports means that the vessel availability in the USG and USEC is uncertain for vessels that have not prebooked their transit. And this uncertainty is adding to the bullish sentiment. At the time of writing, there are vessels on subs during mid/second half December at USD 105-110 pmt range, however, the last concluded fixture was done during 20-25 Dec at low USD 100s. The tight vessel supply is expected to persist throughout December and as long as steaming in ballast via Cape of Good Hope is not really an economically viable option, it seems the upside is bigger than the downside when looking at the shipping market. Parallel to the product market we are yet again facing a situation where something has to give and it seems it won’t be freight, simply due to the low availability.

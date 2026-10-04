@@ -1,0 +1,26 @@
+---
+id: "e7af77c7-7b02-403b-a153-61327d0352f3"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-02-21"
+year: 2024
+week: 8
+title: "Fearnleys VLCC Weekly Comment - 2024-02-21"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-02-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-02-21 (Week 8)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `e7af77c7-7b02-403b-a153-61327d0352f3`
+
+---
+
+## Market Commentary
+
+A week of contrasts…. We sit today exactly where we were at this time last week (in last done terms), however, with a clear and striking contrast in sentiment. Last Wednesday, the market sat at WS 75 MEG/China and WS 75 West Africa/China. We then shot up to the dizzy WS 90’s, only to come crashing down within a few deals earlier this week. 'Next done' however, will be on the lower side and by quite how much, depends on owners’ backbone. An MEG/China quoted cargo got 10+ offers this morning and charterers will take their time, while everyone waits and watches. Given the current tightish position list (almost everyone available has offered on the MEG/China stem), the owning community may have missed an opportunity to push things a little more. But, in fairness, lack of activity, coupled with the fact that the returns on the bottom line of an owner’s Calc still look pretty damn good, a turn was always possible, and we often see a quick rise followed by a quick fall. Charterers will be targeting in the WS 60’s MEG/China, but, the list is still tight, so any sudden influx and we can regain some ground.

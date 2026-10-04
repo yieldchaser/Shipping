@@ -1,0 +1,26 @@
+---
+id: "8627AC42-FE13-45B8-A693-1DCC8F96852F"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-12-06"
+year: 2021
+week: 49
+title: "Fearnleys S&P Weekly Comment - 2021-12-06"
+---
+
+# Fearnleys S&P Weekly Comment (2021-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-12-06 (Week 49)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `8627AC42-FE13-45B8-A693-1DCC8F96852F`
+
+---
+
+## Market Commentary
+
+A relative busy week in the Dry snp markets in this end of year with about 15 vessels changing hands and a number of buyers re-entering the market in light of the most recent correction in values. Having taken a step back following a string of acquisitions, Costamare are back in the market having purchased the “EGYPTIAN MIKE” & “GEORGE P” (82k dwt built Guangzhou Longxue 2011 & 2012). The sister vessels were sold at an enbloc price of Usd 39m illustrating the abovementioned correction particularly well, especially when compared to last month’s sale of the “SM AURORA” (82k built Jiangsu Eastern 2012) which achieved Usd 21m. The same dynamic is witnessed across most dry segments with Supramax values also settling at levels which are about 15% lower than the recent peak. Notable transactions are those of Chinese design vessels which had greatly benefited of the recent rally with values soaring but which are similarly the most vulnerable to downward pressure. A sense of delusion seems to have creeped in the Tanker markets off the back of the most recent spike in Covid cases pointing to yet another wave of restrictions across most western economies. As such most players seem be losing faith in the highly coveted market recovery resulting in very subdued activity. Therefore only four sales to report this week which once again took place in the product sector.

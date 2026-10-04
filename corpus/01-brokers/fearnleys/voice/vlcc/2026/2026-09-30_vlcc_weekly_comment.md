@@ -1,0 +1,26 @@
+---
+id: "7c825572-ca99-4d1e-81dd-fbea3468270a"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-09-30"
+year: 2026
+week: 40
+title: "Fearnleys VLCC Weekly Comment - 2026-09-30"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-09-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-09-30 (Week 40)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `7c825572-ca99-4d1e-81dd-fbea3468270a`
+
+---
+
+## Market Commentary
+
+There’s been a perceived slowdown in activity over the last few days and a bit of “profit taking” would always be expected in a market yielding $750-800k/day (the cost of waiting is the same). However, a lot of under the radar fixing has been concluded with rates continuing to trade in the mid- to high W700’s from Fujairah to far east destination and into the W800-900’s for shorter options. Saudi having restarted operations on the East-West Pipeline have prompted fresh enquiries from Yanbu, with two Korean charterers forking out $55 million for the longer route via the Suez Canal and COGH. The southbound route via Bab al-Mandab is considered too risky as the Houthis are now in full control of the Strait. The US announced another 40 million bbls SPR release yesterday, and with the arb fully open we could easily see rates along the lines of those Yanbu fixtures or above for USG/F.east. Crude oil ⁠exports from Middle East producers have rebounded in September to 16.328 mbpd, the highest since the Iran war began on February 28, and with flows through the Saudi East-West pipeline restored, regional exports are now just 11% below pre-war levels which a remarkable recovery for a region still ⁠at war. Position lists are still tight, and the weather is not helping, all in all a perfect storm (no pun intended).

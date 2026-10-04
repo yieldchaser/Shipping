@@ -1,0 +1,26 @@
+---
+id: "30AB7EF2-87EE-4D9B-9B6D-66BD9C04ECCC"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-02"
+year: 2020
+week: 10
+title: "Fearnleys Capesize Weekly Comment - 2020-03-02"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-03-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-03-02 (Week 10)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `30AB7EF2-87EE-4D9B-9B6D-66BD9C04ECCC`
+
+---
+
+## Market Commentary
+
+There is still limited amount of positive news around, with the effects of Corona virus hurting world economy. However, overall average index value is more or less unchanged from last week, mainly due to a drop in the West Australia and Tubarao routes; West Australia was down from mid 5s to depressing USD 5 pmt, and C3 approaching low 12s. At the same time, the Atlantic market is showing better signs, making the total picture more or less the same from one week ago. Period rates keep stable.

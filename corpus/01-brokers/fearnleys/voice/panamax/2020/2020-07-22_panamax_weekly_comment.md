@@ -1,0 +1,26 @@
+---
+id: "E8D6C2D1-12C5-4A1A-8C25-DA98268CE51B"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-07-22"
+year: 2020
+week: 30
+title: "Fearnleys Panamax Weekly Comment - 2020-07-22"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-07-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-07-22 (Week 30)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `E8D6C2D1-12C5-4A1A-8C25-DA98268CE51B`
+
+---
+
+## Market Commentary
+
+The last week we have seen a sliding market in both basins. In short, the amount of fresh requirements have become rather thin across the board, with quite immediate consequences for hire levels. The fall in rates in the Atlantic has been strongest for TA rounds, with levels down from USD 17-18k mid last week till USD 13-14k at the beginning of this week. The ECSAM/Feast rounds have dropped from USD 16k+600k to just over USD 14k+400k. In the Pacific, the trend is similar but less dramatic, with levels down from mid USD 12k’s to low USD 11k. The period market has been very quiet.

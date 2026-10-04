@@ -1,0 +1,26 @@
+---
+id: "6C765F6F-32F9-4D48-8EBB-10896D9D0FFF"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-05-05"
+year: 2021
+week: 18
+title: "Fearnleys LNG Weekly Comment - 2021-05-05"
+---
+
+# Fearnleys LNG Weekly Comment (2021-05-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-05-05 (Week 18)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `6C765F6F-32F9-4D48-8EBB-10896D9D0FFF`
+
+---
+
+## Market Commentary
+
+With much of the LNG world enjoying various holidays and some much needed time off over the past week, activity slowed down a little but the market has picked up right where it left off. The drive to take ships for winter coverage must surely ease up at some point, as owners with open tonnage are in no rush to fix and charterers weigh up the rising cost versus remaining uncovered. It’s a fascinating dynamic and one rarely seen ahead of summer. For those taking positions today, the lack of availability last winter and the LNG forward curve will be foremost in their minds and will justify taking on extra length. Those as-yet-uncovered may instead point to the tentative emergence of sublets as a sign that the market may yet soften, albeit such vessels are typically showing only quite narrow gaps in their schedules. Whatever happens in the coming months, we’re likely to enter winter with a lower proportion of vessels under control of head owners. It will be interesting to see how LNG shippers manage any excess length. On the newbuilding front, we note one LNGC order was reported last week. Finally, we note with sadness the re-emergence of coronavirus in some parts of the world, and as we all address the uncertainties ahead we hope all our readers and their families remain safe.

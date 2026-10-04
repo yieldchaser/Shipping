@@ -1,0 +1,26 @@
+---
+id: "bbe1d0c0-2554-43b2-8f8d-9131069c144f"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2025-03-28"
+year: 2025
+week: 13
+title: "Fearnleys S&P Weekly Comment - 2025-03-28"
+---
+
+# Fearnleys S&P Weekly Comment (2025-03-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2025-03-28 (Week 13)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `bbe1d0c0-2554-43b2-8f8d-9131069c144f`
+
+---
+
+## Market Commentary
+
+A growing sense of uncertainty is gripping shipping markets with very little visibility and clarity offered by the US administration on the various trade policy proposals tabled over the past couple of weeks. Market players are opting for a wait and see approach in hope to gain some additional comfort and plan their next moves accordingly. A sentiment that has had a direct impact on both second hand and newbuilding activity with a limited number of transactions to report. On the product tanker front, the PS MILANO (Abt 50k dwt Hyundai 2018) was again committed this week at Usd 37m after failing to materialise at similar levels earlier this year. The dry cargo markets have seen one additional Newcastlemax changing hands, with the Japanese controlled GLOBAL COMMANDER (Abt 208k dwt Universal 2010) being sold at Usd 31.7m basis surveys due in June this year. Bringing the tally, in what would be considered a relatively illiquid segment, to a total of 6 units transacted so far this year.

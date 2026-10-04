@@ -1,0 +1,26 @@
+---
+id: "8270B664-FD58-4251-8944-FC1D8D5A32EB"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-06-19"
+year: 2019
+week: 25
+title: "Fearnleys LNG Weekly Comment - 2019-06-19"
+---
+
+# Fearnleys LNG Weekly Comment (2019-06-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-06-19 (Week 25)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `8270B664-FD58-4251-8944-FC1D8D5A32EB`
+
+---
+
+## Market Commentary
+
+The spot shipping market appears to have become subordinate as Charterers have their eyes on the autumn-winter market and in some cases multiyear coverage. Winter coverage often ends up in discussions for a 1yr TC vs the requested 6 or 9 months TC, due to pricing and owners reluctance to take «shoulder months» risk. It will be interesting to see how these year and multiyear discussions pan out over the next few weeks. Last week was relatively active East of Suez, but with good availability of vessels, rates remained stable. Markets were quieter West of Suez, but availability within this basin is very limited. «News of the week» was that Anadarko has taken FID on Mozambique for 12,8 MTPA which could easily translate into a requirement of about 12-16 vessels.

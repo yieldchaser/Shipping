@@ -1,0 +1,30 @@
+---
+id: "83bcee29-aa61-480b-8a2d-03fe3c77d861"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-05-06"
+year: 2026
+week: 19
+title: "Fearnleys Capesize Weekly Comment - 2026-05-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-05-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-05-06 (Week 19)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `83bcee29-aa61-480b-8a2d-03fe3c77d861`
+
+---
+
+## Market Commentary
+
+This week on Capesize, we see strengthening across every segment, with C3 and C5 remaining well supported near future. C5 leads the charge as of yesterday as the highest time charter earner, today gaining an additional 6.5% on paper. Recent fixtures for C5 West Australia/China have been reported in the mid-high USD 14 for second half May stems and early June bids are coming in the mid USD 15s with offers in the range of USD 15.75-16. Overall, the Pacific market is outperforming index with firm bids and rising offers looking positive with potential for future gains coming into June. For C3 Brazil/China, market remains firm but slightly capped with fresh offers in the mid USD 37s for early June stems.
+
+**West Africa**
+
+ stems are still in circulation with no distinct premiums over Brazil stems. North Atlantic transatlantic remains firmly bid, supported by strong mineral demand and limited prompt tonnage. Sentiment remains positive as the North Atlantic continues to outperform paper, underpinned by healthy Coal and Iron Ore flow. C3 11-20 May offer USD 30.75, 1-10 June offer USD 36, 11-20 June offer USD 37.25. C5 19-21 May bid USD 15.3 / offer USD 15.85 / last done USD 15.9.

@@ -1,0 +1,26 @@
+---
+id: "24A71D08-A1B3-4EEF-8287-75FCAF5A99AD"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-30"
+year: 2021
+week: 26
+title: "Fearnleys Aframax Weekly Comment - 2021-06-30"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-06-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-06-30 (Week 26)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `24A71D08-A1B3-4EEF-8287-75FCAF5A99AD`
+
+---
+
+## Market Commentary
+
+The Nsea and Baltic market didn’t manage to maintain the momentum from the previous week and inevitably the market experienced a downward correction. Charterers have the upper hand and Owners are bravely trying to repeat last done. However, moving into next week we expect rates to remain under downward pressure as the tonnage list is building up once again. The excitement from last week was short lived also in the Med/Bsea market as we saw a downwards correction at the beginning of this week with rates coming back down 20 odd points on worldscale. Going forwards the Bsea program in particular looks lighter than what we have seen in previous months while the tonnage list is getting longer, and we do not expect a noteworthy firming of rates in the short run.

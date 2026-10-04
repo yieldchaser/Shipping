@@ -1,0 +1,26 @@
+---
+id: "A635187C-5C68-45EB-AC3B-93D704F5CD02"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-10"
+year: 2020
+week: 46
+title: "Fearnleys Panamax Weekly Comment - 2020-11-10"
+---
+
+# Fearnleys Panamax Weekly Comment (2020-11-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2020-11-10 (Week 46)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `A635187C-5C68-45EB-AC3B-93D704F5CD02`
+
+---
+
+## Market Commentary
+
+The week started on a slow note with little fresh business entering the market. In the Atlantic, we see less demand and a growing list of available tonnage. TA’s are currently yielding USD 11k while fronthauls basis Continent delivery are priced at a softer 18k. In the Eastern Hemisphere, we have since Tuesday seen rates gaining. We see this due to increased Aussie volumes with November cancelling and there are not many candidates available - also due to Covid measures among crew members.

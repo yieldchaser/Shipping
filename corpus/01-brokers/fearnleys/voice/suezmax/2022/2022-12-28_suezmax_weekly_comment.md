@@ -1,0 +1,26 @@
+---
+id: "68D97E26-88DD-4E7E-9B5A-28271BB82E8D"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-12-28"
+year: 2022
+week: 52
+title: "Fearnleys Suezmax Weekly Comment - 2022-12-28"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-12-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-12-28 (Week 52)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `68D97E26-88DD-4E7E-9B5A-28271BB82E8D`
+
+---
+
+## Market Commentary
+
+The week between Christmas and New year is traditionally quiet and the trend, thus far at least, is going to form. In the East, KAZ has a few Aframax tenders that close in the next day or so and may well take out a Suezmax or two given how quiet this segment has been on the surface. The natural fixing window should be focused on the second decade with TD23 likely to trade WS 85 and MEG/East WS 175, with both runs requiring a test. In the Atlantic, a chunk of vessels have missed their dates which will keep TD20 pinned down somewhere in the WS 130's and given that the Black Sea should be all but done for January dates, save the odd straggler cargo, rates will soon be chopped down to the WS 230-240 level.

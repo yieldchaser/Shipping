@@ -1,0 +1,26 @@
+---
+id: "0cd40254-9c93-4490-b2e9-7e119c9faa6a"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-02-29"
+year: 2024
+week: 9
+title: "Fearnleys Chartering Weekly Comment - 2024-02-29"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-02-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-02-29 (Week 9)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `0cd40254-9c93-4490-b2e9-7e119c9faa6a`
+
+---
+
+## Market Commentary
+
+EAST Coming from huge premiums last week freight in the East has now plummeted down back below West earnings. Comparing the spot volumes to an average month we should, at 22 recorded spot deals, be more or less done and dusted already. But there are at least 2-3 additional cargoes lurking on March dates still. How much that helps to keep freight from falling further however remains to be seen. In the US, freight looks less oversupplied which could help East from collapsing. WEST Compared to the East, Western freight rates have remained stronger, with a few deals concluded around 110 H/C. In total we now count 31 spot fixtures for March dates ex US and we still see a couple vessels left in the very end of the month which soon should be absorbed. April fixing is underway and we see several uncovered cargoes out early in the month with Owners freight ideas surpassing last done levels.

@@ -1,0 +1,30 @@
+---
+id: "B22DF818-559B-43B8-AED3-790A9A132008"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-01-24"
+year: 2022
+week: 4
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-01-24"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-01-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-01-24 (Week 4)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `B22DF818-559B-43B8-AED3-790A9A132008`
+
+---
+
+## Market Commentary
+
+MEG Another robust increase in swap this week with crude rally. Feb C3 CP jumped to $763, and C4 even surpassed C3 to $766, in line with the strong rise in US butane price. Feb/Mar CP are traded at $23 backwardation, stable from last week. 1st round FEB CP idea varied widely from $745 to $770 for C3 and $735 to $755 for C4 reportedly.
+
+**FAR EAST**
+
+ Buying interests in window appear thin this week. 23kt propane for 1h Mar was bid in window at Mar FEI plus high teens and one similar parcel was traded at $758 during mid-week. Off window a flurry of tenders is floating in the market, as both Chinese and Korean importers emerged to purchase cargos before lunar new year holiday. At least five Chinese importers, mainly petchem players, have secured minimum 200kt propane in total for end Feb to 1h Mar delivery at Mar FEI plus 20s via tenders. Another Chinese traditional importer tendered to buy one 11/11 parcel for Mar delivery. And due to the widened FEI/MOPJ discounts driven by the surging oil price, Korean importers have also issued buy tenders to procure 92kt LPG for cracking use. One Australia exporter is reported to sell an evenly split cargo for end Mar early Apr arrival via tender.

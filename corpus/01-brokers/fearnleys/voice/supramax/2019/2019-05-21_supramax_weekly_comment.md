@@ -1,0 +1,26 @@
+---
+id: "08788980-A262-4ACA-BD52-CD9FB5096E9E"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-21"
+year: 2019
+week: 21
+title: "Fearnleys Supramax Weekly Comment - 2019-05-21"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-05-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-05-21 (Week 21)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `08788980-A262-4ACA-BD52-CD9FB5096E9E`
+
+---
+
+## Market Commentary
+
+The Pacific market was stable this week with a slow start due to the holiday in Singapore on Monday. Indo coal was fixing close to 8,000 from south China. The USG/USEC market was firming up slowly, with more cargoes available in the area. Petcoke to Med was fixed at USD 14,000 and to India USD 18,000. The ECSA market is still steadily increasing. Tess 58’ is able to obtain 15,000 + for Med and trip to Singapore -Japan paying close to 13500 plus 350,000 BB. Cont is showing little demand and over supply of tonnage which is pressuring rates. FH from Baltic to India pays low USD 12,000.

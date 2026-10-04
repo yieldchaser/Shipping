@@ -1,0 +1,26 @@
+---
+id: "5AD26A9B-77C8-442C-B0B1-47C3146A27A3"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-05-29"
+year: 2019
+week: 22
+title: "Fearnleys Supramax Weekly Comment - 2019-05-29"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-05-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-05-29 (Week 22)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `5AD26A9B-77C8-442C-B0B1-47C3146A27A3`
+
+---
+
+## Market Commentary
+
+A slow week, starting with holidays in the UK and USA. Further softening in the Pacific, while the Atlantic seeing some improvements. For front haul ex ECSA, Ultras are fixing around USD 15,000+USD 500k gbb, while scrap cargoes ex Continent for East Mediterranean is paying owners around USD 9,000. In the Pacific, Supras are fixing in the high USD 8,000 for Indonesia/China basis Singapore delivery, while Nopac RV are fixing around low USD 7,000. From the Indian Ocean, South Africa coal runs back to MEG/WC India paying owners high USD 11,000+USD 175k gbb.

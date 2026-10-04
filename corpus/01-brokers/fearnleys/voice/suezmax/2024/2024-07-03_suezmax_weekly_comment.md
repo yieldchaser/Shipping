@@ -1,0 +1,26 @@
+---
+id: "7267070e-563c-4020-8158-0546db47832c"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-07-03"
+year: 2024
+week: 27
+title: "Fearnleys Suezmax Weekly Comment - 2024-07-03"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-07-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-07-03 (Week 27)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `7267070e-563c-4020-8158-0546db47832c`
+
+---
+
+## Market Commentary
+
+Ground Hog Day in the Atlantic. TD 20 ended last week feeling overvalued at WS 112.5 but has now corrected down to circa WS 100 (theoretical rate based on most recent West Africa/USAC trades). We expect rates to scratch the floor in the low/mid WS 90's against the backdrop of a marginally over-tonnaged list and from there we envisage a cut and paste of the last 12 months (moderate bounce) based on a USG market that is exhibiting some green shoots. In the East, there's been a flurry of off market fixing but not enough to prevent further falls. We expect next done MEG/East to trade at WS 110 (+/- 2.5) with downside bias. BOT/UKCM needs a test but we're calling it mid WS 50's via COGH.

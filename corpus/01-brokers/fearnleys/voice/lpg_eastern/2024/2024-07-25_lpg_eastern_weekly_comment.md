@@ -1,0 +1,30 @@
+---
+id: "c84663ab-a78e-48e5-b2f6-66221e2eec68"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2024-07-25"
+year: 2024
+week: 30
+title: "Fearnleys LPG Eastern Weekly Comment - 2024-07-25"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2024-07-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2024-07-25 (Week 30)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `c84663ab-a78e-48e5-b2f6-66221e2eec68`
+
+---
+
+## Market Commentary
+
+MEG Cash premium for Aug lifting evenly split cargo stabilized at mid-high single digit. One trader was bidding end Aug lifting 4/0 FOB AG at $589. One Indian major was reported to award their buy tender for Dec 2/2 FOB AG at CP minus low-mid single digit. 1st round CP recommendation was heard at $580-595 for C3 and $565-590 for C4. Despite the decline in oil price, Aug C3 CP edged up to $584 and C3/C4 assessed at $9. Aug/Sep CP was traded at flattish to small contango.
+
+**FAR EAST**
+
+ A couple of deal was concluded in window, with 23kt propane parcel for 2h Aug and 1h Sep delivery basis Chiba traded at Aug FEI plus $6.5 and $2 respectively. Outside window similar bid for 2h Aug maintained at FEI plus mid single digit but few offers seen. PDH buying inquiries remains muted, but some PDH which under turnaround plan to restart in Aug and we are expecting more spot procurement if the startup materialized. However cracking inquiries are relatively active. One SChina cracker user awarded their buy tender for a heavy butane cargo at Aug CP plus 40s. Another EChina cracker user also procured a late Aug delivered propane at Aug FEI plus low teens. On the other hand, Sep discussion have started, seeing one Vietnam based importer tendered to buy 3/1 or 1/1 or 23/0 for 1h Sep delivery and one Korean importer tendered for 0/2 delivered end Aug early Sep.

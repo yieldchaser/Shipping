@@ -1,0 +1,26 @@
+---
+id: "f59ab288-a57a-4536-84c2-8aef5b916aec"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-08-19"
+year: 2026
+week: 34
+title: "Fearnleys Supramax Weekly Comment - 2026-08-19"
+---
+
+# Fearnleys Supramax Weekly Comment (2026-08-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2026-08-19 (Week 34)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `f59ab288-a57a-4536-84c2-8aef5b916aec`
+
+---
+
+## Market Commentary
+
+Supramax market remained broadly steady, with limited movement across most regions and only modest gains in the Atlantic. The Continent and Mediterranean continue to face pressure due to ample tonnage and limited fresh cargo input, while the South Atlantic remains more balanced but somewhat positional. In Asia, sentiment is improving, supported by better activity in NoPac and Southeast Asia, although this has yet to translate into significant rate gains. Handy market wise- another subdued session overall, with the Continent and Mediterranean remaining soft amid limited cargo volumes. The South Atlantic and USG were broadly stable, with little change in fundamentals. Asia remained the strongest area, supported by tighter prompt tonnage and steady cargo flow, although activity remained relatively limited.

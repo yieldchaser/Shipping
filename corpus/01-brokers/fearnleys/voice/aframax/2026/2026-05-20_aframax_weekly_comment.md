@@ -1,0 +1,26 @@
+---
+id: "83c7c024-e7e7-4b12-9a49-1d2bc81bd92c"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-05-20"
+year: 2026
+week: 21
+title: "Fearnleys Aframax Weekly Comment - 2026-05-20"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-05-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-05-20 (Week 21)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `83c7c024-e7e7-4b12-9a49-1d2bc81bd92c`
+
+---
+
+## Market Commentary
+
+North Sea North Sea sentiment has continued to soften on the lack of activity and surrounding markets also remaining relatively soft. Early vessels have had to make the decision to ballast out after missing natural dates with a mixture heading Mediterranean and USG. Natural window in the North Sea pushing into 28-30 window and with a long weekend coming up, end May and very early June dates will most likely need cover this side of the weekend. Market steady for now. Mediterranean We are close to get sold-out for May dates in the Mediterranean with end-month cargoes now being worked. Tonnage list has become a bit more balanced considering that a couple of vessels in the list will either ballast to US or to Baltic. Reports of WS 180 done for Libya/Augusta might put some extra pressure on the rates but otherwise it feels we have bottomed as owners start to not make sense of lower rates.

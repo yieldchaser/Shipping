@@ -1,0 +1,30 @@
+---
+id: "ecb15467-ffaf-4efc-85d7-ed33f3aa0376"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-03-13"
+year: 2024
+week: 11
+title: "Fearnleys VLCC Weekly Comment - 2024-03-13"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-03-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-03-13 (Week 11)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `ecb15467-ffaf-4efc-85d7-ed33f3aa0376`
+
+---
+
+## Market Commentary
+
+MEG March stem volume will close out this week at around 145 total cargoes. Likely a very brief lull before the April cargoes start working (although we have already seen a 1-2/Apr Al Shaheen Smax stem and some Chinese to Chinese business off April dates already). The early birds may start working at the end this week, early next, so rates likely a flat in the MEG for the time being at the WS 70 level. We count 30 vessels on the water, free of cargo at present, so the list is lengthening a touch. A little different in the West however - a touch softer - USD 9m USG/Ningbo levels, but we are behind the curve a little, so we feel a pickup in activity in the next few days. Worth noting the average for 2024 so far USG/Ningbo is USD 9.2m, so it seems owners and charterers seem to have found the happy level that the route works at.
+
+**West Africa**
+
+/East done at WS 70, albeit an older vessel.

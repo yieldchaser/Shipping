@@ -1,0 +1,26 @@
+---
+id: "b3ef6422-c94f-4ace-b049-67dd36158a2e"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-09-26"
+year: 2024
+week: 39
+title: "Fearnleys Chartering Weekly Comment - 2024-09-26"
+---
+
+# Fearnleys Chartering Weekly Comment (2024-09-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2024-09-26 (Week 39)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `b3ef6422-c94f-4ace-b049-67dd36158a2e`
+
+---
+
+## Market Commentary
+
+EAST US activity picked up earlier this week, seeing freight already trading at more than 2x earnings there vs MEG, this should eventually pull up East freight. We think we are hovering around bottom in the MEG and we are seeing potential upside around the corner. Currently we have seen 11 spot fixtures ex MEG (Incl 3x Yanbu) - four of these 11 deals are from Indian PSUs. Next deals should be around mid / second half October. WEST The Western market has been quite active this week, counting more than a dozen spot fixtures which brings the total to 23 spot deals for October dates ex USG/USEC. Freight rates have seemingly found a floor with several deals done in the mid-80s Houston-Chiba range, and the latest edging closer to 90 dollars. November fixing is also underway with one deal done so far and others beginning to show interest.

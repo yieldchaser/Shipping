@@ -1,0 +1,26 @@
+---
+id: "857cea6c-f9ec-4406-a3dc-aeda54e0f607"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-07-17"
+year: 2024
+week: 29
+title: "Fearnleys Panamax Weekly Comment - 2024-07-17"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-07-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-07-17 (Week 29)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `857cea6c-f9ec-4406-a3dc-aeda54e0f607`
+
+---
+
+## Market Commentary
+
+This week's Panamax market saw a decline in support from ECSA due to fewer vessels heading there, while increased loadings in the Pacific and seasonal Black Sea grain volumes provided market support. In the Atlantic, activity dropped, particularly in the North, with a wider bid/offer gap and mixed rates. The market remained flat with balanced tonnage and cargo, and ECSA saw limited fresh orders and slight owner discounts. Meanwhile, in the Pacific, despite a recent surge in vessel loadings and good demand replenishment, activity was subdued, especially in Asia, due to a national holiday in Japan. Overall, fundamentals remain bullish with ton-time growth outpacing supply growth and industrial metal prices indicating higher averages for the second half of the year.

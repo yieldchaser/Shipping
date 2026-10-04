@@ -1,0 +1,26 @@
+---
+id: "1b7af825-f2b7-4e24-a4f4-0bda852f6d91"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2026-06-04"
+year: 2026
+week: 23
+title: "Fearnleys LNG Weekly Comment - 2026-06-04"
+---
+
+# Fearnleys LNG Weekly Comment (2026-06-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2026-06-04 (Week 23)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `1b7af825-f2b7-4e24-a4f4-0bda852f6d91`
+
+---
+
+## Market Commentary
+
+Rates continue to stay buoyant across the basins, as both Atlantic and Pacific markets enjoy increased liquidity over spot and term periods. Several competing requirements in the East for 2H June have made availability among TFDEs appear tight for the first time in some weeks, which is reflected by gently increasing headline rates. The Atlantic market looks increasingly tight for July, driven mainly by a sustained arbitrage pulling ships out of the intra-basin trade flows to which we have become accustomed. These patterns show little sign of slowing down, as both developing and firm requirements for 1H July have already hit the market. Layer on to the current market dynamics the continuing difficulties resolving the conflict in the Middle East, and the firmness we're seeing today looks set to persist for the foreseeable future.

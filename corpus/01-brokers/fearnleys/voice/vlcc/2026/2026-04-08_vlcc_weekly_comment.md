@@ -1,0 +1,30 @@
+---
+id: "f45814af-13e0-462f-81db-3ef979ca6be8"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-04-08"
+year: 2026
+week: 15
+title: "Fearnleys VLCC Weekly Comment - 2026-04-08"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-04-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-04-08 (Week 15)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `f45814af-13e0-462f-81db-3ef979ca6be8`
+
+---
+
+## Market Commentary
+
+Players are rushing to understand the fine print of a US-Iran ceasefire which could temporarily unblock the Strait of Hormuz, potentially opening an exit for an armada of ships trapped in the MEG. Owners and charterers alike have greeted the possibility of a reopening with both relief and caution. There is little immediate change in traffic around the strait today, though owners are calling insurers and security advisors. However, even within a two-week window, activity is expected to restart in a measured manner rather than all at once. There’s a lot of available oil in storage in the MEG but restarting production in earnest may still take weeks. Every charterer under the sun is inviting proposals for prompt onwards liftings in the MEG but thus far not receiving much response from the owning community. The Atlantic saw a downward adjustment yesterday with e.g.
+
+**USG**
+
+/East now pegged sub USD 19 million and still a fair number of ships still to chose from.

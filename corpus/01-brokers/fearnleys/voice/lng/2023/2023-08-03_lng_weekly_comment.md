@@ -1,0 +1,26 @@
+---
+id: "fc2330bc-037d-4c17-8ff6-fbe30f148c6b"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-08-03"
+year: 2023
+week: 31
+title: "Fearnleys LNG Weekly Comment - 2023-08-03"
+---
+
+# Fearnleys LNG Weekly Comment (2023-08-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-08-03 (Week 31)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `fc2330bc-037d-4c17-8ff6-fbe30f148c6b`
+
+---
+
+## Market Commentary
+
+Once again, the LNG spot shipping market has experienced a subdued week. While some developing cargoes have emerged, there are very few new firm requirements seen. Vessel availability remains steady at present; nevertheless, as the seasonal breeze carries us closer to winter, a subtle shift is anticipated. Vessels primarily controlled by subletters may be withdrawn, leaving the market tighter. The West-to-East Arbitrage and the winter contango are currently open, hinting at forthcoming trade opportunities which should improve shipping rates further going into the final months of the year. A handful of charterers are still actively seeking tonnage for this period; however, closing the Bid-Offer spread remains a challenge as the current lack of spot activity is not giving much scope to optimise any spot length as a result. On the longer-term side, there remains considerable attention driven increasingly by fleet renewals. In the newbuilding market, Evalend Shipping was reported to have placed an order for two 174,000km3 LNG carriers with Korean Shipbuilder Hyundai Heavy Industries. The vessels are due for delivery in late 2027. Another Japanese shipowner was also heard to have place an order for one LNG carrier with another Korean Shipbuilder, Hanwha Ocean. The newbuilding is due for delivery around February 2027.

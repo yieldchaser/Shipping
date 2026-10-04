@@ -1,0 +1,30 @@
+---
+id: "4f45667c-85dc-4bdb-9a3e-87b8a354e5d4"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-07-03"
+year: 2025
+week: 27
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-07-03"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-07-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-07-03 (Week 27)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `4f45667c-85dc-4bdb-9a3e-87b8a354e5d4`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco announced their Jul Cp at $575 for C3 and $545 for C4, which is much below market expectation, but reflecting the long fob supply. Due to the regional uncertainty, some lifters to refer to sell fob instead of self lifting, avoiding the freight risk and sluggish CFR demand. KPC also issued tender to sell a 22/22 FOB cargo for 18/19 Jul lifting. By the time of writing, Aug C3 Cp was traded at $558 and C4 at $532.
+
+**FAR EAST**
+
+ Market sentiment was weak, seeing a handful of importers resales. During the week two lots for 23/0 for 1h and 2h Aug delivery basis Chiba changed hand at Jul FEI minus $1.5, equates to Aug Fei minus mid single at the time of trades. The discounts dived further, with 23/0 2h Aug bid on thurs shown at FEI minus high single, while no bids shown for 1h Aug but offers at minus $7.5. Several Jul prompt cargos were concluded at Aug Cp plus single digit, or similar equivalence. FIC awarded their buy tender for 2 lots of 23/0 at $560s for late Jul early Aug delivery. We are expecting petchem users to emerge for Aug feedback purchase soon with declined flat price and better margins. Other than this, IOC was reported to award their Aug 2/2 buy tender on CFR basis at Cp plus 20s. One Korean player also tendered to buy 23kt butane for Aug delivery.

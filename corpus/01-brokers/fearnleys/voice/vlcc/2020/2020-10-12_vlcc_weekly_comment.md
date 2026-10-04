@@ -1,0 +1,26 @@
+---
+id: "E897286A-F472-4CD5-A61F-EDEF67A58543"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-10-12"
+year: 2020
+week: 42
+title: "Fearnleys VLCC Weekly Comment - 2020-10-12"
+---
+
+# Fearnleys VLCC Weekly Comment (2020-10-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2020-10-12 (Week 42)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `E897286A-F472-4CD5-A61F-EDEF67A58543`
+
+---
+
+## Market Commentary
+
+With China and Asia back from holidays, the week kicked off with a flurry of enquiry. However, most open market cargoes found dance partners in the high WS20’s MEG/East – although a couple of charterers were “stung” with a flat WS30. “Disadvantaged” ships remain all the rage to save a buck, albeit a risky play. One had to pay up 3.25 WS points to replace their first bargain attempt. We seem to have run out of steam come mid-week. The MEG fixture count is now in the mid 90's. Extrapolating from the previous months, people are starting to question whether the October program is a wrap. On positive note, we only count a tonnage overhang of +/- 25 ships moving into the next month. A couple more turn of the month deals are likely, and with that the supply/demand picture looks a tad more balanced than for quite some time.

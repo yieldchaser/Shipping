@@ -1,0 +1,26 @@
+---
+id: "c0b5632d-21e9-4cac-b13b-c218965a5403"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-04-10"
+year: 2024
+week: 15
+title: "Fearnleys Panamax Weekly Comment - 2024-04-10"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-04-10 (Week 15)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `c0b5632d-21e9-4cac-b13b-c218965a5403`
+
+---
+
+## Market Commentary
+
+The Panamax market has exhibited signs of struggle across various regions. Despite an uptick in ECSA grain shipments hinting at a possible market rebound, the immediate outlook remains subdued. In the Atlantic, a significant lack of fresh demand against a backdrop of increasing tonnage has kept the market under pressure, with rates continuing to be affected negatively. The situation is further exacerbated by a correction in the BPI timecharter average and a distinct absence of activity, particularly in the North Atlantic. Similarly, the Asian market faces challenges due to a lack of new demand and the impact of holidays, contributing to a pessimistic sentiment. Despite some isolated discussions of steadier rates for deferred dates, the Panamax market is currently characterized by low activity, an oversupply of tonnage, and a cautious market sentiment.

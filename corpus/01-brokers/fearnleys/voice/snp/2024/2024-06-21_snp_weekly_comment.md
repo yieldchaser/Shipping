@@ -1,0 +1,26 @@
+---
+id: "0fa3f6bf-1a6c-4a2e-83d0-c494184905f7"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2024-06-21"
+year: 2024
+week: 25
+title: "Fearnleys S&P Weekly Comment - 2024-06-21"
+---
+
+# Fearnleys S&P Weekly Comment (2024-06-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2024-06-21 (Week 25)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `0fa3f6bf-1a6c-4a2e-83d0-c494184905f7`
+
+---
+
+## Market Commentary
+
+The dry market continues to benefit from increased levels of interest as shipowners look for ways to deploy their capital. Once again, anything ECO is deemed to be extremely desirable, and this is reflected in the price. In the standout transactions this week, 2x 2016 Chinese blt Capesizes sold either side of USD 50M. We would have to look back November 2023 for the sale of the last 2016 Chinese capes with scrubber fitted CHOW/COMANCHE 180K DWT SWS 2016, which sold to Genco for 43.1M each. Considering the premium applied to scrubber fitted units, this would mean the market has pushed ~20% in value in the last 8 months. Greek buyers in these transactions would indicate there is room for these values to increase further. A lacklustre week all round in the tanker market with stuttering spot rates and only one sale to report. Away from the second-hand market however, investment is still being poured into tanker newbuildings, with owners backing the legs of this bull run. In the only transaction this week, Greek Buyers bought LR1 AVRA PATROS 75K DWT Sungdong Shipbuilding 2008.

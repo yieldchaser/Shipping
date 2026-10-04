@@ -1,0 +1,30 @@
+---
+id: "16cceb36-d902-460a-8665-0575dd5b0f7b"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-05-20"
+year: 2026
+week: 21
+title: "Fearnleys Capesize Weekly Comment - 2026-05-20"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-05-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-05-20 (Week 21)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `16cceb36-d902-460a-8665-0575dd5b0f7b`
+
+---
+
+## Market Commentary
+
+After a fairly quiet end to last week in the Pacific, Capesize demand rebounded on Monday as Port Hedland and Dampier basins firmed for June stems, with last done at USD 15 for 7-8 June dates.
+
+**Pacific**
+
+ C5 markets are currently firm but steady with multiple trades reported in the mid USD 15 range. Tighter tonnage coming into June appears to keep levels near current highs, setting a balanced market tone for Pacific, though forward curves suggest possible easing beyond mid-June laycans. In the Atlantic, we saw exceptionally strong demand for transatlantic trade in the early week. Levels have subsided today and are active and well supported with C8 at USD 46,875/day (-10.69% compared to yesterday) and fronthaul C9 at USD 73,639 thanks to tight tonnage in the north and strong mineral demand. Ballasters continue to favour Brazil stems over transatlantic, further constraining supply. C3 Brazil/China is stable but thin today on fresh fixtures, with ideas hovering in the mid USD 36s. C3 Brazil/China 1-10 June bid USD 37 offer USD 37, 11-20 June last done 33.8, 21-30 June offer USD 36.75, 1-10 July bid USD 36 offer USD 36. C5 West Australia/China 1-3 June last done USD 15.35, 3-5 June last done USD 15.5, 4-6 June last done USD 15.

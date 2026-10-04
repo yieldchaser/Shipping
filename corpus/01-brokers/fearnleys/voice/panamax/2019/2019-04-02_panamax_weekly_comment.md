@@ -1,0 +1,26 @@
+---
+id: "47D21996-BCB9-4094-BCCD-90BD64215A23"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-04-02"
+year: 2019
+week: 14
+title: "Fearnleys Panamax Weekly Comment - 2019-04-02"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-04-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-04-02 (Week 14)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `47D21996-BCB9-4094-BCCD-90BD64215A23`
+
+---
+
+## Market Commentary
+
+A continued strengthening of rates in the Atlantic hemisphere has resulted in yet another positive week for the BPI index, despite a slight decrease of rates in the Pacific. A transatlantic round voyage currently pays owners about USD 10,000 per day, while a short fronthaul from the Continent yields about USD 16,500. In the East, a Pacific round voyage pays around the low USD 7,000's. The BPI 4TC-index is up 71 points to 1127.

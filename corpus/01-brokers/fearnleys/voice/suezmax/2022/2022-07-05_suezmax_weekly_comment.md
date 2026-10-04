@@ -1,0 +1,30 @@
+---
+id: "90DBA418-9ABC-4E10-8764-D45A57087D4A"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-07-05"
+year: 2022
+week: 27
+title: "Fearnleys Suezmax Weekly Comment - 2022-07-05"
+---
+
+# Fearnleys Suezmax Weekly Comment (2022-07-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2022-07-05 (Week 27)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `90DBA418-9ABC-4E10-8764-D45A57087D4A`
+
+---
+
+## Market Commentary
+
+Thus far, it's been a fairly active week which hopefully bodes well for the remainder of the third decade. The Atlantic is beginning to find sustained support from MEG/West enquiry which should reduce supply of ships ballasting straight to West Africa from the East. Russian suitable tonnage is also having a positive impact as most of these owners forego back-haul opportunities as their time is better spent ballasting straight back to Russia. This increases tonne miles and stresses the fleet to some degree. Whilst most regions have traded flat this week, it won't take much for TD20 to firm 2.5-5 points whilst in the East, TD23 will see out the remainder of the week trading in the WS 50's.
+
+**MEG**
+
+/China needs testing on modern tonnage but should find a home between WS 107-110.

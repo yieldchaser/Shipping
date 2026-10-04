@@ -1,0 +1,26 @@
+---
+id: "8acd4a31-3905-49ac-a1a6-8d5eebff0422"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-03-13"
+year: 2024
+week: 11
+title: "Fearnleys Panamax Weekly Comment - 2024-03-13"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-03-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-03-13 (Week 11)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `8acd4a31-3905-49ac-a1a6-8d5eebff0422`
+
+---
+
+## Market Commentary
+
+The Panamax market has seen a significant increase, mainly in the Atlantic due to a shortage of ships and strong demand, primarily from the North Atlantic and East Coast South America (ECSA), driving rates up. The Panamax Timecharter Average (P5TC) rose to USD 18,353, reflecting this positive trend. Although Asia's market started slowly, it remained stable, supported by reliable demand and the recent surge from ECSA, maintaining a positive outlook despite limited visibility. The market demonstrated resilience with increased grain inquiries and expectations for further gains, particularly in the Atlantic, buoyed by firm demand and lower tonnage availability. The week started slowly but maintained a strong sentiment, with the market responding positively to the Atlantic and Pacific dynamics, indicating sustained strength and confidence in future performance.

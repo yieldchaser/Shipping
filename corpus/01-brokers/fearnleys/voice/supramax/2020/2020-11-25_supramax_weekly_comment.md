@@ -1,0 +1,26 @@
+---
+id: "1EAD9F61-D059-4F25-8205-9FDEC2A0D7C0"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-11-25"
+year: 2020
+week: 48
+title: "Fearnleys Supramax Weekly Comment - 2020-11-25"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-11-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-11-25 (Week 48)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `1EAD9F61-D059-4F25-8205-9FDEC2A0D7C0`
+
+---
+
+## Market Commentary
+
+Positive sentiment remains across this week following last week’s rising trend. In the Pacific, China coal demand pushing rates for Indonesian coal where owners are seeing in the mid/high teens for Indo coal rounds back to China/SE Asia and around USD 12,500 to India. Nopac RVs paying around USD 10,000, while Aussie RVs closer to USD 11k. From the Indian Ocean seeing rates in the low USD 13k for WC India via MEG trip to EC India. Meantime, in the Atlantic, USG is paying around high teens to Mediterranean and FH around USD 24,000, while the Continent is still firm with scrap to Emed paying in the mid/high teens.

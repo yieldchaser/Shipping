@@ -1,0 +1,26 @@
+---
+id: "A7109E4A-7106-432B-B37D-7B62AD5C3D0E"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-12-02"
+year: 2019
+week: 49
+title: "Fearnleys Capesize Weekly Comment - 2019-12-02"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-12-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-12-02 (Week 49)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `A7109E4A-7106-432B-B37D-7B62AD5C3D0E`
+
+---
+
+## Market Commentary
+
+Slight improvements at generally healthy levels as spot fundamentals are satisfactory for the big ships. Average daily earnings up some 11 pct w-o-w to come in at USD 25k - the main driver again being high iron ore volumes traded. The west Australia/China trade is seeing a pre-christmas boost with all miners active and subsequent pacific roundvoyage levels up 13 pct to USD 30k for standard 180000-tonners. So far more modest on the crucial Brazil/China route, where miners and operators are busy picking the very few remaining december loaders at steadily improving numbers - China-Brazil-China round value up 6 pct to come in at USD 24k/day. Bunker delivery delays and final preparations for 1 jan 2020 IMO regulations expected to add further upward pressure. Period activity picking up as spot and ffa support more forward confidence, with recent conclusions including 180000 dwt built 2013 fetching the equivalent of arnd usd 18k for abt 12 months basis Far East prompt delivery.

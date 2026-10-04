@@ -1,0 +1,26 @@
+---
+id: "93B89ADA-AD92-403A-96E1-2361E5CCC4EC"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-04-12"
+year: 2021
+week: 15
+title: "Fearnleys VLCC Weekly Comment - 2021-04-12"
+---
+
+# Fearnleys VLCC Weekly Comment (2021-04-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2021-04-12 (Week 15)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `93B89ADA-AD92-403A-96E1-2361E5CCC4EC`
+
+---
+
+## Market Commentary
+
+As April stems close out, the MEG has warmed up for modern tonnage. It may not be the green shoots of a full recovery, but welcomed by owners nonetheless. We can see the impact of an exodus West around the Cape in recent weeks as it has created a shortage of well badged ships in the MEG. As such we have seen rates move up beyond the mid 30’s for end month dates MEG/East. Anything remaining for April dates may get a little sting, as owners react to the last few deals. In the Atlantic, rates have struggled for traction given the tonnage availability, and remain flattish in the low WS30’s for Wafr/East. Worth noting that Suezmax a touch softer, certainly in the West, so little support there as we now have the quiet period before the May MEG stems start coming in. Despite this, owners will look to keep this bump rolling.

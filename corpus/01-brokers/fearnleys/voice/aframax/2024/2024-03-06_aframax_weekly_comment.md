@@ -1,0 +1,26 @@
+---
+id: "18b77e32-f2bd-49d0-a7ed-7951c8950e80"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-03-06"
+year: 2024
+week: 10
+title: "Fearnleys Aframax Weekly Comment - 2024-03-06"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-03-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-03-06 (Week 10)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `18b77e32-f2bd-49d0-a7ed-7951c8950e80`
+
+---
+
+## Market Commentary
+
+NORTH SEA The North Sea market is lacking in comparison to surrounding markets this week. First half March stems have been mainly covered by relets being programmed and some activity from WCN on VLCCs and Suezmax limiting the activity for Aframax. Natural dates now pushing out to mid-month. Neighboring markets more attractive for those that will ballast, so expect to see more tonnage leaving the area which could reduce tonnage and have an effect on rates, but more activity is needed. MEDITERRANEAN Mediterranean Aframax rates have bounced this week in a quicker fashion than initially expected as owners hold firm with stronger sentiment after last week’s decline. Activity has eaten into an already tighter looking tonnage list adding further pressure to the Mediterranean market, and a resurgence of CPC cargoes in the Black Sea adding to demand will see rates continue to look firmer, but at what pace will depend on if charterers look to hold back.

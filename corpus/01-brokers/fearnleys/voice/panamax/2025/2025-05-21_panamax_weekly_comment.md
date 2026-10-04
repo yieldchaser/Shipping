@@ -1,0 +1,26 @@
+---
+id: "44f44f56-4cf0-4875-859b-ef01e153db7f"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-05-21"
+year: 2025
+week: 21
+title: "Fearnleys Panamax Weekly Comment - 2025-05-21"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-05-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-05-21 (Week 21)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `44f44f56-4cf0-4875-859b-ef01e153db7f`
+
+---
+
+## Market Commentary
+
+The Panamax market experienced additional softening this week, driven primarily by limited Atlantic activity where growing tonnage lists pressured transatlantic rates downward. Fronthaul trades from NCSA offered some resilience, though a lack of fresh cargoes keep fundamentals broadly bearish. In contrast, the Pacific provided some optimism, benefiting from stronger activity ex-East Australia and NoPac and an increasingly balanced tonnage supply. Looking ahead, the market’s direction will largely depend on the upcoming grain seasons in the Black Sea and US, weather conditions in Asia during the summer, and notably, any shifts in US-China trade dynamics. With ECSA grain season winding down, these factors will become increasingly critical for market sentiment.

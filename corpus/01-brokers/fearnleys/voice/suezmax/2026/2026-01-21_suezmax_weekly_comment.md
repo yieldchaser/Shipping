@@ -1,0 +1,26 @@
+---
+id: "cc786672-5cd7-43c3-a804-9a81117c2ef1"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-01-21"
+year: 2026
+week: 4
+title: "Fearnleys Suezmax Weekly Comment - 2026-01-21"
+---
+
+# Fearnleys Suezmax Weekly Comment (2026-01-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2026-01-21 (Week 4)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `cc786672-5cd7-43c3-a804-9a81117c2ef1`
+
+---
+
+## Market Commentary
+
+TD20 has printed down to WS 156.67, marking another aggressive drop. However, we still have very few vessels FOC (the majority are one owner), and several ports across Europe are closed and experiencing poor weather until end‑month. Additionally, there are still unsold barrels for West Africa 1st decade February, which aligns with our counts suggesting the program is not yet complete (possibly 4-6 more to cover). It seems premature to write off the market, particularly given that CPC SBM 3 is restarting (all going well) and the USG/Guyana market will need to factor in greater sea margin due to weather for ballasters, which may prompt owners to seek higher returns. We do have a number of vessels ballasting toward the Cape of Good Hope, offering a potential outlet for the forward window and implying downward pressure could emerge in the MEG, but the market still has scope for volatility prior to these being within the working window.

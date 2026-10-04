@@ -1,0 +1,26 @@
+---
+id: "5a9e9597-5734-407c-860d-8a237b75200a"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-06-03"
+year: 2026
+week: 23
+title: "Fearnleys Panamax Weekly Comment - 2026-06-03"
+---
+
+# Fearnleys Panamax Weekly Comment (2026-06-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2026-06-03 (Week 23)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `5a9e9597-5734-407c-860d-8a237b75200a`
+
+---
+
+## Market Commentary
+
+The Panamax market opened the week on a softer note, with Posidonia and regional holidays keeping activity limited and many players still reassessing direction. The Atlantic remains under pressure, with limited fresh mineral and grain enquiry meeting a growing prompt tonnage list in the Continent and Mediterranean, forcing earlier-position owners to trim expectations. ECSA is broadly flat but feels toppy for index dates, with spot tonnage still discounted due to limited cargo volume. In the Pacific, Indonesia and Australian mineral flows continue to provide some support, but sentiment has turned more cautious as tonnage builds and fresh requirements remain thin. Overall, near-term indicators still point bearish, while coal demand and potential Chinese weather disruptions remain the main upside risk.

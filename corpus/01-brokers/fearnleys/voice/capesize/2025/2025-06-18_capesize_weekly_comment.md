@@ -1,0 +1,26 @@
+---
+id: "43b222e9-fbf9-452a-a813-3cb9210fa300"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-06-18"
+year: 2025
+week: 25
+title: "Fearnleys Capesize Weekly Comment - 2025-06-18"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-06-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-06-18 (Week 25)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `43b222e9-fbf9-452a-a813-3cb9210fa300`
+
+---
+
+## Market Commentary
+
+In the Pacific, a growing list of available tonnage is beginning to weigh on sentiment, even as trading volumes remain relatively active. On C5, Rio Tinto was heard fixing at USD 9.60 pmt for 1–3 July dates, a modest uptick that suggests demand is holding, though supply-side pressure may start to cap further gains. In the Atlantic, the South remains light on ballast traffic, offering some support, while the North Atlantic continues to tighten as we move into the second half of June. On C3, sentiment has cooled somewhat from the highs - CSN was reported fixing in the low USD 25s basis their terms, for mid July loading. While this reflects a firmer tone than recent benchmarks, forward momentum appears stalled for now.

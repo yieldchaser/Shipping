@@ -1,0 +1,26 @@
+---
+id: "3b189f7b-61b2-4727-bbf4-cb3b8768f3ef"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-10-08"
+year: 2025
+week: 41
+title: "Fearnleys Capesize Weekly Comment - 2025-10-08"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-10-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-10-08 (Week 41)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `3b189f7b-61b2-4727-bbf4-cb3b8768f3ef`
+
+---
+
+## Market Commentary
+
+Quieter start to the week on all basins due to Golden week and Korea off as well. Activity level picked up as we approached midweek. On the C5 front we see operators out for late Oct dates with miners present as well. Several forward enquires for Nov/Q4 as well. On the tonnage side, we see typhoon affecting vessel itineraries, causing an overall thinning of available tonnage 14-18 days out. This coupled with recovered activity midweek led to a steady climb to mid USD 9 pmt levels done. Other fronts of the pacific remain relatively quiet. On C3 ex Brazil and West Africa, we see enquiries for early up to mid November dates. Operators seem to be in risk averse mode. Offers are generally in the USD 24 pmt levels and up range, bids generally at sub USD 23 to sub USD 24 pmt levels. C3 remains quiet this week.

@@ -1,0 +1,26 @@
+---
+id: "118F9CEC-6D9B-4D63-ADC5-AA0EC276E275"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-07-12"
+year: 2023
+week: 28
+title: "Fearnleys Panamax Weekly Comment - 2023-07-12"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-07-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-07-12 (Week 28)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `118F9CEC-6D9B-4D63-ADC5-AA0EC276E275`
+
+---
+
+## Market Commentary
+
+The movement has picked up in the Atlantic with a good volume of activity both in the south and north of the basin with fronthaul rates in particularly returning solid improvements. Grain trips from USG to Qingdao region now see up to USD 47pmt. On the south side, grain being pumped out of ECSA is putting pressure on spot vessels, with delivery SE Asia round voyage trips via the Atlantic seeing USD 11,800 pd, a +14.41% uptick week to week. We heard BKI type has been covered at US20k (scrubber fitted) from Gibraltar, in which we shall see a more significant gain on the index in the upcoming days. The transatlantic has also seen fresh inquiries with minerals at an improved rate to the Continent but committed tonnage in USG and NCSA still at a discount to find cover. Asia, meantime, continued to be gapped on the bid/offer spread but has seen some improvement in activity.

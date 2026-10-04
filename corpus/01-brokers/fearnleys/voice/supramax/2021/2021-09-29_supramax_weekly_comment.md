@@ -1,0 +1,30 @@
+---
+id: "B0D9DE53-50D5-4428-9784-665D257EF668"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-09-29"
+year: 2021
+week: 39
+title: "Fearnleys Supramax Weekly Comment - 2021-09-29"
+---
+
+# Fearnleys Supramax Weekly Comment (2021-09-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2021-09-29 (Week 39)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `B0D9DE53-50D5-4428-9784-665D257EF668`
+
+---
+
+## Market Commentary
+
+The upward continue its rally also this week followed by big sizes, however not at the same pace. We can describe market as well balanced with some less activity due to upcoming Golden Week in China.
+
+**USG**
+
+ market is improving and rates slowly moving up. Supramax fixing around USD 35k pd and Ultras able to reach USD 40k pd for Atlantic trade. For trips to East, owners are able to achieve close to USD 50k pd - MV Ym Advance (63,509/2019) del USEC 1/15 Oct trip grains rdl China USD 50k. Market in ECSA is stable with limited fixing reports. Tess 58 was rumoured to fix USD 43k pd for one trip to Med. The Continent and Med market is more active this week with improved demand for scrap and clinker orders surfacing. Trip from Continent to USG/ECSA reporting to fix around USD 40k pd, while scrap paying premium around USD 42k pd. Far Eastern markets show resistance despite the pre-holiday mood, and the indexes are seeing only small gains. Supramax delivering North China fixed at USD 34k pd for a trip via the Russian Pacific port to China, while Ultramax delivering South East Asia able to obtain USD 41,500 pd for a trip via Indonesia to China. Australian trip paying low USD 40k pd on Ultramax and backhaul to the Atlantic around USD 35k pd.

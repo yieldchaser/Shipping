@@ -1,0 +1,26 @@
+---
+id: "1FF1CD3A-45FE-45AD-BF74-672DC76481BC"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-01-11"
+year: 2021
+week: 2
+title: "Fearnleys S&P Weekly Comment - 2021-01-11"
+---
+
+# Fearnleys S&P Weekly Comment (2021-01-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-01-11 (Week 2)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `1FF1CD3A-45FE-45AD-BF74-672DC76481BC`
+
+---
+
+## Market Commentary
+
+It has been a strong week for dry earnings, with Capesizes pushing above USD 26k/d from last week’s level of USD 17.5k/d. However, gains have been levelling out in recent days on the back of a very volatile paper market. The S&P activity is brisk across all segments with a large number of vessels transacted. Older Capesize values are the first to benefit from the newfound optimism which is well illustrated by the sale of OCEAN COMPASS (2006/Imabari/180kdwt) which achieved a price of Usd 17.5 mill this week. This appreciation in values for older units is not only supported by a firming chartering environment but also by strengthening demolition rates which is approaching USD 500/LDT. We expect this momentum to continue with sellers starting to raise their price expectations leaving an increasing amount of buyers competing over a thinning number of available candidates. Activity on the tanker front is limited to tonnage of around 10 year of age and older with a number of older crude carriers changing hands this week. Three sales to report in the VLCC sector where Navios Maritime has sold its NAVE CELESTE (2003/DSME/300kdwt) at Usd 25mill to Chinese buyers. Activity on the modern side remains subdued with weakening freight rates leading any potential seller to take a step back rather than face current bids by buyers looking to secure substantial discounts against last done.

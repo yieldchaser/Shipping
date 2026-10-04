@@ -1,0 +1,34 @@
+---
+id: "c88f8894-f922-4597-9ded-cd80f34c923f"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-01-24"
+year: 2024
+week: 4
+title: "Fearnleys Suezmax Weekly Comment - 2024-01-24"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-01-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-01-24 (Week 4)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `c88f8894-f922-4597-9ded-cd80f34c923f`
+
+---
+
+## Market Commentary
+
+East market has its own climate right now with firm sentiment continuing to spill over from events in the Red Sea.
+
+**MEG**
+
+/Malacca last traded at 130KT at WS 140 whilst MEG/Med last done remains 140KT x WS105 (via cape). There's a degree of self sanctioning by Charterers when it comes to transitting the Suez canal but no shortage of Owners happy to take up that challenge, albeit for a premium.
+
+**Atlantic**
+
+ is in free fall with rates yet to bottom out. Without the US Gulf support, there is unlikely to be a turn around this week.

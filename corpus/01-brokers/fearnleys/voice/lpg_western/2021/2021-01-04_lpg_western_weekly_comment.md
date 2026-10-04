@@ -1,0 +1,26 @@
+---
+id: "4F7B8485-A9E9-4F1E-96B8-BBA337DDF79B"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2021-01-04"
+year: 2021
+week: 1
+title: "Fearnleys LPG Western Weekly Comment - 2021-01-04"
+---
+
+# Fearnleys LPG Western Weekly Comment (2021-01-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2021-01-04 (Week 1)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `4F7B8485-A9E9-4F1E-96B8-BBA337DDF79B`
+
+---
+
+## Market Commentary
+
+AMERICAS A lesser than expected 2.4 million barrel draw occurred in US propane inventories for the week ended January 1st 2021. This was below expectations of 3 million barrels and importantly the export figure for the week was only just above 1 million barrels per day. The recent record level of LPG exports has renewed fears of insufficient domestic inventory to see out the winter. If draws averaging 3 million barrels a week occur until build season (1st week of April, 12 weeks) we will be left with 37 million barrels in inventories. Tight! This fear pushed Mt Belvieu propane up to 70% WTI before Saudi Aramco announced they would cut oil production by 1 million barrels per day from Feb 1st. Lack of VLGC availability is set to leave US export tons unsold in January. A double whammy of reducing export volumes and building inventories. The question is will Mt Belvieu propane value strengthen so much as to destroy demand, or will US inventories remain manageable and keep propane arbs open?

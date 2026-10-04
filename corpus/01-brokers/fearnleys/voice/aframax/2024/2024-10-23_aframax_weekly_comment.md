@@ -1,0 +1,26 @@
+---
+id: "c9617a62-bef5-4fe8-81aa-cef378070e83"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-10-23"
+year: 2024
+week: 43
+title: "Fearnleys Aframax Weekly Comment - 2024-10-23"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-10-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-10-23 (Week 43)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `c9617a62-bef5-4fe8-81aa-cef378070e83`
+
+---
+
+## Market Commentary
+
+A combination of vessels ballasting leaving a tighter list and a relatively active spot market for end/early dates has seen X-North Sea firm up 25 points since this time last week. Pushing into November stems, and with levels giving much improved returns, we may not see as much ballasting out in the short term and natural tonnage will come back into the frame which should rebalance the available tonnage. Small correction on the benchmark of TD19 to equal Suezmax levels that have capped the Aframaxes. Tonnage list is still well populated with quite a few different owners and vessels up until the end of the month. November dates in North Africa slowly coming into play, and the 2nd decade ex CPC is also anticipated. Some relets are being utilized on own cargoes.

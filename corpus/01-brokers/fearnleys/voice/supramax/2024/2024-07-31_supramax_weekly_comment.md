@@ -1,0 +1,26 @@
+---
+id: "f048b0c5-48cb-4902-a332-5bb47ee4d85f"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-07-31"
+year: 2024
+week: 31
+title: "Fearnleys Supramax Weekly Comment - 2024-07-31"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-07-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-07-31 (Week 31)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `f048b0c5-48cb-4902-a332-5bb47ee4d85f`
+
+---
+
+## Market Commentary
+
+This week, the Supramax and Handysize markets experienced subdued activity across all regions. In the Atlantic basin, the Supramax market remained lacklustre with minimal fresh inquiries, particularly in the US Gulf where rates faced negative pressure. The South Atlantic also saw reduced interest and weakening rates with a few fixtures reported close to last done levels. Similarly, the Handysize segment reported limited action, though there were indications of slight resistance from owners in the Continent. The Asian markets for both vessel sizes experienced a decline due to a lack of fresh inquiries, with both owners and charters adopting a 'wait and see' approach. The Indian Ocean saw a bit more activity for Supramax sizes with sulphur shipments driving the market, but it has not significantly impacted the overall market sentiment. The general mood was cautious, with limited new fixtures and mixed opinions about potential upward pressure in specific regions.

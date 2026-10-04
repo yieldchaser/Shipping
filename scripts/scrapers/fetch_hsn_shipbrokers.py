@@ -110,6 +110,8 @@ def identify_broker(title, text):
         return "optimaship"
     elif "anchor" in t_lower:
         return "anchor_shipbroking"
+    elif "market dimensions" in t_lower or "fearnleys-md" in t_lower or "fearnleys md" in t_lower:
+        return "fearnleys-md"
     elif "fearnleys" in t_lower or "fearnley" in t_lower:
         return "fearnleys"
     elif "ssy" in t_lower or "simpson spence" in t_lower:

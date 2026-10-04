@@ -1,0 +1,30 @@
+---
+id: "1E407D7D-9CDB-4887-AED2-721345EE80FE"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2020-07-02"
+year: 2020
+week: 27
+title: "Fearnleys LPG Eastern Weekly Comment - 2020-07-02"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2020-07-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2020-07-02 (Week 27)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `1E407D7D-9CDB-4887-AED2-721345EE80FE`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco has raised up July CP to $360 for propane and $340 for butane, up by $10 respectively. Most players reckon the number is higher than expectation. Aug CP is traded at $334 on Thurs. QP issued sale tender to market a 3/1 cargo for 4th to 7th Aug lifting, and previously it was reported to sell two end July delivery heavy propane. KPC also issued tender to sell one 1/2nd Aug lifting 3/1 yet to hear the result.
+
+**FAR EAST**
+
+ LPG cracking demand continuously improved especially butane is favored by Korean petchem users. One Korean importer reportedly bought one 2/2 for 1h Aug delivery this week, and meanwhile it also issued purchasing tender for monthly 23kt butane parcels delivered from Sep onwards to Nov or next Feb. One Japanese Oil Company issued close tender to sell an Australia origin heavy propane cargo for Aug delivery. Indonesia Pertamina issued new buy tender to secure another equal ratio cargo for Sep delivery or 24th Jul to 22th Aug lifting ex US, valid by this Friday. China May LPG import exceeded 2mmt, up by 20% from April. However, June arrival is estimated with a big draw upto 460kt due to high inventory and slow consumption. 1H 2020 import is expected to decline by 12% or 1mmt.

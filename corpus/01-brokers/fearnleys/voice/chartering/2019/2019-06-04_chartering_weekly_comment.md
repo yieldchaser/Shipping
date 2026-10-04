@@ -1,0 +1,26 @@
+---
+id: "C5995C4D-9CB6-4BC4-8438-9841CE5F015C"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-06-04"
+year: 2019
+week: 23
+title: "Fearnleys Chartering Weekly Comment - 2019-06-04"
+---
+
+# Fearnleys Chartering Weekly Comment (2019-06-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2019-06-04 (Week 23)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `C5995C4D-9CB6-4BC4-8438-9841CE5F015C`
+
+---
+
+## Market Commentary
+
+The momentum in the freight market from last week has continued into this week, and shipping availability for current fixing window i.e. end June remains relatively tight. Most of the activity has been on the back of shipping demand from Indian majors, and last done rates are now trailing in the USD high 60s pmt Baltic. Going forward we are waiting for July acceptances from most of the Middle Eastern suppliers, and we expect the market to cool off a little bit in the coming days. Although there has been some inquiries and some fixing activity too, the VLGC market in the western hemisphere has to be described as somewhat subdued this week. At least so for the beginning of the week, as we do now see some increased interest. Levels discussed so far this week, indicate that the western market is trading with a small premium to the Eastern Baltic benchmark, although not more than say 2-3% at the time of writing. We do believe this will carry on, as there are some uncovered cargoes out of the US Gulf during 1st half of July, and vessel supply is generally tight.

@@ -1,0 +1,26 @@
+---
+id: "b6455d35-ca10-47da-b040-a20ceb26826c"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-09-06"
+year: 2023
+week: 36
+title: "Fearnleys Supramax Weekly Comment - 2023-09-06"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-09-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-09-06 (Week 36)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `b6455d35-ca10-47da-b040-a20ceb26826c`
+
+---
+
+## Market Commentary
+
+The Supramax market is slowly gaining its confidence. The Pacific market remains stable however the Atlantic is paying reasonable premiums to last done. All main loading areas in the Atlantic see big demand for September tonnage. In Asia, due to the recent typhoon in the southeast region, many ships needed to be replaced for those ships missing cancellation date. Rates were very much mixed depending on the position and ships able to make laycan. Period activity picked up as charters interest increased, as we saw more demand for good spec tonnage in the Atlantic. Owners are asking for a premium for Atlantic delivery. The Darya Mira 61’ dwt opened in Finland on 6/11 September, fixed for a trip redelivery Singapore-Japan range with grains at USD 17,500 to Lighthouse Navigation. The Bulk Prudence 61’ dwt open Gresik 2 September was reported fixed for a trip via West Australia redelivery Vietnam with grains at USD 14,000 to Western Bulk.

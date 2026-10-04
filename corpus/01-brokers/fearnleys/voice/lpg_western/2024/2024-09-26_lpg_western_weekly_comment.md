@@ -1,0 +1,26 @@
+---
+id: "5bee8236-2753-4a93-a293-b8c78b2376e2"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2024-09-26"
+year: 2024
+week: 39
+title: "Fearnleys LPG Western Weekly Comment - 2024-09-26"
+---
+
+# Fearnleys LPG Western Weekly Comment (2024-09-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2024-09-26 (Week 39)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `5bee8236-2753-4a93-a293-b8c78b2376e2`
+
+---
+
+## Market Commentary
+
+AMERICAS The combination of domestic NGL production, (effectively) capped exports and corresponding inventory levels has had an impact on MB propane prices, which are off by more than 6cpg (or ~$33/mt) since the beginning of September. However, the relationship to crude oil seems to show that propane has consistently aligned itself less on the fundamentals and more alongside WTI, the ratio of which continues to be maintained in the 41-43% range. Meanwhile, as to the inventories, the market was taken aback yesterday as the EIA reported a 1.5mmbbl decline in stocks to an overall total of 97.60mmbbls, or 96% of last year, and 118% of two years ago. The market had mostly been anticipating a small build more in line with the 5-yr historical build rate of ~475,000bbls. Terminal fee offers continue to be robust, though buy side interest has rarely peaked above what seems to be the psychologically important 30ct/gal threshold. NWE An array of competing factors makes it difficult to summarize the current NWE propane market or make clear of what’s to come. As we approach the tail end of what looks to be a record setting month for imports into the region (680,000mt) the economic incentive to crack propane over naphtha sits at its lowest of the year. The propane/naphtha spread ended Tuesday for September at -$53/mt, all while the North Sea processing facilities - both on and offshore - grapples with unplanned delays as they come out of a period of maintenance. Due to the delays in the North Sea upstart, it is expected that October will mandate yet another month of significant delivers from the US.

@@ -1,0 +1,26 @@
+---
+id: "C4D8A294-CCBB-431B-805B-D7C3572CD911"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-08-24"
+year: 2020
+week: 35
+title: "Fearnleys Aframax Weekly Comment - 2020-08-24"
+---
+
+# Fearnleys Aframax Weekly Comment (2020-08-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2020-08-24 (Week 35)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `C4D8A294-CCBB-431B-805B-D7C3572CD911`
+
+---
+
+## Market Commentary
+
+In the North Sea and Baltic the Aframax owners have suffered from very few available market cargoes for end August and early September dates. Rates are hovering around bottom levels giving Owners a very low TCE just above operational expenses. Despite some bad weather in the area causing some delays we expect the market to move sideways in the first decade of September before we will see any improvement on rates. Also in the Mediterranean and Black Sea the market has continued to move sideways at levels below OPEX. Activity out of the Bsea and Emed has been healthy, however there are still too many prompt ships around to create a firming trend. Although we have reached cargo programs for September, we still expect the market to remain flat in the current fixing window.

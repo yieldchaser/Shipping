@@ -1,0 +1,26 @@
+---
+id: "9674fb79-4dbc-4a6a-98f7-563f6f49ac53"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-10-02"
+year: 2024
+week: 40
+title: "Fearnleys Aframax Weekly Comment - 2024-10-02"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-10-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-10-02 (Week 40)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `9674fb79-4dbc-4a6a-98f7-563f6f49ac53`
+
+---
+
+## Market Commentary
+
+North Sea market remains an area of limited activity with the natural working window pushing into the 2nd decade of October. With the prospect of production in Libya due to resume and a volatile US market, available vessels for North Sea business will reduce as vessels ballast out of the region for better returns. A thinning position list means freight levels will come under pressure and with some activity and vessels heading out there is potential for further rises. Owners have drawn a line in the sand of the Mediterranean in anticipation of a return of Libyan production. The tonnage list is still balanced with stable activity in the region, but with the surging USG market already attracting ballasters from West Mediterranean, if supply was to surge, then we might suddenly find ourselves in a tighter position, especially for uncompromised vessels.

@@ -1,0 +1,26 @@
+---
+id: "29d3905e-8504-4e54-8963-29bff024a83b"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-07-01"
+year: 2026
+week: 27
+title: "Fearnleys Aframax Weekly Comment - 2026-07-01"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-07-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-07-01 (Week 27)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `29d3905e-8504-4e54-8963-29bff024a83b`
+
+---
+
+## Market Commentary
+
+North Sea North Sea so far this week has seen almost no Aframax activity. The first decade of July is almost covered with a combination of Suez and relets taking what was on paper a light decade stem wise. Rates will be tested by charterers. Surrounding markets have been steady although not overly inspiring for owners. Ballasting out of the North Sea if you have missed the dates is still the option to take. Mediterranean One step forward two steps back feels to be the situation for the Mediterranean market where activity remains healthy, tonnage list has shortened in a way but still a bunch of vessels prompt. Days keep pushing ahead and we slowly reaching mid-July dates for all ports. As a correction is expected or rumoured done already in the US market, the future doesn't look promising for European markets either.

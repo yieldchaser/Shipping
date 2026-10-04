@@ -1,0 +1,26 @@
+---
+id: "7360D3A0-5208-4DED-B182-5317CE3DD63D"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-01-10"
+year: 2023
+week: 2
+title: "Fearnleys Suezmax Weekly Comment - 2023-01-10"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-01-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-01-10 (Week 2)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `7360D3A0-5208-4DED-B182-5317CE3DD63D`
+
+---
+
+## Market Commentary
+
+The global Suezmax market looks to have bottomed and is now exhibiting modest upside in most load-zones. In the East, a continual flow of prompt Fuel Oil tenders continues to trim the early side of the list with rumours of one such fixture attaining WS 180 (2022) for an East run. Conversely, the natural window is not so generous as there has been some partial cannibalization of rates from VLCCs on short-voyage India deals, which leaves a long East in need of a proper test. In the West, firmer Aframax markets in the Mediterranean and USG have added some much needed support with TD6 likely to trade WS 170's, purely on the back its smaller relatives success. TD20 has been caught in the middle of the Med' Afra' crossfire and a number of Suezmax have been taken on part cargo which has significantly tightened the WAFR list.

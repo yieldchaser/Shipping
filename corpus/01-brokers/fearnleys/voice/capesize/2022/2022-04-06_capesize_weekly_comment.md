@@ -1,0 +1,26 @@
+---
+id: "4BC512B8-744F-420E-8729-70A2418E0660"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-04-06"
+year: 2022
+week: 14
+title: "Fearnleys Capesize Weekly Comment - 2022-04-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-04-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-04-06 (Week 14)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `4BC512B8-744F-420E-8729-70A2418E0660`
+
+---
+
+## Market Commentary
+
+Levels for the big ships dipping further as slow port turnaround/increased congestion remains insufficient to compensate for markedly lower mineral volumes traded compared to same period last year. Daily average earnings down 10 pct w-o-w to come in at USD 12k. Pain most acutely felt in Pacific, where values for rounds have fallen by 45 pct over last 5 trading days as fresh coal and in particular iron ore activity has been uninspiring. Transatlantic rates are steady in comparison, but with relevant quantities too insignificant to make much difference. Fronthaul trades remain a reflection of main Brazilian miners being far behind production and export guidance. Market generally (still) very much in contango, with keen interest in period candidates of virtually all size and colour - exemplified by vintage unit 171,000 dwt, built 2003, recently done for rest of 2022 at USD 25k.

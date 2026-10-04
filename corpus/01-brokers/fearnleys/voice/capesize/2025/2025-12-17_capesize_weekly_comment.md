@@ -1,0 +1,26 @@
+---
+id: "ca49f757-66fa-49cf-a3ad-f655eced8867"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-12-17"
+year: 2025
+week: 51
+title: "Fearnleys Capesize Weekly Comment - 2025-12-17"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-12-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-12-17 (Week 51)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `ca49f757-66fa-49cf-a3ad-f655eced8867`
+
+---
+
+## Market Commentary
+
+The segment has shown firming tendencies in the last days, primarily led by Atlantic strength and steady Pacific support. Brazil demand and tightening tonnage lists have been key catalysts, while miner activity in the Pacific maintained stability. Spot benchmarks climbed, with C5TC moving into the low USD 30k range and C3 advancing sharply on robust Brazil flows. Fixtures like Tubarao/China at USD 25 and Kamsar/China at USD 26.50 reinforced bullish sentiment. Going forward, bearish seasonality should kick in so we expect the downtrend to resume.

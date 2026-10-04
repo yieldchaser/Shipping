@@ -1,0 +1,34 @@
+---
+id: "2b4658aa-0bee-426b-b640-0efd50b779c7"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-04-17"
+year: 2024
+week: 16
+title: "Fearnleys VLCC Weekly Comment - 2024-04-17"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-04-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-04-17 (Week 16)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `2b4658aa-0bee-426b-b640-0efd50b779c7`
+
+---
+
+## Market Commentary
+
+A lackluster week in the MEG, as the week straddled the April and May cargo dates. As we awaited stem confirmations, the market has remained in the low WS 60’s. Present levels seem to be a happy medium. However, at the time of writing, charterers active/live in the market are moving slowly, countering up the WS 50’s in an effort to drag rates down. A brave game, certainly if there is any early May rush to come. As for the Atlantic, we see very few Eastern ballasters at present, and the list can be described as ‘a little tight’.
+
+**USG**
+
+/East activity picked up approx USD 250k over the week but has since quietened.
+
+**USG**
+
+/Ningbo rates at the USD 8.65m level, done a couple of times, with a few cargoes still working/reported. Shell has been active from Brazil, reportedly taking 4 ships for first half May, but being “old news” not having an effect. It is likely busier than it seems on the surface, with 4-5 ships rptd on subs, no details. Lethargic, but not without hope.

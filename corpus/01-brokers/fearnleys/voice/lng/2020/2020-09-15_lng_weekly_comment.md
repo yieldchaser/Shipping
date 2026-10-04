@@ -1,0 +1,26 @@
+---
+id: "3DBD5060-0E4A-4151-BA98-6F5D4A88C4B5"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-09-15"
+year: 2020
+week: 38
+title: "Fearnleys LNG Weekly Comment - 2020-09-15"
+---
+
+# Fearnleys LNG Weekly Comment (2020-09-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-09-15 (Week 38)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3DBD5060-0E4A-4151-BA98-6F5D4A88C4B5`
+
+---
+
+## Market Commentary
+
+Its been a relatively quiet week in the LNG shipping markets. US cargo cancellations on the back of hurricane Laura continue to keep the spot market in check. The increase in sublet availability has put a cap on how much Owners can ask for prompt shipping opportunities in the Atlantic and at the same time uncertainty around US production puts a restriction on what such sublet vessels are able to do on periods, which may support shipping rates 4-6 weeks out. Should US production pick up quicker and earlier than anticipated, this could result in a kickstart for the LNG winter season in the Atlantic. We have seen more activity east of Suez and vessel availability is date sensitive, but rate levels in general remain stable also there. There is limited activity at yards for many shipping segments and newbuild prices remain stable while second-hand values are soft for vintage vessels. BP’s 2020 Energy Outlook was published this week and the LNG section is worth a read.

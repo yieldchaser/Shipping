@@ -1,0 +1,26 @@
+---
+id: "1dcec468-f0d6-4822-8cdb-1618ec097aa5"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-10-29"
+year: 2025
+week: 44
+title: "Fearnleys Capesize Weekly Comment - 2025-10-29"
+---
+
+# Fearnleys Capesize Weekly Comment (2025-10-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2025-10-29 (Week 44)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `1dcec468-f0d6-4822-8cdb-1618ec097aa5`
+
+---
+
+## Market Commentary
+
+On the C5 front, we see enquiries for miners and operators for early/mid November dates. Volumes out of East Australia remain flat from last week with a tick up in enquiries from others fronts of the pacific. On C3 ex Brazil and West Africa, focus is on end November dates with some exchanges for early December. Ballasting tonnage is heavily weighted on second half of November with some prompt ships. Spot tonnage out of Far East is accumulating due to overall lower pacific fixing volumes this week. Fixtures concluded at low-mid USD 9 pmt levels by midweek and mid USD 22 pmt levels is traded on C3.

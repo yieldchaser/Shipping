@@ -1,0 +1,26 @@
+---
+id: "51A49ABB-1D45-4C01-B85B-367E0DF3E2B7"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-02-11"
+year: 2019
+week: 7
+title: "Fearnleys Panamax Weekly Comment - 2019-02-11"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-02-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-02-11 (Week 7)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `51A49ABB-1D45-4C01-B85B-367E0DF3E2B7`
+
+---
+
+## Market Commentary
+
+The first positive week in a while, as the rates increased in both basins after Chinese New Year. A transatlantic round voyage still pays shipowners around USD 2500, while a short fronthaul from the continent yields around USD 10,500. In the east, a transpacific round yields around USD 5,500. The BPI 4TC-index is up 58 points to 611.

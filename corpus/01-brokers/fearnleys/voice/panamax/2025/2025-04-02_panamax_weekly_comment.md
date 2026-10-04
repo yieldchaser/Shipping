@@ -1,0 +1,26 @@
+---
+id: "6e7969af-8e1b-4b64-a3a7-535a5f8bc4ee"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-04-02"
+year: 2025
+week: 14
+title: "Fearnleys Panamax Weekly Comment - 2025-04-02"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-04-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-04-02 (Week 14)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `6e7969af-8e1b-4b64-a3a7-535a5f8bc4ee`
+
+---
+
+## Market Commentary
+
+The Panamax market is approaching a key turning point, as the imminent second wave of ECSA soybean exports is expected to provide near-term support and help sustain current levels. However, the Atlantic is showing early signs of softness, notably with diminishing mineral demand and rising tonnage in the North Atlantic, which contrasts somewhat with stable grain-driven activity further south. The Pacific presents a more mixed outlook, with holiday-induced inactivity and declining cargo interest from NoPac and Australia creating uncertainty, despite owners still resisting lower rates. While fundamentals remain relatively balanced and immediate downside risk limited due to thin ballast availability toward ECSA, macroeconomic headwinds, lower year-on-year coal shipments, and fading U.S. grain activity suggest cautious market sentiment and potential gradual weakening beyond the current seasonal peak.

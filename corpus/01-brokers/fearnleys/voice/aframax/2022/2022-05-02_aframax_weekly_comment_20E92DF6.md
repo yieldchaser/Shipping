@@ -1,0 +1,26 @@
+---
+id: "20E92DF6-11FC-4908-BD84-30B9E0258EB6"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2022-05-02"
+year: 2022
+week: 18
+title: "Fearnleys Aframax Weekly Comment - 2022-05-02"
+---
+
+# Fearnleys Aframax Weekly Comment (2022-05-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2022-05-02 (Week 18)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `20E92DF6-11FC-4908-BD84-30B9E0258EB6`
+
+---
+
+## Market Commentary
+
+The Aframax market in the North Sea and Baltic started on a quiet note this week with more tonnage piling up due to less cargo activity. Going forward we expect rates to be under downward pressure. We might see some owners ballast away heading towards the Mediterranean which are showing some more promising trends compared to its neighboring North Sea market. The Med/Bsea market has moved more or less sideways for most of the week with ships being fixed at repeat levels. However, as talks of FM being lifted in Libyan ports is flourishing this week there is a firm undertone among owners. At the same time we have seen a few stems being worked ex Bsea now, and we expect the firm trend to continue into next week.

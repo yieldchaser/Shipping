@@ -1,0 +1,30 @@
+---
+id: "F72E7976-5B72-4F6F-AD60-FB0C25EBF049"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-09-16"
+year: 2019
+week: 38
+title: "Fearnleys Supramax Weekly Comment - 2019-09-16"
+---
+
+# Fearnleys Supramax Weekly Comment (2019-09-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2019-09-16 (Week 38)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `F72E7976-5B72-4F6F-AD60-FB0C25EBF049`
+
+---
+
+## Market Commentary
+
+The softening sentiment has spread throughout the markets and confidence of the right direction is lacking. The dry bulk index rates moving south slowly and the FFA market struggling to find ground for Q4. Indo coal trips from China via South East Asia kept good activity level and we have seen rates been steady around USD 12,000s’ pd levels on Supramaxes. And higher levels on the same trade for Ultramaxes at mid USD 10,000’s pd levels Majority of Indonesian trips into India are being fixed in the usd 12,000/13,000 pd range basis DOP delivery Singapore- South China range. PG and Indian Ocean was fixing in the mid/high USD 12,000’s pd range. Clinker and Gypsum from Mediterranean Spanish trip into West Africa was fixed at USD 17, 000 on Supra.
+
+**Black Sea**
+
+ grains to China was rumoured fixed USD 32,000 for Ultramax .

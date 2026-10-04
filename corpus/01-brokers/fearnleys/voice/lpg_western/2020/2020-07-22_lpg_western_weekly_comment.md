@@ -1,0 +1,26 @@
+---
+id: "82A9702F-B348-4335-8962-AFBCA8C3FF0A"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2020-07-22"
+year: 2020
+week: 30
+title: "Fearnleys LPG Western Weekly Comment - 2020-07-22"
+---
+
+# Fearnleys LPG Western Weekly Comment (2020-07-22)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2020-07-22 (Week 30)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `82A9702F-B348-4335-8962-AFBCA8C3FF0A`
+
+---
+
+## Market Commentary
+
+AMERICAS The build of 2 million barrels in US inventories for the week ended July 17th firmed Mt Belvieu propane values slightly. Domestic propane production is averaging 2.223 million barrels per day. This consistent production has been higher than expectations, and should begin to restore confidence in building sufficient stocks before draw season. Exports have also been consistent averaging 1.094 million barrels per day over the past four weeks. Strengthening FEI has been improving arb while rapidly rising freight rates have been keeping netback values stable from the US. So although terminalling fees may still be in the 5-6cpg region for US August FOBs positive momentum has returned to the market.

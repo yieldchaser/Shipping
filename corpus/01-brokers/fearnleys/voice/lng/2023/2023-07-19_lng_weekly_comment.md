@@ -1,0 +1,26 @@
+---
+id: "20ef5176-bec1-4eb9-9ba7-9499b2276e55"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-07-19"
+year: 2023
+week: 29
+title: "Fearnleys LNG Weekly Comment - 2023-07-19"
+---
+
+# Fearnleys LNG Weekly Comment (2023-07-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-07-19 (Week 29)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `20ef5176-bec1-4eb9-9ba7-9499b2276e55`
+
+---
+
+## Market Commentary
+
+It has been another week in the doldrums for the spot market, as both basins defied all efforts to stimulate business. The scarcity of requirements is the central theme and with the fixing window now reaching well into September (and beyond!) prompt rates remain at relatively soft levels. However, LNG prices in Asia moved up slightly off the back of competition with European buyers as temperatures across much of the Northern Hemisphere sit at significantly elevated levels. The Arb is open and there seems to be some improvement on the contango into the Winter months too. The culmination of these factors is likely to bolster interest and should increase activity levels in the short term; so whilst the current situation is challenging for the spot market, demand for multi-month and long-term remains steady, with charterers still seeking coverage into winter and longer. No newbuilding orders or ship sales have been reported this week.

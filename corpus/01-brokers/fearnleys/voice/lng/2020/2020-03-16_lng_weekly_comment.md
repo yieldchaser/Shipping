@@ -1,0 +1,26 @@
+---
+id: "24566FFD-4865-4A9E-80AC-9327C43759E7"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-03-16"
+year: 2020
+week: 12
+title: "Fearnleys LNG Weekly Comment - 2020-03-16"
+---
+
+# Fearnleys LNG Weekly Comment (2020-03-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-03-16 (Week 12)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `24566FFD-4865-4A9E-80AC-9327C43759E7`
+
+---
+
+## Market Commentary
+
+With ongoing events affecting most of the global economic markets, LNG shipping firmed up this week. Rates in the Atlantic have turned and we’re now seeing an uptick, and although the Pacific didn’t see quite the gains that the Atlantic did due to prompt tonnage still lingering in the basin, fundamentals are growing stronger and the floor feels like it has been found for now. Sentiment from Owners is likely to rally off the back of stronger voyage economics, but the requirements are needed to back this up: the Atlantic was supported by a spate of enquires for US Gulf cargoes while the Pacific was a little quieter. On the cargo side, China is likely to need higher imports in the short term as the country begins its recovery, as many head back to work and industrial demand increases. This could see growth in spot opportunities over the next couple of months. One growing concern though, is that with China now appearing to recover from COVID-19, could we see the country impose restrictions on inbound trade from regions with ongoing infections? There were no newbuilding orders this week but yard prices have come down reflecting a strong US Dollar. Staying with the yards we’ve yet to see the full impact of the ongoing situation: disruption to supply chains and workplace restrictions put in place for the yard workers, there may be delays to deliveries ahead. With COVID-19 now affecting most of the globe, we hope that you and your families, and those of the seafarers we rely on across all sectors, all stay safe and healthy.

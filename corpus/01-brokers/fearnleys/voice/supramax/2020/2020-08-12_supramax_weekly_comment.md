@@ -1,0 +1,30 @@
+---
+id: "BD83E8A1-6E32-46DE-8F4C-B590E385D948"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-08-12"
+year: 2020
+week: 33
+title: "Fearnleys Supramax Weekly Comment - 2020-08-12"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-08-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-08-12 (Week 33)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `BD83E8A1-6E32-46DE-8F4C-B590E385D948`
+
+---
+
+## Market Commentary
+
+Firm market across the Atlantic with activity stronger in the Bsea. Thin tonnage list on the Continent, leading to pressure on rates. The Far Eastern market is more moderate and flat. From USG fh paying mid 20's and high teens for TA.
+
+**Black sea**
+
+ market pushing hard where backhaul to USG is paying USD 10000, Wafr trip around USD 17000 and fh roughly USD 24000. In the Indian Ocean, Safr/Feast concluding in the around USD 12500+250k gbb and WCI to Seasia via Ag, around USD 12000. In the Feast more moderate levels are discussed CIS rv back to China mid USD 6000 and Nopac rv around USD 8000.

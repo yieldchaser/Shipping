@@ -1,0 +1,26 @@
+---
+id: "D2B20D07-6C92-4251-B208-C76F0BA0DE8B"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-05-30"
+year: 2022
+week: 22
+title: "Fearnleys Panamax Weekly Comment - 2022-05-30"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-05-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-05-30 (Week 22)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `D2B20D07-6C92-4251-B208-C76F0BA0DE8B`
+
+---
+
+## Market Commentary
+
+A week with a muted start but the Panamax market continued to hold a cloud of vulnerability as further weakening of rates continued. Little positive news surfacing. Some representative fixtures this week: Guo Yuan 16 (75,915/2012) Vizag 2/7 Jun tct via ECSA redel Spore-Japan USD 26,000 – Cargill. Magic Twilight (80,283/2010) (ST Shipping) Amsterdam 1 Jun fxd nfd. TBN 70,000/10 coal Bolivar/Tarragona 20/29 Jun SC/25,000SC USD 24.40 fio – Enel. Marco (81,393/2009) Yeosu 29 May tct via NoPac redel Spore-Japan USD 22,000 – cnr. Sirocco (81,610/2014) Taiwan tct via Indonesia redel Malaysia USD 20,000 – cnr.

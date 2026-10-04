@@ -1,0 +1,30 @@
+---
+id: "5b0464b8-5bda-41c2-abe5-9f45a95c8204"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-29"
+year: 2023
+week: 48
+title: "Fearnleys VLCC Weekly Comment - 2023-11-29"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-11-29 (Week 48)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `5b0464b8-5bda-41c2-abe5-9f45a95c8204`
+
+---
+
+## Market Commentary
+
+A week that has flattered to deceive. The fundamentals were there for a jump in rates - a tight list, strong sentiment, a reawakening Venezuela - but a combination of levelheaded chartering and the tactic of working in the shadows has enabled rates to stay pretty stagnant with perhaps a small, gentle uptick. In the MEG, we saw reports of a Unipec TD3C run at WS 69, but so far proved unfounded. Lower numbers have been agreed on better freighting voyages to Vietnam, or vessels on the cusp of 15 years. December cargo count has crept up to 75+, so we well over halfway, but likely unobserved deals have skewed this total lower than what is perhaps correct. A number of ships reported fixing ex Venezuela have assisted a lackluster USG market. One deal reported Venezuela/China at USD 11m, so a USD 1m premium on the USG. How long this premium lasts is a debate as more owners willing the call.
+
+**West Africa**
+
+ quieter on the whole but the list of natural vessels in the Atlantic is tight, and getting tighter. Opec+ meeting tomorrow and oil prices moving upwards. Someone spooked perhaps, but any increased cut seems unlikely, as African producers and the UAE keen to increase. Let's see tomorrow.

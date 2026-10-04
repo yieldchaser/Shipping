@@ -1,0 +1,26 @@
+---
+id: "601466bb-a048-4deb-ba87-2781cf5f558d"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-05-28"
+year: 2025
+week: 22
+title: "Fearnleys VLCC Weekly Comment - 2025-05-28"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-05-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-05-28 (Week 22)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `601466bb-a048-4deb-ba87-2781cf5f558d`
+
+---
+
+## Market Commentary
+
+VLCC activity has been slow in the week gone by, at least on the surface, and oil company/trader relets have led the charge in pushing rates down in all areas. A lot of reported internal programming by charterers, China Inc “Uber” bookings, and position lists still littered with relets has left, at least a perception, that there’s less to choose from for the independent owning community. Add to that a scarcely populated cargo board from where we’re at on the curve and we’re on the verge of ”catching a falling knife” territory, if not already there. Further downward potential evident: eyes closed, nose pinched, going once…

@@ -1,0 +1,26 @@
+---
+id: "3887DB55-60F5-4913-99C0-8FAC8BE5DF03"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2020-09-07"
+year: 2020
+week: 37
+title: "Fearnleys Suezmax Weekly Comment - 2020-09-07"
+---
+
+# Fearnleys Suezmax Weekly Comment (2020-09-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2020-09-07 (Week 37)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `3887DB55-60F5-4913-99C0-8FAC8BE5DF03`
+
+---
+
+## Market Commentary
+
+The Suezmax market is still struggling, and last week was the lowest year-to-date on TD20. Some owners were willing to go as low as low WS 30's, but it quickly bounced back to WS 40 this week. Not saying that the market is looking much better, but pointing more towards the levels from last week not close to being sustainable. It has been more activity this week though, but with a tonnage-list longer than we have seen in several months, the fundamentals not there to move this market further. Same apply for the East market. With a 30-day tonnage count close to 150 ships, the market is at the bottom, and it is likely to stay there for some time.

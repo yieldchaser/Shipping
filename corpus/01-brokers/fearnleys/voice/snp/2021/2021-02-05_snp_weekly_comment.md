@@ -1,0 +1,26 @@
+---
+id: "0AD87C97-F038-46CC-B854-7EC8096EF793"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-02-05"
+year: 2021
+week: 5
+title: "Fearnleys S&P Weekly Comment - 2021-02-05"
+---
+
+# Fearnleys S&P Weekly Comment (2021-02-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-02-05 (Week 5)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `0AD87C97-F038-46CC-B854-7EC8096EF793`
+
+---
+
+## Market Commentary
+
+With the announcement that Star Bulk acquired 3xUltramaxes and 4xKamsarmaxes from Scorpio in a cash and stocks deal and that the remaining 3xUltramaxes are rumoured to be committed, Scorpio is finally exiting the dry bulk segment. There has been rising prices throughout the sales process the last few months on the back of an increasingly bullish sentiment on dry. For comparison, the SBI ZEUS 2016/Mitsui/60kdwt was sold for Usd 18.5 mill end October while the SBI CRONOS 2015/I-S/60kdwt was sold this week for Usd 19.6 mill. This represents at least an increase of 10% in the midst of a grand sell off, which really support the dry story. The straightening of the depreciation curve is in full motion, but further big increases on values would have to come from rising resale prices. The sale of URSULA MANX 2021/TESS-Zhoushan/82kdwt this week and UNA MANX 2021/TESS Zhoushan/82kdwt reported last week at Usd 29.5 mill each demonstrate that resale prices are still hovering around newbuilding prices. GNMTC of Libya has acquired two more scrubberfitted LR2 newbuilding resales after its recent purchase of a similar resale just delivered from a Japanese builder. The last two vessels will very soon be delivered ex Cosco Shipyard and the price of Usd 52.5 mill each is about 5% lower than the first deal which one would expect as a minimum when comparing Japan vs China yard pricing. Whilst GNMTC might be considered an “exotic” buyer we certainly subscribe to this being a market deal and underlines where ask levels are for brand new tonnage. Goal posts may quickly be moved in what is becoming a sellers’ market for brand new ships, despite the present dire state of the spot market. Values for older/vintage VLCC are still holding up nicely, but the other crude segments of this age have a more brutal reality check with the majority of enquiries being for the 8-10 year old crude and LR2 tankers. Bets will continue to be placed on a rebound of fortunes come 2nd half/end 2021 and into 2022.

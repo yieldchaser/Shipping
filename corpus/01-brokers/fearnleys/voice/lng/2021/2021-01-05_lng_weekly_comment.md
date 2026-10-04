@@ -1,0 +1,26 @@
+---
+id: "66DB1DA4-ADB2-42B6-95A5-5CBDEA0CB87F"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2021-01-05"
+year: 2021
+week: 1
+title: "Fearnleys LNG Weekly Comment - 2021-01-05"
+---
+
+# Fearnleys LNG Weekly Comment (2021-01-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2021-01-05 (Week 1)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `66DB1DA4-ADB2-42B6-95A5-5CBDEA0CB87F`
+
+---
+
+## Market Commentary
+
+In the first week of 2021, the LNG Shipping market picked up where it left it off at the end of 2020. The availability is tight across all basins and the tightness continues well into Feb/March for Atlantic/USG cargo loadings. The headliner rates are “stable” at very firm levels (around 150-160k/day for TFDE’s), but as most fixtures include a “3-way economics” with substantial positioning and repositioning costs, it keeps pushing up vessel “owners” TCE. The Majors and LNG Traders doesn’t appear to be to dishearten by the current shipping rate levels as they themselves are trading the JKTC market at prices we haven’t seen since Feb 2014.

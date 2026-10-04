@@ -1,0 +1,26 @@
+---
+id: "f6d366f4-b82d-44ce-9454-9dd3f00da190"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-11-06"
+year: 2024
+week: 45
+title: "Fearnleys Aframax Weekly Comment - 2024-11-06"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-11-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-11-06 (Week 45)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `f6d366f4-b82d-44ce-9454-9dd3f00da190`
+
+---
+
+## Market Commentary
+
+A lacklustre start to the week with little reported. VLCC and Suezmax have been taking cargoes away from the Aframax tonnage and natural dates now pushing out to the middle of the month. Other trading areas are not giving much support for ballasting away, but it isn’t stopping the prompt vessels heading out rather than take what looks like a fair bit of waiting time. Some activity and a fair few fixtures done; the front end of the list has cleared with ships fixed and some taking the ballast to the USG but looking forward towards mid-month, there are some ships coming around in the region that will work the fixing window which continues to push far ahead. With possibly little supply left to cover in the 2nd decade it will take a busy 3rd decade to see any improvements here on the rates.

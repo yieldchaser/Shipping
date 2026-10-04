@@ -1,0 +1,26 @@
+---
+id: "0A02DF2F-ADD0-44D6-988F-83FA47BEE054"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-06-04"
+year: 2019
+week: 23
+title: "Fearnleys Capesize Weekly Comment - 2019-06-04"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-06-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-06-04 (Week 23)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `0A02DF2F-ADD0-44D6-988F-83FA47BEE054`
+
+---
+
+## Market Commentary
+
+Slightly better times for the big ships, mainly due to Australian iron ore miners enjoying good prices and exporting at max capacity prior to end of fiscal year. Chinese inventories are moderate/low thus this development is expected to continue, and with major Brazilian miner Vale now back on stage taking ships for July loading prospects are positive. Ever more units about to disappear 30-40 days for scrubber fitting, contributing to a robust supply/demand ratio. In numbers, average daily earnings for standard 180k dwt's are up around 7 pct w-o-w to come in at USD 15k. Voyage rates only marginally up, meaning spot improvement includes lower bunker prices not being factored in. Major takers busy picking period units, last exemplified by 2009-built 180k dwt delivering China prompt for short period at USD 18k - for 12 months and longer levels still hover around USD 16-16,500 on such units.

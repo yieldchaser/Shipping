@@ -1,0 +1,26 @@
+---
+id: "8DB7BE17-C7C8-41A9-A913-CD8A88C66D62"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-11-30"
+year: 2022
+week: 48
+title: "Fearnleys LNG Weekly Comment - 2022-11-30"
+---
+
+# Fearnleys LNG Weekly Comment (2022-11-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-11-30 (Week 48)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `8DB7BE17-C7C8-41A9-A913-CD8A88C66D62`
+
+---
+
+## Market Commentary
+
+Last week we commented “It’s long been understood that what goes up must eventually come down, and the question for the spot LNG shipping market has been when and by how much”. Well, it has impacted with gusto this week as interruptions continue to occur at Freeport and Calcasieu Pass LNG production facilities and storage in Europe remains high. Predicted colder weather is likely to bring to an end to the winter preparations as floating cargoes commence their discharges. There is an outside chance that the colder weather will significantly reduce gas reserves, yet this should be treated with some trepidation as the contango remains narrow despite the weather getting colder on the prompt. The result is tonnage is opening up for portfolio needs and reducing the demands of the large portfolio players that have been so active over the last few weeks and months. Again, as commented last week, without an arbitrage to pull cargoes East this will put downward pressure on spot rates and we don’t foresee this changing anytime soon given the restrictions in China due to increased covid cases. The term market continues to invite interest and with CWC conference in Athens this week, we expect some renewed demand for freight to approach market in due course. In the newbuilding market we welcome the 14th Celsius vessel to the market with a 2026 delivery at levels close to last done, albeit for a 180,000m3 with top of the market spec.

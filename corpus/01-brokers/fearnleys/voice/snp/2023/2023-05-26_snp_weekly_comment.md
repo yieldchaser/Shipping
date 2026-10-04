@@ -1,0 +1,26 @@
+---
+id: "D99CB4FF-01C0-4AF7-A763-3109728B1269"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-05-26"
+year: 2023
+week: 21
+title: "Fearnleys S&P Weekly Comment - 2023-05-26"
+---
+
+# Fearnleys S&P Weekly Comment (2023-05-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-05-26 (Week 21)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `D99CB4FF-01C0-4AF7-A763-3109728B1269`
+
+---
+
+## Market Commentary
+
+Vintage tanker plays are still making headlines with New Shipping doubling their investment on the VLCC GOOD NEWS (319K DWT SAMHO HI 2002) at USD 43M to undisclosed buyers. It is too soon to tell whether the flagging and insurance issues plaguing vintage tanker operator Gatik will impact the level of buying enquiry for older tanker tonnage, but it is worth monitoring, as registries and P&I clubs begin to scrutinize trading patterns of these older units. Sentiment in the dry sector is waning at least in the short term, as global worries over Chinese demand increase. Nevertheless, despite more market players adopting a wait and see approach to second hand vessel acquisitions, there has been a steady stream of transactions reported this week. In the modern Ultramax sector TAURUS/ARIES CONFIDENCE (63K DWT NEW DAYANG 2018) were sold to Spar Shipping for USD 28.5M per unit. With Chinese units generally much more available than their Japanese equivalents, it will be interesting to see whether this transaction sparks a run on the available Chinese built units in the market. Capesize BAO MAY (178K DWT SWS 2010) was sold for USD 25.5M, perhaps showing that slightly younger units are being considered by market players, following the recent spike in demand for vintage Capesize units.

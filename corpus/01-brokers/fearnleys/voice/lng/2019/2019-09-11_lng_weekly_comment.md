@@ -1,0 +1,26 @@
+---
+id: "3053EBCE-4C96-43FB-ADD5-29FB8866C50A"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2019-09-11"
+year: 2019
+week: 37
+title: "Fearnleys LNG Weekly Comment - 2019-09-11"
+---
+
+# Fearnleys LNG Weekly Comment (2019-09-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2019-09-11 (Week 37)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3053EBCE-4C96-43FB-ADD5-29FB8866C50A`
+
+---
+
+## Market Commentary
+
+As market participants prepare for Gastech in Houston next week, both LNG product and shipping market show some volatility. Delays at Cameron and on top of the low product prices experienced so far this year, have created a sense of shipping length for most of the portfolio players. Today, however, European gas added a new dimension as TTF rose sharply which has resulted in portfolio players holding off and reducing their availability, whether this will end up as a profit making decision is a trader's dilemma as they decide if this is a structural shift or a temporary shift, but Owners should take comfort in the reduced availability. In both basins, requirements are looking at October and November laycans, for both spot or term/multimonth requirements. Rates have dropped slightly on the back of excess availability on the prompt and although is very early to say, it is very uncertain if last year’s highs will be witnessed this year. That said, we do expect some potential tightening towards November, or sooner should today gas price changes be sustainable. There were no Newbuilding orders recorded this week and Secondhand prices have remained stable.

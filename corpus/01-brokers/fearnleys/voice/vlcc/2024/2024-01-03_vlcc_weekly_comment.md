@@ -1,0 +1,26 @@
+---
+id: "eb0a8d35-d050-4365-ada8-8b3a1fe1ee22"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-01-03"
+year: 2024
+week: 1
+title: "Fearnleys VLCC Weekly Comment - 2024-01-03"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-01-03)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-01-03 (Week 1)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `eb0a8d35-d050-4365-ada8-8b3a1fe1ee22`
+
+---
+
+## Market Commentary
+
+A shorter week as 2024 kicks in and rates continue to drift further south. At the time of writing, MEG/China clings to the WS 50’s (on 2023 flats), but this line in the sand will likely be tested as the week draws on. Tonnage is plentiful and TCE’s remain decent, so there is scope for owners to consider below last done. Charterers continue to pick targets from the shadows, so deals going unreported, but January is already up to 100+ deals and the 3rd decade yet to be touched. The Atlantic is a little different. Plenty of ships still (we count 12 sitting prompt), but owners are trying to play the waiting game. Aframaxes firming in the USG, and Suezmaxes also starting to move positive. So, dollars/bbl could soon look attractive on a VLCC. Mind you, there are quite a few VL’s there to soak this up. A West Africa cargo being worked, attracting few offers, and the Petrobras deal fixing a vessel from the US West coast at WS 55.25 East and WS 64 UKCM, dragging us onto the new 2024 WS rates. The smaller sizes need to move up a bit quicker to help out their bigger sisters.

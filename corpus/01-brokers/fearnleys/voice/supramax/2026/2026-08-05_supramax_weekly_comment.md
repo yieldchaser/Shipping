@@ -1,0 +1,26 @@
+---
+id: "d567ba05-c79d-4edf-8dd2-c5e91ae0b8dc"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-08-05"
+year: 2026
+week: 32
+title: "Fearnleys Supramax Weekly Comment - 2026-08-05"
+---
+
+# Fearnleys Supramax Weekly Comment (2026-08-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2026-08-05 (Week 32)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `d567ba05-c79d-4edf-8dd2-c5e91ae0b8dc`
+
+---
+
+## Market Commentary
+
+The Supramax and Handymax markets remained relatively stable this week. The US Gulf continued to see the highest activity, while the Continent/Mediterranean remained balanced despite limited fresh enquiry. South America softened slightly as cargo volumes eased, and Asia remained quiet with rates edging lower. Overall, the market remains steady, although fresh cargo demand will be needed for further improvement.

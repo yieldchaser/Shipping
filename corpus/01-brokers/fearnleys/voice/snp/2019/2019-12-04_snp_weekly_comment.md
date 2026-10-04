@@ -1,0 +1,26 @@
+---
+id: "ED79227C-4E91-4516-99E2-62039EB82A06"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-12-04"
+year: 2019
+week: 49
+title: "Fearnleys S&P Weekly Comment - 2019-12-04"
+---
+
+# Fearnleys S&P Weekly Comment (2019-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2019-12-04 (Week 49)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `ED79227C-4E91-4516-99E2-62039EB82A06`
+
+---
+
+## Market Commentary
+
+The tanker S&P market remains somewhat subdued in terms of completed transactions despite signs of a number of buying enquiries. Main reasons being a resilient bid offer spread with the bellwethers having already placed their cards and others are now preferring to see how the beginning of 2020 plays out. In what looks to be good timing, Advantage Tankers is reported to have acquired two 2009 Chinese built VLCC’s for usd 38 mill each. We understand this is a deal done some time back which explains the low price, even allowing for Chinese built discount. Teekay starting to clear out its older suezmaxes with the 2003 HHI built ISKMATI SPIRIT gone for usd 19.3 mill. This follows Teekay’s recent sale of same age ASKHINI SPIRIT to Chemnav at same level. The LR1 GULF CASTLE built 2009 HMD is in play with offer reportedly seen in excess of usd 18 mill. Steady flow of bulker sales with a softening undertone on values. Chinese buyers taking advantage of the huge supply of vessels for sale.

@@ -1,0 +1,26 @@
+---
+id: "ae8ba192-e649-429e-a2e4-7dc8bc63de2d"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-11-19"
+year: 2025
+week: 47
+title: "Fearnleys LNG Weekly Comment - 2025-11-19"
+---
+
+# Fearnleys LNG Weekly Comment (2025-11-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-11-19 (Week 47)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `ae8ba192-e649-429e-a2e4-7dc8bc63de2d`
+
+---
+
+## Market Commentary
+
+Spot charter rates in the Atlantic continued their ascent on an even steeper trajectory through the end of last week as a small number of prompt requirements were met with scant supply. Those able to release tonnage were able to capture large increments to last done, breaking the six-digit mark and by a considerable distance in at least one case. This has only added to the uncertainty around forward pricing, where better availabilities for end Dec look fairly evenly matched with requirements at the end of the fixing window. Owners in the Pacific have also notched up a few new highs for the year as firm availabilities have remained relatively tight, although charterers with more forward dates are beginning to pause and question whether the recent run has legs, given a healthy number of expected redeliveries. On the newbuilding front, Hyundai Samho, announced they signed a $507 million contract with a North American company, scheduled for delivery in the 2H 2028.

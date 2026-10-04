@@ -1,0 +1,26 @@
+---
+id: "D570E83D-ABF1-43BC-85D6-E258051DB8AB"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2019-07-17"
+year: 2019
+week: 29
+title: "Fearnleys Aframax Weekly Comment - 2019-07-17"
+---
+
+# Fearnleys Aframax Weekly Comment (2019-07-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2019-07-17 (Week 29)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `D570E83D-ABF1-43BC-85D6-E258051DB8AB`
+
+---
+
+## Market Commentary
+
+The Aframax market in the North Sea and Baltic has continued to move sideways the past week, with cross North Sea voyages paying around ws90 throughout the week. We foresee a soft/steady market in the North for the rest of the week, with cargo activities and tonnage availability remaining in equilibrium. Unfortunately for owners, the market in the Mediterranean and Black Sea has seen a slow downward correction this week, as benchmark routes have dropped a few points. This is due to the simple fact that there are not many cargoes around to be fixed. Unfortunately for owners, the market is not expected to see a noteworthy pick up in the week to come. It is possible owners will reposition their ships for alternative markets, which as the USG/Caribs market which has increased a few points the last few days.

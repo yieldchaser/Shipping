@@ -1,0 +1,30 @@
+---
+id: "A949145F-A666-45B1-B0CD-C1D45DA09CDD"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-06-29"
+year: 2022
+week: 26
+title: "Fearnleys VLCC Weekly Comment - 2022-06-29"
+---
+
+# Fearnleys VLCC Weekly Comment (2022-06-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2022-06-29 (Week 26)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `A949145F-A666-45B1-B0CD-C1D45DA09CDD`
+
+---
+
+## Market Commentary
+
+A week of decent gains for owners, as each quarter point is fought over.
+
+**MEG**
+
+ volumes are assisting owners’ rate pushes, as we saw over 150 cargoes for June; the highest since April 2020. July also looking decent with mid-month MEG/China cargoes now fixing at the WS 52 level, up six points from the same time last week. At the time of writing in the Atlantic, four or five enquiries in West Africa suggests further upward movement and with Smaxes holding their ground, it is likely further increases imminent. A quick note on the difference a scrubber makes – with a price differential where 380 is 45% cheaper in Singapore right now, paying almost double the price for your bunkers, the effect on the bottom line is huge. Non-scrubbered owners will not be getting carried away by the current levels, but at least are in the positive.

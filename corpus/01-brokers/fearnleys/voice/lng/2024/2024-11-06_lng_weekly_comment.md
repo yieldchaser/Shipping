@@ -1,0 +1,30 @@
+---
+id: "5007e7de-e1df-41b8-be82-0d9c27d5f27f"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-11-06"
+year: 2024
+week: 45
+title: "Fearnleys LNG Weekly Comment - 2024-11-06"
+---
+
+# Fearnleys LNG Weekly Comment (2024-11-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-11-06 (Week 45)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `5007e7de-e1df-41b8-be82-0d9c27d5f27f`
+
+---
+
+## Market Commentary
+
+With the U.S. Election results coming in on report day, we would be remiss to not consider the impacts of each candidate’s victory on LNG Shipping. However, the harsh reality is that the current market, which is extremely depressed despite geopolitically driven disruption of tradeflows and inflation of product prices, is unlikely to react in any such way in the near term. The long-term implications centre around approval of new LNG export projects in the U.S. which in part underpins the prevailing bullish sentiment for 2027 onwards. However, the Republicans’ likely acceleration of such approvals may come at the cost of New Energy’s rapid growth story, with the Inflation Reduction Act firmly in their economists’ crosshairs. Trump’s foreign policy could pave the way for a whole host of other outcomes with direct impact on the LNG industry but those of us in the market will have to wait and see what is in store. On the spot, a gradual thinning of first half December availabilities for Atlantic liftings has lifted sentiment somewhat with subletters now holding firm in the mid $20s on the offer, although Charterers are not feeling the squeeze with open vessels still outnumbering uncovered requirements and FOB structures remaining attractive. With the Arb shut, the majority of flexible cargoes continue to point to Europe but a few potential inter-basin requirements on the horizon should lend some support to freight as we cross into 2025.
+
+**East of Suez**
+
+, activity remains very limited with Charterers firmly in the driving seat. A multitude of vessels, including some open prompt, are competing for a multimonth requirement starting in the first half of January, which is being worked at the time of writing. On the short-medium term period, the gap between bid and offer on fixed price basis remains too wide for the time being, with further talk of index linked structures coming to the fore in the last week. Reports of one or two newbuilding contracts are also emerging from Korea, with one confirmed at SHI thus far and perhaps another one or two to follow elsewhere shortly.

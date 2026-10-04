@@ -1,0 +1,26 @@
+---
+id: "80396239-b3b1-41e6-9c6a-e3aa0a719acb"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-04-01"
+year: 2026
+week: 14
+title: "Fearnleys Chartering Weekly Comment - 2026-04-01"
+---
+
+# Fearnleys Chartering Weekly Comment (2026-04-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2026-04-01 (Week 14)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `80396239-b3b1-41e6-9c6a-e3aa0a719acb`
+
+---
+
+## Market Commentary
+
+3 deals registered ex US this week, taking the total fixture count in April to 47 (13/10/24 by decade) and in May to 16 (13/3/0 by decade). Last done fixed for May loading reported at USD 164 HCvP, versus the high USD 160s/low USD 170s seen week prior. As MEG trade remains effectively closed, we are now starting to see the full effect of more ships arriving USG from May onwards. We expect market to stay quiet until next week with the upcoming Easter holidays.

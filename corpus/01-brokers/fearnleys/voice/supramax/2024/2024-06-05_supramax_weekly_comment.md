@@ -1,0 +1,26 @@
+---
+id: "2a6832e3-33f3-467a-9834-273d3fa9b595"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-06-05"
+year: 2024
+week: 23
+title: "Fearnleys Supramax Weekly Comment - 2024-06-05"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-06-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-06-05 (Week 23)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `2a6832e3-33f3-467a-9834-273d3fa9b595`
+
+---
+
+## Market Commentary
+
+The Pacific market is doing very well across geared size segments. Handy index remains stable at mid USD 12,000 levels. Trips from India to the Continent/Mediterranean being fixed at USD 13-15,000 levels. Inter-MEG and MEG-EC India trips on Supra/Ultra around USD USD 15,000. There is limited interest in backhaul trades at the moment since the Atlantic market has ample tonnages in position and very little cargo volume. NOPAC RV pays in the region of USD 16-18,000 levels. Period interest remains firm in the Pacific and Indian Ocean for Supra/Ultra sizes. On the other side, the ECSA market remains quiet with very little volume coming out for the geared segments. We will see more activity and action in the market once everyone is at their desk after Posidonia in Greece.

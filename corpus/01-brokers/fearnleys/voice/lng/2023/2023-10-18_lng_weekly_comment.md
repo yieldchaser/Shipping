@@ -1,0 +1,26 @@
+---
+id: "957670ac-5a8f-474d-a00e-792094372a41"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-10-18"
+year: 2023
+week: 42
+title: "Fearnleys LNG Weekly Comment - 2023-10-18"
+---
+
+# Fearnleys LNG Weekly Comment (2023-10-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-10-18 (Week 42)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `957670ac-5a8f-474d-a00e-792094372a41`
+
+---
+
+## Market Commentary
+
+This has been a big week for the short-term market with a number of fixtures confirming what much of us suspected: there are more bears than bulls in 2024. With competitive one and two-year fixtures on 2-strokes transpiring, the correction has reverberated through the TFDE and ST fleet as well. Paradoxically, the market looks to tighten again as we move out to the three and five year mark, and accordingly the discount that one might expect to see, for these longer periods, has disappeared as the market prices in an uptick in demand from 2026. On the spot side of the house, a rise in LNG prices has helped stem the decline in rates and we are in “wait and see” mode as we go to print today. With most Q4 availability still in the hands of portfolios and projects, current volatility in the product market makes releasing tonnage a risky (i.e., expensive) prospect and it means that closing the Bid-Ask spread into the New Year will remain the biggest challenge. In any event, we have seen a few charterers return to the market for November through to January/February coverage and this may be the precursor for the eventual tightening that we have all come to expect at this time of year. In reality, however, 18th October is way too early to make a call on Winter and the fear is that we remain in our “wait and see” mode indefinitely. To Newbuilds, another quiet week with nothing to report although a number of Majors are heard to be in discussions with the yards, so it may be only a matter of time before we get our next keenly awaited price point here.

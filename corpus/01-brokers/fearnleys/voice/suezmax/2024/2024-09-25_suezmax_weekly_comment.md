@@ -1,0 +1,30 @@
+---
+id: "2570ddaf-a266-407b-8b3f-60970d92d47d"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-09-25"
+year: 2024
+week: 39
+title: "Fearnleys Suezmax Weekly Comment - 2024-09-25"
+---
+
+# Fearnleys Suezmax Weekly Comment (2024-09-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2024-09-25 (Week 39)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `2570ddaf-a266-407b-8b3f-60970d92d47d`
+
+---
+
+## Market Commentary
+
+The global Suezmax market can be divided into areas of stability, such as the Middle East Gulf and US Gulf, and areas of weakness, such as West Africa and the Black Sea. On closer inspection, the US Gulf could have indeed added some weight this week with some cargoes tight on tonnage and light on offers, therefore the question has to be asked, are owners analyzing lists or going with the flow?
+
+**USG**
+
+/UKCM trades WS 65 levels for now with no real support from other segments. TD20 has been very quiet this week and will require sustained enquiry in order not to fall beneath WS 77.5 whilst the Black Sea is an Enigma. Northbound Turkish Straits delays have increased but rates have conversely fallen down to WS 85 for TD20.

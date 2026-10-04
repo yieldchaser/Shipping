@@ -1,0 +1,26 @@
+---
+id: "30593AD2-4381-4E8C-A0F8-A5EFE2DEF6DD"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-08-06"
+year: 2019
+week: 32
+title: "Fearnleys Panamax Weekly Comment - 2019-08-06"
+---
+
+# Fearnleys Panamax Weekly Comment (2019-08-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2019-08-06 (Week 32)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `30593AD2-4381-4E8C-A0F8-A5EFE2DEF6DD`
+
+---
+
+## Market Commentary
+
+After a couple of weeks of the beforehand predicted downturn, the market has cautiously started moving into the greens yet again. The week started slowly, both the east for NoPac runs and with few reported fixtures in the Atlantic hemisphere. However, reports of Increased Australian and Indonesian volumes, shortcomings of tonnage ballasting for ECSA along with few vessels available in the North Atlantic are both signs to take notice of, which has already pushed rates up somewhat. A transatlantic round voyage currently yields about USD 16,500 per day, while a fronthaul from the Continent yields around USD 25,000. In the east, a Pacific round voyage now pays around high USD 10,000's per day. The BPI 4TC-index is down 100 points week-on-week, currently at 1791 points.

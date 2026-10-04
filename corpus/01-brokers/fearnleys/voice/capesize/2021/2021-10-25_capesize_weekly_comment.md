@@ -1,0 +1,26 @@
+---
+id: "B429158F-30DA-4D1C-B1EF-CC63F4ECEB90"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-10-25"
+year: 2021
+week: 43
+title: "Fearnleys Capesize Weekly Comment - 2021-10-25"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-10-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-10-25 (Week 43)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `B429158F-30DA-4D1C-B1EF-CC63F4ECEB90`
+
+---
+
+## Market Commentary
+
+The market has fallen sharply the last week as the amount of available tonnage in the East has increased and charterers holding back taking advantage of the negative sentiment. The West Australia rout with iron ore to China is down by 28%, now giving owners a time charter hire of 31,850 per day. The iron ore rout from Brazil to China is down by 26%. The overall basket is down by 34% indicating that the more illiquid routs has come off harder than where there is a more constant flow of cargo. This might indicate that there have been a lot of panic in the Capesize segment, and time of writing there is some signs of support, though still very nervous.

@@ -1,0 +1,26 @@
+---
+id: "d055cc94-3854-4401-8c12-a65e5b068837"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-07-09"
+year: 2025
+week: 28
+title: "Fearnleys LNG Weekly Comment - 2025-07-09"
+---
+
+# Fearnleys LNG Weekly Comment (2025-07-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-07-09 (Week 28)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `d055cc94-3854-4401-8c12-a65e5b068837`
+
+---
+
+## Market Commentary
+
+After a slightly quieter spell in the spot markets both East and West of Suez, rates have been softening and there has been a sense that the turnover of requirements was easing. That seems to have been a little premature, with a few early August requirements in the Pacific basin and a handful of fresh enquiries in the Atlantic basin for the second half of August. Given there is prompt tonnage but perhaps less availability further out, this has echoes of the tight patches that have emerged throughout this year; during these periods, the competition for prompt business drove down levels but further out rates rebounded, as especially as ships were gradually fixed out. We shall see whether this trend repeats itself in the coming weeks, but for now the East premium remains in place. In contrast, the term market hasn’t shown much sign of slowing down; while liquidity is naturally lower for longer periods, there have been several fixtures of one or two years reported and several enquiries remain ongoing. On the Newbuilding front, there we no reported conventional LNGC orders over the last week and prices remain stable. However, Samsung Heavy Industries has reportedly secured a contract for a 3.5mtpa FLNG production unit at $637m for Eni’s Coral Norte project offshore Mozambique, with the unit expected to be operational by 2028.

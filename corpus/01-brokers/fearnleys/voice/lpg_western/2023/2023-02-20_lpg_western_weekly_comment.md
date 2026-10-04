@@ -1,0 +1,30 @@
+---
+id: "137AC05F-327D-4DAD-8D59-156FE2ABB98E"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2023-02-20"
+year: 2023
+week: 8
+title: "Fearnleys LPG Western Weekly Comment - 2023-02-20"
+---
+
+# Fearnleys LPG Western Weekly Comment (2023-02-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2023-02-20 (Week 8)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `137AC05F-327D-4DAD-8D59-156FE2ABB98E`
+
+---
+
+## Market Commentary
+
+AMERICAS Though the March FOB market is largely concluded at this point, there were some exciting moments as prices first remarkable saw gains, but later in the month relaxed. April terminal fee values are now being discussed in the upper single-digit levels, with May at a range just slightly below. The arb remains open to both the West and the East, though the number days-delay at the Panama Canal have begun to swell again, thus allowing freight rates to rise and take a greater share of the profits. Average expectations related to the EIA propane inventories this week were in the -2.1mmbbl range, with outliers as wide as -3.25 and -1.10mmbbls. Ultimately the EIA revealed a 3.00mmbbl decline from 66.30mmbbls last week to 63.30mmbbls as of 17 Feb. That puts current levels at 166% of last year and 145% of two years ago. Meanwhile, talk of containment issues in the coming summer months has been muted. NWE CIF ARA values dropping with crude oil values this week, though not directly correlated, with CIF ARA propane showing some strength. The tight physical market has pushed early March deliveries to the highest premiums to paper seen since 2012 at +$60/MT. CIF ARA backwardation remains very steep, Feb/Mar $54/MT and Mar/Apr $37/MT showing how tight the prompt market is in Europe. March propane naphtha spread widened to -$124/MT, keeping propane favourable to Naphtha for petrochemical companies. With natural gas values falling in the region it is expected that refineries will sell more propane to the market. Though this additional production will take a few weeks to hit or have any impact on the market. Butane market has been quiet with value relative to February naphtha steady at 99%.
+
+**MED**
+
+ Activity in the region has been subdued, as Far East and CIF ARA values fall. The product market is tight and the fall in value of other regions could see traders offering more aggressively into the Mediterranean.

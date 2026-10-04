@@ -1,0 +1,26 @@
+---
+id: "C1112D02-F3ED-4859-AEB9-C6351AC8DF2C"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-01-25"
+year: 2023
+week: 4
+title: "Fearnleys Aframax Weekly Comment - 2023-01-25"
+---
+
+# Fearnleys Aframax Weekly Comment (2023-01-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2023-01-25 (Week 4)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `C1112D02-F3ED-4859-AEB9-C6351AC8DF2C`
+
+---
+
+## Market Commentary
+
+Despite the thin tonnage list rates in the NSea rates kept moving sideways at low WS 160 levels as charterers managed to pick up vessels off the market. A couple of vessels ballasted away down to the Med in order to achieve better rates as well. Moving forward and if activity slightly picks up we might see rates being under upward pressure. Compared to the NSea, the Med/BSea market was a roller coaster last week. Rates started picking up on the back of several replacements being done, however they cooled off a bit as pressure was added by the ballasters ex NSea. Activity is strong now and with tonnage list getting thinner we expect rates to rebound again in the short term.

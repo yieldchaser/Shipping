@@ -519,6 +519,16 @@ def main():
         build_comment_chunks.main()
     guarded("comment chunks", rebuild_comment_chunks)
 
+    def rebuild_commentary_digest():
+        import generate_fearnleys_commentary_digest
+        generate_fearnleys_commentary_digest.main()
+    guarded("weekly commentary markdown digest", rebuild_commentary_digest)
+
+    def rebuild_broker_voice_corpus():
+        import export_broker_voice_to_corpus
+        export_broker_voice_to_corpus.main()
+    guarded("broker voice corpus markdown export", rebuild_broker_voice_corpus)
+
     def rebuild_gas_rate_csvs():
         import build_gas_rate_csvs
         build_gas_rate_csvs.main(do_verify=False)

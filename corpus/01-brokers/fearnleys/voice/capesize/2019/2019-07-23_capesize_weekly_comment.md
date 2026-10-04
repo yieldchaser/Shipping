@@ -1,0 +1,26 @@
+---
+id: "D52C08B6-8F49-4BA9-8645-3600FF8F9C62"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-07-23"
+year: 2019
+week: 30
+title: "Fearnleys Capesize Weekly Comment - 2019-07-23"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-07-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-07-23 (Week 30)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `D52C08B6-8F49-4BA9-8645-3600FF8F9C62`
+
+---
+
+## Market Commentary
+
+The market is falling off currently on the back of abundant vessels in the Atlantic basin and a lack of fresh requirements. Some of the recent gains must be attributed to a shortage of vessels in the Atlantic due to low expectations for Vale volumes and as a few vessels were out for scrubber retrofitting. Still, fundamentals are better, and expected to improve further in the coming months. So the remainder of the year should still see rates at levels giving good returns for owners...

@@ -1,0 +1,26 @@
+---
+id: "15930211-BB9E-4312-BED5-B9D399F5F9BC"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-11-29"
+year: 2021
+week: 48
+title: "Fearnleys S&P Weekly Comment - 2021-11-29"
+---
+
+# Fearnleys S&P Weekly Comment (2021-11-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-11-29 (Week 48)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `15930211-BB9E-4312-BED5-B9D399F5F9BC`
+
+---
+
+## Market Commentary
+
+We continue to see the Dry snp markets gradually adjust to the corrected rates we have seen settle throughout these past weeks. A correction in values that becomes particularly apparent for tonnage that is 5 years and older where levels achieved are 10 to 15% lower than most recent transactions. Modern units are showing more resistance being supported by high newbuilding prices which allow sellers to maintain their targets which remain, in comparison to NB, a more enticing offer. A dynamic that is particularly well illustrated by the resale of a Japanese controlled Capesize which was sold to Diana Shipping at Usd 60m. The vessel is being built at Namura Shipyard and is scheduled for delivery in April 2022. Similarly in the Ultramax front where a resale delivering in 2023 from Tsuneishi Zhoushan achieved USD 34.5m. With forward curves showing signs of levelling off we expect values to move sideways in this end of year with lower volumes of transactions. Uneventful close of the week on the Tanker front with very little change from our last report. Most of the activity continues to be captured by the Product sector with a number of mid 2000 built MRs changing hands. Values remain flat in a market where this renewed buying interest is met with a steady flow of sales candidates. Worth noting that offers were invited on two 10 year old Aframax units; understand that up to 10 outright bids were collected which is tribute to the positive underlying sentiment witnessed in the Tanker space.

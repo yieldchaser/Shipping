@@ -1,0 +1,26 @@
+---
+id: "a30e8862-6573-4ca8-b40e-41d01b557f21"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-01-31"
+year: 2024
+week: 5
+title: "Fearnleys Supramax Weekly Comment - 2024-01-31"
+---
+
+# Fearnleys Supramax Weekly Comment (2024-01-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2024-01-31 (Week 5)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `a30e8862-6573-4ca8-b40e-41d01b557f21`
+
+---
+
+## Market Commentary
+
+The sentiment on the Supra market is very volatile and driven mainly by FFA directions. We need stability and a firm spot market to justify owners' expectations. The lack of cargo flow in the USG, the weak Far Eastern market results in an overall uncertain market direction. The rates in USG dropped to USD 25,000 pd for trips to Singapore-Japan, and around USD 15,000 pd for transatlantic trade. ECSA market improved from previous weeks with fixtures reported better than last done. Nice Ultra 63,000 dwt, built 2019, was fixed at USD 18,000 pd plus 800,000 GBB delivery Santos with grain cargo redelivery Chittagong. The Black Sea and Mediterranean markets are paying premiums due to the lack of tonnage driven by the present situation of the Red Sea and Suez Canal. The trips to the Far East paid around USD 26,000 pd, and clinker across from Mediterranean to West Africa improved substantially, with owners demanding above USD 20,000 pd compared to low-mid USD 10,000 pd from the previous week. The market in the Far East remained unexcited, sideways, and bearish. Period rates asked by owners are much more optimistic based on FFA support; however, they are discouraged by spot rates.

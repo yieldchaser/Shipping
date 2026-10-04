@@ -1,0 +1,26 @@
+---
+id: "69C628CE-D39E-4AF6-AE6F-6D04EAB48F60"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2020-11-04"
+year: 2020
+week: 45
+title: "Fearnleys LNG Weekly Comment - 2020-11-04"
+---
+
+# Fearnleys LNG Weekly Comment (2020-11-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2020-11-04 (Week 45)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `69C628CE-D39E-4AF6-AE6F-6D04EAB48F60`
+
+---
+
+## Market Commentary
+
+Over the past few weeks, the LNG market have seen an upward trajectory on the spot shipping rates. The bullish sentiment resonated in the lack of availability for November loading which saw daily charter rates broke into the six figure barrier. However, the current levels seem to be short-lived as activities and vessel requirements have decrease simultaneously in both basins. The weaker performance of the product market, the decline in requirements for shipping and an increase in availability not just from Independent Owners but sublets shown by Portfolio players and Traders, have all contributed to the sentiment change. At the present moment, with so much uncertainty that could affect the overall shipping market, volatility is inevitable for the coming weeks. From an analytical perspective, the area of concern is after Q1 2021 where many anticipate a slightly more challenging market. Utilization may be a priority versus rates and as we have already seen from recent fixtures, Owners were more willing to work requirements with longer periods to brace through the shouldering months ahead after this winter rather than working spot charters at current levels. In the new building market, It was reported an Owner have secured two 174,000 cbm LNGC plus options for two additional vessels from Hyundai Heavy Industries (HHI). The orders are at the back of time charter contracts concluded with PGNiG. The new building LNG carriers will be delivered in 2023 and is expected to lift volumes from Calcasieu Pass Terminal which PGNiG is procuring the LNG under long term contact.

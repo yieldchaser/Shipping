@@ -1,0 +1,26 @@
+---
+id: "b12ba1dd-720a-4cb4-b542-b6acec568f7c"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-06-19"
+year: 2024
+week: 25
+title: "Fearnleys LNG Weekly Comment - 2024-06-19"
+---
+
+# Fearnleys LNG Weekly Comment (2024-06-19)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-06-19 (Week 25)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `b12ba1dd-720a-4cb4-b542-b6acec568f7c`
+
+---
+
+## Market Commentary
+
+The market continues to show a high level of activity, building on the record start to the year in terms of number of fixtures. In the Pacific spot market, things have been a little quieter and the open West-to-East arbitrage has delivered an increase in availability ahead, but there are now more firm requirements emerging towards 2H July and 1H August. Meanwhile, in the Atlantic, interest in tonnage remains strong and this has pushed rates higher, since the arbitrage has stretched some fleets a little too thinly. As we approach the middle of the year, the number of spot fixtures has almost reached the total for all of 2023 already. Prompt vessel availability has slightly decreased across all basins this week, and the imbalance due to the arbitrage will play out in the coming weeks. Those vessels needed back in the Atlantic will need to take the long way around, although notably, the first LNG carrier (a steam-turbine vessel) since mid-January has now embarked on the Red Sea-Suez route. The term charter market remains highly active as charterers seek to secure tonnage in preparation for winter, with several requirements already firm and expected to be worked in the coming weeks. On the newbuilding front, prices have remained stable with no new orders reported this week.

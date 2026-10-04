@@ -1,0 +1,30 @@
+---
+id: "b87d7f23-956f-4cc4-b8c0-7af866f0b228"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2023-10-12"
+year: 2023
+week: 41
+title: "Fearnleys LPG Eastern Weekly Comment - 2023-10-12"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2023-10-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2023-10-12 (Week 41)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `b87d7f23-956f-4cc4-b8c0-7af866f0b228`
+
+---
+
+## Market Commentary
+
+MEG ADNOC released their Nov acceptance with some delays reported. Assessment for FOB spot premiums dropped to teens level this week for evenly split ratio. Qatar Petroleum was reported to award a 3/1 ratio for 8-18th Nov lifting at CP plus high single digit. Another Middle east producer is rumored to have mid Nov lifting heavy butane cargo can sell. At the time of writing, Nov Propane CP was traded at $567 and Butane at $574. Nov/Dec CP was traded at $3 contango.
+
+**FAR EAST**
+
+ Premium for Nov delivered cargos softened this week as of subdued buying interests. 23kt propane parcel for 2h Nov delivery were traded at Nov FEI plus $1, while last week at $4.5. Similarly, 46kt propane parcel was reported concluded at Nov FEI minus mid-teens basis Chiba between traders, despite the cargo delays in US loading ports. Scarce buying demand after holiday also failed the market expectations, as Chinese importers holding back on purchase, due to the negative petchem margins and surplus refinery output. Two PDH users are reported to resell their Oct arrival propane, as their units are under maintenance. Hence, Nov FEI flat price plunged to $638 from $673 on Monday. Apart from spot, one Korean importer issued term tender to buy monthly 23kt butane from Feb 2024 to Jan 2025 delivery at MOPJ link.

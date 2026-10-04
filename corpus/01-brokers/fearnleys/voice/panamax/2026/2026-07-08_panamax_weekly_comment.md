@@ -1,0 +1,26 @@
+---
+id: "321afe11-a8de-4286-bf7e-60a323b70534"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-07-08"
+year: 2026
+week: 28
+title: "Fearnleys Panamax Weekly Comment - 2026-07-08"
+---
+
+# Fearnleys Panamax Weekly Comment (2026-07-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2026-07-08 (Week 28)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `321afe11-a8de-4286-bf7e-60a323b70534`
+
+---
+
+## Market Commentary
+
+The Panamax market remains firm in the Atlantic, where limited prompt vessel availability, particularly in the North, continues to support owner sentiment and keep charterers under pressure for coverage. In the Pacific, it is more balanced, with quieter activity and ample tonnage offset by more cargos from the NOPAC. Indonesian demand remains soft, while potential weather disruptions around Taiwan and South China may temporarily tighten tonnages. Overall, the Atlantic is providing the main support to the market, while the Pacific remains broadly stable but regionally mixed.

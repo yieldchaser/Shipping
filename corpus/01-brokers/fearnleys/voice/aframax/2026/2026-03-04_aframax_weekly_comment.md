@@ -1,0 +1,26 @@
+---
+id: "98c903de-2d5d-4f15-813d-5ce66c500fbe"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-03-04"
+year: 2026
+week: 10
+title: "Fearnleys Aframax Weekly Comment - 2026-03-04"
+---
+
+# Fearnleys Aframax Weekly Comment (2026-03-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2026-03-04 (Week 10)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `98c903de-2d5d-4f15-813d-5ce66c500fbe`
+
+---
+
+## Market Commentary
+
+North Sea Although not directly impacted yet the North Sea is reacting to the surrounding markets and the uncertainty created by the ongoing situation in the MEG. With more vessels ballasting out of the area, the list remains relatively short and is keeping market sentiment firm. Natural dates have moved into the 2nd decade and with a lack of Suezmax / VLCC in the area / Atlantic Basin, focus will remain firmly on Aframax in both North Sea and US, keeping markets firm and giving owners options. Mediterranean Same as in the North Sea and USG, the Mediterranean market is climbing with owners trying to push for more on every fixture. Sentiment prevails at the moment but also people are ballasting towards the USG and the list in the Mediterranean could suddenly look very short.

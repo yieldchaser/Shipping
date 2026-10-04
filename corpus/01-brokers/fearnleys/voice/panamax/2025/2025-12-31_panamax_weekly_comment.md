@@ -1,0 +1,26 @@
+---
+id: "755ecfc6-7f33-46be-859a-f5f6043eab0e"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-12-31"
+year: 2025
+week: 1
+title: "Fearnleys Panamax Weekly Comment - 2025-12-31"
+---
+
+# Fearnleys Panamax Weekly Comment (2025-12-31)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2025-12-31 (Week 1)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `755ecfc6-7f33-46be-859a-f5f6043eab0e`
+
+---
+
+## Market Commentary
+
+This week the Panamax market closed on a steady but cautious note. In the Pacific, activity was thin with most fresh stems pushed into mid-January, leaving owners under pressure. The Atlantic saw some support from ECSA grains and USEC coal, but overall sentiment remained soft as ballasters continued to weigh on the list. Period interest was muted, with charterers testing lower levels while owners held back, hoping for a post-holiday rebound. Overall, the tone was flat with limited fixtures and a wide bid-offer spread, suggesting a slow start to the new year.

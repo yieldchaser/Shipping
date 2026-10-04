@@ -1,0 +1,26 @@
+---
+id: "8359FA74-E393-41BD-AEC6-A803B3BC9634"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-06-09"
+year: 2021
+week: 23
+title: "Fearnleys Capesize Weekly Comment - 2021-06-09"
+---
+
+# Fearnleys Capesize Weekly Comment (2021-06-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2021-06-09 (Week 23)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `8359FA74-E393-41BD-AEC6-A803B3BC9634`
+
+---
+
+## Market Commentary
+
+Towards the end of last week there were some signs that rates were hitting the low for now, after weeks of coming off. This was further seen during this week with fronthaul and even c3 rates improving, as well as Pacific finding support with c5 in the mid 9s. There are currently no signs of another spike just around the corner, but it may as well happen any time.

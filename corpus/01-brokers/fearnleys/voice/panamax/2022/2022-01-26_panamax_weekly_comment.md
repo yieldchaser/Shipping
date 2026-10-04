@@ -1,0 +1,30 @@
+---
+id: "661D17FC-C149-40A3-BBBB-A2AED2EA5657"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-01-26"
+year: 2022
+week: 4
+title: "Fearnleys Panamax Weekly Comment - 2022-01-26"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-01-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-01-26 (Week 4)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `661D17FC-C149-40A3-BBBB-A2AED2EA5657`
+
+---
+
+## Market Commentary
+
+A muted start to the week for the Panamax market, Pacific market on a tick positive note.
+
+**Atlantic**
+
+ remained stagnant both in the North and the South with early tonnage count continuing to build along with a lean looking cargo book especially for the early arrivals. In Asia, a healthier looking Indonesia demand continued to grow along with cautious optimism and better sentiment although it remains to be seen whether these cargoes maintain scheduling ahead of incoming holidays in the region. Some representative fixtures this week: Elena Ve (75,750/2010), Amsterdam end Jan was rumored to have fixed a Suek cargo ex Murmansk to Rotterdam on voyage basis at USD 8.75 fio. De Ming Hai (76,432/2008) delivery Aps Itaqui 15 February was fixed for a trip redelivery Skaw-Gibraltar at USD 27,000 to Messrs Olam. Cargill were linked fixing the HSL Varna (82,000/2022) Incheon 27 January for a trip via NoPac redelivery Singapore-Japan at USD 18,500, whilst the Pan Viva (75,026/2010) Kushiro 27 January went for a Pacific round trip rumored via NoPac at USD 17,000. S'hail Al Rayan (76,629/2006) (Klaveness) Yosu 29 Jan fixed tct via NoPac redel Spore-Japan intn grains USD 14,500 – Bunge.

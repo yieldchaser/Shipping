@@ -1,0 +1,26 @@
+---
+id: "fe5ac4d5-70a7-4437-b884-8252c1117b0a"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2026-03-27"
+year: 2026
+week: 13
+title: "Fearnleys S&P Weekly Comment - 2026-03-27"
+---
+
+# Fearnleys S&P Weekly Comment (2026-03-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2026-03-27 (Week 13)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `fe5ac4d5-70a7-4437-b884-8252c1117b0a`
+
+---
+
+## Market Commentary
+
+A notable fall in recorded sales this week as the fallout from the conflict in the Middle East intensifies. The disruption is such, that even if the war was to end today and the Strait of Hormuz was to be reopened immediately, oil markets and cargo flows in the best case would take c.4 months to return to normal levels. As a result, it is likely oil and energy prices will remain high despite some headlines claiming the war to be nearing an end. It is good news for some owners in the short term however, with scarcely believable returns on offer across crude and products sectors. Those willing to take money off the table will find no shortage of suitors, however most will find it hard to pass up the immediate earnings environment even if lofty price targets are met by buyers. Some activity though this week, with DPP trading MR HIGH SEAS (49K DWT HMD 2012) sold for USD 27.6M. The dry market is suffering similarly to the tanker space in terms of liquidity. Pricing is firm, alongside earnings that have come off in the short term, while also facing questions over longer term macro demand, should the conflict in the Middle East continue. It appears that buyers are less sensitive to pricing and earnings outlook, and having quality tonnage on the water is the primary concern. This is evidenced by FRONTIER GARLAND (181K DWT Imabari 2011) selling at USD 36.5M, sold at a time where capesize rates have retreated from previous Q1 highs.

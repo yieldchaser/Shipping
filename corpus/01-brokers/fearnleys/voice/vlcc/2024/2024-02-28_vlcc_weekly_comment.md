@@ -1,0 +1,26 @@
+---
+id: "7847361c-0505-4c07-afed-a0beac75f8c3"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-02-28"
+year: 2024
+week: 9
+title: "Fearnleys VLCC Weekly Comment - 2024-02-28"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-02-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-02-28 (Week 9)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `7847361c-0505-4c07-afed-a0beac75f8c3`
+
+---
+
+## Market Commentary
+
+A softening market in the East, as the 10-20 March window slowly got underway in the MEG. With charterers working quietly, yet efficiently, rates have fallen to the WS 60 level at the time of writing (Korean cargoes a touch less, albeit on older tonnage), the speed of said drop much to the surprise of some market commentators. Evidently, a combination of ever lengthening position lists and lack of open market volume taking its toll. The much talked about ‘bottom’ of the market is continually being sort, but current fundamentals suggest we are not there yet. Some strength to be found in the Atlantic however, with a USG cargo reportedly only gaining 2 offers at USD 10m + off early April dates, but Petrobras were able to gather 6-7 offers on their stem for 23-24 March, so vessels are ballasting from the East, and a potential dilution more than possible.

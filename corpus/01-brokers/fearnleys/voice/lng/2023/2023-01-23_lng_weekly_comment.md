@@ -1,0 +1,26 @@
+---
+id: "C0FC2DBC-BD0D-45B9-A58F-24526DE80377"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-01-23"
+year: 2023
+week: 4
+title: "Fearnleys LNG Weekly Comment - 2023-01-23"
+---
+
+# Fearnleys LNG Weekly Comment (2023-01-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-01-23 (Week 4)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `C0FC2DBC-BD0D-45B9-A58F-24526DE80377`
+
+---
+
+## Market Commentary
+
+As we hop into the first days of the Year of the Rabbit, the LNG spot market continues to soften in both basins on ample prompt vessel availability and lack of near-term requirements. However, with fresh speculation and abuzz of Freeport finally coming back online, and with vessels lining up outside the Terminal as of late, a plateau in rates could be found in the coming weeks should a start-up be confirmed… so, either the rabbit will come out of the hat, or we go deeper into the hole! On the Term side of the equation, rates similarly continue to lull alongside spot, but activity does not. With the prevailing rate environment conducive in its weakened state, Traders and Majors alike are now back on the “bid” and reported to have conclude some 1-Year and multi-month fixtures in the last week. That said, as we work our way towards Q2 and vessels continue to get picked off, we expect the seasonal firming on term rates to take hold and liquidity to slowly bubble away. On the newbuilding front, all eyes are hungrily affixed on the remaining open NB availability through to 2027, with no long-term fixtures reported this week. Similarly, no new orders have been reported this week as well. In the meantime, to all our friends and colleagues having celebrated the Lunar New Year, best wishes and Gong Xi Fa Cai!

@@ -1,0 +1,30 @@
+---
+id: "5667ad68-dd42-439a-b3d8-64dbd892404b"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-07-24"
+year: 2024
+week: 30
+title: "Fearnleys Capesize Weekly Comment - 2024-07-24"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-07-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-07-24 (Week 30)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `5667ad68-dd42-439a-b3d8-64dbd892404b`
+
+---
+
+## Market Commentary
+
+On the West Australia front, the week started off with depressed volumes but slowly picked up as we approached mid-week with enquiries from some miners and operators. Players are primarily seeking for first half of August dates, and we see buying activity from operators for second half August albeit limited enquiries. Volumes out of East Australia are a tick up. On C3 ex Brazil to China, we see enquiries for full August dates while things were quiet on the West Africa front.
+
+**Far East**
+
+ spot tonnage is abundant. Ballasting tonnage is thinning for first half of August and heavily weighted on second half of August. On C5, we see fixtures concluding at sub USD 9.50 pmt levels. On C3, fixtures were concluding at mid to high USD 24 pmt levels by mid-week for late August and early September dates.

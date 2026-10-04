@@ -1,0 +1,30 @@
+---
+id: "9779207a-b337-4a48-a53d-c861e9a71492"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-12-06"
+year: 2023
+week: 49
+title: "Fearnleys Supramax Weekly Comment - 2023-12-06"
+---
+
+# Fearnleys Supramax Weekly Comment (2023-12-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2023-12-06 (Week 49)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `9779207a-b337-4a48-a53d-c861e9a71492`
+
+---
+
+## Market Commentary
+
+Handy: The USG market remains firm. Furthermore, scarcity of tonnage is pushing rates higher and owners continue demanding premium.
+
+**USG**
+
+-Continent fixture reported at mid 26k levels. More activity seen in the ECSA market with multiple cargoes in market, however owners shy away from fronthaul biz with the market booming in Atlantic. On the Pacific side, we see the usual Indonesia-China run being fixed at mid 9k levels. Supra/Ultra: With the boom in the USG-ECSA market, rates for a Supra doing ECSA-China run reported around USD 23k levels and the USG-Continent route paying upwards of USD 33k. The Pacific markets are also firming up with increased activity. The usual Indonesia-China runs paying USD 17k levels and the WC India-China route going upwards of USD 20k. Overall, although we see a slight correction in the FFA market, physical market shows positive momentum which is expected to continue until the onset of holiday season. Given the continued scarcity of tonnages in the USG-Atlantic market, we expect the rate to remain stable in the region. As for the Pacific side, with the NOPAC grains season now we expect more activity and expect slight improvement in rates for the usual trade routes.

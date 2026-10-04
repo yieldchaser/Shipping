@@ -1,0 +1,26 @@
+---
+id: "0fc7f5f2-e6b4-4d3f-8c64-eaa3e22cc898"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-03-06"
+year: 2024
+week: 10
+title: "Fearnleys Capesize Weekly Comment - 2024-03-06"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-03-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-03-06 (Week 10)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `0fc7f5f2-e6b4-4d3f-8c64-eaa3e22cc898`
+
+---
+
+## Market Commentary
+
+On the C5 front, we witnessed a strong start to the week with miners, operators, and some tenders for second half of March dates. By midweek, players out in market dropped. In comparison, things are relatively quieter on the East Australia front. Activity in the Pacific increased slightly from last week. Volumes on South African and Indian business remains relatively flat from last week. On C3 ex Brazil to China and West Africa, enquiries are primarily for second half of March and first half of April dates. Ballasting tonnage is moderate for second half of March and first half of April. On C5, the week started off strong with fixtures concluding at mid USD 14 pmt levels, retreating to sub USD 13 pmt levels by midweek. On C3, we see some resistance between offer ideas standing above USD 30 pmt versus bid ideas at USD 28 to USD 29 pmt levels.

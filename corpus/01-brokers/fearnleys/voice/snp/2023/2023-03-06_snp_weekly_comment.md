@@ -1,0 +1,26 @@
+---
+id: "8470479A-3EAD-461E-9B70-D4C43128F07A"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-03-06"
+year: 2023
+week: 10
+title: "Fearnleys S&P Weekly Comment - 2023-03-06"
+---
+
+# Fearnleys S&P Weekly Comment (2023-03-06)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-03-06 (Week 10)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `8470479A-3EAD-461E-9B70-D4C43128F07A`
+
+---
+
+## Market Commentary
+
+The tanker charter market roared back into life this week with the biggest intraday rate jump in recent memory seen yesterday. In the S&P space, healthy MR TC returns are proving too alluring to resist, with market players flocking to snap up units all along the age curve. MTM shed 3 units, MTM MANILA/YANGON/MUMBAI (46K DWT 2003 HMD) to Chinese buyers, while Norden and Ridgebury both offloaded one unit respectively in the form of scrubber fitted NORD SKATE (51K DWT 2009 STX) for USD 24.25M and RIDGEBURY MERCURY (46K DWT 2008 HMD) for USD 21M. Price ideas, particularly for late 2000s units are on the rise, with some prospective buyers beginning to rethink their intentions. In the larger sizes, all over the age curve, prices continue to rise with USD 35M now needed to purchase a 2004 blt Suezmax, seen in the form of KRITI DIAMOND (166K DWT 2004 BRODOSPLIT) to undisclosed buyers. Elevated activity levels in the dry market have seemingly put the recent market misfortunes firmly in the rear-view mirror, as sentiment and momentum build. Quality designs and yards are in demand with Supramax IVS Pinehurst (58K DWT 2015 TSUNEISHI CEBU) being sold for USD 23.5M by Grindrod to Greek buyers, and Supramax IGNAZIO (58K DWT 2010 TSUNEISHI CEBU) being sold for USD 15M. Last week’s reported sale of Supramax SUPRA ONIKI (57K DWT 2010 QINGSHAN), has since failed at USD 13M, with increased levels likely to be required to develop a new transaction. Oldendorff made headlines on the sales of 4 modern Chinese built scrubber-fitted Ultramax units JAN/JONAS/JENS/JACOB OLDENDORFF (61K DWT 2019 NACKS/DACKS) at USD 32M per unit, market players are sure to be taking note of this in what is a very popular sub sector.

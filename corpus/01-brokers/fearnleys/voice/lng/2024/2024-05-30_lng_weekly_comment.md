@@ -1,0 +1,26 @@
+---
+id: "1056ada8-e348-4059-a6b8-986e2e5c29cf"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2024-05-30"
+year: 2024
+week: 22
+title: "Fearnleys LNG Weekly Comment - 2024-05-30"
+---
+
+# Fearnleys LNG Weekly Comment (2024-05-30)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2024-05-30 (Week 22)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `1056ada8-e348-4059-a6b8-986e2e5c29cf`
+
+---
+
+## Market Commentary
+
+A slow start to the week following Spring Bank Holiday in the UK, contrasting the flurry of fixtures last week mainly in the US Gulf. Fixing levels were higher and competition for requirements is a little less fierce in the Atlantic, although, charter rates have remained stable in the Pacific basin. Prompt vessel availability continues to be high East of Suez, indicating a high inventory level in the Far East receiving terminals. On the cargo front, prices show little volatility the trend remains bearish, although a small arbitrage has pulled cargoes East which explains the strengthening in the Atlantic. With the spot market slow, companies are focusing on the term market to secure winter tonnage and levels are rising. No Newbuilds to report this week but we do say farewell to an old steamer, the second vessel recycled this year, but one assumes not the last.

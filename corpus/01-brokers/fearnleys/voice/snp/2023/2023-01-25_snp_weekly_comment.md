@@ -1,0 +1,26 @@
+---
+id: "3FB0BB15-6B18-48E0-BDD2-D54E1D274476"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-01-25"
+year: 2023
+week: 4
+title: "Fearnleys S&P Weekly Comment - 2023-01-25"
+---
+
+# Fearnleys S&P Weekly Comment (2023-01-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-01-25 (Week 4)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `3FB0BB15-6B18-48E0-BDD2-D54E1D274476`
+
+---
+
+## Market Commentary
+
+Another SnP week dominated by tanker activity with headlines stolen by Torm’s acquisition of a total of seven LR1s. The transaction confirmed on Thursday doubles Torm LR1 fleet with 4 vessels bought from Jo Invest AS and a further 3 units from ST Shipping & Transport. Total price tag for the tally stands at Usd 233m marking the substantial appreciation in values we continue to see in the broader tanker space but more particularly on the product front. Elsewhere in the tanker space the theme of the last few quarters remains unchanged with ice class units and older large tankers finding buyers at hefty premiums. The limited number of reported sales in the Dry market is not necessarily reflective of the activity brewing under the surface. Buying enquiries are increasing week after week with a number of market players calling the bottom with bids in line with last done. A level of enquiry that up until now has not yet been met with expected flow of market candidates with potential sellers still deliberating their timing. Saying that, this heighten competition and lack of available tonnage is driving certain buyers to offer premiums in order to dig out the right candidate which should lead to more transactions in the near future.

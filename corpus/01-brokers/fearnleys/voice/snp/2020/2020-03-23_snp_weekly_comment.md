@@ -1,0 +1,26 @@
+---
+id: "D6218124-54E9-44A3-9237-9764E8B3B368"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-23"
+year: 2020
+week: 13
+title: "Fearnleys S&P Weekly Comment - 2020-03-23"
+---
+
+# Fearnleys S&P Weekly Comment (2020-03-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-03-23 (Week 13)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `D6218124-54E9-44A3-9237-9764E8B3B368`
+
+---
+
+## Market Commentary
+
+Tanker owners continue to enjoy the ride. Floating storage is presently the name of the game and our tanker analysts estimate fifteen to twenty VLCC's have been taken up for storage up until now. The 2005 built VLCC YUGAWASAN was inspected this week in Singapore and upto eight prospective buyers went on-board with a sale expected soon. The three Chinese controlled VLCC's NEW CREATION built 2009 Dalian, NEW TALISMAN built 2009 Bohai and NEW CORAL built 2010 Jiangnan are reported committed on subjects at Usd 43 mill each but we await further details. The sale of 2012 Japanese built Aframax NANYANG STAR is a bit of a cold shower for values. After a previous deal failed to be confirmed, reports suggest the vessel has now been sold below Usd 30 mill. Dry sales are thin on the ground and we have yet to see new benchmarks for capesize with the rumoured failure of GREAT NAVIGATOR built 2006 Universal which had been reported sold to Greece for region Usd 14 mill. Capesize NEW STAGE built 2008 Namura is reported to have been inspected by five parties this week of which four Greek and one Chinese. Buyers and Sellers are generally out of sync on pricing, but we are slowly seeing opportunistic buyers appear who are ready to take advantage of the current market downturn.

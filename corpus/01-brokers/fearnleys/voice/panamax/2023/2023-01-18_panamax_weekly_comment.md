@@ -1,0 +1,26 @@
+---
+id: "C862C35C-F3EA-405F-AD96-F39217BE2661"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-01-18"
+year: 2023
+week: 3
+title: "Fearnleys Panamax Weekly Comment - 2023-01-18"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-01-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-01-18 (Week 3)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `C862C35C-F3EA-405F-AD96-F39217BE2661`
+
+---
+
+## Market Commentary
+
+The week showed some push on FFA triggering some period activity. The North Atlantic appeared mostly unchanged, and concerns with little fresh demand and further ships adding to the count, early and committed tonnage still forced to concede APS levels at softer levels. Further South, as with recent days there appeared some support with better bids heard and healthier levels getting agreed. Asia saw a minor upturn, whether this was a pre-Lunar holiday push or had substance remains to be seen, as aside from a few fresh Indonesia cargoes first thing the arena still lacked any depth in demand. Period news included the scrubber fitted Loch Long (81,994/2013) Japan 25/30 January fixed basis 1-year period at a rate in the realms of USD 17,500-18,000 with Messrs Olam with the scrubber benefit heading to charterers.

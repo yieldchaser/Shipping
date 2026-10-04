@@ -1,0 +1,26 @@
+---
+id: "2714FF71-7C11-4223-B68A-273DA5719442"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-12-21"
+year: 2022
+week: 51
+title: "Fearnleys Capesize Weekly Comment - 2022-12-21"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-12-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-12-21 (Week 51)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `2714FF71-7C11-4223-B68A-273DA5719442`
+
+---
+
+## Market Commentary
+
+As often seen before the market is pushing before the holidays as owners already covered themselves in a typical healthy Q4 and charterers seeking to cover as most of the market participants take a week off. Week on week the market has gained a significant amount of USD 8904 (62%), and there is still a lot of prompt cargo around to be covered. That said, forward predictions are still very limited compared to index, and we do see a strong interest from ships with slightly forward dates trying to take advantage of the spike. Hence it’s hard to see that the current levels will maintain for a longer time.

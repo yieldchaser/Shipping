@@ -1,0 +1,26 @@
+---
+id: "d7a763f9-0663-458d-bae1-ea3453df80dc"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2026-04-23"
+year: 2026
+week: 17
+title: "Fearnleys LPG Eastern Weekly Comment - 2026-04-23"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2026-04-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2026-04-23 (Week 17)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `d7a763f9-0663-458d-bae1-ea3453df80dc`
+
+---
+
+## Market Commentary
+
+Another week of volatility as the US-Iran talks remains unclear and supply disruptions continues. A Korean importer bid in window for a May FOB 2/2 or 4/0 cargo ex Yanbu at $850 for C3 and C4 respectively. By the time of writing, May CP swap was assessed at $710 for C3 and $755 for C4, with the May/June CP spread at an $80 backwardation. Terminal fees dropped sharply as arbs narrowed further with slackening far east demand. FEI/Lst declined to $300 for May and $255 for Jun by the time of writing. An early Jun lifting 2/2 cargo ex US was reportedly sold to an Indian player at low 30s cpg, and a similar ratio for later Jun loading heard in 20s range. However, a 4/0 parcel for 1h Jun lifting was done at 18 cpg only. U.S. propane/propylene inventories rose by 2.1 mmt barrels to 77.9 million barrels in the week ended 17th Apr, leaving stocks remained 71.5% higher year on year. Activity in the Asian was muted earlier this week, as market participants monitored US–Iran talks before committing to June programs. Outside window, one 23/0 parcel for 2h May delivery basis Chiba was changed hand at May FEI plus around $70. Similar parcel for 2h Jun delivery was concluded at May FEI plus $7-8. Additionally, a couple of Jun arrival 46/0 parcels have been placed into Echina at May FEI plus high $30s reportedly, which equates to Jun FEI plus mid $80s based on latest swap. Chinese PDH run rate fell by 10% to 46% in two weeks, which subsequently led to significant reduction in propane demand. With flat prices and discussing premium easing, PDH margins have slightly improved. Hopefully, some plants might restart on schedule rather than extend maintenance.

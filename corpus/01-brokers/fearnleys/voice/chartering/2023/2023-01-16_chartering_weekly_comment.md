@@ -1,0 +1,26 @@
+---
+id: "F3B5D466-172C-465A-9CF2-68F91276194E"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-01-16"
+year: 2023
+week: 3
+title: "Fearnleys Chartering Weekly Comment - 2023-01-16"
+---
+
+# Fearnleys Chartering Weekly Comment (2023-01-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2023-01-16 (Week 3)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `F3B5D466-172C-465A-9CF2-68F91276194E`
+
+---
+
+## Market Commentary
+
+EAST Freight has been coming off substantially on the back of a lengthy positions list in the Middle East. We gradually shift focus towards second decade February fixing with 6 deals concluded off the first 10 days so far. Next decade still looks long shipping and we see some downside left in the market. WEST After having seen two very active weeks to the start of 2023 it seems the Western freight market has taken a small breather. Currently we count 30 spot fixtures out of the USG/USEC so far in February - 15 early, 7 mid, and 8 for end Feb dates. On the position list we still see up to 6 ships available for the month with half of them being relets, but some of them could still end up in MEG. Charterers currently seem comfortable waiting as sentiment softening.

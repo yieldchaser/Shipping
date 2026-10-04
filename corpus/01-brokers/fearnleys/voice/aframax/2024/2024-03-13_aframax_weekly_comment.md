@@ -1,0 +1,26 @@
+---
+id: "89d20027-3a22-45fa-9ab1-3a5231bc2dd2"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-03-13"
+year: 2024
+week: 11
+title: "Fearnleys Aframax Weekly Comment - 2024-03-13"
+---
+
+# Fearnleys Aframax Weekly Comment (2024-03-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2024-03-13 (Week 11)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `89d20027-3a22-45fa-9ab1-3a5231bc2dd2`
+
+---
+
+## Market Commentary
+
+The North Sea from end of last week into this week has seen consistent enquiry pushing dates into 3rd decade. An active fuel oil market taking vessels out of the area either T/A or into the Red Sea, combined with a continued stream of ballasters has depleted the early tonnage but natural tonnage turning around and tonnage coming into the area should repopulate the list into the end 3rd decade. Firmer sentiment. Upward pressure to the Mediterranean Aframax market this week. A subdued, steadier feel in the first half was eclipsed as rates jumped mid-week with fixing window pushing out to end month for East Mediterranean cargoes and last 5 days in North Africa. Further pressure on tonnage and rates in the short term but a steady turn-around of vessels should replenish list heading into April.

@@ -1,0 +1,26 @@
+---
+id: "BB9BC176-DE6B-49B1-AF33-FCBCB752FF75"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-07-05"
+year: 2023
+week: 27
+title: "Fearnleys Panamax Weekly Comment - 2023-07-05"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-07-05)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-07-05 (Week 27)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `BB9BC176-DE6B-49B1-AF33-FCBCB752FF75`
+
+---
+
+## Market Commentary
+
+Another negative week for Atlantic with no positive vibes for short term as supply simply overweight cargo counts. NCSA grain has been slightly active, but the rest of the market including Black Sea remain quiet with limited flow of minerals. Fronthaul bids are at mid teen and transatlantic at 6k on bki standard from Gib. Further south, market remains bearish with lengthy tonnage heading towards ECSA combined with FFA drop, are the tools to the charterers pushing for further discount.

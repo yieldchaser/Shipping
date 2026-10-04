@@ -1,0 +1,26 @@
+---
+id: "51E9CD55-DC78-4E2B-A4BC-27ED465F674E"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-10"
+year: 2020
+week: 11
+title: "Fearnleys Capesize Weekly Comment - 2020-03-10"
+---
+
+# Fearnleys Capesize Weekly Comment (2020-03-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2020-03-10 (Week 11)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `51E9CD55-DC78-4E2B-A4BC-27ED465F674E`
+
+---
+
+## Market Commentary
+
+Still very sad times for the big ships, and merit in further trading at present levels is highly debatable for most tonnage. Spot fixtures in many cases reflect zero to negative daily income, with owners even taking on contractual risks of potential further virus-related losses. This stated, the West Australia/China iron ore conference trade presently sees increased volumes. Values for Pacific rounds are nevertheless at far below operating expenses, and best case at a nominal USD 3,300/day. Period activity is moderate and interest remains cautious, with representative recent conclusions including 174,000/2006 spot China fetching USD 12,700 basis 8-9 months and 179,000/2009, also spot China, done basis BCI AVE5TC + 3 pct.

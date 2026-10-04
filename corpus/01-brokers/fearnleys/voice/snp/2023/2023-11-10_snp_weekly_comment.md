@@ -1,0 +1,26 @@
+---
+id: "33a57ed4-7d28-400a-bccd-da806ea1f4f3"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-11-10"
+year: 2023
+week: 45
+title: "Fearnleys S&P Weekly Comment - 2023-11-10"
+---
+
+# Fearnleys S&P Weekly Comment (2023-11-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-11-10 (Week 45)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `33a57ed4-7d28-400a-bccd-da806ea1f4f3`
+
+---
+
+## Market Commentary
+
+A busy week again across S&P dominated by Tanker sales, despite a significant proportion of the market occupied in Dubai for Bahri week. On the larger crude tonnage, New Shipping took C. CHALLENGER (313K DWT DALIAN 2013) & C. SPIRIT (313K DWT HHI 2013) for USD 65M and USD 67M respectively, these were sold with tc attached hence the slightly lower than expected price. In the Afra/LR2 sector TORM were extremely busy this week, taking in 8 LR2 tankers built between 2010 – 2012 built at Hyundai Samho for a combination of USD 239M and 5.5M shares (roughly equating to USD 399M), and selling scrubber fitted LR2 TORM MARINA (109K DWT DALIAN 2007) for USD 36.2M to Chinese buyers. This sector is very busy behind the scenes, with more deals likely to emerge before the end of year. Activity continued further down the size curve, with CHEMTRANS URANUS/MERCURY/LEO (37K DWT HMD 2006) selling for USD 18M each to Middle East buyers. A fairly uneventful week on the Dry front as asset values remain relatively high compared to the available earnings in the market. Buyers are therefore encouraged to go bargain hunting in order to have a more attractive investment case, but this of course relies on a motivated seller. Liquidity is still there however, with NIPPON MARU (55K DWT MITSUI 2011) selling for USD 17.3M, and MARLIN V (61K DWT IWAGI ZOSEN 2013) for USD 21.3M. Elsewhere, Genco are rumoured to be the buyers of scrubber fitted Capesize CHOW (181K DWT SWS 2016), which sold in October for USD 41.3M, after releasing an announcement they are due to take delivery of a scrubber fitted SWS 2016 Cape this month.

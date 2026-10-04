@@ -1,0 +1,26 @@
+---
+id: "9f391d5f-9803-4704-be6f-7a04a3ef3a37"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2025-12-10"
+year: 2025
+week: 50
+title: "Fearnleys Supramax Weekly Comment - 2025-12-10"
+---
+
+# Fearnleys Supramax Weekly Comment (2025-12-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2025-12-10 (Week 50)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `9f391d5f-9803-4704-be6f-7a04a3ef3a37`
+
+---
+
+## Market Commentary
+
+The Supramax segment continued to show a positional tone, with the USG seeing some resistance while the South Atlantic softened amid weaker sentiment. Asia remained under downward pressure with further easing reported, and the Indian Ocean stayed finely balanced despite some activity. For Handy, overall conditions were quiet with limited fresh enquiry and a slight softening across most Atlantic regions as open tonnage increased. The South Atlantic and US Gulf carried a weaker undertone, while Asia held largely steady though a longer tonnage list applied mild pressure. Rates across both basins generally hovered around last-done levels with no major shifts.

@@ -1,0 +1,26 @@
+---
+id: "73cfc357-6353-458d-8d3f-6a39f4ee0bd0"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-11-24"
+year: 2023
+week: 47
+title: "Fearnleys S&P Weekly Comment - 2023-11-24"
+---
+
+# Fearnleys S&P Weekly Comment (2023-11-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-11-24 (Week 47)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `73cfc357-6353-458d-8d3f-6a39f4ee0bd0`
+
+---
+
+## Market Commentary
+
+Whether it was celebrated or not, tanker market players would have been giving thanks this week for the fortuitous position they find themselves in as the sector remains hot. Although a relatively quiet week, behind the scenes there are rumours of a 2019 eco VLCC seeing interest in the region of USD 110m levels that would recalibrate valuation models across the sector. Older Aframax tankers have received a boost this week with AEGEAN MYTH (115K DWT 2006 SAMSUNG) being transacted at USD 37.5M to Chinese buyers, showing that current freight rates are proving hard to resist. Elsewhere, Chinese interests secured J19 ALBATROSS TRADER (19K DWT 2015 USUKI) for USD 29.3M. Rallying chartering markets on the Capesize front is building up anticipation for an ever-increasing level of enquiry. NGM securing in time the Capesize sisters GLORY/HONOR (179K DWT 2011 HHI) for USD 26.5M per unit from compatriots Unisea - levels that most would consider a relative bottom in light of ever bettering earnings. Final price on Ultramax ZEYNO (63K DWT 2014 DAYANG) was revealed to be USD 22M, rather in line with market expectations. With most players cautiously heading into 2024, the busy nature of the S&P market in this year-end suggests sentiment is mending across segments with hope that these invigorated earnings are here to stay.

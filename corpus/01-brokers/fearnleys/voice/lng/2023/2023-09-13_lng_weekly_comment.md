@@ -1,0 +1,26 @@
+---
+id: "e4e98cc8-9931-43b5-b8ea-34531d283152"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-09-13"
+year: 2023
+week: 37
+title: "Fearnleys LNG Weekly Comment - 2023-09-13"
+---
+
+# Fearnleys LNG Weekly Comment (2023-09-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-09-13 (Week 37)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `e4e98cc8-9931-43b5-b8ea-34531d283152`
+
+---
+
+## Market Commentary
+
+Following the resounding success of the Gastech conference in Singapore, LNG shipping is riding a wave of renewed optimism. Industry players have returned to their offices around the world with fresh insights and a collaborative spirit, and are now directing their attention towards chartering in preparation for the impending winter season and supporting ADP processes for next year. We are at the time of year when floating cargoes may start to emerge, and there is a contango through to December and with storage levels high there is also operational storage on the table. Risks to the downside include geopolitical factors (or industrial strikes) that could disrupt supply chains and influence pricing, although as we saw last year in particular such factors can reduce volume but higher LNG prices can produce a frenzy to secure tonnage. As the LNG shipping landscape evolves, stakeholders are closely monitoring these dynamics to make informed decisions and seize opportunities in this dynamic sector. This week saw no newbuilding orders, with the persistently limited availability of shipyard slots and the ongoing strength in newbuilding prices.

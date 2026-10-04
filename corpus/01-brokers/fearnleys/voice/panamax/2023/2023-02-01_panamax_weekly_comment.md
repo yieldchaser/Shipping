@@ -1,0 +1,26 @@
+---
+id: "64DD69F7-E1B2-4744-A2C3-5AD5A70AFD0F"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-01"
+year: 2023
+week: 5
+title: "Fearnleys Panamax Weekly Comment - 2023-02-01"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-02-01 (Week 5)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `64DD69F7-E1B2-4744-A2C3-5AD5A70AFD0F`
+
+---
+
+## Market Commentary
+
+The Atlantic market was described as sideways at best with limited activity surfacing. Certainly, sentiment appeared weaker still, despite some talk of off market business being banded around, and rates softened again. Asia by contrast came into its own with several better deals reported ex NoPac and Australia, whilst further South ex Indonesia sources spoke of better demand today, but trading appeared cautious so far with a wide bid/offer spread appearing.

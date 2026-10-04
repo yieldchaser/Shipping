@@ -1,0 +1,30 @@
+---
+id: "8E558606-FB60-453B-97FF-75A30E5C2A51"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2022-10-18"
+year: 2022
+week: 42
+title: "Fearnleys LPG Eastern Weekly Comment - 2022-10-18"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2022-10-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2022-10-18 (Week 42)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `8E558606-FB60-453B-97FF-75A30E5C2A51`
+
+---
+
+## Market Commentary
+
+MEG Saudi Aramco released Nov acceptance with some advancements reported, which could be resulted by nomination from lifters for late month loading, in view of contango structure and soaring freight. And with Oil production cuts in Nov, we believe producers shall have less spot avails compared to previous months. Evenly split cargo for Nov lifting was reported done at CP minus mid high teens. Qatar Petroleum was reported to sell a mid Nov lifting propane. Nov C3 CP rebounded to $578 from $550 earlier this week, and C3/C4 narrowed down to $10. And Nov/Dec C3 was traded at $3 contango.
+
+**FAR EAST**
+
+ Cash premiums have improved with a bunch of buying inquiries surging. A couple of 23/0 for 2h Nov delivery was changed hand at FEI minus $1.5 to $2.5. Meanwhile, there are some talks on disruptions on Iran supply for Nov arrival cargoes due to maintenance and strikes, hence lending supports to the front market. A couple of cargoes in heavy propane or evenly split ratio for Nov delivery were reported placed into China at Nov CP plus 40ish. Off window, it’s another hectic week with a handful of tenders. One Korean importer was reported to award their buy tender for 23/0 during 19-23th Nov delivery at Nov FEI minus small digit. Another Korean petchem player also tendered to procure 11kt butane for 2h Nov delivery. One SChina PDH user issued buy tender for two 23/0 parcels on Nov and Dec delivery each. Another EChina PDH also issued similar tender to secure a 23/0 for early Nov prompt delivery. One SChina traditional importer canceled its buy tender for late Nov delivered 11/11 parcel as offers are higher than expectation. One Vietnam PDH player tendered to buy 23/0 or 46/0 for 10-30th Nov delivery. Apart from spot tender, one NChina PDH importer issued tender to buy monthly 46kt propane for next year delivery.

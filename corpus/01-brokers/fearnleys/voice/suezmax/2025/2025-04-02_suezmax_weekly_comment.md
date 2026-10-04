@@ -1,0 +1,26 @@
+---
+id: "80c0054f-e5ce-4421-bc66-a81240814d35"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-04-02"
+year: 2025
+week: 14
+title: "Fearnleys Suezmax Weekly Comment - 2025-04-02"
+---
+
+# Fearnleys Suezmax Weekly Comment (2025-04-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2025-04-02 (Week 14)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `80c0054f-e5ce-4421-bc66-a81240814d35`
+
+---
+
+## Market Commentary
+
+The list stateside is still extremely thin and Afras are holding steady a little below us, approx the equivalent of 5 points or lump sum wise USD 170k basis last done levels. Thus, we have a positive supply side dynamic and a nice floor for the time being. However on the flip side, the VLCCs moved a lot for 3rd decade April, Liza fixed down 7.5 pts and we have UKCM vessels that will make better cash ballasting TA Vs fixing TD20 at WS 100. This dynamic for ballasters will hold even if we depress to Aframax levels for USG/TA. That being said, the number of vessels that can make end 2nd/early 3rd decade from UKCM is not too extensive so owners should not lose hope. For TD20 fortunes are a little more sketchy. We don’t foresee owners in Europe that can play on USG cargoes to willingly dip below the WS 100 mark due to the aforementioned dynamic unless run and dates are well aligned. However, we have prompt local vessels and ballasters from the East that will be more competitive. Additionally, 2nd decade stems are all covered (more or less) which further plays into charterers hands as we approach the weekend. The MEG has been a dead zone this week, day by day the list lengthens and it will only be a matter of time before levels depress from last done. We have, however, seen little volume moved for 2nd decade so it could just be the case that charterers are sitting back to allow the list to build.

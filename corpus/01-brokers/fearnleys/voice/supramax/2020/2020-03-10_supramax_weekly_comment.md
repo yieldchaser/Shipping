@@ -1,0 +1,26 @@
+---
+id: "277A7F55-F042-4310-92D2-D4C5FC86EAC4"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-03-10"
+year: 2020
+week: 11
+title: "Fearnleys Supramax Weekly Comment - 2020-03-10"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-03-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-03-10 (Week 11)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `277A7F55-F042-4310-92D2-D4C5FC86EAC4`
+
+---
+
+## Market Commentary
+
+Still remaining positive, with lack of tonnage in certain areas pushing rates upwards. The Continent market has been very tight, and remains firm although with bit more tonnage available compared to last week. From ECSA TA's paying around USD 16,500 to the Mediterranean, and around USD 14,000+400k gbb for front haul. In the Indian Ocean, ships fixing around USD 12,500+250k gbb to China, while further east Indonesia/China RV paying around USD 7,000 from Singapore.

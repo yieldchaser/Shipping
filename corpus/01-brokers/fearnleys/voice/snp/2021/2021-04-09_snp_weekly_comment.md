@@ -1,0 +1,26 @@
+---
+id: "AFE037BB-F4A0-420C-B6F8-5D37492C61AE"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-04-09"
+year: 2021
+week: 14
+title: "Fearnleys S&P Weekly Comment - 2021-04-09"
+---
+
+# Fearnleys S&P Weekly Comment (2021-04-09)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2021-04-09 (Week 14)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `AFE037BB-F4A0-420C-B6F8-5D37492C61AE`
+
+---
+
+## Market Commentary
+
+A shift of activity this week with the tanker sector seeing an increased level of activity. Vintage crude carriers have joyed of strong buying interest with DHT reported to have disposed of three 2004 DSME built scrubber-fitted VLCC’s. The number of comparable VLCC's now sold amount to seven over the past month with Far Eastern buyers leading the charge. Notable activity in the product space with the sale of “OVERSEAS GULF COAST” (2019, HMD, 50k dwt) which was sold to Eastern Pacific Shipping at a price of Usd 32.5m. The transaction breaks a long streak of inactivity for units of such vintage considering that the last comparable sale dates back end of last year. This notable illiquidity on the modern front is particularly well illustrated by a relatively flat value curve. We have seen a substantially lower number of dry sales compared to the frenzy witnessed over the past few weeks. Notable sale this week is “NORD STELLAR” (2016, Hudong, 82k dwt) sold for Usd 25.5m to Greek buyers. Same vessel was sold for Usd 20m early December last year, ex-name SBI Zumba.

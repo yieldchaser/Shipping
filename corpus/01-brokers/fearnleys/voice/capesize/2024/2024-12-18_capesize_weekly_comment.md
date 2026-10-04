@@ -1,0 +1,30 @@
+---
+id: "cb8fa974-6d0e-4164-a09a-cf4cf2126083"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-12-18"
+year: 2024
+week: 51
+title: "Fearnleys Capesize Weekly Comment - 2024-12-18"
+---
+
+# Fearnleys Capesize Weekly Comment (2024-12-18)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2024-12-18 (Week 51)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `cb8fa974-6d0e-4164-a09a-cf4cf2126083`
+
+---
+
+## Market Commentary
+
+On the West Australia front, miners and operators enquiring primarily for early January dates. Overall, the number of players enquiring for freight have dropped compared to last week. Volumes out of East Australia remain flat with a decent number of WCSA enquiries for late January to early February dates. For C3 ex Brazil to China, some operators are out primarily for second half of January. On the West Africa front, there seems to be some delays experienced.
+
+**Far East**
+
+ spot tonnage remains heavy for prompt, spot and several positions coming up for forward dates. Ballasting tonnage level remains ample for full January with some still able to make late December dates. On C5, we see fixtures concluding at low-mid USD 7 pmt levels on Monday, retreating to mid-high USD 6 pmt levels by mid-week. On C3, fixtures concluded at low-mid USD 16 pmt levels for mid January.

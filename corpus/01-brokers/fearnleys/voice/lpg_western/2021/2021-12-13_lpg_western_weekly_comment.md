@@ -1,0 +1,26 @@
+---
+id: "74C00437-0E02-4ADA-B5B2-7A8DEBB04FAC"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2021-12-13"
+year: 2021
+week: 50
+title: "Fearnleys LPG Western Weekly Comment - 2021-12-13"
+---
+
+# Fearnleys LPG Western Weekly Comment (2021-12-13)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2021-12-13 (Week 50)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `74C00437-0E02-4ADA-B5B2-7A8DEBB04FAC`
+
+---
+
+## Market Commentary
+
+AMERICAS Primary propane inventory levels in the U.S. as of 10 Dec stand at 70.9mmbbls, according to the EIA, or nearly 85% of last year and 86% of two years ago – an improvement from just a few weeks ago. However, the week-over-week data showed a rather surprising 2.4mmbbl decline from the 73.3mmbbl level. The current totals are expected to include corrective data from the last week, however, and expectations are for next week’s data to again include corrected data. Meanwhile, though, the market was slow to respond, but ultimately trading ended at a mildly higher price point, and today’s trading has seen propane values increase to over $1.06/gal. U.S. export volumes are healthy, having improved from reduced rates earlier in Q4. Additionally, petrochemical consumption levels have notched upwards (and are pegged for Dec at around 310,000bbls/day, including PDH requirements). Propane production in the U.S. is now pegged at 2.425mmbbls/day, or 121,000bbls/day higher than mid-Dec 2020. On a year-over-year basis this equates to approximately 3.63mmbbls of additional monthly production. Weather-related demand in the U.S. has been negligible as yet, though a strong Arctic front is now being forecast for the Christmas/New Year’s timeframe. Terminals fees are seen on the buy side in the upper 5cpg range, with sellers offering in the mid/upper 6cpg levels.

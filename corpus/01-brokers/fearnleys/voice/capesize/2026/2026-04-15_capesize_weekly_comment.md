@@ -1,0 +1,30 @@
+---
+id: "14671dcc-f54f-4be1-96e8-db5bd5eaf6ef"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2026-04-15"
+year: 2026
+week: 16
+title: "Fearnleys Capesize Weekly Comment - 2026-04-15"
+---
+
+# Fearnleys Capesize Weekly Comment (2026-04-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2026-04-15 (Week 16)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `14671dcc-f54f-4be1-96e8-db5bd5eaf6ef`
+
+---
+
+## Market Commentary
+
+This week on Capesize, we saw strengthening across all major segments. Both basins are active and trading above paper, with C3 in USD 32 and C5 pushing mid USD 13s. Charterers continue to look for Brazil and West Africa options but fixing remains slow for the time being while second half May ballaster lists build. In the North Atlantic we see limited fresh transatlantic demand. Sentiment remains steady to firm.
+
+**Pacific**
+
+ C5 market firms further today with upward momentum and active early trading. Current range is USD 13-13.5 with last done at USD 13.3 for late April dates. Overall pacific tonnage is tight in West Australia for late April and early May dates, setting a strong bullish bias. Overall both basins C3 (Brazil/China) and C5 (West Australia/China) remain active with cautiously bullish short term sentiment. C3 (Brazil/China) 1-10 May bids USD 29.75, offers USD 33, 11-20 May bids USD 31, offers USD 32, 21-31 May bids USD 30.75. C5 (West Australia/China) 25-27 April last done USD 13.3, 28-30 April last done at USD 13.3.

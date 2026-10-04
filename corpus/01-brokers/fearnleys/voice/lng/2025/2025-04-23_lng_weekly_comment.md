@@ -1,0 +1,26 @@
+---
+id: "a3872b99-acd9-41d6-9bec-6b4c177aa176"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2025-04-23"
+year: 2025
+week: 17
+title: "Fearnleys LNG Weekly Comment - 2025-04-23"
+---
+
+# Fearnleys LNG Weekly Comment (2025-04-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2025-04-23 (Week 17)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `a3872b99-acd9-41d6-9bec-6b4c177aa176`
+
+---
+
+## Market Commentary
+
+The LNG shipping market continues to offer a safe haven for those of us looking for logic to underpin market movements, in a world where rhyme seems to bear more weight than reason in influencing financial markets. A marginal opening of the arbitrage has seen additional demand arise in the Atlantic just at a time when open tonnage lists have been squeezed especially for relatively prompt requirements. It hasn’t been an easy year for tri-fuel vessels but a couple of fixtures last week were the first to nudge the market up, and since then 2-strokes have taken up the baton to push levels higher still. By contrast, pressure is growing in the Pacific where very few cargoes have been worked and there remains a large oversupply of relatively modern tonnage on the prompt. The stark difference in expectations for rates spanning into 2027 and beyond continues to hold up liquidity on longer term charters, and the sweet spot remains periods of 1-to-2 years. We are seeing an increasing number of vessels in lay-up and for sale as expected in current market conditions, which does lend support to the possibility of an earlier than expected recovery. Perhaps with the continued ramp up of new projects through 2025 we could see this impact continue to grow, where a strong preference for larger size and more modern technology of tonnage creates a considerably tighter supply outlook on the shipping side.

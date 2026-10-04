@@ -1,0 +1,26 @@
+---
+id: "B60CA572-0F14-4C6E-9D4C-97D58DE8D8FD"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2021-03-01"
+year: 2021
+week: 9
+title: "Fearnleys Panamax Weekly Comment - 2021-03-01"
+---
+
+# Fearnleys Panamax Weekly Comment (2021-03-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2021-03-01 (Week 9)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `B60CA572-0F14-4C6E-9D4C-97D58DE8D8FD`
+
+---
+
+## Market Commentary
+
+A slow start to the week with little fresh demand in the Atlantic took a turn on Tuesday when volumes out of ECSA increased. FFA values and volumes also picked up – however in the North Atlantic the slow trend has continued. P1A is currently priced at mid/high 18k. In the Pacific the trend has generally been flat with some reports of increased demand mid-week. P3 is currently trading in the high 19k.

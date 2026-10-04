@@ -1,0 +1,26 @@
+---
+id: "05751597-ce05-4103-bc21-8c1b097bfcee"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-03-25"
+year: 2026
+week: 13
+title: "Fearnleys VLCC Weekly Comment - 2026-03-25"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-03-25)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-03-25 (Week 13)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `05751597-ce05-4103-bc21-8c1b097bfcee`
+
+---
+
+## Market Commentary
+
+The Strait of Hormuz remains shut for all practical purposes. However, the likes of Yanbu and Oman is attracting more attention from owners as more ships are released from previous commitments from inside the MEG. There is a feeling out there that a (false?) sense of security is sneaking in on the back of reports that US and Iran are set to talk, and the perception is growing that these alternative load options have become less exposed - and with that rates have come under pressure. The Atlantic is the popular spot, and more ships are heading west. Rates are date dependent, with the front-end loading window under pressure, and paying accordingly, whereas further out on the curve competition is tightening. The Afra- and Suezmax segments continue to fire on all cylinders with their bigger sisters hoping economy of scale will soon tip things more in their favour.

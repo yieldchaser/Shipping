@@ -1,0 +1,26 @@
+---
+id: "6A13239E-F781-43A6-8FBB-F8F2DE8FAD41"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-05-24"
+year: 2023
+week: 21
+title: "Fearnleys Capesize Weekly Comment - 2023-05-24"
+---
+
+# Fearnleys Capesize Weekly Comment (2023-05-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2023-05-24 (Week 21)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `6A13239E-F781-43A6-8FBB-F8F2DE8FAD41`
+
+---
+
+## Market Commentary
+
+Cape rates are under pressure despite relatively ok demand in the Pacific. On the main route c5, the miners have been present, but rates have not been going anywhere, rather slightly down. Overall index is off a couple of thousands, and the biggest drop is in the most volatile par; the Atlantic. Sentiment is dull, but analysts are forecasting an upturn will be coming, along with the summer.

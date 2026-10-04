@@ -1,0 +1,26 @@
+---
+id: "ed485392-6382-47ee-8ead-9d7bbf630889"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2025-12-17"
+year: 2025
+week: 51
+title: "Fearnleys VLCC Weekly Comment - 2025-12-17"
+---
+
+# Fearnleys VLCC Weekly Comment (2025-12-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2025-12-17 (Week 51)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `ed485392-6382-47ee-8ead-9d7bbf630889`
+
+---
+
+## Market Commentary
+
+The VLCC market is searching a bit for direction at the moment, illustrated among other things with eg TD3C paper this morning at WS 110 vs WS 123 for the balance of the month. As always, the “mind game” between pushing for rate change and wishing to clear the deck before the Christmas holidays is present this time of year. Early January MEG stems are now out, sure to be tweaked a bit, but so far little if anything has been done for January loading baring the normal China Inc scheduling. Assuming a bit of left over lolly for December the 35 odd ships free of cargo on the water we counted this am will all be needed, and maybe then some. Oilco/trader relets being pushed to some degree tend to be just window dressing. The Atlantic is still dominated by Brazil and relets and Suezmaxes appear to have the hegemony for everything else.

@@ -1,0 +1,26 @@
+---
+id: "3AE9C977-2E06-4CAE-B6E3-539EF9A4662B"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2022-08-01"
+year: 2022
+week: 31
+title: "Fearnleys LNG Weekly Comment - 2022-08-01"
+---
+
+# Fearnleys LNG Weekly Comment (2022-08-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2022-08-01 (Week 31)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `3AE9C977-2E06-4CAE-B6E3-539EF9A4662B`
+
+---
+
+## Market Commentary
+
+With TTF sitting comfortably above $60/MMBtu, it’s not surprising to see Charterers paying up for 2-Strokes. But with spot loadings fixing at a fraction of the Term rates, there’s a big spread to be bridged between now and Winter. Of course, geopolitical uncertainty is high and given the dollars at stake with every cargo, it’s arguably sound risk management to go into Q4 comfortably long. For those Owners who can monetise their length, however, recent reports of $200k pdpr deals in the 2-Stroke segment should provide the necessary incentive to optimise. Speaking of which, optimisation on the prompt is alive and well with an interesting development this past week being the emergence of very prompt cargoes in both basins. This has provided some excellent “keep cool” voyages for owners but also suggests that: i. projects are trying to squeeze out additional cargoes, and ii. portfolio players see real value in fine-tuning their schedules. If we see enough of these cargoes emerge, spot rates will firm again but for now, the only guaranteed strengthening comes from the yards, with Newbuild prices up again this week.

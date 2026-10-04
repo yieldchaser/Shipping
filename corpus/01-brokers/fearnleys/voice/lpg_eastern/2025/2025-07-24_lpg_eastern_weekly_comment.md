@@ -1,0 +1,30 @@
+---
+id: "649ea124-08f8-4a87-8587-6c336fad7717"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-07-24"
+year: 2025
+week: 30
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-07-24"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-07-24)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-07-24 (Week 30)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `649ea124-08f8-4a87-8587-6c336fad7717`
+
+---
+
+## Market Commentary
+
+**MEG:** A couple of 2h Aug lifting evenly split cargo was offered in window at Aug CP minus $20s yet to attract buyer interests, as last trade concluded at minus $40s. Qatar Energy issued sale tender to market one 3/1 and one 2/2 cargo for 23/28 Aug lifting. By the time of writing, Aug CP was traded at $530 for C3 and C3/C4 at $18. Aug/Sep CP was traded at $5 contango.
+
+**FAR EAST**
+
+: Cash differentials for 2h Aug and 1h Sep delivered propane were still in heavy discounts. On Thurs window 23/0 parcel for 1h Sep CFR Chiba was changed hand at Aug FEI minus $7.5, equivalent to Sep FEI minus mid-teens. Similar parcel for 2h Aug delivery was offered at Aug FEI minus $27 but barely see bids. Outside window a flurry of tenders is floating, especially from petchem procurement in view of the improved margins. FIC procured a 23/0 parcel for 2h Aug delivery into Ningbo at a fixed price around $550 via tender. Grand resources awarded their buy tender Sep arrival propane at CP plus 10s. Sailboat cancelled their last buy tender for 1h Aug delivery as few suitable offers but awarded their new tender for flexible ratio delivered from Aug to Sep. Korean HTC was reported to award 23kt C4 for early Sep delivery at Aug MOPJ minus 40s. Sinobenny also issued buy tender for 1/1 or 0/ delivered from late Aug to end Sep.

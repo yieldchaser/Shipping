@@ -1,0 +1,30 @@
+---
+id: "3278423C-31DC-4949-AE1D-AB4DB9B726BA"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-02-01"
+year: 2023
+week: 5
+title: "Fearnleys VLCC Weekly Comment - 2023-02-01"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-02-01 (Week 5)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3278423C-31DC-4949-AE1D-AB4DB9B726BA`
+
+---
+
+## Market Commentary
+
+A steady week with small movements up in the East and down in the West, so a bit of a dichotomy.
+
+**MEG**
+
+ has the potential for improvement, more through resistance than enquiry, as rates for MEG/China inching up to the WS 50 level and as VLCCs stamp all over the Suezmax market. Some additional questions from the MEG at the time of writing, as charterers close out a subdued 10-20 window. Still, owners are realizing Eastern enquiry outweighing a quiet and gently softening Atlantic market (USG/China down to USD 7.2m), so we see some owners previously willing West having a change of heart. Across all load areas this week, the usual pattern of ships on subs with a scarcity of details. Over 25 vessels fixed away and the market none the wiser. And there lies why any market swings will remain a point or so either side of last done.

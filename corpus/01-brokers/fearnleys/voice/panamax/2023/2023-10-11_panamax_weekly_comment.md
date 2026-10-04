@@ -1,0 +1,26 @@
+---
+id: "446ce5b0-8b47-44f1-be2a-c1a59b13694e"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2023-10-11"
+year: 2023
+week: 41
+title: "Fearnleys Panamax Weekly Comment - 2023-10-11"
+---
+
+# Fearnleys Panamax Weekly Comment (2023-10-11)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2023-10-11 (Week 41)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `446ce5b0-8b47-44f1-be2a-c1a59b13694e`
+
+---
+
+## Market Commentary
+
+The Panamax market witnessed a divergence with significant congestion in Brazil and a tight Pacific market, notably due to Indonesian coal supply disruptions and low minor bulk demand from China. Contrarily, the Atlantic market presented a flat and uneventful week despite occasional spurts of activity in specific routes. The forthcoming market trajectory is closely tied to potential changes in bulk demands and regional coal supply dynamics; we do not expect any significant changes to the Panamax market in the near term.

@@ -1,0 +1,26 @@
+---
+id: "0643A16E-05D0-4B16-943A-B1A2B606FD84"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-05-02"
+year: 2022
+week: 18
+title: "Fearnleys Panamax Weekly Comment - 2022-05-02"
+---
+
+# Fearnleys Panamax Weekly Comment (2022-05-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2022-05-02 (Week 18)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `0643A16E-05D0-4B16-943A-B1A2B606FD84`
+
+---
+
+## Market Commentary
+
+A slow week, which was expected perhaps following holidays and in parts of the world the start of week. This said the Atlantic kicked off on a slightly firmer footing than previous with some talk of positional tightness in areas. Asia was said by some to have found a floor but with limited activity so far impacted by varying holidays it was less easy to call so far, according to sources. Some representative fixtures this week: The Chailease Virtue (80,647/2011) Gibraltar 9/10 May was said to have been secured on subjects for a front haul trip at USD 37,250. LBC Earth (70,578/2012) Hamburg 2/3 May was rumoured to have fixed for a transatlantic trip redelivery Skaw-Gibraltar at a rate in excess of USD 25,000. AG Amar (82,084/2017) PMO 4/9 May TCT via ECSA redel MEG USD 31,500 - D'Amico. Crimson Empress (82,250/2014) Immingham 8/9 May fxd subs 2 legs redel Atlantic USD 31,000 – Aquatrade (corrects 3/5). Wooyang Shipping TBN 75,000/10 coal Balikpanan/Hadong 17/21 May 25000SATPMSHEX UU/21000SHINC USD 12.42 FIO – Kepco Tender.

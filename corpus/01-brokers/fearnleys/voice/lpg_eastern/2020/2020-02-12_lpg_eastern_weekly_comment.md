@@ -1,0 +1,30 @@
+---
+id: "2B840044-040D-48BD-9906-52C3BD9896EE"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2020-02-12"
+year: 2020
+week: 7
+title: "Fearnleys LPG Eastern Weekly Comment - 2020-02-12"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2020-02-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2020-02-12 (Week 7)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `2B840044-040D-48BD-9906-52C3BD9896EE`
+
+---
+
+## Market Commentary
+
+Mar Propane Cp has surged up to $404, and butane remains at $35-37 higher. Kuwait has issued tender to sell one equal ratio cargo for 6/7th Mar loading and the result is yet to know. Fob discussions level has gradually declined from previous high single premium, to mid single digit, and still under downward pressure as of deep backwardation into April at $37. This being said, lifters would prefer to have later laycan instead of earlier dates if with later month pricing option.
+
+**Far East**
+
+ Market: Earlier this week in window, Propane for 2h Mar delivery has been traded at Mar Fei plus small premium. And due to the foggy weather in Houston Gulf, buying ideas is edging up to mid single digit on Thursday. China still suffered from the coronavirus outbreak. Despite some enterprises has resumed activities, strict traffic control and road closures has still refrained logistics transportation. Some PDH has lowered down run rate as slackened demand on end products. Refineries also cut rates amid high product stock. One Echina PDH has issued buy tender to secure propane for 2h Mar into May delivery, tender due on 18th Feb. And another Petchem company also tendered to buy 22kt butane for 1st decade Mar delivery.

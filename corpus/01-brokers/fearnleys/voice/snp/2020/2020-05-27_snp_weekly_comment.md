@@ -1,0 +1,26 @@
+---
+id: "E8AB9CBF-481E-41F5-8C75-4E0F62D08901"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-05-27"
+year: 2020
+week: 22
+title: "Fearnleys S&P Weekly Comment - 2020-05-27"
+---
+
+# Fearnleys S&P Weekly Comment (2020-05-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2020-05-27 (Week 22)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `E8AB9CBF-481E-41F5-8C75-4E0F62D08901`
+
+---
+
+## Market Commentary
+
+A pickup in activity this week, with a number of countries around the world returning to some form of relative normality. In the tanker space, the majority of vessels changing hands remain those of older vintage, whereas mentioned last week sellers are more lenient and willing to go meet buyers at levels below the last done that were set over the past stronger weeks. On the more modern side of the spectrum, the stand-off remains with the few remaining potential sellers still holding off for levels set at the peak of the aforementioned market. As expected, following the recent increase of Buying enquiries, the dry SnP markets are seeing a number of transactions taking place with new benchmarks being set. A number of potential sellers have now got clearer visibility on the potential bids and are willing to test the market by making candidates available for inspections. Although the panamax and post-panamax segments have seen a couple of units being sold this week there still is a notable lack of activity in the capesize market rendering it difficult to assess where pricing currently lies. This price dislocation being particularly well illustrated by the Taiwanese controlled MV “NEW STAGE” (176,877 dwt built 2008 Namura) which was withdrawn after seeing a top offer of Usd 14m against sellers expectation of Usd 16m.

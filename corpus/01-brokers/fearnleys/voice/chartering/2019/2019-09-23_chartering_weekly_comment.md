@@ -1,0 +1,26 @@
+---
+id: "8383456D-7DBC-4956-99BB-E619F49FBCB6"
+source: "Fearnleys"
+desk: "Chartering"
+sector: "Period Chartering"
+comment_type: "Chartering Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-09-23"
+year: 2019
+week: 39
+title: "Fearnleys Chartering Weekly Comment - 2019-09-23"
+---
+
+# Fearnleys Chartering Weekly Comment (2019-09-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Chartering (Period Chartering)
+- **Publication Date:** 2019-09-23 (Week 39)
+- **Comment Type:** Chartering Weekly Comment
+- **Record ID:** `8383456D-7DBC-4956-99BB-E619F49FBCB6`
+
+---
+
+## Market Commentary
+
+WEST In the West this week, we saw the strengthening in freight we have been anticipating for some time. A flurry of fixtures led to the market being incredibly tight, while favourable conditions on the product side also contributed to strong demand for freight. Increased demand for fixing further ahead suggests that some of this strength could remain into Q4, and with more ships scheduled to dry dock in the coming months this could be a real possibility. Let’s see! EAST The east freight market has remained relatively quiet this week and we are still seeing a lot of ships being directed back West on the back of higher freight premiums there. Some may argue that this should lead to further tightness of shipping in the East, however we are still seeing relets being pushed out by traders which could balance things out. Next fixing window will be around 2H Oct dates and last done deal remains at $56 all inclusive

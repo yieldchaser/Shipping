@@ -1217,8 +1217,62 @@ def process_single_pdf(
     sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
     # Update cover-to-cover md in data/extracted/md/intermodal/<year>/<stem>.md
+    if not full_text.startswith("---"):
+        # Strip duplicate title banner if already present at start of text
+        full_text = re.sub(r'^\s*#+\s*Weekly\s+Market\s+Report\s*\n+', '', full_text.strip(), flags=re.I)
+        fm = [
+            "---",
+            f'title: "Intermodal Weekly Market Report - Week {wk}, {year_str}"',
+            f'issue_date: "{issue_date}"',
+            f'year: "{year_str}"',
+            f'report_week: {wk}',
+            'broker: "Intermodal Shipbrokers"',
+            'category: "market_report"',
+            f'source_file: "corpus/01-brokers/intermodal/{year_str}/{pdf_path.name}"',
+            f'pages: {pages_count}',
+            "---",
+            "",
+            f"# Intermodal Weekly Market Report - Week {wk}, {year_str}",
+            "",
+            f"**Issue Date:** {issue_date} | **Pages:** {pages_count} | **Publisher:** Intermodal Shipbrokers  ",
+            "",
+            "---",
+            ""
+        ]
+        full_text = "\n".join(fm) + "\n" + full_text
+
+    # Prune any table columns that are 100% blank across all rows
+    def _prune_blank_cols(tbl_match):
+        lines = tbl_match.group(0).strip().splitlines()
+        if len(lines) < 3:
+            return tbl_match.group(0)
+        hdrs = [c.strip() for c in lines[0].split('|')[1:-1]]
+        row_lines = lines[2:]
+        col_has_val = [False] * len(hdrs)
+        for r in row_lines:
+            cells = [c.strip() for c in r.split('|')[1:-1]]
+            for idx in range(min(len(cells), len(col_has_val))):
+                if cells[idx] and cells[idx] != '-':
+                    col_has_val[idx] = True
+        if all(col_has_val):
+            return tbl_match.group(0)
+        # Keep only active columns
+        active_indices = [i for i, has_v in enumerate(col_has_val) if has_v]
+        if not active_indices:
+            return tbl_match.group(0)
+        new_hdrs = [hdrs[i] for i in active_indices]
+        out_lines = ['| ' + ' | '.join(new_hdrs) + ' |', '| ' + ' | '.join(['---'] * len(new_hdrs)) + ' |']
+        for r in row_lines:
+            cells = [c.strip() for c in r.split('|')[1:-1]]
+            new_cells = [cells[i] if i < len(cells) else '' for i in active_indices]
+            out_lines.append('| ' + ' | '.join(new_cells) + ' |')
+        return '\n'.join(out_lines) + '\n'
+
+    full_text = re.sub(r'(\|(?:[^\n]+\|)+\n\|(?:\s*[-:]+[-| :]*)\|\n(?:\|(?:[^\n]+\|)*(?:\n|$))+)', _prune_blank_cols, full_text)
+
     dest_md = dest_dir / f"{stem}.md"
     dest_md.write_text(full_text, encoding="utf-8")
+    (OUT_MD_DIR / f"{stem}.md").write_text(full_text, encoding="utf-8")
 
     return {
         "stem": stem,

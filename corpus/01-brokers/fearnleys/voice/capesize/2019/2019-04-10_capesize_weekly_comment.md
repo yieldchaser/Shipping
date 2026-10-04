@@ -1,0 +1,26 @@
+---
+id: "920AA4CA-21BB-406F-A2B2-48D80FA5AF88"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-04-10"
+year: 2019
+week: 15
+title: "Fearnleys Capesize Weekly Comment - 2019-04-10"
+---
+
+# Fearnleys Capesize Weekly Comment (2019-04-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2019-04-10 (Week 15)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `920AA4CA-21BB-406F-A2B2-48D80FA5AF88`
+
+---
+
+## Market Commentary
+
+Despite overall disappointing returns and poor freight levels, there has been a positive trend this week with index gradually up every day. The c5 route is slowly approaching USD 5 pmt whilst c3 remains around USD 13 pmt level with very few charterers active on this route. There is less tonnage left in the Atlantic, resulting in a relatively big increase in the fronthaul rates. There is generally more interest in period tonnage although the overall sentiment is expecting a recovery will take more time.

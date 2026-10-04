@@ -1,0 +1,26 @@
+---
+id: "5e43485e-0a22-4af6-8b31-0d60405d459e"
+source: "Fearnleys"
+desk: "Panamax"
+sector: "Dry Bulk"
+comment_type: "Panamax Weekly Comment"
+comment_subtype: "Dry Bulk Weekly Comment"
+date: "2024-01-10"
+year: 2024
+week: 2
+title: "Fearnleys Panamax Weekly Comment - 2024-01-10"
+---
+
+# Fearnleys Panamax Weekly Comment (2024-01-10)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Panamax (Dry Bulk)
+- **Publication Date:** 2024-01-10 (Week 2)
+- **Comment Type:** Panamax Weekly Comment
+- **Record ID:** `5e43485e-0a22-4af6-8b31-0d60405d459e`
+
+---
+
+## Market Commentary
+
+Based on the latest reports, thermal coal demand in Asia remains subdued. Additionally, the South American grain export season has yet to start. These factors have contributed to the weakening of the market as expected. Regarding the seasonal average market development, the market is expected to reach a bottom in either week 5 or week 6. However, it is important to note that the market is subject to fluctuations and can be influenced by a variety of factors.

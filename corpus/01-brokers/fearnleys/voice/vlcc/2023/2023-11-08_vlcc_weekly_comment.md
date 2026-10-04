@@ -1,0 +1,26 @@
+---
+id: "3d22f1a8-8011-4215-88fe-5161a0875840"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-11-08"
+year: 2023
+week: 45
+title: "Fearnleys VLCC Weekly Comment - 2023-11-08"
+---
+
+# Fearnleys VLCC Weekly Comment (2023-11-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2023-11-08 (Week 45)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `3d22f1a8-8011-4215-88fe-5161a0875840`
+
+---
+
+## Market Commentary
+
+A different story for Dubai week 2023. This time last year rates were jumping and owners’ sentiment climbed like the mercury in an Emirati morning. At present, deals will certainly be getting done under the surface, but unlikely charterers will be accepting of a last done. Certainly no major drops on the horizon, but given the lack of open activity, rates will be chiseled at and TD3 likely sits just below WS 70. The Atlantic, although promising much, is yet to deliver. With little done for USG exports in December the expectation is for more activity, but with little to work with or shout about, owners unable to drive up from the USD 10.2m levels. Again, any charterer will be aiming lower. Undoubtedly it is busier than it seems, but with ‘over the dinner table’ deals likely taking the lions share, we will have to wait and see how the Dubai dust settles for true market levels.

@@ -1,0 +1,26 @@
+---
+id: "DF572C66-EF52-4A57-A55E-563C08AAC062"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2021-02-15"
+year: 2021
+week: 7
+title: "Fearnleys LPG Western Weekly Comment - 2021-02-15"
+---
+
+# Fearnleys LPG Western Weekly Comment (2021-02-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2021-02-15 (Week 7)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `DF572C66-EF52-4A57-A55E-563C08AAC062`
+
+---
+
+## Market Commentary
+
+AMERICAS Its hard to stress the severity of the winter storm that has unfolded across Texas from both an energy and more importantly humanitarian standpoint. Millions of people were left without electricity and water for days on end - and as of Thursday morning, while electricity is being restored- due to infrastructure failures- water pressure has yet to return- and a boil order remains in effect. With regard to LPG, the big question is what will be impacted on a larger scale, exports or demand. The four major terminals on the US Gulf have all been impacted, all be it to different extremes. One believes that once they are operational again, they will be able to make up for lost exports in 5 days. Another hopes to be caught up by March 1st, and a third thought they would be up and running by the weekend at the earliest, and would not be fully caught up until march at the earliest, with no spot cargos until April. The last has declared a full force majeure and will have a better idea by Friday of the timeline to recovery. With regard to domestic demand, Severe winter weather has caused nearly every major chemical complex in Texas to board up the windows. Many shut over the weekend as feedstock, power, and natural gas supply has been interrupted at many locations. All that said, cargo discussion has not been completely neglected. A couple of Marcus Hook cargos have been offered last decade march, just below 5 cents- the seller was commanding a premium to the Gulf coast FOB’s due to logistical simplicity (weather, fog, delays etc). In the US Gulf- an all-propane FOB was being discussed much closer to four cents earlier in the week. Though that has yet to change hands and now looks less likely due to the dwindling LST/FEI arbitrage. Due to the holiday weekend, the EIA’s much-anticipated inventory report came out a day late, showing an in line with expectations draw of 2.9 million barrels.

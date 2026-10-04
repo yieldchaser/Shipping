@@ -1,0 +1,30 @@
+---
+id: "731E3C36-871D-4AA4-B3DE-642524654A4B"
+source: "Fearnleys"
+desk: "LPG Western"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Western Market"
+comment_subtype: "Market Commentary"
+date: "2022-09-12"
+year: 2022
+week: 37
+title: "Fearnleys LPG Western Weekly Comment - 2022-09-12"
+---
+
+# Fearnleys LPG Western Weekly Comment (2022-09-12)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Western (Gas Carriers)
+- **Publication Date:** 2022-09-12 (Week 37)
+- **Comment Type:** Gas Market Weekly Comment - Western Market
+- **Record ID:** `731E3C36-871D-4AA4-B3DE-642524654A4B`
+
+---
+
+## Market Commentary
+
+AMERICAS Mont Belvieu propane market levels began September at nearly $1.09/gal but have softened to current levels at around $1.03/gal. Typically, this is the time of year when winter demand begins to reveal itself and prices historically have begun to rise. However, end August propane stocks concluded at 72.2mmbbls only to rise to current levels of 77.9mmbbls, or 5.7mmbbls, in the space of two weeks when the 5-year average build for 1H Sep is 1.42mmbbls per week. 2H Sep build rate averages are roughly half that at 707,000bbls per week, which from a starting point of 77.9mmbbls – and with three weeks remaining – should allow stock levels to easily eclipse the 80mmbbl mark. Just a month ago this was not being widely forecast, and as such the propane inventory gains explain the weakness in the domestic pricing structure. US propane stock levels are presently 10% higher than last year, and 77% of two years ago. Meanwhile, with big ship freight rates continuing to march upwards, terminal fees have correspondingly been undermined with buy-side interest limited and well below 4cpg. Sell-side interest is presently at/above 4cpg depending on timing/location/grade, etc, and the number of cargoes being offered continues to rise. LatAm demand was punctuated this week with a CFR supply tender issued by a Chilean importer, while Mexican demand is anticipated to increase as Q4 nears, temperatures decline, and demand begins to improve. NWE The anticipation of increased demand is starting to be seen as traders start to bid in the window. This has pushed the physical window to a +$3pmt premium to October CIF ARA. The transatlantic flow of VLGCs has been restricted to term commitments during the summer. Spot interest into the region is picking up since US inventories look set to be able to sustain exports this winter. CIF ARA propane has returned to a discount to naphtha which has been welcomed by pethcems, but at -$9pmt we are not about to see run-rates increase from the 70% capacity they were reduced to. The two factors keeping the run rates low are low demand for finished products and high energy costs to produce them, an unwelcome double whammy. As the weather cools and inland demand picks up, European traders are cautiously making plans to import more cargoes. Butane has remained firm at 95% September Naphtha, though no public trades have been seen recently.
+
+**MED**
+
+ Butane in the region is a buyers’ market, with both regional producers and US exporters looking to find a home for C4 in the region. Propane demand has increased as traders look to fill storages before winter. Not due to forecasts of cold weather, more due to supply uncertainties which could cause price spikes.

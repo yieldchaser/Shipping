@@ -1,0 +1,30 @@
+---
+id: "064ae614-eca4-4ea4-8406-f4f52fb91481"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2026-04-29"
+year: 2026
+week: 18
+title: "Fearnleys VLCC Weekly Comment - 2026-04-29"
+---
+
+# Fearnleys VLCC Weekly Comment (2026-04-29)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2026-04-29 (Week 18)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `064ae614-eca4-4ea4-8406-f4f52fb91481`
+
+---
+
+## Market Commentary
+
+The VLCC market eased over the course of the week as MEG disruption continued to displace tonnage and intensify competition across the remaining trading options. The East was pressured by a growing availability list. A Yanbu/Korea market quote attracted 8 offers and was concluded at WS 145. Activity from Brazil/USG remained steady with combination of charterers scheduling own tonnage and some market quotes.
+
+**USG**
+
+ requires some incremental volume to stabilise levels.

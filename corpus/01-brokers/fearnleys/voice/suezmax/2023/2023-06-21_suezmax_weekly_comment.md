@@ -1,0 +1,26 @@
+---
+id: "707E7AE7-4575-456D-BD94-1F095EFEAFE0"
+source: "Fearnleys"
+desk: "Suezmax"
+sector: "Crude Tankers"
+comment_type: "Suezmax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2023-06-21"
+year: 2023
+week: 25
+title: "Fearnleys Suezmax Weekly Comment - 2023-06-21"
+---
+
+# Fearnleys Suezmax Weekly Comment (2023-06-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Suezmax (Crude Tankers)
+- **Publication Date:** 2023-06-21 (Week 25)
+- **Comment Type:** Suezmax Weekly Comment
+- **Record ID:** `707E7AE7-4575-456D-BD94-1F095EFEAFE0`
+
+---
+
+## Market Commentary
+
+The market is learning to live with the Nigeria Freight Tax issue, as highlighted by latest TD20 cargo attracting 9 offers, with reportedly four of those offers not containing restrictive tax wording. With that in mind, this pocket of the Atlantic will remain slightly inflated compared to other neighboring markets, at least this side of the weekend, with a softer outlook to come as the market adjusts to this kerfuffle. The Med' and Black Sea have been adequately supplied with tonnage coming through the Canal and this will cap TD6 at max WS 125 for early second decade enquiry. The East has experienced sustained, first decade enquiry, which has seen plus 15yr vessels attain WS 125 for MEG/East, comfortably pricing a modern unit at WS 130 for the same run.

@@ -1,0 +1,30 @@
+---
+id: "8e0644dd-d850-430c-82de-ace03b3973bd"
+source: "Fearnleys"
+desk: "LPG Eastern"
+sector: "Gas Carriers"
+comment_type: "Gas Market Weekly Comment - Eastern Market"
+comment_subtype: "Market Commentary"
+date: "2025-01-23"
+year: 2025
+week: 4
+title: "Fearnleys LPG Eastern Weekly Comment - 2025-01-23"
+---
+
+# Fearnleys LPG Eastern Weekly Comment (2025-01-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LPG Eastern (Gas Carriers)
+- **Publication Date:** 2025-01-23 (Week 4)
+- **Comment Type:** Gas Market Weekly Comment - Eastern Market
+- **Record ID:** `8e0644dd-d850-430c-82de-ace03b3973bd`
+
+---
+
+## Market Commentary
+
+MEG Cash differentials for Feb lifting even split cargo maintain at Feb Cp minus mid teens, reflecting the slim buying interests on Fob end. However such discounts yet to entice buyer interests, as buyers’ expectations on FOB netback lingers at minus 30s/40s range, owing to the negative FEI/CP. By the time of writing, Feb C3 Cp was traded at $633 and Feb C3/C4 was assessed at $11.
+
+**FAR EAST**
+
+ Cash premium for 23/0 Feb delivery edged down to low single, as most players have finalised their Feb program. Whereas similar parcel for 1H Mar delivery was bid at Mar FEI plus $10, ij view of potentials delays caused by US port closure due to bad weather. Some 4/0 parcel for 1H Mar delivery was placed into North China at Mar FEI plus high single digit to low teens reportedly, and similar bids were shown in window on Thurs. Other than propane, the limited butane supply due to the closed arb from US has supported the front FEI C4, which was assessed at $18 higher than FEI C3, coupled with a plenty of butane buy tenders surging from SEA, South China and Korean importers. Apart from normal stem, three Iranian cargos, with one evenly split and two heavy propane ratios, arriving basis SChina mid/2h Feb are on sale via tender.

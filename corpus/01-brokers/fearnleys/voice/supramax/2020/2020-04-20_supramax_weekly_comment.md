@@ -1,0 +1,30 @@
+---
+id: "252C7AA8-E012-4FC3-B732-5E4C286F2109"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2020-04-20"
+year: 2020
+week: 17
+title: "Fearnleys Supramax Weekly Comment - 2020-04-20"
+---
+
+# Fearnleys Supramax Weekly Comment (2020-04-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2020-04-20 (Week 17)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `252C7AA8-E012-4FC3-B732-5E4C286F2109`
+
+---
+
+## Market Commentary
+
+The Supramax and Ultramax market continued drifting south and we see little hope of recovery in the week to come. Lack of cargoes and weak sentiment are pushing rates further down.
+
+**USG**
+
+ and ECSA experienced another negative trend with rates for backhaul trips in the $ 4,000 pd from Cont – Med to USG – ECSA direction and USG-ConT paying around $ 6,000 pd bss APS SW Pass. An Ultra from NCSA rumoured to fixed $ 8,000 pd for TCT to Rotterdam. Rates to Far East for Ultramax delivery Santos been reported $11,000 pd + 120,000 GBB. The market in Asia and Indian Ocean are still under pressure, with spot rates in a negative trend. A Tess 52 was able to obtain $3,000 pd for Pacific round voyage. Aps rates for South East Asia and Indo round voyages was paying slightly more at around $ 4/4500 pd .

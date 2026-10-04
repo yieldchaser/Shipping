@@ -1,0 +1,26 @@
+---
+id: "5B76E68D-A95B-4078-A391-DFC9E7E7BEBF"
+source: "Fearnleys"
+desk: "LNG"
+sector: "Gas Carriers"
+comment_type: "LNG Market Report"
+comment_subtype: "Market Commentary"
+date: "2023-02-01"
+year: 2023
+week: 5
+title: "Fearnleys LNG Weekly Comment - 2023-02-01"
+---
+
+# Fearnleys LNG Weekly Comment (2023-02-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** LNG (Gas Carriers)
+- **Publication Date:** 2023-02-01 (Week 5)
+- **Comment Type:** LNG Market Report
+- **Record ID:** `5B76E68D-A95B-4078-A391-DFC9E7E7BEBF`
+
+---
+
+## Market Commentary
+
+The lull in spot activity during Chinese New Year was more than offset by a surge in multimonth business. Charterers who had been holding off as sentiment softened suddenly pounced, and a feedback loop from the noise this generated has led to further vessels being shown through summer, and to more fixtures. The most interest though remains on vessels that can be worked through winter, and the premium they command reflects both the stronger winter sentiment and, more to the point, their scarcity; we don’t expect to see much structural length in the second half of the year. Returning to the spot market, there have been dalliances with an arbitrage and some reloads, but the main driver in the West will be Freeport start up and the pull-back of tonnage.

@@ -1,0 +1,26 @@
+---
+id: "B3613453-1CEF-4FB4-A9F2-A2D2F99FC77D"
+source: "Fearnleys"
+desk: "Capesize"
+sector: "Dry Bulk"
+comment_type: "Capesize Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-12-27"
+year: 2022
+week: 52
+title: "Fearnleys Capesize Weekly Comment - 2022-12-27"
+---
+
+# Fearnleys Capesize Weekly Comment (2022-12-27)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Capesize (Dry Bulk)
+- **Publication Date:** 2022-12-27 (Week 52)
+- **Comment Type:** Capesize Weekly Comment
+- **Record ID:** `B3613453-1CEF-4FB4-A9F2-A2D2F99FC77D`
+
+---
+
+## Market Commentary
+
+“Quiet week” kicked in for the big ships on last few trading days prior Christmas, and spot values have been under pressure across the board since. Whilst Far East has shown fair activity considering the holidays, Atlantic has again turned particularly dull for both fronthaul iron ore/bauxite AND transatlantic coal/ore. This is however not compensated by all major Far East miners + mills being constantly present, although with moderate amounts of business, covering West Australia/Far East lots for early/mid January positions. No change to the better expected before 2023, as a number of players remain absent and vital nations like Japan about to close down completely for the remainder of year as we speak. Expectations for 2023 remain better than feared just weeks ago, with very broad, healthy interest in period candidates and consequent serious competition at richer levels for good units.

@@ -1,0 +1,26 @@
+---
+id: "90B91567-3ECB-47EC-92AA-0C1C53B658CB"
+source: "Fearnleys"
+desk: "S&P"
+sector: "Sale & Purchase"
+comment_type: "SnP Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2023-07-07"
+year: 2023
+week: 27
+title: "Fearnleys S&P Weekly Comment - 2023-07-07"
+---
+
+# Fearnleys S&P Weekly Comment (2023-07-07)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** S&P (Sale & Purchase)
+- **Publication Date:** 2023-07-07 (Week 27)
+- **Comment Type:** SnP Weekly Comment
+- **Record ID:** `90B91567-3ECB-47EC-92AA-0C1C53B658CB`
+
+---
+
+## Market Commentary
+
+One reported sale in the Tanker market this week rather speaks for itself. Tanker S&P activity has shuddered to a halt with summer looming, along with a feeling that prices particularly on larger crude assets are peaking, at least for now. The longer-term outlook remains bullish, shown in the interest for Oman Shipping 2010/2011 blt VLCC trio FIDA/SIFA/SAHAM inviting offers this week, rumoured to have c.15 parties registered with opening offers around USD 62-64M per unit. Interest in Dry bulk is higher behind the scenes than what the deal flow suggests. Buyers are jostling for position on assets across the size curve, as they look for their next play. Of course, this relies on Sellers readjusting their price expectations, despite the overall optimism in the sector. Ultramax KAMBOS 63K DWT COSCO ZHOUSHAN 2015 has been sold to Greek Buyers at USD 24.5M, representing a softening since last done of BCH BRAMBERG (ex DIOMIDIS) 63K DWT JIANGSU JINLING 2015 at USD 25.5M back in April.

@@ -1,0 +1,26 @@
+---
+id: "ac831918-01c4-4c49-bbe6-4a14abb88962"
+source: "Fearnleys"
+desk: "VLCC"
+sector: "Crude Tankers"
+comment_type: "VLCC Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2024-10-23"
+year: 2024
+week: 43
+title: "Fearnleys VLCC Weekly Comment - 2024-10-23"
+---
+
+# Fearnleys VLCC Weekly Comment (2024-10-23)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** VLCC (Crude Tankers)
+- **Publication Date:** 2024-10-23 (Week 43)
+- **Comment Type:** VLCC Weekly Comment
+- **Record ID:** `ac831918-01c4-4c49-bbe6-4a14abb88962`
+
+---
+
+## Market Commentary
+
+Throughout the 20th century, Wednesday has been especially referred to as hump day in an effort to liven up the drudgery of the workweek, although it won’t necessarily cheer up the owning community today. The market for the big ships is not bad by any measure, but with rates having been pushed up towards the WS 60 mark for MEG/East runs in the week gone by, there’s a danger that it’s reach the top of the hump as we turn the corner towards the weekend - with a possible slide down the other side in stall. Charterers have showed resistance leaving owners wondering if “that was it” for the first decade November in the MEG. Few believe that is the case of course, but where there is doubt… one bird in the hand and so on. A few failings have stalled things a bit in the Atlantic too. However, even if rates could be in for an adjustment, seasonal demand should dictate a temporary setback.

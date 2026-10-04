@@ -1,0 +1,26 @@
+---
+id: "0CE7CD52-C141-4671-B081-DF6B0CEF8F59"
+source: "Fearnleys"
+desk: "Supramax"
+sector: "Dry Bulk"
+comment_type: "Supramax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-08-15"
+year: 2022
+week: 33
+title: "Fearnleys Supramax Weekly Comment - 2022-08-15"
+---
+
+# Fearnleys Supramax Weekly Comment (2022-08-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Supramax (Dry Bulk)
+- **Publication Date:** 2022-08-15 (Week 33)
+- **Comment Type:** Supramax Weekly Comment
+- **Record ID:** `0CE7CD52-C141-4671-B081-DF6B0CEF8F59`
+
+---
+
+## Market Commentary
+
+Supramax open Phu My was said to fix trip via Australia redel India at low USD 20,000. From ECSA Supramax open Rio De Janeiro booked for a trip Singapore-Japan at USD 16,000 plus bb USD 600,000. Supramax open Lome was linked to a trip to China at USD 14,500. The other unit open Tema covered for fronthaul delivery Owendo in the mid USD 16,000. All in all, shipment volumes are not growing. Meanwhile the fleet continues to grow at slightly under 3% year on year, meaning downward market pressure remains.

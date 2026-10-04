@@ -107,6 +107,21 @@ def build_complete_markdown(stem: str, pdf_path: Path) -> str:
     doc = pymupdf.open(pdf_path)
     n_pages = len(doc)
 
+    # Check full LlamaParse v2 markdown first
+    v2_md_file = ROOT / "data" / "extracted" / "llamaparse_banchero_v2" / f"{stem}.md"
+    if v2_md_file.exists():
+        raw_v2_text = v2_md_file.read_text(encoding="utf-8")
+        if "<table" in raw_v2_text.lower():
+            import run_banchero_world_class_llama as rb_wcl
+            raw_v2_text = re.sub(r"<table[\s\S]*?</table>", rb_wcl.html_table_to_markdown, raw_v2_text, flags=re.I)
+            raw_v2_text = rb_wcl.polish_markdown_tables(raw_v2_text)
+        header = [
+            f"# {stem}\n",
+            f"source: `{rel_src}`",
+            f"pages: {n_pages} (substantive pages: 2 to {n_pages - 1})\n",
+        ]
+        return "\n".join(header) + "\n\n" + raw_v2_text
+
     # Load LlamaParse items.json if available
     llama_items_file = LLAMA_DIR / f"{stem}.items.json"
     llama_pages_md: dict[int, str] = {}

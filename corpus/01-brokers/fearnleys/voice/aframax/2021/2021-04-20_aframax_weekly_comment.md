@@ -1,0 +1,26 @@
+---
+id: "6977DC65-5D7A-4496-ABE0-2811C51393A0"
+source: "Fearnleys"
+desk: "Aframax"
+sector: "Crude Tankers"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Tank Weekly Comment"
+date: "2021-04-20"
+year: 2021
+week: 16
+title: "Fearnleys Aframax Weekly Comment - 2021-04-20"
+---
+
+# Fearnleys Aframax Weekly Comment (2021-04-20)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Desk:** Aframax (Crude Tankers)
+- **Publication Date:** 2021-04-20 (Week 16)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `6977DC65-5D7A-4496-ABE0-2811C51393A0`
+
+---
+
+## Market Commentary
+
+Despite good activity in the North Sea/Baltic Aframax market lately, rates have been kept around bottom levels. Charterers have capitalized on cheap freight as the substantial overhang of tonnage had to be mopped away before we could see any improvements. Going forward, the tonnage list is looking more balanced and we could expect an upward pressure on rates. Due to cargoes activity not matching the vast amount of available tonnage in the Mediterranean/Black Sea, the market bottomed out last week and has moved sideways since. If the excitement in the USG continues, we may start seeing some owners ballasting their ships TA, however we are not there just yet and we expect the market to continue sideways in the week to come.
