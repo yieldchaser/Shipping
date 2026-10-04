@@ -10,15 +10,19 @@
       "cadence": "weekly",
       "notes": "Live broker tree; PDFs are the ground truth, _digests/ holds normalised .md",
       "path": "corpus/01-brokers",
-      "files": 3050,
+      "files": 6184,
       "by_extension": {
-        ".pdf": 2730,
-        ".md": 318,
+        ".pdf": 2983,
+        ".png": 2678,
+        ".md": 370,
+        ".jpg": 148,
+        ".docx": 2,
         ".csv": 1,
-        ".json": 1
+        ".json": 1,
+        ".jfif": 1
       },
-      "newest_content_date": "2026-09-19",
-      "age_days": 4,
+      "newest_content_date": "2026-09-23",
+      "age_days": 0,
       "status": "LIVE",
       "in_live_processing_path": true,
       "members": [
@@ -45,16 +49,16 @@
       "cadence": "daily-weekly",
       "notes": "iron_ore (MMi, daily), demolition, shipbuilding, dry/tanker charter, vessel valuations + chart assets",
       "path": "corpus/02-hellenic",
-      "files": 14130,
+      "files": 18203,
       "by_extension": {
-        ".jpg": 6587,
-        ".pdf": 3969,
-        ".html": 3204,
+        ".pdf": 8008,
+        ".jpg": 6608,
+        ".html": 3217,
         ".png": 326,
         ".jpeg": 44
       },
-      "newest_content_date": "2026-09-21",
-      "age_days": 2,
+      "newest_content_date": "2026-09-23",
+      "age_days": 0,
       "status": "LIVE",
       "in_live_processing_path": true
     },
@@ -65,18 +69,19 @@
       "cadence": "weekly-daily",
       "notes": "insights/ (near-daily html + charts), drybulk/ + tankers/ (weekly PDF)",
       "path": "corpus/03-breakwave",
-      "files": 18566,
+      "files": 21806,
       "by_extension": {
-        ".png": 10065,
-        ".jpg": 4604,
-        ".html": 3221,
+        ".png": 10091,
+        ".jpg": 4609,
+        ".html": 3234,
+        ".md": 3194,
         ".jpeg": 365,
-        ".pdf": 302,
+        ".pdf": 304,
         ".webp": 7,
         ".htm": 2
       },
-      "newest_content_date": "2026-09-21",
-      "age_days": 2,
+      "newest_content_date": "2026-09-23",
+      "age_days": 0,
       "status": "LIVE",
       "in_live_processing_path": true
     },
@@ -87,15 +92,15 @@
       "cadence": "weekly",
       "notes": "pdfs paired with .md opinions, 2005-2026",
       "path": "corpus/04-poten",
-      "files": 2183,
+      "files": 1088,
       "by_extension": {
-        ".md": 1096,
-        ".pdf": 1087
+        ".pdf": 1087,
+        ".md": 1
       },
-      "newest_content_date": "2026-09-18",
-      "age_days": 5,
-      "status": "LIVE",
-      "in_live_processing_path": true
+      "newest_content_date": null,
+      "age_days": null,
+      "status": "UNKNOWN",
+      "in_live_processing_path": false
     },
     {
       "group": "05-seabrokers",
@@ -104,13 +109,13 @@
       "cadence": "monthly",
       "notes": "97 monthly PDFs (ground truth) + working .md extraction",
       "path": "corpus/05-seabrokers",
-      "files": 194,
+      "files": 197,
       "by_extension": {
-        ".md": 97,
-        ".pdf": 97
+        ".md": 99,
+        ".pdf": 98
       },
-      "newest_content_date": "2026-08-01",
-      "age_days": 53,
+      "newest_content_date": "2026-09-01",
+      "age_days": 22,
       "status": "LIVE",
       "in_live_processing_path": true
     },
@@ -121,15 +126,15 @@
       "cadence": "weekly",
       "notes": "ais/ (AIS weekly PDFs), opinions/ (sector briefs)",
       "path": "corpus/06-drewry",
-      "files": 829,
+      "files": 1386,
       "by_extension": {
-        ".md": 548,
-        ".pdf": 276,
-        ".json": 3,
-        ".csv": 2
+        ".md": 1092,
+        ".pdf": 288,
+        ".csv": 3,
+        ".json": 3
       },
-      "newest_content_date": "2026-09-20",
-      "age_days": 3,
+      "newest_content_date": "2026-09-23",
+      "age_days": 0,
       "status": "LIVE",
       "in_live_processing_path": true
     },
@@ -140,18 +145,22 @@
       "cadence": "weekly",
       "notes": "monitors/, newsroom/, images/, html/, pdfs/",
       "path": "corpus/07-signal",
-      "files": 2400,
+      "files": 2896,
       "by_extension": {
-        ".png": 1073,
-        ".html": 511,
-        ".md": 449,
-        ".avif": 308,
-        ".jpeg": 49,
-        ".pdf": 9,
-        ".csv": 1
+        ".png": 1403,
+        ".html": 515,
+        ".md": 451,
+        ".avif": 425,
+        ".jpeg": 54,
+        ".svg": 17,
+        ".webp": 17,
+        ".pdf": 10,
+        ".jpg": 2,
+        ".csv": 1,
+        ".gif": 1
       },
-      "newest_content_date": "2026-09-21",
-      "age_days": 2,
+      "newest_content_date": "2026-09-22",
+      "age_days": 1,
       "status": "LIVE",
       "in_live_processing_path": true
     },
@@ -162,9 +171,10 @@
       "cadence": "weekly",
       "notes": "HTML fixture circulars by category/year",
       "path": "corpus/08-baltic",
-      "files": 3038,
+      "files": 5261,
       "by_extension": {
-        ".html": 3038
+        ".html": 3043,
+        ".md": 2218
       },
       "newest_content_date": "2026-09-18",
       "age_days": 5,
@@ -178,9 +188,9 @@
       "cadence": "monthly",
       "notes": "Port Hedland + Dampier cargo statistics",
       "path": "corpus/09-ppa",
-      "files": 493,
+      "files": 603,
       "by_extension": {
-        ".pdf": 493
+        ".pdf": 603
       },
       "newest_content_date": null,
       "age_days": null,
@@ -210,9 +220,9 @@
       "cadence": "stopped",
       "notes": "Historical/knowledge-extraction use ONLY; must not enter the live pipeline",
       "path": "corpus/archive",
-      "files": 727,
+      "files": 725,
       "by_extension": {
-        ".pdf": 726,
+        ".pdf": 724,
         ".md": 1
       },
       "newest_content_date": "2026-09-12",
@@ -234,9 +244,10 @@
       "cadence": "static",
       "notes": "12 textbooks, reference corpus for the knowledge base",
       "path": "corpus/books",
-      "files": 12,
+      "files": 24,
       "by_extension": {
-        ".pdf": 12
+        ".pdf": 12,
+        ".md": 12
       },
       "newest_content_date": null,
       "age_days": null,
