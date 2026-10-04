@@ -201,17 +201,28 @@ def extract_desk_commentary(doc: pymupdf.Document) -> str:
 
     for pno in range(len(doc)):
         page = doc[pno]
-        blocks = page.get_text("blocks")
+        blocks = sorted(page.get_text("blocks"), key=lambda b: (b[1], b[0]))
+
+        table_y = 9999.0
+        for b in blocks:
+            u = b[4].strip().upper()
+            if ("VESSEL" in u and "DWT" in u) or "BULKER SALES" in u or "TANKER SALES" in u or "DEMOLITION" in u:
+                if b[1] < table_y:
+                    table_y = b[1]
+
         for b in blocks:
             txt = b[4].strip()
             if not txt:
+                continue
+            # Skip anything at or below the transaction table start
+            if b[1] >= table_y - 5:
                 continue
             # Skip page headers / contact banners / disclaimers
             if b[1] < 120 and ("Clarkson" in txt or "Weekly Bulletin" in txt or "Sale and Purchase" in txt):
                 continue
             if b[1] > 800 and ("Page " in txt):
                 continue
-            if "The material and the information" in txt or "Direct  +(30)" in txt or "Kifissias Avenue" in txt:
+            if "The material and the information" in txt or "Direct  +" in txt or "Kifissias Avenue" in txt or "clarksons.gr" in txt.lower():
                 continue
             if "BALTIC INDEX" in txt or "EXCHANGE RATE" in txt or "BUNKER PRICES" in txt:
                 continue
@@ -309,6 +320,7 @@ def extract_all_transactions(doc: pymupdf.Document, pdf_path: Path, issue_date: 
                         by_cand.append((b[1], "Tanker Sales"))
                     elif "DEMO" in btxt or "RECYC" in btxt:
                         by_cand.append((b[1], "Demolition Sales"))
+            by_cand.sort(key=lambda x: x[0])
             sec = by_cand[-1][1] if by_cand else ("Demolition Sales" if is_demo else "Bulker Sales")
 
             # Extract vessel candidate words

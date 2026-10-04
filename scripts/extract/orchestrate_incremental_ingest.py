@@ -838,20 +838,31 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
 def extract_clarksons(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
     """Specialized extraction for Clarksons Platou Hellas."""
-    import run_clarksons_hellas_world_class as rcw
+    import run_clarksons as rc
+    from datetime import datetime
     stem = pdf_path.stem
-    issue_date, year_str, report_week = rcw.parse_issue_date(pdf_path.name)
-    cache_file = ROOT / "data" / "extracted" / "cache_clarksons_hellas" / f"{stem}.md"
-
     doc = fitz.open(pdf_path)
-    if cache_file.exists():
-        raw_md = cache_file.read_text(encoding="utf-8")
-        data = rcw.extract_clarksons_data(raw_md, issue_date, report_week, pdf_path.name)
-    else:
-        text = "\n".join(p.get_text("text") for p in doc)
-        data = rcw.extract_clarksons_data(text, issue_date, report_week, pdf_path.name)
+    issue_date, printed_date = rc.parse_issue_date(pdf_path, doc)
+    year_str = issue_date[:4] if issue_date else "2026"
+    try:
+        report_week = int(datetime.strptime(issue_date, "%Y-%m-%d").strftime("%W"))
+    except Exception:
+        report_week = 0
 
-    full_md = rcw.generate_clarksons_markdown(data)
+    commentary = rc.extract_desk_commentary(doc)
+    sales_recs, demo_recs = rc.extract_all_transactions(doc, pdf_path, issue_date)
+    full_md = rc.build_markdown_document(pdf_path, issue_date, printed_date, commentary, sales_recs, demo_recs)
+
+    data = {
+        "issue_date": issue_date,
+        "printed_date": printed_date,
+        "report_week": report_week,
+        "source_file": pdf_path.name,
+        "sales_count": len(sales_recs),
+        "demo_count": len(demo_recs),
+        "sales": sales_recs,
+        "demolitions": demo_recs,
+    }
 
     target_dir = MD_DIR / "clarksons" / year_str
     target_md = target_dir / f"{stem}.md"
@@ -862,7 +873,44 @@ def extract_clarksons(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         target_md.write_text(full_md, encoding="utf-8")
         target_tables.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    return {"stem": stem, "issue_date": issue_date, "report_week": report_week, "sales_count": len(data.get("sales", [])), "target_md": str(target_md)}
+        sales_series_rows = []
+        for r in sales_recs:
+            extra_payload = {
+                "stem": stem,
+                "source_file": pdf_path.name,
+                "raw_built": r.get("raw_built", ""),
+                "raw_details": r.get("raw_details", ""),
+                "printed_date": printed_date,
+            }
+            sales_series_rows.append({
+                "issue_date": r["issue_date"],
+                "issue": r["issue_date"],
+                "section": r["section"],
+                "page": r["page"],
+                "NAME": r["NAME"],
+                "TYPE": r["TYPE"],
+                "DWT": r["DWT"],
+                "BUILT": r["BUILT"],
+                "YARD": r["YARD"],
+                "PRICE": r["PRICE"],
+                "BUYERS": r["BUYERS"],
+                "SS_DD": r["SS_DD"],
+                "COMMENTS": r["COMMENTS"],
+                "extra_json": json.dumps(extra_payload, ensure_ascii=False),
+            })
+        if sales_series_rows:
+            sales_cols = [
+                "issue_date", "issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT",
+                "YARD", "PRICE", "BUYERS", "SS_DD", "COMMENTS", "extra_json"
+            ]
+            upsert_rows_to_csv(
+                SERIES_DIR / "clarksons_sales_series.csv",
+                sales_series_rows,
+                sales_cols,
+                ["issue_date", "NAME", "DWT"]
+            )
+
+    return {"stem": stem, "issue_date": issue_date, "report_week": report_week, "sales_count": len(sales_recs), "target_md": str(target_md)}
 
 
 # ---------------------------------------------------------------------------
