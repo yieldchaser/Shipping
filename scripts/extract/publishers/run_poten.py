@@ -81,6 +81,12 @@ CHART_SINGLE_WORDS = {
 }
 
 # Verified analytical data for 2026-09-11
+# NOTE (2026-10-04 deep review): the metrics table's on-order count is 378, NOT 414.
+# The document's own chart annotates "Orderbook 40.7%", the page prose says the
+# orderbook is "40% of the current fleet", and the fleet is 928 (prose + series):
+# 378/928 = 40.7%. 414/928 = 44.6% and appears nowhere in the source PDF (checked
+# in the text layer and by tesseract OCR of the page and both chart images), and it
+# contradicts VLCC_2026_DELIVERY_DATA below, whose vessels_on_order sum to 378.
 VLCC_2026_METRICS_MD = """### Fleet Age Profile & Orderbook Analysis
 
 | Metric | Share / Value |
@@ -92,7 +98,7 @@ VLCC_2026_METRICS_MD = """### Fleet Age Profile & Orderbook Analysis
 | Orderbook (% of Fleet) | 40.7% |
 | Average Fleet Age | 13.0 years |
 | Total Fleet Trading | 928 vessels |
-| Total on Order | 414 vessels |
+| Total on Order | 378 vessels |
 | As of Date | 1-Sep-2026 |
 | Data Sources | Poten, Lloyds List Intelligence, Signal Ocean |"""
 
@@ -971,7 +977,7 @@ def process_pdf(
                 'report_title': title,
                 'segment': 'VLCC',
                 'fleet_count_trading': 928,
-                'fleet_count_on_order': 414,
+                'fleet_count_on_order': 378,
                 'orderbook_pct': '40.7%',
                 'orderbook_dwt_m': '',
                 'fleet_dwt_m': '',

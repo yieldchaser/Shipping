@@ -2731,3 +2731,107 @@ unit). ~40 lines, comment-documented.
    xclusiv `2021-10-04` doubled-cell CSV re-run; the `hellenic_iron_ore_pdf_*` two-writer
    family; hellenic VesselsValue date convention; lion series regeneration; affinity
    WS-era md rounding; DB `label_series`; intermodal_macro ism agreement tail.
+
+
+## 2026-10-04 14:58 UTC (20:28 IST) - deep review: poten publishes a hand-hardcoded VLCC on-order count (414) that contradicts its own chart annotation and delivery schedule (378); FIXED in code
+
+State at entry: no extraction process running (`Get-CimInstance Win32_Process` for
+run_batch/batch_worker returned nothing). `verify_extraction.py` -> bulk pass COMPLETE
+(done 880/882, ok 876, error 3, no-extractable 1; 0 docs remaining), `actions: []`,
+inventory_drift 364 (informational). Golden gate re-run this session: star_asia
+`plumber-text` 15/15, `pymupdf-text` 15/15; ssy_atlantic 14/14; breakwave_dry 6/6;
+unchanged. Diagnosis + repair run, not liveness.
+
+### What I looked at (read-only, in this order)
+
+* Opened the newest per-document outputs (advanced_shipping 2026-10-02 Weekly W40 md +
+  tables.json; the xclusiv and poten per-doc `text/tables.jsonl` under
+  `data/extracted/corpus/`): all read correctly - e.g. advanced_shipping reported_sales
+  row `Babitonga | Kamsarmax | 81,770 | 2019 | $ 38,5m -> PRICE_USD_MILL 38.5` (European
+  decimal captured), and its Baltic tables (`BDI 3148.0 / 3426.0 / -8.11%`) match the page.
+* Structural sweep of all 175 `data/extracted/series/*.csv`: 604,242 rows. Ragged rows = 0.
+  The only empty/constant columns are schema placeholders or fixed metadata (verified per
+  source), matching what earlier runs recorded. Duplicate rows are small and already known
+  (hellenic_vv_matrix 15, xclusiv_sales 5, star_asia_deals 2, poten_top_charterers 2,
+  carriers_sales 1). No new systematic defect in the delivered CSVs.
+* Checked whether publishers hardcode data values: exactly ONE file in
+  `scripts/extract/publishers/` carries inline numeric data constants - `run_poten.py`.
+
+### Finding (measured + verified): run_poten.py injects hand-hardcoded VLCC data, and its two copies disagree
+
+`scripts/extract/publishers/run_poten.py` gates a block on `if issue_date == "2026-09-11":`
+(lines ~965-1002) and appends hand-typed constants `VLCC_2026_METRICS_MD`,
+`VLCC_2026_DELIVERY_MD`, `VLCC_2026_DELIVERY_DATA`, `VLCC_2026_RATES_DATA`. The 2026-09-11
+Tanker Opinion is a 1-page PDF whose two charts (img4 `VLCC Rates AG-FE`, img5 the fleet
+delivery/orderbook bar chart) are RASTER images - the page has 3 vector drawings and the
+numbers are not in the text layer, so they were transcribed by hand.
+
+The two constants contradict each other:
+* `VLCC_2026_METRICS_MD` prints `| Orderbook (% of Fleet) | 40.7% |` AND
+  `| Total on Order | 414 vessels |` with `| Total Fleet Trading | 928 vessels |`.
+  414/928 = **44.6%**, not 40.7% - the metrics table is internally impossible.
+* `VLCC_2026_DELIVERY_DATA`'s `vessels_on_order` column sums to exactly **378**
+  (13+82+170+78+32+3 over 2026-2031+), and 378/928 = **40.7%** - matching the metrics
+  table's own percentage and the page prose "the high orderbook (40% of the current fleet)".
+
+So the delivered row `poten_tanker_orderbook_age_series.csv` for 2026-09-11 VLCC reads
+`fleet_count_trading=928, fleet_count_on_order=414, orderbook_pct=40.7%` - three numbers
+that cannot all be true. Provenance check: `414` appears NOWHERE in the source PDF - not in
+`page.get_text()`, and not in tesseract OCR of the full page (`page.png` @4x) nor of either
+chart image (`img4`/`img5` @4-5x, psm 6/11 + thresholds). OCR of img5 DOES read the chart's
+own annotation `Orderbook 40.7%`. The prose independently fixes the fleet at 928
+("As per September 1st, the global VLCC fleet consisted of 928 vessels"). Therefore 414 is a
+transcription artifact, not a publisher figure, and 378 is the document-consistent value.
+
+### What I changed
+
+Branch `auto/extract-fixes-2026-10-04`, one file (`scripts/extract/publishers/run_poten.py`,
+2 numeric literals): `| Total on Order | 414 vessels |` -> `... 378 ...` and
+`'fleet_count_on_order': 414` -> `378`, plus a 6-line comment recording the derivation
+(chart annotation 40.7% x 928 fleet; delivery-schedule sum 378) so the number is not
+re-typed blindly.
+
+### Evidence, isolated so the change is the only variable
+
+* `python3 -m py_compile scripts/extract/publishers/run_poten.py` -> OK (the change is a
+  literal; no logic path altered).
+* Arithmetic: derived `sum(vessels_on_order) = 378`; 378/928 = 40.7% (chart) vs
+  414/928 = 44.6%. The document's own chart annotation and delivery schedule now agree.
+* Golden gate re-run: star_asia 15/15 on both text engines, ssy 14/14, breakwave 6/6,
+  seabrokers 10/20, athenian 4/24 - identical to the recorded levels. poten is not in the
+  golden set; no golden recall changed.
+* `run_poten.py` has no `--stem`/`--limit` CLI (it globs all 1,087 PDFs), and prohibition
+  #5 bars a whole-corpus re-extraction, so the fix was NOT executed against documents.
+
+### Deliberately NOT changed, and why
+
+* The delivered artefacts are NOT rewritten (prohibition #4). `run_poten.py` writes fixed
+  paths, so applying the fix is a one-publisher re-run, a human decision:
+
+      python3 scripts/extract/publishers/run_poten.py
+
+  Expected: `poten_tanker_orderbook_age_series.csv` 2026-09-11 VLCC rows change
+  `fleet_count_on_order 414 -> 378` (1 cell) and
+  `md/poten/2026/poten_2026-09-11_...md` + its `.tables.json` line `414 -> 378`
+  (1 cell each); every other value and every other issue byte-identical.
+* The deeper anti-pattern - hand-hardcoding the 2026-09-11 analytical tables at all - is
+  NOT removed: the two charts are raster, so replacing the constants with real extraction
+  needs OCR/vision of an image chart, and the skill's measured position is that raster
+  chart values are a hard case. Flagged below rather than half-fixed.
+* `run_carriers_complete.py` uses fixed x-cuts (`225 <= w[0] < 305`, `370 <= w[0] < 425`,...).
+  That is the skill's documented hardcoded-geometry hazard and worth re-fingerprinting, but
+  it was not proven broken on any year and prohibitions bar unmeasured changes, so it was
+  left alone and recorded here.
+* `run_baltic.parse_float`'s comma handling and the open xclusiv / star_asia /
+  hellenic_vv / lion item set: unchanged from earlier runs.
+
+### HUMAN DECISIONS
+
+1. To apply the poten on-order fix: run `run_poten.py` (command above). 1 cell in the
+   orderbook series and 1 cell in the 2026-09-11 md change 414 -> 378; nothing else changes.
+2. Decide the future of the hardcoded 2026-09-11 poten block: keep (documented exception),
+   or invest in reading the two raster charts (OCR/vision) and extracting them properly.
+3. Still open from earlier runs, unchanged by this one: the ISM unit apply, the star-asia
+   flag apply, the xclusiv 2021-10-04 CSV re-run, the `hellenic_iron_ore_pdf_*` two-writer
+   family, hellenic VesselsValue date convention, lion series regeneration, affinity WS-era
+   md rounding, DB `label_series`, intermodal_macro ism agreement tail.
