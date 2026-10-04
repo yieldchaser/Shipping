@@ -29317,8 +29317,6 @@ which is essential to long-distance overseas operations such as those shown here
 Arabian Sea. Photograph by Darien G. Kennedy; courtesy of the U.S. Navy.
 
 Pre-Columbian South America and the Caribbean
-Click here to return to the text.
-
 Pre-Columbian North and Central America
 The shaded area indicates the range of the paper birch (Betula papyrifera), or canoe birch, and
 thus of the birchbark canoe.
@@ -29326,30 +29324,4552 @@ thus of the birchbark canoe.
 From Mesopotamia to the Indus Valley
 Click here to return to the text.
 
-Click here to return to the text.
-
-Click here to return to the text.
-
-Click here to return to the text.
-
 East and Southeast Asia
-Click here to return to the text.
-
-Click here to return to the text.
-
 Europe Through the Viking Age
-Click here to return to the text.
-
-Click here to return to the text.
-
-Click here to return to the text.
-
 Asia and the Pacific in the Early Modern Period
-Click here to return to the text.
-
-Click here to return to the text.
-
-Click here to return to the text.
-
 Asia and the Pacific at the Turn of the Millennium
-Click here to return to the text.
+
+---
+# Index
+
+*Page numbers in italics refer to illustration captions.*
+
+Page numbers in italics refer to illustration captions.  
+Abadan, 10.1, 10.2, 18.1  
+Abbasid Caliphate, 10.1, 10.2, 11.1, 11.2, 13.1  
+and the Mediterranean, 8.1, 8.2, 15.1  
+Abbott, John  
+Abd Allah  
+Abd al-Malik ibn Marwan  
+Abd al-Rahman I  
+Abd al-Rahman II, 8.1, 8.2, 9.1  
+Abd al-Rahman III, 8.1, 8.2  
+Abdul Ghafur  
+Abdullah Wassaf  
+Abi Sufyan  
+abolitionists, 17.1, 17.2  
+Aboukir, 17.1, 17.2  
+Abraham ben Jacob  
+Abraham Ben Yiju  
+Abu al-'Abbas  
+Abu al-'Abbas as-Saffah  
+Abu al-'Aziz Mansur  
+Abu Jafar al-Mansur  
+Abusir, 2.1, nts.1n  
+Abu Zayd, 10.1, 10.2, 10.3, 11.1  
+Abydos, Egypt, 2.1, 2.2, nts.1n  
+Abydos, Asia Minor  
+Acapulco, Mexico, 14.1, 15.1, 17.1  
+Aceh, 15.1, 15.2, 16.1, 17.1, nts.1  
+Achaemenid Empire, 4.1, 5.1, 6.1, 6.2  
+Acharnians (Aristophanes),  
+Acre, Israel, 4.1, 8.1, 12.1, 12.2, 12.3, 15.1  
+Act for the Restraining . . . of Privateers and Pirates  
+Actium, battle of  
+Actium peninsula  
+Adam of Bremen  
+Adams, William  
+Aden, 4.1, 10.1, 10.2, 10.3, 16.1, 18.1  
+Chinese and  
+commerce of, 6.1, 10.1, 10.2, 13.1, 13.2  
+distances from, 6.1, 6.2, 6.3  
+Ottomans and  
+Portuguese and, 14.1, 14.2, 15.1, 15.2  
+Aden, Gulf of, 2.1, 13.1  
+Admiralty, 17.1, 17.2, 18.1, 18.2, 18.3, 19.1  
+Admiralty Islands  
+Adrianople, Treaty of  
+Adriatic Sea, 5.1, 5.2, 8.1  
+Romans and, 5.1, 5.2, 5.3, 5.4  
+Venice and, 8.1, 8.2, 12.1, 12.2, 14.1  
+Adventure  
+Aegates Islands, battle of the  
+Aegean Sea, 8.1, 15.1, 17.1  
+Bronze Age, 3.1, 3.2, 3.3, 4.1  
+Byzantines and, 8.1, 8.2, 12.1  
+Greeks and, 4.1, 4.2, 4.3, 5.1, 5.2  
+Romans and  
+Aegina, 4.1, 4.2, 4.3, 8.1  
+Aelia Isidora  
+Aelia Olympias  
+Aelius Gallus, 6.1, 6.2  
+Aelmere  
+Aeneas, 5.1, 5.2  
+Aeneid (Virgil),  
+Aeschylus, 4.1, 4.2  
+Æthelred I  
+Æthelred II, 9.1, 9.2  
+Aetolian League  
+Afghanistan, 3.1, 6.1, 6.2, 6.3, 10.1, 20.1  
+Afonso, King of Congo  
+Afonso I, King of Portugal  
+Afonso V, King of Portugal, 14.1, 14.2  
+Africa, 1.1, 2.1, 10.1, 15.1n, 14.1, 15.2  
+in antiquity, 6.1, 6.2  
+and Asian trade, 6.1, 13.1, nts.1n  
+boats and ships of, 2.1, 6.1, 17.1  
+circumnavigation of, 4.1, 4.2, 4.3, 6.1, 6.2, 12.1, 14.1, 15.1  
+diseases from, 1.1, 1.2, 14.1  
+European trade and, 14.1, 15.1  
+geography of, 1.1, 2.1, 2.2, 6.1, 14.1, 14.2n  
+Portuguese and, 12.1, 14.1, 15.1, 15.2, 15.3, 15.4  
+slave trade of, 1.1, 14.1, 17.1, 17.2, 18.1, 19.1  
+see also East Africa; North Africa; South Africa  
+Africa, Horn of, 2.1, 6.1, 10.1, 10.2, 13.1, 15.1  
+Afzelia bipindensis  
+Agamemnon  
+Agatharchides of Cnidus, 6.1, 6.2, 6.3, nts.1n  
+Aghlabids, 8.1, 8.2, 8.3, 8.4  
+Agreement on Conservation and Management of . . . Fish Stocks  
+Agrippa, 5.1, 5.2  
+Agrippina  
+Ahmedabad  
+Ahmose  
+Ahwaz, al-  
+Aigues-Mortes, France, 12.1, 12.2  
+aircraft carriers, 19.1, 19.2, 19.3, 19.4, 20.1  
+Airey, George  
+Ajanta ship, 6.1, 7.1  
+Akka, see Acre  
+Akkad, 3.1, 3.2, 10.1, nts.1n  
+Akrotiri (Santorini)  
+Aksum, 6.1, 10.1  
+Alabama  
+Alalia, battle of  
+Alashiya (Cyprus), 3.1, 3.2  
+Alaska, 1.1, 1.2, 1.3, 1.4, 17.1, 17.2, 19.1  
+Alaska Peninsula, 17.1, 17.2  
+Albania, 5.1, 8.1, 12.1  
+Albany, 16.1, 18.1, 18.2  
+Albuquerque, Afonso de, 15.1, 16.1  
+Alcáçovas, Treaty of, 14.1, 14.2  
+Alcibiades  
+Alcuin  
+Aleutian Islands, 1.1, 17.1  
+Alexander VI, Pope  
+Alexander the Great, 2.1, 5.1, 5.2, 8.1  
+conquests of, 5.1, 5.2, 6.1  
+and Indian Ocean, 6.1, 6.2, 7.1, 6.3  
+Alexandria, 10.1, 13.1, 17.1, 18.1, 18.2, 20.1  
+facilities at, 8.1, 15.1  
+founding of, 5.1, 5.2  
+grain trade at, 5.1, 5.2, 8.1  
+Indian Ocean trade and, 6.1, 6.2  
+Mediterranean trade and, 12.1, 12.2, 12.3  
+Muslims and, 8.1, 8.2  
+spices at, 13.1, 15.1, 15.2, 15.3  
+Venetians and, 8.1, 12.1, 15.1, 15.2, 15.3  
+Alexandria  
+Alexius I, 12.1, 12.2  
+Alfonso VI  
+Alfred the Great, 9.1, 9.2, 9.3  
+Algeria, 5.1, 8.1n, 8.2, 12.1  
+Algiers  
+Ali ibn al-Husayn  
+Ali Pasha  
+Alkmaar  
+alla sensile rowing, 12.1, 15.1, nts.1n  
+Alliance, Treaty of  
+Almeida, Francisco de, 15.1, 20.1  
+Almería, 8.1, 12.1  
+Al-Mina (port), 4.1, 12.1  
+Almohads, 12.1, 12.2  
+Almoravids  
+Alps, 5.1, 9.1  
+Altmuhl River  
+alum, 8.1, 12.1, 12.2  
+Álvares, Pedro, 14.1, 14.2  
+Alvise da Cadamosto  
+Amalfi, Italy, 8.1, 8.2, 12.1  
+aman, 12.1, 15.1  
+Amasra, Turkey, 8.1, 15.1  
+Amazon River, 1.1, 1.2, 14.1, 16.1  
+Amazonia  
+Ambonese  
+American Revolution, 18.1, 18.2  
+causes of, 17.1, 19.1, 19.2  
+upshot of, 17.1, 17.2, 18.1, 18.2  
+Amiens, Treaty of  
+Amity and Commerce, Treaty of  
+Ammurapi  
+Amoco Cadiz  
+Amon, 2.1, 2.2, 3.1  
+Amon-Re, 3.1, 3.2  
+Amorites  
+Amoy (Xiamen, China), 17.1, 18.1, 19.1  
+amphibious campaigns, 3.1, 7.1, 8.1, 10.1  
+in 20th century, 19.1, 19.2, 19.3  
+Amr ibn al-As  
+Amphipolis, Greece, 4.1, 5.1  
+Amsterdam, 16.1, 17.1, 18.1  
+trade of, 15.1, 15.2, 16.1, 16.2  
+Amu Darya, 10.1, 11.1  
+amulets  
+Amundsen, Roald  
+Anaconda Plan  
+Analects of Confucius, The  
+Anatolia, 3.1, 4.1, 12.1, 15.1  
+in antiquity, 3.1, 3.2, 4.1, 4.2, 6.1  
+Hittites of, 2.1, 3.1, 3.2  
+Anaxicrates, 6.1, 6.2  
+anchors, 2.1, 3.1, 8.1, 9.1  
+Ancona  
+Andalus, al-, 8.1, 8.2, 8.3, 12.1  
+Muslims settle, 8.1, 8.2  
+naval power of, 8.1, 9.1, 9.2  
+Andean civilization  
+Andaman Islands, 7.1, 10.1  
+Andes Mountains, 1.1, 1.2, 15.1  
+Andhra Pradesh, 6.1, 10.1  
+Andrew Jackson  
+Andronicus I  
+Angevin kingdom, 12.1, 12.2, 12.3, 12.4  
+Angevin Naples  
+Angkor Thom, Cambodia, 7.1, 11.1, 11.2  
+Angles, 9.1, 9.2, 9.3  
+Anglo-Japanese Alliance, 19.1, 19.2, 19.3  
+Anglo-Persian Oil Co.  
+Anglo-Saxon Chronicles, 9.1, 9.2  
+Anglo-Saxons, 9.1, 19.1  
+in England, 9.1, 9.2, 9.3, 9.4  
+Angola, 1.1, 7.1  
+An Lushan, 11.1, 11.2, 11.3, 11.4  
+annona, 9.1, 9.2, nts.1n  
+Ansgar, St.  
+Anson, George  
+Antarctica, 1.1, 17.1, 18.1, 18.2, 18.3  
+Antigonids, 5.1, 5.2, 5.3  
+Antigonus, 5.1, 5.2  
+Antigua Island, 16.1, 17.1  
+Antilia, 14.1, 14.2  
+Antilles Islands, 1.1n, 1.2, 16.1  
+Antioch, 8.1, 12.1, 12.2  
+Antiochus III, the Great, 5.1, 6.1  
+Antoninus Pius, 7.1, 7.2  
+Antium, Italy  
+Antony, 5.1, 6.1  
+Antwerp, Belgium, 12.1, 15.1, 15.2, 17.1  
+Aphrodite, 4.1, 5.1  
+Appalachian Mountains  
+Appian  
+Apulia  
+Aqaba, Gulf of, 4.1, 6.1, 13.1  
+Aquitaine  
+Arabian Gulf, 4.1, 6.1, 6.2  
+Arabian Nights, The, 3.1, 10.1  
+Arabian Peninsula, 6.1, 10.1, 10.2, 13.1, 15.1  
+in antiquity, 2.1, 3.1, 3.2, 3.3, 6.1, 6.2, 6.3  
+exports from, 4.1, 6.1, 6.2, 6.3, 10.1, 15.1  
+trade with, 6.1, 8.1, 8.2, 13.1, 15.1  
+Arabian Sea, itr.1, 6.1, 10.1, 10.2, 16.1  
+geography of, 6.1, 6.2, 6.3n, 16.1  
+ships of, 3.1, 13.1  
+trade of, 6.1, 13.1, 14.1, 15.1  
+Arabic, 7.1, 8.1, 10.1, 13.1, 14.1, 14.2  
+terms, itr.1, 6.1, 8.1n, 10.1, 10.2, 12.1, 13.1  
+texts, 8.1, 8.2, 9.1, 10.1, 13.1, 13.2  
+Arabs, 6.1, 8.1, 8.2, 10.1, 10.2  
+Mediterranean and, 8.1, 12.1  
+Monsoon Seas and, 6.1, 11.1, 13.1, 15.1, 16.1  
+seafaring, and 8.1, 8.2  
+see also Dar al-Islam; Dashi  
+Aragon, kingdom of, 12.1, 14.1  
+Aramaic  
+Arawaks, 1.1, 14.1  
+Archangel, Russia, 15.1, 17.1  
+Archimedes  
+Arctic, 1.1, 1.2, 18.1, 18.2  
+Arctic (steamer), 18.1, 18.2  
+Arctic Circle, 9.1, 9.2, 9.3, 17.1  
+Arctic Ocean, 9.1, 17.1, 18.1, 18.2, 18.3, 19.1  
+Arctic Small Tool Tradition  
+Ardashir  
+Ardnamurchan peninsula, Scotland, n  
+Argentina, 1.1, 14.1, 18.1, 20.1  
+Argo  
+Arguin, Mauritania  
+Arica, Chile, 15.1, 15.2  
+Arikamedu, 6.1, 6.2  
+Aristagoras  
+Aristophanes  
+Aristotle, 4.1, 5.1  
+Arktika  
+Armada of Flanders, 16.1, 16.2  
+Armada del Mar Océano  
+Armenia, 4.1, 10.1  
+Armenians, 12.1, 17.1  
+Armory Show (1913)  
+Armstrong, Mitchell & Co.  
+Army Corps of Engineers, U.S.  
+Arnarson, Ingólf  
+Arnold, Benedict  
+Arsenale  
+Arsenal of Philon  
+Arsinöe, 6.1, 6.2, 6.3  
+Artabanus  
+Artaxerxes  
+Art Deco "ocean liner" style  
+Artemisia, 4.1, 4.2  
+Artemisium, Cape, 4.1, 4.2  
+Arthasastra (Kautilya), 6.1, 6.2, 6.3, nts.1n  
+Articles of War  
+Arvad (Aradus), 4.1, 4.2, 4.3  
+Ashkelon, Israel, 3.1, 12.1  
+Ashoka, 6.1, 6.2  
+Asia Minor, 3.1, 5.1, 6.1, 8.1, 9.1, 12.1  
+in antiquity, 2.1, 2.2, 3.1, 3.2, 3.3, 5.1, 5.2  
+Byzantines and, 8.1, 8.2, 9.1, 10.1  
+exports, 5.1, 8.1, 12.1  
+Askold  
+Aspero, Peru  
+asphalt, 3.1, 3.2, 3.3  
+Aspinwall, W. H.  
+Assyria, 2.1, 4.1, 4.2, 4.3, 4.4, 4.5, 5.1  
+Astrakhan, Russia, 15.1, 18.1  
+astrolabe  
+Asturias  
+Aswan, 2.1, 2.2, 2.3, 2.4, 6.1, 10.1  
+quarries near, 2.1, 2.2  
+Athena, 4.1, 4.2  
+Athens, itr.1, 4.1, 4.2, 5.1, 8.1  
+classical, 3.1, 4.1, 5.1, 5.2, nts.1n  
+Athlit ram  
+Athos Peninsula  
+Atlantic, battle of the, 19.1, 19.2  
+Atlantic Neptune (Des Barres),  
+Atlantic Ocean, 1.1, 4.1, 6.1, 18.1, 20.1  
+claims to, 14.1, 16.1, 16.2  
+Columbus and, 14.1, 14.2, 14.3, 14.4, 15.1  
+English and, 16.1, 16.2, 16.3  
+environment of, 6.1, 9.1, 12.1, 18.1, nts.1n  
+Europeans and, itr.1, 1.1, 3.1, 8.1, 16.1, 17.1  
+fishing and whaling in, 1.1, 16.1, 18.1  
+maps of, 8.1, 17.1, 17.2, 18.1  
+navies and, 15.1, 15.2, 16.1, 16.2, 17.1, 17.2, 19.1  
+passengers on, 16.1, 17.1, 17.2, 18.1  
+ports, 4.1, 4.2, 8.1, 12.1, 12.2, 12.3, 15.1  
+Portuguese and, 14.1, 14.2, 14.3, 14.4  
+rivers to, 1.1, 9.1, 9.2  
+routes on, 12.1, 12.2, 14.1, 15.1, 18.1  
+ships of, 9.1, 14.1, 15.1, 15.2, 17.1, 20.1  
+slave trade of, itr.1, 8.1, 10.1, 17.1  
+Spanish and, 15.1, 15.2, 17.1  
+steamships on, itr.1, 5.1, 18.1, 18.2, 18.3, 18.4, 18.5, 19.1  
+Vikings and, 1.1, 9.1, 9.2  
+in World War II, 19.1, 19.2, 19.3  
+atolls, 1.1, 1.2  
+Atomic Energy Commission  
+Attaleia  
+Attica, Greece, 4.1, 4.2, 5.1  
+Au Co  
+Augusta Victoria  
+Augustine, St.  
+Augustus, 5.1, 6.1, 6.2, 9.1  
+Aunt Yu  
+Aurelius, Marcus, 7.1, 9.1  
+aurii  
+Australia, 1.1, 1.2, 18.1, 20.1  
+Europeans in, 17.1, 18.1  
+routes to, 17.1, 18.1, 18.2, 18.3, 20.1  
+Austria-Hungary, 18.1, 19.1  
+Austrians  
+Austrian Succession, War of, 17.1, 17.2  
+Austro-Asiatic  
+Austronesian, 1.1, 6.1, 7.1, 7.2, 7.3, 7.4, 10.1, 16.1  
+Avaris, 2.1, 3.1  
+Avars, 8.1, 9.1  
+Avery, Henry, 16.1, 16.2, 16.3  
+Aydhab, 10.1, 10.2, 13.1  
+Ayutthaya, 13.1, 13.2, 13.3, 15.1, 17.1  
+Ayyubids, 12.1, 12.2  
+Azerbaijan, 9.1, 10.1  
+Azores, 14.1, 14.2, 15.1, 15.2  
+Portuguese and, 14.1, 14.2, 14.3, 14.4  
+Azov, Russia, 12.1, 17.1  
+Azov, Sea of, 4.1, 9.1, 17.1  
+Aztec Empire, 1.1, 1.2, 15.1, 18.1  
+Bab al-Mandeb, 1.1, 6.1, 8.1, 15.1  
+Babylonian Empire, 3.1, 3.2, 4.1, 4.2, 4.3, 6.1  
+Baekje Kingdom, 7.1, 11.1, 11.2  
+Baffin, William  
+Baghdad, 3.1, 8.1, 10.1, 10.2, 13.1  
+rise and fall of, 10.1, 11.1, 13.1  
+Bahamas, 1.1, 1.2, 14.1, 17.1, 18.1, nts.1n  
+Bahia, Brazil, 15.1, 15.2, 16.1  
+Bahrain, 3.1, 3.2, 3.3, 6.1, 10.1, 10.2, nts.1n  
+Bahr al-Zulamat  
+Baiae  
+baidarka  
+Baku, 9.1, 18.1  
+Baladhuri, al-, 10.1, 10.2  
+Baldwin of Flanders  
+Balearic Islands, 8.1, 12.1  
+in antiquity, 4.1, 5.1, 8.1  
+Muslims in, 8.1, 8.2, 8.3, 8.4, 9.1, 12.1  
+Balhae (Parhae) kingdom (Korea)  
+Bali, itr.1, 6.1, 10.1, 16.1  
+Balkans, 3.1, 5.1, 15.1, 17.1, 19.1  
+Balkan Wars  
+Ballin, Albert, 18.1, 18.2, 18.3  
+balsa  
+Baltic Sea, 9.1, 12.1, 13.1, 16.1, 16.2, 17.1  
+Dutch in, 15.1, 16.1, 16.2, 16.3  
+Hanseatic League and, 12.1, 15.1  
+navigation in, 9.1, 9.2, 15.1  
+rivers to, 9.1, 9.2, 9.3, 12.1, 12.2  
+Russia and, 17.1, 19.1, 19.2  
+ships in, 1.1, 9.1, 14.1  
+trade of, 9.1, 9.2, 9.3, 12.1, 15.1, 16.1  
+Banbhore (ad-Daibul), 6.1, 10.1  
+Banda Islands, 6.1, 7.1, 10.1, 13.1n, 16.1  
+Bangkok, Thailand, 7.1, 13.1  
+banias, 10.1, nts.1n  
+Banks, Joseph, 1.1, 17.1, 17.2  
+Banten (Java), 16.1, 16.2, 16.3  
+Bantu language, 6.1, 10.1  
+baochuan  
+Barbados, 16.1, 17.1  
+Barbarikon (Pakistan)  
+Barbarossa, see Frederick I; Hayreddin  
+Barcelona, Spain, 5.1, 8.1, 12.1, 12.2  
+maritime laws of, 8.1, 14.1  
+Bardi bank  
+Barents Sea, 16.1, 18.1, 18.2  
+Barentsz, Willem  
+Baret, Jeanne  
+barges, 12.1, 12.2, 14.1, 17.1, 17.2, 18.1  
+Blackfriars, 9.1, 9.2  
+Egyptian, 2.1, 2.2, 3.1, nts.1n  
+baris  
+Barkal Stela  
+Basil II, Byzantine emperor, 9.1, 12.1  
+Basilica of St. Mark, 8.1, 12.1  
+Basra, 6.1, 10.1, 10.2, 10.3, 10.4, 13.1  
+as port, 10.1, 10.2, 10.3, 15.1  
+Batavia  
+Batavia (Jakarta), 16.1, 16.2, 17.1, 17.2, 18.1, 20.1  
+battlecruisers, 18.1, 19.1, 19.2, 19.3, 19.4  
+battleships, 16.1, 19.1, 19.2, 19.3, 19.4, 19.5  
+19th-century, 19.1, 19.2, 19.3, 19.4  
+and world wars, 18.1, 18.2, 19.1, 19.2, 19.3, 19.4  
+bayasira  
+Bayeux Tapestry  
+Bayonne, France, 12.1, 12.2, 12.3  
+Bayon temple, 7.1, 11.1, 11.2, 11.3  
+Beach, Edward L.  
+Beachy Head (Bévéziers), battle of  
+Beagle, HMS,  
+Beaufort, Francis, 18.1, 18.2  
+Beaufort scale  
+Bede  
+Bedouins  
+Beechey, Frederick William  
+Beijing, 7.1, 7.2, 11.1, 15.1, 16.1  
+as capital, 7.1, 13.1, 13.2  
+Beirut, Lebanon, 3.1, 12.1  
+Beiyang Navy, 19.1, 19.2  
+Belisarius  
+Belitung wreck, 10.1, 11.1, nts.1n  
+Bellingshausen, Fabian Gottlieb von  
+Benavides, Don Juan de  
+Benevento, Duchy of  
+Bengal, 6.1, 10.1, 13.1, 15.1, 17.1  
+cotton of, 13.1, 17.1  
+East India Company and, 17.1, 17.2, 18.1  
+foreigners in, 10.1, 13.1  
+rulers of, 10.1, 13.1, 16.1  
+Bengal, Bay of, 6.1, 6.2, 10.1, 14.1  
+Buddhists on, 6.1, 7.1  
+Chinese in, 7.1, 13.1  
+environment of, 6.1, 6.2, 6.3  
+ports of, 6.1, 10.1  
+traders of, itr.1, 6.1, 6.2, 10.1, 15.1  
+Benjamin of Tudela, 13.1, 13.2  
+Benson, William S., 19.1, 19.2  
+Benz, Karl  
+Beowulf  
+Berardi, Giannoto  
+Berbers, 8.1, 8.2, 8.3, 8.4, 12.1, 14.1  
+Berenike (Egypt), 6.1, 6.2, 6.3  
+Berezan, Ukraine  
+bergantin  
+Bergen, Norway, 12.1, 12.2  
+Bering, Vitus  
+Beringia  
+Bering Strait, 1.1, 17.1, 17.2, 18.1, 18.2  
+Bermuda, 17.1, 19.1  
+Best Divisions for Knowledge of the World, The (al-Muqaddasi), vii,  
+Bharuch, 6.1, 6.2, 6.3, 6.4  
+Bhatikabhaya  
+Bhujyu, 6.1, 6.2  
+Bible, 3.1, 3.2, 4.1, 4.2, 14.1  
+Bienville, Sieur de  
+Bihar, 13.1, 17.1  
+Bindusara, 6.1, 6.2  
+birds, 1.1, 3.1, 9.1, 11.1, 12.1  
+and navigation, 1.1, 1.2, 6.1, 6.2, 9.1, 14.1, 14.2  
+bireme, 4.1, 4.2, 6.1, 9.1  
+Birka, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6  
+Birmingham, USS,  
+Biscay, Bay of, 4.1, 9.1, 9.2, 12.1, 12.2, 16.1  
+Bismarck Archipelago  
+Bjarni Herjolfsson  
+Björn Ironside  
+Black Ball Line  
+Black Book of the Admiralty  
+Blackfriars barge, 9.1, 9.2  
+Black Sea, itr.1, 9.1, 12.1, 12.2, 12.3, 19.1n  
+in antiquity, 3.1, 9.1  
+Byzantines and, 8.1, 8.2, 8.3, 8.4  
+Genoese on, 12.1, 12.2, 12.3  
+Greeks in, 4.1, 4.2, 4.3, 4.4  
+Ottomans on, 15.1, 15.2, 17.1, 20.1  
+rivers to, 9.1, 18.1  
+Rome and, 5.1, 5.2, 5.3, 5.4, 5.5  
+Russians and, 17.1, 19.1  
+Venetians on, 12.1, 12.2  
+Blaeu, Willem  
+Bligh, William  
+blockades, 16.1, 18.1, 19.1, 19.2  
+in antiquity, 4.1, 5.1, 5.2, 5.3  
+early modern, 15.1, 16.1, 17.1, 17.2, 17.3  
+law and, 18.1, 19.1, 19.2  
+Blue Funnel Line  
+Board of Underwriters  
+Boccaccio, 12.1, 14.1, 14.2  
+Bodhisattva, 6.1, 6.2  
+Bogue Forts, battle of  
+Bo Hai, 7.1, 11.1, 13.1  
+bohra  
+Bojador, Cape, 14.1, nts.1n  
+Bolivia, 1.1, 1.2, 15.1  
+Bombay, 6.1, 16.1, 18.1  
+see also Mumbai  
+Bombay Marine  
+Book of Profitable Things in . . . Navigation (Ibn Majid),  
+Book of Settlements  
+Book of the Sea (Piri Reis),  
+Book of the Wonders of India (Buzurg),  
+Bordeaux, 9.1, 12.1, 12.2, 12.3, 19.1  
+Borneo, 1.1, 6.1, 7.1, 7.2, 7.3  
+Chinese and, 13.1, 13.2, 17.1  
+Bornholm, battle of  
+Borobudur, 7.1, 10.1, 10.2, 10.3, 11.1  
+Borodino-class battlecruisers,  
+Bosporus, 5.1, 15.1, 17.1, 19.1  
+Byzantines and, 8.1, 8.2, 9.1  
+Boston, 17.1, 17.2, 18.1, 18.2, 18.3  
+in colonial period, 16.1, 16.2, 17.1, 17.2  
+Boston Atlas  
+Boston Tea Party  
+Botany Bay  
+Bougainville, Louis Antoine de, 1.1, 17.1, 18.1  
+Bougie, 12.1, 12.2  
+Boulogne  
+Boulton, Matthew  
+Bounty, HMS, 17.1, 17.2  
+Boxer Rebellion  
+Boyne River  
+Brahman, 6.1, 7.1, 10.1, 11.1, nts.1n  
+Brahmanism  
+Brahmaputra River, 6.1, 6.2  
+Brantas River, 10.1, 13.1  
+Brassey, Lady, 18.1, 18.2  
+Braudel, Fernand  
+Brazil, 1.1, 16.1, 18.1, 18.2, 18.3, 19.1  
+Portuguese in, 14.1, 14.2, 15.1, 15.2, 15.3, 16.1  
+Bremen, 9.1, 12.1, 12.2, 12.3, 18.1, 18.2  
+Bremen  
+Bremerhaven  
+Brest, France, 17.1, 17.2, 19.1  
+Breton  
+Brett, Edwin, 18.1, 18.2  
+Bristol, 12.1, 14.1, 16.1, 18.1  
+Britain, battle of  
+Britannia  
+British & American Steam Navigation Co.  
+British Columbia, 1.1, 1.2, 17.1  
+British Empire, 3.1, 16.1, 18.1, 19.1  
+British Isles, 7.1, 9.1, 9.2, 17.1, 18.1  
+European trade with, 9.1, 12.1  
+Pytheas in, 4.1, 9.1  
+Romans and, 5.1, 8.1, 9.1, 9.2  
+in Viking age, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7  
+Brittany, 4.1, 9.1, 9.2, 14.1, 16.1, 16.2, 20.1  
+Broach, 6.1, 16.1  
+Broighter boat  
+Bronze Age, 1.1, 3.1, 3.2  
+Brooklyn, N.Y.  
+Brueys d'Aiguïlliers, François Paul  
+Bruges, 12.1, 12.2, 12.3, 15.1  
+Brunanburh, battle of, 9.1, 9.2  
+Brunel, Isambard Kingdom, 18.1, 18.2  
+Bucintoro  
+Buddha, 6.1, 7.1, 7.2, 7.3, 9.1  
+Buddhism, 6.1, 10.1, 11.1, 10.2, 10.3, 11.2, 13.1, 13.2  
+in China, 7.1, 7.2, 7.3, 7.4, 11.1, 11.2  
+in Japan, 11.1, 11.2, 15.1  
+monks, 7.1, 10.1, 10.2, 11.1, 13.1, nts.1n  
+spread of, 6.1, 6.2, 7.1, 7.2, 7.3, 8.1, 10.1  
+temples, 7.1, 10.1, 10.2, 10.3, 10.4, 11.1, 13.1, 13.2  
+trade and, 6.1, 7.1, 11.1, 11.2, nts.1n  
+Budomel, Lord  
+Buenos Aires, Argentina  
+Buffalo, N.Y., 18.1, 20.1  
+Bugis, 16.1, 17.1  
+Bug River, 4.1, 9.1  
+buhar  
+Buka Island  
+bulbous bows  
+Bulgar Empire  
+Bulgarians  
+bulk cargoes, 2.1, 20.1, 20.2  
+bulkheads, watertight, 7.1, 18.1, 19.1  
+bullion, 6.1, 15.1, 16.1, 18.1  
+Burgundy, duke of, 9.1, 9.2, 9.3, 15.1  
+Burma, 6.1, 10.1, 13.1, 15.1, 16.1, 16.2  
+Burmese, 10.1, 11.1  
+Busan, 7.1, 15.1, 19.1, 19.2  
+Buto, 2.1, 2.2  
+Buyids  
+Buzurg ibn Shahriyar, 10.1, 13.1  
+Byblos, 2.1, 2.2, 3.1, 3.2, 4.1, 4.2, 4.3  
+Bylot, Robert  
+Byng, John, 17.1, nts.1n  
+Byron, John  
+Byzantine Empire, 8.1, 12.1, 12.2, nts.1n  
+Asian trade of, 7.1, 11.1  
+caliphates and, 6.1, 8.1, 8.2, 9.1, 12.1, 12.2  
+Crete and, 8.1, 12.1  
+Cyprus and, 8.1, 8.2, 12.1  
+extent of, 8.1, 8.2, 10.1  
+Indian Ocean trade and, 6.1, 7.1  
+maritime law in, 5.1, 8.1, 8.2  
+naval power of, 8.1, 9.1, 12.1  
+schisms in, 8.1, 8.2, 12.1  
+in North Africa, 8.1, 8.2  
+trade of, 8.1, 8.2, 8.3  
+Turks and, 12.1, 15.1  
+Varangian Rus and, 9.1, 9.2, 9.3  
+Venice and, 8.1, 12.1, 12.2, 12.3  
+Byzantium, 9.1, 9.2  
+in antiquity, 4.1, 4.2, 5.1, 5.2, 8.1  
+Cabot, John, 9.1, 16.1  
+Cabot, Matthew  
+Cabral, Pedro Álvares, 14.1, 14.2  
+Cadamosto, Alvise da, 14.1, nts.1n  
+Cádiz, 4.1, 4.2, 12.1, 17.1, 17.2  
+see also Gadir  
+Caesar, Julius, 5.1, 5.2, 9.1, 9.2  
+Caffa  
+Cairo, 13.1, 13.2, 15.1, 15.2, nts.1n  
+Cairo Geniza  
+Calabria, 4.1, 8.1, 12.1, 12.2  
+Calais, 12.1, 12.2, 15.1  
+Calcutta, 16.1, 17.1, 17.2, 18.1  
+Calicut, 13.1, 15.1, 15.2  
+Portuguese in, 13.1, 14.1, 14.2, 15.1  
+California, itr.1, 1.1, 1.2, 17.1, 18.1, 19.1  
+gold rush, 18.1, 18.2  
+Callao, 15.1, 15.2  
+Callias, Peace of  
+Callixtus III  
+Cambay, 3.1, 15.1, 15.2, 16.1  
+Cambodia, 7.1, 7.2, 11.1, 13.1  
+ships of, 7.1, 11.1-itr.1  
+see also Funan  
+Camões, Luis Vaz de  
+Campania, 5.1, 5.2  
+Cam Ranh Bay  
+Canaan, 2.1, 2.2, 3.1, 3.2, 3.3, 4.1  
+Canada, itr.1n, 1.1, 1.2, 16.1, 17.1, 18.1, 20.1  
+infrastructure in, 18.1, 18.2, 18.3  
+canals, itr.1, 15.1, 16.1, 18.1  
+Chinese, 7.1, 7.2, 7.3, 7.4, 7.5, 13.1  
+Egyptian, 4.1, 5.1, 6.1, 6.2, 6.3, 8.1  
+European, 4.1, 4.2, 9.1, 16.1, 18.1  
+Grand, 7.1, 11.1, 11.2, 11.3, 11.4, 13.1  
+and internal growth, itr.1, 7.1, 18.1  
+irrigation, 2.1, 3.1, 6.1, 6.2  
+navigation on, 2.1, 3.1, 3.2, 7.1, 11.1  
+Near East, 3.1, 6.1, 10.1  
+North American  
+Panama, 19.1, 19.2, 19.3, 19.4, 20.1  
+Suez, 18.1, 18.2, 19.1, 19.2, 19.3, 20.1, 20.2  
+Tang, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6  
+Yuan  
+Canary Islands, 4.1, 12.1, 15.1  
+Columbus and, 14.1, 14.2, 14.3, 14.4  
+and European expansion, 14.1, 14.2, 15.1  
+Candide (Voltaire), nts.1n  
+Cannanore (Kannur), 14.1, 15.1, 15.2  
+canoes, 1.1, 1.2, 16.1  
+canots de maître  
+Canterbury, 9.1, 14.1  
+Canterbury Tales (Chaucer),  
+Cantino map  
+Canton, 17.1, 17.2, 17.3, 18.1  
+see also Guangzhou  
+Canute  
+Cão, Diogo  
+Cao Cao  
+Cape Cod, 1.1, 16.1  
+Cape Colony, 17.1, nts.1n  
+Cape Gelidonya wreck  
+Cape Horn, 17.1, 17.2  
+passages via, 17.1, 17.2, 18.1, 18.2, 18.3  
+Cape Town, 17.1, nts.1n, nts.2n  
+Cape Verde, 14.1, 14.2, 14.3  
+Cape Verde Islands, 14.1, 14.2, 15.1  
+Portuguese in, 14.1, 14.2  
+capitalism, 16.1, 18.1  
+capitana  
+Caral  
+caravel, 14.1, 14.2, 14.3, 15.1  
+Carchemish  
+Caria, 3.1, 4.1  
+Cariba  
+Caribbean, 17.1, 18.1, 19.1, 20.1  
+Europeans in, 16.1, 16.2, 16.3, 17.1  
+migration to, 16.1, 17.1, 18.1  
+piracy in, 16.1, 16.2, 16.3  
+pre-Columbian, 1.1, 1.2, 1.3, 1.4, 1.5  
+Spanish in, 14.1, 15.1, 15.2, 19.1  
+United States and, 18.1, 19.1, 19.2, 19.3  
+Caribs  
+Caroline Islands, 1.1, 1.2, 1.3, 19.1  
+Carolingian Dynasty, 8.1, 8.2, 9.1, 9.2  
+carrack, 14.1, 15.1, 15.2  
+Carreira da India  
+Carron iron works  
+Cartagena, Colombia, 15.1, 15.2  
+Cartagena, Spain, 4.1, 5.1  
+cartaz  
+Carthage, 4.1, 4.2, 4.3, 4.4, 8.1, 8.2  
+embrace of maritime trade, 8.1, 12.1  
+navy of, 4.1, 5.1  
+Punic Wars and, 5.1n, 5.2, 5.3, 5.4  
+Rome and, 5.1, 5.2  
+ships of, 5.1, 5.2, 6.1  
+Carthago Nova  
+Cartier, Jacques, 16.1, 16.2  
+Carvajal, Gaspar de  
+Casa de la Contratacion  
+cash, copper, 7.1n, 11.1, 13.1  
+export of, 13.1, 13.2, 13.3, 13.4, 13.5  
+Caspian Sea, 9.1, 12.1, 15.1, 15.2, 18.1  
+Vikings on, 9.1, 9.2  
+Castile, 12.1, 14.1, 14.2  
+Spanish expansion and, 12.1, 12.2, 14.1, 14.2, 14.3, 15.1  
+Castlereagh, Viscount  
+Catalan Atlas of 1375  
+Catalonia, 12.1, 12.2  
+catamarans  
+catapults, 5.1, 5.2, 5.3, 8.1, 9.1  
+Catherine the Great, 17.1, 17.2  
+Cato  
+Caucasus Mountains, 3.1, 10.1, 19.1, 19.2  
+Census of the Men of Alba  
+Central America, itr.1, 1.1, 14.1, 19.1, 19.2  
+Central Asia, 3.1, 10.1, 10.2, 12.1, 13.1, 13.2  
+Buddhism in, 6.1, 7.1, 7.2  
+China and, 7.1, 10.1, 11.1, 11.2, 11.3  
+Islam in, 6.1, 10.1  
+silk road of, 7.1, 7.2, 9.1, 10.1  
+Central Powers  
+Centurion, HMS, 17.1, 17.2  
+ceramics, 1.1, 1.2, 1.3, 2.1, 2.2, 3.1  
+and archaeology, 5.1, 5.2, 10.1, nts.1n  
+Chinese, 10.1, 11.1, 11.2, 11.3, 13.1, 13.2  
+Ceuta, 8.1, 8.2, 8.3, 8.4, 12.1, 12.2, 13.1  
+Portugal and, 14.1, 14.2  
+Ceylon, see Sri Lanka  
+Ceylon (sailing ship),  
+Ceylon (steamship),  
+Chalcis  
+Challenger  
+Chalukya kingdom, 10.1, 13.1  
+Cham, 7.1, 7.2, 11.1  
+Champa, 10.1, 10.2, 11.1, 11.2, 12.1, 13.1  
+Champagne fairs  
+Champlain, Lake, 17.1, 18.1  
+Champlain, Samuel de  
+Chams, 7.1, 7.2  
+Chancellor, Richard  
+Chandragupta, 6.1, 6.2, 6.3, 6.4  
+Chang'an, 11.1, 11.2, 11.3, 11.4  
+canals and, 7.1, 7.2, 7.3, 11.1, 11.2  
+as capital, 7.1, 7.2, 11.1, 11.2  
+Changjiang  
+Changsha, China  
+Channel Islands (California), 1.1, 1.2  
+Channel Islands (English Chan.), 9.1, 9.2  
+Chao Cuo  
+Chao Phraya River, 7.1, 7.2, 13.1  
+Charax Spasinou, 6.1, 6.2, 7.1, 10.1  
+Charlemagne, 8.1, 9.1, 9.2, 9.3, 9.4  
+Charles I, duke of Anjou, 12.1, 12.2  
+Charles I, King of England, 16.1, 16.2  
+Charles II, King of England, 16.1, 16.2, 16.3, 16.4, 18.1  
+Charles II, King of Spain  
+Charles I/V, Holy Roman Emperor, 14.1, 14.2, 15.1, 16.1  
+Charleston, 16.1, 17.1, 18.1, 19.1, 19.2  
+Charlotte Islands, 1.1, 1.2  
+Charter Oath  
+Charybdis  
+Chatham, England, 15.1, 16.1, 17.1  
+Châtillon, Reynald de  
+Chaucer, Geoffrey, 14.1, 14.2  
+Chaul, battle of  
+Chavín de Huantar  
+Chen Dynasty  
+Chera, 6.1, 6.2, 10.1  
+Chesapeake, USS,  
+Chesapeake Bay, 16.1, 17.1, 18.1  
+Chicago, Illinois, 18.1, 18.2, 20.1  
+Chilcheonryang, battle of  
+Childers, Erskine  
+Chile, 15.1, 18.1, 18.2, 19.1  
+pre-Columbian, 1.1, 1.2, 1.3  
+China, itr.1, 1.1, 6.1, 6.2, 7.1  
+East Africa and, 13.1, 13.2, 13.3, 13.4  
+from 8th to 3rd centuries BCE  
+maritime geography of  
+maritime trade of, 11.1, 13.1, 13.2, 17.1  
+Song Dynasties in, 10.1, 10.2, 11.1n, 11.2, 11.3, 11.4, 11.5, 11.6, 11.7,  
+13.1, 13.2, 13.3  
+Sui Dynasty in, 7.1, 7.2, 11.1  
+Tang Dynasty in, 7.1, 7.2, 7.3, 7.4, 11.1, 11.2, 11.3, 11.4  
+from 3rd to 6th centuries ce  
+Yan Dynasty in, 13.1, 13.2  
+China clippers  
+Chincha Islands, 18.1, 18.2  
+Chinggis (Genghis) Khan, 13.1, 13.2  
+Chlocilaicus (Hygelac)  
+Chola Kingdom, 6.1, 6.2, 6.3, 10.1, 10.2, 10.3, 10.4, 13.1, 13.2  
+Christianity, itr.1, 3.1, 8.1, 10.1, 10.2, 12.1n, nts.1n  
+conversion to, 14.1, 14.2, 14.3, 15.1  
+Crusades and, 12.1, 12.2, 15.1  
+in East Asia, 11.1, 13.1, 15.1, 15.2, 16.1  
+in East Africa, 6.1, 14.1  
+European expansion and, 14.1, 16.1  
+fisheries and  
+Islam and, 8.1, 8.2, 10.1, 15.1, 15.2  
+in Mediterranean, 5.1, 8.1, 8.2, 13.1, 13.2  
+Muslim trade and, 12.1, 15.1  
+Nestorian, 6.1, 8.1, 10.1, 11.1, 11.2, 13.1  
+in northwest Europe, 9.1, 9.2, 9.3  
+in Scandinavia, 9.1, 9.2, 9.3, 9.4  
+schisms, 8.1, 8.2, 8.3, 8.4, 9.1  
+and trade, 3.1, 8.1, 8.2, 8.3  
+Chronicle of the Rasulid Dynasty  
+Chumash Indians  
+Churchill, Winston, 18.1, 19.1, 19.2, 19.3, 19.4  
+Cicero, 5.1, 5.2, 5.3, 12.1  
+Cilicia, 5.1, 5.2, 8.1  
+Cilician Armenia, 12.1, 12.2  
+Cilippatikaram, or The Epic of the Anklet (Ilanko), 6.1  
+Cinque Ports  
+Cipango  
+Civilis, Gaius Julius  
+Civil War, English, 16.1, 17.1  
+Civil War, Roman  
+Civil War, U.S., 19.1, 19.2  
+Civitavecchia, 5.1, 5.2  
+Clark, William  
+Classis Britannica  
+Classis Germanica, 9.1, 9.2  
+Claudia  
+Claudius, 5.1, 5.2, 6.1, 9.1  
+Clement VII  
+Cleopatra, 5.1, 6.1  
+climate, 1.1, 7.1, 16.1  
+climatic warming, 9.1, 20.1  
+health and, 16.1, 17.1  
+clipper age, 18.1, 18.2  
+Clos des Galées, 12.1, nts.1n  
+cloves, 10.1, nts.1n  
+European trade in, 14.1, 14.2, 15.1, 15.2  
+medieval trade in, 6.1, 9.1, 13.1, 13.2  
+Clysma, 6.1, 10.1, 18.1  
+Cnidus, 5.1, 5.2, 6.1  
+coal, 12.1, 17.1, 18.1, 20.1  
+for ships, 18.1, 18.2, 18.3, 18.4  
+coastal piloting  
+Cochin (Kochi), 10.1, 14.1, 15.1  
+Coen, Jan Pieterszoon  
+cog, 12.1, 12.2, 12.3, 12.4, 14.1, 15.1  
+Cohong (gonghang)  
+Coke, Sir Edward  
+Colbert, Jean-Baptiste, 16.1, 17.1  
+Colchis  
+Cold War, 19.1, 20.1  
+Collins, Edward Knight, 18.1, 18.2  
+Collins Line, 18.1, 18.2  
+Cologne, Germany, 9.1, 12.1, 18.1  
+Colombia, 15.1, 15.2, 19.1  
+coloniae maritimae, 5.1, 5.2  
+Colonna, Marcantonio  
+Colossi of Memnon, 2.1, nts.1n  
+Columba, St.  
+Columbia Rediviva, 17.1, 17.2  
+Columbia River, 1.1, 1.2, 17.1  
+Columbus, Bartolomé  
+Columbus, Christopher, itr.1, 15.1, 15.2, 15.3  
+associates, 14.1, 14.2, 14.3  
+background and voyages, 14.1, 14.2, 14.3  
+in Caribbean, 1.1, 14.1, nts.1n  
+ships of, 2.1, 14.1, 14.2, nts.1n  
+Columbus, Ferdinand, 1.1, 14.1  
+commenda, 8.1, 8.2, 12.1, 13.1  
+Commercial Revolution, 8.1, 12.1, 12.2  
+Commerson, Philibert  
+Comorin, Cape  
+Comorin, kingdom of  
+Comoros Islands, 10.1, 16.1  
+compass, 13.1, 17.1, 17.2, 18.1  
+development of, 13.1, 14.1, 17.1, nts.1n  
+Compasso de navigare, Lo, 14.1, 14.2  
+compound engine, 18.1, 19.1  
+Compton-Hall, Richard  
+Concepción, 14.1, 14.2, 15.1  
+Confederate States Navy, 19.1, 19.2  
+Confederate States of America, 19.1, 19.2  
+Confucianism, 7.1, 11.1, 11.2, 11.3  
+and trade, 7.1, 7.2, 7.3, 13.1  
+Confucius, 7.1, 7.2  
+Congo, kingdom of, 14.1, 15.1  
+Congress, U.S., 17.1, 18.1, 18.2, 19.1, 20.1  
+Conqueror, HMS,  
+Constans II  
+Constantine I  
+Constantine VII, 8.1, 9.1  
+Constantinople, 8.1, 8.2, 8.3, 10.1, 12.1  
+attacks on, 8.1, 8.2, 8.3, 12.1  
+capture of, 12.1, 14.1, 15.1  
+Crusades and, 12.1, 12.2, 14.1  
+foreigners in, 8.1, 8.2, 12.1, 12.2  
+Italian merchants and, 8.1, 12.1, 12.2  
+Rus and, 8.1, 9.1  
+trade at, 8.1, 8.2  
+Venetians and, 8.1, 8.2, 12.1, 12.2, 12.3  
+see also Byzantium; Istanbul  
+Constantinople, Latin empire of  
+Constitution, U.S.  
+containerization, 12.1, 20.1  
+Continental Army  
+Continental Congress  
+contracts, merchant, 3.1, 3.2, 5.1, 6.1  
+medieval, 8.1, 12.1  
+Cook, James, 1.1, 1.2, 17.1, 18.1  
+voyages of, 1.1, 17.1, 17.2  
+Cook Islands  
+coolies, 18.1, 18.2, 20.1  
+Copenhagen, 12.1, 12.2, 17.1  
+copper, 2.1, 11.1, 13.1, 15.1, 16.1, 17.1  
+in Americas, 1.1, 1.2, 1.3, 3.1, 4.1  
+coins, 6.1, 6.2, 7.1, 8.1, 11.1  
+in shipbuilding, 2.1, 5.1, 10.1  
+Mesopotamia, 3.1, 3.2, 4.1, 8.1  
+see also cash  
+Coptos, 2.1, 2.2, 6.1, 6.2, 6.3  
+Copts, 8.1, 8.2  
+Córdoba, 8.1, 8.2, 8.3, 8.4, 9.1, 12.1  
+Corinth, 4.1, 4.2, 4.3, 4.4, 5.1  
+Corinth, Gulf of, 4.1, 5.1, 15.1  
+Corinth, Isthmus of, 4.1, 4.2, 8.1  
+Corinth, League of  
+Corinthians, 4.1, 4.2, 4.3  
+Corinto  
+Cork, Ireland, 9.1, 18.1, 18.2  
+Cornwall, 9.1, 9.2, 20.1  
+corsairs, 15.1, 15.2, 16.1  
+Barbary, 15.1, 15.2, 16.1, 17.1  
+Cornwallis, Charles  
+Coromandel Coast, 6.1, 13.1, 14.1, 16.1  
+traders on, 6.1, 10.1  
+traders from, 13.1, 15.1  
+Corsica, 5.1, 5.2, 8.1, 8.2, 12.1, 12.2  
+Corte-Real brothers, 16.1, nts.1n  
+Cortés, Hernando  
+corvus, 5.1, 7.1, nts.1n  
+Cosmas Indicopleustes  
+Covilhã, Pêro da  
+cowries, 7.1, 15.1, 16.1  
+Crassus  
+Cresques, Abraham  
+Cretans, 3.1, 3.2, 5.1, 8.1, 8.2  
+Cretan War  
+Crete, 3.1, 4.1, 5.1, 5.2, 8.1  
+emirate of, 8.1, 8.2, 10.1, 12.1  
+Minoan, 2.1, 2.2, 3.1, 3.2  
+Crimea, 5.1, 12.1, 15.1, 17.1, 19.1  
+Crimea, Khanate of  
+Crimean War, 19.1, 19.2  
+Cristofre  
+Croatia, 5.1, 8.1, 12.1, 12.2  
+Cromwell, Oliver, 16.1, 16.2  
+cruisers, 19.1, 19.2, 19.3, 19.4, 19.5  
+battlecruiser, 18.1, 19.1, 19.2, 19.3, 19.4  
+cruise ships  
+Crusades, 8.1, 10.1, 12.1, 12.2, 13.1  
+First-Fourth, 12.1, 12.2, 12.3, 12.4  
+zeal of, 15.1, 15.2, 16.1  
+Ctesiphon  
+Cuba, 18.1, 18.2, 19.1  
+pre-Columbian, 1.1, 1.2  
+Spanish in, 14.1, 14.2, 15.1, 15.2, 16.1  
+Cumae, battle of  
+Cunard, Samuel, 18.1, 18.2, 18.3  
+Cunard Line, 18.1, 18.2, 18.3, 18.4  
+Cuniberti, Vittorio, 19.1, 19.2  
+currents, oceanic, 1.1, 12.1, 14.1, 14.2, 18.1  
+Atlantic, 1.1, 4.1, 14.1, 18.1, 18.2, nts.1n  
+Indian Ocean, 2.1, 10.1, 10.2, 18.1  
+Mediterranean, 2.1, 12.1  
+Pacific, 1.1, 1.2, 1.3, 1.4, 13.1, 18.1  
+Customs Service  
+cutter, 6.1, 17.1  
+Cyclades, 3.1, 4.1, 5.1, 8.1  
+Cyclops, 4.1, 5.1  
+Cyprus, 4.1, 5.1, 5.2, 8.1, 12.1, 15.1  
+in Bronze Age, 3.1, 3.2, 3.3  
+condominium rule of, 8.1, 8.2, 8.3  
+copper and, 3.1, 3.2, 4.1  
+Muslims and, 8.1, 8.2, 8.3, 12.1  
+navigation and, 5.1, 12.1  
+Phoenicians and, 4.1, 4.2, 4.3, 4.4  
+timber of, 4.1, 4.2, 5.1, 8.1  
+see also Alashiya  
+Cyrene  
+Cyrus the Great, 4.1, 6.1  
+Dadu, 13.1, 13.2, 13.3  
+Dahlgren, John A., 19.1, 19.2  
+Dai Viet, 11.1, 11.2, 13.1, 13.2, 13.3  
+dalca, 1.1, 1.2  
+Dalian (Dairen), 16.1, 19.1  
+Dalrymple, Alexander, 17.1, 18.1  
+Damascus, 8.1, 10.1, 12.1  
+Damietta, 8.1, 12.1  
+Da Nang  
+Dandolo, Enrico  
+Danegeld  
+Danelaw, 9.1, 9.2  
+Danish archipelago, 9.1, 12.1  
+Dan-no-ura, battle of, 13.1, 13.2, 13.3  
+Dante Alighieri, 12.1, 14.1  
+Dante Alighieri  
+Danube River, 4.1, 9.1, 9.2, 12.1, 14.1, 15.1  
+as border, 4.1, 8.1, 9.1  
+military use of, 4.1, 5.1, 5.2, 9.1, 15.1  
+Rhine and, 9.1, 9.2, 9.3, 18.1  
+Daoism, 7.1, 7.2, 7.3, 13.1  
+Da Qin, 6.1, 7.1  
+Dar al-Islam, 6.1, 8.1, 8.2, 10.1, 13.1  
+trade in, 8.1, 12.1  
+dar al-sina'a  
+Dardanelles, 5.1, 8.1, 8.2  
+Ottomans and, 15.1, 17.1, 19.1, 19.2  
+see also Hellespont  
+Darius, 4.1, 4.2, 5.1, 6.1  
+Dark Age (Greek), 3.1, 3.2, 4.1  
+Darwin, Charles, 18.1, nts.1n  
+Dashi (Arabs), 10.1, 13.1  
+David, King  
+Davis's backstaff  
+Davis Strait, 9.1, 18.1  
+Daybul (Banbhore), 6.1, 10.1  
+Dazaifu  
+Decameron (Boccaccio),  
+Deccan, 6.1, 6.2, 6.3, 6.4, 15.1, 15.2  
+degredados  
+Deinocrates  
+Deir el-Bahri, 2.1, 2.2n  
+De Jure Praedae (Grotius),  
+Delaware River  
+Delhi Sultanate, 13.1, 13.2  
+Delian League, 4.1, 4.2, 5.1  
+Delos, 4.1, 5.1, 6.1  
+Demetrius the Besieger, 5.1, 5.2, 5.3, 5.4  
+denarii  
+Denmark, 9.1, 15.1, 17.1, 17.2, nts.1n  
+the Dutch and, 12.1, 15.1, 16.1, 17.1  
+fisheries of, 12.1, 16.1  
+Franks and  
+the Hanse and, 12.1, 12.2  
+ships in, 9.1, 15.1, 18.1  
+in Viking age, 9.1, 9.2, 9.3, 9.4  
+Dépôt des Cartes et Plans  
+Des Barres, Joseph F. W.  
+Description of Barbarous (Zhao), 13.1, 16.1  
+Description of New England, A (Smith),  
+Deshima, 16.1, 17.1  
+Dewey, George  
+Dezhnev, Semyon  
+Dhanapala, 10.1, 10.2  
+Dhat al-Sawari (battle of the Masts), 8.1, 8.2, 8.3  
+dhimmis, 8.1, 10.1  
+Diamond, Jared  
+Dias, Bartolomeu, 14.1, 14.2, 14.3, 14.4, 14.5  
+Dickens, Charles  
+Dido, 4.1, 5.1  
+diekplous  
+diesel engines  
+Dilmun, 3.1, 3.2, 3.3, 4.1, 10.1  
+Dinh Bo Linh  
+Dinis, King of Portugal  
+Dio Chrysostom  
+Diocletian  
+diolkos, 4.1, 8.1  
+Dionysius I  
+Dir  
+Discovery, HMS,  
+disease, 16.1, 17.1, 17.2  
+shipboard, 14.1, 15.1, 16.1, 17.1, 17.2, 19.1  
+spread by ship, 1.1, 1.2, 1.3, 12.1, 12.2, 14.1  
+Disraeli, Benjamin  
+Diu, 15.1, 15.2  
+Dnieper River, 9.1, 9.2, 17.1, 19.1  
+trans-European routes, 4.1, 9.1, 15.1  
+Dniester River, 9.1, 12.1  
+Dnipropetrovs'k  
+doge, 12.1, 12.2, 12.3  
+Dogger Bank  
+Dolben, William  
+Dolores Ugarte  
+Dolphin, HMS,  
+Dominica, 1.1, 14.1, 15.1  
+Dong-Son culture, 7.1, 7.2, 7.3, 7.4  
+Dönitz, Karl, 19.1, 19.2  
+Don River, 4.1, 9.1, 11.1, 15.1, 15.2, 17.1  
+Dor  
+Dorestad, Netherlands, 9.1, 9.2, 9.3  
+Dorset culture  
+doshchaniks  
+double canoe, 1.1, 1.2, 1.3, 6.1  
+Douglass, Frederick  
+Dover, 9.1, 12.1, 16.1  
+Dover, battle of  
+Dover Strait, 9.1, 12.1  
+Dowdeswell, William  
+Down Easter  
+Downs, the, 16.1, 16.2  
+Drake, Francis, 15.1, 15.2, 16.1, 16.2  
+Dramatic Line  
+Dravidian speakers, 6.1, 10.1n  
+Dreadnought, HMS, 18.1, 19.1, 19.2  
+dromon, 8.1, nts.1n  
+Duanhong  
+Dublin, 9.1, 9.2, 9.3, 9.4  
+Dubrovnik  
+Dudinka, Russia  
+dugouts, 1.1, 1.2, 16.1  
+Duilius, Gaius  
+Dulcert, Angelino, 14.1, 14.2, 14.3  
+Dumont d'Urville, Jules S.  
+Dunhuang, 7.1, 7.2, 7.3  
+Dunkirk, 16.1, 16.2  
+Dupuy du Lôme, Stanislas, 19.1, 19.2, 19.3  
+Dutch  
+Asian trade of, 16.1, 16.2  
+European trade of  
+naval warfare of  
+Dutch East India Company, 15.1, 15.2, 16.1  
+see also VOC  
+Dutch Republic, 15.1, 16.1, 16.2, 17.1  
+European rivals and, 16.1, 16.2, 17.1  
+wars with Spain, 16.1, 16.2, 17.1  
+Dutch Revolt, 15.1, 15.2, 15.3  
+duties and tariffs, 12.1, 15.1, 16.1, 16.2, 19.1  
+in Asia, 7.1, 10.1, 13.1, 13.2, 13.3  
+in Britain, 17.1, 17.2, 18.1  
+in Byzantine Empire, 8.1, 12.1  
+in China, 11.1, 11.2, 13.1, 13.2, 19.1  
+duty-free, 5.1, 18.1  
+in Egypt, 6.1, 6.2  
+exemption from, 5.1, 9.1, 10.1, 12.1  
+in India, 6.1, 10.1, 14.1  
+in Spain, 15.1, 15.2, 15.3, 16.1  
+see also taxation  
+Dyrrachium, 8.1, 12.1, 12.2  
+Ea (god), 3.1, 3.2  
+Eanes, Gil  
+East Africa, itr.1, 15.1, 15.2, 16.1, 18.1, nts.1n  
+Chinese and, 13.1, 13.2, 13.3, 13.4  
+exports from, 6.1, 6.2, 6.3, 10.1, 10.2, 10.3  
+Islam and, 6.1, 10.1, 13.1, 14.1  
+Portuguese in, 14.1, 14.2, 15.1, 15.2  
+ships of, 2.1, 6.1, 6.2  
+slave trade in, 10.1, 16.1  
+trade of, 6.1, 6.2, 6.3, 8.1, 10.1, 10.2, 13.1  
+East Anglia, 9.1, 9.2  
+East China Sea, 7.1, 7.2, 11.1  
+Easter Island, 1.1, 1.2, 1.3, 17.1  
+Eastern Jin  
+Eastern Settlement, 9.1, 9.2  
+East India Company, 13.1, 15.1, 16.1, 17.1  
+in China, 18.1, 19.1  
+in India, 16.1, 17.1, 17.2, 17.3, 17.4  
+mapping and, 17.1, 18.1  
+East Indies, 1.1, 16.1, 16.2, 18.1, 19.1, 19.2  
+East Java, 10.1, 13.1  
+Eastland  
+Ecclesiastes  
+Ebro River, 5.1, 12.1  
+Economist  
+Ecuador, 1.1, 1.2, 15.1, 15.2  
+Edessa  
+Edgar  
+Edington, battle of  
+Edward I  
+Edwards, Osman  
+Edward the Confessor  
+Edward the Elder, 9.1, 9.2  
+Egypt, 5.1, 5.2, 8.1, 12.1, 15.1  
+British and, 17.1, 17.2, 18.1  
+Byzantines in, 8.1, 10.1  
+canals in, 6.1, 8.1  
+Fatimid, 8.1, 8.2, 10.1, 12.1, 13.1  
+grain trade of, 5.1, 5.2, 5.3, 8.1  
+Indian Ocean and, 6.1, 6.2, 6.3, 6.4, 10.1, 10.2, 13.1  
+Italians in, 8.1, 12.1  
+Mamluk, 12.1, 13.1, 15.1, 15.2  
+Muslim rule in, 6.1, 8.1, 10.1  
+naval power and, 8.1, 8.2, 12.1, 12.2, 13.1  
+Ottoman, 15.1, 15.2  
+Ptolemaic, 5.1, 6.1, 6.2  
+Rome and, 5.1, 6.1, 6.2  
+ships of, 5.1, nts.1n  
+Egypt, ancient, 4.1, 4.2, 4.3, 4.4, 4.5  
+Alexander and  
+Levant and, 2.1, 2.2, 2.3, 4.1  
+Lower and Upper, 2.1, 2.2, 2.3  
+Mediterranean trade of, 2.1, 2.2, 3.1, 3.2, 3.3  
+Mesopotamia and, 2.1, 2.2, 2.3, 2.4  
+New Kingdom, 2.1, 2.2, 2.3, 2.4, 2.5, 3.1  
+Old Kingdom, 2.1, 2.2, 2.3, 2.4, 3.1, 6.1  
+Persian Wars and  
+Red Sea and, 2.1, 2.2, 2.3, 2.4, 2.5, 4.1  
+Sea People and  
+shipbuilding in, 2.1, 2.2, 2.3, 2.4, 3.1, 7.1, nts.1n, nts.2n, nts.3n  
+Egyptian Antiquities Service  
+Eirik I  
+Eirik II  
+Eirikson, Leif  
+Eirik's Saga  
+Eisenhower, Dwight  
+Elbe River, 9.1, 9.2, 12.1  
+Elblag, 9.1, 9.2  
+Elcano, Juan Sebastian de, 14.1, 14.2  
+Elder, John  
+elephant trade, 6.1, 6.2, 11.1, 16.1, nts.1n  
+Elephantine, 2.1, 2.2, 2.3  
+Eleusis, Bay of  
+Elissa, 4.1, 5.1  
+Elizabeth I, Queen of England  
+Elmina, 14.1, 14.2  
+El Niño, 1.1, 1.2  
+Emden  
+Emma of Normandy  
+Empress of China  
+Endeavour, HMS,  
+Endurance  
+England, 9.1, 14.1, 15.1, 15.2  
+American Revolution and  
+Asian trade of, 16.1, 16.2, 16.3, 16.4, 17.1, 17.2  
+Caribbean colonies of, 16.1, 16.2, 16.3, 16.4, 17.1, 17.2, 18.1  
+Dutch wars with, 16.1, 17.1  
+European trade of, 12.1, 12.2, 12.3  
+French and Spanish wars of, 12.1, 15.1, 17.1, 17.2, 17.3, 17.4, 17.5  
+North American colonies of, 16.1, 16.2  
+in Viking age, 9.1, 9.2, 9.3  
+see also Royal Navy  
+English Channel, 9.1, 14.1, 18.1, 20.1  
+English on, 15.1, 17.1, 17.2, 17.3, 19.1  
+French and, 12.1, 16.1, 17.1  
+English Channel (continued)  
+pirates and privateers on, 12.1, 16.1  
+Romans and, 5.1, 9.1, 9.2, 9.3  
+Enigma encryption machine  
+Enki (god), 3.1, 3.2  
+Enlightenment  
+Ennin, 11.1, 11.2  
+Ennugi  
+Enrique (slave)  
+Enterprise, USS,  
+Epic of Gilgamesh, 3.1, 3.2, 4.1  
+Epirus  
+equator, 7.1, 14.1, 14.2, 14.3, 17.1  
+winds and, 1.1, 1.2, 6.1n  
+Equiano, Olaudah  
+Erebus  
+Eretria, 4.1, 4.2  
+Eric of Norway  
+Ericsson, John, 19.1, 19.2  
+Eridanus River  
+Erie, Lake  
+Eritrea, 1.1, 2.1, 2.2, 6.1, 6.2  
+España, Luis de  
+Espinosa, Gonzalo Gómez de  
+Essaouira, Morocco  
+Essex  
+Esso  
+Estado da India, 15.1, 15.2, 16.1, 16.2, 16.3  
+Estonia, 12.1, 17.1  
+Estoria de España  
+etak  
+Ethiopia, 6.1, 6.2, 14.1, 14.2, 15.1  
+Etruria, 4.1, 5.1  
+Etruscans, 4.1, 5.1, 5.2  
+Euboea, 4.1, 4.2, 5.1, 8.1, 12.1  
+Eudoxus of Cyzicus  
+Eumaeus  
+Euobea, itr.1, 4.1, 4.2, 4.3, 5.1, 8.1, 12.1  
+Euphrates, 2.1, 3.1, 10.1, 12.1, 14.1, nts.1n  
+cities on, 3.1, 3.2, 3.3, 3.4, 10.1  
+geography and navigation on, 3.1, 10.1  
+Mediterranean and, 2.1, 3.1, 3.2  
+Europa  
+Europe  
+naval power in  
+exartysis  
+exclusive economic zone (EEZ)  
+exploration, 1.1, 14.1, 14.2, 14.3, 20.1  
+in antiquity, 1.1, 1.2, 6.1  
+18th-century, 1.1, 17.1, 17.2, 18.1  
+Iberian, 14.1, 14.2, 14.3, 14.4, 15.1  
+of North America, 9.1, 16.1, 16.2  
+Ezekiel, 4.1, 4.2  
+Fabri, Felix  
+Falconbridge, Alexander, 17.1, 17.2  
+Falkland Islands, 18.1, 20.1  
+Falkland Islands War  
+Falklands, battle of the  
+Falmouth, 16.1, 18.1  
+Fanfan  
+Far East Squadron (German navy)  
+Faroe Islands, 9.1, 9.2  
+Farragut, David G.  
+Fars, 6.1, 6.2, 10.1, nts.1n  
+Fatimids, 8.1, 12.1, 12.2  
+in Egypt, 8.1, 8.2, 12.1  
+Indian Ocean and, 10.1, 10.2, 13.1, 13.2  
+Faxian, 6.1, 7.1, 7.2  
+Feodosiya, 4.1, 12.1  
+Ferdinand III, King of Castile  
+Ferdinand V, King of Aragon, 14.1, 14.2, 14.3, 14.4, 14.5  
+Fighting Instructions  
+Fiji, 1.1, 1.2, 18.1  
+Finland, Gulf of, 9.1, 17.1  
+Fisher, John A. "Jackie," 18.1, 19.1, 19.2  
+fisheries, 1.1, 7.1, 16.1, 17.1, 20.1  
+cod, 9.1, 16.1, 17.1, 20.1  
+herring, 12.1, 12.2, 16.1, 20.1, 20.2  
+see also whaling  
+Fitch, John  
+Five Dynasties and Ten Kingdoms, 11.1, 11.2  
+Five Regulations of 1759  
+flags of convenience  
+Flanders, 9.1, 12.1, 12.2, 14.1  
+Hanse and, 12.1, 12.2  
+Italians and, 12.1, 12.2, 12.3, 12.4, 12.5, 14.1  
+Spanish and, 15.1, 16.1, 16.2, 16.3  
+Flemings, 12.1, 15.1  
+Florence, 12.1, 14.1, 14.2  
+Flores boat, 7.1, 7.2  
+Flores Island, 7.1, 7.2, 14.1  
+Florida, 1.1, 1.2, 1.3, 16.1, 18.1, 19.1  
+fluits, 15.1, 20.1  
+Flying Cloud  
+fonduks  
+Food and Agriculture Organization  
+Fort Hudson, Louisiana  
+Fossa Carolina  
+Fox, Charles James  
+Framqua, Lansarote da  
+France, 8.1, 12.1, 12.2, 15.1, 18.1, 19.1  
+abolition and, 17.1, 17.2  
+in Americas, 1.1, 16.1, 16.2, 16.3, 16.4, 17.1  
+in antiquity, 5.1, 8.1, 9.1, 9.2  
+canals in, 16.1, 18.1  
+and East Asia, 18.1, 19.1  
+exploration, 1.1, 14.1, 14.2, 16.1, 17.1, 18.1  
+Italians and, 12.1, 12.2  
+in Middle Ages, 8.1, 9.1, 12.1  
+and navigation, 17.1, 17.2, 18.1  
+Russia and, 17.1, 20.1  
+ship design in, 17.1, 18.1, 18.2, 18.3, 20.1  
+shipwrecks in, 5.1, 20.1  
+Suez Canal and  
+trade of, 12.1, 15.1, 15.2, 16.1, 16.2, 16.3  
+in Viking Age, 9.1, 9.2, 9.3  
+Francis I, 16.1, 16.2  
+Francis Metallic Lifeboats  
+Franco-Angevin  
+Franco-Prussian War of 1870  
+Frankish kingdom, 9.1, 9.2  
+Franklin, Benjamin, 18.1, 18.2, 18.3, 18.4  
+Franklin, John  
+Franks, 8.1, 8.2, 9.1, 9.2, 12.1  
+Frederick I, "Barbarossa," 12.1, 12.2  
+freeboard, 1.1, 4.1, 9.1, 15.1, 18.1, 18.2  
+Free Sea, The (Grotius), 16.1, 16.2, 16.3  
+French Guiana  
+French navy  
+in early modern period, 12.1, 15.1, 16.1, 16.2, 16.3, 17.1, 17.2  
+in Hundred Years' War  
+in 19th century, 19.1, 19.2  
+ships of, 15.1, 19.1, 19.2  
+tactics and strategy, 16.1, 19.1  
+in 20th century, 19.1, 19.2, 19.3  
+French Revolution, 17.1, 17.2  
+French Revolutionary Wars  
+frigates, 17.1, 17.2, 19.1  
+employment of, 16.1, 16.2, 17.1, 17.2  
+Frisia, 9.1, 9.2, 9.3, 9.4, 19.1  
+in Britain, 9.1, 9.2, 9.3, 9.4  
+trade of, 9.1, 9.2, 9.3  
+fuchuan  
+Fugger family  
+Fujian, 11.1, 11.2, 13.1, 13.2, 15.1, 16.1  
+growth of, 11.1, 13.1  
+traders from, 11.1, 13.1, 13.2, 17.1  
+Yue people of, 7.1, 7.2  
+Fulton, Robert, 18.1, 19.1  
+Funan, 7.1, 7.2, 7.3, nts.1n  
+Furious, HMS,  
+Fustat, 8.1, 8.2  
+Fuzhou, 11.1, 13.1, 13.2, 18.1, nts.1n  
+Gabbard Shoal, battle of the  
+Gadir/Gades (Cádiz), 4.1, 5.1, 6.1, 12.1  
+Gaeseric  
+Gaeseong  
+Gaius Duilius  
+Galiano, Dionisio Alcalá  
+galleasse, 15.1, 15.2, 15.3  
+galleons, 15.1, 15.2, 15.3, 16.1  
+galleys, 1.1, 4.1, 12.1, nts.1n  
+in antiquity, 3.1, 4.1, 5.1, 5.2, 5.3  
+early modern, 15.1, 15.2, 15.3, 15.4, 16.1, 17.1  
+Genoese, 12.1, 12.2, 12.3, 12.4, 12.5  
+great galleys, 12.1, 15.1  
+as gun platform  
+medieval, 8.1, 12.1, 12.2, 12.3  
+Gallipoli, 12.1, 15.1, 15.2, 19.1  
+Gallus, Aelius, 6.1, 6.2  
+Galway  
+Gama, Vasco da, 12.1, 13.1, 14.1, 15.1  
+in Indian Ocean, 14.1, 14.2, 15.1  
+Ganga River, 6.1, 10.1, 14.1, nts.1n  
+Bay of Bengal and, 6.1, 6.2, 10.1  
+ports of, 6.1, 6.2, 10.1, 16.1  
+Gansu Province, 7.1, 11.1  
+Gan Ying  
+Gao Pian  
+Gao Xianzhi  
+Garonne River, 9.1, 9.2, nts.1n  
+Garrett, George  
+Gascony, 12.1, 12.2, 12.3  
+Gaul, 5.1, 5.2, 5.3, 9.1, 9.2, 9.3  
+Gaza, battle of  
+Gdansk, 12.1, 15.1  
+Gelon, 5.1, 5.2  
+General Belgrano  
+General Slocum  
+Genesis  
+Genji  
+Genoa, 12.1, 12.2, 12.3, 12.4, 14.1  
+Black Sea trade, 12.1, 15.1  
+Constantinople trade at, 8.1, 12.1  
+Crusades and  
+embrace of trade, 8.1, 12.1, 14.1  
+exploration and, 14.1, 14.2, 14.3  
+growth of, 12.1, 12.2, 12.3  
+Indian Ocean trade, 12.1, 13.1, 15.1  
+northern Europe and, 12.1, 12.2, 12.3, 14.1  
+Genpei War, 13.1, 13.2  
+Gentlemen's Agreement  
+Geography (Ptolemy), 14.1, 14.2  
+George III, 17.1, 17.2  
+Germany, 5.1, 9.1, 9.2, 15.1, 18.1, 18.2  
+emigration from, 17.1, 18.1  
+in Middle Ages, 9.1, 12.1, 12.2, 12.3  
+German Navy, 18.1, 19.1  
+and World War I, 18.1, 19.1, 19.2, 19.3  
+and World War II, 19.1, 19.2, 19.3  
+Gerrha  
+Gerzean culture, 2.1, 2.2, 2.3  
+Geum River, battle of the, 11.1, 11.2  
+Ghafur, Mulla Abdul  
+Ghana, 10.1, 14.1, nts.1n  
+Ghazal, al-  
+Gibraltar, 17.1, 18.1, 19.1  
+Gibraltar, Strait of, 8.1, 8.2, 12.1  
+Arabs cross, 8.1, 8.2, 10.1  
+Genoese transit  
+Phoenicians beyond, 4.1, 4.2, 4.3  
+transits of, 8.1, 8.2, 9.1, 9.2, 12.1, 15.1  
+Gilbert, Humphrey, 16.1, 17.1  
+Gilgamesh, 3.1, 3.2, 4.1  
+Gironde, 9.1, 12.1, 12.2, nts.1n  
+Gitana 13  
+Giza, 2.1, 2.2, nts.1n  
+Gjøa  
+Gladstone, Prime Minister  
+"glass wreck,"  
+global positioning systems  
+Glorious First of June, battle of the, 17.1, 17.2  
+Glorious Revolution  
+Gloucester, HMS,  
+Glückauf, 18.1, 18.2, 20.1, 20.2  
+Goa  
+Godfred, King, 9.1, 9.2  
+Goguryeo, 7.1, 11.1, 11.2  
+Gojoseon  
+Gokstad ship, 9.1, 9.2  
+Golden Fleece  
+Golden Hind, 15.1, 15.2  
+Golden Horn, 8.1, 8.2, 8.3, 15.1, nts.1n  
+Golovnin, Vasilii M.  
+Gonçalves, Antão  
+gondolas  
+Good Hope, Cape of, 14.1, 15.1, 17.1  
+Dias rounds, 14.1, 14.2  
+distances via, 14.1, 19.1, 20.1  
+Gama rounds, 12.1, 14.1, 15.1  
+Gore, John  
+Goryeo, 11.1, 15.1  
+Gosport Navy Yard  
+Gotland, 9.1, 9.2, 12.1, 12.2  
+grain trade  
+Alexandria and, 5.1, 5.2, 8.1  
+North African, 5.1, 5.2, 8.1, 12.1  
+Grand Admiral of France  
+Grasse, Comte de  
+Gravelines, battle of  
+Graves, Thomas  
+Gray, Robert, 17.1, 17.2  
+Great Britain, 17.1, 18.1, 19.1  
+abolitionists in, 17.1, 17.2  
+and American Civil War  
+colonies, 17.1, 17.2  
+and European powers, 17.1, 17.2  
+flags of convenience and  
+and human migration, 17.1, 18.1, 18.2  
+Japan and, 18.1, 19.1  
+merchant marine, 17.1, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 19.1, 19.2  
+naval power of, 17.1, 17.2, 19.1, 19.2  
+Opium Wars, 18.1, 18.2  
+territorial seas, 16.1, 16.2  
+in World Wars, 19.1, 19.2, 19.3  
+see also British Isles  
+Great Depression, 18.1, 19.1  
+Great Eastern  
+Great Hunger  
+Great Lakes, itr.1, 1.1, 16.1, 18.1, 18.2, 18.3  
+Great Migration, 16.1, 17.1  
+Great Northern War  
+Great Plague  
+Great Republic  
+Great Wall, 7.1, 19.1  
+Great Western, 18.1, 18.2, 18.3  
+Great Western Railway  
+Great White Fleet  
+Greece, ancient, itr.1, itr.2, itr.3, 2.1, 3.1, 4.1, 4.2, 4.3, 6.1, 6.2, 6.3  
+Dark Ages of, 3.1, 4.1  
+Hellenistic, 5.1, 6.1  
+Mycenaean Age in, 3.1, 3.2, 3.3, 3.4, 3.5, 4.1  
+Peloponnesian Wars in  
+in Persian Wars, 4.1, 4.2, 5.1, 6.1  
+shipbuilding and naval warfare in, 4.1, 4.2, 4.3, 4.4  
+Greek fire, 8.1, 9.1, nts.1n  
+Greenland, 1.1, 1.2, 16.1, 18.1  
+Norse in, 9.1, 9.2, 9.3, 9.4  
+Greenland Saga  
+Gregory of Tours  
+Gresik  
+Grillo, Simone  
+Grobin, Latvia  
+Groseilliers, Médard des  
+Grotius, Hugo, 16.1, 16.2, 16.3  
+Guadalquivir River, 4.1, 5.1, 8.1, 8.2, 9.1  
+Guadeloupe  
+Guam, 1.1, 14.1, 14.2, 19.1  
+Guanahaní, 14.1, nts.1n  
+Guangdong Province, 7.1, 7.2, 11.1, 13.1, 15.1  
+shipbuilding, 7.1, 11.1, nts.1n  
+trade banned in, 15.1, 16.1  
+Yue people of, 7.1, 7.2  
+Guangdong Qu  
+Guangxi Province, 7.1, 7.2, 7.3, 16.1  
+Guangzhou, 7.1, 7.2, 11.1, 13.1, 15.1, 16.1  
+corruption at, 7.1, 11.1  
+inland routes from, 7.1, 7.2, 11.1  
+as port of call, 7.1, 10.1, 10.2, 11.1, 13.1, 13.2  
+shibosi in, 11.1, 11.2  
+unrest in, 11.1, 11.2, 11.3, 11.4  
+see also Canton  
+guares  
+Guatemala  
+Gudríd  
+Guétaria, battle of, 16.1, 16.2  
+Guiana, 1.1, 15.1, 16.1  
+Guinea, 14.1, 14.2, 14.3, 14.4, 15.1  
+Guinea, Gulf of, 4.1, 14.1, 14.2  
+Guinness  
+Gui River  
+Guiscard, see Hauteville, Robert  
+Gujarat, 3.1, 6.1, 10.1, 13.1, 15.1, 16.1  
+merchants in, 10.1, 10.2, 13.1, 15.1, 16.1  
+Portuguese and, 15.1, 15.2  
+religion in, 6.1, 13.1, nts.1n  
+Gulf Stream, 1.1, 18.1, 18.2  
+gunboats, 19.1, 19.2, 19.3, 19.4  
+gundalows  
+guns, ships', 15.1, 15.2, 15.3, 15.4, 17.1, 17.2  
+and "all-big-gun" ship, 19.1, 19.2  
+in American Civil War, 19.1, 19.2  
+broadside, 15.1, 15.2, 16.1  
+effectiveness of, 15.1, 15.2, 19.1, 19.2, 19.3, 19.4  
+merchant ships and  
+modern warship, 19.1, 19.2, 19.3  
+rates of fire and, 15.1, 16.1  
+rating system and, 16.1, 16.2, 19.1  
+ship stability and, 15.1, 15.2  
+Guns, Germs and Steel (Diamond),  
+gur, 3.1, 3.2  
+Gustav I Vasa  
+Gutenberg  
+Guthrum, King  
+Gyllenborg, Carl  
+Habsburgs  
+Hadramawt, 6.1, 10.1, 15.1  
+Haida, 1.1, 1.2  
+Hainan Island, 7.1, 11.1, 13.1  
+Haiti, 1.1, 14.1, 19.1  
+hajj, 8.1, 10.1, 15.1, 16.1  
+Hajjaj ibn Yusuf ath-Thaqafi, al-, 10.1, 10.2  
+Hakata Bay, 11.1, 11.2, 11.3, 13.1  
+Hakluyt, Richard  
+Halicarnassus, 4.1, 4.2  
+Halley, Edmond  
+Hålogaland  
+Hamburg, itr.1, 9.1, 12.1, 12.2, 12.3, 12.4  
+Hamburg-America Line, see Hapag  
+Hamdanids  
+Hamilcar Barca, 5.1n, 5.2  
+Hammurabi  
+Han Dynasty, 7.1, 7.2, 7.3, 11.1  
+Hangö, battle of, 17.1, bib.1n  
+Hangzhou, 7.1, 11.1, 11.2, 11.3, 16.1, nts.1n  
+as capital, 7.1, 11.1, 13.1  
+Hannibal, 5.1n, 5.2, 5.3  
+Hanno  
+Hanoi, 7.1, 11.1  
+Han River, 7.1, 13.1  
+Hansan Island, battle of  
+Hanseatic League  
+Hans of Denmark  
+Han Wudi  
+Han Yu  
+Hapag, 18.1, 18.2  
+"Happy Time,"  
+Harald Bluetooth  
+Harald Fairhair, 9.1, 9.2, 9.3  
+Harald Godwinson, 9.1, 9.2  
+Harald Hardradi, 9.1, 9.2, 9.3, 9.4  
+Harald Klak  
+Harald Sigurdsson  
+Harappa, 3.1, 3.2, 3.3, 6.1, 6.2  
+see also Indus civilization  
+Harkhuf  
+Harper's New Monthly Magazine  
+Harrison, John  
+Hart, Robert  
+Harun al-Rashid, 8.1, 10.1  
+Hasdrubaln  
+Hastein  
+Hastings, England, 9.1, 12.1  
+Hathor  
+Hatshepsut, 2.1, 2.2, 2.3, 2.4, 6.1  
+Hauteville, Robert  
+Havana, 15.1, 16.1, 19.1, 20.1  
+Hawaii, 17.1, 18.1, 18.2, 18.3  
+Polynesian settlement of, 1.1, 1.2  
+U.S. and, 19.1, 19.2, 19.3  
+Hawaiki, 1.1, 1.2  
+Hawke, Edward  
+hawser, 2.1, 7.1, 11.1  
+Hayreddin "Barbarossa,"  
+Hebei Province, 7.1, 11.1  
+Hebrew, 3.1, 4.1, 4.2, 12.1, 14.1  
+Hebrides Islands, 9.1, 9.2, 9.3  
+Hedeby, 9.1, 9.2, 9.3  
+Heian  
+Heike, 13.1, 13.2  
+Hellenistic age, 5.1, 5.2, 5.3, 8.1  
+Hellespont, 4.1, 4.2, 4.3, 5.1  
+bridging the, 4.1, nts.1n  
+see also Dardanelles  
+Hellespont, battle of the  
+Henan Province, 7.1, 11.1, 13.1  
+Hennepin, Louis  
+Henriette Marie  
+Henri Grace à Dieu  
+Henrique, Dom, 14.1, 14.2, 14.3, 14.4, 14.5  
+Henry II, King of England  
+Henry III, duke of Saxony  
+Henry III, King of England  
+Henry VII, King of England, 14.1, 15.1, 16.1  
+Henry VIII, King of England, 15.1, 15.2  
+Henu, 2.1, 2.2  
+Hepu  
+Heraclea, 4.1, 12.1  
+Heren XVII  
+Herodotus, 2.1, 3.1, 4.1, 4.2, 5.1, 9.1  
+on African circumnavigation, 4.1, 6.1  
+hero stones, 10.1, nts.1n  
+Het Licht der Zeevaerdt (Blaeu),  
+Heyn, Piet, 16.1, 16.2  
+Heywood, Thomas  
+Hezeta, Bruno de  
+Hideyoshi, 15.1, 15.2, 16.1  
+Hierakonpolis (Kom el-Ahmar)  
+Hiero II  
+Higgins, Andrew  
+Higgins boat  
+Himalaya Mountains, 6.1, 6.2  
+Himera River, battle of the  
+Himilco  
+Hinduism, 6.1, 10.1, 10.2, 11.1, 13.1, 13.2  
+and seafaring, itr.1, 6.1, 10.1, 13.1, 15.1, nts.1  
+Hindu Kush, 6.1, 6.2  
+Hipparchus  
+Hippodamus  
+hippoi, 4.1, 6.1  
+Hirado  
+Hiram I, 4.1, 4.2, 4.3  
+Hispaniola, 1.1, 1.2n, 14.1, 14.2, 15.1  
+History against the Pagans (Orosius), 9.1, 9.2  
+History of the Danes  
+History of the Franks (Gregory of Tours),  
+History of the Kings of Pasai  
+History of the Later Han  
+History of the World (Roberts),  
+Hitler, Adolf  
+Hittites, 2.1, 3.1, 3.2, 4.1  
+H. L. Hunley  
+Hojeda, Alonso de  
+Hokianga nui a Kupe  
+Hokkaido, 7.1, 7.2, 16.1, 18.1  
+Hokkiens, 11.1, 13.1  
+Hokule'a, 1.1, nts.1n-3n  
+Holland, John P.  
+Holland, USS,  
+Holt, Alfred  
+Holy Land, 9.1, 12.1, 12.2, 15.1n  
+Holy Roman Emperor, 14.1, 16.1  
+Homer, 3.1, 3.2, 4.1, 5.1, 5.2  
+Honduras, 1.1, 14.1  
+Hong Kong, itr.1, 17.1, 18.1, 18.2, 19.1  
+Honorius, 8.1, 9.1  
+Honshu Island, 7.1, 7.2, 11.1, 13.1  
+Hood, Samuel  
+Hooker, Joseph D.  
+Hormuz, Strait of, 3.1, 3.2, 10.1, 13.1  
+Hormuz, 12.1, 13.1, 13.2, 13.3  
+Portuguese and, 14.1, 15.1, 15.2, 16.1  
+Horn of Africa, 2.1, 6.1, 10.1, 10.2, 13.1, 15.1  
+horse trade, 4.1, 6.1, 7.1, 11.1, 13.1, 14.1  
+to India, 6.1, 6.2, 10.1, 13.1, 15.1, 15.2  
+horse transports, 13.1, 19.1  
+European, 9.1, 9.2, 9.3  
+Indian Ocean, 3.1, 6.1, 13.1, 6.2  
+in Mediterranean, 4.1, 5.1, 8.1, 12.1, 12.2  
+Hosho  
+Housatonic, USS,  
+Houtman, Cornelis de, 16.1, 16.2  
+Howe, HMS,  
+Huai River, 7.1, 11.1, 11.2, 11.3, 13.1  
+canals and, 7.1, 11.1, 11.2  
+Huang Chao, 11.1, 11.2  
+Huang He, see Yellow River  
+Huangzhi  
+Huanwang, 11.1, 11.2  
+Hudson, Henry, 16.1, 18.1  
+Hudson Bay, 16.1, 16.2, 18.1  
+Hudson River, 17.1, 18.1, 18.2, 18.3  
+Huelva  
+Hugli River, 10.1, 16.1, 17.1, 20.1  
+Huguenots, 16.1, 16.2, 16.3, 17.1, nts.1n  
+Huichau  
+Humbaba  
+Humboldt, Alexander von  
+Hundred Years' War, 12.1, 17.1  
+Hungary, 9.1, 15.1  
+Hurrians  
+Hyder Ali  
+Hydrographer of the Navy, 17.1, 18.1, 18.2  
+Hyksos, 2.1, 3.1, 3.2  
+Iberia, 5.1, 12.1, 14.1, 16.1  
+Iberian Peninsula, 5.1, 8.1, 12.1, 14.1  
+Muslims in, 10.1, 14.1  
+trade of, 9.1, 14.1  
+Vikings raid, 9.1, 9.2  
+Ibn-al-Kasim, Muhammad  
+Ibn Battuta, 12.1, 13.1, nts.1n  
+on ships, 13.1, nts.1n, nts.2n  
+Ibn Khurdadhbih  
+Ibn Majid, Ahmad, 10.1, nts.1n  
+Ibrahim I ibn al-Aghlab  
+Ibrahim Pasha  
+ice, 1.1, 9.1, 15.1, 17.1, 18.1, 20.1  
+ice age, 1.1, 1.2, 1.3  
+Iceland, 1.1, 1.2, 9.1, 9.2, 14.1, 19.1  
+exploration from  
+first visitors to, 9.1, 9.2, 9.3, nts.1n  
+fisheries of, 16.1, 16.2  
+settlement of, 9.1, 9.2, 9.3  
+trade of, 9.1, 9.2, 14.1  
+ice trade  
+Ideal-X  
+Idrisi, al-, 10.1, 14.1  
+Ifriqiya, 8.1, 8.2, 8.3, 8.4, 10.1, 12.1  
+Ikhshidids  
+Ilanko Atikal  
+Ile de France  
+Iliad (Homer), 4.1, 4.2, 5.1  
+Ilkhanate, 12.1, 13.1  
+Illinois River, 1.1, 16.1, nts.1n  
+Illustrated Record of an Embassy to Korea  
+Illyria, 5.1, 5.2, 8.1, 8.2  
+Incas, 1.1, 15.1, 18.1  
+Incheon, 19.1, 19.2  
+Independence, Missouri  
+India, 3.1, 6.1, 6.2, 7.1, 10.1, 15.1  
+British India, 17.1, 19.1  
+Buddhism and, 6.1, 7.1, 7.2, 8.1, 10.1, 10.2  
+duties and tariffs, 6.1, 10.1, 14.1  
+East India Company in, 16.1, 17.1, 17.2, 17.3, 17.4  
+geography of, 6.1, 6.2  
+horse trade and, 6.1, 6.2, 10.1, 13.1, 15.1, 15.2  
+Muslims in, 10.1, 10.2, 13.1, 17.1  
+pepper, 6.1, 10.1, 13.1, 15.1, 15.2, 16.1, 17.1  
+Persia and, 6.1, 10.1, 10.2, 15.1  
+Persian Gulf and, 6.1, 6.2, 6.3, 13.1, 16.1  
+Portuguese and, 10.1, 10.2, 14.1, 15.1, 15.2  
+Red Sea and, 6.1, 16.1  
+ships of, 6.1, 6.2, 10.1, 13.1, 17.1  
+Southeast Asia and, itr.1, 6.1, 10.1, 10.2  
+spices of, 6.1, 6.2, 11.1, 15.1  
+woods of, 4.1, 10.1, 10.2, 10.3, 11.1  
+see also East India Company; Estado da India; VOC  
+Indian Ocean, 3.1, 6.1, 10.1, 17.1  
+accounts of, 6.1, 6.2, 6.3, 6.4, 7.1, 13.1  
+in antiquity, itr.1, 1.1, 3.1, 3.2, 4.1  
+Atlantic Ocean and, 12.1, 14.1, 15.1  
+Baghdad and, 10.1, 10.2  
+Byzantines and, 6.1, 7.1  
+China and, 6.1, 7.1, 7.2, 11.1, 11.2, 13.1, 13.2, 13.3  
+East Africa and  
+Egypt and, 5.1, 6.1, 6.2, 6.3, 6.4, 12.1  
+Europeans in, itr.1, 12.1, 14.1, 15.1, 15.2, 16.1, 16.2, 18.1  
+Jews and, 13.1, 13.2  
+monsoons of, 1.1, 6.1, 6.2, 7.1, 10.1  
+Muslims and, 9.1, 13.1, 13.2, 15.1, 16.1  
+naval activity in, 10.1, 17.1, 17.2, 17.3  
+navigation on, 10.1, 10.2, 13.1  
+Persians and, 6.1, 7.1, 8.1  
+piracy in, 10.1, 16.1, 16.2, 16.3  
+Portuguese and, 14.1, 14.2, 14.3, 14.4, 15.1, 15.2, 15.3, 16.1  
+Red Sea and, 12.1, 12.2  
+Romans and, 5.1, 6.1, 6.2  
+ships of, 1.1, 6.1, 7.1, 7.2, 10.1, 10.2, 11.1, 12.1, 13.1, 13.2, 15.1  
+slave trade in, 9.1, 10.1  
+South China Sea and  
+Southeast Asia and, 10.1, 13.1  
+traders on, 6.1, 10.1  
+whaling in  
+Indo-China, itr.1, 13.1, 19.1, 19.2  
+Indo-Gangetic plain, 6.1, 6.2, 6.3  
+Indonesia, itr.1, itr.2, 1.1, 7.1, 7.2, 11.1, 16.1  
+goods of, 6.1, 10.1, 10.2, 11.1, 13.1, 13.2, 13.3  
+people of, 7.1, 7.2, 7.3, 10.1, 10.2  
+vessels in, 6.1, 6.2, 7.1, 7.2, 7.3  
+Indus civilization, 3.1, 3.2, 6.1, 6.2  
+Indus River, 3.1, 6.1, 10.1  
+Alexander at, 5.1, 6.1, 6.2  
+trade to, itr.1, 3.1, 6.1, 6.2  
+Influence of Sea Power upon History, The (Mahan),  
+Inland Sea  
+Innocent III  
+Inter Caetera, 14.1, 14.2, 16.1  
+International Agreement for the Regulation of Whaling  
+International Convention on Standards of Training, Certification and  
+Watchkeeping  
+International Geographical Congress  
+International Maritime Organization (IMO)  
+International Mercantile Marine  
+International Seapower Symposium  
+International Transport Workers' Federation  
+International Whaling Commission  
+Intolerable (or Coercive) Acts  
+Inuit  
+Ionia, 4.1, 4.2, 4.3, 4.4, 5.1, 5.2, 6.1, 6.2  
+Ionian Greeks, 4.1, 4.2, 6.1, 8.1  
+Ionian Revolt, 4.1, 6.1  
+Ionian Sea, 5.1, 6.1, 8.1  
+Iran, 3.1, 3.2, 3.3, 4.1, 6.1, 7.1, 10.1  
+seafaring in, 3.1, 6.1, 6.2, 9.1, 10.1  
+trade of, 2.1, 3.1, 6.1, 8.1, 9.1  
+Iraq, 3.1, 4.1, 4.2, 8.1, 10.1, 10.2, 10.3, 20.1  
+Ireland, 7.1, 9.1, 9.2, 14.1, 15.1, 17.1  
+boats from, 9.1, 9.2  
+Columbus in  
+emigration from  
+in Middle Ages, 9.1, 9.2, 9.3, 9.4  
+as point of departure, 16.1, 18.1, 18.2  
+U.S. Navy in, 19.1, 19.2  
+Vikings in, 9.1, 9.2, 9.3  
+Irish Sea, 12.1, 18.1, 18.2, 20.1  
+iron, in shipbuilding  
+fasteners, 8.1, 9.1, 9.2, 10.1, 11.1, 15.1, nts.1n  
+hulls, 18.1, 18.2, 18.3, 18.4  
+in warships, 15.1, 19.1, 19.2  
+Iron Age, 3.1, 3.2, 4.1, 4.2, 7.1, nts.1n  
+iron trade  
+in Africa, 6.1, 10.1, 10.2  
+in Asia, 6.1, 10.1, 10.2, 13.1  
+in China, 7.1, 7.2, 13.1  
+in Europe, 9.1, 9.2, 12.1, 17.1  
+in Mediterranean, 4.1, 4.2  
+Irving, Charles, 17.1, nts.1n  
+Isaac II, 12.1, 12.2  
+Isabella, 14.1, 14.2, 14.3, 15.1  
+Isaiah, 4.1, 4.2, 6.1  
+Isis  
+Islam and Muslims, 3.1, 8.1, 8.2, 9.1, 11.1, 12.1  
+in China, 11.1, 11.2, 13.1, 13.2  
+converts to, 8.1, 10.1, 10.2  
+in East Africa, 10.1, 10.2, 14.1, 14.2  
+in India, 10.1, 10.2, 13.1, 17.1  
+on Indian Ocean, 6.1, 13.1, 13.2, 13.3, 13.4  
+interfaith relations, 8.1, 8.2, 8.3, 8.4, 13.1  
+law and, 8.1, 10.1, 12.1  
+in Mediterranean, 8.1, 8.2, 12.1, 12.2, 14.1, 15.1, 16.1  
+in Middle East, 10.1, 12.1  
+Portuguese and, 14.1, 14.2, 15.1, 15.2, 15.3  
+and seafaring, itr.1, 8.1, 8.2  
+slavery and  
+in Southeast Asia, itr.1, 11.1, 13.1, 13.2, 13.3  
+Spanish and, 14.1, 15.1  
+spread of, 10.1, 11.1  
+see also Dar al-Islam  
+Ismail, Shah  
+Ismail ibn Ibrahim ibn Mirdas  
+isqa  
+Israel, 4.1, 4.2, 4.3  
+Issus, battle of  
+Istakhri, al-, 10.1, 10.2  
+Istanbul, 4.1, 8.1, 15.1, 15.2, 19.1, 19.2  
+Italian navy, 19.1, 19.2, 19.3, 19.4  
+Italy, itr.1, 3.1, 5.1, 5.2, 12.1, 12.2, 18.1  
+barbarian invasions of, 8.1, 8.2  
+Greeks in, 4.1, 4.2, 4.3, 4.4, 5.1  
+Holy Roman Empire in, 12.1, 12.2  
+North African raids on, 8.1, 8.2  
+Romans and, 5.1, 9.1, nts.1n  
+timber in, 5.1, 8.1  
+trade in, 5.1, 8.1, 8.2, 15.1  
+wars in Roman, 5.1, 5.2, 5.3  
+Italy, kingdom of  
+Ithaca, 4.1, 4.2, 6.1, nts.1n  
+Itinerario (Linschoten), 16.1, 16.2  
+Ivan IV, "the Terrible,"  
+Iwasaki, Yataro  
+Jabal Tarik, 8.1, 8.2  
+Jahangir, Emperor  
+Jains, 6.1, 10.1, 10.2, 13.1  
+Jamaica, 1.1, 14.1, 17.1, 18.1  
+English in, 16.1, 16.2, 17.1  
+James I, King of England, 16.1, 16.2, 16.3  
+James II, King of England, 16.1, 17.1, 18.1  
+James IV, King of Scotland  
+Jamestown  
+Jamie  
+Jang Bogo, 11.1, 11.2, nts.1n  
+Janjira  
+Jannaba, 10.1, nts.1n  
+Japan, 18.1, 18.2, 19.1, 20.1, 20.2  
+Anglo-Japanese Alliance, 19.1, 19.2, 19.3  
+Buddhism in, 6.1, 7.1, 7.2, 11.1  
+China and, 7.1, 11.1, 11.2, 15.1, 16.1  
+Columbus and, 14.1, 14.2  
+Europeans and, 15.1, 16.1  
+expansionism, 19.1, 19.2  
+geography of, 6.1, 7.1, 7.2  
+Korea and, 11.1, 11.2, 19.1  
+opening of, 16.1, 18.1  
+shipbuilding in, 7.1, 11.1, 18.1, 19.1, 19.2  
+trade of, 7.1, 11.1, 11.2, 11.3, 13.1, 15.1, 16.1  
+U.S. and, 17.1, 19.1, 19.2, 19.3-9  
+Yamato era, 7.1, 11.1, 11.2  
+Yuan invasion of, itr.1, 13.1  
+Japanese navy  
+Russo-Japanese War and, 19.1, 19.2, 19.3, 19.4, 19.5  
+Silla-Tang campaign and  
+Sino-Japanese War and, 19.1, 19.2, 19.3  
+in 20th century, 19.1, 19.2, 19.3, 19.4  
+Yuan invasion of Korea  
+Japara  
+Járnbarðinn, 9.1, 9.2  
+Jason, 4.1, 4.2  
+Jatakas, 6.1, 6.2, 6.3, 6.4, 7.1  
+Jayasimha Siddharaja  
+Jeddah, 10.1, 10.2, 15.1, 15.2, 15.3, nts.1n  
+pilgrims to, 8.1, 10.1, 13.1, 13.2, 15.1  
+Jehoshaphat, 4.1, 13.1  
+Jerusalem, 4.1, 8.1, 12.1, 14.1, 15.1n  
+jettison, 7.1, 8.1, 8.2, 12.1  
+Jeune Ecole, 19.1, 19.2, 20.1  
+Jews, 10.1, 15.1, 15.2, 17.1  
+and interfaith trade, 8.1, 10.1  
+law and, 8.1, 8.2, 13.1  
+Jianzhen, 11.1, nts.1n  
+Jiaozhi, 7.1, 7.2, 7.3, 11.1, 11.2, nts.1n  
+trade of, 7.1, 7.2, 7.3  
+unrest in, 7.1, 7.2  
+Jin Dynasty  
+Jinmen (Quemoy Island)  
+Jiuzhen  
+João I  
+João II, 14.1, 14.2, 14.3, 14.4  
+João III  
+Johor, 16.1, 17.1  
+Jonah  
+Juan de Fuca, Strait of, 1.1, 15.1  
+Juan of Austria, Don  
+Judah, 4.1, 4.2  
+Judaism, 8.1, 8.2, 8.3, 9.1  
+junks, 7.1, 13.1, 16.1, 17.1, 18.1  
+Jurchen Jin, 11.1n, 13.1, 13.2, 13.3  
+Justin I, 6.1, 7.1  
+Justinian I, 6.1, 7.1, 8.1  
+Jutes  
+Jutland, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 12.1  
+Jutland, battle of  
+Kaaba  
+Kadiri, kingdom of  
+Kaifeng, 7.1, 11.1, 11.2, 13.1  
+as capital, 7.1, 11.1, 11.2, 13.1  
+kaikin  
+Kaiser Wilhelm der Grosse  
+kakams  
+Kalah, 10.1, 10.2, nts.1n  
+Kalbids  
+Kalinga, 6.1, 6.2, 10.1  
+Kallinikos  
+Kalmar Union, 12.1, 15.1  
+Kamakura  
+Kamchatka Peninsula, 7.1, 17.1  
+kamikaze  
+Kaminiates, John  
+Kamose, King  
+kampongs  
+Kanagawa, Treaty of  
+Kang Dai, 6.1, 7.1, 7.2, 13.1  
+Kanghwa, Treaty of  
+Kang Senghui  
+Kangxi Emperor  
+Kannada  
+Kannaki  
+Kantharos  
+Kantoli  
+karabisianoi, 8.1, nts.1n  
+Karakoram Mountains, 6.1, 6.2  
+karim, 13.1, 13.2  
+Karnataka, 6.1, 10.1, 10.2  
+karvi, 9.1, 9.2  
+Kathiawar Peninsula, 3.1, 6.1  
+Kattegat, 9.1, 15.1  
+Kaundinya  
+Kaupang  
+Kauthara (Nha Trang), 11.1, 11.2  
+Kautilya  
+Kaveripattinam, 6.1, 13.1  
+kayaks, 1.1, 1.2, 14.1  
+Kazakhstan, 10.1, 11.1  
+Kedah, 10.1, 10.2, 15.1, nts.1n  
+Kedu Plain  
+Keeling, William  
+Kelings  
+Ken Angrok  
+Kendall, Larcum  
+Kendrick, John  
+Kent  
+Kenya  
+Kerala, 6.1, 10.1, 10.2, 15.1  
+Kertanagara  
+Khafre  
+Khambhat, Gulf of, 3.1, 6.1, 10.1, 10.2  
+khashabs, 10.1, 10.2  
+Khazars  
+Khitan Liao, 11.1, 11.2, 13.1  
+Khmers, 11.1, 11.2, 11.3, 13.1  
+Khufu, 2.1, 2.2, 2.3  
+Khufu ship, 2.1, 2.2, 2.3, 2.4, 5.1, 7.1  
+Khunanup  
+Khusrau I  
+Kibyrrhaiot theme, 8.1, 8.2  
+Kiel, 9.1, 9.2  
+Kiev, 8.1, 9.1, 9.2, 9.3, 12.1, 15.1  
+Kilwa, 10.1, 10.2, 15.1  
+Kilwa Chronicle, The, 10.1, 10.2  
+Kim Il Sung  
+King Edward VII  
+Kings, Book of  
+Kish (Kais/Qays), 10.1, 13.1, 13.2  
+Kition  
+knarrs  
+Knights of Rhodes  
+Knossos  
+Knút I  
+Knút II  
+Kobuk-son  
+koches  
+kolandiophonta, 6.1, 7.1  
+Kola Peninsula  
+Konkan coast, 6.1, 6.2, 10.1, 10.2, 10.3, 13.1  
+kontors, 12.1, 12.2  
+Korea, 5.1, 7.1, 7.2, 11.1, 11.2, 13.1, 13.2  
+in antiquityn  
+Buddhism in, 6.1, 7.1, 7.2, 7.3  
+China and, 7.1, 7.2, 11.1, 11.2, 13.1, 13.2  
+Japan and, 7.1, 13.1, 15.1, 16.1, 19.1  
+trade of, 11.1, 11.2, 11.3, 11.4, 11.5, nts.1n  
+Korean War  
+Korea Strait, 7.1, 7.2, 11.1  
+Kovalan  
+Kra Isthmus, 7.1, 7.2, 7.3, 10.1  
+Krishna River  
+Küçük Kaynarca, Treaty of  
+Kufah, al-  
+Kunlun, 7.1, 10.1, 11.1  
+kunlun bo, 6.1, 7.1, 11.1, 11.2  
+Kunlun Mountains  
+Kupe  
+Kurile Islands  
+Kush, Kingdom of, 2.1, 2.2  
+Kuwait, 2.1, 3.1, 6.1, 6.2, 10.1, nts.1n  
+Kyoto, 13.1, 18.1  
+Kyrenia II  
+Kyrgyzstan  
+Kyushu, 7.1, 7.2, 7.3, 11.1, 11.2, 13.1  
+Labrador, 1.1, 16.1  
+Lac Long Quan  
+Laconia order,  
+La Coruña, Spain--438  
+Ladoga, Lake, 9.1, 9.2  
+Lady Washington  
+La Gloire  
+lagoons, 1.1, 12.1, 16.1  
+Laithlìnn, 9.1, 9.2, 9.3  
+Lake of Ma'at  
+Lampis  
+Lamu archipelago, 6.1, 10.1  
+La Navidad, 14.1, 14.2  
+Lancaster, James  
+Langkasuka, 10.1, 10.2  
+langskip  
+Lansarote da Framqua  
+L'Anse aux Meadows  
+Lanzarote, 14.1, 14.2  
+Lapita culture  
+La Rochelle, 12.1, 16.1, 19.1  
+La Salle, Sieur de  
+Las Casas, Bartolomé de  
+lateen sail, 8.1, 14.1  
+Latin, 4.1, 6.1, 6.2, 7.1, 14.1, 17.1  
+terms, itr.1, itr.2n, 2.1n, 4.1, 5.1, 5.2, 8.1n, 9.1, 14.1, nts.1n, nts.2n,  
+nts.3n  
+Latin League, 5.1, 5.2  
+Latvia, 9.1, 12.1  
+law, itr.1, itr.2, 16.1, 16.2, 20.1, 20.2, nts.1n, nts.2n  
+of blockade, 18.1, 19.1, 19.2  
+in China, 11.1, 13.1  
+Consolato del Mar  
+Consulado del Mar  
+European, 14.1, 15.1, 16.1, 16.2  
+Islamic, 8.1, 8.2, 12.1, 13.1  
+Laws of Manu, 6.1, 6.2  
+and religion, 8.1, 8.2, 8.3, 10.1  
+Rhodian Sea Law, 5.1, 8.1, 8.2, 13.1  
+Steamboat Law of 1852  
+LCTs  
+LCVPs  
+League of Nations  
+Lebanon, 2.1, 2.2, 4.1, 8.1  
+wood from, 2.1, 3.1, 4.1, 4.2, 5.1  
+Ledoux, Katherine, 18.1, 20.1  
+Ledyard, John  
+Legazpi, Miguel López de  
+leidang  
+lembi  
+Lemnos  
+Le Moyne, Jean-Baptiste  
+Lena River  
+lender, 5.1, 6.1, 8.1, 8.2  
+Lend-Lease Act of 1941, 19.1, 19.2  
+Lenin  
+Leo III, "the Isaurian," 8.1, 8.2  
+Leo VI, 8.1, 9.1  
+Léon  
+Leonardo da Vinci  
+Leontophoros  
+Leo of Tripoli, 8.1, 8.2  
+Lepanto, battle of, 15.1, 15.2  
+Lepidus  
+Lesbos  
+Les Landes  
+Le Snak  
+Lesseps, Ferdinand de, 18.1, 19.1  
+letter of marque, 12.1, 15.1  
+Leucas  
+Levant, 3.1, 4.1, 8.1, 12.1, 12.2  
+in antiquity, 4.1, 4.2, 4.3, 5.1, 5.2  
+in Bronze Age, 2.1, 2.2, 3.1, 3.2, 3.3, 3.4  
+Byzantines and, 8.1, 10.1  
+Cretan trade with, 3.1, 3.2, 3.3  
+Crusades and, 12.1, 12.2  
+Islam in, 8.1, 8.2, 12.1  
+Italians in, 12.1, 12.2, 12.3, 12.4  
+maritime decline in, 8.1, 12.1  
+ports, 2.1, 2.2, 3.1, 4.1, 4.2, 12.1  
+trade of, 2.1, 3.1, 12.1, 13.1, 15.1, 17.1  
+Levant Company, 15.1, 15.2, 16.1  
+Leviathan  
+Lewis, Meriwether  
+Lexington, USS,  
+Leyte Gulf, battle of  
+Liaodong Peninsula, 7.1, 7.2, 19.1, 19.2, 19.3  
+Liberia  
+Liberty ships  
+liburnian, 5.1, 5.2, 9.1  
+Libyans, 3.1, 8.1  
+lidi  
+life-boats  
+Ligurian Sea, 12.1, 12.2, 14.1, 14.2  
+Lima, Peru, 1.1, 15.1  
+Lincoln, Abraham  
+Lind, James, 17.1, 17.2  
+Lindisfarne  
+Linnaeus, Carl  
+Linschoten, Jan Huyghen van, 16.1, 16.2, 16.3  
+Lin-ye  
+Linyi, 7.1, 7.2, 7.3, 11.1  
+Lin Zexu  
+Lipton, Sir Thomas  
+Lisbon, 4.1, 8.1, 9.1, 12.1, 15.1, 16.1, 17.1  
+in age of exploration, 14.1, 14.2, 14.3, 14.4, 14.5, 16.1  
+Lithuania/Poland, Grand Duchy of, 15.1, 16.1  
+Little Ice Age  
+Liu Bei  
+Liu Song Dynasty, 7.1, 7.2  
+Liverpool, 15.1, 18.1, 18.2  
+Livingston, Robert  
+Livonia, 12.1, 17.1  
+Livonian Crusade  
+Livy  
+Lixus, 4.1, 4.2, 4.3  
+Li Yuan, Duke of Tang  
+Lloyd, Edward  
+Lloyd's Register, 18.1, 18.2  
+"Lloyd's rule,"  
+Load Line Convention, 18.1, 18.2  
+Loire River, 9.1, 9.2, 9.3, 9.4  
+Lombards, 8.1, 8.2  
+Lombardy, 8.1, 12.1  
+London, 12.1, 15.1, 15.2, 16.1, 17.1, 18.1  
+Blackfriars barge, 9.1, 9.2  
+fire  
+Frisians at, 9.1, 9.2  
+Hanse in  
+long-distance routes from, 18.1, 18.2  
+Vikings in  
+William I in, 9.1, 9.2  
+London, Declaration of  
+London Naval Conference of 1930  
+London Naval Treaty (1935), 19.1, 19.2, 19.3  
+London Straits Convention  
+Long Island, 1.1, 18.1  
+Long Island Sound, 18.1, 19.1  
+longphorts  
+Lord Nelson, HMS,  
+Los Angeles, 1.1, 14.1  
+Lothal, 3.1, 6.1, nts.1n  
+Lotus Eaters  
+louchuan (towered ship), 7.1, 7.2, 7.3  
+Louis XIII  
+Louis XIV, 16.1, 16.2, 16.3  
+Louisbourg, Nova Scotia  
+Louisiana, 16.1, 18.1, 19.1, 19.2, 20.1  
+Louisiana Offshore Oil Port Loop  
+Louis the Pious  
+LST, 19.1, 19.2, 19.3  
+Lübeck, 12.1, 12.2, 12.3, 12.4, 12.5, 15.1  
+Luce, James C.  
+Lucian of Samosata  
+Luckner, Felix Graf von  
+Lucullus, Licinius, 5.1, 5.2, 8.1  
+Lu-Enlilla  
+Luli of Tyre, 4.1, 4.2, 4.3  
+Luoyang, 7.1, 7.2, 11.1, 11.2, 11.3  
+Lusitania, 18.1, 18.2, 19.1  
+lusoriae  
+Lutfi  
+Lu You  
+Luzon Strait, 7.1n, 7.2  
+Lu Zushang  
+Lycia, 3.1, 4.1  
+Lydians  
+MacArthur, Douglas  
+MacArthur, Ellen  
+Macau, 15.1, 16.1, 16.2, 17.1, 17.2, 18.1  
+Portuguese at, 13.1, 14.1, 15.1, 15.2  
+Macedon, 4.1, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 12.1  
+Macedonian War, 5.1, 5.2  
+Madagascar, 1.1n, 6.1, 10.1, 16.1, 19.1, nts.1  
+Madeira, 14.1, 14.2, 14.3, 14.4, 14.5, nts.1n  
+Madmun ben Hasan-Japheth, 13.1, 13.2  
+Madrague de Giens wreck  
+Madrid, Treaty of  
+Magan, 3.1, 3.2, 4.1, 10.1  
+Magan boat, 3.1, 3.2, nts.1n  
+Magellan, Ferdinand, 14.1, 14.2, 15.1, 15.2, 19.1  
+Magellan, Strait of, 14.1, 15.1, 19.1  
+Maghreb, 8.1n, 8.2, 8.3, 8.4  
+Magna Graecia, 5.1, 5.2  
+Magnús the Good, 9.1, 9.2  
+Mago  
+Mahajanaka  
+Mahan, Alfred Thayer, 19.1, 19.2, 20.1  
+influence of, 3.1, 19.1, 19.2  
+Maharashtra state  
+Mahdia, 8.1, 8.2, 8.3, 12.1, 12.2, 13.1  
+Ma Huan, 13.1, 13.2  
+Maine, 16.1, 17.1, 18.1, nts.1n  
+Maine, Gulf of, 1.1, 16.1, 20.1  
+Maine, USS,  
+Main River, 9.1, 18.1  
+Mainz, Germany, 9.1, 9.2, 9.3  
+Mainz ships  
+maîtres canots  
+Majapahit kingdom, 13.1, 13.2, 13.3  
+Majorca  
+Malabar, 6.1, 6.2, 10.1, 10.2, 10.3, 13.1  
+Portuguese in, 10.1, 14.1  
+trade of, 10.1, 13.1, 13.2, 15.1, 15.2  
+Malacca, Strait of, 10.1, 10.2, 13.1  
+geography of, 6.1, 7.1  
+ports of, 10.1, 10.2, 13.1, 17.1  
+routes from, 7.1, 7.2, 10.1, 11.1  
+Malagasy language, 6.1, 10.1  
+Malaspina, Alejandro  
+Malayalam, 6.1, 10.1  
+Malay Peninsula, 6.1, 7.1, 7.2, 10.1  
+Chinese and, 6.1, 13.1, 13.2, 13.3, 17.1  
+Europeans and, 16.1, 16.2, 17.1, 19.1  
+geography of  
+Srivijaya and, 10.1, 10.2  
+states of, 7.1, 7.2, 7.3, 7.4, 10.1, 13.1  
+Malays, 7.1, 7.2, 11.1, 11.2, 13.1, 14.1  
+Malaysia, 7.1, 10.1n, nts.1n  
+Maldives, 10.1, 13.1, 15.1  
+trade of, 10.1, 13.1, 13.2, 16.1  
+Malik, al-, al-Nasir  
+Malindi, 13.1, 13.2, 14.1  
+Mallakh, el-, Kamal  
+Mallory, Stephen  
+Malocello, Lanzarotto de, 14.1, 14.2, 14.3  
+Malta, 4.1, 5.1, 8.1, 15.1n, 15.2, 17.1  
+Maluku, 6.1, 10.1  
+see also Spice Islands  
+Mamluks, 10.1, 12.1, 13.1, 15.1  
+Manaus, Lake, 1.1, 15.1  
+Manchuria, 7.1, 11.1, 11.2, 11.3, 19.1  
+Japanese and, 18.1, 19.1  
+Manchus  
+Mangalore  
+Manhattan, itr.1, 1.1, 16.1  
+Manicheans  
+Manila, 14.1, 15.1, 16.1, 16.2, 17.1  
+Spanish in, 14.1, 16.1, 17.1, 18.1  
+Manila Bay, battle of  
+Manila galleon, 14.1, 15.1, 17.1, 17.2  
+Manimekalai, 6.1, 6.2  
+Manimekhala  
+Manimekhalai (Shattan),  
+Manoel I, 14.1, 15.1, 15.2, 16.1  
+Mansur, al-Malik, al-  
+Mantai, Sri Lanka, 10.1, 10.2  
+Manus Island  
+Manusmrti (Manu),  
+Maoris  
+Mappilas, 10.1, 15.1  
+Marajó Island  
+Maratha state  
+Marathon, battle of, 4.1, 4.2  
+Marc Antony, 5.1, 6.1  
+Marcus Livius  
+Marcus Vipsanius  
+Mardonius  
+Mare Clausum (Selden),  
+Mare Liberum (Grotius), 16.1, 16.2, 16.3  
+Mare Nostrum, 5.1, 5.2, 14.1  
+Mareotis, Lake  
+Mare Tenebrosum  
+Margaret of Denmark  
+Mari, 3.1, 3.2  
+Mariana Islands, 1.1, 14.1  
+Marib, Yemen  
+Maritime Commission, U.S.  
+maritime law, see law  
+Markland  
+Marmara, Sea of, 4.1, 8.1, 8.2, 8.3, 12.1  
+MARPOL  
+Marquesas Islands, 1.1, 1.2, 1.3  
+Marsala  
+Marseille, 4.1, 4.2, 5.1, 9.1, 12.1, 14.1  
+Marseille, Statutes of, 8.1, 12.1, nts.1n, nts.2n  
+Marshall Islands, 1.1, 1.2, 1.3, 19.1  
+Marsh Arabs  
+Martel, Charles  
+Martinique, 1.1n, 16.1, 17.1  
+Mary  
+Mary, Queen of Scots  
+Mary I, Queen of England  
+Mary II, Queen of England  
+Mary Rose  
+Massachusetts, 1.1, 16.1, 17.1  
+Massachusetts Bay Colony, 16.1, 17.1  
+Massilia, 4.1, 5.1, 9.1  
+Masts, battle of the (Dhat al-Sawari), 8.1, 8.2, 8.3  
+Masudi, al-, 9.1, 13.1  
+Matahorua  
+Mathew  
+Mato Grosso state, Brazil  
+Matra, James Mario  
+Mauretania, 18.1, 18.2  
+Mauritania, 4.1, 4.2, 14.1  
+Maury, Mathew Fontaine, 18.1, 18.2, 18.3, 20.1  
+Mauryan Empire, 6.1, 6.2, 6.3, 6.4, 10.1  
+Mawali  
+mawsim  
+Maya  
+Mayflower  
+McKay, Donald  
+McKinley, William  
+McLean, Malcom  
+McPhee, John  
+Mecca, 8.1, 8.2, 10.1, 13.1, 13.2, 15.1, nts.1n  
+pilgrims to, 10.1, 10.2, 10.3, 13.1, 15.1  
+Mecklenburg, 12.1, 12.2  
+Medes  
+Medicean Atlas of 1351  
+Medieval Warming Period, 9.1, 9.2  
+Medina, 8.1, 8.2, 10.1, 13.1, 15.1, nts.1n  
+Medina Sidonia, Duke of  
+Medinet Habu  
+Mediterranean, 6.1, 8.1, 8.2, 15.1, 18.1  
+Alexandria and, 12.1, 12.2, 12.3  
+Arabs and, 8.1, 12.1  
+Assyrians and, 4.1, 4.2, 4.3, 4.4, 5.1  
+Bronze Age trade, 3.1, 3.2, 4.1  
+Christianity on, 5.1, 8.1, 8.2, 12.1, 13.1, 13.2  
+corsairs, 15.1, 15.2, 15.3, 16.1, 17.1  
+Egyptians and, 2.1, 2.2, 3.1, 3.2, 3.3  
+geography, 2.1, 6.1, 12.1, 14.1  
+Greeks and, 4.1, 4.2, 4.3, 4.4, 4.5  
+horse transports, 4.1, 5.1, 8.1, 12.1, 12.2  
+Islam and Muslims on, 8.1, 8.2, 12.1, 12.2, 14.1, 15.1, 15.2, 16.1  
+Mesopotamia and, 2.1, 3.1, 3.2, 12.1  
+northern Europe and  
+Phoenicians and, 4.1, 4.2, 4.3  
+piracy on, 8.1, 8.2, 8.3, 12.1, 12.2, 12.3, 15.1  
+Roman trade and, 3.1, 5.1, 5.2, 5.3, 5.4  
+sails on, 2.1, 3.1, 4.1, 4.2, 8.1, 14.1  
+shipbuilding in, 8.1, 8.2, 12.1, 12.2, 14.1  
+slave trade on, 4.1, 6.1, 8.1, 15.1, nts.1n  
+Mediterranean World in the Age of Philip II, The (Braudel)  
+Meds  
+Medway, 9.1, 15.1, 16.1  
+Megarian Channel  
+Megasthenes, 6.1, 6.2, 6.3  
+Mehmed II  
+Meiji Restoration  
+Mekong River, 7.1, 7.2, 7.3, 11.1, 11.2  
+Melaka, 13.1, 15.1  
+Chinese and, 13.1, 13.2, 15.1, 17.1  
+Portuguese and, 14.1, 15.1, 15.2, 15.3  
+Melanesia, 1.1, 1.2  
+Melqart  
+Meluhha, 3.1, 4.1, 10.1  
+Memphis, 2.1, 2.2, 5.1, 6.1  
+Mennonites, 16.1, 17.1  
+Mercator, Gerard  
+Merchant Shipping Act (1836)  
+Merchant Shipping Act (1876)  
+Merenre  
+Merovingians  
+Merrimac, USS,  
+Mesoamerica, 1.1, 1.2, 1.3  
+Mesopotamia, 2.1, 3.1, 4.1, 5.1, 6.1, 10.1, 19.1  
+eastern trade of, itr.1, 3.1, 3.2, 6.1, 6.2, 13.1  
+Egypt and, 2.1, 2.2, 2.3  
+geography of  
+literacy and myths in, 1.1, 3.1, 3.2  
+maritime law in, 3.1, 3.2  
+Mediterranean and, 3.1, 3.2, 3.3  
+shipbuilding in, 1.1, 2.1, 3.1, 3.2  
+Messina, Strait of, 5.1, 8.1  
+Mexico, 1.1, 18.1, 18.2, 18.3  
+Spanish in, 14.1, 15.1, 17.1  
+Mexico City, 15.1, 15.2, 15.3, 18.1n  
+Mexico, Gulf of, 16.1, 19.1, 19.2, 20.1  
+Michael VIII, Palaiologos  
+Micronesia, 1.1n, 1.2, 1.3, 19.1, nts.1n  
+Middle East, 17.1, 19.1, 20.1  
+migration, itr.1, itr.2, 1.1, 1.2, 1.3, 1.4  
+to Africa, 6.1, 10.1  
+to Americas, 15.1, 16.1, 16.2, 17.1, 17.2  
+in ancient Near East, 2.1, 3.1, 4.1  
+in Asia, 7.1, 7.2, 11.1, 11.2, 13.1, 13.2  
+European, 1.1, 8.1, 9.1, 9.2, 9.3, 12.1  
+modern, 18.1, 18.2, 18.3, 19.1  
+Milan  
+Miletus, itr.1, 4.1, 4.2, 5.1  
+Mimana  
+Minamoto clan  
+Ming Chengzu, 13.1, 13.2  
+Ming Dynasty, 13.1, 15.1, 16.1  
+Ming Taizu, 13.1, 13.2  
+Ming Xuanzong  
+Mingzhou, 11.1, 11.2, 11.3, 13.1, 13.2  
+foreign merchants in, 11.1, 13.1, 15.1  
+Minnesota, 18.1  
+Minoans, 3.1, 3.2  
+Minorca, 17.1, 17.2  
+Miranda Guinness  
+Misenum  
+Mississippi River, itr.1, itr.2, 1.1, 7.1, 16.1, 20.1  
+steam navigation on  
+Civil War  
+Mithras  
+Mithridates VI  
+Mithridatic Wars, 5.1, 8.1  
+Mitsubishi Company  
+Mitsubishi Mail Steamship Co.  
+Mitanni Empire, 2.1, 3.1, 3.2  
+Mittelberger, Gottlieb  
+Mobile, 16.1, 19.1  
+Mocha, 4.1, 6.1, 15.1, 15.2, 15.3, 17.1  
+Mogadishu, Somalia, 10.1, 13.1, 13.2  
+Mogador, 4.1, 4.2  
+Mohenjo Daro  
+Moitessier, Bernard  
+Mombasa, 13.1, 13.2, 14.1, 15.1, 15.2, 16.1  
+Mongolia, 7.1, 11.1, 16.1  
+Mongols, 11.1, 12.1, 12.2, 13.1, 13.2  
+empire, 12.1, 13.1, 13.2  
+overseas invasions, itr.1, 13.1  
+Monitor, USS,  
+Moniz, Filipa  
+monoxylon  
+Monroe Doctrine  
+monsoons, 1.1, 6.1, 6.2, 6.3, 7.1, 13.1  
+described, 3.1, 3.2, 6.1n, 7.1  
+sailing season and, 10.1, 7.1, 10.2, 10.3  
+Monsoon Seas, itr.1, 6.1, 13.1, 16.1, 17.1  
+Europeans in, itr.1, 13.1, 15.1, 15.2, 16.1  
+expansion of, 8.1, 10.1, 11.1, 11.2, 13.1  
+integration of, 10.1, 10.2, 11.1, 13.1  
+stability of, 13.1, 13.2  
+Montreal, 16.1, 17.1, 18.1  
+Morgan, J. P.  
+Moriuht  
+Morocco, 4.1, 4.2, 8.1n  
+Morris, Gouverneur  
+Moscow, 15.1, 17.1  
+Moscow School of Mathematics and Navigation  
+Moses, 3.1, 3.2  
+mosques, 10.1, 13.1, 15.1  
+Mosul  
+Moundbuilders  
+Mozambique, 6.1, 10.1, 14.1, 15.1  
+Mozambique Island, 14.1, 15.1  
+mtepes  
+Muawiya ibn Abi Sufyan, 8.1, 8.2, 8.3  
+Müezzinzâde Ali Pasha  
+Mughal Empire, 15.1, 17.1  
+Mughals  
+Muhajirun  
+Muhammad (the prophet), 8.1, 8.2  
+Mullen, Michael  
+Mumbai, 6.1, 10.1, 10.2, 10.3, 15.1, 16.1  
+Muqaddasi, al-, vii, 8.1, 10.1, 10.2, 10.3  
+Musa ibn Nusayr  
+Musandam Peninsula, 6.1, 10.1  
+Musashi  
+Muscat  
+Muscovy, Grand Duchy of  
+Muscovy Company, 15.1  
+Muslims, see Islam and Muslims  
+muwalladun  
+Muziris, 6.1, 6.2  
+Myanmar, 6.1, 10.1, 13.1, 15.1, 16.1, 16.2  
+Mycenae, 3.1, 3.2, 3.3, 3.4  
+Mycenaeans, 3.1, 3.2, 4.1  
+Myeongryang, battle of  
+Mylae, battle of, 5.1, 5.2  
+Myos Hormos, 6.1, 6.2, 6.3  
+Mysore, Sultan of  
+Nagapattinam, 10.1, 13.1  
+nagarams  
+Nagasaki, 15.1, 16.1, 18.1  
+Nagumo, Chuichi  
+Nalanda  
+Namibia, 1.1, 14.1  
+Nanhai, 7.1, 7.2, 7.3, 7.4, 10.1, 13.1  
+Nanjing, 7.1, 7.2, 10.1, 16.1  
+Nanking, Treaty of  
+Nantes  
+Nantucket, 18.1, 18.2  
+Nanyue kingdom  
+Nanzhao, kingdom of, 11.1, 11.2  
+nao, 14.1, 15.1, 16.1  
+nãos, 14.1, 14.2  
+Napata, 2.1, 2.2  
+Naples, 4.1, 5.1, 5.2, 8.1, 8.2, 12.1  
+Naples, Bay of, 4.1, 5.1  
+Napoleon Bonaparte, 15.1n, 17.1  
+Napoleonic Wars, 17.1, 17.2, 18.1, 18.2, 18.3, 19.1  
+Naqada, 2.1, 2.2, 2.3  
+Narasimhavarman II  
+Nares, George Strong  
+Narmada River, 6.1, 6.2, 10.1  
+Naseby, 16.1, 16.2  
+Nasir-i Khusraw  
+Nassau-class battleship,  
+Natchez, 18.1, 19.1  
+National Industrial Recovery Act of 1933  
+Native Americans, 1.1, 16.1  
+NATO  
+naukleroi  
+Naukratis  
+Naulochus, battle of  
+Nautilus, USS,  
+navadhyaksa  
+naval aviation  
+Naval Defence Act  
+Naval Statute of 1720  
+naves, 12.1, 14.1  
+navicula  
+Navigation Acts, 17.1, 18.1, 20.1  
+navigational instruments  
+see also compass  
+navigation guides, 13.1, 15.1  
+European, 14.1, 16.1, 17.1  
+Greek and Roman, 4.1, 6.1, 6.2, 6.3  
+Indian Ocean, 10.1, nts.1n  
+navi grosse  
+Navy Board  
+Navy League  
+Navy Royal, 15.1, 16.1, 16.2  
+see also Royal Navy  
+Naxos Island, 4.1, 8.1  
+Nearchus, 6.1, 6.2, 6.3, 7.1  
+Necho II, 4.1, 6.1, 18.1  
+Neck, Jacob van  
+Neckham, Alexander  
+Nelson, Admiral Horatio  
+Nemesis  
+Neo-Assyrian Empire  
+Neo-Babylonian Empire, 4.1, 4.2, 6.1  
+Neo-Confucianism  
+Neolithic Age  
+neorion  
+Nero, 4.1, 5.1  
+Nestor  
+Netherlands, 9.1, 9.2, 16.1, 17.1, 18.1  
+Asia and, 16.1, 18.1  
+commerce in, 15.1, 16.1, 17.1  
+England and, 15.1, 17.1, 17.2  
+geography of, 9.1, 15.1, 18.1  
+shipbuilding in, 15.1, 15.2, 17.1  
+Spain and, 15.1, 15.2, 15.3, 16.1  
+see also Dutch Republic; Spanish Netherlands  
+neutrality, 8.1, 17.1, 19.1, 19.2, 19.3, 20.1  
+Neva River, 9.1, 17.1  
+"New and More Complete Representation of the . . . Globe"  
+(Mercator)  
+Newark, 20.1, 20.2  
+New Caledonia, 1.1, 1.2  
+New England, 1.1, 16.1, 17.1  
+fisheries of, 16.1, 17.1, 18.1  
+New France, Company of, 16.1, nts.1n  
+New Guinea, 7.1, 13.1n, 14.1, 17.1  
+earliest settlement of, 1.1, 1.2, 1.3  
+New Jersey, 18.1, 20.1  
+Newnan's Lake vessels, 1.1, 1.2  
+New Orleans, 7.1, 17.1, 18.1, 19.1, 19.2  
+and Mississippi trade, itr.1, 16.1, 18.1  
+port of, 18.1, 19.1, 20.1, 20.2  
+New Orleans  
+New Spain, 1.1, 14.1, 15.1, 15.2, 16.1, 17.1  
+New York and Liverpool United States Mail Steamship Company  
+New York Board of Underwriters  
+New York City, 10.1, 18.1, 20.1  
+in American Revolution, 17.1, 19.1  
+colonial, 16.1, 16.2, 16.3  
+distances from, 17.1, 18.1, 18.2, 19.1  
+domestic trade and, 18.1, 19.1, 20.1  
+foreign trade and, 17.1, 17.2, 18.1  
+steamships at, 18.1, 18.2, 18.3  
+New York Daily Times  
+New York Herald  
+New York Post  
+New York Times  
+New Zealand, 17.1, 17.2, 18.1, 18.2, 19.1, 20.1  
+first settlement of, 1.1, 1.2, 1.3  
+ngalawa  
+Nicaea, Empire of  
+Nicias  
+Nicias, Peace of  
+Nicobar Islands, 7.1, 10.1  
+Nieupoort, battle of  
+Nieuw Amsterdam, 16.1, 16.2  
+Nihongi  
+Nikephoros Phokas  
+Nile River, 2.1, 5.1, 6.1, 14.1, 14.2, nts.1n  
+capitals on, 2.1, 8.1, 12.1  
+as cradle of navigation, 2.1, 2.2, 3.1  
+delta, 2.1, 3.1, 4.1, 8.1, 12.1, 14.1  
+and Red Sea canal, 4.1, 6.1, 6.2, 6.3, 8.1, nts.1n  
+and Red Sea trade, 2.1, 6.1, 6.2, 10.1, 10.2  
+shipbuilding on, 2.1, 2.2  
+trade on  
+Nimitz, Chester W.  
+Niña, 14.1, 14.2  
+Nineveh, 4.1, 4.2  
+Nine Years' War, 16.1, 17.1, 17.2  
+Ningbo, 11.1, 15.1, 18.1, 19.1  
+Nissa, battle of  
+Noah, 3.1, 3.2  
+Nobel, Alfred  
+Nobel, Ludwig  
+Noirmoutier  
+Nombre de Dios  
+Nootka (Nuu-chah-nulth), 1.1, 1.2  
+Nootka Sound, 15.1, 17.1, 17.2  
+Norddeutscher Lloyd  
+Nordenfelt, Thorsten  
+Nordenskiöld, Adolf  
+Normandie  
+Normandy, Allied landings in  
+Normandy, Duchy of  
+Normans, 9.1, 9.2, 9.3, 12.1, 12.2, 12.3  
+North, Lord  
+North Africa, 8.1, 10.1, 10.2, 12.1, 12.2, 19.1  
+in antiquity, 4.1, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6  
+Byzantines and, 8.1, 8.2  
+Europeans in, 9.1, 9.2, 14.1, 15.1, 17.1  
+grain trade of, 5.1, 5.2, 8.1, 12.1  
+imports and exports, 8.1, 12.1, 12.2  
+Islam in, 8.1, 8.2, 8.3, 10.1  
+Italians and, 12.1, 12.2, 12.3, 12.4  
+ships and sailors, 2.1, 8.1, 14.1  
+North Carolina, 16.1, 16.2, 19.1  
+Northeast Passage, 14.1, 15.1, 16.1, 16.2, 18.1, 20.1  
+Northern Dvina  
+Northern Song Dynasty, 11.1n, 11.2, 13.1  
+sea trade and, 11.1, 11.2, 11.3  
+North Foreland, battle of  
+North Pole  
+North River Steam Boat  
+North Sea, 9.1, 12.1, 14.1, 20.1  
+fisheries, 16.1n, 16.2  
+Hansa and, 12.1, 12.2, 12.3, 12.4  
+Middle Ages, 9.1, 9.2, 9.3, 9.4, 9.5  
+naval actions on, 17.1, 19.1, 19.2, 19.3  
+rivers to, 9.1, 12.1, 18.1  
+North Star, 14.1, 14.2, 14.3  
+Northumbria, 9.1, 9.2, 9.3, 9.4  
+Northwest Passage, 15.1, 16.1, 17.1, 17.2, 18.1  
+Norway, 1.1, 9.1, 9.2, 9.3, 12.1  
+settlements and, 1.1, 9.1, 9.2, 9.3, 9.4  
+shipbuilding in, 9.1, 9.2, 18.1  
+trade of, 9.1, 9.2, 15.1  
+Vikings and, 9.1, 9.2, 9.3  
+Noryang, battle of  
+Nova Albion  
+Nova Scotia, 1.1, 16.1, 17.1, 18.1, 18.2  
+Novgorod, 9.1, 9.2, 9.3, 12.1  
+Nubia, 2.1, 2.2, 2.3, 2.4  
+nuclear power, 19.1, 20.1, 20.2  
+Nuestra Señora de la Concepción  
+Nuestra Señora de la Covadonga  
+Numenius  
+Numidians  
+Nur al-Din  
+Nuruddin Firuz  
+nutmeg, 10.1, 10.2, 13.1, 14.1, 15.1, 15.2  
+Nydam boat  
+NYK Line  
+Nymphaeum, Treaty of  
+Nystad, Treaty of  
+Nzinga, King  
+oarsmen, 2.1, 12.1, 12.2  
+in Asian vessels, 7.1, 11.1, 13.1  
+in galleys, 4.1, 5.1, 8.1, 8.2  
+Ocean-class ships  
+Oceania, 1.1, 1.2, 1.3, 17.1  
+boats of, 1.1, 1.2, 6.1  
+navigation in, 1.1, 1.2, 6.1, 6.2  
+Ocean Notes for Ladies (Ledoux),  
+Ocean Steam Ship Co.  
+Oceanus  
+Oc Eo  
+Octavian, see Augustus  
+oculus  
+Oddr Snorrason, 9.1, 9.2, 9.3  
+Oder River, 9.1, 9.2, 12.1  
+Odessa  
+Odysseus, itr.1, 4.1, 4.2, 5.1, 6.1  
+Odyssey (Homer), 3.1, 4.1, 4.2, 5.1, 5.2  
+Of the Dominion, or Ownership of the Sea (Selden), 16.1, 16.2  
+Ogedei  
+Ohio River, itr.1, 1.1, 18.1, 19.1  
+Ohthere  
+oil, 6.1, 8.1, 10.1, 20.1  
+fish, 1.1, 3.1, 16.1  
+fuel, 3.1, 3.2, 8.1, 15.1, 18.1, 18.2, 19.1, 19.2, 19.3, 20.1  
+olive, 4.1, 4.2, 5.1, 6.1, 9.1, 20.1, nts.1n  
+scented, 2.1, 4.1, 6.1, 6.2  
+in shipbuilding, 3.1, 10.1, 13.1, nts.1n  
+tankers 19.1, 18.1, 20.1  
+vegetable, 2.1, 3.1, 4.1, 8.1, 10.1, 11.1, 12.1, 16.1  
+whale, 1.1, 9.1, 10.1, 18.1  
+Okhotsk, itr.1, 17.1  
+Okinawa, 19.1, nts.1n  
+Olaf Haraldson  
+Olaf Tryggvason, 9.1, 9.2, 9.3, 9.4  
+Olaudah Equiano  
+Olbia, 4.1, 4.2  
+Oldenbarnevelt, Johan van  
+Old Kingdom, 2.1, 2.2, 2.3, 2.4, 2.5, 3.1, 6.1  
+Old Testament  
+Oleg  
+Olivares, Count-Duke of, 16.1, 16.2  
+Olmecs, 1.1, 1.2  
+Olympias  
+Oman, 8.1, 10.1, 10.2, 13.1, 16.1  
+in Bronze Age, 3.1, 3.2, 3.3  
+trade of, 10.1, 10.2, 13.1  
+Oman, Gulf of, 6.1, 10.1  
+Ontario, Lake  
+On the Chinese and Arab Trade (Zhao),  
+On the Erythraean Sea (Agatharchides),  
+On the Oceans (Pytheas),  
+Ophir, 4.1, 6.1  
+Opium Wars, 18.1, 18.2, 19.1, 19.2, 19.3  
+Oquendo, Antonio de, 16.1, 16.2  
+Oregon, 1.1, 18.1  
+Oregon, USS,  
+Orellana, Francisco de  
+Øresund, 9.1, 12.1, 15.1, 15.2  
+oriental, 2.1, 4.1, 6.1, 6.2  
+Orinoco River, 1.1, 1.2, 14.1, 16.1  
+Orissa, 6.1, 10.1, 17.1, nts.1n  
+Orkney Islands, 9.1, 9.2, 9.3, 9.4, 19.1  
+Ormr inn Langi, 9.1, 9.2, 9.3  
+Orosius, Paulus  
+Orseolo, Pietro II  
+Orthodox Empire of Trebizond  
+Osceola  
+Oseberg ship  
+Oslofjord, 9.1, 9.2, 9.3  
+Ostia, 5.1, 5.2, 5.3, 5.4  
+Ostrogoths  
+Otranto, Strait of, 8.1, 12.1  
+Ottoman Empire, 14.1, 15.1, 15.2, 20.1  
+and Portuguese, 15.1, 15.2  
+Russia and, 17.1, 19.1  
+Ottoman navy, 15.1, 15.2, 19.1, 19.2  
+Ouse River, 9.1, 9.2  
+outriggers, 1.1-1.2, 4.1, 6.1, 6.2, 6.3, 10.1  
+Pachymeres, George  
+Pacific  
+Pacific Ocean, 6.1, 7.1, 15.1, 18.1  
+crossing of, 1.1, 14.1, 14.2, 15.1, 16.1, 17.1, 20.1  
+division of, 14.1, 15.1, 15.2  
+environment of, 1.1, 1.2, 14.1  
+exploration of, 17.1, 18.1  
+ports of, itr.1, 13.1, 15.1  
+routes across, itr.1, 15.1, 15.2, 17.1, 18.1, 18.2, 18.3, 20.1, 20.2  
+settlement of, 1.1, 1.2, 1.3  
+steamships on, 18.1, 18.2  
+U.S. interest in, 18.1, 19.1, 19.2, 19.3, 19.4, 19.5, 19.6  
+World War II in, 19.1, 19.2, 19.3  
+see also Oceania  
+Pacific Mail Steamship Co.  
+Pacific Rim theory  
+Pacific War (WWII), 19.1, 19.2  
+padrón real  
+Pagan Burma, 10.1, 13.1  
+Paixhans, Henri-Joseph  
+Pakistan, 3.1, 6.1, 6.2, 6.3, 10.1  
+Indus civilization in, 3.1, 3.2, 3.3  
+Palembang, 10.1, 10.2, 10.3, 13.1, nts.1n  
+Palermo, 2.1, 8.1, 8.2, 12.1, 12.2  
+Palermo Stone, 2.1, nts.1n  
+Palestine, 2.1, 4.1, 5.1, 10.1  
+Pallava kingdom, 7.1, 10.1, 10.2, 11.1  
+Palmer, Nathaniel  
+Panama, 14.1, 15.1, 17.1, 18.1, 19.1, 20.1  
+Panama, Gulf of  
+Panama, Isthmus of, 15.1, 19.1  
+Panduranga  
+Pandya, 6.1, 6.2, 13.1  
+Panpan, 7.1, 10.1  
+papal bulls, 14.1, 14.2  
+Papal States  
+papyrus, 2.1, 2.2, 3.1, 4.1  
+Paramesvara  
+pardesi  
+Paris, 9.1, 9.2  
+Paris, Declaration of, 19.1, 19.2  
+Paris, Treaty of  
+Parker, Hyde  
+Parliament, 16.1, 17.1, 17.2, 17.3  
+maritime legislation, 16.1, 16.2, 18.1  
+rewards offered by, 17.1, 17.2, 17.3  
+Parma, Duke of  
+Parsons, Charles A.  
+Parsons Marine Steam Turbine Company  
+Parthian Empire, 6.1, 7.1, 7.2  
+Patala (Potana), 6.1, 6.2  
+Pataliputra, 6.1, 6.2  
+Paterson, William  
+Patna, 6.1, 18.1  
+Patrick, Saint  
+Pattani, 16.1, 16.2  
+Pattinappalai (Uruthirankannanar), 6.1, 6.2, 13.1  
+Pavia, 12.1, 12.2  
+Pax Mediterraneana, 5.1, 8.1  
+Pax Mongolica, 12.1, 13.1  
+Pax Romana, 5.1, 8.1  
+Pearl Harbor, 19.1, 19.2, 19.3  
+Pearl River, 7.1n, 13.1, 15.1, 16.1  
+Pegolotti, Francesco Balducci  
+Peloponnese, 3.1, 4.1, 4.2, 5.1, 12.1  
+Persian Wars and, 4.1, 4.2  
+Peloponnesian League  
+Peloponnesian Wars, 4.1, 4.2, 5.1  
+Pemba Island, 10.1, 10.2  
+Penang, 18.1, 18.2  
+Peninsular & Oriental Steam Navigation Co.  
+Penn, William, 16.1, 16.2  
+Pennsylvania, 16.1, 17.1, 18.1  
+Penobscot, 1.1, 17.1  
+penteconters  
+pentereis  
+Peoples of the West, The (Yu),  
+Pepin II  
+Pepin III  
+pepper trade, 6.1, 13.1n, 13.2, 14.1, 17.1  
+Chinese, 13.1, 13.2, 14.1, 17.1  
+early modern, 15.1, 15.2, 15.3, 15.4, 16.1, 16.2, 17.1  
+medieval, 8.1, 9.1, 10.1, 13.1, 13.2, 13.3  
+Pepy II  
+Pepys, Samuel, 16.1, 16.2  
+Perestrello, Bartolomeo  
+Periander  
+periplous  
+periplus  
+Periplus of the Erythraean Sea, 6.1, 6.2, 7.1, 14.1  
+Perry, Matthew Calbraith, 18.1, 18.2  
+Persia, 3.1, 10.1, 10.2, 10.3, 12.1, 14.1, 19.1  
+Alexander and, 5.1, 6.1  
+China and, 7.1, 7.2, 10.1, 11.1, 11.2, 13.1  
+exports from, 6.1, 7.1, 10.1, 15.1  
+Greeks and, 4.1, 4.2, 5.1  
+India and, 6.1, 10.1, 10.2, 15.1  
+and Indian Ocean trade, 6.1, 16.1  
+in Persian Wars, 4.1, 4.2, 4.3  
+see also Achaemenid Empire; Ilkhanate; Iran; Parthian Empire;  
+Safavid Empire; Sasanian Empire  
+Persian Gulf, 10.1, 20.1, nts.1n  
+Chinese and, 7.1, 13.1, 13.2  
+Greeks and, 5.1, 6.1, 6.2, 7.1  
+India and, 6.1, 6.2, 6.3, 13.1, 16.1  
+mariners from, 10.1, 10.2, 10.3, 10.4  
+Mesopotamia and, 3.1, 3.2, 3.3, 4.1  
+Ottomans and  
+Persians and, 6.1, 6.2, 6.3, 6.4  
+ports of, 6.1, 10.1, 10.2, 10.3  
+Portuguese and, 15.1, 16.1  
+Red Sea and, 8.1, 12.1, 13.1, 13.2  
+ships of, 10.1, nts.1n  
+in World War II, 19.1, nts.1n  
+Persian Wars, 4.1, 4.2, 5.1, 6.1  
+Peru, 1.1, 7.1, 18.1, 18.2  
+Spanish, 15.1, 15.2, 17.1, 17.2  
+Pessagno, Lanzarote  
+Pessagno (Peçanha), Manuele  
+Peter I, the Great, 17.1, 17.2  
+Peter III, King of Aragon  
+petroleum, see oil  
+Pett, Peter, 16.1, 16.2  
+Phaleron, 4.1, 4.2  
+Pharos, 5.1, 5.2, 5.3, 5.4  
+Pharsalus, battle of, 5.1, nts.1n  
+Philadelphia, 16.1, 17.1, 17.2, 18.1, 18.2  
+Philip II, King of Macedonia  
+Philip II, King of Spain, 14.1, 15.1, 15.2, 15.3  
+Philip III, King of France  
+Philip III, King of Spain, 16.1, 16.2  
+Philip IV, King of Spain, 12.1, 16.1  
+Philip V, King of Macedonia, 5.1, 5.2  
+Philip of Anjou  
+Philippi, battle of  
+Philippines, 1.1, 1.2, 7.1, 7.2, 7.3, 13.1, 13.2, 13.3, 14.1, 14.2, 15.1,  
+17.1, 17.2, 18.1, 19.1, 19.2, 19.3, 19.4  
+Philippine Sea, battle of the  
+Philistines  
+Phillip, Arthur  
+Phoenicia, 4.1, 4.2, 4.3, 5.1, 6.1, 12.1  
+Phoenicians, 3.1, 4.1, 4.2, 4.3, 4.4, 5.1, 5.2, 6.1, 6.2  
+Phoenix, battle of  
+Phormio  
+Piailug, Mau  
+Piazzale of the Corporations  
+Pigafetta, Antonio  
+Pillars of Hercules  
+pilots, 13.1, 14.1, 14.2, 14.3, 15.1, 17.1  
+in antiquity, 5.1, 6.1  
+laws governing, 14.1, 14.2, 15.1, 17.1  
+Pinta  
+Pinzon, Martín Alonso, 14.1, 14.2  
+Pinzon, Vicente Yáñez  
+piracy, 8.1, 12.1, 15.1, 15.2, 20.1, 20.2  
+in antiquity, 3.1, 5.1, 5.2, 5.3  
+in Asia, 7.1, 11.1, 11.2, 13.1  
+in Atlantic, 15.1, 16.1, 16.2, 16.3  
+in China, 7.1, 11.1, 11.2, 13.1, 13.2, 15.1, 16.1  
+combated, 16.1, 16.2, 17.1, 17.2, 19.1, 20.1  
+in Indian Ocean, 6.1, 10.1, 10.2, 10.3, 13.1, 16.1  
+in Mediterranean, 8.1, 8.2, 8.3, 12.1, 12.2, 12.3, 15.1  
+in northern Europe, 12.1, 12.2  
+in Persian Gulf, 6.1, 10.1, 10.2  
+in Red Sea, 4.1, 6.1, 6.2, 13.1  
+Thucydides on, 3.1, 4.1, 4.2, 5.1, 6.1  
+Piraeus, 4.1, 5.1, 5.2, 5.3, nts.1n  
+founded, 4.1, 4.2  
+prosperity of, 4.1, 4.2, 20.1  
+Piramesse  
+Pires, Tomé  
+Piri Reis  
+Pisa, 8.1, 12.1, 12.2, 12.3, 12.4, 12.5  
+Pithecoussae, 4.1, 4.2  
+Pittsburgh, Pennsylvania, itr.1, 18.1  
+Pius V  
+Pizarro, Francisco  
+Plato, 4.1, 4.2, 5.1  
+Pleistocene  
+Plimsoll, Samuel, 18.1, 20.1  
+Pliny the Elder, 2.1, 5.1, 6.1, 6.2, 14.1  
+Plongeur  
+Plunger, USS,  
+Plutarch, 5.1, 5.2, nts.1n  
+Plymouth, Eng., 15.1, 17.1  
+Plymouth, Mass.  
+Poland, 9.1, 12.1, 12.2, 15.1, 15.2, 16.1  
+polar exploration  
+Polaris, 14.1, 14.2  
+Polo, Marco, 10.1n, 13.1, 13.2, 13.3, 14.1  
+Polybius, 5.1n, 5.2, 5.3  
+Polynesia, 1.1, 1.2  
+Polynesian Voyaging Society, 1.1, nts.1n  
+polyremes  
+Pompeii, 3.1, 5.1, 6.1  
+Pompey, Sextus  
+Pompey the Great, 5.1, 5.2, 5.3  
+Pontus, 5.1, 5.2, 12.1  
+pope, 8.1, 8.2, 12.1, 12.2, 12.3, 12.4, 15.1  
+and territorial claims, 14.1, 14.2, 14.3, 16.1  
+Po River, 8.1, 8.2, 12.1, 12.2, 14.1  
+Port Arthur (Lüshunkou)  
+Portobelo, 15.1, 17.1  
+portolans, 14.1, 14.2  
+Porto Santo, 14.1, 14.2  
+Port Royal, Jamaica  
+Portsmouth, 15.1, nts.1n  
+Portsmouth, Treaty of, 19.1, 19.2  
+Port Sudan  
+Port Suez, 6.1, 18.1, 18.2  
+Portugal, 12.1, 12.2, 13.1, 14.1  
+Africa and, 12.1, 15.1, 15.2, 15.3, 15.4  
+Americas and, 14.1, 14.2, 15.1, 16.1  
+China and, 13.1, 14.1, 15.1, 15.2, 16.1, 16.2  
+Dutch and, 15.1, 16.1, 16.2  
+East Africa and, 14.1, 14.2, 15.1, 15.2  
+Estado da India and, 15.1, 15.2, 16.1, 16.2, 16.3  
+exploration and, itr.1, 14.1, 14.2, 14.3, 14.4  
+India and, 10.1, 10.2, 14.1, 15.1, 15.2  
+Japan and, 15.1, 16.1  
+Ottomans and, 15.1, 15.2  
+slave trade and, 14.1, 14.2, 15.1  
+Southeast Asia and, 11.1, 13.1, 15.1, 16.1, 16.2, 16.3  
+Spain and, 14.1, 14.2, 14.3, 15.1, 15.2, 16.1  
+West Africa and, 14.1, 15.1, 16.1  
+Portuguese navy, 15.1, 15.2, 16.1  
+Portus Julius, 5.1, 5.2  
+Potosí, 15.1, 15.2  
+President Truman  
+Primary Chronicle  
+Prince, William  
+Prince of Wales, HMS,  
+Princess Alice  
+Princeton, USS,  
+Pring, Martin  
+Pringle, Thomas  
+Prinzessin Victoria Luise  
+privateers, 12.1, 16.1, 16.2, 19.1, 20.1  
+Probus, Marcus Aurelius, 7.1, 7.2, 9.1  
+Prohibition, 18.1, 18.2, 20.1  
+Provence, 8.1, 16.1  
+Prussia, 12.1, 12.2, 17.1  
+Psammetichus, Pharaoh  
+Psyttaleia Island  
+Ptolemy I, 5.1, 5.2, 6.1  
+Ptolemy II Philadelphus, 5.1, 6.1, 6.2  
+Ptolemy III, 5.1, 6.1, 6.2  
+Ptolemy IV Philopator  
+Ptolemy VII  
+Ptolemy XIII  
+Puerto Rico, 1.1, 15.1  
+Puerto San Julian, 14.1, 15.1  
+Puhar  
+Pulakeshin II  
+Pulo Run  
+Pung, Prince  
+Punic Ship  
+Punic Wars  
+First, 5.1, 5.2n, 5.3, 5.4, 5.5  
+Second and Third, 5.1, 5.2  
+Punt, 2.1, 2.2, 2.3, 4.1, 6.1, 6.2  
+Puritans, 16.1, 16.2  
+Puteoli, 5.1, 5.2, nts.1n  
+Putun Mayan  
+Pyeongyang, 7.1, 11.1, 15.1  
+Pygmalion  
+pyramids, 1.1, 2.1, 2.2, 2.3, 19.1  
+Pyramid Texts  
+Pyrrhic Wars  
+Pyrrhus of Epirus  
+Pytheas, 4.1, 9.1, 9.2  
+Qadim, Quseir, al-, 6.1, 13.1  
+Qais, see Kish  
+qarib  
+Qatar, 6.1, 10.1, nts.1n  
+Qin Dynasty, 7.1, 7.2, 11.1, 11.2  
+Qingdao (Tsingtao), 19.1, 19.2  
+Qing Dynasty, 11.1, 16.1, 17.1, 18.1, 19.1  
+qirad, 8.1, 13.1  
+quadrireme  
+Quakers  
+Quanzhou, 13.1, 13.2, 13.3, 20.1, nts.1n  
+Polo describes, 13.1, 13.2  
+rise of  
+Quanzhou wreck  
+Qubilai Khan, 13.1, 13.2  
+Quebec, Canada, 16.1, 17.1  
+Queen Charlotte Islands, 1.1, 1.2  
+Queen Elizabeth, HMS,  
+Queen Mary  
+Queenstown, Ireland, 19.1, 19.2  
+quffa, 3.1, 3.2, 10.1, 10.2  
+Quiberon, 9.1, 17.1  
+Quilon  
+quinqueremes, 5.1, 5.2  
+Qulzum, 10.1, 10.2, 13.1  
+Quran, itr.1, 8.1, 8.2, 11.1, 12.1  
+radar, 17.1, 19.1, 19.2  
+radeaux  
+Raden Vijaya  
+Radisson, Pierre-Esprit  
+Raedwald  
+Raffles, Stamford, 17.1, 18.1  
+Ragusa, 4.1, 8.1, 12.1, 12.2, 15.1  
+rahmanis  
+Rajaraja I  
+Rajendra I  
+Raleigh, Walter, 15.1, 16.1  
+Ralswiek  
+Ramesses II  
+Ramesses III, 3.1, 3.2  
+Ramisht  
+Ras al-Jinz  
+Rashtrakuta Dynasty  
+Rasulid Dynasty, 13.1, 13.2  
+Ravenna, 5.1, 8.1  
+Recife, 14.1, 15.1  
+Reconquista, 12.1, 12.2, 12.3, 15.1  
+Record of Overseas Countries and People (Wang Dayuan),  
+Red Cliffs, battle of the  
+Red (Hong) River, 11.1, 11.2, 11.3  
+and Yunnan Plateau, 7.1, 7.2  
+Dong-Son culture, 7.1, 7.2, 7.3  
+Red River (United States)  
+Red Sea, 1.1, 2.1, 6.1, 6.2, 13.1, 13.2, 17.1  
+ancient Egypt and, 2.1, 2.2, 2.3 3.1, 4.1  
+canals to, 4.1, 6.1, 6.2, 8.1, nts.1n, nts.2n  
+Fatimids and, 10.1, 12.1, 12.2, 13.1, 13.2  
+Indian trade with, 6.1, 16.1  
+navigation on, 6.1, 10.1, 10.2  
+Ottomans and, 14.1, 15.1, 15.2, 15.3  
+Persians and, 6.1, 6.2, 10.1  
+Ptolemies and  
+Romans and, 6.1, 6.2  
+ships of, 6.1, 10.1, nts.1n  
+Register Society  
+Reichsmarine  
+reindeer, 1.1, 1.2  
+Rekhmire  
+Reliance, SS,  
+Rennell, George  
+Rensi  
+"Report of Wenamun, The,"  
+Repulse, HMS,  
+Reric, 9.1, 9.2  
+Resolute, SS,  
+Resolution, HMS,  
+Reuben James, USS,  
+Reuter, Ludwig von  
+Rev-Ardashir  
+Reynald of Châtillon  
+Reynst, Gerard  
+Rhaedestus  
+Rhineland, 12.1, 12.2, 17.1  
+Rhine River, 9.1, 12.1, 18.1  
+as border, 5.1, 8.1, 9.1, 9.2  
+Danube and, 9.1, 9.2, 9.3, 18.1  
+North Sea trade and, 9.1, 9.2, 9.3  
+Rhodes, 4.1, 8.1, 8.2, 12.1, 15.1  
+Hellenistic, 5.1, 5.2, 5.3, 8.1, nts.1n  
+in Roman period, 5.1, 5.2  
+Rhodes, Knights of, 15.1, 15.2n  
+Rhodian Sea Law, 5.1, 8.1, 8.2, 13.1  
+Rhône River, 5.1, 9.1, 9.2, 14.1  
+Ribe, 9.1, 12.1  
+Ricci, Matteo  
+Richard, Duke of Normandy  
+Richelieu, Cardinal  
+Rickover, Hyman G.  
+Riddle of the Sands, The (Childers),  
+Riedemann, Wilhelm A.  
+Rig Veda, 6.1, 6.2  
+Rijksmuseum, 8.1, 16.1  
+Rinan, 7.1, 7.2, 7.3, nts.1n  
+Rio de Janeiro, 14.1, 20.1  
+Rio de Oro  
+riverboats, 3.1, 6.1, 7.1, 7.2, 11.1, 15.1  
+river craft, 2.1, 3.1, 20.1  
+Asian, 6.1, 7.1, 7.2, 11.1, 13.1, 17.1  
+European, 9.1, 9.2, 15.1, 17.1  
+rivers, itr.1, 1.1, 12.1, 14.1, 17.1, 18.1  
+in Americas, 1.1, 1.2, 1.3, 14.1, 17.1  
+Asian, 3.1, 6.1, 6.2, 6.3, 6.4  
+campaigns, 8.1, 9.1, 19.1, 19.2  
+Chinese, 7.1, 7.2, 7.3, 7.4, 11.1, 11.2, 13.1, 13.2, 18.1  
+European, 9.1, 9.2, 12.1, 12.2, 14.1, 15.1, 15.2, 16.1, 18.1  
+improvements to, 2.1, 7.1, 10.1, 11.1, 18.1, 18.2, 18.3  
+Russian, 4.1, 15.1, 15.2, 17.1  
+Southeast Asian, 7.1, 7.2, 7.3, 17.1  
+Vikings and, 9.1, 9.2, 9.3, 9.4  
+Roberts, J. M.  
+Roccaforte  
+Rochambeau, Comte de  
+Rodger, Nicholas  
+Roe, Thomas  
+Roger of Lauria, 12.1, 12.2  
+Rollo  
+Roman Empire, 5.1, 8.1, 8.2, 9.1, 9.2  
+China and, 6.1, 7.1  
+Eastern, 8.1, 8.2  
+Egypt and, 5.1, 5.2, 6.1, 8.1  
+Indian Ocean and, 6.1, 6.2, 6.3, 10.1  
+Mediterranean trade of, 5.1, 5.2  
+seafaring and, 5.1, 5.2  
+Western, 8.1, 9.1  
+Romania, 4.1, 5.1  
+Romano-Celtic shipbuilding  
+Romans, itr.1, 4.1, 6.1  
+and the sea, 5.1, 5.2, 14.1  
+Romanus Pontifex  
+Rome, Republic of, 4.1, 5.1, 5.2, 5.3  
+Carthage and, 5.1, 5.2  
+Mediterranean trade of, 3.1, 5.1, 5.2  
+Punic Wars, 5.1, 5.2n, 5.3, 5.4, 5.5  
+shipbuilding, 5.1, 5.2, 7.1, 9.1  
+takes to sea, 5.1, 5.2  
+Rooke, George  
+Roosevelt, Franklin D., 19.1, 19.2, 19.3, 20.1  
+Roosevelt, Nicholas  
+Roosevelt, Theodore, 19.1, 19.2, 19.3  
+Ross, James Clark  
+Ross, John, 18.1, 18.2  
+Rouen, 9.1, 9.2, 12.1  
+rowing, 4.1, 5.1, 8.1, 9.1, 16.1  
+alla sensile, 12.1, 15.1, nts.1n  
+a scaloccio, 15.1, nts.1n  
+on rivers, 2.1, 7.1, 9.1, 11.1  
+Royal Botanical Gardens at Kew  
+Royal Charles  
+Royal Navy, 17.1, 17.2, 18.1, 18.2, 19.1, 19.2  
+in 18th century, 17.1, 17.2, 17.3  
+influence on Mahan, 3.1, 19.1  
+in Napoleonic Wars  
+naval arms race and  
+in 20th century, 19.1, 19.2  
+see also Navy Royal  
+Royal Society, 17.1, 18.1  
+Roys, Thomas  
+Rozhestvensky, Zinovi Petrovich  
+rudder, 9.1, 14.1  
+centerline, 7.1, 10.1, 11.1, 12.1, 12.2, 12.3, 13.1, 17.1  
+quarter, 2.1, 3.1, 3.2, 4.1, 6.1, 7.1, 7.2, 8.1, 9.1, 10.1, 10.2, 12.1  
+Rügen Island, 9.1, 9.2, 12.1  
+rupees, 15.1, 16.1, 16.2  
+Rupert, Prince  
+Rurik  
+Rus, 8.1, 9.1, 9.2, 9.3, 9.4, 15.1  
+Russell, Edward, 17.1, 17.2  
+Russia, 4.1, 17.1, 17.2, 18.1, 18.2, 19.1, 20.1  
+eastward expansion of, itr.1, 15.1, 17.1, 17.2, 17.3, 17.4  
+European trade of, 12.1, 12.2, 15.1, 15.2, 15.3  
+Japanese conflict with, 19.1, 19.2, 19.3  
+navy of, 17.1, 17.2, 18.1, 19.1, 19.2, 19.3  
+in Viking Age, 9.1, 9.2, 9.3, 9.4  
+Russian-American Fur Company  
+"Russian Mesopotamia,"  
+Russians, 9.1, 12.1, 15.1, 17.1, 17.2, 17.3, 18.1, 18.2, 19.1, 19.2  
+Russo-Japanese War, 19.1, 19.2, 19.3, 19.4  
+Russo-Turkish War (1768-74)  
+Russo-Turkish War (1787-92)  
+Ruyter, Michiel de, 16.1, 16.2  
+Ryswyck, Treaty of  
+Ryukyu Islands, 10.1, 13.1, 15.1, 16.1, nts.1n  
+Sabaeans  
+Safavid Empire, 15.1, 15.2, 16.1  
+Safety of Life at Sea (SOLAS) conventions, 20.1, 20.2  
+Saga of Olaf Tryggvason (Oddr),  
+Sagres  
+Saguntum, 5.1, 5.2, 8.1  
+Sahara Desert  
+Sahul, 1.1, 1.2  
+Sahure  
+Sa Huynh  
+Said Pasha  
+sail, fore-and-aft, 1.1, 8.1, 17.1  
+Asian, 7.1, 11.1, 11.2  
+sail, lateen, 8.1, 8.2, 12.1, 15.1  
+(dis)advantages of, 8.1, 14.1, 14.2, 15.1  
+sail, lugsail, 7.1, 10.1, 11.1  
+sail, square, 1.1, 2.1, 3.1, 15.1, 17.1, 17.2n  
+Asian, 6.1, 7.1, 7.2, 10.1, 10.2, 11.1  
+European, 9.1, 9.2, 12.1, 12.2, 14.1, 14.2, 15.1, 15.2  
+Mediterranean, 2.1, 3.1, 4.1, 4.2, 8.1  
+Sailendra kingdom  
+Sailendras  
+sailing packet, 18.1, 18.2  
+sailors, 3.1, 10.1, 17.1  
+in conflict, 4.1, 12.1, 17.1  
+naval crews, 8.1, 8.2, 8.3, 9.1, 12.1  
+pay of, 3.1, 8.1, 8.2, 15.1  
+personal possessions of, 3.1, 5.1, 9.1  
+training and rating of, 1.1, 6.1, 8.1, 10.1, 10.2, 17.1  
+treatment of, 4.1, 13.1, 14.1, 17.1, 17.2, 18.1, 19.1, 20.1  
+see also seafaring, attitudes toward; shipboard conditions  
+sails, 1.1, 1.2, 1.3, 8.1, 9.1, 9.2, 9.3, 12.1, 16.1  
+Asian, 6.1, 11.1, 13.1, 13.2  
+Bronze Age, 1.1, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3  
+construction of, 6.1, 7.1, 9.1, 10.1, 10.2, 15.1  
+in Mediterranean, 8.1, 8.2, 14.1  
+and oars, 4.1, 4.2, 5.1, 6.1, 15.1  
+origins of, 1.1, 2.1, 9.1  
+St. James's Day battle  
+St. Lawrence, Gulf of, 9.1, 19.1  
+St. Lawrence River, itr.1, 1.1, 16.1, 16.2, 17.1, 17.2, 18.1  
+St. Peter Port wreck, 9.1, 9.2  
+St. Petersburg, 15.1, 17.1  
+St. Petersburg Naval Academy  
+Saladin Salah al-Din Yusuf, 12.1, 12.2, 12.3  
+Salamis, Cyprus, battles of, 4.1, 5.1  
+Salamis, Greece, battle of, 4.1, 4.2, 4.3, 5.1  
+Salé, 12.1, 12.2, 14.1  
+Samar Island, 14.1, 14.2  
+Samarkand, 9.1, 11.1  
+Samkha, 6.1, 6.2  
+Samoa, 1.1, 1.2  
+Samos, 5.1, 8.1  
+Sam Poh Kong Temple  
+Samudra-Pasai, 13.1, 13.2, 15.1  
+Sandwich, England  
+San Francisco, itr.1, 15.1, 18.1, 18.2, 19.1, 19.2, 20.1  
+sangadam  
+Sanlúcar de Barrameda, 14.1, 14.2  
+Sanmen Rapids, 11.1, 11.2, 11.3  
+San Pablo  
+San Salvador, 14.1, 18.1n  
+Sanskrit, 6.1, 11.1, 13.1  
+Santa Catarina, 16.1, 16.2  
+Santa Cruz, Marquis of, 15.1, 15.2  
+Santa Cruz Islands, 1.1, 1.2  
+Santa María, 14.1, 14.2, nts.1n  
+Santángel, Luis de  
+Saô Jorge da Mina, 14.1, 14.2  
+São Miguel, battle of, 15.1, 15.2  
+Saône River  
+Sardinia, 3.1, 5.1, 5.2, 8.1, 8.2, 12.1, 12.2  
+Carthage and, 5.1, 5.2, 5.3  
+Phoenicians and, 4.1, 4.2  
+Sardis, 4.1, 4.2  
+Sargasso Sea, 14.1, 14.2, nts.1n  
+Sargon I, 3.1, 3.2, 3.3, 3.4, 4.1, 6.1, 10.1  
+Saronic Gulf, 4.1, 4.2  
+Sasanian Empire, 8.1, 10.1, 10.2, 10.3, 10.4  
+Byzantines and, 6.1, 7.1, 8.1, 8.2  
+Sataspes  
+Satavahana Dynasty, 6.1, 6.2  
+Savannah, 18.1, 19.1  
+Sava River  
+Saxons, 9.1, 9.2, 9.3, 9.4, 9.5, 12.1  
+Saxony, 9.1, 9.2, 12.1  
+Saymur  
+Scandinavia, 9.1, 12.1, 12.2, 16.1, 18.1  
+Christianity and, 9.1, 9.2  
+eastern expansion, 9.1, 9.2  
+seafaring in, itr.1, 9.1  
+ships of  
+trade of, 9.1, 9.2, 12.1  
+western expansion, 9.1, 9.2, 9.3, 16.1  
+Scandinavian Seven Years' War  
+Scheveningen, battle of  
+Schliemann, Heinrich  
+Scilly Islands, 14.1, 17.1  
+Scipio Aemilianus  
+Scipio Africanus, Publius Cornelius, 5.1, 5.2, 5.3n  
+Scotland, 9.1, 9.2, 9.3, 12.1, 15.1, nts.1n  
+trade of, 15.1, 16.1  
+Scott, Walter  
+Scott, Winfield  
+scurvy, 14.1, 17.1, 17.2, 17.3, 17.4  
+Scylax of Caryanda  
+Scylla  
+Scythians, 4.1, 4.2  
+seafaring, attitudes toward  
+Byzantine  
+Chinese, 11.1, 11.2, 11.3, 11.4, 13.1, 13.2  
+Greek, 4.1, 6.1, 8.1  
+Hindu  
+Indian  
+Italian, 8.1, 12.1  
+Portuguese  
+Roman, 5.1, 5.2  
+Sealand Dynasty  
+sea loan, 8.1, 12.1  
+Sea People, 3.1, 3.2, 3.3, 4.1, 9.1, 12.1  
+Seatrain Lines  
+Seawise Giant, 20.1, 20.2  
+Sebastian, King  
+Seeadler  
+Sefer Reis  
+Seignelay  
+Seine River, 9.1, 9.2, 9.3, 9.4, 9.5  
+Selden, John, 16.1, 16.2  
+Seleucids, 5.1, 5.2, 5.3, 6.1, 6.2  
+Seleucus I, 6.1, 6.2, 6.3  
+Seljuqs, 10.1, 12.1, 13.1, 15.1  
+and Byzantines, 12.1, 12.2, 12.3  
+see also Turks  
+senate (Rome), 5.1, 5.2  
+Seneca, 5.1, 6.1  
+Senegal  
+Senegal River  
+Seonbuseo  
+Seoul, 7.1, 15.1, 19.1  
+sepsis  
+Seram  
+Serçe Limani wreck, 8.1, 8.2, 8.3  
+Serrão, Francisco, 14.1, 14.2, 15.1  
+Sertorius  
+Sevastopol, 17.1, 19.1  
+Seven Cities, Island of the  
+Seven Years' War, 17.1, 17.2, 17.3, 17.4, 17.5  
+Severn River  
+Seville, 8.1, 9.1, 12.1, 14.1, 15.1, 16.1  
+as port, 8.1, 8.2, 8.3, 8.4, 12.1, 15.1  
+sewn boats, 1.1, 4.1  
+in Asia, 7.1, 11.1  
+(dis)advantages of, 2.1, 10.1, 13.1, nts.1n  
+in Indian Ocean, 2.1, 6.1, 6.2, nts.1n  
+materials used in, 1.1, 6.1  
+Sextus Pompey  
+shachuan  
+Shackleton, Ernest Henry  
+Shah Jahan  
+Shakespeare  
+Shandong Peninsula, 7.1, 7.2, 7.3, 7.4, 13.1, 19.1  
+Korean merchants on, 11.1, nts.1n  
+Shanga  
+Shanghai, 7.1, 18.1, 18.2  
+Shannon, HMS,  
+Shanxi Province, 7.1, 11.1  
+Shapur I  
+Shapur II  
+Shardana  
+Shatt al-Arab, 3.1, 6.1, 10.1, 10.2, nts.1n  
+Sheba, Queen of, 4.1, 6.1, 6.2  
+Shetland Islands, 9.1, 9.2, 9.3, 9.4, 9.5, nts.1n  
+shibosi, 11.1, 11.2, 13.1, 13.2  
+Shihr, 6.1, 10.1, 13.1, 13.2  
+Shihuangdi, 7.1, 7.2, 7.3  
+Shiites  
+Shi Lu  
+Shimabara rebellion  
+Shiman, Fan  
+Shimonoseki, Treaty of, 13.1, 19.1  
+shipboard conditions, 8.1, 13.1, 17.1  
+in coffin ships  
+crew, 14.1, 18.1  
+food and drink, 8.1, 17.1, 18.1  
+slaves and coolies, 18.1, 17.1  
+space, 8.1, 9.1, 12.1, 18.1  
+see also scurvy  
+shipbuilding, 1.1, 4.1, 5.1, 5.2, 7.1  
+African, 2.1, 2.2, 6.1, 6.2, 8.1, 14.1, 17.1  
+ancient Egyptian, 2.1, 2.2, 2.3, 3.1  
+in ancient Greece, 2.1, 4.1, 4.2, 4.3, 4.4, 4.5  
+Bronze Age, 3.1, 3.2, 3.3, nts.1n  
+East Asian, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 11.1, 13.1, 13.2, 13.3, 16.1  
+Indian Ocean trade and, 6.1, 6.2, 10.1, 10.2, 10.3, 10.4, 11.1, 13.1  
+medieval, 8.1, 8.2, 8.3, 8.4, 12.1, 12.2, 12.3, 12.4, 14.1  
+19th-century, 18.1, 18.2, 18.3, 19.1, 19.2, 19.3  
+Roman, 5.1, 5.2, 5.3, 5.4, 5.5  
+16th-18th-century, 15.1, 15.2, 15.3, 15.4, 16.1, 16.2, 17.1, 17.2, 17.3  
+Viking, 9.1, 9.2  
+in world wars, 19.1, 19.2  
+shipbuilding wood, 4.1, 4.2, 8.1  
+acacia, 2.1, 2.2, 8.1, nts.1n  
+cedar, 2.1, 2.2, 2.3, 2.4, 3.1, 4.1, 4.2, 4.3, 4.4, 7.1  
+coconut, 6.1, 10.1, 10.2, 11.1  
+fir, 4.1, 5.1, 13.1  
+oak, 4.1, 9.1, 9.2, 16.1, 19.1  
+pine, 3.1, 4.1, 4.2, 4.3, 5.1, 8.1, 13.1, 16.1, 19.1  
+teak, 10.1, 10.2  
+ship money  
+ship of state, 2.1, 2.2, nts.1n  
+"Ship or the Wishes, The" (Lucian of Samosata),  
+ship-soke  
+"Shipwrecked Sailor, The," 2.1, 6.1  
+shipwrecks, 6.1, 7.1, 10.1, 11.1, 19.1  
+officialdom and, 8.1, 11.1, 11.2, 18.1  
+Shiraz, 10.1, 10.2, 10.3  
+Shivaji  
+Shreve, Henry  
+Shu, kingdom of  
+Shu Han, state of  
+shuin  
+Siberia, 1.1, 1.2, 1.3, 17.1, 20.1  
+Russians in, itr.1, 15.1, 17.1  
+Sicilian Vespers, War of the, 12.1, 12.2, 12.3  
+Sicily, 3.1, 4.1, 9.1, 1.1, 13.1, 19.1  
+Byzantines and, 8.1, 8.2, 8.3, 8.4, 9.1  
+Carthage and, 5.1, 5.2, 5.3  
+grain trade, 4.1, 5.1, 5.2, 15.1  
+Greeks and, 4.1, 4.2, 4.3, 5.1  
+Muslim rule in, 8.1, 8.2, 8.3  
+Rome and, 5.1, 5.2, 5.3  
+Sicily, Norman Kingdom of, 12.1, 12.2, 12.3  
+Sicily, Strait of  
+Siddis  
+Sidon, 3.1, 4.1, 4.2, 4.3, 12.1  
+silk road, 6.1, 9.1, 10.1, 12.1, 13.1  
+China and, 7.1, 7.2, 10.1, 11.1, 11.2  
+silk road of the sea  
+Silla, 7.1, 7.2, 11.1, 11.2, 18.1n  
+silver, 7.1, 9.1, 12.1, 14.1  
+American, itr.1, 14.1, 15.1, 15.2, 15.3  
+ancient trade in, 2.1, 2.2, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1  
+Chinese and, 7.1, 13.1, 14.1, 15.1, 16.1  
+coins, 3.1, 6.1, 10.1n, 13.1, 16.1n  
+exported to Asia, 6.1, 7.1, 15.1, 16.1, 17.1, 17.2, 18.1  
+looted from ships, 15.1, 16.1, 16.2, 16.3  
+in medieval trade, 8.1, 9.1, 9.2, 12.1, 13.1  
+Sims, William S.  
+Sinai Peninsula, 1.1, 2.1, 6.1  
+Sinan (Shinan) wreck  
+Sinbad the Sailor  
+Sind, 10.1, 10.2, 15.1  
+Singapore, 7.1, 18.1, 18.2, 19.1  
+port of, 17.1, 18.1, 20.1, 20.2  
+Sinmu Wang  
+Sino-Japanese War, 19.1, 19.2  
+Sinop, 5.1, 12.1, 15.1, 15.2, 19.1  
+Siraf, 10.1, 10.2, 10.3, 10.4, 11.1, 13.1  
+Sirius, 18.1, 18.2, 18.3  
+Six-Day War  
+Sixteen Prefectures  
+Skagerrak, 9.1, 15.1  
+Skåne, 9.1, 9.2, 12.1  
+Skuldelev ships  
+slave trade, 10.1, 10.2, 17.1, 18.1, 20.1  
+in Americas, 16.1, 17.1, 18.1, 19.1  
+in antiquity, 4.1, 4.2, 5.1, 6.1  
+described, 8.1, 9.1, 17.1, 17.2, 17.3  
+East African, 1.1, 2.1, 6.1, 10.1, 16.1  
+European, 8.1, 9.1, 9.2, 12.1, 12.2  
+Mediterranean, 4.1, 6.1, 8.1, 15.1, nts.1n  
+Northeast Asian, 11.1, 11.2  
+pre-Columbian, 1.1, 14.1  
+transatlantic, itr.1, 14.1, 15.1, 16.1, 17.1, nts.1n  
+value of, 6.1n, 8.1, 10.1, nts.1n  
+West African, 14.1, 14.2, 15.1, 16.1  
+Slavs, 9.1, 9.2, 9.3  
+Slocum, Joshua  
+Sloo Line  
+Sluys, battle of, 12.1, 12.2, 12.3  
+Smith, Holland M.  
+Smith, John  
+Smith, William  
+Smith, William W.  
+Sneferu, 2.1, 2.2, 2.3, 3.1  
+societas maris  
+Society Islands, 1.1, 1.2, 1.3  
+socii navales  
+Socotra, 6.1, 10.1, 10.2, 15.1  
+Sofala, 10.1, 13.1  
+Sogdiana  
+Sohar  
+Sokullu Mehmed Pasha  
+SOLAS, 20.1, 20.2  
+Solomon  
+Solomon Islands, 1.1, 1.2  
+Somalia, 2.1, 6.1, 6.2, 10.1, 13.1, 20.1  
+Somnath  
+sonar, 17.1, 19.1, 19.2, 20.1  
+Song Dynasties, itr.1, 10.1, 10.2, 11.1, 11.2, 13.1, 13.2  
+Northern, 11.1n, 11.2, 11.3, 11.4, 11.5, 13.1  
+Southern, 11.1, 13.1, 13.2  
+Song Gaozong  
+Song History  
+Song Taizu  
+Sopatrus, 6.1, 6.2  
+Sostratus  
+Sound tolls  
+South Africa, 1.1, 14.1, 14.2, 17.1, 18.1, nts.1n  
+South America, 2.1, 14.1, 19.1, 19.2  
+pre-Columbian, 1.1, 1.2  
+Europe and, 14.1, 15.1, 15.2, 16.1, 18.1, 18.2  
+Southampton, 12.1, 12.2  
+South Carolina, 16.1, 19.1  
+South China Sea, 7.1, 7.2, 7.3, 7.4, 11.1  
+crossing of, 7.1, 7.2, 7.3, 10.1, 10.2  
+Southeast Asia, 1.1, 6.1, 10.1, 13.1, 16.1  
+Africa and, 6.1, nts.1n  
+Austronesian speakers in, 1.1, 7.1, 7.2  
+Buddhism in, 6.1, 7.1, 8.1, 10.1, 10.2, 13.1  
+China and, 7.1, 7.2, 7.3, 11.1, 11.2, 13.1, 13.2, 15.1  
+Chinese merchants in, 11.1, 11.2, 11.3, 13.1, 18.1  
+Chinese settlers in, 13.1, 13.2, 15.1, 17.1  
+Europeans in, 15.1, 16.1, 16.2, 16.3, 16.4, nts.1n  
+exports, 6.1, 6.2, 7.1, 7.2, 7.3, 10.1, 16.1  
+foreigners in, itr.1, 11.1, 13.1, 15.1, 15.2, nts.1n  
+geography of, 1.1, 6.1, 7.1  
+India and, 6.1, 10.1, 10.2  
+Indian Ocean and, 6.1, 6.2, 10.1, 10.2  
+Islam in, 10.1, 13.1, 15.1  
+Japanese in, 16.1, 19.1  
+money in, 13.1, 15.1n  
+Oceania settled from  
+ships of, 1.1, 6.1, 6.2, 7.1, 7.2, 10.1, 10.2, 11.1-itr.1  
+state formation in, 7.1, 10.1, 10.2, 11.1  
+trade missions from, 7.1, 7.2, 13.1  
+trade networks of, 7.1, 7.2, 7.3, 10.1, 13.1, 15.1  
+Southern Cross, 14.1, nts.1n  
+Southern Han kingdom  
+Southern Ming  
+Southern Song Dynasty, 11.1, 13.1, 13.2  
+South Georgia  
+South Magnetic Pole  
+South Sandwich Islands  
+Sovereign of the Seas, 16.1, 16.2, 18.1  
+Soviet Union, 19.1, 19.2, 20.1  
+Spain, 6.1, 8.1, 8.2, 9.1, 14.1  
+Americas and, itr.1, 14.1, 14.2, 15.1, 15.2, 15.3, 16.1, 16.2, 18.1  
+in antiquity, 4.1, 4.2, 4.3, 5.1  
+Carthage and, 5.1, 5.2, 6.1  
+duties in, 15.1, 15.2, 15.3, 16.1  
+exploration by, itr.1, 14.1, 14.2, 14.3, 14.4, 17.1  
+Muslims in, 8.1, 8.2, 12.1, 13.1  
+Netherlands and, 15.1, 15.2, 15.3, 16.1  
+in Philippines, 14.1, 16.1, 16.2, 17.1, 19.1  
+Portugal and, 14.1, 14.2, 14.3, 15.1, 15.2, 16.1  
+Reconquista of, 12.1, 12.2, 15.1  
+Romans in, 5.1, 5.2, 5.3  
+Vikings in, 9.1, 9.2  
+Spanish navy, 15.1, 16.1, 17.1, 19.1  
+Dutch Revolt and, 15.1, 16.1, 16.2  
+Spanish Armada, 15.1, 15.2, 15.3, 17.1  
+Spanish Netherlands, 15.1, 16.1, 16.2  
+Spanish Succession, War of the, 8.1, 12.1, 17.1  
+Sparta, Spartans, 4.1, 4.2, 4.3, 4.4, 5.1, 18.1  
+spar torpedo  
+Spice Islands, 6.1, 6.2, 10.1, 13.1, 15.1  
+Dutch in, 16.1, 16.2  
+Portuguese and, 14.1, 14.2, 15.1, 15.2, 16.1  
+spices, 12.1, 12.2, 14.1, 14.2  
+at Alexandria, 13.1, 15.1, 15.2, 15.3  
+in antiquity, 4.1, 4.2, 6.1, 6.2  
+Chinese and, 13.1, 14.1, 15.1  
+Dutch and, 15.1, 16.1, 16.2, 16.3, 16.4, 17.1  
+European demand for, itr.1, 6.1, 9.1, 12.1, 12.2, 13.1  
+in Indian Ocean, 12.1, 13.1, 13.2, 13.3, 15.1  
+Portuguese and, 15.1, 15.2, 15.3, 15.4  
+Venetians and, 14.1, 15.1, 15.2, 15.3, 16.1  
+Spieghel der Zeevaerdt (Waghenaer),  
+Spinola, Nicolozzo  
+sposalizio  
+spur, 7.1, 8.1, 8.2, 9.1  
+Sri Lanka, 10.1, 10.2, 10.3, 13.1, 15.1  
+Buddhism in, 6.1, 6.2, 7.1, 7.2, 8.1, 11.1  
+Chola invasions of, 6.1, 10.1  
+as destination, 10.1, 10.2, 10.3, 13.1, 18.1  
+exports, 6.1, 6.2, 6.3, 10.1, 10.2, 16.1  
+long-distance voyaging and, 6.1, 6.2, 6.3, 7.1, 10.1  
+Muslims in, 10.1, 15.1  
+shipbuilding in  
+traders in, 6.1, 11.1, 13.1  
+Zheng He in  
+Srivijaya, 10.1, 10.2, 10.3, 11.1, 13.1  
+trade of, 10.1, 10.2, 11.1  
+Stag Hound  
+Stalin, Joseph  
+Stamford Bridge, battle of  
+Staraya Ladoga, 9.1, 9.2, nts.1n  
+Starigard, 9.1, 12.1  
+Stark, Harold N.  
+States-General, 16.1, 16.2, 16.3  
+steam(ships), 1.1, 6.1, 18.1, 18.2, 18.3, 20.1  
+costs of, 18.1, 18.2  
+development of, 18.1, 18.2, 19.1, 20.1  
+and navies, 19.1, 19.2, 19.3, 19.4, 20.1  
+and navigation laws, 3.1, 18.1  
+on oceans, 18.1, 18.2, 18.3, 18.4  
+on rivers, itr.1, 18.1, 18.2, 18.3  
+Steamboat  
+Steamboat Inspection Service, U.S.  
+Steam-Lanes Across the Atlantic (Maury),  
+Steelyard  
+Stettinus, Edward R.  
+Stockholm  
+Stora Kravelen  
+Store Belt  
+Strabo, 4.1, 6.1, 6.2  
+Stralsund, Treaty of  
+Strange Things of the South (Wan),  
+strategos  
+Strozzi, Philippe  
+submarines, 19.1, 19.2, 19.3, 19.4, 20.1  
+in World War I, 19.1, 19.2, 19.3  
+in World War II, 19.1, 19.2  
+Sudan, 2.1, 2.2, 4.1  
+Suez, itr.1, 6.1, 10.1, 13.1, 17.1, 18.1  
+naval bases at, 15.1, 15.2  
+Suez, Gulf of, 6.1, 6.2, 8.1  
+Suez, Isthmus of, 6.1, 15.1  
+Suez Canal Convention  
+Suffren, Bailli de, Pierre André  
+Sufi  
+Suhar, 10.1, 10.2, 16.1  
+Sui Dynasty, 7.1, 7.2, 11.1  
+Sui Gaozu, 7.1, 7.2  
+Sui Yangdi, 7.1, 7.2  
+Sujin Tenno  
+Sukhataradvipa  
+Sulawesi, 13.1, 16.1, 17.1  
+Suleiman the Magnificent, 15.1, 15.2, 15.3  
+Sulla, 5.1, 5.2  
+Sultan ibn Saif I  
+S¸uluç Mehmed Pasha  
+Sumatra, 7.1, 10.1, 13.1, 13.2, 15.1, 17.1  
+Chinese trade and, 11.1, 13.1, 13.2, 13.3  
+geography of  
+Srivijaya and, 10.1, nts.1n  
+trade of, 7.1, 11.1, 13.1, 15.1, 16.1, 17.1  
+Sumer, 3.1, 3.2, 4.1, 7.1  
+sumptuary laws, 2.1, 6.1, 13.1  
+Sunda, 1.1, 10.1  
+Sundaland  
+Sunnis  
+Sun Quan Liu  
+sunstone  
+Suppiluliumas II  
+Sur  
+Surabaya, 10.1, 13.1  
+Surat, 10.1, 15.1, 16.1  
+Suriname, 16.1, 16.2  
+Survival of the Bark Canoe (McPhee),  
+Susa, 4.1, 6.1, 6.2, 8.1  
+Sussex, 9.1, 9.2  
+Sutkagen Dor  
+Sutter's Mill  
+Sutton Hoo, 9.1, 9.2  
+Suvarnabhumi, 6.1, 6.2, 6.3  
+Suvarnadvipa, 6.1, 6.2  
+Svein III, 9.1, 9.2  
+Svein Forkbeard, 9.1, 9.2  
+Sviatoi Gavril  
+Svold, battle of, 9.1, 9.2, 9.3  
+Swahili, 6.1, 10.1  
+Swaley  
+Sweden, 9.1, 9.2, 9.3, 16.1, 17.1, 18.1  
+Denmark and, 9.1, 12.1, 15.1  
+emigration from, 16.1, 16.2n  
+navy of, 15.1, 17.1  
+in Viking age, 9.1, 9.2, 9.3  
+Switzerland, 9.1, 18.1  
+syahbandar  
+Sydney, itr.1, 17.1, 17.2  
+Sygnman Rhee  
+Syracuse, 4.1, 4.2, 5.1, 5.2, 5.3, 5.4, 8.1, 9.1  
+Syracusia  
+Syr Darya  
+Syria, 4.1, 8.1, 8.2, 12.1, 12.2, 12.3, 12.4  
+in antiquity, 2.1, 3.1, 4.1, 5.1, 5.2  
+Byzantines in, 8.1, 8.2  
+Islam in, 8.1, 8.2, 10.1  
+overland trade of, 2.1, 6.1, 10.1  
+Syro-Canaanites, 2.1, 2.2  
+Szczecin  
+Tacitus, 9.1, 9.2  
+Taejo, King  
+Tagus River  
+Tahiti, 1.1, 1.2, 17.1, 18.1, 18.2, 18.3  
+taifas, 8.1, 12.1  
+Tai languages  
+Taíno culture  
+Taiping Rebellion  
+Taira clan  
+Taitao Peninsula  
+Taiwan, 1.1, 1.2, 7.1, 16.1, 19.1, 19.2  
+Taizu, 13.1, 13.2  
+Tajir, Sulayman al-, 10.1, 10.2  
+Takezaki Suenaga  
+Taktika (Leo VI),  
+Takuapa, 10.1, 10.2n, nts.1n  
+Talas River, battle of the, 10.1, 11.1  
+Tales of the Heike, The  
+Tambralinga, 10.1, 10.2  
+Tamil literature  
+Tamil Nadu, 6.1, 6.2, 7.1, 10.1, 13.1  
+Tamralipti, 6.1, 10.1  
+Tana, 12.1, 12.2, 12.3  
+Tang Cargo  
+Tang Dynasty, 7.1, 7.2, 11.1, 11.2, 11.3  
+canals of, 7.1, 11.1, 11.2  
+Central Asia and, 11.1, 11.2, 11.3  
+Japan and, 11.1, 11.2, 11.3  
+Korea and, 11.1, 11.2  
+piracy in, 11.1, 11.2  
+ships of, 7.1, 11.1  
+trade in, 7.1, 11.1, 11.2, 11.3, 11.4  
+Tang Gaozong, 11.1, 11.2, 11.3  
+Tang Gaozu, 7.1, 7.2, 11.1, 11.2  
+Tang Taizong, 11.1, 11.2, 11.3  
+Tang Wuzong, 11.1, 11.2, 11.3  
+Tang Xizong  
+Tang Xuanzong, 11.1, 11.2, 11.3  
+Tangier, 4.1, 8.1, 12.1, 13.1, 14.1  
+Tanis  
+tankers, 18.1, 19.1, 19.2, 20.1, 20.2, 20.3  
+Tanzania, 6.1, 7.1, 10.1  
+Taormina, Sicily  
+Taphians  
+Tapti River  
+tar, 1.1, 3.1, 8.1, 15.1, 17.1  
+Taraka, 10.1, 10.2  
+Taranto, 4.1, 5.1, 19.1  
+Taranto, Gulf of  
+Tarentum, 5.1, 5.2  
+tarette  
+Tariq ibn Ziyad, 8.1, 8.2, 10.1  
+Tarragona, 8.1, 9.1  
+Tarshish  
+Tarsus, 8.1, 8.2  
+Tashkent  
+Tasman, Abel Jansen  
+Tasmania, 1.1, 1.2, 17.1, 17.2, 18.1  
+Tatars  
+taxation, itr.1, itr.2, 5.1, 7.1, 16.1  
+in Asia, 7.1, 10.1, 13.1, 13.2, 13.3, 15.1  
+Byzantine, 8.1, 8.2  
+Chinese, 7.1, 11.1, 11.2, 11.3, 13.1, 13.2, 15.1  
+in Europe, 9.1, 12.1, 14.1, 15.1  
+see also duties and tariffs  
+Taylor, David  
+tea trade, 11.1, 17.1, 17.2, 18.1  
+Chinese, 17.1, 17.2, 17.3, 18.1  
+telegraph, 9.1, 18.1, 18.2, 18.3  
+Temple, William  
+Temüjin  
+Tenasserim/Mergui  
+Tennessee River, 1.1, 19.1  
+teredo worm, 3.1, 9.1  
+Ternate, 10.1, 15.1, 15.2  
+Terra Australis, 14.1, 15.1, 17.1, 17.2  
+terra nullius  
+Terror  
+tetrereis  
+TEU  
+Teutonic Knights of Prussia  
+Texas, Republic of, 18.1, 19.1, 19.2, 20.1  
+Thaikkal-Kadakkarappally boat  
+Thailand, 7.1, 7.2, 10.1n, 13.1, 16.1  
+state formation in, 7.1, 13.1, 17.1  
+Thailand, Gulf of, 7.1, 7.2  
+thalamians, 4.1, 5.1  
+Thames River, 15.1, 17.1, 17.2, 18.1, 19.1  
+as destination, 9.1, 9.2  
+Vikings on  
+Thasos, 4.1, 4.2  
+Thebes, Greece  
+Thebes (Luxor), 2.1, 2.2, 2.3, 3.1  
+temple at, 2.1, 2.2, 2.3, 3.1, 3.2  
+Themistocles, 4.1, 4.2, 4.3, 5.1, 5.2, 19.1  
+Theodore Lascaris, 12.1, 12.2  
+Theodosia (Feodosiya), 4.1, 12.1  
+Theophilus  
+Thera, 2.1, 3.1, 3.2, 4.1  
+Thermopylae, 4.1, 5.1  
+Thessaloniki, 8.1, 8.2  
+Thirty Years' War  
+Thomas the Apostle, St.  
+Thompson, Nainoa  
+Thorfinn Karlsefni  
+Thorvaldsson, Eirik "the Red,"  
+Thrace, 4.1, 4.2, 4.3, 5.1, 12.1  
+Three Gorges, 7.1, 7.2, 11.1  
+Thucydides, 4.1, 4.2, 4.3  
+on piracy, 3.1, 4.1, 4.2, 5.1, 6.1  
+Thule tradition  
+Thursday's Child  
+Thutmose II  
+Thutmose III, 2.1, 2.2  
+Tianjin, 7.1, 13.1, 19.1  
+Tiaozhi, 6.1, 7.1  
+Tiberius, 6.1, 7.1  
+Tiber River, 5.1, 5.2  
+Tibet, 10.1, 11.1, 11.2, 11.3  
+Tidore, 10.1, 14.1, 15.1  
+Tierra del Fuego, 1.1, 14.1  
+Tierra Firme  
+Tigris River, 3.1, 14.1, nts.1n  
+cities on, 4.1, 8.1, 10.1  
+geography and navigation on, 3.1, 10.1  
+Tilakamanjari (Dhanapala), 10.1, 10.2  
+Tirpitz, Alfred von, 19.1, 19.2, 19.3  
+Tisquantum (Squanto)  
+Titanic, 18.1, 20.1  
+Titicaca, Lake, 1.1, 2.1  
+Titus Quinctius Flamininus  
+Tjekerbaal  
+Togo, Heihachiro  
+Tokugawa Iemitsu  
+Tokugawa Ieyasu  
+Tokyo, 13.1, 18.1  
+Toledo, Spain, 8.1, 8.2, 12.1  
+Tomb of the Ship  
+tomol  
+Tonga, 1.1, 1.2, 1.3, 17.1, 17.2  
+Tonkin, Gulf of, 7.1, 7.2, 11.1  
+tonnage, 15.1, 17.1, 18.1, 19.1  
+of British shipping, 18.1, 18.2, 18.3, 18.4  
+definitions, 12.1, 19.1n, nts.1n  
+Tordesillas, Treaty of, 14.1, 14.2, 15.1, 15.2, 16.1  
+torpedoes, 19.1, 19.2, 19.3, 19.4, 19.5  
+Torres, Luis Baéz den  
+Torrey Canyon  
+Tortosa, 8.1, 12.1  
+Toscanelli, Paolo dal Pozzo  
+Toulon, 17.1, 17.2  
+Toyotomi Hideyoshi  
+Trabzon, 8.1, 12.1, 12.2, 12.3  
+Trafalgar, battle of  
+Transoxiana  
+Transportation Act  
+Trans-Siberian Railway  
+trapyaka  
+Travels, The (Polo),  
+Trave River, 12.1, 12.2  
+Treatise Concerning the Leasing of Ships (Muhammad ibn Umar), 8.1,  
+8.2, 8.3, 13.1  
+Treatise on the Astrolabe (Chaucer),  
+Trebizond, Empire of, 12.1, 15.1  
+triaconters, 4.1, 8.1  
+triemiolia  
+trieres  
+Trinidad  
+Tripoli, Lebanon, 2.1, 8.1, 8.2  
+Tripoli, Libya, 12.1, 15.1  
+triremes, 5.1, 5.2, 6.1, 15.1  
+Greeks and, 4.1, 4.2, 4.3, 7.1, nts.1n  
+Romans and, 5.1, 5.2, 6.1, 6.2, 8.1  
+Tristão, Nuno  
+Triton, USS,  
+Trojan War, 3.1, 4.1  
+Troy, 3.1, 4.1, 5.1, nts.1n  
+Troy, USS, 18.1  
+Tromp, Maarten Harpertszoon, 16.1, 16.2  
+Trung sisters  
+Truso, 9.1, 9.2  
+Tsushima, 11.1, 11.2, 13.1, 16.1  
+battle of  
+Tulla, Johann Gottfried  
+Tulunids  
+Tunis, 4.1, 8.1, 12.1, 15.1, 15.2  
+founding of, 8.1, 8.2  
+trade of, 12.1, 13.1  
+Tunis, Gulf of, 4.1, 5.1  
+Tunisia, 4.1, 8.1n, 13.1  
+Tupia  
+Turbinia  
+Turkey, 4.1, 7.1, 8.1, 16.1  
+archaeological sites in, 8.1, 9.1  
+battles in, 8.1, 12.1, 17.1, 19.1  
+Trojan war fought in, 3.1, 4.1  
+see also Asia Minor  
+Turks, 11.1, 12.1, 17.1  
+Eastern/Western, 11.1, 11.2  
+Ottoman, 15.1, 15.2, 15.3  
+Seljuq, 12.1, 15.1  
+traders, 12.1, 17.1  
+Turtle  
+turtle ship  
+Twelve Years' Truce  
+Two-Ocean Navy Act  
+Tyre, 4.1, 4.2, 4.3, 4.4  
+Tyrrhenian Sea, 5.1, 5.2, 12.1, 14.1  
+U-110  
+U-boats, 18.1, 19.1, 19.2, 19.3, 19.4, 19.5  
+Ubulla, 10.1, 10.2, 10.3  
+Ugarit, 2.1, 3.1, 3.2, 3.3  
+Ukraine, 4.1, 9.1, 12.1, 17.1  
+Ultima Thule, 9.1, 9.2  
+Uluburun wreck, 3.1, 9.1  
+Uluç Ali  
+Umayyad Caliphate, 8.1, 8.2, 8.3, 8.4, 10.1  
+Umayyad Emirate of Córdoba, 8.1, 8.2, 8.3  
+fleet of, 8.1, 9.1  
+umiaks, 1.1, 1.2, 1.3  
+Unas, 2.1, 2.2  
+Undang-undang Laut Melaka  
+Uni  
+Union, Act of (1707)  
+United Nations  
+United States, 16.1, 17.1, 18.1, 18.2, 18.3  
+Caribbean and, 18.1, 19.1, 19.2, 19.3  
+fisheries, 20.1, 20.2  
+geography of, 1.1, 18.1  
+immigration to, 18.1, 18.2  
+inland navigation of, 18.1, 18.2  
+Japan and, 17.1, 18.1, 19.1, 19.2  
+oil trade and, 18.1, 20.1  
+overseas trade, 17.1, 18.1, 18.2, 20.1  
+ports of, 17.1, 18.1, 18.2, 18.3, 19.1, 19.2, 20.1, 20.2  
+privateering and  
+Russia and, 17.1, 19.1, 19.2, 19.3, 20.1  
+shipbuilding in, 18.1, 19.1, 19.2, 20.1  
+shipping subsidies  
+slave trade and, 17.1, 17.2, 18.1  
+westward expansion of, itr.1, 18.1, 18.2  
+United States Lines  
+U.S. Army Corps of Engineers  
+U.S. Congress, 17.1, 18.1, 18.2, 19.1  
+U.S. Navy, 18.1, 18.2, 19.1, 19.2, 20.1  
+and Civil War, 19.1, 19.2  
+in interwar period, 19.1, 3.1  
+pre-World War I  
+since World War II  
+and world wars, 18.1, 19.1, 19.2, 19.3  
+Ur, 3.1, 3.2, 4.1  
+Urban II  
+Urdaneta, Andrés de, 14.1, 14.2  
+Uruthirankannanar  
+Ushant (Ile d'Ouessant)  
+Uthman, Caliph, 8.1, 8.2, 10.1  
+Utica  
+Utnapishtim  
+Utrecht, Treaty of, 9.1, 9.2, 12.1  
+Uzbekistan, 7.1, 10.1  
+Vajrabodhi, 10.1, 11.1  
+Valdemar I, "the Great,"  
+Valparaíso, 15.1, 15.2  
+Vancouver, George  
+Vancouver Island, 1.1, 17.1, 17.2, 17.3  
+Vandals, 8.1, 8.2  
+Van Don  
+Van Heemskerck, Jacob, 16.1, 16.2, 16.3  
+Van Linschoten, Jan Huygen, 16.1, 16.2, 16.3  
+van Neck, Jacob  
+Vanuatu, 1.1, 17.1  
+Varangian Guard, 9.1, 9.2  
+Varangian Rus, 8.1, 9.1, 9.2, 9.3, 9.4  
+Varuna  
+Vaterland  
+Vedas  
+Venables, Robert  
+Veneti, 9.1, 9.2  
+Venezuela, 1.1, 1.2, 14.1, 16.1  
+Venice, 12.1, 14.1, 15.1  
+Adriatic Sea and, 8.1, 8.2, 12.1, 12.2, 14.1  
+Alexandria and, 8.1, 15.1, 15.2, 15.3  
+Black Sea and, 12.1, 12.2, 12.3, 12.4  
+Byzantines and, 8.1, 8.2, 8.3, 12.1, 12.2  
+Crusades and, 12.1, 12.2  
+embrace of seafaring in, 8.1, 12.1, 14.1  
+northern Europe and, 12.1, 12.2, 12.3, 12.4, 14.1  
+Ottomans and, 15.1, 15.2, 15.3  
+ships of, 12.1, 12.2, 15.1, 15.2, 17.1  
+trade of, 8.1, 12.1, 12.2, 14.1, 15.1, 15.2, 15.3  
+Venier, Sebastiano  
+Veracruz, 15.1, 15.2  
+Verenigde Oostindische Compagnie, see VOC  
+Verga, Cape, 14.1, nts.1n  
+Vernon, Edward  
+Verrazano, Giovanni da  
+Versailles, Treaty of  
+Vespucci, Amerigo  
+Vespucci, Juan  
+Vesta  
+Vicksburg  
+Victoria  
+Victory, HMS, 16.1, 17.1  
+Vietnam, 7.1, 7.2, 11.1, 16.1  
+Annam, 10.1, 11.1, 11.2, 11.3, 11.4, 11.5  
+China and, 7.1, 11.1, 11.2, 11.3, 13.1  
+Dai Viet, 11.1, 11.2, 13.1, 13.2, 13.3  
+ships in, 7.1, nts.1n  
+trade of, 7.1, 7.2, 7.3, 10.1, 11.1  
+Vietnam War  
+Vigla  
+Vijayabahu I  
+Vijayanagar, 15.1, 15.2  
+Vikings, itr.1, itr.2, 9.1, 9.2, 16.1  
+in Iberia, 8.1, 9.1  
+in Iceland, 9.1, 9.2  
+in North America  
+in Russia, 9.1, 9.2  
+ships of, 9.1, 9.2  
+in western Europe, 9.1, 9.2, 9.3, 9.4, 9.5  
+Villani, Giovanni  
+Villeneuve, Pierre, 17.1, 19.1  
+Villiers, Alan, 6.1, 13.1, nts.1n  
+Vincent of Beauvais  
+Vinland  
+Vinson, Carl  
+Virgil, 5.1, 5.2  
+Virginia, 17.1, 17.2, 18.1, 19.1  
+English in, 15.1, 16.1  
+Virginia, CSS,  
+Virginia Company  
+Visigothic Kingdom of Toulouse, 8.1, 9.1  
+Visigoths  
+Vistula River, 9.1, 9.2, 9.3, 9.4, 12.1, 17.1  
+Vitalienbrüder  
+Vivaldi brothers, 12.1, 14.1  
+Vladimir  
+Vladivostok, 11.1, 19.1, 19.2, nts.1n  
+VOC (Verenigde Oostindische Compagnie), 15.1, 16.1, 16.2, 17.1,  
+17.2, nts.1n  
+in Asia, 16.1, 16.2, 17.1  
+exploration and, 16.1, 17.1  
+origin of, 15.1, 16.1  
+and Portuguese, 16.1, 16.2, 16.3  
+Volga River, 4.1, 9.1, 9.2, 15.1, 15.2, 18.1  
+Volkhov River  
+Voltairen  
+Voyage in the "Sunbeam" (Brassey),  
+Waal River, 9.1, 9.2  
+Wadi Hammamat, 2.1, 2.2  
+wadis, 2.1, 6.1  
+Waghenaer, Lucas Janszoon  
+Wake Island, 19.1, 19.2  
+wako, nts.1n  
+Waldseemüller, Martin  
+Wallis, Samuel, 17.1, 17.2  
+Wando Island  
+Wang Dayuan  
+Wang Geon, 11.1, 11.2  
+Wang Yenpin  
+Warner of Rouen  
+War of 1812  
+War Plan Orange  
+Warrior (freighter),  
+Warrior, HMS, 19.1, nts.1n  
+Washington  
+Washington, George  
+Washington, D.C., 18.1, 19.1  
+Washington State, 1.1, 1.2  
+Washington, Treaty of (1871)  
+Washington Naval Treaty (1922), 19.1, 19.2  
+Watson, Jessica  
+Watt, James  
+Weihai  
+Wei River, 7.1, 11.1  
+Welser family  
+Wenamun  
+Wends, 12.1, 12.2  
+Wenzhou, 13.1, 13.2  
+Weser River, 9.1, 12.1  
+Wessex, 9.1, 9.2, 9.3, 9.4, 9.5  
+West Africa, 4.1, 12.1, 14.1, 16.1, 17.1, 20.1  
+Portuguese in, 14.1, 15.1, 16.1  
+slave trade, 14.1, 15.1  
+Western Dvina River, 9.1, 12.1, 15.1  
+Western Jin  
+West Indies, 16.1, 17.1  
+English in, 16.1, 17.1, 17.2, 18.1  
+whaling, 4.1, 9.1, 9.2, 10.1, nts.1n  
+in 19th-20th centuries, 18.1, 18.2, 18.3  
+Pacific Northwest and Alaska, 1.1, 1.2  
+Whitehall, Treaty of  
+Whitehead, Robert  
+White Sea, 15.1, 15.2, 17.1  
+White Star Line  
+Whitman, Walt, 18.1, nts.1n  
+wic  
+Wilhelm II, 18.1, 18.2, 18.3  
+William I, 9.1, 9.2, 12.1  
+William III  
+Willibrord  
+Wilson, Woodrow  
+Wiman  
+Wind and Current Charts (Maury), 18.1, 18.2  
+Windward Islandsn  
+wine trade, 3.1, 4.1, 8.1, 12.1, 17.1, 20.1  
+in antiquity, 2.1, 4.1, 4.2, 5.1  
+European, 8.1, 8.2, 12.1, 15.1, 15.2  
+French, 9.1, 9.2, 9.3, 12.1, 16.1  
+Roman, 5.1, 6.1, 9.1  
+Winter, John, 15.1, 15.2  
+Witte Leeuw  
+wokou  
+Wolf  
+Wolin, 9.1, 12.1  
+Wolof kingdom  
+World War I, 19.1, 19.2, 19.3, 19.4, 19.5  
+coal-fired ships in, 18.1, 18.2  
+World War II, 18.1, 19.1, 19.2, 19.3, 19.4, 20.1  
+Wright, Edward  
+Wright brothers  
+Wu, kingdom of, 7.1, 7.2, 7.3, 7.4  
+Wulfstan, 9.1, 9.2  
+Xavier, Saint Francis  
+Xenophon  
+Xerxes, 4.1, 4.2, 4.3, 5.1  
+Xiamen  
+see also Amoy  
+Xin Los Angeles  
+Xiongnu, 7.1, 7.2  
+Xi River, n  
+Xi Xia, 11.1, 13.1, 13.2  
+Xuanzang, 10.1, nts.1n  
+yachting, 18.1, 18.2, 18.3  
+Yalta Conference, 19.1, 19.2  
+Yalu, battle of the  
+Yalu River, 7.1, 7.2, 11.1, 19.1  
+Yamamoto, Isoroku  
+Yamato  
+Yamato Japan, 7.1, 7.2, 11.1, 11.2  
+Yangzhou, 7.1, 7.2, 11.1, 11.2, 11.3  
+Yangzi River, 11.1, 11.2, 11.3, 13.1  
+as boundary, 7.1, 7.2, 7.3, 11.1, 11.2  
+canals and, 7.1, 7.2, 11.1  
+fighting on, 7.1, 7.2, 7.3, 13.1, 16.1  
+geography of, 7.1, 13.1  
+vessels of, 7.1, 7.2, 7.3, 11.1, 13.1  
+Yaqubi, al-  
+Yarmouth  
+Yarmuk River, battle of the  
+Yaroslav the Wise, 9.1, 9.2  
+Yarubid Imamate  
+Yassi Ada wrecks, 8.1, 8.2, 9.1  
+Yavanas, 6.1, 10.1  
+Yayoi  
+Yellow River, 11.1, 13.1, 13.2, 13.3  
+canals and, 7.1, 7.2, 11.1, 11.2  
+cities and, 7.1, 11.1, 11.2, 11.3  
+geography of, 7.1, 7.2, 13.1  
+Yellow Sea, 7.1, 7.2, 11.1  
+naval campaigns on, 11.1, 11.2, 15.1, 19.1  
+Yemen, 6.1, 6.2, 8.1, 10.1, 13.1, 15.1  
+Byzantines and, 6.1, 10.1  
+exports from, 4.1, 6.1  
+traders in, 2.1, 4.1, 10.1, 10.2, 13.1, 13.2  
+Yepodi  
+Yermak  
+Yijing, 10.1, 10.2, 11.1  
+Yi Sun-sin, 15.1, 15.2  
+York, 9.1, 9.2, 9.3, 9.4, 9.5  
+York, Duke of, 16.1, 16.2  
+Yourkevitch, Vladimir  
+Yuan Dynasty, 13.1, 13.2  
+Yucatán, 1.1, 1.2, 19.1  
+Yue, 7.1, 7.2, 7.3, 7.4, 7.5, 11.1  
+Yukon River  
+Yuktikalpataru (Bhoja), 10.1, 11.1  
+yulohs, 7.1, 11.1  
+Yunnan Plateau, 7.1, 7.2, 7.3, 7.4, 11.1  
+Yuwen Kai  
+Zabaj, 10.1, 10.2, 10.3, nts.1n  
+Zagros Mountains, 3.1, 3.2, 6.1  
+Zaire (Congo) River  
+Zaiton, 13.1, 13.2, nts.1n  
+Zama, battle of  
+Zanj, 10.1, 10.2, 13.1  
+Zanzibar, 6.1, 10.1, 13.1, 16.1, nts.1  
+Zaragoza, Treaty of  
+Zarathustra  
+zaws  
+Zea, 4.1, nts.1n  
+Zeelandia Castle  
+zeugite  
+Zhang Xuan  
+Zhao Rugua, 10.1n, 13.1, 13.2, 13.3, 13.4  
+Zhejiang, 7.1, 11.1, 11.2, 11.3, 15.1  
+unrest in, 11.1, 13.1, 16.1  
+Zheng Chenggong (Koxinga), 16.1, 16.2  
+Zheng He, 13.1, 13.2, 13.3, 15.1  
+Zheng Zhilong  
+Zhu Jing  
+Zhu Wan  
+Zhu Ying  
+Zhu Yu, 13.1, 14.1  
+Zhu Yuanzhang  
+Zimba  
+Zirids  
+Zoroaster  
+Zoroaster  
+Zoroastrians, 10.1, 11.1  
+Zurayid emirs  
+Zwin River  
+zygians  
+A NOTE ABOUT THE AUTHOR  
+Lincoln Paine is the author of four books and more than fifty articles,  
+reviews, and lectures on various aspects of maritime history. He lives in  
+Portland, Maine, with his wife, Allison.  
+For more information, please visit www.aaknopf.com  
+ALSO BY LINCOLN PAINE  
+Ships of the World: An Historical Encyclopedia  
+Ships of Discovery and Exploration  
+Warships of the World to 1900  
+Down East: A Maritime History of Maine  
+1. An Egyptian faience plate decorated with a papyrus raft being poled on the Nile. The  
+longitudinal papyrus bundles are held together by lashings. Dating from 1400-1200 bce, this  
+plate was found in a tomb at Enkomi, on Famagusta Bay in eastern Cyprus, which testifies to  
+the interconnectedness of the eastern Mediterranean more than three thousand years ago.  
+Courtesy of the British Museum, London.  
+2. A detail from a Late Minoan (thirteenth-century bce) mural in the West House at Akrotiri on  
+the island of Thera (Santorini) in the Cyclades. The ships, their crews, and the dolphins  
+cavorting around them are rendered in an animated style quite unlike anything in art of the  
+same period from Egypt or the Near East. Photograph by Erich Lessing; courtesy of the  
+National Archaeological Museum, Athens, Greece/Art Resource, New York.  
+3. A black-figure kylix (wine cup) illustrated with a pirate's bireme bearing down on a sailing  
+merchantman under shortened sail. This was made at Athens in the last quarter of the sixth  
+century bce, just before the Persian Wars that would catapult Athens to the forefront of the  
+Greek city-states. Courtesy of the Trustees of the British Museum, London.  
+4. An artist's conception of the port of Carthage showing the outer commercial harbor and the  
+inner naval harbor, within which there was "an island, and great quays were set at intervals  
+round both the harbour and the island. These embankments were full of shipyards which had  
+capacity for 220 vessels." Courtesy of DeA Picture Library/Art Resource, New York.  
+5. The three-masted merchant ship depicted in the landlocked temple complex of Ajanta,  
+India. In addition to its three tall sails, the ship sets a square spritsail from a yard over the bow,  
+which is adorned with an oculus, or eye, to help the ship see danger. A steering oar is clearly  
+visible on the port quarter, while a number of jars, possibly for drinking water, can be seen  
+beneath a shelter on deck. Marine Archaeology Centre, National Institute of Oceanography,  
+Goa.  
+6. A sixth-century Byzantine mosaic shows a fisherman hauling a net while his mate steers  
+their small boat, probably a reference to the calling of Saint Peter and Saint Andrew (Matthew  
+4:18). The mosaic is in the Basilica di Sant'Apollinare Nuovo in Ravenna. The Adriatic port  
+was the site of a Roman naval base under Augustus, and capital of the Western Roman Empire  
+(402-476) and of the Ostrogoths (until 554) before it became the capital of Byzantine Italy.  
+Courtesy of Art Resource, New York.  
+7. A Byzantine imperial dromon fitted with Greek fire, a medieval flamethrower, attacking a  
+ship in the fleet of the rebel Thomas the Slav in 821. Greek fire was developed in the seventh  
+century by a Syrian Byzantine refugee from the Arab conquest. Despite dire threats of eternal  
+damnation and more temporal punishments, knowledge of how to make it soon spread to  
+navies across the Mediterranean. This illustration is from a twelfth-century Sicilian manuscript  
+of John Skylitzes's eleventh-century Synopsis Historion (vitr. 26-2, fol. 34v). Courtesy of the  
+Biblioteca Nacional, Madrid/Art Resource, New York.  
+8. The first-century BCE gold Broighter boat, named for the town in County Derry, northern  
+Ireland, where it was found in 1895. Part of a votive deposit to the sea god Manannán Mac Lir,  
+this is probably a model of an oceangoing vessel, of wood rather than hide-covered, complete  
+with seats, oars, rowlocks, steering oar, and mast. The twenty-centimeter-long model probably  
+represents a vessel twelve to fifteen meters long. Courtesy of the National Museum of Ireland,  
+Dublin.  
+9. Shipbuilding scene from the Bayeux Tapestry, which recounts the story of William, duke of  
+Normandy's campaign to take the English throne in 1066. To the left, a man is shaping a plank  
+with a side axe. In the center, the master shipwright is checking the lines of the hull of the  
+upper ship by eye while someone else finishes the planks of the completed hull, and a third  
+man bends over a breast augur. Two men are applying the finishing touches to the hull below,  
+one with an axe or adze, and the other with a drill. To the right are five complete hulls being  
+drawn to the water's edge, as we know from the caption in the following panel: "Hic trahunt  
+naves ad mare" (Here they drag the ships to the sea). Courtesy of the Musée de la Tapisserie  
+de Bayeux, France.  
+10. A ship crossing the Persian Gulf, from Yahya Ben Mahmoud al-Wasiti's thirteenth-century  
+manuscript of the Maqamat (Assemblies, or Entertaining Dialogues), by al-Hariri of Basra  
+(1054-1122). Although the stylized rig is difficult to interpret, the ship apparently has three  
+decks and a fluked anchor hangs from a projection from the bow. The image is best known for  
+al-Wasiti's depiction of a centerline rudder, the first known from the Indian Ocean region and  
+roughly contemporary with the oldest depiction of a rudder from Europe. Photograph by  
+Gerard Le Gall; courtesy of the Bibliothèque Nationale de France, Paris/Art Resource, New  
+York.  
+11. A passenger-carrying junk at Kaifeng, China, one of some twenty-eight vessels depicted in  
+Zhang Zheduan's 5.25-meter-long scroll painting Qingming Shanghe Tu (Along the River  
+During the Qingming Festival) of about 1125. The boat is being pulled by five trackers (out of  
+frame to the left). The bipod mast is supported by numerous stays, and the massive centerline  
+rudder is readily visible. (Scrollable versions of the Qingming Shanghe Tu are available  
+online.) Courtesy of the Palace Museum, Beijing.  
+12. A Venetian great galley from a fifteenth-century shipbuilding treatise by Michael of  
+Rhodes. Great galleys helped open regular commercial sea trade between Genoa and Venice  
+and the markets of Flanders in northwest Europe. Although they originated as oared warships,  
+their primary means of propulsion was a massive lateen sail, and oars were reserved for  
+auxiliary propulsion. Courtesy of David McGee, ed., The Book of Michael of Rhodes. Vol. 1,  
+Facsimile: A Fifteenth-Century Maritime Manuscript, image from page 236. © 2009  
+Massachusetts Institute of Technology, by permission of MIT Press.  
+13. The Doge of Venice Departing for the Lido in the Bucintoro on Ascension Day by Antonio  
+Canaletto (1697-1768). Starting in the year 1000, the doge annually boarded the elaborately  
+carved and gilded state barge to cross the Venetian lagoon to perform the sposalizia, a wedding  
+rite that symbolized Venice's dominion over the Adriatic and its trade, and thereby affirmed its  
+exclusive relationship with the sea against other prospective suitors. Courtesy of the British  
+Museum, London.  
+14. A detail from the scroll commissioned by Takezaki Suenaga to commemorate the repulse  
+of the Yuan (Mongol) Chinese invasion of Japan in 1281. At right, the three Oyano brothers  
+are boarding a Chinese ship under a hail of arrows. To the left, Suenaga is cutting the throat of  
+a Mongol warrior while another lies dead on deck. The Mongols cowering belowdecks are  
+portrayed with distinctly simian faces. Although there is no mast adequate for a sail, it has  
+probably been lowered for battle. Details characteristic of Chinese vessels of the time include  
+the winch for an anchor forward and the heavy centerline rudder. Courtesy of the Imperial  
+Museum, Tokyo.  
+15. An illustration from a 1341 manuscript of the Iranian national epic, Shahnamah (Book of  
+Kings), written by Firdawsi at the start of the eleventh century. Here the legendary king Kay  
+Khusraw is crossing the Sea of Zareh in pursuit of his maternal grandfather, Afrasiyab, who  
+killed his father. The Sea of Zareh is actually a salt lake called the Goud-e Zereh near the  
+border between Afghanistan and Iran and fed in part by the Helmand River, and crossing it  
+would not have taken the seven months described by Firdawsi. Courtesy of the Freer Gallery  
+of Art, Smithsonian Institution, Washington, D.C.: Purchase, F1942.12.  
+16. A ship taking soundings, from the Ordonances of Armoury, Jousting, Sword, and Axe  
+Combat, and Chivalry (fol. 138v), written in the mid-fifteenth century for Sir John Astley. The  
+ship is a carrack, or galleon, the forerunner of the full-rigged ship with a combination of  
+square sails on the fore and main masts, and a fore-and-aft lateen sail on the mizzen. The bow  
+incorporates a heavy forecastle protected by shields, while two of the crew man the topcastle  
+at the top of the mast. The text explains what course to steer after the water has reached a  
+certain depth. Courtesy of the Pierpont Morgan Library/Art Resource, New York.  
+17. Jorge Aguiar's portolan chart of the Mediterranean drafted in 1492, the year of Columbus's  
+epochal discovery, and the oldest extant chart of Portuguese origin. Drawn on a sheepskin, the  
+neck of which is west, the chart shows Madeira, the Azores, the Canaries, and the Cape Verde  
+Islands, and the coast of Africa from Cape Verde to Egypt and the Red Sea. Clearly seen on  
+the Iberian Peninsula are Lisbon and Granada, newly taken from the Moors, while Genoa and  
+Venice dominate the Italian Peninsula. The Rhine and Danube Rivers are treated as one,  
+flowing between the North Sea and Black Sea, and while ports in the British Isles and around  
+the Black Sea are well represented, the coasts of Denmark and the Baltic are blank. Courtesy  
+of the Beinecke Rare Book and Manuscript Library, Yale University, New Haven, Connecticut.  
+18. Noah's ark as seen by the Mughal illustrator Miskin, who painted this miniature in about  
+1590. As popular a figure in the Quran as he is in the Hebrew Bible, Noah (in Arabic, Nuh)  
+kneels on the third deck facing aft, his head wreathed in a flaming halo, while the crew--  
+dressed only in loincloths--sail the ship. Others try to maintain order among the castaway  
+menagerie, which includes elephants, tigers, leopards, dromedaries, monkeys, pelicans, and  
+doves, and other passengers, one of whom has fallen over. While the animals are shown in  
+pairs, Miskin's ark apparently carries no women. Courtesy of the Freer Gallery of Art,  
+Smithsonian Institution, Washington, D.C.: Purchase, F1948.8.  
+19. Johan Bruun's Kronborg Castle, View from the Øresund, 1739. The Øresund is the narrow  
+strait between Denmark and what is now Sweden where all ships had to anchor to pay their  
+toll for passage through the sound, under the supervision of the guardship of the Danish  
+crown, shown at center. Courtesy of the Handels- og Søfartsmuseet på Kronborg, Helsingør,  
+Denmark.  
+20. "John Bull Taking a Luncheon, or British Cooks Cramming Old Grumble-Gizzard with  
+Bonne-Chére." Drawn just after the battle of Aboukir, James Gillray's cartoon shows Admiral  
+Lord Nelson in the forefront of British admirals and naval heroes--including Warren, Howe,  
+Bridport, Duncan, and St. Vincent--offering platters of ships to a gluttonous John Bull, who  
+complains, "What! more Frigasees? why you sons o' bitches you, where do ye think I shall  
+find room to stow all you bring in?" Published October 24, 1798, by H. Humphrey. Courtesy  
+of the National Maritime Museum, Greenwich, England.  
+21. Giant Demon Attacks a Ship from the seventeenth-century Sripal Ras (The Annals of  
+Sripal), written by Yasovijayji and Vinayvijayj. The verse epic recounts the story of the lay  
+Jain devotees Sripal Raja and his queen, Mayana, who together and singly endure many tests  
+of faith. Seeking to make a name for himself, Sripal Raja traded on land and sea. This  
+illustration shows his ship as an armed British trader, the most powerful and long-ranging  
+vessels known to the merchant community of Gujarat of the 1770s when this was painted.  
+Courtesy of the Freer Gallery of Art, Smithsonian Institution, Washington, D.C.: Purchase,  
+F1999.22.  
+22. Jean Dupas's gold, silver, and palladium leaf and paint mural History of Navigation.  
+Measuring more than six meters high by nearly nine meters long, the mural is an exotic  
+interpretation of its subject designed for the first-class salon of the Compagnie Générale  
+Transatlantique (French Line)'s ocean liner Normandie (1935-41). The ship itself exemplified  
+the aesthetic celebrated in the Exposition Internationale des Arts Décoratifs et Industriels  
+Modernes held in Paris in 1925. This was known as "ocean liner style" for decades before the  
+demise of the ocean liner gave rise to the more generic term "art deco." Courtesy of the  
+Metropolitan Museum of Art, New York/Art Resource, New York.  
+23. Stephen Bone's On Board an S-Class Submarine: Up the Conning Tower. An official  
+Royal Navy war artist, during World War II Bone spent time in a variety of warships to  
+capture the realities of the isolated and often claustrophobic conditions of life at sea. Courtesy  
+of the National Maritime Museum, Greenwich, England.  
+24. The port of Singapore has been one of the world's busiest for the past two decades, thanks  
+in large part to its embrace of containerization. So efficient is this form of cargo transportation  
+that there are no people visible on the ship or the wharf. All the work of transferring containers  
+between ship and shore is done by solitary crane operators fifty meters or more above the pier.  
+Courtesy of the Maritime and Port Authority of Singapore.  
+25. A huge catch aboard a trawler in the Gulf of Alaska. Judging from the two members of the  
+crew seen toward the bow, the bulging trawl net is at least ten feet across. This picture  
+illustrates the strain that modern industrial fishing with its sophisticated electronic tracking  
+devices, mechanical efficiency, and phenomenally strong gear like nylon netting has put on  
+fish stocks worldwide. Photograph by the Alaska Fisheries Science Center, Marine Observer  
+Program; courtesy of the National Oceanic and Atmospheric Administration, Washington,  
+D.C.  
+26. The Nimitz-class aircraft carrier USS Dwight D. Eisenhower being replenished by the fleet  
+oiler USNS Big Horn. The Eisenhower is nuclear-powered and the hoses leading from the Big  
+Horn supply jet fuel for the carrier's air wing, while helicopters transship dry goods, including  
+mail for the crew. The U.S. Navy has long been in the vanguard of underway replenishment,  
+which is essential to long-distance overseas operations such as those shown here in the  
+Arabian Sea. Photograph by Darien G. Kennedy; courtesy of the U.S. Navy.  
+Oceania  
+Pre-Columbian South America and the Caribbean  
+Pre-Columbian North and Central America  
+The shaded area indicates the range of the paper birch (Betula papyrifera), or canoe birch, and  
+thus of the birchbark canoe.  
+Ancient Egypt  
+From Mesopotamia to the Indus Valley  
+The Bronze Age Near East  
+The Classical Mediterranean  
+The Muslim Indian Ocean  
+East and Southeast Asia  
+The Medieval Mediterranean  
+Europe Through the Viking Age  
+Late Medieval Europe  
+The Monsoon Seas  
+Asia and the Pacific in the Early Modern Period  
+The Atlantic World  
+Early Modern Europe  
+Asia and the Pacific at the Turn of the Millennium  

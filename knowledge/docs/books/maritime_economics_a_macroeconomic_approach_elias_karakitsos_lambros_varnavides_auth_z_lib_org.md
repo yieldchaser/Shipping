@@ -10002,6 +10002,149 @@ US$100 billion, or less than a third of the earlier figure, which is a slightly 
 fall than would have been expected based solely on the fall in the value of shipping asset prices. At the peak of the market some shipping companies achieved a
 premium over NAV of nearly 50 per cent. By 2012 many companies were trading
 at just 50 per cent of NAV.
+
+
+### Table 7.3 Marine Money List of Public Shipping Companies (Market Values, USD Millions, 2005–2012)
+
+| Company Name | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|
+| AP Moller - Maersk Group | 50886.04 | 41299.82 | 46847.85 | 21614.98 | 30996.27 | 42605.04 | 29087 | 32676.86 |
+| COSCO Holdings | na | na | 59545.31 | 7859.824 | 12580.84 | 10456.97 | 7570.619 | 7118.642 |
+| Nippon Yusen Kaisha | 7413.26 | 7522.07 | 9263.495 | 8229.218 | 5522.041 | 6777.514 | 7057.968 | 5738.165 |
+| Mitsui OSK Lines | 7747.461 | 8159.9 | 14576.21 | 14845.01 | 6997.322 | 8572.99 | 7517.732 | 5650.07 |
+| China Shipping Container Lines | na | na | 6893.044 | 2003.115 | 4798.561 | 5902.212 | 4485.69 | 4504.15 |
+| Orient Overseas International Limited | 2122.674 | 3914.718 | 4602.952 | 1359.756 | 2929.331 | 6080.449 | 3655.155 | 4046.06 |
+| Kirby Corporation | 1354.907 | 1956.912 | 2665.024 | 1568.74 | 1875.143 | 2359.318 | 3669.922 | 3502.355 |
+| Golar LNG Ltd. | 868.67 | 839.1936 | 1494.781 | 454.4478 | 866.3243 | 1017.828 | 3566.668 | 2960.79 |
+| Teekay LNG Partners L.P. | na | 1165.017 | 1005.307 | 666.7228 | 1385.413 | 2093.629 | 2151.406 | 2632.51 |
+| Neptune Orient Lines | 2150.321 | 1985.757 | 4050.683 | 1157.836 | 2918.26 | 4005.416 | 2465.939 | 2275.725 |
+| Teekay Corp. | 2847.902 | 3176.888 | 3872.198 | 1424.487 | 1687.228 | 2382.091 | 1837.153 | 2237.37 |
+| Teekay Offshore Partners LP | na | na | 492.94 | 329.4525 | 752.115 | 1532.91 | 1878.758 | 2083.401 |
+| Wilh. Wilhelmsen ASA | na | na | na | na | na | na | 1054.8 | 1832.992 |
+| Kawasaki Kisen Kaisha, Ltd. | 161.7432 | 3509.612 | 5780.017 | 6198.342 | 2112.751 | 2992.543 | 3050.788 | 1808.587 |
+| Seacor Holdings Inc. | 1690.139 | 3147.199 | 2981.962 | 2158.794 | 1724.165 | 2163.326 | 1862.2 | 1667.62 |
+| Golar LNG Partners LP | na | na | na | na | na | na | na | 1558.17 |
+| Ship Finance International Limited | 1236.066 | 1728.374 | 2015.709 | 803.8102 | 1078.474 | 1702.878 | 739.0742 | 1417.375 |
+| U-Ming Marine Transport | na | na | na | 1041.925 | 1729.98 | 1705.298 | 1281.126 | 1326.829 |
+| Matson, Inc. | na | na | na | na | na | na | na | 1251.162 |
+| D/S Norden A/S | 1228.191 | 1942.485 | 4792.923 | 1449.981 | 1696.91 | 1645.273 | 966.2798 | 1173.739 |
+| Grindrod Limited | 927.5007 | 993.8575 | 1540.153 | 746.3562 | 1090.955 | 1190.179 | 1026.608 | 1164.14 |
+| Paciﬁ c Basin Shipping Limited | 595.4842 | 992.422 | 2553.593 | 793.5195 | 1399.068 | 1290.267 | 758.244 | 1084.987 |
+| Costamare Inc | na | na | na | na | na | na | 853.848 | 1041.216 |
+| Seaspan Corporation | na | 1098.709 | 1409.179 | 593.852 | 624.5075 | 852.012 | 947.0664 | 981.036 |
+| Stolt-Nielsen SA | 2170.72 | 2023.453 | 1883.051 | 572.2451 | 883.5983 | 1196.066 | 1151.131 | 961.4357 |
+| STX Pan Ocean Co., Ltd. | na | 1150.281 | 4963.162 | 1529.731 | 1992.052 | 2002.121 | 1079.53 | 837.1685 |
+| Navios Maritime Partners | na | na | na | 151.7464 | 471.9933 | 960.8495 | 818.2174 | 738.1508 |
+| DryShips Inc. | na | 639.1749 | 2839.109 | 688.35 | 1631.497 | 2029.379 | 849.52 | 662.016 |
+| DFDS A/S | 557.0036 | 959.165 | 1238.366 | 596.6801 | 551.7518 | 1199.313 | 919.6554 | 661.8929 |
+| CMB | 1153.427 | 1493.84 | 2999.924 | 873.7402 | 1039.583 | 1152.334 | 759.3948 | 641.8428 |
+| Diana Shipping Inc. | na | 838.7205 | 2339.838 | 957.7911 | 1179.121 | 985.1592 | 609.908 | 600.279 |
+| Exmar NV | 653.6759 | 1081.037 | 1034.144 | 357.815 | 487.8168 | 459.8621 | 443.6268 | 593.3026 |
+| Capital Product Partners | na | na | na | 193.5726 | 228.0682 | 367.356 | 425.2381 | 558.8394 |
+| Hoegh LNG Holdings Ltd. | na | na | na | na | na | na | na | 545.9872 |
+| Algoma Central Corporation | 297.9334 | 421.6005 | 538.8758 | 161.9662 | 291.1454 | 346.0657 | 388.5163 | 537.9666 |
+| Precious Shipping | 391.9343 | 731.363 | 995.259 | 326.3397 | 587.7095 | 565.1455 | 543.4434 | 476.3516 |
+| Finnlines Plc | na | 919.4724 | 901.0498 | 365.3647 | 463.056 | 536.0658 | 467.4715 | 473.5425 |
+| Nordic American Tanker Shipping Ltd | 479.195 | 919.1131 | 983.7795 | 1160.089 | 1266.12 | 1220.338 | 567.127 | 463.05 |
+| Scorpio Tankers | na | na | na | na | na | na | 187.5315 | 453.8313 |
+| Malaysian Bulk Carriers | 444.5032 | na | na | 689.2713 | 940.5854 | 815.807 | na | 419.479 |
+| Odfjell ASA | 1761.324 | 1530.62 | 1411.431 | 541.0159 | 733.871 | 733.1778 | 474.117 | 349.1101 |
+| Thoresen Thai | 541.109 | 463.1536 | 1005.169 | 433.9778 | 729.5431 | 663.0284 | 329.0048 | 348.6537 |
+| Navios Maritime Holdings Inc. | na | 333.4126 | 1303.547 | 317.5452 | 610.2877 | 536.2368 | 365.6037 | 347.9862 |
+| Danaos Corporation | na | na | 1440.85 | 368.7039 | 243.3242 | 406.2014 | 367.026 | 301.4 |
+| Tsakos Energy Navigation (TEN) | 703.2277 | 873.8901 | 1409.325 | 690.1327 | 552.2569 | 460.8 | 220.8838 | 211.65 |
+| Diana Containerships Inc. | na | na | na | na | na | na | na | 194.4276 |
+| Regional Container Lines PCL | 440.223 | 389.4684 | 651.1867 | 117.4354 | 199.3817 | 376.2904 | 176.5119 | 188.5468 |
+| StealthGas Inc. | na | 168.192 | 302.6167 | 106.6859 | 139.2144 | na | 79.323 | 163.358 |
+| Global Ship Lease, Inc. | na | na | na | na | 77.6675 | 269.973 | 99.3147 | 161.406 |
+| Genco Shipping & Trading Ltd. | na | 712.6097 | 1586.168 | 469.2932 | 712.624 | 517.68 | 245.4556 | 147.8618 |
+| d'Amico International Shipping | na | na | na | 268.8545 | 235.3431 | 211.1062 | 86.33013 | 146.7557 |
+| Knightsbridge Tankers Limited | 414.675 | 404.244 | 412.965 | 250.515 | 226.746 | 544.0561 | 333.9581 | 128.2575 |
+| Mercator Lines Singapore | na | na | na | 129.9473 | 110.771 | 253.5274 | 228.2355 | 115.9351 |
+| Rickmers Maritime | na | na | na | 114.9609 | 113.0725 | 119.2317 | 98.07559 | 114.4215 |
+| Jinhui Shipping & Transportation | 209.2074 | 424.5238 | 898.7304 | 86.01442 | 370.5401 | 283.2607 | 126.1079 | 100.7454 |
+| Navios Maritime Acquisition Corp. | na | na | na | na | na | na | 108.9988 | 97.6532 |
+| International Shipholding | na | na | 156.5698 | 181.9707 | 188.3774 | 142.24 | 107.4675 | 95.9136 |
+| IM Skaugen ASA | 55.73247 | 191.2334 | 244.1847 | 140.2481 | 188.5393 | 172.8263 | 135.334 | 86.7409 |
+| Box Ships Inc. | na | na | na | na | na | na | na | 85.813 |
+| Concordia Maritime | 258.1742 | 381.5791 | 198.786 | 90.86144 | 113.0115 | 137.0073 | 89.81817 | 70.39803 |
+| Samudera Shipping Line Ltd | 129.484 | 115.4002 | 148.5516 | 54.38948 | 80.41277 | 88.16557 | 53.97089 | 70.16216 |
+| Norwegian Car Carriers ASA | na | na | na | na | na | na | na | 69.02471 |
+| Euronav | 1523.229 | 1562.017 | 1840.837 | 706.7035 | 1134.868 | 943.4097 | 242.4793 | 297.5882 |
+| Golden Ocean Group | na | na | 1662.39 | 177.8702 | 831.8883 | 641.323 | 288.8215 | 295.4186 |
+| Safe Bulkers Inc. | na | na | na | na | 477.5251 | 583.6968 | 424.6311 | 257.5776 |
+| Frontline LTD | 2837.364 | 2381.807 | 3591.6 | 2305.405 | 2127.108 | 1975.308 | 334.0194 | 253.8236 |
+| Teekay Tankers | na | na | na | 317.5 | 272.96 | 641.5566 | 217.8176 | 242.44 |
+| Ultrapetrol Bahamas Limited | na | na | 568.8654 | 94.16561 | 142.5287 | 192.5142 | 89.4298 | 231.66 |
+| Baltic Trading Ltd | na | na | na | na | na | na | 107.825 | 68.54 |
+| First Ship Lease | na | na | na | 171.5191 | 255.6395 | 198.334 | 141.4432 | 64.15461 |
+| Goldenport Holdings | na | na | 583.5328 | 106.817 | 122.3893 | 169.0511 | 96.05248 | 55.05286 |
+| Courage Marine Group | na | 124.0734 | 288.1018 | 95.76829 | 143.1766 | 139.558 | 69.44594 | 49.02066 |
+| Euroseas | na | na | 375.2364 | 131.4725 | 120.6196 | na | 73.2495 | 41.2412 |
+| DHT Holdings, Inc. | na | 507.1521 | 367.5672 | 217.3841 | 179.1277 | 227.478 | 47.693 | 37.2912 |
+| Star Bulk | na | na | na | 148.9506 | 172.3133 | 169.3047 | 71.5204 | 33.372 |
+| Eagle Bulk Shipping Inc. | na | 622.506 | 1240.602 | 318.6781 | 307.5237 | 311.5488 | 59.22 | 24.96 |
+| Paragon Shipping | na | na | na | 128.9055 | 232.91 | 191.6341 | 38.976 | 24.64 |
+| Globus Maritime | na | na | na | 28.27956 | 43.58412 | 66.0474 | 33.431 | 17.2549 |
+| Eitzen Chemical | na | na | 712.9614 | 212.9817 | 238.9871 | 237.225 | 30.25647 | 15.12797 |
+| Seanergy Maritime Holdings Corp. | na | na | na | na | na | 100.9424 | 15.8112 | 12.4384 |
+| SinOceanic Shipping ASA | na | na | na | na | na | na | na | 8.324071 |
+| Nordic Tankers | na | na | na | 53.68626 | 35.84383 | 52.12851 | 15.00644 | 3.59883 |
+| Freeseas | na | na | 124.458 | 29.42769 | 42.45376 | 24.31 | 2.7864 | 0.126 |
+| MISC | 3936.846 | 8658.22 | 9768.249 | 9279.643 | 8756.819 | na | 10850.45 | na |
+| China Shipping Development | na | na | na | 3801.683 | 5623.314 | 5164.83 | 3179.158 | na |
+| Alexander & Baldwin | 2386.56 | 1888.884 | 2190.384 | 1027.46 | 1403.43 | 1653.239 | 1702.194 | na |
+| Yang Ming Marine Transport | 1489.34 | 1317.584 | 1772.939 | 805.2906 | 965.7535 | 2265.721 | 1135.449 | na |
+| Overseas Shipholding Group | 1991.988 | 2296.477 | 3036 | 1717.667 | 1180.365 | 1077.122 | 332.3813 | na |
+| Excel Maritime Carriers Ltd | 224.7734 | 288.2553 | 804.9253 | 325.431 | 492.2764 | 479.2819 | 128.9195 | na |
+| D/S Torm | 306.8667 | 420.3752 | 937.0495 | 775.6842 | 715.2737 | 558.0321 | 47.46582 | na |
+| Hellenic Carriers | na | na | na | 11 | 59.21514 | 59.5811 | 29.43272 | na |
+| NewLead Holdings Ltd | na | 260.5747 | 187.33 | 9.57 | 71.46 | na | 3.588 | na |
+| Wilh. Wilhelmsen Holding Group | 1827.657 | 1823.124 | 1907.285 | 675.9258 | 1042.935 | 1484.198 | na | na |
+| NewCo3 | na | na | na | na | na | na | na | na |
+| NewCo4 | na | na | na | na | na | na | na | na |
+| NewCo5 | na | na | na | na | na | na | na | na |
+| Aegean Marine Petroleum Network | na | na | 1630.078 | 691.0847 | 1181.887 | 497.6153 | na | na |
+| Chemoil Energy Limited | na | na | 445.2063 | 152.8867 | 504.1196 | 439.4874 | na | na |
+| General Maritime Corp | 1409.002 | 1152.085 | 783.1091 | 624.78 | 407.1535 | 291.1675 | na | na |
+| Paciﬁ c Shipping Trust | na | na | 205.5176 | 85.51375 | 159.2325 | 215.2588 | na | na |
+| Horizon Lines, Inc. | na | 853.8008 | 587.1973 | 104.7279 | 168.7209 | 134.3775 | na | na |
+| U-SEA Bulk Shipping A/S | na | na | na | na | 189.8612 | 124.5327 | na | na |
+| K-SEA Transportation Partners LP | 286.741 | 318.928 | 356.8543 | 435.7573 | 309.7203 | 94.1196 | na | na |
+| TBS International Limited | na | 242.3078 | 917.5803 | 299.887 | 219.9414 | 90.422 | na | na |
+| Camillo Eitzen & Co ASA | na | 425.4163 | 588.0895 | 76.18572 | 86.68258 | 78.64555 | na | na |
+| OceanFreight Inc. | na | na | na | 55.07568 | 147.3585 | 76.6084 | na | na |
+| Trailer Bridge Inc | 108.9248 | 101.3682 | 140.0766 | 43.56384 | 57.0816 | 33.1752 | na | na |
+| OSG America | na | na | na | 147.6197 | na | na | na | na |
+| Maritrans Inc. | 312.0351 | na | na | na | na | na | na | na |
+| DOF ASA | na | na | 933.829 | na | na | na | na | na |
+| Deep Sea Supply | na | na | 590.7738 | na | na | na | na | na |
+| Havila Shipping | na | na | 345.6737 | na | na | na | na | na |
+| Dockwise | na | na | na | 130.0838 | 639.9244 | na | na | na |
+| Gulf Navigation | na | na | na | 301.8922 | 265.8946 | na | na | na |
+| Omega Navigation | na | na | 239.37 | 97.60751 | na | na | na | na |
+| Star Cruises Ltd | 1418.421 | 1800.315 | na | na | na | na | na | na |
+| Carnival Corporation | 43973.43 | 41837.46 | na | na | na | na | na | na |
+| Royal Caribbean Cruises Ltd | 9478.887 | 9206.595 | na | na | na | na | na | na |
+| Hanjin Shipping | 1462.299 | na | 3367.582 | na | na | na | na | na |
+| OMI Corporation | 1294.168 | 1323.633 | na | na | na | na | na | na |
+| B+H Ocean Carriers | 141.3209 | 103.4154 | na | na | na | na | na | na |
+| MC Shipping, Inc. | 114.5405 | 85.95232 | na | na | na | na | na | na |
+| Bourbon | na | 2745.163 | 3552.178 | na | na | na | na | na |
+| Quintana Maritime Limited | na | 550.7863 | 1298.715 | na | na | na | na | na |
+| Trico Marine Services, Inc. | na | 567.601 | 555.7813 | na | na | na | na | na |
+| Brostrom | na | 717.2842 | 505.4359 | na | na | na | na | na |
+| Global Oceanic Carriers | na | 25.68165 | 45.16533 | na | na | na | na | na |
+| BW Gas | na | 1687.216 | 1279.422 | 189.1517 | na | na | na | na |
+| Tidewater, Inc. | 2191.558 | 2916.592 | 3153.133 | na | na | na | na | na |
+| Hornbeck Offshore Services Inc | 887.8377 | 912.5277 | 1157.912 | na | na | na | na | na |
+| Gulfmark Offshore, Inc. | 603.4483 | 848.4588 | 1075.375 | na | na | na | na | na |
+| Farstad Shipping ASA | 560.5192 | 842.044 | 1046.145 | na | na | na | na | na |
+| Solstad Offshore ASA | 537.5886 | 829.7022 | 925.8771 | na | na | na | na | na |
+| Top Ships Inc. | 345.3919 | 150.7949 | 141.1083 | na | na | na | na | na |
+| Arlington Tankers Ltd. | 337.125 | 362.235 | 343.015 | na | na | na | na | na |
+| U.S. Shipping Partners L.P. | 303.324 | 212.4938 | 239.3219 | na | na | na | na | na |
+
 However, 2013 witnessed the beginning of a rally in the price of shipping
 stocks. The Platou Shipping Index increased by 28 per cent in 2013 with dry bulk
 stocks rising by 80 per cent.
