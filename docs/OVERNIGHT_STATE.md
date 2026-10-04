@@ -22,6 +22,8 @@ The md dir was wiped first (an unpadded-day bug in this run's first trial had le
 a pre-existing collision. Sales was run LAST to keep the historical sales-format deliverable;
 a run that reverses the order silently changes the md format. Candidate one-line cleanup, not done.
 
+**ALSO THIS RUN - the carried `hellenic_iron_ore_pdf_*` two-writer family is now ROOT-CAUSED and measured (`docs/hellenic_iron_ore_two_writer_verdict.md`), not applied.** Two runners (`run_hellenic_iron_ore_pdf.py` old MMI 6-page format, `run_smm_iron_ore_daily.py` new SMM 1-page format) write the SAME 5 filenames with DIFFERENT column sets; run_smm's `upsert_rows_to_csv` rewrites with its own fieldnames and `extrasaction="ignore"`, so the other writer's columns are silently dropped. Measured empties: indices `value`/`market_type` 11,553/11,625; brands `fe_pct`/`product_type`/`change_pct` 31,272/31,470; futures `price`/`settlement` 2,207/2,233. Ground truth (page 2 of the 2021-07-14 PDF): IOPI58 prints Price 1240 / Change -17 / -1.4%, but the row carries value='' and change=1052/change_pct=1267 (the statistics table's April/May) - so BOTH a schema collision AND a row-selection fault. Fix is a schema/ownership decision (union-preserving upsert vs split files); not applied.
+
 **Next-run target:** the ledger defect list is EMPTY. Remaining carried items are the VV-matrix
 image-recall residual (paid - needs a per-page measured comparison) and the two-writer
 `hellenic_iron_ore_pdf_*` family. Nothing free and unblocked remains beyond those.
