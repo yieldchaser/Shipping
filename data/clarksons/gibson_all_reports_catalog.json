@@ -1,9 +1,16 @@
 {
-  "harvested_at": "2026-10-02T14:00:45.395941+00:00",
-  "total_reports": 551,
-  "online_reports_count": 156,
+  "harvested_at": "2026-10-04T13:19:10.562745+00:00",
+  "total_reports": 552,
+  "online_reports_count": 157,
   "report_downloads_count": 395,
   "online_reports": [
+    {
+      "id": 20349,
+      "date": "2026-10-02T15:54:11",
+      "title": "Running Out of Room?",
+      "slug": "running-out-of-room",
+      "link": "https://www.gibsons.co.uk/report/running-out-of-room/"
+    },
     {
       "id": 20216,
       "date": "2026-09-25T16:12:24",
