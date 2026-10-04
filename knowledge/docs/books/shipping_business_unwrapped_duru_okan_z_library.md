@@ -166,8 +166,7 @@ shelf. If they do think about oceangoing vessels, they often romanticize about
 the stories they know of shipowners and captains.
 
 The reality is that modern shipping is an industrial operation comprising a
-complex web of logistics, thousands upon thousands of transactions, multi-
-million-dollar deals, and billions of dollars' worth of cargo. The finance
+complex web of logistics, thousands upon thousands of transactions, multimillion-dollar deals, and billions of dollars' worth of cargo. The finance
 functions supporting the maritime industry have also matured, with ships
 bought and sold as portfolio investments much like stock options, managed
 by corporate executives in suits, and subject to speculation with sophisticated
@@ -175,15 +174,11 @@ financial instruments. Most importantly, the development of the maritime
 transportation and shipping business is one of the essential drivers of the
 globalization phenomenon.
 
-Despite these advancements, the industry is still a long way from com-
-pletely maturing. Due to the unique nature of shipping, the romantic senti-
-ment attached to ships, the complexity of maritime law, unceasing shipboard
-operations, the frequent inaccessibility of the crews and vessels, and the long-
-standing traditions of the sea, the business has not experienced the same
+Despite these advancements, the industry is still a long way from completely maturing. Due to the unique nature of shipping, the romantic sentiment attached to ships, the complexity of maritime law, unceasing shipboard
+operations, the frequent inaccessibility of the crews and vessels, and the longstanding traditions of the sea, the business has not experienced the same
 commercial and academic scrutiny as, say, the banking or manufacturing
 sectors. Many of the key elements that drive the industry are still little
-understood by practitioners, investors, and shipowners. Also, because profes-
-sional management is a somewhat recent development, too many managers
+understood by practitioners, investors, and shipowners. Also, because professional management is a somewhat recent development, too many managers
 have too few resources to help them prepare for the challenges of managing a
 vessel, much less a fleet.
 
@@ -201,8 +196,7 @@ supply-and-demand framework, the dynamics of the market, and models based
 on the theory of the rational actor.
 
 Allow me to pose a simple but revealing question to challenge the bedrock
-of neoclassical economics: if people are genuinely rational actors as a collec-
-tive whole, why does marketing exist? Moreover, why has it flourished? Why
+of neoclassical economics: if people are genuinely rational actors as a collective whole, why does marketing exist? Moreover, why has it flourished? Why
 do inferior products sell well and their manufacturers thrive while the parent
 companies of superior products go bankrupt? Why do corporations spend
 millions upon millions of dollars on marketing campaigns and reap billions in
@@ -210,27 +204,21 @@ return? In other words, why do TV commercials, social media branding and
 many other marketing tricks work?
 
 Marketing is effective because it changes people's perceptions. It influences
-their spending habits in irrational ways. Were this true only of average con-
-sumers, we might not have experienced the national and even international
-market breakdowns that we have in the past. However, even the most edu-
-cated and experienced people on the planet--those who should know better--
+their spending habits in irrational ways. Were this true only of average consumers, we might not have experienced the national and even international
+market breakdowns that we have in the past. However, even the most educated and experienced people on the planet--those who should know better--
 succumb to their irrational natures. They, too, are vulnerable to making
 decisions based more on their emotions and perceptions than on cold, hard
-facts and concrete data. Edward Bernays (1955), known as the father of pro-
-paganda, demonstrated practically how marketing would change minds of
+facts and concrete data. Edward Bernays (1955), known as the father of propaganda, demonstrated practically how marketing would change minds of
 crowds with his famous marketing campaign to promote female smoking
 using feminist symbols.
 
 As more and more irrational behavior occurs and the debilitating effects
-are felt throughout the world economy, this classical assumption is increas-
-ingly being called into question. Whole global industries experience sharp
-declines and overnight collapses that take 'the experts' by surprise. The dra-
-matic economic crises beginning in 2008 prompted a new wave of criticism
+are felt throughout the world economy, this classical assumption is increasingly being called into question. Whole global industries experience sharp
+declines and overnight collapses that take 'the experts' by surprise. The dramatic economic crises beginning in 2008 prompted a new wave of criticism
 and calls for a better understanding of how human decision-making affects
 the outcome of business and the global economy. Academics and the rest of
 the world were caught quite by surprise. After all, their complex financial
-models, derivative instruments, statistics, and predictive analytical tools com-
-pletely failed them. Their carefully researched assumptions and forecasts were
+models, derivative instruments, statistics, and predictive analytical tools completely failed them. Their carefully researched assumptions and forecasts were
 entirely swept away. The 'wizards' of the global economy were shown to be, at
 best, inept and, at worst, charlatans.
 
@@ -240,8 +228,7 @@ market trends and individual human behavior. While financial analysts use
 predictive algorithms to forecast changes in markets, they may do so without
 ever verifying the reliability of the data they use for the calculation. Veteran
 
-practitioners in the field may believe they use only facts to inform their deci-
-sions yet be totally unaware of the illusory nature of the information they rely
+practitioners in the field may believe they use only facts to inform their decisions yet be totally unaware of the illusory nature of the information they rely
 on. Newcomers to a market may follow the guidance of 'the experts,' ignorant
 of the fact that the experts adhere to practices that are no longer valid.
 
@@ -259,8 +246,7 @@ profoundly irrational. Our collective personal, professional, and scholarly
 experiences refute the premise that we can continue to view the marketplace
 as being composed of rational actors and create models based on those
 assumptions. The truth is that it is quite rare for any individual to have access
-to perfect information, to be universally equipped to make the necessary cal-
-culations (e.g. Bayesian probabilities) and analyses, and to be trained to
+to perfect information, to be universally equipped to make the necessary calculations (e.g. Bayesian probabilities) and analyses, and to be trained to
 ignore their subconscious decision-making processes. To the best of my
 knowledge, this book is the first extensive introduction to the institutional and
 behavioral aspects of shipping business practice. While my studies and
@@ -270,21 +256,18 @@ brokerage houses, and consultancies need right now.
 
 As such, I have written this book to explore the human side of shipping.
 The daily decisions that every shipping professional makes determines the
-short- and long-term success of their companies and affects others with whom
+shortand long-term success of their companies and affects others with whom
 they transact business. Many of those decisions are based on 'the way it's
-always been done' over generations. As such, many of the ideas and sugges-
-tions I present run counter to the prevailing advice and business norms.
+always been done' over generations. As such, many of the ideas and suggestions I present run counter to the prevailing advice and business norms.
 Although I have put a significant effort into making my arguments as clear as
 possible with examples and cases, there will be many areas of controversy and
 frank disagreement.
 
 This book is not designed to be an in-depth discussion on all the different
-aspects of behavioral and institutional issues in shipping and potential coun-
-termeasures. Rather, it deals with high-level concepts, addresses the problems
+aspects of behavioral and institutional issues in shipping and potential countermeasures. Rather, it deals with high-level concepts, addresses the problems
 that arise from our human nature, and offers practical advice for avoiding the
 illusions, fallacies, and biases that have plagued the shipping industry for
-decades (if not centuries). I have drawn from the most recent research avail-
-able and especially the emerging fields of heterodox economics and economic
+decades (if not centuries). I have drawn from the most recent research available and especially the emerging fields of heterodox economics and economic
 pluralism. In addition to the institutional and behavioral focus, some chapters
 will shed light on practical solutions and developments.
 
@@ -306,12 +289,11 @@ compiled in Angier (1920).
 
 *Perfections, simplifications, and the big picture*
 
-Supply-demand framework • Seaborne trade
+Supply-demand framework - Seaborne trade
 
-Shipping markets • Action-knowledge
+Shipping markets - Action-knowledge
 
-The shipping business falls under a particular branch of transportation eco-
-nomics and is a highly specialized field of study. Its technical context makes it
+The shipping business falls under a particular branch of transportation economics and is a highly specialized field of study. Its technical context makes it
 highly sophisticated and complex. Newcomers to the industry must first
 understand the variety of ship types, the market, the applicable national and
 international legislation, charter parties, the terms and conditions of shipping
@@ -333,8 +315,7 @@ might do a decent job. If people were to see it from a distance, it might even
 seem good. However, the closer they looked, the more inconsistencies they
 would spot.
 
-This is how it is with neoclassical economics. It can provide us an impres-
-sion of the business and help us understand some of the common trends. It
+This is how it is with neoclassical economics. It can provide us an impression of the business and help us understand some of the common trends. It
 may be an imperfect perspective, but we can at least see the broader picture.
 Despite its advantages, though, such a framework is usually not practical for
 businesses. While such models are quite valuable to those who study the
@@ -355,17 +336,14 @@ actual human behavior.
 We do have emotions, interests, a variety of personal characteristics, and
 even personal biases. Our biased nature seems helpful to survive in daily life.
 If we were actually rational actors gathering all relevant information, we
-would become paralyzed by a decision as simple as what to put in our shop-
-ping cart. We need our seemingly irrational intuition just for day-to-day sur-
-vival. Our emotions are particularly valuable when we must make decisions in
+would become paralyzed by a decision as simple as what to put in our shopping cart. We need our seemingly irrational intuition just for day-to-day survival. Our emotions are particularly valuable when we must make decisions in
 the face of risk and uncertainty. Professionals in the shipping business need to
 rely on their emotional intelligence to help them make day-to-day decisions. I
 am simply advocating that they need to recognize the drivers of such behavior
 and develop the appropriate measures to deal with them.
 
 Before proceeding to the following chapters of this book, a quick review of
-the basic economics of shipping would be useful for both beginners and pro-
-fessionals. Therefore, this section will demonstrate the supply and demand
+the basic economics of shipping would be useful for both beginners and professionals. Therefore, this section will demonstrate the supply and demand
 framework in brief.
 
 Dynamics of demand
@@ -378,12 +356,9 @@ but not yet finalized). As such, accurately calculating demand is difficult.
 However, we can estimate derived demand from certain leading indicators.
 
 The fundamental measures used in the shipping industry are the distance
-navigated in miles and the volume of cargo transported in metric tons. Toge-
-ther, they form the ton-mile, the standard measure used in maritime trans-
-portation. The term 'seaborne trade volume' refers to the ton-mile rate of
+navigated in miles and the volume of cargo transported in metric tons. Together, they form the ton-mile, the standard measure used in maritime transportation. The term 'seaborne trade volume' refers to the ton-mile rate of
 completed shipments in a given period. Although some regard it as measuring
-the demand for shipping, its precision is questionable at best. Whether ship-
-ped, in transit, or awaiting transport, demand as defined here is not helpful
+the demand for shipping, its precision is questionable at best. Whether shipped, in transit, or awaiting transport, demand as defined here is not helpful
 for decision-makers. Such a measure may be useful for predicting some future
 trends, but there are other, more predictive measures.
 
@@ -404,8 +379,7 @@ components require petrochemicals, its interior section needs textile products,
 and its tires depend on rubber. The manufacture of just one car requires a
 massive yet organized transportation system.
 
-Step by step, every consumption trend is supplied by shipping. The result-
-ing seaborne trade volume is the outcome of completed shipping transactions.
+Step by step, every consumption trend is supplied by shipping. The resulting seaborne trade volume is the outcome of completed shipping transactions.
 As such, it is more of a lagging indicator than one showing the current state
 of the market. Many people use seaborne trade volume as an indicator of
 shipping demand, but as I have shown, is it neither a useful nor a precise
@@ -414,8 +388,7 @@ time lag, there is also the problem of uncounted cargo sitting in warehouses,
 being held until the manufacturer receives an order or until the market price
 is just right. Moreover, there is the issue of mismatched supply and demand.
 Sometimes, there is more cargo to transport than there is cargo capacity. On
-the other hand, some ships cannot be matched to cargo and so sit idle, evi-
-denced by the number of lay-ups. Therefore, the seaborne trade volume is
+the other hand, some ships cannot be matched to cargo and so sit idle, evidenced by the number of lay-ups. Therefore, the seaborne trade volume is
 never a perfect representative of the demand for shipping services.
 
 It is an illusory measure because it is premised on the assumption of a
@@ -423,14 +396,12 @@ mature market. In such a market, all ships and cargoes are in equilibrium--
 that is, there is an implicit assumption that the supply of carrying capacity is
 perfectly matched to the demand for it. Also, it assumes there is no lost time
 in searching and negotiating. For all these reasons, seaborne trade volume is
-useful for analyzing what happened in the past but rather difficult to use in pre-
-dicting what will happen going forward. This particular challenge is discussed in
+useful for analyzing what happened in the past but rather difficult to use in predicting what will happen going forward. This particular challenge is discussed in
 the next chapter.
 
 Dynamics of supply
 
-The supply side of the shipping industry is defined as the shipping fleet avail-
-able to transport cargoes. Like its demand counterpart, precise measurement of
+The supply side of the shipping industry is defined as the shipping fleet available to transport cargoes. Like its demand counterpart, precise measurement of
 supply is an illusive goal. At times, it is virtually impossible.
 
 The conventional approach to measuring supply is to take the existing fleet
@@ -438,8 +409,7 @@ size of the industry, subtract existing lay-ups, and factor in a rough estimatio
 of the 'slow steaming' effect.
 
 Every ship is rated according to an optimal speed, which depends on its
-design and initial test conditions. During peak market conditions, compa-
-nies tend to speed up operations and therefore increase the speed of their
+design and initial test conditions. During peak market conditions, companies tend to speed up operations and therefore increase the speed of their
 ships as well. During such conditions, the increased fuel costs are marginal
 compared to the higher earnings. But during poor market times, companies
 reduce speed slightly (slow steam) in order to save costs. Since it is relatively
@@ -461,10 +431,8 @@ scale of the active shipping fleet by using automatic identification system
 (AIS) data.
 
 To arrive at the total volume of supply, we need to calculate the maximum
-carrying capacity for each ship in use as well as the required time for naviga-
-tion, transportation, and cargo handling. Every ship has an average in-use
-period, usually assumed as 350 days a year. However, considering all infor-
-mation needed for this arithmetic, it is quite a puzzling calculation.
+carrying capacity for each ship in use as well as the required time for navigation, transportation, and cargo handling. Every ship has an average in-use
+period, usually assumed as 350 days a year. However, considering all information needed for this arithmetic, it is quite a puzzling calculation.
 
 We also need to estimate the lifespan of each ship in the fleet. Plenty
 of them have been in operation for over 30 years. How much more use
@@ -482,8 +450,7 @@ that also come into play, independent of the physical condition. For certain
 cargoes, some older ships may remain fully in use even though they have
 outlived their estimated lifespan. On the other hand, some younger ships are
 sold for scrap because of their residual value. When the price for iron ore and
-coking coal go up, manufacturers often turn to scrap metal as a cheap alter-
-native. In times of economic downturn, some shipping companies often use
+coking coal go up, manufacturers often turn to scrap metal as a cheap alternative. In times of economic downturn, some shipping companies often use
 the scrapyards as sources of much-needed capital. The problematic issue that
 arises with scrapping is whether or not the ship is actually scrapped. Some
 risk-takers see the value of a ship sold for scrap, buy her from the scrapyard,
@@ -512,27 +479,22 @@ usually drives the other markets. Any dramatic change in the freight market
 almost always spills over into the other markets quickly. For example, if
 freight rates were down and then recover, asset prices follow and demolition
 prices decline accordingly. In the neoclassical model we use here, the freight
-rate would be the equilibrium price between supply and demand. Theoreti-
-cally, as the volume of supply or demand change, the equilibrium price
-changes correspondingly. Although the economic model explains the rela-
-tionship, it is quite difficult to cover all aspects affecting supply and demand,
+rate would be the equilibrium price between supply and demand. Theoretically, as the volume of supply or demand change, the equilibrium price
+changes correspondingly. Although the economic model explains the relationship, it is quite difficult to cover all aspects affecting supply and demand,
 as we have already noted. Using this classical framework requires us to
 assume a number of 'facts,' such as human beings are rational actors and
 mature markets lead to equilibrium prices.
 
 In the freight market, shipbrokers play a critical role in matching ships and
-cargoes. For each transaction, or 'fixture,' two to three shipbrokers each col-
-lect a commission, usually 1.25% of the lump sum freight rate. This means
+cargoes. For each transaction, or 'fixture,' two to three shipbrokers each collect a commission, usually 1.25% of the lump sum freight rate. This means
 around 2.50% to 3.75% of the total freight service goes to shipbrokers.
 
 A somewhat recent development is that many professional shipbrokers
 provide not only the matching service but also consulting for ship-related
-investments as well as independent ship management services. The main ben-
-efits of what they sell, though, are their business networks and professional
+investments as well as independent ship management services. The main benefits of what they sell, though, are their business networks and professional
 assessments of contracts as representatives of parties.
 
-Returning to the general market, freight rates for different ship sizes natu-
-rally vary. To understand the overall trends in the business, we use freight
+Returning to the general market, freight rates for different ship sizes naturally vary. To understand the overall trends in the business, we use freight
 indices aggregated from a number of trading routes and contracts. The Baltic
 Exchange is a well-known and globally accepted institution that publishes such
 indices for various ship types and tonnages. As such, its indices, such as the
@@ -548,11 +510,9 @@ market (also referred to as the S&P market or the secondhand market). As is
 frequently said in the business, asset play is one of the major motives of the
 industry (for many, it is the sole objective). Therefore, in the S&P market,
 
-managing investment timing and shrewdly managing assets is crucial. Ship-
-owners should simultaneously investigate opportunities in the freight market
+managing investment timing and shrewdly managing assets is crucial. Shipowners should simultaneously investigate opportunities in the freight market
 and S&P market to find a way to survive in this risky and volatile industry.
-S&P brokers are the intermediaries for the market, and their work is some-
-what different from freight market brokers. In part because the value of a
+S&P brokers are the intermediaries for the market, and their work is somewhat different from freight market brokers. In part because the value of a
 transaction is much more than that of a charter party and in part because
 ships are technical assets, the process of S&P always moves slowly.
 
@@ -561,8 +521,7 @@ shipyards have their own designs and optimize their production lines by
 building identical ships. Shipowners can select from a few designs and have
 limited options for modifying them.
 
-In the last few decades, new building brokers have begun to help ship-
-owners determine the right ship and shipyard for their new vessel. They rely
+In the last few decades, new building brokers have begun to help shipowners determine the right ship and shipyard for their new vessel. They rely
 on their experience and network connections with shipyards throughout the
 world. However, many shipowners still prefer to deal with the shipyards
 directly and manage the process on their own.
@@ -581,8 +540,7 @@ Obviously, companies with strong green policies prefer these yards.
 
 Models of shipping markets and the hidden forces behind our decisions
 
-There is a strong academic emphasis on modeling shipping markets and pre-
-dicting/estimating the dynamics of the business. Statistical methods, time series
+There is a strong academic emphasis on modeling shipping markets and predicting/estimating the dynamics of the business. Statistical methods, time series
 analyses, and econometrics are frequently used for testing models and finding
 the magnitude of factors within particular markets. Although a large volume of
 academic literature deals with modeling, it is still difficult to say that we have
@@ -597,8 +555,7 @@ not wholly inferior, but it does need some adjustment to more accurately reflect
 the reality of what goes on in everyday business and even in our own minds.
 
 Sections of our brain play a significant role in controlling how we collect and
-process information, as well as the decisions we execute based on that knowl-
-edge. The studies of neuroeconomics, neurofinance, and neuromarketing were
+process information, as well as the decisions we execute based on that knowledge. The studies of neuroeconomics, neurofinance, and neuromarketing were
 
 all born from examining the intersection of neuroscience and the other fields,
 respectively. By the same token, the intersection of psychology and economics
@@ -609,8 +566,7 @@ words, action-knowledge. Behavioral economics was, in part, the next step in
 creating an economic model that represented all the actors and influences in
 business. The so-called heterodox economics (or 'bad boys' economics') shed
 light on the shortcomings of the classical model of economics, effectively
-demolishing it as a stand-alone framework. While the classical model pro-
-vided a good knowledge base for understanding the shipping industry, its time
+demolishing it as a stand-alone framework. While the classical model provided a good knowledge base for understanding the shipping industry, its time
 has passed. We must move on to a better way of understanding the market.
 
 Human beings behave irrationally. We are blinded by our emotions, we
@@ -626,53 +582,45 @@ equipping ourselves with tools and instruments to deal with them.
 Supply-demand framework
 
 The history of conventional economics and that of maritime economics as a
-branch of applied economics coincide in many facets of theoretical inter-
-pretation as well as practical use. Therefore, it is not surprising to notice that
-many leading economists studied maritime-related topics during their aca-
-demic careers. Lincoln Paine, in his work The Sea and Civilization (2014),
+branch of applied economics coincide in many facets of theoretical interpretation as well as practical use. Therefore, it is not surprising to notice that
+many leading economists studied maritime-related topics during their academic careers. Lincoln Paine, in his work The Sea and Civilization (2014),
 strikingly emphasizes that "all history is maritime history." Every aspect of
 our modern maritime economics theory is basically born out of conventional
 economic theory and its incubation nests. Bulk shipping economics broadly
-leads the research in maritime economics and is considered a frontier con-
-sidering its history goes back much further than that of other segments, such
+leads the research in maritime economics and is considered a frontier considering its history goes back much further than that of other segments, such
 as liner shipping. The current school of maritime economics is built on some
 fundamental hypotheses:
 
-•
+-
 Freight rate (bulk shipping) is settled in an environment led by supply of
 bulk shipping services (usually attributed as fleet capacity) and demand
 for bulk shipping services (usually attributed as seaborne trade volume).2
 
-•
+-
 Supply of shipping services is very inelastic3 (difficult to build ships in the
 short run).
-•
+-
 Shipping markets are efficient, at least in the long run4 (no room for price
 arbitrage).
-•
+-
 Bulk shipping markets are perfectly competitive5 (so many players).
-•
+-
 Price in the shipping business is mean-reverting (freight market memory)
 and stationary random walk series with no predictability.6
 
-•
+-
 Period freight rate is the expectation of future spot rate (i.e. term structure).7
 
 Despite their central role, the various hypotheses are accepted and rejected in
 different parts of the literature depending on the time period or the method
-used for testing procedures. Therefore, we cannot easily assume their gen-
-erality and robustness. In addition, even the way we use statistical inference
+used for testing procedures. Therefore, we cannot easily assume their generality and robustness. In addition, even the way we use statistical inference
 changes over time.8
 
-The supply-demand framework also plays a central role in theoretical under-
-pinnings of maritime economics, in close connection with these hypotheses; and
-at some point, they are proof of each other. Although the supply-demand fra-
-mework is well established theoretically (theoretical-laboratory economics),
-measurement of real supply and demand is quite difficult in practice. The supply-
-demand framework was first developed by the so-called fathers of economics in
+The supply-demand framework also plays a central role in theoretical underpinnings of maritime economics, in close connection with these hypotheses; and
+at some point, they are proof of each other. Although the supply-demand framework is well established theoretically (theoretical-laboratory economics),
+measurement of real supply and demand is quite difficult in practice. The supplydemand framework was first developed by the so-called fathers of economics in
 an era of physical discovery boom, and the theory is very much inspired from its
-mechanical perspective. The emergence of Austrian, behavioral, and institu-
-tional schools of economics broadly relies on the gap between the mechanical
+mechanical perspective. The emergence of Austrian, behavioral, and institutional schools of economics broadly relies on the gap between the mechanical
 narrative of economics and the economic phenomenon in practice.
 
 In maritime economics, measurement of supply and demand for shipping
@@ -685,25 +633,19 @@ its historical backings and the basis on which the theory is built.
 
 Supply and demand for shipping services: measurement debate
 
-Mainstream economics particularly emphasizes the supply-demand frame-
-work for pricing of products and services. Pricing shipping services (i.e. freight
+Mainstream economics particularly emphasizes the supply-demand framework for pricing of products and services. Pricing shipping services (i.e. freight
 rate formation) is thought to be a typical example of the supply-demand-led
 Walrasian equilibrium mechanism including some negligible external factors
 such as politics and social setting (in most studies, it is either ignored or
 assumed limited) (see Walras, 1874). Based on this origin, supply-demand
-analysis is a key part of both academic and professional assessment of ship-
-ping markets. Before moving one step further, a comparative analysis of the
+analysis is a key part of both academic and professional assessment of shipping markets. Before moving one step further, a comparative analysis of the
 shipping industry and other service industries would be timely and useful.
 
-In the conventional service industry (e.g. restaurants, hotels), demand fac-
-tors are usually measurable and allow assessments in relation to the limited
+In the conventional service industry (e.g. restaurants, hotels), demand factors are usually measurable and allow assessments in relation to the limited
 size of their markets. A restaurant in a city merely serves the population
-around the city, and short response times (customer visits, completion of ser-
-vice) enables the number of customers and the volume of required services to
-be counted. A hotel located in a metropolitan area is designed for guests vis-
-iting that particular city and local area, within relatively small boundaries.
-Data are readily available at any time. Most importantly, the number of cus-
-tomers that are declined or not serviced in a timely way (delayed) are known
+around the city, and short response times (customer visits, completion of service) enables the number of customers and the volume of required services to
+be counted. A hotel located in a metropolitan area is designed for guests visiting that particular city and local area, within relatively small boundaries.
+Data are readily available at any time. Most importantly, the number of customers that are declined or not serviced in a timely way (delayed) are known
 to key decision-makers, and this aids design and restructuring of facilities and
 capacity. For example, a customer waiting in a queue at a restaurant is
 explicitly known to managers. In modern restaurant chains, you may also find
@@ -743,12 +685,9 @@ commercial economy and performance of several types of merchant steamers
 on some of the principal lines of steam-ship traffic" in which he explicitly
 indicated the railway transport analogy:
 
-The performance of the five ships is given in carriage units, called "ton-
-miles," computed in an analogous sense to "train-mile" in railway termi-
-nology. A ton-mile is the performance accomplished in carrying one ton of
+The performance of the five ships is given in carriage units, called "tonmiles," computed in an analogous sense to "train-mile" in railway terminology. A ton-mile is the performance accomplished in carrying one ton of
 deadweight for the distance of one nautical mile; therefore, if a ship carries
-200 tons deadweight, besides her coal, upon load draught, and runs a dis-
-tance of 35,000 nautical miles per annum, her total annual performance as
+200 tons deadweight, besides her coal, upon load draught, and runs a distance of 35,000 nautical miles per annum, her total annual performance as
 a freight carrier is 35,000  200, equal to 7,000,000 ton-miles.
 
 (Bergius, 1871, p. 433)
@@ -839,7 +778,7 @@ Year.
 
 per
 
-> **Figure 2.1 The first use of the ton-mile metric for shipping services by Walter C. Bergius (1871)**
+Figure 2.1 The first use of the ton-mile metric for shipping services by Walter C. Bergius (1871)
 
 besides
 
@@ -944,8 +883,8 @@ although they are stated in a slightly different way, at least as far
 as freight is concerned. There may be laid down as general 
 principles that--
 
-> **Figure 2.2 Chapter I, the unit of transportation
-Source: Woodlock (1899, p. 5)**
+Figure 2.2 Chapter I, the unit of transportation
+Source: Woodlock (1899, p. 5)
 
 are real and true measures of transportation, whereas neither of the
 component parts is alone a measure.
@@ -961,8 +900,7 @@ associate the ton-mile metric with demand or supply.
 In the 20th century, one of the pioneers of econometrics and also theory of
 maritime economics, Jan Tinbergen (First Nobel Laureate in Economics,
 1969), utilized the ton-mile metric in his seminal work "Tonnage and Freight"
-(1934). In contrast to previous uses of the ton-mile metric, Tinbergen asso-
-ciated it with demand (i.e. demand index) while indicating the volume of
+(1934). In contrast to previous uses of the ton-mile metric, Tinbergen associated it with demand (i.e. demand index) while indicating the volume of
 tonnage and operating cost (i.e. coal price as marine bunker) as supply-side
 indicators (the "supply picture" in the original text). In various publications
 in the field since then, seaborne trade volume (ton-miles) has frequently been
@@ -974,38 +912,31 @@ Challenges of the ton-mile metric
 
 In theoretical economics, identical units are used for demand and supply so as
 to analyze prices balance or imbalance (i.e. equilibrium). Seaborne trade
-volume or, in other words, ton-mile (sum product) of 'materialized' (per-
-formed) shipments is preferred as a measure of demand rather than supply. In
-his supply-demand framework, Stopford (2009, p. 137) prefers the use of ton-
-mile metrics for both supply and demand sides. So, Stopford (2009) debiases
-the unit and balancing problem in the theoretical framework. The funda-
-mental question is whether seaborne trade would be an indicator for demand
+volume or, in other words, ton-mile (sum product) of 'materialized' (performed) shipments is preferred as a measure of demand rather than supply. In
+his supply-demand framework, Stopford (2009, p. 137) prefers the use of tonmile metrics for both supply and demand sides. So, Stopford (2009) debiases
+the unit and balancing problem in the theoretical framework. The fundamental question is whether seaborne trade would be an indicator for demand
 or supply of shipping services. It is clear that the size of merchant shipping
 fleet is about the tonnage capacity for shipping while it is not the real size of
 shipping supply (deadweight tonnage, or DWT, vs. ton-mile).
 
 Tinbergen (1934) also indicates the accuracy problem in demand analysis. The
 neoclassical approach assumes a unidirectional impact from demand to prices,
-and Tinbergen (1934) follows this principle while indicating that the contra-
-impact of price over the demand would be negligible or less than opposite. In
+and Tinbergen (1934) follows this principle while indicating that the contraimpact of price over the demand would be negligible or less than opposite. In
 other words, demand for shipping is fairly inelastic (demand-driven market).
 
-There are two problems with the approach. First, seaborne trade (or ton-
-mile based on performed shipments) does not reflect shipments that are
+There are two problems with the approach. First, seaborne trade (or tonmile based on performed shipments) does not reflect shipments that are
 delayed or cancelled due to shortage of tonnage or unfeasible freight rates.
 There is no instrument to gauge its size and impact, and it is actually quite
 cyclical. When freight rates are taken over long-term average, shipowners
 usually fix their fleet easily and ships are very productive. On the other hand,
 
 cargo owners may have difficulty finding shipping space when the entire fleet
-is in a very productive and busy period. That will eventually cause resche-
-duling of shipments, delays, parcel size changes (getting larger with higher
+is in a very productive and busy period. That will eventually cause rescheduling of shipments, delays, parcel size changes (getting larger with higher
 freight rates), and so on. During the opposite period of the market, freight
 rates are lower than long-term average, and the size of fleet is typically in
 oversupply cycle. In such circumstances, cargo owners will find tonnage easily,
 while shipowners will have difficulty employing their fleet. That eventually
-reduces productivity of the fleet (longer off-hire periods, slow steaming, lay-
-ups). In the first example, seaborne trade is a more reliable indicator for
+reduces productivity of the fleet (longer off-hire periods, slow steaming, layups). In the first example, seaborne trade is a more reliable indicator for
 supply (full capacity), while in the second example, it is better indicator of
 demand. So, it is quite difficult to have a common interpretation of seaborne
 trade volume. In between these opposite periods of the market, there will be
@@ -1017,15 +948,12 @@ The second problem is that the approach pretty much generalizes the demand
 for shipping, and it is implicitly assumed to be a static process. Even Tinbergen
 (1934), around a century ago, pointed out the various cargoes and tonnages, and
 today we also know that there are several cargoes and corresponding parcel size
-configurations. In addition to that, parcel sizes are not static, but they are dyna-
-mically settled in different global economy climates. For example, grain parcels
+configurations. In addition to that, parcel sizes are not static, but they are dynamically settled in different global economy climates. For example, grain parcels
 may shift between Handymax (e.g. 45k DWT) and Panamax (e.g. 70k DWT)
 tonnages based on schedule and amount of trading activities. When demand for
-a cargo increases, cargo owners may merge parcels into a single Panamax ship-
-ment rather than double Handymax shipments in a time lag. With a growing
+a cargo increases, cargo owners may merge parcels into a single Panamax shipment rather than double Handymax shipments in a time lag. With a growing
 global population and increasing consumption, there is also a long-term rising
-trend in parcel sizes. Last but not least, there are cargo exchanges between gen-
-eral cargoes/bulk cargoes and container shipping with the increasing capacity of
+trend in parcel sizes. Last but not least, there are cargo exchanges between general cargoes/bulk cargoes and container shipping with the increasing capacity of
 bulk cargo containers (particularly tank containers).
 
 Going back to its use by Bergius (1871), the ton-mile metric is explicitly a
@@ -1036,18 +964,15 @@ and dry bulk seaborne trade volume (e.g. over 0.85 for the last 30 years), and
 that causes a multicollinearity problem in econometric models with both
 demand and supply as independent variables. Measurement and analysis of
 shipping services has always been a great challenge in terms of collecting
-relevant data and modelling in econometrical instruments as well as inter-
-preting the results. Predictability of the shipping markets is thought to be as
+relevant data and modelling in econometrical instruments as well as interpreting the results. Predictability of the shipping markets is thought to be as
 low as when flipping a coin.
 
 Adoption of the ton-mile metric in maritime economics
 
-Considering the maritime economics literature, the most cited scholarly pub-
-lication utilizing the ton-mile metric was written by Tinbergen (1934). It is
+Considering the maritime economics literature, the most cited scholarly publication utilizing the ton-mile metric was written by Tinbergen (1934). It is
 
 obvious that Tinbergen's work has made a significant impact in the field,
-which did not exist beforehand. The persuasive power of Tinbergen is inevi-
-table. He is known as one of the fathers of modern econometrics and was also
+which did not exist beforehand. The persuasive power of Tinbergen is inevitable. He is known as one of the fathers of modern econometrics and was also
 the first Nobel Laureate (originally Bank of Sweden Prize in Economics). If
 we review a little bit of the background of early developments in economics, it
 is no secret that the age of Tinbergen was reliant on transfer of ideas from
@@ -1059,11 +984,9 @@ economic actions. So, the econometric approach requires the measurement
 of major components including supply and demand. Therefore, the ton-mile
 metric is a solution to the measurement problem in the shipping services.
 
-In subsequent years, the vast majority of the literature has adopted Tin-
-bergen's approach, though a number of scholars prefer a much more neutral
+In subsequent years, the vast majority of the literature has adopted Tinbergen's approach, though a number of scholars prefer a much more neutral
 position, such as that of Metaxas (1972). Metaxas (1972, p. 274) states that
-"the tramp freight market mechanism is not characterised by a stable equili-
-brium; demand is not always equal to the supply of tramp shipping tonnage
+"the tramp freight market mechanism is not characterised by a stable equilibrium; demand is not always equal to the supply of tramp shipping tonnage
 at a price at which only normal profits are made." Thus, he also underlines
 the lack of real equilibrium in the market. Metaxas (1972) does not frame the
 shipping demand in the context of ton-mile measurement, but the weight of
@@ -1075,8 +998,7 @@ Koopmans also clearly defines the ton-mile metric as a measure of both
 shipping supply and demand.
 
 In Charemza and Gronicki (1981) and Beenstock and Vergottis (1993,
-p. 17), the demand for dry cargo freight is represented by ton-mile measure-
-ment. Charemza and Gronicki (1981) utilize an indirect approach while still
+p. 17), the demand for dry cargo freight is represented by ton-mile measurement. Charemza and Gronicki (1981) utilize an indirect approach while still
 following the ton-mile approach. In the theoretical analysis of Tvedt (2003,
 p. 343), the ton-mile metric plays an integral role again as a demand indicator.
 Glen and Martin (2002) also assume the association between the ton-mile
@@ -1092,8 +1014,7 @@ majority of past and ongoing research in maritime economics implicitly or
 explicitly assumes the ton-mile metric as an indicator of demand in various
 ship types (also TEU-mile in container shipping). On the other hand, the real
 explanatory power of seaborne trade is very low since the seaborne trade
-volume for various cargoes has had a steadily increasing trend with no sig-
-nificant decline except for years when there was a market collapse (e.g. 2008)
+volume for various cargoes has had a steadily increasing trend with no significant decline except for years when there was a market collapse (e.g. 2008)
 (Figure 2.3).
 
 40.00
@@ -1101,20 +1022,6 @@ nificant decline except for years when there was a market collapse (e.g. 2008)
 25.00
 
 10.00
-
-1992
-1994
-1996
-1998
-2000
-2002
-2004
-2006
-2008
-2010
-2012
-2014
-2016
 
 2014
 
@@ -1141,7 +1048,7 @@ Source: Clarksons Research
 
 2002
 
-> **Figure 2.3 World seaborne trade volume for various cargoes**
+**Figure 2.3** World seaborne trade volume for various cargoes
 
 1999
 
@@ -1168,9 +1075,7 @@ handling procedures are not followed.
 
 There is another critical reason for use of the ton-mile metric. Econometric
 studies in maritime economics (also economics in general) are usually
-designed to observe relationships between variables (e.g. elasticities) in his-
-torical data. The predictive power of those models is never tested and pre-
-sented in the current literature. The unique validation process for predictive
+designed to observe relationships between variables (e.g. elasticities) in historical data. The predictive power of those models is never tested and presented in the current literature. The unique validation process for predictive
 power is the post-sample test of predictions generated by proposed models.
 The post-sample test of predictive properties of econometric models tends to
 be ignored, and therefore the gap between statistical significance in past data
@@ -1180,11 +1085,9 @@ of the problems of such inconsistencies.
 
 ***
 
-Taking account of the inadequacy of supply-demand measurement instru-
-ments, utilizing the neoclassical framework has both theoretical and practical
+Taking account of the inadequacy of supply-demand measurement instruments, utilizing the neoclassical framework has both theoretical and practical
 challenges. It is obviously not straightforward to employ seaborne trade as the
-volume of demand or supply since it is not technically a complete repre-
-sentation of either variable. Seaborne trade volume (ton-mile) may be a good
+volume of demand or supply since it is not technically a complete representation of either variable. Seaborne trade volume (ton-mile) may be a good
 predictor of demand at recession (oversupply, full utilization of shipments) or
 a good predictor of supply at upturn (undersupply, full utilization of fleet).
 But in both cases, various classifications of vessels and their cargo raise
@@ -1200,8 +1103,7 @@ the industry without attributing it to either demand or supply.
 2 For example, Stopford (2009).
 3 Stopford (2009) and Lun et al. (2010), among others.
 4 See Glen (1997); Adland and Koekebakker (2004); Adland and Strandenes (2006).
-5 For liner shipping markets, several scholars indicate the weakness of market com-
-petition and existence of oligopoly; for example, Sys (2009) and Fox (1994).
+5 For liner shipping markets, several scholars indicate the weakness of market competition and existence of oligopoly; for example, Sys (2009) and Fox (1994).
 6 At least nonlinear stationary (Koekebakker et al., 2006).
 7 See Koekebakker and Ådland (2004) and Veenstra (1999), among others.
 8 The American Statistical Association (ASA) recently published a statement on issues
@@ -1214,28 +1116,24 @@ group of econometricians have redefined the use of the p-value (Benjamin et al.,
 
 *Fleet vs. portfolio*
 
-Shipping investor • "This time it's different"
+Shipping investor - "This time it's different"
 
-Euphoria • Chicken's inductive reasoning
-Fear and greed • Amygdala hijack • Market for lemons
+Euphoria - Chicken's inductive reasoning
+Fear and greed - Amygdala hijack - Market for lemons
 
 There are fundamentally two kinds of investors in shipping: flag wavers and
 asset managers. The relationship between ships and their owners affect their
 future in the business. Some shipowners prefer to be quite attached to their
-ships, going so far as bestowing to them the names of their mothers, spou-
-ses, or other relatives. Even professional hedge fund managers like to think
+ships, going so far as bestowing to them the names of their mothers, spouses, or other relatives. Even professional hedge fund managers like to think
 that they are the "shipping man" right out of Matthew McCleery's novel
 (2011). It is common to see this much meaning and emotion invested in
 being a shipowner.
 
 We attach such significance to owning merchant ships because of how
-important the oceans have been in human history. Naval fleets have deter-
-mined the course of nations and the rise and fall of empires. There is always
-an element of danger: despite advancements in technology and ships equip-
-ped with state-of-the-art technology, vessels litter the seafloor. Moreover, the
+important the oceans have been in human history. Naval fleets have determined the course of nations and the rise and fall of empires. There is always
+an element of danger: despite advancements in technology and ships equipped with state-of-the-art technology, vessels litter the seafloor. Moreover, the
 lure of the unknown still entices us: we know more about our solar system
-than we do about the ocean. Being the owner of a ship taps into every cul-
-ture's deep-seated awe of the sea. It is no surprise, then, that such inherent
+than we do about the ocean. Being the owner of a ship taps into every culture's deep-seated awe of the sea. It is no surprise, then, that such inherent
 meaning affects how we look at ships. In any selling, buying, or building
 decisions, these emotions come into play.
 
@@ -1256,8 +1154,7 @@ some people might think. In short, business skill and intelligence play the
 biggest role in success or failure.
 
 The real challenge is minimizing our own emotions. Words impact strongly on
-how we perceive situations and, therefore, what we decide. The very term 'ship-
-owner' has a strong emotional background embedded in its meaning. Instead,
+how we perceive situations and, therefore, what we decide. The very term 'shipowner' has a strong emotional background embedded in its meaning. Instead,
 we could use the term 'shipping investor,' which focuses on the financial context.
 
 When freight rates are high and everything is going well, we are happy
@@ -1265,8 +1162,7 @@ When freight rates are high and everything is going well, we are happy
 case, but how much more difficult is it when it is hard to explain your rational
 decision to your emotionally attached shipping colleagues?
 
-In the economic bubble of 2007, the order book volume (i.e. vessels con-
-tracted to be built) reached a historical high despite historically high costs.
+In the economic bubble of 2007, the order book volume (i.e. vessels contracted to be built) reached a historical high despite historically high costs.
 The price elasticity of contracting volume (i.e. the willingness to pay and
 purchase) also reached a historical peak. In practical terms, shipowners were
 spending money as if they were shopping for luxury brands on Fifth Avenue,
@@ -1331,9 +1227,7 @@ opportunity to sell your vessel. That is, unless you hedge your long-term risk
 Market for lemons and ships
 
 Today, we prefer the term 'shipping asset' to just ships or vessels when we
-refer to a sale. As I said earlier, I advocate that shipowners think of them-
-selves as shipping investors. This redirects the focus away from being a cap-
-tain sailing on the seas to the financial aspects of getting a return on a
+refer to a sale. As I said earlier, I advocate that shipowners think of themselves as shipping investors. This redirects the focus away from being a captain sailing on the seas to the financial aspects of getting a return on a
 financial investment. Shipowners can still enjoy the feelings that come with
 being a shipowner, but as a result--not as a reason in itself.
 
@@ -1360,8 +1254,7 @@ amygdala, part of the neural system found at the base of the brain, governs
 most of our emotional responses. Such emotions can affect or even determine
 our reactions to certain situations (aka an amygdala hijack; Goleman, 1998).
 If you want to survive and thrive in the shipping industry, you need to
-understand how your emotional center works and affects your decision-
-making abilities.
+understand how your emotional center works and affects your decisionmaking abilities.
 
 Let's return to our analogy of shipping assets and the stock market. We
 sometimes react quickly to new information, such as a political declaration or
@@ -1370,8 +1263,7 @@ can quickly buy or sell.
 
 The S&P process of a shipping asset takes time. If you want to purchase a
 secondhand ship, you must first assess its condition. Like Akerlof's (1978)
-"market for lemons," it is difficult to properly see its condition from the out-
-side, beyond its size and number of cargo holds, without an expert. The ship
+"market for lemons," it is difficult to properly see its condition from the outside, beyond its size and number of cargo holds, without an expert. The ship
 must be berthed at a port, you have to find a person with reliable expertise to
 conduct a pre-purchase survey and coordinate their time, and only then--
 should everything go well--can you proceed to purchase it. This usually takes
@@ -1408,11 +1300,9 @@ but it is not a good idea to exit the market completely. The reason is customer
 loyalty. If you want to make a profitable and sustainable business in the
 shipping industry, you should have strong long-term ties with your charterers.
 
-Sometimes you earn a lot, sometimes you lose a little, but all in all char-
-terers value a good partner to help share the risk and grow together. In the
+Sometimes you earn a lot, sometimes you lose a little, but all in all charterers value a good partner to help share the risk and grow together. In the
 Japanese shipping industry, this relationship has the highest priority. From a
-commonsense perspective, what customer would want to work with a ship-
-owner who has a reputation for asset play and sudden exits from the market?
+commonsense perspective, what customer would want to work with a shipowner who has a reputation for asset play and sudden exits from the market?
 
 You should never lose your focus on the opportunity to sell your assets, but
 neither should you risk your long-term reputation. A shipping investor needs
@@ -1444,8 +1334,7 @@ Shipping investors do not necessarily have to be shipowners. If you have
 strong ties with exclusive charterers and if you can gain high profits, above the
 market norm, you may prefer to play arbitrage. In this non-asset-based form
 of investing, you gather ships with time charter contracts and then trade them
-for your exclusive charterers' needs. There are a significant number of com-
-panies that can benefit from non-asset investment, and the opportunity of
+for your exclusive charterers' needs. There are a significant number of companies that can benefit from non-asset investment, and the opportunity of
 asset play is excluded. While this reduces your business risk, it also limits your
 potential opportunities.
 
@@ -1466,8 +1355,7 @@ the data and perhaps some useful diagrams. However, to derive knowledge
 from them and answer your real questions will require a lot of effort on your
 part or outsourcing of the work to a consultancy. Creating knowledge in the
 shipping business is not as easy as some think. Doing so requires not only
-the right quality data but also a wider perspective, including economic his-
-tory, market psychology, the global economic climate, and even political
+the right quality data but also a wider perspective, including economic history, market psychology, the global economic climate, and even political
 trends.
 
 For any kind of proper analysis, we need the relevant information as well as
@@ -1496,8 +1384,7 @@ reports tell us much more. The best method to arrive at the most reliable
 conclusions, though, is to collect raw data, develop your own analytical skills,
 and derive information yourself. You may have some headaches getting there,
 but that is nothing compared to the headache of being in the wrong place
-when the market crashes. If you are not going to analyze the data your-
-self, then at least hire an experienced company or analyst who can provide
+when the market crashes. If you are not going to analyze the data yourself, then at least hire an experienced company or analyst who can provide
 true consulting--not just one who can graph the data and let you draw
 your own conclusions.
 
@@ -1507,8 +1394,7 @@ As I pointed out earlier, we use the term 'fixture' in the shipping industry to
 refer to a shipping transaction (i.e. charter party agreement). One of the
 major components of shipping market reports is usually the list of fixtures. A
 fixture tells you which ship is fixed (chartered) for what type and tonnage of
-cargo, on which route, to whom, and the freight rate (plus some other tech-
-nical points). You can learn about common tonnages, trending cargoes, the
+cargo, on which route, to whom, and the freight rate (plus some other technical points). You can learn about common tonnages, trending cargoes, the
 current level of freight rates, and potential charterers all from a single report.
 
 When you look these data, sometimes you will see the conventional mark
@@ -1522,8 +1408,7 @@ Arab-Israeli dispute, for example).
 Also, I question the reliability of these data. Without revealing charterers
 and ships, some parties can manipulate fixtures to mislead others who depend
 on the data (e.g. charterers). Since most of the suppliers of these data serve as
-intermediaries (i.e. shipping brokers), high freight rates--or at least the per-
-ception of high rates--may artificially inflate the market. Fixtures are the
+intermediaries (i.e. shipping brokers), high freight rates--or at least the perception of high rates--may artificially inflate the market. Fixtures are the
 result of negotiations. If one side in the negotiation perceives that the market
 price for freight rates is higher than they actually are, this would affect their
 strategy. The process for arriving at the negotiated rate can begin at the
@@ -1531,8 +1416,7 @@ opposite end, going from result (the fixture price) to reason (the market rate)
 instead of the other way around.
 
 By inflating the freight rate, the two sides of the table have a reference or
-anchor point. In behavioral economics, the anchoring effect has been thor-
-oughly discussed. The basic principle behind the theory is that people tend to
+anchor point. In behavioral economics, the anchoring effect has been thoroughly discussed. The basic principle behind the theory is that people tend to
 make their estimations based on recognized data. In the above scenario, when
 approaching a contract negotiation, a charterer would consider as a starting
 point the current level of freight rates as reported in the fixtures data.
@@ -1590,8 +1474,7 @@ New building contracts
 In the new building section of shipping reports, you can usually find a
 list of new building contracts fixed during the reporting period, similar
 
-to the fixtures in the freight market. It includes the names of the ship-
-owner and shipyard, the type and tonnage of the prospective ship, and
+to the fixtures in the freight market. It includes the names of the shipowner and shipyard, the type and tonnage of the prospective ship, and
 its contracted price. At first glance, the data may seem intact, leading us
 to believe the report does its job. However, our work is not finished yet.
 To truly understand, we must examine the nature of new building
@@ -1607,21 +1490,18 @@ a period of time. In truth, a new building contract has many more
 meanings than that.
 
 There are other reasons for, and functions of, a new building contract. First
-of all, we should note that a new building contract can be cancelled. Some-
-times this incurs a cancellation fee, but some contracts offer enough flexibility
+of all, we should note that a new building contract can be cancelled. Sometimes this incurs a cancellation fee, but some contracts offer enough flexibility
 that this does not happen. For example, Chinese shipyards--backed by the
 Bank of China--offered very flexible contract terms in order to compete with
 South Korean and Japanese competitors during the historical upturn (2007-
 2008). As such, we cannot know with any degree of confidence whether a new
 building contract will actually result in delivery.
 
-A new building contract is not necessarily a binding agreement for a ship-
-owner. As such, some shipowners use these agreements as tools to achieve
+A new building contract is not necessarily a binding agreement for a shipowner. As such, some shipowners use these agreements as tools to achieve
 other objectives. For example, a publicly traded company may sign a new
 building contract to make it more attractive to investors. Such a contract can
 be taken as a signal of expansion, thereby raising market traders' expectations
-about the company and resulting in higher stock prices. Normally, a ship-
-owner would want to find the cheapest ship available, but in these cases, we
+about the company and resulting in higher stock prices. Normally, a shipowner would want to find the cheapest ship available, but in these cases, we
 observe the same parties contracting shipyards for more expensive ships,
 which would mean acquiring a higher-value asset. Basically, it's engineering
 the stock price.
@@ -1655,10 +1535,8 @@ includes taxes and depreciation. However, I am unaware of any shipowners
 paying taxes elsewhere. The shipping business is mostly an offshore business,
 usually with ship companies registered in lesser-known cities and with bank
 accounts in another country. 'Flagging out' was a popular trend in the second
-half of the 20th century, where a company would register a flag of con-
-venience (FOC) company. FOC-friendly countries usually do not require any
-significant amount of tax. They simply collect some fees and some paper-
-work. Some of these countries even follow the industry, revising their legal
+half of the 20th century, where a company would register a flag of convenience (FOC) company. FOC-friendly countries usually do not require any
+significant amount of tax. They simply collect some fees and some paperwork. Some of these countries even follow the industry, revising their legal
 requirements in response to industry changes.
 
 Another part of the equation is depreciation, something particularly
@@ -1675,8 +1553,7 @@ Now let's return to our main topic, the data relevant to appraising an
 investment. You need three major estimations: freight rate (TCE basis);
 OPEX; and, the most important input of CAPEX, the interest rate. (This
 assumes you have already defined the leverage of debt and the spread rate/
-risk premium over the base interest.) The conventional method is to calcu-
-late the long-term average of the existing data and then use it to estimate
+risk premium over the base interest.) The conventional method is to calculate the long-term average of the existing data and then use it to estimate
 the long-term average of the future market (some predictions for the first
 few years, then a long-term average assuming mean-reverting market). If a
 shipping investor were to ask their chief financial officer for an investment
@@ -1705,13 +1582,10 @@ of an expert for valuation at that particular year. We used a variety of data
 lengths and compared it to the realized values. We found some results for a
 variety of project samples with the limited capabilities of econometrics.
 
-The results of this study also contribute to our investment appraisal pro-
-blem. It shows us that we cannot assume a constant length of time for long-
-term estimations on a variety of projects. Every ship project (type, tonnage,
+The results of this study also contribute to our investment appraisal problem. It shows us that we cannot assume a constant length of time for longterm estimations on a variety of projects. Every ship project (type, tonnage,
 age) has its own specific length of data. We need to be critical about the data
 estimations and the time assumptions. One can easily manipulate these
-spreadsheet calculations with some pink adjustments, as I demonstrated ear-
-lier. A longer-term data set allows you to eliminate the drawbacks of outliers,
+spreadsheet calculations with some pink adjustments, as I demonstrated earlier. A longer-term data set allows you to eliminate the drawbacks of outliers,
 while a shorter-term data set allows you to capture the current market levels,
 knowing that the long-term average of freight rates have historically grown,
 based on natural inflation.
@@ -1719,8 +1593,7 @@ based on natural inflation.
 In this chapter, I have simply presented the drawbacks that inherently come
 with using data to appraise potential shipping investments. I encourage you to
 be skeptical of every data source and to improve your analytical capabilities.
-Every time you read a report, examine the rationale behind what was inclu-
-ded and excluded. Best of all, collect and format the data yourself, staying
+Every time you read a report, examine the rationale behind what was included and excluded. Best of all, collect and format the data yourself, staying
 aware of your own self-serving and confirmatory biases.
 
 ## Chapter 5: Information Asymmetry
@@ -1728,14 +1601,12 @@ aware of your own self-serving and confirmatory biases.
 *What you know and what you do not know!*
 
 The neoclassical economic model assumes that actors in the market have all
-available information and that no one benefits from having some extra-
-ordinary intelligence. This assumption is the basis for the efficient market
+available information and that no one benefits from having some extraordinary intelligence. This assumption is the basis for the efficient market
 hypothesis. Various economists have proposed the asymmetric information
 theory that points to possible irregularities or arbitrage opportunities in the
 market due to a lack of information, which creates particular advantage to a
 small selected group that gathers such information (see, for example, Stiglitz
-and Weiss, 1981). The asymmetric information is difficult to detect by out-
-siders, so you may not even be aware of its existence. However, it is not an
+and Weiss, 1981). The asymmetric information is difficult to detect by outsiders, so you may not even be aware of its existence. However, it is not an
 overstatement to say that there is always asymmetric information in the
 shipping business. For example, a good prediction or insider information is
 asymmetric information. If everybody knew it, it would not be of value;
@@ -1752,8 +1623,7 @@ he made. The primary considerations when dealing with the shipowner are
 how patient he is and what period of financial figures he cares about.
 
 The majority of shipowners are 'short-termers' (whether they accept this or
-not), and so they usually focus on short-term company figures, such as quar-
-terly profits, while placing less importance on long-term results. Recent
+not), and so they usually focus on short-term company figures, such as quarterly profits, while placing less importance on long-term results. Recent
 market data supports this view. During a peak market, many firms jump on
 the ship-owning bandwagon. Only a few of these have a long-term perspective
 and are also able to ride the market crashes. Very few shipping investors try
@@ -1780,8 +1650,7 @@ of information. If the shipowner is more of an observer and advisor rather than
 operator, an unfavorable outcome can arise. When a manager knows much more
 than the shipowner himself, it provides the manager a high degree of flexibility
 and can practice adverse selection. In behavioral economics, the moral hazard is
-an essential topic. When managers do not care about the morality of the infor-
-mation they share with the shipowner, they can manipulate the business to serve
+an essential topic. When managers do not care about the morality of the information they share with the shipowner, they can manipulate the business to serve
 their own interests at the expense of the owner's.
 
 Adverse selection works like this. A shipping company has several options
@@ -1795,14 +1664,12 @@ sustainability (after they have moved on to other positions or retired) in favor
 of short-term profits (that may be linked to their bonuses, immediate job
 security, and so on).
 
-Shipowners should be skeptical about what they know and what they prob-
-ably don't know, and they should have the company's managers' incentives
+Shipowners should be skeptical about what they know and what they probably don't know, and they should have the company's managers' incentives
 aligned with the right priorities.
 
 Asset play
 
-We know that asset play is the basis for shipping asset management. How-
-ever, it is not easy to recognize the cycles and time the market. Everybody
+We know that asset play is the basis for shipping asset management. However, it is not easy to recognize the cycles and time the market. Everybody
 wants to know what stage of the business cycle we are currently in and
 where it is going. Once we have proper answers to these questions, it is not
 difficult to define strategies. Although it is not easy to pinpoint the state of
@@ -1819,9 +1686,7 @@ shipbrokers, advisors, insurers, port agents, and so on. All of them connect
 the shipowner to a particular branch of the industry. I will discuss the nature
 of intermediaries in a later chapter, but here allow me to discuss them in the
 context of asymmetric information. Since you need an intermediary for a
-specific transaction, you probably have less information than the inter-
-mediaries. Put another way, they know more than you. I once read an inter-
-esting critique about such agents that said, "Fear professional advice when it
+specific transaction, you probably have less information than the intermediaries. Put another way, they know more than you. I once read an interesting critique about such agents that said, "Fear professional advice when it
 is especially good for the advisor." These are words to live by, as they say.
 When seeking professional help, it behooves you to question whether the
 advice is best for you or best for them.
@@ -1838,8 +1703,7 @@ customers and particularly care about customer loyalty. This is a sustainable
 business practice because of the level of integrity with which they provide
 market knowledge.
 
-Ha-Joon Chang (2014), the eminent professor at the University of Cam-
-bridge, emphasized the fact in another way: "Never trust an economist." This
+Ha-Joon Chang (2014), the eminent professor at the University of Cambridge, emphasized the fact in another way: "Never trust an economist." This
 very simple argument is among five mnemonic sentences selected by himself
 in his seminal work Economics: The User's Guide.
 
@@ -1864,8 +1728,7 @@ with certainty until you take the course. A detailed course description may be
 provided, but it can only give you a degree of confidence.
 
 Ideally, the organizer of the program should have a long résumé, having
-been vetted by thousands of participants about the quality of their informa-
-tion. They should also demonstrate strong ties with business practitioners.
+been vetted by thousands of participants about the quality of their information. They should also demonstrate strong ties with business practitioners.
 Courses that invite businessmen to share their experience would be very useful
 and contribute to the quality of the instruction.
 
@@ -1884,9 +1747,9 @@ enough to give you an advantage over your competitors.
 
 *Neuroeconomics of the shipping business*
 
-Amygdala • Hormonal factors
+Amygdala - Hormonal factors
 
-Jump-to-conclusion • Blink
+Jump-to-conclusion - Blink
 
 So, first of all, let me assert my firm belief that the only thing we have to
 fear is…fear itself--nameless, unreasoning, unjustified terror which
@@ -1908,11 +1771,9 @@ governs complicated tasks and connects the spinal cord to the rest of the
 brain. The cortex is further divided into subsections, such as the frontal
 cortex, credited for judgment and decision-making, as well as other sections
 that control vision, hearing, language, etc. The cerebellum has a very unique
-function. It is responsible for all our physical movements, including our bal-
-ance. Although every section of the brain has its own importance, the limbic
+function. It is responsible for all our physical movements, including our balance. Although every section of the brain has its own importance, the limbic
 system is probably the most relevant to neuroeconomics. Broadly, it manages
-our emotions and subconscious self. It is also closely related with our endo-
-crine system, which manages hormones and other chemicals that define the
+our emotions and subconscious self. It is also closely related with our endocrine system, which manages hormones and other chemicals that define the
 rhythm of our bodies and affect our emotional states.
 
 Andrew Lo, a professor at MIT, composed an academic paper reviewing
@@ -1929,15 +1790,13 @@ Dopamine addiction = risk-seeking
 
 Among human hormones, dopamine is the one most related to our economic
 behavior. When we secrete dopamine, our body physiologically changes (e.g.
-heart rate, blood pressure, etc.) as it prepares to take on the perceived situa-
-tion. You may feel it when you are happy, when your fiancé accepts your
+heart rate, blood pressure, etc.) as it prepares to take on the perceived situation. You may feel it when you are happy, when your fiancé accepts your
 marriage proposal, or when you gain an unexpected profit. The feeling of
 being at the top of the freight market is similar. Therefore, we should be
 cautious about the control of our dopamine drivers. Since dopamine is related
 to happiness and induces a kind of exhilaration, it rewards our cognitive self
 by reinforcing certain behaviors. There are two kinds of rewards: material,
-such as money or recognition; and cognitive--namely, dopamine. For exam-
-ple, intellectual satisfaction is a kind of dopamine reward. When a child is
+such as money or recognition; and cognitive--namely, dopamine. For example, intellectual satisfaction is a kind of dopamine reward. When a child is
 very curious to learn about something, dopamine will be their reward when
 they make their discovery. Dopamine rewards us when we take on a successful
 risk, giving us an incentive for the next one.
@@ -1955,11 +1814,9 @@ Priming effect and neuromarketing
 
 Scientists in this field have also investigated an interesting question: do we have
 a way to manipulate decisions? (If we had had some dopamine-suppressing
-drugs during the market boom, it would have been useful!) This is not a ques-
-tion about pharmacology but about external stimuli such as visual cues. For
+drugs during the market boom, it would have been useful!) This is not a question about pharmacology but about external stimuli such as visual cues. For
 example, monetary symbols and related pictures may promote more selfish
-behavior and less tolerance. The priming effect is a major instrument for neu-
-romarketing experts. They study primers to find ways to sell more products, like
+behavior and less tolerance. The priming effect is a major instrument for neuromarketing experts. They study primers to find ways to sell more products, like
 using beautiful models at auto shows. Hopefully, we will find a way to use such
 primers to help us make better decisions in terms of neuroeconomics.
 
@@ -2005,8 +1862,7 @@ and improve our critical judgment about how to deal with this.
 
 Why is there a dedicated conclusion for this chapter? At the beginning of the
 chapter, I assumed you asked why this material was important. If you were
-patient and read through it, then you are on the right track. But if you skip-
-ped it all and jumped to this conclusion for the quick answer, then you are
+patient and read through it, then you are on the right track. But if you skipped it all and jumped to this conclusion for the quick answer, then you are
 one of the people focused on the short term.
 
 Understanding of emotions is far from useless. In fact, they are essential.
@@ -2021,8 +1877,7 @@ knowledge into practice.
 
 When you know what to look out for, you have an early-warning system.
 When faced with a cognitively difficult decision that sparks fear or euphoria,
-a note pops up in your mind: "Warning! You're making an emotional deci-
-sion! Consider your actions!" This can give additional time (even if just a few
+a note pops up in your mind: "Warning! You're making an emotional decision! Consider your actions!" This can give additional time (even if just a few
 seconds) to execute decisions with the frontal cortex rather than jumping to
 decisions driven by the limbic system. Just like training our bodies, training
 our minds takes time, energy, dedication, and--most of all--patience.
@@ -2054,10 +1909,8 @@ Japanese miracle.'
 Japan as a product of the shipping business
 
 If you have a look at the history of Japanese business groups, you will come
-across many shipping firms that have played a significant role in the devel-
-opment of these business groups as well as in the Japanese economic boom.
-Today these business groups are composed of many subsidiaries, while ship-
-ping arms usually have very long histories going back to the 1800s. I will look
+across many shipping firms that have played a significant role in the development of these business groups as well as in the Japanese economic boom.
+Today these business groups are composed of many subsidiaries, while shipping arms usually have very long histories going back to the 1800s. I will look
 at some of these business groups and their shipping arms in this chapter. The
 process of optimizing their shipping business operations took a long time for
 Japanese business groups, and the history of the industry is, to a degree, the
@@ -2065,8 +1918,7 @@ history of Japan.
 
 In the 19th century, there were a few big companies. Two giants still hold
 such a status even today: the Mitsubishi Group and the Mitsui Group. Before
-their business operations in electronics, automobiles, food, trains, steel, air-
-craft, banking, and insurance, they were shipowners. Even today with the vast
+their business operations in electronics, automobiles, food, trains, steel, aircraft, banking, and insurance, they were shipowners. Even today with the vast
 diversification of these groups, shipping is still a major part of their portfolios.
 
 When speaking about Japan's shipping industry, I should also mention the
@@ -2077,8 +1929,7 @@ Kaisha (steam shipping company, aka K-Line) divisions.
 
 Their success in the shipping industry has fueled Japanese industrial
 growth. When the country was still considered a developing economy, the
-government particularly encouraged and supported shipping firms by provid-
-ing subsidies and other benefits. Today, these three giants are not 'too big to
+government particularly encouraged and supported shipping firms by providing subsidies and other benefits. Today, these three giants are not 'too big to
 fail,' but too well organized in commercial terms. The Japanese network
 economy is one of the most popular topics in industrial organization and,
 according to many researchers, a unique example.
@@ -2088,9 +1939,7 @@ Keiretsu: the network of shareholders
 Today, there are five or six major keiretsu groups, that include companies
 from a variety of businesses. In addition to the shipping sections (such as
 NYK of Mitsubishi, MOL of Mitsui, and the K-Line of Dai-Ichi Kangyo
-Group) and shipyards, they comprise commercial banks, heavy manufactur-
-ing, automotive companies, electronics, TV channels, insurers, trading com-
-panies, and more. Keiretsu is a kind of private solidarity group; most of these
+Group) and shipyards, they comprise commercial banks, heavy manufacturing, automotive companies, electronics, TV channels, insurers, trading companies, and more. Keiretsu is a kind of private solidarity group; most of these
 companies hold shares in the others. For instance, a shipping company may
 also be a shareholder in a steel company as well as a commercial bank.
 
@@ -2108,8 +1957,7 @@ leads to beneficial negotiations and long-term sustainability.
 Empathy
 
 In conventional business practices, a shipping company is happy when the
-market recovers and unhappy when the market collapses. The relative differ-
-ence between what they expect and what they experience spills over to the
+market recovers and unhappy when the market collapses. The relative difference between what they expect and what they experience spills over to the
 shipowners' other cognitive functions. Therefore, they need a countermeasure.
 If a shipowner also holds ownership in a manufacturer that needs shipping
 services, the satisfaction of being a charterer will help them maintain their
@@ -2123,17 +1971,13 @@ common practice today is for one side to win at the other's expense. Charterers
 are king for a while, and then shipowners reclaim the throne.
 
 Solidarity wins; the unilateral approach loses. The Japanese shipping
-miracle is based on a simple rule: build long-term relationships with char-
-terers at a reasonable and small profit margin. This approach naturally elim-
-inates aggressive marketing and a short-term approach to capital investments.
+miracle is based on a simple rule: build long-term relationships with charterers at a reasonable and small profit margin. This approach naturally eliminates aggressive marketing and a short-term approach to capital investments.
 Sustainable growth always survives and thrives.1
 
 Last but not least, the emergence of the Ocean Network Express (ONE), a
 joint venture of three liner shipping firms, is a historical moment for the
 industry. Three large container shipping arms, NYK, MOL and K-Line,
-decided to merge their liner shipping operations under a single unique com-
-pany due to fierce competition and the new structure of the container ship-
-ping market. No one would expect such a radical and extraordinary move
+decided to merge their liner shipping operations under a single unique company due to fierce competition and the new structure of the container shipping market. No one would expect such a radical and extraordinary move
 from any other group of shipping firms. There are so many commercial and
 financial difficulties in achieving such collaborative work and gaining synergy
 which these shipping firms have successfully overcome.
@@ -2153,16 +1997,14 @@ countries, there are some changes in the Japanese shipping industry scene.
 Centennial decline
 
 Curiously, the economic history of the shipping business is studied more by
-mainstream economists than maritime economists. It seems maritime econo-
-mists devote less attention to the history of economic thought and business
+mainstream economists than maritime economists. It seems maritime economists devote less attention to the history of economic thought and business
 strategies than their mainstream colleagues.1 This mirrors the business itself in
 that most people just talk about the last market boom and the next likely
 collapse. Many do not consider what lessons can be learned from the past.
 Our industry has a preoccupation with the present and an overconfidence
 about the future. We do not feel that we need to look behind us.
 
-The economic history of the shipping business is fascinating and illus-
-trative. The real lessons to be learned are there in the midst of economic ups
+The economic history of the shipping business is fascinating and illustrative. The real lessons to be learned are there in the midst of economic ups
 and downs, crises, warfare, technological shifts, political change, and more. If
 we want to prosper in the shipping business, we should first know who has
 prospered in the past and how they did it.
@@ -2178,90 +2020,17 @@ father of system dynamics. Since our existing data is limited, we are still not
 sure about the nature of the very large cycles. However, we are sure that there
 is a renewing and iterative system in the economy.
 
-After 2007, some academic publishers began to use industrial document scan-
-ning facilities to transfer old hard copies to electronic databases. Many old studies
+After 2007, some academic publishers began to use industrial document scanning facilities to transfer old hard copies to electronic databases. Many old studies
 became available to download electronically and review (as opposed to spending
 days or months in libraries). As a result, researchers had new freight rate data to use
 for analysis. Previously, we only had data from few sources that went back as far as
 the end of the 1800s. Now we have far more data, as you can see from Figure 8.1.
 
-1741
-1746
-1751
-1756
-1761
-1766
-1771
-1776
-1781
-1786
-1791
-1796
-1801
-1806
-1811
-1816
-1821
-1826
-1831
-1836
-1841
-1846
-1851
-1856
-1861
-1866
-1871
-1876
-1881
-1886
-1891
-1896
-1901
-1906
-1911
-1916
-1921
-1926
-1931
-1936
-1941
-1946
-1951
-1956
-1961
-1966
-1971
-1976
-1981
-1986
-1991
-1996
-2001
-2006
-2011
-2016
+**Figure 8.1** Long-term freight market index (LFI)
 
-> **Figure 8.1 Long-term freight market index (LFI)**
+Source: Copyright Okan Duru © 2018.
 
-Source: Copyright Okan Duru© 2018.
-
-3,000
-
-2,500
-
-2,000
-
-1,500
-
-1,000
-
-500
-
-0
-
-In 2009, I collected several freight rate data sources and calculated a long-
-term continuous freight rate index (LFI).2 I knew that the data may not be
+In 2009, I collected several freight rate data sources and calculated a longterm continuous freight rate index (LFI).2 I knew that the data may not be
 robust due to various technological changes, cargo handling, and pricing
 techniques, but that illustrating shipping cycles in a single diagram would
 help to understand trends for the future of shipping. As a disclaimer, I cannot
@@ -2272,14 +2041,14 @@ still serve to illustrate the underlying business cycles. In as far as we repres
 the cyclicality of the shipping market in the particular time frame, it will be
 feasible to extract some information.
 
-> **Figure 8.1 tells many stories, but for now let's just focus on the cycles. The
+Figure 8.1 tells many stories, but for now let's just focus on the cycles. The
 centennial decline of the 1800s is a distinct topic in the history of economics
 and the interest of some Nobel Prize winners. For institutional economists,
 the 1800s is a unique example of how innovations and institutional changes
 have created productivity gains and changed the scene of global economics.
 Another interesting outcome of this diagram is the growing amplitude of
 cycles in the second half of the 1700s and 1900s. Please zoom in on the data
-and look at Figure 8.2.**
+and look at Figure 8.2.
 
 Let me clarify what we are looking at. The 1700s was the period of sailing
 ships. At that time, we did not have bulk carriers or tankers. Vessels carried
@@ -2295,8 +2064,7 @@ centuries raises questions about drivers of business cycles and their lifespans.
 Again, we have to be careful about what conclusions we draw from these
 two disparate data sets. However, at the very least, the work of Reinhart and
 Rogoff(2009) on the eight centuries of financial crisis, This Time is Different:
-Eight Centuries of Financial Folly, confirms that we should not expect sig-
-nificant change regarding business cycles. As history shows us, the financial
+Eight Centuries of Financial Folly, confirms that we should not expect significant change regarding business cycles. As history shows us, the financial
 markets continually experience ups and downs. Regardless of what ships were
 built or how we organized the economy, the incentives and emotional weaknesses
 behind our conscious selves have not changed over time.
@@ -2310,24 +2078,6 @@ George Bernard Shaw
 It is easy to criticize, but it is better to ask the question of why we have not
 collectively learned from history? Why can't we design a sustainable economic
 environment? Why do we always jump and fall? Whether it is a dopamine
-
-950
-
-850
-
-750
-
-650
-
-550
-
-450
-
-350
-
-250
-
-150
 
 50
 0
@@ -2396,7 +2146,7 @@ environment? Why do we always jump and fall? Whether it is a dopamine
 
 1987
 
-> **Figure 8.2 LFI series for the second half of the 1700s (right scale) and 1900s (left scale)**
+**Figure 8.2** LFI series for the second half of the 1700s (right scale) and 1900s (left scale)
 
 1790
 
@@ -2520,8 +2270,6 @@ LFI 1933-2017 (left scale)
 
 1000
 
-500
-
 addiction, the love of risk, or something else, no one knows exactly. All we
 know is that we have not learned much from the economic history of the
 shipping industry. I should particularly mention the efforts of the International
@@ -2545,16 +2293,14 @@ Sawers (1992).
 
 *Dissection of irrational exuberance*
 
-Freight derivatives • Wisdom of crowds
+Freight derivatives - Wisdom of crowds
 
 Professionals in the industry usually point to the global economic climate as
 the source of shipping market collapses. For example, a financial crisis is
-often a precursor to a shipping crash. The interaction between global eco-
-nomic activity and shipping services is unavoidable. Since the shipping service
+often a precursor to a shipping crash. The interaction between global economic activity and shipping services is unavoidable. Since the shipping service
 is a derived demand created by global trading activities and the overall
 volume of consumption, any changes in trade and consumption trends will, in
-turn, produce a supply gap. The supply of shipping--that is, the global ship-
-ping fleet--has a static capacity in the short term. Shipbuilding takes a long
+turn, produce a supply gap. The supply of shipping--that is, the global shipping fleet--has a static capacity in the short term. Shipbuilding takes a long
 time, and during peak markets some shipowners cannot even find a free slot
 in a shipyard. Therefore, the volume of shipping supply does not change
 quickly. It requires time to balance the supply side of the equation.
@@ -2569,8 +2315,7 @@ that are feasible, and that have real potential rather than toxic projects that
 do not offer a return on investment.
 
 The primary part of a financial crisis is related to the assessment, selection,
-and monitoring of proposals. When the system works well, credible and sui-
-table projects can be filtered from the portfolio of proposals. If the filtration
+and monitoring of proposals. When the system works well, credible and suitable projects can be filtered from the portfolio of proposals. If the filtration
 process does not work properly, then toxic proposals will find funds. That
 toxicity can eventually produce what we call a financial crisis. Subprime
 lending is one recent example of the toxicity problem.
@@ -2584,8 +2329,7 @@ capital under certain obligations (an interest payback) and resell the capital t
 borrowers under certain obligations. Some institutions actually apply for
 cheaper funding from some lenders (e.g. larger banks, pension funds, etc.) and
 then earn a premium over the cost of capital. In addition to this, the existing
-fractional reserve banking system also creates money (money creation pro-
-cess) through lending activities. For many, the money creation system is the
+fractional reserve banking system also creates money (money creation process) through lending activities. For many, the money creation system is the
 sole reason for the financial instability of the last century.
 
 Collateral (e.g. mortgages for houses and titles for ships) serves as a safeguard
@@ -2602,12 +2346,10 @@ risk assessments, etc.) is subject to further crises.
 
 Loans
 
-Since banking is a profit-making business, bankers tend to have more custo-
-mers (i.e. borrowers) when everything is going well or, at least, is expected to
+Since banking is a profit-making business, bankers tend to have more customers (i.e. borrowers) when everything is going well or, at least, is expected to
 go well. There are some additional incentives for relaxing the tight assessment
 procedures, such as collateralized debt obligations (CDOs) or credit swaps.
-This relaxation of common sense allows bankers to take more risks. A mini-
-mum value covenant helps control the value of ships against the incapacity to
+This relaxation of common sense allows bankers to take more risks. A minimum value covenant helps control the value of ships against the incapacity to
 service debt. However, it is not so straightforward when the market declines
 sharply. Nobody wants to buy a ship then. Therefore, the practicality of
 minimum value monitoring seems to be somewhat overemphasized.
@@ -2616,8 +2358,7 @@ Another concern is how frequently these valuations are performed. If it is
 semi-annually, we should remember that a ship can lose an enormous part of
 her value in a six-month period. For example, a 10-year-old Panamax bulk
 carrier was valued at around US$60 million in 2008, but the value declined to
-just US$25 million by 2009. Under the mean leverage ratio (70%) and mini-
-mum value ratio (e.g. 125%), the value of a Panamax bulk carrier should have
+just US$25 million by 2009. Under the mean leverage ratio (70%) and minimum value ratio (e.g. 125%), the value of a Panamax bulk carrier should have
 been over US$53 million, which roughly meant a US$30 million deficit
 between the required threshold and the market price. It is clear that minimum
 value monitoring helps neither bankers nor shipowners.
@@ -2656,8 +2397,7 @@ manufacturing process. In the worst-case scenario, a new building project can
 be completed in around two years after the contract is signed. However, it
 may take more than three years to reach the market peak where the increased
 capacity is really needed. These situations create a challenging decision for
-shipowners as to whether to contract shipbuilding during the turbulent peri-
-ods in markets. Some of them take the risk, while others prefer to remain in
+shipowners as to whether to contract shipbuilding during the turbulent periods in markets. Some of them take the risk, while others prefer to remain in
 their current position. In the shipping market, anything can happen after
 three full years. However, the positive mood of the industry, triggered by the
 marvelous price of freight, can paint a rosy picture of the future, resulting in
@@ -2666,8 +2406,7 @@ shipyards with full order books.
 Drunk with the dreams of asset play
 
 Asset play is one of the most repeated terms in the industry. It also drives
-shipping crises. There are many misconceptions around this term, and inves-
-tors sometimes tend to play the wrong game with the wrong rules. Stocks and
+shipping crises. There are many misconceptions around this term, and investors sometimes tend to play the wrong game with the wrong rules. Stocks and
 ships are two different assets. There is opportunity for arbitrage in stock
 markets; this is not a viable concept in the very tangible world of shipping.
 Arbitrage efforts are related to asymmetric knowledge as well as the speed
@@ -2682,9 +2421,7 @@ number of players, the average time to play, etc. If asset play were such a
 game, you would find something like Figure 9.1 on the box.
 
 If a shipping asset is not played according to the rules, you will lose the game.
-If enough people lose, there will be a market crash. Among these rules, my par-
-ticular interest is on the overvaluation of assets. The value of a ship is theoreti-
-cally the present value of all future cash flows in its economic life, such as
+If enough people lose, there will be a market crash. Among these rules, my particular interest is on the overvaluation of assets. The value of a ship is theoretically the present value of all future cash flows in its economic life, such as
 revenues, costs, demolition, etc. The discounted cash flow method can estimate
 this value. However, the discounting-based valuation methods work only under
 regular market conditions. Before the mid-1990s, discounted cash flow, or DCF,
@@ -2695,8 +2432,7 @@ for a long-term average), a DCF valuation then would be five times less than the
 DCF calculation performed with actual revenues and costs known today.
 
 For practical purposes, the value of a ship is usually the market price for a
-potential buyer or seller. One of the drivers of a shipping crisis is the mark-to-
-market valuation. During times of high expectations, ships are irrationally
+potential buyer or seller. One of the drivers of a shipping crisis is the mark-tomarket valuation. During times of high expectations, ships are irrationally
 overpriced. A ship can have a value three or four times greater than she can
 produce in her economic life. Why do investors tend to pay so much for a
 ship? The reason is the arbitrage option. Some investors think that they can
@@ -2736,7 +2472,7 @@ When it is true time, do not postpone the move
 
 It is not different than before
 
-> **Figure 9.1 Rules of shipping asset play**
+**Figure 9.1** Rules of shipping asset play
 
 However, the streak ended and prices came back to grounded reality. The
 pricing bubble popped, which multiplied the effects of the market downturn.
@@ -2753,15 +2489,13 @@ Shipping casino vs. hedging the risk
 
 Almost by definition, betting is essential for any kind of gambling. You gamble
 on an outcome (e.g. a hand of cards or a number). If lucky, you win. If you
-guessed wrong, you lose. However, gambling introduces a whole host of incen-
-tives that can affect fair play in certain games. For instances, baseball and
+guessed wrong, you lose. However, gambling introduces a whole host of incentives that can affect fair play in certain games. For instances, baseball and
 soccer players cannot bet on their own matches, nor any match in the league.
 In fair conditions, the gambler is independent of the mechanism and cannot
 influence the outcome. In case of derivative markets, we have a similar scheme,
 though with a slight--but significant--difference. A financial derivative is
 derived from a physical market, the underlying market defining settlement
-prices. So, in fact, a trader's approach can make a derivative product com-
-pletely a gambling instrument (lack of market knowledge and information) or a
+prices. So, in fact, a trader's approach can make a derivative product completely a gambling instrument (lack of market knowledge and information) or a
 hedging instrument (traded based on some analytical considerations). As far as
 the hedging prices of buyers and sellers of a derivative product matches, it is
 broadly a fair deal. Unfortunately, there is no technical or legal instrument to
@@ -2776,17 +2510,14 @@ and ignorant traders will always deceive ordinary people.
 
 The reasons behind the subprime mortgage crisis and the subsequent market
 crash of 2008-2009 has been extensively discussed. A common explanation
-revolves around credit default swaps, a kind of derivative product. A deriva-
-tive is a financial product derived from another financial product, such as a
+revolves around credit default swaps, a kind of derivative product. A derivative is a financial product derived from another financial product, such as a
 stock index, commodity trading contract, or shipping service contract (aka
 freight derivatives). In a derivative contract, there are two counterparties (the
 future buyer in the long position and the future seller in the short position),
-who are betting on a price or a level of index. A derivative contract is a zero-
-sum game. There is always a winner and a loser. Derivative markets have
+who are betting on a price or a level of index. A derivative contract is a zerosum game. There is always a winner and a loser. Derivative markets have
 become popular in the last few decades, and there was a particularly large
 
-increase in the market by the 2000s. According to some estimates, the deri-
-vatives market (for both exchange traded and over-the-counter trades)
+increase in the market by the 2000s. According to some estimates, the derivatives market (for both exchange traded and over-the-counter trades)
 reached over one quadrillion U.S. dollars.
 
 How does this apply to the shipping industry? If, for example, as a carrier, I
@@ -2799,19 +2530,15 @@ the market broker collecting a commission. No physical shipping service
 would occur. The actual market just defines who the winner is.
 
 The derivatives market is a state-of-the-art financial innovation that makes it
-possible to trade on financial products or indicators without any physical obliga-
-tion. Although futures exchanges are somewhat regulated, the over-the-counter
-(OTC) market is an unregulated, hidden, and perhaps even immeasurable mar-
-ketplace. Therefore, derivatives are thought to be the most toxic and unstable of
+possible to trade on financial products or indicators without any physical obligation. Although futures exchanges are somewhat regulated, the over-the-counter
+(OTC) market is an unregulated, hidden, and perhaps even immeasurable marketplace. Therefore, derivatives are thought to be the most toxic and unstable of
 the financial speculation markets. There are a variety of reasons behind this, but
 the anonymity of the counterparties and the lack of any regulation are two major
-factors. There are various efforts to minimize or completely eliminate counter-
-party default risk, and clearing houses (e.g. Singapore Exchange or NASDAQ)
+factors. There are various efforts to minimize or completely eliminate counterparty default risk, and clearing houses (e.g. Singapore Exchange or NASDAQ)
 and clearing brokers play a significant role in this process.
 
 In freight derivatives, a person can bet on the positions of shipowners and
-charterers, and even be a shipowner himself. If one would like to be a ship-
-owner but does not have the capital to invest, the freight derivative market
+charterers, and even be a shipowner himself. If one would like to be a shipowner but does not have the capital to invest, the freight derivative market
 (forward freight agreements, or FFAs; freight options) is a way to make
 anyone a part shipowner with limited capital.
 
@@ -2827,13 +2554,10 @@ price for a certain future period (most likely the next two to three months and
 occasionally a calendar year). An execution broker (i.e. FFA broker) will
 share the bid and search for a counterpart offering the FFA contract. FFA
 brokers publish 'forward curves' as an indication of the market for various
-contract periods. The creation of those forward curves is based on transac-
-tions and brokers' assessment for a given period of the potential pricing if
+contract periods. The creation of those forward curves is based on transactions and brokers' assessment for a given period of the potential pricing if
 transaction would arise. A forward curve is not prediction generated by using
 any mathematical formulation and algorithm! I think this is one of the
-common misconceptions about FFAs. An FFA can be classified as the senti-
-mental opinions of traders and brokers, but it is not a prediction. Some tra-
-ders may employ numerical systems to price their FFA bids, so some FFA
+common misconceptions about FFAs. An FFA can be classified as the sentimental opinions of traders and brokers, but it is not a prediction. Some traders may employ numerical systems to price their FFA bids, so some FFA
 transactions may reflect underlying predictive study.
 
 As a derivative product, credit default swaps indirectly influence shipping
@@ -2851,8 +2575,7 @@ words, sentiment. In every crisis, there are always different reasons behind a
 sharp decline, such as world politics or specific shipping factors. However, the
 herd mentality is always identical. The perception and collective action of the
 crowds can accelerate a market decline, leading to a market crash. Confidence
-is regained slowly, which is why freight markets rise slowly. That same con-
-fidence disappears quickly, which is why the markets drop sharply. People
+is regained slowly, which is why freight markets rise slowly. That same confidence disappears quickly, which is why the markets drop sharply. People
 hesitate to believe the recovery while they rapidly internalize the decline. It is
 frequently said that losses hurt more than gains.
 
@@ -2868,9 +2591,7 @@ swing since the experienced outcome is better than the one expected. How a
 society approves recoveries or collapses is a fundamental question behind
 crises. According to the 'wisdom of crowds,' the decisions of the masses are
 more accurate than those of a single individual--but only insomuch as people
-who compose the crowd are diverse and independent of one another. Other-
-wise, you get the 'bandwagon effect' or groupthink. With players in the ship-
-ping market being so interrelated, anytime one event happens, it quickly
+who compose the crowd are diverse and independent of one another. Otherwise, you get the 'bandwagon effect' or groupthink. With players in the shipping market being so interrelated, anytime one event happens, it quickly
 ripples out like a stack of dominoes to all corners of the industry.
 
 Think of it like this: in today's busy world, businesspeople quickly pull
@@ -2888,7 +2609,7 @@ exodus, one way or the other.
 
 *How ship valuation methods rationalized toxic shipping portfolios and ship covered bonds*
 
-Value at Risk • Credit rating
+Value at Risk - Credit rating
 
 The U.S. subprime mortgage crisis (home mortgage crisis) is thought to be a
 major reason behind the great economic slowdown since 2007. There is a
@@ -2900,16 +2621,14 @@ Since 2008, several studies have investigated the direct causes and drivers
 frequently identified as the common component of the failure (a remarkable
 article was written by Joseph Stiglitz in 2009: "The anatomy of a murder:
 Who killed America's economy?"). Yuliya Demyanyk and Otto van Hemert's
-(2009) paper titled "Understanding the subprime mortgage crisis" investi-
-gated the background of the crisis and indicated some striking conclusions.
+(2009) paper titled "Understanding the subprime mortgage crisis" investigated the background of the crisis and indicated some striking conclusions.
 The financial quality of loans (e.g. credibility of borrower, credit default risk,
 liquidity risk, etc.) was eroded in the six consecutive years before the crisis,
 and more surprisingly, securitizers (i.e. mortgage securitizers who monetize
 the mortgage loans) were well aware of the declining power of credibility and
 refunding capacity. Another confounding conclusion of Demyanyk and van
 Hemert was that the problems behind the financial failure could be identified
-well before the crisis, but high house prices shaded the monitoring mechan-
-ism. The subprime mortgage crisis seems to be a mixture of human error and
+well before the crisis, but high house prices shaded the monitoring mechanism. The subprime mortgage crisis seems to be a mixture of human error and
 malfunctioning financial architecture.
 
 As the subprime mortgage crisis sparked financial chaos by 2008, the
@@ -2918,8 +2637,7 @@ banking industry. On October 5, 2012, a top credit rating institution,
 Moody's, posted the following announcement:
 
 Moody's Investors Service has today placed on review for downgrade the
-Aa1 ratings assigned to the public-sector Pfandbriefe (public-sector cov-
-ered bonds) and the Baa1 ratings assigned to the ship Pfandbriefe (ship
+Aa1 ratings assigned to the public-sector Pfandbriefe (public-sector covered bonds) and the Baa1 ratings assigned to the ship Pfandbriefe (ship
 covered bonds) issued by HSH Nordbank AG (HSH or the issuer), which
 
 are governed by the German Pfandbrief Act. On 16 December 2011,
@@ -2930,11 +2648,9 @@ review for downgrade, are not affected by this rating announcement.
 
 In 2008, the volume of the global shipping loan market (transaction volume)
 reached over US$90 billion. HSH Nordbank was the leading shipping bank
-with a portfolio worth over US$50 billion (the second was DnB Nor, the lead-
-ing book runner, with a portfolio worth over US$30 billion). Traditionally,
+with a portfolio worth over US$50 billion (the second was DnB Nor, the leading book runner, with a portfolio worth over US$30 billion). Traditionally,
 shipping banks operate based on the asset-backed mortgage method (ship
-mortgage). Therefore, the shipping asset value is a critical indicator for mon-
-itoring the credit default risk as well as liquidity ratios. The ship covered bonds
+mortgage). Therefore, the shipping asset value is a critical indicator for monitoring the credit default risk as well as liquidity ratios. The ship covered bonds
 mentioned in Moody's announcement are a kind of securitization instrument
 for transferring risks to third parties to some extent. This kind of bond issuing
 helps lenders to raise more funds and take more risks. The critical question
@@ -2970,8 +2686,7 @@ simple. Rather than benefiting from hindsight, one should dissect the case
 through each of the components and all the legal/substantial evidence to
 support arguments. Although it is difficult to uncover the whole picture and
 recognize each incidence of irregularity, we must look beyond the banking
-industry and shipping firms and investigate the systemic as well as the psy-
-chological nature of financial meltdown since the global subprime mortgage
+industry and shipping firms and investigate the systemic as well as the psychological nature of financial meltdown since the global subprime mortgage
 
 crisis. The ship mortgage crisis is understood to be a well-hidden banking
 failure in the shipping business through some system-produced standards such
@@ -2981,14 +2696,10 @@ The mortgage loan system and subprime mortgage meltdown
 
 Before analyzing the ship mortgage crisis, it would be useful to review the
 traditional mortgage system and the subprime mortgage mechanism in the
-modern banking industry as a state-of-the-art product of financial engineer-
-ing. The mortgage loan system basically offers a security instrument, a mort-
-gage, for raising large funds. Mortgages ensure trust between lenders and
-borrowers against borrower insolvency. Related legal mechanisms are estab-
-lished in almost all free markets, and this allows lenders to possess secured
+modern banking industry as a state-of-the-art product of financial engineering. The mortgage loan system basically offers a security instrument, a mortgage, for raising large funds. Mortgages ensure trust between lenders and
+borrowers against borrower insolvency. Related legal mechanisms are established in almost all free markets, and this allows lenders to possess secured
 properties such as vessels. The repossession (foreclosure) effort is a coercive
-power acting as a nudging mechanism in terms of behavioral law and eco-
-nomics (a new perspective in both economics and lawmaking). Once the
+power acting as a nudging mechanism in terms of behavioral law and economics (a new perspective in both economics and lawmaking). Once the
 borrower defaults on the loan or fails to satisfy monitoring instruments (e.g.
 minimum value covenant), the lender may foreclose the contract and sell the
 ship to recover the funds raised to purchase it.
@@ -3018,8 +2729,7 @@ handling the loan agreements.
 In the subprime mortgage mechanism, banks create a way of funding risky
 borrowers. The mortgages collected from subprime borrowers are repackaged
 in collateralized debt obligations and sold in slices based on the level of risk
-(safe, risky, etc.). The problem behind the mechanism is the uncertain valua-
-tion of properties (i.e. houses). When a slowdown slightly hits the economy,
+(safe, risky, etc.). The problem behind the mechanism is the uncertain valuation of properties (i.e. houses). When a slowdown slightly hits the economy,
 the risky (subprime) borrowers begin to fail and become insolvent. Banks
 
 Home Buyers
@@ -3056,8 +2766,8 @@ Pension Funds, Insurance Firms,
 
 Mutual Funds and many others
 
-> **Figure 10.1 The system of mortgage-backed bonds
-Source: Author.**
+Figure 10.1 The system of mortgage-backed bonds
+Source: Author.
 
 repossess houses (mortgages) and sell them to recover the outstanding debt.
 This simple process may well work when a few borrowers default on their
@@ -3086,26 +2796,21 @@ was the most fruitful and profitable time in the history of maritime industry.
 The optimism, euphoria, and irrational exuberance of the time are thought to
 have been driven by repetitive and continuous rise of freight rates (appeal to
 trend), and these emotional traps triggered fewer critical assessments and less
-competition neglect on posterior decisions such as ordering new ships or pur-
-chasing secondhand assets with asset prices at their highest historically (Duru,
+competition neglect on posterior decisions such as ordering new ships or purchasing secondhand assets with asset prices at their highest historically (Duru,
 2013, 2014; Greenwood and Hanson, 2013). In a previous study, I investigated
 the impact of the boom market climate from the perspective of behavioral
 economics and emphasized the lack of practical implications of shipping
 market knowledge (information-knowledge vs. action-knowledge). One reason
 for delayed response or lack of awareness of upcoming oversupply is associated
 with the rigidity of supply (response of shipyards, production lag, and planning
-failure delays). The concept of delayed supply response is not new in econom-
-ics. Cobweb theory illustrates how delayed supply can cause price fluctuations,
-which are conventionally referred to as business cycles. The underlying princi-
-ple behind the cobweb theorem is that expectations of economic actors are
+failure delays). The concept of delayed supply response is not new in economics. Cobweb theory illustrates how delayed supply can cause price fluctuations,
+which are conventionally referred to as business cycles. The underlying principle behind the cobweb theorem is that expectations of economic actors are
 usually based on looking backwards, and this causes mistaken expectations,
 ignoring the future state of markets or adjusting slowly (i.e. "competition
 neglect" in Greenwood and Hanson, 2013).
 
 At the time of the market boom (2004-2007), a massive collective order
-book had been built up due to the strong demand for shipping services, 'non-
-storable' shipping spaces. However, there was another factor which encour-
-aged the financing of ships: the availability of 'cheap money.' Lenders were
+book had been built up due to the strong demand for shipping services, 'nonstorable' shipping spaces. However, there was another factor which encouraged the financing of ships: the availability of 'cheap money.' Lenders were
 able to have cheaper funds. By the second half of 2007, the U.S. Federal
 Reserve made a critical decision and decreased interest rates considerably (in
 contrast to the rest of the world, including the E.U. countries, the U.K., and
@@ -3141,10 +2846,10 @@ make plans to sell and recover the debt. Without a minimum value test, it
 may be too late to foreclose, since the asset price may be far below the
 remaining debt.
 
-> **Figure 10.2 illustrates the entire mechanism of ship mortgages and ship
+Figure 10.2 illustrates the entire mechanism of ship mortgages and ship
 covered bonds. Shipping banks monitor loan agreements (risk assessment)
 through minimum value constraint, liquidity ratios, among other things. On
-the other hand, financial regulators monitor the banking industry through a**
+the other hand, financial regulators monitor the banking industry through a
 
 Shipowners
 
@@ -3187,11 +2892,10 @@ BOND
 
 Bond Market
 
-> **Figure 10.2 Ship mortgage system and ship covered (mortgage-backed) bonds**
+**Figure 10.2** Ship mortgage system and ship covered (mortgage-backed) bonds
 
 number of legislative instruments, such as Basel Accords (e.g. Basel III). Basel
-Accords require some control procedures and risk exposure limits. For exam-
-ple, banks should have a minimum common equity of 7% (Basel III) and
+Accords require some control procedures and risk exposure limits. For example, banks should have a minimum common equity of 7% (Basel III) and
 should review some risk measures, such as the Value at Risk (VaR) indicator.
 In addition to the regulators' stance, independent rating agencies (e.g.
 Moody's) review and rate the credibility of lenders as well as borrowers.
@@ -3202,14 +2906,11 @@ remaining loan, then the difference causes negative equity. Therefore, the ship
 valuation method also contributes to measuring the equity as an indicator for
 Basel standards.
 
-The VaR approach presents us with some tough questions about monitor-
-ing shipping loans. In his mind-blowing book The Number That Killed Us: A
+The VaR approach presents us with some tough questions about monitoring shipping loans. In his mind-blowing book The Number That Killed Us: A
 Story of Modern Banking, Flawed Mathematics, and a Big Financial Crisis,
 Pablo Triana (2011) criticized the principles behind the VaR method and even
 blames it for being a leading driver of the financial crisis. Although it seems
-quite objective and fair, several subjective gaps underlie its complicated func-
-tions. Selection of distributions or data sets is subject to the arbitrary pre-
-ferences of experts. The subjective inputs of risk monitoring are among topics
+quite objective and fair, several subjective gaps underlie its complicated functions. Selection of distributions or data sets is subject to the arbitrary preferences of experts. The subjective inputs of risk monitoring are among topics
 currently debated in the banking industry. In particular, regulators find it
 difficult to slow down funding of toxic loans when there is a boom market.
 The downturn that follows makes this easier, though it is usually too late for a
@@ -3227,8 +2928,7 @@ in the current market with the assumption of potential buyers and sellers. In
 the case of a peak market, there would be many representative sales with
 similar technical details; thus, one may find a very accurate value of the ship.
 In the case of a slowdown, it is not easy to find representative sales, and
-experts tend to estimate prices based on a pseudo-sale scenario. The mark-to-
-market method is frequently used for minimum value constraint, although it
+experts tend to estimate prices based on a pseudo-sale scenario. The mark-tomarket method is frequently used for minimum value constraint, although it
 has introduced a massive default problem. As an alternative, shipping banks
 have begun to use mark-to-model (valuation based on a model estimation)
 and discounted cash flow (DCF) methods (also income methods).
@@ -3243,22 +2943,18 @@ meant that many houses were transferred to bank ownership as these assets
 were not sufficient repay the outstanding debts due to declining house prices.
 Therefore, mortgage-backed bonds have lost their credibility, and credit default
 swap buyers (a kind of insurance for credit default) have begun to write down
-the insured values. In the ship mortgage crisis, ship covered bonds (ship mort-
-gaged-backed bonds) played a multiplier role. The HSVS saved the shipping
+the insured values. In the ship mortgage crisis, ship covered bonds (ship mortgaged-backed bonds) played a multiplier role. The HSVS saved the shipping
 portfolio from massive default which may have ignited a further and deeper
-credit crunch in the shipping industry (very low ship prices, undesirable fore-
-closures, etc.). It also indirectly saved ship covered bonds from insolvency.
+credit crunch in the shipping industry (very low ship prices, undesirable foreclosures, etc.). It also indirectly saved ship covered bonds from insolvency.
 
-However, the countermeasures did not secure the credit rating of ship cov-
-ered bonds. The "Schiffspfandbriefe" (ship covered bond) of HSH Nordbank
+However, the countermeasures did not secure the credit rating of ship covered bonds. The "Schiffspfandbriefe" (ship covered bond) of HSH Nordbank
 was first given top rating (Aaa) by Moody's on September 3, 2007. Then
 Moody's began to review the bonds for possible downgrade, and the first
 downgrade (to Aaa3) was declared on May 6, 2009. In the following years,
 Moody's reviewed the Pfandbriefe of several German Landesbanken and their
 subsidiaries and downgraded the credit ratings many times. The European
 Central Bank (ECB) listed some German banks, including HSH Nordbank,
-Commerzbank AG and Norddeutsche Landesbank Girozentrale, for compre-
-hensive assessment in 2013, and in the same year HSH posted a loss of €814
+Commerzbank AG and Norddeutsche Landesbank Girozentrale, for comprehensive assessment in 2013, and in the same year HSH posted a loss of €814
 million, the biggest since 2008.
 
 Moody's report on German shipping lenders in December 2013 indicated
@@ -3271,8 +2967,7 @@ The International Monetary Fund (IMF) reviewed the German banking
 industry in 2014 and indicated that
 
 While work on the ECB's Comprehensive Assessment was still ongoing,
-the authorities were confident German banks were generally well posi-
-tioned for the exercise. They noted the continuous and significant
+the authorities were confident German banks were generally well positioned for the exercise. They noted the continuous and significant
 improvement in banks' capital ratios over the past several years, but
 agreed that shipping loans could be a source of further impairments.
 
@@ -3286,16 +2981,14 @@ risk assessment. Therefore, we need an outlet for this emerging problem.
 
 ### Notes
 
-1 A version of this chapter was previously published online at The Maritime Execu-
-tive magazine.
+1 A version of this chapter was previously published online at The Maritime Executive magazine.
 
 ## Chapter 11: Glaring Tycoons
 
 *Survivorship bias*
 
 The power of the media is amazing. As we discussed earlier, the presentation of
-information and our cognitive awareness are key factors in recognizing, fram-
-ing, and recording data in our brains. Our relationship with the media is like
+information and our cognitive awareness are key factors in recognizing, framing, and recording data in our brains. Our relationship with the media is like
 my favorite slogan: 'give and take, supply and demand.' We cannot only blame
 the media; we must also take responsibility for what we receive and retain.
 
@@ -3311,8 +3004,7 @@ One of the fascinating discoveries of neuroscience concerns how our own
 neurons mirror what we perceive. This provides us a degree of empathy. For
 example, when we see somebody deeply injured, we sometimes feel a degree
 of their pain. When I watch people bungee jumping, I am afraid for them. A
-similar process works when we watch or read about other people's experi-
-ences. This is why success stories sell so well. We want to connect with people
+similar process works when we watch or read about other people's experiences. This is why success stories sell so well. We want to connect with people
 that we think are successful, front runners, amazing, or beautiful. Mirror
 neurons make us feel, to a degree, like we share those attributes. However, this
 can also mislead us.
@@ -3330,8 +3022,7 @@ failed trials. Scientific experiments have failed as well as successful outcomes
 However, academic papers and scientific news rarely report the failed trials.
 We like to focus on our successes.
 
-For example, the pharmacology industry is huge. Their laboratories con-
-duct thousands of drug experiments to find something that works well on our
+For example, the pharmacology industry is huge. Their laboratories conduct thousands of drug experiments to find something that works well on our
 body. As a result of these experiments, we know only about the successful
 ones at the drug stores; we know nothing about all the failed trials. Failures
 are usually hidden and people hesitate to declare them. For example, authors
@@ -3342,16 +3033,14 @@ is what we call 'survivorship bias': survivors are on the stage; losers run away
 
 Success is never easy. There is no shortcut for being a successful shipping
 tycoon. When it comes to those we can learn from, we should heed not only
-their good experiences and achievements but also their difficulties and fail-
-ures. If we only demand success stories and do not credit failures, the media
+their good experiences and achievements but also their difficulties and failures. If we only demand success stories and do not credit failures, the media
 will deliver what we want, but not necessarily all that we need.
 
 Luck or good positioning?
 
 Dynasties of the Sea by Lori Ann LaRocco is a fantastic book about the
 leading people in the shipping industry. The author presents interviews with
-these individuals as well as notes about her impressions. What I found fasci-
-nating, straight from the mouths of our industry's leaders, was the emphasis
+these individuals as well as notes about her impressions. What I found fascinating, straight from the mouths of our industry's leaders, was the emphasis
 on behavioral aspects of shipping. They confessed how important a role
 herding, emotions, patience, and so on play in the business. In addition, there
 were stories of difficult times, long histories, radical decisions, etc. Also, they
@@ -3392,16 +3081,14 @@ developed my first models, drew my own conclusions, and published my own
 academic papers. After a few more years, I noticed that there was a gap between
 well-known scientists and the science; that is, a gap between experts and their
 expertise. By the middle of the 2000s, the academic publishing industry had
-grown dramatically with many new publishers having been established. Pre-
-viously, we scientists had to be quite careful about our models and theories since
+grown dramatically with many new publishers having been established. Previously, we scientists had to be quite careful about our models and theories since
 there was a rigorous review process. Today, though, just about any decent
 research receives invitations from a host of journals and conferences every day.
 
 Do we look for experts with true expertise? Or do we look for 'experts' who
 can provide some numbers to justify what we want? Did many of today's
 professionals become experts intentionally or accidentally? From one point of
-view, an academic paper (e.g. a feasibility report, an investigation) is a scien-
-tist's product. Is there perhaps a market for scientists' products? And in every
+view, an academic paper (e.g. a feasibility report, an investigation) is a scientist's product. Is there perhaps a market for scientists' products? And in every
 market, are there not substitutes? If you do not like one product, you can buy
 the alternative. At the very least, we could say that business has influenced the
 demand for quality expertise.
@@ -3418,14 +3105,12 @@ I wonder what an entrepreneur does in this complicated, expertise-laden
 industry? In fact, a wealth of knowledge may be a real barrier to entry in
 
 shipping. If an industry is technically complex and over-regulated, how will a
-newcomer deal with such enormous problems? The complexity of the techni-
-cal facet can also lead to deception in the business itself. For instance, if the
+newcomer deal with such enormous problems? The complexity of the technical facet can also lead to deception in the business itself. For instance, if the
 autopilot of your ship is out of order, you have to pay for an expert in marine
 electronics to fix it. Do you know how much it should cost? Do you know
 how long it should take?
 
-To become proficient, you would have to spend a couple years, at mini-
-mum, learning the dynamics of the business to eliminate your need for others'
+To become proficient, you would have to spend a couple years, at minimum, learning the dynamics of the business to eliminate your need for others'
 expertise. Thankfully, we have many shipping consultants. Actually, every
 ship brokering and chartering office serves as a type of shipping consultant.
 In addition, there are those with impressive titles like shipping consultant,
@@ -3440,8 +3125,7 @@ problem is that they are not really experts since many of them do not have the
 know-why. What is the know-why? Say that you want to play baseball but
 you do not know how to play. I can teach you how to throw the ball and how
 to hit it--the two major tasks of the game. If you can hit and throw balls
-perfectly, you will be a good baseball player. This is an example of the know-
-how. What the coach brings to the game is the know-why. Just having the
+perfectly, you will be a good baseball player. This is an example of the knowhow. What the coach brings to the game is the know-why. Just having the
 rules and the skills are not enough to manage a baseball team. Plenty of
 players (like shipowners and shipbrokers) have several years of experience and
 yet cannot perform as the coach.
@@ -3476,9 +3160,7 @@ to. If you want to prosper, you need insider information. This might come
 from consulting with certain established companies, from doing your own
 research and analyses, or finding niche experts.
 
-Fourth, be aware of the authority bias. You do not have to accept every-
-thing provided to you by the experts. They are still human; they make mis-
-takes and experience failures. Do not lose your skepticism and critical
+Fourth, be aware of the authority bias. You do not have to accept everything provided to you by the experts. They are still human; they make mistakes and experience failures. Do not lose your skepticism and critical
 judgment at any time, even when everything is going well.
 
 Fifth, be aware of the confirmation bias--especially the fact that it can be
@@ -3491,13 +3173,12 @@ then they may begin telling you exactly what you want to hear.
 
 *Winner's tragedy*
 
-Mobility • Representation
+Mobility - Representation
 
 Cash abundance
 
 Our brain's ability to rationalize our actions is amazing. It conveniently forgets our
-failures and allows us to forge ahead. In some ways, this protects us from depres-
-sion and keeps us from becoming afraid to the point of being paralyzed, although it
+failures and allows us to forge ahead. In some ways, this protects us from depression and keeps us from becoming afraid to the point of being paralyzed, although it
 can also lead to overconfidence. However, the most difficult task may be that of not
 allowing your friends to help you rationalize your actions and failures. If you
 become a shipping investor, your volume of friends will increase sharply. There is a
@@ -3510,8 +3191,7 @@ In Dynasties of the Sea (LaRocco, 2011), some leading shipowners emphasized
 the role of emotions. All of them pointed to how important it is to control
 emotions, particularly when everything is going well. In the field of psychology,
 much of the research on emotion focuses on those who lose something (e.g. a
-loved one, a relationship, money). There is little focus on winners and the exu-
-berance that comes from winning (e.g. love, a position, material wealth). It is not
+loved one, a relationship, money). There is little focus on winners and the exuberance that comes from winning (e.g. love, a position, material wealth). It is not
 thought to have much academic value. However, behavioral economics has
 focused on studying winners in terms of the effects on business sustainability.
 
@@ -3520,12 +3200,6 @@ question with simple choices (make your own choice before going forward):
 
 What percent of investors in the shipping business is over the average
 investor in the industry?
-
-0-15%
-16-45%
-46-55%
-56-85%
-86-100%
 
 Even though he is not an economist, Daniel Kahneman is known as the
 father of behavioral economics and he has won the Nobel Prize in Economics.
@@ -3544,10 +3218,8 @@ Being a shipowner comes with a lot of mental stress. Owning a ship
 involves more than the basic fact of ownership. Once the shipping investment
 is made, the shipowner is exposed to the unavoidable optimism of other
 shipowners. To avoid its impact, you should isolate yourself from the shipping
-community. These feelings of overconfidence and irrational optimism prob-
-ably come from a form of natural selection. Who decides to invest in shipping
-and for what reasons? If you look at the industry, you usually see extra-
-ordinary people. They are quite different from investors in, say, textiles, heavy
+community. These feelings of overconfidence and irrational optimism probably come from a form of natural selection. Who decides to invest in shipping
+and for what reasons? If you look at the industry, you usually see extraordinary people. They are quite different from investors in, say, textiles, heavy
 industry, media, electronics, etc.
 
 The three main differences between shipping and more conventional
@@ -3560,8 +3232,7 @@ ceremony or at the time of purchase, but not much after that.
 
 Like their assets, shipowners become mobile too. A good shipowner is a
 good representative. A shipowner may be expected to be visible at marine
-clubs, top conferences, P&I meetings, and elsewhere. To represent your com-
-pany well, you should have a solid intellectual background, good stature,
+clubs, top conferences, P&I meetings, and elsewhere. To represent your company well, you should have a solid intellectual background, good stature,
 knowledge about shipping, and so on. You cannot just push your C-level
 employees to the front and stay behind the scenes yourself.
 
@@ -3581,15 +3252,13 @@ effect is found in auctions. The winner of the auction is often simultaneously
 the loser, since an extremely high bid may wipe out the bidder's assets. The
 major characteristic of the winner's effect is the fuzzy valuation. Firms usually
 have a maximum bidding value before an auction. However, sometimes they
-still continue to bid even when the price goes quite a bit higher than their pre-
-determined maximum. The value of an asset is actually twofold: there is the
+still continue to bid even when the price goes quite a bit higher than their predetermined maximum. The value of an asset is actually twofold: there is the
 value of the tangibles as well as the intangibles. The more vagueness there is in
 the tangibles and intangibles, the more irrationality there will be. This vagueness
 leads to overvaluing the asset.
 
 In the shipping business, the 'winner's tragedy' is also very common, even
-though we do not name it as such. Here, I do not refer to auctions in ship-
-ping, but rather auction-like pricing. For example, do you know how ships
+though we do not name it as such. Here, I do not refer to auctions in shipping, but rather auction-like pricing. For example, do you know how ships
 were priced in the boom of 2007? At the top of the market, when everything
 was going well, ships were like money dispensers. Consequently, shipping
 investors became cash drunk. The more success they experienced, the more
@@ -3597,8 +3266,7 @@ overconfident they became. They rationalized that they were 'too big to fail.'
 However, the more we push our investments to make even more money, the
 more harmful results we may experience.
 
-Investors ignored the lessons of the past, saying that "this time, it's differ-
-ent!" From our short discussion on the business cycles in shipping, you will
+Investors ignored the lessons of the past, saying that "this time, it's different!" From our short discussion on the business cycles in shipping, you will
 have noticed that our motto should really be "this time, it's almost the same."
 In terms of the ups and downs, there has been no major change in the last
 three centuries. Carmen M. Reinhart and Kenneth S. Rogoffrefer to the last
@@ -3611,27 +3279,22 @@ Call it folly, winner's tragedy, or the too-big-to-fail bias--the result is the 
 *Get the incentives right*
 
 Alex Ferguson is one of the most memorable personalities in the history of
-soccer. He managed Manchester United for 28 straight years, an unbelie-
-vably amazing feat in the world of professional sports. The directors and
+soccer. He managed Manchester United for 28 straight years, an unbelievably amazing feat in the world of professional sports. The directors and
 managers of soccer teams deal with a number of difficult tasks. They have to
 win the match, keep the team motivated, keep the fans happy, keep the
 media frustrated, keep the president proud of the team, and prosper in the
 long term.
 
-The final objective, however, is usually ignored. Fans look at the pre-
-sent. If their team is not the champion this season, it does not matter
-whether they prosper in the long term. We have strong short-term mem-
-ories but a limited perception of the future. Life is short, and we want
+The final objective, however, is usually ignored. Fans look at the present. If their team is not the champion this season, it does not matter
+whether they prosper in the long term. We have strong short-term memories but a limited perception of the future. Life is short, and we want
 everything now.
 
 In discussing the Japanese miracle, I spoke about the long-term orientation
 of firms but did not mention the nature of the top managers. Human resource
 management in Japan is based mostly on loyalty and age. A top manager is
 usually over 50 years old, has held several positions, and has supervised many
-projects. He has been groomed to be a leader for many, many years. There-
-fore, a top manager has long-term incentives. He knows that even after he
-leaves his current position, he will still experience the aftereffects of his deci-
-sions. Therefore, the sustainable growth of the company is also in his own
+projects. He has been groomed to be a leader for many, many years. Therefore, a top manager has long-term incentives. He knows that even after he
+leaves his current position, he will still experience the aftereffects of his decisions. Therefore, the sustainable growth of the company is also in his own
 best personal interests.
 
 Risk-seekers enjoy the noise and oscillations of the market. They think
@@ -3646,9 +3309,7 @@ problem of society.
 
 Our language, our incentives
 
-Keith Chen is a professor at the University of California who studies beha-
-vioral economics. He published an impressive study about the impact of lan-
-guages on our actions (Chen, 2013). He performed a review of several
+Keith Chen is a professor at the University of California who studies behavioral economics. He published an impressive study about the impact of languages on our actions (Chen, 2013). He performed a review of several
 languages, looking particularly at future tenses. According to his research,
 cultures that use future tenses tend to have an image of a future far away from
 them. The future is very fuzzy and they feel more compelled to do something
@@ -3661,8 +3322,7 @@ more than other cultures and have more of a long-term orientation.
 Thus, we have short-term-oriented cultures and long-term-oriented cultures.
 This does not mean that everyone who speaks the same language is similarly
 oriented, but it does have some influence on their natural perspective. If your
-native language uses more of the future tense, then you may have to com-
-pensate for that in your company culture and own personal outlook.
+native language uses more of the future tense, then you may have to compensate for that in your company culture and own personal outlook.
 
 The CEO as a shareholder
 
@@ -3670,24 +3330,20 @@ It is a common practice to reward top managers with shares of the company
 based on their longevity and success. I do not know why this is popular in the
 shipping business, but it should not be. The results of being a shareholder differ
 according to the type of entity the company is; for example, public companies
-with IPOs (initial public offerings) vs. private entities such as a limited part-
-nership. Stockholders have short-term incentives, and this influences managerial
+with IPOs (initial public offerings) vs. private entities such as a limited partnership. Stockholders have short-term incentives, and this influences managerial
 processes. If the CEO is also a shareholder, the result may be an even greater
 emphasis on short-term gains at the expense of long-term sustainability.
 
 The problem seems to be related to our monitoring techniques. A shipping
-investor needs some indicators for monitoring the success of his top man-
-agers. Short-term indicators push them to be oriented to the short term, while
-long-term indicators push them to be more oriented to the long term. How-
-ever, the way the shipowner measures their performance is what they will
+investor needs some indicators for monitoring the success of his top managers. Short-term indicators push them to be oriented to the short term, while
+long-term indicators push them to be more oriented to the long term. However, the way the shipowner measures their performance is what they will
 focus on. Therefore, shipowners should be careful about the criteria they
 apply to analyzing their managers' efforts. Most of all, shipowners need
 patience. In the shipping business, the long term refers to, at minimum, a
 market cycle of roughly eight to ten years.
 
 I should note one more thing about the board of directors. When people
-make group decisions, they tend to take on more risks. Since the responsi-
-bility is shared, people feel the effects of the risks less keenly. This is called the
+make group decisions, they tend to take on more risks. Since the responsibility is shared, people feel the effects of the risks less keenly. This is called the
 'groupthink bias.' Meetings, discussions, and sharing of opinions are good
 habits. Like everything else, though, too much of a good thing is not good.
 There is a strong need for professional risk monitoring in today's economy,
@@ -3702,9 +3358,9 @@ may just need encouragement and empowerment.
 
 *Risk vs. loyalty*
 
-Risk-seeking • Dopamine reward system
+Risk-seeking - Dopamine reward system
 
-Shipping portfolio • Recency bias
+Shipping portfolio - Recency bias
 
 There are two major groups of shipping investors: risk-takers and risk-averse
 owners. Both have their own incentives, advantages, and disadvantages. Our
@@ -3722,8 +3378,7 @@ You may have heard of the financial twins of risk and return. The relationship
 between them is one of the most popular topics in finance research. The more
 risk you take, the more return you may enjoy … if everything goes well, if you
 are lucky, or if you have asymmetric knowledge. The rationale behind taking
-or seeking risk (e.g. venture capital, hedge funds) is the potential for enor-
-mous profits. Therefore, risk lovers love risk! Risk lovers need the dynamics of a
+or seeking risk (e.g. venture capital, hedge funds) is the potential for enormous profits. Therefore, risk lovers love risk! Risk lovers need the dynamics of a
 management team for following the market closely, capturing any opportunity,
 and rapidly defining entry-exit decisions.
 
@@ -3742,8 +3397,7 @@ Risk lovers are a mobile and flexible group of shipping investors. They are
 experts in speed, multitasking, and representing (i.e. showboating). Risk
 lovers can easily shift from one position to another and can quickly see the
 benefits in opportunities. If there is a very cheap bulk carrier, they go for the
-transaction and then sell it at the peak of the market. However, there is a gut-
-wrenching gap between what they would like to do and what they are able to
+transaction and then sell it at the peak of the market. However, there is a gutwrenching gap between what they would like to do and what they are able to
 do. When they look back on missed opportunities or risks they could have
 taken, they often feel overwhelmed.
 
@@ -3804,8 +3458,7 @@ having a good ship operation team and particularly good seafarers.
 
 There is also one more thing you need: a young fleet. A charterer does not
 want to fix an old ship for a long time. They need painless, smooth cargo
-handling and transportation. Therefore, the quality of the ship and its sea-
-farers play a critical role for risk reducers.
+handling and transportation. Therefore, the quality of the ship and its seafarers play a critical role for risk reducers.
 
 Risk reducers forgo many opportunities because they are stuck in other
 contracts or long-term agreements. As such, they are generally immobile and
@@ -3822,12 +3475,11 @@ tablet that balanced mobility with performance?
 
 To discuss the shipping equivalent of this compromise, let's return to my
 discussion on portfolios. Since a portfolio is a bundle of assets, we may design
-a bundle of short- and long-term fixed ships. The key question is how to
+a bundle of shortand long-term fixed ships. The key question is how to
 define the mix. What percentage should be allocated in each position? In
 Shipping Strategy, Peter Lorange (2009), one of the great shipping minds,
 provides some tips. We have two fundamental tasks: asset play and trading. In
-other words, the shipowner should investigate the investment timing (entry-
-exit, buy-sell) while trading ships in the short (spot) or long positions (see
+other words, the shipowner should investigate the investment timing (entryexit, buy-sell) while trading ships in the short (spot) or long positions (see
 Figure 15.1). The rules are simple but managing the transitions is difficult.
 
 One more task remains: positioning ourselves in the market. If we know
@@ -3868,8 +3520,8 @@ Time
 (a)
 (b)
 
-> **Figure 15.1 The asset management policy (a) and trading policy (b)
-Source: Lorange (2009).**
+Figure 15.1 The asset management policy (a) and trading policy (b)
+Source: Lorange (2009).
 
 LONG
 SPOT
@@ -3886,14 +3538,11 @@ SPOT
 (a) Risk neutral
 (a) Risk taking
 
-> **Figure 15.2 Shipping portfolio based on the volume of spot-long positions**
+**Figure 15.2** Shipping portfolio based on the volume of spot-long positions
 
-In a peak market, the shipping investor should define the asset play posi-
-tion for their existing fleet. Some of the fleet will be taken out of the bundle,
+In a peak market, the shipping investor should define the asset play position for their existing fleet. Some of the fleet will be taken out of the bundle,
 and the remaining vessels should be transferred to long positions. To reduce
-risk, before the collapse of the market, a portfolio should have more long-
-term contracts and less spot contracts (Figure 15.2a). Once the market col-
-lapses, the state of the portfolio should be kept as it is for a couple of years.
+risk, before the collapse of the market, a portfolio should have more longterm contracts and less spot contracts (Figure 15.2a). Once the market collapses, the state of the portfolio should be kept as it is for a couple of years.
 After the initial period of recession (i.e. after two to three years of being in a
 valley), the portfolio should be adjusted to a fifty-fifty setting before the next
 recovery (Figure 15.2b). This prepares the portfolio for the next move and
@@ -3916,7 +3565,7 @@ static
 dynamic
 LONG & SPOT
 
-> **Figure 15.3 Static and dynamic sections of shipping portfolio**
+**Figure 15.3** Static and dynamic sections of shipping portfolio
 
 When market recovery begins, it is time for the move from being risk-neutral
 to being risk-taking (Figure 15.2c). It is not difficult to recognize whether the
@@ -3950,16 +3599,13 @@ can save 30-50% of the ship's initial value).
 
 Interest rates and the freight market move together. Therefore, a bank loan
 during a peak market is probably very expensive--this is, of course, what the
-banker wants to sell. Today, shipping banks and banks with specialized ship-
-ping departments are very sophisticated. They know how to take money
-back. They have many instruments at their disposal, such as collateral, mon-
-itoring constraints, covenants, and more. If a shipping investor has a strong
+banker wants to sell. Today, shipping banks and banks with specialized shipping departments are very sophisticated. They know how to take money
+back. They have many instruments at their disposal, such as collateral, monitoring constraints, covenants, and more. If a shipping investor has a strong
 balance sheet and high liquidity, this is good news to their bankers, who will
 do their job and push him to borrow more.
 
 The status quo bias refers to inertia or resistance to change while everything
-seems to be going well. This is really a form of laziness. I have already men-
-tioned the endowment effect: when we hold a ship, we overvalue its true worth
+seems to be going well. This is really a form of laziness. I have already mentioned the endowment effect: when we hold a ship, we overvalue its true worth
 through irrational sentiment. Finally, the recency bias is our tendency to focus
 on recent data and developments while ignoring the long-term perspective.
 
@@ -3970,7 +3616,7 @@ fundamental things: capital, knowledge, and a cool head.
 
 *Uniqueness vs. size*
 
-Scope-in, scale-out • Cost leadership
+Scope-in, scale-out - Cost leadership
 
 If you are over 40 years old and grew up in a city, you probably remember the
 small delis and markets on the street corners. Many of these still exist in
@@ -3980,27 +3626,22 @@ streets of New York, there are enough customers that these small shops can
 still make money. There are enough people that they can specialize in catering
 to a subgroup's unique demands.
 
-Here we see uniqueness vs. size. However, there are also some street ven-
-dors. They are in an even tougher situation (as you can guess from the quality
-of the food some of them serve). From time to time, business may be rela-
-tively good--say, if the Knicks are playing a home game. But this is more
+Here we see uniqueness vs. size. However, there are also some street vendors. They are in an even tougher situation (as you can guess from the quality
+of the food some of them serve). From time to time, business may be relatively good--say, if the Knicks are playing a home game. But this is more
 often the exception than the rule. The takeaway here is that size matters; and
 in the shipping business, it matters quite a bit.
 
 Scope and scale
 
 Modernism, postmodernism, and Fordism are academic terms. Instead of
-investigating the philosophy behind them, let's focus on how they have influ-
-enced business and economics in the last half century.
+investigating the philosophy behind them, let's focus on how they have influenced business and economics in the last half century.
 
 Consider the tailor and his competitor, the textile factory. The tailor
 measures you, designs your suit, and sews it for you. It is, as they say,
 tailor-made for your body. A textile factory owner, however, thinks bigger.
-He has textile machinery, several employees, and capacity for mass pro-
-duction. However, a factory owner has no time to measure each customer
+He has textile machinery, several employees, and capacity for mass production. However, a factory owner has no time to measure each customer
 and customize their clothing. Instead, the factory has standard sizes that
-cover the common sizes of the general populace. When you buy a factory-
-made suit, it somewhat fits you, even though it may be a little long or a
+cover the common sizes of the general populace. When you buy a factorymade suit, it somewhat fits you, even though it may be a little long or a
 little snug. But it's cheaper than paying a tailor and it does the job. The
 tailor is in the business of scope, while the factory owner is in the business
 of scale.
@@ -4025,8 +3666,7 @@ economy is correlated with the market share of a company. Since a scale
 strategy requires a massive shipping fleet, scale-oriented shipping makes up a
 big portion of the shipping pie. If you want to be successful in the scale
 business and have a high return on investment, you have to be of a sufficient
-size to compete. On the other hand, scope-focused shipowners have a rela-
-tively small market share in the shipping business. The level of specialization
+size to compete. On the other hand, scope-focused shipowners have a relatively small market share in the shipping business. The level of specialization
 defines the uniqueness, and more unique shipping creates higher returns
 (Figure 16.1).
 
@@ -4049,7 +3689,7 @@ Differentiation
 
 Market share of firm
 
-> **Figure 16.1 Porter's (1980) classification of strategic management**
+**Figure 16.1** Porter's (1980) classification of strategic management
 
 SCOPE
 SCALE
@@ -4057,13 +3697,11 @@ SCALE
 SCOPE-IN
 SCALE-OUT
 
-> **Figure 16.2 Shipping portfolio based on the volume of scope-scale positions**
+**Figure 16.2** Shipping portfolio based on the volume of scope-scale positions
 
 In the container shipping business, we have an interconnected business
 design including logistics services and liner shipping services. In the logistics
-division, we have specialized services for transferring cargoes into their con-
-tainers. There are a variety of containers for common packages, frozen pro-
-ducts, pressurized gas products, and even chemicals. This is an example of the
+division, we have specialized services for transferring cargoes into their containers. There are a variety of containers for common packages, frozen products, pressurized gas products, and even chemicals. This is an example of the
 scope-in container market.
 
 Varieties of containers are carried to container ports to be loaded onto
@@ -4074,11 +3712,8 @@ scale business begins. Therefore, 'scope-in, scale-out.'
 
 What is your optimal size?
 
-Tailor-made business designs are needed for managing the scope-scale trade-
-off. We must first measure your business intentions and then find which busi-
-ness strategy fits you. For small players (say, about ten ships), it is better to be
-in the scope business since it does not require a large fleet. In the scope busi-
-ness, there are many options, such as chemical carriers, product carriers, small
+Tailor-made business designs are needed for managing the scope-scale tradeoff. We must first measure your business intentions and then find which business strategy fits you. For small players (say, about ten ships), it is better to be
+in the scope business since it does not require a large fleet. In the scope business, there are many options, such as chemical carriers, product carriers, small
 LNG-LPG carriers, and other special-purpose ships. They have relatively
 higher returns in the long term, although the employees need more specific
 skill sets for handling specialized vehicles and cargoes.
@@ -4116,8 +3751,7 @@ the issues of mixing nationalities and ethnicities. On top of all this, there ar
 also a number of employment regulations that companies must adhere to
 when hiring someone to man their vessels.
 
-For all of these reasons, most shipping companies find it easier to out-
-source the assessment and hiring tasks to an agency that specializes in such,
+For all of these reasons, most shipping companies find it easier to outsource the assessment and hiring tasks to an agency that specializes in such,
 leaving the owners and managers to deal with asset play, trading policies,
 questions of scope vs. scale, and the swells of the market.
 
@@ -4132,12 +3766,10 @@ aggregated services to act on behalf of their clients. Effectively, they have
 created a shipping bloc with enormous negotiating power.
 
 Such an organization is known as third-party ship management (TPSM),
-one of the smartest solutions in the industry. TPSMs are the hot topic nowa-
-days and has taken a position at the forefront of the shipping industry. These
+one of the smartest solutions in the industry. TPSMs are the hot topic nowadays and has taken a position at the forefront of the shipping industry. These
 organizations have developed key performance indicators for their clients,
 stay abreast of the latest developments, present at international conferences,
-arrange financing, and so much more. Operationally, they offer crew man-
-agement, operations management, commercial management, and just about
+arrange financing, and so much more. Operationally, they offer crew management, operations management, commercial management, and just about
 every other task shipping owners have to take care of. Because of their clout,
 TPSMs often enjoy preferential rates, discounts, and access generally denied
 to all but the largest fleet owners.
@@ -4151,8 +3783,7 @@ forget just how much it costs to manage these same tasks in-house, with the
 need for roomy offices, a small army of qualified managers, high salaries,
 conference rooms, and acres of filing cabinets to deal with all the paperwork
 of an overregulated industry. Managing your operations in-house is a point of
-pride for many shipowners, but that goes back to my 'king of the seas' dis-
-cussion. If a company is big enough that it can enjoy economies of scale by
+pride for many shipowners, but that goes back to my 'king of the seas' discussion. If a company is big enough that it can enjoy economies of scale by
 doing it in-house, it still needs to factor in other variables before making a
 decision, such as the benefits that come from a vast business network and a
 bigger pool of people who have the know-how and, more importantly, the
@@ -4170,17 +3801,13 @@ tycoons--not their ships, but their relationships.
 *Visualizing shipping metrics*
 
 We have already discussed the human brain in detail, such as the role of the
-amygdala and its impact on emotions and memory. Now we turn our atten-
-tion to the hypothalamus. In addition to its other functions, the hypothalamus
+amygdala and its impact on emotions and memory. Now we turn our attention to the hypothalamus. In addition to its other functions, the hypothalamus
 works with the autonomic nervous system (ANS) to control our inner body
-functions without our conscious awareness. Our body has a number of che-
-mical and mechanical rules, and the hypothalamus checks whether the differ-
-ent systems are working as they should. If any indicator sounds an alert, the
+functions without our conscious awareness. Our body has a number of chemical and mechanical rules, and the hypothalamus checks whether the different systems are working as they should. If any indicator sounds an alert, the
 hypothalamus responds appropriately, such as secreting steroid-like hormones.
 I want to underline two important characteristics of the ANS: its unconscious
 nature and its rule-based, autonomous management. The management of an
-entire human body is not easy. Since the ANS deals with several issues with-
-out our awareness, our conscious brain is not subjected to mental overload.
+entire human body is not easy. Since the ANS deals with several issues without our awareness, our conscious brain is not subjected to mental overload.
 Managing all those systems underneath our consciousness requires a set of
 standards. Therefore, our bodies have rule-based mechanisms with reference
 levels, limits, boundaries, and benchmarks all embedded in the ANS. Based
@@ -4189,8 +3816,7 @@ on these rules, the ANS can increase heart rate, secrete certain chemicals, etc.
 In the modern structure of corporate governance, we need an autonomous
 system like the ANS for the monitoring and control of routine problems
 without wasting the focus of upper-level executives. Similar to the human
-body, there are many issues that arise in daily operations, but often the solu-
-tion to these issues is straightforward. However, every single problem requires
+body, there are many issues that arise in daily operations, but often the solution to these issues is straightforward. However, every single problem requires
 a certain allocation of time and effort by managers, resulting in losing focus
 or outright ignoring other issues. One of the most challenging problems for
 modern managers is the mental task load. Busy managers do not have time
@@ -4202,8 +3828,7 @@ The shipping business has more dimensions and technical complexity than
 many other industries. It is not surprising that short-term thinking and the
 corresponding asset management failures are common in shipping. Company
 
-managers are required to do an almost overwhelming job, performing con-
-ventional management duties as well as struggling with the complexity of the
+managers are required to do an almost overwhelming job, performing conventional management duties as well as struggling with the complexity of the
 industry, including safety regulations, seafaring, legal disputes, chartering
 relationships, and moral hazards, among others. You almost have to be
 Superman to deal with it all.
@@ -4219,8 +3844,7 @@ focus really seems to be on the short term. Many of them have so-called
 monitoring and control systems, but these serve only the short-term issues.
 
 It is very common to define some initial objectives and later relax them due
-to 'periodical revision.' Revising an objective is often necessary, but such revi-
-sions should be based on rational, credible, and transparent reasons. When the
+to 'periodical revision.' Revising an objective is often necessary, but such revisions should be based on rational, credible, and transparent reasons. When the
 monitoring and control system of a shipping company is based on predefined,
 robust objectives and perspectives with corresponding rules, it simplifies the
 task load of managers. This, in turn, allows upper-level executives to focus on
@@ -4228,18 +3852,13 @@ more sophisticated and critical problems. But if managers do not have time for
 self-evaluation in the first place, who will improve the processes?
 
 One of the most useful instruments of monitoring and control systems is
-the dashboard. It provides an instant picture of the entire company's activ-
-ities, achievements, gains/losses, and failures. The indicator panel of an auto-
-mobile is a familiar example of a dashboard. Drivers can find all they need
+the dashboard. It provides an instant picture of the entire company's activities, achievements, gains/losses, and failures. The indicator panel of an automobile is a familiar example of a dashboard. Drivers can find all they need
 on these panels for maintaining operation of their car. Top managers and
 shipowners are the drivers of the company and, as such, need an indicator
 panel just like that in an automobile. There is a stream of academic and
 commercial interest in designing effective corporate governance dashboards.
-Every company needs a customized dashboard for its own needs and objec-
-tives. A dashboard visualizes useful information that is generated by using
-data provided from different sections of the company. For example, a dash-
-board can illustrate the liquidity and long-term indicators for asset manage-
-ment as well as presenting a snapshot of operational activities (e.g. delays,
+Every company needs a customized dashboard for its own needs and objectives. A dashboard visualizes useful information that is generated by using
+data provided from different sections of the company. For example, a dashboard can illustrate the liquidity and long-term indicators for asset management as well as presenting a snapshot of operational activities (e.g. delays,
 excessive use of funds, etc.).
 
 Data and information visualization have become popular topics in the last
@@ -4253,8 +3872,7 @@ A dashboard has three main components: an interface (visual item output),
 an execution unit (data manager), and a data collector (data network input).
 
 The interface refers to the visualization or graphical representation unit.
-There are many ways to represent data, but only a few are useful for effec-
-tively managing the indicators. The execution unit is the core item. Based on
+There are many ways to represent data, but only a few are useful for effectively managing the indicators. The execution unit is the core item. Based on
 predefined objectives, perspectives, and rules, the execution unit compiles the
 input data and generates information for management's consumption.
 Finally, with the data collector, every division or department of the company
@@ -4270,13 +3888,10 @@ management instruments are essential for even mid-sized organizations.
 Priority and scope
 
 There are four primary management priorities of a shipping company under
-top management (i.e. strategic asset management) level: financial manage-
-ment, fleet management, human resources management, and legal manage-
-ment (see Table 18.1). On one hand, financial management and fleet
+top management (i.e. strategic asset management) level: financial management, fleet management, human resources management, and legal management (see Table 18.1). On one hand, financial management and fleet
 management are the fundamental departments of a shipping company. On the
 other hand, human resources management is usually a department of large
-companies since they have significant office personnel. Moreover, legal man-
-agement is usually outsourced to independent maritime lawyers.
+companies since they have significant office personnel. Moreover, legal management is usually outsourced to independent maritime lawyers.
 
 ### Table 18.1 A generic organization of a shipping company
 
@@ -4311,7 +3926,7 @@ Human Resources Management (HRM) (non-onboard employees)
 15.
 Legal Management
 
-> **Figure 18.1 Fundamental content of a dashboard**
+**Figure 18.1** Fundamental content of a dashboard
 
 Based on the priorities of the shipping company, a dashboard should
 visualize critical items and indicators from these departments and their
@@ -4338,14 +3953,13 @@ figures and market data are presented at the top of the window and some
 financial indicators are on the top-right. As an example, some ships in the
 fleet are demonstrated in the main part of the window. On the left side there
 are the budget, the ship's current average speed with a long-term average, a
-port state control indicator, and fuel performance. Mid-ship are some finan-
-cial figures. The scale on the cargo hold refers to the percentage loaded (L),
+port state control indicator, and fuel performance. Mid-ship are some financial figures. The scale on the cargo hold refers to the percentage loaded (L),
 discharged (D), or sailing (S). 'VIDLE' refers to a charter not yet fixed, as
 opposed to one that is ('VFIXED').
 
-> **Figure 18.2 An example of a shipping company dashboard**
+**Figure 18.2** An example of a shipping company dashboard
 
-> **Figure 18.2 is just an illustration of how a lot of data can be presented
+Figure 18.2 is just an illustration of how a lot of data can be presented
 visually in a concise form. These visuals are related to the interface while the
 ANS-like procedures work in the background, executed by dedicated staff.
 The technology behind such ANS-like processes is an automated business
@@ -4356,7 +3970,7 @@ using reporting styles and dashboards specific to the user (e.g. one for the
 financial manager and another for the operational manager). KPIs play a
 significant role in the ABM system. Both KPIs and the financial indicators
 are frequently calculated and compared with industry benchmarks (e.g. an
-industry average). Machine learning can be well embedded in such systems.**
+industry average). Machine learning can be well embedded in such systems.
 
 By using an ABM system, top managers leave some tasks to automated
 processes that can even produce messages and alerts for low-ranking staff.
@@ -4370,21 +3984,15 @@ automated signals.
 An ordinary shipping professional has various questions about buzzwords such
 as digitalization, block chain, artificial intelligence and so on. The so-called
 technology boom of maritime industry is expected to change more or less
-everything from ships to some intellectual activities like forecasting or valua-
-tion. It is a common belief that we expect a new skill set (the new shipping
-man) to enter the industry during the first half of the 21st century: the neo-
-shipping economicus. In terms of some academic and intellectual skills, neo-
-shipping economicus (henceforth NSE) is completely different from an ordinary
+everything from ships to some intellectual activities like forecasting or valuation. It is a common belief that we expect a new skill set (the new shipping
+man) to enter the industry during the first half of the 21st century: the neoshipping economicus. In terms of some academic and intellectual skills, neoshipping economicus (henceforth NSE) is completely different from an ordinary
 professional. NSE is expected to be knowledgeable enough to adapt to the age
 of artificial intelligence or, in other words, computational intelligence.
 
 Computational intelligence has been utilized and applied in the financial
 markets by financial engineers for more than a decade, and there are already
-plenty of financial engineering firms throughout Manhattan using mathema-
-tical models (aka algorithmic trading) or machine learning. Some program-
-ming platforms such as R or Python are used to develop algorithms and
-generate business analytics without expert intervention. These days, even pri-
-mary and secondary school kids learn to code in Python for some simple
+plenty of financial engineering firms throughout Manhattan using mathematical models (aka algorithmic trading) or machine learning. Some programming platforms such as R or Python are used to develop algorithms and
+generate business analytics without expert intervention. These days, even primary and secondary school kids learn to code in Python for some simple
 applications. Python is a coding platform with an increasing volume of use
 and applications in several areas. According to some recent statistics, it will
 be the top coding and programming platform for data scientists in the first
@@ -4397,28 +4005,22 @@ banking (as of 2018). The knowledge gap will be reduced possibly in a few
 decades, but that will definitely require the NSE with some computing as well
 as mathematical skills. Currently, there is no educational institution which
 meets the requirements of both computational and industrial skills needed in
-the shipping business. Therefore, we may expect some new faces and special-
-ties to join the industry and learn its dynamics. Recently, many shipping firms
+the shipping business. Therefore, we may expect some new faces and specialties to join the industry and learn its dynamics. Recently, many shipping firms
 
 (operators, data vendors and so on) have invested significantly in manpower
 with computational skills. Some well-known firms have appointed their own
 innovation directors.
 
-During such a historical shift in the industry, the ordinary shipping pro-
-fessional and shipping investor will suffer due to the knowledge gap and its
-management. Experts in machine learning have proposed various methodol-
-ogies, and some investors spend in the region of US$30k-200k in establishing
+During such a historical shift in the industry, the ordinary shipping professional and shipping investor will suffer due to the knowledge gap and its
+management. Experts in machine learning have proposed various methodologies, and some investors spend in the region of US$30k-200k in establishing
 such complex systems. There is a widespread understanding that machine
 learning could result in extraordinary performance in market prediction.
 Without dedicating a massive budget, the performance of these systems
 cannot be tested, and therefore, there will be a time lag between spending and
-knowing the accuracy of systems. Unfortunately, there have been many dis-
-appointments due to various limitations of those systems or the lack of ship-
-ping industry and predictive analytics knowledge on the developers' side. I
+knowing the accuracy of systems. Unfortunately, there have been many disappointments due to various limitations of those systems or the lack of shipping industry and predictive analytics knowledge on the developers' side. I
 believe this knowledge gap between parties is a source of the "market for
 lemons" phenomenon for shipping investors and professionals. Even I
-experience such miscommunication in my research team composed of econo-
-metricians and electronic engineers. The traditional econometrics and the new
+experience such miscommunication in my research team composed of econometricians and electronic engineers. The traditional econometrics and the new
 computational approach each have their own technical jargons and different
 lenses for similar problems. As a professor, I am more of a translator than a
 leader in this puzzling circumstance. I can understand both parties in their
@@ -4473,8 +4075,7 @@ more than a million data points in a month (if not in a week).
 ***
 
 Machine learning and deep learning are some very cool methodologies with a
-lot of power in terms of pattern recognition and classification (e.g. face recog-
-nition). This kind of use of machine learning involves a 'matching' process in
+lot of power in terms of pattern recognition and classification (e.g. face recognition). This kind of use of machine learning involves a 'matching' process in
 which the computer searches and matches given images within a pre-identified
 database (i.e. computer vision). This feature of machine learning is expected to
 replace the lookout officer/seaman someday. Some early versions of intelligent
@@ -4491,9 +4092,7 @@ also known as the 'black box' solution since the process of forecasting is not
 apparent to users of machine learning systems. Users briefly enter a bundle
 of data which is expected to have some explanatory power, then the system
 outputs a value for a projected future date. Different kinds of architectures
-can be developed and tested in a machine learning environment. In econo-
-metrics, it is very straightforward to find the impact of any particular vari-
-able and its significance. Machine learning is a completely other world and
+can be developed and tested in a machine learning environment. In econometrics, it is very straightforward to find the impact of any particular variable and its significance. Machine learning is a completely other world and
 another way of 'extrapolating' for prediction. In this approach, some
 hidden relationships are found by a training procedure, and the final
 
@@ -4511,15 +4110,12 @@ some traditional (and simpler) forecasting methodologies are still much
 more accurate in prediction than sophisticated approaches like machine
 learning. The number of data scientists who can really develop practically
 useful and meaningfully accurate predictive systems is very small. There
-are so many disappointing shipping business applications. Although com-
-panies have invested thousands and even tens of thousands of dollars in
+are so many disappointing shipping business applications. Although companies have invested thousands and even tens of thousands of dollars in
 various sorts of machine learning systems, few of them actually work
 properly in terms of predictive analytics.
 
-There are various reasons behind the failure of machine learning in ship-
-ping market prediction. I do not want to waste these pages with technical
-details, but the greatest problem in machine learning is the 'over-fitting' pro-
-blem. Since machine learning uses so many layers and nodes, it can perfectly
+There are various reasons behind the failure of machine learning in shipping market prediction. I do not want to waste these pages with technical
+details, but the greatest problem in machine learning is the 'over-fitting' problem. Since machine learning uses so many layers and nodes, it can perfectly
 fit to any kind of data set which seems unbelievably accurate at the first place.
 However, those curve fits eventually fail in terms of generating accurate 'out
 of sample' forecasts (real business forecasting). There are some ways to deal
@@ -4538,14 +4134,12 @@ Naïve forecaster test
 
 From time to time, I mention the 'naïve forecaster fallacy' at shipping events.
 A naïve forecaster thinks that tomorrow will be the same as today. For
-example, if the Panamax time charter daily rate is $11,000 today, the predic-
-tion of the naïve person for tomorrow would be exactly $11,000, no more no
+example, if the Panamax time charter daily rate is $11,000 today, the prediction of the naïve person for tomorrow would be exactly $11,000, no more no
 less. A slightly better naïve forecaster just copies trends. If the Panamax time
 charter rate was $10,000 yesterday, today's price corresponds to a 10%
 increase, and the naïve forecaster will expect $12,100 ($11,000 plus 10% of
 
-$11,000) for tomorrow. The naïve forecaster always follows this basic princi-
-ple. At the end of the day, the naïve forecaster only fails in determining
+$11,000) for tomorrow. The naïve forecaster always follows this basic principle. At the end of the day, the naïve forecaster only fails in determining
 turning points! During the rest of the time, predictions are always more or
 less accurate; at least their direction is right. Now consider providers of
 market predictions for the shipping industry: how many of them really do
@@ -4553,8 +4147,7 @@ better than a naïve forecaster?
 
 The naïve forecaster test is a powerful instrument to spot a predictive liar of
 any kind (not only in machine learning). Any predictive analysis must be better
-than a naïve forecast. That is the baseline for predictive accuracy. If a predic-
-tion cannot outperform the naïve benchmark, it is computational garbage!
+than a naïve forecast. That is the baseline for predictive accuracy. If a prediction cannot outperform the naïve benchmark, it is computational garbage!
 
 Curve-fitting is not prediction
 
@@ -4564,9 +4157,7 @@ success in fitting historical data. Then, predictive accuracy is presented as
 the degree of curve fit, the gap between the fitted curve and the historical
 data set. As a fundamental rule, curve-fitting has very limited value in
 terms of predictive accuracy, regardless of the methodology used to fit the
-curve (e.g. machine learning, mathematical model). In the current tech-
-nology, a perfect fit can be generated by using some mathematical opera-
-tions.3 However, while a curve fit can represent meaningful and repetitive
+curve (e.g. machine learning, mathematical model). In the current technology, a perfect fit can be generated by using some mathematical operations.3 However, while a curve fit can represent meaningful and repetitive
 patterns and oscillations of data, it can also imitate meaningless patterns
 and noise (random oscillations). Therefore, any methodology focusing on
 fitting a curve eventually fails in terms of prediction. This is the over-fitting
@@ -4584,29 +4175,23 @@ Is it worth investing in a sophisticated one when a simple one works better?
 In forecasting research, there are so many methodologies that stretch out
 econometrics to digital signal processing and other fractions of computational
 intelligence. In the last few decades, various forecasting competitions have
-been conducted by using thousands of different data sets (economic, trans-
-port, health, population, and so on) with different data frequencies (daily,
+been conducted by using thousands of different data sets (economic, transport, health, population, and so on) with different data frequencies (daily,
 weekly, monthly, annually). One common result of the competitions is that
-the simpler models usually outperform the complex ones. For example, Holt-
-Winters exponential smoothing works well in many of the data sets. This
+the simpler models usually outperform the complex ones. For example, HoltWinters exponential smoothing works well in many of the data sets. This
 raises an impotant question: is it worth spending more for a sophisticated
 machine learning system? My answer is "it depends." If a prediction
 
-algorithm or system outperforms simpler and more conventional methodolo-
-gies, it is worth investing. Otherwise, once again, it is computational garbage.
+algorithm or system outperforms simpler and more conventional methodologies, it is worth investing. Otherwise, once again, it is computational garbage.
 
 ***
 
-In my research team, our motto is 'first outperform the naïve forecaster.' A pre-
-dictive model must first outrank naïve forecast. Your predictive analytics are
-actually as strong as your benchmarks. Based on this, we developed the Intelli-
-gent Model Search Engine (IMSE) in early 2018 and presented our initial results
+In my research team, our motto is 'first outperform the naïve forecaster.' A predictive model must first outrank naïve forecast. Your predictive analytics are
+actually as strong as your benchmarks. Based on this, we developed the Intelligent Model Search Engine (IMSE) in early 2018 and presented our initial results
 at the Singapore Exchange (SGX) to a group of professionals in the shipping
 and commodity markets. The IMSE is a kind of Google for prediction modeling
 which follows a certain testing and modelling procedure, ensuring its accuracy
 against all conventional methodologies in tough market conditions. It is a fair
-forecasting contest without any prior assumptions on which models would pre-
-dict better. To be honest, even the most accurate configuration changes through
+forecasting contest without any prior assumptions on which models would predict better. To be honest, even the most accurate configuration changes through
 time and at various stages of the market. Therefore, the search for the best model
 is a never-ending, recursive procedure.
 
@@ -4624,8 +4209,7 @@ curve, fitting data completely.
 
 Financial symbols, particularly the ones representing money itself, prime our
 selfish motives, as behavioral economics and neuroeconomics have found. The
-word 'selfish' itself is usually upsetting, and few people have any good senti-
-ments when they encounter the term. However, classical economics assume
+word 'selfish' itself is usually upsetting, and few people have any good sentiments when they encounter the term. However, classical economics assume
 that people are rational decision-makers--that is, rationally selfish.
 
 When I first studied the connection between symbols for currency and how
@@ -4659,16 +4243,13 @@ There are many good stories--as well as bad ones--in shipping finance.
 Take foreclosures, for instance. Taking money back is sensitive work. When it
 comes to our industry, we have two safeguards: collateral (e.g. ships, other
 assets) and monitoring tools (e.g. liquidity, minimum value, debt-to-hull ratio).
-Conventional banks cannot handle managing a ship after a foreclosure, prop-
-erly valuing shipping assets, or the high level of mobility. However, shipping
+Conventional banks cannot handle managing a ship after a foreclosure, properly valuing shipping assets, or the high level of mobility. However, shipping
 banks or banks with specialized shipping departments can.
 
 In the last few decades, shipping finance has become more sophisticated.
-Monitoring shipping loans is easier with expertise. There are more inter-
-mediaries facilitating ship financing. Newcomers to the industry in particular
+Monitoring shipping loans is easier with expertise. There are more intermediaries facilitating ship financing. Newcomers to the industry in particular
 need a facilitating agent who can teach them and convert their needs into
-what shipping bankers want to hear. Shipping finance has its own terminol-
-ogy and methods. Good communication is essential; therefore, you need
+what shipping bankers want to hear. Shipping finance has its own terminology and methods. Good communication is essential; therefore, you need
 somebody who can speak the language. Moreover, these intermediaries must
 know how to deal with the incentives of bankers.
 
@@ -4728,16 +4309,14 @@ with its value determined by the supply and demand for it.
 One of the results of this change is the difficulty in recognizing the value of
 money, especially in regards to time. If you know the historical prices of basic
 commodities, then you may calculate the change in value. But, we rarely
-know the valuation for money itself. It is not constant through time. It fluc-
-tuates, like the purchasing power of a dollar in the 1990s not being the same
+know the valuation for money itself. It is not constant through time. It fluctuates, like the purchasing power of a dollar in the 1990s not being the same
 as it is today.
 
 A shipping investor needs a business plan and a feasibility study for an
 intended ship project. A feasibility study tells of the financial future of the
 project and its cash flow estimations. The most complicated task is determining
 the financial future. The future value of money changes according to random
-variables, the unpredictability of the market, and the sporadic nature of cur-
-rency policy. But before discussing this, I want to talk about the future itself.
+variables, the unpredictability of the market, and the sporadic nature of currency policy. But before discussing this, I want to talk about the future itself.
 
 The science of the future
 
@@ -4745,8 +4324,7 @@ People want to know their own future as well as the future of mankind.
 Talking about the future is historically valued. Take Nostradamus: every
 sporadic event, global crisis, and political debate is linked to him and his
 predictions of the future. Today, dealing with the future is a scientific field.
-Forecasting is popular in terms of financial, economic, social, and even poli-
-tical purposes. For instance, several studies dealing with the U.S. presidential
+Forecasting is popular in terms of financial, economic, social, and even political purposes. For instance, several studies dealing with the U.S. presidential
 
 elections have shown that body language, word choice, slogans, and so on can
 be indicative of future victory.
@@ -4756,9 +4334,7 @@ series analyses. State-of-the-art software exists that can estimate models and
 generate predictions. Although such methods and models are well known, we
 still need expert help in finding the right one.
 
-In the science of forecasting, there are many methods for a variety of pur-
-poses. They are primarily divided into two groups: quantitative and qualita-
-tive methods. Quantitative methods take a picture of the past and then
+In the science of forecasting, there are many methods for a variety of purposes. They are primarily divided into two groups: quantitative and qualitative methods. Quantitative methods take a picture of the past and then
 extrapolate it to the future. The important thing is how it is extrapolated. The
 traditional approach uses historical data, finds a trend, and then assumes the
 trend will continue. In the case of qualitative methods, a number of experts
@@ -4789,8 +4365,7 @@ solution that works in practice.
 
 Spreadsheets and real life
 
-Investment analyses and the control of financial indicators need some calcu-
-lations and estimations. A shipping investor first needs a clear objective of
+Investment analyses and the control of financial indicators need some calculations and estimations. A shipping investor first needs a clear objective of
 profitability and maybe some thresholds for particular actions (e.g. stay, quit,
 
 Known Past
@@ -4803,7 +4378,7 @@ Out of Sample
 
 Image of Future
 
-> **Figure 21.1 Definition of the out-of-sample period in historical data**
+**Figure 21.1** Definition of the out-of-sample period in historical data
 
 size-up). For example, a threshold of return on equity (ROE) could be useful
 in their future assessments.
@@ -4838,51 +4413,18 @@ In closing this chapter, I need to address a practical reality. A spreadsheet
 does not show you what happens on board, at port, at the time of major
 company inspections, etc. Assumptions should include failures, ship detentions,
 and other unexpected operations events. When spreadsheets look perfect, they
-are self-serving and confirmatory instruments that just rationalize our inten-
-tions. It does not show what we should be looking for. In addition, if our
+are self-serving and confirmatory instruments that just rationalize our intentions. It does not show what we should be looking for. In addition, if our
 actions are not based on the plan, then the spreadsheets are worth nothing.
 
-140
-
-25
-
 A
 B
 
-20
-
 A
 B
-
-120
-
-15
 
 NetCashFlow
 
-100
-
 NPV
-
-10
-
-80
-
-5
-
-60
-
-0
-
-1
-
-2
-3
-4
-5
-6
-7
-8
 
 9 10 11 12 13 14 15
 
@@ -4903,7 +4445,7 @@ Year
 (a)
 (b)
 
-> **Figure 21.2 The net cash flow diagram of project A and project B (a) and their NPV**
+**Figure 21.2** The net cash flow diagram of project A and project B (a) and their NPV
 
 results (b)
 
@@ -4911,9 +4453,7 @@ results (b)
 
 *Misleading habits*
 
-I have learned many lessons from grocery shopping. Akerlof's (1978) "mar-
-kets for lemons" is not the only a simple example of the tricky world of eco-
-nomics. There are many other misleading practices. Like many other people, I
+I have learned many lessons from grocery shopping. Akerlof's (1978) "markets for lemons" is not the only a simple example of the tricky world of economics. There are many other misleading practices. Like many other people, I
 like apples--especially red, shiny ones. However, you may have noticed that
 these apples are somewhat oily. The produce staffor the wholesaler performs
 a varnishing process before putting them on display--but we shoppers see
@@ -4970,16 +4510,13 @@ boom was primed as a byproduct of 'liquidity engineering' (Figure 22.1).
 
 For the vast majority of the world, this was an amazing decision that would
 lead to a high rate of credit expansion. Since interest rates were low, it would
-seem to be a good time for massive market entries in addition to the ratio-
-nalization of project feasibilities. Once the interest rates were reduced, the
+seem to be a good time for massive market entries in addition to the rationalization of project feasibilities. Once the interest rates were reduced, the
 discount factor declined and the net present value of future cash flows settled
 at a reasonable level. Therefore, many investment projects became feasible by
 utilizing interest rate instruments. One of the most essential habits of financial
 decision-makers is the unique discounting process. As I discussed previously,
-money cannot preserve its value over time. It loses value day by day. The dis-
-counting routine is reasonable and useful from the standpoint of diminishing
-value. However, a decision-maker still needs an accurate and credible estima-
-tion of the discount factor for making sound calculations. An average interest
+money cannot preserve its value over time. It loses value day by day. The discounting routine is reasonable and useful from the standpoint of diminishing
+value. However, a decision-maker still needs an accurate and credible estimation of the discount factor for making sound calculations. An average interest
 rate over a number of years may be used as an estimation for a discount factor.
 It is obvious that there is no strict standard for defining the discount factor. If a
 lender really intends to raise funds for you, then the discount factor can be
@@ -4989,8 +4526,7 @@ relax their funds, and what are their motivations for doing so?
 
 Revision of the discount factor is not the only thing to impact interest rates.
 Since a Treasury bill does not earn much, lenders tend to increase their credit
-businesses and take on more risks to ensure their return objectives. In addi-
-tion to that, regional or national banks can find cheaper, syndicated funds
+businesses and take on more risks to ensure their return objectives. In addition to that, regional or national banks can find cheaper, syndicated funds
 from global lenders and can sell these funds to local customers at a premium.
 
 May-13
@@ -5037,7 +4573,7 @@ May-05
 Sep-05
 Jan-06
 
-> **Figure 22.1 Liquidity engineering through interest rate reduction**
+**Figure 22.1** Liquidity engineering through interest rate reduction
 
 May-04
 Sep-04
@@ -5082,8 +4618,7 @@ Jan-00
 As a result, liquidity engineering creates an optimistic climate and an incentive
 to lend.
 
-With liquidity engineering, lenders are surrounded with a strong, optimistic cli-
-mate. Their bonus system may motivate experts to create some loan transactions
+With liquidity engineering, lenders are surrounded with a strong, optimistic climate. Their bonus system may motivate experts to create some loan transactions
 with more risk. Now we add one more factor: the powerful bonus/commission
 incentive. But there are still other dimensions absent from this story.
 
@@ -5113,22 +4648,21 @@ should use more recent data. However, sample A produces significantly higher
 outcomes than sample B. Since the average levels of data increase according
 to the sample, the difference in results will be dramatic. Let's assume this data
 is based on revenues from the shipping business (i.e. freight rate income). By
-shifting between these samples, I can take different pictures of revenue prob-
-abilities. Adding different data points skews the average, and this could be
+shifting between these samples, I can take different pictures of revenue probabilities. Adding different data points skews the average, and this could be
 used to rationalize a risky project.
 
 Sample A
 
 Sample B
 
-> **Figure 22.2 Subjectivity in sample selection for risk assessment**
+**Figure 22.2** Subjectivity in sample selection for risk assessment
 
 Ignoring the tricky particulars of such methods causes risky transactions.
 From another perspective, such methods can produce excuses for improper
 risk assessment. It is not that experts execute these analyses improperly so
 much as the conventionally accepted methods work improperly. There is a
 
-> **Figure 22.3 Cycles of liquidity, mood, and risk**
+**Figure 22.3** Cycles of liquidity, mood, and risk
 
 simple reason for failure: since experts want a good outcome, the method
 delivers it. Have you ever read How to Lie with Statistics by Darrell Huff? In
@@ -5146,8 +4680,7 @@ perspective: depression = recession; optimism = hope; euphoria = excitement
 and greed; and finally fear = panic. Investors' livelihoods tend to correlate
 with liquidity cycles: poverty, enrichment, abundance, and impoverishment.
 
-However, the cycle of risk and profitable opportunities is almost the oppo-
-site of liquidity or liquidity-based mood cycles. Any simple feasibility study
+However, the cycle of risk and profitable opportunities is almost the opposite of liquidity or liquidity-based mood cycles. Any simple feasibility study
 shows that prospering in the shipping business is strongly correlated with
 asymmetric investments. During recessions, ships are quite cheap and interest
 rates are very low, while the freight market is very low. During market highs,
@@ -5157,8 +4690,7 @@ maintain liquidity through the depression (if patient enough to do so) may
 benefit from cheaper shipping assets and asset play. Liquidity engineering is a
 way of wiping out the cash generated through the cycle. Once you lose your
 liquidity and strong balance sheet, you lose the opportunity to benefit from
-the following recession. By losing liquidity control, asset play will be a theo-
-retical exercise rather than a practical outcome. Every shipowner tells the
+the following recession. By losing liquidity control, asset play will be a theoretical exercise rather than a practical outcome. Every shipowner tells the
 same story: buy cheap, sell high, and win in asset play. However, few of them
 can put theory into practice. Most of them still believe that they can detect
 the turning point so there is no need for alarm. Almost nobody can detect the
@@ -5182,13 +4714,10 @@ The year 2009 was extraordinary. The Air France flight 447 crashed with 228
 souls on board, the U.S. elected its first African-American president, General
 Motors and Chrysler declared bankruptcy, and the Lakers beat Orlando
 Magic. There is one more important event we should remember: the swine flu
-pandemic with its ensuing mania. By mid-2009, swine flu was seen as a ser-
-ious global problem. At the time, we read about it every day. The news
+pandemic with its ensuing mania. By mid-2009, swine flu was seen as a serious global problem. At the time, we read about it every day. The news
 reported that some people even died. From media accounts, it was clear that
-the swine flu pandemic was unusual (i.e. "This time, it's different!"). The pre-
-valence of swine flu and the risks from it seemed higher than our historical
-perception of it. While it was indeed a concern, there was no statistical evi-
-dence of an unusual development or higher than normal mortality rates. In
+the swine flu pandemic was unusual (i.e. "This time, it's different!"). The prevalence of swine flu and the risks from it seemed higher than our historical
+perception of it. While it was indeed a concern, there was no statistical evidence of an unusual development or higher than normal mortality rates. In
 fact, the mortality was less than in some previous years. The World Health
 Organization has been reprimanded for creating a 'false pandemic' and for
 alleged unethical cooperation with pharmaceutical firms. If this had been the
@@ -5197,8 +4726,7 @@ million vaccine doses were consumed during the scare. However, there are
 some lessons to be learned in understanding how risk affects the cognitive self.
 
 The first lesson concerns the statistics behind the risk. Using and finding
-numbers to represent risk can be misguided by uncertain data and, particu-
-larly, the emotional perception of risk. Almost all of the numerical methods
+numbers to represent risk can be misguided by uncertain data and, particularly, the emotional perception of risk. Almost all of the numerical methods
 of statistics depend on the researcher's expertise and have an element of moral
 hazard. When emotions take control, the statistics may tell you what you
 want to hear. The swine flu mania illustrates how a common statistical fact
@@ -5231,8 +4759,7 @@ principles hide the basis for recognizing the context, background, analogies,
 gap between the past and present, and dynamics of the business. In the case
 of the swine flu, experts should note the gap between 1918 and 2009 in terms
 of the histology, hygiene, technology, quality of health services, and advances
-in drug research, among other factors, while keeping in mind the unexcep-
-tional characteristics of the seasonal flu for so many years in history. In the
+in drug research, among other factors, while keeping in mind the unexceptional characteristics of the seasonal flu for so many years in history. In the
 case of shipping booms, we should note the impossibility of an unending
 demand as well as the nature of cycles, having a gradually increasing trend
 and a sharp market crash. We will probably never see a different picture (a
@@ -5243,14 +4770,11 @@ these trends, but it does show us what the dynamics of herd behavior are.
 Uncertainty makes us blind and drunk--we may suddenly become either
 depressed or euphoric, losing our ability to objectively assess risk.
 
-The perception of risk and the actual level of risk may be quite differ-
-ent. Sometimes, we heuristically measure risk to be high, while it is very
+The perception of risk and the actual level of risk may be quite different. Sometimes, we heuristically measure risk to be high, while it is very
 low in reality. If we compare the risk factor with others that we classify as
 low risk, we may find them similar or even identical. For example, it is
-very common to be pessimistic during times of recession. Shipping inves-
-tors tend to have a high-risk perception of the market. However, shipping
-markets have already reached a great low when the economy is in a reces-
-sion. Therefore, an upturn, or higher rates, is more likely than additional
+very common to be pessimistic during times of recession. Shipping investors tend to have a high-risk perception of the market. However, shipping
+markets have already reached a great low when the economy is in a recession. Therefore, an upturn, or higher rates, is more likely than additional
 decline when in a deep market.
 
 This is very similar to the risk perception of swine flu. People thought that
@@ -5266,8 +4790,7 @@ For example, the use of face masks is very common in various Asian countries
 even in a common seasonal flu.
 
 Some people are so risk-averse as to seek risk-free investments, sacrificing
-opportunities and marginal gains. On the other hand, some of us are risk-
-seekers who tend to choose opportunities despite uncertainties and volatility.
+opportunities and marginal gains. On the other hand, some of us are riskseekers who tend to choose opportunities despite uncertainties and volatility.
 It is quite difficult to assess the superiority of either of these extremes.
 
 The approach of Japanese shipping firms is mostly based on risk-free (or
@@ -5282,8 +4805,7 @@ what the reasonable risk is and how to recognize it.
 
 Dimensions of risk
 
-Assessing risk is a difficult task since it requires several estimations and pre-
-dictions as well as a number of assumptions. Although it is not a painful
+Assessing risk is a difficult task since it requires several estimations and predictions as well as a number of assumptions. Although it is not a painful
 procedure to perform a risk assessment on paper, it may be impractical and/
 or represent more of a perfection of conditions. The traditional dimensions of
 risk are the volume of exposure (impact) and the frequency of the event that
@@ -5294,12 +4816,9 @@ Risk of an undesired event = exposure (size of impact)  frequency
 
 With shipping investments, there are a number of challenges such as default risk
 (e.g. credit default, business default/bankruptcy) and liquidity risk (e.g. instant
-decline of working capital, which terminates the operation of ships). The expo-
-sure to these risk factors is closely related with the state of the shipping markets.
+decline of working capital, which terminates the operation of ships). The exposure to these risk factors is closely related with the state of the shipping markets.
 
-When the freight market is in recession, rates are already very low. There-
-fore, there is no extreme probability of further decline. This means the expo-
-sure of the default risk or liquidity risk is limited. On the other hand, the
+When the freight market is in recession, rates are already very low. Therefore, there is no extreme probability of further decline. This means the exposure of the default risk or liquidity risk is limited. On the other hand, the
 frequency of credit defaults and liquidity problems is high. Recessions wipe
 out many companies before the subsequent recovery of the market.
 
@@ -5344,8 +4863,7 @@ inventory to liquidate in order to pay offdebt. Therefore, liquidity defines
 the future of the investment in many cases.
 
 The dramatic termination of prosperity is usually followed by a great decline
-of liquidity. When fear grips the market, the first effects are seen with short-
-term liabilities. To deal with it, decision-makers quickly turn to their liquidity
+of liquidity. When fear grips the market, the first effects are seen with shortterm liabilities. To deal with it, decision-makers quickly turn to their liquidity
 monitoring instruments. There are two common metrics of the liquidity of a
 firm: the current ratio and the quick ratio (i.e. acid test ratio). The current ratio
 tells us the power of current assets to meet maturing short-term obligations (i.e.
@@ -5361,8 +4879,7 @@ Quick ratio = cash and accounts receivable/current liabilities
 However, we know that the inventory of a shipping firm is almost negligible.
 In this case, the current ratio roughly equals the quick ratio. The liquidity
 metrics should be major instruments in the dashboard of a shipping firm.
-They should be frequently reviewed, investigated, and questioned. The aver-
-age current ratio of the shipping industry is around 2.0. For container and
+They should be frequently reviewed, investigated, and questioned. The average current ratio of the shipping industry is around 2.0. For container and
 tanker shipping, it is slightly less than 2.0; perhaps 1.7. In dry bulk shipping,
 average current ratio is around 2.5. Industrial averages are useful for financial
 risk management. A shipping company should meet at least the industry
@@ -5372,8 +4889,7 @@ For risk assessment, we need some predictions for operating revenue based
 on freight rates and liabilities (tied to interest rates). Then we can perform
 some simulations of possible liquidity outcomes and look at the percentage of
 undesired results. Similar simulations are also needed for analyzing turnover
-ratios (e.g. working capital turnover) and working capital (WC). A WC ana-
-lysis is of more interest to managing directors than lenders. Lenders prefer to
+ratios (e.g. working capital turnover) and working capital (WC). A WC analysis is of more interest to managing directors than lenders. Lenders prefer to
 investigate cash flow statements. There may be two kinds of WC formulations,
 and both arrive at the same result.
 
@@ -5404,41 +4920,33 @@ sometimes difficult for these people. Short-term incentives and impatient capita
 create a kind of intentional blindness to long-term prosperity. Short-term
 results are preferred at the expense of long-term loss.
 
-The term 'Monte Carlo simulation' is frequently used to explain a simula-
-tion based on probability distributions of various data sets (e.g. revenues and
+The term 'Monte Carlo simulation' is frequently used to explain a simulation based on probability distributions of various data sets (e.g. revenues and
 
 costs). The basic difference between regular simulations and a Monte Carlo is
 the stochastic process that makes it somewhat subjective. Let me clarify this
 with an example. In fair-weather conditions, we may estimate the impact of a
-ship's propeller at a particular turning speed. Since engineers know the phy-
-sical dynamics of seawater as well as those of the propeller, they can develop
+ship's propeller at a particular turning speed. Since engineers know the physical dynamics of seawater as well as those of the propeller, they can develop
 computer simulations to see the impact of the propeller without actually
-building it. The inputs, outputs, and environment for processing can be for-
-mulated and calculated precisely. The system works with the same principles
+building it. The inputs, outputs, and environment for processing can be formulated and calculated precisely. The system works with the same principles
 that result in the same outputs. This is a deterministic simulation in contrast
-to a stochastic one. In the business environment, human action creates com-
-plexity and sometimes makes the outcome difficult to predict. Stochastic
+to a stochastic one. In the business environment, human action creates complexity and sometimes makes the outcome difficult to predict. Stochastic
 financial simulations use the gambling metaphor to illustrate uncertainty,
 complexity, and unpredictability.
 
-We need a series of subjective selections of assumptions, prediction meth-
-ods, inputs, and even data characteristics in a Monte Carlo simulation.
+We need a series of subjective selections of assumptions, prediction methods, inputs, and even data characteristics in a Monte Carlo simulation.
 Although the simulation is preferred, in the first place, over the judgmental
 predictions of experts, it still needs expert intervention. If a simulation is
 based on subjective selections, it is not surprising that moral hazard can work
-here as well. Monte Carlo simulations are exposed to self-serving bias, dis-
-honesty, adverse selection, and many other cognitive biases of daily life.
+here as well. Monte Carlo simulations are exposed to self-serving bias, dishonesty, adverse selection, and many other cognitive biases of daily life.
 Monte Carlo simulation is still a popular topic in scientific research, though it
 is not yet a fully developed one. There are some procedures, but in many
 aspects, there are no standards. It is not an exaggeration to say that financial
-simulations may serve as the puppets of some decision-makers. These simu-
-lations tell them what they want to hear.
+simulations may serve as the puppets of some decision-makers. These simulations tell them what they want to hear.
 
 If shipowners tend to look at short-term figures and demand profits with a
 short-term focus, then it is not surprising that the managing directors supply
 figures that deliver on the owners' desired results. From this perspective,
-financial simulations may represent spurious works of art rather than the cri-
-tical monitoring of a firm. For example, a simulation needs historical data.
+financial simulations may represent spurious works of art rather than the critical monitoring of a firm. For example, a simulation needs historical data.
 You can find 50-year-old data for time charter rates, but what is the proper
 way to select the data? Do you use the entire data set or select a section of it?
 Which one is better: 10 years of data or 20? Are there any standard rules or
@@ -5456,15 +4964,11 @@ interchangeably. However, there is a small but significant difference between
 them. Risk refers to the occurrence probability of an undesired event. The term
 
 'probability' should be noted. When we are talking about the probability, it
-means there is a measurable component. For example, probabilities can be cal-
-culated for rolling a dice or a coin toss. In financial analyses, experts are
-required to calculate probabilities of uncertainty for completing a risk assess-
-ment. For liquidity risk assessment, experts are required to calculate the prob-
-ability of, for example, current liabilities greater than current assets (current ratio
+means there is a measurable component. For example, probabilities can be calculated for rolling a dice or a coin toss. In financial analyses, experts are
+required to calculate probabilities of uncertainty for completing a risk assessment. For liquidity risk assessment, experts are required to calculate the probability of, for example, current liabilities greater than current assets (current ratio
 below 1.0). However, they are unable to calculate the uncertainty of the freight
 market as an input of current assets. Processing uncertainties is the key problem
-in modern business governance. Most of the existing financial education pro-
-grams teach participants how to calculate probabilities for uncertainty and how
+in modern business governance. Most of the existing financial education programs teach participants how to calculate probabilities for uncertainty and how
 to ignore the fact that uncertainty has no deterministic rules. Nobody can
 ignore the cyclic behavior of shipping markets, but people ignore the complexity
 and difficulty of calculating probabilities.
@@ -5475,8 +4979,7 @@ The essential reason of risk assessment is the possibility of default or, in oth
 words, bankruptcy. In the shipping business, ships are usually registered under
 one-ship companies. Therefore, a default on a ship project does not always
 mean the complete bankruptcy of the shipping investor. However, a credit
-default may have harmful impacts on the investor in addition to an under-
-mined reputation. Reduced liquidity is the leading signal of a default risk.
+default may have harmful impacts on the investor in addition to an undermined reputation. Reduced liquidity is the leading signal of a default risk.
 Both liquidity and default risk analysis need scenario-based assessments that
 consist of pessimistic, moderate (i.e. reasonable), and optimistic scenarios.
 There are a number of problems with the characteristics of these scenarios.
@@ -5490,8 +4993,7 @@ value. It is still a rationalization instrument.
 If you really want to be critical about your prospective project, ignore the
 optimistic scenario and reduce the revenues of your pessimistic scenario about
 20%. You will have two scenarios remaining: the reasonable scenario (aka the
-new optimistic scenario) and the recession scenario (aka the adjusted pessimis-
-tic scenario). It is a simple rule that gives you an opportunity for self-critique
+new optimistic scenario) and the recession scenario (aka the adjusted pessimistic scenario). It is a simple rule that gives you an opportunity for self-critique
 and in-depth analysis of what you are investigating. If you are a risk-averse
 investor, then completely ignore the reasonable scenario and just focus on the
 others. If you are confident about surviving in a recessionary period, you will
@@ -5499,8 +5001,7 @@ not regret going into the shipping business.
 
 ## Concluding Remarks
 
-Time is probably much more valuable now than in any other period of his-
-tory. The advent of new technologies, particularly in communication and
+Time is probably much more valuable now than in any other period of history. The advent of new technologies, particularly in communication and
 sharing knowledge, has created an ecosystem where only professionals using
 their time intelligently survive and prosper given today's speed of thought and
 action. The structure and content of this book is definitely extraordinary.
@@ -5528,9 +5029,7 @@ As we discussed various cases in Chapters 4, 10, 21, and 22, maritime data
 is one of the biggest challenges for the industry. There are differences
 between data vendors, and some data sets are based on assessments instead
 of real transactions (e.g. freight indices when there is no transaction or
-negligible volume). Procedures employed in generating representative num-
-bers are not clearly disclosed, and sometimes doubtful numbers are pre-
-sented. Transaction data (fixtures) is incomplete or biased (e.g. sale price of
+negligible volume). Procedures employed in generating representative numbers are not clearly disclosed, and sometimes doubtful numbers are presented. Transaction data (fixtures) is incomplete or biased (e.g. sale price of
 ships). Since there are no clearing houses or exchange markets in the vast
 majority of those transactions, results are not as transparent as in a stock
 market (e.g. tick data).
@@ -5541,25 +5040,21 @@ practices. There are so many incentives for people around a shipping firm or
 for shipping investors to cheat or lie or act in other unethical ways. Incentives
 are mostly mis-specified and not corrected properly. Many other industries
 have set regulations against practices that can cause massive failures. For
-example, the Financial Services Authority of the U.K. banned commission-
-based payments to investment advisers.1 The reason behind this regulation
-comes from the fact that higher stock prices correspond to higher commis-
-sions regardless of the success of investment. Considering the naïve forecaster
+example, the Financial Services Authority of the U.K. banned commissionbased payments to investment advisers.1 The reason behind this regulation
+comes from the fact that higher stock prices correspond to higher commissions regardless of the success of investment. Considering the naïve forecaster
 fallacy, an investment consultant would successively suggest the correct
 direction of a market in an increasing or decreasing trend and establish a
 reputation. When prices are very high, it may not be good timing for the
 investor, but it is pretty good timing for the consultant since commission is
 also very high. In the shipping business, we have many business activities set
 to commission-based fees. When freight rates and ship prices are very high,
-commissions also reach a peak, which gives incentive to every commission-
-based service provider to encourage investors to complete a transaction in the
+commissions also reach a peak, which gives incentive to every commissionbased service provider to encourage investors to complete a transaction in the
 short term even if the timing is completely wrong.
 
 The shipping industry is much more complex than is usually perceived.
 Awareness in such a complex environment is the most valuable asset and
 represents the highest level of asymmetric information. As well as providing
-newcomers with essential considerations to survive and prosper in the ship-
-ping business, I hope this book will improve your awareness and initiate some
+newcomers with essential considerations to survive and prosper in the shipping business, I hope this book will improve your awareness and initiate some
 further discussion on various issues of the industry. There are so many topics
 that I did not mention specifically in this book, but another volume of the
 book may address those issues.
@@ -5577,8 +5072,7 @@ Cognitive bias and logical fallacy
 Do not trust yourself much
 
 The roles of illusions, logical fallacies, and cognitive biases are greater
-than we previously thought. Our brains have quite a capacity for omis-
-sion, ignorance, and overconfidence. I occasionally mentioned some of
+than we previously thought. Our brains have quite a capacity for omission, ignorance, and overconfidence. I occasionally mentioned some of
 the issues in this book. Here, I will present them in a brief list for quick
 reference.
 
@@ -5597,8 +5091,7 @@ to eliminate the cognitive pain.
 Rationalization encourages irrational or unacceptable behavior, motives,
 or feelings and often involves ad hoc hypothesizing. This process ranges
 from fully conscious (e.g. to present an external defense against ridicule
-from others) to mostly subconscious (e.g. to create a block against inter-
-nal feelings of guilt or shame).
+from others) to mostly subconscious (e.g. to create a block against internal feelings of guilt or shame).
 
 ('Rationalization (psychology)', 2018)
 
@@ -5619,15 +5112,13 @@ different tale. Be aware of what you can control and what you cannot.
 
 Planning fallacy
 
-Our plans usually represent perfect conditions. They include no delays, pro-
-blems, crises, or human errors. If this was normal, then why do we continually
+Our plans usually represent perfect conditions. They include no delays, problems, crises, or human errors. If this was normal, then why do we continually
 extend deadlines? Start with a bad scenario and have an adaptable plan.
 Make sure you budget in extra resources to cover the unexpected.
 
 Confirmatory bias
 
-We usually find a way to confirm our own ideas. To combat this natural ten-
-dency, we need some kind of robust falsification technique.
+We usually find a way to confirm our own ideas. To combat this natural tendency, we need some kind of robust falsification technique.
 
 Hindsight bias
 
@@ -5651,15 +5142,12 @@ usually fail to anticipate the degree of adaptation required.
 Winner's tragedy and overconfidence
 
 Repetitive victories and successful business deals can be found throughout
-both market recoveries and peaks. Consecutive victories contribute to over-
-confidence and the optimism bias. This phenomenon is called the winner's
+both market recoveries and peaks. Consecutive victories contribute to overconfidence and the optimism bias. This phenomenon is called the winner's
 tragedy or winner's effect.
 
 Anchoring
 
-People sometimes overvalue a piece of information when making their deci-
-sion. They anchor their perspective on one trait and overlook other, contra-
-dictory sources of information.
+People sometimes overvalue a piece of information when making their decision. They anchor their perspective on one trait and overlook other, contradictory sources of information.
 
 Framing effect
 
@@ -5676,8 +5164,7 @@ alternatives when, in fact, others exist.
 Hyperbolic discounting
 
 Humans prefer rewards sooner rather than later. The cash flow of the short
-term is overvalued, while that of the far future is undervalued. The discount-
-ing rates of such calculations differ according to several factors, such as
+term is overvalued, while that of the far future is undervalued. The discounting rates of such calculations differ according to several factors, such as
 experience, the age of the decision-maker, etc.
 
 False causality
@@ -5691,8 +5178,7 @@ False correlation
 
 Similar to false causality, people tend to see relationships between correlated
 (i.e. simultaneous) events. However, many variables may be highly correlated
-without there being an actual connection. With a trend data set, existing sta-
-tistical methods can find spurious links between events. One should think
+without there being an actual connection. With a trend data set, existing statistical methods can find spurious links between events. One should think
 critically about the underlying factors.
 
 Appeal to authority
@@ -5759,8 +5245,7 @@ Shipping & Logistics, 29(1), 43-58.
 
 Duru, O., 2014. 'Motivations behind irrationality in the shipping asset management:
 
-Assumptions drive investors.' The Conference of International Association of Mar-
-itime Economists, Norfolk, VA.
+Assumptions drive investors.' The Conference of International Association of Maritime Economists, Norfolk, VA.
 Duru, O., 2017. 'The origin and consistency of the ton-mile metric in the shipping
 
 economics.' Logistics, 1(1). doi:10.3390/logistics1010003.
@@ -5774,8 +5259,7 @@ Norway: Bedriftsøkonomens forlag, pp. 55-61.
 European Central Bank, 2013. Note: Comprehensive Assessment, December.
 Fernando, V. (2009) 'Banks hide shipping losses with "the Hamburg Valuation"'.
 
-Business Insider, December 1. www.businessinsider.com/banks-try-to-hide-shipping-
-losses-with-the-hamburg-valuation-2009-12?IR=T.
+Business Insider, December 1. www.businessinsider.com/banks-try-to-hide-shippinglosses-with-the-hamburg-valuation-2009-12?IR=T.
 Forrester, J., 1961. Industrial Dynamics. Waltham: Pegasus Communications.
 Fox, N.R., 1994. 'An oligopoly model of ocean liner shipping.' Review of Industrial
 
@@ -5795,8 +5279,7 @@ Glen, D.R., 1997. 'The market for second-hand ships: Further results on efficien
 using cointegration analysis.' Maritime Policy and Management, 24(3), 245-260.
 Glen, D. and Martin, B., 2002. 'The tanker market: Current structure and economic
 
-analysis.' In C. Grammenos (ed.), The Handbook of Maritime Economics and Busi-
-ness. London: Lloyd's List, pp. 251-279.
+analysis.' In C. Grammenos (ed.), The Handbook of Maritime Economics and Business. London: Lloyd's List, pp. 251-279.
 Goleman, D., 1998. 'The emotional intelligence of leaders.' Leader to Leader, 1998
 
 (10), 20-26.
@@ -5860,8 +5343,7 @@ Paine, L., 2014. The Sea and Civilization: A Maritime History of the World. Lond
 Atlantic Books.
 Phelps Brown, H. and Hopkins, S.V., 1962. 'Seven centuries of prices of consumables,
 
-compared with builders' wage rates.' In E.M. Carus-Wilson (ed.), Essays in Eco-
-nomic History, II. London: Edward Arnold, pp. 179-196.
+compared with builders' wage rates.' In E.M. Carus-Wilson (ed.), Essays in Economic History, II. London: Edward Arnold, pp. 179-196.
 Porter, M.E. (1980) Competitive Strategy, Techniques for Analysing Industries and
 
 Competitors. New York: Free Press.
@@ -6005,8 +5487,7 @@ Beenstock, M. 19
 Beenstock-Vergottis model 19
 behavioral economics: action-knowledge
 
-11; anchoring effect 28; business sus-
-tainability 69-70; as checkpoint 5-6;
+11; anchoring effect 28; business sustainability 69-70; as checkpoint 5-6;
 endowment effect 23; language 73;
 moral hazard 34
 
