@@ -9,12 +9,17 @@ Extracts weekly reports across three premier global cash buyers & brokers:
 Produces:
 - Markdown files with YAML frontmatter under data/extracted/md/hellenic/demolition/<publisher>/<year>/
 - Structured table JSON sidecars (.tables.json) with issue_date stamped
-- Five master stacked time series in data/extracted/series/:
-  1. hellenic_athenian_demolition_series.csv
-  2. hellenic_best_oasis_demolition_series.csv
-  3. hellenic_best_oasis_deals_series.csv
-  4. hellenic_gms_demolition_series.csv
-  5. hellenic_gms_port_positions_series.csv
+- Markdown + JSON sidecars for all three publishers (unchanged).
+- ONE master stacked time series in data/extracted/series/:
+  1. hellenic_athenian_demolition_series.csv  (owned here)
+The GMS and Best-Oasis hellenic_* series (hellenic_gms_demolition_series.csv,
+hellenic_gms_port_positions_series.csv, hellenic_best_oasis_demolition_series.csv,
+hellenic_best_oasis_deals_series.csv) are NOT written here anymore: they are owned
+by the native per-publisher runners run_gms_demolition.py /
+run_best_oasis_demolition.py, which the cadence audit names as their script and which
+emit the full PDF+HTML union. This runner only sees HTML-article-linked documents, so
+its slice was smaller and differently schemad; writing those paths from here was a
+last-writer-wins clobber (retired 2026-10-04).
 """
 
 import hashlib
@@ -558,29 +563,20 @@ tables_count: 2
         df_ath.to_csv(ath_csv, index=False)
         logger.info(f"Saved {len(df_ath)} Athenian records to {ath_csv.name}")
 
-    if best_oasis_series:
-        df_bo = pd.DataFrame(best_oasis_series).sort_values("issue_date")
-        bo_csv = SERIES_DIR / "hellenic_best_oasis_demolition_series.csv"
-        df_bo.to_csv(bo_csv, index=False)
-        logger.info(f"Saved {len(df_bo)} Best Oasis prices to {bo_csv.name}")
-
-    if best_oasis_deals:
-        df_bo_deals = pd.DataFrame(best_oasis_deals).sort_values("issue_date")
-        bo_d_csv = SERIES_DIR / "hellenic_best_oasis_deals_series.csv"
-        df_bo_deals.to_csv(bo_d_csv, index=False)
-        logger.info(f"Saved {len(df_bo_deals)} Best Oasis deals to {bo_d_csv.name}")
-
-    if gms_series:
-        df_gms = pd.DataFrame(gms_series).sort_values("issue_date")
-        gms_csv = SERIES_DIR / "hellenic_gms_demolition_series.csv"
-        df_gms.to_csv(gms_csv, index=False)
-        logger.info(f"Saved {len(df_gms)} GMS rankings to {gms_csv.name}")
-
-    if gms_port_positions:
-        df_gms_p = pd.DataFrame(gms_port_positions).sort_values("issue_date")
-        gms_p_csv = SERIES_DIR / "hellenic_gms_port_positions_series.csv"
-        df_gms_p.to_csv(gms_p_csv, index=False)
-        logger.info(f"Saved {len(df_gms_p)} GMS port position records to {gms_p_csv.name}")
+    # 2026-10-04: the four hellenic_ GMS / Best-Oasis series are OWNED by the native
+    # per-publisher runners (run_gms_demolition.py, run_best_oasis_demolition.py), which
+    # the maintained cadence audit (scripts/audit/generate_cadence_audit.py:892-917) names
+    # as their script and which produce the full PDF+HTML union (1,092 / 2,905 / 887 / 863
+    # rows). This runner is HTML-article driven and emits a smaller, differently-schemad
+    # slice, so writing these paths from here last-clobbered the canonical series
+    # (last-writer-wins). Those writes are retired; this runner keeps ownership of
+    # hellenic_athenian_demolition_series.csv only.
+    if best_oasis_series or best_oasis_deals or gms_series or gms_port_positions:
+        logger.info(
+            "Skipping hellenic_ GMS/Best-Oasis series writes (owned by the native runners); "
+            f"parsed {len(best_oasis_series)} BO prices, {len(best_oasis_deals)} BO deals, "
+            f"{len(gms_series)} GMS rankings, {len(gms_port_positions)} GMS port rows."
+        )
 
     logger.info(f"Successfully processed {processed_count} demolition reports.")
 

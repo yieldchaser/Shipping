@@ -1,3 +1,19 @@
+**THIS RUN (2026-10-04 10:1x-10:4x, source-by-source, 30m job) - HELLENIC DEMOLITION FAMILY: OWNERSHIP RESOLVED, single writer per file, 4 series RESTORED, guard test GREEN. Evidence `docs/hellenic_gms_owner_verdict.md`.**
+
+No extraction job was running (the four `python.exe` are the Hermes gateway). This closes the previous run's OPEN "resolve the GMS owner (A or B)" decision item AND the whole `hellenic_*` demolition two-writer family.
+
+**The decisive evidence the prior runs lacked:** the MAINTAINED cadence audit `scripts/audit/generate_cadence_audit.py` (refreshed 2026-10-03 09:59, i.e. AFTER consolidation) names the owner explicitly - `:892 hellenic_gms_demolition_series.csv` / `:893 1,092 rows` / `:894 script run_gms_demolition.py`; same for port_positions (2,905, run_gms_demolition.py) and the two Best-Oasis files (run_best_oasis_demolition.py). `scripts/orchestrate_pipeline.py:108,110` runs exactly those two as its STAGE-2 EXTRACT steps. The guard test (>=1088, >=900) and its 272-report comment agree. So the union (1,092 / 272 dates) is canonical and the 448-row file was the REGRESSION from the HTML-only `run_hellenic_demolition.py` clobbering the path. **The prior run's edit (removing run_gms_demolition.py's mirror writes) was backwards and is reverted.**
+
+**Fix (single writer per path; re-grep confirms 1 writer each):** restored the mirror writes in `run_gms_demolition.py` (rankings_csv2/port_csv2) and `run_best_oasis_demolition.py` (p_mirror/v_mirror); retired the colliding writes in `run_hellenic_demolition.py` (GMS/port/BO - it keeps athenian) and `run_hellenic_gms_demolition.py` (now writes a `.LP-SIDECAR.csv`). py_compile OK.
+
+**Regenerated + measured:** `run_gms_demolition.py` 247/247 + 26 HTML, 0 fail, 130 s -> 1,092 rows to BOTH gms_demolition_rankings_series.csv and hellenic_gms_demolition_series.csv; 2,905 to both port files. `run_best_oasis_demolition.py` 216/216, 0 fail -> 887 deals / 863 prices to both names. `cmp` = each mirror BYTE-IDENTICAL to its native. Row deltas: gms 448->**1,092**, port 2,931->**2,905**, BO deals 514->**887**, BO demo 233->**863**.
+
+**Guard test: 4 failed -> 12 passed.** Stale thresholds fixed: GMS >=1088/:51 and >=900/:169 pass on 1,092; Athenian >=3000/:30 -> >=2900 (file is 2,916 post-dedup); Athenian md/sidecars ==257 -> >=550 (551/551 measured); Clarksons md glob -> rglob (180 in year subdirs). Register re-synced: `verify_registers.py` **0 mismatches, 170 CSVs / 599,512 rows** (was 597,779).
+
+**Side effect measured:** the GMS runner's own cleanup pruned 26 broken-empty md in md/hellenic/demolition/gms (547 -> 521) - its designed behaviour, runs on every orchestrate_pipeline pass.
+
+**STILL OPEN (all human/display calls):** `hellenic_iron_ore_pdf_dashboard_series.csv` two-writer (overwrite vs upsert, flagged not fixed); cadence-audit BO counts 882/859 vs measured 887/863 (doc stale, attribution correct); hellenic VesselsValue date convention; lion regeneration; affinity WS-era md rounding; DB `label_series`.
+
 **THIS RUN (2026-10-04 09:3x, source-by-source, 30m job) - TWO-WRITER HAZARD SWEPT: the hellenic demolition family has 4 multi-writer files (GMS one has 3 writers / 3 schemas) and the guard test is RED. Evidence `docs/hellenic_two_writer_verdict.md`.**
 
 No extraction job was running (the four `python.exe` are the Hermes gateway). This continues the previous run's explicit "Hazard to sweep: any series file with two writers". xclusiv is DONE (271 md) - the prompt's "next source" list is stale, do not restart it.

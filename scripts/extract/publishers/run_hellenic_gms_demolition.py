@@ -316,7 +316,11 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     print(f"[GMS] Completed {len(summaries)} reports -> {len(all_rankings)} ranking observations.", flush=True)
 
     # Write master series
-    rankings_csv = OUT_SERIES_DIR / "hellenic_gms_demolition_series.csv"
+    # 2026-10-04: DO NOT write the canonical path. hellenic_gms_demolition_series.csv is
+    # OWNED by run_gms_demolition.py (audit: 1,092 rows, the full PDF+HTML union). This
+    # LlamaParse-based runner is a duplicate that last-clobbered it with an 8-col slice
+    # (last-writer-wins). Write the diagnostic copy instead.
+    rankings_csv = OUT_SERIES_DIR / "hellenic_gms_demolition_series.LP-SIDECAR.csv"
     rankings_cols = ["issue_date", "rank", "location", "sentiment", "dry_bulk_usd_ldt", "tankers_usd_ldt", "containers_usd_ldt", "source_file"]
     with open(rankings_csv, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=rankings_cols)

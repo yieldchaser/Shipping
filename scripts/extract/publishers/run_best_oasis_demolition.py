@@ -869,7 +869,7 @@ def main():
     p_csv = SERIES_DIR / "best_oasis_demolition_series.csv"
     p_mirror = SERIES_DIR / "hellenic_best_oasis_demolition_series.csv"
     p_cols = ["issue_date", "location", "market_status", "container_usd_ldt", "tanker_usd_ldt", "bulker_usd_ldt", "hms_80_20_usd_mt", "shredded_usd_mt", "source_file"]
-    for path in [p_csv, p_mirror]:
+    for path in [p_csv, p_mirror]:  # mirror + native both owned here (audit: run_best_oasis_demolition.py)
         with open(path, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=p_cols)
             writer.writeheader()
@@ -880,7 +880,7 @@ def main():
     v_csv = SERIES_DIR / "best_oasis_deals_series.csv"
     v_mirror = SERIES_DIR / "hellenic_best_oasis_deals_series.csv"
     v_cols = ["issue_date", "vessel_name", "vessel_type", "imo", "year_built", "country_built", "ldt", "sale_terms", "delivery_location", "price_usd_ldt", "price_status", "comments", "source_file"]
-    for path in [v_csv, v_mirror]:
+    for path in [v_csv, v_mirror]:  # mirror + native both owned here (audit: run_best_oasis_demolition.py)
         with open(path, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=v_cols)
             writer.writeheader()

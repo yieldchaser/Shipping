@@ -765,7 +765,13 @@ def run_pipeline():
     logger.info(f"Removed {deleted_count} lingering broken empty table files.")
 
     # --- 4. Write Master Stacked Series CSVs ---
-    # 1. GMS Demolition Rankings Series (mirrored to hellenic_gms_demolition_series.csv)
+    # 1. GMS Demolition Rankings Series
+    #    NOTE (2026-10-04): THIS run owns BOTH the native and the hellenic_ mirror.
+    #    The maintained cadence audit (scripts/audit/generate_cadence_audit.py:892)
+    #    attributes hellenic_gms_demolition_series.csv to THIS script at 1,092 rows,
+    #    and the guard test requires >= 1,088. The HTML-article-driven
+    #    run_hellenic_demolition.py used to last-clobber it down to 448 rows / 112 dates
+    #    (last-writer-wins); its write is retired.
     rankings_csv1 = OUT_SERIES_DIR / "gms_demolition_rankings_series.csv"
     rankings_csv2 = OUT_SERIES_DIR / "hellenic_gms_demolition_series.csv"
     rankings_cols = ["issue_date", "report_week", "volume", "issue", "rank", "location", "sentiment", "dry_bulk_usd_ldt", "tankers_usd_ldt", "containers_usd_ldt", "source_file"]
@@ -778,7 +784,10 @@ def run_pipeline():
                 writer.writerow(row)
         logger.info(f"Written {len(all_rankings)} rows to {r_path.name}")
 
-    # 2. GMS Port Positions Series (mirrored to hellenic_gms_port_positions_series.csv)
+    # 2. GMS Port Positions Series
+    #    NOTE (2026-10-04): THIS run owns BOTH names (audit: hellenic_gms_port_positions
+    #    _series.csv, script run_gms_demolition.py, 2,905 rows). Same last-writer-wins
+    #    history as the rankings file above.
     port_csv1 = OUT_SERIES_DIR / "gms_port_positions_series.csv"
     port_csv2 = OUT_SERIES_DIR / "hellenic_gms_port_positions_series.csv"
     port_cols = ["issue_date", "report_week", "as_of_date", "port", "item_no", "vessel_name", "ldt", "vessel_type", "status", "source_file"]
