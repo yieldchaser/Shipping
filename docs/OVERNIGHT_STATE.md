@@ -1,3 +1,27 @@
+**THIS RUN (2026-10-04 13:5x, source-by-source, 30m job) - PUSH + UNCOMMITTED CODE LANDED + ENUMERATION COVERAGE SWEEP (no gap found).**
+
+No extraction job was running. The live `python.exe` set is the Hermes gateway, a `proxy_gateway` litellm server, and `code_review_graph serve`. A PARALLEL sibling agent committed concurrently this run (atlas book work `815d63c90`, and a `docs(state)` log `db330efc7`) - my commits sit on top of those; no collision.
+
+**Landed the unpushed backlog (measured).** HEAD was 6 commits ahead of `origin/auto/extract-fixes-2026-10-04` (PPA backfill, cadence-generator drift, hellenic counts, star_asia deal-date flags) - now pushed. Also committed THREE finished-but-uncommitted fixes that earlier runs documented but never landed (py_compile OK; `verify_registers.py` = 0 mismatches, 170 CSVs / 599,512 rows):
+1. `run_hellenic_vv_matrix.py` - `dedupe_report_copies()`: re-measured this run on the live tree, 261 HTML pages -> **255 distinct report titles, 6 extra fetch-date copies** (3 of the Feb-17-2026 report, 5 of Mar-31-2026) that were each parsed independently (tripling/quintupling one report's table). Byte-hash dedupe misses them (each fetch rewrites asset paths). Delivered series already reflect it.
+2. `verify_extraction.py` - `find_db_dir()` now looks under `<out>/db` AND `<out>/corpus/db` (the live DB is at `corpus/db`; the old check answered "not built yet" for a 192,535-table / 6,946,400-cell DB).
+3. `sync_extraction_register.py` + `update_extraction_register.py` - Star Asia rows refreshed to disk (snp_sales 3,717->3,575, deals 3,327->3,349, demolition 3,072->3,120).
+Plus the untracked verdict doc `docs/xclusiv_apply_verify_verdict.md`.
+
+**ENUMERATION COVERAGE SWEEP (skill rule: enumerate, never be told which) - NO GAP FOUND.** The PPA run's defect was a runner globbing subdirs it had moved out of. Swept the same class across the corpus:
+- `corpus/01-brokers/*`: for every publisher, md-file count >= distinct-content PDF count (e.g. affinity 248/248, fearnleys 260/260, ism 115 md vs 112 distinct, ssy 530 vs 516). No source is under-covered. (clarksons/carriers md far exceed PDFs - HTML-sourced, not a gap.)
+- Non-broker: poten 1,087, drewry 288, breakwave 299, seabrokers 98 - all covered; PPA root strays (110) are covered post-fix.
+- `corpus/02-hellenic/iron_ore`: 4,521 PDFs collapse to **1,175 distinct dates** (each report stored as 2 download variants - a crawler `_hash` name + the `_compressed` original - and mirrored at `pdfs/` root and `pdfs/<year>/`); md = **1,190** >= 1,175. The exact 50% md/file ratio is the 2-variants-per-date artefact, NOT a missing half.
+- `run_hellenic_iron_ore.py` globs `pdfs/*.pdf` NON-recursively while `run_hellenic_iron_ore_pdf.py` rglobs - a latent fragility, but harmless here because the root holds every report name anyway. Noted, not a data gap.
+
+**Two residuals CLOSED as NON-defects (measured, do not re-chase).**
+- `hellenic_vv_benchmark_sales_series.csv` = 124 rows AND register row = 124 - the earlier "124 vs register 141" was stale (pre-resync). Register matches disk.
+- `intermodal_macro_series.csv` (4,818 rows): `wow_change_pct` is BLANK on every row, not wrong. No non-reproducible stated change exists anymore (that was the old 3,739-row schema). A blank is a missing value, not a wrong one - left alone (intermodal is a parallel-agent source anyway).
+
+**Measured residual, NOT fixed (needs paid vision).** `hellenic_vv_matrix_series.csv` (12,350 rows / 236 dates) has rows-per-date of 1-78 (modal 78); roughly half the dates carry a partial matrix (e.g. 2021-07-20 = 1 row, 2024-09-25 = 1, 2021-10-05 = 57). Root cause is structural: the matrix comes from a RASTER companion image parsed by an external service (`get_or_parse_image_async` -> `parse_vv_matrix_markdown`), so per-week recall varies with image-parse quality. Recovering it = re-parsing ~2xx images (paid, and the user bars un-measured paid spend) OR accepting it. Flagged with a number so a future run does not re-derive it.
+
+**Next-run target:** the same list of human/display calls (hellenic VesselsValue date convention; lion regeneration; affinity WS-era md rounding; DB `label_series`; the derived 764-key collisions), plus the VV-matrix image-recall decision above.
+
 **THIS RUN (2026-10-04 12:4x, source-by-source, 30m job) - PPA 2013-2014 BACKFILL: the PPA extractor could not see 110 corpus files; fixed, +816 verified rows added (10 new months, 2013-03 -> 2014-07). Evidence `docs/ppa_backfill_verdict.md`.**
 
 No extraction job was running (the python.exe set is the Hermes gateway). No broker source is left to extract, so this run took a genuine in-corpus gap rather than starting a non-existent source - found by ENUMERATION (the skill's rule), not by being told which source.
