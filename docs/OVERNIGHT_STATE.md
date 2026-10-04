@@ -1,3 +1,48 @@
+**THIS RUN (2026-10-04 19:2x, source-by-source, 30m job) - THE LEDGER'S LAST OPEN ITEM CLOSED AS NON-REPRODUCIBLE; THREE CARRIED "SUSPICIOUS VALUE" ITEMS RE-MEASURED AS PUBLISHER-SIDE (faithful). Evidence `docs/residual_faithful_verdict.md`.**
+
+No extraction job was running (live python.exe set = Hermes gateway). All named sources
+CLOSED (md counts >= distinct PDFs: advanced_shipping 254, star_asia 198, ssy 530, xclusiv
+271, affinity 248, agora 432, ism 115, lion 95, intermodal 257, banchero_costa 249, poten
+1,087, breakwave 3,485, hellenic 3,755). This run worked the carried open list and MEASURED
+each item against the source's own page. Result: no extraction defect to fix; the last
+ledger item is gone; three "defects" are the publisher's own.
+
+**CLOSED - `bancosta_freight_rates_series.csv` residue (numeric `unit` / `DRY_BULK` sector),
+the ledger's only remaining STILL OPEN.** Measured on the current 20,321-row file: numeric
+`unit` rows **0** (was 33); any `DRY_BULK` sector row **0** (was 80); sectors are
+DIRTY_TANKER 6,554 / CLEAN_TANKER 5,078 / SUPRAMAX 4,397 / PANAMAX 2,158 / CAPESIZE 2,134.
+Not present any more -> CLOSED, non-reproducible.
+
+**FAITHFUL (do NOT "fix"):**
+- `TC20 LR2 AG-UKC (90k) unit=usd mln 16,606,250` and `TC14-TCE MR USG-UKC usd/day
+  7,390,000` (bancosta 2026-09-21 / banchero_costa_2026_W38). The PDF text layer prints
+  them verbatim (p10 y=436.1 `'usd mln' '16,606,250' '16,500,000'`; y=561.8 `'usd/day'
+  '7,390,000' '6,190,000'`). Internally inconsistent the publisher's way (MR basket
+  28,460/day vs one MR route 7.39M/day) - a wrong PUBLISHED value is not our defect.
+- star_asia `5y_history` `ALIAGA, TURKEY` year_2021 = **26** on 2026 W01/W03/W04. Rendered
+  the cell (W01 p9, 600 dpi) - the ink is exactly TWO glyphs `2`,`6`; rawdict has only `'2'`
+  x=243.5 and `'6'` x=249.3. The PDF prints `26`. Also confirmed GADDANI row = W01
+  `460,580,540,500,450` and W05 `415,600,540,520,430` both verbatim from the page (the
+  week-to-week change in a "fixed" year is the publisher re-issuing the rolling table).
+- star_asia exact duplicates: `JOINT LUCK TANKER 2,063 24.12.2022 AWAITING` is printed on
+  two consecutive rows of W01 p11; WHITE PALM twice on W51 p12. Faithful.
+- `star_asia_2023_W41` and `_W42` both stamp issue_date 2023-10-14 / week 41 (32 rows on
+  that date in the demolition series) because the W42 PDF's COVER is misprinted `WEEK 41 -
+  October 14, 2023`. Our stamp is faithful to the printed cover; rows stay distinct by
+  `source_file`. Not changed.
+
+**Noted, NOT fixed (display-only):** the star_asia md carries 177 rows whose label cell
+absorbed the recycling-table footnote (`TURKEY *For Non-EU ships...`). Checked first: the
+typed layer is CORRECT - `star_asia_demolition_series.csv` is 3,120 rows = 194 weeks x 4
+destinations x 4 segments, 0 missing cells, clean labels (built by
+`extract_indicative_scrap_table`, not from the split table). No consumer reads the polluted
+label; fixing it needs a liteparse re-render of 193 docs for zero data gain -> deferred.
+
+**Next-run target:** unchanged carried human/display calls (hellenic VesselsValue date
+convention; lion regeneration non-determinism - the one genuinely UNINVESTIGATED item;
+VV-matrix image-recall residual - paid). The ledger defect list is now EMPTY.
+
+---
 **THIS RUN (2026-10-04 18:1x, source-by-source, 30m job) - TABLE-AUDIT `units_fixed` + `per_doc_health` RECOMPUTED ON THE CURRENT DB: the last two stale sections are closed, and the DB rebuild moved unit coverage by 0.05pp. Evidence `docs/table_audit_recompute_verdict.md`.**
 
 No extraction job was running (live python.exe set = Hermes gateway). All named sources
