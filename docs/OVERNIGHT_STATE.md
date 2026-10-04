@@ -1,3 +1,36 @@
+**THIS RUN (2026-10-04 18:1x, source-by-source, 30m job) - TABLE-AUDIT `units_fixed` + `per_doc_health` RECOMPUTED ON THE CURRENT DB: the last two stale sections are closed, and the DB rebuild moved unit coverage by 0.05pp. Evidence `docs/table_audit_recompute_verdict.md`.**
+
+No extraction job was running (live python.exe set = Hermes gateway). All named sources
+CLOSED (measured: 15,521 .md across data/extracted/md/*; xclusiv 271). This run finished
+the recompute the 17:1x run left half-done - its `table_audit_rederive.json` named
+`units_fixed` + `per_doc_health` as `prior_still_stale`.
+
+**unit_coverage (d6_zero.py TIER-A/B rule, re-run on data/extracted/corpus/db/corpus.duckdb):**
+tables 174,949 (was 178,003); no TIER-A unit anywhere 155,751 (89.03%) [was 158,392
+(88.98%)]; no TIER-A in header rows 158,212 (90.43%) [was 160,861 (90.37%)]; no TIER-B
+145,567 [was 148,185]. **The parser rebuild did NOT move unit coverage - 0.05pp.** Most
+unitless tables are reference BOOKS (Lloyd's Atlas 2,389; Business of Shipping 1,502; Sea
+and Civilization 1,192; Maritime Economics 941; Kavussanos 591); by source shipbrokers
+75,376 + hellenic 48,421 (route tables whose header carries the unit once). Non-defect.
+
+**per_doc_health (d5_d6.py D5 block):** docs 8,144; cells 6,726,703; catalogue tables
+189,481 (14,532 zero-cell 'empty' rows); numeric_share p10 0.0824 median 0.3901 p90 0.5163
+max 0.7657 [was 0.0826/0.3916/0.5032/0.7657]; zero-numeric docs 513 (identical). Unchanged
+within noise.
+
+**POPULATION NOTE (skill rule):** the audit measures the EXTRACTION DB (cells/catalogue),
+NOT the raw corpus tree - stated in the verdict so it is not read as a collection-coverage
+number.
+
+Artefact: `data/extracted/table_audit.json` (gitignored) updated in place; prior copies
+`scratch/table_audit/table_audit.pre_unitshealth_20261004.json` + `_pre_20261004/units_fixed.pre.json`.
+`recomputed_2026_10_04.prior_still_stale` is now EMPTY - all four sections current.
+
+**Next-run target:** the carried items are unchanged human/display calls (hellenic
+VesselsValue date convention; lion regeneration; the VV-matrix image-recall residual -
+paid). The table-audit stale-section thread is CLOSED.
+
+---
 **THIS RUN (2026-10-04 16:4x-18:0x, source-by-source, 30m job) - THE EMPTY `measurement_key` IS FIXED AND SHIPPED. The series layer now has 5,743 series / 1,193,579 points (was 5,241 / 1,167,616) and 118,850 fewer headerless data cells. Evidence `docs/measurement_key_verdict.md`.**
 
 No extraction job was running (only the Hermes gateway / litellm proxies). All named
