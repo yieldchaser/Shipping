@@ -11080,75 +11080,62 @@ The industry generally divides the trade routes into three groups, shown in Tabl
 
 By far the largest volume of trade is on the East-West routes. These trades dominate the liner business. Over the last 20 years they have grown enormously, underpinning the rapidly expanding trade links between these areas. These routes probably provide employment for over half of the container-ship capacity and provide the main employment for ships over 4,000 TEU.
 
-TRANSPORT OF GENERAL CARGO
-
 <!-- Page 550 -->
+
 **Table 13.6** Principal world container routes, 2004, showing approximate trade volumes
 
-
-| 1994 | 2004 |
-| Route | '000 TEU | % | '000 TEU | '000 TEU | Total | % |
-| no | p.a. | total | p.a. | p.a. | trade | total |
-
-*1. East-West trades East West*
-
+| Route | Route No. | 1994 ('000 TEU p.a.) | 1994 (% total) | 2004 East / North bound ('000 TEU p.a.) | 2004 West / South bound ('000 TEU p.a.) | 2004 Total trade ('000 TEU) | 2004 (% total) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. East-West trades** | | | | | | | |
 | Transpacific | 1 | 7,470 | 20% | 11,361 | 4,892 | 16,253 | 17% |
 | Transatlantic | 2 | 3,030 | 8% | 2,473 | 3,228 | 5,701 | 6% |
 | Europe-Far East | 3 | 4,895 | 13% | 3,538 | 7,510 | 11,048 | 12% |
 | Europe-Mid East | 4 | 645 | 2% | 1,675 | 525 | 2,200 | 2% |
-| NorthAmerica-Mid East | 5 | 205 | 1% | 160 | 287 | 447 | 0% |
+| North America-Mid East | 5 | 205 | 1% | 160 | 287 | 447 | 0% |
 | Far East-Mid East | 6 | 255 | 1% | 300 | 1,300 | 1,600 | 2% |
-| Total | 16,500 | 44% | 19,507 | 17,742 | 37,249 | 39% |
-
-*2. North-South trades North South Total*
-
-| Europe to | bound | bound | trade |
+| **Total East-West trades** | | **16,500** | **44%** | **19,507** | **17,742** | **37,249** | **39%** |
+| **2. North-South trades** | | | | | | | |
+| *Europe to:* | | | | | | | |
 | Latin America | 7 | 1,150 | 3% | 2,046 | 799 | 2,845 | 3% |
 | South Asia | 8 | 475 | 1% | 910 | 600 | 1,510 | 2% |
 | Africa | 9 | 950 | 3% | 770 | 1,487 | 2,257 | 2% |
 | Australasia | 10 | 400 | 1% | 256 | 343 | 599 | 1% |
-| Total | 2,975 | 8% | 3,982 | 3,229 | 7,211 | 8% |
-| North America to |
+| Total Europe | | 2,975 | 8% | 3,982 | 3,229 | 7,211 | 8% |
+| *North America to:* | | | | | | | |
 | Latin America | 11 | 2,000 | 5% | 2,627 | 1,526 | 4,153 | 4% |
 | South Asia | 12 | 250 | 1% | 533 | 216 | 749 | 1% |
 | Africa | 13 | 100 | 0% | 149 | 189 | 338 | 0% |
 | Australasia | 14 | 275 | 1% | 203 | 252 | 455 | 0% |
-| Total | 2,625 | 7% | 3,512 | 2,183 | 5,695 | 6% |
-| Far East to |
+| Total North America | | 2,625 | 7% | 3,512 | 2,183 | 5,695 | 6% |
+| *Far East to:* | | | | | | | |
 | Latin America | 15 | 725 | 2% | 1,100 | 850 | 1,950 | 2% |
 | South Asia | 16 | 425 | 1% | 850 | 1,120 | 1,970 | 2% |
 | Africa | 17 | 425 | 1% | 825 | 975 | 1,800 | 2% |
 | Australasia | 18 | 875 | 2% | 785 | 800 | 1,585 | 2% |
-| Total | 2,450 | 7% | 3,560 | 3,745 | 7,305 | 8% |
-| Total North-South Trades | 8,050 | 22% | 11,054 | 9,157 | 20,211 | 21% |
+| Total Far East | | 2,450 | 7% | 3,560 | 3,745 | 7,305 | 8% |
+| **Total North-South Trades** | | **8,050** | **22%** | **11,054** | **9,157** | **20,211** | **21%** |
+| **3. Intra-regional** | | | | | | | |
+| Asia | 19 | 6,750 | 18% | - | - | 28,154 | 29% |
+| Europe | 20 | 4,250 | 11% | - | - | 7,675 | 8% |
+| North America | 21 | 1,250 | 3% | - | - | 339 | 0% |
+| **Total intra regional** | | **12,250** | **33%** | - | - | **36,168** | **38%** |
+| Other | 22 | 300 | 1% | - | - | 1,957 | 2% |
+| **Total container trade** | | **37,100** | **100%** | - | - | **95,585** | **100%** |
 
-*3. Intra-regional*
-
-| Asia | 19 | 6,750 | 18% | 28,154 | 29% |
-| Europe | 20 | 4,250 | 11% | 7,675 | 8% |
-| North America | 21 | 1,250 | 3% | 339 | 0% |
-| Total intra regional | 12,250 | 33% | 36,168 | 38% |
-| Other | 22 | 300 | 1% | 1,957 | 2% |
-| Total container trade | 37,100 | 100% | 95,585 | 100% |
+*Source: Clarkson Research and various sources*
 
 <!-- Page 551 -->
-THE TRANSPACIFIC TRADE
 
-Containerization started in the Far East trade in December 1968 when Sea-Land introduced the container service from Seattle to Yokohama and the Japanese shipping companies introduced six 700/800 TEU container ships into a service between California and Japan. Now the biggest deep-sea liner route is the transpacific trade between North America and the Far East, with 16 million TEU of trade, representing 17% of the world total. The services operate between North American ports on the East Coast, the Gulf and the West Coast, to the industrial centres of Japan and the Far East, with some services extending to the Middle East. Some services to the USA Atlantic coast operate direct by water through the Panama Canal, but other containers to US East Coast are shipped under one bill of lading to a US West Coast port and then by rail to the East Coast destination, thus avoiding the Panama transit. On the rail leg containers may be double-stacked. There is a substantial cargo imbalance on this trade, and in 2004 east- 30 bound exports from the 10 major Asian economies to the USA were 11.4 million TEU, whilst the westbound exports were only 4.9 million TEU. This creates significant oppor-
+#### The transpacific trade
 
-tunities for westbound minor bulk cargoes of the sort we saw in the Port of Vancouver trade data in Table 13.4.
+Containerization started in the Far East trade in December 1968 when Sea-Land introduced the container service from Seattle to Yokohama and the Japanese shipping companies introduced six 700/800 TEU container ships into a service between California and Japan. Now the biggest deep-sea liner route is the transpacific trade between North America and the Far East, with 16 million TEU of trade, representing 17% of the world total. The services operate between North American ports on the East Coast, the Gulf and the West Coast, to the industrial centres of Japan and the Far East, with some services extending to the Middle East. Some services to the USA Atlantic coast operate direct by water through the Panama Canal, but other containers to US East Coast are shipped under one bill of lading to a US West Coast port and then by rail to the East Coast destination, thus avoiding the Panama transit. On the rail leg containers may be double-stacked. There is a substantial cargo imbalance on this trade, and in 2004 eastbound exports (footnote 30) from the 10 major Asian economies to the USA were 11.4 million TEU, whilst the westbound exports were only 4.9 million TEU. This creates significant opportunities for westbound minor bulk cargoes of the sort we saw in the Port of Vancouver trade data in Table 13.4.
 
-In 2004, about 18 operators were servicing the trade, including Maersk, Evergreen, CMA, Mediterranean Shipping Company (MSC), the Grand Alliance and the New World Alliance. An example of a round voyage is provided in Figure 13.3. The service calls at five ports in South East Asia and two on the US West Coast, covering about 16,500 miles. At a speed of 21.5 knots the sea time is 27 days, with an additional 8 days in port, giving a round journey time of 35 days. Port-to-port delivery times range from 10 to 18 days, depending on where the ports lie in the schedule. To provide weekly 'express' sailings in this trade requires a fleet of five ships, though some services might increase the
-
-TRANSPORT OF GENERAL CARGO
-
+In 2004, about 18 operators were servicing the trade, including Maersk, Evergreen, CMA, Mediterranean Shipping Company (MSC), the Grand Alliance and the New World Alliance. An example of a round voyage is provided in Figure 13.3. The service calls at five ports in South East Asia and two on the US West Coast, covering about 16,500 miles. At a speed of 21.5 knots the sea time is 27 days, with an additional 8 days in port, giving a round journey time of 35 days. Port-to-port delivery times range from 10 to 18 days, depending on where the ports lie in the schedule. To provide weekly 'express' sailings in this trade requires a fleet of five ships, though some services might increase the number of port calls so as to operate to a six-week round voyage which can be operated by six ships. The 'all water' services to the US East Coast continue on through the Panama Canal, adding another 5,000 miles and requiring nine vessels, and delivery times are very wide, ranging from 10 to 36 days at the extreme ends of the service. Because of the long voyage time the transpacific trade uses the biggest ships, with many 'post-Panamax' vessels over 4,000 TEU on this service, though the East Coast services are limited to Panamax vessels.
 
 **Figure 13.3** Typical transpacific loop using five ships
 
-
-Load Discharge Distance* Sea days Port days Total
-
-
+| Load | Discharge | Distance (nautical miles) | Sea days | Port days | Total days |
+| :--- | :--- | :---: | :---: | :---: | :---: |
 | Sendai | Oakland | 4,800 | 9.3 | 1 | 10.3 |
 | Oakland | Long Beach | 450 | 0.9 | 1 | 1.9 |
 | Long Beach | Oakland | 450 | 0.9 | 1 | 1.9 |
@@ -11159,79 +11146,67 @@ Load Discharge Distance* Sea days Port days Total
 | Kobe | Nagoya | 450 | 0.9 | 0.5 | 1.4 |
 | Nagoya | Tokyo | 400 | 0.8 | 0.5 | 1.3 |
 | Tokyo | Sendai | 600 | 1.2 | 1 | 2.2 |
-| Total | 13,966 | 27.1 | 8.0 | 35.1 |
-| Av. speed (knots) 21.5 | *distance in nautical miles |
+| **Total** | | **13,966** | **27.1** | **8.0** | **35.1** |
+
+*Average speed: 21.5 knots*
 
 <!-- Page 552 -->
-number of port calls so as to operate to a six-week round voyage which can be operated by six ships. The 'all water' services to the US East Coast continue on through the Panama Canal, adding another 5,000 miles and requiring nine vessels, and delivery times are very wide, ranging from 10 to 36 days at the extreme ends of the service. Because of the long voyage time the transpacific trade uses the biggest ships, with many 'post-Panamax' vessels over 4,000 TEU on this service, though the East Coast services are limited to Panamax vessels.
 
-THE NORTH ATLANTIC TRADE
+#### The North Atlantic trade
 
 The North Atlantic was the first route containerized in the mid-1960s, as one might expect, since at that time it linked the two major industrial centres of the world, East Coast North America and western Europe. In 2004 it had a trade of 5.7 million TEU, accounting for 6% of world container trade (Table 13.6). There is a trade imbalance westbound, reflecting the greater volume of cargo to North America. In 2004, for example, there was 3.2 million TEU of cargo travelling west between Europe and the USA and only 2.5 million TEU in the opposite direction.
 
-Geographically, the North Atlantic trade covers the major European ports of Göteburg, Hamburg, Bremerhaven, Antwerp, Rotterdam, Felixstowe and Le Havre, though there are some other smaller ports included on the itineraries of certain liner companies. At the North American end of the operation it is organized into two sections covering northern Europe to US Atlantic and northern Europe to the St Lawrence. The principal Canadian ports serviced are Montreal and Halifax, while in the US Boston, New York, Philadelphia, Baltimore, Hampton Roads, Wilmington and Charleston are all regular port calls. Some services extend into the US Gulf, particularly to Houston and Mobile. A typical service is shown in Figure 13.4. It calls at three ports in Europe and
-
-THE LINER SHIPPING ROUTES 13.5
-
+Geographically, the North Atlantic trade covers the major European ports of Göteborg, Hamburg, Bremerhaven, Antwerp, Rotterdam, Felixstowe and Le Havre, though there are some other smaller ports included on the itineraries of certain liner companies. At the North American end of the operation it is organized into two sections covering northern Europe to US Atlantic and northern Europe to the St Lawrence. The principal Canadian ports serviced are Montreal and Halifax, while in the US Boston, New York, Philadelphia, Baltimore, Hampton Roads, Wilmington and Charleston are all regular port calls. Some services extend into the US Gulf, particularly to Houston and Mobile. A typical service is shown in Figure 13.4. It calls at three ports in Europe and four in the USA. The round voyage distance is about 8,000 miles, which can be completed in 18 days at a speed of 19 knots. Allowing 7 days for port time and a sea margin of 2 days, the round trip takes about 28 days, which could be serviced using a fleet of four ships.
 
 **Figure 13.4** Typical transatlantic loop using five ships
 
-
-US Gulf to Europe Service:
-
-Transport time between ports in days
-
+*US Gulf to Europe Service:*
+*Transport time between ports in days*
 
 | From/To | Antwerp | Southampton | Bremerhaven |
+| :--- | :---: | :---: | :---: |
 | Miami | 18 | 19 | 21 |
 | Houston | 15 | 16 | 18 |
-| Charieston | 11 | 12 | 14 |
+| Charleston | 11 | 12 | 14 |
 | Norfolk | 9 | 10 | 12 |
-| Europe to US Gulf Service: |
-| Transport time between ports in days |
+
+*Europe to US Gulf Service:*
+*Transport time between ports in days*
+
 | From/To | Charleston | Miami | Houston | Norfolk |
+| :--- | :---: | :---: | :---: | :---: |
 | Bremerhaven | 10 | 12 | 15 | 21 |
 | Southampton | 12 | 14 | 17 | 23 |
 | Antwerp | 13 | 15 | 18 | 24 |
 
 <!-- Page 553 -->
-four in the USA. The round voyage distance is about 8,000 miles, which can be completed in 18 days at a speed of 19 knots. Allowing 7 days for port time and a sea margin of 2 days, the round trip takes about 28 days, which could be serviced using a fleet of four ships.
 
 There were 25 carriers operating 37 service loops in 2004 employing 220 ships, an average of six ships per loop. The current conference, the Trans Atlantic Conference Agreement (TACA) operates between US ports, including the Gulf and Pacific, and northern Europe, including the UK and Ireland, Scandinavia and Baltic ports. In 2004 the TACA members provided 11 service strings covering 16 ports in Europe and 13 in the United States. Anyone can join this conference and there are no trade shares.
 
-WESTERN EUROPE TO THE FAR EAST TRADE
+#### Western Europe to the Far East trade
 
 This route covers the trade of northern Europe, stretching from Sweden down to St Nazaire in France, to the Far East, an enormous maritime area covering West Malaysia, Singapore, Thailand, Hong Kong, Philippines, Taiwan, South Korea, China and Japan. This was one of the first trades to be covered by a conference system, the Far East Freight Conference (FEFC), and in 2004 there were about 13 operators or consortia running about 400 ships on many different loops.
 
 Three major operators in the Far East trade are the Grand Alliance, composed of NYK, Neptune Orient Lines and Hapag-Lloyd; the Global Alliance, consisting of MOL, OOCL, APL and MISC; and Maersk. The round-voyage time is over 60 days, requiring nine ships to provide a weekly sailing covering a full range of Asian ports, though a shorter service schedule using eight ships and fewer portcalls is often used. The major operators run separate weekly services direct to Japan and Korea, and to South East Asia. It is the large number of ships required to operate a regular service in this trade that necessitated the development of consortia. A typical round voyage (Figure 13.5) would involve calling at three European ports (e.g. Rotterdam, Southampton, and Hamburg), Singapore and eight or nine ports in South East Asia. The permutations are enormous, involving the option to stop off in the Middle East and the choice of which countries to visit in Asia.
 
-ROUND-THE-WORLD SERVICES
+#### Round-the-world services
 
-A seemingly logical development was to fuse these three main liner routes into a single global service. In the early 1980s several operators took this step, of which the most important were Evergreen and United States Lines. Evergreen set up a service with 12 vessels in each direction around the world with a round trip of 80 days, providing a 10-day service frequency in each direction. This service was initially introduced with eight ships in September 1984, but it rapidly became apparent that the 10-day service compared unfavourably with the seven-day service operated by competitors, particularly on the North Atlantic. As a result, in 1985 the number of ships was increased to 11 in each direction, and then to 12, giving a weekly service with a round trip time of 77 days. The ships used on the service were G-class vessels of 2700 TEU which were
-
-TRANSPORT OF GENERAL CARGO
+A seemingly logical development was to fuse these three main liner routes into a single global service. In the early 1980s several operators took this step, of which the most important were Evergreen and United States Lines. Evergreen set up a service with 12 vessels in each direction around the world with a round trip of 80 days, providing a 10-day service frequency in each direction. This service was initially introduced with eight ships in September 1984, but it rapidly became apparent that the 10-day service compared unfavourably with the seven-day service operated by competitors, particularly on the North Atlantic. As a result, in 1985 the number of ships was increased to 11 in each direction, and then to 12, giving a weekly service with a round trip time of 77 days. The ships used on the service were G-class vessels of 2700 TEU which were then lengthened to 3428 TEU. Going westbound, after calling at the UK and north continent ports, vessels proceeded down the East Coast of North America through the Panama Canal to the US West Coast, Japan, the Far East and through the Suez Canal to the Mediterranean.
 
 <!-- Page 554 -->
-THE LINER SHIPPING ROUTES 13.5
 
-then lengthened to 3428 TEU. Going westbound, after calling at the UK and north continent ports, vessels proceeded down the East Coast of North America through the Panama Canal to the US West Coast, Japan, the Far East and through the Suez Canal to the Mediterranean.
-
-For some years DSR-Senator and Cho Yang ran a roundthe-world service, but with the notable exception of Evergreen this method of operation attracted few operators and in the 1990s it became clear that the round-the-world service strategy faced two fundamental problems. First, the need to link services reduced flexibility over port calls, and balancing calls on the three routes added complexity. Second, the ships used on the arterial trades increased in size and the ships which could transit the Panama Canal became uncompetitive. The second problem will be removed when the development of the Panama Canal to handle bigger container-ships is completed.
-
+For some years DSR-Senator and Cho Yang ran a round-the-world service, but with the notable exception of Evergreen this method of operation attracted few operators and in the 1990s it became clear that the round-the-world service strategy faced two fundamental problems. First, the need to link services reduced flexibility over port calls, and balancing calls on the three routes added complexity. Second, the ships used on the arterial trades increased in size and the ships which could transit the Panama Canal became uncompetitive. The second problem will be removed when the development of the Panama Canal to handle bigger container-ships is completed.
 
 #### The North-South liner routes
 
-
-The North-South liner services cover the trade between the industrial centres of Europe, North America and the Far East and the developing countries of Latin America, Africa, Far East and Australasia. There is also an extensive network of services between the smaller economies, especially those in the Southern Hemisphere. These trades, which are listed in Table 13.6, have a very different character. Cargo volumes are much lower, with the many routes together accounting for only 21% of the container cargo volume in 2004. However, this understates the importance of these trades to the shipping business. With many more ports to visit and often less efficient port itineraries, they generate more business than the container volume suggests. Although most trades are now containerized, a considerable amount of break-bulk cargo still cannot be handled in containers, so the liner services are more varied. These trades are too
-
+The North-South liner services cover the trade between the industrial centres of Europe, North America and the Far East and the developing countries of Latin America, Africa, Far East and Australasia. There is also an extensive network of services between the smaller economies, especially those in the Southern Hemisphere. These trades, which are listed in Table 13.6, have a very different character. Cargo volumes are much lower, with the many routes together accounting for only 21% of the container cargo volume in 2004. However, this understates the importance of these trades to the shipping business. With many more ports to visit and often less efficient port itineraries, they generate more business than the container volume suggests. Although most trades are now containerized, a considerable amount of break-bulk cargo still cannot be handled in containers, so the liner services are more varied. These trades are too extensive to review in detail, so we will concentrate on one example, the Europe to West Africa service.
 
 **Figure 13.5** Service loop to Europe from Far East trade
 
-
-Transport time between ports in days
-
+*Transport time between ports in days*
 
 | From/To | Rotterdam | Hamburg | Southampton |
+| :--- | :---: | :---: | :---: |
 | Jeddah | 8 | 11 | 14 |
 | Port Kelang | 15 | 18 | 21 |
 | Singapore | 16 | 19 | 22 |
@@ -11243,112 +11218,80 @@ Transport time between ports in days
 | Dalian | 30 | 33 | 36 |
 
 <!-- Page 555 -->
-TRANSPORT OF GENERAL CARGO
 
-extensive to review in detail, so we will concentrate on one example, the Europe to West Africa service.
+The Europe to West Africa trade operates between north-western Europe and the 18 countries of West Africa, stretching from Senegal down to Angola. Nigeria is comparatively rich, but many of the others are very poor with few ports and limited supporting transport infrastructure. European trade accounts for two-thirds of the seaborne traffic, with the remainder divided between the USA and a rapidly growing trade (footnote 31) to Asia. Southbound shipments include machinery, chemicals, transport equipment, iron and steel, machinery and various foodstuffs. The return cargo is principally composed of primary products and semi-manufactures such as cocoa, rubber, oilseeds, vegetable oil, cotton, petroleum products and non-ferrous metals. The volume of cargo southbound is higher than the volume northbound, which creates problems (footnote 32) fully utilizing the vessels.
 
-The Europe to West Africa trade operates between north-western Europe and the 18 countries of West Africa, stretching from Senegal down to Angola. Nigeria is comparatively rich, but many of the others are very poor with few ports and limited supporting transport infrastructure. European trade accounts for two-thirds of the seaborne traffic, with the remainder divided between the USA and a rapidly growing 31 trade to Asia. Southbound shipments include machinery, chemicals, transport equipment, iron and steel, machinery and various foodstuffs. The return cargo is principally composed of primary products and semi-manufactures such as cocoa, rubber, oilseeds, vegetable oil, cotton, petroleum products and non-ferrous metals. The volume of cargo southbound is higher than the volume northbound, which creates problems 32 fully utilizing the vessels.
-
-In 2005 the main services were containerized, though ro-ros and MPP vessels continue to operate in the trade. These services tend to be more flexible than the deep-sea container services, varying the ships and services to meet the needs of the trade. For example, a typical service, shown in Figure 13.6, offers weekly container-ship sailings with less frequent break-bulk sailings. The ships load cargo in Europe at Felixstowe, Rotterdam, Antwerp, Hamberg and Le Havre. In West Africa the line offers shipment to virtually all major ports either direct or via a feeder system. The service in Figure 13.6 calls at Felixstowe, Antwerp and Le Havre in north-western Europe, whilst in West Africa the itinerary is Dakar, Abidjan, Lomé and Cotonou on the southbound leg, and Tema, Abidjan and Dakar on the northbound leg. To provide this service a fleet of five 1600 TEU containerships is used. Other services use break-bulk ships. For example, a service using six 660 TEU ro-ros offers sailings every 8 days, calling at 13 ports and carrying rolling stock and project cargo in addition to containers.
+In 2005 the main services were containerized, though ro-ros and MPP vessels continue to operate in the trade. These services tend to be more flexible than the deep-sea container services, varying the ships and services to meet the needs of the trade. For example, a typical service, shown in Figure 13.6, offers weekly container-ship sailings with less frequent break-bulk sailings. The ships load cargo in Europe at Felixstowe, Rotterdam, Antwerp, Hamburg and Le Havre. In West Africa the line offers shipment to virtually all major ports either direct or via a feeder system. The service in Figure 13.6 calls at Felixstowe, Antwerp and Le Havre in north-western Europe, whilst in West Africa the itinerary is Dakar, Abidjan, Lomé and Cotonou on the southbound leg, and Tema, Abidjan and Dakar on the northbound leg. To provide this service a fleet of five 1600 TEU containerships is used. Other services use break-bulk ships. For example, a service using six 660 TEU ro-ros offers sailings every 8 days, calling at 13 ports and carrying rolling stock and project cargo in addition to containers.
 
 The imbalance of containerized cargo leaves the shipping line with empty containers to transport back to Europe, and strenuous efforts have been made to containerize return cargoes in order to utilize the container space on ships. On the West Africa to Europe leg the following commodities were containerized: coffee (bagged in containers), empty gas cylinders (returned for refilling), high-value veneers, ginger, cotton, and mail. Attempts to containerize cocoa were initially unsuccessful because the product sweats, while the large logs shipped from West Africa are not generally suitable for containerization. About two-thirds of the containers shipped out to West Africa thus travel back empty.
 
 This is just one example of the North-South liner services. A sense of the way these services develop is given by the press release shown below:
 
-Launch of Africa Service
+*Launch of Africa Service*
 
-Hapag-Lloyd is starting its new weekly service from Europe to South Africa in October 2006. The relevant organisation is already in place in South Africa. [The new service will not use] charter ships as originally planned, but after further studying the market, as a space charterer from Mediterranean Shipping
+Hapag-Lloyd is starting its new weekly service from Europe to South Africa in October 2006. The relevant organisation is already in place in South Africa. [The new service will not use] charter ships as originally planned, but after further studying the market, as a space charterer from Mediterranean Shipping Company (MSC), based in Geneva. As a result of the cooperation with MSC, we can offer our customers considerable service improvements with fixed day weekly sailings and refrigerated cargo capacity.
 
 <!-- Page 556 -->
-Company (MSC), based in Geneva. As a result of the cooperation with MSC, we can offer our customers considerable service improvements with fixed day weekly sailings and refrigerated cargo capacity.
 
 The South Africa Express service (SAX) will link the European ports [of] Felixstowe, Hamburg, Antwerp and Le Havre with Cape Town, Port Elizabeth and Durban. Transit time from Cape Town to Hamburg will be 18 days. The service will start with the first voyage from Felixstowe on Oct. 16th, the first north bound vessel will leave Durban on Oct. 29th.
 
-Hapag-Lloyd has had its own organisation in South Africa with offices in 33 Durban, Cape Town and Johannesburg since the beginning of July 2006.
-
-THE LINER SHIPPING ROUTES 13.5
-
+Hapag-Lloyd has had its own organisation in South Africa with offices in Durban (footnote 33), Cape Town and Johannesburg since the beginning of July 2006.
 
 **Figure 13.6** Typical North-South Liner service, Europe-West Africa Source: OTAL container services
 
 <!-- Page 557 -->
-TRANSPORT OF GENERAL CARGO
-
 
 #### Intraregional trades and feeder services
 
-
 In addition to the deep-sea trades, the short-sea services are playing an increasingly important part in the business, especially for the distribution of containers brought into hubs such as Hong Kong, Singapore and Rotterdam. These have grown very rapidly as deep sea operators have moved to bigger ships and reduced their port calls, preferring to distribute cargo from base ports to out ports. Movement of cargoes between local ports is also growing rapidly in response to efforts by regional authorities, especially in Europe, to reduce congestion. Many of the short-sea trades use very small ships and voyages of only 3-4 days, but with the growth of cargo volumes a wide range of vessels of 1,500-2,000 TEU are being used in these trades and even some 3,000-4,000 TEU vessels.
-
 
 #### The break-bulk liner services
 
-
 In discussing the liner trades it is easy to forget that cargo does not fall neatly into general cargo and bulk and there are many borderline trades which do not fit easily into either system. For example, Tasman Orient Line provides transport for New Zealand's forestry exports. It uses thirteen 22,000 dwt MPP liners with a capacity of 350 containers and 10,000 dwt of break-bulk cargo, a speed of 16 knots and 25-35 tonne cranes. The cargoes they carry include containers, reefer containers, car parts, machinery, vehicles, steel products, pulp, paper, lumber, cars, earth-moving equipment and heavy lift cargoes up to 120 tonnes. The vessels operate between New Zealand and South and East Asia. Services like this tend to be very fluid, constantly adjusting to the cargo flow. This is just one of many small and highly specialized liner services which serve the borders of the liner trades.
 
-
 ### 13.6 THE LINER COMPANIES
-
 
 The liner companies which operate the services we discussed in the previous section are the third element in the container market model shown in box 3 of Figure 13.1. They have to decide which services to operate, which ships to use and whether to buy their own ships, charter them in, or just buy space on another service. They must also market their services, negotiate service contracts and undertake all the administration involved in the provision of services and the invoicing and accounting. Unlike bulk shipping companies which have a relatively simple management structure in relation to their assets (typically two ships at sea for each person on shore), liner companies are generally more complex and the shore-staff ratio is closer to 40 persons per ship. There are currently about 250 companies offering liner services of one sort or another and they should be distinguished from the independent shipowners in box 4b of Figure 13.1 who invest in container-ships and charter them to liner companies. These companies do not offer liner services themselves, and have more in common with the bulk shipping companies discussed in Chapter 11. A list of the 20 largest liner companies is shown in Table 13.7.
 
 <!-- Page 558 -->
-THE LINER COMPANIES 13.6
-
-
-#### Liner company size
-
-
-When containerization started, the high capital investment required resulted in consolidation of trades and many hundreds of small liner companies disappeared. However, following this initial period of change, the size profile of the container companies settled down. Table 13.7, which compares the market shares of the 20 largest container companies in 1980, 2001 and 2005, shows that between 1980 and 2001 the size profile hardly changed. In 1980 the biggest operator was Sea-Land with a market share of 9.6% and the other 19 big players had shares ranging from 1.4% to 5.6%, with an average share
-
 
 **Table 13.7** Twenty largest container fleet operators 1980, 2001, 2005 (year end)
 
-
-| 1980 container fleet | 2001 container fleet | 2005 container fleet |
-| Company | No | '000 TEU | % | No | TEU | % | No | '000 TEU | % |
-| 1 | Sea-Land | 63 | 70 | 9.6% | Maersk-SL | + | 297 | 694 | 9.4% | Maersk | 586 | 1,665 | 16.4% |
-| Safmarine |
+| Rank | 1980 Company | 1980 Ships | 1980 '000 TEU | 1980 Share (%) | 2001 Company | 2001 Ships | 2001 '000 TEU | 2001 Share (%) | 2005 Company | 2005 Ships | 2005 '000 TEU | 2005 Share (%) |
+| :---: | :--- | :---: | :---: | :---: | :--- | :---: | :---: | :---: | :--- | :---: | :---: | :---: |
+| 1 | Sea-Land | 63 | 70 | 9.6% | Maersk-SL + Safmarine | 297 | 694 | 9.4% | Maersk | 586 | 1,665 | 16.4% |
 | 2 | Hapag Lloyd | 28 | 41 | 5.6% | P & O Nedlloyd | 138 | 344 | 4.6% | MSC | 276 | 784 | 7.7% |
 | 3 | OCL | 16 | 31 | 4.3% | Evergreen Group | 129 | 325 | 4.4% | CMA-CGM | 242 | 508 | 5.0% |
 | 4 | Maersk Line | 20 | 26 | 3.5% | Hanjin / Senator | 82 | 258 | 3.5% | Evergreen | 155 | 478 | 4.7% |
-| 5 | M Line | 17 | 24 | 3.3% | Mediterranean | 138 | 247 | 3.3% | Hapag-Lloyd | 131 | 412 | 4.1% |
-| Shg Co |
-| 6 | Evergreen | 22 | 24 | 3.2% | APL | 81 | 224 | 3.0% | China | 123 | 346 | 3.4% |
-| Line | Shipping |
-| 7 | OOCL | 17 | 23 | 3.1% | COSCO | 113 | 206 | 2.8% | NOL/APL | 104 | 331 | 3.3% |
-| Container Lines |
-| 8 | Zim Container | 21 | 2.9% | NYK | 86 | 171 | 2.3% | Hanjin | 84 | 329 | 3.2% |
-| Line |
+| 5 | M Line | 17 | 24 | 3.3% | Mediterranean Shg Co | 138 | 247 | 3.3% | Hapag-Lloyd | 131 | 412 | 4.1% |
+| 6 | Evergreen Line | 22 | 24 | 3.2% | APL | 81 | 224 | 3.0% | China Shipping | 123 | 346 | 3.4% |
+| 7 | OOCL | 17 | 23 | 3.1% | COSCO Container Lines | 113 | 206 | 2.8% | NOL/APL | 104 | 331 | 3.3% |
+| 8 | Zim Container Line | - | 21 | 2.9% | NYK | 86 | 171 | 2.3% | Hanjin | 84 | 329 | 3.2% |
 | 9 | US Line | 20 | 21 | 2.9% | CP Ships Group | 80 | 148 | 2.0% | COSCO | 126 | 322 | 3.2% |
-| 10 | American | 15 | 20 | 2.8% | CMA-CGM | 81 | 142 | 1.9% | NYK | 118 | 302 | 3.0% |
-| President | Group |
+| 10 | American President | 15 | 20 | 2.8% | CMA-CGM Group | 81 | 142 | 1.9% | NYK | 118 | 302 | 3.0% |
 | 11 | Mitsui OSK | 16 | 20 | 2.7% | Mitsui-OSK Lines | 65 | 139 | 1.9% | Mitsui OSK | 80 | 241 | 2.4% |
 | 12 | Farrell Lines | 13 | 16 | 2.3% | K Line | 62 | 136 | 1.8% | OOCL | 65 | 234 | 2.3% |
-| 13 | Neptune | 11 | 15 | 2.0% | Zim | 75 | 132 | 1.8% | Sudamericana | 86 | 234 | 2.3% |
-| Orient Lines |
-| 14 | Trans Freight | 17 | 14 | 1.9% | OOCL | 48 | 129 | 1.7% | K Line | 75 | 228 | 2.2% |
-| Line |
-| 15 | CGM | 9 | 13 | 1.7% | Hapag-Lloyd | 32 | 116 | 1.6% | Zim | 85 | 201 | 2.0% |
-| Group |
+| 13 | Neptune Orient Lines | 11 | 15 | 2.0% | Zim | 75 | 132 | 1.8% | Sudamericana | 86 | 234 | 2.3% |
+| 14 | Trans Freight Line | 17 | 14 | 1.9% | OOCL | 48 | 129 | 1.7% | K Line | 75 | 228 | 2.2% |
+| 15 | CGM | 9 | 13 | 1.7% | Hapag-Lloyd Group | 32 | 116 | 1.6% | Zim | 85 | 201 | 2.0% |
 | 16 | Yang Ming | 9 | 13 | 1.7% | Yang Ming Line | 45 | 113 | 1.5% | Yangming | 69 | 188 | 1.9% |
 | 17 | Nedlloyd | 5 | 12 | 1.6% | China Shipping | 92 | 110 | 1.5% | Hamburg-Süd | 87 | 184 | 1.8% |
-| 18 | Columbas | 13 | 11 | 1.5% | Hyundai | 32 | 106 | 1.4% | HMM | 39 | 148 | 1.5% |
-| Line |
-| 19 | Safflarine | 5 | 11 | 1.5% | CSAV Group | 54 | 97 | 1.3% | PIL | 101 | 134 | 1.3% |
-| 20 | Ben Line | 5 | 10 | 1.4% | Hamburg-Süd | 45 | 80 | 1% | Wan Hai | 68 | 114 | 1.1% |
-| Group |
-| Top 20 | 348 | 437 | 60% | Top 20 | 1,775 | 3,917 | 53% | Top 20 | 2,700 | 7,387 | 73% |
-| All Other | 497 | 290 | 40% | All Other | 1,135 | 3,475 | 47% | All Other | 938 | 2,777 | 27% |
-| Operators |
-| World Fleet | 845 | 726 | 100% | World Fleet | 2,910 | 7,392 | 100% | World Fleet | 3,638 | 10,164 | 100% |
-| Average market share top 20 | 3.0% | 2.6% | 3.6% |
-| Standard deviation top 20 | 1.9% | 1.9% | 3.4% |
+| 18 | Columbus Line | 13 | 11 | 1.5% | Hyundai | 32 | 106 | 1.4% | HMM | 39 | 148 | 1.5% |
+| 19 | Safmarine | 5 | 11 | 1.5% | CSAV Group | 54 | 97 | 1.3% | PIL | 101 | 134 | 1.3% |
+| 20 | Ben Line | 5 | 10 | 1.4% | Hamburg-Süd Group | 45 | 80 | 1% | Wan Hai | 68 | 114 | 1.1% |
+| **Top 20** | | **348** | **437** | **60%** | | **1,775** | **3,917** | **53%** | | **2,700** | **7,387** | **73%** |
+| **All Other Operators** | | **497** | **290** | **40%** | | **1,135** | **3,475** | **47%** | | **938** | **2,777** | **27%** |
+| **World Fleet** | | **845** | **726** | **100%** | | **2,910** | **7,392** | **100%** | | **3,638** | **10,164** | **100%** |
+| **Average market share top 20** | | | | **3.0%** | | | | **2.6%** | | | | **3.6%** |
+| **Standard deviation top 20** | | | | **1.9%** | | | | **1.9%** | | | | **3.4%** |
 
 *Source: Pearson and Farsey (1983, Table 9.1, p. 196), CRSL, Martin Stopford*
 
+#### Liner company size
+
+When containerization started, the high capital investment required resulted in consolidation of trades and many hundreds of small liner companies disappeared. However, following this initial period of change, the size profile of the container companies settled down. Table 13.7, which compares the market shares of the 20 largest container companies in 1980, 2001 and 2005, shows that between 1980 and 2001 the size profile hardly changed. In 1980 the biggest operator was Sea-Land with a market share of 9.6% and the other 19 big players had shares ranging from 1.4% to 5.6%, with an average share for the top 20 of 3%. By 2001 Maersk had become the biggest liner company, with a share of 9.4%, having taken over Sea-Land in the late 1990s. P&O Nedlloyd was second with a fleet share of 4.6% and at the bottom of the top 20 was Hamburg-Süd with a fleet share of 1%. In fact during this period the share of the top 20 companies fell from 60% to 53% so the business was not consolidating and the average company had a market share of only 2.6%.
+
 <!-- Page 559 -->
-for the top 20 of 3%. By 2001 Maersk had become the biggest liner company, with a share of 9.4%, having taken over Sea-Land in the late 1990s. P&O Nedlloyd was second with a fleet share of 4.6% and at the bottom of the top 20 was Hamburg-Süd with a fleet share of 1%. In fact during this period the share of the top 20 companies fell from 60% to 53% so the business was not consolidating and the average company had a market share of only 2.6%.
 
 However, over the next five years the shares of the leading three companies increased rapidly. Maersk jumped from 9% in 2001 to 16% in 2005, mainly by acquiring P&O Nedlloyd. In second place in 2005 was MSC with a share of 8%, most of which was built up by acquisition of new and second-hand tonnage (MSC's share was only 3% in 2001). The other company which grew rapidly was CMA-CGM, which again built up capacity to around 5% by acquiring Delmas and buying ships. Despite these changes at the top, the companies in the middle of the table held onto their market share pretty well and many increased their share. It was the companies below the top 20 which lost market share, falling from 47% in 2001 to 26% in 2005. So the general conclusion from Table 13.7 is that the size distribution of liner companies does change, though not always in the same direction. In such a short period, dominated by unusual market circumstances, it is difficult to judge whether this sprint for growth has proved effective or not.
 

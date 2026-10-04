@@ -6619,51 +6619,22 @@ or collateral required;
 20.  R&D aid;
 21.  aid for environmental protection.
 
-**Table 4.1  Islamic fi nancing terms**
+**Table 4.1** Islamic financing terms
 
-Beial urbun
-Acceptable only to Hanbali school of Islamic jurisprudence, an
-Islamic option. Islamic investor purchases goods on behalf of
-real purchaser and keeps 10% of real purchaser’s deposit
-Beibi salam/
-beibisalif
-Forward fi nancing transactions to provide working capital to
-buy raw materials.  Salam identifi es the goods.  Salif refers to
-goods in generic terms. The goods must exist at time of sale.
-Does not apply to shipbuilding
-Gharar
-Uncertainty: excessive uncertainty, risk or ambiguous outcome
-Ijara
-Equivalent to leasing. Bank purchases asset and rents to third
-party
-Ijara irta
-Lease purchase
-Istisna
-Islamic institution places order to build ships and sells at an
-agreed price at an agreed date
-Joalah
-Simply a fee for rendering a service
-Mudaraba
-A silent partnership fund that participants subscribe to; the
-bank manages the investment (i.e. trustee fi nance). A
-percentage of profi ts go to investor-customers. Bank charges
-fees. Shares in funds can be bought and sold
-Muqarada
-Bonds issued to fi nance projects
-Murabaha
-Cost-plus method for project fi nancings, which includes an
-honest declaration of cost
-Musharaka
-A fuel partnership that provides venture capital by establishing
-a special purpose company. Bank and customer are
-shareholders and share profi ts and losses (i.e. equity
-fi nancing)
-Riba
-“Increase, growth” (i.e. interest)
-
-## 4 Shipbuilding Finance
-
-117
+| Term | Description |
+| :--- | :--- |
+| *Beial urbun* | Acceptable only to Hanbali school of Islamic jurisprudence, an Islamic option. Islamic investor purchases goods on behalf of real purchaser and keeps 10% of real purchaser's deposit |
+| *Beibi salam / beibisalif* | Forward financing transactions to provide working capital to buy raw materials. *Salam* identifies the goods. *Salif* refers to goods in generic terms. The goods must exist at time of sale. Does not apply to shipbuilding |
+| *Gharar* | Uncertainty: excessive uncertainty, risk or ambiguous outcome |
+| *Ijara* | Equivalent to leasing. Bank purchases asset and rents to third party |
+| *Ijara irta* | Lease purchase |
+| *Istisna* | Islamic institution places order to build ships and sells at an agreed price at an agreed date |
+| *Joalah* | Simply a fee for rendering a service |
+| *Mudaraba* | A silent partnership fund that participants subscribe to; the bank manages the investment (i.e. trustee finance). A percentage of profits go to investor-customers. Bank charges fees. Shares in funds can be bought and sold |
+| *Muqarada* | Bonds issued to finance projects |
+| *Murabaha* | Cost-plus method for project financings, which includes an honest declaration of cost |
+| *Musharaka* | A full partnership that provides venture capital by establishing a special purpose company. Bank and customer are shareholders and share profits and losses (i.e. equity financing) |
+| *Riba* | "Increase, growth" (i.e. interest) |
 
 #### 4.1.27  Equity Financing
 
@@ -9961,127 +9932,47 @@ ing direct funding to the shipowners or by issuing ECA guarantees/policies
 (assigned to the commercial banks) insuring commercial and/or political
 risks, managing, thus, to close that funding gap and supporting in that way
 their local shipbuilding activity.
-Overall, during the last couple of years, as the availability of bank lend-
-ing became tighter, the shipowning community has increased its interest in
-export credit fi nance. ECAs were there to meet this increased demand, and
-we have witnessed an important increase in lending volumes, particularly
-from ECAs of important shipbuilding nations such as Korea and China. The
-strong growth of ECA-backed fi nancing is evident through fi gures published
+**Table 8.1** The most important export credit agencies for the maritime, cruise and offshore shipping sectors
 
-**Table 8.1  The most important export credit agencies for the maritime, cruise and off-**
+| Area | Country | Export credit agencies |
+| :--- | :--- | :--- |
+| ASIA | Korea | Korea Trade Insurance Corporation (K-SURE) |
+| ASIA | Korea | The Export-import Bank of Korea (KEXIM) |
+| ASIA | China | China Export & Credit Insurance Corporation (SINOSURE) |
+| ASIA | China | Export-import Bank of China (CEXIM) |
+| ASIA | Japan | Nippon Export and Investment Insurance (NEXI) |
+| ASIA | Japan | Japan Bank for International Cooperation (JBIC) |
+| EU | Germany | Euler Hermes Kreditversicherungs-AG (HERMES) |
+| EU | Norway | Norwegian Guarantee Institute for Export Credits (GIEK) |
+| EU | France | Compagnie française d'Assurance pour le commerce extérieur (COFACE) |
+| EU | Italy | SACE S.p.A. Servizi Assicurativi del Commercio Estero (SACE) |
+| AUSTRALIA | Australia | Export Finance and Insurance Corporation (EFIC) |
 
-shore shipping sectors
-Area
-Country
-Export credit agencies
-ASIA
-Korea
-Korea Trade Insurance Corporation (K-SURE)
-The Export–import Bank of Korea (KEXIM)
-China
-China Export & Credit Insurance Corporation (SINOSURE)
-Export–import Bank of China (CEXIM)
-Japan
-Nippon Export and Investment Insurance (NEXI)
-Japan Bank for International Cooperation (JBIC)
-EU
-Germany
-Euler Hermes Kreditversicherungs-AG (HERMES)
-Norway
-Norwegian Guarantee Institute for Export Credits (GIEK)
-France
-Compagnie française d’Assurance pour le commerce
-extérieur (COFACE)
-Italy
-SACE S.p.A. Servizi Assicurativi del Commercio Estero (SACE)
-AUSTRALIA
-Australia
-Export Finance and Insurance Corporation (EFIC)
-194
-I. Alexopoulos and N. Stratis
+#### 8.2.2  ECAs' Role in Ship Finance
 
-by  Seatrade Asia Week , 1 which showed that the Chinese Export Import Bank
-(CEXIM) committed USD14 billion in loans to the shipping industry, up
-from USD12 billion in 2012 and USD11 billion in 2011.
-Export credit fi nance is at present considered an important source of capi-
-tal for the shipping industry, especially for expensive and capital intensive
-maritime projects. Under the present conditions, commercial banks would
-fi nd it diffi  cult to commit to such expensive projects, thus we are seeing ECAs
-playing an increasingly important role for such “high-value” projects in the
-cruise, off shore, LNG, LPG as well as in the traditional sectors. Some exam-
-ples of publicly reported ECA transactions that have been concluded in the
-recent past are provided in Table  8.2 .
+Prior to the financial crisis and in particular during the period from 2000 to 2008, the role of ECAs in ship finance was rather limited. During that period traditional debt financing sources were readily available (on a large scale and attractively priced) from international as well as local shipping banks to fund shipowners' newbuilding projects. These banks were however adversely affected by the unprecedented events in the financial markets in 2008 as well as by the severe correction in freight rates and asset values in shipping.
+
+As a result of the financial and shipping crisis, a number of shipping banks were faced with big problems in their shipping portfolios and increased regulatory (Basel III) constraints, which forced them to either scale down their lending or leave the industry altogether. The credit squeeze left a big funding gap for the shipping community, especially for shipping projects involving newbuilding vessels, which were still under construction. ECAs were quick to step in, providing a significant part of the necessary funding, either by extending direct funding to the shipowners or by issuing ECA guarantees/policies (assigned to the commercial banks) insuring commercial and/or political risks, managing, thus, to close that funding gap and supporting in that way their local shipbuilding activity.
+
+Overall, during the last couple of years, as the availability of bank lending became tighter, the shipowning community has increased its interest in export credit finance. ECAs were there to meet this increased demand, and we have witnessed an important increase in lending volumes, particularly from ECAs of important shipbuilding nations such as Korea and China. The strong growth of ECA-backed financing is evident through figures published by *Seatrade Asia Week*, (footnote 1) which showed that the Chinese Export Import Bank (CEXIM) committed USD 14 billion in loans to the shipping industry, up from USD 12 billion in 2012 and USD 11 billion in 2011.
+
+Export credit finance is at present considered an important source of capital for the shipping industry, especially for expensive and capital intensive maritime projects. Under the present conditions, commercial banks would find it difficult to commit to such expensive projects, thus we are seeing ECAs playing an increasingly important role for such "high-value" projects in the cruise, offshore, LNG, LPG as well as in the traditional sectors. Some examples of publicly reported ECA transactions that have been concluded in the recent past are provided in Table 8.2.
+
+**Table 8.2** Examples of publicly reported export credit agency transactions concluded in the maritime, cruise and the offshore shipping sectors
+
+| Sector | Shipping company | Amount | Export credit agency | Newbuilding project |
+| :--- | :--- | :---: | :--- | :--- |
+| Cruise | Norwegian Cruise Line (footnote 3) | USD 0.91B | EULER HERMES | 2 × Cruise vessels |
+| Offshore | Ocean Rig (footnote 4) | USD 1.35B | GIEK & KEXIM | 3 × Deepwater drillships |
+| Cruise | Royal Caribbean (footnote 5) | EUR 0.89B | COFACE | 1 × Mega-cruise vessel |
+| Shipping | Scorpio Bulkers (footnote 6) | USD 0.23B | CEXIM | 7 × Capesize vessels |
+| LNG | Nigeria LNG Ltd (footnote 7) | USD 0.72B | KEXIM & KSURE | 6 × LNG vessels |
+| Cruise | Star Cruises (footnote 8) | EUR 0.60B | EULER HERMES | 1 × Cruise vessel |
+| LPG | Dorian LPG (footnote 9) | USD 0.50B | KEXIM & KSURE | 18 × VLGC vessels |
 
 #### 8.2.3  ECA Ship Financing Structures
 
-ECA involvement in maritime projects takes predominately two forms. The
-shipowner will either raise funding from international commercial banks, on
-the back of a guarantee or an insurance policy issued by an ECA, or he or
-she will raise the funding directly from the ECA. Under the fi rst scheme, the
-“ECA-guaranteed” fi nancing structure, the ECA promotes and facilitates the
-export of a maritime asset by issuing a guarantee/insurance product. Foreign
-commercial banks extend the necessary fi nancing (a term loan facility)
-to the overseas buyer/importer of the maritime asset being constructed
-on the back of this ECA guarantee/insurance policy. Under this arrangement,
-the commercial bank is eff ectively assured that it will receive payment, by the
-ECA, in the event of a payment default by the shipowner (provided of course
-that the policy’s conditions and requirements are met), whether connected to
-any insolvency event, any other commercial event or in connection with any
-political event. Since the guarantee/insurance cover is backed by the ECA’s
-
-**Table 8.2  Examples of publicly reported export credit agency transactions concluded**
-
-in the maritime, cruise and the offshore shipping sectors
-Sector
-Shipping company  Billion
-Export credit
-agency
-Newbuilding project
-Cruise
-Norwegian Cruise
-Line 3
-USD0.91
-EULER HERMES
-2 × Cruise vessels
-Offshore
-Ocean Rig 4
-USD1.35
-GIEK & KEXIM
-3 × Deepwater drillships
-Cruise
-Royal Caribbean 5
-EUR0.89
-COFACE
-1 × Mega-cruise vessel
-Shipping
-Scorpio Bulkers 6
-USD0.23
-CEXIM
-7 × Capesize vessels
-LNG
-Nigeria LNG Ltd 7
-USD0.72
-KEXIM & KSURE
-6 × LNG vessels
-Cruise
-Star Cruises 8
-EUR0.60
-EULER HERMES
-1 × Cruise vessel
-LPG
-Dorian LPG 9
-USD0.5
-KEXIM & KSURE
-18 × VLGC vessels
-
-## 8 Structured Finance in Shipping
-
-195
-
-government, the commercial bank’s guaranteed exposure is no longer consid-
-ered and treated as a shipping risk but rather as a sovereign risk. K-SURE in
-Korea, SINOSURE in China and NEXI in Japan are common providers of
-such ECA-guaranteed fi nancing schemes.
+ECA involvement in maritime projects takes predominately two forms. The shipowner will either raise funding from international commercial banks, on the back of a guarantee or an insurance policy issued by an ECA, or he or she will raise the funding directly from the ECA. Under the first scheme, the "ECA-guaranteed" financing structure, the ECA promotes and facilitates the export of a maritime asset by issuing a guarantee/insurance product. Foreign commercial banks extend the necessary financing (a term loan facility) to the overseas buyer/importer of the maritime asset being constructed on the back of this ECA guarantee/insurance policy. Under this arrangement, the commercial bank is effectively assured that it will receive payment, by the ECA, in the event of a payment default by the shipowner (provided of course that the policy's conditions and requirements are met), whether connected to any insolvency event, any other commercial event or in connection with any political event. Since the guarantee/insurance cover is backed by the ECA's government, the commercial bank's guaranteed exposure is no longer considered and treated as a shipping risk but rather as a sovereign risk. K-SURE in Korea, SINOSURE in China and NEXI in Japan are common providers of such ECA-guaranteed financing schemes.
 
 **Figure  8.1 provides an outline of a basic ECA guaranteed/insured fi nancing**
 

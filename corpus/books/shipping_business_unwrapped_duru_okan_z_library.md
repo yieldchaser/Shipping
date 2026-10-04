@@ -1,24 +1,21 @@
 ---
-title: "Shipping Business Unwrapped: Illusion, Bias and Fallacy in the Shipping Business"
+title: "Shipping Business Unwrapped"
 author: "Okan Duru"
-series: "Routledge Maritime Masters (Vol. 5)"
-publisher: "Routledge (Taylor & Francis Group)"
-year: 2019
-isbn: "978-1-138-29245-1"
+publisher: "Routledge"
+year: 2018
+isbn: "978-1-138-04336-7"
 pages: 141
 source: "corpus/books/shipping_business_unwrapped_duru_okan_z_library.md"
-raw_pdf: "corpus/books/Shipping Business Unwrapped. (Duru, Okan) (Z-Library).pdf"
-category: "Maritime Economics / Behavioral Finance"
+category: "Shipping Management / Maritime Economics"
 ---
 
-# Shipping Business Unwrapped: Illusion, Bias and Fallacy in the Shipping Business
+# Shipping Business Unwrapped
 
-**Author:** Okan Duru (Nanyang Technological University, Singapore)  
-**Series:** Routledge Maritime Masters (Volume 5)  
-**Publisher:** Routledge (Taylor & Francis Group, London & New York, 2019)  
-**ISBN:** 978-1-138-29245-1 (hbk), 978-1-138-29246-8 (pbk), 978-1-315-23134-1 (ebk)  
+**Author:** Okan Duru  
+**Publisher:** Routledge (Taylor & Francis Group, 2018)  
+**ISBN:** 978-1-138-04336-7 (hbk), 978-1-315-17316-0 (ebk)  
 
-*To Haluk, Kerem, and Kazue for their patience*
+*To my parents, my wife and my son*
 
 ---
 
@@ -142,7 +139,11 @@ Table
 18.1 A generic organization of a shipping company
 88
 
-## Introduction
+## Chapter 1: The Rational Actor Fallacy
+
+*Why do smart people make stupid mistakes?*
+
+Introduction
 
 This state of things was brought about by the large OVER-PRODUCTION OF
 TONNAGE
@@ -285,9 +286,11 @@ statement in 2010, it would still have been such a fresh argument.
 2 Also see the Angier brothers' Freight and Steam Shipping Review dated 1884,
 compiled in Angier (1920).
 
-## Chapter 1: The Fundamentals of Shipping Economics
+## Chapter 2: The Fundamental Metric of Shipping
 
-*Perfections, simplifications, and the big picture*
+*The ton-mile is dead, long live the ton-mile*
+
+Neoclassical economics - Behavioral economics
 
 Supply-demand framework - Seaborne trade
 
@@ -575,9 +578,11 @@ and incentives, and we are often misled. We cannot change this. However, we
 can mitigate this by understanding the hidden forces behind our decisions and
 equipping ourselves with tools and instruments to deal with them.
 
-## Chapter 2: The Story of the Ton-Mile
+## Chapter 3: The Fallacy of Cheap Ships
 
-*Can we really measure demand or supply in the shipping business?*
+*Why cheap ships are not really cheap*
+
+History of economics thought - Ton-mile metric
 
 Supply-demand framework
 
@@ -930,19 +935,9 @@ There is no instrument to gauge its size and impact, and it is actually quite
 cyclical. When freight rates are taken over long-term average, shipowners
 usually fix their fleet easily and ships are very productive. On the other hand,
 
-cargo owners may have difficulty finding shipping space when the entire fleet
-is in a very productive and busy period. That will eventually cause rescheduling of shipments, delays, parcel size changes (getting larger with higher
-freight rates), and so on. During the opposite period of the market, freight
-rates are lower than long-term average, and the size of fleet is typically in
-oversupply cycle. In such circumstances, cargo owners will find tonnage easily,
-while shipowners will have difficulty employing their fleet. That eventually
-reduces productivity of the fleet (longer off-hire periods, slow steaming, layups). In the first example, seaborne trade is a more reliable indicator for
-supply (full capacity), while in the second example, it is better indicator of
-demand. So, it is quite difficult to have a common interpretation of seaborne
-trade volume. In between these opposite periods of the market, there will be
-various forms of demand-supply configurations, which further complicates
-things. The productivity level of a shipping fleet changes through time, and
-estimating its impact in the seaborne trade volume statistics is very uncertain.
+## Chapter 4: The Mystery of Shipping Markets
+
+*A game of thrones: spot vs. period*
 
 The second problem is that the approach pretty much generalizes the demand
 for shipping, and it is implicitly assumed to be a static process. Even Tinbergen
@@ -1023,6 +1018,20 @@ volume for various cargoes has had a steadily increasing trend with no significa
 
 10.00
 
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+
 2014
 
 World Seaborne Coking Coal Trade Million Tonnes
@@ -1048,7 +1057,7 @@ Source: Clarksons Research
 
 2002
 
-**Figure 2.3** World seaborne trade volume for various cargoes
+> **Figure 2.3** World seaborne trade volume for various cargoes
 
 1999
 
@@ -1112,9 +1121,10 @@ group of econometricians have redefined the use of the p-value (Benjamin et al.,
 9 For details of his life story, see Jahrbuch der Schiffbautechnischen Gesellschaft: Band
 11, Springer.
 
-## Chapter 3: Ships vs. Assets
+3
+Ships vs. assets
 
-*Fleet vs. portfolio*
+Fleet vs. portfolio
 
 Shipping investor - "This time it's different"
 
@@ -1150,8 +1160,9 @@ Unexpected events such as war, economic depression, or natural disasters
 affect ship operations and the overall market. However, the frequency of such
 occurrences and ships' relative exposure to such events are not as great as
 
-some people might think. In short, business skill and intelligence play the
-biggest role in success or failure.
+## Chapter 5: The S&P Market Dilemma
+
+*Why do shipowners buy high and sell low?*
 
 The real challenge is minimizing our own emotions. Words impact strongly on
 how we perceive situations and, therefore, what we decide. The very term 'shipowner' has a strong emotional background embedded in its meaning. Instead,
@@ -1338,9 +1349,12 @@ for your exclusive charterers' needs. There are a significant number of companie
 asset play is excluded. While this reduces your business risk, it also limits your
 potential opportunities.
 
-## Chapter 4: Garbage In, Gospel Out
+## Chapter 6: The Psychology of Asset Play
 
-*Fallacy and freakonomics of shipping statistics*
+*When emotions drive multimillion-dollar decisions*
+
+Data quality - Shipping market data
+Self-serving bias - Illusory calculations
 
 Misleading statistics
 
@@ -1567,8 +1581,9 @@ entire data series? Just the last ten years? Some other subset? The recent data
 would be useful in terms of deriving the current levels of the market. On the
 other hand, it may be misleading, since the current market may be an outlier,
 
-like the economic boom of 2003-2008. This is a more complex question than
-most people think.
+## Chapter 7: The Market Timing Myth
+
+*Can anyone really time the market?*
 
 Once, I attempted to calculate the so-called retrospective data setting with
 one of my colleagues. This refers to estimating the optimal length of historical
@@ -1596,9 +1611,10 @@ be skeptical of every data source and to improve your analytical capabilities.
 Every time you read a report, examine the rationale behind what was included and excluded. Best of all, collect and format the data yourself, staying
 aware of your own self-serving and confirmatory biases.
 
-## Chapter 5: Information Asymmetry
+What you know and what you do not know!
 
-*What you know and what you do not know!*
+Short-termism - Adverse selection
+Professional advice - Moral hazard
 
 The neoclassical economic model assumes that actors in the market have all
 available information and that no one benefits from having some extraordinary intelligence. This assumption is the basis for the efficient market
@@ -1743,9 +1759,11 @@ Then, too, there are other sources of asymmetric information, such as this
 book. Just the information about the cognitive biases of shipowners may be
 enough to give you an advantage over your competitors.
 
-## Chapter 6: Emotions
+## Chapter 8: Cycles, Crises, and Bubbles
 
-*Neuroeconomics of the shipping business*
+*Why shipping cycles are here to stay*
+
+Neuroeconomics - Fear and greed
 
 Amygdala - Hormonal factors
 
@@ -1886,9 +1904,10 @@ our minds takes time, energy, dedication, and--most of all--patience.
 
 1 For further discussion, see Lo (2017).
 
-## Chapter 7: Alliance Capitalism
+Solidarity survives
 
-*Solidarity survives*
+Japanese network economy - Keiretsu
+Impatient capital - Industrial organization
 
 Long-term competitiveness
 
@@ -1990,9 +2009,9 @@ search for overseas business deals much more than at any other time in the histo
 Since many Japanese manufacturers have shifted their production facilities to other
 countries, there are some changes in the Japanese shipping industry scene.
 
-## Chapter 8: Cycles
+This time, it's almost the same!
 
-*This time, it's almost the same!*
+Business cycles - Long-term freight index
 
 Centennial decline
 
@@ -2026,9 +2045,8 @@ days or months in libraries). As a result, researchers had new freight rate data
 for analysis. Previously, we only had data from few sources that went back as far as
 the end of the 1800s. Now we have far more data, as you can see from Figure 8.1.
 
-**Figure 8.1** Long-term freight market index (LFI)
-
-Source: Copyright Okan Duru © 2018.
+> **Figure 8.1** Long-term freight market index (LFI)  
+> *Source: Copyright Okan Duru © 2018.*
 
 In 2009, I collected several freight rate data sources and calculated a longterm continuous freight rate index (LFI).2 I knew that the data may not be
 robust due to various technological changes, cargo handling, and pricing
@@ -2077,200 +2095,7 @@ George Bernard Shaw
 
 It is easy to criticize, but it is better to ask the question of why we have not
 collectively learned from history? Why can't we design a sustainable economic
-environment? Why do we always jump and fall? Whether it is a dopamine
-
-50
-0
-
-1822
-
-2017
-
-2015
-
-1820
-
-1818
-
-2013
-
-1816
-
-2011
-
-2009
-
-1814
-
-1812
-
-2007
-
-2005
-
-1810
-
-1808
-
-2003
-
-1806
-
-2001
-
-1999
-
-1804
-
-1802
-
-1997
-
-1800
-
-1995
-
-1798
-
-1993
-
-1796
-
-1991
-
-1989
-
-1794
-
-1792
-
-1987
-
-**Figure 8.2** LFI series for the second half of the 1700s (right scale) and 1900s (left scale)
-
-1790
-
-1985
-
-1788
-
-1983
-
-1786
-
-1981
-
-1979
-
-1784
-
-1782
-
-1977
-
-1780
-
-1975
-
-1778
-
-1973
-
-1776
-
-1971
-
-1969
-
-1774
-
-1772
-
-1967
-
-1965
-
-1770
-
-1963
-
-1768
-
-1766
-
-1961
-
-1764
-
-1959
-
-LFI 1741-1822 (right scale)
-
-1762
-
-1957
-
-1760
-
-1955
-
-LFI 1933-2017 (left scale)
-
-1758
-
-1953
-
-1951
-
-1756
-
-1754
-
-1949
-
-1947
-
-1752
-
-1945
-
-1750
-
-1748
-
-1943
-
-1941
-
-1746
-
-1939
-
-1744
-
-1937
-
-1742
-
-1740
-
-1935
-
-1738
-
-1933
-
-3000
-
-2500
-
-2000
-
-1500
-
-1000
-
-addiction, the love of risk, or something else, no one knows exactly. All we
+environment? Why do we always jump and fall? Whether it is a dopamine addiction, the love of risk, or something else, no one knows exactly. All we
 know is that we have not learned much from the economic history of the
 shipping industry. I should particularly mention the efforts of the International
 Maritime Economic History Association (IMEHA)4 on developing awareness
@@ -2289,9 +2114,10 @@ the causes of the American Revolution and the Napoleonic Wars (1803-1815). See
 Sawers (1992).
 4 Information about the IMEHA is available at www.imeha.net.
 
-## Chapter 9: The Anatomy of a Shipping Crisis
+Dissection of irrational exuberance
 
-*Dissection of irrational exuberance*
+Global trade - Banking system
+Bullwhip effect - Asset play - The shipping casino
 
 Freight derivatives - Wisdom of crowds
 
@@ -2472,7 +2298,7 @@ When it is true time, do not postpone the move
 
 It is not different than before
 
-**Figure 9.1** Rules of shipping asset play
+> **Figure 9.1** Rules of shipping asset play
 
 However, the streak ended and prices came back to grounded reality. The
 pricing bubble popped, which multiplied the effects of the market downturn.
@@ -2517,8 +2343,9 @@ future buyer in the long position and the future seller in the short position),
 who are betting on a price or a level of index. A derivative contract is a zerosum game. There is always a winner and a loser. Derivative markets have
 become popular in the last few decades, and there was a particularly large
 
-increase in the market by the 2000s. According to some estimates, the derivatives market (for both exchange traded and over-the-counter trades)
-reached over one quadrillion U.S. dollars.
+## Chapter 10: The Shipping Mortgage Crisis
+
+*How ship valuation methods rationalized toxic shipping portfolios and ship covered bonds*
 
 How does this apply to the shipping industry? If, for example, as a carrier, I
 bet on the average freight rate of a future period for a Panamax bulk carrier, I
@@ -2605,9 +2432,11 @@ so integrated that they do not know when to move. They wait for their
 cue from the others around them. One single action may result in a mass
 exodus, one way or the other.
 
-## Chapter 10: The Shipping Mortgage Crisis
+How ship valuation methods rationalized
+toxic shipping portfolios and ship covered
+bonds1
 
-*How ship valuation methods rationalized toxic shipping portfolios and ship covered bonds*
+Minimum security value - Subprime mortgage
 
 Value at Risk - Credit rating
 
@@ -2892,13 +2721,11 @@ BOND
 
 Bond Market
 
-**Figure 10.2** Ship mortgage system and ship covered (mortgage-backed) bonds
+> **Figure 10.2** Ship mortgage system and ship covered (mortgage-backed) bonds
 
-number of legislative instruments, such as Basel Accords (e.g. Basel III). Basel
-Accords require some control procedures and risk exposure limits. For example, banks should have a minimum common equity of 7% (Basel III) and
-should review some risk measures, such as the Value at Risk (VaR) indicator.
-In addition to the regulators' stance, independent rating agencies (e.g.
-Moody's) review and rate the credibility of lenders as well as borrowers.
+## Chapter 11: Glaring Tycoons
+
+*Survivorship bias*
 
 A critical connection to shipping loans and common equity arises from the
 'negative equity' debate. When the value of an asset (ship) is less than the
@@ -2983,9 +2810,11 @@ risk assessment. Therefore, we need an outlet for this emerging problem.
 
 1 A version of this chapter was previously published online at The Maritime Executive magazine.
 
-## Chapter 11: Glaring Tycoons
+## Chapter 12: The Fallacy of 'Expertise-Like'
 
-*Survivorship bias*
+*Know-whys*
+
+News illusion - Lack of fail stories Good positioning
 
 The power of the media is amazing. As we discussed earlier, the presentation of
 information and our cognitive awareness are key factors in recognizing, framing, and recording data in our brains. Our relationship with the media is like
@@ -3067,9 +2896,9 @@ The outcome of good positioning may seem like luck, but this devalues the
 decisions made by those leaders before the luck showed up. They are smart
 people in that they know exactly where to stand--and what to stand on.
 
-## Chapter 12: The Fallacy of 'Expertise-Like'
+Know-whys
 
-*Know-whys*
+Level of expertise • Shipping consultants
 
 Know-how vs. know-why
 
@@ -3104,11 +2933,9 @@ authority, private employee, academic, and columnist.
 I wonder what an entrepreneur does in this complicated, expertise-laden
 industry? In fact, a wealth of knowledge may be a real barrier to entry in
 
-shipping. If an industry is technically complex and over-regulated, how will a
-newcomer deal with such enormous problems? The complexity of the technical facet can also lead to deception in the business itself. For instance, if the
-autopilot of your ship is out of order, you have to pay for an expert in marine
-electronics to fix it. Do you know how much it should cost? Do you know
-how long it should take?
+## Chapter 13: Too Big to Fail
+
+*Winner's tragedy*
 
 To become proficient, you would have to spend a couple years, at minimum, learning the dynamics of the business to eliminate your need for others'
 expertise. Thankfully, we have many shipping consultants. Actually, every
@@ -3169,9 +2996,9 @@ point, you may begin to feel that you are becoming an expert like them.
 However, if your expert sees that this wins them your approval or more business,
 then they may begin telling you exactly what you want to hear.
 
-## Chapter 13: Too Big to Fail
+Winner's tragedy
 
-*Winner's tragedy*
+Rationalization - Overconfidence
 
 Mobility - Representation
 
@@ -3201,12 +3028,15 @@ question with simple choices (make your own choice before going forward):
 What percent of investors in the shipping business is over the average
 investor in the industry?
 
-Even though he is not an economist, Daniel Kahneman is known as the
-father of behavioral economics and he has won the Nobel Prize in Economics.
-One of his strengths is that he asks timely questions. The survey question
-above was adopted from one of Kahneman's questions. The answer to this
-question is identical for any context and any example, including the shipping
-business: exactly 50%.
+0-15%
+16-45%
+46-55%
+56-85%
+86-100%
+
+## Chapter 14: About the C-Level Executives
+
+*Get the incentives right*
 
 An average investor is in the middle of the population. Therefore, 50% are
 superior and 50% are inferior. If you estimated over 50%, you are probably
@@ -3274,9 +3104,10 @@ three centuries. Carmen M. Reinhart and Kenneth S. Rogoffrefer to the last
 
 Call it folly, winner's tragedy, or the too-big-to-fail bias--the result is the same.
 
-## Chapter 14: About the C-Level Executives
+Get the incentives right
 
-*Get the incentives right*
+Chief officers - Culture impact
+Perception of Shareholders - Groupthink bias
 
 Alex Ferguson is one of the most memorable personalities in the history of
 soccer. He managed Manchester United for 28 straight years, an unbelievably amazing feat in the world of professional sports. The directors and
@@ -3307,7 +3138,9 @@ mutual success if everybody agrees to it. Therefore, prospering in the
 shipping business is not just the problem of the individual; it is also the
 problem of society.
 
-Our language, our incentives
+## Chapter 15: Spot vs. Period
+
+*Risk vs. loyalty*
 
 Keith Chen is a professor at the University of California who studies behavioral economics. He published an impressive study about the impact of languages on our actions (Chen, 2013). He performed a review of several
 languages, looking particularly at future tenses. According to his research,
@@ -3354,9 +3187,9 @@ may lead to selfishness and impatience. Just being the leader of a shipping
 company, however, is priceless. You may not necessarily need rewards--you
 may just need encouragement and empowerment.
 
-## Chapter 15: Spot vs. Period
+15 Spot vs. period
 
-*Risk vs. loyalty*
+Risk vs. loyalty
 
 Risk-seeking - Dopamine reward system
 
@@ -3538,7 +3371,7 @@ SPOT
 (a) Risk neutral
 (a) Risk taking
 
-**Figure 15.2** Shipping portfolio based on the volume of spot-long positions
+> **Figure 15.2** Shipping portfolio based on the volume of spot-long positions
 
 In a peak market, the shipping investor should define the asset play position for their existing fleet. Some of the fleet will be taken out of the bundle,
 and the remaining vessels should be transferred to long positions. To reduce
@@ -3557,15 +3390,15 @@ keep one-fourth of a portfolio in very long positions and another one-fourth in
 the spot position. The remaining half of the portfolio is the dynamic section
 that can cover long or spot positions accordingly (Figure 15.3).
 
-SPOT
-VERY
-LONG
+## Chapter 16: Too Small to Survive
+
+*Uniqueness vs. size*
 
 static
 dynamic
 LONG & SPOT
 
-**Figure 15.3** Static and dynamic sections of shipping portfolio
+> **Figure 15.3** Static and dynamic sections of shipping portfolio
 
 When market recovery begins, it is time for the move from being risk-neutral
 to being risk-taking (Figure 15.2c). It is not difficult to recognize whether the
@@ -3612,9 +3445,9 @@ on recent data and developments while ignoring the long-term perspective.
 Based on the lessons learned in this chapter, a shipping investor needs three
 fundamental things: capital, knowledge, and a cool head.
 
-## Chapter 16: Too Small to Survive
+Uniqueness vs. size
 
-*Uniqueness vs. size*
+Economy of scale - Economy of scope
 
 Scope-in, scale-out - Cost leadership
 
@@ -3646,12 +3479,9 @@ little snug. But it's cheaper than paying a tailor and it does the job. The
 tailor is in the business of scope, while the factory owner is in the business
 of scale.
 
-In the shipping business, these relate to the two major strategies: pursuing an
-economy of scale vs. one of scope. Before the 1900s, most industries resembled
-the approach of the tailor. After that, with the diesel revolution and other
-developments, the scale economy took over. In the last few decades, though, the
-needs of mankind have become more specialized and complex. This has resulted
-in the development of special services that we call the 'scope economy.'
+## Chapter 17: Seafarers and Outsourcing
+
+*Bundle it!*
 
 The scale economy focuses on volume and the reduction of costs by creating
 large volumes of products. The scope economy focuses on the particular needs of
@@ -3689,7 +3519,7 @@ Differentiation
 
 Market share of firm
 
-**Figure 16.1** Porter's (1980) classification of strategic management
+> **Figure 16.1** Porter's (1980) classification of strategic management
 
 SCOPE
 SCALE
@@ -3697,7 +3527,7 @@ SCALE
 SCOPE-IN
 SCALE-OUT
 
-**Figure 16.2** Shipping portfolio based on the volume of scope-scale positions
+> **Figure 16.2** Shipping portfolio based on the volume of scope-scale positions
 
 In the container shipping business, we have an interconnected business
 design including logistics services and liner shipping services. In the logistics
@@ -3723,9 +3553,12 @@ scale. It does not make sense to be a dry or wet bulk carrier if you only have a
 few ships. This is like being a street peddler: one bad day (i.e. a market crash)
 or an accident (i.e. an on-board malfunction) can wipe out your entire business.
 
-## Chapter 17: Seafarers and Outsourcing
+## Chapter 18: Dashboard
 
-*Bundle it!*
+*Visualizing shipping metrics*
+
+Economy of network - Bundling services
+Third-party ship management - Crew management
 
 What is the biggest headache in the shipping business? You might guess it was the
 swings of a highly volatile market. This is indeed one of the biggest problems.
@@ -3796,9 +3629,10 @@ have strong business ties and a powerful network, you will know that their
 value is priceless. This is what really made shipping giants and shipping
 tycoons--not their ships, but their relationships.
 
-## Chapter 18: Dashboard
+Visualizing shipping metrics
 
-*Visualizing shipping metrics*
+Automated business management - KPIs
+Graphical representation - Visual recognition
 
 We have already discussed the human brain in detail, such as the role of the
 amygdala and its impact on emotions and memory. Now we turn our attention to the hypothalamus. In addition to its other functions, the hypothalamus
@@ -3926,7 +3760,9 @@ Human Resources Management (HRM) (non-onboard employees)
 15.
 Legal Management
 
-**Figure 18.1** Fundamental content of a dashboard
+## Chapter 19: The Age of Artificial Intelligence
+
+*What computational intelligence needs to be*
 
 Based on the priorities of the shipping company, a dashboard should
 visualize critical items and indicators from these departments and their
@@ -3957,7 +3793,7 @@ port state control indicator, and fuel performance. Mid-ship are some financial 
 discharged (D), or sailing (S). 'VIDLE' refers to a charter not yet fixed, as
 opposed to one that is ('VFIXED').
 
-**Figure 18.2** An example of a shipping company dashboard
+> **Figure 18.2** An example of a shipping company dashboard
 
 Figure 18.2 is just an illustration of how a lot of data can be presented
 visually in a concise form. These visuals are related to the interface while the
@@ -3977,9 +3813,11 @@ processes that can even produce messages and alerts for low-ranking staff.
 The C-level executives just review the overall picture and respond to the
 automated signals.
 
-## Chapter 19: The Age of Artificial Intelligence
+What computational intelligence needs
+to be
 
-*What computational intelligence needs to be*
+Knowledge gap - Neo-shipping economicus
+Predictive analytics - Machine learning - Deep learning
 
 An ordinary shipping professional has various questions about buzzwords such
 as digitalization, block chain, artificial intelligence and so on. The so-called
@@ -4139,11 +3977,9 @@ less. A slightly better naïve forecaster just copies trends. If the Panamax tim
 charter rate was $10,000 yesterday, today's price corresponds to a 10%
 increase, and the naïve forecaster will expect $12,100 ($11,000 plus 10% of
 
-$11,000) for tomorrow. The naïve forecaster always follows this basic principle. At the end of the day, the naïve forecaster only fails in determining
-turning points! During the rest of the time, predictions are always more or
-less accurate; at least their direction is right. Now consider providers of
-market predictions for the shipping industry: how many of them really do
-better than a naïve forecaster?
+## Chapter 20: Lenders' Stimulus
+
+*Even bankers can be misled*
 
 The naïve forecaster test is a powerful instrument to spot a predictive liar of
 any kind (not only in machine learning). Any predictive analysis must be better
@@ -4203,9 +4039,10 @@ watch-keeping officers.
 3 For example, time-frequency representations can be used to extract the perfect
 curve, fitting data completely.
 
-## Chapter 20: Lenders' Stimulus
+Even bankers can be misled
 
-*Even bankers can be misled*
+Ship finance - Shipping banks
+Adverse motivations - Confirmation bias
 
 Financial symbols, particularly the ones representing money itself, prime our
 selfish motives, as behavioral economics and neuroeconomics have found. The
@@ -4239,12 +4076,9 @@ deal with globally mobile vehicles and their related offshore companies. Here,
 the tangible assets are less important than the intangible ones: profession,
 reputation, and a good sense of the dynamics of the shipping business.
 
-There are many good stories--as well as bad ones--in shipping finance.
-Take foreclosures, for instance. Taking money back is sensitive work. When it
-comes to our industry, we have two safeguards: collateral (e.g. ships, other
-assets) and monitoring tools (e.g. liquidity, minimum value, debt-to-hull ratio).
-Conventional banks cannot handle managing a ship after a foreclosure, properly valuing shipping assets, or the high level of mobility. However, shipping
-banks or banks with specialized shipping departments can.
+## Chapter 21: The Magic of the Discount Factor
+
+*Temporal myopia and hyperbolic discounting*
 
 In the last few decades, shipping finance has become more sophisticated.
 Monitoring shipping loans is easier with expertise. There are more intermediaries facilitating ship financing. Newcomers to the industry in particular
@@ -4292,9 +4126,11 @@ to the shipowner that, yes, they are making a good decision--why else would
 the bank lend them money? Just remember: thinking critically about long-term
 success is the responsibility of the shipowner, not their banker.
 
-## Chapter 21: The Magic of the Discount Factor
+Temporal myopia and hyperbolic
+discounting
 
-*Temporal myopia and hyperbolic discounting*
+Discounted cash flow - Forecasting
+Temporal myopia - Time assumption - Hyperbolic discounting
 
 In the history of mankind, a piece of paper could not change one's life so much
 as money could. Ironically, there is nothing behind the value of money today.
@@ -4326,8 +4162,9 @@ sporadic event, global crisis, and political debate is linked to him and his
 predictions of the future. Today, dealing with the future is a scientific field.
 Forecasting is popular in terms of financial, economic, social, and even political purposes. For instance, several studies dealing with the U.S. presidential
 
-elections have shown that body language, word choice, slogans, and so on can
-be indicative of future victory.
+## Chapter 22: Credit Engineering
+
+*Misleading habits*
 
 In finance, forecasting is usually achieved through econometrics or time
 series analyses. State-of-the-art software exists that can estimate models and
@@ -4378,7 +4215,7 @@ Out of Sample
 
 Image of Future
 
-**Figure 21.1** Definition of the out-of-sample period in historical data
+> **Figure 21.1** Definition of the out-of-sample period in historical data
 
 size-up). For example, a threshold of return on equity (ROE) could be useful
 in their future assessments.
@@ -4416,15 +4253,47 @@ and other unexpected operations events. When spreadsheets look perfect, they
 are self-serving and confirmatory instruments that just rationalize our intentions. It does not show what we should be looking for. In addition, if our
 actions are not based on the plan, then the spreadsheets are worth nothing.
 
-A
-B
+140
+
+25
 
 A
 B
+
+20
+
+A
+B
+
+120
+
+15
 
 NetCashFlow
 
+100
+
 NPV
+
+10
+
+80
+
+5
+
+60
+
+0
+
+1
+
+2
+3
+4
+5
+6
+7
+8
 
 9 10 11 12 13 14 15
 
@@ -4445,13 +4314,14 @@ Year
 (a)
 (b)
 
-**Figure 21.2** The net cash flow diagram of project A and project B (a) and their NPV
+> **Figure 21.2** The net cash flow diagram of project A and project B (a) and their NPV
 
 results (b)
 
-## Chapter 22: Credit Engineering
+Misleading habits
 
-*Misleading habits*
+Liquidity engineering - Lending push
+Probability engineering - Liquidity cycle
 
 I have learned many lessons from grocery shopping. Akerlof's (1978) "markets for lemons" is not the only a simple example of the tricky world of economics. There are many other misleading practices. Like many other people, I
 like apples--especially red, shiny ones. However, you may have noticed that
@@ -4573,7 +4443,7 @@ May-05
 Sep-05
 Jan-06
 
-**Figure 22.1** Liquidity engineering through interest rate reduction
+> **Figure 22.1** Liquidity engineering through interest rate reduction
 
 May-04
 Sep-04
@@ -4655,14 +4525,13 @@ Sample A
 
 Sample B
 
-**Figure 22.2** Subjectivity in sample selection for risk assessment
+> **Figure 22.2** Subjectivity in sample selection for risk assessment
 
-Ignoring the tricky particulars of such methods causes risky transactions.
-From another perspective, such methods can produce excuses for improper
-risk assessment. It is not that experts execute these analyses improperly so
-much as the conventionally accepted methods work improperly. There is a
+## Chapter 23: Risk vs. Uncertainty
 
-**Figure 22.3** Cycles of liquidity, mood, and risk
+*Swine flu and shipping*
+
+> **Figure 22.3** Cycles of liquidity, mood, and risk
 
 simple reason for failure: since experts want a good outcome, the method
 delivers it. Have you ever read How to Lie with Statistics by Darrell Huff? In
@@ -4701,9 +4570,9 @@ waiting for the turning point is probably not a good strategy.
 
 1 Further details may be found at https://en.wikipedia.org/wiki/Libor_scandal.
 
-## Chapter 23: Risk vs. Uncertainty
+23 Risk vs. uncertainty
 
-*Swine flu and shipping*
+Swine flu and shipping
 
 Risk perception • Liquidity risk
 Monte Carlo simulations • Subjectivity of
@@ -4922,16 +4791,7 @@ results are preferred at the expense of long-term loss.
 
 The term 'Monte Carlo simulation' is frequently used to explain a simulation based on probability distributions of various data sets (e.g. revenues and
 
-costs). The basic difference between regular simulations and a Monte Carlo is
-the stochastic process that makes it somewhat subjective. Let me clarify this
-with an example. In fair-weather conditions, we may estimate the impact of a
-ship's propeller at a particular turning speed. Since engineers know the physical dynamics of seawater as well as those of the propeller, they can develop
-computer simulations to see the impact of the propeller without actually
-building it. The inputs, outputs, and environment for processing can be formulated and calculated precisely. The system works with the same principles
-that result in the same outputs. This is a deterministic simulation in contrast
-to a stochastic one. In the business environment, human action creates complexity and sometimes makes the outcome difficult to predict. Stochastic
-financial simulations use the gambling metaphor to illustrate uncertainty,
-complexity, and unpredictability.
+## Concluding Remarks
 
 We need a series of subjective selections of assumptions, prediction methods, inputs, and even data characteristics in a Monte Carlo simulation.
 Although the simulation is preferred, in the first place, over the judgmental
@@ -4999,7 +4859,9 @@ investor, then completely ignore the reasonable scenario and just focus on the
 others. If you are confident about surviving in a recessionary period, you will
 not regret going into the shipping business.
 
-## Concluding Remarks
+## Appendix: Cognitive Bias and Logical Fallacy
+
+*Do not trust yourself much*
 
 Time is probably much more valuable now than in any other period of history. The advent of new technologies, particularly in communication and
 sharing knowledge, has created an ecosystem where only professionals using
@@ -5063,9 +4925,7 @@ book may address those issues.
 
 1 http://news.bbc.co.uk/2/hi/business/8589042.stm, retrieved on April 15, 2018.
 
-## Appendix: Cognitive Bias and Logical Fallacy
-
-*Do not trust yourself much*
+Appendix
 
 Cognitive bias and logical fallacy
 
@@ -5145,7 +5005,7 @@ Repetitive victories and successful business deals can be found throughout
 both market recoveries and peaks. Consecutive victories contribute to overconfidence and the optimism bias. This phenomenon is called the winner's
 tragedy or winner's effect.
 
-Anchoring
+## References
 
 People sometimes overvalue a piece of information when making their decision. They anchor their perspective on one trait and overlook other, contradictory sources of information.
 
@@ -5192,7 +5052,7 @@ Others feel compelled to believe a statement is correct because it appeals to
 their emotions. That is, manipulative instruments are used to validate a
 statement without logical proof.
 
-## References
+References
 
 Adland, R. and Koekebakker, S., 2004. 'Market efficiency in the second-hand market
 
@@ -5405,492 +5265,434 @@ Yasuba, Y., 1978. 'Freight rates and productivity in ocean transportation for Ja
 
 ## Index
 
-Bergius, E. C. 14-15, 18
-Bernays, E. 2
-Bertrand Russel chicken 23
-black box solution 93
-blink 39
-bonds 56-7, 59, 61
-brain 37
-Bretton Woods 100
-British Navigation Acts 24,
-
-action-knowledge 11
-agreed demand 6
-AIS (Automatic Identification System)
-
-8, 93
-Akerlof, G.A. 25
-algorithmic trading 93
-alliance capitalism 41
-American Statistical Association (ASA)
-
-21n8
-anchoring effect 28
-Angier, E.A.V. 1, 4n2
-arbitrage 26, 51
-artificial intelligence 92-3
-asset management 22-6; failures in 86-7;
-
-46, 48n3
-bullwhip effect 51
-business cycle model 44
-Business Insider Australia 57
-business sustainability 69
-
-policy 78
-asset operations 22
-asset play 9-10; asymmetric information
-
-capital expenses (CAPEX) 31
-CEOs, as shareholders 73-4
-Chang, H.-J. 35
-Charemza, W. 19
-charterers, collaboration with 42-3
-Chen, K. 73
-chicken's inductive reasoning 23
-cobweb theory 60
-collateral 57
-collateralized debt obligations (CDOs) 50
-commission-based payments 117
-common equity 62
-competitiveness 12
-compromise 77-9
-computational skills 91-2
-computer intelligence 92-3
-confirmation bias 68, 99
-consultants 66-7
-courses 35-6
-credit crunch 56
-credit default swap buyers 63
-credit swaps 50
-crowds, wisdom of 55
-cultures, short-term and long-term 73
-
-34-5; drunk with dreams of 51-3;
-rules of 52
-asset value 57, 61
-asymmetric information 34-5, 68
-authority bias 68
-automated business management (ABM)
-
-system 90
-autonomic nervous system (ANS) 86
-
-Baal rating 56-7
-Baltic Exchange 9
-banking systems 49-50, 60-3, 79
-bareboat charter party 25
-Basel Accords 50, 62
-Bayesian probability 106
-Beenstock, M. 19
-Beenstock-Vergottis model 19
-behavioral economics: action-knowledge
-
-11; anchoring effect 28; business sustainability 69-70; as checkpoint 5-6;
-endowment effect 23; language 73;
-moral hazard 34
-
-curve-fitting 95
-customer care 77
-cycle of cycles 44-8
-
-European Central Bank (ECB) 63
-experts 66-8
-
-facilitating agents 98
-failures, hidden data 64-5
-feasibility, producing 104-6
-feasibility studies 100
-Federal Housing Administration 58
-Ferguson, A. 72
-Financial Conduct Authority (FCA) 104
-financial crises 46, 49,
-
-dashboards: content of 89; example 90;
-
-priority and scope 88-90; usefulness of
-87-8
-data collection 93
-data quality: asymmetry 34; fixtures
-
-28-9; investment appraisals 30-2;
-overview 27-8, 116
-data representation 87-8
-debt: see loans
-decision-makers 2-3
-deep learning 93
-delayed supply response 60
-demand: bullwhip effect 51; dynamics of
-
-53-4, 56;
-see also shipping crises
-financial engineering firms 93
-financial management 88-90; self-serving
-
-simulations 113-14
-Financial Services Authority 117
-fixtures 28-9
-flag wavers 22
-flagging out 31
-fleet capacity 12
-fleet management 88-90
-FOC-friendly countries 31
-forecasting 21, 93-6, 100-1, 117
-foreclosures 50, 58, 62-3, 98
-Forrester, J. 44
-forward freight agreements
-
-6-7; inelastic 17; measurement debate
-13-14, 116
-Demyanyk, Y. 56
-depreciation 31
-derivative markets 53-5
-director motives 33-4
-discounted cash flow analysis (DCF):
-
-HSVS 62-3; interest rates and 103-4;
-market conditions 52; project
-valuation 101-2
-dopamine addiction 38
-Duru, O. 19
-DWT (deadweight tonnage) 17
-Dynasties of the Sea (LaRocco) 65, 69
-
-(FFAs) 54
-Freight and Steam Shipping Review
-
-(Angier) 4n2
-freight indices 9
-freight market 9-10; chicken's inductive
-
-reasoning 23; derivative markets 53-5;
-dimensions of risk 111; dopamine
-addiction 38; liquidity, mood and risk
-108; long-term 45; spot vs. period 78;
-tramp 19
-freight rates 12, 13, 17-18; cycles in 24,
-
-earnings before interest, taxes,
-
-depreciation, and amortization
-(EBITDA) 31
-earnings before tax and depreciation
-
-(EBTD) 31
-econometrics 17, 18-19, 21, 39, 92-3, 95
-economic crises 2-3
-economics: fundamental hypotheses
-
-44-8
-future, science of 100-1
-
-12-13; history of 12-13, 19; predictive
-power 21; theories 1-2; see also
-behavioral economics
-Economics: The User's Guide
-
-gambling 53-5
-George, R. 6
-Gerlach, M. L. 41
-German shipping lenders 63
-Gladwell, M. 39
-Glen, D. 19
-global economy 49-50
-global loan market 56-7
-good positioning 65
-Great Recession 2-3
-greed and fear 24-5
-Gronicki, M. 19
-groupthink bias 73
-
-(Chang) 35
-economies of scale 81-3
-economies of scope 81-3
-efficiency 12
-efficient market hypothesis 33
-emotions 38-40
-empathy 42-3
-endowment effect 23
-Erikson, E.I. 17
-ethics 34, 117
-
-Hamburg Ship Valuation Standard
-
-lifespan 8
-liquidity: cycles in 107, 108; engineering
-
-(HSVS) 62-3
-Hamburg Valuation 57
-happiness 53
-herd mentality 55
-heterodox economics 11
-historical peak 23-4
-Holt-Winters exponential smoothing 95
-How to Lie with Statistics (Huff) 108
-HSH Nordbank 56-7, 63
-Huff, D. 108
-human resource management 72, 88-90
-hypothalamus 86
-
-104-6; liquidity risk 112-13; liquidity
-trap 60-3, 105; mood and risk 108
-Lo, A. 37-8
-loans: liquidity trap 60-3; meltdown
-
-56-8; shipping crises 50-1
-London InterBank Offer Rate (LIBOR)
-
-103-4
-long-term asset value (LTAV) 62-3
-long-term freight rate index (LFI) 44-6,
-
-45, 47, 48n2
-long vs. spot 75-80
-lookout systems 93
-Lorange, P. 77-8
-Louis-Dreyfus, P. 60-1
-luck 65
-
-in-use period 8
-incentives 73-4
-inertia bias 79-80
-institutional economics 46
-Intelligent Model Search Engine
-
-machine learning 93-4
-mark-to-market valuation 62
-mark-to-model valuation 62
-market bubbles 23, 39
-market for lemons 24-5
-market reports 27-8
-marketing, effectiveness of 2
-Martin, B. 19
-media power 64
-Metaxas, B.N. 19
-minimum value mechanism 62
-Mitsubishi Group 41-2
-Mitsui Group 41-2
-MOL 42, 43
-monetary policy instruments 104
-monitoring 73-4
-monitoring and control systems 87-8
-Monte Carlo simulation 113-14
-Moody's Investors Service 56-7
-moral hazard 34
-mortgage loan system 58-63
-Munshi, J. 21
-
-(IMSE) 96
-interest rate reduction 105
-interest rates 31, 60
-International Institute of Forecasters 92
-International Maritime Economic
-
-History Association (IMEHA) 48
-International Monetary Fund (IMF) 63
-investment appraisals 30-2
-investors 22-6
-irrationality 10-11
-
-Japan: empathy 42-3; human resource
-
-management 72; as product of
-shipping 41-2; shareholder
-networks 42
-job-based contracts 67
-Journal of the Society for Arts
-
-(Bergius) 14
-
-K-Line 42, 43
-Kahneman, D. 39, 70
-Kawasaki Group 42
-keiretsu groups 42
-Kelvin Marine Engines 14-15
-know-why 67
-knowledge gap 91-2
-Koopmans, T. C. 19
-KPIs 90
-
-naïve forecaster fallacy 94-5, 117
-negative equity 62
-neoclassical economics 5-6, 11, 33
-neoshipping economicus (NSE) 91
-net cash flow 102
-net present value analysis 101-2, 102
-neuroeconomics 10-11, 37-9
-neurofinance 10-11
-neuromarketing 10-11, 38
-neuroscience 11, 37-8, 64
-new building market 10, 29-30
-Ninety Percent of Everything (George) 6
-non-asset investment 26
-
-languages 73
-LaRocco, L. A. 65, 69
-Laverty, K.J. 102
-legal management 88-90
-Lehman Brothers 59
-leverage ratio 50
-
-North, D. 24
-The Number That Killed Us (Triana) 62
-NYK 42, 43
-
-S&P market 25
-sale and purchase market 9-10
-Schiffspfandbriefe 63
-scope and scale 81-3
-scrap market 10
-scrap metal 8
-The Sea and Civilization (Paine) 12
-seaborne trade volume 6-7, 12, 17; world
-
-Ocean Network Express (ONE) 43
-operating expenses (OPEX) 31
-optimal speed 7-8
-optimistic pessimism 115
-order book volumes 23
-out-of-sample period 101
-outsourcing 84-5
-over-the-counter (OTC) market 54
-
-volumes 20
-seafarers 84
-second-hand market: see S&P market
-security bonds 57, 98
-service industry comparison 13-14
-Shaw, G. B. 46
-ship management contracts 25
-ship types 82-3
-ship valuation 56-8, 62
-shipowners, nature of 69-70
-shipping boom 60
-shipping casino vs. hedging the risk 53-5
-shipping company organization 88
-shipping crises: asset play 51-3; bullwhip
-
-Paine, L. 12
-parcel sizes 18
-passenger-mile 16
-period freight rate 12
-Pfandbriefe 56-7, 63
-pink adjustments 29
-Porter's classification 82
-portfolios: overview 25-6; risk reduction
-
-77-9; scope-scale positions 83; ship
-types 82-3; static and dynamic 79
-predictive analytics 93-6
-predictive power 21
-price cycles 23-4
-prime mortgage system 58
-priming effect 38
-probability engineering 106-8
-professional advisors 35
-prospective demand 6
-
-effect 51; casino vs. hedging the risk
-53-5; global link 49-50; loans 50-1;
-mortgage crisis 60-3; wisdom of
-crowds 55
-shipping finance 97-9
-shipping markets 9-11
-shipping pool strategy 26
-Shipping Strategy (Lorange) 77-8
-short-term thinking 86-7
-short-termism 33-4
-snapshots 87-8
-speed 7-8
-spot trading, vs. long 75-80
-spreadsheets 101-2
-status quo bias 79-80
-stockholders, managers as 73-4
-Stopford, M. 17
-strategic management classification
-
-rational actors 1-3, 6, 38-9
-rationalization 69
-recency bias 110
-registration 25, 31
-Reinhart, C. M. 46, 71
-repossession: see foreclosures
-retrospective data 32
-risk assessment: liquidity risk 112-13;
-
-82, 83
-sub-markets 9-10
-subprime mortgage crisis 53-4, 56-60
-super play 52
-supply: bullwhip effect 51; dynamics of
-
-optimistic pessimism 115; sample
-selection 106
-risk, dimensions of 111
-risk lovers 75-6
-risk management 25-6, 50, 73
-risk neutral position 78
-risk perception 109-11
-risk reducers 76-9
-risk reduction position 78
-risk-seeking 38
-risk taking position 78
-risk, uncertainty and 114-15
-Rogoff, K. S. 46, 71
-Roosevelt, F. D. 37
-
-7-8; inelastic 12; measurement debate
-13-14, 116
-supply-chain management 51
-survivorship bias 64-5
-swine flu 109-10
-
-taxes 31
-third-party ship management (TPSM)
-
-84-5
-
-unit of transportation 16
-unknown future 32
-U.S. Federal Reserve 104
-
-time charter equivalents (TCEs) 29, 31
-time horizons 31
-time series analysis 92, 101
-Tinbergen, J. 17, 18-19, 92
-ton-mile: adoption of 18-21; challenges
-
-Value at Risk (VaR)
-
-of 17-18; cost and performance 15; vs.
-DWT 17; history and rationale 14-17;
-overview 13; precision of 6
-Ton-Mile Cost (Woodlock) 16-17
-"Tonnage and Freight" (Tinbergen) 17
-trading policy 78
-transportation, unit of 16
-Triana, P. 62
-turning point 79-80
-Tvedt, J. 19
-
-indicator 62
-Van Hemert, O. 56
-Vergottis, A. 19
-very long contracts 78-9
-visualization units 88
-
-Walras, L. 13
-Walter C. Bergius & Co 16
-winner's tragedy 70-1
-Woodlock, T. F.
-
-16-17
-working capital analysis 113
-
-uncertainty 114-15
-"Understanding the subprime mortgage
-
-crisis" (Demyanyk) 56
-
-Yoshida, S. 19
+### A
+
+- action-knowledge 11
+- agreed demand 6
+- AIS (Automatic Identification System) 8, 93
+- Akerlof, G.A. 25
+- algorithmic trading 93
+- alliance capitalism 41
+- American Statistical Association (ASA) 21n8
+- anchoring effect 28
+- Angier, E.A.V. 1, 4n2
+- arbitrage 26, 51
+- artificial intelligence 92-3
+- asset management 22-6; failures in 86-7; policy 78
+- asset operations 22
+- asset play 9-10; asymmetric information 34-5; drunk with dreams of 51-3; rules of 52
+- asset value 57, 61
+- asymmetric information 34-5, 68
+- authority bias 68
+- automated business management (ABM) system 90
+- autonomic nervous system (ANS) 86
+
+### B
+
+- Baal rating 56-7
+- Baltic Exchange 9
+- banking systems 49-50, 60-3, 79
+- bareboat charter party 25
+- Basel Accords 50, 62
+- Bayesian probability 106
+- Beenstock, M. 19
+- Beenstock-Vergottis model 19
+- behavioral economics: action-knowledge 11; anchoring effect 28; business sustainability 69-70; as checkpoint 5-6; endowment effect 23; language 73; moral hazard 34
+- Bergius, E. C. 14-15, 18
+- Bernays, E. 2
+- Bertrand Russel chicken 23
+- black box solution 93
+- blink 39
+- bonds 56-7, 59, 61
+- brain 37
+- Bretton Woods 100
+- British Navigation Acts 24, 46, 48n3
+- bullwhip effect 51
+- business cycle model 44
+- Business Insider Australia 57
+- business sustainability 69
+
+### C
+
+- capital expenses (CAPEX) 31
+- CEOs, as shareholders 73-4
+- Chang, H.-J. 35
+- Charemza, W. 19
+- charterers, collaboration with 42-3
+- Chen, K. 73
+- chicken's inductive reasoning 23
+- cobweb theory 60
+- collateral 57
+- collateralized debt obligations (CDOs) 50
+- commission-based payments 117
+- common equity 62
+- competitiveness 12
+- compromise 77-9
+- computational skills 91-2
+- computer intelligence 92-3
+- confirmation bias 68, 99
+- consultants 66-7
+- courses 35-6
+- credit crunch 56
+- credit default swap buyers 63
+- credit swaps 50
+- crowds, wisdom of 55
+- cultures, short-term and long-term 73
+- curve-fitting 95
+- customer care 77
+- cycle of cycles 44-8
+
+### D
+
+- dashboards: content of 89; example 90; priority and scope 88-90; usefulness of 87-8
+- data collection 93
+- data quality: asymmetry 34; fixtures 28-9; investment appraisals 30-2; overview 27-8, 116
+- data representation 87-8
+- debt: see loans
+- decision-makers 2-3
+- deep learning 93
+- delayed supply response 60
+- demand: bullwhip effect 51; dynamics of 6-7; inelastic 17; measurement debate 13-14, 116
+- Demyanyk, Y. 56
+- depreciation 31
+- derivative markets 53-5
+- director motives 33-4
+- discounted cash flow analysis (DCF): HSVS 62-3; interest rates and 103-4; market conditions 52; project valuation 101-2
+- dopamine addiction 38
+- Duru, O. 19
+- DWT (deadweight tonnage) 17
+- Dynasties of the Sea (LaRocco) 65, 69
+
+### E
+
+- earnings before interest, taxes, depreciation, and amortization (EBITDA) 31
+- earnings before tax and depreciation (EBTD) 31
+- econometrics 17, 18-19, 21, 39, 92-3, 95
+- economic crises 2-3
+- economics: fundamental hypotheses 12-13; history of 12-13, 19; predictive power 21; theories 1-2; see also behavioral economics
+- Economics: The User's Guide (Chang) 35
+- economies of scale 81-3
+- economies of scope 81-3
+- efficiency 12
+- efficient market hypothesis 33
+- emotions 38-40
+- empathy 42-3
+- endowment effect 23
+- Erikson, E.I. 17
+- ethics 34, 117
+- European Central Bank (ECB) 63
+- experts 66-8
+
+### F
+
+- facilitating agents 98
+- failures, hidden data 64-5
+- feasibility, producing 104-6
+- feasibility studies 100
+- Federal Housing Administration 58
+- Ferguson, A. 72
+- Financial Conduct Authority (FCA) 104
+- financial crises 46, 49, 53-4, 56; see also shipping crises
+- financial engineering firms 93
+- financial management 88-90; self-serving simulations 113-14
+- Financial Services Authority 117
+- fixtures 28-9
+- flag wavers 22
+- flagging out 31
+- fleet capacity 12
+- fleet management 88-90
+- FOC-friendly countries 31
+- forecasting 21, 93-6, 100-1, 117
+- foreclosures 50, 58, 62-3, 98
+- Forrester, J. 44
+- forward freight agreements (FFAs) 54
+- Freight and Steam Shipping Review (Angier) 4n2
+- freight indices 9
+- freight market 9-10; chicken's inductive reasoning 23; derivative markets 53-5; dimensions of risk 111; dopamine addiction 38; liquidity, mood and risk 108; long-term 45; spot vs. period 78; tramp 19
+- freight rates 12, 13, 17-18; cycles in 24, 44-8
+- future, science of 100-1
+
+### G
+
+- gambling 53-5
+- George, R. 6
+- Gerlach, M. L. 41
+- German shipping lenders 63
+- Gladwell, M. 39
+- Glen, D. 19
+- global economy 49-50
+- global loan market 56-7
+- good positioning 65
+- Great Recession 2-3
+- greed and fear 24-5
+- Gronicki, M. 19
+- groupthink bias 73
+
+### H
+
+- Hamburg Ship Valuation Standard (HSVS) 62-3
+- Hamburg Valuation 57
+- happiness 53
+- herd mentality 55
+- heterodox economics 11
+- historical peak 23-4
+- Holt-Winters exponential smoothing 95
+- How to Lie with Statistics (Huff) 108
+- HSH Nordbank 56-7, 63
+- Huff, D. 108
+- human resource management 72, 88-90
+- hypothalamus 86
+
+### I
+
+- in-use period 8
+- incentives 73-4
+- inertia bias 79-80
+- institutional economics 46
+- Intelligent Model Search Engine (IMSE) 96
+- interest rate reduction 105
+- interest rates 31, 60
+- International Institute of Forecasters 92
+- International Maritime Economic History Association (IMEHA) 48
+- International Monetary Fund (IMF) 63
+- investment appraisals 30-2
+- investors 22-6
+- irrationality 10-11
+
+### J
+
+- Japan: empathy 42-3; human resource management 72; as product of shipping 41-2; shareholder networks 42
+- job-based contracts 67
+- Journal of the Society for Arts (Bergius) 14
+
+### K
+
+- K-Line 42, 43
+- Kahneman, D. 39, 70
+- Kawasaki Group 42
+- keiretsu groups 42
+- Kelvin Marine Engines 14-15
+- know-why 67
+- knowledge gap 91-2
+- Koopmans, T. C. 19
+- KPIs 90
+
+### L
+
+- languages 73
+- LaRocco, L. A. 65, 69
+- Laverty, K.J. 102
+- legal management 88-90
+- Lehman Brothers 59
+- leverage ratio 50
+- lifespan 8
+- liquidity: cycles in 107, 108; engineering 104-6; liquidity risk 112-13; liquidity trap 60-3, 105; mood and risk 108
+- Lo, A. 37-8
+- loans: liquidity trap 60-3; meltdown 56-8; shipping crises 50-1
+- London InterBank Offer Rate (LIBOR) 103-4
+- long-term asset value (LTAV) 62-3
+- long-term freight rate index (LFI) 44-6, 45, 47, 48n2
+- long vs. spot 75-80
+- lookout systems 93
+- Lorange, P. 77-8
+- Louis-Dreyfus, P. 60-1
+- luck 65
+
+### M
+
+- machine learning 93-4
+- mark-to-market valuation 62
+- mark-to-model valuation 62
+- market bubbles 23, 39
+- market for lemons 24-5
+- market reports 27-8
+- marketing, effectiveness of 2
+- Martin, B. 19
+- media power 64
+- Metaxas, B.N. 19
+- minimum value mechanism 62
+- Mitsubishi Group 41-2
+- Mitsui Group 41-2
+- MOL 42, 43
+- monetary policy instruments 104
+- monitoring 73-4
+- monitoring and control systems 87-8
+- Monte Carlo simulation 113-14
+- Moody's Investors Service 56-7
+- moral hazard 34
+- mortgage loan system 58-63
+- Munshi, J. 21
+
+### N
+
+- naïve forecaster fallacy 94-5, 117
+- negative equity 62
+- neoclassical economics 5-6, 11, 33
+- neoshipping economicus (NSE) 91
+- net cash flow 102
+- net present value analysis 101-2, 102
+- neuroeconomics 10-11, 37-9
+- neurofinance 10-11
+- neuromarketing 10-11, 38
+- neuroscience 11, 37-8, 64
+- new building market 10, 29-30
+- Ninety Percent of Everything (George) 6
+- non-asset investment 26
+- North, D. 24
+
+### T
+
+- The Number That Killed Us (Triana) 62
+
+### N
+
+- NYK 42, 43
+
+### O
+
+- Ocean Network Express (ONE) 43
+- operating expenses (OPEX) 31
+- optimal speed 7-8
+- optimistic pessimism 115
+- order book volumes 23
+- out-of-sample period 101
+- outsourcing 84-5
+- over-the-counter (OTC) market 54
+
+### P
+
+- Paine, L. 12
+- parcel sizes 18
+- passenger-mile 16
+- period freight rate 12
+- Pfandbriefe 56-7, 63
+- pink adjustments 29
+- Porter's classification 82
+- portfolios: overview 25-6; risk reduction 77-9; scope-scale positions 83; ship types 82-3; static and dynamic 79
+- predictive analytics 93-6
+- predictive power 21
+- price cycles 23-4
+- prime mortgage system 58
+- priming effect 38
+- probability engineering 106-8
+- professional advisors 35
+- prospective demand 6
+
+### R
+
+- rational actors 1-3, 6, 38-9
+- rationalization 69
+- recency bias 110
+- registration 25, 31
+- Reinhart, C. M. 46, 71
+- repossession: see foreclosures
+- retrospective data 32
+- risk assessment: liquidity risk 112-13; optimistic pessimism 115; sample selection 106
+- risk, dimensions of 111
+- risk lovers 75-6
+- risk management 25-6, 50, 73
+- risk neutral position 78
+- risk perception 109-11
+- risk reducers 76-9
+- risk reduction position 78
+- risk-seeking 38
+- risk taking position 78
+- risk, uncertainty and 114-15
+- Rogoff, K. S. 46, 71
+- Roosevelt, F. D. 37
+
+### S
+
+- S&P market 25
+- sale and purchase market 9-10
+- Schiffspfandbriefe 63
+- scope and scale 81-3
+- scrap market 10
+- scrap metal 8
+
+### T
+
+- The Sea and Civilization (Paine) 12
+
+### S
+
+- seaborne trade volume 6-7, 12, 17; world volumes 20
+- seafarers 84
+- second-hand market: see S&P market
+- security bonds 57, 98
+- service industry comparison 13-14
+- Shaw, G. B. 46
+- ship management contracts 25
+- ship types 82-3
+- ship valuation 56-8, 62
+- shipowners, nature of 69-70
+- shipping boom 60
+- shipping casino vs. hedging the risk 53-5
+- shipping company organization 88
+- shipping crises: asset play 51-3; bullwhip effect 51; casino vs. hedging the risk 53-5; global link 49-50; loans 50-1; mortgage crisis 60-3; wisdom of crowds 55
+- shipping finance 97-9
+- shipping markets 9-11
+- shipping pool strategy 26
+- Shipping Strategy (Lorange) 77-8
+- short-term thinking 86-7
+- short-termism 33-4
+- snapshots 87-8
+- speed 7-8
+- spot trading, vs. long 75-80
+- spreadsheets 101-2
+- status quo bias 79-80
+- stockholders, managers as 73-4
+- Stopford, M. 17
+- strategic management classification 82, 83
+- sub-markets 9-10
+- subprime mortgage crisis 53-4, 56-60
+- super play 52
+- supply: bullwhip effect 51; dynamics of 7-8; inelastic 12; measurement debate 13-14, 116
+- supply-chain management 51
+- survivorship bias 64-5
+- swine flu 109-10
+
+### T
+
+- taxes 31
+- third-party ship management (TPSM) 84-5
+- time charter equivalents (TCEs) 29, 31
+- time horizons 31
+- time series analysis 92, 101
+- Tinbergen, J. 17, 18-19, 92
+- ton-mile: adoption of 18-21; challenges of 17-18; cost and performance 15; vs. DWT 17; history and rationale 14-17; overview 13; precision of 6
+- Ton-Mile Cost (Woodlock) 16-17
+- "Tonnage and Freight" (Tinbergen) 17
+- trading policy 78
+- transportation, unit of 16
+- Triana, P. 62
+- turning point 79-80
+- Tvedt, J. 19
+
+### U
+
+- uncertainty 114-15
+- "Understanding the subprime mortgage crisis" (Demyanyk) 56
+- unit of transportation 16
+- unknown future 32
+- U.S. Federal Reserve 104
+
+### V
+
+- Value at Risk (VaR) indicator 62
+- Van Hemert, O. 56
+- Vergottis, A. 19
+- very long contracts 78-9
+- visualization units 88
+
+### W
+
+- Walras, L. 13
+- Walter C. Bergius & Co 16
+- winner's tragedy 70-1
+- Woodlock, T. F. 16-17
+- working capital analysis 113
+
+### Y
+
+- Yoshida, S. 19
