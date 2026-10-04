@@ -1,3 +1,28 @@
+**THIS RUN (2026-10-04 20:0x, source-by-source, 30m job) - LION DEDUP FIX CLOSED OUT: the parquet writer's latent double-count fixed, deliverables re-verified, code committed. Evidence `docs/lion_regeneration_determinism_verdict.md`.**
+
+No extraction job was running (live python.exe set = Hermes gateway + terminal). All named sources
+CLOSED (lion 47 unique issues; md counts unchanged). The preceding 19:5x run root-caused lion's
+"non-determinism" (the corpus now holds issue W40/2026 as TWO BYTE-IDENTICAL PDFs, so the old
+`*.pdf` glob parsed it twice) and fixed `run_lion_tables.py`; it left the edit uncommitted and its
+parquet-writer sibling (`run_lion.py`) still globbing without dedup.
+
+**Closed this run:**
+1. `run_lion.py` (parquet writer `lion_deals.parquet`/`lion_demometer.parquet`) now dedups
+   byte-identical PDFs in `build_txt()` AND dedups the cached `*.txt` list by content in `main()`
+   - mirroring `run_lion_tables.py`. Measured: corpus/01-brokers/lion **48 PDFs -> 47 unique,
+   1 skipped** (`lion_2026_W40_... == lion_02_10_2026_...`). Syntax-checked. NOT re-run in full:
+   its `write_md()` emits a thin pre-frontmatter md that would DOWNGRADE the richer md now on disk,
+   so only the parquet path is protected (the fix's purpose).
+2. Deliverables re-verified by read-back: `lion_deals_series.csv` 1,269 rows / `lion_sales_series`
+   1,164 / `lion_demometer_series` 564 / `lion_demo_sales_series` 105 - **0 duplicate rows each**;
+   `lion_deals.parquet` 1,145 rows / 43 issues / 0 dup; `lion_demometer.parquet` 516 / 43 / 0.
+3. Committed (current branch): `run_lion_tables.py` dedup + `run_lion.py` dedup + this doc.
+
+**Next-run target:** unchanged carried human/display calls - hellenic VesselsValue date convention;
+VV-matrix image-recall residual (paid). The ledger defect list remains EMPTY.
+
+---
+
 **THIS RUN (2026-10-04 19:2x, source-by-source, 30m job) - THE LEDGER'S LAST OPEN ITEM CLOSED AS NON-REPRODUCIBLE; THREE CARRIED "SUSPICIOUS VALUE" ITEMS RE-MEASURED AS PUBLISHER-SIDE (faithful). Evidence `docs/residual_faithful_verdict.md`.**
 
 No extraction job was running (live python.exe set = Hermes gateway). All named sources

@@ -18,6 +18,7 @@ import os
 import re
 import glob
 import json
+import hashlib
 import pandas as pd
 import pymupdf
 
@@ -709,6 +710,20 @@ def main():
 
     # 1. Gather all 43 PDFs
     pdfs = sorted(glob.glob(os.path.join(PDF_DIR, '*', '*.pdf')))
+    # Dedup byte-identical PDFs: the same issue is sometimes collected under two
+    # filename conventions (e.g. lion_2026_W40_... and lion_02_10_2026_...), which
+    # otherwise double-parse every row of that issue.
+    _seen_hash = {}
+    _uniq = []
+    for _p in pdfs:
+        with open(_p, 'rb') as _f:
+            _h = hashlib.sha256(_f.read()).hexdigest()
+        if _h in _seen_hash:
+            print(f"  [dup-input] skipping byte-identical copy: {os.path.basename(_p)} == {os.path.basename(_seen_hash[_h])}")
+            continue
+        _seen_hash[_h] = _p
+        _uniq.append(_p)
+    pdfs = _uniq
     # 2. Gather W37 and W38 digests
     digest_w37 = os.path.join(DIGEST_DIR, 'lion_12_09_2026_lion_weekly_market_report_week_37_2026.md')
     digest_w38 = os.path.join(DIGEST_DIR, 'lion_18_09_2026_lion_weekly_market_report_week_38_2026.md')

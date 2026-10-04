@@ -23,6 +23,7 @@ Run: python scripts/extract/publishers/run_lion.py [--rebuild-txt]
 import argparse
 import collections
 import glob
+import hashlib
 import json
 import os
 import re
@@ -916,7 +917,21 @@ def build_txt(rebuild=False):
     """PDF -> cached text: get_text(sort=True), PAGEBREAK-joined, footer lines dropped."""
     os.makedirs(TXT, exist_ok=True)
     made = 0
-    for pdf in sorted(glob.glob(os.path.join(PDF_DIR, '*', '*.pdf'))):
+    # Content-dedup the inputs: the same issue is sometimes collected under two
+    # filename conventions (e.g. lion_2026_W40_... and lion_02_10_2026_...),
+    # which would otherwise be parsed twice (see docs/lion_regeneration_determinism_verdict.md).
+    _seen_hash = {}
+    _uniq_pdfs = []
+    for _pdf in sorted(glob.glob(os.path.join(PDF_DIR, '*', '*.pdf'))):
+        with open(_pdf, 'rb') as _fh:
+            _h = hashlib.sha256(_fh.read()).hexdigest()
+        if _h in _seen_hash:
+            log('[dup-input] skipping byte-identical copy: %s == %s' % (
+                os.path.basename(_pdf), os.path.basename(_seen_hash[_h])))
+            continue
+        _seen_hash[_h] = _pdf
+        _uniq_pdfs.append(_pdf)
+    for pdf in _uniq_pdfs:
         stem = os.path.splitext(os.path.basename(pdf))[0]
         out = os.path.join(TXT, stem + '.txt')
         if os.path.exists(out) and not rebuild:
@@ -938,6 +953,20 @@ def main():
     args = ap.parse_args()
     build_txt(args.rebuild_txt)
     files = sorted(glob.glob(os.path.join(TXT, '*.txt')))
+    # Content-dedup the cached text: a duplicated issue can leave two .txt files
+    # with identical content under different names.
+    _seen_txt = {}
+    _uniq_txt = []
+    for _f in files:
+        with open(_f, 'rb') as _fh:
+            _h = hashlib.sha256(_fh.read()).hexdigest()
+        if _h in _seen_txt:
+            log('[dup-txt] skipping byte-identical text: %s == %s' % (
+                os.path.basename(_f), os.path.basename(_seen_txt[_h])))
+            continue
+        _seen_txt[_h] = _f
+        _uniq_txt.append(_f)
+    files = _uniq_txt
     log('issues found:', len(files))
     open(DEM_JSONL, 'w', encoding='utf-8').close()
     open(DEAL_JSONL, 'w', encoding='utf-8').close()
