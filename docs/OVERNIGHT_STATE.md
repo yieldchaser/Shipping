@@ -1,3 +1,16 @@
+**THIS RUN (2026-10-04 12:4x, source-by-source, 30m job) - PPA 2013-2014 BACKFILL: the PPA extractor could not see 110 corpus files; fixed, +816 verified rows added (10 new months, 2013-03 -> 2014-07). Evidence `docs/ppa_backfill_verdict.md`.**
+
+No extraction job was running (the python.exe set is the Hermes gateway). No broker source is left to extract, so this run took a genuine in-corpus gap rather than starting a non-existent source - found by ENUMERATION (the skill's rule), not by being told which source.
+
+**What was wrong (measured):** `corpus/09-ppa` now holds **603 PDFs / 358 distinct contents**, but `run_ppa.py` discovered files with `CORPUS.glob("_root_pdfs/*.pdf") + CORPUS.glob("ppa_pdf/*.pdf")` = **493 / 339 distinct**. A corpus reorg had moved **110 PDFs to the corpus root**, invisible to the runner. 85 are byte-duplicates; **19 are distinct contents no runner ever saw** (md5 sweep). All 19 are **2013-2014 Port Hedland**: 10 `summary` (country x commodity grid) + 9 `detailed` (per-vessel listing).
+
+**Fix + result:** discovery now also globs the corpus root, appended LAST to keep row order; `parse_hedland` now skips 0-table docs (`no-cargo-grid`). Re-run family A: **348 paths, 0 failed, 78.5 s -> +816 rows, diff vs installed CSV = 816 added / 0 removed; months 2013-03..2013-08 + 2014-03..2014-07; series 2013-03-01..2026-08-01 (was 2015-01); 4,591 -> 5,407 rows; 265/265 arithmetic checks pass on the 10 new docs.** Ground truth (page text): june_2013 p1 prints `22,947,021.00` -> CSV `22947021.0`. Family B (Dampier): same glob fix, 0 failed; the 2 extra docs were byte-dupes so `ppa_dampier_fy_series.csv` is **byte-identical** (control).
+
+**Controls:** the new committed `scripts/extract/export_ppa_csv.py` reproduces the PRE-change CSV **byte-for-byte** (578,160 bytes, cmp clean) from the pre-change jsonl - so the only deliverable change is the 816 appended rows. Dedup key = value columns, first occurrence.
+
+**Still open (carried):** the 9 "detailed" 2013-2014 per-vessel files are skipped (need their own parser - separate scope); the CSV's `source_file` column carries legacy `_root_pdfs/` paths for old rows (migration artifact, display call); the cadence-audit md still says PPA "493 PDFs" (now 603) - GENERATOR-owned (`generate_cadence_audit.py`), fix the generator not the md. All the prior STILL-OPEN items are unchanged and human/display calls: `hellenic_iron_ore_pdf_*` two-writer family, hellenic VesselsValue date convention, lion regeneration, affinity WS-era md rounding, DB `label_series`.
+
+---
 **THIS RUN (2026-10-04 12:0x, source-by-source, 30m job) - CADENCE-AUDIT GENERATOR DRIFT CLOSED: the 12-book block is now EMITTED by the generator, so regeneration is a byte no-op. Commit `d1e458876` (code + doc).**
 
 No extraction job was running (the python.exe set is the Hermes gateway). No source is left to extract - all named sources CLOSED. This run closed the NEW HAZARD the 11:4x run flagged and could not fix.
