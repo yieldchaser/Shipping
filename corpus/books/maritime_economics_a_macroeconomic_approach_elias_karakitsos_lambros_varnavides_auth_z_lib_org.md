@@ -123,32 +123,43 @@ vessel_classes:
 - lng
 - container
 ---
+
+# Maritime Economics: A Macroeconomic Approach
+
+**Authors**: Elias Karakitsos and Lambros Varnavides  
+**Publisher**: Palgrave Macmillan (2014)  
+
 ## Summary
+
 ECONOMICS
 A MACROECONOMIC APPROACH
 ELIAS KARAKITSOS
 Global Economic Research and CEPP, University of Cambridge
 LAMBROS VARNAVIDES
 MD & Global Head of Shipping, Royal Bank of Scotland xiv
-LIST OF ABBREVIATIONS
-Lower-case lett ers indicate natural logs. A = average age of fl eet
-CU = fl eet capacity utilisation or demand-supply balance in the freight market
+
+---
+
+## List of Abbreviations
+
+Lower-case letters indicate natural logs. A = average age of fleet
+CU = fleet capacity utilisation or demand-supply balance in the freight market
 DL = deliveries of new vessels by shipyards, measured in tonnage
 DM = demolition of ships, measured in tonnage
 E = is the expectations operator with information available up to period t
 t
 EIA = US Energy Information Agency
 FR = (spot) freight rate, expressed in US dollars per day
-Hτ = a time charter contract of duration, τ, paying a fi xed rate per period, expressed
+Hτ = a time charter contract of duration, τ, paying a fixed rate per period, expressed
 in $/day
 I = gross investment expenditure by owners for newbuilding vessels
-K = net fl eet, that is, operational fl eet plus deliveries less scrapping less lay-ups and
+K = net fleet, that is, operational fleet plus deliveries less scrapping less lay-ups and
 losses, expressed in dwt
-KG = gross fl eet, measured in tonnage
-KTR = traded fl eet in the secondhand market, measured in tonnage
+KG = gross fleet, measured in tonnage
+KTR = traded fleet in the secondhand market, measured in tonnage
 NB = newbuilding
 OC = operating cost
-p = infl ation rate
+p = inflation rate
 P = Price of newbuilding vessels
 PB = price of bunkers
 PE = price of equipment
@@ -162,26 +173,28 @@ ELIAS KARAKITSOS
 Global Economic Research and CEPP, University of Cambridge
 LAMBROS VARNAVIDES
 MD & Global Head of Shipping, Royal Bank of Scotland xiv
-LIST OF ABBREVIATIONS
-Lower-case lett ers indicate natural logs.
-A = average age of fl eet
-CU = fl eet capacity utilisation or demand-supply balance in the freight market
+
+## List of Abbreviations
+
+Lower-case letters indicate natural logs.
+A = average age of fleet
+CU = fleet capacity utilisation or demand-supply balance in the freight market
 DL = deliveries of new vessels by shipyards, measured in tonnage
 DM = demolition of ships, measured in tonnage
 E = is the expectations operator with information available up to period t
 t
 EIA = US Energy Information Agency
 FR = (spot) freight rate, expressed in US dollars per day
-Hτ = a time charter contract of duration, τ, paying a fi xed rate per period, expressed
+Hτ = a time charter contract of duration, τ, paying a fixed rate per period, expressed
 in $/day
 I = gross investment expenditure by owners for newbuilding vessels
-K = net fl eet, that is, operational fl eet plus deliveries less scrapping less lay-ups and
+K = net fleet, that is, operational fleet plus deliveries less scrapping less lay-ups and
 losses, expressed in dwt
-KG = gross fl eet, measured in tonnage
-KTR = traded fl eet in the secondhand market, measured in tonnage
+KG = gross fleet, measured in tonnage
+KTR = traded fleet in the secondhand market, measured in tonnage
 NB = newbuilding
 OC = operating cost
-p = infl ation rate
+p = inflation rate
 P = Price of newbuilding vessels
 PB = price of bunkers
 PE = price of equipment
@@ -192,7 +205,7 @@ Q = demand for shipping services, expressed in dead weight (dwt)
 Qs = supply of shipping services, expressed in dwt
 r = interest rate
 rp = risk premium
-S = vessel or average fl eet speed
+S = vessel or average fleet speed
 SCU = shipyard capacity utilisation or shipyard demand-supply balance
 SH = secondhand
 UC = user cost of capital in the newbuilding market
@@ -201,7 +214,7 @@ W = wages of ship crew
 x = output gap in the economy
 y = rate of growth of real GDP
 z = a vector of variables aff ecting supply, such as bunker costs and port congestion
-p = profi t per ship per time period
+p = profit per ship per time period
 
 INTRODUCTION
 THE SCOPE OF THE BOOK
@@ -231,9 +244,8 @@ This book aims to fill this gap and make a return to a macroeconomic or
 systems approach to maritime economics. The brilliant book by Stopford (2009)
 is in the same spirit and covers all markets and their interaction at an introductory level. This book aims to be a companion to Stopford's textbook at a more
 advanced level.
+## Chapter 1: The Benefits of a Macroeconomic Approach
 
-## 2 KARAKITSOS AND VARNAVIDES
-1 THE BENEFITS OF A MACROECONOMIC APPROACH
 A macroeconomic approach to maritime economics offers a number of advantages. The first relates to the microfoundations of the freight market and the
 second to the microfoundations of the shipyard and secondhand markets. In the
 traditional approach, which goes back to the Tinbergen-Koopmans (TK) model,
@@ -317,8 +329,6 @@ primary cause of shipping cycles. The macroeconomic approach developed in this
 book integrates the TK model of supply-led shipping cycles with the BV model
 of expectations-driven shipping cycles. As the empirical evidence of shipping
 markets shows that they are inefficient in the short run, the integrated model
-
-## 4 KARAKITSOS AND VARNAVIDES
 breaks away from the BV model of assuming that shipping markets are efficient.
 The implication is that the arbitrage conditions between newbuilding and second-hand prices and between the return of shipping and alternative assets are removed.
 Instead, demand and supply factors in newbuilding and secondhand markets are
@@ -342,7 +352,9 @@ targets, one can deduce the future path of nominal interest rates. This provides
 a consistent explanation of how expectations in shipping are formed integrating
 macroeconomics with maritime economics. This interaction is analysed in
 Chapter 6.
-2 THE STRUCTURE OF THE BOOK
+
+### 2 The Structure of the Book
+
 Part I deals with the microfoundations of maritime economics, which attempt
 to derive the general form of the underlying demand and supply functions in
 all four markets (freight, spot and period, newbuilding, secondhand and scrap)
@@ -405,8 +417,6 @@ the reversal of trends. This approach helps to compare the actual and optimal
 conduct of US monetary policy in business cycles and shows how relatively
 accurate expectations of interest rates can be formulated in shipping. Chapter 9
 analyses the business cycles of Japan and Germany and their interrelationship with
-
-## 6 KARAKITSOS AND VARNAVIDES
 US business cycles and shows how these business cycles account for the stylised
 facts of shipping cycles in the 1980s and the 1990s. The cycles since then are
 explained by the behaviour of China, which has supplanted Japan in pre-eminence
@@ -491,9 +501,8 @@ the essence can be captured in the Executive Summary. S/he can then complete
 her/his study by reading Chapter 5. The professional can also read independently Chapter 8 to appreciate the implications of the financialisation of shipping
 markets. Finally, s/he can read Chapter 10 to appreciate the contribution of the
 methodology advanced in the book to real life decision making.
+### 4 Model and Data Series
 
-## 8 KARAKITSOS AND VARNAVIDES
-4 MODEL AND DATA SERIES
 Unless otherwise stated, all graphs and tables in the book are based on the K-model,
 which integrates shipping markets with the macro-economy and financial markets
 of the US, the UK, the euro area, Japan and China (see Arestis and Karakitsos, 2004
@@ -527,13 +536,13 @@ weekends of 2013 in writing the manuscript, his daughter and colleague Nepheli
 for detailed comments, and his daughter Eliza for her tolerance with a busy father.
 
 PARIT
-THE MICROFOUNDATIONS OF
-MARITIME ECONOMICS
 
-2 THE THEORETICAL
-FOUNDATIONS OF
-THE FREIGHT MARKET
-EXECUTIVE SUMMARY
+# Part I: The Microfoundations of Maritime Economics
+
+## Chapter 2: The Theoretical Foundations of the Freight Market
+
+### Executive Summary
+
 In the traditional model of the freight market, which dates back to the 1930s,
 freight rates are determined in a perfectly competitive market, where the stock of
 fleet is predetermined at any point in time. This implies that freight rates adjust
@@ -564,8 +573,6 @@ large (in theory infinite) number of buyers and sellers is not applicable, trans
 product is seemingly homogeneous (the capacity to transport particular categories of products or commodities), the demand for shipping services is restricted
 by volume, time and route - a given cargo over a particular route that meets a
 well-specified time schedule. Although there are many ships in the market only
-
-## 12 KARAKITSOS AND VARNAVIDES
 a few are available to satisfy the given demand specifications in time and place.
 These characteristics violate the homogeneous product assumption, the condition of large (infinite) number of buyers and sellers and the hypothesis of zero
 transaction costs. The latter should be interpreted as the penalties (legal or reputational) that a charterer would incur for waiting for a better deal (lower freight
@@ -604,7 +611,9 @@ in ‘good' or improving economic conditions, freight rates would be on an uptre
 and vice versa. It is shown in this chapter that expectations about key shipping
 variables are formed by expectations of how policymakers (mainly central banks)
 would respond to current and future economic conditions.
-1 A FRAMEWORK FOR MARITIME ECONOMICS
+
+### 1 A Framework for Maritime Economics
+
 The first part of the book deals with the microfoundations of maritime economics
 (or shipping markets). Shipping is organised in the form of four markets: the
 freight market; the shipyard (or newbuilding) market; the scrap market and the secondhand market. The freight market is subdivided into the spot market and
@@ -649,8 +658,6 @@ the overall market by more than justified by economic fundamentals, then Capes
 would adjust through time so that equilibrium is attained once more.
 Hence, every market (dry, wet or containership) consists of five variables,
 which are determined simultaneously. These are the demand for shipping services
-
-## 14 KARAKITSOS AND VARNAVIDES
 (the cargo being transported), the stock of the net fleet, freight rates, newbuilding
 (NB) prices and secondhand (SH) prices. Each variable is shaped in one or more
 markets, but all markets are interacting with each other. In the freight market, the
@@ -722,8 +729,6 @@ Thus, the market of each ship size co-moves (or, in the jargon of econometrics,
 is co-integrated) with the overall market. Therefore, shocks to the overall market
 are transmitted to each ship market. In time, each ship-size market moves to equilibrium with the overall market.
 Part I of the book consists of two chapters. Chapter 2 analyses the theoretical foundations of the freight market, which is split into two markets: the spot
-
-## 16 KARAKITSOS AND VARNAVIDES
 market and the time charter market. In this chapter we offer a new framework for
 analysing spot freight rates. This framework has some implications for the nature
 of the risk premium in the time charter market.
@@ -735,7 +740,9 @@ and examines the influence of supply in determining the price of new vessels and
 vessel deliveries. It then analyses the secondhand market and shows how the
 demand and supply functions are obtained. Finally, it considers the scrap market
 and explains how the net fleet is determined.
-2 THE TRADITIONAL MODEL
+
+### 2 The Traditional Model
+
 The traditional model of freight rates goes back to Tinbergen (1931, 1934),
 Koopmans (1939), Hawdon (1978), Strandenes (1984, 1986) and Beenstock
 and Vergottis (1993). The demand for and supply of shipping services are functions of freight rates in a perfectly competitive market. The cargo is measured
@@ -804,9 +811,6 @@ D1
 Tonne-miles
 
 > **Figure 2.1**: Demand and supply of shipping services
-
-## 18 KARAKITSOS AND VARNAVIDES
-FR
 S2
 S1
 
@@ -814,7 +818,8 @@ Tonne-miles
 
 > **Figure 2.2**: The impact of higher bunker costs
 
-3 A CRITIQUE OF THE TRADITIONAL MODEL
+### 3 A Critique of the Traditional Model
+
 The basic assumption of the traditional model (1) is that freight rates, at any
 point in time, clear a perfectly competitive market for shipping services. A market
 is said to be perfectly competitive if it satisfies the following conditions. First,
@@ -885,8 +890,6 @@ F
 Q Q I Tonne-miles
 
 > **Figure 2.3**: Market demand and supply and individual owner in the short run
-
-## 20 KARAKITSOS AND VARNAVIDES
 to the price P.4 The marginal cost curve, labelled MC in Figure 2.3, cuts the average
 variable cost (AVC) curve from below at the minimum.5
 Each owner maximises profits and the condition for maximum is that s/he
@@ -973,8 +976,6 @@ most of the time. This creates an upward trend of freight rates and leads reacti
 players to form expectations of rising future freight rates. Forward-looking agents
 do not need this evidence to form expectations of rising future freight rates. They
 can discount the implications of changes in current economic fundamentals on
-
-## 22 KARAKITSOS AND VARNAVIDES
 the future course of freight rates. This theory of freight rates is as useful to the two
 parties in the bargaining process (that is the owner and the charterer) as ornithology is to birds, to paraphrase a popular quote attributed to Richard Feynman.
 This theory implies that both charterers and owners form expectations of future
@@ -1036,7 +1037,9 @@ expense of the charterer. The agreed freight rate is equal to the equilibrium ra
 plus the deviation from the equilibrium rate.9 On the other hand, as the bargaining
 solution moves from E to B the agreed freight rate is smaller than the equilibrium
 rate of $10,000.
-6 THE BARGAINING UTILITY FUNCTION
+
+### 6 The Bargaining Utility Function
+
 The value of the feasible set to be chosen depends on the utility that each player
 attaches to the various payoffs and on the bargaining power s/he commands.
 Although the owner and the charterer bargain over a known equilibrium rate, the
@@ -1046,8 +1049,6 @@ that there exists a utility function that is an increasing function of the payof
 the two players. Let U denote such a utility function as in equation (2.1) immediately below:10
 U = g(X , X ) (2.1)
 1 2
-
-## 24 KARAKITSOS AND VARNAVIDES
 A larger payoff for either the owner or the charterer leads to higher utility (or
 satisfaction). The rationale is that for a given level of utility for one of the players,
 the other's utility becomes higher as her/his payoff increases. This is consistent
@@ -1091,7 +1092,9 @@ to let the charterer increase his payoff by one unit and complete the agreement.
 If the iso-utility curve is flat, the rate of payoff substitution is low. The owner is
 willing to give up only a small amount of his own payoff to satisfy the charterer
 by one extra unit.12
-7 THE SOLUTION OF THE BARGAINING GAME
+
+### 7 The Solution of the Bargaining Game
+
 Although the owner and the charterer bargain over a known equilibrium rate, the
 solution of the bargaining problem must be acceptable to both. Acceptance means
 that neither player becomes worse off. Accordingly, the solution of the bargaining
@@ -1159,7 +1162,9 @@ curve, as the contract curve has shifted to the right. The higher iso-utility cu
 associated with the $11,000 contract curve implies that the payoff of owner i
 and charterer j are larger than the equilibrium at $10,000, thus giving rise to an
 upward trend in freight rates.
-8 ECONOMIC CONDITIONS AND BARGAINING POWER
+
+### 8 Economic Conditions and Bargaining Power
+
 So far, the nature of the equilibrium (that is, the solution of the game) has been
 analysed by varying the bargaining power, but without explaining the causes of
 strong or weak bargaining. In this section we dwell on this issue. The bargaining
@@ -1172,8 +1177,6 @@ of subcharterers. Owners who meet these criteria would have stronger bargaining
 power than those who do not. Owners with weak bargaining power will accept
 lower time charter rates from strong parties, such as the two large Japanese charterers, BHP and Cargill; or, in the tanker market, the large oil companies. This
 may result in lower income for the weak owners but greater certainty of income.
-
-## 28 KARAKITSOS AND VARNAVIDES
 As a result, the bargaining power of each group (charterers and owners) should
 be viewed as a separate distribution. Each distribution would shift as macro
 factors change. Some of these macro factors may be random or simply unpredictable, such as wars, strikes or weather conditions. However, other factors may be
@@ -1225,7 +1228,9 @@ costs. If such expectations are positive then economic conditions are ‘good' a
 the bargaining power is on the owner's side. In this case the bargaining solution
 would lead to equilibrium G in Figure 2.8. If these expectations are negative then
 economic conditions are ‘bad' and the bargaining power is on the side of the charterer with equilibrium attained at B in Figure 2.8.
-9 COMPARISON WITH THE CONVENTIONAL MODEL
+
+### 9 Comparison with the Conventional Model
+
 It is instructive to compare the freight equation of the bargaining game with the
 traditional freight model of Tinbergen (1931, 1934) and Koopmans (1939) so
 that the similarities and differences can be evaluated. In the traditional model
@@ -1251,8 +1256,6 @@ g g
 The similarities and differences between the traditional freight model and the
 game bargaining model are now apparent through a comparison of equation
 (2.13) and (2.9) and the assumption that the vector z consists of just one variable,
-
-## 30 KARAKITSOS AND VARNAVIDES
 the price of bunkers. Both models suggest that freight rates depend on the same
 variables, fleet capacity utilisation and bunker costs. But whereas the traditional
 model implies that current freight rates depend on the current values of these variables, in the game bargaining model freight rates depend on expectations of the
@@ -1337,8 +1340,6 @@ is a function of the aggregate demand in the world economy
 E t q t + 1 = E t x t + 1 (2.14)
 For reasons that will become clear in Chapter 3, expectations of the evolution of
 the fleet for a short horizon (for example, one year) relevant to the bargaining
-
-## 32 KARAKITSOS AND VARNAVIDES
 of the owner and the charterer reflect past expectations of demand for shipping
 services. Assuming for simplicity that all vessel deliveries took place in the last
 year we have:
@@ -1423,8 +1424,6 @@ is the discounted present value of the expected rolling spot rates for the p per
 at the same discount rate, r.
 It can easily be seen how the equilibrium condition in equation (2.22a) would
 be satisfied. Consider the case where the discounted present value of the time
-
-## 34 KARAKITSOS AND VARNAVIDES
 charter contract is higher than the discounted present value of the rolling spot
 contracts. This implies that the time charter rate is higher than spot rates and
 the demand for time charter contracts would increase, while the demand for spot
@@ -1510,8 +1509,6 @@ Cullinane (2005) heuristically argue along the same lines, although they do not
 offer a framework to justify their claims. They do add, though, a very useful point
 that the negative risk premium depends also on the duration of the time charter
 contract. The finding that the negative risk premium depends on market conditions is also consistent with empirical studies of the owners' risk preferences.
-
-## 36 KARAKITSOS AND VARNAVIDES
 Lorange and Norman (1973) find that the risk appetite of Norwegian owners
 depends on market conditions. In good markets owners are risk lovers or risk
 neutral, but in bad market conditions owners become risk averse. Eckbo (1977)
@@ -1561,7 +1558,9 @@ rates are abnormally high and are likely to fall in the future. On the other han
 inverted yield curve implies that spot rates are abnormally low and they are likely
 to increase in the future. The shape of the yield plays a pivotal role in cash flows
 management (see Part III).
-11 SUMMARY AND CONCLUSIONS
+
+### 11 Summary and Conclusions
+
 This chapter has reviewed the traditional model of freight rates, based on
 Tinbergen (1931,1934) and Koopmans (1939). This model has remained unchallenged and has provided the theoretical foundations of all subsequent empirical
 work. It has been argued in this chapter that the model violates the basic assumptions of perfect competition. As a result, an alternative model has been suggested,
@@ -1592,8 +1591,6 @@ a utility function that describes the joint utility that is achieved by reaching
 agreement. Such utility is, by definition, a function of the payoff of both players.
 This does not follow from an altruistic approach, but from the need to reach an
 agreement with the other party. The preferences about alternative payoffs define
-
-## 38 KARAKITSOS AND VARNAVIDES
 a utility map that consists of a family of iso-utility curves, each one of them for a
 different level of joint utility. Each iso-utility curve is not simply negatively sloped
 throughout, which means that one loses while the other one gains. Rather, each
@@ -1676,8 +1673,6 @@ spot rates and risk premiums with declining weights; so that the near future car
 more importance than the distant one. The horizon of expectations is dictated by
 the duration of the time charter contract. Thus, the one-year time charter rate is
 equal to the expected spot rate for next year and a risk premium.
-
-## 40 KARAKITSOS AND VARNAVIDES
 APPENDIX: HOW EXPECTATIONS OF FREIGHT RATES ARE
 GENERATED
 A structural model of the dry market purports to explain freight rates, the demand
@@ -1716,9 +1711,10 @@ t j j
 This means that future economic policy and truly exogenous variables are only
 required in forecasting future freight rates.
 
-THE SHIPYARD, SCRAP AND
-SECONDHAND MARKETS
-EXECUTIVE SUMMARY
+## Chapter 3: The Shipyard, Scrap and Secondhand Markets
+
+### Executive Summary
+
 The supply of shipping services by owners in the freight market is interlinked
 with the demand for vessels in the shipyard industry. The variable that drives the
 supply of shipping services and the demand for vessels is the demand for cargo
@@ -1751,8 +1747,6 @@ This approach unifies the theory of freight rates and vessel prices according to
 which both are asset prices.
 The shipyard market determines the equilibrium level of NB prices and the
 gross (before scrapping) stock of fleet through the forces of a downward-sloping
-
-## 42 KARAKITSOS AND VARNAVIDES
 demand curve and an upward-sloping supply curve. In this chapter the demand
 for vessels is viewed as a dynamic optimisation problem of capacity expansion.
 The optimisation determines jointly the target or desired stock of fleet (that is,
@@ -1828,8 +1822,6 @@ O S S S
 1 2
 
 > **Figure 3.1**: Isoquants
-
-## 44 KARAKITSOS AND VARNAVIDES
 Because K can be substituted for S, each isoquant is throughout negatively sloped.
 This implies that as the fleet is reduced by one vessel, the owner can still supply
 the same cargo, by increasing the average speed of the fleet. Thus, at point A,
@@ -1904,8 +1896,6 @@ K A
 O S S
 
 > **Figure 3.2**: Optimum speed and capacity utilisation
-
-## 46 KARAKITSOS AND VARNAVIDES
 equation (3.6) defines another isocost curve (not shown in the graph), which is
 parallel to TC1, but lies further away from the origin.
 The slope of the isocost curve is negative as all components of the first
@@ -1985,8 +1975,6 @@ addition to the fleet and replacement investment, new ships that are intended to
 replace obsolete ones that have been sold for scrap. Thus, at any point in time
 the stock of fleet is the accumulation of net investment (gross investment less
 depreciation).
-
-## 48 KARAKITSOS AND VARNAVIDES
 Some of the complications with the theory of (gross) investment arise from
 the fact that while the demand for a product is a flow demand, that is, demand per
 unit of time, the demand for vessels is usually expressed as a stock demand with the
@@ -2075,8 +2063,6 @@ of interest rates now on the basis of its forecast for inflation and the output 
 two years ahead. As the two-year forecast changes through time the central bank
 adjusts its interest rates. In a similar fashion the owner must decide on the fleet
 today on the forecast of the demand for shipping services, freight rates, vessel
-
-## 50 KARAKITSOS AND VARNAVIDES
 prices and the user cost of capital two years ahead. As the forecast changes the
 owner makes additions to the fleet or hedges the excess fleet.
 At any point on the optimal investment path, the cost of one extra vessel (that
@@ -2166,8 +2152,6 @@ stability of the system requires that vessel prices increase sharply in the shor
 so that they can decline along the stable dynamic adjustment path EE. In terms of
 
 > **Figure 3.3**: the vessel price would jump from P to P* before the fleet had any time
-
-## 52 KARAKITSOS AND VARNAVIDES
 to adjust, that is, when it is still at K . But from P* vessel prices would decline, gradually reaching the new long-run equilibrium at point C. Therefore, the
 optimal adjustment path of NB vessel prices involves an overshooting of the new
 long-run equilibrium (P* > P ). The overshooting is the result of the perverse effect of vessel prices on the demand for vessels in the short run under rational
@@ -2216,7 +2200,9 @@ more risk averse the owners and shipyards, the greater the likelihood that they
 entered too late in the cycle. The stylised facts of the dry market show that the
 majority of owners and shipyards entered very late (from 2008 onwards) after
 demand waned.
-3 THE AGGREGATE FLEET
+
+### 3 The Aggregate Fleet
+
 The analysis so far derived the individual owner's demand for ships. The derivation of the demand for vessels at the industry level involves a simple aggregation
 over the individual demand curves. Thus, if K is the individual owner's demand
 i
@@ -2238,15 +2224,15 @@ i=1
 These aggregation rules enable us to move quickly from the individual level to
 the aggregate level. We suppress the extra cumbersome notation since it is obvious when the analysis applies to an individual owner and when to the aggregate
 level.
-4 INVESTMENT UNDER UNCERTAINTY
+
+### 4 Investment Under Uncertainty
+
 Under conditions of certainty and perfect foresight, owners would expand capacity
 until the benefits of one extra vessel are equal to its cost. The cost of capital
 includes the vessel price along with the cost of adjusting the fleet. The marginal
 benefits are equal to the present value of the sum of the expected marginal revenue
 of one extra vessel derived from the entire lifetime of the vessel along with the
 economies of scale resulting from the additional vessel in the fleet (for example,
-
-## 54 KARAKITSOS AND VARNAVIDES
 lower management fees, bigger bargaining power when negotiating with shipyards). The model implies that the owner would expand capacity gradually from
 Kto K in terms of Figure 3.3. But this is optimal because the owners' expecta-
 1 2
@@ -2330,8 +2316,6 @@ the probability of the main scenario for the evolution of the demand for dry and
 the cost components over the investment horizon. The optimal rule involves the
 computation of the optimal path of NB prices and freight rates under two alternative policy assumptions: main scenario and risk scenario. In the main scenario,
 the most likely response of the policymakers in the main economic regions (the
-
-## 56 KARAKITSOS AND VARNAVIDES
 US, China, Europe and Japan) to the current and future economic conditions
 forms the basis upon which the macro environment will develop in the next two
 years. This macro environment is then used as an input in the shipping model to
@@ -2343,7 +2327,9 @@ the risk-reward ratio, which is equal to the ratio of NB prices two years ahead 
 the main scenario and the risk scenario. If this risk-reward ratio is higher than the
 subjective risk-reward, then the owner should proceed with the investment up to
 a percent of the target fleet equal to the probability of the main scenario.
-5 CASE STUDY
+
+### 5 Case Study
+
 In order to put the optimal rules into perspective, it is assumed that the owner
 stands in September 2012 with all information available until that time. Most
 owners feel that four years on from the 2008 crisis this is the time for putting in
@@ -2410,13 +2396,13 @@ easy fiscal policy on the equilibrium demand for ships. This is consistent with 
 popular wisdom among owners that once the market starts moving, it is very difficult to catch up with. The real profits from the asset game can be captured only
 if the owner is prepared to take the risk and expand the fleet on the expectation
 that the demand for ships would increase in 2014 and beyond. The owner should
-
-## 58 KARAKITSOS AND VARNAVIDES
 expand the fleet now (September 2012) to the probability of the main scenario 60
 per cent, as any further expansion does not justify the extra risk. Hence, the owner
 should have in place 60 per cent of the optimal level of fleet by 2014. If the optimal
 fleet is ten ships the owner should have in place six ships by 2014.
-6 THE MODEL IN PERSPECTIVE
+
+### 6 The Model in Perspective
+
 As a ship is an asset that provides a flow of services throughout its lifetime it is
 common in the maritime literature to consider ship prices as asset prices. Asset
 pricing usually involves a net present value rule and in this respect all approaches
@@ -2500,8 +2486,6 @@ When the arbitrage condition is not imposed, as in our framework, the demand
 for vessels is a normal downward-sloping curve. Therefore, the real debate on
 shipping prices is not about the net present value rule vs. a demand-supply
 framework, but about the underlying elasticity of the demand for vessels.
-
-## 60 KARAKITSOS AND VARNAVIDES
 There is one more fundamental difference between our model of vessel prices
 and those based on the EMH. The present value rule, summarised in equation
 (3.16) lacks a theory on how profits in shipping are to be determined. An easy
@@ -2588,8 +2572,6 @@ of a trend.
 The stylised facts of the shipyard industry provide support to the hypothesis
 that shipyards form backward-looking expectations by extrapolating past levels
 of demand, whereas some owners are forward looking, forming expectations
-
-## 62 KARAKITSOS AND VARNAVIDES
 by how policymakers would react to economic conditions two years ahead. In
 the boom years of the 2003-08 bull market, namely 2005-08, there was more
 demand for vessels than shipyard capacity could meet. As a result, newbuilding
@@ -2635,9 +2617,6 @@ Appendix 1, which assumes no change in shipyard capacity, the new equilibrium is
 K . It is worth remembering that because of the forward-looking behaviour of owners and their short-run destabilising behaviour, according to which they buy
 more vessels when prices are increasing, the dynamic adjustment path of prices
 would jump on impact to B, where prices overshoot their long-run equilibrium
-
-## 64 KARAKITSOS AND VARNAVIDES
-
 ### 7.3 An Empirical Estimate Of The Impact Of Shipyard
 Capacity On Nb Prices
 
@@ -2779,8 +2758,6 @@ pricing and confirms the new nature of vessel prices as asset prices. The overca
 and shipyards. ‘Smart' owners take decisions today on expectations of how the
 policymakers in major economies would react to current and future economic
 conditions. On the other hand, shipyards and ‘herd' owners take decisions by
-
-## 68 KARAKITSOS AND VARNAVIDES
 extrapolating the historical level of the demand for ships. Hence, ‘smart' owners
 are forward looking, whereas shipyards and ‘herd' owners are backward looking.
 This is the consequence of the opposing forces of NB prices on the demand for
@@ -2813,7 +2790,9 @@ capacity on newbuilding prices accounts for 40 per cent of the fall in NB prices
 The implication of this analysis is that if the demand for vessels resuscitated with a
 revival of the freight market in 2014-17, then the existing shipyard capacity would
 act as a drag to the rebound of NB prices.
-8 THE SCRAP MARKET AND THE NET FLEET
+
+### 8 The Scrap Market and the Net Fleet
+
 In deriving the net fleet in this chapter, we have assumed that a constant proportion
 of the fleet is replaced every year, as it becomes technologically obsolete. But in
 the real world legislation about ship safety and strict environmental laws to reduce
@@ -2865,8 +2844,6 @@ or scrap it rather than acquire it. Accordingly, the cost of fleet adjustment is
 in (A.32). The economies of scale term in (A.32), that is, G , is still relevant, as
 K
 scrapping a ship might create diseconomies of scale. For example, the demolition
-
-## 70 KARAKITSOS AND VARNAVIDES
 of one ship might make the expenses of the management office too high for the
 remaining fleet.
 PS t = E t ∑
@@ -2915,7 +2892,9 @@ period t - 1, K , less the demolition as a percentage of the fleet. Equation (3.
 t - 1
 shows that the correct way of expressing equation (23) is as a percentage of the
 net fleet at the end of period t - 1.
-9 THE RELATIONSHIP OF NB AND SH PRICES
+
+### 9 The Relationship of Nb and Sh Prices
+
 The dynamic optimisation problem of fleet capacity expansion gives rise to the
 demand for ships whether they are newbuilding or secondhand and derives their corresponding demand prices. Thus, the demand for newbuilding ships is given
 by equation (A.20) reproduced here for convenience as equation (3.27), while
@@ -2959,8 +2938,6 @@ category consists of ships which are in need of repair and owners believe that i
 is not worthwhile to bear these expenses or simply because they lack the financial means. The fourth category consists of non-profitable vessels. The owners of
 these vessels must have made bad decisions in the past. For example, they may
 have bought them at high prices on a large proportion of debt relative to equity
-
-## 72 KARAKITSOS AND VARNAVIDES
 (high leverage). Lower prices now would have resulted in margin calls by banks
 and requests for injection of new capital that the owners are unable to meet.
 Alternatively, freight rates might have fallen or interest rates may have risen and
@@ -3000,8 +2977,6 @@ demand is equal to supply in each market. The equilibrium in the shipyard market
 determines the stock of new fleet and newbuilding prices, while equilibrium in
 the secondhand market determines the volume of purchase and sale of existing
 fleet ships and the secondhand price. The interrelationship of newbuilding and
-
-## 74 KARAKITSOS AND VARNAVIDES
 purchase and sale is likely to increase, as the shift in demand outweighs the shift
 in supply. The new equilibrium is attained at B in Figure 3.9. The secondhand
 price increases from PS to PS and the traded fleet increases from K to K . The
@@ -3029,7 +3004,7 @@ function of their relative prices.
 Ksh ⎛PS⎞
 = f⎜ ⎟ f < 0 (3.31)
 Kn ⎝ P ⎠ 1
-As the price of secondhand ships rises relative to newbuilding ones, the proportion of secondhand ships to new ones declines. Th is simple relationship compares the expected profi tability of each ship category. Th is can easily be verifi ed
+As the price of secondhand ships rises relative to newbuilding ones, the proportion of secondhand ships to new ones declines. Th is simple relationship compares the expected profitability of each ship category. Th is can easily be verifi ed
 by comparing the determinants of each price.
 PS t = E t ∑
 s
@@ -3092,8 +3067,6 @@ mium a and therefore reduces the secondhand price relative to the new one. This
 according to equation (3.31) increases the proportion of secondhand to new fleet.
 The second factor that affects the risk premium is whether the owner expects
 the increase in demand to be permanent or transitory. If the increase in demand
-
-## 76 KARAKITSOS AND VARNAVIDES
 is perceived as transient, lasting for one or two years, then the owner would again
 prefer a secondhand ship to a new one, as it is immediately available to take advantage of the boost in demand with a smaller capital expenditure, which increases
 profitability. If we denote by ΔQs the expected increase in demand in the short
@@ -3172,8 +3145,6 @@ this framework, the costs of adjusting the fleet depend positively on the amount
 of gross investment, I; the first derivative is positive. Moreover, the higher the
 investment (that is, the faster the fleet adjustment), the bigger the costs; the second derivative is also positive. This assumption implies cost convexity: costs are
 increasing with investment at an accelerating pace. But the costs of adjustment
-
-## 78 KARAKITSOS AND VARNAVIDES
 would also depend on the stock of fleet, K, as this determines the owner's bargaining power with shipyards. The bigger the owner's fleet is, the larger the shipyard
 discount for a given order and hence the lower the costs of adjustment. Thus, G is
 a decreasing function of K. The function G and the first and second order derivatives are non-negative so that the cost is zero for zero investment.
@@ -3265,8 +3236,6 @@ This equation states that the firm will expand fleet capacity up to the point wh
 the real profit from one extra vessel is equal to the cost of capital, r, which is
 t
 a weighted average of the interest rate charged on loans to finance the fleet and
-
-## 80 KARAKITSOS AND VARNAVIDES
 a risk premium (for example, the opportunity cost of the owner's equity). The real
 profit of one extra ship consists of four components. First, the increase in revenue
 resulting from one extra vessel, FR (cid:2) F (S, K); second, economies of scale, that
@@ -3355,8 +3324,6 @@ p t + G I = E t
 ⎫⎪
 ⎬ ⎪⎭ (A.21)
 s=t s
-
-## 82 KARAKITSOS AND VARNAVIDES
 The marginal cost is equal to the price of vessel, p, and the marginal cost of adjustment, G. These represent sunk costs, not entirely because of the scrap market,
 I
 which cannot be recovered and require no expectations, as they are known today.
@@ -3374,7 +3341,7 @@ Th e reduction in the adjustment cost due to one additional vessel is
 MCR = − G > 0 (A.23)
 K
 As it is clear from (A.21) expectations are important for investment decisions. Th e computation of the expected stream of future marginal revenues
-of the fl eet requires assumptions about technology and about the demand
+of the fleet requires assumptions about technology and about the demand
 curves facing the fi rm in the freight market as well as input markets. In general, it will involve expectations of the time path of the demand for shipping
 services (output), the freight rate, NB vessel prices, the interest rate and the
 depreciation rate.
@@ -3419,7 +3386,7 @@ from a normal distribution with zero mean and a constant variance. Equation
 (A.26) states that expectations are, on average, correct, as the mean value of the
 error term e is zero. To make sure that owners compute, even on average, accurate expectations they must form expectations of the vector-Z based on a structural model, like the K-model, which explains the data generation process of
 Z. In the vector-Z of K-model all shipping variables, are explained in terms of
-economic fundamentals, such as GDP, consumption, exports, industrial production, inventories, infl ation, commodity prices, interest rates and exchange rates.
+economic fundamentals, such as GDP, consumption, exports, industrial production, inventories, inflation, commodity prices, interest rates and exchange rates.
 Let Y denote the vector of all these economic fundamentals, then the shipping
 variables included in the vector-Z are explained by the model:
 Z t = Z(Y t ,Y t−i )+e t for all i (A.29)
@@ -3433,8 +3400,6 @@ Y t = Y(U t ,U t−i )+e t for all i (A.30)
 In equation (A.30) e stands for all other non-systematic variables, not included
 t
 in vector-U that aff ect the vector-Y, again drawn randomly from a normal distribution with zero mean and constant variance.
-
-## 84 KARAKITSOS AND VARNAVIDES
 According to this framework, the owner forms expectations of the vector-Z by
 substituting equations (A.29) and (A.30) into (A.28) and setting the expected
 value of all error terms equal to zero:
@@ -3508,8 +3473,6 @@ A comparison of equation (A.33) with (A.20) shows the similarities and differenc
 varies inversely with the price and positively with profitability. In Strandenes the
 demand for ships depends on a direct comparison of profitability to the price of
 a ship. In our analysis the negative relation between the demand for ships and
-
-## 86 KARAKITSOS AND VARNAVIDES
 their price depends on its impact on the user cost of capital that hinges upon the
 elasticity of substitution between fleet and average speed in producing shipping
 services. A more expensive ship may be worthwhile than a cheaper one if the
@@ -3589,8 +3552,6 @@ P = I −1(d ⋅K),
 Similarly, equation (A.10) describes the dynamic adjustment path of vessel
 prices, which is consistent with optimising behaviour on the part of the owners.
 In long-run equilibrium, the time derivative of vessel prices is equal to zero. Thus,
-
-## 88 KARAKITSOS AND VARNAVIDES
 setting equation (A.10) to zero and solving for p gives the demand for fleet consistent with long-run equilibrium:
 FR⋅F −G ∂P
 p = K K , < 0 (A.43)
@@ -3608,7 +3569,7 @@ O K K
 Figure 3.A1 Shipyard long-run equilibrium
 
 O K
-Figure 3.A2 Adjustment of fl eet
+Figure 3.A2 Adjustment of fleet
 
 Figure 3.A1 plots the long-run demand curve for fleet and the long-run supply
 curve of the fleet (equations A.42 and A.43). The intersection of the demand and
@@ -3655,10 +3616,6 @@ not stable. In quadrant (III) the system is again not stable; vessel prices and 
 would shrink towards zero. But the system is not necessarily unstable in quadrants
 (II) and (IV). If we start with a price that is lower than the long-run equilibrium,
 such as point A in quadrant (IV), then the system is unstable. But if we started
-
-## 90 KARAKITSOS AND VARNAVIDES
-
-O K
 Figure 3.A3 Adjustment of NB vessel prices
 
 II
@@ -3679,9 +3636,10 @@ the line EE' is called the ‘saddlepoint' equilibrium path.
 The saddlepoint path implies the following adjustment path for vessel prices,
 investment and the stock of fleet. The vessel price would jump from P to P*
 
-THE EFFICIENCY OF SHIPPING
-MARKETS
-EXECUTIVE SUMMARY
+## Chapter 4: The Efficiency of Shipping Markets
+
+### Executive Summary
+
 In this chapter we explore the issue of whether freight rates and ship prices
 (newbuilding and secondhand) are ‘efficient'. This is an issue to which academic
 economists in the field of maritime economics, following similar lines of research
@@ -3712,8 +3670,6 @@ reversal of economic policy in the major economies from restoring growth and
 eliminating unemployment to the pre-crisis levels, to reining in public finances. It
 is the major cause of the distressed shipping markets from the spring of 2010 to
 the first half of 2013, as demand fell behind supply, predetermined from projections of rosy demand conditions before the crisis and in the aftermath following
-
-## 96 KARAKITSOS AND VARNAVIDES
 the swift recovery of demand until the Greek crisis. If markets were efficient in the
 short run, then time charter rates would have adjusted instantly to the low level of
 demand from this change of policy in such a way that in terms of expected profit
@@ -3805,8 +3761,6 @@ because an unjustified imposition of restrictions reduces the explanatory power
 of the model. Such a test may be computationally cumbersome to perform
 because it requires the estimation of two models: the restricted and the unrestricted one. An alternative test is to work with the unrestricted model and test
 whether the restrictions are met.
-
-## 98 KARAKITSOS AND VARNAVIDES
 What are the implications of the restrictions on the coefficients of the VAR
 for the freight market? First, there are no excess profits to be made by owners in
 choosing a time charter contract over a series of rolling spot contracts that span
@@ -3878,7 +3832,9 @@ of asset pricing, the higher the risk is, the higher the excess return.
 The principles of cointegration and time-varying risk premia help greatly in
 specifying models of freight rates and ship prices that enable owners to predict
 them. Therefore, these models help to improve shipping decision making.
-1 INTRODUCTION
+
+### 1 Introduction
+
 As we have seen in Chapter 2, freight rates have become asset prices and vessel
 prices (newbuilding and secondhand) are undisputedly asset prices. Thus, it is
 plausible to ask whether freight rates and ship prices can be predicted, as improved
@@ -3886,8 +3842,6 @@ shipping decision making requires that both are predictable. By nature, asset
 prices are widely thought to be unpredictable because they discount the implications of ‘news' on economic fundamentals, which are extremely volatile. But
 at a deeper level, the extent to which asset prices are unpredictable is due to the
 belief that asset markets are ‘efficient'. Hence, it is important to review the Efficient
-
-## 100 KARAKITSOS AND VARNAVIDES
 Market Hypothesis and the two widely used models that support it: the martingale and the random walk models. We then examine models of freight rates and
 vessel prices that are consistent with market efficiency and discuss the tests that
 can be conducted to test for efficiency in shipping markets. Finally, we present
@@ -3897,7 +3851,9 @@ Hypothesis and in sections 3 and 4 the martingale model and the random walk
 models that support it. In section 5 we analyse the tests for the efficiency of freight
 markets and present the empirical evidence. Section 6 deals with the same issues
 of ship prices, while the last section concludes.
-2 THE EFFICIENT MARKET HYPOTHESIS
+
+### 2 The Efficient Market Hypothesis
+
 The Efficient Market Hypothesis (EMH) is the simple statement that asset prices
 fully reflect all available information (Fama, 1970). More precisely, a market is
 said to be efficient with respect to given information set, if its prices remain unaffected by revealing that information to all market participants (Malkiel, 1992).
@@ -3969,8 +3925,6 @@ The meaning of the rule of iterated expectations is that with the information av
 when more information becomes available. Hence, the forecast two periods ahead
 is based only on the information available today.
 It is obvious that investors are rational when they treat their forecast as the mathematical expectation and they apply the principles of mathematical expectations.
-
-## 102 KARAKITSOS AND VARNAVIDES
 However, this is not sufficient to claim that they form rational expectations
 in the sense of Muth (1961) because their subjective expectations may differ.
 Expectations are formed rationally, in the sense of Muth, when investors, in the
@@ -4008,11 +3962,11 @@ observable. A hypothetical trading rule is therefore superior but it requires an
 explicit definition of the information set, the normal and excess return, and the
 trading costs. Following Roberts (1967), Fama (1970) defined three different
 information tests and hence three forms of efficiency.
-Weak-form Effi ciency: The information set includes only the history of prices
+Weak-form efficiency: The information set includes only the history of prices
 or returns.
-Semi-strong Effi ciency: The information set includes all publicly available
+Semi-strong efficiency: The information set includes all publicly available
 information.
-Strong-form Effi ciency: The information set includes in addition private information available to just few participants (insiders' information).
+Strong-form efficiency: The information set includes in addition private information available to just few participants (insiders' information).
 
 Fama (1991) introduced a slightly different taxonomy of efficiency with the
 hindsight of twenty years of research conducted between his first and second
@@ -4058,9 +4012,8 @@ the issue of whether the EMH implies models that reflect economic fundamentals. 
 fundamentals. Then we proceed to analyse models that contradict the EMH based
 on some form of irrationality, like fads. Finally, we examine the empirical evidence
 of which side may be right.
+### 3 The Martingale Model
 
-## 104 KARAKITSOS AND VARNAVIDES
-3 THE MARTINGALE MODEL
 The appeal and popularity of the martingale model is that it captures the notion
 of a fair game and hence the property of the EMH that no profits can be made.
 In broad terms, a fair game is one which is neither to your advantage nor to your
@@ -4091,7 +4044,9 @@ capital gains or losses, P - P , and hence a martingale defines a fair game in t
 t t - 1
 the expected profit is always zero. Hence, the martingale model captures the other
 property of market efficiency, namely, that no profits can be made.
-4 THE RANDOM WALK MODEL
+
+### 4 The Random Walk Model
+
 The simplest version of the random walk model is that the error terms are independently and identically distributed (IID) and that the dynamics of the asset
 price are governed by the law
 P = m + P +e e ∼ IID(0, s2) (4.10)
@@ -4146,8 +4101,6 @@ The empirical tests of the efficiency of freight markets are also borrowed from
 the field of finance (see Mankiw and Miron, 1986, and Campbell and Shiller 1987,
 1988 and 1991). Hale and Vanags (1989), Veenstra (1999a) and Kavussanos and
 Alizadeh (2002a) test the validity of the EMH with the last two papers applying
-
-## 106 KARAKITSOS AND VARNAVIDES
 the Campbell and Shiller methodology to the freight market. This methodology
 implies a transformation according to which the spot freight rate is subtracted
 from both sides of equation (2.23) in Chapter 2. The transformation enables
@@ -4230,8 +4183,6 @@ Substitution of (4.17) into (4.12) gives:
 t−1
 S t * = k ∑ (di −dt)[(ΔFR t+i )+e t+i ] (4.12b)
 i=1
-
-## 108 KARAKITSOS AND VARNAVIDES
 Equation (4.12b) enables the empirical testing of the joint hypothesis of market
 efficiency and rational expectations through equation (4.13). When rational
 expectations are used to compute the theoretical spread, S*, (i.e. (4.12b)) the
@@ -4320,8 +4271,6 @@ S t = ⎣ ⎢ 3 a 21 + 3 (a 2 2 1 +a 22 a 11 ) ⎦ ⎥ ΔFR t + ⎢ ⎣3 a 22 + 
 If the joint hypothesis of the expectations theory of the term structure of freight
 rates and the VAR system (4.22) and (4.23) for generating expectations, is valid,
 then the coefficients of both sides of (4.27) must be equal. This implies that the
-
-## 110 KARAKITSOS AND VARNAVIDES
 coefficient of ∆FR should equal zero, whereas the coefficient of S on the left hand
 t t
 side of (4.27) should equal the coefficient of S on the right-hand side:
@@ -4407,8 +4356,6 @@ The theoretical spread, on the other hand, is computed as forecasts of the VAR
 (equations (4.22) and (4.23) in this example). In other words, the perfect foresight
 spread is the actual spread assuming no errors in forecasting, whereas the theoretical spread is the best forecast of the spread based on past values of the spread
 and changes in spot freight rates. Under rational expectations the past values of
-
-## 112 KARAKITSOS AND VARNAVIDES
 these variables do not contribute to the forecast of the spread (orthogonality
 property). The perfect foresight spread is forward looking (that is, it discounts
 some future long-run equilibrium as a result of changes in current or expected
@@ -4499,8 +4446,6 @@ those of the unrestricted one and therefore the likelihood ratio statistic shoul
 statistically different from zero; and conversely, if the null hypothesis of market
 efficiency is valid the residuals from the unrestricted and restricted VAR should be
 approximately equal to each other and the likelihood ratio statistic should be zero.
-
-## 114 KARAKITSOS AND VARNAVIDES
 It can be shown that the likelihood ratio is distributed as a chi-squared (c2)
 distribution with degrees of freedom equal to the number of the restrictions.
 Therefore, the null of market efficiency against the alternative of inefficiency is
@@ -4584,8 +4529,6 @@ within the rational expectations framework or within the framework of AR or
 VAR models. This gives rise to the variance bounds tests.
 As we have seen in section 2, rational expectations imply that economic agents
 make no systematic errors in forecasting economic variables. This is summarised
-
-## 116 KARAKITSOS AND VARNAVIDES
 in equation (2.1). Applying equation (2.1) to the spread version of the expectations theory of the term structure (cf. equation (4.12)) defines the perfect
 foresight spread, denoted by S*:
 S* ≡ E (S )= S +u u ≈ NIID(0,s2) (4.40)
@@ -4668,8 +4611,6 @@ Tests
 
 So far, market efficiency has been viewed as an ‘all or nothing' condition. Markets
 are either efficient or inefficient; there is no grey area. In a dynamically evolving
-
-## 118 KARAKITSOS AND VARNAVIDES
 world market efficiency should hold in every period of time. This implies that
 economic agents learn instantly all new information, absorb its implications for
 profit opportunity or loss and react instantly to take advantage of it. This reaction
@@ -4755,8 +4696,6 @@ for the meaning and tests of stationarity and cointegration).
 There are four remarks that merit some attention here. First, although only one
 equation of the VAR is really necessary for testing for cointegration, as there is
 only one possible cointegrating vector, there is statistical informational efficiency
-
-## 120 KARAKITSOS AND VARNAVIDES
 to be gained by including the second equation of the VAR. In other words, more
 accurate estimates of the underlying coefficients are obtained by including both
 equations of the VAR. Nonetheless, as there is only one cointegrating vector, (that
@@ -4843,8 +4782,6 @@ assume that in the recent past the ex-post variance of the forecast errors is sm
 advice to formulate a strategy.
 In formalising these ideas it is instructive to start with by assuming that the
 risk premium is constant through time and test the validity of this hypothesis.
-
-## 122 KARAKITSOS AND VARNAVIDES
 A time-invariant risk premium means that investors demand at all times a fixed
 amount of money as a compensation to move from the time to the spot market.
 Taking expectations of both sides of (5.39) and remembering that the mean of the
@@ -4925,8 +4862,6 @@ the risk premium is time varying, but it does not provide for an explanation of
 the excess profit. This means that the mean function has to be reformulated.
 A convenient formulation is:
 p t+1 = 0 + 1 E t (s t 2 +1 ) +h t+1 (4.58)
-
-## 124 KARAKITSOS AND VARNAVIDES
 The mean function (4.58) along with the general GARCH model (4.57) is called
 a GARCH in mean model (GARCH-M). The specification of (4.58) has the
 appealing interpretation that the excess profit is related to the variance of the
@@ -5011,8 +4946,6 @@ restricted VAR. The restrictions on the coefficients of the VAR ensure the valid
 of the theory. But this method is cumbersome and has not been applied in the
 term structure of freight rates because it involves the estimation of two equations.
 An alternative much simpler test is to estimate the unrestricted VAR and then test
-
-## 126 KARAKITSOS AND VARNAVIDES
 for the validity of the restrictions. Veenstra (1999a) applies this test procedure, but
 there are methodological issues, which are corrected in Kavussanos and Alizadeh
 (2002a). The empirical evidence from this test does not support the EMH. But
@@ -5100,8 +5033,6 @@ factors, profitability and interest rates. Similarly, the composite impact of ex
 capital gains and interest rates is embedded in the present value of capital gains. To
 assess the impact of risk in efficient ship pricing it is important to decompose this
 composite effect to its two constituent components. This is done by borrowing
-
-## 128 KARAKITSOS AND VARNAVIDES
 the methodology developed by Campbell and Shiller (1988) in financial markets.
 Campbell and Shiller apply equation (4.63) to a stock price, where dividends
 appear instead of profits and where there is no resale value in period n so that
@@ -5188,8 +5119,6 @@ The VAR is specified with respect to the two possible variables that might form 
 cointegrating relation, namely the vessel price p and profit p. There is an equation
 t t
 for each one of the state variables. The order of the VAR is p; there are p-lags in each
-
-## 130 KARAKITSOS AND VARNAVIDES
 of the state variables. The order of the VAR is chosen with the Akaike Information
 Criterion or the Schwarz Information Criterion (see the Statistical Appendix).
 The existence of a cointegrating relation is tested through the Johansen procedure
@@ -5275,8 +5204,6 @@ an empirical result based on intuition. For example, in the exemplary study of
 Kavussanos and Alizadeh (2002b) the cointegrating vector is based on the notion
 that prices are cointegrated with profits, where the profit is modelled as the spread
 between a time charter equivalent rate and operating costs. The latter are modelled
-
-## 132 KARAKITSOS AND VARNAVIDES
 as an exponential growth rate regression. A notable exception to this rule is the
 study by Tsolakis, Cridland and Haralambides (2003), where the cointegrating
 vector is the reduced form of a demand-supply framework in the secondhand
@@ -5295,7 +5222,9 @@ this new trend is that of Jiang and Lauridsen (2012), which analyses the price
 formation of Chinese dry bulk carriers. The empirical evidence suggests that the
 time charter rate has the most significant positive impact on new prices followed
 by the cost of shipbuilding, the profit margin and the shipyard capacity utilisation.
-7 CONCLUSIONS
+
+### 7 Conclusions
+
 This chapter has explained the EMH and the statistical tests of the efficiency of
 freight rates and ship prices. The methodology has been borrowed from the financial
 markets, but has been adapted to shipping mainly by correcting for the finite life of
@@ -5357,8 +5286,6 @@ cov(e ,e )= 0 for all j ≠ 0 and all t (A.3c)
 t t−j
 Although in the real world we observe just one value of e in each period, the
 stochastic nature of e implies that there is an infinite number of observations that
-
-## 134 KARAKITSOS AND VARNAVIDES
 could have been observed forming an entire distribution. For each distribution in
 every period t the first property (A.3a) implies that the mean of the distribution
 is zero. The second property15 (A.3b) implies that the variance of each distribution assumes the same constant value, s2. This property is usually referred to as
@@ -5450,8 +5377,6 @@ Therefore, the mean of a random walk without drift is zero, but the variance ten
 to infinity as n increases (that is, it is not independent of time). The difference
 between a random walk with and without drift is that with drift the mean is time
 varying, whereas without drift the variance is time varying.
-
-## 136 KARAKITSOS AND VARNAVIDES
 Unlike the unconditional mean, the conditional mean uses the information in
 the time series to predict future values of y. For a random walk with and without
 drift the forecast of y ‘m' periods ahead is
@@ -5536,8 +5461,6 @@ the following test of stationarity. Subtract y from both sides of (A.1)
 t - 1
 Δy = a+⋅y +e = b −1 (A.18)
 t t−1 t
-
-## 138 KARAKITSOS AND VARNAVIDES
 If j = 0, then b = 1. If j < 0, then b < 1. Therefore, a test of stationarity (or unit
 root test) is whether j = 0 (null hypothesis) against the alternative that j < 0. If the
 null is accepted, then the right hand side of (A.18) is stationary, provided e is also
@@ -5638,8 +5561,6 @@ are two approaches that deal with a time trend. In the first case, the impact of
 time trend can be removed from the data by regressing the variable in question on
 a time trend and computing the residuals or the deviations from the trend. The
 new variable is stationary, as the trend has been removed, and can be included in
-
-## 140 KARAKITSOS AND VARNAVIDES
 the model of the two variables (x and y). There is an alternative method in which
 a time trend is added in the model of the two variables. In this alternative case the
 residuals are again stationary. In both cases the standard regression model (estimated through ordinary least squares, OLS) is computed with stationary series
@@ -5717,8 +5638,6 @@ a time charter contract is equal to the holding period yield of a number of roll
 spot contracts:
 Δy t = b 1 Δx t −(1−a 1 )(y t−1 −b 0 −b 1 x t−1 )+u t (A.28)
 Engle and Granger call such a model an Error Correction Model (ECM).
-
-## 142 KARAKITSOS AND VARNAVIDES
 The long-run equilibrium relationship, called the cointegrating relationship,
 between time charter and spot rates is given by the equation:
 y t = b 0 +b 1 x t +e t or e t = y t −b 0 −b 1 x t−1 (A.29)
@@ -5812,8 +5731,6 @@ This is the Engle-Granger representation theorem, which states that if y and x
 t t
 are cointegrated CI(1, 1), then there must exist an ECM (and conversely, that an
 ECM generates cointegrated series).
-
-## 144 KARAKITSOS AND VARNAVIDES
 Despite its many advantages equation (A.32) cannot be estimated directly
 through OLS in its current form because such estimation does not disentangle
 the product of coefficients (1 - p) b and (1 - p) b . The long term coefficients
@@ -5896,8 +5813,6 @@ can be represented as an infinite MA process:
 ∞
 (1−bL)y t = e t ⇒ y t =(1−bL) −1e t ⇒ y t = ∑ bie t−i (A.36)
 i=0
-
-## 146 KARAKITSOS AND VARNAVIDES
 Again, the AR(1) process should be invertible for the equivalent infinite MA
 representation to be valid. Notice that the solution of y in (A.36) is only valid,
 if the process is stationary, (that is, if (absolute) b < 1). This establishes Wold's
@@ -5936,8 +5851,6 @@ This system of equations is called vector-ARMA or simply (VAR) and can be
 written in matrix notation in the same form as (A.38):
 B(L)Y =Θ(L)e (A.41)
 t t
-
-## 148 KARAKITSOS AND VARNAVIDES
 a lag). This means that the system is not simultaneous; none of the variables on
 the right hand side are endogenous at time-t. Hence, a ‘reduced form' model is
 simply the solution of a system of simultaneous equations. The solution is an algebraic expression of past values of the endogenous and exogenous variables. The
@@ -6073,8 +5986,6 @@ does so, by separating the unit roots from the entire set of roots.
 The Johansen approach provides an advantage over the Engle-Granger twostage estimation procedure even when estimating a single equation model of more
 than two variables. To illustrate, consider that a modeller believes that there is a
 single cointegration relation among three variables and assume that this is indeed
-
-## 152 KARAKITSOS AND VARNAVIDES
 the case in the real world. Assume that this cointegration relation is represented
 by (A.50a). This implies that the second column of matrix-a in (A.48) is zero. The
 Engle-Granger procedure is valid only when a = a = 0 (i.e. only when y and
@@ -6107,8 +6018,10 @@ likelihood ratio statistic
 (A.57)
 which has a limiting χ null distribution with r(n - s) degrees of freedom.
 
-BUSINESS CYCLES
-EXECUTIVE SUMMARY
+## Chapter 5: Business Cycles
+
+### Executive Summary
+
 From a statistical point of view fluctuations in economic activity, called business
 cycles, are generated by random shocks, such as abrupt and sustained oil price
 changes or productivity improvements. These shocks can be either transitory or
@@ -6139,8 +6052,6 @@ rise to business cycles. The persistency of transitory shocks is due to multipli
 magnifying) effects that arise from the interaction of key macroeconomic variables.
 The New Consensus Macroeconomics (NCM) model provides a framework
 to analyse the effects of such shocks. Demand shocks cause output and inflation
-
-## 154 KARAKITSOS AND VARNAVIDES
 to move in the same direction (they both rise or fall). Thus, a positive shock
 increases output and inflation. Supply shocks cause output and inflation to move
 in opposite direction to each other. Thus a rise in the price of oil reduces output,
@@ -6190,7 +6101,9 @@ Section 7 discusses the role of fiscal policy and its limitations. Section 8 pro
 a case study in the practice of fiscal policy by considering the US President's fiscal
 budget for fiscal year 2013. Section 9 analyses the factors that determine potential
 output, while the last section concludes.
-1 A STATISTICAL EXPLANATION OF BUSINESS CYCLES
+
+### 1 A Statistical Explanation of Business Cycles
+
 Fluctuations in economic activity (usually called business or economic cycles)
 have invariably been costly in terms of employment, profits, the income of households and the distribution of income and wealth. In a recession, people lose their
 jobs, companies go bust and company profitability and incomes are eroded with
@@ -6224,8 +6137,6 @@ policy or from the private sector. For example, a change in the Fed funds rate
 signifies a shock from monetary policy. A change in tax rates (personal tax or
 corporate income tax or expenditure tax, like a sales tax or VAT) or a change in
 public consumption or public investment represents a shock from fiscal policy.
-
-## 156 KARAKITSOS AND VARNAVIDES
 Similarly, shocks from the private sector arise from changes in the propensity to
 save of the personal sector, as for example the effect of the baby-boomers, which
 resulted in initially a drop in the saving ratio or from the corporate sector - an
@@ -6263,8 +6174,6 @@ J J J J J J J J J J J J J J J J J
 > **Figure 5.1**: Nominal and real oil price (WTI)
 
 Source: Federal Reserve Bank of St Louis and authors' calculations.
-
-## 158 KARAKITSOS AND VARNAVIDES
 -1
 -2
 -3
@@ -6307,8 +6216,6 @@ FO
 OUTPUT GAP SERIOUSLY OVERHEATED SERIOUS UNDERCAPACITY
 
 > **Figure 5.3**: Output gap
-
-## 160 KARAKITSOS AND VARNAVIDES
 3.5
 2.5
 1.5
@@ -6326,7 +6233,9 @@ and Mankiw, 1987). Both fit the data reasonably well. Therefore, without theory
 we have reached a deadlock. The only approach forward is to specify a theoretical
 model for each of the two schools of economic thought and test which model can
 account better for the real world. This is the task of the next section.
-2 AN ECONOMIC INTERPRETATION OF BUSINESS CYCLES
+
+### 2 An Economic Interpretation of Business Cycles
+
 An economic interpretation of business cycles aims to explain not only fluctuations in output (real GDP), but also its relationship to other key macroeconomic
 variables. The stylised facts of this interrelationship are:
 • Changes in nominal GDP are strongly correlated with changes in output (real
@@ -6384,8 +6293,6 @@ goods markets.6 Wages and prices do not move fast enough to clear instantly the
 labour and the goods markets. Therefore, in the Keynesian system disequilibrium
 in the real sector is a typical state of affairs. Each market may have a different
 response speed, with some markets or economies moving faster to equilibrium
-
-## 162 KARAKITSOS AND VARNAVIDES
 than others. As the response of wages and prices may vary from very sluggish
 to infinitely fast Keynes claimed that the General Theory is indeed the general
 theory and the Classical system (infinitely fast response of wages and prices) is
@@ -6476,8 +6383,6 @@ which aimed to combine Keynes' General Theory with Neoclassical economics,
 was that Keynes won the policy war, while Neoclassical economics won the theoretical battlefield. The General Theory became the special case of Neoclassical
 Economics, but Keynesian policy prescriptions remained valid because wages and
 prices could not be trusted to clear markets fast enough to prevent the emergence
-
-## 164 KARAKITSOS AND VARNAVIDES
 of unemployment or inflation. Demand management through fiscal and monetary
 policies continued to be the norm. But another policy message was also clear. If
 the market mechanism was enhanced, by increasing the speed at which wages
@@ -6558,8 +6463,6 @@ costs of hiring, firing and training. The implication for employment is that the
 is absence of downward wage pressure even when there is high unemployment.
 The third approach falls under the heading ‘efficiency wages', according to which
 the productivity of labour depends on the real wage rate. In this case it is firms
-
-## 166 KARAKITSOS AND VARNAVIDES
 rather than unions or insiders that induce real wage resistance and therefore large
 fluctuations in employment.
 Price stickiness is partly the result of coordination problems. "Price setters" in
@@ -6572,7 +6475,9 @@ models, imply that the economy may fail to attain full employment. Therefore,
 New Keynesians argue that macroeconomic stabilization by the government
 (using fiscal policy) or by the central bank (using monetary policy) can lead to a
 more efficient macroeconomic outcome than a laissez faire policy would.
-3 THE NEW CONSENSUS MACROECONOMICS OR
+
+### 3 The New Consensus Macroeconomics Or
+
 NEO-WICKSELLIAN MODEL
 The macroeconomic model derived from New-Keynesian DSGE models has
 been called the "New Consensus Macroeconomics" (NCM) or Neo-Wicksellian
@@ -6646,8 +6551,6 @@ of output and the real interest rate. In the Life Cycle Hypothesis and Permanent
 Income Hypothesis of consumption a representative household would smooth
 his consumption over a planning horizon, which can be as long as his lifetime or
 even infinite, if he also cares about his heirs, in the face of volatile current income.
-
-## 168 KARAKITSOS AND VARNAVIDES
 It is intuitively appealing that the optimal plan consists of maintaining a smooth
 (or steady) level of consumption amidst income volatility. But the ability to do
 so depends on subjective and objective factors. How much smoothness does a
@@ -6729,8 +6632,6 @@ U Pt Q
 E ⎢ ct + 1 ⎥ = t (5.18)
 t ⎣ U P ⎦ d
 ct t + 1
-
-## 170 KARAKITSOS AND VARNAVIDES
 For an additive and separable utility function of the form:
 C1 − s N1 + j
 U(C , N )= t − t (5.19)
@@ -6810,9 +6711,8 @@ i = 0
 Proposition 2: Inflation today depends on the path of current and expected
 future output gaps. As these depend on current and monetary policy, inflation
 also depends on current and future monetary policy.
+### 4 Monetary Policy in the Ncm Model
 
-## 172 KARAKITSOS AND VARNAVIDES
-4 MONETARY POLICY IN THE NCM MODEL
 The NCM model, summarised in equations (5.5)-(5.8), is incomplete, as there is
 no equation determining the nominal interest rate. In the traditional IS-LM model
 the nominal interest rate (or the money supply) is determined by the central bank
@@ -6894,8 +6794,6 @@ system. It measures the output loss per unit reduction in inflation, which as we
 have seen depends on the degree of price rigidity in the economy. The more rigid
 prices are the deeper the required recession. But this is counterbalanced by the
 willingness of the central bank to tolerate a negative output gap. This is measured
-
-## 174 KARAKITSOS AND VARNAVIDES
 by the coefficient a in the objective function (5.26), which reflects the importance the central bank assigns to the output gap relative to inflation. The more
 the central bank cares about the output gap relative to inflation, the shallower the
 required recession, but the longer the process of converging back to the target
@@ -6985,8 +6883,6 @@ r = (1 − c )[RN + E (p )+ c (Y − Y) + c (p − pT)] + c r + u
 t 0 t t+1 1 t−1 2 t−1 0 t−1 3t
 c , c > 0, 0 < c < 1 (5.34)
 1 2 0
-
-## 176 KARAKITSOS AND VARNAVIDES
 −
 x =Y−Y=0 (5.35)
 t t
@@ -7061,8 +6957,6 @@ long run. Hence, demand management (fiscal and monetary policy) has only
 transient macroeconomic effects. In the long run policy has a zero effect on real
 variables - long-run policy neutrality. The long-run policy neutrality property of
 the NCM model reflects the Classical system and achieves maximum consensus
-
-## 178 KARAKITSOS AND VARNAVIDES
 in the profession. In contrast to output, inflation is under the sole control of
 the central bank, in the long run. The central bank can choose as its target any
 rate of inflation, as this is independent of the level of potential output. This
@@ -7133,15 +7027,14 @@ Interest rate R Inflation P
 0.0%
 Dec-07 Jun-08 Dec-08 Jun-09 Dec-09 Jun-10 Dec-10 Jun-11 Dec-11 Jun-12 Dec-12 Jun-13 Dec-13
 
-> **Figure 5.8**: Infl ation and interest rate response to a negative demand shock under optimal monetary policy
+> **Figure 5.8**: inflation and interest rate response to a negative demand shock under optimal monetary policy
 
-6 A REFORMULATION OF THE NCM MODEL
+### 6 A Reformulation of the Ncm Model
+
 Despite the popularity of the NCM model and its acceptance by major central
 banks, monetary policy has not been successful in shielding the financial and
 economic system from the excessive liquidity that has financed a series of bubbles
 in the new millennium.17 The biggest testament of this failure is the credit crisis
-
-## 180 KARAKITSOS AND VARNAVIDES
 of 2007-08 and the resulting Great Recession. Central banks have been unable to
 detect and monitor this liquidity, which has developed in a shadow banking system
 outside the regulatory control of the monetary authorities. In the aftermath of the
@@ -7209,7 +7102,9 @@ in simulating the causes of the recent credit crisis. Credit risk soared during
 the crisis, resulting in a widening of this spread and other spreads in the financial system. The presence of a real net wealth target is sufficient to stabilise the
 economy even in the presence of shocks resulting from widening credit spreads
 (see Karakitsos, 2009).
-7 FISCAL POLICY IN BUSINESS CYCLES
+
+### 7 Fiscal Policy in Business Cycles
+
 Fiscal policy is an arm of demand management policies,19 which aim to reduce
 the amplitude of business cycles by controlling the level of demand in the
 economy, as opposed to supply.20 The emphasis on demand rather than supply
@@ -7231,8 +7126,6 @@ than potential (that is, when GDP growth exceeds the rate of growth of potential
 output) and expansionary or easy when the economy is in recession or operates
 with spare capacity (GDP growth less than potential).
 Fiscal policy impacts the rate of growth of GDP through the following channels: (a) the level of government expenditure used for consumption. This includes
-
-## 182 KARAKITSOS AND VARNAVIDES
 the wages and salaries of all public sector employees and procurement by all
 government departments, such as computers, public health care and defence
 expenditure; (b) the amount of public investment for infrastructure, such as
@@ -7325,8 +7218,6 @@ $375 million:
 Y
 The $625 million would be self-financed. This is the difference between
 microeconomics and macro-economics.
-
-## 184 KARAKITSOS AND VARNAVIDES
 If the budget deficit is large and public debt is uncomfortably high, fiscal
 policy can still be used to get the economy out of a recession. This can be done by
 spending and taxing at the same time, so that the budget does not increase even in
@@ -7345,7 +7236,9 @@ given by the total differential:
 ∂Y ∂Y 1 − C
 dY = ⋅dG + ⋅dT = ⋅dG + Y dt (5.48)
 ∂G ∂t 1 − C (1 − t ) 1 − C ⋅(1 − t ) 0
-0 Y Y Y Y
+
+### 0 Y Y Y Y
+
 For simplicity, it is assumed that the tax increases take place by reducing tax
 allowances (tax thresholds), which are denoted by t . To derive the amount by which tax allowances should be reduced we take the total differential of the tax
 equation and solve it for dt
@@ -7425,8 +7318,6 @@ r
 With three leakages (savings, taxes and money) the multiplier is reduced to
 1.32. Thus, for every billion increase in government spending GDP increases by
 1.32 billion.
-
-## 186 KARAKITSOS AND VARNAVIDES
 The above formula (5.51) shows the factors that affect the size of the multiplier:
 the marginal propensity to consume, the marginal tax rate, the income sensitivity of
 the demand for money, the interest sensitivity of investment and the interest sensitivity of the demand for money. Each one affects the multiplier in the following way.
@@ -7516,8 +7407,6 @@ increases, as they would hurt the rich. Therefore, governments find it easier to
 leave the task of tightening fiscal policy to the next government. This creates an
 upward trend in public debt, which at some point like the severe recession of
 2008-09 creates an insolvency problem for the government. Because of this drawback of fiscal policy, many countries have opted for the use of monetary policy in
-
-## 188 KARAKITSOS AND VARNAVIDES
 demand management. The task of tightening monetary policy rests not with the
 government, but with an independent central bank. This makes it politically easier
 to reverse policies when the economy is booming.
@@ -7600,8 +7489,6 @@ which there is huge excess capacity, the extent to which interest rates would ri
 is minimal. The Fed does not foresee interest rates rising before the end of 2014.
 Therefore, the crowding-out effect on investment is likely to be minimal in the
 first two years of the stimulus (2013-14). According to the K-model the impact
-
-## 190 KARAKITSOS AND VARNAVIDES
 on the economy in 2013 would increase the nation's output by $0.6-0.7 trillion
 from the $0.5 trillion purchases of goods and services and by $0.9-1.1 trillion
 from the tax cuts. The K-model first year multipliers are 1.1-1.2 for government
@@ -7672,7 +7559,9 @@ assumptions the negative impact on the capital stock would be mitigated by the
 effect of income tax cuts on labour. According to the K-model the negative impact
 on GDP through lower potential output would probably be between - 0.5 per cent
 and - 1 per cent.
-9 POTENTIAL OUTPUT
+
+### 9 Potential Output
+
 The prevailing view among economists is that business cycles are caused by transitory but persistent random shocks.27 This view entails that there are different
 forces that shape the trend in GDP and the cyclical fluctuations. Whereas the
 theory of business cycles deals with how transitory shocks propagate through the
@@ -7688,8 +7577,6 @@ process that demand higher marginal costs and therefore cause higher inflation.
 Hence, when the economy grows faster than potential, there is overheating which
 is associated with accelerating inflation. On the other hand, if actual growth is less
 than potential, there is spare capacity in the economy, marginal costs are falling
-
-## 192 KARAKITSOS AND VARNAVIDES
 and therefore inflation abates. So, the rate of growth of potential output helps to
 differentiate when the economy is overheated and when it operates with spare
 capacity. Accordingly, potential output is properly defined as the maximum rate
@@ -7776,8 +7663,6 @@ similar measures of the productive capacity of the economy. The two are related 
 each other through Okun's Law (1962). This law links the goods with the labour
 market. In particular, it establishes a relationship in which shocks that emanate
 from the goods market are transmitted to the labour market. Thus, if there is a
-
-## 194 KARAKITSOS AND VARNAVIDES
 negative output gap (actual growth falls short of potential) it will lead to higher
 unemployment. If the goods market is in equilibrium then the labour market will
 also be in equilibrium. These concepts are summarised in Okun's Law
@@ -7863,8 +7748,6 @@ As an example of this method consider Table 5.2, which accounts for the rate
 of growth of potential output in the non-farm business sector and the overall
 economy using the supply determinants of equation (5.54). These are CBO estimates based on annual data until 2000. Potential output for the overall economy
 is derived by summing up the potential output of five sectors: non-farm business,
-
-## 196 KARAKITSOS AND VARNAVIDES
 Table 5.1 Accounting for growth in US potential output
 Average annual percent change
 Item 1960 III to 1973 IV 1973 IV to 1990 III 1990 III to 2003
@@ -7951,8 +7834,6 @@ change in the economy took place in the second half of the 1990s.
 
 The concept of potential output plays a vital role in the demand management
 of the economy and in defining neutral fiscal policy (the stance of fiscal policy
-
-## 198 KARAKITSOS AND VARNAVIDES
 consistent with the economy growing at the rate of potential output). Potential
 output helps to distinguish when the economy is overheated and therefore when
 inflation is on the rise and when there is spare capacity in the economy, which
@@ -7989,7 +7870,9 @@ to unwarranted fluctuations. Statistical estimates of NAIRU are highly uncertain
 Few models can claim a margin of error within one percentage point. Despite
 these drawbacks careful statistical estimation may overcome or mitigate these
 problems in estimating potential output.
-10 CONCLUSIONS
+
+### 10 Conclusions
+
 In theory, it is the response of central banks to exogenous shocks that generates
 business cycles. But in practice most shocks have an insignificant effect on output,
 invoking no response from central banks. Shocks which necessitate central bank
@@ -8036,8 +7919,6 @@ IMPLICIT CONTRACTS
 The ‘implicit contract' theory was developed simultaneously by Azariadis (1975),
 Baily (1974) and D. Gordon (1974) and aims to explain nominal wage rigidity.
 The original models could not explain greater volatility in employment and
-
-## 200 KARAKITSOS AND VARNAVIDES
 unemployment than the perfectly competitive market (that is, the Walrasian
 model) (see for details Akerlof and Miyazaki, 1980 and Grossman and Hart,
 1983). This result is consistent with the findings of Arrow and Debreu that insurance contracts improve the functioning of competitive economies by making
@@ -8124,8 +8005,6 @@ considered as the outcome of a bargain between insiders and employers, while
 outsiders are unable to influence either the wage rate or the level of employment.
 Insiders have bargaining power that arises from turnover costs, such as the costs
 of hiring, firing and training. Incumbent employees exploit these turnover costs
-
-## 202 KARAKITSOS AND VARNAVIDES
 in bargaining with employers without taking into consideration the interests of
 outsiders and raise wages above the clearing market level, thereby creating unemployment. The bargaining power of insiders makes it possible for them to extract
 a share of the product market rents earned by firms. Real wage rigidity is an optimal behaviour in these models because turnover costs make it costly for employers to replace their incumbent employees with unemployed workers. Outsiders
@@ -8205,8 +8084,6 @@ contracts could be tied with performance bonds which the workers could forfeit
 if it turned out that they were not as good as they claimed. These issues have
 given rise to more elaborate models, like the ‘moral hazard' in which firms have
 an incentive to charge individuals for training that they do not provide. Other
-
-## 204 KARAKITSOS AND VARNAVIDES
 models are based on the observation that individuals do not have sufficient wealth
 to post bonds or that they are more risk averse than firms. These issues are not yet
 resolved because critics counter-argue that some effective bonding is observed in
@@ -8290,8 +8167,6 @@ costs of informing customers, customer annoyance of changing prices and the
 administrative cost of taking the decision to change prices. In the presence of
 such menu costs it is optimal for firms not to change prices and allow output and
 employment to fluctuate in response to shifts in demand. But these costs by their
-
-## 206 KARAKITSOS AND VARNAVIDES
 very nature must be small and therefore the question arises as to how they can
 account for the large fluctuations in output and employment observed in industrialised countries such as the US or the UK. The important point is that even
 small menu costs can produce large fluctuations in output and employment and
@@ -8379,8 +8254,6 @@ to long-run equilibrium. Furthermore, on the assumption that the economy is hit
 predominantly by aggregate demand shocks, there is no correlation between the
 real wage rate and output. In this model, therefore, there is scope for s tabilisation
 policy.
-
-## 208 KARAKITSOS AND VARNAVIDES
 In the Blanchard-Fischer-Taylor models staggering is not explained and the
 timing of price changes is exogenous. Therefore the question arises as to why firms
 and unions adopt staggering while they would be better off under synchronization.
@@ -8413,9 +8286,10 @@ theory of wage-price stickiness that can explain all stylised facts in the labou
 the goods markets. Nevertheless, these theories are useful in clarifying the issues
 and suggesting the ways for future research.
 
-THE THEORY OF SHIPPING
-CYCLES
-EXECUTIVE SUMMARY
+## Chapter 6: The Theory of Shipping Cycles
+
+### Executive Summary
+
 The theory of shipping cycles so far has been shaped primarily by two models, the
 Tinbergen-Koopmans model and the Beenstock-Vergottis model.
 The fundamental contribution of the Tinbergen-Koopmans model is that
@@ -8448,8 +8322,6 @@ of time, say a month, by choosing both the average fleet speed and the size of t
 fleet, so as to equate the return on shipping, adjusted for a variable risk premium,
 with the return on other competing assets, such as the short- or long-term interest
 rate. The fleet is adjusted monthly to reach the optimum via the secondhand and
-
-## 210 KARAKITSOS AND VARNAVIDES
 scrap markets. An owner adjusts his actual to the optimal fleet on a monthly basis
 by considering whether to buy or sell additional vessels in the secondhand market
 or scrap existing vessels according to the principle of monthly profit maximisation. Thus, an owner operating in the BV framework may expand the fleet one
@@ -8533,8 +8405,6 @@ lag between placing orders for ships and the ability of shipyards to deliver (th
 is, the delivery lag).
 The mechanics of this model can be summarised as follows. The demand for
 shipping services is considered as being perfectly inelastic to freight rates and it
-
-## 212 KARAKITSOS AND VARNAVIDES
 is assumed to be constant through time so that we can abstract from its influence
 in shipping cycles. Thus, at any point in time, t, the demand for shipping services,
 Qd, is equal to a constant Q
@@ -8619,8 +8489,6 @@ and r, which is negative.1 The first coefficient, l, measures the response of th
 fleet to freight rates (how quickly owners adjust the fleet to a permanent change in
 freight rates), which depends on the elasticity of the demand for vessels to freight
 rates. The second coefficient, r, measures the response of freight rates to the fleet,
-
-## 214 KARAKITSOS AND VARNAVIDES
 which depends on the elasticity of supply of shipping services to freight rates.
 Thus, - lr, which measures the intensity of reaction, is equal to the product of the
 elasticity of demand for ships to freight rates times the inverse of the elasticity of
@@ -8656,15 +8524,13 @@ dynamic adjustment is slower, the slower the coefficient.
 The Tinbergen-Koopmans model may be rudimentary, but it captures a very
 important aspect of shipping cycles, namely the shipyard delivery lag. The model
 links the shipyard and freight markets in explaining shipping cycles by invoking
-Table 6.1 Dynamic fl eet adjustment
+Table 6.1 Dynamic fleet adjustment
 - lr < 0.25 Real roots. Monotonic convergence to equilibrium.
 - lr = 0.25 Two equal roots. Fast monotonic convergence to equilibrium.
 - lr > 0.25 Complex roots. Oscillatory (cyclical) adjustment.
 - lr < 1 Damped oscillations. Stable system.
 - lr = 1 Regular oscillations around equilibrium.
 - lr > 1 Explosive oscillations. Unstable system.
-
-## 216 KARAKITSOS AND VARNAVIDES
 Fleet Freight rates
 700 2550
 0 2250
@@ -8734,8 +8600,6 @@ scrap) are not jointly determined. The decisions can be arranged in such a way
 so that one follows from the other. This has huge implications for the interaction
 of the secondhand and newbuilding markets. In the BV model the major asset
 market is the secondhand market. The price of secondhand vessels is obtained
-
-## 218 KARAKITSOS AND VARNAVIDES
 from an arbitrage condition that equates the returns, allowing for a risk premium,
 between shipping and alternative assets, on the assumption that all asset markets
 (and ships are such an asset) are efficient. The price of newbuilding vessels is
@@ -8822,8 +8686,6 @@ negatively on the price of bunkers. Hence, higher freight rates induce owners to
 fast steaming, whereas higher bunker costs to slow steaming.
 By substituting the optimal speed to equation (6.25) and taking logs, equation
 (6.17) is obtained. The profit function (6.25) implies that an owner maximises
-
-## 220 KARAKITSOS AND VARNAVIDES
 short-term profits (profits per time period) rather than long-term profits (profits
 over the lifetime of the vessel). As is shown in Chapter 3, this piecemeal approach
 is valid for speed decisions, but not for investment in buying ships. The reason is
@@ -8908,8 +8770,6 @@ prices to be equal to the predicted values of the model. These model consistent
 expectations, assume that all owners and charterers form the same expectations
 (uniform expectations) and use this particular model to form such expectations.
 Moreover, this model is further assumed to be the ‘true' model of the shipping
-
-## 222 KARAKITSOS AND VARNAVIDES
 market because it is clear that if every economic agent uses a different model, then
 market expectations would not be uniform. But if this model happens to be the
 true model, then in time agents would learn from their mistakes and converge to
@@ -8991,8 +8851,6 @@ PT
 With the restrictions imposed on b and g, deliveries are a positive function of the
 newbuilding price and a negative function of the price of steel. Taking logs on both
 sides of (6.34) yields equation (6.21). Equation (6.34) can easily be generalised
-
-## 224 KARAKITSOS AND VARNAVIDES
 for more than one variable input. Thus, for two variable inputs, steel and labour
 equation (6.34) involves the ratio of the newbuilding price to the price of steel and
 the ratio of the newbuilding price to wages.
@@ -9075,8 +8933,6 @@ Once p is obtained from (6.43), equation (6.39) can be solved for the freight
 rate, f. Thus, f = {(a⋅[Δq + m ⋅pt + m ⋅psc] + r) + g ⋅pb} (6.44)
 1+g 1 2
 cu = q - k = g . f - g . pb (6.45)
-
-## 226 KARAKITSOS AND VARNAVIDES
 Finally, substituting the value of freight rates from (6.44) into (6.38) the steadystate value of cu is obtained.
 Equation (6.42) implies that in this uniquely defined steady-state vessel prices
 (newbuilding and secondhand ones, as the two are equal in the long run) are
@@ -9167,8 +9023,6 @@ f - g
 .
 pb (6.46)
 p = (1 + g) . f - g . pb (6.47)
-
-## 228 KARAKITSOS AND VARNAVIDES
 . ∑ .
 ps = a 1 p + a 2 . ps - a 3 r (6.48)
 ∑
@@ -9298,8 +9152,6 @@ the rate of growth of demand increases from a to b and this shifts the cu > 0 lo
 to the right. Final equilibrium would be attained at B with higher fleet capacity
 utilisation at cu** and higher SH prices at ps**. The dynamic adjustment of SH
 prices involves an initial jump from A to C at the initial fleet capacity utilisation
-
-## 232 KARAKITSOS AND VARNAVIDES
 • • • •
 cu = 0, q = a cu = 0, q = b
 S
@@ -9333,7 +9185,9 @@ the future fleet capacity utilisation. Moreover, the profit rate in the BV model
 adjusts gradually in line with freight rates. In our model, the profit rate also jumps.
 Notice that the profit rate in the BV model would have jumped if it wasn't for the
 assumption that future profits are equal to current ones.
-3 AN INTEGRATED MODEL OF BUSINESS
+
+### 3 An Integrated Model of Business
+
 AND SHIPPING CYCLES
 We have followed a painstaking path in reaching the point where we can put
 together a complete shipping model capable of explaining shipping cycles in a way that overcomes the problems encountered in the studies reviewed so far.
@@ -9373,8 +9227,6 @@ ktrd = A + q + s [fr − ucs]
 2 (6.60)
 UCS = (r + d)⋅PS + G (I ,K )− [E (PSC ) − PSC ]
 t t t K t t t t + 1 t
-
-## 234 KARAKITSOS AND VARNAVIDES
 ktrs = f A + f [s − E s ] + f E (q ) + f E[fr −ucs ] + f ps (6.61)
 1 2 t t − 1 t 3 t t + 1 4 t t + 1 t + 1 5 t
 f > 0, f < 0, f < 0, f < 0, f > 0
@@ -9470,8 +9322,6 @@ shipping services, s. As in most cases s < 1, the demand for shipping services i
 more important than relative prices - a result that is common in the newbuilding
 and secondhand markets. The demand for secondhand ships (6.60) is a log-linear
 version of equation (3.28) in Chapter 3.
-
-## 236 KARAKITSOS AND VARNAVIDES
 The supply of secondhand ships is given by equation (6.61), which is a loglinear version of equation (3.30) in Chapter 3. Equilibrium in the secondhand
 market requires that demand should be equal to supply, equation (6.62). The
 equilibrium condition determines the traded fleet in the secondhand market and
@@ -9521,7 +9371,9 @@ obtained as a residual (recursively) after the system of equations (6.56)-(6.66)
 has been solved. Hence, the freight period market does not impact directly on
 the rest of the system, but the other way round. In this sense it is determined as a
 residual (recursively).
-4 THE PROPERTIES OF THE INTEGRATED MODEL
+
+### 4 The Properties of the Integrated Model
+
 In working out the dynamic properties of the integrated system, it is convenient to
 solve first the macro model, which is an input to the shipping model. The macro
 environment affects shipping through the demand for shipping services and by
@@ -9558,8 +9410,6 @@ j = 0
 Equation (6.69) shows that in bargaining over the current freight rate, charterers form expectations of current and future economic fundamentals. These
 expectations relate to the fleet capacity utilisation and exogenous variables, such
 as bunker costs and port congestion. Expectations of fleet capacity utilisation
-
-## 238 KARAKITSOS AND VARNAVIDES
 require separate expectations for the demand for shipping services and the fleet.
 Assuming a shipyard delivery lag of two years and that scrapping is proportional
 to the existing fleet, the fleet today is equal to expectations of demand formed
@@ -9596,7 +9446,7 @@ rate depends mainly on current and past expectations of future real interest
 rates and, consequently, on the future conduct of monetary policy. Expectations
 of higher real interest rates (tightening of monetary policy) imply lower demand
 for dry and, consequently, lower freight rates at present; and vice versa.
-Therefore, by observing current infl ation and the output gap and knowing the
+Therefore, by observing current inflation and the output gap and knowing the
 central bank's targets one can deduce the future path of nominal interest rates.
 In working out the properties of the newbuilding and secondhand prices it
 is convenient to assume a specific function for the costs of adjusting the fleet,
@@ -9647,8 +9497,6 @@ s = t s
 ⎛ a ⎞
 ⋅⎜ FR ⋅CU1/s + d(I − dK )⎟
 ⎝ Ar s − t + 1 s − t + 1 s − t + 1 s − t + 1 ⎠
-
-## 240 KARAKITSOS AND VARNAVIDES
 The second term on the left-hand side is the cost of adjusting the fleet and the last
 term on the right-hand side are the economies of scale produced by adding one
 more vessel to the owner's fleet. According to equation (6.78), the marginal cost
@@ -9666,7 +9514,7 @@ t − 3 t + j − 2 t − 2 t + j − 1
 d(I −dK )] m <1
 s−t+1 s−t+1
 The last equation enables the formulation of the following proposition.
-Proposition 2: The cost of a new vessel (price plus cost of fl eet adjustment)
+Proposition 2: The cost of a new vessel (price plus cost of fleet adjustment)
 depends in a non-linear manner on current and past expectations of future
 real interest rates and economies of scale. As the latter is not very sensitive
 to shipping cycles, it follows that in the main expectations in the shipyard
@@ -9723,8 +9571,6 @@ the rate of growth of fleet demolition is a positive function of the rate of gro
 of scrap prices (psc) and a negative function of the rate of growth of secondhand
 prices. The elasticity of demolition with respect to scrap and secondhand prices
 is equal to h , but with opposite signs. A one percent increase in scrap prices, other things being equal, leads to an h percent increase in demolition, while a one
-
-## 242 KARAKITSOS AND VARNAVIDES
 percent increase in secondhand prices leads to an h decrease in demolition. The equal but opposite impact of scrap prices and secondhand prices on demolition
 is the logical implication of owners comparing the price of scrap relative to the
 secondhand price in deciding whether to scrap a vessel or not.
@@ -9806,8 +9652,6 @@ cost of capital in the newbuilding and secondhand markets, the output gap in the
 macro-economy, inflation, the nominal interest rate and the demand for shipping
 services. The system of equations (6.89)-(6.99) is recursive. The macro model
 can be solved first to determine the demand for shipping services. With demand
-
-## 244 KARAKITSOS AND VARNAVIDES
 determined, the shipping model determines the rest of the shipping variables.
 As we have seen in section 6.4, the importance of the integrated model lies in
 explaining the demand for shipping services and how expectations in the shipping
@@ -9923,7 +9767,9 @@ current freight rates. This is an extreme case, not likely to be experienced in 
 real world. Nonetheless, the simulation highlights the importance of discounting
 future economic fundamentals in freight rate bargaining, which can generate
 perverse results under extreme assumptions.
-6 CONCLUSIONS
+
+### 6 Conclusions
+
 All shipping variables exhibit cyclical fluctuations around the long-run equilibrium in response to unexpected shocks in the economy. Demand shocks in the
 economy, such as a temporary drop in aggregate demand, cause cyclical fluctuations in the economy. Thus, a temporary negative demand shock causes recession
 in the economy and lowers inflation. The recession triggers a fall in the demand
@@ -9937,8 +9783,6 @@ an adverse demand shock by cutting the nominal interest rate (the overnight
 rate, such as the Fed funds rate) sufficiently to engineer a drop in real interest
 rates, as it is that these rates affect the spending decisions of households and
 firms. Lower real interest rates expedite the adjustment of the economy back to
-
-## 250 KARAKITSOS AND VARNAVIDES
 long-run equilibrium. The shipping market reacts to actual and expected developments in the economy. The actual demand for shipping services rebounds in
 response to the recovery of the economy, thereby triggering improvements in
 the fleet capacity utilisation rate. Expectations of such developments also affect
@@ -9974,8 +9818,11 @@ which creates a synthesis of the whole effort of all previous chapters, corrects
 the assumption of shipping market efficiency. This chapter shows how expectations affect shipping cycles when shipping markets are inefficient.
 
 THE MARKET STRUCTURE OF
-SHIPPING AND SHIP FINANCE
-EXECUTIVE SUMMARY
+
+## Chapter 7: Shipping and Ship Finance
+
+### Executive Summary
+
 In Part III of the book we move from theory to practice. In this Chapter we analyse
 the market structure of shipping, the key players and basic facts related to earnings and asset values. The capital market structure of shipping is investigated in
 section 2. We then examine in Section 3 the role of finance in shaping shipping
@@ -9990,7 +9837,9 @@ fleet in order to keep freight rates low. In section 5 we deal with this issue a
 conclude that on a cost-benefit analysis it does not make any sense for China to
 do so; the benefits of lower freight rates are offset by the cost of extra investment
 required to increase the fleet.
-1 THE MARKET STRUCTURE
+
+### 1 The Market Structure
+
 Shipping is one of the last large perfectly competitive markets where the laws of
 supply and demand control the market and prices. In particular, freight rates are
 set by the equilibrium price of demand and supply.
@@ -10004,8 +9853,6 @@ marine-related market was estimated to be valued at over US$3trillion in 2013
 and continues to grow. In the EU, 90 per cent of external trade is carried by sea.
 Greek owners represent around 20 per cent of the world fleet in dwt terms,
 but of the approximately 800 owners, only around 200 are of much global
-
-## 254 KARAKITSOS AND VARNAVIDES
 significance. The largest owners are now found in the Far East, including Cosco
 with approximately 1000 vessels, and the two large Japanese carriers, NYK
 and MOL.
@@ -10083,7 +9930,9 @@ made for inflation. Tanker values have been normalized to a double-hull basis.
 The mean of the data is the simple average of each dataset. The median is the
 middle point of the data - half of the observations are smaller than the median
 and half are larger.
-2 THE CAPITAL MARKET STRUCTURE FOR SHIPPING
+
+### 2 The Capital Market Structure for Shipping
+
 Since the arrival of the Eurodollar markets around 1966, the market for financing
 vessels has been dominated by commercial bank lending. Around 80 per cent
 
@@ -10125,8 +9974,6 @@ years investment bankers brought too many shipping companies to market
 without sufficient analysis of the likely performance when the inevitable downturn arrived. This led to massive losses for many investors and a collapse of
 many share prices and indeed several Chapter 11 filings or major restructurings for once mighty companies including OSG (not a recent IPO company),
 Genmar, Excel, Torm and others.
-
-## 258 KARAKITSOS AND VARNAVIDES
 Investors also lost money in the 1990s from the collapse of the so-called junk
 bonds. These instruments again were promoted by investment banks with structures that made no sense. Old vessels had bullet repayment profiles after ten years
 when the vessels would have been scrapped.
@@ -10167,8 +10014,6 @@ in 2013 was that vessel prices were historically low - and so were freight rates
 Therefore, in a cyclical business the downward risk is low and the upward opportunity is high. This may or may not turn out to be the case, but the ability of many
 of these investors to realise their gain, say in 2015 when markets may be better, is
 likely to be limited. Time will tell.
-
-## 266 KARAKITSOS AND VARNAVIDES
 3 BANKS, SHIPPING CYCLES AND THE SUPPLY
 AND DEMAND EQUATION
 As we have seen at the start of this chapter, banks have been the most significant
@@ -10213,7 +10058,8 @@ had a portfolio of nearly US$20 billion at its peak in 2008, has now exited
 the industry and large parts of its portfolio have been sold to funds such as
 Oaktree Capital.
 
-4 AN EVALUATION OF SHIP FINANCE CONSTRAINTS
+### 4 An Evaluation of Ship Finance Constraints
+
 Ship finance in the ‘modern era' can be traced back to eighteenth-century England.
 Shipping was a leading activity although the word shipowner did not appear in the
 English language until around 1790 in the Newcastle registry. Before that we had
@@ -10255,8 +10101,6 @@ happily concede that 2012 is a far better time to be considering ship finance lo
 than 2007.
 In 2007 most banks were happy to lend 80 per cent at margins under 100 basis
 points (bp) for periods of up to ten years on 18-year profiles. Clearly this was risky
-
-## 268 KARAKITSOS AND VARNAVIDES
 even at the time as the value of some assets such as capes were three times their
 15-year average. Banks and owners thought they might be protected with long-term charters but when the freight market collapsed, the charterers renegotiated.
 In most cases, a charter is a one-way option in favour of charterers. If charterers
@@ -10344,11 +10188,11 @@ follow.
 Thi s has implications for owners' strategies. What should the prudent owner do
 to minimise risk? What is the optimal strategy? The following may seem obvious
 but it has clearly not been followed by the majority of owners in the past who have
-
-## 270 KARAKITSOS AND VARNAVIDES
 simply assumed a dollar from one bank is the same as a dollar from another, and
 often aim merely to minimise borrowing costs.
-5 OPTIMAL STRATEGIES
+
+### 5 Optimal Strategies
+
 1. Have a number of banks; say one bank for every five vessels. Try not to borrow
 more than $250m from each bank.
 2. Give ancillary business only to banks lending to you. In the long run this will
@@ -10401,7 +10245,9 @@ cent of the world's trade is carried on ships and therefore shipping and shippin
 finance will always exist. What will change is the price of ship finance, its terms
 and the make up of lenders. However, memories tend to be short and no doubt
 the same mistakes of the past will be repeated in the next boom.
-6 CONSPIRACY THEORIES IN SHIPPING
+
+### 6 Conspiracy Theories in Shipping
+
 During the 1960s and 1970s a thesis developed that it was greatly beneficial to
 Japan Inc. for freight rates to be kept low as they benefitted both exports from
 Japan and imports into Japan. Therefore, the theory assumed that there was a
@@ -10433,9 +10279,10 @@ traditional cycle of shorter cycles of high freight rates followed by longer per
 of low but not catastrophic markets. As the book goes to print this is exactly what
 is happening.
 
-THE FINANCIALISATION
-OF SHIPPING MARKETS
-EXECUTIVE SUMMARY
+## Chapter 8: The Financialisation of Shipping Markets
+
+### Executive Summary
+
 In the 1950s and 1960s, business cycles in the US and other industrialised
 countries were demand-led. The stabilisation of the economy around potential
 output was, on the whole, successful through demand management (fiscal and/
@@ -10549,8 +10396,6 @@ Act
 Mar-86 Mar-92 Mar-98 Mar-04 Mar-10
 
 > **Figure 8.3**: Asset leverage of US investment banks
-
-## 276 KARAKITSOS AND VARNAVIDES
 late 1990s, in the first half of 2000s and in the 2010s. Following the example of the
 US after the financial crisis of 2007-08, the Bank of Japan stepped up the printing
 of money by adopting an explicit inflation target of 2 per cent.
@@ -10640,9 +10485,8 @@ downfall of equities. The excess liquidity stopped funding houses and stocks and
 was channelled to three new areas: oil, other commodities and shipping. Whereas
 the direct impact on shipping is small, the indirect impact through the oil and
 commodities markets is large.
+### 2 Hedging and Speculation
 
-## 278 KARAKITSOS AND VARNAVIDES
-2 HEDGING AND SPECULATION
 In this section we explain what attracted investors into the commodities markets,
 using oil as an example. We analyse the oil trading strategies that are associated
 with backwardation and contango. These strategies have played a dramatic role
@@ -10726,8 +10570,6 @@ t t
 The last equilibrium condition implies a third trading strategy, which is the combination of the first two trading strategies: Buy the oil today in the spot market
 taking physical delivery now; and at the same time sell a futures contract. The
 obligation of the futures contract to sell the physical six months from now would
-
-## 280 KARAKITSOS AND VARNAVIDES
 be fulfilled by selling the oil that was bought in the spot market and stored for six
 months.
 With these trading strategies as a background it is now easy to define the
@@ -10791,7 +10633,9 @@ was on the grounds of this argument that regulators allowed investors to enter t
 commodities market. But the outcome was the reverse of what was intended: huge
 volatility in the prices of commodities and the misallocation of resources in the oil
 tanker and dry bulk markets.
-3 THE FINANCIALISATION OF THE OIL TANKER MARKET
+
+### 3 The Financialisation of the Oil Tanker Market
+
 The excessive liquidity present in the world economy in the 2000s affected the
 oil tanker market through three main channels: the price of oil, the dollar and
 ‘contango or oil-storage trade'. In economic analysis the price mechanism provides
@@ -10810,8 +10654,6 @@ onwards is difficult to discern. This liquidity has distorted the oil price mech
 in the ballooning phase of the commodities bubble. Similarly, when liquidity was
 finally withdrawn in 2011, demand was growing at a smaller rate than was justified
 by economic fundamentals.
-
-## 282 KARAKITSOS AND VARNAVIDES
 It is easy to see how the value of the dollar affects the oil tanker market. A fall
 in the dollar is associated with rising risk appetite for risky assets, including oil
 and other commodities. Such carry trade would push the price of oil up without
@@ -10900,8 +10742,6 @@ latter than the former. The US EIA estimated that holding crude oil would cost
 a company between $1.50 and $4.00 per barrel per year depending on whether
 it owns or rents storage. For gasoline, the costs would be beween $2 and $6 per
 barrel per year, or $0.01 per gallon per month.
-
-## 284 KARAKITSOS AND VARNAVIDES
 Deviation from Equilibrium % Mean+SD Mean-SD
 Actual Total Demand M DWT LN LEVEL Equil Total Demand M DWT LRE
 Projection
@@ -10931,7 +10771,9 @@ the spot price plus the cost of carry, and choose the better one. Arbitrageurs c
 sell one and buy the other for a theoretically risk-free profit. But in the real world
 the herd syndrome of investors can make contango exceed the cost of carry for
 around 12 months.
-4 A STRUCTURAL CHANGE IN THE OIL TANKER MARKET
+
+### 4 A Structural Change in the Oil Tanker Market
+
 In traditional analysis the demand for seaborne oil trade depends on world oil
 consumption and the distance covered between production and consumption
 centres. So, the two variables should be moving in tandem. However, as Figure 8.6
@@ -10950,7 +10792,9 @@ global oil consumption was only 7 per cent. By the end of 2011 this share had
 increased by 3.8 per cent to 10.8 per cent. This is a small change in world oil
 consumption to account for the very large increase in seaborne oil trade. A more profound reason for this structural change in the demand for seaborne oil trade is
 the excessive liquidity in the world economy.
-5 SOLVING THE PUZZLE OF THE STRUCTURAL CHANGE
+
+### 5 Solving the Puzzle of the Structural Change
+
 Now we are ready to combine all the pieces that account for the structural change
 in the oil tanker market. The excessive liquidity has affected the oil tanker market
 through the dollar, the oil price and the contango or oil-storage trade. Accordingly,
@@ -10989,8 +10833,6 @@ World Oil Consumption, Total Demand mb/d LN Level LC
 Jan-88 Jan-90 Jan-92 Jan-94 Jan-96 Jan-98 Jan-00 Jan-02 Jan-04 Jan-06 Jan-08 Jan-10
 
 > **Figure 8.6**: Demand for seaborne trade and demand for oil
-
-## 286 KARAKITSOS AND VARNAVIDES
 Table 8.1 The oil tanker market in the last eight years
 Percent Average rate Standard Max over Min over
 change of growth deviation the period the period
@@ -11018,7 +10860,9 @@ to a risky asset, akin to equities and commodities. This has the further implica
 assets in addition to economic fundamentals in the shipping market, such as
 world oil consumption. Failure to appreciate these fundamental changes can lead
 to erroneous conclusions about the prospects for the oil tanker market.
-6 THE FINANCIALISATION OF THE DRY BULK MARKET
+
+### 6 The Financialisation of the Dry Bulk Market
+
 In the long run, the demand for shipping services in the dry cargo market has
 kept pace with the growth in the net fleet stock. Since 1990 demand and supply
 in the dry market have more than doubled (see Figure 8.7). Two distinct trends
@@ -11064,8 +10908,6 @@ Structural Change
 Jan-87 Jan-88 Jan-89 Jan-90 Jan-91 Jan-92 Jan-93 Jan-94 Jan-95 Jan-96 Jan-97 Jan-98 Jan-99 Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 Jan-06 Jan-07 Jan-08 Jan-09 Jan-10
 
 > **Figure 8.7**: Demand, supply growth in dry market
-
-## 288 KARAKITSOS AND VARNAVIDES
 Fleet Capacity Utilisation Baltic Dry Index
 100% 12000
 98%
@@ -11185,8 +11027,6 @@ The nature of the dry market has changed from a fundamental transport industry t
 there is no cargo, but because sentiment is bad as a result of the failure
 of policymakers to address the problem of inadequate growth in the
 world economy.
-
-## 292 KARAKITSOS AND VARNAVIDES
 The higher prices associated with the scenario of an increase in demand (as
 opposed to an increase in supply) based on the widespread observation that
 China was growing much faster than before led to an overoptimistic assessment
@@ -11199,7 +11039,9 @@ invested back into US stocks. This again distorts the signals of demand and supp
 to owners and charterers, but on this occasion by creating gloomy expectations.
 Astute owners (see Box 1) have observed that there is sufficient cargo yet freight
 rates are depressed.
-7 CONCLUSIONS
+
+### 7 Conclusions
+
 In 2003 there was a structural change in both the oil tanker market and the dry
 market. This coincides with the financialisation of the commodities market triggered by the advent of institutional investors. The price of oil, the dollar and
 contango or oil storage trade account for the impact of liquidity on the oil tanker
@@ -11223,10 +11065,13 @@ than justified by economic fundamentals, namely from the level consistent with
 demand and supply. There is a premium over the fundamental price when risk
 appetite increases; and there is a discount when there is rising risk aversion.
 
-9 THE INTERACTION OF BUSINESS
+### 9 The Interaction of Business
+
 AND SHIPPING CYCLES IN
 PRACTICE
-EXECUTIVE SUMMARY
+
+### Executive Summary
+
 Chapter 6 shows that shipping cycles are caused by business cycles. Actual and
 expected macroeconomic developments shape expectations of shipping market
 conditions, which affect in turn the outcome of the bargaining between owners
@@ -11258,8 +11103,6 @@ in particular, by the ramifications of the burst of the property and the equity
 bubbles in 1989. But the US continued to affect the world economy and therefore
 Japan's exports. In the 2000s, China supplanted Japan in its dependence on world
 trade - an export-led economy. The US has shaped the last two business cycles
-
-## 294 KARAKITSOS AND VARNAVIDES
 of the world economy and consequently of China in the twenty-first century.
 Therefore, although China now determines the long-term growth of the demand
 for shipping services and, in particular, the dry market, the US continues to trigger
@@ -11342,8 +11185,6 @@ to a reasonable degree, the business cycle and then through a structural
 model of shipping, like the K-model, the impact on the demand-supply
 balance in the dry market and the other key variables, freight rates and
 vessel prices.
-
-## 296 KARAKITSOS AND VARNAVIDES
 Baltic Dry Index % YoY S&P 500 % YoY
 200% 60%
 150%
@@ -11389,8 +11230,6 @@ since 1980. Cycles have varied in length from 50 to 106 months with an average o
 but it contained a double-dip recession from November 2000 to November 2001.
 The average recession has lasted 36 months, but they have varied in length from
 23 to 45 months. The deepest recession was in 2008. The BDI fell a staggering
-
-## 298 KARAKITSOS AND VARNAVIDES
 Bulk Carrier 5 Year Old Secondhand Prices Index Average $/DWT % YoY
 Bulkcarrier Average Newbuilding Prices % YoY 1 Year Timecharter Rate 30,000 dwt Bulkcarrier
 150% 45000
@@ -11438,7 +11277,8 @@ or a coincident indicator of newbuilding prices (see Figure 9.2). The explanatio
 of these stylised facts is the subject matter of this chapter. We begin with the interrelationship of shipping and business cycles, using the US because of its influence
 on world cycles.
 
-3 US BUSINESS CYCLES
+### 3 Us Business Cycles
+
 In the textbook treatment the business cycle is divided into three phases: recession, recovery and expansion. The recession is defined as the period in which the
 level of Gross Domestic Product (GDP) is contracting, therefore moving from
 peak to trough. The depth of the recession is measured by the percentage fall in
@@ -11525,8 +11365,6 @@ The oscillations of the (q-o-q) growth rate around the (y-o-y) rate imply that
 the former mean reverts on the latter. The mean-reverting property (which in
 layman's terms means that what goes up must come down) helps to distinguish
 between ‘signal' (that is, systematic factors, whose impact is long-lasting) and
-
-## 302 KARAKITSOS AND VARNAVIDES
 Real GDP YoY Real GDP QoQ Potential Growth YoY
 10%
 8%
@@ -11608,8 +11446,6 @@ phase (V) might or might not be observed in the real world depending on the buoy
 buoyant, meaning that growth exceeded potential very quickly. In all these cycles
 phase (V) was not observed. However, from the 1990s onwards the recovery has
 been anaemic, meaning that growth did not exceed potential for some time. In these
-
-## 304 KARAKITSOS AND VARNAVIDES
 cycles phase (V) has been observed. Accordingly, phase V has been dubbed anaemic
 recovery. The inability of the economy to grow faster than potential implies a jobless
 recovery with unemployment continuing to climb. In an anaemic recovery business investment is also likely to be subdued, thereby increasing the likelihood that
@@ -11690,12 +11526,12 @@ inflation rising. We can thus summarize the relationship (correlation) between
 inflation and growth in the course of the business cycle as being either positive or
 negative. In phases (I), (III) and (V) the correlation is positive, while in phases (II)
 and (IV) it is negative.
-4 US MONETARY POLICY IN THE COURSE OF THE
+
+### 4 Us Monetary Policy in the Course of the
+
 BUSINESS CYCLE
 The business cycle is one of the two major systematic factors that induce a cyclical
 pattern in shipping. The other is economic policy. Although both fiscal policy and
-
-## 306 KARAKITSOS AND VARNAVIDES
 monetary policy have a major impact on the business cycle, over the past twenty
 years or so the former has been subordinated to the latter in the everyday management of the economy. Nonetheless, at crucial points in time when the economy
 is hit by recession fiscal policy has been used aggressively, at least in the US. This
@@ -11784,8 +11620,6 @@ proactive a central bank is in eliminating any overheating before inflation reki
 pre-emptive tightening occurring just before the overheating emerges will not
 choke it off immediately as it takes time for the policy change to have an impact
 on the economy. Thus, overheating would emerge but, if policy is properly timed
-
-## 308 KARAKITSOS AND VARNAVIDES
 and its dosage is nearly optimal, then the overheating would last for a year. In the
 second year the economy would cool down with some spare capacity generated.
 By the end of the second year the economy is likely to approach again potential
@@ -11871,8 +11705,6 @@ cycles were common before the twentieth century there are only two episodes
 before the 2000s, these being Japan in the 1990s and the US in the 1930s. The
 early 2000s US downturn and that which occurred in the late 2000s are due to
 the burst of a bubble; the internet bubble in the former incident and the property
-
-## 310 KARAKITSOS AND VARNAVIDES
 GDP % YoY GDP % QoQ
 CPI % YoY POTENTIAL OUTPUT % YoY
 10%
@@ -11965,8 +11797,6 @@ oil shock of 1979 (OPEC-II) in which the price doubled forced the economy into
 another recession in 1980 and exacerbated the upward trend of inflation. Point C
 was reached at the end of 1979, meaning that phase (II) again lasted less than two
 years. The sharp change in the conduct of monetary policy caused the second leg
-
-## 312 KARAKITSOS AND VARNAVIDES
 of the 1980-82 recession (see below) prolonging phase (III) to two and a half
 years.
 The length of the deceleration stage (phase II) depends on the flexibility of the
@@ -12053,8 +11883,6 @@ in the early 1990s, and hence firms are doubtful about the sustainability of the
 recovery, they will respond by increasing the working hours of the existing labour
 force or alternatively they will hire more temporary staff and will delay the hiring
 of permanent staff.
-
-## 314 KARAKITSOS AND VARNAVIDES
 If an adverse supply shock hits the economy, such as a drastic increase in oil
 prices, while it is in phase (IV) the inflationary consequences would be rather
 subdued while the recessionary effects will be large. The reason is that unemployment is high and profitability is low. Therefore, firms are willing to absorb the
@@ -12109,7 +11937,9 @@ is in recession or in recovery, thus causing the recovery at home to become
 anaemic. Similarly, flexible labour markets have made companies more cautious
 to hire during a recovery until they are convinced about the sustainability of the
 upturn. There is evidence that this hesitancy has turned recoveries anaemic.
-6 THE BUSINESS CYCLES OF JAPAN
+
+### 6 The Business Cycles of Japan
+
 Over the course of the last thirty years Japan has experienced seven business
 cycles. For shipping, industrial production is more important than GDP and,
 therefore, this variable is used to measure economic activity and divide business
@@ -12134,8 +11964,6 @@ Jun 97-Sep 00 Jun 97-Jan 98 Feb 98-Jul 99 Aug 99-Sep 00
 Sep 00-Dec 06 Sep 00-May 01 Jun 01-Sep 02 Oct 02-Dec 06
 Dec 06-Jun 10 Dec 06-Aug 08 Sep 08-Jan 10 Feb 10-Jun 10
 Jun 10-Jun 12 Jun 10-Mar 11 Apr 11-Feb 12 Mar 12-Jun 12
-
-## 316 KARAKITSOS AND VARNAVIDES
 to combat ramping inflation following the second oil shock in the late 1970s.
 Exports, the driving force of Japan, also fell precipitously in response to the
 world recession. As a result, the economy fell into the first leg of recession, in line
@@ -12182,7 +12010,7 @@ monetary policy from February 1994 till the end of the year as the US economy
 showed signs of overheating. This pre-emptive tightening cooled the US economy
 
 Table 9.5 Japan cycle phases
-Cycle turning Growth Infl ation Cycle Phase
+Cycle turning Growth inflation Cycle Phase
 points
 Apr-80 B 9% 1 Overheating
 Sep-80 C 8.7% Slowdown
@@ -12215,8 +12043,6 @@ down in 1995 and this dampened Japanese exports for a while. But as the US
 economy gathered steam in 1996 and beyond Japan rebounded until mid-1997.
 But then the Asian-Russian crisis of 1997-98 dragged Japan into an even deeper
 recession than in the first half of the 1990s. Industrial production fell more than 8
-
-## 318 KARAKITSOS AND VARNAVIDES
 Japan IP 6M MA % YoY Japan CPI % YoY RHS JP Discount rate RHS
 30% 10%
 C B
@@ -12278,7 +12104,9 @@ the mid-1990s and the Asian-Russian crisis of 1997-98. The US helped Japan
 to recover from the recession triggered by the Asian-Russian crisis, but was also
 responsible for the cycles in the new millennium, either directly or indirectly,
 through its influence on China.
-7 THE BUSINESS CYCLES OF GERMANY
+
+### 7 The Business Cycles of Germany
+
 Statistics for the euro area and for (unified) Germany commence in 1991 and,
 therefore, prior to this date West Germany is used as a proxy for the euro area.
 In the statistics reported below Germany is used after 1991 and West-Germany
@@ -12318,8 +12146,6 @@ a a a a a a a a a a a a a a a a a a a a a a a a a a
 J J J J J J J J J J J J J J J J J J J J J J J J J J
 
 > **Figure 9.7**: Germany business cycles
-
-## 320 KARAKITSOS AND VARNAVIDES
 Table 9.6 Germany business cycles
 Slowdown Recession Recovery
 Aug 79 - Aug 85 Aug 79 - Aug 80 Sep 80 - Aug 83 Sep 83 - Aug 85
@@ -12401,11 +12227,11 @@ offset by the European Central Bank (ECB). The interest rates may not have been
 low for German standards, but they certainly were for the rest of Europe. Debt
 soared in the periphery, financing housing bubbles in Spain and Ireland and even
 state bubbles, as in Greece. The credit boom in the rest of Europe was an indirect
-
-## 322 KARAKITSOS AND VARNAVIDES
 way of easy monetary policy in Germany. The ascendance of China also helped
 Germany, as it expanded its share in export markets.
-8 AN EXPLANATION OF THE STYLISED FACTS OF
+
+### 8 An Explanation of the Stylised Facts of
+
 SHIPPING CYCLES
 The above information can help us to explain the various shipping cycles in recent
 decades. Table 9.1 summarises the shipping cycles and Figure 9.8 provides a visual
@@ -12493,8 +12319,6 @@ uncertain environment. The decision not to invest is equivalent to the purchase
 of an option. By not investing, the firm foregoes an expected profit stream, but
 this enables it to make more profitable choices later on. The most likely reason for
 waiting is uncertainty about demand conditions. Thus, if owners are faced with
-
-## 324 KARAKITSOS AND VARNAVIDES
 demand uncertainty they may prefer to wait rather than invest until conditions
 improve. Consider, for example, a firm that contemplates capacity expansion in a
 recession. The decision makers may be uncertain as to the depth and the length
@@ -12581,8 +12405,6 @@ unprofitable. On the other hand, the reckless or risk-seeking owners would simpl
 borrow at the higher interest rate because they do not expect to pay back if the
 project turns out badly. Hence, raising the interest rate to clear the market invites
 risk seekers and turns down risk-averse firms, which is clearly the opposite of what
-
-## 326 KARAKITSOS AND VARNAVIDES
 a bank should do. Thus credit rationing - that is, the application of non-price
 criteria - is a rational method for the banks to clear the credit market.
 But why does credit rationing intensify the pro-cyclical pattern of investment?
@@ -12635,7 +12457,9 @@ the cost of capital in determining investment decisions. Corporate earnings vary
 pro-cyclically - rising in a boom and falling in a recession and they are in addition
 volatile. Given the strong link of earnings with investment it follows that the latter
 will vary pro-cyclically with a lot of volatility.
-11 SUMMARY AND CONCLUSIONS
+
+### 11 Summary and Conclusions
+
 Shipping cycles are caused by business cycles. World recessions cause recessions in
 the dry market. In world recessions the US is a leading indicator of shipping cycles.
 But the business cycles of a particular country, like Japan in the 1980s and the
@@ -12654,8 +12478,10 @@ economy. Shipping though might lag behind the recovery of the world economy, if
 the previous boom has been largely unanticipated and has led to an o verexpansion
 of fleet capacity.
 
-INVESTMENT STRATEGY
-EXECUTIVE SUMMARY
+## Chapter 10: Investment Strategy
+
+### Executive Summary
+
 The investment strategy implications of this book are that an owner should have
 the optimum fleet and be in the spot market during a bull shipping market; and
 should keep the fleet at a minimum to cover fixed expenses and be in the period
@@ -12690,7 +12516,8 @@ ships or move from the spot to the period market. We then offer an example of
 how structural models can ease these decisions. In section 3 we present a case
 study to highlight these principles.
 
-1 THE MAJOR DECISIONS IN SHIPPING
+### 1 The Major Decisions in Shipping
+
 There are two main decisions to be made in the business of shipping: when to buy
 and sell ships and when to be in the spot or period market. Profits can be made out
 of these two decisions, which sometimes can be lucrative. Such profits have lured
@@ -12731,8 +12558,6 @@ Probability 0.000000
 10000 20000 30000 40000 50000 60000
 
 > **Figure 10.1**: Average earnings in the dry market
-
-## 330 KARAKITSOS AND VARNAVIDES
 Series: EL
 Sample 1973M01 2012M02
 120 Observations 470
@@ -12820,8 +12645,6 @@ deviation of actual earnings from the equilibrium or fair value offers a yardsti
 against which to measure outliers. If actual earnings are more than two standard
 deviations higher than those justified by economic fundamentals, then this is
 indeed an outlier and the market is likely to correct. If actual earnings are lower
-
-## 332 KARAKITSOS AND VARNAVIDES
 than those justified by economic fundamentals, then the market is likely to
 have a further upside. These structural models are constructed in such a way so
 that their errors (that is, the deviation of actual earnings from those justified by
@@ -12911,8 +12734,6 @@ issues. Appendix 1 provides a detailed and rather technical treatment of the
 methodological issues of the dry demand model and offers ways through which
 the HOPE-FUND model can be improved. Appendix 2 deals with the methodological issues of NB prices and again suggests ways to improve the HOPE-FUND
 model.
-
-## 334 KARAKITSOS AND VARNAVIDES
 3 A NON-TECHNICAL ASSESSMENT OF METHODOLOGICAL
 ISSUES
 In the HOPE-FUND model, the demand for dry is based on a rule of thumb that
@@ -12998,8 +12819,6 @@ assumption in the HOPE-FUND methodology, namely that the demand for
 dry in each year is a fixed multiple of world GDP, which is not shared by SAIL.
 According to SAIL, the multiplier is variable rather than fixed. A fiscal stimulus
 would boost growth more if: there is spare capacity in the economy; stocks are
-
-## 336 KARAKITSOS AND VARNAVIDES
 HOPE Demand % SAIL model Demand %
 Projection
 20%
@@ -13163,7 +12982,9 @@ J J J J J J J J J J J J J J J
 Figure 10.A7 New vessel prices - SAIL model
 
 NOTES
-2 THE THEORETICAL FOUNDATIONS OF THE
+
+### 2 The Theoretical Foundations of the
+
 FREIGHT MARKET
 1. Stopford (2009) recognises the invalidity of the homogeneity assumption, but does
 not take the logical implication of rejecting the perfectly competitive model of freight
@@ -13247,8 +13068,6 @@ of freight rates would not coincide. This would complicate the bargaining proces
 but the assumption of homogeneous expectations can be defended by invoking the
 postulate of rationality. If both players are ‘rational', they would learn from their own
 mistakes and incorporate such mistakes in the new round of forming expectations.
-
-## 344 NOTES
 This will enable convergence of the process, so that in time the two players will
 converge to the same expectations. Such convergence process is guaranteed by the
 adaptive expectations scheme
@@ -13334,8 +13153,6 @@ l are set equal to zero:
 ∂l
 Moving the price terms on the right of the first two equations and diving the first by
 the second the optimality condition is
-
-## 346 NOTES
 F (K,S) PB⋅d⋅ f′(S) F F
 S = S = K = l
 F (K,S) r or PB⋅d⋅ f′(S) r (3.10d)
@@ -13395,7 +13212,9 @@ in the differential equations are equal to zero.
 15. Technically, it is said that the actual fleet lies on the notional supply curve of shipyards.
 16. A saddlepoint is a point that is simultaneously a minimum for one curve and a maximum for another curve, like the unique point on a horse saddle from where the name
 is derived.
-4 THE EFFICIENCY OF SHIPPING MARKETS
+
+### 4 The Efficiency of Shipping Markets
+
 1. If X is a discrete random variable with probability of occurrence p then the expected
 i i
 value of X, denoted by E(X), is defined as
@@ -13425,8 +13244,6 @@ stochastic trend). Estimation of models with non-stationary variables gives rise
 spurious correlation and invalidates statistical inferences base on t and F-statistics.
 The transformation of the expectations theory of the term structure of freight rates
 into a spread and changes of spot rates makes ordinary least squares estimation valid.
-
-## 348 NOTES
 Both variables, the spread and changes in spot rates, are stationary. The Statistical
 Appendix explains all these concepts.
 4. These models are analysed in the Statistical Appendix at the end of this chapter.
@@ -13476,8 +13293,6 @@ difference.
 stationary). See the Statistical Appendix.
 14. This cointegrating vector is postulated in Kavussanos and Alizadeh (2002b).
 But there are other possible cointegrating vectors, which are based on an explicit
-
-## 350 NOTES
 where p is the number of coefficients estimated in the statistical model and L is the
 maximised value of the likelihood function. Hence, the AIC is a measure of the
 relative quality of the statistical model. The AIC is used in the literature.
@@ -13497,7 +13312,9 @@ is and ARIMA with d = 0.
 models without imposing economic restrictions, that is, as a purely statistical model.
 26. The reason ∆z appears as ∆z in (A.46) is because z = z - ∆z - … - ∆z
 t - k + 1 t - k t - 1 t - 1 t - k + 1
-5 BUSINESS CYCLES
+
+### 5 Business Cycles
+
 1. In statistics, a function like (5.1) is called an autoregressive function (see the Statistical
 Appendix, Chapter 4). A variable, Y, has an autoregressive structure if it is a function
 of past values of Y. Thus, if f(B) is nth order polynomial function in the backward
@@ -13573,8 +13390,6 @@ factor, is equal to the first term divided by 1 less the rate of increase of the
 in this case 0.8).
 24. See equation (2.10) in Karakitsos (1992).
 25. See equation (2.17) in Karakitsos (1992).
-
-## 352 NOTES
 26. The K-model is an integrated econometric model of the macroeconomy, financial markets and shipping for the US, Europe, Japan and China (see Arestis and
 Karakitsos, 2004, 2010 and 2013 for details).
 27. This view is also shared by all major central banks (for example the Fed, the ECB and
@@ -13623,7 +13438,9 @@ growth accounting, namely that the production function is homogeneous of degree
 one (which means that a given percentage increase in the factor inputs yields the
 same percentage increase in output) and that firms are cost minimisers under perfect
 competition (see Denison, 1985 and Gordon, 1999).
-6 THE THEORY OF SHIPPING CYCLES
+
+### 6 The Theory of Shipping Cycles
+
 1. The solution of (6.9) for θ = 2 is obtained from the characteristic equation
 x2 −x−l⋅r = 0 (6.10)
 The two roots, denoted by x and x are given by
@@ -13657,8 +13474,6 @@ long-run equilibrium then cu = 0, in accordance to equation (6.52).
 6. A permanent increase in the price of steel or the scrap price has similar effects to the
 increase in demand. Hence, Figure 6.8 can serve in addition to explaining the dynamic
 adjustment of the system to these exogenous shocks as well.
-
-## 354 NOTES
 7. The derivation for a single factor of production is given by equations (6.32)-(6.34) in
 this chapter.
 8. Later on in this section we relax the assumption that scrapping is proportional to the
@@ -13685,7 +13500,9 @@ to lend for a maximum of five years although the profile of the loan can remain 
 longer thus resulting in a high balloon after 5 years. To the extent that clients place
 deposits with their lending bank this can reduce the TLP charge and allow the ship
 finance areas of the bank to charge the borrower a lower interest margin.
-8 THE FINANCIALISATION OF SHIPPING MARKETS
+
+### 8 The Financialisation of Shipping Markets
+
 1. With tight monetary policy (high or rising interest rates), a country attracts capital
 inflows that cause its currency to appreciate. This reduces imported inflation and consequently mitigates the inflationary impact of higher oil prices. The higher exchange
 rate makes its exports dearer, which increases inflation in other countries because of
@@ -13722,7 +13539,9 @@ the recession it serves as a leading indicator of the trough of the cycle.
 3. See the section on fiscal policy in Chapter 5 for more details.
 4. Scarsi (2007) finds evidence of a herd syndrome amongst owners. In particular, owners make mistakes when they ignore market trends, following their personal intuition
 or imitate their competitors.
-10 INVESTMENT STRATEGY
+
+### 10 Investment Strategy
+
 1. The median is the value of average earnings that divides the distribution of earnings
 into two equal halves.
 2. The case study is based on real life data. We have used pseudonyms to protect the
@@ -13822,8 +13641,6 @@ Bresnahan, T. F., (1989) "Empirical Studies of Industries with Market Power", in
 R. Schmalensee and R. Willig (ed.), Handbook of Industrial Organization, edition 1,
 volume 2 (Amsterdam: Elsevier), 1011-57.
 Cabellero, R.J. (1991) "Competition and the Non-Robustness of the InvestmentUncertainty Relationship", American Economic Review, 81, 279-88.
-
-## 358 BIBLIOGRAPHY
 Calvo, G. (1979) "Quasi Walrasian Theories of Unemployment", American Economic
 Review, 69, 102-7.
 Calvo, G. (1983) "Staggered Prices in a Utility Maximising Framework", Journal of
@@ -13925,8 +13742,6 @@ Gordon, R.J. (1983) "Price Inertia and Policy Ineffectiveness in the United Stat
 1980", NBER Working Papers 0744.
 Gordon, R.J., (1982) "Price Inertia and Policy Ineffectiveness in the United States, 1890-
 1980", Journal of Political Economy, 90, 6, 1087-117.
-
-## 360 BIBLIOGRAPHY
 Gordon, R.J. (1990), "What is New Keynesian Economics", Journal of Economic Theory,
 28, 3, 1115-71.
 Gordon, R.J., (1999), "U.S. Economic Growth Since 1870: One Big Wave?", American
@@ -14028,8 +13843,6 @@ Lucas, R.E. (1976) "Econometric Policy Evaluation: A Critique", Carnegie-Rochest
 Conference Series on Public Policy, 1, 19-46.
 Mankiw, N.G. (1985) "Small Menu Costs and Large Business Cycles: A Macroeconomic
 Model of Monopoly", Quarterly Journal of Economics, 100, 529-39.
-
-## 362 BIBLIOGRAPHY
 McDonald, I. and Solow, R. (1981) "Wage Bargaining and Employment", American
 Economic Review, 71, 896-908.
 McDonald, I. and Solow, R. (1985) "Wages and Employment in a Segmented Labor
@@ -14134,8 +13947,6 @@ Stopford, M. (2009), Maritime Economics, 3rd ed, London: Routledge.
 Strandenes, S.R. (1984) "Price Determination in the Time Charter and Secondhand
 Markets", Discussion Paper 0584, Norwegian School of Economics and Business
 Administration, Bergen, Norway.
-
-## 364 BIBLIOGRAPHY
 Strandenes, S.R. (1986) "Norship: A Simultaneous Model of Market in Bulk Shipping",
 Discussion Paper 11, Norwegian School of Economics and Business Administration,
 Bergen, Norway.

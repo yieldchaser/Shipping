@@ -70,24 +70,20 @@ vessel_classes:
 - aframax
 - container
 ---
+
+# The World's Key Industry: History and Economics of International Shipping
+
+**Editors**: Gelina Harlaftis, Stig Tenold, and Jesús M. Valdaliso  
+**Publisher**: Palgrave Macmillan (Palgrave Studies in Maritime Economics)  
+
 ## Summary
+
 This academic volume explores the comprehensive history and economics of international shipping, identifying it as a critical industry in the global economy. It features contributions from prominent scholars covering topics such as merchant shipping, maritime logistics, and the historical evolution of trade routes and freight rates. The text examines the industry through various lenses, including business history, institutional development, and the effects of globalization across several centuries.
 
-## The World's Key Industry History and Economics of International Shipping (G. Harlaftis, S. Tenold, J. Valdaliso) (z-lib.org)
-The World's Key Industry
-History and Economics of International
-Shipping
-Edited by
-Gelina Harlaftis
-Department of History, Ionian University, Greece
-Stig Tenold
-Norwegian School of Economics, Norway
-and
-Jesús M.Valdaliso
-School of Economics and Business Administration,
-University of the Basque Country, Spain
+---
 
-Notes on the Contributors
+## Notes on the Contributors
+
 John Armstrong, until recent retirement, was Professor of Business
 History at Thames Valley University. He has served as editor of theJournal
 of Transport Historyyy, deputy chair of the British Commission for Maritime
@@ -118,7 +114,6 @@ Fellowship, and a British Commission for Transport History Prize.
 Espen Ekbergg is Postdoctoral Research Fellow at the University of
 Agder, Norway. He has published books and articles on the history of
 the consumer co-operative movement in Norway and internationally,
-ix x Notes on the Contributors
 as well as on the contemporary history of Norwegian banking. He is
 currently attached to the research project on Norwegian merchant
 shipping 1814-2014. Recent publications include ‘Nordic shipping
@@ -144,7 +139,7 @@ History of Modern Britain with chapters entitled ‘Trade: discovery, mercantili
 ‘Trade, 1870-1939: From globalization to fragmentation' in Volume 2:
 Economic Maturity, 1860-1939. He has worked extensively on the course
 of freight rates, their determinants and implications and has also published extensively on the British Industrial Revolution.
-Yrjö Kaukiainen is Emeritus Professor of European History at the
+Yrjöö Kaukiainen is Emeritus Professor of European History at the
 University of Helsinki and a former President of the International
 Maritime Economic History Association. His research has focused, in
 particular, on the history of shipping in the nineteenth and twentieth
@@ -153,8 +148,6 @@ centuries, as well as the history of information transmission in the nineteenth 
 information transmission and the main trends in international shipping since 1850.
 Even Langeis Professor of Modern History at the University of Oslo. He
 is the founder and former director of the Centre for Business History at
-
-Notes on the Contributors xi
 BI Norwegian Business School. His earlier research focused on industrial
 development, banking, consumer co-operatives and economic policy
 in the nineteenth and twentieth centuries. Lange is currently directing a research project on the history of Norwegian merchant shipping
@@ -223,8 +216,6 @@ works.
 Ka-chai Tam is Research Assistant Professor in the Department of
 History, Faculty of Social Sciences, Hong Kong Baptist University.
 By training a sinologist specializing in the legal and social history of
-
-Notes on the Contributors xiii
 traditional China, he gained his doctorate at the University of Oxford.
 His areas of interest include the legal, socio-economic and maritime
 history of China from the fourteenth to the twentieth centuries as well
@@ -260,8 +251,6 @@ leads a research project on the historical origins of industrial clusters
 in the Basque Country, a topic on which he has written a chapter of
 the book Interactive learning for innovation: a key driver for clusters and
 innovation systems (Palgrave Macmillan, 2012).
-
-xiv Notes on the Contributors
 Stephan Vanfraechem has an MA in history, an MA in maritime sciences and a PhD in history. In 2002 he gained his PhD on labour organization and relations in the port of Antwerp during the twentieth century
 (original Dutch title: ‘Een sfeer om haring te braden. Arbeidsverhoudingen
 in de Antwerpse haven 1880-1972'''). After an academic career at Gent
@@ -282,8 +271,10 @@ Relevant edited volumes include The World of Shippingg (Ashgate, 1997)
 and, with Lars U. Scholl, Crisis and Transition: Maritime Sectors in the
 North Sea Region 1790-1940 (Hauchschild, 2008).
 
-Introduction
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso
+## Chapter 1: Introduction
+
+**Authors**: Gelina Harlaftis, Stig Tenold, and Jesús M. Valdaliso  
+
 [T]he best way to understand what was after all an
 international industry is in some kind of comparative
 perspective … Comparative history was very much in
@@ -308,8 +299,6 @@ Our aim has been to shed light on this industry's vital contribution to
 the development of the global economy. Despite the accolades awarded
 to shipping in the literature on the early modern period, the role of
 the industry in more recent periods has traditionally been neglected or,
-
-## 2 Introduction
 at best, the focus has only been on its effects on international market
 integration.4 Global economic history deals with connections and comparisons, and there are several analyses of the importance of sea transport, the movements of people and goods.5 However, in the literature
 on global connectedness, or globalization, the industry that, more than
@@ -344,8 +333,6 @@ maritime activities provided a route into the international arena for a
 number of peripheral regions that, due to lack of staple exports, could
 not be drawn into the rapidly growing global economy. As a result of
 Malthusian economics, advantageous location and entrepreneurship,
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 3
 shipping came to play a crucial role in the economic development of
 New England and the Middle Colonies. Given the limited potential for
 other types of exports, almost 40 per cent of balance of payments earnings came from shipping and mercantile services around 1780.
@@ -378,10 +365,8 @@ has been previously thought. However, they claim that viewing the
 change as dramatic and revolutionary can be justified when the communication dimension, rather than the transport of bulk commodities,
 is considered.
 The shipping sector also saw important technological changes after
-the transition from sail to steam. In Chapter 5, Yrjö Kaukiainen
+the transition from sail to steam. In Chapter 5, Yrjöö Kaukiainen
 describes the long-term growth of technical efficiency, with an emphasis on developments after World War II. He provides a detailed discussion of the changing nature of ‘the hardware' - the ships - and shows
-
-## 4 Introduction
 that increased efficiency was primarily related to size, rather than speed.
 The technological improvements, accompanied by changes in the landsea interface and in the organization of the shipping industry, have
 ensured that the shipping industry has been able to handle the rapid
@@ -414,8 +399,6 @@ and agents. The institutions of shipping, in order to provide an unfettered flow
 third of the nineteenth century. In Chapter 7,Gordon Boyce discusses
 the development of commercial infrastructures for the world shipping
 industry and traces the evolution of those elements that in combination provided a vital commercial infrastructure for the global shipping
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 5
 industry. Specifically, he examines the emergence of key institutions,
 including the Baltic Shipping Exchange, Lloyd's of London, relevant
 commodity and financial markets, and shipowner organizations, all of
@@ -452,8 +435,6 @@ Europe, Antwerp and Rotterdam, from a comparative and international
 perspective. There has been fierce competition between the two for the
 top position in Europe. This chapter investigates the different choices
 they made and the ways they organized their labour in the docks when
-
-## 6 Introduction
 confronted with the rapid increase in sea traffic and technological
 change. In Antwerp traditional labour organization continued to limit
 efficiency, while Rotterdam was more successful in adjusting to new
@@ -490,8 +471,6 @@ crucial issues of economics and business, such as market cycles, collusive agree
 was also the sector from which in the 1950s and 1960s a new school
 of business history emerged in Britain: the Liverpool school, which in
 December 1958 launched a new journal, Business History.13
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 7
 Steam shipping, given its highly capital-intensive nature, was one of
 the sectors where specialist and limited firms first appeared.14 However,
 asMichaela Barnard and David Starkey stress in Chapter 12, in Hull's
@@ -524,10 +503,7 @@ and development of the modern firm came from the analysis of the
 shipping industry too. Boyce's book on the rise of large-scale enterprise
 in British shipping emphasized the role of networks and other cooperative structures instead of the large centralized firm. Jones' book on
 British trading companies brought a complementary concept to the
-forefront, that of the business group.16 Chapter 14, byGelina Harlaftis
-
-## 8 Introduction
-and Jesús Valdaliso, is a comparison between Greek and Spanish shipping business groups in the nineteenth and twentieth centuries. Greeks
+forefront, that of the business group.16 Chapter 14, by Gelina Harlaftis and Jesús Valdaliso, is a comparison between Greek and Spanish shipping business groups in the nineteenth and twentieth centuries. Greeks
 and Spaniards became low-cost tramp operators in the international
 market in the first third of the twentieth century, but from the mid-
 1930s onwards Greece became the world's leading shipping nation
@@ -561,8 +537,6 @@ himself.
 Notes
 1. L. R. Fischer and H. W. Nordvik (1986) ‘Maritime Transport and the
 Integration of the North Atlantic Economy, 1850-1914', in W. Fischer,
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 9
 H. McInnis and J. Schneider (eds) The Emergence of a World Economy, Vol. II
 (Wiesbaden: F. Steiner).
 2. C. Ernest Fayle (1933)A Short History of the World's Shipping Industryy(London:
@@ -611,8 +585,6 @@ pp. 20-26. The company histories of the Liverpool School on several outstanding 
 Rise of Large-Scale Enterprise in British Shipping, 1870-1919 (Manchester:
 Manchester University Press); G. Jones (2000) Merchants to Multinationals.
 British Trading Companies in the 19th and 20th Centuries (Oxford: Oxford
-
-## 10 Introduction
 University Press); T. Khana and Y. Yafeh (2007) ‘Business Groups in
 Emerging Markets: Paragons or Parasites?', Journal of Economic Literature,
 XLV, pp. 331-72.
@@ -621,9 +593,10 @@ G. Jones and A. M. Colpan (2010) ‘Business Groups in Historical Perspective',
 in A. M. Colpan, T. Hikino and J. R. Lincoln (eds) The Oxford Handbook of
 Business Groups (New York: Oxford University Press).
 
-Lewis R. Fischer and the Progress
-of Maritime Economic History
-David M. Williams and Lars U. Scholl
+## Chapter 2: Lewis R. Fischer and the Progress of Maritime Economic History
+
+**Authors**: David M. Williams and Lars U. Scholl  
+
 The editors of an important volume of essays on shipping history published in 1990 observed that ‘the study of man's relationship with the
 sea is an old and honoured topic within the historical profession. Indeed,
 some of the foremost scholars of the past century have asked significant
@@ -649,8 +622,6 @@ academic research - gave rise to the development of a variety of sub-disciplines
 transport and urban history. Similarly, maritime history emerged as a
 specific field of study. Seminal publications by Hyde in 1956, by Davis
 and by Sturmey in 19622 and an important paper by North in 19583
-
-12 Lewis R. Fischer and the Progress of Maritime Economic History
 served to encourage all those working in the field of shipping to view
 their subject in a new light and, equally importantly, achieved greater
 respect amongst historians generally for the maritime dimension.
@@ -686,8 +657,6 @@ scholars, some of whom have contributed greatly as office holders and
 congress organizers, yet we suspect that all who have participated would
 agree that their efforts individually and even collectively would not
 have resulted in the present outcome had it not been for the leadership, energy and career-long commitment of one individual, Professor
-
-David M. Williams and Lars U. Scholl 13
 Lewis Ross Fischer. He has been at the heart of all progress made in
 the Association's creation, the editorship and management of the
 Journal and Research series and as the instigator of the highly successful Congress programme. And there is much more. His contribution
@@ -724,8 +693,6 @@ We respect his privacy and have not sought early biographical details.8
 Perhaps one day Skip will tell us more about these formative years, but
 this tribute is concerned with the past forty years and Skip's association
 with, and contribution to, maritime economic studies. As Skip himself
-
-14 Lewis R. Fischer and the Progress of Maritime Economic History
 has observed, ‘In their own hectic lives, historians too often make the
 mistake of ignoring their own history'.9 This is an occasion for maritime
 economic historians to rectify such an omission.
@@ -752,7 +719,7 @@ databases and the utilization of quantitative analysis.10 Within history
 generally this was the era of ‘big' quantitative research projects, but
 compared with many other contemporary large and costly research ventures, the Atlantic Canada Project did achieve many of its aims and thus
 maritime history gained a heightened profile and wider recognition.
-C. Knick Harley and Yrjö Kaukiainen (amongst the most distinguished
+C. Knick Harley and Yrjöö Kaukiainen (amongst the most distinguished
 of current maritime economic historians), who in 1988 reviewed the
 Project and its outcome, referred to a ‘unique study' and ‘undeniable
 contribution' to the history of merchant shipping.11 A second significant feature of the Project was its immense published output, which was
@@ -763,8 +730,6 @@ six-year existence organized annual conferences that became ‘the center
 for maritime history on an international scale.'12 These conferences
 were attended by scholars from the Americas, Europe and elsewhere.
 Attendees at the first in 1977 included Robin Craig, Basil Greenhill
-
-David M. Williams and Lars U. Scholl 15
 and Peter Davies, all of whom became mentors and long-term friends
 of Skip. At that meeting Skip also met Ralph Davis, a scholar by whose
 work he was greatly influenced, and a young Sarah Palmer, representative of a new generation of maritime economic historians.13 Many other
@@ -802,8 +767,6 @@ and Lars Scholl - was elected, as were Skip Fischer and Helge Nordvik
 as newsletter editors. Anyone familiar with the workings of academic
 organizations will appreciate that, however eminent the helmsmen, the
 future of the group lay with the editors. They were not to disappoint.
-
-16 Lewis R. Fischer and the Progress of Maritime Economic History
 Skip met Helge Nordvik of the Norwegian School of Economics and
 Business Administration of Bergen (NHH) in the late 1970s. They soon
 became close friends. Both possessed boundless energy and a belief
@@ -843,8 +806,6 @@ ways - took the momentous step of establishing a journal. Ideas are
 one thing, the practicalities are something else. Above all, for any
 journal there is the matter of financial backers. Fischer and Nordvik
 persuaded their respective home institutions - Memorial University
-
-David M. Williams and Lars U. Scholl 17
 and the NHH - to support this new, more ambitious venture.16 The
 first issue of the International Journal of Maritime Historyy was published
 in June 1989. It did not appear on the scene as a slight or experimental
@@ -883,8 +844,6 @@ launched - aiming at an international market and already setting high
 standards - would have settled for a period of consolidation. Editing
 the Journal involved all the demands of what seemed to many (and
 would have been for most) a full-time job, but Skip also had a heavy
-
-18 Lewis R. Fischer and the Progress of Maritime Economic History
 schedule of teaching and a busy research programme involving overseas
 visits and conferences. Yet within two years of the first appearance of
 the Journal, far from slowing down, Skip, driven by his desire to promote maritime economic history, embarked on two other publishing
@@ -922,8 +881,6 @@ asJournal editor and the twenty-first year of the Research series. What a
 simple, understated phrase is ‘continued as editor'. Can anyone imagine
 the demands that a quarter of a century of editing a journal involves?
 Enthusiasm and dedication, yes, but imagine the relentless pressure,
-
-David M. Williams and Lars U. Scholl 19
 issue after issue, year after year. And this was no ordinary journal of
 a few papers in a specialist field. Skip's determination that the Journal
 should be international and cover all periods and that it should be a
@@ -961,8 +918,6 @@ of the IMEHA as in competition with, or impinging on, the remit and
 activities of any other organizations. The Association was established to
 promote the economic history aspect of maritime studies, as was made
 clear through the acquisition of affiliated status to the International
-
-20 Lewis R. Fischer and the Progress of Maritime Economic History
 Economic History Association at Leuven in 1990.24 An international
 body already in existence at this time was the International Commission
 for Maritime History (ICMH), part of the International Congress of
@@ -1001,8 +956,6 @@ remained loyal to his adopted location and perhaps more significantly
 to the seat of the Journal. St John's is an attractive, vibrant city but not
 the most accessible and not perhaps the first location one would choose
 as a base from which to make and maintain direct personal contact
-
-David M. Williams and Lars U. Scholl 21
 with fellow scholars elsewhere. Yet thanks to his endurance of countless transatlantic crossings, Skip is regarded as almost a ‘native' in many
 European countries. This is through his close and long-term friendships
 with colleagues in maritime history in many countries who have welcomed his visits and similarly enjoyed Skip's hospitality when they have
@@ -1040,8 +993,6 @@ as a model for all.
 The published works of the Project, and those of Skip in particular,
 had a profound impact on other scholars. Quantitative studies were
 viewed in a new light and their potential better understood through
-
-22 Lewis R. Fischer and the Progress of Maritime Economic History
 a series of conference presentations and papers on the relationship
 between cliometrics and history. The emphasis on the international element of research was also brought home by the fact that the findings
 of what was a regional survey (Atlantic Canada) had such wide-ranging
@@ -1078,8 +1029,6 @@ freight space and the purchase and sale of vessels. That brokers performed many 
 capital and shipyard space for new vessel construction and, at the other
 end of the cycle, played an important role in scrapping was unknown
 to many, as was, in more recent times, broker activity in the offshore
-
-David M. Williams and Lars U. Scholl 23
 industry. This ignorance of the broker's function was rectified in a series
 of papers on the important Norwegian shipbroking firm of Fearnley &
 Eger. A case study of the firm's practices between 1869 and 1914 was
@@ -1114,8 +1063,6 @@ history; he (with Helge Nordvik) had the courage to create a significant
 academic journal and individually he has devoted twenty-five years to
 its editing and enhancing its status; he has been the lynchpin in the
 development of a body of maritime history scholars that spans generations and perhaps uniquely (through his example) is characterized by
-
-24 Lewis R. Fischer and the Progress of Maritime Economic History
 friendship and enthusiasm for the research of others rather than rivalry
 and self-interest. Alongside all these, in his research he has pioneered
 new approaches to the study of previously unexplored themes in maritime and global history.
@@ -1154,8 +1101,6 @@ to place it in the broadest possible comparative context' represents the goals
 he has set for maritime history throughout his own career.
 3. D. C. North (1958) ‘Ocean Freights and Economic Development, 1850-1913',
 Journal of Economic History, XVIII, pp. 537-55.
-
-David M. Williams and Lars U. Scholl 25
 4. The status of the Journal is confirmed in the most recent European Reference
 Index for the Humanities (ERIH), which rates the quality of the world's
 scholarly journals by discipline. The International Journal of Maritime History
@@ -1204,11 +1149,9 @@ International Journal of Maritime History, X, pp. vii-xii.
 reviewed, is itself a reflection of the progress of maritime history.
 23. L. R. Fischer (1994) ‘Introduction', in L. R. Fischer (ed.) The Market for Seamen
 in the Age of Sail (St John's: IMEHA), p. ix.
-
-26 Lewis R. Fischer and the Progress of Maritime Economic History
 24. In its way, this was unique. Other affiliated bodies were all national associations. The IMEHA was thematically based and an international body.
 25. See for example his tributes to Peter N. Davies, Frank Broeze, Robin Craig,
-Gordon Jackson, Yrjö Kaukiainen, David M. Williams and John Armstrong
+Gordon Jackson, Yrjöö Kaukiainen, David M. Williams and John Armstrong
 in various volumes in the Research in Maritime Historyyseries.
 26. Such relationships go far beyond the concepts of ‘contacts' and ‘networking'. They are elements of a community of maritime historians embracing hundreds of colleagues built up by, and through, Skip Fischer over a
 quarter-century. The nucleus of that community is a ‘circle of friends' reaching back over twenty years. Outside of local colleagues in North America,
@@ -1217,7 +1160,7 @@ Gunnar Nerheim and Stig Tenold; in the UK - Peter Davies, Gordon Jackson,
 David M. Williams, John Armstrong, Sarah Palmer, Adrian Jarvis, David
 Starkey and Alston Kennerley; in the Netherlands - Jaap Bruijn and Paul
 van Royen; in Denmark - Hans Christian Johansen, Morten Hahn-Pedersen
-and Poul Holm; in Finland - Yrjö Kaukiainen and Merja-Liisa Hinkkanen;
+and Poul Holm; in Finland - Yrjöö Kaukiainen and Merja-Liisa Hinkkanen;
 in Germany - Lars Scholl and Walter Kresse; in Spain - Jesús Valdaliso;
 and in Greece - Gelina Harlaftis. Beyond Europe, longstanding colleagues
 in Australia have been the late Frank Broeze, Malcolm Tull and Graydon
@@ -1251,8 +1194,6 @@ Sailors in the Canadian Merchant Marine, 1863-1913', Sjøfartshistorisk Årbok
 L. R. Fischer and H. W. Nordvik (1988) ‘Salaries of the Sea: Maritime Wages
 in Stavanger, 1892-1914',Stavanger Museum Årbok 1987 (Stavanger: Stavanger
 Museum), 103-32; L. R. Fischer and H. W. Nordvik (1987) ‘From Namsos to
-
-David M. Williams and Lars U. Scholl 27
 Halden: Myths and Realities in the History of Norwegian Seamen's Wages,
 1850-1914', Scandinavian Economic History Review, XXXV, No. 1, pp. 41-65;
 L. R. Fischer and H. W. Nordvik (1988) ‘Wages in the Norwegian Maritime
@@ -1302,8 +1243,6 @@ Docks, 1870-1930', Northern Seas Yearbook, pp. 18-59.
 Export Ports, 1850-1910', in Lars U. Scholl et al. (eds) The North Sea:
 Resources and Seaway (Stavanger: Norwegian University Press), pp. 11-55;
 L. R. Fischer (1999) ‘Port Policies: Seaport Planning around the North Atlantic,
-
-28 Lewis R. Fischer and the Progress of Maritime Economic History
 1850-1939', in L. R. Fischer and A. Jarvis (eds) Harbours and Havens: Essays in
 Port History in Honour of Gordon Jackson (St John's: IMEHA), pp. 229-44.
 41. L. R. Fischer (2002) ‘Information Flows and Decision-Making Structures in
@@ -1335,9 +1274,10 @@ Our Journals and Not Much Else: The Future of Maritime History?', Mariner's
 Mirrorr, XCVII, No. 1, 366-81.
 46. L. R. Fischer and H. W. Nordvik ‘The Context of Maritime History'.
 
-Shipping and Staple Economies
-in the Periphery
-C. Knick Harley
+## Chapter 3: Shipping and Staple Economies in the Periphery
+
+**Author**: C. Knick Harley  
+
 Shipping was an important economic activity in various parts of the
 periphery during the process of globalization that began with the
 European voyages of discovery and lasted until the closing of the continental frontiers early in the twentieth century. This important shipping activity in the periphery contrasted with the dominance of ocean
@@ -1360,8 +1300,6 @@ globalization process has often been fruitfully envisaged as a process
 in which the core economies, particularly of Europe, have their influence over peripheral economies. Often this relationship is analysed in
 the framework of imperialism and power relationships; however, as an
 economist, I wish to concentrate on market forces.
-
-30 Shipping and Staple Economies in the Periphery
 In the frontier economies, quintessentially in the Americas and
 Australia but elsewhere as well, the outstanding characteristic of the
 periphery has been its land and resource abundance. The economic
@@ -1396,8 +1334,6 @@ this period, frontiers of the global economy existed. Frontiers occurred
 at the limits of profitable staple production where the cost of transportation created by distance offset the economies of land abundance.
 As globalization proceeded the proportion of transportation and other
 distribution costs in the final price paid by consumers increased.
-
-## C. Knick Harley 31
 In this environment, the demand for shipping grew with the expansion
 of globalization.
 Most of the involvement of the periphery in the global economy
@@ -1432,8 +1368,6 @@ of the initial disequilibrium was much greater than those that occurred
 in resource booms in the Old World. The adjustment to equilibrium,
 in which the returns to mobile factors of production equalled their
 opportunity costs in the Old World and, if property rights were well
-
-32 Shipping and Staple Economies in the Periphery
 Supply SR0
 established, rents accrued to the ownership of resources, took much
 longer to become established.
@@ -1464,8 +1398,6 @@ P* w/ New World
 Demand
 Q0 Q* Quantity
 Figure 3.1 Staple-led colonial growth
-
-## C. Knick Harley 33
 of the staple colony's development that involved the mobilization of
 capital and labour to exploit the newly discovered valuable abundant
 resource expanded production from QQQ0 to Q*.
@@ -1501,8 +1433,6 @@ attenuated.
 Northern colonies: Malthusian dynamic
 British America differed importantly from the other empires in the
 Americas not in the nature of its staple colonies but because it included
-
-34 Shipping and Staple Economies in the Periphery
 substantial colonial populations in colonies on the northern North
 American mainland where the economic dynamics differed from those
 of the staple regions. These colonies, of course, flourished and became
@@ -1539,8 +1469,6 @@ Q Q Quantity of imports
 No WI WI
 (foreign exchange)
 Figure 3.2 Trade of the Malthusian colonies
-
-## C. Knick Harley 35
 demand curve. This demand curve is drawn in the diagram as downward-sloping in terms of the price of imported goods relative to the
 price of domestic goods (and wages) in the colonies. It is downwardsloping but may have been quite inelastic given the difficulties of
 providing colonially produced substitutes for European goods so that
@@ -1581,8 +1509,6 @@ The islands would have found these commodities much more expensive
 without the resources of the northern colonies and suffered when the
 mainland colonies were excluded from imperial trade by the colonists'
 victory in the American Revolutionary War. That said, however, nearly
-
-## C. Knick Harley 37
 providing opportunities. Entrepreneurship also mattered, but the elasticity of the services that the large imperial trading economy required
 provided opportunities.
 After the United States achieved independence, entrepreneurs in the
@@ -1617,8 +1543,6 @@ shipping from colonial times. Starting with the war of 1812 and reinforced by th
 the Civil War), New England's economic situation changed radically.
 The protective tariff created a customs union in which the Northeast,
 although its costs of manufacturing production exceeded those in
-
-38 Shipping and Staple Economies in the Periphery
 Britain, became the manufacturing core.6 Manufacturing exports to the
 rest of the United States tended to offer better prospects of fortune than
 maritime pursuits, and entrepreneurial enterprise was directed towards
@@ -1653,8 +1577,6 @@ presented for distribution services.
 Greeks, with their long indented coastline and myriad islands, of
 course, had a long maritime tradition. This had manifested itself within
 the Ottoman Empire and also in Venetian Levantine trade.8 The emergence of Greek shipping as a modern success story coincided with the
-
-## C. Knick Harley 39
 expansion of a staple frontier whose location enhanced the opportunities available to Greek shipping entrepreneurs. The staple frontier in
 question lay in the grain producing region along the western and northern shores of the Black Sea. The frontier developed after the Russians
 acquired the north shore of the Black Sea as a result of victory in the
@@ -1688,8 +1610,6 @@ entrepreneurs took advantage of their connections to the international
 economy. Initially they built a steam fleet with second-hand vessels
 and then proved themselves capable of exploiting the opportunities
 of the international market even though the technology had shifted.
-
-40 Shipping and Staple Economies in the Periphery
 American shipowners did not successfully make that transition but the
 Greeks were not distracted by opportunities provided by a dynamic and
 protected domestic market.
@@ -1719,8 +1639,6 @@ that accompanied the emergence of the United States not only as a
 major staple exporter in grain as well as cotton but also a major industrial economy is not surprising in this context. The attraction of shipping as an earner of foreign exchange had disappeared.
 Nonetheless, Britain, the world's leading industrial nation, dominated
 shipping in the late nineteenth century. In the context of shipping economics discussed here this is something of a surprise and merits a few
-
-## C. Knick Harley 41
 speculative remarks. British leadership certainly had underlying support
 that differed from the simple static comparisons of relative costs that
 have been emphasized here. Rather it seems to have rested on features
@@ -1757,8 +1675,6 @@ and K. O'Rourke (2007) Power and Plenty: Trade, War, and the Wold Economy
 in the Second Millennium (Princeton: Princeton University Press).
 3. J. J. McCusker and R. R. Menard (1985) The Economy of British America,
 1607-1789 (Chapel Hill: University of North Carolina Press), p. 18.
-
-42 Shipping and Staple Economies in the Periphery
 4. For a slightly later period see A.R.M. Lower (1973) Great Britain's Woodyard:
 British America and the Timber Trade, 1763-1867 (((Montreal and Kingston:
 McGill-Queen's University Press).
@@ -1781,10 +1697,10 @@ j.1468-0289.2011.00628.x.
 11. This is true even if, as in the case of the American colonies, they may have
 enjoyed prosperity in terms of un-traded goods.
 
-An Appraisal of the Progress
-of the Steamship in the
-Nineteenth Century
-David M. Williams and John Armstrong
+## Chapter 4: An Appraisal of the Progress of the Steamship in the Nineteenth Century
+
+**Authors**: David M. Williams and John Armstrong  
+
 The invention and subsequent development of the steamship represents
 a great watershed in maritime transport and humankind's relationship
 with the sea. For the first time, vessels were not at the mercy of wind
@@ -1801,7 +1717,7 @@ The change from a time when steamships did not exist to one where
 sail was virtually inconsequential occurred during the long nineteenth
 century. To contemporaries it was an exciting transition and historians have subsequently viewed the process as a remarkable example
 of technological change and a vital element in early trends toward a
-world economy and globalization. For such reasons there is an extensive literature on the steamboat. Indeed, only recently, Professor Yrjö
+world economy and globalization. For such reasons there is an extensive literature on the steamboat. Indeed, only recently, Professor Yrjöö
 Kaukiainen observed, ‘Hardly any other phase in the history of shipping
 has received as much scholarly attention as the transition from sail to
 steam'.2 This literature, which inevitably focuses on the British experience, is of considerable interest in historiographical terms as it falls into
@@ -1809,8 +1725,6 @@ two periods, each with their particular characteristics.3
 In the nineteenth century, and indeed up until World War II, the rise
 of steam was viewed as revolutionary and rapid, a shining example of
 technological advance, especially British technology, in the Victorian
-
-44 The Progress of the Steamship
 era. Contemporary commentators and historians who subsequently
 reviewed the changeover to steam saw no need whatsoever to chart, let
 alone analyse, the advance; steam's growing superiority over old ways
@@ -1846,8 +1760,6 @@ were by Canadian scholars, G.S. Graham and C. Knick Harley. The
 third quarter of the nineteenth century is often regarded as the watershed in the shift of sail to steam; however, this was a period when
 the Canadian merchant marine (all sailing vessels) expanded rapidly
 and rose to become the fourth-ranked mercantile navy in the world.9
-
-David M. Williams and John Armstrong 45
 Understandably, Canadian scholars, with their own national experience
 in mind, queried the pace and extent of the advance of steam.
 Graham's 1956 paper, ‘The Ascendancy of the Sailing Ship 1850-85',
@@ -1886,8 +1798,6 @@ for this came from David Starkey, who referred to ‘seemingly protracted
 development' and sought ‘the reasons why steamship development was
 apparently tardy'.19 Other writers, while not passing judgement on the
 pace of change, have stressed the gradual nature of the transition.20
-
-46 The Progress of the Steamship
 Thus the historiography of the advance of steam comprises the
 unqualified accounts of progress from writers up to around 1940 and,
 from the 1950s, suggestions that sail more than held its own for much
@@ -1924,8 +1834,6 @@ in the Annual Statement of Trade and Navigation until 1870. Thereafter,
 when trade and navigation were separated into two volumes, it was
 to appear in the Annual Statement of the Navigation and Shipping of the
 United Kingdom.22
-
-David M. Williams and John Armstrong 47
 The data on shipping movements comprised details of entrances and
 clearances of vessels with cargo and in ballast (together and separately)
 both nationally and for individual ports. Shipping movements ‘coastwise' and those ‘with foreign countries and British overseas possessions'
@@ -1958,8 +1866,6 @@ was virtually irrelevant.
 Yet this aggregate picture of the rapid progress of steam and demise of
 sail needs to be treated with some caution, for data on shipping movements contain some inherent distortions. Most notably, it gives undue
 prominence to short-distance trades and vessels that undertook passenger and mail transport only.25 Hence in the overall picture of overseas
-
-David M. Williams and John Armstrong 49
 Table 4.2 Percentage steam participation by tonnage per region of origin,
 1855-1910
 Percentage steam by tonnage, British and foreign vessels ‘with cargo and in
@@ -1997,8 +1903,6 @@ not, to all intents and purposes.29 The completeness of the survey can
 be demonstrated by comparing the sum of entrances embraced by the
 survey with the official figures for total entrances. In each of the sample
 years the survey represents over 90 per cent of total entrances.
-
-50 The Progress of the Steamship
 Table 4.3 Percentage steam participation by number of vessels per region of
 origin, 1855-1910
 Percentage steam by number of vessels ‘with cargo and in ballast' entering
@@ -2036,8 +1940,6 @@ the Mediterranean, Africa and the Far East (where the percentage was
 near or exceeded 80 per cent) the shift to steam was virtually complete. However, in 1880, the North American region's steam tonnage
 entrances only just exceeded 50 per cent and Northern Europe only just
 40 per cent. Steam entrances were still in the minority at 45 per cent in
-
-David M. Williams and John Armstrong 51
 the Indian trade, despite a dramatic rise in the 1870s in consequence of
 the Suez Canal, and in the Australasian at some 18 per cent.
 1890 saw the aggregate percentage reach 82.8. In most regions steam
@@ -2075,8 +1977,6 @@ important at various times and in particular regions or trades but the
 influences of the market were the prime determinants of the shift.30
 Within these was that the steamship had to transport its own fuel: as
 has been observed, ‘the factor inputs and costs of steamship transportation varied inversely with the length of the voyage from the source of
-
-52 The Progress of the Steamship
 coal'.31 But during the second half of the nineteenth century technological advances, notably the screw propeller, iron and later steel hulls
 and progress in engine design, particularly the compound and later
 triple expansion engine, greatly increased efficiency. All enhanced the
@@ -2111,8 +2011,6 @@ These two sets of observations by Harley were path-breaking and a generation of 
 have drawn on them for wider judgements and we fully acknowledge
 Harley's pioneering studies. So authoritative were these in their time
 that scholars paid insufficient heed to Harley's own qualifications of
-
-David M. Williams and John Armstrong 53
 ‘gradually' and ‘approximately'. Nor did they note that the analysis and
 findings presented were the outcome of ignoring the non-bulk trades
 which had a significance far outweighing their volume.35 Finally, in the
@@ -2150,8 +2048,6 @@ Moving southward, the shift to steam in the West and South African
 trades is on the face of it surprising. However, both trades were almost
 entirely conducted in British vessels and the nature of the West
 African trade - that involved the assembling of cargo from a variety of
-
-54 The Progress of the Steamship
 ports - favoured the use of steam vessels. Additionally, in both West and
 South Africa, innovative and dynamic entrepreneurs promoted steamship liner trades for cargoes and passengers.39
 Transatlantic trades present an interesting and contrasting picture.
@@ -2187,8 +2083,6 @@ the 1870s which was the outcome both of the Canal opening and the
 nature of the trade of China and Japan: relatively high value products,
 capable of bearing the premium price of steam navigation. The Indian
 region with its bulk trades saw a significant but slower advance of steam
-
-David M. Williams and John Armstrong 55
 in the 1870s. There remain the long-distance ‘round-the-world' trades.
 Australasia, compared with elsewhere, was a significant laggard in the
 1870s and indeed thereafter - distance and its bulk grain trade ensured a
@@ -2229,8 +2123,6 @@ somewhat distorted impression of the relative numbers of sail and steam
 ships in service. This can be viewed in two ways. On the basis of the
 shift to steam represented by the tonnage entrance figures, the number
 of sailing vessels still in employment relative to the number of vessels
-
-56 The Progress of the Steamship
 in the steam fleet could be viewed as quite remarkable. Alternatively, it
 might be observed that this seemingly large number of sailing vessels
 made but a little contribution to world shipping and trade. In essence,
@@ -2267,10 +2159,7 @@ But let us return to our basic findings that the process of change was
 a gradual one. Two aspects remain to be considered: one, the outcome
 of our analysis in the context of the historiography of the shift from sail
 to steam; and two, the question of pace: was the process fast or slow?
-On the former, our findings reinforce the case for the transition being
-
-David M. Williams and John Armstrong 57
-a gradual process and one that in both aggregate and sectoral terms
+On the former, our findings reinforce the case for the transition being a gradual process and one that in both aggregate and sectoral terms
 occurred later than perhaps has been envisaged. This is particularly so
 when one examines the situation as late as 1870 when steam formed
 but one-third of tonnage entrances and even in the regions where
@@ -2307,8 +2196,6 @@ contemporaries by implication and recent scholars more specifically
 have expressed views, it is hard to see how any clear judgement might
 be made. ‘Fast' and ‘slow' are relative terms and are difficult to apply
 in an objective fashion. Scholars examining the transition must make
-
-58 The Progress of the Steamship
 their own judgement. Our own view, given that the steamship only
 came into existence in 1810, and moreover, as is evidenced by the table,
 was of very little numerical significance in the overall statistics in 1855,
@@ -2359,8 +2246,6 @@ well have made calls and taken on cargo in Italy, France, Spain and Portugal (in
 Western Mediterranean). Our paper on the impact of steam on voyage patterns,
 ‘Changing voyage patterns in the 19th century: the impact of the steamship' has
 been published in the International Journal of Maritime History.48
-
-60 The Progress of the Steamship
 Notes
 1. D. M. Williams (ed.) (1997) The World of Shippingg (Aldershot: Ashgate),
 pp. ix-xxvi.
@@ -2406,8 +2291,6 @@ the space for cargo in proportion to tonnage and manned by one third
 the number of men - retained on broad oceans a predominance almost
 as marked as that of the screw steamer in the coastal … waters of Europe.'
 (Graham, op.cit., pp. 74-5)
-
-David M. Williams and John Armstrong 61
 13. C. K. Harley (1971) ‘The Shift from Sailing Ships to Steamships, 1850-1890:
 A Study in Technological Change and its Diffusion', in D. N. McCloskey
 (ed.) Essays on a Mature Economy: Britain after 1840 (Princeton: Princeton
@@ -2455,8 +2338,6 @@ distinction between entrances and clearances would have some bearing.
 27. This coverage raises the questions of whether different outcomes would arise
 if we had looked at (a) British vessels only and (b) ‘with cargo' only. The
 answer is ‘yes' in both instances, but the outcomes would have been distorted. Excluding foreign vessels would result in a bias towards steam due to
-
-62 The Progress of the Steamship
 the British mercantile marine's advance in its adoption of steam. Bias in the
 reverse direction would occur if ‘cargo only' was considered, for this would
 exclude steam vessels serving passengers only. This explains our choice of
@@ -2505,8 +2386,6 @@ pp. 53-85.
 44. A. J. Villiers (1971)The War with Cape Horn (London: Hodder & Stoughton).
 45. This ratio became the appropriate measure from the 1870s associated with
 the introduction of high pressure, compound engines. As an example of
-
-David M. Williams and John Armstrong 63
 contemporary usage see J. Glover (1882) ‘Tonnage Statistics of the Decade,
 1870-80', Journal of the Statistical Society, XLV, pp. 48-9. For more recent
 usage see Graham, op. cit., pp. 82-6, especially note 3, p. 86. However, official figures in 1912 use a 4:1 conversion figure: S.G. Sturmey (2010),British
@@ -2519,11 +2398,10 @@ end of the Suez isthmus land route.
 in the Nineteenth Century: The Impact of the Steamship', International
 Journal of Maritime History, XXII, 2, pp. 151-70.
 
-The Advantages of Water
-Carriage: Scale Economies
-and Shipping Technology,
-c. 1870-2000
-Yrjö Kaukiainen
+## Chapter 5: The Advantages of Water Carriage: Scale Economies and Shipping Technology, c. 1870-2000
+
+**Author**: Yrjöö Kaukiainen  
+
 … a broad wheeled wagon attended by two men and
 drawn by eight horses in about six weeks time carries and brings back between London and Edinburgh
 nearly 4 tons weight of goods. In about the same
@@ -2546,8 +2424,6 @@ War, transport costs in coastal shipping seem to have declined almost
 also been made for the period 1960-1990, and we may, indeed, conclude that ‘the advantages of water carriage' have increased even in the
 longer term.2 Adam Smith's example suggests that labour productivity
 in coastal shipping outpaced that in road transport by the ratio fourteen to one. In the beginning of the third millennium, the overall cost
-
-## Yrjö Kaukiainen 65
 efficiency (price per ton-mile) of short-sea shipping seems to be some 25
 times higher than that of long-trader trucking.3 Thus even after the late
 nineteenth century, there have been other technical ‘revolutions' leading to a continuous, more or less regular, growth of transport efficiency
@@ -2587,8 +2463,6 @@ to have larger hulls than sailing vessels of similar deadweight and cubic
 volume.
 The first strong boost for big ships started in the late nineteenth
 century with the North Atlantic passenger liners. These have not been
-
-66 The Advantages of Water Carriage
 Table 5.1 The development of cargo-hauling efficiency of ships
 Period Type of ship Dwt, Speed, Capacity, ‘000 ton/
 metric knots ton/cbm cbm-miles
@@ -2634,8 +2508,6 @@ cabins and other rooms for passengers) and dwt are very difficult to
 estimate. In any case, they developed into highly specialized vessels,
 built for the carriage of very light cargo, human passengers (even a late
 nineteenth-century emigrant required the space of three tons of grain).7
-
-## Yrjö Kaukiainen 67
 Thus, liners did not need high deadweight capacity and, travelling
 lightly loaded, were able to achieve high speeds - in the 1930s over 30
 knots. They also grew bigger than any other ships so far. Not until 1899
@@ -2675,8 +2547,6 @@ the limits posed by the Suez Canal became less important as the canal
 was closed both in 1956-57 and 1967-75. Finally, an institutional factor
 contributed additional advantages for large tankers: the international
 load line convention, concluded in 1966, allowed deeper lading than
-
-68 The Advantages of Water Carriage
 Table 5.2 Total oil tanker fleets and average ship sizes, 1950-1980
 1950 1960 1970 1980
 Total fleet ('000 grttt) 16,866 41,465 86,140 175,004
@@ -2715,8 +2585,6 @@ some twenty of over 200,000, but the most popular class were still the
 handysize (25,000-40,000 dwt) ships.14
 An interesting element in the development of bulk carriers were
 ships designed to carry both liquid and dry bulk cargoes, in order to
-
-## Yrjö Kaukiainen 69
 find cargo (or at least part cargo) for return legs. In the 1920s some oil
 and ore carriers that loaded ore in a central tank (or tanks) and oil in
 separate wing tanks were constructed. As long as the interior volumes
@@ -2754,8 +2622,6 @@ Ore-bulk-oil - - 8,317 40.2/c. 70 19,769 54.9/c. 96
 Note: Average dwt figures have been estimated; see Table 5.2. Before the new load lines, the
 typical dwt/grt ratio was about 1.4:1, after that it rose to about 1.75 :1.
 Source: Lloyd's Register, World Fleet Statistics.
-
-70 The Advantages of Water Carriage
 1985 onwards, the tonnages of oil and dry bulk fleets have been roughly
 equal but, interestingly, in terms of average size, the latter have gradually passed tankers by a fairly clear margin (see Figure 5.1). Even more
 interesting is that both groups have grown much more slowly than in
@@ -2781,8 +2647,6 @@ bulk carriers is slightly different before and after 1986. OBO carriers were not
 post-1985 averages of bulk carriers, but these fleets have been rapidly diminishing.
 Sources: Lloyd's Register,Statistical Tables/World Fleet Statistics (-1985); ISL, Shipping Statistics
 Yearbook(1986-).
-
-## Yrjö Kaukiainen 71
 At the same time as the two bulk revolutions were in full swing,
 another was just brewing. Containers appeared in American coastal
 transport at the end of the 1950s and, after international standards
@@ -2818,8 +2682,6 @@ company Sea-Land, which could carry full shiploads of over 2,000
 TEU at a speed of 33 knots. They, of course, ran foul of the oil crises,
 and were subsequently laid up or converted to more economical diesel
 power. Nor did other enterprises with fast container ships succeed as
-
-72 The Advantages of Water Carriage
 bunker costs rose rapidly; moderate cruising speeds became the rule
 for a couple of decades.19
 The backlash caused by the oil crises even seems to have dampened
@@ -2855,8 +2717,6 @@ fleet. Despite certain statistical inconsistencies, the curves sketch a fairly
 logical picture. First, the tanker and bulker revolutions were chronologically closely connected, while the container revolution lagged behind
 by at least twenty years. It is also evident that the bulk revolutions culminated, or at least were moderated, in the early 1980s. Although a new
 growth spurt has been experienced in the early twenty-first century, it
-
-## Yrjö Kaukiainen 73
 may not be compared with the rapid and escalating proliferation of big
 container ships.
 These three specific waves have produced the modern shipping
@@ -2894,8 +2754,6 @@ for ordinary cargo vessels, the standard practice when carrying light
 goods, such as sawn wood or timber, was to load some of it on deck. In
 the early twentieth century a special type of light cargo vessel, known
 as shelterdecker, was developed. The concept was based on certain loopholes in old measurement rules: by accepting an unusually high freeboard (and low deadweight tonnage) a two-deck ship could deduct the
-
-74 The Advantages of Water Carriage
 Table 5.4 Examples of typical deadweight tonnage / cargo
 hold volume ratios
 Type of ship Dwt/vol
@@ -2937,8 +2795,6 @@ even imagined before. In the late 1980s, three stacks on deck were still
 regarded as a norm, and the stowage ratios (volumes per deadweight)
 of container ships were about the same as those of old shelterdeck liners. However - as Table 5.5 indicates - the ships gradually became more
 efficient. Deck cargoes increased as post-Panamax ships were built with
-
-## Yrjö Kaukiainen 75
 Table 5.5 Container ships, average dead
 weight, TEU and gross tonnage ratios
 Dwt/TEU Gt/Dwt
@@ -2975,8 +2831,6 @@ adaption of fuller hull forms. In the long run, the deadweight capacities of all
 and other elements of maritime propulsion which produced weight
 saving on both machinery installations and bunkers.30 On the other
 hand, in terms of cargo hold volumes - which are more important for
-
-## Yrjö Kaukiainen 77
 The drop appears to be particularly steep up to about 50,000 dwt, but
 even after that the declining trend is clear enough. Thus, the growth
 of ship sizes was based on strong economic incentives. Yet it is equally
@@ -3004,8 +2858,6 @@ Figure 5.3 World container fleet, number of ships by size class, 1980, 1995 and
 Note: For 1980, size classes only according to dwt; for 2008 the lowest size class is <20 000
 dwt.
 Source: ISL, Shipping Statistics Yearbook.
-
-78 The Advantages of Water Carriage
 continuous development of existing ports, and the founding of new
 deepwater ones, has, of course, been a necessary precondition for the
 increasingly big vessels. Nevertheless, the number of ports which can
@@ -3042,8 +2894,6 @@ maximum sizes (as limited by, for example, the depth of water in the
 relevant ports) by a substantial margin.34 Finally, it must also be remembered that there is at least one sector of shipping which enjoys full scale
 advantages even in port: in tankers the capacity of pipelines and pumps
 can be upgraded according to carrying capacity. Big crude carriers can
-
-## Yrjö Kaukiainen 79
 be loaded and unloaded in the same time - nowadays usually twelve
 hours - as smaller product tankers. In this case, it will be impossible to
 determine the optimal ship size in the traditional way.
@@ -3080,8 +2930,6 @@ bigger ship sizes after the 1960s and more efficient cargo handling in
 ports, the freights of coal have been lower than those of grain.) In liner
 freights (container shipping) the decline started later, in the 1980s, and
 so far it has been more modest.37
-
-## Yrjö Kaukiainen 81
 0 2000 4000 6000 8000 10000
 corresponding rebate of ‘blue water' freights and reinforced the impression that hauling costs were declining faster than they actually were.
 In any case, the long-term development of bulk freights (Figures 5.4
@@ -3112,8 +2960,6 @@ Nautical miles
 Figure 5.5 Average projected coal freight at different distances, 1872-2001
 Note: see Figure 5.4.
 Source: Kaukiainen (2006), pp. 53-4, Appendix Table 1a and 1b.
-
-82 The Advantages of Water Carriage
 Table 5.6 Terminal component as proportion of average
 freights of grain and coal, selected distances, 1872-2001
 Freight at Freight at Freight at
@@ -3151,8 +2997,6 @@ remain less popular than some thirty or forty years ago. The slowly
 growing average sizes in both fleets seem to reflect the fact that scale
 economies are still working within a number of niches with mediumsized ships. On the other hand, at least one major sector, general cargo
 carriers, does not present any such trend.
-
-## Yrjö Kaukiainen 83
 However, the logistic formula of inverse relationships between ship
 sizes and the value of cargo no longer holds when we come to the most
 valuable end of the commodity scale. While it is true that finished consumer goods are traded in small parcel sizes, rather by containerloads
@@ -3187,8 +3031,6 @@ of technological and economic development. For practical reasons, the
 present discussion has focused on the macro-, or industry level, in the
 economies of scale of ship sizes, not of firm sizes. Even the development of port technology has been dealt with as a backdrop to shipping
 technology, rather than as an independent variable affecting the overall efficiency of shipping and its different cost components. The basic
-
-84 The Advantages of Water Carriage
 assumption was that the economies of scale were an underlyingmodus
 vivendi of shipping - as well as of many other industries - but this is
 a rule which needs a few major qualifications. It seems that different
@@ -3224,8 +3066,6 @@ No. 05/04, London School of Economics, p. 33 (table 5).
 Routledge), p. 6.
 3. The latter ratio is based on Finnish transport statistics 2000-2005
 (Liikennetilastollinen vuosikirja/Annual of transport statistics 2006); tonkilometres produced by shipping and truck traffic have been divided by
-
-## Yrjö Kaukiainen 85
 respective revenues. The average length of transport in shipping (about 1,000
 kilometres) represents a distance from, for instance, Lübeck to Helsinki. In
 Adam Smith's case, no overall or capital costs are recorded; yet it can be supposed that fourteen times the value of eight horses and a four-ton wagon
@@ -3272,8 +3112,6 @@ fleet and special fleets.
 1950s to the Presentt (St John's: IMEHA), p. 19.
 18. S. Gillman (1994) ‘Container Shipping', in Gardiner (ed.), The Shipping
 Revolution, pp. 46-7, 51; BroezeThe Globalization of the Oceans, pp. 33-4.
-
-86 The Advantages of Water Carriage
 19. Gillman ‘Container Shipping', p. 47; Broeze, The Globalization of the Oceans,
 pp. 17-18.
 20. Institut für Seeverkehrswirtschaft und Logistik, Shipping Statistics Yearbook,
@@ -3317,8 +3155,6 @@ to c. 70% of their gross tonnage (the overall volume of the ship), a ratio
 which actually exceeds that on many modern bulk carriers with their self-trimming holds and big ballast water tanks. Cf. the data in Kaukiainen, ‘Tons
 and Tonnages', Appendix tables.
 32. ISL, Shipping Statistics Yearbook, special fleets.
-
-## Yrjö Kaukiainen 87
 33. P.M.H. Kendall (1972) ‘A Theory of Optimum Ship Size',Journal of Transport
 Economics and Policy,6, pp. 128-135.
 34. For subsequent discussion, see J. O. Jansson and D. Shneerson (1982) ‘The
@@ -3346,10 +3182,10 @@ p. 71. FD terms emerged in coal trade in the 1930s and became common in
 other trades in the 1950s; FIO became the rule during the 1970s.
 39. For more details, see Kaukiainen ‘Journey Costs', p. 39 (fig. 3a).
 
-Building the Networks of Trade:
-Perspectives on Twentieth-Century
-Maritime History
-Espen Ekberg, Even Lange and Eivind Merok
+## Chapter 6: Building the Networks of Trade: Perspectives on Twentieth-Century Maritime History
+
+**Authors**: Espen Ekberg, Even Lange, and Eivind Merok  
+
 The development of maritime history as a specialized field of research is
 an impressive testament to the founders of the International Maritime
 Economic History Association.1 Skip Fischer's own publications, together
@@ -3372,8 +3208,6 @@ either have ignored the period or been reluctant to link their findings
 to broader trends within the international economy of the period.3 The
 consequence is that maritime history has been marginalized in ongoing
 debates on the factors behind the expansion of the post-1950 international economy.
-
-Espen Ekberg, Even Lange and Eivind Merok 89
 This chapter discusses the role of the maritime sector in the international economy during the latter half of the twentieth century. By doing
 this we seek to accomplish two things. First, we wish to raise awareness
 of the actual importance played by the maritime industry in shaping
@@ -3408,8 +3242,6 @@ According to the prominent maritime economist Martin Stopford,
 the shipping industry of the post-1950 period went through a process
 of unparalleled change. By 1980, Stopford argues, ‘there was nothing left of the proud, conservative shipping industry which sailed
 confidently into the 1950s'.4 While this is perhaps an overstatement,
-
-90 Building the Networks of Trade
 fundamental changes had indeed taken place: The small general cargo
 carriers and tramp ships that still dominated merchant shipping in 1950
 had gradually been replaced by large bulk carriers, container ships and
@@ -3444,8 +3276,6 @@ of the twentieth century.7
 It has to be noted that Hummels does not deny that massive
 productivity-enhancing transformations, both technological and institutional, occurred within the shipping sector during the second half of
 the twentieth century. However, while not providing much detail, he
-
-Espen Ekberg, Even Lange and Eivind Merok 91
 contends that most cost improvements provided by these transformations were countered by the fact that ‘input costs, including fuel, ship
 prices, and port costs, were skyrocketing'.8
 The views of Hummels have resonated both in the specialized literature and in more general works on the development of the international economy. In a much-cited article on British tramp shipping,
@@ -3460,7 +3290,7 @@ freight rates before 1914'.11 Consequently, they contend that the massive growth
 century cannot be explained by reference to technological changes but
 rather needs to be explained primarily by political factors.
 Not all researchers of freight rate developments, however, agree with
-these conclusions. In several articles Yrjö Kaukiainen has investigated
+these conclusions. In several articles Yrjöö Kaukiainen has investigated
 the development of post-WWII ocean freights. In contrast to works
 cited above, his conclusion is that the decline in freight rates that characterized the nineteenth century ‘continued in the twentieth century'.
 Presenting figures on the development of freight ratios from 1820 to
@@ -3478,8 +3308,6 @@ even more puzzling as Kaukiainen and Hummels base their tramp
 freight estimates on the same data. Post-WWII tramp freight rates are
 taken by both authors from the tramp trip charter price index originally constructed byNorwegian Shipping News and continued byLloyd's
 Shipping Economist. The reason for the differing conclusions, however,
-
-92 Building the Networks of Trade
 is fairly simple: disagreement on the appropriate deflator. To convert
 the freight rate figures from nominal toreal values, Kaukiainen uses the
 British wholesale price index (up to 1965) and the US producer price
@@ -3517,8 +3345,6 @@ technological, organizational and institutional transformations in shipping. Fin
 despite these obvious improvements, the overall claim is that any cost
 saving achieved was countered by rising input costs. These assertions
 have some weaknesses, however.
-
-Espen Ekberg, Even Lange and Eivind Merok 93
 First, macro-level estimates of the development of transport costs as
 a proportion of the total value of international trade - the overall ‘freight
 factor' - during the twentieth century are not fully conclusive when it
@@ -3557,8 +3383,6 @@ reached 4.9 per cent.26 As for operating costs, these have also declined
 substantially. The most important element in these costs is of course
 wages. It is clear that absolute wage levels in the traditional western
 European shipping nations increased substantially during the post-war
-
-94 Building the Networks of Trade
 years. The parallel growth in the size of the ships decreased man-hours in
 relation to tons, but it could not prevent an upward movement in labour
 costs. However, gradually most industrial countries lost their fleets to
@@ -3592,8 +3416,6 @@ As a result, we believe that the development of ocean transportation costs in th
 trade warrants further scholarly attention. One potential avenue for
 understanding these processes would be to focus on innovation processes that occurred in various sub-markets of the shipping industry in
 the post-WWII era. Focusing on such meso-levels of analysis facilitates
-
-Espen Ekberg, Even Lange and Eivind Merok 95
 a more precise identification of key players as well as a more finegrained understanding of the economic consequences of the shifts for
 industries relying on transportation services. Maritime entrepreneurs
 often played key roles when attempting to introduce new technologies.
@@ -3629,8 +3451,6 @@ gets part of the story of international trade growth. Individuals have to
 establish the conditions necessary for that trade to actually take place.
 An adequate historical understanding of trade growth should put these
 processes at centre stage.
-
-96 Building the Networks of Trade
 A good place to start such an enquiry is to study the actions of shipping entrepreneurs, and their role in the growth of a specific trade.
 Take as a first example the growth of trade in coking coal. Coking coal
 is a major raw material in the steel industry and the increasing trade
@@ -3668,8 +3488,6 @@ steps were taken in the period 1956 to 1958, when he organized a series
 of meetings with American coal exporters.36 The Hampton Roads coal
 exporters were at this point still the leading providers of coking coal to the
 Japanese steel industry. Shipments had traditionally been made in Liberty
-
-Espen Ekberg, Even Lange and Eivind Merok 97
 ships, but were now increasingly taken over by slightly larger bulk carriers
 of 15,000-17,000 dwt. Næss sought to negotiate contracts of affreightment with the exporters using ships twice this size. The first question was:
 Could the exporters produce the amount of coal necessary efficiently to
@@ -3705,8 +3523,6 @@ coal trade, however, the technological and organizational challenges
 that had to be overcome to ensure rapid expansion were substantial.
 In order for these products to be efficiently traded across long
 distances, completely new types of ships had to be envisaged and
-
-98 Building the Networks of Trade
 developed. So-called parcel tankers capable of carrying a large variety of
 chemicals in bulk were introduced and the ship type gradually developed to become a major niche in world shipping. By 1975, a total of
 341 chemical tankers were registered inLloyd's Register of Shipping. With
@@ -3745,8 +3561,6 @@ soon became what Murphy and Tenold describe as ‘the favoured vessel
 for the carriage of a wide range of chemicals'. The obvious reason was, as
 the same authors write, that ‘this kind of transport gave substantial cost
 reductions relative to shipments in individual containers on conventional
-
-Espen Ekberg, Even Lange and Eivind Merok 99
 ships'.44 Hence the ships clearly contributed to a decline in the cost of
 transporting chemicals across long distances and hence stimulated the
 trade in these products. This fact was pointed out by Stolt-Nielsen himself who, in an interview with the New York Times in 1963, noted that
@@ -3783,8 +3597,6 @@ the producers of raw materials, who needed to be able to deliver, on
 schedule, the increased amount of cargo the bulk carriers could carry.
 The same was true of the chemical plants. New solutions also had to be
 developed in order to finance the building of the increasingly large and
-
-100 Building the Networks of Trade
 hence also increasingly expensive bulk carriers. While the price per ton
 of such carriers decreased, their radically increased size meant that the
 amount of money that needed to be raised to finance a single ship was
@@ -3820,8 +3632,6 @@ the post-war years unfolded and was accomplished.
 Conclusion: maritime history as international
 economic history
 Despite convincing evidence for a dramatic technological, organizational and institutional revolution within the shipping sector after
-
-Espen Ekberg, Even Lange and Eivind Merok 101
 WWII, few scholars outside the field are prepared to assign to the shipping sector any importance in fostering a more widespread international economic integration in the period. General economic historians
 stick to the conclusion that as long as the commodity-deflated price of
 seaborne transport apparently remained stable during the second half
@@ -3857,8 +3667,6 @@ limitation for emerging industrial centres and served as a preamble to
 later developments of geographically dispersed production regimes.
 The emergence of truly global production chains, where raw materials,
 intermediary goods, and final commodities are traded between nations
-
-102 Building the Networks of Trade
 and geographically scattered industrial centres, is, of course, highly
 dependent on the development of modern transportation systems. The
 demand for increasingly complex shipping services was met by a massive expansion of capacity as well as crucial changes in quality, not easily captured in existing data on freight rates. Put simply, it is extremely
@@ -3889,8 +3697,6 @@ trans-sectoral entrepreneurial networks may allow us to understand more
 fully the innovation processes at work in the international transportation sector after WWII. Placing shipping entrepreneurs at the centre of
 such frameworks may also serve as a complement to research focusing
 on individual shipowners or on the rise and fall of merchant fleets. This,
-
-Espen Ekberg, Even Lange and Eivind Merok 103
 in turn, may also help us to identify more precisely how changes in
 the transportation industry came about, and what impact they had on
 global economic development. Maritime historians should feel a special
@@ -3936,8 +3742,6 @@ Economic History, vol. 41, no. 2, p. 201.
 10. K. G. Persson (2010) An Economic History of Europe: Knowledge, Institutions and
 Growth, 600 to the Present (Cambridge: Cambridge University Press), p. 225.
 11. Findlay and O'Rourke Power and Plenty, pp. 503-4.
-
-104 Building the Networks of Trade
 12. Y. Kaukiainen (2006) ‘Journey Costs, Terminal Costs and Ocean Tramp
 Freights: How the Price of Distance Declined from the 1870s to 2000',
 International Journal of Maritime History, vol. XVIII, no. 2, p. 17.
@@ -3964,7 +3768,7 @@ and Liner Freights',International Journal of Maritime History,vol. XXI, no. 2,
 p. 44.
 22. Mohammed and Williamson, ‘Freight Rates and Productivity Gains', p. 187.
 23. Kaukiainen, ‘Journey Costs, Terminal Costs and Ocean Tramp Freights'.
-24. We are indebted to Yrjö Kaukiainen for pointing out these further challenges
+24. We are indebted to Yrjöö Kaukiainen for pointing out these further challenges
 with the construction and use of freight ratios.
 25. Findlay and O'Rourke, Power and Plenty, p. 504. Findlay and O'Rourke also
 point to a series of other factors including ‘a variety of anticompetitive practices associated with both private sector and government behavior, as well as
@@ -3984,8 +3788,6 @@ Special Application to Information Technology Products', OECD Science,
 Technology and Industry Working Papers,2004/09, OECD Publishing.
 32. Figures include oil, iron ore, grain, coal, bauxite/alumina and phosphates and
 exclude minor bulks (such as steel products, pig and scrap iron, fertilizers,
-
-Espen Ekberg, Even Lange and Eivind Merok 105
 etc.) and finished and semi-finished manufactured goods. Estimates are
 from G. Harlaftis (1996) A History of Greek-Owned Shipping. The Making of
 and International Tramp Fleet, 1830 to the Present Dayy (London: Routledge),
@@ -4024,9 +3826,10 @@ Maritime History, vol. XXII, no. 1, p. 66.
 International Journal of Maritime History', International Journal of Maritime
 History, vol. I, no. 1, p. ix.
 
-The Development of Commercial
-Infrastructure for World Shipping
-Gordon Boyce
+## Chapter 7: The Development of Commercial Infrastructure for World Shipping
+
+**Author**: Gordon Boyce  
+
 The chapter examines the development of elements that in combination
 provided vital commercial infrastructure for the global shipping
 industry. Specifically, it discusses the roles of key institutions, such as
@@ -4050,8 +3853,6 @@ to be an enduring cornerstone of the economy.2 Cain and Hopkins used
 the term ‘gentlemanly capitalism' to describe financial and social links
 along with codes of conduct that emerged in the seventeenth century
 and supported transaction-facilitating bonds of trust.3 These behavioural
-
-## Gordon Boyce 107
 patterns, based on the expectation that one's word was their bond,
 shaped the operations of the institutions examined below.
 Although regional centres developed local institutions that encouraged
@@ -4089,8 +3890,6 @@ exchanges for the same reasons that actuated their London counterparts, and thes
 Exchanges arose for other psychological reasons; there was ‘a need
 for a place where the feeling of the trade could be ascertained'.9
 Those attending the floor of the Stock Exchange could detect
-
-108 The Development of Commercial Infrastructure for World Shipping
 market direction by the quality of the sound arising from open cry
 trading.10 Moreover, this system of exchange gave rise to a floating
 price known to all but unattainable when pairs of bargainers transacted in private.11
@@ -4128,8 +3927,6 @@ to enhance competition, in 1720 Parliament passed an Act that gave
 Lloyd's and two chartered fire insurance companies authority to write
 marine policies. However, in practice these organizations kept to their
 main sphere of operation. Four years later, the Marine Insurance Act
-
-## Gordon Boyce 109
 allowed other organizations to enter the business, and more companies
 (mostly new joint-stock enterprises) appeared during the US civil war to
 become enduring players in the industry. Nevertheless, the provisions
@@ -4166,8 +3963,6 @@ underwriter had to be a person of wealth and reputation, and Lloyd's
 Committee rigorously vetted them and carefully assessed their ‘capacity',
 that is, their ability to withstand all possible losses to which their lines
 exposed them.20 A prospective name had to be nominated by six existing members and had to deposit funds (in cash or gilt securities) into
-
-110 The Development of Commercial Infrastructure for World Shipping
 a trust fund. The Committee interviewed candidates and determined
 the maximum amount of risk they could accept. Premiums due to a
 name were paid into the trust fund, which, following Cuthbert Heath's
@@ -4205,8 +4000,6 @@ to unwritten rules (see below), generated flows of preferential information.22 A
 information about ship movements, safe arrivals and losses. In the
 same location there was a rostrum attended, as in the old coffee house,
 by a crier who called out fresh news for all to hear. In addition, the
-
-## Gordon Boyce 111
 movement of brokers and agents around the room and congregations
 at specific boxes conveyed information to knowledgeable participants
 who recognized major figures by sight.
@@ -4246,8 +4039,6 @@ Lloyd's appointed its first agent in 1811 and by the late nineteenth
 century had a global network of over 1,000 representatives linked
 by telegraph.24 Agents attended to incidents and provided reports to
 underwriters. The Association also compiled a standardized Salvage
-
-112 The Development of Commercial Infrastructure for World Shipping
 Agreement to prevent extortion by salvors and to expedite action
 needed to minimize the incidence of total loss.
 Lloyd's collected data on claims and other operating matters to
@@ -4282,8 +4073,6 @@ risks and set premiums, and to shipowners who bought and sold vessels. The Regis
 of machinery, design, construction material) as well as information
 regarding any repairs effected, and classified a ship's overall condition,
 A1 being the highest ranking. Each vessel entry also noted the date of
-
-## Gordon Boyce 113
 the most recent inspection (or survey). The information embodied in
 the Register provided decision-makers with accurate and verified data,
 thereby saving them an incalculable amount of time, especially when
@@ -4322,8 +4111,6 @@ freeboard table on those devised by the Society's representatives. Over
 time, new designs, such as spar and awning deck vessels and turret ships
 were accommodated, and separate standards devised for refrigerated
 boats (1898), tankers (1909), and motorships (1914).
-
-114 The Development of Commercial Infrastructure for World Shipping
 In developing and enforcing its rules, Lloyds did not have any f ormal
 statutory power. Rather, the Society operated as a quasi-regulatory
 agency because the maritime occupations recognized the necessity of
@@ -4357,8 +4144,6 @@ would be tarnished by such wanton gambling, to restrict entry to the
 venue to those who paid subscriptions (4 guineas for individuals and
 6 to 8 guineas to firms depending on their size). Membership was
 limited to three hundred persons; new entrants were admitted after
-
-## Gordon Boyce 115
 attracting six supporting recommendations from existing members.
 These d evelopments led to the creation of the modern Baltic, and from
 this point onwards its composition was highly cosmopolitan.
@@ -4398,8 +4183,6 @@ Through its rules and processes, the Baltic acted as the unofficial
 regulator of the shipping business and significant segments of commodity trading.
 Indeed, one historian suggested that the Baltic was ‘the clearing house
 for the cereal produce of the world'.37 Complementing the operations
-
-116 The Development of Commercial Infrastructure for World Shipping
 of the London Corn Exchange, where London and regional merchants
 transacted, the Baltic was for an extended period larger than other
 centres of world commodity trading, including the New York and
@@ -4435,8 +4218,6 @@ installing a benchmark (No. 3 Manitoba) against which other grades
 could be referenced.
 The manner in which trade was conducted and the physical characteristics of the buildings occupied by the exchange generated efficiency effects. Dealing was done by open cry as it was at all markets
 except Lloyd's, and noise levels were prodigious. A visitor to the Royal
-
-## Gordon Boyce 117
 Exchange, for example, wrote in 1818: ‘the clamor of voices, to an
 ear unaccustomed as mine was to such confusing sounds was almost
 deafening; and though no doubt perfectly intelligible to one another,
@@ -4475,8 +4256,6 @@ the ‘feel' of the market, the capacity to do so being a highly valuable
 personal attribute.43
 From 1878, the Baltic used standardized contracts that incorporated
 abbreviations in order to enhance the celerity of transacting. All participants understood terms such as cif, fob, and faq, and they could
-
-118 The Development of Commercial Infrastructure for World Shipping
 decipher circulars offering ships for hire or cargo for shipment. The
 latter might read:
 1-2 Tarragona - Malaga. Range/Alexandria
@@ -4514,8 +4293,6 @@ The City itself constituted an emporium of specialized markets, and
 businessmen observed a routine of visiting several venues each day or
 each week at specific times when calls occurred. This pattern of movement
 would convey to them valuable impressions of the d irection of trade. The
-
-## Gordon Boyce 119
 close proximity of the Stock Exchange, the Corn Exchange, Lloyd's, the
 Baltic, and the Royal Exchange made it relatively easy to gain a comprehensive view of business conditions. Taken as a whole, the London market
 was so important that domestic and foreign businessmen could not afford
@@ -4551,8 +4328,6 @@ customary practices. Metal dealers developed a specialized vocabulary
 that saved time and enhanced the precision of communication.51 Like
 other open cry venues, the LME generated personal connections and
 networks that smoothed the exchange process.
-
-120 The Development of Commercial Infrastructure for World Shipping
 Other markets and other infrastructure elements
 The City accommodated many other markets. Exchanges for wool,
 furs, other textiles and other commodities arose within the precinct.52
@@ -4588,8 +4363,6 @@ spread abroad and formed the foundation of the global knowledge base
 essential for the efficient operation of an integrated world market.
 Conclusion
 From the seventeenth century, England developed and refined an integrated commercial infrastructure centred on London. The fundamental
-
-## Gordon Boyce 121
 strength of this construct and that of each constituent element lay in
 their ability to harness and disseminate information. Interpersonal
 knowledge generated trust to support transactions, commercial intelligence sustained flows of goods and the provision of services, while
@@ -4624,8 +4397,6 @@ Capitalism and British Overseas Expansion: II New Imperialism, 1850-1945',
 Economic History Review, Second Series, XL, pp. 1-27.
 4. Charles Wright and C. Ernest Fayle (1927) A History of Lloyd's (London:
 Blades, East & Blades), p. 3.
-
-122 The Development of Commercial Infrastructure for World Shipping
 5. Markman Ellis (2004) The Coffee House A Cultural History: (London:
 Weidenfeld & Nicolson), pp. 150 and 167.
 6. Graeme Milne (2006) North East England, 1850-1914 (Woodbridge: The
@@ -4641,7 +4412,7 @@ Exchange, 1800-1986', Financial History Review, 7, pp. 6-24.
 (London: Hutchinson Benham), p. 3.
 12. See R.C. Michie (1999) The London Stock Exchange (Oxford: Oxford University
 Press).
-13. Yrjö Kaukiainen (2001) ‘Shrinking the World: Improvements in the Speed
+13. Yrjöö Kaukiainen (2001) ‘Shrinking the World: Improvements in the Speed
 of Information Transmission, c. 1820-1870', European Review of Economic
 History, IV, pp. 1-28.
 14. Lars U. Scholl ‘The Global Communication Industry and Its Impact on
@@ -4675,8 +4446,6 @@ Lloyd's), pp. 50-1.
 35. For advice to novice brokers and a description of chartering processes,
 see C. F. H. Cufley (1962) Ocean Freights and Charteringg (London: Cox and
 Wyman), pp. 43-7.
-
-## Gordon Boyce 123
 36. Barty-King, The Baltic, pp. 244-6.
 37. Ibid., p. 329.
 38. Quoted Ibid., p. 46.
@@ -4697,10 +4466,10 @@ Nicholls), pp. 12-5.
 52. David J. Jeremy (1998) A Business History of Britain, 1900-1990s (Oxford:
 Oxford University Press), p. 270.
 
-Government and the British
-Shipping Industry in the Later
-Twentieth Century
-Sarah Palmer
+## Chapter 8: Government and the British Shipping Industry in the Later Twentieth Century
+
+**Author**: Sarah Palmer  
+
 Introduction
 From the vantage point of the twenty-first century the history of
 Britain's shipping over the previous century may seem one of a long
@@ -4725,8 +4494,6 @@ identified by the Rochdale Committee. Six developments were seen
 then as having had a ‘profound effect on the UK industry': disruption
 caused by the two world wars, particularly the First World War; decolonization; slow growth in the types of trade in which British owners specialized; relatively slow growth of Britain's own trade; competition from
 shipping of developing countries; and competition from air transport
-
-126 Government and British Shipping in the Later Twentieth Century
 The aim of this article is not to debate the relative weights of external and internal reasons for decline, but to consider some aspects of
 the response by the British government. How did politicians and civil
 servants react to the striking change, over a relatively short period,
@@ -4765,8 +4532,6 @@ Archives.13 He therefore offers little insight into government thinking.
 In contrast, former civil servant Richard Goss in a recent article provides
 an ‘insider' perspective which reveals the poor state of government
 relations in the 1960s and 1970s with the Chamber of Shipping, an
-
-## Sarah Palmer 127
 organization which he portrays as heinously uncooperative and short-sighted.14 Historical understanding also benefits from contemporaneous
 commentary appearing in academic papers by Goss and other maritime
 specialists.15
@@ -4803,8 +4568,6 @@ UK-owned and registered fleet in 1968.18 In terms of the value of their
 services the contribution of the liner companies was rather greater than
 this and, while only P&O actually ranked in the top 100 UK companies
 in 1960, the longevity of the great liner companies, most founded in the
-
-128 Government and British Shipping in the Later Twentieth Century
 nineteenth century, still guaranteed public attention. In an increasingly
 post-colonial age, they might no longer serve as ‘flagships of Empire' but
 they remained flagships - of something - nevertheless. The Chamber
@@ -4840,8 +4603,6 @@ expected to make available an unlimited subsidy or even one to maintain the merc
 how large, in our view, the shipping industry should ideally be.22
 The final confidential document, ‘The Prospects of British Shipping',
 which emerged from this internal review accompanied a memorandum
-
-## Sarah Palmer 129
 from the Minister of Transport, Ernest Marples, which was considered
 by the Conservative Cabinet in July 1962. It dismissed the suggestion
 that it was possible to fix a figure for a reduced shipping industry size,
@@ -4879,8 +4640,6 @@ industry: ‘the industry has developed too defensive an attitude in its
 dealings with others'.25 But industry-government distrust was mutual
 and arguably in the early 1960s, and again in the early 1970s, particularly felt by the Conservatives, despite, or perhaps because of, the fact
 that politically the party could count on the support of shipowners.
-
-130 Government and British Shipping in the Later Twentieth Century
 The Cunard case
 Behind this distrust was the issue of the Cunard Queen liners. In the
 late 1950s the Macmillan government was confronted with the problem of the replacement of the liners, Queen Maryy and Queen Elizabeth.
@@ -4915,8 +4674,6 @@ travel: ‘A new liner would have a worthwhile dollar-earning capacity ... The c
 to the shipbuilding industry.' Against the advice of the Chancellor,
 Derick Heathcoat-Amory, it was agreed to go ahead.31 The revised
 terms, involving a loan of £18 million for the construction of Q3,
-
-## Sarah Palmer 131
 were approved on 28 July 1960 and authorized by Parliament in the
 North Atlantic Shipping Act 1961.32
 Then unexpectedly in October 1961 ministers learned that Cunard,
@@ -4954,8 +4711,6 @@ forever and that other companies, such as the P&O are planning
 to cut down their fleets; nevertheless the QE2 does have a certain
 national significance, in particular to the general public, and it seems
 to me that it would not only be a pity but would probably provoke
-
-132 Government and British Shipping in the Later Twentieth Century
 considerable public protest if we allowed her to be sold to a foreign
 flag rather than make a small concession on interest payments which
 would not affect our security for the repayment for the Cunard loan
@@ -4991,8 +4746,6 @@ Eligibility was restricted to vessels remaining on the UK flag register for
 a minimum of five years and, since registration was open to ‘resident'
 shipping companies, it was possible for foreign ‘brass plate' owners to
 qualify.
-
-## Sarah Palmer 133
 Such measures did not halt the decline of the UK-owned merchant
 fleet relative to other fleets. Indeed, from the Marples Memorandum
 onwards, it is clear that it was not anticipated in government circles that
@@ -5029,8 +4782,6 @@ to provide an authoritative counterpoint to the official Department of
 Transport approach.50
 In fact, many of those most forcefully putting the case for some form
 of assistance for UK shipping were not part of the shipowning community. Indeed the General Council for British Shipping (GCBS), the
-
-134 Government and British Shipping in the Later Twentieth Century
 successor body to the Chamber of Shipping, was at pains in its evidence
 to the Transport Committee to stress that it did not regard UK shipowning as in crisis, reporting that ‘most British shipping companies are
 profitable although a growing proportion of their income comes from
@@ -5067,8 +4818,6 @@ a small departure from an otherwise strict policy of non-intervention.
 Indeed the rationale for providing no direct encouragement to UK flag
 registration was that:
 any initial adverse economic effects on the shipping sector resulting from the transfer of vessels away from the UK register will be
-
-## Sarah Palmer 135
 offset by economic adjustments elsewhere in the economy which
 leave the overall level of employment and output largely unaffected.
 Indeed, the sale of loss-making vessels to overseas interests and the
@@ -5099,8 +4848,6 @@ British seafarers to man them. There are grounds for concern on all
 three counts.60
 In 1992 yet another parliamentary committee, this time the Employment
 Committee, weighed in by investigating the future of maritime skills
-
-136 Government and British Shipping in the Later Twentieth Century
 and employment in the UK. It found that the decline in British seafarer numbers had not been halted by certain manpower measures
 introduced since the 1988 Transport Committee report. Altogether it
 concluded that ‘the state of the industry - and therefore prospects for
@@ -5134,8 +4881,6 @@ offer blanket financial assistance to shipping. Nevertheless, we recognise that 
 with foreign shipowners who benefit from various fiscal measures.66
 The context for this interventionist move was political. There was
 growing unease among Conservative backbenchers about the state of
-
-## Sarah Palmer 137
 UK shipping, in particular in relation to Britain's defence capability.
 Indeed in 1991, when the budget of that year failed to introduce any
 assistance for shipping, more than a hundred backbench Conservative
@@ -5172,8 +4917,6 @@ training obligation'.73 Following its introduction, the number of vessels
 on the UK register increased by almost 55 per cent, from 379 in 1999
 to 587 in 2003, although the impact on UK seafarer numbers was less
 impressive.74 For those, however, who had urged government to assist
-
-138 Government and British Shipping in the Later Twentieth Century
 shipping, Labour's bold interventionist policy was judged a success,
 bringing the size of the flagged fleet back to the level of the late 1980s.
 Conclusion
@@ -5211,8 +4954,6 @@ UK-Registered Merchant Fleet, 1986/87 HC 74; Transport Committee (1988)
 First Report, Decline in the UK-Registered Merchant Fleet, 1987/88 HC 303.
 5. Rochdale Committee, para. 63.
 6. Transport Committee, Interim Report, para. 45.
-
-## Sarah Palmer 139
 7. Rochdale Committee, para. 216; Transport Committee, First Report, paras
 55-6.
 8. Sturmey British Shipping, pp. 394-402; Rochdale Committee, pp. 121,
@@ -5262,8 +5003,6 @@ and Under Secretaries to discuss shipping matters, 24 June 1959.
 23. TNA, CAB/129/110, Memorandum by the Minister of Transport, 20 July
 1962.
 24. See Goss, ‘Strategies', pp. 248-57.
-
-140 Government and British Shipping in the Later Twentieth Century
 25. Rochdale Committee, para. 13. See also R. Goss (1998) ‘Rochdale Remembered:
 a Personal Memoir', Maritime Policy & Managementt, 25, 3. pp. 213-23.
 26. TNA, MT73/754.
@@ -5311,8 +5050,6 @@ Merchant Fleet and Deterrence; (1990), Critical Levels: A Study of the Critical
 Levels for the UK Shipping Industry.
 51. Transport Committee, 1987/88 HC 303, Minutes of Evidence, 2 February
 1988.
-
-## Sarah Palmer 141
 52. Transport Committee, 1987/88 HC 303, Report, xxvii, paras 73-6.
 53. Transport Committee, Interim Report, 1986/87 HC 94, Appendix 3 Further
 memorandum submitted by the Department of Transport, 25 February 1987,
@@ -5356,11 +5093,10 @@ Shipping: Charting a New Course (London: HMSO).
 HC 299. Paras 31-32. The increase in dwt was 259%. The Tonnage Tax was
 actually flag-neutral, since admission to the scheme did not require registration under the UK flag.
 
-Why They are Tall and We are
-Small! Competition between
-Antwerp and Rotterdam in the
-Twentieth Century
-Stephan Vanfraechem
+## Chapter 9: Why They are Tall and We are Small! Competition between Antwerp and Rotterdam in the Twentieth Century
+
+**Author**: Stephan Vanfraechem  
+
 This chapter considers the results of micro-economic and political-institutional research that has been carried out into the ports of Antwerp
 and Rotterdam and investigates whether it can help to understand
 why the two ports have made quite different choices as regards labour
@@ -5382,8 +5118,6 @@ In Antwerp cargo handling and especially the transport and storage
 of the goods had traditionally been dominated by the naties. The crew
 of the ship took care of the actual loading or unloading of the ship and
 delivered or received the goods to and from the naties who brought the
-
-## Stephan Vanfraechem 143
 goods under the crane or transported the goods from under the crane to a
 warehouse or shed.Naties had been active in the port since the thirteenth
 century. Originally they were no more than a group of labourers working
@@ -5421,8 +5155,6 @@ Antwerp, however, a clear distinction between the traditional naties and
 the stevedoring companies remained. Both types of companies stayed
 within their own territory: the naties remained active in transport, distribution and warehousing, whereas the actual loading and unloading
 of the vessels was the sole terrain of the stevedores.8
-
-144 The Evolution of Antwerp and Rotterdam
 This clear division of labour between thenaties and the stevedores in
 the Antwerp port had both long- and short-term effects. In the short
 term, shipping companies complained about this unnecessary complication of the cargo handling and also the lack of transparency: it led to
@@ -5461,8 +5193,6 @@ As a consequence the majority of naties and stevedores invested very
 little in infrastructure and depended on the investments made by the
 city council; they all seemed happy with this arrangement. For the
 naties and stevedores the hiring of infrastructure such as warehouses
-
-## Stephan Vanfraechem 145
 and cranes from the city council seemed the best guarantee of
 keeping large foreign companies out of the port of Antwerp.10
 This hanseatic tradition, where the local municipality played a very
@@ -5499,8 +5229,6 @@ to the port while the city council focused on maritime infrastructure
 within the port, such as docks and quays. Investment in infrastructure
 was left entirely to the private sector as from the beginning of the twentieth century. The city stopped investing in cranes, warehouses, sheds,
 etc., so private companies had no choice but to invest in their own
-
-146 The Evolution of Antwerp and Rotterdam
 infrastructure. In Rotterdam companies were also given the opportunity
 to take long-term leases. Stevedoring companies obtained their own
 terminals. The city invested in the docks and quay walls but all superstructure was built and paid for by private companies. In Antwerp, until
@@ -5535,8 +5263,6 @@ the Allied troops. The swift Allied advance and the Belgian resistance
 surprised the German troops in the port of Antwerp: they had to flee
 before they could finish their preparations, leaving the port almost
 untouched.
-
-## Stephan Vanfraechem 147
 In Rotterdam, however, the destruction of the port was almost complete. Quays had been bombed, cranes and other superstructure had
 been transported to Germany, the Nieuwe Waterweg been blocked by
 the sinking of ships. Once the Allied troops had arrived in the port
@@ -5574,8 +5300,6 @@ paying for the investments of the 1930s and was simply not able to
 launch a new wave of investments. This was an irreversible evolution:
 the city council would no longer be able to play the active role of the
 port builder or port architect that they had played since the beginning
-
-148 The Evolution of Antwerp and Rotterdam
 of the ‘modern' port in the 1870s and 1880s. The council would now
 put more responsibility in the hands of the cargo handlers themselves.
 The city did continue, together with the national government, to invest
@@ -5613,8 +5337,6 @@ cargo - are mostly determined by the cost of labour. This meant that
 port authorities and port employers were extremely sensitive to a rise
 in labour costs because this would normally have a negative effect on
 handling and terminal costs and could harm the position of the port.
-
-## Stephan Vanfraechem 149
 Before World War II the port of Antwerp had little to fear from
 Rotterdam as far as labour costs were concerned. Dockers' wages were
 considerably lower in Antwerp than in Rotterdam, resulting in lower
@@ -5652,8 +5374,6 @@ liberation one wage increase followed another, which made Antwerp
 the (much) more expensive adversary of the Rotterdam port. The complete failure of the central incomes policy, combined with the presence
 of a communist action committee which forced the ‘conventional' trade
 unions to support excessive wage demands by their own rank and file,
-
-150 The Evolution of Antwerp and Rotterdam
 put Antwerp in 1948 - so only 4 years after liberation - in an extremely
 uncompetitive position regarding labour costs.20 In 1948 the Antwerp
 standard dockers' wages were more than twice as high as in Rotterdam.
@@ -5688,8 +5408,6 @@ were active in the rebuilding of their port and were mobilized to restore
 the cargo handling activities in the port. From 1947 on, however, there
 was a shortage of casual labour. Dockers who used to work in the port
 now found employment in construction or metallurgy. From 1959
-
-## Stephan Vanfraechem 151
 employers in the port of Rotterdam were confronted with a structural
 shortage of casual labour. The port tried to attract commuters from
 other parts of the country and in the 1960s a bonus was given to dockers who could persuade workers to become dockworkers. In 1961 the
@@ -5724,8 +5442,6 @@ In 1966 both Antwerp and Rotterdam welcomed their first container
 vessel.24 At the end of that year Antwerp had received 43,000 TEU while
 Rotterdam did slightly better with 60,000 TEU. In the following years
 however the Antwerp port was once again no match for the Dutch
-
-152 The Evolution of Antwerp and Rotterdam
 competitor. In 1971 the Rotterdam port was already handling 1 million
 TEU annually. The Antwerp port would only reach that level in 1978.
 In 1980 Rotterdam broke the barrier of 2 million TEU. Antwerp would
@@ -5762,8 +5478,6 @@ companies were simply unable to meet the financial challenges of containerizatio
 the necessary capital for large investments. The Antwerp port also had
 no tradition of specialized terminals. As long as the port authority had
 been responsible for the construction of the docks, warehouses and
-
-## Stephan Vanfraechem 153
 quays, it had been mainly a multifunctional general cargo part, so that
 all kinds of general cargo could be handled in most of the installations.
 After the port authority's withdrawal, the stevedores andnaties had followed that same policy: the quays were installed for general cargo and
@@ -5796,8 +5510,6 @@ of the actual loading and unloading, while thenaties took care of distribution, 
 started offering stevedoring services. By the end of the nineteenth
 century, a process of vertical integration had already set in. This led to
 bigger and fewer companies compared to Antwerp.
-
-154 The Evolution of Antwerp and Rotterdam
 Because of the limited role of the city council in the port's
 superstructure, the Rotterdam companies were pushed into a more
 pro-active role than their Antwerp colleagues. In Antwerp the companies could rely on warehouses, cranes, etc. that were built and
@@ -5833,8 +5545,6 @@ to, the Rotterdam employers fell back on their own core of permanent
 labourers. Although further research needs to be done, I believe that this
 company rather than port-wide approach (as was the case in Antwerp)
 made the Rotterdam employers better prepared for the challenges of the
-
-## Stephan Vanfraechem 155
 future. Once it became apparent that the introduction of the container,
 for instance, would fundamentally change cargo handling (techniques
 but also the composition of the gangs),the Rotterdam employers were
@@ -5875,8 +5585,6 @@ History 1616-19677 (Amsterdam: Pakhoed).
 haven van Antwerpen 1880-1972 (Gent: Academia Press) p. 20.
 7. E. Nijhof (1988)Gezien de dreigende onrust in de haven. De ontwikkeling van de
 arbeidsverhoudingen in de Rotterdamse haven 1945-1965 (Amsterdam: IISG).
-
-156 The Evolution of Antwerp and Rotterdam
 8. I. Wijnens (2002) ‘New Notes on an Old Keyboard. From the Traditional Naties
 to Integrated Terminal Operators 1918-1994', in J. Blomme (ed.) Momentum.
 Antwerp's Port Between 1880 and the Present Dayy (Antwerp: Pandora),
@@ -5926,8 +5634,6 @@ Work is a Skilled Profession. Decasualization and the Rotterdam Labour
 Market 1945-1970', in: R. Loyen, E. Buyst and G. Devos (eds), Struggling
 for Leadership. Antwerp - Rotterdam Port Competition Between 1870 and 2000
 (Heidelberg: Springer Verlag), pp. 275-88.
-
-## Stephan Vanfraechem 157
 22. P. Verhoeven,Havenarbeiders van Amsterdam en Rotterdam. Sociologische analyse van een arbeidsmarktt(Leiden, 1963) p. 447.
 23. S. Vanfraechem (2003), ‘Much Ado About Nothing? Reorganising the Hiring
 System and Decasualisation in the Port of Antwerp During the 1960s:
@@ -5944,10 +5650,10 @@ For Leadership: Antwerp - Rotterdam Port Competition Between 1870-2000
 (Heidelberg: Springer Verlag), pp. 143-59.
 26. I. Wijnens ‘New Notes on an Old Keyboard'.
 
-Institutional Path Dependence
-in Port Regulation: A Comparison
-of New Zealand and Australia
-James Reveley and Malcolm Tull
+## Chapter 10: Institutional Path Dependence in Port Regulation: A Comparison of New Zealand and Australia
+
+**Authors**: James Reveley and Malcolm Tull  
+
 Introduction
 The Australian and New Zealand port industries in the post-World
 War II period exhibit strong elements of path dependence. Simply
@@ -5973,8 +5679,6 @@ only recently been utilized by historians who study ports.1 In line with a
 social science trend, moreover, they use path dependence not to explain
 how technical progress occurs, but rather to investigate institutional
 and organizational stability and change.2 This approach follows
-
-160 Institutional Path Dependence in Port Regulation
 The trigger effect of ‘backlash processes' is especially useful for analysing
 port regulators' decision-making reversals.15
 Regulating New Zealand's port labour markets16
@@ -6013,8 +5717,6 @@ arrangement, such as a return to firm-based hiring?
 Entrenching self-reinforcing path dependence
 Self-reinforcing path dependence in New Zealand port labour
 market regulation stemmed from a well-known institutional lock-in
-
-James Reveley and Malcolm Tull 161
 seedbed: a ‘critical juncture' occurred during which ‘a particular
 institutional arrangement' was chosen from two mutually exclusive
 options.23 To keep or not to keep the WIC - that was the question.
@@ -6056,8 +5758,6 @@ on the WIC's labour supply, the use of ‘cost-plus' contracts meant
 that there was money to be made from stevedoring. This contracting
 system displaced labour costs elsewhere in the transport chain, as the
 stevedoring operator simply charged the shipper a percentage on top of
-
-162 Institutional Path Dependence in Port Regulation
 the costs, labour included, incurred when handling cargo. Undoubtedly
 it was the prospect of making a quick dollar that spurred the Union
 Steam Ship Company - the largest coastal shipping firm - to engage
@@ -6097,8 +5797,6 @@ Shifting to reactive path dependence
 While the shift to reactive path dependence within the ports industry
 did not occur overnight, the turning point is easily locatable in the
 early 1970s. Britain's entry to the European Economic Community
-
-164 Institutional Path Dependence in Port Regulation
 Labour market regulatory
 sequence (Antecedent self- Contingent event
 reinforcing sequence, triggered by C (Containerization results in
@@ -6133,8 +5831,6 @@ its elimination in 1980.37 When labour shortages arose, registered
 watersiders were shuttled - not inexpensively - between ports, under a
 system of short-term transfer. This transformed the port ILMs into one
 nationwide, hermetically sealed and union-controlled ILM.
-
-166 Institutional Path Dependence in Port Regulation
 The government's port reform process quickly moved from policy
 formulation to implementation (H). Stakeholder consultation was
 expedited by the appointment of an official representative Ports
@@ -6174,8 +5870,6 @@ growth in demand for Australia's raw materials and energy supplies.45 In
 2009 China replaced Japan as Australia's largest export market.46
 Seaports are vital interfaces and must function efficiently if Australia is
 to survive as a trading nation in an increasingly globalized and competitive
-
-James Reveley and Malcolm Tull 167
 world economy. However, as in New Zealand, ports have sometimes been
 chokepoints rather than gateways for shipping and trade, especially for
 high-value general cargoes. This is mainly because for much of its history
@@ -6215,8 +5909,6 @@ right to control the employment of their workers, it set up a Stevedoring
 Industry Commission to regulate the waterfront. In 1949 the Labor
 government of Prime Minister Chifley reconstructed it as the Australian
 Stevedoring Industry Board (ASIB). This body was given extensive
-
-168 Institutional Path Dependence in Port Regulation
 powers over stevedoring operations. Employers remained critical of its
 operation. For instance, the Fremantle Port Authority complained that
 it caved in to union demands ‘on the wishful thinking basis that it
@@ -6255,8 +5947,6 @@ and procedures of the internal labour market continued to suppress the
 pressures of the outside labour market.
 By the 1970s both of the main players - the Waterside Workers'
 Federation and the Association of Employers of Waterfront Labour - were
-
-170 Institutional Path Dependence in Port Regulation
 were 49 mostly small stevedoring companies operating in Australia; fifty
 years later there were only seven companies providing general cargo
 handling services.55 The high degree of concentration has contributed to
@@ -6296,8 +5986,6 @@ day, the surplus of machinery would enable that to be done.58
 The ‘overplus of power' may have been ‘a splendid standby', but at
 times it was also an expensive one with major implications for port
 charges and budgets.
-
-James Reveley and Malcolm Tull 171
 So far we have seen that institutional features of the industry
 including (a) the monopoly power exercised by the Maritime Union
 of Australia (MUA), (b) the development since the late 1960s of a
@@ -6334,8 +6022,6 @@ twentieth century these policies and institutions helped boost Australia's
 population and economic progress, by the 1960s there were indications
 that institutional rigidity was reducing the competitiveness of the
 economy. In the 1970s economic slowdown and globalization forced
-
-172 Institutional Path Dependence in Port Regulation
 a change of outlook.With the economy on ‘the hinge of history',61 in
 the 1980s the federal government introduced major microeconomic
 reforms including tariff reductions, labour market reforms, deregulation
@@ -6376,8 +6062,6 @@ increased from about 14 TEUs per hour in 1990 to about 20 TEUs per
 hour in 1996, an increase of 43 per cent, demonstrating the success of
 the first wave of reforms. A 1995 study by the Bureau of Transport and
 Communications Economics (BTCE) concluded that ‘waterfront reform
-
-James Reveley and Malcolm Tull 175
 (the National Ports Council and the New Zealand Ports Authority) to
 coordinate port planning but these were ineffective and eventually
 abolished.70 The wheel has now come full circle: in 2010 the federal
@@ -6417,8 +6101,6 @@ Indeed, the history of the Australian waterfront demonstrates that even
 government-initiated reactive path dependent change is not always
 able to overcome the inertia of existing governance and institutional
 arrangements.
-
-176 Institutional Path Dependence in Port Regulation
 Notes
 1. On the concept's widespread application, see M. P. Gartland (2005)
 ‘Interdisciplinary View of Sub-optimal Outcomes: Path Dependence in the
@@ -6467,8 +6149,6 @@ Association), p. 15.
 22. For the Nationals' attitude to the WWU, see M. Bassett (1972) Confrontation
 '51: The 1951 Waterfront Dispute (Wellington: A.H & A.W Reed), ch. 2; the
 dispute's origins are given by Green,British Capital, pp. 143-9.
-
-James Reveley and Malcolm Tull 177
 23. Mahoney, ‘Path Dependence', 513.
 24. ‘Report of the Royal Commission of Inquiry into the Waterfront Industry',
 appendix to the New Zealand Journals of the House of Representatives (1952),
@@ -6518,8 +6198,6 @@ Costs', 12 September 1988.
 45. For a general overview, see M. Tull (2006) ‘Australia and New Zealand trade',
 in J. J. McCusker (ed.) History of World Trade Since 1450 (Farmington Hills,
 MI: Macmillan Reference USA).
-
-178 Institutional Path Dependence in Port Regulation
 46. Australia China Business Council (2011) Trading with China: Benefits to
 Australian Households (Sydney: Australia China Business Council).
 47. For a comprehensive study see S. Davies, C. J. Davis, D. de Vries, L. Heerma
@@ -6568,8 +6246,6 @@ Port Reform', in J. Reveley and M. Tull (eds), Port Privatisation: The AsiaPacif
 (St John's: IMEHA), p. 135.
 65. The crane rate is the number of twenty foot equivalent units (TEUs) moved
 per crane per net crane hour.
-
-James Reveley and Malcolm Tull 179
 66. See Bureau of Transport and Communications Economics (1995) Review of
 the Waterfront Industry Reform Program, Report 91 (Canberra: AGPS).
 67. M. Tull and F. Affleck (2008) ‘The Performance of Western Australian Ports',
@@ -6587,7 +6263,10 @@ and R. Gorski (eds), Resources and Infrastructures in the Maritime Economy,
 www.infrastructureaustralia.gov.au/gateways/files/National_Ports_Strategy_
 DEC2010_v2.pdf. Accessed 14 July 2011.
 
-Adolf K. Y. Ng and Ka-chai Tam 181
+## Chapter 11: China's Seaport Development (1978-2002)
+
+**Authors**: Adolf K. Y. Ng and Ka-chai Tam  
+
 (referred to as the ‘early Open Door Policy period'). We will first discuss
 the impacts of this new policy on the ports of China and the policies
 and mechanisms of the government in reforming port management
@@ -6623,8 +6302,6 @@ Various authors investigated the problems of developing a good transportation sy
 especially for supporting international trade; (5) the lack of a healthy
 competitive environment for the port and shipping industries; and (6)
 uncoordinated, if not conflicting, central and local government responsibilities in these industries. Given that these problems would seriously
-
-182 China's Seaport Development
 undermine economic and industrial development, it was clear that the
 government had no alternative but to reform its existing governance
 structure. Indeed, until the late 1970s, under central planning, there
@@ -6660,8 +6337,6 @@ so-called ‘three definitions' (sandinggg).6 Under this scheme, a number
 of ministries and departments were abolished or merged. At the same
 time, some of the powers of the national government were devolved
 to local authorities, leading to the gradual establishment of multi-level
-
-Adolf K. Y. Ng and Ka-chai Tam 183
 governance. Moreover, to fulfil the goal of separation of operation from
 administration, the government also began state-owned and public
 enterprise reforms. Policymakers aimed at strengthening the functions
@@ -6693,8 +6368,6 @@ alter its ruling ideology from ‘multi-faceted government' to ‘government wit
 the changing demands of new economic development. What then are
 the implications of these reforms for the Chinese ports during the early
 Open Door Policy period?
-
-184 China's Seaport Development
 Institutional reforms
 Accountability was what was required of officials; they were responsible
 for their actions and must explain to the public both reasons and anticipated consequences. China's institutional structure faced problems of
@@ -6730,8 +6403,6 @@ Recognizing that modern and efficient ports were necessary for China's
 port-related projects were often capital-intensive and time-consuming
 with low returns (Article 2), joint ventures in port projects and operations were given preferential treatment in terms of time period and
 financial arrangements. These efforts were reflected in subsequent
-
-186 China's Seaport Development
 in 2000.16 During the early Open Door Policy period, several ports flourished and showed their potential to become major regional hubs.
 The emergence of China completely altered the nature of international trade in Asia-Pacific.17 As Waters pointed out, however, the
 transportation network continued to be one of the weakest links
@@ -6766,8 +6437,6 @@ in port policies between these two periods. While the earlier focused on
 physical construction, the later emphasized the ‘softer' aspects, including overhauling and regulating the economic system, encouraging
 healthy competition, enhancing macro-market control and separation
 between administration and operation.
-
-188 China's Seaport Development
 government had mentioned full privatization, throughout this period
 no such arrangements were observed in any Chinese ports.23 In fact,
 most countries around the world maintain some form of public presence in ports, with nationalistic feeling also discouraging full privatization.24In China, though the public sector's role was reduced, it was far
@@ -6798,8 +6467,6 @@ from multinational firms. This evolution is exemplified by the construction of t
 SISC was a strategic element in the government's policy, the authorities made it clear that they would not bear any financial responsibility
 for the construction terminals.25 In fact, during this period, with some
 notable exceptions like Yantian and Shanghai, most port joint ventures
-
-Adolf K. Y. Ng and Ka-chai Tam 189
 did not issue share capital, utilize limited recourse project finance (like
 debts), or sell infrastructure bonds, mainly due to the high financial risks
 and the political perception that ports were regarded as strategic assets.
@@ -6830,8 +6497,6 @@ complementary to the direction of the country's economic development. As Zheng p
 since 1978 mainly concerned economic development, commercial
 activities and foreign investments.26
 Being part of the economic development package, maritime transportation also underwent legal reforms. As in other industries, purely
-
-190 China's Seaport Development
 executive means of dealing with port affairs were neither adequate nor
 effective enough for real-world situations. Indeed, a legal document
 dedicated to port operation and development, the Port Law, was not
@@ -6862,8 +6527,6 @@ significant benefits to the country's general economic development.
 Other laws, regulations and guidelines
 In addition to the Code, many other maritime-related regulations were
 also approved and promulgated during this period. Partly to complement maritime-related laws and regulations, other more general
-
-Adolf K. Y. Ng and Ka-chai Tam 191
 commercial laws were also drafted, approved and published. These
 aimed to protect the economic rights of both foreign and domestic
 investors. For example, Article 2 of the Sino-Foreign Equity Joint
@@ -6899,8 +6562,6 @@ contemporary port development, including: (1) inconsistency between
 port and city development; (2) lack of attention paid by local authorities to port development; and (3) distance from the national authority,
 based in Beijing and mainly staffed by people with little understanding
 of port operations, often imposing inappropriate policies and strategic
-
-Adolf K. Y. Ng and Ka-chai Tam 193
 Port authorities in different cities or regions had different levels of
 autonomy and strategic priorities. There were several reasons for this,
 including history and government ranking, as well as the port and its
@@ -6937,8 +6598,6 @@ generated self-esteem for the city and its citizens. Unsurprisingly, the
 vision of Shanghai Port Authority, which aimed to restore its previous
 role as a core player within the global shipping industry, was far more
 ambitious than all other port authorities in China. On the other hand,
-
-194 China's Seaport Development
 National Local/regional
 government governments
 Grade
@@ -6968,13 +6627,11 @@ Challenges and discussions
 We have analysed how China attempted to reform its port governance and development during the early Open Door Policy period.
 Nevertheless, the existence of a reform framework did not guarantee the
 process and its outcomes. We argue that although port governance was
-
-Adolf K. Y. Ng and Ka-chai Tam 195
 recognized and the framework of meta-governance already established,
 there were still substantial challenges. Indeed, with an improving financial situation, hardware deficiency was largely resolved through mass
 infrastructure, technological improvements and education. But a more
 problematic factor that prevented effective governance was the ‘softer'
-aspects which could not be settled without painstaking efforts. As Jessop
+aspects which could not be settled without painstaking efforts. As Jesúsop
 has noted:
 the state reserves to itself the right to open, close, juggle and
 re-articulate governance not only in terms of particular functions but
@@ -7005,8 +6662,6 @@ Furthermore, ‘institutional inertia' hindered participation in the
 port industry. This problem is evident from the example of the custom
 clearance procedure. Until 2002, custom documents in China had to be
 circulated among several sections within the government. For example,
-
-196 China's Seaport Development
 information provided by HPH indicated that in the port of Shantou, it
 was normal practice for 70 per cent of the containers to be opened for
 an inspection, usually lasting for four days, compared with the international average of around 30 per cent and only two days. Furthermore,
@@ -7038,8 +6693,6 @@ in the late nineteenth and early twentieth centuries.
 Nevertheless, since the turn of the century, it has become clear that
 China has entered a new phase in port governance and development. In
 2002, China was admitted to the World Trade Organization (WTO), thus
-
-Adolf K. Y. Ng and Ka-chai Tam 197
 opening a completely new era for the country's economic development,
 as well as its economic relationship with the world. Soon afterwards, on
 28 June 2003, the Government approved the Port Law (promulgated on
@@ -7079,8 +6732,6 @@ Opportunities and Challenges for World Shippingg (London: Drewry).
 of responsibilities, simplification of government structure and efficiency
 enhancement.
 6. These ‘three definitions' included defining responsibilities, defining institutions and defining the system.
-
-198 China's Seaport Development
 7. H. Xia (2001) The Structure of the Chinese Governmentt (Beijing: Tsinghua
 University Press) (in Chinese).
 8. Z. Chiang and D. Lau (1998) Container Transportation (Beijing: People's
@@ -7128,8 +6779,6 @@ Sector Investment in Infrastructure: Ports (Manila: Asian Development Bank).
 24. T. Heaver, H. Meersman and E. van de Voorde (2001) ‘Co-operation and
 Competition in International Transport: Strategies for Ports', Maritime Policy
 and Managementt, 28, pp. 293-305.
-
-Adolf K. Y. Ng and Ka-chai Tam 199
 25. J. J. Wang and B. Slack (2002) ‘Port Governance in China: A Case Study of
 Shanghai', Occasional Paper Series No. 9 (Hong Kong: Hong Kong Baptist
 University).
@@ -7142,7 +6791,7 @@ Chinese Ports (Hong Kong: Ta Kung Pao) (in Chinese).
 29. Wang and Slack, ‘Port Governance in China'.
 30. Shenzhen Port Authority was the first port authority in China which did not
 have any affiliated enterprises below its institutional structure.
-31. B. Jessop (1998) ‘The Rise of Governance and the Risks of Failures: The
+31. B. Jesúsop (1998) ‘The Rise of Governance and the Risks of Failures: The
 Case of Economic Development',International Social Science Journal, March,
 pp. 29-46.
 32. Beijing Review (2001) ‘New Policies to Attract Foreign Investment', Beijing
@@ -7164,11 +6813,10 @@ reform its economy?' Business Week, 29 September 1997, pp. 116-26.
 American Association of Port Authorities (2011), http://www.aapa-ports.org
 (home page), accessed 5 September 2011.
 
-Private Companies, Culture and
-Place in the Development of
-Hull's Maritime Business Sector,
-c.1860-1914
-Michaela G. Barnard and David J. Starkey
+## Chapter 12: Private Companies, Culture and Place in the Development of Hull's Maritime Business Sector, c. 1860-1914
+
+**Authors**: Michaela G. Barnard and David J. Starkey  
+
 Skip Fischer has suggested that maritime historians often fail to situate
 their studies ‘within the broader debates that animate discussion and
 research in the larger [historical] profession'.1 While this may be true
@@ -7192,8 +6840,6 @@ the Harvard School and Chandler's paradigm.5
 This chapter seeks to enhance the maritime contribution to the
 business history of the late nineteenth and early twentieth centuries.
 Its parameters are at once narrower and broader than earlier contributions, for the scope of the study is limited to a single port - Hull, on
-
-Michaela G. Barnard and David J. Starkey 201
 the east coast of England - while its coverage ranges beyond shipping
 to embrace the shipbuilding and fishing industries of one of Britain's
 most important maritime centres. Using a range of company records
@@ -7226,8 +6872,6 @@ of steamship concerns in Liverpool during the mid-Victorian era, and in
 Boyce's analysis of the development of large-scale enterprise in British shipping from the 1860s to 1919.9 The consensus of these and other works is
 that Admiralty law enabled investors to own shares in vessels as ‘tenantsin-common', a system that facilitated shareholding by permitting individuals to sell their shares without recourse to their fellow shareholders and
 without the need for a costly and time-consuming legal process to dissolve
-
-202 Private Companies, Culture and Place in Hull's Maritime Business Sector
 and reconstitute the shareholding group. Intrinsic to this legal frame-work,
 moreover, was a degree of limited liability, for each ship constituted a self-contained corporation for the duration of each voyage, and therefore if the
 commonly owned property was lost at sea each tenant was liable only to
@@ -7261,8 +6905,6 @@ ensuring that his own fortunes were intimately bound up with the
 more wealthy, if not the original, partners.
 This highlights the ‘inherent adaptability' that these organizational
 forms offered British business in general. In other words, it was not
-
-Michaela G. Barnard and David J. Starkey 203
 just in the shipping industry that the partnership could be altered with
 relative ease in response to changing conditions, such as the loss of a
 partner through defection, retirement, infirmity or death.11
@@ -7296,8 +6938,6 @@ company in which ‘all equity was retained by those who signed the articles of 
 was noted by an 1895 Departmental Committee:
 An opinion has been expressed by many members of the Committee
 in favour of dividing joint stock companies into two classes,
-
-204 Private Companies, Culture and Place in Hull's Maritime Business Sector
 consisting of so-called "private" companies and public companies.
 Undoubtedly it would be convenient for the purpose of legislation
 if such a division could be made. But the difficulty is to draw the
@@ -7331,8 +6971,6 @@ its counterparts in other major ports, and in 1913 it ranked as the UK's
 ninth largest shipowning port.22 Although Hull was not a naval base,
 it possessed a shipbuilding industry and was unique among Britain's
 principal ports in that it boasted a substantial interest in the fisheries.
-
-Michaela G. Barnard and David J. Starkey 205
 In institutional terms, Hull's maritime interests were governed by
 various organizational forms. While shipping was dominated by private
 limited companies, public companies were seemingly prevalent in the
@@ -7366,8 +7004,6 @@ possessed a two-thirds share in the concern, with David Wilson, his eldest son, 
 Wilson and Arthur Wilson, entered the partnership in 1850 and assumed
 full managerial control when Thomas died in 1869, a year after David
 had left the firm. When their partnership was registered as a company
-
-206 Private Companies, Culture and Place in Hull's Maritime Business Sector
 in 1891, the entire authorized capital of £2,000,000, comprising 20,000
 shares of £100 denomination, was distributed among seven members of
 the Wilson family, with Charles Henry serving as Chairman and Arthur
@@ -7407,8 +7043,6 @@ had previously had little connection, if any, with the port and only a
 small proportion of shares were locally held'.31
 The voluntary liquidation of Earles in 1900 was caused by a toxic
 mix of operational and financial factors. But many contemporaries
-
-Michaela G. Barnard and David J. Starkey 207
 attributed the failure to poor management, with Syren and Shipping
 reporting that ‘all that is needed to make shipbuilding as great a success at Hull as it has been a failure in the past, is that the undertaking
 shall be controlled on sound business like principles'.32 Given such
@@ -7448,8 +7082,6 @@ steam engines, steel hulls and a range of ancillary trades.34 But a closer
 examination of the business records of Hull's three largest steam trawl
 fishing companies - Hull Steam Fishing and Ice Company Ltd [Hull
 SFIC], Hellyers Steam Fishing Company Ltd [Hellyers SFC]35 and Great
-
-208 Private Companies, Culture and Place in Hull's Maritime Business Sector
 Northern Steamship Fishing Company Ltd [Great Northern] - reveals a
 marked degree of organizational continuity, with each firm exhibiting
 many of the characteristics of the private limited company.36
@@ -7486,8 +7118,6 @@ Wilson possessing 4,680, Arthur Wilson owning 1,000 and 500 belonging to Florenc
 Wilsons controlled over 30 per cent of the firm's capital. Not surprisingly, both Charles Henry and Arthur sat on the Board of Directors.40
 Although no detailed shareholder lists have survived for the 1899-1913
 period, it is evident that the Wilsons remained influential figures in
-
-Michaela G. Barnard and David J. Starkey 209
 Hull SFIC well into the twentieth century. While a list of company
 directors and managers reveals that in 1905 the nine-strong Board
 included Arthur, Charles Henry and Charles Henry's son, Charles Henry
@@ -7522,8 +7152,6 @@ adopted a ‘modern' form of enterprise before 1914. But even this
 did not last, for Earles traded as a private limited company - familyowned and managed - from 1901 onwards. Such structures were common in Victorian and Edwardian Britain, whereas in Germany, the
 USA and elsewhere there was a pronounced move towards corporate
 forms marked by ‘a complete divorce between control and ownership,
-
-210 Private Companies, Culture and Place in Hull's Maritime Business Sector
 whereby … management is entirely undertaken by professionals, while
 the bulk of the equity is held by investors who take no role in running the
 business'. Noting how British business leaders ‘remained firmly attached
@@ -7558,8 +7186,6 @@ shown to be "culture", as reflected in the value systems in society, localities,
 Hull's experience emphasizes the weakness of analyses that err
 towards ‘organizational determinism'. Strategies routinely associated
 with family firms - especially those held to have impacted negatively on
-
-Michaela G. Barnard and David J. Starkey 211
 growth - are evident in the development of TWSC. Succession is a case
 in point, as Thomas Wilson - according to his sons and heirs - remained
 at the helm of TWSC for too long, while 40 years later the progeny of
@@ -7597,8 +7223,6 @@ As William D. Rubinstein puts it, the ‘cultural critique' embodied in
 these works maintains that ‘British culture in its various manifestations was (and is) anti-industrialist and anti-business', leading to ‘the
 culture absorption of the middle classes into a quasi-aristocratic elite,
 which nurtured both the rustic and nostalgic myth of an "English way
-
-212 Private Companies, Culture and Place in Hull's Maritime Business Sector
 of life" and the transfer of interest and energy away from the creation
 of wealth'.57 Evidence can be drawn from Hull's maritime sector to support this perspective, with the Wilson brothers being the most obvious
 examples of the alleged desire of British business leaders to distance
@@ -7636,8 +7260,6 @@ successful rise from Hull's trawl fishery into the higher echelons of
 county society. A reconstitution of Hellyers SFC in 1897 saw the firm
 attract major investment from Sir Tatton Sykes, who bought 1,000 shares
 (16.3 per cent) in the company. Sykes was the 5th Baronet - a titled and
-
-Michaela G. Barnard and David J. Starkey 213
 wealthy landowner - whose family seat was the stately Sledmere House
 in East Yorkshire.62
 Regardless of the benefits or otherwise of the ‘gentrification' of
@@ -7674,8 +7296,6 @@ this respect. Cast by Larkin as late as 1986 as an ‘isolate city … lonely
 northern daughter … holding through centuries her separate place',66
 Hull's remoteness from other centres of population - the Leeds-Bradford
 conurbation is about 50 miles to the west, across one of the largest
-
-214 Private Companies, Culture and Place in Hull's Maritime Business Sector
 tracts of agricultural land in central England - was exacerbated by the
 comparatively poor transport links of the pre-1914 era. Indeed, ‘the
 extreme geographical isolation of the town' in the nineteenth century
@@ -7709,8 +7329,6 @@ examination of the legal framework within which the organization of
 British firms evolved indicates that shipowners were not especially privileged with regard to limited liability before 1850, a finding that tempers the conclusions of earlier works on shipowning. This discussion
 further suggests that a large proportion of companies remained largely
 unchanged even after they incorporated under the terms of legislation
-
-Michaela G. Barnard and David J. Starkey 215
 passed in 1862, with many continuing, in effect, to operate as private
 limited companies. The second thread offers empirical evidence relating to Hull's maritime businesses to assess the extent to which a private
 mentalité prevailed in the port's business community, an assessment
@@ -7746,8 +7364,6 @@ pp. 366-81.
 A History of Shipping and Financial Managementt (London: Macmillan); P. N.
 Davies (1973) The Trade Makers: Elder Dempster in West Africa, 1852-1972
 (London: Allen & Unwin).
-
-216 Private Companies, Culture and Place in Hull's Maritime Business Sector
 3. S. Ville (1987)English Shipowning During the Industrial Revolution (Manchester:
 Manchester University Press); R. Craig and R. Jarvis (1967) Liverpool Registry
 of Merchant Ships (Manchester: Manchester University Press for the Chetham
@@ -7797,8 +7413,6 @@ p. xix; BPP, 1895 (C.7779) LXXXVIII.151.
 Economic History Review, 4, p. 302.
 19. Wilson, British Business History, p. 120.
 20. Payne, British Entrepreneurship, p. 20.
-
-Michaela G. Barnard and David J. Starkey 217
 21. P. L. Payne (1967) ‘The Emergence of the Large-Scale Company in Great
 Britain, 1870-1914', Economic History Review, 20, p. 520.
 22. D. J. Starkey (1996) ‘Ownership Structures in the British Shipping Industry:
@@ -7848,8 +7462,6 @@ Articles of Association (1880); Summary of Capital and Shares (1880).
 40. TNA, BT 31/2623/13888, Hull Steam Fishing and Ice Company Ltd [Hull
 SFIC], Summary of Capital and Shares (1880); TNA, BT 31/4748/31368, Hull
 SFIC, Articles of Association (1890); Summary of Capital and Shares (1890).
-
-218 Private Companies, Culture and Place in Hull's Maritime Business Sector
 41. TNA, BT 31/31562/54163, Hull SFIC, Copy of Register of Directors or Managers
 (1905).
 42. Blaydes House, University of Hull, ‘Valuation of Stocks and Shares belonging
@@ -7899,8 +7511,6 @@ Nicolson), pp. 59-90.
 62. TNA, BT 31/15760/52041, Hellyers SFC, Summary of Capital and Shares
 (1897).
 63. Wilson,British Business History, pp. 24-5.
-
-Michaela G. Barnard and David J. Starkey 219
 64. TNA, BT 31/5102/34360, Charles Hellyer, Summary of Capital and Shares
 (1891); TNA, BT 31/15760/52041, Hellyers SFC, Summary of Capital and
 Shares (1897); Memorandum and Articles of Association (1897).
@@ -7925,9 +7535,10 @@ the Port of Hull (1921), p. 5.
 nl/publications/2001/2001_06wilson.pdf, accessed 2 September 2011.
 73. Rubenstein, Capitalism, Culture, pp. 43-4.
 
-Risks and Rewards: The Business
-of Norwegian Shipping
-Stig Tenold
+## Chapter 13: Risks and Rewards: The Business of Norwegian Shipping
+
+**Author**: Stig Tenold  
+
 Due to the volatility of freight rates and vessel values, shipping is generally considered an industry in which the risks of doing business are
 substantial.1 One reflection of this riskiness is the fact that fortunes can
 be made, and lost, extremely quickly in the shipping sector. This chapter discusses how shipowners in Norway, which for more than a century
@@ -7952,8 +7563,6 @@ dealt with, these risks has changed over time. Some of these changes
 have been related to the transformation of the shipping market, while
 others have been the result of conscious or unconscious adaptation
 by Norwegian owners. While these risks, at least to some extent, are
-
-## Stig Tenold 221
 general - that is, they are applicable to all shipping companies, regardless of nationality - differences in institutions and factor prices among
 countries are likely to give a variety of arrangements and adaptations.
 An introduction to business risk: the shipowners'
@@ -7987,8 +7596,6 @@ maintenance costs and capital costs. Dividends - or other forms of
 remuneration to the owners - can be considered part of the capital cost
 element. However, one can also think of the remuneration to the owners as the ‘surplus' that is left when all other costs have been met.
 The asset risk refers to the potential changes in the value of the vessels, which are the main component on the company's balance sheet.
-
-222 Risks and Rewards: The Business of Norwegian Shipping
 Supply Demand
 Transport costs Activity risk Freight rates
 Investment choice Asset risk Vessel values
@@ -8023,8 +7630,6 @@ Insurance will be touched upon briefly where it is relevant to discuss
 certain points. In general, however, maritime insurance is an important
 and under-researched aspect of the shipping business that will remain
 uncovered here as well.
-
-## Stig Tenold 223
 Case 1: The sailing ship era - limited capital, limited risk
 In the second half of the nineteenth century, Norwegian shipping expanded rapidly; according to calculations by the statistician
 A.N. Kiær, the value of the Norwegian merchant marine multiplied by
@@ -8059,8 +7664,6 @@ hulk values, and sometimes lower'.9
 The apparently low activity and asset risks in the sailing ship era have
 one important caveat: it is primarily valid for ships that sailed without serious incidents. This was not the case for all ships, however: in the ten years
 after 1890, more than 2,000 Norwegian ships were wrecked.10 On average,
-
-224 Risks and Rewards: The Business of Norwegian Shipping
 more than 4.75 per cent of the Norwegian sailing fleet was wrecked annually in the period from 1851 to 1914. Before 1880 around 3.1 per cent of
 the sailing fleet suffered this fate every year. However, from 1881 to 1914,
 with the average age of Norwegian sailing vessels getting markedly higher,
@@ -8097,8 +7700,6 @@ during World War I. Many established owners became increasingly
 bullish, and there was a steady influx of risk-seeking newcomers to the
 industry. However, several spectacular bankruptcies revealed the perils of
 a too ambitious and expansive strategy. For many Norwegian shipping
-
-## Stig Tenold 225
 investors, the 1920s was a time to lick their wounds. Others struck black
 gold in a rapidly growing, but relatively new, segment of the shipping
 industry. The success story of Norwegian shipping in the interwar period
@@ -8133,8 +7734,6 @@ the owner was relatively low, varying between £10,000 and £20,000.
 Funds from external shareholders, investments from brokers, ship
 chandlers and insurance brokers, further alleviated the owners' need for
 cash, and thus reduced the asset risk.
-
-226 Risks and Rewards: The Business of Norwegian Shipping
 The Anglo-Saxon purchases were but a small part of the Norwegian
 tanker expansion. From the mid-1920s onwards, a number of owners
 began to order new-built tankers, particularly from yards in Sweden and
@@ -8169,8 +7768,6 @@ gamblers among the gamblers'
 Michael Porter refers to the Scandinavian tanker owners in the early
 1970s as ‘gamblers among the gamblers of the shipping industry'.19
 While this impression is partly a result of misinterpretation and based
-
-## Stig Tenold 227
 on faulty empirics, there is an element of truth in it. By the early 1970s
 there is little doubt that the Norwegian shipowners in general, and
 tanker owners in particular, were more exposed in the event of a market
@@ -8185,7 +7782,7 @@ the continuing growth of oil consumption, which was largely filled by
 supply from the Middle East, and changes in sea lanes, in particularly
 during the two closures of the Suez canal. As a result of these beneficial
 demand developments, the world fleet grew rapidly, with economies of
-scale as an important ingredient of the expansion (see Chapter 5 by Yrjö
+scale as an important ingredient of the expansion (see Chapter 5 by Yrjöö
 Kaukiainen in this volume).
 From the early 1960s the Norwegian fleet developed differently from
 the fleets of most other countries. There was still a predilection for tanker
@@ -8208,8 +7805,6 @@ and early 1970s convinced many tanker owners that the spot market
 strategy was superior.
 The question of the risk inherent in the different chartering strategies
 was frequently debated. Hilmar Reksten was a proponent of the spot
-
-228 Risks and Rewards: The Business of Norwegian Shipping
 market strategy, and not without reason; in 1973 he recouped more
 than 40 per cent of the building price of one of his tankers during a
 voyage that lasted only 68 days. His main opponent, and vying with
@@ -8245,8 +7840,6 @@ shipowners shared with the banks. However, the mortgage conditions
 usually included a ‘minimum value clause'; if the value of the ship fell
 below a certain threshold, the owner was forced to put up additional
 collateral or sell the vessel. As a result, the banks would often force the
-
-## Stig Tenold 229
 disposal of vessels in a depressed market - ‘selling chicken in the rain',
 as it became known in Norwegian shipping circles - securing some payback on the mortgage, but leaving the owners without assets.24
 When the market collapsed, the perils of the ‘typical' Norwegian
@@ -8280,8 +7873,6 @@ innovative specialized vessel types such as car carriers, chemical tankers
 or gas carriers. To follow Sturmey's argument above, these ships were
 extremely specialized, usually suitable only for a specific cargo, and as
 such apparently increased both the activity and the asset risk. However,
-
-230 Risks and Rewards: The Business of Norwegian Shipping
 the specialized market segments are characterized by long-term relationships between shipping companies and their customers. Specialized
 markets, often referred to as ‘industrial shipping', are not characterized
 by the same cut-throat competition and flexible price-setting as the
@@ -8316,8 +7907,6 @@ was related to the perils of the sea: would the vessel be able to safely sail
 from one destination to the next? The capital investment was relatively
 meagre, and through the part ownership system, investors were able
 to spread their risks by holding minority shares in a number of vessels.
-
-## Stig Tenold 231
 Case 3
 Case 4
 Case 2
@@ -8347,8 +7936,6 @@ ksir
 tessA
 woL
 Figure 13.2 An evaluation of activity and asset risk in Norwegian shipping
-
-232 Risks and Rewards: The Business of Norwegian Shipping
 The negative experiences of the 1970s and early 1980s most likely
 affected the strategic adaptation when Norwegian shipping broke out
 from the doldrums around 1990. Moreover, the majority of the companies that survived the crisis had introduced innovations and followed a
@@ -8384,8 +7971,6 @@ in Shippingg (Livingston: Witherby Seamanship International), pp. 27-31.
 risks as ‘including, but not limited to' market risk, credit risk, liquidity
 risk, currency risk, bunker risk and interest rate risk. Norden (2011) Annual
 Report 2010 (Copenhagen: Dampskibsselskabet Norden AS), pp. 64-5, has
-
-## Stig Tenold 233
 a two-page presentation of the risk management strategy. The company
 presents three different commercial risks (freight rate risk, vessel price risk
 and credit risk), as well as financial risk, liquidity risk, capital management
@@ -8434,8 +8019,6 @@ Scandinavian Economic History Review, 55, 3, pp. 244-61.
 17. Some owners, for instance the Bergen-based shipping company WestfalLarsen, which was the world's largest independent tanker owner at the
 end of the interwar period, primarily financed their investments through
 retained profits and other internal funds.
-
-234 Risks and Rewards: The Business of Norwegian Shipping
 18. S. Sturmey (1962) British Shipping and World Competition, new edition 2010
 (St John's: IMEHA), p. 220.
 19. M. Porter (1983) ‘The Oil Tanker Shipping Industry', in M. Porter (ed.) Cases
@@ -8460,13 +8043,10 @@ the fact that the market took more than a decade to recover. In the early
 still at depressing values.
 25. Fischer and Nordvik, ‘From Broager to Bergen', p. 67.
 
-Business Groups and
-Entrepreneurial Families in
-Southern Europe: Comparing
-Greek and Spanish Shipowners
-in the Nineteenth and
-Twentieth Centuries1
-Gelina Harlaftis and Jesús M. Valdaliso
+## Chapter 14: Business Groups and Entrepreneurial Families in Southern Europe: Comparing Greek and Spanish Shipowners in the 19th and 20th Centuries
+
+**Authors**: Gelina Harlaftis and Jesús M. Valdaliso  
+
 Introduction
 This chapter aims at comparing and examining the origins and evolution of business groups in southern Europe, focusing on Spanish and
 Greek business groups originating from shipping from the late nineteenth century to the beginning of the twenty-firstcentury. Within the
@@ -8488,8 +8068,6 @@ This chapter compares and examines: 1) the origins of business
 groups in the two countries; 2) their strategy, structure and evolution,
 and 3) the factors that account for their long-term survival. As Khana
 and Yafeh reckoned, ‘Historical and dynamic … perspectives of business
-
-236 Business Groups and Entrepreneurial Families in Southern Europe
 groups can enrich our understanding of this institution'.3 Our empirical
 base consists of a multiple case study, based on our selection of the most
 important shipping business groups in both countries for which indepth historical analysis is available. This qualitative research approach
@@ -8525,8 +8103,6 @@ business groups' formation; exogenous and endogenous. The former sees
 business groups as a response to market imperfections and high transaction
 costs in economies with high political and economic risks and uncertainty.
 The strategy of vertical integration and economic diversification allowed
-
-Gelina Harlaftis and Jesús M. Valdaliso 237
 groups to reduce transaction costs and overcome market difficulties. Their
 availability of human resources, skills and capital gave them an advantage
 entering new markets and new businesses.8 Endogenous explanations,
@@ -8560,8 +8136,6 @@ from their organizational sources and human resources along with the
 reproduction of entrepreneurship.16
 Proposition 1: Business groups are more common in economies with less
 developed market institutions - the greater the market imperfections, the
-
-238 Business Groups and Entrepreneurial Families in Southern Europe
 greater the importance of business groups in a given economy. Business groups
 develop institutions based on the organizational capabilities and human
 resources on which their competitive advantage rests.
@@ -8596,8 +8170,6 @@ the group's resources and capabilities may be.19 Part of the survival
 technique of multi-generational business groups is the close relationship with main political parties and governments. As business groups'
 leaders form the most powerful capitalists in developing countries, all
 governments seek alliance with them.
-
-Gelina Harlaftis and Jesús M. Valdaliso 239
 Proposition 3: Members of family business groups always try to keep close
 relations with governments. There is usually a policy of promoting members
 of the family to be involved in politics and to acquire and develop as many
@@ -8633,8 +8205,6 @@ that internalize as many transactions as possible; these networks are
 based on organizational and human resources and allow the entrance
 of new firms allowing for the further renewal of the entrepreneurship of the shipping business.24 Through a process of flexibility and
 adjustment, culture and networks become embedded in the group's
-
-240 Business Groups and Entrepreneurial Families in Southern Europe
 and region's base of resources and capabilities, as a sort of ‘routine' or
 ‘memory bank' that tends to exhibit a path-dependent trajectory.25 In
 times of crisis this ‘bank' helps business strategies by re-implementing
@@ -8669,8 +8239,6 @@ B. Astigarraga, a shipbroking firm in 1861, and both promoted the
 creation of the Compañía Bilbaína de Navegación (a public firm) in
 1882. With his cousin Ramón de la Sota, he created in 1881 a limited
 partnership, Sota & Aznar, the core of a business group which, initially
-
-Gelina Harlaftis and Jesús M. Valdaliso 241
 involved in mining and iron ore trade, thriving businesses in the
 industrializing Basque country at that time, ended up as a giant group
 of companies involved in shipping, shipbuilding, banking and insurance, iron and steel and mining. Following the changes brought on
@@ -8707,8 +8275,6 @@ MP and senator in several legislatures, and was the representative of
 the Bilbao Shipowners' Association in Madrid. After his death in 1929,
 disputes between his heirs and the Sota family about the control and
 management of the businesses emerged.34
-
-242 Business Groups and Entrepreneurial Families in Southern Europe
 The third and fourth generations of the Aznars led the family from the
 1930s to the early 1980s. The third generation consisted of Luis Maria's
 four sons: José Luis (1896-1951), Ignacio (1898-1953), Juan Antonio
@@ -8746,8 +8312,6 @@ in bulk carriers, tankers and high-class ferries in the early 1970s. He also
 invested in several other businesses, including the Coca Cola factories
 in Spain. Eduardo, who belonged to the inner circle of Franco family
 friends, was the leading Spanish shipowner in those years, becoming a member of the Spanish parliament in the Francoist regime. The
-
-Gelina Harlaftis and Jesús M. Valdaliso 243
 problems of the group started in the late 1960s when Eduardo lost control of Euskalduna Shipyards and broke off relations with the Hispano
 Americano bank. After the death of Franco in 1975, Eduardo Aznar, like
 many other businessmen of the old establishment, had to cope with a
@@ -8785,8 +8349,6 @@ The founder of the shipping business group of the Embiricos was
 Captain Leonardos Embiricos, born in 1765 on the Aegean island of
 Andros, which was then part of the Ottoman Empire, becoming part
 of the modern Greek state in 1830. In the nineteenth century Andros
-
-244 Business Groups and Entrepreneurial Families in Southern Europe
 became one of the main maritime centres of the Aegean. By the early
 nineteenth century Leonardos had seven sons - Antonios, Nikolaos,
 Matthaios, Ioannis, Georgios, Michalis and Konstantinos - who worked
@@ -8824,8 +8386,6 @@ branches of the family stood out; it should be noted that the Embiricos
 family firms functioned independently but also as a group in loose collaboration with each other. The first branch was from the grandsons of
 Georgios, Leonidas (1872-1947), Michalis and Maris - known also as
 the Embiricos brothers. The Embiricos brothers invested in industry,
-
-Gelina Harlaftis and Jesús M. Valdaliso 245
 banking and insurance. They bought the most important shipyards in
 Piraeus, the Vassiliadis Shipyards and Mechanical Works, and they operated these from 1918 to 1926. They also invested in two coal mines,
 those of Aliveri and Oropos, and created the Bank of National Economy
@@ -8864,8 +8424,6 @@ brought the Embiricos family back into the top ten Greek shipowning
 groups. The grandson of Epaminondas K. Embiricos, Epaminondas G.
 Embiricos, started up his own company in London and Piraeus in 1969,
 the Buenmar Compania Naviera in Piraeus and Aeolos Management
-
-246 Business Groups and Entrepreneurial Families in Southern Europe
 Company in London. By 1990 the Embiricos group had the biggest
 fleet in terms of capacity in Greek-owned shipping. From the mid-
 1990s Epaminondas G. Embiricos managed ships through the Embiricos
@@ -8902,8 +8460,6 @@ series of industrial plants in the food, chemicals and transportation sectors.44
 of the Hilton Hotel in Athens, and of the shares of the London-based
 Commercial Bank of the Near East, which operated under the group's
 control until the 1990s.
-
-Gelina Harlaftis and Jesús M. Valdaliso 247
 The activities of the Andreadis business group peaked at the time
 of the military dictatorship (1967-74) in Greece.45 In 1975, the first
 post-dictatorship democratic government of Karamanlis nationalized
@@ -8935,8 +8491,6 @@ By 1830s two types of business were clearly formed in Greek entrepreneurial fami
 and developed as international businesses carrying the trade of third
 countries. The first type were family businesses involved in trade and
 shipping and established on the islands of the Ionian and the Aegean
-
-248 Business Groups and Entrepreneurial Families in Southern Europe
 seas; the second were the diaspora family businesses involved in trade,
 shipping and finance and established where the ships traded, in the
 main ports of the Black Sea, the western Mediterranean and northern
@@ -8972,8 +8526,6 @@ generation (1950s to 1970s), where the level of business rivalry was
 lower and there were a lot of business opportunities in a developing
 Spanish economy. Conversely, as economies became more open and
 competition fiercer, entrepreneurial families tended to concentrate
-
-Gelina Harlaftis and Jesús M. Valdaliso 249
 their businesses on core activities, for example, shipping in the fifth
 generation of Aznars.
 The Embiricos group reached its highest degree of diversification
@@ -9012,8 +8564,6 @@ role in the birth and evolution of business groups, as indicated in
 Proposition 4. In all our three cases multi-generation succession was
 effective as there was availability of male heirs. In the case of the
 Embiricos family, fragmentation of three branches of the family in
-
-250 Business Groups and Entrepreneurial Families in Southern Europe
 the fourth generation brought expansion and further diversification
 of business.
 The families developed structures to keep ownership together, such
@@ -9049,8 +8599,6 @@ its business group through the nationalization of its banks after the fall
 of the dictatorship in the mid-1970s.
 In Proposition 5 we posit that shipping business groups tended to
 develop a path-dependent ‘business culture' deeply rooted in their
-
-Gelina Harlaftis and Jesús M. Valdaliso 251
 maritime regions of origin. In both our cases the business groups came
 from traditional maritime regions, the Basque country and the Aegean
 islands, where long-term involvement in shipping had formed pathdependent institutions along with the ‘memory bank' of the know-how
@@ -9086,8 +8634,6 @@ linked to new ships and markets (tankers), and well connected to high
 government officials, but few of these were able to survive the crises
 of the 1970s and 1980s. On the other hand, some of the old entrepreneurial family shipping dynasties managed to successfully cope
 with the new scenario (internationalization, changes in markets and
-
-252 Business Groups and Entrepreneurial Families in Southern Europe
 types of ships, and so on) for reasons that are difficult to ascertain,
 but that, no doubt, are rooted in the path dependence and buffering considerations described above. Interestingly enough, these cases
 of longstanding entrepreneurial families come from very specialized
@@ -9274,8 +8820,6 @@ Insurance Oil
 ** After the 1920s, the main businesses of the Aznar house were the same as those of Sota & Aznar.
 Sources: Valdaliso (2002) and (2006) - see notes 5 and 27; TTTorres (1998) - see note 35; Castillo and Ybarra (2004) - see note ?; Rodrigo (2000) - see note ?; San
 Román (2011) - see note ?
-
-Gelina Harlaftis and Jesús M. Valdaliso 259
 Notes
 1. J. Valdaliso acknowledges financial support from the Research Group of the
 Basque Government IT337-10.
@@ -9324,8 +8868,6 @@ Organizational Know-How and Conglomerate Corporate Growth in Late
 Industrialization', Industrial and Corporate Change, 3, 1, pp. 111-47.
 10. Guillén, ‘Business Groups'; and Guillén (2010) ‘Capability Building and
 Business Groups', in Colpan, Hikino and Lincoln (eds), pp. 743-62.
-
-260 Business Groups and Entrepreneurial Families in Southern Europe
 11. Khana and Yafeh ‘Business Groups'; B. R. Schneider (2010) ‘Business Groups
 and the State: The Politics of Expansion, Restructuring, and Collapse' in
 Colpan, Hikino and Lincoln (eds), pp. 650-69.
@@ -9374,8 +8916,6 @@ R. N. Langlois (2003) ‘The Vanishing Hand: the Changing Dynamics of
 Industrial Capitalism', Industrial and Corporate Change, 12, 2, pp. 351-85.
 27. J. M. Valdaliso (2006) La familia Aznar y sus negocios (1830-1983) (Madrid:
 Marcial Pons); Theotokas and Harlaftis, Leadership in World Shipping.
-
-Gelina Harlaftis and Jesús M. Valdaliso 261
 28. M. Rodrigo (2000) Los Marqueses de Comillas 1817-1925. Antonio y Claudio
 López (Madrid: LID Editorial); A. Castillo and I. Ybarra (2004) La Naviera
 Ybarra (Sevilla: Ybarra y Cía.); and E. San Román (2011) Ildefonso Fierro. La
@@ -9424,8 +8964,6 @@ History, 4, 2, pp. 193-217.
 Laws: The Flag Differential Duty and the Competitiveness of Spanish
 Merchant Shipping in the 19th century', International Journal of Maritime
 History, 17, 2, pp. 31-60.
-
-262 Business Groups and Entrepreneurial Families in Southern Europe
 51. G. Harlaftis and I. Theotokas (2004) ‘European Family Firms in International
 Business: British and Greek Tramp-Shipping Firms', Business History, 46, 2,
 pp. 219-55.
@@ -9467,8 +9005,6 @@ industries therefore reveals the origins, expansion and mechanisms of the
 ‘hidden' system that enables consumers and producers to do business.
 Nowhere is this more evident than in the case of natural resources.
 C. Knick Harley shows in Chapter 3 that centuries ago shipping
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 265
 integrated the staple producers of the periphery into the global economy. Even today, raw material transports make up the bulk of the world's
 trade and shipping activity, laying the fundament for a global system
 of production. The ‘transport component' of an iPod manufactured in
@@ -9538,8 +9074,6 @@ the challenging problems governments have to face to change the old
 maritime infrastructures. Moreover, global politics and national policies have an important impact on the formation and transformation
 of ports. The importance of Chinese trade for the development of the
 international economy in recent decades is indisputable. Adolf K. Y. Ng
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 267
 and Ka-chai Tam illustrate the enormous transformation of the country's port system that has been necessary to facilitate the impressive
 trade growth.
 The five features discussed above reveal to varying degrees the close
@@ -9609,8 +9143,6 @@ abroad, removed from the economic structures of a specific country. It is
 indicative that economists analysing national economies have classified
 shipping income as ‘invisible earnings'. By making earnings from shipping ‘invisible' their impact on the economy is devalued and is shown
 to affect, say, only the balance of payments. More than a century ago,
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 269
 Sir Robert Giffen, a member of the Royal Statistical Society, was one of
 the first who publicly recognized the importance of shipping income in
 national accounts.19 However, despite the fact that the importance of
@@ -9688,8 +9220,6 @@ Growth', in R. W. Unger (ed.) Shipping and Economic Growth, 1350-1850
 6. L.R. Fischer and H.W. Nordvik (1986) ‘Maritime Transport and the
 Integration of the North Atlantic Economy, 1850-1914', in W. Fischer,
 H. McInnis and J. Schneider (eds) The Emergence of a World Economy, Vol. II
-
-Gelina Harlaftis, Stig Tenold and Jesús M. Valdaliso 271
 (F. Steiner: Wiesbaden) discuss ‘efficient markets' primarily in the context of
 distribution of capital; we interpret this element slightly differently.
 7. Y. Kaukiainen (2008) ‘Growth, Diversification and Globalization: Main

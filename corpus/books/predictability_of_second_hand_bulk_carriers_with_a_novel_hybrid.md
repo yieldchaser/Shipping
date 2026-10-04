@@ -52,37 +52,52 @@ vessel_classes:
 - vlcc
 - container
 ---
+
 ## Summary
+
 This research paper introduces a novel hybrid forecasting algorithm, combining ARDL, EMD, and ANN models to predict the asset prices of second-hand dry bulk carriers. The study validates the shipping Q index as a significant leading indicator that enhances predictive accuracy and helps identify overpriced assets during credit analysis. Findings demonstrate that the proposed hybrid model outperforms traditional linear and nonlinear benchmarks, providing a robust tool for maritime investment timing.
 
-## G Model
-ARTICLE IN PRESS
-AJSL-280; No. of Pages 10
-The Asian Journal of Shipping and Logistics xxx (xxxx) xxx-xxx
-Contents lists available at ScienceDirect
 The Asian Journal of Shipping and
-HOSTED BY
 Logistics
-j ourna l h omepage: www.elsevier.com/locate/ajsl
 Predictability of second-hand bulk carriers with a novel hybrid
 algorithm
 Okan Durua, Emrah Gulayb, Sinem Celik Girginc,∗
 aResearch & Development, Ocean Dynamex Inc., Ottawa, ON, Canada
 bDepartment of Econometrics, Dokuz Eylul University, Turkey
 cMaritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
-a r t i c l e i n f o
-Article history:
-Received 29 January 2021
-Received in revised form 2 July 2021
 Accepted 21 July 2021
-Keywords:
-Investment timing
-Predictability
-Lead-lag structure
-Shipping Q
-a
-index
-b s t r a c t
+
+---
+
+Predictability of second-hand bulk carriers with a novel hybrid
+algorithm
+Okan Durua, Emrah Gulayb, Sinem Celik Girginc,∗
+aResearch & Development, Ocean Dynamex Inc., Ottawa, ON, Canada
+bDepartment of Econometrics, Dokuz Eylul University, Turkey
+cMaritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
+Accepted 21 July 2021
+
+---
+
+Predictability of second-hand bulk carriers with a novel hybrid
+algorithm
+Okan Durua, Emrah Gulayb, Sinem Celik Girginc,∗
+aResearch & Development, Ocean Dynamex Inc., Ottawa, ON, Canada
+bDepartment of Econometrics, Dokuz Eylul University, Turkey
+cMaritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
+Accepted 21 July 2021
+
+---
+
+Predictability of second-hand bulk carriers with a novel hybrid
+algorithm
+Okan Durua, Emrah Gulayb, Sinem Celik Girginc,∗
+aResearch & Development, Ocean Dynamex Inc., Ottawa, ON, Canada
+bDepartment of Econometrics, Dokuz Eylul University, Turkey
+cMaritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
+Accepted 21 July 2021
+## Abstract
+
 This paper investigates the predictability of the asset prices of commodity transport (i.e. dry bulk carriers)
 by testing the shipping Q index as a leading indicator. We employ a comprehensive back-testing procedure with a broad spectrum of benchmark simulations. The shipping Q index (an adaptation of Tobin's Q
 index) has been introduced to benchmark models to observe predictive gain and interpret predictability
@@ -91,9 +106,9 @@ of the proposed hybrid algorithm is compared to specific univariate time series 
 only the proposed hybrid model performs better than the other competitive models in terms of hold out
 sample forecasting, but also using the shipping Q index improves the forecast accuracy by remarkably
 reducing forecasting error.
-© 2021 The Author. Production and hosting by Elsevier B.V. This is an open access article under the CC
-BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-1. Introduction
+
+## 1. Introduction
+
 Dry cargo ships are designed and operated in this supply chain
 for centuries. Based on the cargo capacity of ships, there are four
 major size groups namely Handysize (20k-45k dwt1), Handymax
@@ -107,15 +122,7 @@ income (based on freight rate). However, ships are not only cashgenerating units
 may also cause gain/loss in oscillating ship markets. In this regard,
 the 'asset play' strategy (revenues on buy-sell spread) is an essential
 component of the portfolio management in the shipping corpora-
-∗
-Corresponding author.
-E-mail address: sinemcelikgirgin@utas.edu.au (S.C. Girgin).
-1 Deadweight tonnage (dwt) refers to the carrying capacity including cargo, fuel,
-water or crew. Particularly in larger ship size, dwt is almost the cargo carrying
 capacity.
-2 Literally it means the maximum size that can pass through Panama
-tions,
-Canal.
 and it is contingent upon the investment timing (i.e. temporal
 arbitrage) by its nature similar to conventional financial assets.
 The revenue model of ship owning business has two major
@@ -139,17 +146,10 @@ value covenant against asset value shortfall (Duru, 2018, p. Chapter
 of impairment losses.
 According to a study conducted at the Harvard Business School
 (Greenwood and Hanson, 2015), shipping asset prices are significantly predictable due to the mistiming of investments as the
-https://doi.org/10.1016/j.ajsl.2021.07.002
-2092-5212 © 2021 The Author. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/
 by-nc-nd/4.0/).
-Please cite this article as: Duru, O., et al, Predictability of second-hand bulk carriers with a novel hybrid algorithm, The Asian Journal of
-Shipping and Logistics, https://doi.org/10.1016/j.ajsl.2021.07.002
 
-ARTICLE IN PRESS
-AJSL-280; No. of Pages 10
-O. Duru et al. The Asian Journal of Shipping and Logistics xxx (xxxx) xxx-xxx
-Fig. 1. The proposed hybrid algorithm.
-2.2.1. Linear forecasting models
+### 2.2.1 Linear Forecasting Models
+
 There are a number of different econometric models in the literature proposed by researchers to predict the future movement of
 freight rates. Among those, the ARIMA model by Box and Jenkins
 (1976), the VAR model by Sims (1980), VECM by Engle and Granger
@@ -161,7 +161,9 @@ to forecast the Baltic Freight Index (BFI) dataset. Batchelor et al.
 Chen et al. (2012) performed four different models, such as VAR,
 VARX, ARIMA, and ARIMAX, in the dry bulk market. They showed
 that VAR and VARX models perform compared to the others.
-2.2.2. Nonlinear forecasting models
+
+### 2.2.2 Nonlinear Forecasting Models
+
 If the price series is linear, the models in question could generate useful results in terms of forecasting. However, forecasting
 becomes a challenging task because of the existence of nonlinearity in bulk shipping price series. Thus, as an artificial intelligence
 model, neural networks (ANN) and support vector machines (SVM)
@@ -172,11 +174,9 @@ analysis of ANNs and ARMA models showed that the ANNs model
 outperformed the ARMA model. Lyridis et al. (2004) suggested a
 nonlinear modelling framework by using the ANNs model to forecast Very Large Crude Carriers (VLCC). Thalassinos et al. (2013)
 focused on the nonlinear analysis approach, such as False Nearest Neighbors (FNN), to forecast the BDI. Uyar and I˙lhan (2016)
-forecasted annual freight rates by using a recurrent fuzzy neural network. They emphasised the superiority of their
-2.2.3.
-proposed
-approach.
-Hybrid forecasting models
+forecasted annual freight rates by using a recurrent fuzzy neural network. They emphasised the superiority of their proposed approach.
+
+### 2.2.3 Hybrid Forecasting Models
 More recently, hybrid forecasting models have been extensively
 applied to combine linear and nonlinear models because they can
 have superior capabilities to deal with some weaknesses in the
@@ -193,31 +193,21 @@ hybrid multi-step SVM. Eslami et al. (2017) proposed a new hybrid
 forecasting approach that combined the ANN model and adaptive genetic algorithm (AGA) to improve forecast accuracy. They
 found that the proposed hybrid model performed better forecasting results by providing smaller mean square error (MSE) than the
 regression model, moving average (MA) model, and ANN model.
-3. Methodology and data
-3.1. Shipping Q as an adaptation of Tobin's Q index
+
+## 3. Methodology and Data
+
+### 3.1 Shipping Q as an Adaptation of Tobin's Q Index
+
 SQ index, in other words, a momentum indicator for shipping
 asset prices, created following the fundamentals of capital investment model, Tobin Q theory (Brainard and Tobin, 1968; Tobin,
 1969). In Tobin Q model, dynamic value change of assets throughout the time captured by the ratio of market value of a firm to
 replacement value. The Q ratio aimed to identify if the firm's value
 is over-valued, when the ratio is greater than 1, or under-valued,
-when the ratio is lower than 1. In Tobin Q theory, if ratio is greater
+when the ratio is lower than 1. In Tobin Q theory, if the ratio is greater than 1, investment is encouraged; if the ratio is below 1, then the asset is undervalued, and the signal is interpreted as a buy opportunity. The SQ index is calculated as the ratio of the market value of a ship to the nominal long-term value of the vessel.
 
-ARTICLE IN PRESS
-AJSL-280; No. of Pages 10
-O. Duru et al. The Asian Journal of Shipping and Logistics xxx (xxxx) xxx-xxx
-Fig. 2. Training, validation, and test sets of dry bulk carriers: (a) 5 years old, (b) 10 years old, and (c) 15 years old.
-Fig. 3. Differences in ranked order means of models: (a) 5 years old dry bulk carrier, (b) 10 years old dry bulk carrier, and (c) 15 years old dry bulk carrier.
+However, static book value measures are not practically useful if the security shortfall arises as a result of market collapse and asset bubbles. In this regard, the SQ index can be utilised in identifying overpriced assets and potential security value shortfalls during the credit analysis stage.
+## 5. Conclusion
 
-ARTICLE IN PRESS
-AJSL-280; No. of Pages 10
-O. Duru et al. The Asian Journal of Shipping and Logistics xxx (xxxx) xxx-xxx
-Fig. 5. Second-hand dry bulk carriers 10 years-old: (a) Capesize, (b) Handymax, (c)
-Handysize, and (d) Panamax.
-not practically useful if the security shortfall arises as a result of the
-market collapse and asset bubbles. In this regard, the SQ index can
-be utilised in identifying overpriced assets and potential security
-value shortfalls during the credit analysis stage.
-5. Conclusion
 This paper proposed a novel hybrid algorithm for second-hand bulk carriers forecasting, and ARDL-EMD-ANN hybrid model
 developed to test forecasting performance. The modelling and forecasting steps were described, and the empirical analysis was carried
 out based on various type of carriers. The forecasting accuracy of
@@ -233,11 +223,9 @@ by optimising the asset play components. In massive use, anticipated dynamics wo
 impact may have deteriorated. Eventually, the empirical analysis
 proved that the proposed hybrid algorithm is a viable alternative
 for second-hand bulk carriers forecasting, and it can be applied to
-different time series data in other
-Fig.
-areas.
-6. Second-hand dry bulk carriers 15 years old: (a) Capesize, (b) Handymax, (c)
-Handysize, and (d) Panamax.
+different time series data in other areas.
+
+> **Figure 6**: Second-hand dry bulk carriers 15 years old: (a) Capesize, (b) Handymax, (c) Handysize, and (d) Panamax.
 Moreover, utilised empirical mode decomposition (EMD) and
 feedforward neural networks (artificial neural network-ANN)
 stated that the SQ index has a crucial role in explaining market entry
@@ -261,105 +249,53 @@ One-step ahead predictive performance in this study leads the
 future research on the optimisation of lead-lag structure for various methodologies as well as blending with other explanatory
 variables.
 
-ARTICLE IN PRESS
-AJSL-280; No. of Pages 10
-O. Duru et al. The Asian Journal of Shipping and Logistics xxx (xxxx) xxx-xxx
-Author declaration
 There is no conflict of interest to declare. This manuscript has
 not been published or resented elsewhere in part or in entirety and
 is not under consideration by another journal. We have read and
 understood your journal's policies, and we believe that neither the
 manuscript nor the study violates any of these.
-Declarations of interest
+
+## Declarations of Interest
+
 None.
-References
-Alizadeh, A., & Nomikos, N. (2007). Investment timing and trading strategies in the
-sale and purchase market for ships. Transportation Research Part B Methodological, 41(1), 126-143.
-Batchelor, R., Alizadeh, A., & Visvikis, I. (2007). Forecasting spot and forward prices
-in the international freight market. International Journal of Forecasting, 23(1),
-101-114.
-Box, G. E. P., & Jenkins, G. M. (1976). Time series analysis: Forecasting and control.
-Holden-Day.
-Brainard, W., & Tobin, J. (1968). Pitfalls in financial model building. The American
-Economic Review, 58, 99-122.
-Celik Girgin, S., Karlis, T., & Duru, O. (2019). Valuation mismatch and shipping q
-indicator for shipping asset management. Maritime Policy & Management, 1-18.
-Chen, S., Meersman, H., & Van de Voorde, E. (2012). Forecasting spot rates at main
-routes in the dry bulk market. Maritime Economics & Logistics, 14(4), 498-537.
-Cullinane, K., & Khanna, M. (1999). Economies of scale in large container ships.
-Journal of Transport Economics and Policy, 33(2), 185-207.
-Dikos, G., & Marcus, H. (2003). The term structure of second-hand prices: A structural
-partial equilibrium model. Maritime Economics & Logistics, 5(3), 251-267.
-Duru, O. (2013). Irrational exuberance, overconfidence and short-termism:
-Knowledge-to-action asymmetry in shipping asset management. The Asian Journal of Shipping and Logistics, 29(1), 43-58.
-Duru, O. (2018). Shipping business unwrapped: Illusion, Bias and fallacy in the shipping
-business. Routledge.
-Engle, R. F., & Granger, C. W. (1987). Co-integration and error correction: Representation, estimation, and testing. Econometrica: Journal of the Econometric Society,
-251-276.
-Eslami, P., Jung, K., Lee, D., & Tjolleng, A. (2017). Predicting tanker freight rates using
-parsimonious variables and a hybrid artificial neural network with an adaptive
-genetic algorithm. Maritime Economics & Logistics, 19(3), 538-550.
-Forrester, J. W. (1958). Industrial dynamics. A major breakthrough for decision makers. Harvard business review, 36(4), 37-66.
-Franses, P. H., & Veenstra, A. (1997). A cointegration approach to forecasting freight
-rates in the dry bulk shipping sector. Transportation Research Part A: Policy &
-Practice, 447-458.
-Girgin, S. C., Karlis, T., & Nguyen, H.-O. (2018). A critical review of the literature on
-firm-level theories on ship investment. International Journal of Financial Studies,
-6(11).
-Greenwood, R., & Hanson, S. G. (2015). Waves in ship prices and investment. The
-Quarterly Journal of Economics, 130(1), 55-109.
-Guan, F., Peng, Z., Wang, K., Song, X., & Gao, J. (2016). Multi-step hybrid prediction model of baltic supermax index based on support vector machine. Neural
-Network World, 26(3),
-Han,
-219.
-Q., Yan, B., Ning, G., & Yu, B. (2014). Forecasting dry bulk freight index with
-improved SVM. Mathematical Problems in Engineering, 2014.
-Jeon, J.-W., Duru, O., & Yeo, G.-T. (2020). Modelling cyclic container freight index
-using system dynamics. Maritime Policy & Management, 47(3), 287-303.
-Kaboudan, M. (2001). Compumetric forecasting of crude oil prices. In Paper Presented
-at the Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No.
-01TH8546).
-Karlis, T., Polemis, D., Girgin, S. C., & Syntychaki, A. (2019). Future challenges of
-Maritime economics research. In Paper Presented at the IAME 2019 CONFERENCE.
-Kou, Y., & Luo, M. (2018). Market driven ship investment decision using the
-real option approach. Transportation Research Part A: Policy and Practice, 118,
-714-729.
-Li, J., & Parsons, M. G. (1997). Forecasting tanker freight rate using neural networks.
-Maritime Policy & Management, 24(1), 9-30.
-Lyridis, D., Zacharioudakis, P., Mitrou, P., & Mylonas, A. (2004). Forecasting tanker
-market using artificial neural networks. Maritime Economics & Logistics, 6(2),
-93-108.
-Makridakis, S., Wheelwright, S. C., & Hyndman, R. J. (2008). Forecasting methods and
-applications. John wiley & sons.
-Marcus, H., Glucksman, M., Ziogas, B., & Meyer, K. (1991). A buy-low, sell-high
-investment methodology: The case of bulk shipping. Interfaces, 21(2), 8-21.
-Merikas, A. G., Merika, A. A., & Koutroubousis, G. (2008). Modelling the investment decision of the entrepreneur in the tanker sector: Choosing between a
-second-hand vessel and a newly built one. Maritime Policy & Management, 35(5),
-433-447.
-Pankratz, A. (1983). Forecasting with univariate box-jenkins models: Concepts and
-cases. USA: John Wily & Sons. Inc.
-Pesaran, M. H., & Shin, Y. (1998). An autoregressive distributed-lag modelling approach to cointegration analysis. Econometric Society Monographs, 31,
-371-413.
-Petropoulos, F., Kourentzes, N., Nikolopoulos, K., & Siemsen, E. (2018). Judgmental
-selection of forecasting models. Journal of Operations Management, 60, 34-46.
-Rasouli, S., Tabesh, H., & Etminani, K. (2016). A study of input variable selection to
-artificial neural network for predicting hospital inpatient flows. Current Journal
-of Applied Science and Technology, 1-8.
-Rau, P., & Spinler, S. (2016). Investment into container shipping capacity: A real
-options approach in oligopolistic competition. Transportation Research Part E:
-Logistics and Transportation Review, 93, 130-147.
-Sims, C. A. (1980). Macroeconomics and reality. Econometrica: Journal of the Econometric Society, 1-48.
-Stopford, M. (2009). Maritime economics 3e. Routledge.
-Thalassinos, I., Hanias, M. P., Curtis, G., & Thalassinos, E. (2013). Forecasting financial
-indices: The Baltic dry indices. In Marine navigation and safety of sea transportation: STCW, maritime education and training (MET), human resources and crew
-manning, maritime policy, logistics and economic matters. pp. 190-283.
-Tobin, J. (1969). A general equilibrium approach to monetary theory. Journal of
-Money, Credit and Banking, 1(1), 15-29.
-Tsolakis, S., Cridland, C., & Haralambides, H. (2003). Econometric modelling of
-second-hand ship prices. Maritime Economics & Logistics, 5(4), 347-377. https://
-doi.org/10.1057/palgrave.mel.9100086
-Uyar, K., &I˙lhan, A. (2016). Long term dry cargo freight rates forecasting by using
-recurrent fuzzy neural networks. Procedia Computer Science, 102, 642-647.
-Zeng, Q., Qu, C., Ng, A. K., & Zhao, X. (2016). A new approach for Baltic Dry Index forecasting based on empirical mode decomposition and neural networks. Maritime
-Economics & Logistics, 18(2), 192-210.
-View publication stats
+
+## References
+
+- - Alizadeh, A., & Nomikos, N. (2007). Investment timing and trading strategies in the sale and purchase market for ships. Transportation Research Part B Methodological, 41(1), 126-143.
+- Batchelor, R., Alizadeh, A., & Visvikis, I. (2007). Forecasting spot and forward prices in the international freight market. International Journal of Forecasting, 23(1), 101-114.
+- Box, G. E. P., & Jenkins, G. M. (1976). Time series analysis: Forecasting and control. Holden-Day.
+- Brainard, W., & Tobin, J. (1968). Pitfalls in financial model building. The American Economic Review, 58, 99-122.
+- Celik Girgin, S., Karlis, T., & Duru, O. (2019). Valuation mismatch and shipping q indicator for shipping asset management. Maritime Policy & Management, 1-18.
+- Chen, S., Meersman, H., & Van de Voorde, E. (2012). Forecasting spot rates at main routes in the dry bulk market. Maritime Economics & Logistics, 14(4), 498-537.
+- Cullinane, K., & Khanna, M. (1999). Economies of scale in large container ships. Journal of Transport Economics and Policy, 33(2), 185-207.
+- Dikos, G., & Marcus, H. (2003). The term structure of second-hand prices: A structural partial equilibrium model. Maritime Economics & Logistics, 5(3), 251-267.
+- Duru, O. (2013). Irrational exuberance, overconfidence and short-termism:
+- Knowledge-to-action asymmetry in shipping asset management. Duru, O. (2018). Shipping business unwrapped: Illusion, Bias and fallacy in the shipping business. Routledge.
+- Engle, R. F., & Granger, C. W. (1987). Co-integration and error correction: Representation, estimation, and testing. Econometrica: Journal of the Econometric Society, 251-276.
+- Eslami, P., Jung, K., Lee, D., & Tjolleng, A. (2017). Predicting tanker freight rates using parsimonious variables and a hybrid artificial neural network with an adaptive genetic algorithm. Maritime Economics & Logistics, 19(3), 538-550.
+- Forrester, J. W. (1958). Industrial dynamics. A major breakthrough for decision makers. Harvard business review, 36(4), 37-66.
+- Franses, P. H., & Veenstra, A. (1997). A cointegration approach to forecasting freight rates in the dry bulk shipping sector. Transportation Research Part A: Policy & Practice, 447-458.
+- Girgin, S. C., Karlis, T., & Nguyen, H.-O. (2018). A critical review of the literature on firm-level theories on ship investment. International Journal of Financial Studies, 6(11).
+- Greenwood, R., & Hanson, S. G. (2015). Waves in ship prices and investment. The Quarterly Journal of Economics, 130(1), 55-109.
+- Guan, F., Peng, Z., Wang, K., Song, X., & Gao, J. (2016). Multi-step hybrid prediction model of baltic supermax index based on support vector machine. Neural Network World, 26(3), Han, 219.
+- Q., Yan, B., Ning, G., & Yu, B. (2014). Forecasting dry bulk freight index with improved SVM. Mathematical Problems in Engineering, 2014.
+- Jeon, J.-W., Duru, O., & Yeo, G.-T. (2020). Modelling cyclic container freight index using system dynamics. Maritime Policy & Management, 47(3), 287-303.
+- Kaboudan, M. (2001). Compumetric forecasting of crude oil prices. In Paper Presented at the Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No. 01TH8546).
+- Karlis, T., Polemis, D., Girgin, S. C., & Syntychaki, A. (2019). Future challenges of Maritime economics research. In Paper Presented at the IAME 2019 CONFERENCE.
+- Kou, Y., & Luo, M. (2018). Market driven ship investment decision using the real option approach. Transportation Research Part A: Policy and Practice, 118, 714-729.
+- Li, J., & Parsons, M. G. (1997). Forecasting tanker freight rate using neural networks. Maritime Policy & Management, 24(1), 9-30.
+- Lyridis, D., Zacharioudakis, P., Mitrou, P., & Mylonas, A. (2004). Forecasting tanker market using artificial neural networks. Maritime Economics & Logistics, 6(2), 93-108.
+- Makridakis, S., Wheelwright, S. C., & Hyndman, R. J. (2008). Forecasting methods and applications. John wiley & sons.
+- Marcus, H., Glucksman, M., Ziogas, B., & Meyer, K. (1991). A buy-low, sell-high investment methodology: The case of bulk shipping. Interfaces, 21(2), 8-21.
+- Merikas, A. G., Merika, A. A., & Koutroubousis, G. (2008). Modelling the investment decision of the entrepreneur in the tanker sector: Choosing between a second-hand vessel and a newly built one. Maritime Policy & Management, 35(5), 433-447.
+- Pankratz, A. (1983). Forecasting with univariate box-jenkins models: Concepts and cases. USA: John Wily & Sons. Inc.
+- Pesaran, M. H., & Shin, Y. (1998). An autoregressive distributed-lag modelling approach to cointegration analysis. Econometric Society Monographs, 31, 371-413.
+- Petropoulos, F., Kourentzes, N., Nikolopoulos, K., & Siemsen, E. (2018). Judgmental selection of forecasting models. Journal of Operations Management, 60, 34-46.
+- Rasouli, S., Tabesh, H., & Etminani, K. (2016). A study of input variable selection to artificial neural network for predicting hospital inpatient flows. Current Journal of Applied Science and Technology, 1-8.
+- Rau, P., & Spinler, S. (2016). Investment into container shipping capacity: A real options approach in oligopolistic competition. Transportation Research Part E: Logistics and Transportation Review, 93, 130-147.
+- Sims, C. A. (1980). Macroeconomics and reality. Econometrica: Journal of the Econometric Society, 1-48.
+- Stopford, M. (2009). Maritime economics 3e. Routledge.
+- Thalassinos, I., Hanias, M. P., Curtis, G., & Thalassinos, E. (2013). Forecasting financial indices: The Baltic dry indices. In Marine navigation and safety of sea transportation: STCW, maritime education and training (MET), human resources and crew manning, maritime policy, logistics and economic matters. pp. 190-283.
+- Tobin, J. (1969). A general equilibrium approach to monetary theory. Journal of Money, Credit and Banking, 1(1), 15-29.
+- Tsolakis, S., Cridland, C., & Haralambides, H. (2003). Econometric modelling of second-hand ship prices. Maritime Economics & Logistics, 5(4), 347-377. https:// doi.org/10.1057/palgrave.mel.9100086 Uyar, K., &I˙lhan, A. (2016). Long term dry cargo freight rates forecasting by using recurrent fuzzy neural networks. Procedia Computer Science, 102, 642-647.
+- Zeng, Q., Qu, C., Ng, A. K., & Zhao, X. (2016). A new approach for Baltic Dry Index forecasting based on empirical mode decomposition and neural networks. Maritime Economics & Logistics, 18(2), 192-210.

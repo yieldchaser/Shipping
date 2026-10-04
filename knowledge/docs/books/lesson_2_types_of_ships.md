@@ -1,385 +1,225 @@
 ---
-category: book
-commodities:
-- grain
-- crude_oil
-- products
-- gas
-date: null
-doc_id: book_lesson_2_types_of_ships
-document_type: reference_book
-key_entities:
-- NAMEPA
-- IHS Maritime
-- equasis.org
-- maritime-connector.com
-keywords:
-- lng
-- lpg
-- container
-- grain
-- crude_oil
-- products
-- gas
-- ships
-- are
-- cargo
-- maritime
-- source
-market_tone: informative_and_educational
-regions: []
-section_count: 19
-signals: {}
-source: book
-source_path: reports/Lesson-2-Types-of-Ships.pdf
-summary: 'NAMEPA''s Mission
-
-  Preserve and protect the marine
-
-  •
-
-  environment
-
-  Demonstrate maritime commitment to
-
-  •
-
-  environmental protection and pollution
-
-  prevention
-
-  Support the marine industry
-
-  •
-
-  Engage maritime businesses, government
-
-  •
-
-  and public to "Save our Seas" by promoting
-
-  sound environmental practices
-
-  Educate on importance of protecting marine
-
-  •
-
-  resources Why are Ships Important? Can you believe that 90% of everything in this
-  room (and in the world!) has been
-
-  •
-
-  transported by sea in some stage of its life? Ships have been the leaders in transportation
-  and are the safest and fastest way of
-
-  •
-
-  transporting goods from one place to another.'
-themes:
-- Environmental Protection
-- Global Logistics
-- Maritime Education
-- Industrial Infrastructure
-title: Lesson-2-Types-of-Ships
+title: "Types of Ships: Educational Guide to Ship Categories and Maritime Careers"
+author: "NAMEPA (North American Marine Environment Protection Association)"
+publisher: "NAMEPA Education Project"
+year: 2016
+pages: 39
+source: "corpus/books/lesson_2_types_of_ships.md"
+raw_pdf: "corpus/books/Lesson-2-Types-of-Ships.pdf"
+category: "Vessel Classification / Maritime Careers / Industry Education"
 vessel_classes:
-- lng
-- lpg
-- container
+  - general_cargo
+  - specialized_heavy_lift
+  - container
+  - roro
+  - dry_bulk
+  - crude_tanker
+  - product_tanker
+  - lng
+  - lpg
+  - passenger
+  - offshore_supply
+  - service_vessels
+  - tugs
 ---
-## Summary
-NAMEPA's Mission
-Preserve and protect the marine
-•
-environment
-Demonstrate maritime commitment to
-•
-environmental protection and pollution
-prevention
-Support the marine industry
-•
-Engage maritime businesses, government
-•
-and public to "Save our Seas" by promoting
-sound environmental practices
-Educate on importance of protecting marine
-•
-resources Why are Ships Important? Can you believe that 90% of everything in this room (and in the world!) has been
-•
-transported by sea in some stage of its life? Ships have been the leaders in transportation and are the safest and fastest way of
-•
-transporting goods from one place to another.
 
-## Lesson-2-Types-of-Ships
-NAMEPA's Mission
-Preserve and protect the marine
-•
-environment
-Demonstrate maritime commitment to
-•
-environmental protection and pollution
-prevention
-Support the marine industry
-•
-Engage maritime businesses, government
-•
-and public to "Save our Seas" by promoting
-sound environmental practices
-Educate on importance of protecting marine
-•
-resources
+# Types of Ships: Educational Guide to Ship Categories and Maritime Careers
 
-Why are Ships Important?
-Can you believe that 90% of everything in this room (and in the world!) has been
-•
-transported by sea in some stage of its life?
-Ships have been the leaders in transportation and are the safest and fastest way of
-•
-transporting goods from one place to another.
-There are over 81,000 ships that make up the world fleet which act as the working
-•
-power behind the maritime industry.
-In this lesson, we will learn about the different types of ships that allow all of this
-•
-important trading to happen.
+**Publisher:** North American Marine Environment Protection Association (NAMEPA)  
+**Classification Source:** IHS Maritime and Equasis.org  
+**Target Focus:** Vessel Classification, Seaborne Trade Logistics, Maritime Employment, and Cabotage Law  
 
-The Twelve Categories of Ships
-There are so many types of ships…
-•
-too many to count!
-They all serve different purposes
-•
-and carry different goods.
-Here are the twelve categories of
-•
-ship types, according to IHS
-Maritime and equasis.org
+---
 
-## 1. General Cargo Ships
-Source: maritime-connector.com
-General Cargo Ships are easily identified by the cranes on their back.
-•
-General Cargo Ships carry everything from cut timber to heavy machinery.
-•
-The most abundant ship out there; General Cargo Ships make up 20% of the world
-•
-fleet!
+## 1. Introduction and NAMEPA Mission
 
-## 2. Specialized Cargo Ships
-Source: shippingandfreightresource.com
-• Specialized Cargo Ships carry extremely heavy loads and unusually shaped cargo, such as
-smaller ships, oil rigs, or building structures!
-• They usually have cranes and flat decks to support large objects. Some Specialized Cargo
-Chips may even submerge themselves underwater to carry their cargo!
-• Specialized Cargo Ships make up only a very small 0.3% of the world fleet.
+The North American Marine Environment Protection Association (NAMEPA) is an independent, marine industry-led organization dedicated to preserving the marine environment by promoting sound environmental practices and educating the public and maritime stakeholders.
 
-## 3. Container Ships
-• Container Ships are large, long ships that are specifically designed for carrying their cargo in containers.
-• The containers are intermodal, meaning they can be transported by different modes of transportation,
-like via ship or truck.
-• The containers hold things such as clothing, textiles, food products, and electronics safely inside them.
-• Container Ships make up 6% of the world fleet.
+### NAMEPA Mission Pillars
+- **Preserve and Protect:** Protect the marine environment through industry-wide stewardship and proactive education.
+- **Demonstrate Commitment:** Demonstrate maritime industry commitment to environmental protection and pollution prevention.
+- **Support Maritime Trade:** Support commercial marine operations as essential engines of global economic prosperity.
+- **Save Our Seas:** Engage maritime businesses, government regulators, and the general public in actionable programs to safeguard marine resources.
+- **Education & Outreach:** Educate students, educators, and communities on the strategic importance of the maritime transportation system.
 
-## 4. Ro-Ro Cargo Ships
-(RoRoRow Your Boat!)
-• "Ro-Ro" stands for Roll-on/Roll-off. Source: boatshippinguse.com
-• Ro-Ro's Cargo Ships transport cars, trailers, trucks, and even train cars!
-• Ro-Ro's travel far distances around the world and are very large!
-• Ro-Ro Cargo Ships up 1.8% of the world fleet.
+---
 
-## 5. Dry Bulk Carriers
-Source:
-gcaptain.com
-• Dry Bulk Carriers are easily identified by the hatches they have on their deck.
-• The term "dry bulk" means any non-liquid cargo in large amounts, such as grain, ore,
-cement, or shredded timber.
-• Dry Bulk Carriers make up 12.7% of the fleet.
+## 2. Why Are Ships Important?
 
-## 6. Liquid Bulk Tankers
-Source: gcaptain.com
-• Liquid Bulk Tankers carry liquid chemicals or oil in large amounts.
-• Because Liquid Bulk Tankers usually carry flammable liquids, there are "NO SMOKING" signs every
-where on board to ensure safety of the crew and cargo.
-• Liquid Bulk Tankers contain large tanks below deck that store tens of thousands of gallons of liquid!
-• Liquid Bulk Tankers make up 14.7% of the world fleet.
+Commercial shipping represents the bedrock of international trade and civilizational supply chains:
+- **Global Volume Share:** Over **90%** of all manufactured goods, commodities, and raw materials consumed globally travel by sea at some point in their life cycle.
+- **Safety and Energy Efficiency:** Maritime transportation remains the safest, most fuel-efficient, and most cost-effective mechanism for moving high-volume bulk commodities and manufactured goods across continents.
+- **Global Commercial Fleet:** More than **81,000 commercial vessels** constitute the active world fleet, serving as the physical infrastructure of global commerce.
 
-## 7. Liquefied Natural Gas Tankers
-Source: seaspout.wordpress.com
-• Liquefied Natural Gas Tankers carry Liquefied Natural Gas (LNG) in special tanks that are
-shaped like circles. Half of the tank is seen above deck!
-• Liquefied Natural Gas Tankers are very easy to identify because of their hulls have LNG
-written across them.
-• LNG Tankers make up only 2% of the current fleet, but are becoming more common as the
-Liquefied Natural Gas market begins to grow.
+---
 
-## 8. Liquefied Petroleum Gas Tankers
-Source: lngworldnews.com
-• Liquefied Petroleum Gas Tankers carry Liquefied Petroleum Gas (LPG) and have special
-tanks to carry it in, much like LNG tankers.
-• Liquefied Petroleum Gas Tankers are easy to identify because of the LPG written across their
-hull.
-• LPG Tankers makes up 0.9% of the world fleet.
+## 3. The Twelve Categories of Ships
 
-## 9. Passenger Ships
-Source: worldmaritimenews.com
-• Passenger Ships carry people and include cruise ships and ferries, big and small.
-• Passenger Ships make up 8% of the world fleet, but are one of the most known types of ship
-in the maritime industry because of their popularity!
-• How many of you have ever been on a Passenger Ship?
+According to statistical standards established by **IHS Maritime** and **Equasis.org**, the world commercial fleet is divided into twelve primary functional categories:
 
-## 10. Offshore Vessels
-Source: ynfpublishers.com
-• Offshore Vessels supply important goods to offshore oil and gas platforms. They travel out
-to deep water to restock food and transport workers.
-• Without Offshore Vessels, offshore operations would be extremely difficult to maintain.
-• Offshore Vessels make up approximately 9% of the world fleet.
+| # | Ship Category | World Fleet Share (%) | Typical Cargo / Function | Defining Visual & Operational Features |
+|---|---------------|----------------------|--------------------------|-----------------------------------------|
+| 1 | General Cargo Ships | 20.0% | Breakbulk, cut timber, palletized freight, machinery | Deck-mounted cranes, multi-deck cargo holds |
+| 2 | Specialized Cargo Ships | 0.3% | Extreme heavy-lift, oil rigs, subsea structures | Flat reinforced open decks, semi-submersible ballasting |
+| 3 | Container Ships | 6.0% | Standardized ISO containerized consumer and industrial freight | Cell guides, wide deck beam, cellular stowage bays |
+| 4 | Ro-Ro Cargo Ships | 1.8% | Wheeled vehicles, cars, trucks, trailers, rolling stock | Internal vehicle ramps, enclosed vehicle decks, high freeboard |
+| 5 | Dry Bulk Carriers | 12.7% | Non-liquid dry bulk: iron ore, coal, grain, bauxite, cement | Large top-deck hatch covers, box-shaped cavernous cargo holds |
+| 6 | Liquid Bulk Tankers | 14.7% | Crude oil, refined petroleum products, liquid chemicals | Piping manifolds on deck, segregated ballast, "NO SMOKING" signage |
+| 7 | LNG Tankers | 2.0% | Liquefied Natural Gas (-162°C cryogenic methane) | Spherical (Moss) or membrane containment tanks, "LNG" hull logo |
+| 8 | LPG Tankers | 0.9% | Liquefied Petroleum Gas (propane and butane under pressure/cooling) | Cylindrical/prismatic deck tanks, "LPG" hull logo |
+| 9 | Passenger Ships | 8.0% | Human passengers: luxury cruising and regional ferry transport | High multi-tier superstructure, extensive life-saving appliances |
+| 10 | Offshore Vessels | 9.0% | Platform supply (PSV), anchor handling (AHTS), subsea crew support | Large flat aft wooden/steel cargo deck, forward superstructure |
+| 11 | Service Vessels | 4.0% | Subsea cable-laying, hydrographic research, Arctic icebreaking | Reinforced icebreaker bows, A-frames, specialized dynamic positioning |
+| 12 | Tugs | 20.0% | Harbor assist, escort, docking, emergency towage, coastal barge pushing | High bollard pull, 360-degree azimuthing thrusters, heavy fendering |
 
-## 11. Service Vessels
-Source: dphotographer.co.uk noaa.gov safety4sea.com
-• Service Vessels include many types of ships, such as cable-laying ships, research vessels,
-and icebreaking ships (all pictured above, respectively).
-• Each type of Service Vessel holds very important positions in assisting development,
-exploring and learning, and navigating the ocean.
-• Service Vessels make up about 4% of the world fleet.
+---
 
-## 12. Tugs
-Source: jungwoninternationl.com
-• Tug Boats are the most important vessels in near-shore operations because they assist larger ships,
-such as Container Ships or Ro-Ros, move in tight spaces!
-• Tug Boats help large ships dock safely and prevent accidents in ports by tugging them or pushing
-them in the right direction.
-• Due to the importance of Tug Boats, they make up almost 20% of the world fleet!
+### 3.1 General Cargo Ships
+- **Fleet Share:** 20.0% of the world fleet (the most numerous single commercial cargo class).
+- **Cargo Handled:** Timber, steel coils, heavy machinery, bagged agricultural produce, and manufactured breakbulk.
+- **Identification:** Characterized by multiple deck cranes positioned between cargo holds, facilitating self-unloading in ports without shoreside container cranes.
 
-You're Right!
-A Container Ship!
-Source: freightrates.com
+### 3.2 Specialized Cargo Ships
+- **Fleet Share:** 0.3% of the world fleet.
+- **Cargo Handled:** Extra-heavy, oversized project cargoes including drilling platforms, offshore turbine blades, floating dry docks, and military hardware.
+- **Identification:** Heavy-lift cranes capable of tandem lifts exceeding 1,000 tonnes, open stern configurations, and semi-submersible hulls capable of ballasting below sea level to float cargo on deck.
 
-You're Right!
-A General Cargo Ship!
-Source: maritimejobs.org
+### 3.3 Container Ships
+- **Fleet Share:** 6.0% of the world fleet.
+- **Cargo Handled:** Intermodal containers (20-foot TEU and 40-foot FEU) carrying electronics, textiles, refrigerated food, packaged retail items, and consumer goods.
+- **Identification:** Long, narrow profile, lack of internal decks (using vertical cell guides instead), carrying stacked container blocks reaching 10 tiers above the main weather deck.
 
-You're Right!
-A Ro-Ro Cargo Ship!
-Source: sailnet.com
+### 3.4 Ro-Ro (Roll-on/Roll-off) Cargo Ships
+- **Fleet Share:** 1.8% of the world fleet.
+- **Cargo Handled:** Automobiles, heavy construction tractors, roll trailers, and rail cars.
+- **Identification:** Boxy, high-sided superstructure with folding stern and quarter ramps allowing vehicles to be driven directly on and off without cranes.
 
-What Type of Ship am I?
-Source: seaspout.wordpress.com
+### 3.5 Dry Bulk Carriers
+- **Fleet Share:** 12.7% of the world fleet.
+- **Cargo Handled:** Homogeneous dry raw bulk commodities (iron ore, coking and thermal coal, grains, fertilizers, bauxite, and mineral sands).
+- **Identification:** Massive hydraulic sliding or folding hatch covers along the weather deck centerline, single-deck construction with hopper tanks to self-trim granular cargoes.
 
-You're Right!
-A Liquified Natural Gas or LNG Tanker!
-Source: seaspout.wordpress.com
+### 3.6 Liquid Bulk Tankers
+- **Fleet Share:** 14.7% of the world fleet.
+- **Cargo Handled:** Crude oil, petroleum products (gasoline, jet fuel, diesel, naphtha), and liquid bulk chemicals.
+- **Identification:** Flat, low-profile decks traversed by complex piping headers and midships cargo manifold connections, double hull construction, and prominent safety placards ("NO SMOKING").
 
-What Type of Ship am I?
-Source: frontierlandstation.com
+### 3.7 Liquefied Natural Gas (LNG) Tankers
+- **Fleet Share:** 2.0% of the world fleet (rapidly expanding sector).
+- **Cargo Handled:** Liquefied natural gas cooled to -162°C (-260°F) at atmospheric pressure.
+- **Identification:** Easily recognized by large spherical Moss-type tanks protruding through the weather deck or flat-top membrane insulated tank profiles, with prominent "LNG" markings on the hull.
 
-You're Right!
-A Passenger Ship!
-Source: frontierlandstation.com
+### 3.8 Liquefied Petroleum Gas (LPG) Tankers
+- **Fleet Share:** 0.9% of the world fleet.
+- **Cargo Handled:** Liquefied propane, butane, and chemical gases (ammonia, vinyl chloride).
+- **Identification:** Medium-sized vessels with insulated cylindrical or prismatic deck tanks and complex refrigeration plants, marked with "LPG" identification.
 
-## Port Careers - "Shore Side"
-Longshoremen
-•
-• Help move cargo at port
-• Appox. $25 -$41/hr or $60-90,000 if union
-Tug Boat Operators
-•
-• No educational requirements
-• Median salary - $97,000
-Pilots
-•
-• Meet ships outside of ports and pilot them into berths
-• Typically a graduate of a maritime college
-• Average salary nationwide - more than $400,000/year
-Marine Operations
-•
-• Direct traffic at the port
-• Salary ranges from $50k - 100K/year
+### 3.9 Passenger Ships
+- **Fleet Share:** 8.0% of the world fleet.
+- **Function:** Cruise tourism, passenger transit, and short-sea roll-on passenger (Ro-Pax) ferry services.
+- **Identification:** Distinctive multi-tiered superstructure with private balconies, lifeboats suspended in side recesses, and high speed capabilities.
 
-Port Careers, Cont.
-Customs and Border Protection
-•
-• Part of the Department of Homeland Security
-• Background check required
-• Approximate salary - $80,000/year
-Freight forwarding and Customs Brokerages
-•
-• See that cargo is move onwards towards its final destination
-• Average salary - $39,000/year
-Truck Driver
-•
-• Average salary - $50,000/year
-Others
-•
-• Marketing, Accounting, Human Resources, IT
+### 3.10 Offshore Vessels
+- **Fleet Share:** 9.0% of the world fleet.
+- **Function:** Platform Supply Vessels (PSVs) and Anchor Handling Tug Supply (AHTS) supporting offshore oil, gas, and floating wind installations.
+- **Identification:** Accommodation block and navigation bridge pushed forward, creating an expansive, flat aft working deck for containers, drilling mud, drill pipe, and subsea tools.
 
-## Offshore Careers
-Offshore Oil and Gas Industry
-•
-• Offshore platforms
-• Drillships
-• Supply vessels
-Offshore Wind Energy Industry
-•
-• Engineers
-• Windfarm installation
-• Research and design
-• Manufacturing
+### 3.11 Service Vessels
+- **Fleet Share:** 4.0% of the world fleet.
+- **Function:** Hydrographic research, marine scientific exploration, fiber-optic cable laying, dredge operations, and polar icebreaking.
+- **Identification:** Reinforced icebreaker bows, aft A-frame gantry cranes, specialized subsea winches, and dynamic positioning antennas.
 
-## Corporate Careers
-Maritime Law
-•
-• distinct body of law that governs maritime disputes
-Ship Broker
-•
-• negotiates between shipowners and charters for the carriage of goods
-Finance
-•
-• ex. Negotiate the sale/purchase of ships
-Hedge Funds
-•
-• Ex. involved in owning/chartering ships
-Ship Registries
-•
-• Vessels must be registered under the flag of a country.
-Classification Societies
-•
-• Ensure vessels are seaworthy and in compliance with applicable regulations
+### 3.12 Tugs
+- **Fleet Share:** 20.0% of the world fleet.
+- **Function:** Harborside ship assist, mooring, turning large container ships and bulkers in tight port channels, and offshore ocean towage.
+- **Identification:** Compact, heavily powered hulls equipped with 360-degree azimuthing stern drive (ASD) or Voith Schneider propulsion, high-performance winches, and thick rubber fendering encircling the bow and hull.
 
-## Maritime Academies
-United States Merchant Marine Academy, Kings Point
-•
-SUNY Maritime
-•
-Massachusetts Maritime Academy
-•
-Maine Maritime Academy
-•
-California State University Maritime Academy
-•
-Great Lakes Maritime Academy
-•
-Texas A&M Maritime Academy
-•
+---
 
-CSU Maritime:
-•
-"Within 10 years of starting at CSU Maritime, the school's alumni who
-•
-received federal financial aid earn a median annual income of $81,000.
-That's higher than Princeton ($75,100), which topped the 2015 U.S. News
-& World Report ranking. It's also a little more than neighboring Stanford
-University ($80,900) and well above the median income earned by
-graduates of every school in the University of California system."
-http://www.latimes.com/local/education/la-me-cal-state-maritime-
-•
-20151101-story.html
+## 4. Ship Visual Identification Guide
 
-## The Jones Act
-Merchant Marine Act of 1920 (P.L. 66-261)
-•
-Regulates maritime commerce in U.S. waters as well as between U.S.
-•
-ports.
-Requires that all goods being transported between U.S. ports be carried
-•
-by U.S. flagged vessels, built in the U.S., owned by U.S. citizens and
-crewed by U.S. citizens and permanent residents
+NAMEPA's educational curriculum includes five primary diagnostic visual recognition exercises:
+
+1. **Cellular Container Vessel:** Identified by modular container stacks, vertical bridge tower, and lack of deck cranes in mainline ports.
+2. **General Cargo Vessel:** Identified by twin heavy revolving cranes positioned between cargo holds and flat weather deck hatches.
+3. **Ro-Ro Vehicle Carrier:** Identified by high slab sides, enclosed vehicle decks, and massive stern ramp structure.
+4. **Liquefied Natural Gas (LNG) Carrier:** Identified by distinctive spherical tank domes protruding from the main deck or membrane insulated tanks with cryogenic piping arrays.
+5. **Passenger Cruise Vessel:** Identified by cascading stern balconies, multi-story glass promenades, and external lifeboat arrays.
+
+---
+
+## 5. Maritime Industry Careers and Compensation
+
+The maritime industry offers three core operational employment tracks—Shore-Side Port Careers, Seagoing Shipboard Careers, and Corporate/Offshore Professional Careers.
+
+### Comprehensive Compensation Matrix
+
+| Career Track | Specific Role | Educational & Credential Requirements | Typical Working Schedule | Benchmark Compensation (USD) |
+|--------------|---------------|---------------------------------------|--------------------------|------------------------------|
+| **Port / Shore-Side** | Harbor Pilot | Maritime Academy Degree + Master Mariner Unlimited + Extensive Local Apprenticeship | On-call rota by port | $400,000+ / year (nationwide avg.) |
+| **Port / Shore-Side** | Tug Boat Operator / Captain | USCG Merchant Mariner Credential + Towing Endorsement | Port shift schedule | $97,000 / year (median) |
+| **Port / Shore-Side** | Customs and Border Protection Officer | Federal Civil Service exam + Law Enforcement background clearance | Standard federal shift rota | $80,000 / year |
+| **Port / Shore-Side** | Longshoreman / Dockworker | Union qualification (ILWU / ILA) | Shift work per vessel call | $25 - $41 / hour ($60k - $90k/yr union) |
+| **Port / Shore-Side** | Marine Terminal Operations Specialist | Logistics / Maritime degree or port experience | Terminal shift rota | $50,000 - $100,000 / year |
+| **Port / Shore-Side** | Drayage Truck Driver | Commercial Driver's License (CDL-A) + TWIC card | Daily routes | $50,000 / year |
+| **Port / Shore-Side** | Freight Forwarder / Customs Broker | Brokerage license / international logistics certification | Standard business hours | $39,000 / year (entry) |
+| **Seagoing - Deck** | Master Mariner / Ship Captain | USCG Master Unlimited License + STCW | 3 months on / 3 months off | $200,000+ / year |
+| **Seagoing - Deck** | Master Mate | Senior Deck Officer License | 3 months on / 3 months off | $30,000 / month ($360,000/yr annualized) |
+| **Seagoing - Deck** | Chief Mate | USCG Chief Mate Unlimited | 3 months on / 3 months off | $27,000 / month |
+| **Seagoing - Deck** | Second Mate | USCG 2nd Mate Unlimited | 3 months on / 3 months off | $22,000 / month |
+| **Seagoing - Deck** | Third Mate | Maritime Academy Graduate + USCG 3rd Mate License | 3 months on / 3 months off | $17,000 / month |
+| **Seagoing - Deck** | Boatswain (Bosun) | Senior unlicensed deck mariner | 3-6 month contracts | $50,136 / year |
+| **Seagoing - Deck** | Able Seaman (AB) | USCG Merchant Mariner Credential (AB) | 3-6 month contracts | $39,908 / year |
+| **Seagoing - Deck** | Ordinary Seaman (OS) | Entry-level Merchant Mariner Credential | 3-6 month contracts | $25,497 / year |
+| **Seagoing - Engine** | Chief Engineer | USCG Chief Engineer Unlimited | 3 months on / 3 months off | $185,603 / year |
+| **Seagoing - Engine** | First Assistant Engineer | USCG 1st Assistant Engineer | 3 months on / 3 months off | $146,503 / year |
+| **Seagoing - Engine** | Second Assistant Engineer | USCG 2nd Assistant Engineer | 3 months on / 3 months off | $106,692 / year |
+| **Seagoing - Engine** | Third Assistant Engineer | Maritime Academy Graduate + USCG 3rd Assistant License | 3 months on / 3 months off | $84,479 - $97,290 / year |
+| **Seagoing - Engine** | Chief Mechanic / Machinist | Technical trade certification | Contract rota | $56,000 / year |
+| **Seagoing - Engine** | Oiler | QMED (Qualified Member of the Engine Department) | Contract rota | $45,560 / year |
+| **Seagoing - Engine** | Fitter | Certified marine welder / pipefitter | Contract rota | $43,916 / year |
+| **Seagoing - Engine** | Wiper | Entry-level engine department credential | Contract rota | $34,341 / year |
+| **Seagoing - Catering** | Chief Steward | Hospitality management / maritime sanitation | Contract rota | $39,000 - $96,000 / year |
+| **Seagoing - Catering** | Chief Cook | Culinary credential + food safety certification | Contract rota | $25,000 - $47,500 / year |
+| **Seagoing - Catering** | Second Cook | Culinary experience | Contract rota | $25,000 / year |
+| **Seagoing - Catering** | Utility / Dishwasher | Entry-level mariner document | Contract rota | $18,000 / year |
+| **Offshore Energy** | Subsea / Drilling Rig Engineer | Offshore engineering degree | 14-28 day offshore rotations | $110,000 - $180,000 / year |
+| **Corporate** | Admiralty / Maritime Attorney | Juris Doctor (JD) + Maritime Law specialization | Law firm practice | $130,000 - $350,000+ / year |
+| **Corporate** | Ship Broker (S&P / Chartering) | Degree in Maritime Economics / Commercial Shipping | Commercial trading hours | Base + Commissions ($80k - $500k+) |
+| **Corporate** | Classification Society Surveyor | Naval Architecture / Marine Engineering degree | Port & shipyard inspections | $85,000 - $140,000 / year |
+
+---
+
+## 6. Maritime Academies in the United States
+
+Professional deck and engine officers in the United States are predominantly educated through seven specialized federal and state maritime academies:
+
+1. **United States Merchant Marine Academy (USMMA):** Kings Point, New York (Federal Service Academy).
+2. **State University of New York Maritime College (SUNY Maritime):** Fort Schuyler, Bronx, New York.
+3. **Massachusetts Maritime Academy:** Buzzards Bay, Massachusetts.
+4. **Maine Maritime Academy:** Castine, Maine.
+5. **California State University Maritime Academy (Cal Maritime):** Vallejo, California.
+6. **Great Lakes Maritime Academy (Northwestern Michigan College):** Traverse City, Michigan.
+7. **Texas A&M Maritime Academy:** Galveston, Texas.
+
+### Earnings Benchmark: Cal Maritime Study
+A comprehensive survey reported by the *Los Angeles Times* highlighted the exceptional economic value of maritime academy educations:
+> "Within 10 years of starting at CSU Maritime, the school's alumni who received federal financial aid earn a median annual income of **$81,000**. That is higher than Princeton ($75,100), which topped the 2015 *U.S. News & World Report* ranking. It is also higher than neighboring Stanford University ($80,900) and well above the median income earned by graduates of every campus in the University of California system."
+
+---
+
+## 7. Regulatory Framework: The Jones Act (Merchant Marine Act of 1920)
+
+The **Merchant Marine Act of 1920** (Pub. L. 66-261, codified primarily at 46 U.S.C. Chapter 551), commonly known as the **Jones Act**, is the cornerstone statute regulating domestic maritime cabotage in the United States.
+
+### Four Statutory Requirements
+Under Section 27 of the Jones Act, all merchandise transported by water between points in the United States (including island territories such as Puerto Rico, Hawaii, and Alaska) must be transported on vessels that meet four strict criteria:
+1. **U.S. Built:** The vessel must have been constructed entirely in the United States (including all major components of the hull and superstructure).
+2. **U.S. Flagged:** The vessel must be registered and documented under the laws of the United States.
+3. **U.S. Owned:** At least 75% of the controlling interest in the owning entity must be owned by U.S. citizens.
+4. **U.S. Crewed:** All officers and at least 75% of the unlicensed crew members must be citizens of the United States or lawful permanent residents.
+
+### Strategic and Economic Purpose
+- **National Defense Readiness:** Maintains a domestic merchant marine fleet and skilled labor pool capable of serving as a naval auxiliary during times of armed conflict or national emergency.
+- **Shipyard Industrial Base:** Preserves American shipbuilding and repair yards, sustaining critical engineering and manufacturing capabilities.
+- **Environmental & Safety Standards:** Guarantees that vessels operating in U.S. coastal waters comply with stringent U.S. Coast Guard safety, environmental, and labor regulations.

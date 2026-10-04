@@ -1,73 +1,18 @@
 ---
-category: book
-commodities:
-- iron_ore
-- coal
-- grain
-- crude_oil
-- products
-- steel
-- gas
-date: null
-doc_id: book_the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org
-document_type: reference_book
-key_entities:
-- al-Muqaddasi
-- Abu 'Ali bin Hazim
-- Hatshepsut
-- Zheng He
-- Christopher Columbus
-- Hugo Grotius
-keywords:
-- maritime history
-- global trade
-- naval power
-- seafaring
-- shipbuilding
-- navigation
-- maritime technology
-- oceanic exploration
-market_tone: scholarly_historical
-regions:
-- china
-- brazil
-- australia
-- atlantic
-- pacific
-- meg
-- west_africa
-- europe
-- india
-- us_gulf
-- singapore
-- japan
-section_count: 80
-signals: {}
-source: book
-source_path: reports/The Sea and Civilization A Maritime History of the World (Lincoln
-  Paine) (z-lib.org).pdf
-summary: This text presents the table of contents and an extensive list of illustrations
-  for a comprehensive work on maritime history, tracing the evolution of seafaring
-  from ancient civilizations to the modern era. It covers pivotal periods including
-  the birth of global trade, European expansion, and the technological transition
-  to steam and steel naval power. The detailed list of artifacts and ships highlights
-  the diverse cultural and economic impact of the sea across different global regions.
-themes:
-- The Evolution of Global Commerce
-- Technological Advancements in Naval Architecture
-- Maritime Expansion and Geopolitics
-- Cultural and Artistic Representations of the Sea
-title: The Sea and Civilization A Maritime History of the World (Lincoln Paine) (z-lib.org)
-vessel_classes:
-- capesize
-- panamax
-- vlcc
-- container
+title: "The Sea and Civilization: A Maritime History of the World"
+author: "Lincoln Paine"
+publisher: "Alfred A. Knopf"
+year: 2013
+isbn: "978-1-4000-4409-2"
+pages: 744
+source: "corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md"
+category: "Maritime History / Global Commerce"
 ---
-## Summary
-This text presents the table of contents and an extensive list of illustrations for a comprehensive work on maritime history, tracing the evolution of seafaring from ancient civilizations to the modern era. It covers pivotal periods including the birth of global trade, European expansion, and the technological transition to steam and steel naval power. The detailed list of artifacts and ships highlights the diverse cultural and economic impact of the sea across different global regions.
 
-## The Sea and Civilization A Maritime History of the World (Lincoln Paine) (z-lib.org)
+# The Sea and Civilization: A Maritime History of the World
+
+**Author:** Lincoln Paine (Alfred A. Knopf, New York, 2013)
+
 Now one day, as I was sitting with Abu 'Ali bin Hazim and looking at the
 sea-we were on the shore at 'Adan-said he to me: "What is it with which
 you seem to me to be so preoccupied?"
@@ -88,11 +33,11 @@ AH / 985 CE)
 18 "Annihilation of Space and Time"
 19 Naval Power in Steam and Steel
 20 The Maritime World Since the 1950s
-Notes
-Bibliography
-Index
-A Note About the Author
-Other Books by This Author
+## Notes
+## Bibliography
+## Index
+## A Note About the Author
+## Other Books by This Author
 Illustrations
 
 List of Illustrations
@@ -200,51 +145,36 @@ Early Modern Europe
 Asia and the Pacific at the Turn of the Millennium
 
 Pre-Columbian South America and the Caribbean
-Click here to see a larger image.
 
 Pre-Columbian North and Central America
 The shaded area indicates the range of the paper birch (Betula papyrifera), or canoe birch, and
 thus of the birchbark canoe.
-Click here to see a larger image.
 
 From Mesopotamia to the Indus Valley
-Click here to see a larger image.
 
 ## The Bronze Age Near East
-Click here to see a larger image.
 
 ## The Classical Mediterranean
-Click here to see a larger image.
 
 ## The Muslim Indian Ocean
-Click here to see a larger image.
 
 East and Southeast Asia
-Click here to see a larger image.
 
 ## The Medieval Mediterranean
-Click here to see a larger image.
 
 Europe Through the Viking Age
-Click here to see a larger image.
 
 ## Late Medieval Europe
-Click here to see a larger image.
 
 ## The Monsoon Seas
-Click here to see a larger image.
 
 Asia and the Pacific in the Early Modern Period
-Click here to see a larger image.
 
 ## The Atlantic World
-Click here to see a larger image.
 
 ## Early Modern Europe
-Click here to see a larger image.
 
 Asia and the Pacific at the Turn of the Millennium
-Click here to see a larger image.
 
 ## Acknowledgments
 No one can write a world history without support and advice from a diverse
@@ -22987,7 +22917,7 @@ Ancient Near East, 169.
 46. the Barkal Stela: Hornung, History of Ancient Egypt, 77, 90.
 47. "The People of the Isles": Casson, Ancient Mariners, 17, 20.
 
-## 3. Bronze Age Seafaring
+3. Bronze Age Seafaring
 1. Enki: Kramer and Maier, Myths of Enki, 3.
 2. Ennugi: Dalley, Myths from Mesopotamia: Epic of Gilgamesh,
 tablet XI, p. 110.
@@ -24366,7 +24296,7 @@ period, see Agius, Classic Ships of Islam, 187-202.
 89. "the risings and settings": Ahmad ibn Majid, in Tibbetts, Arab
 Navigation, 77.
 
-## 11. China Looks Seaward
+11. China Looks Seaward
 1. Tang cargo: Flecker, "A Ninth-Century ad Arab or Indian
 Shipwreck in Indonesia"; Zheng, China on the Sea, 1, 6, 33; and
 Worrall, "China Made."
@@ -24934,7 +24864,7 @@ therefore length, of the hull.
 He, 104-5. Zheng He organized but did not accompany the
 second expedition.
 
-## 14. The World Encompassed
+14. The World Encompassed
 1. Some of the islands: Abulafia, "Neolithic Meets Medieval," 255,
 259.
 2. evidence of human habitation: Pliny, Natural History, 6.37.202-5
@@ -25609,7 +25539,7 @@ Charles, 232.
 114. Fighting Instructions: Benjamin and Tifrea, "Learning by
 Dying," 987.
 
-## 17. Northern Europe Ascendant
+17. Northern Europe Ascendant
 1. an apparently straightforward mission: Walter, Voyage Round the
 World.
 2. "soldiers, who from their age": Anson, Voyage Round the World,

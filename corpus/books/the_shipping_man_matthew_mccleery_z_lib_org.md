@@ -1,74 +1,21 @@
 ---
-category: book
-commodities:
-- coal
-- grain
-- bauxite
-- crude_oil
-- products
-- steel
-- gas
-date: null
-doc_id: book_the_shipping_man_matthew_mccleery_z_lib_org
-document_type: reference_book
-key_entities:
-- Robert Fairchild
-- Spyrolaki
-- Eureka! Capital
-- Marine Money
-- Jim Lawrence
-- Baltic Dry Cargo Index
-keywords:
-- ship finance
-- Baltic Dry Index
-- BDI
-- vessel financing
-- hedge fund
-- maritime industry
-- capital formation
-market_tone: opportunistic_and_volatile
-regions:
-- china
-- brazil
-- australia
-- atlantic
-- meg
-- europe
-- india
-- us_gulf
-- singapore
-- japan
-section_count: 2
-signals: {}
-source: book
-source_path: reports/The Shipping Man (Matthew McCleery) (z-lib.org).pdf
-summary: Hedge fund manager Robert Fairchild discovers the international shipping
-  industry by chance after noticing a 97% drop in the Baltic Dry Cargo Index. Seeing
-  a historic contrarian investment opportunity, he is quickly contacted by a mysterious
-  Greek ship owner named Spyrolaki regarding distressed vessel acquisitions. The narrative
-  introduces the high-stakes, volatile world of ship finance through the lens of an
-  outsider looking to recover from past missed opportunities.
-themes:
-- contrarian investing
-- market volatility
-- serendipity
-- distressed assets
-- international trade
-title: The Shipping Man (Matthew McCleery) (z-lib.org)
-vessel_classes:
-- capesize
-- handysize
-- vlcc
-- aframax
-- container
+title: "The Shipping Man"
+author: "Matthew McCleery"
+publisher: "Marine Money, Inc."
+year: 2011
+isbn: "978-0-9847144-0-7"
+pages: 288
+source: "corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md"
+category: "Maritime Finance / Industry Narrative"
 ---
-## Summary
-Hedge fund manager Robert Fairchild discovers the international shipping industry by chance after noticing a 97% drop in the Baltic Dry Cargo Index. Seeing a historic contrarian investment opportunity, he is quickly contacted by a mysterious Greek ship owner named Spyrolaki regarding distressed vessel acquisitions. The narrative introduces the high-stakes, volatile world of ship finance through the lens of an outsider looking to recover from past missed opportunities.
 
-## The Shipping Man (Matthew McCleery) (z-lib.org)
+# The Shipping Man
+
+**Author:** Matthew McCleery (Marine Money, Inc.)
+
 specializing in the arrangement of debt and equity financing for vessels. He
 can be contacted at mmccleery@marinemoney.com.
-Acknowledgments
+## Acknowledgments
 In delivering one of his well-known pre-conference dinner toasts, I once
 heard my partner Jim Lawrence remark, "Your friends and your family
 probably don't understand what you do for a living, but we at Marine

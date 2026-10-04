@@ -71,6 +71,12 @@ vessel_classes:
 - lpg
 - container
 ---
+
+# Maritime Economics (3rd Edition)
+
+**Author**: Martin Stopford  
+**Publisher**: Routledge (Taylor & Francis Group)  
+
 ## Summary
 Maritime Economics by Martin Stopford is a comprehensive academic and practical guide to the global shipping industry, covering 5,000 years of maritime history and modern economic mechanics. The third edition provides updated analysis on shipping cycles, finance, trade geography, and market forecasting, drawing on the author's extensive experience during both industry booms and recessions. It serves as a definitive reference for understanding how sea transport functions as a sophisticated logistics service within a competitive classical market framework.
 
@@ -500,14 +506,23 @@ where the ports are not known in advance they are paid by the charterer.
 xxiv
 
 Sea Transport
-and the Global
-Economy
+
+---
+
+# Part 1: Introduction to Shipping
+
+---
+
+## Chapter 1: Sea Transport and the Global Economy
+
 Wonders are many on earth, and the greatest of these
 Is man, who rides the ocean and takes his way
 Through the deeps, through wind-swept valleys of perilous seas
 That surge and sway.
 (The chorus in Sophocles'Antigone, 422 BC, trans. R.C. Jebb)
-1.1 INTRODUCTION
+
+### 1.1 Introduction
+
 Characteristics of the business
 Shipping is a fascinating business. Since the first cargoes were moved by sea more than
 5,000 years ago it has been at the forefront of global development. The epic voyages of
@@ -570,10 +585,10 @@ six weeks time carries and brings back between London and Edinburgh nearly
 men, and sailing between the ports of London and Leith, frequently carries and
 brings back 200 ton weight of goods.7
 
-## INTRODUCTION 1.1
+### 1.1 Introduction
 
-That is a labour productivity benefit of 15 times. By exploiting economies of scale and P
-integrated transport systems, shipping continues to demonstrate Adam Smith's insight. T
+That is a labour productivity benefit of 15 times. By exploiting economies of scale and
+integrated transport systems, shipping continues to demonstrate Adam Smith's insight.
 Today a lorry carrying one 40-foot container from Felixstowe to Edinburgh might be
 competing with a small container-ship carrying 200 containers. Or a truck hauling 40 tons of oil along our congested highways competes with a coastal oil tanker carrying 4,000
 tons of oil by sea. Ships now travel at speeds that trucks can hardly match on congested
@@ -636,8 +651,8 @@ rather than China, India or Japan, which were also major civilizations during th
 period. Fernand Braudel, the French trade historian, distinguished the world economy
 from aworld economy which ‘only concerns a fragment of the world, an economically
 autonomous section of the planet able to provide for most of its own needs, a section to
-which its internal links and exchanges give a certain organic unity'.9From this perspective shipping's achievement, along with the airlines and telecommunications, was to link P
-Braudel's fragmented worlds into the single global economy we have today. T
+which its internal links and exchanges give a certain organic unity'.9From this perspective shipping's achievement, along with the airlines and telecommunications, was to link
+Braudel's fragmented worlds into the single global economy we have today.
 The discussion in the remainder of this chapter is divided into four sections. The first
 era, stretching from 3000 BCto AD1450, is concerned with the early history of shipping, and the development of trade in the Mediterranean and north-western Europe. This
 takes us up to the middle of the fifteenth century when Europe remained completely
@@ -653,7 +668,9 @@ economies and their colonies. A highly flexible transport system based on liners
 tramps was introduced and productivity increased enormously. Finally, during
 the second half of the twentieth century liners and tramps were replaced by new transport systems making use of mechanization technology - containerization, bulk and
 specialized shipping.
-1.2 THE ORIGINS OF SEA TRADE, 3000 BC TO AD 1450
+
+### 1.2 The Origins of Sea Trade, 3000 Bc to Ad 1450
+
 The beginning - the Arabian Gulf
 The first sea trade network we know of was developed 5,000 years ago between
 Mesopotamia (the land between the Tigris and Euphrates rivers), Bahrain and the Indus
@@ -672,8 +689,8 @@ Figure 1.2
 develop. Bahrain, a barren Early sea trade, 2000 BC
 
 ## THE ORIGINS OF SEA TRADE,3000 BCTO AD 1450 1.2 C
-This traffic grew steadily in the first millennium BC, and as local resources were P
-depleted they travelled further for trading goods. After the discovery of Spain and the T
+This traffic grew steadily in the first millennium BC, and as local resources were
+depleted they travelled further for trading goods. After the discovery of Spain and the
 settlement of Sades (Cadiz) around 1000 BC, the Iberian peninsula became a major
 source of metal for the economies of the eastern Mediterranean, consolidating Tyre's commercial domination in the Orient. On land, the domestication of camels made it
 possible to establish trade routes between the Mediterranean and the Arabian Gulf and
@@ -772,7 +789,9 @@ growth. Russia and the Baltic states were the primary source, exporting fish, wo
 timber, corn and tallow, which was replacing vegetable oil in lamps. As this trade grew,
 Hamburg and Lübeck, which were at the crossroads between the NW Atlantic and the
 Baltic, grew prosperous and organized themselves into the Hanseatic League.
-1.3 THE GLOBAL ECONOMY IN THE FIFTEENTH CENTURY
+
+### 1.3 The Global Economy in the Fifteenth Century
+
 By the fifteenth century there were four developed areas of the world: China, with a populationof 120 million; Japan, with 15 million; India, with a population of 110 million;
 and Europe, with a population of about 75 million. But the only links between them
 were the tenuous silk and spice routes through Constantinople and Tabriz to China, and
@@ -787,10 +806,10 @@ ships so quickly which must have triggered quite a shipbuilding boom). Contempor
 Ming texts suggest that the treasure ships were over 400 feet long with a beam
 of 150 feet, four times the size of European ocean-going ships, which were typically
 
-## OPENING UP GLOBAL TRADE AND COMMERCE,1450-1833 1.4
+### 1.4 Opening Up Global Trade and Commerce, 1450-1833
 
-100 feet long with 300 tons capacity, but there are doubts about whether such P
-large wooden hulls could have been built.25 However, the Chinese vessels were T
+100 feet long with 300 tons capacity, but there are doubts about whether such
+large wooden hulls could have been built.25 However, the Chinese vessels were
 certainly technically advanced, with multiple masts, a technique only just developed
 by the Portuguese, and up to 13 watertight compartments. In sail technology, the
 Europeans still relied on square sail rigs on their ocean vessels, whilst the Chinese
@@ -809,7 +828,9 @@ system we have today. What followed was a major shift in global trade as the nat
 of NW Europe, whose route to the East was now blocked by the Ottoman Empire,
 discovered the sea route round the Cape and used their naval superiority to create and
 control global trade routes.
-1.4 OPENING UP GLOBAL TRADE AND COMMERCE, 1450-1833
+
+### 1.4 Opening Up Global Trade and Commerce, 1450-1833
+
 Europe discovers the sea route to Asia
 In just a few years in the late fifteenth century, Europe laid the foundation for a global
 sea trade network which would dominate shipping for the next 500 years. It is hard to
@@ -846,8 +867,8 @@ they built up the knowledge about the Atlantic they needed to make the journey t
 the east.
 The Portuguese expeditions
 At first progress was slow. In the early 1400s Henry ‘the Navigator', King of Portugal,
-a small barren land with a lengthy coastline on the southern tip of Atlantic Europe, became obsessed with finding a way around Africa.31 His first success came in 1419 P
-when an expedition was blown off course and discovered Madeira. Discovery of T
+a small barren land with a lengthy coastline on the southern tip of Atlantic Europe, became obsessed with finding a way around Africa.31 His first success came in 1419
+when an expedition was blown off course and discovered Madeira. Discovery of
 the Azores, the Canaries and the Cape Verde Islands soon followed,32 providing the
 fifteenth-century explorers with a base for their voyages into the Atlantic. Another big step was taken in 1487 when the Portuguese explorer Bartholomew Diaz successfully
 sailed down the coast of Africa and rounded the Cape of Good Hope. However, the
@@ -931,10 +952,10 @@ Gulf. The trickle of trade between East and West turned into a torrent, as cargo
 each carrying a few hundred tons of cargo, plied the new trade route around the
 Cape of Good Hope.
 
-New directions in European trade P
+New directions in European trade
 In less than a decade Europe had established sea routes to every part of the globe and E
-set about turning these discoveries to its advantage. Most trade in medieval Europe R
-was in local goods, and trading opportunities were limited by the rather similar climate 1
+set about turning these discoveries to its advantage. Most trade in medieval Europe
+was in local goods, and trading opportunities were limited by the rather similar climate
 and technology of these countries. The voyages of discovery opened new markets
 for European manufactured goods and new sources of raw materials such as wool,
 dyestuffs, sugar, cotton, tea, coffee and of course the much sought-after spices. Over the
@@ -986,8 +1007,8 @@ Dutch. Many of the merchants fled to Amsterdam, which rapidly took over as the
 maritime capital.
 Amsterdam and the Dutch trade
 Amsterdam's advantage was both geographical and economic. Its location as a maritime
-centre was excellent, with the Zuider Zee providing superb protected access for big ships, though it was difficult to navigate. It also had the support of the whole Dutch P
-seaboard open to maritime trade, and between 1585 and 1620 took over from Genoa T
+centre was excellent, with the Zuider Zee providing superb protected access for big ships, though it was difficult to navigate. It also had the support of the whole Dutch
+seaboard open to maritime trade, and between 1585 and 1620 took over from Genoa
 in the South and Antwerp in the North as the centre of a network of sea trade
 stretching from the Baltic to India. By 1701 a French guide reported 8,000 ships in
 Amsterdam harbour ‘whose masts and rigging were so dense that it seems the sun
@@ -1030,7 +1051,7 @@ authority.52This strategy was very successful and the company rapidly grew in in
 obtaining a monopoly in the trade with Malaysia, Japan and China.
 
 P By 1750 Amsterdam's position as an entrepôt was waning as more trade went direct
-Tand the industrial revolution moved the hub of maritime trade to Britain. The steam
+and the industrial revolution moved the hub of maritime trade to Britain. The steam
 engine made it possible to use coal to power machinery and as machines replaced people
 in manufacturing, the output of goods increased. The most immediate application was in that staple of international trade, textiles. Over the next 50 years, British manufacturers
 automated all the most skilled and time-consuming aspects of textile manufacture,
@@ -1070,7 +1091,7 @@ returning with tobacco, rice, cotton, corn, timber and naval stores. There was a
 active trade with British North America and Newfoundland to supply the needs of the
 fishermen in Hudson's Bay.
 
-Table 1.1 British ships entered and cleared in foreign trade, 1792 P
+Table 1.1 British ships entered and cleared in foreign trade, 1792
 Number of ships E
 Entered Cleared Total % Average Tonnage
 Baltic tradesa 2,746 1,367 4,113 27% 186
@@ -1147,11 +1168,13 @@ between 29 and 47 days. Similarly, the trip from Liverpool to Marseilles was 37 
 His worst experience was a winter passage from Liverpool to New York, which took
 119 days.61The ships were generally around 300-400 tons in size, though the East India
 
-## LINER AND TRAMP SHIPPING,1833-1950 1.5
+### 1.5 Liner and Tramp Shipping, 1833-1950
 
-Company operated a fleet of 122 vessels averaging 870 tons. This unsatisfactory state P
-of affairs was about to change. T
-1.5 LINER AND TRAMP SHIPPING, 1833-1950
+Company operated a fleet of 122 vessels averaging 870 tons. This unsatisfactory state
+of affairs was about to change.
+
+### 1.5 Liner and Tramp Shipping, 1833-1950
+
 Four innovations transform merchant shipping
 In the nineteenth century shipping changed more than in the previous two millennia.
 A Venetian master sailing into London in 1800 would soon have felt at home. The
@@ -1184,10 +1207,10 @@ cargo became available and they could offer cheaper freight.
 Growth of sea trade in the nineteenth century
 The scale of the change is illustrated by the speed of trade growth. Sea trade increased
 from 20 million tons in 1840 to 140 million tons in 1887, averaging 4.2% per year (Table 1.2).
-Ton miles also increased as the trades with the Baltic and the Mediterranean were
+on miles also increased as the trades with the Baltic and the Mediterranean were
 
-In addition to cargo, as global trade developed so did passenger traffic and mail and P
-there was tremendous commercial pressure to speed up these services. With a 60-day T
+In addition to cargo, as global trade developed so did passenger traffic and mail and
+there was tremendous commercial pressure to speed up these services. With a 60-day
 round-voyage time on the North Atlantic, doing business was difficult and there was a
 market for fast transit. The passenger trade was also swelled by emigrants from Europe to the USA and Australia. Numbers increased from 32,000 a year between 1825 and
 1835 to 71,000 a year between 1836 and 1845, and 250,000 a year between 1845 and
@@ -1270,8 +1293,8 @@ With each step forward in steam technology the economic pressure on sailing ship
 increased, but they proved surprisingly resilient in long-haul bulk trades such as wool,
 rice, grain, nitrates and coal. For example, in 1891 there were still 77 sailing vessels in
 
-Sydney loading wool for London and the last merchant sailing ship, the Elakoon, was P
-not converted to motor power until 1945. There were other technical changes along the T
+Sydney loading wool for London and the last merchant sailing ship, the Elakoon, was
+not converted to motor power until 1945. There were other technical changes along the
 way, though none so fundamental. The first deep sea diesel-powered ship, the Selandia,
 went into service in 1912, and over the next 50 years the diesel engine replaced the steam engine, except in the most powerful ships. In the 1930s welding started to replace
 rivets in hull construction, and in the 1970s automation halved the number of crew
@@ -1358,8 +1381,8 @@ of cargoes being shipped by sea in the mid- to late nineteenth century is shown 
 top of the diagram and included bulks,liquids, general cargo, passengers and, later in the
 century, refrigerated cargo. Passengers were the cream cargo which was most sought
 after, and one segment of the business, the passenger liners, was designed to provide
-fast transport on the busy routes across the Atlantic and to the Far East. The passenger liners built for these trades P
-were fitted with passenger T
+fast transport on the busy routes across the Atlantic and to the Far East. The passenger liners built for these trades
+were fitted with passenger
 accommodation and were
 usually relatively fast, operating to a published
 schedule. Cargo liners also
@@ -1434,10 +1457,10 @@ Java 2,697 1865 13 85 1,100 160 1,100
 Bothnia 4,556 1874 13 63 3,000 340 940
 Source: Fayle (1933, p.241)
 
-The cargo liner services P
+The cargo liner services
 The rapidly growing trade in manufactures and raw materials across the Atlantic and E
-between the European states and their empires in the Far East, Oceania, Africa and R
-South America created a demand for fast, cheap and regular cargo transport services. 1
+between the European states and their empires in the Far East, Oceania, Africa and
+South America created a demand for fast, cheap and regular cargo transport services.
 To deal with this the shipping industry developed a sophisticated system of cargo liner
 services using ships designed to transport the complex mix of passengers, mail and
 cargoes appearing as the international economy grew in the nineteenth century,
@@ -1473,8 +1496,8 @@ companies were highly visible organizations with offices or agencies in the port
 served. Companies such as P&O, Blue Funnel, and Hamburg Süd became household
 names. Their prestigious office buildings housed teams of administrators, naval architects and operations staff who planned and directed fleets of a hundred ships or more as
 
-Brokers circulated details of ships and cargoes at the Baltic, struck deals and cabled the P
-terms to their principals in the briefest possible form. T
+Brokers circulated details of ships and cargoes at the Baltic, struck deals and cabled the
+terms to their principals in the briefest possible form.
 London shipbroking companies were the intermediaries in the system.81 The
 history of H. Clarkson & Co. Ltd records that in the 1870s Leon Benham, the com- pany's leading broker, ‘was in constant attendance at the Baltic Exchange. Several times
 a day he would return to the office to despatch telegrams, invariably drafted from
@@ -1520,7 +1543,7 @@ to port, carrying whatever cargoes became available, though by the early twentie
 century they were mainly carrying bulk commodities. The breakdown of cargoes in
 
 P Table 1.8 British deep-sea tramp shipping cargoes, 1935 Table 1.8 shows that
-Tby 1935 coal and
+by 1935 coal and
 E Cargo Voyages Cargo tons grain accounted for
 two-thirds of the ton-
 1 Coal and coke 1,873 12,590,000
@@ -1564,8 +1587,8 @@ vegetable oils, cabins for 20 or more passengers and heavy lift cranes for awkwa
 cargoes. However, the basic tramp design was instantly recognizable.
 Regulation of shipping
 As the volume of business increased so did the framework of regulations imposed
-by the insurance industry. In the eighteenth century the London insurance industry developed a system to check that the ships they insured were soundly built and in good P
-condition. By the early nineteenth century Lloyd's Register, which had started life in the T
+by the insurance industry. In the eighteenth century the London insurance industry developed a system to check that the ships they insured were soundly built and in good
+condition. By the early nineteenth century Lloyd's Register, which had started life in the
 1760s as a register of ships, had assumed the role of setting standards and issuing
 classification certificates. After a major reorganization in 1834, 63 surveyors were appointed and they made a complete resurvey of the 15,000 ships in the Register. Any
 new vessel for which an A1 classification was sought must undergo ‘a survey under
@@ -1590,7 +1613,9 @@ merchant fleet, was used by many other countries as the template for enacting th
 own maritime law providing the basis for a maritime legal system which was reasonably consistent between countries. The first formal step in this direction was the
 Law of the Sea conference held in Washington in 1896, listing an agenda of items to
 regularize shipping activities.
-1.6 CONTAINER, BULK AND AIR TRANSPORT, 1950-2006
+
+### 1.6 Container, Bulk and Air Transport, 1950-2006
+
 The rationale for sea transport integration
 By 1950 the liner and tramp system had worked successfully for a century and it was
 hard to believe that it could suddenly disappear, but that is exactly what happened.
@@ -1602,7 +1627,7 @@ the size of transport operations to take advantage of economies of scale.88As a 
 sailed confidently into the 1950s. The passenger liners disappeared in a decade, or were
 converted into cruise ships, and the cargo liners and tramps were gradually replaced by
 
-Pthe new transport systems
+the new transport systems
 Tillustrated in Figure 1.10,
 using technology already
 well established in land- based industries such as
@@ -1637,7 +1662,7 @@ shipping services. Thus the foundations were laid for a more efficient shipping 
 and logistics to the ever-changing pattern of seaborne trade.
 The new trade environment created at Bretton Woods
 The change started with the new trade strategy adopted by the Western nations after the
-Second World War. Since the early 1940s the United States had been determined that after the war the restrictions of the colonial system should be removed, providing free P
+Second World War. Since the early 1940s the United States had been determined that after the war the restrictions of the colonial system should be removed, providing free
 access to global markets and raw materials. In July 1941 a memorandum from the US T
 Council on Foreign Relations argued that to achieve this, the world needed financial
 institutions capable of ‘stabilising currencies and facilitating programmes of capital investment in backward and underdeveloped regions'.89 At the Bretton Woods
@@ -1678,10 +1703,10 @@ Atlantic service, but two years after it was delivered in 1968 the jumbo jets ca
 service and it mainly served as a cruise liner. The passenger liners of the 1950s, built
 for speed, either went to the scrapyard or were converted into cruise liners offering a
 
-## CONTAINER,BULK AND AIR TRANSPORT,1950-2006 1.6
+### 1.6 Container, Bulk and Air Transport, 1950-2006
 
-South Korea, which embarked on a programme of industrial growth. Emulating Japan, P
-it rapidly expanded its heavy industries such as steel shipbuilding and motor vehicles. T
+South Korea, which embarked on a programme of industrial growth. Emulating Japan,
+it rapidly expanded its heavy industries such as steel shipbuilding and motor vehicles.
 Then, in the 1980s, after two decades of total isolation and many centuries of restricted
 contact with the West, the Chinese economy opened its doors to capitalism and trade.
 There followed a period of remarkable economic growth, coupled with a move towards
@@ -1760,8 +1785,8 @@ better smoothness and improved longevity for tank structures.
 Bulk shipping also benefited from improving communications. During this period
 the position of the Baltic Exchange as a central market for shipping was undermined by
 improved communications including direct-dial telephony, broadcast telex, fax and
-e-mail. It was no longer necessary to meet face-to-face to fix ships. Instead owners, brokers and cargo agents used telex messages to distribute cargo/position lists and P
-negotiations were handled by phone. In the 1970s computerized work stations allowed T
+e-mail. It was no longer necessary to meet face-to-face to fix ships. Instead owners, brokers and cargo agents used telex messages to distribute cargo/position lists and
+negotiations were handled by phone. In the 1970s computerized work stations allowed
 telex or fax messages to be sent by the user and also provided access to databases of
 ship positions, vessel details and voyage estimating programs. PC networks, which appeared in the 1980s, made these facilities available cheaply to even the smallest
 companies, and modems gave access to the office workstation from home. The final
@@ -1857,7 +1882,9 @@ recession of the 1980s (see Chapter 4) when even the most efficient shipowners h
 of running ships that were ‘old and corroded, structurally weak'.101 By the 1990s governments, which had raised no real objection to the growth of the independent shipping
 industry during the earlier period, became concerned about the quality standards and the
 safety of the ships which operated in their national waters.
-1.7 LESSONS FROM 5,000 YEARS OF COMMERCIAL SHIPPING
+
+### 1.7 Lessons from 5,000 Years of Commercial Shipping
+
 So that brings us to the end of the Westline. From the early sea trade in the Lebanon
 5,000 years ago, the line has now arrived at China, and is heading through SE Asia to
 India, the Middle East, Central Asia, Russia and eastern Europe. The shipping industry
@@ -1880,8 +1907,8 @@ become more than ever before an integral part of the process of globalization.
 Third, shipping prospers during periods of political stability when the world is
 prosperous and stable. For example, we saw how the Mediterranean trade prospered
 
-## SUMMARY 1.8 when the Roman Empire provided safe passage, and declined when the Pax Romana P
-broke down in the third century. Similarly the stability provided by the European T
+when the Roman Empire provided safe passage, and declined when the Pax Romana 
+broke down in the third century. Similarly the stability provided by the European
 empires from 1850 to 1950 created a framework in which the liner and tramp system
 could operate. Then a new period of globalization in the post-Bretton Woods era following the Second World War did the same sort of thing and once again the shipping business
 had to adapt. So the lesson is that the starting-point for any future analysis is not
@@ -1901,7 +1928,9 @@ understand the evolutionary nature of change. The die may be cast, but it is oft
 years before the real consequences of change become apparent. Today we are in a phase
 of transition created by globalization which is, in its own way, as revolutionary as the
 voyages of discovery five hundred years ago.
-1.8 SUMMARY
+
+### 1.8 Summary
+
 In this chapter we examined how shipping developed over the last 5,000 years. It turns
 out that today's trade network is just a snapshot taken as the world economy creeps jerkily
 along its evolutionary path. The pace is usually too slow for contemporaries to see
@@ -1920,8 +1949,8 @@ century. Innovations in ship design, shipbuilding and global communications made
 possible for shipping to be conducted as a global industry, initially through the Baltic
 Exchange, whilst reliable steamships and technical innovations such as the Suez Canal
 
-Pmade it possible for liner companies to operate regular services. For the next century
-Ttrade grew rapidly, focused around the colonial empires of the European states and the
+made it possible for liner companies to operate regular services. For the next century
+trade grew rapidly, focused around the colonial empires of the European states and the
 framework of sea trade was radically changed.
 Finally in the second half of the twentieth century another wave of economic and tech- nical change was triggered by the dismantling of the colonial empires which were
 replaced by the free trade economy initiated at Bretton Woods. Manufacturers set out to
@@ -1938,9 +1967,10 @@ become a tightly knit global business community, built on communications and fre
 trade. Perhaps that will change. But it is hard to disagree with Adam Smith that, whatever the circumstances ‘such therefore are the advantages of water transport that …this
 conveniency opens the whole world to the produce of every sort of labour'.102
 
-The Organization
-of the Shipping
-Market
+---
+
+## Chapter 2: The Economic Organization of the Shipping Market
+
 Shipping is an exciting business, surrounded by many false beliefs, misconceptions and even
 taboos … The facts of the matter are straightforward enough and, when stripped of their
 emotional and sentimental overtones in clinical analysis, are much less titillating than the
@@ -1948,7 +1978,9 @@ popular literature and maritime folklore lead one to expect.
 (Helmut Sohmen, ‘What bankers always wanted to know about shipping but were afraid to
 ask', address to the Foreign Banks'Representatives Association, Hong Kong, 27 June 1985.
 Reprinted in Fairplay, London, 1 August 1986)
-2.1 INTRODUCTION
+
+### 2.1 Introduction
+
 Our aim in this chapter is to sketch the economic framework of the shipping industry.
 Like the street map of a city, it will show how the different parts of the maritime
 business fit together and where shipping fits into the world economy. We will also try
@@ -1967,9 +1999,8 @@ shipping is ultimately a group of people - shippers, shipowners, brokers, shipbu
 bankers and regulators - who work together on the constantly changing task of transporting cargo by sea. To many of them shipping is not just a business. It is a fascinating
 way of life.
 
-## THE ORGANIZATION OF THE SHIPPING MARKET
+### 2.2 Overview of the Maritime Industry
 
-P 2.2 OVERVIEW OF THE MARITIME INDUSTRY
 In 2005 the shipping industry transported 7.0 billion tons of cargo between 160 countries.
 It is a truly global industry. Businesses based in Amsterdam, Oslo, Copenhagen,
 London, Hamburg, Genoa, Piraeus, Dubai, Hong Kong, Singapore, Shanghai, Tokyo,
@@ -2011,9 +2042,9 @@ is a major industry.
 Supporting these core activities are the shipbuilding and marine equipment industries. There are over 300 large merchant shipyards building vessels over 5,000 dwt
 worldwide, and many more small ship- and boatbuilding yards with a turnover of
 
-## OVERVIEW OF THE MARITIME INDUSTRY 2.2
+### 2.2 Overview of the Maritime Industry
 
-Table 2.1 Marine activities, 1999-2004 P
+Table 2.1 Marine activities, 1999-2004
 Turnover US$ m.a E
 Growth Share in
 US$ millions 1999 2004 99-04 (% p.a.) 2004% 2
@@ -2060,7 +2091,7 @@ a very large figure in comparison with previous years.4 In addition, a network o
 repair yards maintain merchant, naval and offshore ships. The shipyards are supported
 by the marine equipment manufacturers, paint manufacturers and suppliers of the host
 
-Pof equipment needed to construct and maintain the complex mechanical structures
+of equipment needed to construct and maintain the complex mechanical structures
 Twhich we refer to as merchant ships. Their turnover in 2004 was about $90 billion.
 A third group of businesses are concerned with marine resources, mainly oil and gas
 which turns over about $113 billion per annum. Marine fisheries, the fourth group, are also very significant, including fishing, aquaculture, seaweed and seafood processing.
@@ -2070,7 +2101,9 @@ such as insurance, shipbroking, banking, legal services, classification and publ
 Whilst it is doubtful whether any of these global figures are very accurate, they provide
 a starting point by putting the businesses we will study in this volume into the context
 of the marine industry as a whole.
-2.3 THE INTERNATIONAL TRANSPORT INDUSTRY
+
+### 2.3 The International Transport Industry
+
 The modern international transport system consists of roads, railways, inland waterways,
 shipping lines and air freight services, each using different vehicles (see Table 2.2). In
 practice the system falls into three zones: inter-regional transport, which covers deep-sea
@@ -2095,8 +2128,8 @@ Road Lorry
 Rail Train
 Source: Martin Stopford 2007
 
-## THE INTERNATIONAL TRANSPORT INDUSTRY 2.3 electronic goods, processed textiles, fresh fruit, vegetables and automotive spare parts. P
-Since the 1960s air freight has grown at over 6% per annum, reaching 111 billion ton T
+electronic goods, processed textiles, fresh fruit, vegetables and automotive spare parts. 
+Since the 1960s air freight has grown at over 6% per annum, reaching 111 billion ton
 miles (btm) by 2005. Maritime trade has been growing more slowly, averaging 4.2%
 growth per annum over the same period, but the volume of cargo is much larger.
 Compared with the 28.9 trillion ton miles of maritime cargo in 2005, air freight still
@@ -2174,9 +2207,10 @@ versa. One way or another, the driving force which guides the development of the
 transport systems is the quest to win more business by providing cheaper transport and
 a better service.
 
-## CHARACTERISTICS OF SEA TRANSPORT DEMAND 2.4
+### 2.4 Characteristics of Sea Transport Demand
 
-2.4 CHARACTERISTICS OF SEA TRANSPORT DEMAND
+### 2.4 Characteristics of Sea Transport Demand
+
 The sea transport product E
 The merchant shipping industry's product is transport. But that is like saying that restau- rants serve food. It misses out the qualitative part of the service. People want different
 food for different occasions, so there are sandwich bars, fast-food chains and cordon
@@ -2253,7 +2287,7 @@ theme we will develop in Chapter 10 where we examine the principles underlying
 maritime trade. For the present we can simply note that these remote clusters of expertise are reliant on cheap and efficient transport to deliver their products to market, and
 
 Pbusiness cycle. Below them are listed the end markets for the goods and services produced
-Tby the world economy, loosely classified as companies and consumers.
+by the world economy, loosely classified as companies and consumers.
 This diversity of cargo makes analysing trade flows between these industries complex.
 Whilst primary materials, such as oil, iron ore and coal, move from areas of surplus to areas of shortage, and are quite simple to analyse, specialist cargoes are often traded for
 competitive reasons rather than supply and demand deficit - for example, the United
@@ -2289,7 +2323,7 @@ shipment then it is transported as products instead of crude oil. Similarly, if 
 exporting iron ore sets up a steel mill, the trade in iron ore may be transformed into a
 
 P ● Energy trades. Energy dominates bulk shipping. This group of commodities, which
-Tby weight accounts for 44% of seaborne trade, comprises crude oil, oil products,
+by weight accounts for 44% of seaborne trade, comprises crude oil, oil products,
 liquefied gas and thermal coal for use in generating electricity. These fuel sources
 compete with each other and non-traded energy commodities such as nuclear power.
 For example, the substitution of coal for oil in power stations in the 1980s transformed the pattern of these two trades. The analysis of the energy trades is concerned
@@ -2327,7 +2361,7 @@ Parcel size distribution
 To explain how the shipping industry transports this complex mix of cargoes, we use
 the parcel size distribution (PSD) function. A ‘parcel'is an individual consignment of
 
-Pto 200,000 tons? If so, they should be ordering bigger Capesize bulk carriers. These are
+to 200,000 tons? If so, they should be ordering bigger Capesize bulk carriers. These are
 Tall subjects that we discuss more extensively in Part 4; for the present, we simply establish the principle that it is quite normal for the same commodity to be shipped in many
 different parcel sizes.
 The importance of the PSD function is that it answers the question of which cargoes
@@ -2366,10 +2400,9 @@ had increased and the cost of transport had fallen to just 2.5% of the c.i.f. pr
 transport cost became less important. In general, demand is relatively price inelastic. Dropping the transport cost of a barrel of oil or a container load of sports shoes
 has little or no impact on the volume of cargo transported, at least in the short term.
 
-## THE SEA TRANSPORT SYSTEM 2.5
+### 2.5 The Sea Transport System
 
-● Speed. Time in transit incurs an inventory cost, so shippers of high-value commodi- P
-ties prefer fast delivery. The cost of holding high-value commodities in stock T
+● Speed. Time in transit incurs an inventory cost, so shippers of high-value commodities prefer fast delivery. The cost of holding high-value commodities in stock
 may make it cheaper to ship small quantities frequently, even if the freight cost is
 greater. On a three-month journey a cargo worth $1 million incurs an inventory cost of $25,000 if interest rates are 10% per annum. If the journey time can be halved,
 it is worth paying up to $12,500 extra in freight. Speed may also be important for
@@ -2385,7 +2418,9 @@ for the shipper, especially when the parcels are high in value and fragile. In t
 they may be prepared to pay more for secure transportation with lower risk of
 damage.
 Together these introduce an element of differentiation into the business.
-2.5 THE SEA TRANSPORT SYSTEM
+
+### 2.5 The Sea Transport System
+
 The economic model for sea transport
 In Chapter 1 we saw that over the last 50 years the shipping industry has developed
 a new transport system based on mechanization and systems technology. Within this
@@ -2404,8 +2439,8 @@ are transported by the specialized shipping industry. These three cargo streams 
 demand for bulk transport, specialized transport and liner transport (row B). The lower
 half of the diagram shows how the supply of ships is organized. A major distinction is
 drawn between the fleets of ships owned by the companies moving their own cargo in their
-own ships (row C) and the ships owned by independent shipowners (row D) and chartered to the cargo owners in Row C. Between rows C and D are the charter markets where P
-rates for transport are negotiated. This is a highly flexible structure. For example, an oil T
+own ships (row C) and the ships owned by independent shipowners (row D) and chartered to the cargo owners in Row C. Between rows C and D are the charter markets where
+rates for transport are negotiated. This is a highly flexible structure. For example, an oil
 company might decide to buy its own fleet of tankers to cover half of its oil transport
 needs and meet the other half by chartering tankers from shipowners. The same applies to the specialized and liner markets.
 The bulk shipping industry on the left of Figure2.3 carries large parcels of raw materials and bulky semi-manufactures. This is a very distinctive business. Bulk vessels handle
@@ -2443,7 +2478,7 @@ sector the pressure for change often comes from its sophisticated clients.
 So although the three segments of the shipping industry shown in Figure 2.3 all
 carry cargo in ships, they face different tasks in terms of the value and volume of cargo,
 
-Pthe number of transactions handled, and the commercial systems employed. Bulk
+the number of transactions handled, and the commercial systems employed. Bulk
 Tshipping carries the high-volume, price-sensitive cargoes; specialized shipping carries
 those higher-value ‘bulk'cargoes such as cars, refrigerated cargo, forest products and
 chemicals; the container business transports small parcels; and air freight does the rush jobs. But these segments also overlap, leading to intense competition for the minor bulk
@@ -2477,8 +2512,8 @@ sugar, salt, sulphur, forest products, wood chips and chemicals.
 Definition of ‘liner shipping'
 The operation of liner services is a very different business. General cargo consignments
 are too small to justify setting up a bulk shipping operation. In addition, they are often
-high-value or delicate, requiring a special shipping service for which the shippers prefer a fixed tariff rather than a fluctuating market rate. There are no hard-and-fast rules about P
-what constitutes general cargo - boxes, bales, machinery, 1,000 tons of steel products, T
+high-value or delicate, requiring a special shipping service for which the shippers prefer a fixed tariff rather than a fluctuating market rate. There are no hard-and-fast rules about
+what constitutes general cargo - boxes, bales, machinery, 1,000 tons of steel products,
 50 tons of bagged malting barley are typical examples. The main classes of general
 cargo from a shipping viewpoint are as follows:
 ● Loose cargo, individual items, boxes, pieces of machinery, etc., each of which must
@@ -2557,8 +2592,8 @@ vehicles
 (purpose built)
 Source: Martin Stopford 2007
 
-Modern pure car and truck carriers (PCTCs) carry over 6,000 vehicles (see Chapter 14 P
-for technical details). T
+Modern pure car and truck carriers (PCTCs) carry over 6,000 vehicles (see Chapter 14
+for technical details).
 ● Forest products. The problem with logs and lumber is that although they can be
 carried easily in a conventional bulk carrier, cargo handling is slow and stowage is very inefficient. To deal with this the shippers started to ‘package' lumber in
 standard sizes and built bulk carriers with holds designed around these sizes,
@@ -2635,8 +2670,8 @@ sometimes the old ships are very different from their modern counterparts - for
 example, general cargo ships which pre-date containerization. The task of the shipping
 market is to find commercial opportunities for even the sub-optimal ships in the fleet,
 
-## THE WORLD MERCHANT FLEET 2.6 and it achieves this by adjusting the price and earnings of each market segment and P
-relying on shipping investors to seek out profitableopportunities for the marginal ships T
+and it achieves this by adjusting the price and earnings of each market segment and 
+relying on shipping investors to seek out profitableopportunities for the marginal ships
 which they can buy cheap. When no opportunities can be found they may come up with
 a project to modify or convert the ship, for example by converting an old tanker into an offshore storage vessel or even a bulk carrier. In this way the maximum economic value
 is extracted from even the oldest ships.
@@ -2671,9 +2706,9 @@ Ageing, obsolescence and fleet replacement
 The continuous progress in ship technology, combined with the costs of ageing over the
 twenty- or thirty-year life of a ship, presents the shipping industry with an interesting
 economic problem. How do you decide when a ship should be scrapped? Ageing and
-obsolescence are not clearly defined conditions. They are subtle and progressive. A
-great deal of trade is carried by ships which are obsolete in some way or other. It took fifty years for steamships to drive sailing ships from the sea. Yet somehow the industry P
-has to decide when to scrap the old ships and order new ones. T
+obsolescence are not clearly defined conditions. They are subtle and progressive.
+great deal of trade is carried by ships which are obsolete in some way or other. It took fifty years for steamships to drive sailing ships from the sea. Yet somehow the industry
+has to decide when to scrap the old ships and order new ones.
 This is where the sale and purchase market comes in. When an owner has finished
 with a ship, he sells it. Another shipping company buys it at a price at which it believes it can make a profit. If no owner thinks he can make a profit, only the scrap dealer will
 bid. As the ship grows old or obsolete it trickles down the market, falling in value, until
@@ -2685,7 +2720,9 @@ clearer. In case there is any doubt, it reinforces economics with sentiment. Own
 more likely to make the decision to sell for scrap if they feel gloomy about the future.
 Thus, cycle by cycle, fleet replacement lurches forward. We discuss cycles in Chapter 3
 and the four markets which are involved in the fleet replacement process in Chapter 5.
-2.7 THE COST OF SEA TRANSPORT
+
+### 2.7 The Cost of Sea Transport
+
 World trade and the cost of freight
 One of the contributions of shipping to the global trade revolution has been to make sea
 transport so cheap that the cost of freight was not a major issue in deciding where to
@@ -2732,8 +2769,8 @@ of economies of scale, new technology, better ports, more efficient cargo handli
 the use of international flags to reduce overheads. These are the topics which we will
 address in the remainder of this chapter.
 
-## THE COST OF SEA TRANSPORT 2.7 shipping a 110,000 tonne parcel of oil is much higher than shipping a 330,000 tonne P
-parcel. If the cargo parcel is too small to occupy a whole ship the cost escalates further T
+shipping a 110,000 tonne parcel of oil is much higher than shipping a 330,000 tonne 
+parcel. If the cargo parcel is too small to occupy a whole ship the cost escalates further
 because of the high cost of handling and stowing small parcels. For example, crude
 oil can be transported 12,000 miles from the Arabian Gulf to the USA for less than $1 per barrel using a 280,000 dwt tanker, whereas the cost of shipping a
 small parcel of lubricating oil from Europe to Singapore in a small parcel can be over
@@ -2770,7 +2807,7 @@ chartering ships. In short, the type of organizations involved, the shipping pol
 even the type of people employed in the two parts of the business are quite different.
 The nature of the liner and bulk shipping industries is discussed in detail in Chapters 11
 
-Pand 13, so the comments in this chapter are limited to providing an overview of these
+and 13, so the comments in this chapter are limited to providing an overview of these
 Ttwo principal sectors of the shipping market.
 These differences in the nature of demand provide the basis for explaining the division of
 the shipping industry into two quite different sectors, the bulk shipping industry and the liner shipping industry. The bulk shipping industry is built around minimizing unit cost, while the
@@ -2810,8 +2847,8 @@ job over to a specialist bulk
 Economies of scale related to ship size for bulk carriers
 Source: based on 11,000-mile round voyage from Table 10.5, Chapter 10 shipper.
 
-Large companies shipping substantial quantities of bulk materials sometimes run P
-their own shipping fleets to handle a proportion of their transport requirements. T
+Large companies shipping substantial quantities of bulk materials sometimes run
+their own shipping fleets to handle a proportion of their transport requirements.
 For example, in 2005 the major oil companies collectively owned approximately
 22.7 m.dwt of oil tankers, representing 7% of the tanker fleet. Steel companies in Japan and Europe also run fleets of large bulk carriers for the transport of iron ore and coal.
 This type of bulk shipping operation suits shippers running a stable and predictable
@@ -2889,9 +2926,10 @@ regulatory intervention weakened the system to such an extent that liner operato
 started to look for other ways of stabilizing their competitive position. Liner operations
 are discussed extensively in Chapter 13.
 
-## THE ROLE OF PORTS IN THE TRANSPORT SYSTEM 2.8
+### 2.8 The Role of Ports in the Transport System
 
-2.8 THE ROLE OF PORTS IN THE TRANSPORT SYSTEM P
+### 2.8 The Role of Ports in the Transport System P
+
 Ports are the third component in the transport system and provide a crucial interface
 between land and sea. It is here that much of the real activity takes place. In the days of cargo liners and tramps the activity was obvious. Ports were crowded with ships and
 bustling with dockers loading and unloading cargo. Artists loved to paint these busy
@@ -2948,8 +2986,8 @@ annual throughput of each.
 ● Level 1: Small local port. Around the world there are thousands of small ports serving local trade. They handle varied cargo flows, often serviced by short-sea vessels.
 Since the trade volume is small the facilities are basic, consisting of generalpurpose berths backing on to warehouses. Only small ships can be accommodated
 and the port probably handles a mixture of containers, break-bulk cargo plus shipments of commodities in packaged form (e.g. part loads of packaged timber or oil
-in drums) or shipped loose and packaged in the hold prior to discharge. Cargo is unloaded from the ship on to the quayside and stored in the warehouses, or on the P
-quayside until collected. Ports like this are found in developing countries and in the T
+in drums) or shipped loose and packaged in the hold prior to discharge. Cargo is unloaded from the ship on to the quayside and stored in the warehouses, or on the
+quayside until collected. Ports like this are found in developing countries and in the
 rural areas of developed countries.
 ● Level 2: Large local port. When the volume of cargo is higher, special investment becomes economic. For example, if the volume of grain and fertilizers increases,
 a dry bulk terminal may be constructed with the deeper draft required to handle
@@ -2979,12 +3017,14 @@ rate where the shipowner pays a basic charge to which extras are added for the v
 services used by the ship during its visit to the port. The method of charging will depend
 upon the type of cargo operation, but both will vary according to volume, with trigger
 points activating tariff changes.
-2.9 THE SHIPPING COMPANIES THAT RUN THE BUSINESS
+
+### 2.9 The Shipping Companies That Run the Business
+
 Types of shipping company
 A striking feature of the shipping business to outsiders is the different character of the
 companies in different parts of the industry. For example, liner companies and bulk
 
-## THE SHIPPING COMPANIES THAT RUN THE BUSINESS 2.9
+### 2.9 The Shipping Companies That Run the Business
 
 Who makes the decisions?
 Because the business is internationally mobile, shipowners can choose to register their
@@ -3103,9 +3143,11 @@ markets are illegal. In the last decade various governments, including the USA a
 European Union (EU), have taken steps to tighten the application of these regulations
 to the shipping industry, initially liner conferences, but subsequently to the large
 
-## SUMMARY 2.11 companies and pools operating in the bulk shipping industry. The regulation of P
-competition in shipping, including pools, is discussed in Section 16.10. T
-2.10 THE ROLE OF GOVERNMENTS IN SHIPPING
+companies and pools operating in the bulk shipping industry. The regulation of 
+competition in shipping, including pools, is discussed in Section 16.10.
+
+### 2.10 The Role of Governments in Shipping
+
 Finally, we cannot ignore national and international political aspects of the business.
 Because shipping is concerned with international trade, it inevitably operates within a
 complicated pattern of agreements between shipping companies, understandings with
@@ -3121,7 +3163,9 @@ Just as these subjects cannot easily be understood without some knowledge of
 the maritime economy, an economic analysis cannot ignore regulatory influences on
 costs, prices and free market competition. These subjects will be discussed in later
 chapters.
-2.11 SUMMARY
+
+### 2.11 Summary
+
 In this chapter we have concentrated on the maritime industry as a whole and shipping's
 part in it. During the last 50 years the cost of transporting commodities by sea has fallen
 steadily, and in 2004 accounted for 3.6% of the value of imports. Our aim is to show
@@ -3169,12 +3213,20 @@ Finally, we discussed the companies that run the business. They have very varied
 organization and decision-making structures, a fact which market analysts are well
 advised to remember.
 
-Shipping Market
-Cycles
+---
+
+# Part 2: Shipping Market Economics
+
+---
+
+## Chapter 3: Shipping Market Cycles
+
 The four most expensive words in the English language are, ‘This time it's different'.
 (Sir John Templeton, quoted inDevil Take the Hindmost,
 Chancellor 1999, p. 191)
-3.1 INTRODUCING THE SHIPPING CYCLE
+
+### 3.1 Introducing the Shipping Cycle
+
 Market cycles pervade the shipping industry. As one shipowner put it: ‘When I wake up
 in the morning and freight rates are high I feel good. When they are low I feel bad'.1
 Just as the weather dominates the lives of seafarers, so the waves of shipping cycles
@@ -3221,7 +3273,9 @@ risk, and the analogy with poker is appropriate because both activities involve 
 of skill, luck and psychology. Players must know the rules, but success also depends on
 their skill in playing the shipping cycle, a game shipowners have been playing for
 hundreds of years. This is the model we will explore in this chapter.
-3.2 CHARACTERISTICS OF SHIPPING MARKET CYCLES
+
+### 3.2 Characteristics of Shipping Market Cycles
+
 The components of economic cycles
 Cycles are not unique to shipping, they occur in many industries. Sir William Petty,
 writing in the 1660s, noticed a 7-year cycle in corn prices and commented that ‘the
@@ -3238,8 +3292,8 @@ if it is changing, and the big issue here is whether, for example, the underlyin
 moving upwards, which is good for business, or moving downwards, which is bad. The
 example in Figure 3.1 shows a long-term trend with upswings and downswings lasting
 60 years. The second component is the short-term cycle, sometimes referred to as the
-‘business cycle'. It is the one that corresponds more closely to most people's notion of a shipping cycle. In Figure 3.1 P
-these short cycles are shown T
+‘business cycle'. It is the one that corresponds more closely to most people's notion of a shipping cycle. In Figure 3.1
+these short cycles are shown
 superimposed on the long-term
 trend. They fluctuate up and down, and a complete cycle can
 last anything from 3 to 12 years
@@ -3279,7 +3333,7 @@ the second (1844-74) to the railway boom and the third (1895-1914/16) to the joi
 effects of the motor car and electricity. The upswing which started in the 1950s may be
 attributed to a combination of major innovations in the chemical industries, aircraft and
 
-Pthe electrical/electronic industries. Unfortunately these Kondratieff cycles do not fit
+the electrical/electronic industries. Unfortunately these Kondratieff cycles do not fit
 Twell with the long-term freight cycles we will review in Figure 3.5. For example, 1790
 was a peak in the long shipping cycle, not the beginning of an upswing, and in general
 the shipping cycle looks much longer, with a downswing that lasted for the whole of the nineteenth century.
@@ -3321,7 +3375,7 @@ Investors anticipate the recovery and order large volumes of cheap ships, so tha
 supply dampens off the recovery. A dashed line superimposed on the chart illustrates
 what might have happened if investors had been less aggressive. In that case the
 
-## CHARACTERISTICS OF SHIPPING MARKET CYCLES 3.2
+### 3.2 Characteristics of Shipping Market Cycles
 
 Figure 3.2
 Stages in a typical dry cargo shipping market cycle
@@ -3425,7 +3479,7 @@ establish themselves, and the very wide fluctuations of demand, make the ownersh
 the South African War) would quickly produce a disproportion between supply
 and demand; sending freight soaring upwards. In the hope of sharing the profits
 
-Pof the boom, owners hastened to increase their fleet and new owners come into the
+of the boom, owners hastened to increase their fleet and new owners come into the
 Tbusiness. The world's tonnage was rapidly increased to a figure beyond the normal
 requirements, and the short boom was usually followed by a prolonged slump.17
 This analysis suggests cycles consist of three events: a trade boom, a short shipping
@@ -3463,10 +3517,10 @@ orders and encourage demolition. At the low point in the cycle, reduced ordering
 and increased demolition shrink the supply and set the stage for a rise in freight
 rates. The circle revolves.20
 
-## SHIPPING CYCLES AND SHIPPING RISK 3.3
+### 3.3 Shipping Cycles and Shipping Risk
 
-Hampton goes on to argue that groups of investors do not necessarily act rationally, P
-which explains why the market repeatedly seems to over-react to the price signals. T
+Hampton goes on to argue that groups of investors do not necessarily act rationally,
+which explains why the market repeatedly seems to over-react to the price signals.
 In any market, including the shipping market, the participants are caught up in a struggle between fear and greed. Because we are human beings, influenced to
 varying degrees by those around us, the psychology of the crowd feeds upon itself
 until it reaches an extreme that cannot be sustained. Once the extreme has been
@@ -3497,12 +3551,14 @@ can stall half way and slump back into recession in a few months or last for fiv
 Market collapses may be reversed before they reach the trough. Troughs may last six
 months or six years. Peaks may last a month or a year. Sometimes the market gets stuck
 in the middle ground between trough and recession.
-3.3 SHIPPING CYCLES AND SHIPPING RISK
+
+### 3.3 Shipping Cycles and Shipping Risk
+
 Since shipping cycles lie at the heart of shipping risk, we should now say something
 about what that risk involves. Technically, shipping risk can be defined as the ‘measurable
 
 Pliability for any financial loss arising from unforeseen imbalances between the supply
-Tand demand for sea transport'.22In other words, we are concerned with who shoulders
+and demand for sea transport'.22In other words, we are concerned with who shoulders
 the financial burden if the supply of ships does not exactly match the demand and a loss
 results. For example, if too few ships are built and oil companies cannot supply their refineries, steel mills run out of iron ore, and manufactured exports are stranded in the
 ports, who pays? Or if too many ships are built and many earn nothing on their multi-million-dollar capital investment, who pays?
@@ -3525,7 +3581,7 @@ exactly in balance, so freight
 rates fluctuate around T , as shown by the short-term cycle
 Figure 3.3
 F . When cargo owners get it
-Key risk features of the shipping cycle 1
+Key risk features of the shipping cycle
 Compiled by Martin Stopford from various sources wrong and have too many cargoes, rates shoot above the trend
 cost, transferring cash to shipowners who respond by ordering more ships (point A in
 Figure 3.3). Conversely, when the owners get it wrong and there are too many ships,
@@ -3535,8 +3591,8 @@ transport, so across the whole market shipping risk is primarily about the timin
 Shipping risk and market structure
 But that does not apply to the shipping risk of individual companies. As a group, cargo
 owners and shipowners face mirror-image risk distributions, so the volatility of the cycles
-allows individual companies to ‘play the cycle' and in so doing vary their individual risk profile. As cargo P
-owners and shipowners T
+allows individual companies to ‘play the cycle' and in so doing vary their individual risk profile. As cargo
+owners and shipowners
 adjust their exposure to
 shipping risk they can determine who actually
 controls the way the supply
@@ -3577,8 +3633,8 @@ market risk, that does not remove all risk. Charterers strike a hard bargain, of
 the ship and, of course, the ability of the shipper to pay his hire. As an alternative to a
 physical contract, charterers could take financial cover using the derivatives market and,
 
-Pfor example, a forward freight agreement (FFA). This form of hedging (or speculating)
-Tis discussed in Chapter 6.
+for example, a forward freight agreement (FFA). This form of hedging (or speculating)
+is discussed in Chapter 6.
 Finally, cargo owners can pass all the shipping risk to the shipowner by using the spot
 market (option 3 in Figure 3.4). They hire the ships they need on a cargo by cargo basis, so if for some reason there is no cargo, the shipowner carries all the cost of the ships
 which are unemployed. However, everything has a price and when ships are in short
@@ -3605,7 +3661,9 @@ to switch to the spot market, so by 1983 the tonnage trading spot had increased 
 was completely redistributed. One benefit of this was that with such a large spot market
 there was increased liquidity, making it a more viable transport source for shippers than
 the tiny spot market in the early 1970s.
-3.4 OVERVIEW OF SHIPPING CYCLES, 1741-2007
+
+### 3.4 Overview of Shipping Cycles, 1741-2007
+
 The freight index in Figure 3.5 allows us to see how freight cycles have behaved over a
 266-year period. This freight index was derived from a number of sources. Coal rates
 for the English trade covering the period from 1741 to 1869 were spliced together with
@@ -3616,7 +3674,7 @@ from these data is not entirely straightforward, since it was necessary to disti
 many small fluctuations from the significant peaks and troughs. Over the 266-year
 period 22 shipping cycles were identified. The initial market peak of each of the
 
-## OVERVIEW OF SHIPPING CYCLES,1741-2007 3.4
+### 3.4 Overview of Shipping Cycles, 1741-2007
 
 Figure 3.5
 Dry cargo shipping cycles (mainly coal), 1741-2007
@@ -3668,7 +3726,8 @@ as the shipping industry transport system was mechanized and purpose-built bulk
 carriers started to be used. The commentary focuses on dry cargo until the third period,
 when the tanker market is introduced into the discussion.
 
-P 3.5 SAILING SHIP CYCLES, 1741-1869
+### 3.5 Sailing Ship Cycles, 1741-1869
+
 The period 1741-1869 covers the final years when sailing ships dominated sea
 transport. The freight index in Figure 3.7, which tracks the cycles during this period, is based on coal freight rates from Newcastle upon Tyne to London in shillings per ton.
 The freight increased from 6s. 8d. per ton in 1741 to 18s. 16d. in 1799, during the
@@ -3691,8 +3750,8 @@ Figure 3.7
 Sailing ship market cycles, 1741-1873: coal freight rates from Newcastle upon Tyne to London
 Source: Compiled by Martin Stopford from various sources
 
-## SAILING SHIP CYCLES,1741-1869 3.5 certainly affected freight rates. At the start of the period there was a seven-year trough P
-from 1746 to 1753. This coincided with the War of Austrian Succession and the T
+certainly affected freight rates. At the start of the period there was a seven-year trough 
+from 1746 to 1753. This coincided with the War of Austrian Succession and the
 1739-48 War of Jenkins' Ear with Spain. Davis comments that ‘In 1739-48 … the E
 armed conflict was holding back trade …The peace of 1748, therefore, found England ripe for an extraordinary increase in the volume of export trade'.27 This increase
 is reflected in contemporary trade statistics which show that the volume of English
@@ -3738,7 +3797,9 @@ technology in the coal trade as new steam colliers forced their way into the tra
 the owners of old and obsolete sailing ships may have suffered badly during the troughs, whilst the owners of more modern vessels faced less pressure, due to their greater
 productivity. In general this was a period of well-defined cycles pushing the industry
 forward during an era of changing technology.
-3.6 TRAMP MARKET CYCLES, 1869-1936
+
+### 3.6 Tramp Market Cycles, 1869-1936
+
 The next seventy years provide a fascinating example of the interplay between
 short-term cycles and long-term trends, with just about every shape of cycle appearing.
 During this period the tramp steamer dominated the freight market. At the start efficient
@@ -3751,10 +3812,10 @@ Figure 3.8
 Tramp shipping market cycles, 1871-1937
 Source: Compiled by Martin Stopford from various sources
 
-## TRAMP MARKET CYCLES,1869-1936 3.6
+### 3.6 Tramp Market Cycles, 1869-1936
 
-Like the cycles in the first half of the nineteenth century, it is difficult to disentangle P
-the short cycles from the long-term trend. Once again we see rapidly falling freight rates T
+Like the cycles in the first half of the nineteenth century, it is difficult to disentangle
+the short cycles from the long-term trend. Once again we see rapidly falling freight rates
 resulting in cyclical peaks at rates which, in terms of their deviation from the trend, are
 in absolute terms lower than rates experienced in troughs just a few years earlier.
 Fortunately the availability of brokers' reports from 1869 onwards means that it is
@@ -3794,7 +3855,7 @@ mechanicaland outfitting structure.
 Perhaps the most important technical improvement was in the efficiency of steam
 engines. With the introduction of the triple expansion system and higher-pressure boilers,
 
-Pthe cargo payload of the steamships increased rapidly.33 The economic advantage of
+the cargo payload of the steamships increased rapidly.33 The economic advantage of
 Tsteamships was compounded by economies of scale. The average size of merchant ships
 launched on the River Wear grew from 509 gross tons in 1869 to 4324 gross tons in
 1913.34 Finally, the opening of the Suez Canal in 1869 gave steamships the economic advantage they needed to oust sail as the preferred type of newbuilding.
@@ -3833,8 +3894,8 @@ though brokers described them as better than expected.
 The recession started in 1874 and lasted 5 years until 1879. By 1876 the market was
 ‘still stagnant', but started improving in 1877, a trend that is clear from the pick-up
 in shipbuilding output on the River Wear. Steamers were gradually winning the battle
-with sail. According to McGregor ‘1878 can be regarded as the last year in which sail figured at the same equality as steam in the China trade'.38Although the market was P
-weak, it was not a particularly severe recession. Rates were seasonal, and the words T
+with sail. According to McGregor ‘1878 can be regarded as the last year in which sail figured at the same equality as steam in the China trade'.38Although the market was
+weak, it was not a particularly severe recession. Rates were seasonal, and the words
 ‘dull', ‘lifeless'and ‘stagnant'were repeatedly used in contemporary reports to describe
 business. Shipbuilding deliveries were running well below the peak of 1872. On the
 Wear launches fell from a peak of 134,825 grt in 1872 to 54,041 grt in 1876, after which
@@ -3872,7 +3933,7 @@ from 1883 to 1887 …The rates now ruling leave a heavy loss in working for all 
 laying-up of steamers in order to reduce the amount of trading tonnage by 25%'.40
 
 P The recession which followed lasted most of the decade. There was a modest recovery
-Tin 1895 and the market progressively improved during the next three years. Once again
+in 1895 and the market progressively improved during the next three years. Once again
 attention is focused on the shipbuilding scene, where the level of production had not
 fallen as sharply as in the previous recession. Launches on the Wear reached 215,887 grt in 1896, almost back to the 1889 peak.
 Cycle 11: 1898-1910
@@ -3909,8 +3970,8 @@ Despite the recession, by 1906 shipbuilding launches on the Wear reached 360,000
 an all-time record. Considering the level of freight rates, the newbuilding boom is
 difficult to explain. It may have been triggered by the large cash reserves built up during
 the previous market boom and anticipation of a market upturn. Shipbuilders trying to
-maintain their business volume may also have contributed. Angier thought so, commenting that in 1906 ‘The knowledge that many fleets of steamers were owned far more by the builders than by the registered owners [has] become a commonplace, but this year we have P
-seen a shipbuilder's syndicate entering directly into competition with shipowners and T
+maintain their business volume may also have contributed. Angier thought so, commenting that in 1906 ‘The knowledge that many fleets of steamers were owned far more by the builders than by the registered owners [has] become a commonplace, but this year we have
+seen a shipbuilder's syndicate entering directly into competition with shipowners and
 securing a mail contract from Australia. This action was received with natural annoyance
 on the part of the established lines'.45
 Cycle 12: 1911-14
@@ -3950,8 +4011,8 @@ capacity was expanded and between 1917 and 1921 the United States set up the fir
 mass-production facility for merchant ships at Hog Island. The facility, which had
 50 slipways, was designed to build 7800 dwt freighters for the war effort. However, it did
 
-World War the shipyards had built up capacity to replace heavy wartime losses of P
-merchant ships, especially in the North Atlantic. The annual merchant tonnage launched T
+World War the shipyards had built up capacity to replace heavy wartime losses of
+merchant ships, especially in the North Atlantic. The annual merchant tonnage launched
 during the war was 3.9 million gt, compared with only 2.4 million grt annual launches
 in 1901-14. After record production of 4.45 million grt in 1921, output fluctuated between 2 and 3 million grt. The lowest year was 1926, when production fell to
 1.9 million grt. This was the best year of the decade for freight rates. Third, this was a
@@ -3996,7 +4057,9 @@ This ‘boom'did not last long. The position deteriorated rapidly due to a decli
 tons (on 30 June 1938, out of 66.9 million tons in existence, 2.5 million tons was
 laid up). Further details of the cycles during the inter-war period can be found in the
 discussion of shipbuilding market cycles in Chapter 15.
-3.7 BULK SHIPPING MARKET CYCLES, 1945-2008
+
+### 3.7 Bulk Shipping Market Cycles, 1945-2008
+
 In the fifty-year period following the Second World War, the seven dry cargo freight
 market cycles were shorter, averaging 6.7 years each. During this period the bulk
 shipping markets developed, and we need to track developments in the tankers market
@@ -4009,7 +4072,7 @@ Figure 3.10
 Bulk carrier shipping market cycles, 1947-2008
 Source: Compiled by Martin Stopford from various sources
 
-## BULK SHIPPING MARKET CYCLES,1945-2008 3.7
+### 3.7 Bulk Shipping Market Cycles, 1945-2008
 
 Figure 3.11
 Oil tanker shipping market cycles, 1947-2008
@@ -4074,11 +4137,10 @@ to increase in size, with volume cargoes such as iron ore and coal moving up int
 Capesize vessels of over 100,000 dwt. A fleet of car carriers was built, with the largest
 able to carry 6,000 vehicles. Chemical parcel tankers grew in size to 55,000 dwt.
 
-## BULK SHIPPING MARKET CYCLES,1945-2007 3.7
+### 3.7 Bulk Shipping Market Cycles, 1945-2007
 
-Container-ships increased from 2,000 TEU in the early 1970s to 6,500 TEU in the P
-mid-1990s, and by 2007 vessels of over 10,000 TEU were being delivered. Ship tech- T
-nology improved with the unmanned engine room, satellite navigation, anti-fouling
+Container-ships increased from 2,000 TEU in the early 1970s to 6,500 TEU in the
+mid-1990s, and by 2007 vessels of over 10,000 TEU were being delivered. Ship technology improved with the unmanned engine room, satellite navigation, anti-fouling
 paint finishes, more efficient diesel engines, vastly improved hatch covers and a host of other technical improvements in the design and construction of merchant ships.
 Short-term cycles, 1945-2007
 However, it is the short-term cycles that are of real interest. During the period
@@ -4114,7 +4176,7 @@ market started to tighten and by year's end rates were up 30%. The improving tre
 continued through 1955 and when the Suez Canal closed in November 1956, diverting
 
 P Suez traffic to the longer journey round the Cape, there was a tremendous boom in rates
-Tand time-charter activity.
+and time-charter activity.
 3 Cycle 17: 1957-69
 The events which followed the Suez crisis provide a case study of the ‘shipping game'
 at its most exciting, as the 1956 boom was suddenly followed by a severe recession
@@ -4148,8 +4210,8 @@ The reasons for this decline were many. Stockpiles in Europe at the end of 1956 
 it possible to slightly reduce the demand for tramp tonnage in the early months of
 1957. The rate of completion of new tramps had increased enormously and these were
 rapidly replacing the Liberty vessels. These new tramps, averaging 3,000 tons higher
-capacity than the war-built ships, and faster by four knots, were carrying considerably more cargo than the Liberty ships they were designed to replace. Also contributing to P
-the decline were the restrictions on trade imposed in a number of countries caused T
+capacity than the war-built ships, and faster by four knots, were carrying considerably more cargo than the Liberty ships they were designed to replace. Also contributing to
+the decline were the restrictions on trade imposed in a number of countries caused
 by shortage of foreign exchange. Other contributory causes were the accelerating tendency towards self-sufficiency in shipowning, chartering, and shipbuilding in hitherto non-maritime countries, and the fact that Japan suddenly became an important supplier of tramp tonnage to the world's merchant fleet. Last, but not least, the recession
 in world trade helped to force rates down to well below operating levels.62
 The severe recession in the world economy certainly played a major part. OECD
@@ -4184,7 +4246,7 @@ charters at highly profitable rates. Since oil was the largest cargo moving thro
 Canal at this time, the main impact of its closure was felt in the tanker market.
 
 P The dry cargo market benefited indirectly from improved rates for ore carriers owing
-Tto combined carriers switching into oil trading but, in general, the increase in rates was
+to combined carriers switching into oil trading but, in general, the increase in rates was
 less noticeable than in the tanker market. The booms of 1970 and 1973 both coincided
 with exceptional peaks in the industrial trade cycle, reinforced by political events such as the closure in May 1970 of Tap Line, the oil pipeline running from the Arabian Gulf
 to the Mediterranean, which cut back the availability of oil from Sidon by 15 million
@@ -4222,8 +4284,8 @@ interesting example of a dry cargo peak outlasting a downturn in the world econo
 Between 1975 and 1995 the dry cargo market followed a different pattern from
 tankers. For bulk carriers the cycle 19 trough only lasted 3 years from 1975 to 1978.
 
-The very firm market in 1973-4 allowed owners to fix time charters that yielded profits P
-for several years after. However, the spot market moved into recession in 1975 and the T
+The very firm market in 1973-4 allowed owners to fix time charters that yielded profits
+for several years after. However, the spot market moved into recession in 1975 and the
 3 years from 1975 to 1978 were very depressed for all sizes of vessels. Although there
 was some seasonal fluctuation, on average, freight rates were not sufficient to cover running costs. By 1977 many owners were experiencing severe liquidity problems.65
 In the autumn of 1978 the dry cargo recovery started, leading to a very firm market
@@ -4265,7 +4327,7 @@ reported at only $11,000 per day.67There was little sale and purchase activity, 
 year's end prices had already fallen by more than 50%. For example, the second-hand
 
 Pprice of a 1970-built 200,000 dwt VLCC fell from $52 million in 1973 to $23 million
-Tin 1974. This proved to be only the beginning. In 1975 the price fell to $10 million, in
+in 1974. This proved to be only the beginning. In 1975 the price fell to $10 million, in
 1976 to $9 million in 1976 and in mid-1977 to $5 million.
 After two years there was a modest recovery in the tanker market. A recovery in the world economy in 1979 started to push rates up, though only to a peak of Worldscale
 62 in July 1979. Laid-up tonnage fell from 13.4 million dwt to 8.6 million dwt in 1979.
@@ -4302,8 +4364,8 @@ next cyclical upswing which on that calculation was due in 1985.
 If so many owners had not had the same idea, this would have been a successful
 strategy. Expectations that trade would improve were fulfilled. In 1984 the business
 cycle turned up and there was a considerable increase in world trade. However, the
-combination of heavy deliveries of bulk carrier newbuildings, many ordered speculatively in the previous two years, and the fact that the combined carrier fleet could find little employment in the tanker market ensured that the increase in rates was very P
-limited. Panamax bulk carrier freight rates struggled up to $6,500 per day in 1985, then T
+combination of heavy deliveries of bulk carrier newbuildings, many ordered speculatively in the previous two years, and the fact that the combined carrier fleet could find little employment in the tanker market ensured that the increase in rates was very
+limited. Panamax bulk carrier freight rates struggled up to $6,500 per day in 1985, then
 collapsed under a flood of deliveries with the result that, as Fearnleys commented,
 ‘shipowners lived through another year without being able to cover their costs'.70 Just to make matters worse, by this time the yen had strengthened and bulk carriers ordered
 in yen but paid for in dollars cost more than expected.71 Many shipowners who had
@@ -4383,8 +4445,8 @@ demand in the mid-1990s. Secondly, shipbuilding capacity had shrunk so much in t
 of the 1970s-built tanker fleet built up in the 1990s. Rapidly increasing newbuilding
 prices seemed to support this view. For example, in 1986 a new VLCC had cost less than
 
-$40 million, but by 1990 the price was over $90 million. Thirdly, growing oil demand P
-was expected to be met from long-haul Middle East exports, creating rapidly increasing T
+$40 million, but by 1990 the price was over $90 million. Thirdly, growing oil demand
+was expected to be met from long-haul Middle East exports, creating rapidly increasing
 demand for tankers, especially VLCCs. As it turned out none of these expectations
 were realized. Most of the 1970s-built tankers continued to trade beyond 20 years; by the mid-1990s shipbuilding output had more than doubled from 15 m.dwt to 33 m.dwt;
 and Middle East exports stagnated as technical innovation allowed oil production
@@ -4440,7 +4502,9 @@ capacity equivalent to that of Europe, Japan and South Korea. Combined with grow
 of oil imports and exports of minor bulks, in the autumn of 2003 this created an acute
 shortage of ships. Tanker and bulk carrier rates were propelled to new highs and, despite
 some volatility, stayed at these high levels for the following four years.
-3.8 LESSONS FROM TWO CENTURIES OF CYCLES
+
+### 3.8 Lessons from Two Centuries of Cycles
+
 Well, that's the history of shipping cycles since steamships and cables opened up the
 global market. What are the lessons? There seem to be two main conclusions to be
 drawn from this analysis. The first is that shipping cycles definitely exist and the
@@ -4463,10 +4527,10 @@ rapidly growing demand coincided with a shortage of shipbuilding capacity.
 2. Competitiveness. There were three periods of intensely competitive activity characterized by growing trade and shipbuilding capacity that expanded fast enough to
 keep up with demand.
 
-## PREDICTION OF SHIPPING CYCLES 3.9
+### 3.9 Prediction of Shipping Cycles
 
-3. Weakness. There Table 3.3 Shipping market fundamentals analysis P
-was a weak market T
+3. Weakness. There Table 3.3 Shipping market fundamentals analysis
+was a weak market
 in the 1920s when Demand growth Supply tendency Market tone E
 growing demand
 1998-2007 Very fast Shortage Prosperous 3
@@ -4487,7 +4551,9 @@ maritime economists do have something to contribute. The challenge is to help th
 the clarity of our message, with better information, improved analysis, clearer presentation and greater relevance to the decisions made in the commercial shipping market
 and, most of all, an open mind. Three centuries of shipping cycles prove that just about
 anything is possible.
-3.9 PREDICTION OF SHIPPING CYCLES
+
+### 3.9 Prediction of Shipping Cycles
+
 The problem is that although everyone knows about cycles, it is very difficult to believe
 in them. As each cycle progresses, doubts set in. This time it will be different. The fact
 that the cycles are never exactly the same just complicates matters. But the harsh reality
@@ -4507,7 +4573,7 @@ long period, are far too unreliable to be worthwhile as a decision criterion. Cu
 warning that ‘it is totally impossible to predict when the market will move upwards
 
 P (or fall)'80 deserves to be taken seriously. As he goes on to point out, ‘Even reasoned
-Tand intelligent assessments, made by experts and covering only a few months, can be
+and intelligent assessments, made by experts and covering only a few months, can be
 made to appear foolish by the turn of events'. So we must carefully weigh up what we
 can say about the future. There are a few positive factors. Our review in this chapter of the last 12 cycles demonstrates that the same explanations of cyclical peaks and troughs
 appear again and again. Economic conditions, the ‘business cycle', trade growth and the
@@ -4544,10 +4610,10 @@ certain important pieces of available information had been ignored, discounted o
 given insufficient attention. We concluded that the process of gathering and
 organising information for decision making needed improvement.81
 
-## SUMMARY 3.10
+### 3.10 Summary
 
-These observations, which can hardly be at variance with most people's practical P
-experience, emphasize the importance of collecting and interpreting information. T
+These observations, which can hardly be at variance with most people's practical
+experience, emphasize the importance of collecting and interpreting information.
 The challenge of successful risk management 3
 So where does this leave us in terms of predicting freight cycles? There are three
 conclusions to be drawn. First, in shipping cycles, as in poker, for every winner there
@@ -4571,7 +4637,9 @@ cycles, reinforced by an understanding of the international economy and up-to-da
 information obtained from the international grapevine. For those without a lifetime of
 experience, either newcomers to the industry or outsiders, the problems of decisionmaking are daunting. Many bad decisions have been made because of a misunderstanding of the market mechanism. Our aim in the following three chapters is to examine the
 economic structure of the markets in which sea transport is traded and the fundamentals which drive them.
-3.10 SUMMARY
+
+### 3.10 Summary
+
 In this chapter we have discussed the economic role of cycles in the shipping industry.
 We started with the characteristics of cycles, identifying the secular trend, short
 cycles and seasonal cycles. Then we moved on to define shipping risk. This is the risk
@@ -4581,7 +4649,7 @@ the shipper (industrial shipping) or the shipowner (shipping market risk).The ma
 cycle dominates shipping risk. Although the existence of cycles is undisputed,
 their character is ‘episodic'rather than regular. We identified four stages (i.e. episodes)
 
-Pin a cycle: a trough, a recovery, a peak, and a collapse. Although we found that cycles
+in a cycle: a trough, a recovery, a peak, and a collapse. Although we found that cycles
 Taveraged 8 years, there are no firm rules about the length or timing of these stages. The
 cyclical mechanism must be flexible to do its job of managing shipping investment.
 The short-term cyclical model is an important part of the market mechanism. When ships are in short supply freight rates shoot up and stimulate ordering. When there is a
@@ -4619,6 +4687,11 @@ on its head - a case of ‘devil take the hindmost'.
 
 Supply, Demand
 and Freight Rates
+
+---
+
+## Chapter 4: Supply, Demand and Freight Rates
+
 The price of freight
 Today is great
 Because the ships, you'll understand,
@@ -4638,7 +4711,9 @@ Sometimes less, but mostly more.
 When judging if the price is high
 What matters most is ... when you buy
 (Martin Stopford 2007)
-4.1 THE SHIPPING MARKET MODEL
+
+### 4.1 The Shipping Market Model
+
 The search for signposts
 Now it is time to examine the economic mechanisms which control the shipping cycles
 discussed in the previous chapter. Shipowners have two jobs. One is to operate ships, a
@@ -4666,7 +4741,9 @@ about a model ship - it is a smaller version of the real thing, leaving out thos
 that are not relevant to the present subject. The aim of the exercise, which is often
 referred to as ‘fundamentals analysis', is to explain the mechanisms which determine
 freight rates in a consistent way.
-4.2 KEY INFLUENCES ON SUPPLY AND DEMAND
+
+### 4.2 Key Influences on Supply and Demand
+
 The maritime economy is enormously complex, so the first task is to simplify the model
 by singling out those factors that are most important. This is not to suggest that detail
 should be ignored, but rather to accept that too much detail can hinder a clear analysis.
@@ -4693,7 +4770,7 @@ demand and supply by regulating the cashflow flowing from one sector to another.
 How does the model work? The mechanics are very simple. In the demand module
 (A) the world economy, through business cycles and regional growth trends, determines
 
-Pthe broad volume of goods traded by sea. Developments in particular commodity trades
+the broad volume of goods traded by sea. Developments in particular commodity trades
 Tmay modify the growth trends (e.g. development in the steel industry may influence the
 iron ore trade), as may changes in the average haul over which the cargo is transported.
 The final demand for shipping services measured in ton miles. (i.e. the tonnage of cargo multiplied by the average haul). The use of ton miles as a measure of demand is technically more correct than simply using the deadweight of cargo ships required, since it
@@ -4728,8 +4805,8 @@ a ‘switchbox'controlling the amount of money paid by shippers to shipowners fo
 transport of cargo, and it is this flow of money which drives the shipping market. For
 example when ships are in short supply, freight rates are bid up and the cash which
 flows into the bank accounts of shipowners affects the behaviour of both the cargo shippers and shipping investors (we discuss this ‘behavioural' part of the model in more
-detail in Chapter 17). As the earnings of their ships rise, shipping investors rush to buy more second-hand ships, bidding up prices and then when second-hand ships become P
-too expensive they turn to ordering new ships. As the new ships are delivered supply T
+detail in Chapter 17). As the earnings of their ships rise, shipping investors rush to buy more second-hand ships, bidding up prices and then when second-hand ships become
+too expensive they turn to ordering new ships. As the new ships are delivered supply
 expands, but only after the time lag required to deliver the new ships - usually 18 months
 to 3 years. Meanwhile cargo shippers are responding to the high freight rates by looking for ways to cut transport costs by delaying cargoes, switching to closer supply sources
 or using bigger ships. But by this stage in the market cycle there is not a great deal they
@@ -4760,14 +4837,16 @@ between them. The model is dynamic in the sense that supply and demand are deter
 important to remember that the primary aim of the market mechanism is not to fix the
 freight rate, it is to coordinate the growth of supply and demand for sea transport in the
 hopelessly complex world in which shipping operates.
-4.3 THE DEMAND FOR SEA TRANSPORT
+
+### 4.3 The Demand for Sea Transport
+
 We have suggested that ship demand, measured in ton miles of cargo, is mercurial and
 quick to change, sometimes by as much as 10-20% in a year. Ship demand is also
 subject to longer-term changes of trend. Looking back over the last two or three
 decades, there have been occasions when ship demand has grown rapidly over a
 
 Psustained period, as happened in the 1960s, and others when ship demand stagnated
-Tand declined - notably, for example, the decade following the 1973 oil crisis.
+and declined - notably, for example, the decade following the 1973 oil crisis.
 4 The world economy
 Undoubtedly, the most important single influence on ship demand is the world economy.
 It came up repeatedly in our discussion of shipping cycles in Chapter 3. Seventy years
@@ -4787,8 +4866,8 @@ which shows the close relationship between the growth rate of sea trade and GDP 
 the period 1966-2006. Invariably the cycles in the world economy were mirrored by
 Figure 4.2
 World GDP cycles and sea trade
-Source: World Bank, FearnleysReview cycles in sea trade. Note, in particular, that the deep sea trade recessions in 1975, 1983 P
-and 1988 coincided with recessions in the world economy. Since world industrial T
+Source: World Bank, FearnleysReview cycles in sea trade. Note, in particular, that the deep sea trade recessions in 1975, 1983
+and 1988 coincided with recessions in the world economy. Since world industrial
 production creates most of the demand for commodities traded by sea, this is hardly
 surprising. Clearly the business cycle is of major importance to anyone analysing the demand side of the shipping market model.
 Nowadays most economists accept that these economic cycles arise from a combination
@@ -4910,8 +4989,8 @@ the increase in oil prices
 Figure 4.4
 during the 1970s, this
 Major seaborne trades by commodity
-Source: Fearnleys Review trend was reversed and the demand for crude oil first stagnated and then declined. Coal regained some of its P
-original market share and the oil trade elasticity fell. T
+Source: Fearnleys Review trend was reversed and the demand for crude oil first stagnated and then declined. Coal regained some of its
+original market share and the oil trade elasticity fell.
 The oil trade also provides a good illustration of the importance of changes in supply
 sources. In the 1960s the main source of crude oil was the Middle East. However, in the
 1970s new oil reserves near to the market, such as the North Sea and Alaska, came on
@@ -4952,8 +5031,8 @@ of the Suez Canal.
 After the 1973 oil crisis the oil trade became more volatile and oil company policy
 changed. Faced with uncertainty over trade volume, the oil shippers relied more heavily
 
-Pon the spot market for their transport requirements. By the 1990s the spot market's share
-Tof oil shipments had increased from 10% to almost 50%. This trend was reinforced by
+on the spot market for their transport requirements. By the 1990s the spot market's share
+of oil shipments had increased from 10% to almost 50%. This trend was reinforced by
 a change in the commercial structure of the oil business. After 1973 the control of oil
 transport changed. Producers, oil companies in industrializing areas such as South
 Korea and oil traders, who had less incentive to become directly involved in oil transport,
@@ -4995,10 +5074,10 @@ Analysing changes in the average haul of a commodity trade can be extremely
 complex, requiring information in the form of detailed trade matrices, but very often
 the key issue is simply the balance between long-haul and short-haul suppliers.
 
-## THE DEMAND FOR SEA TRANSPORT 4.3
+### 4.3 The Demand for Sea Transport
 
-For example, in the oil P
-trade some oil producers T
+For example, in the oil
+trade some oil producers
 are located close to the
 major consuming markets:
 Libya, North Africa, the
@@ -5041,7 +5120,7 @@ Wall Street Crash of 1929 and caused trade to decline. More recent examples, the
 effects of which are clearly visible in Figure 4.2, are the two oil price shocks which
 
 Phappened in 1973 and 1979. On both occasions, industrial output and seaborne
-Ttrade suddenly declined, setting off a shipping depression. Some economists think
+trade suddenly declined, setting off a shipping depression. Some economists think
 the whole cyclical process can be explained by a stream of random shocks which
 make the economy oscillate at its ‘resonant frequency'. The US financial crisis of the early 1990s, the Asia Crisis of 1997 and the stock market crash in 2000
 are other examples. The singular feature of these economic shocks is that their
@@ -5083,8 +5162,7 @@ triggered the collapse of the tanker market. The associated oil price rise had
 an effect on the world economy and the shipping market that was to last more
 than a decade.
 
-● The 1979 Iran Revolution and the temporary cessation of Iranian oil exports pre- P
-cipitated a major increase in the price of crude oil, with significant repercussions T
+● The 1979 Iran Revolution and the temporary cessation of Iranian oil exports precipitated a major increase in the price of crude oil, with significant repercussions
 for the world economy and the shipping market.
 ● The 1990-1 Gulf War which resulted in the closure of the Dortyol pipeline and a phase of short-term oil stockbuilding. Both increased tanker demand.
 ● The Venezuelan oil strike in 2002-3 which reduced Venezuela's exports to almost
@@ -5126,7 +5204,9 @@ effect on trade development should not be underrated.
 Figure 4.6
 Coal transport costs from Hampton Roads to Japan, 1950-2006
 Source: Compiled by Martin Stopford from various broker's reports
-4.4 THE SUPPLY OF SEA TRANSPORT
+
+### 4.4 The Supply of Sea Transport
+
 In the introduction to this chapter we characterized the supply of shipping services
 as being slow and ponderous in its response to changes in demand. Merchant ships
 generally take about a year to build and delivery may take 2-3 years if the shipyards
@@ -5144,8 +5224,8 @@ influence shipowners by issuing time charters. Bank lending influences investmen
 it is often banks who exert the financial pressure that leads to scrapping in a weak
 market. Regulators affect supply through safety or environmental legislation which
 affects the transport capacity of the fleet. For example, the update to International
-Maritime Organization (IMO) Regulation 13G introduced in December 2003 requires single hull tankers to be phased out by 2010, leaving shipowners with no choice over P
-the life extension of their ships.10 T
+Maritime Organization (IMO) Regulation 13G introduced in December 2003 requires single hull tankers to be phased out by 2010, leaving shipowners with no choice over
+the life extension of their ships.10
 At this point, a warning is needed. Because the supply of shipping capacity is
 controlled by this small group of decision-makers, the supply-side relationships in the shipping model are behavioural. If we draw an analogy with a poker game, there are
 many ways of playing a particular hand. The player may be cautious, or he may decide
@@ -5230,9 +5310,9 @@ market widening meant that the market share of bulk tonnage grew steadily during
 movement in ship size and none of the chronic overcapacity problems encountered in
 the oil market.
 
-## THE SUPPLY OF SEA TRANSPORT 4.4
+### 4.4 The Supply of Sea Transport
 
-Table 4.2 The world cargo fleet at 1st January (m.dwt) P
+Table 4.2 The world cargo fleet at 1st January (m.dwt)
 Size of fleet (m.dwt) % growth rate per annum E
 1980 1990 2000 2007 1980-90 1990-2000 2000-2007 4
 Bulk carriers 140.7 203.4 266.8 369.7 4% 3% 5%
@@ -5275,7 +5355,7 @@ trade from US to Japan units of 25-35,000 dwt were successfully introduced …
 with tankers and large dry cargo vessels taking care of the main part of the grain
 
 Pmovements a new market was created for Liberty type vessels as barges in India
-Tand Pakistan where ports cannot accommodate large vessels.11
+and Pakistan where ports cannot accommodate large vessels.11
 Thus ships move freely from one market sector to another. As we have noted, combined carriers are built for this purpose and were used very successfully in 1967
 when the Suez Canal was closed, as the following quotation suggests:
 The improvement in freights was mainly brought about by the many combined
@@ -5353,8 +5433,8 @@ in the previous paragraphs. In principle, the level of output adjusts to changes
 demand - and over long periods this does happen. Thus, in 1974, shipbuilding output
 accounted for about 12% of the merchant fleet, whereas in 1996 it had fallen to 4.7%,
 but by 2007 it was back up to 9%. Adjustments in the level of shipbuilding output
-on this scale do not take place quickly or easily. Shipbuilding is a long-cycle business, and the time-lag between ordering and delivering a ship is between 1 and 4 years, P
-depending on the size of orderbook held by the shipbuilders. Orders must be placed on T
+on this scale do not take place quickly or easily. Shipbuilding is a long-cycle business, and the time-lag between ordering and delivering a ship is between 1 and 4 years,
+depending on the size of orderbook held by the shipbuilders. Orders must be placed on
 the basis of an estimate of future demand and in the past these estimates have often
 proved to be wrong, most dramatically in the mid-1970s when deliveries of VLCCs continued for several years after demand had gone into decline. In addition, downward
 adjustments in shipbuilding supply may be seriously hampered by political intervention
@@ -5376,7 +5456,7 @@ World shipbuilding deliveries by type, 1963-2007
 Source: Fearnleys, Clarkson Research
 
 Ptanker fleet built in the 1970s needed to be replaced the trend was again reversed, and
-Tby 2006 tanker production had increased to 25.8 m.dwt.
+by 2006 tanker production had increased to 25.8 m.dwt.
 Compared with oil tankers, the dry bulk carrier newbuilding market has been
 comparatively stable since the mid-1960s. However, investment has been cyclical, with deliveries fluctuating between 5 and 15 m.dwt per annum. A very low output of 4 m.dwt
 in 1979 was followed by the ‘mini-boom' in the dry cargo market during 1979-80.
@@ -5439,7 +5519,7 @@ industry and the availability of scrap metal from sources such as shipbreaking o
 demolition of vehicles, which form the largest sources of supply. A period of extensive
 ship scrapping may even depress prices of scrap metal - a process that is accentuated
 
-Pby the fact that shipping surpluses often occur simultaneously with trade cycle
+by the fact that shipping surpluses often occur simultaneously with trade cycle
 Tdownswings in the industrialized regions when demand for steel is also depressed.
 Most importantly, the scrapping of a ship is a business decision and depends on the
 owner's expectations of the future operating profitability of the vessel and his financial position. If, during a recession, he believes that there is some chance of a freight market
@@ -5476,8 +5556,8 @@ This is the adjustment mechanism linking supply and demand. The way it
 operates is simple enough. Shipowners and shippers negotiate to establish a freight rate
 which reflects the balance of ships and cargoes available in the market. If there are too
 many ships the freight rate is low, while if there are too few ships it will be high. Once this
-freight rate is established, shippers and shipowners adjust to it and eventually this brings supply and demand into balance. We will use the perfect competition model to analyse P
-the shipping market, and the economic concepts we will use to analyse this process T
+freight rate is established, shippers and shipowners adjust to it and eventually this brings supply and demand into balance. We will use the perfect competition model to analyse
+the shipping market, and the economic concepts we will use to analyse this process
 more formally are the supply function, the demand function and the equilibrium price.17
 The supply and demand functions
 The supply function for an individual ship, shown in Figure 4.12a, is a J-shaped curve
@@ -5534,8 +5614,8 @@ The fleet supply functionworks by moving ships in and out of service in response
 freight rates. If freight rates fall below the operating costs of ship 10, it goes into lay-up
 and supply is reduced by one ship. Ship 9 breaks even and the other eight ships make a
 margin over their fixed expenses, depending on how efficient they are. If shippers only
-need five ships they can drop their offer to $160 per million ton miles, the lay-up point of ship 5. In this way supply responds to movements in freight rates. Over a longer P
-period the supply can be increased by building new more efficient ships and reduced by T
+need five ships they can drop their offer to $160 per million ton miles, the lay-up point of ship 5. In this way supply responds to movements in freight rates. Over a longer
+period the supply can be increased by building new more efficient ships and reduced by
 scrapping old ones.
 The slope of the short-term supply curve depends on three factors which determine the lay-up cost of the marginal ship. First, old ships generally have higher operating
 costs so the lay-up point will occur at a higher freight rate. We discuss this in Chapter 5.
@@ -5573,7 +5653,7 @@ Momentary equilibrium describes the freight rate negotiated for ‘prompt' ships
 cargoes. It is the spot market that owners and charterers deal with day by day. The ships are
 ready to load, the cargoes are awaiting transport and a deal must be done. The shipowner
 
-Pis in the same position as
+is in the same position as
 a farmer when he arrives
 at market with his pig
 (see Section 5.8). Within this time frame the shipping market is highly
@@ -5603,7 +5683,7 @@ then it goes vertical. In this case demand is only for 75 ships, so there are mo
 than cargoes. Since the alternative to fixing is earning nothing, rates fall to operating
 costs, which for 75 cargoes equates to 20 cents a barrel, shown by the intersection of
 Sand D . If the number of cargoes increases to 85 (D ) there are more cargoes than
-1 2
+1
 ships. Charterers bid desperately to find a ship and the freight rate shoots up to almost
 $1 per barrel. A swing of 10 cargoes is quite common, but the effect on rates is dramatic.
 But never forget that this is an auction and in this very short-term situation market
@@ -5614,8 +5694,8 @@ than ships and rates rise, at which point the reticent owners enter the market a
 attempt to hide their ships from charterers by reporting the presence of only one ship in
 their fleet, or waiting outside the loading area. But the fundamentals have the last word.
 If the surplus of ships persists, the owners holding back may be unable to fix at all and
-as they start to haemorrhage cash, rates quickly collapse. So when supply and demand are roughly balanced the shape of the supply curve is determined by sentiment rather P
-than fundamentals, a problem that sometimes misleads analysts and traders. T
+as they start to haemorrhage cash, rates quickly collapse. So when supply and demand are roughly balanced the shape of the supply curve is determined by sentiment rather
+than fundamentals, a problem that sometimes misleads analysts and traders.
 THE SHORT-RUN EQUILIBRIUM 4
 In the ‘short run' there is more time for owners and charterers to respond to price
 changes by moving ships in and out of lay-up, so the analysis is a little different.
@@ -5682,7 +5762,7 @@ Between 1985 and 1991 (Figure 4.15c), despite heavy scrapping, the tanker fleet 
 by only 7 m.dwt, due to increased newbuilding in the late 1980s. As a result the supply
 
 Pmoved back to its ‘normal'position as the temporary storage market disappeared. This
-Twas enough to drive freight rates down to $15,000 per day (Figure 4.15d).
+was enough to drive freight rates down to $15,000 per day (Figure 4.15d).
 It is the combination of volatile demand and a significant time-lag before supply
 adjusts to demand that creates the framework for shipping market cycles. Shipowners tend to base investment on the current state of the market - they order more ships when
 freight rates are high and fewer when freight rates are low. The delay in delivering these
@@ -5720,7 +5800,7 @@ whilst S3 says $37,000 per day, almost twice as much. This significant differenc
 a simple explanation. In years of recession the negotiation goes in the charterer's favour
 whilst in the boom the owners get the upper hand. During a sequence of good or
 
-## THE FREIGHT RATE MECHANISM 4.5
+### 4.5 The Freight Rate Mechanism
 
 Figure 4.16
 Analysis of vertical movement of the shipping supply curve
@@ -5771,8 +5851,8 @@ are economic shocks. These are important because they generally produce major
 changes of trend, and extreme changes in shipping demand. Wars, political crisis, and
 sudden changes in the economics of some major commodity such as oil have all contributed
 to major shifts in the demand for sea transport. Finally, there are the ‘secular trends'.
-These are the major economic changes of direction which may accompany the development of a new technology (steam, electricity, information technology) or the emergence of a P
-new major region (e.g. Japan, South Korea, China), so secular trends are the ones which T
+These are the major economic changes of direction which may accompany the development of a new technology (steam, electricity, information technology) or the emergence of a
+new major region (e.g. Japan, South Korea, China), so secular trends are the ones which
 underlie the long-term cycles and are perhaps the most neglected of the three. Partly it
 is because such trends are concealed due to their slow development. All three of these contributors to the changes in sea trade represent major topics in their own right, and
 they often seem too distant from the more specialist world of shipping to be of great
@@ -5847,13 +5927,15 @@ this occasion prices will cover their real costs. Economic theory offers no guar
 and, as we saw in Chapter 2, the returns have, on average, tended to be rather low.
 This discussion of the Return on Shipping Investment (ROSI) model is developed in
 Chapter 8, pages 325-338.
-4.6 SUMMARY
+
+### 4.6 Summary
+
 We started this chapter with the idea that shipping companies should approach the
 shipping market from a competitive viewpoint, ‘i.e. playing other players'. The rules
 of the shipping market game are set by the economic relationships which create
 
-## SUMMARY 4.6 freight cycles. To explain them we discussed the economic ‘model' of the shipping P
-market. This model has two main components, supply and demand, linked by freight T
+freight cycles. To explain them we discussed the economic ‘model' of the shipping 
+market. This model has two main components, supply and demand, linked by freight
 rates which, through their influence on the actions of shippers and shipowners, bring
 supply and demand into balance. Because the demand for ships changes rapidly but supply is slow and ponderous, freight cycles are generally irregular.
 We identified five key demand variables: the world economy, commodity trades,
@@ -5908,15 +5990,19 @@ cycle game are a lifetime's experience in the shipping industry, a direct line t
 economic and political grapevine, and a sharp eye for a bargain. Decision-makers
 without the advantage of experience must rely on what they can glean from books.
 
-The Four Shipping
-Markets
+---
+
+## Chapter 5: The Four Shipping Markets
+
 Economists understand by the term Market, not any particular market place in which things
 are bought and sold, but the whole of any region in which buyers and sellers are in such
 free intercourse with one another that the prices of the same goods tend to equality easily
 and quickly.
 (Antoine-Augustin Cournot, Researches Into the Mathematical Principles of the Theory of
 Wealth, 1838 (Trans. N.T. Bacon 1897))
-5.1 THE DECISIONS FACING SHIPOWNERS
+
+### 5.1 The Decisions Facing Shipowners
+
 A shipowner had a difficult decision to make. He was about to take delivery of two
 300,000 dwt VLCCs which an oil company was prepared to charter for 5 years at
 $37,000 per day each. This would guarantee revenue to cover his finance costs for the
@@ -5936,8 +6022,6 @@ In this example the shipowner trades in four different markets:
 ● the freight marketwhere he chartered them and concluded FFAs;
 ● the sale and purchase marketwhere he tried to sell the Suezmax tankers;
 ● the demolition marketwhere he finally sold them.
-
-## THE FOUR SHIPPING MARKETS
 
 T BOX 5.1 GLOSSARY OF CHARTERING TERMS
 R ShipperIndividual or company with cargo to transport.
@@ -5977,10 +6061,9 @@ and freight which is arranged by the exporter.
 f.o.b. Goods are purchased at cost and the importer makes his own arrangement
 for insurance and freight.
 
-## THE FOUR SHIPPING MARKETS 5.2
+### 5.2 The Four Shipping Markets
 
-The aim of this chapter is to explain how these four markets work from a practical view- P
-point and to identify the differences between them. In Chapter 4 we discussed the bare T
+The aim of this chapter is to explain how these four markets work from a practical viewpoint and to identify the differences between them. In Chapter 4 we discussed the bare
 bones of supply-demand analysis, showing how the supply and demand curves interact
 to determine freight rates and prices, so now we will put some flesh on the bones. How are ships actually chartered? How can FFAs be used to manage freight market risk?
 How does the sale and purchase market operate and what determines the value of a
@@ -5990,7 +6073,9 @@ for continued trading? And how do these markets interact? An understanding of th
 practical questions should provide a deeper insight into how the market economics
 really work. A list of the more important specialist terms often used in these markets
 is provided in Box 5.1.
-5.2 THE FOUR SHIPPING MARKETS
+
+### 5.2 The Four Shipping Markets
+
 Definition of a market
 Markets play such a big part in the operation of the international sea transport business
 that we must start by clarifying what a market actually is. Jevons, the nineteenthcentury economist, provided a definition which, a century later, still serves very well
@@ -6015,7 +6100,7 @@ the demolition market deals in ships for scrapping. Beyond this there is no form
 This is an important point which calls for a warning. Although this chapter provides
 
 Pguidance on how the markets operate, we are not dealing with immutable laws. The fact
-Tthat traders behaved in a particular way in the past is no guarantee that they will do so in
+that traders behaved in a particular way in the past is no guarantee that they will do so in
 future. Because markets consist of people going about their business, the best commercial
 opportunities often arise when the market behaves inconsistently. For example, ordering ships at the top of the market cycle is usually bad business, but if for some reason few
 ships are ordered, the rule will not apply. Commercial judgements must be based on an
@@ -6093,7 +6178,9 @@ but there is still competition between them for cargo. Finally there are many sm
 entrepreneurial companies and it is easy for companies to enter and leave the market,
 making the whole structure very cost-effective and responsive to changes in shippers'
 needs. In all, a fascinating case study of market economics at work.
-5.3 THE FREIGHT MARKET
+
+### 5.3 The Freight Market
+
 What is the freight market?
 The freight market is one of the markets Jevons must have had in mind when he wrote
 the definition cited in the previous section. The original freight market, the Baltic
@@ -6109,8 +6196,8 @@ sections for cows and pigs in the country market, there are separate markets for
 ships in the freight market. In the short term the freight rates for tankers, bulk carriers,
 container-ships, gas tankers, and chemical tankers behave quite differently, but because
 it is the same broad group of traders, what happens in one sector eventually ripples
-through into the others. For example, combined carriers switch between tanker and bulk markets. Also, because it takes time for ships to move around the world, there are P
-separate regional markets which are only accessible to ships ready to load cargo in that T
+through into the others. For example, combined carriers switch between tanker and bulk markets. Also, because it takes time for ships to move around the world, there are
+separate regional markets which are only accessible to ships ready to load cargo in that
 area. We discussed how this influences the theory of short-term and long-term freight
 rate determination in Section 6.4.
 The freight market has two different types of transaction: the freight contract in
@@ -6193,8 +6280,8 @@ is the contract of affreightment, in which the shipowner contracts to carry regu
 tonnages of cargo for an agreed price per ton, again covering all the costs. The time
 charter is an agreement between owner and charterer to hire the ship, complete with
 crew, for a fee per day, month or year. In this case the shipowner pays the capital
-costs and operating expenses, whilst the charterer pays the voyage costs. The owner continues to manage the ship, but the charterer instructs the master where to go and P
-what cargo to load and discharge. Finally the bare boat charter hires out the ship T
+costs and operating expenses, whilst the charterer pays the voyage costs. The owner continues to manage the ship, but the charterer instructs the master where to go and
+what cargo to load and discharge. Finally the bare boat charter hires out the ship
 without crew or any operational responsibilities, so in this case the owner just pays the
 capital costs - it is really a financing arrangement, requiring no ship management expertise on the part of the owner.
 The voyage charter
@@ -6273,7 +6360,7 @@ one of the reasons why oil companies subcontracted so much of their transport in
 1960s. Third, the charterer may be a speculator taking a position in anticipation of
 a change in the market.
 Time chartering to industrial clients is a prime source of revenue for the shipowner.
-The availability of time charters varies from cargo to cargo and with business circumstances. In the P
+The availability of time charters varies from cargo to cargo and with business circumstances. In the
 early 1970s about 80% T
 of oil tankers owned by
 independent shipowners were on time charter to
@@ -6313,8 +6400,8 @@ For the above reasons the charter-party or cargo contract is an important docume
 in the shipping industry and must be expertly drawn up in a way that protects the
 
 Figure 5.3
-BIMCO Gencon charter-party form, Part I position of the contracting parties. It would be too time-consuming to develop a new P
-charter-party for every contract, particularly voyage charters, and the shipping industry T
+BIMCO Gencon charter-party form, Part I position of the contracting parties. It would be too time-consuming to develop a new
+charter-party for every contract, particularly voyage charters, and the shipping industry
 uses standard charter-parties that apply to the main trades, routes and types of
 chartering arrangement. By using one of these standard contracts, proven in practice, both shipper and shipowner know that the contractual terms will cover most of the
 eventualities that are likely to arise in that particular trade.
@@ -6391,7 +6478,7 @@ The vessel Rubena Nhas been chartered to load cargo at Seven Islands in Canada a
 transport it to Rotterdam. The cargo consists of 180,000 tonnes of iron ore, at a freight
 
 P This is a period charter. The ship's details are given in brackets after its name, and in
-Tthis case the vessel is a new 175,000 dwt bulk carrier delivered in 2006. The speed and
+this case the vessel is a new 175,000 dwt bulk carrier delivered in 2006. The speed and
 fuel consumption are quoted, since these are significant in determining the charter rate.
 Operating at 14 knots loaded the ship burns 54.7 tons per day and in ballast at
 14.5 knots it consumes 47.3 tons per day. The vessel is to be delivered to the charterer
@@ -6476,11 +6563,13 @@ Bunker price US$116.75 per tonne different routes. Suppose
 Port costs Most recent available a tanker is available spot (i.e.
 Canal transit time 30 hours per Suez transit
 waiting for a cargo) in the
-Source: Worldscale Association, London Gulf and the owner agrees a rate of WS 50 for a voyage from Jubail to Rotterdam. To calculate how much money P
-he will earn he first looks up the rate per tonne for WS 100 from Jubail to Rotterdam. T
+Source: Worldscale Association, London Gulf and the owner agrees a rate of WS 50 for a voyage from Jubail to Rotterdam. To calculate how much money
+he will earn he first looks up the rate per tonne for WS 100 from Jubail to Rotterdam.
 Consulting the appropriate entry he finds that it is $17.30 per tonne. Since he has settled at WS 50 he will receive half of this amount, i.e. $8.65 per tonne. If his ship car- ries 250,000 tonnes, the revenue from the voyage will be $2,162,500. It is an equally
 simple matter to make the same calculation for a voyage to Japan.
-5.4 THE FREIGHT DERIVATIVES MARKET
+
+### 5.4 The Freight Derivatives Market
+
 Shipping markets have changed surprisingly little over the centuries. The issues raised
 in the 2000-year-old bill of lading discussed in Chapter 1 (Box 1.1) are not so very
 different from the charter-parties reviewed in Section 5.3. But occasionally a radical
@@ -6573,7 +6662,7 @@ Forward freight agreements
 In the late 1990s FFAs took over from futures contracts as the main form of freight
 derivative, and by 2006 FFA market volume had reached an estimated $56 billion, with
 287,745 lots traded over the counter and 32,200 cleared through clearing houses.6The
-key feature of FFAs (also known as freight swaps) is that they are principal-to-principal contracts, usually arranged by a broker, though they can also be traded on screens P
+key feature of FFAs (also known as freight swaps) is that they are principal-to-principal contracts, usually arranged by a broker, though they can also be traded on screens
 provided by a number of freight derivatives brokers. The process for arranging an FFA T
 is similar to the way shipping has traditionally arranged time charters, but no physical
 commitment is involved. For example, the cargo owner wishing to hedge the freight on his cargo of ore calls his broker and outlines his requirements, which will include an
@@ -6636,7 +6725,9 @@ trading at WS 57.94 on 31 August, but contracts for January 2008 were trading at
 80, suggesting that the market expects a seasonal improvement. These provide price
 guidelines at which buyers and sellers might start negotiating a trade and they are also
 used by the clearing houses to mark cleared contracts to market.
-5.5 THE SALE AND PURCHASE MARKET
+
+### 5.5 The Sale and Purchase Market
+
 What the sale and purchase market does
 We now come to the sale and purchase market. In 2006 about 1,500 deep-sea merchant
 ships were sold, representing an investment of $36 billion. The remarkable feature
@@ -6665,8 +6756,8 @@ several broking companies. On receipt of the instruction the broker will telepho
 email any client he knows who is looking for a vessel of this type. If the instruction is
 exclusive, he will call up other brokers in order to market the ship through their client
 list. Full details of the ship are drawn up, including the specification of the hull, machinery,
-equipment, class, survey status and general equipment. Simultaneously the broking house will be receiving enquiries from potential purchasers. For example an owner may P
-be seeking a ‘modern'76,000 dwt bulk carrier. The broker may have suitable vessels for T
+equipment, class, survey status and general equipment. Simultaneously the broking house will be receiving enquiries from potential purchasers. For example an owner may
+be seeking a ‘modern'76,000 dwt bulk carrier. The broker may have suitable vessels for
 sale on his own list, and would not pursue enquiries through other brokers. If no suitable
 candidates can be found, he may look for suitable candidates and approach their owners to see if there is any interest in selling.
 The sales procedure
@@ -6745,10 +6836,10 @@ applies if the ship is delivered without drydocking and permits the buyer to
 arrange an inspection by divers approved by the Classification Society. The
 buyer pays for the divers but any defects affecting Class must be put right by
 
-## THE SALE AND PURCHASE MARKET 5.5
+### 5.5 The Sale and Purchase Market
 
-BOX 5.2-cont'd T
-the seller. A lengthy clause c) sets out the rules if the ship is drydocked. The R
+BOX 5.2-cont'd
+the seller. A lengthy clause c) sets out the rules if the ship is drydocked. The
 buyer can ask for tailshaft inspection, even if the Classification does not require 5
 it, and has the right to observe the drydocking and to carry out hull cleaning
 and painting work as long as it does not interfere with the survey. Costs for
@@ -6826,8 +6917,8 @@ Correlation of second-hand price and freight rate (five-year-old earnings, based
 one-year time-charter rate.
 Source: Clarkson Research Services Ltd
 
-For example, if it is earning $4 million per annum it will value the ship at $24 million. P
-But this depends on the stage in the cycle. Broadly speaking, when the market falls the T
+For example, if it is earning $4 million per annum it will value the ship at $24 million.
+But this depends on the stage in the cycle. Broadly speaking, when the market falls the
 earnings multiple tends to increase, and when it rises the multiple falls, but there can be
 no firm rules because it all depends on sentiment and liquidity.
 The second influence on a ship's value is age. A ten-year-old ship is worth less than
@@ -6868,13 +6959,15 @@ example, if an investor sells a ship for twice what it cost, but has to pay twic
 a new replacement, he has not really made a profit so by deflating the asset price by the
 newbuilding cost we get a clearer idea of whether the ship's economic value is going up or
 down. The deflated price of the five-year-old Aframax, using a newbuilding price index, is
-shown by the fine line in Figure 5.12. This inflation adjusted price has a much clearer trend, to value the collateral and will probably continue to monitor the ship's value over the P
-term of the loan. Prospectuses for public offerings of equity generally include a valuation T
+shown by the fine line in Figure 5.12. This inflation adjusted price has a much clearer trend, to value the collateral and will probably continue to monitor the ship's value over the
+term of the loan. Prospectuses for public offerings of equity generally include a valuation
 of the company's fleet, as do the annual accounts of public companies. Finally, leases
 often require a view on the residual value of the ship at the end of the loan period, a much more complex and difficult task than simply appraising the current value. This
 is covered in Section 6.8 which deals with valuing ships and shipping companies,
 including the calculation of residual values and scrap values.
-5.6 THE NEWBUILDING MARKET
+
+### 5.6 The Newbuilding Market
+
 How the newbuilding market differs from sale and purchase
 Although the shipbuilding market is closely related to the sale and purchase market, its
 character is quite different. Both markets deal in ships, but the newbuilding market trades
@@ -6946,8 +7039,8 @@ Steel cutting 22.5 per cent on delivery. The specifiKeel laying 22.5 per cent ca
 Launching 22.5 per cent also important, because
 Delivery 22.5 per cent modifications to the design
 may add 10-15% to the
-Source: H. Clarkson newbuilding department cost. There are many negotiable elements in the contract, as discussed below. Finally, P
-the provision of finance by the shipbuilders is a long-established way of securing T
+Source: H. Clarkson newbuilding department cost. There are many negotiable elements in the contract, as discussed below. Finally,
+the provision of finance by the shipbuilders is a long-established way of securing
 business, especially by shipyards who are uncompetitive on price, or during recessions
 when customers find it difficult to raise finance. The financing of new ships is discussed in Section 8.4.
 The shipbuilding contract
@@ -7026,10 +7119,10 @@ right to cancel if delivery, excluding permissible delays, slips by more than 21
 Sets out the liquidated damages and premiums for late/early delivery. Permissible
 delays include strikes, extreme weather conditions and shortage of materials.
 
-## THE NEWBUILDING MARKET 5.6
+### 5.6 The Newbuilding Market
 
-BOX 5.5-cont'd T
-Article 9: Guarantee. Sets out the terms and period over which the vessel is R
+BOX 5.5-cont'd
+Article 9: Guarantee. Sets out the terms and period over which the vessel is
 guaranteed against defects due to bad workmanship or defective materials. 5
 Article 10: Cancellation by the buyer. Within 3-4 months of signing the contract the
 builder must provide the buyer with a Letter of Refundment Guarantee from an
@@ -7103,15 +7196,17 @@ markets where it provides a convenient supply of raw materials for mini-mills, o
 cold rolled for use in construction. Thus, demand depends on the state of the local
 steel market, though availability of scrapping facilities is sometimes a consideration.
 
-## SUMMARY 5.8
+### 5.8 Summary
 
-Thus prices can be very volatile, fluctuating from a trough of $100/lwt in the 1980s P
-to more than $400/lwt in 2007. The price also varies from ship to ship, depending T
+Thus prices can be very volatile, fluctuating from a trough of $100/lwt in the 1980s
+to more than $400/lwt in 2007. The price also varies from ship to ship, depending
 on its suitability for scrapping.
 As offers are received, the price firms up and eventually a deal is made. Although a standard contract such as the Norwegian Sales Form is sometimes used, so few of
 the clauses are relevant to a demolition sale that brokers tend to use their own simplified contract. On completion the purchaser takes delivery of the ship and, if he is an
 intermediary, makes the arrangements for delivering the ship to the demolition yard.
-5.8 SUMMARY
+
+### 5.8 Summary
+
 In this chapter we have looked at the four shipping markets, the freight market (including
 the freight derivatives market), the sale and purchase market, the newbuilding market
 and the demolition market. Since markets are practical places, economists who want
@@ -7156,12 +7251,20 @@ the demand for pigs or chickens. It is a supply-side management and we will disc
 how individual firms deal with it in Chapter 8. But for now we conclude that, like the
 farmer, the successful shipping company must know when to steer clear of pigs!
 
-Costs, Revenue
-and Cashflow
+---
+
+# Part 3: Shipping Company Economics
+
+---
+
+## Chapter 6: Costs, Revenue and Cashflow
+
 Annual income twenty pounds, annual expenditure nineteen nineteen six, result happiness.
 Annual income twenty pounds, annual expenditure twenty pounds ought and six, result misery
 (Mr Micawber inDavid Copperfield)
-6.1 CASHFLOW AND THE ART OF SURVIVAL
+
+### 6.1 Cashflow and the Art of Survival
+
 The impact of financial pressures on shipowners' decisions
 In this chapter we look at shipping economics from the perspective of the individual
 shipping company. Every company faces the challenge of navigating its way through the
@@ -7207,16 +7310,18 @@ decision to sacrifice one part of the business to provide cash to allow the rema
 continue, based on a belief that the prospects for the tanker market were better than
 those for the dry cargo market.
 
-## FINANCIAL PERFORMANCE AND INVESTMENT STRATEGY 6.2
+### 6.2 Financial Performance and Investment Strategy
 
-On the basis of this example, the challenge is to create sufficient financial strength P
-when times are good to avoid unwelcome decisions such as selling ships for scrap when T
+On the basis of this example, the challenge is to create sufficient financial strength
+when times are good to avoid unwelcome decisions such as selling ships for scrap when
 times are bad. It is the company with a weak cashflow and no reserves that gets pushed
 out during depressions and the company with a strong cashflow that buys the ships cheap and survives to make profits in the next shipping boom. It is not therefore the
 ship, the administration, or the method of financing that determines success or failure, but
 the way in which these are blended to combine profitability with a cashflow sufficiently
 robust to survive the depressions that lie in wait to trap unwary investors.
-6.2 FINANCIAL PERFORMANCE AND INVESTMENT STRATEGY
+
+### 6.2 Financial Performance and Investment Strategy
+
 If financial performance is the key to survival in the shipping market, then how is it
 achieved? The three key variables with which shipowners have to work are:
 ● the revenue received from chartering/operating the ship;
@@ -7264,8 +7369,8 @@ fixed and the options open to shipowners become more restricted.
 The result can be a striking difference between the culture and approach of shipping
 companies. For example, some companies specialize in operating older tonnage with low
 debt and high equity. The low fixed capital cost makes it possible to lay the ships up during
-depressions with minimum cashflow and earn good profits during booms, often by the sale of the ship itself. However, the company must have the ‘hands on'skills to manage old P
-ships and deal with the problems of maintenance and reliability which an old fleet is likely T
+depressions with minimum cashflow and earn good profits during booms, often by the sale of the ship itself. However, the company must have the ‘hands on'skills to manage old
+ships and deal with the problems of maintenance and reliability which an old fleet is likely
 to encounter. Other companies specialize in modern, highly sophisticated ships, which give
 the maximum revenue-earning potential through their high flexibility and ability to carry special cargoes. This strategy is capital-intensive and often involves a high degree of debt
 financing, with the result that the ships have to be operated continuously throughout
@@ -7346,8 +7451,8 @@ Capesize bulk carrier cost and age
 generates less cash than the
 Source: Clarkson Research Studies, Capesize Quality Survey (1993)
 
-new ship. If gross earnings for a Capesize (i.e. before bunker costs) fall to the operating P
-costs of the 20-year-old ship for any length of time, the owner of the 20-year-old ship, T
+new ship. If gross earnings for a Capesize (i.e. before bunker costs) fall to the operating
+costs of the 20-year-old ship for any length of time, the owner of the 20-year-old ship,
 will probably lay it up, since revenue does not cover operating and voyage costs, but the
 modern ship with its lower operating expenses will be able to go on trading. Will the old ship come out of lay-up? This is where periodic maintenance costs come into play.
 Although these costs can be postponed, they cannot be deferred indefinitely. In this
@@ -7426,11 +7531,11 @@ bDecember 2005, assuming 270 days at sea per annum at 14 knots and bunkers at $3
 cCapital costs at 5% depreciation plus interest at 6% p.a. over 365 days
 dTime-charter rates are used for the economy of scale calculations
 
-## THE COST OF RUNNING SHIPS 6.3
+### 6.3 The Cost of Running Ships
 
-Table 6.2 Operating costs of Capesize bulk carriers by age ($000 per annum) P
+Table 6.2 Operating costs of Capesize bulk carriers by age ($000 per annum)
 % Total E
-Age of ship 5 Years 10 Years 20 Years Average R
+Age of ship 5 Years 10 Years 20 Years Average
 Crew cost
 Crew wages 544 639 688 30%
 Travel, insurance etc 73 82 85 4%
@@ -7517,8 +7622,8 @@ bIncludes social costs
 c1993 data from Stopford (1997, Table 5.3)
 Source: V Ships
 
-A more detailed breakdown of the crewing arrangements of three Capesize bulk P
-carriers, one 5 years old, one 10 years old and one 20 years old, is provided in Table 6.3. T
+A more detailed breakdown of the crewing arrangements of three Capesize bulk
+carriers, one 5 years old, one 10 years old and one 20 years old, is provided in Table 6.3.
 The modern vessel has a crew of, comprising the master, four officers, three engineers,
 a bosun, eight seamen and three catering staff. The 10-year-old ship, where the maintenance workload is beginning to increase, might require a crew of 24, while a
 20-year-old ship might have a crew of 28. The extra crew includes an additional
@@ -7557,7 +7662,7 @@ routine repairs needed to maintain the vessel to the standard required by compan
 policy, its classification society and the charterers of the vessel who choose to
 
 Pinspect it (it does not include periodic dry docking which is not generally considered
-Tan operating expense and is dealt with under ‘periodic maintenance' below).
+an operating expense and is dealt with under ‘periodic maintenance' below).
 Broadly speaking, maintenance covers the cost of routine maintenance, including
 breakdowns and spares:
 ● Routine maintenance. Includes maintaining the main engine and auxiliary equipment,
@@ -7594,8 +7699,8 @@ the United States.
 The P&I clubs, of which there are 13, are mutual insurance societies which settle
 third party claims for their members. They investigate claims on behalf of their
 shipowner members, provide advice during any negotiations or legal dispute over the
-claim and hold reserve funds to settle the claims on their members'behalf. This reserve is replenished through a subscription (known as the ‘call') from members which varies, P
-depending on the level of claims settled. The subscription for an individual member T
+claim and hold reserve funds to settle the claims on their members'behalf. This reserve is replenished through a subscription (known as the ‘call') from members which varies,
+depending on the level of claims settled. The subscription for an individual member
 depends on the company's claims record and other factors such as the intended trading
 area, the cargo to be carried, the flag of registry and the nationality of the crew. Since settlement takes time, there may be a supplementary call on members and members
 changing clubs generally pay a ‘release call'to settle their outstanding liabilities with
@@ -7634,9 +7739,9 @@ considerable expense, for example in replacing steelwork that, owing to corrosio
 longer meets the required thickness standards. In addition, dry docking allows marine
 growth, which reduces the operating efficiency of the hull, to be removed.
 
-a particular voyage. The main items are fuel costs, port dues, tugs, pilotage and canal P
+a particular voyage. The main items are fuel costs, port dues, tugs, pilotage and canal
 charges: T
-VC = FC +PD +TP +CD (6.3) R
+VC = FC +PD +TP +CD (6.3)
 tm tm tm tm tm where VCrepresents voyage costs, FCis the fuel costs for main engines and auxiliaries,
 PDport and light dues, TPtugs and pilotage, and CDis canal dues.
 FUEL COSTS
@@ -7711,8 +7816,8 @@ fuel consumption is very sensitive to speed. For example, for a Panamax bulk car
 reduction in the operating speed of 16 knots to 11 knots results in a two-thirds saving
 in the tonnage of fuel burnt per day, as shown in Table 6.5.
 
-For any given speed, fuel consumption depends Table 6.5 How speed affects P
-on hull design and hull smoothness. According to fuel consumption for a panamax T
+For any given speed, fuel consumption depends Table 6.5 How speed affects
+on hull design and hull smoothness. According to fuel consumption for a panamax
 work carried out by British Maritime Technology, a bulk carrier E
 reduction in hull roughness from 300 micrometres
 Main engine fuel 6
@@ -7791,10 +7896,12 @@ facilitate rapid cargo handling, along with advanced shipboard cargo-handling ge
 example, a forest products carrier with open holds and four cranes per hold can achieve
 faster and more economical cargo handling than a conventional bulk carrier relying on
 shore-based cranes.
-6.4 THE CAPITAL COST OF THE SHIP
+
+### 6.4 The Capital Cost of the Ship
+
 The fifth component in the cost equation for our ‘typical' ship in Figure 6.4 is its
-capital cost. This accounts for 42% of total costs, but in economic terms it has a very different character from the other costs. Operating and fuel costs are necessities without P
-which the ship cannot trade. Crew and bunker suppliers are generally the first creditors T
+capital cost. This accounts for 42% of total costs, but in economic terms it has a very different character from the other costs. Operating and fuel costs are necessities without
+which the ship cannot trade. Crew and bunker suppliers are generally the first creditors
 to be paid off in a financial crisis, because without them the ship is marooned. In contrast, once a ship is built, its capital costs are obligations which have no direct effect on its physical operation. That is why the costs are not specified in Figure 6.4. In practice
 these obligations take three forms as far as the shipping company's cashflow is concerned. First, there is the initial purchase and the obligation to pay the shipyard; second,
 there are the periodic cash payments to banks or equity investors who put up the capital to purchase the vessel; and third, cash received from the sale of the vessel. How these
@@ -7828,8 +7935,8 @@ If a merchant ship is depreciated (or written off) over 20 years on a linear bas
 are several methods, but this is the most common), it means one-twentieth of its original
 cost is included in the company's overhead costs each year for 20 years. For example, if
 the ship was purchased for $10 million cash and depreciated at the rate of $1 million
-per annum, the position might be as shown in Table 6.6. In each of the first two years which shows what happens if, instead of paying cash, the ship is financed with a P
-five-year loan. Although the company generates a positive operating cashflow of T
+per annum, the position might be as shown in Table 6.6. In each of the first two years which shows what happens if, instead of paying cash, the ship is financed with a
+five-year loan. Although the company generates a positive operating cashflow of
 $2 million (line 5), after deducting interest (line 6) and capital repayments (line 8) it
 has a net cash outflow in both years. If the company has sufficient funds available, this negative cashflow required to meet finance payments may not present a serious
 problem. The problems arise if there is a negative cashflow but no cash reserves to
@@ -7902,10 +8009,10 @@ security:
 ● The lender takes a first mortgage on the ship being purchased, giving him the first
 claim on the proceeds of the sale should the borrower default.
 
-## THE CAPITAL COST OF THE SHIP 6.4
+### 6.4 The Capital Cost of the Ship
 
-● A mortgage on other ships or assets may be offered. As with any security the bank P
-must be convinced that in a forced sale the assets will realize sufficient cash to T
+● A mortgage on other ships or assets may be offered. As with any security the bank
+must be convinced that in a forced sale the assets will realize sufficient cash to
 cover the outstanding debt.
 ● The income from a long charter with a ‘blue chip'company is assigned to the lender and provides assurance that the cashflow will be available to service the loan.
 ● A guarantee of the loan may be given by the owner, shipping company, the shipbuilding company constructing the vessel or a government agency such as the UK's
@@ -7939,7 +8046,8 @@ schemes. Other reasons for registering in a particular country are to take advan
 investment incentives available to local businesses, or where other business activities
 make this route economic.
 
-P 6.5 THE REVENUE THE SHIP EARNS
+### 6.5 The Revenue the Ship Earns
+
 E The classification of revenue
 The first step is to define how revenue is received. As we saw in Chapter 5, there are several different ways a shipowner can earn revenue, each of which brings a different
 distribution of risk between the shipowner and the charterer and a different apportionment of costs. The risks are shipping market risk, which concerns the availability of
@@ -7974,12 +8082,12 @@ The basic revenue calculation involves two steps: first, determining how much ca
 vessel can carry in the financial period, measured in whatever units are appropriate
 (tons, ton miles, cubic metres, etc.); and second, establishing what price or freight rate
 the owner will receive per unit transported. In more technical terms, the revenue per
-deadweight of shipping capacity can be viewed as the product of the ship's productivity, measured in ton miles of cargo transported per annum, and the freight rate per ton mile, P
+deadweight of shipping capacity can be viewed as the product of the ship's productivity, measured in ton miles of cargo transported per annum, and the freight rate per ton mile,
 divided by the ship's deadweight: T
 R = P tm .FR tm (6.6) 6
 tm DWT
 tm
-where Ris the revenue per dwt per annum, Pthe productivity in ton miles of cargo per
+where Ris the revenue per dwt per annum, the productivity in ton miles of cargo per
 annum, FRthe freight rate per ton mile of cargo transported, tthe time period and mthe
 ship type.
 The concept of a ship's ‘productivity' is useful because it measures overall cargocarrying performance, encompassing operating performance in terms of speed, cargo
@@ -8050,10 +8158,10 @@ tm tm tm tm
 where OHis the number of days off hire per annum, DPthe number of days in port per
 annum, and BALthe number of days in ballast per annum.
 
-## THE REVENUE THE SHIP EARNS 6.5
+### 6.5 The Revenue the Ship Earns
 
-Days off hire reflect time spent for repairs, breakdowns, holidays, etc. A survey of P
-bulk carriers showed an average of 24 days per annum off hire, though this figure can T
+Days off hire reflect time spent for repairs, breakdowns, holidays, etc. A survey of
+bulk carriers showed an average of 24 days per annum off hire, though this figure can
 be expected to vary with conditions in the freight market. Owners will always attempt
 to minimize the time the vessel is not earning, but during periods of low freight market activity the ship may spend substantial time waiting for cargo, this being one
 of the major costs incurred during a market recession. For example, a ship that waits
@@ -8123,18 +8231,19 @@ benefits of containerizat ion with a higher degree of cargo flexibility. But man
 decisions are less dramatic but equally important - for example, paying extra for a faster
 bulk carrier that can make more trips during a boom, or a bigger products tanker that
 has the edge in long-haul trades even if it often carries part cargoes.
-6.6 SHIPPING ACCOUNTS - THE FRAMEWORK
-FOR DECISIONS
+
+### 6.6 Shipping Accounts - the Framework for Decisions
+
 So far we have focused on the cost and revenue relationships which determine how a
 shipping company or investment project performs financially. Now it is time to pull this
 together using the accounting framework which shipping companies and their investors
 use to take financial decisions.
 
-## SHIPPING ACCOUNTS - THE FRAMEWORK FOR DECISIONS 6.6
+### 6.6 Shipping Accounts - the Framework for Decisions
 
-What company accounts are used for P
+What company accounts are used for
 First a brief note about the comparability of financial information. Shipping companies E
-register in many countries around the world and different financial reporting standards R
+register in many countries around the world and different financial reporting standards
 mean that financial information is not always in a comparable form. However in recent 6
 years significant progress has been made in coordinating financial reporting standards
 through the International Accounting Standards Board (IASB). In 2003 the IASB published the first International Financial Reporting Standard (IFRS 1). This was adopted
@@ -8170,8 +8279,8 @@ The income statement, referred to in the UK as the profit and loss account, show
 much profit (net revenue) the company made during the accounting period. This tells us
 how much wealth the company created, a crucial piece of information since a company
 generating profits is increasing in value, whilst a company losing money is on the
-slippery slope. If we think of the company as a stream of net revenue, then the income reporting the total assets of the business (i.e. everything the company owns), and then P
-deducts the liabilities (i.e. money owed to third parties). Analysts are also interested in T
+slippery slope. If we think of the company as a stream of net revenue, then the income reporting the total assets of the business (i.e. everything the company owns), and then
+deducts the liabilities (i.e. money owed to third parties). Analysts are also interested in
 the balance sheet because it tells them how the company is holding its wealth. It is all
 very well having spectacular profits, but if a company has all its wealth tied up in ships and no cash to pay the bills, it could be a very risky situation.
 Usually the balance sheet divides the calculation of wealth into three components. First, the current assets of the business are funds that can be realized quickly
@@ -8250,8 +8359,8 @@ Not all companies publish accounts in this form, but the above examples illustra
 general principles of financial accounting in shipping. Whether the company has 40 ships
 or 400 the operating activities are about increasing revenues and squeezing costs to generate income; the financing activities are about managing funds, whether from a bond
 issue or an investment by a high net worth relative so that the company can do what it
-needs to when it needs to do it; and the investment activities are about implementing the and the legal jurisdiction under which a company's vessels operate. At the beginning of P
-this chapter we discussed the importance of cash management in navigating through the T
+needs to when it needs to do it; and the investment activities are about implementing the and the legal jurisdiction under which a company's vessels operate. At the beginning of
+this chapter we discussed the importance of cash management in navigating through the
 shipping cycles that are such a feature of the business and examined the cost and
 revenue items that underlie a shipping business's cashflow. It now remains to discuss the practical techniques for preparing operational cashflow calculations that can be used as
 a basis for decision-making.
@@ -8371,8 +8480,8 @@ If cash is not available elsewhere and the bankers press for payment, the only o
 may be to sell assets to raise cash. This usually means selling a ship, and brings us back
 to the sale and purchase decision that we discussed at the beginning of the chapter in
 Figure 6.1. The problem is that a ship that cannot generate a positive cashflow, even
-when well managed, will not command a high price on the market. As desperate owners are driven to sell their ships in order to raise cash, and as few potential purchasers can P
-be found, the price falls. For newer vessels, a speculative investor will almost always be T
+when well managed, will not command a high price on the market. As desperate owners are driven to sell their ships in order to raise cash, and as few potential purchasers can
+be found, the price falls. For newer vessels, a speculative investor will almost always be
 found, but for old ships whose economic life may not span the depression the demolition
 yard may be the only willing purchaser.
 The moral is that financially shipping is a business of feast and famine. When times
@@ -8450,12 +8559,12 @@ deals by oil companies, Big Petroleum and Superoil Trading:
 355 days a year. At the end of the charter the oil company guarantees to buy the ship
 for $35 million.
 
-## FOUR METHODS OF COMPUTING THE CASH FLOW 6.7
+### 6.7 Four Methods of Computing the Cash Flow
 
-● Superoil Trading's proposal is a little more complex. To fit its trading patterns the P
-company wants the owner to have the cargo tanks epoxy-coated. This will cost T
+● Superoil Trading's proposal is a little more complex. To fit its trading patterns the
+company wants the owner to have the cargo tanks epoxy-coated. This will cost
 $3 million, bringing the total price up to $48 million. However, Superoil is
-willing to buy the ship at the end of the charter for $45 million. Also, they want to escalate the daily charter rate by $2,000 each year from $12,000 per day in year 1
+willing to buy the ship at the end of the charter for $45 million. Also, they want to escalate the daily charter rate by $2,000 each year from $12,000 per day in year
 to $24,000 per day in year 7.
 The owner is particularly impressed by Superoil's contract. The charter revenue over
 the 7 years of $44.3 million is exactly the same as for the Big Petroleum deal. However,
@@ -8526,12 +8635,14 @@ a 12% discount rate.
 The calculation of the IRR is an iterative process, and rather more time-consuming
 than the NPV. Fortunately, most computer spreadsheet programs now have IRR functions
 which provide estimates quickly and easily.
-6.8 VALUING MERCHANT SHIPS
+
+### 6.8 Valuing Merchant Ships
+
 Estimating the market value of a ship
 Valuing ships is one of the routine tasks undertaken by sale and purchase brokers.
 A merchant ship is a substantial physical asset and, as we have seen, values can change
-rapidly, so investors and bankers need to check how much the asset they are buying or financing is really worth. Valuation procedures are well established in the industry and P
-merchant ships are bought and sold as ‘commodities', so obtaining valuations does not T
+rapidly, so investors and bankers need to check how much the asset they are buying or financing is really worth. Valuation procedures are well established in the industry and
+merchant ships are bought and sold as ‘commodities', so obtaining valuations does not
 usually present a particular problem. The banker, owner or investor can call up a broker
 and receive a valuation certificate within a few hours. However, like any valuation process there are hidden complexities which the prudent banker/investor takes into account.
 The valuation establishes how much the ship is worth at a point in time and it has five
@@ -8610,7 +8721,7 @@ sell more easily but do not necessarily obtain a better price, especially in a w
 It is a difficult area and valuers usually fall back on the ‘average condition'clause in the
 valuation certificate.
 
-## VALUING MERCHANT SHIPS 6.8
+### 6.8 Valuing Merchant Ships
 
 Estimating the scrap value of a ship
 Many banks and financial institutions valuing ships adopt a rule that after a certain age
@@ -8656,7 +8767,7 @@ Resale price at trough 5.5
 However, during this time we Value at cyclical peak 70%
 assume that shipbuilding prices Resale price at peak 31.1
 
-Phave increased by 3% per annum, so the replacement cost after 10 years would be
+have increased by 3% per annum, so the replacement cost after 10 years would be
 T $18.3 million. This is the most likely value. However, we need to take account of the
 market cycle, which we have seen can affect the resale price by plus or minus 70%, if
 we take the most extreme price movements in Figure 5.9. A sale at the top of the market could bring a price of $31 million, which is higher than the initial purchase price of the
@@ -8674,7 +8785,9 @@ discussed in Chapter 3 and the market fundamentals in Chapter 4 can help to narr
 the range, but will never entirely remove it. That is the judgement that no amount of
 statistical analysis will remove. Someone has to take a risk. That, after all, is what the
 shipping market is all about.
-6.9 SUMMARY
+
+### 6.9 Summary
+
 In this chapter we have reviewed the shipowner's financial performance. We started by
 observing that shipping companies have a great deal of influence on their future cashflow when they frame their strategy. The choices between new ships and old, flexible
 ships and specialized, and debt and equity finance all make a difference. Once these
@@ -8694,10 +8807,10 @@ design speed. Both operating and voyage costs are likely to be substantially hig
 for an old ship than a new ship, while economies of scale lead to lower unit costs for
 bigger ships.
 
-## SUMMARY 6.9
+### 6.9 Summary
 
-On the revenue side the owner can play the spot market, in which he accepts full P
-market risk, or time charter, which shifts that risk to the charterer. Earnings also depend T
+On the revenue side the owner can play the spot market, in which he accepts full
+market risk, or time charter, which shifts that risk to the charterer. Earnings also depend
 on the ‘productivity'of the ship, that is, the number of tons of cargo it can carry in a
 year. Again we find that the initial investment decision has a part to play in determin- ing productivity by investment for rapid cargo handling, greater cargo flexibility to
 enable the ship to pick up backhauls, and high speed (we will discuss this in Chapter 12,
@@ -8724,14 +8837,17 @@ aspects of the business into the business strategy that suits him best. The trad
 between cost minimization, revenue maximization and the approach to ship finance
 gives each shipping venture its own particular characteristics.
 
-Financing Ships
-and Shipping
-Companies
+---
+
+## Chapter 7: Financing Ships and Shipping Companies
+
 For the ordinary investor, the tramp company remains a form of investment to be avoided. It is
 a very special business and at its best financed and managed by those who are versed in its
 difficulties.
 (A.W. Kirkaldy, British Shipping, 1914)
-7.1 SHIP FINANCE AND SHIPPING ECONOMICS
+
+### 7.1 Ship Finance and Shipping Economics
+
 Ships tie up a lot of capital. Container-ships and tankers can cost up to $150 million
 each, about the same as a jumbo jet, while LNG tankers, the most expensive ships,
 cost $225 million each. In 2007 investment in new ships reached a new record
@@ -8756,10 +8872,10 @@ This brings us face to face with a paradox. Given all these difficulties, raisin
 should be difficult, but historically the industry has generally suffered from too much
 finance. In 1844 George Young complained to a British House of Commons Select
 
-## HOW SHIPS HAVE BEEN FINANCED IN THE PAST 7.2
+### 7.2 How Ships Have Been Financed in the Past
 
-There were three ownership structures. Shares could be held by individuals on their P
-own account, by individuals organized into partnerships, or by investors in a joint stock T
+There were three ownership structures. Shares could be held by individuals on their
+own account, by individuals organized into partnerships, or by investors in a joint stock
 enterprise. However, most ships were owned by one person. According to records for
 ships registered in the City of London in 1848, out of 554 vessels, 89% were owned by individuals and 8% by trading partnerships. The remaining 3% were owned by joint
 stock companies. Only 18% of the vessels were mortgaged, mainly to cover the cost of
@@ -8842,8 +8958,8 @@ Norwegian fleet which, during the 1950s, almost trebled in size, drawing heavily
 finance raised from American banks.11
 Greek shipowners were also quick to exploit this opportunity. A high proportion of
 tanker construction was financed with American loan capital and ‘Greek owners appear
-to have operated largely on the basis of securing a time charter for 7 or even 15 years from an oil company, a 95 per cent mortgage from American financiers on the security P
-of the time charter, then building to fit the charter and finally sitting back to enjoy the T
+to have operated largely on the basis of securing a time charter for 7 or even 15 years from an oil company, a 95 per cent mortgage from American financiers on the security
+of the time charter, then building to fit the charter and finally sitting back to enjoy the
 profits'.12 US shipowners were equally active, though the charter-back system was
 refined to its most sophisticated form in the shikumisen arrangements developed between Japanese charterers and Hong Kong shipping entrepreneurs.
 The one-ship company
@@ -8920,8 +9036,8 @@ the equity. Eventually, a total of about $500-600 million was raised and investe
 ships purchased at higher prices towards the top of the cycle. As a result few investors
 made a commercial return and some lost their money.
 
-A parallel development was the re-emergence of the Norwegian K/S limited partnership P
-as a vehicle for financing speculative investment in second-hand ships. K/S partnership T
+A parallel development was the re-emergence of the Norwegian K/S limited partnership
+as a vehicle for financing speculative investment in second-hand ships. K/S partnership
 structures were similar to ship funds, or indeed the trading partnerships of the 1840s,
 but had the added advantage that profits earned by investors were tax-free, provided they were reinvested within a specified period. At a time of high personal tax rates in
 Norway this was very attractive to private investors, many of whom invested in K/S
@@ -8963,7 +9079,7 @@ into substantial public shipping companies. High-yield bonds also appeared in 19
 marking a major development in the ship finance business. Bankers who had learned
 
 Ptheir trade during the 1980s could hardly imagine that a bulk shipping company would
-Tbe able to apply for a credit rating and issue bonds, but by the late 1990s they were doing
+be able to apply for a credit rating and issue bonds, but by the late 1990s they were doing
 so with regularity and even a few more exotic structures such as synthetic securitizations
 put in an appearance. So by the early years of the twenty-first century ship finance had become more sophisticated, though commercial bank debt continued to predominate.
 Shipbuilding credit
@@ -8985,7 +9101,9 @@ Credit Guarantee Department in the UK, Hermes in Germany, COFACE in France,
 KEXIM in Korea, EXIM Bank in Japan, etc.). These agencies are responsible for
 coordinating the credit on behalf of the government and providing financial guarantees
 and interest rate support when appropriate.
-7.3 THE WORLD FINANCIAL SYSTEM AND TYPES OF FINANCE
+
+### 7.3 The World Financial System and Types of Finance
+
 Where does the mon ey to finance ships come from?
 This brief historical review has touched on many ways of financing shipping, showing
 how the financial techniques employed have changed from one decade to another. We
@@ -9040,11 +9158,11 @@ is not liquid. Once the transaction is placed, there is little the investor can 
 his portfolio of such loans and investments. In practice this market is only accessible to
 shipping companies of investment-grade quality.
 
-## THE WORLD FINANCIAL SYSTEM AND TYPES OF FINANCE 7.3
+### 7.3 The World Financial System and Types of Finance
 
-The financial markets buy and sell packaged investment funds P
+The financial markets buy and sell packaged investment funds
 An alternative is to use the financial markets. Ingeniously, the world financial system E
-has succeeded in developing three markets which trade investments which have been R
+has succeeded in developing three markets which trade investments which have been
 processed as standard packages known as ‘securities', a term used to refer to all 7
 standard investment instruments. The two main types of securities are ‘stocks'which are
 packaged equities, and ‘bonds'which are packaged loans. Packaging investment into
@@ -9097,7 +9215,7 @@ Aa1 AA+ strong in all forseeable circumstances
 Aa2 AA
 Aa3 AA−
 A1 A+ Getting more risky
-A2 A
+A2
 A3 A−
 Baa1 BBB+ Debt service will be met, barring some
 serious and unpredictable catastrophe
@@ -9130,8 +9248,8 @@ the first choice of global investors.20 Shipping only accounts for a small propo
 of these funds. To put the annual financial requirements of the shipping industry into
 context, if the total world capital were $100, the transport industry, which includes
 airlines, shipping, ports, etc., would need to raise 18 cents. Obtaining even such a small
-sum is not easy. The job of the markets is to channel funds to where they can be used most productively. There are many other industries fishing in the same pool, so borrowers P
-must offer a competitive rate of return. Raising money in the equity markets generally T
+sum is not easy. The job of the markets is to channel funds to where they can be used most productively. There are many other industries fishing in the same pool, so borrowers
+must offer a competitive rate of return. Raising money in the equity markets generally
 involves issuing a prospectus and selling the ‘story'to investors. In the capital markets
 the main preoccupation of institutions buying the bonds is the risk that the company will be unable to repay the money it has borrowed, so to raise capital a shipping company
 must achieve recognized standards of credit-worthiness. It does this by obtaining
@@ -9246,10 +9364,10 @@ and foreign owners. The terms of export credit are agreed under the OECD
 Understanding on Export Credit and currently are set at 80% advance for 8.5 years
 (see page 296 which discusses newbuilding finance).
 
-## FINANCING SHIPS WITH PRIVATE FUNDS 7.4
+### 7.4 Financing Ships with Private Funds
 
-Larger companies have more options because they can access the capital markets, and P
-investment banks help them to issue bonds, equity and private placements, whilst T
+Larger companies have more options because they can access the capital markets, and
+investment banks help them to issue bonds, equity and private placements, whilst
 smaller shipping businesses mainly rely on loans from the commercial banks. There are
 at least 200 institutions world-wide with specialist expertise in some aspect of ship finance, usually through shipping departments. A brief description of the main ones and
 their activities is given in Box 7.2. In what follows we will go through the four ways
@@ -9258,7 +9376,9 @@ Figure 7.4. We start with the two main sources of finance for established shippi
 companies, private equity (Section 7.4) and bank loans (Section 7.5), then we move on
 to capital markets (Section 7.6) and finish up with the various SPC financing structures
 (Section 7.7).
-7.4 FINANCING SHIPS WITH PRIVATE FUNDS
+
+### 7.4 Financing Ships with Private Funds
+
 The first and most obvious way of financing ships is with the owner's private resources,
 the earnings of other ships he owns, or an investment or loan from friends or family. This
 source of finance was widely used in the nineteenth century when investment by family
@@ -9282,11 +9402,13 @@ UN RoRo was bought by KKR; and Marfin purchased the Panagopulos stake in Attica
 Group. Elsewhere, 3i bought Dockwise and, in the services sector, Istithmar bought
 Inchcape Shipping Services from Electra and Exponent bought V Holdings from Close
 Brothers Private Equity.23
-7.5 FINANCING SHIPS WITH BANK LOANS
+
+### 7.5 Financing Ships with Bank Loans
+
 Bank loans are the most important source of ship finance. They provide borrowers
 with quick and flexible access to capital, while leaving them with full ownership of
 
-Pthe business. This is also an important business for banks, and in 2007 the various
+the business. This is also an important business for banks, and in 2007 the various
 Tinstitutions lending to the shipping industry had loan portfolios ranging in size from
 $1 billion to $20 billion. Because ship finance is specialized (it has to cope with all
 those cycles we discussed in Chapter 3!), it is usually managed by a separate department. Typically the head of ship finance has a group of marketing officers
@@ -9319,8 +9441,8 @@ To raise a loan the shipowner approaches the bank
 and explains his requireFigure 7.5
 ments. If the bank is prepared
 Mortgage-backed bank loan model
-Source: Martin Stopford, 2007 to consider a loan, the bank officer draws up a proposal, discusses it with the borrower and negotiates any points P
-which are not acceptable. Negotiating terms is an important part of the lending T
+Source: Martin Stopford, 2007 to consider a loan, the bank officer draws up a proposal, discusses it with the borrower and negotiates any points
+which are not acceptable. Negotiating terms is an important part of the lending
 process. The lender obtains a valuation of the ship offered as collateral (see Section 6.8
 for valuation methods) and decides what proportion of its current market value can safely be advanced. This will depend on the age of the ship and the state of the market.
 Some bankers consider that loans should not exceed 50% of the market value of
@@ -9362,7 +9484,7 @@ lend for no more than 5-7 years, since the bank funds its loans by borrowing sho
 3. The repayment, which determines how the loan is repaid. This is usually by equal
 instalments, probably every 6 months. For modern ships a ‘balloon'repayment may
 
-Pbe used to reduce the annual principal repayments (e.g. repay half the principal at
+be used to reduce the annual principal repayments (e.g. repay half the principal at
 Tthe end) and possibly a grace period at the start.
 4. The interest rate: loans are generally made at a ‘spread'over the bank's funding
 cost, for example, LIBOR for a dollar loan. Spreads range from 0.2% (20 basis points) to 2% (200 basis points)
@@ -9401,8 +9523,8 @@ company under a flag (i.e. in a country) with well established and enforceable m
 law. The bank makes the loan to this company, taking a mortgage on the ship. Freight
 and insurances are assigned to the bank with a ‘dividend stopper'to ensure that funds
 remain within the company and the bank takes a pledge of shares from the owner.
-In addition to giving the bank control in the event of a default, this insulates the ship from other claims on the P
-owner's fleet. It suits the T
+In addition to giving the bank control in the event of a default, this insulates the ship from other claims on the
+owner's fleet. It suits the
 shipowner because the
 major flags of convenience are acceptable to most
 banks, so the ship can be
@@ -9445,10 +9567,10 @@ by the bank to service its bonds. An arrangement fee of 1% is charged in the fir
 and thereafter $100,000 a year. The bank's net earnings are shown in row 7, which is the
 sum of interest and fees, less administration expenses.
 
-## FINANCING SHIPS WITH BANK LOANS 7.5
+### 7.5 Financing Ships with Bank Loans
 
-Next we come to the return on capital calculation. Under Basel I the bank must cover P
-8% of the loan from equity, which in this case is $8 million in the first year. As the loan T
+Next we come to the return on capital calculation. Under Basel I the bank must cover
+8% of the loan from equity, which in this case is $8 million in the first year. As the loan
 is paid down, the allocation of equity also reduces. The return on equity (ROE) is
 calculated by dividing earnings (row 7) by equity (row 8), giving 24.8% in year 1, falling to 12.3% in year 5 (row 9). The return falls because the loan reduces in size,
 but the administration cost does not, which is probably a realistic assumption. In fact
@@ -9489,7 +9611,7 @@ For large shipping companies, borrowing against individual ships is inconvenient
 because any change in the fleet involves a time-consuming loan transaction. For this
 
 Preason large companies with well-established financial structures often prefer to borrow
-Tas a company, using their corporate balance sheet as collateral. Most liner companies
+as a company, using their corporate balance sheet as collateral. Most liner companies
 and a few bulk shipping companies are able to access this type of finance. Mitsui OSK,
 OSG, General Maritime, A.P. Møller and Teekay are examples.
 An example of a corporate loan is provided by a $300 million credit facility raised by
@@ -9528,8 +9650,8 @@ timetable, focusing on the key areas. The main items are as follows:
 needs. For example, a loan of $500 million might be required to finance
 a newbuilding programme. The bank's syndication department will be consulted
 about the terms on which the loan could be syndicated to other banks, and unofficial
-enquiries will be made to discover how difficult the loan will be to place and what particular features in terms of pricing, etc. will be necessary. If the bankers are sure P
-the loan can be placed they will offer to underwrite it. Otherwise the offer will be T
+enquiries will be made to discover how difficult the loan will be to place and what particular features in terms of pricing, etc. will be necessary. If the bankers are sure
+the loan can be placed they will offer to underwrite it. Otherwise the offer will be
 on a ‘best efforts'basis. When the client is satisfied with the terms and conditions,
 he will issue a mandate letter.
 2. Preparation for syndication. Next, documentation is prepared and the whole
@@ -9641,11 +9763,13 @@ place tradable securities. This allows established companies familiar to the fin
 institutions to raise funds quickly and inexpensively. Private placement of debt offers
 advantages such as fixed interest rate, long tenor and the corporate obligation which
 leaves individual assets unencumbered.
-7.6 FINANCING SHIPS AND SHIPPING COMPANIES
+
+### 7.6 Financing Ships and Shipping Companies
+
 IN THE CAPITAL MARKETS
 In most capital-intensive industries large companies use the capital markets to raise
-finance either by making a public offering of shares or by issuing bonds. The advantage of the capital markets is that once the company is known and accepted by the financial P
-institutions, it offers wholesale finance and a quick and relatively inexpensive way of T
+finance either by making a public offering of shares or by issuing bonds. The advantage of the capital markets is that once the company is known and accepted by the financial
+institutions, it offers wholesale finance and a quick and relatively inexpensive way of
 raising very large sums of money. However, most shipping companies are too small to
 require funding on this scale and can end up spending a great deal of time and money raising sums that could be obtained more easily from a commercial bank. In short, the
 capital markets are not a source of finance to be dabbled in. They are a way of life that
@@ -9727,8 +9851,8 @@ issuer may feel the company, with
 Figure 7.8
 its dynamic track record, is worth
 Valuing equity in shipping company
-Source: Martin Stopford, 2007 more and ask for $11 per share, but the investors may be concerned by the volatility of the shipping market and only P
-prepared to offer $9. T
+Source: Martin Stopford, 2007 more and ask for $11 per share, but the investors may be concerned by the volatility of the shipping market and only
+prepared to offer $9.
 Pricing an IPO is as much an art as a science, but three factors will generally be taken
 into account in pricing a shipping offering: the company's market-adjusted net asset value (NAV); the enterprise value based on the company's EBITDA compared to
 similar listed companies; and, in the case of offerings aimed at income funds and retail
@@ -9804,9 +9928,8 @@ grade or convertible bonds (i.e. a bond that can be exchanged for common stock).
 has a different pricing and places different demands and obligations on the issuer.
 In the USA a bond issue generally obtains a credit rating which determines
 the interest payable - investment-grade bonds can be placed at lower rates than ‘highyield' bonds. The bond will also include an ‘indenture', which is a deed of trust
-designed to protect the bondholders. Typically it deals with property pledges, working on a bank loan, and for comparison also shows a typical freight rate cycle (of course P
-the bond will only get a credit rating if the company can demonstrate its ability to serv- T
-ice the cashflow in these extreme circumstances). In the example of bond finance in
+designed to protect the bondholders. Typically it deals with property pledges, working on a bank loan, and for comparison also shows a typical freight rate cycle (of course
+the bond will only get a credit rating if the company can demonstrate its ability to service the cashflow in these extreme circumstances). In the example of bond finance in
 Figure 6.14 case D the company is committed to repaying the full principal in year 15 and this would normally be done by refinancing, provided the company is in good
 financial shape. Ideally the bonds are rolled forward and each new issue should be
 cheaper if the company is doing a good job. Finally, once a company is established the
@@ -9822,7 +9945,9 @@ could not always be serviced. The second use of bonds is by established public s
 companies with significant market capitalization which, as mentioned above, can use their
 credit status and relationship with investment institutions to raise relatively large amounts
 of capital quickly and easily. For them, bonds offer fast and flexible finance.
-7.7 FINANCING SHIPS WITH SPECIAL PURPOSE COMPANIES
+
+### 7.7 Financing Ships with Special Purpose Companies
+
 So far we have discussed how shipping companies raise finance. However, in this
 section we take a different approach, and discuss the use of special purpose companies
 (SPCs) as a means of raising finance to acquire ships. The type of structure we are
@@ -9844,7 +9969,7 @@ Figure 7.10
 example, during the 1990s liner Special purpose company finance: basic model
 
 Pcompanies preferred to charter ships rather than own them, and extensive use was
-Tmade of leases and German KG partnerships as a way of securing the use of the ships
+made of leases and German KG partnerships as a way of securing the use of the ships
 without actually owning them. Finally, securitization structures take this a step further,
 but so far for shipping it has had limited success - there have been no securitizations of ships at time of publication, though there have been some of shipping debt.
 Ship Funds and SPACs
@@ -9882,8 +10007,8 @@ finding good-quality ships at very short notice. To deal with this the transacti
 initiated by a company with assets it is willing to sell to the fund. Second, their commercial
 and management structure is ambiguous. They are not shipping companies because they
 have a limited life, but they are charged with running ships over a fairly long period.
-Both these problems arise from the perception of ships as commodities. Although ships are traded on the sale and purchase market as commodities, in terms of ongoing P
-management they are complex engineering structures. Efforts to ‘package' them as T
+Both these problems arise from the perception of ships as commodities. Although ships are traded on the sale and purchase market as commodities, in terms of ongoing
+management they are complex engineering structures. Efforts to ‘package' them as
 commodities bring a whole range of risks which need to be addressed.
 But business moves on and in the more confident shipping markets of the early 2000s a new structure, the special purpose acquisition corporation (SPAC), has appeared to deal
 with the timing and corporate responsibility issues raised by ship funds. This is an
@@ -9960,8 +10085,8 @@ such an important part in protecting investors in the stock market.
 German KG funds
 A form of the ship finance which emerged with great success in the mid-1990s was the
 German KG company, the German equivalent of the Norwegian K/S company. The
-structure is shown in Figure 7.11. A German registered limited liability partnership company purchases the vessel P
-from a shipyard (or owner) and T
+structure is shown in Figure 7.11. A German registered limited liability partnership company purchases the vessel
+from a shipyard (or owner) and
 obtains a time charter. The
 purchase price is raised from a bank loan (usually about 50-70%),
 and equity raised from German
@@ -10066,7 +10191,9 @@ finance from commercial banks is very competitively priced and the rating agenci
 are cautious about rating bonds whose cashflow ultimately depends on the spot market.
 Add the fact that shipowners prefer flexible finance and the limited role of securitization
 becomes more understandable.
-7.8 ANALYSING RIS K IN SHIP FINANCE
+
+### 7.8 Analysing Ris K in Ship Finance
+
 The risk management options
 Although we have discussed many techniques for financing ships, it is important not to
 lose sight of the fact that raising finance is ultimately a matter of persuasion. There are
@@ -10079,7 +10206,7 @@ so their focus is on strategies to ensure repayment.
 The starting point for any analysis, whether by an investor or a lender, is cashflow
 analysis. Because shipping is so capital-intensive, financial structure has a major impact
 
-## ANALYSING RISK IN SHIP FINANCE 7.8
+### 7.8 Analysing Risk in Ship Finance
 
 Figure 7.14
 Four ship finance options for a new Aframax tanker
@@ -10175,8 +10302,8 @@ team?
 the corporate veil can be pierced, but not public shipping companies. Cargo,
 geography and insurance all important.
 
-Pthe cash has accumulated; but in such a volatile business as shipping there is a risk
-Tthat repayment coincides with an adverse market when the cash is not available and
+the cash has accumulated; but in such a volatile business as shipping there is a risk
+that repayment coincides with an adverse market when the cash is not available and
 refinancing is difficult, so bondholders need to be happy with the company and its
 management.
 In these circumstances lenders offering loans in a competitive banking market have
@@ -10187,7 +10314,9 @@ the companies which manages them. And of course there is shipping market risk. T
 are the main risks categories, but there are plenty of others to consider and Box 7.4
 provides a checklist of the most important ones, covering everything from market cycles
 to the environment.
-7.9 DEALING WITH DEFAULT
+
+### 7.9 Dealing with Default
+
 One of the cornerstones of ship finance is the fact that the loan or investment is secured
 by ships which are negotiable assets, and in the event of a default or business failure can
 be seized by the creditors and sold. However, the realizable value of this security depends
@@ -10217,8 +10346,8 @@ identify problems caused by mismanagement. Some banks routinely check the financ
 strength of borrowers by a periodic review of the company's whole business, especially
 in a weak market. This is not easy but it may give early warning signals that things
 
-## DEALING WITH DEFAULT 7.9 are not going well for the business as a whole. Another tactic is to inspect the P
-ships regularly and look for signs of cash shortages - for example, a lack of spare T
+are not going well for the business as a whole. Another tactic is to inspect the 
+ships regularly and look for signs of cash shortages - for example, a lack of spare
 parts or neglected maintenance. But this is expensive and requires a certain amount
 of tact.
 Various steps can be taken to ensure that the lender has control in the event of a
@@ -10263,10 +10392,12 @@ a normal market and assets can be sold for a fair price, this may be a more attr
 option.
 
 P This is a superficial review of a difficult and complex subject but hopefully enough
-Tto demonstrate that managing default is one of the aspects of ship finance where
+to demonstrate that managing default is one of the aspects of ship finance where
 practical skills are required, so ideally it is better for banks to choose clients who do not
 default!
-7.10 SUMMARY
+
+### 7.10 Summary
+
 In this chapter we have discussed how the shipping industry finances its requirement for
 capital in a business which is volatile and historically has offered low returns. We
 started by reviewing the history of ship finance. This revealed that the type of finance
@@ -10303,8 +10434,8 @@ in the equity market, where the shares are subsequently traded in the secondary 
 To raise debt finance a company with a credit rating from the rating agencies can issue
 bonds in the bond markets. These can be for 15 years or longer; the company pays
 
-## SUMMARY 7.10 interest (coupon) to the bondholder, and the sum advanced (the principal) is repaid in P
-full when the bond matures. T
+interest (coupon) to the bondholder, and the sum advanced (the principal) is repaid in 
+full when the bond matures.
 Fourthly, we discussed standalone structures, set up for particular transactions. These
 include special purpose companies, limited partnerships such as Norwegian K/Ss or German KG, finance leases, operating leases, and securitization. Leasing offers
 the opportunity to reduce finance costs by transferring ownership of the vessel to
@@ -10318,15 +10449,18 @@ Finally, we reviewed the practical problems which arise when dealing with defaul
 This is a difficult part of the business, made all the more challenging by the fact that it
 occurs infrequently.
 
-Risk, Return and
-Shipping Company
-Economics
+---
+
+## Chapter 8: Risk, Return and Shipping Company Economics
+
 A wise man will make more opportunities than he finds.
 (Sir Francis Bacon, English author, courtier, and philosopher, 1561-1626)
 The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every
 difficulty.
 (Sir Winston Churchill, British prime minister)
-8.1 THE PERFORMANCE OF SHIPPING INVESTMENTS
+
+### 8.1 The Performance of Shipping Investments
+
 The shipping return paradox
 In the early 1950s Aristotle Onassis, one of shipping's most colourful entrepreneurs,
 hatched a plan to take over the transport of Saudi Arabia's oil. On 20 January 1954 he
@@ -10349,7 +10483,7 @@ Good Hope. Tanker rates surged from $4 per ton to more than $60 per ton and Onas
 
 ## RISK,RETURN AND SHIPPING COMPANY ECONOMICS
 
-Pwas ideally placed to take advantage of the boom. In six months he made a profit of
+was ideally placed to take advantage of the boom. In six months he made a profit of
 T $75-80 million, equivalent to $1.5 billion at 2005 prices.1
 This is the stuff of legends, and Onassis was not the only entrepreneur to make a fortune in shipowning. Livanos, Pao, Tung, Bergesen, Reconati, Niarchos, Onassis, Lemos,
 Haji-Ioannou, Ofer and Fredriksen are just a few of the families who have become fabulously wealthy in the shipping business during the last half century. But not everyone
@@ -10395,7 +10529,9 @@ period. On average the ROI increases by 0.5% for each 1% increase in volatility.
 model holds for shipping, a bulk carrier investment, with a volatility of 35%, should pay
 a return of about 22% (i.e. 6.6% cost of capital plus 17% risk premium). However, as
 we saw earlier in this section, it only paid 7.2%.
-8.2 THE SHIPPING COMPANY INVESTMENT MODEL
+
+### 8.2 The Shipping Company Investment Model
+
 The shipping company's split persona
 If investors can make 6.6% on safe Treasury bills and 15% on the S&P 500 (an index
 of US stocks), why should they invest in shipping, which offers a similar return but
@@ -10424,8 +10560,8 @@ operating in the bulk shipping market in recent decades. Admittedly the speciali
 markets (see Chapter 12) and the liner business (see Chapter 13) do not fit this description
 so well, but bulk shipping certainly fits the classical economic model.
 
-Pby its business strategy, not the shipping cycle. Of course most companies face this sort
-Tof issue to some extent, but shipping is an extreme case because capital is so dominant
+by its business strategy, not the shipping cycle. Of course most companies face this sort
+of issue to some extent, but shipping is an extreme case because capital is so dominant
 and so liquid. The best way to illustrate the point is work through a practical example.
 The return shipping investment (ROSI) can be split into four components and defined as follows:
 EVA EBID −DEP +CAPP
@@ -10466,7 +10602,7 @@ $1180 million but the cashflow was very volatile, swinging wildly from virtually
 
 ## C
 Table 8.4 Return on shipping investment for Perfect Shipping H
-1 2 3 4 5 6 7 8 9 10 11 12 13 P
+1 2 3 4 5 6 7 8 9 10 11 12 13
 Depreciation Capital gain
 EBID (DEP) $ mill (CAPP) $ m. Return (ROSI)
 Cost of replacing Price
@@ -10521,7 +10657,7 @@ Notes on methodology
 11. Economic value added (EVA) Col 4 + Col 7 + Col 10
 12. Net asset value is the current value of the fleet + EBID − DEP
 
-Pin some years to over $50 million in others. But over the 31 years there were only two
+in some years to over $50 million in others. But over the 31 years there were only two
 Tyears when EBID was negative: $2.4 million in 1977 and $0.2 million in 1978. So with
 $3 million working capital, Perfect Shipping could have met its obligations every year,
 even in the appalling recession of the 1980s, which satisfies at least one of the criteria of an investment-grade credit rating - it could meet its obligations in all foreseeable circumstances, provided it was financed by equity and its only obligations are the operating costs.
@@ -10560,8 +10696,8 @@ was very low compared with the other investments reviewed earlier in the chapter
 
 ## COMPETITION THEORY AND THE ‘NORMAL'PROFIT 8.3
 
-(see Table 8.3) and not much more than the dollars would have earned on deposit. The P
-returns were unreliable. Earnings had a standard deviation of 40%, and 10 years into the T
+(see Table 8.3) and not much more than the dollars would have earned on deposit. The
+returns were unreliable. Earnings had a standard deviation of 40%, and 10 years into the
 investment in 1985 the NAV had halved to $76 million (column 12). It was not until
 1987 that the original investment of $162 million was exceeded, so it needed very patient investors. These uneven returns over long periods would make shipping unsuitable as a pension investment, but it is surprisingly safe. The EBID was positive every
 year except 1977-8, and $3 million working capital would have covered that. There was
@@ -10599,8 +10735,8 @@ of the shipping return paradox.
 Our next task is to explore the economic trade-off between risk and return for shipping
 companies. In Chapter 5 we discussed the macroeconomic model and saw that the flow
 
-Pof cash is regulated by supply and demand which drives freight rates up and down. But
-Tthat analysis did not tell us where freight rates and profits average out, nor did it discuss
+of cash is regulated by supply and demand which drives freight rates up and down. But
+that analysis did not tell us where freight rates and profits average out, nor did it discuss
 the risks of, for example, leveraging. So in this section we will apply the microeconomic
 theory to the firms in the shipping market to answer these questions.
 The Shipping company microeconomic model
@@ -10724,7 +10860,7 @@ of supply and demand at a macroeconomic level. Price 1 is determined by the inte
 Figure 8.5
 The long-term return ratchet
 of D and S , but as more supply is added in response to the high price, the supply curve
-1 1
+1
 moves to the right, generating price 2 at S and price 3 at S . This process was discussed
 2 3
 in Chapter 5. Figure 8.5(b) shows how this generates the market prices faced by the
@@ -10746,7 +10882,7 @@ time-related equilibrium points: the momentary equilibrium which is only concern
 with the ships in the loading zone; the short runin which ships can move in and out of
 lay-up; and the long runwhere new ships are built and delivered. The same lags operate
 
-Pat a microeconomic level, and the ‘cobweb model' is often used by economists to
+at a microeconomic level, and the ‘cobweb model' is often used by economists to
 Tdescribe the dynamic adjustment process when there is a time-lag in the response to
 supply and demand changes.13
 The way the cobweb theorem works is illustrated in Figure 8.6. This figure is divided into two parts; Figure 8.6(a) shows the adjustment process for an individual company
@@ -10766,17 +10902,17 @@ The graph in Figure 8.6(b) shows how these actions by individual shipping compan
 affect the general market balance (note that this chart is not really to scale). On the down
 stroke when the new ships are being delivered and supply is expanding, the extra ships
 move the supply curve to the right from S to S , driving down rates. Then as the low
-1 2
+1
 rates force some old ships out of the market, the supply curve moves left from S to S
-2 1
+2
 pushing freight rates up from P to P . This pumps money into shipowners' bank
-2 1
+2
 accounts, motivating the new orders. Because it takes a couple of years for the ships to
 arrive the boom is extended and many orders are likely to be placed. As all these new
 ships are delivered, the supply curve moves forward again to S , driving the price back
 Figure 8.6
-The cobweb model for the shipping market: (a) at company level; (b) at industry level down to P 2 . It may take owners a while to make the decision to scrap old ships, during P
-which the recession drags on. In this way the investment pump manages fleet replacement, T
+The cobweb model for the shipping market: (a) at company level; (b) at industry level down to P 2 . It may take owners a while to make the decision to scrap old ships, during
+which the recession drags on. In this way the investment pump manages fleet replacement,
 alternately sucking in the new ships and driving out the old ones.
 But while this sub-plot of fleet replacement is going on, the market also has to deal with unpredictable changes in demand. In the example in Figure 8.6(b) the demand
 curve does not change - the adjustment is entirely driven by the supply mechanism. But
@@ -10836,7 +10972,9 @@ ruthlessly pursue any advantage. Admittedly there is no substitute for deep-sea 
 but that is hardly a significant factor because the market place is very competitive.
 When we add the fact that many specialized shipping companies are privately owned,
 and thus the industry has a rather different yardstick for measuring profit from multi-national corporations, the case is made.
-8.4 PRICING SHIPPING RISK
+
+### 8.4 Pricing Shipping Risk
+
 Differences in ‘risk preference'
 Shipping entrepreneurs are famous for taking risks, and during booms brokers'
 reports are full of comments about over-ordering which seem to suggest that the
@@ -10850,8 +10988,8 @@ casino, the job is likely to be ill done'.15 But there is no clear line between 
 and taking economic risks, making it difficult to separate good luck from good judgement. However, economic progress relies on investors building ships which are not
 always needed,16 and despite the occasional spectacular misjudgement such as
 the 1970s tanker bubble, there is little long-term evidence that in shipping the job
-has been ‘ill done'. On the contrary, the history of shipping in Chapter 1 shows how effective the industry's risk taking has been in a world where nobody really knows P
-what will happen next. T
+has been ‘ill done'. On the contrary, the history of shipping in Chapter 1 shows how effective the industry's risk taking has been in a world where nobody really knows
+what will happen next.
 Shipping investors need to take risks and the world needs them to. In the sixteenth
 century when investors clubbed together to send ships to trade in distant lands it was an extremely risky investment which no prudent maritime economist would have dreamt of
 taking. Often the ship did not return and the investors lost everything. But sometimes it
@@ -10926,8 +11064,8 @@ paid when the ship was ordered. Investors choosing option D get a ticket to the 
 and a few become billionaires.
 But what about low risk, high return investments (option C)? The pricing in this box
 reflects the price of giving up the volatility. If a shipowner charters his ship for 10 years
-all he gets is the agreed charter hire. So naturally he might demand a higher return to compensate for the loss of flexibility and giving up his ticket to the big game. From this P
-perspective the model makes perfect sense. T
+all he gets is the agreed charter hire. So naturally he might demand a higher return to compensate for the loss of flexibility and giving up his ticket to the big game. From this
+perspective the model makes perfect sense.
 Shipping investors are not the only ones are willing to adopt the RAP model. Adam
 Smith pointed out that where the potential rewards are very great, ‘the chance of loss by most men is under-valued'.18 In other words, if there is a chance of getting really
 rich, a below average return may be acceptable. He gave the success of lotteries as
@@ -10969,7 +11107,8 @@ he replied: ‘If that's all he can get, and he takes it, I should say it's enou
 applies to shipping investors. A good outcome for consumers, which is exactly what
 market economics is about.
 
-P 8.5 SUMMARY
+### 8.5 Summary
+
 In this chapter we have tackled the tricky issue of the return on capital. We started with
 the paradox that shipping is famous for its wealthy shipowners, but historically returns for such a volatile business have been low. Shipping investors often earned lower returns
 than, for example, the stock market. We called this the ‘shipping return paradox'and set
@@ -11009,10 +11148,10 @@ reduced by using old ships with low capital costs, but only if the shipowner can
 these old ships cost-effectively. Or the ships can be sold and chartered back, making the
 shipowner an operator.
 
-## SUMMARY 8.5
+### 8.5 Summary
 
-This dual life is possible because the ROSI model offers the option to trade speculatively. P
-Once shipowners go down this route their risk increases, but so do the potential profits. T
+This dual life is possible because the ROSI model offers the option to trade speculatively.
+Once shipowners go down this route their risk increases, but so do the potential profits.
 The problem is that as companies grow in size it becomes increasingly difficult to find
 attractive speculative opportunities of sufficient size to affect the company's bottom line, and the normal profits look unattractive. As a result, successful shipping companies often diversify into other industries, a tendency which keeps the size of shipping
 companies small!
@@ -11021,13 +11160,21 @@ enjoy one of the most exciting businesses in the world, whilst giving consumers 
 good deal on their transport, so in the end everyone wins. But it is not a business for the
 faint-hearted!
 
-The Geography of
-Maritime Trade
+---
+
+# Part 4: Seaborne Trade and Transport Systems
+
+---
+
+## Chapter 9: The Geography of Maritime Trade
+
 Such therefore are the advantages of water carriage, it is natural that the first improvements of
 art and industry should be made where this convenience opens the whole world for a market to
 the produce of every sort of labor.
 (Adam Smith, Inquiry Into the Wealth of Nations, 1776)
-9.1 THE VALUE ADDED BY SEABORNE TRANSPORT
+
+### 9.1 The Value Added by Seaborne Transport
+
 When Vasco da Gama arrived in India in 1457 and found that he could buy pepper
 for 3 ducats in Calicut and sell it for 80 ducats in Europe (see Chapter 1), he was doing
 exactly what traders do today - using sea transport to exploit an interregional arbitrage.
@@ -11052,11 +11199,13 @@ industry operates, starting with the oceans, seas and transit times. We will the
 a quick tour of the three major oceans, the Atlantic, the Pacific and the Indian, and discuss
 the economies of the main trading areas within them. In doing this we will refer to
 
-## THE GEOGRAPHY OF MARITIME TRADE a series of maps and in particular four tables: Table 9.1 which contains an overview of
-Tregional trade; Table 9.4 which reviews the economies of the Atlantic countries; Table 9.5
+a series of maps and in particular four tables: Table 9.1 which contains an overview of 
+regional trade; Table 9.4 which reviews the economies of the Atlantic countries; Table 9.5
 which covers the Pacific economies; and Table 9.6 which contains details of the Indian
 Ocean economies.
-9.2 OCEANS, DISTANCES AND TRANSIT TIMES
+
+### 9.2 Oceans, Distances and Transit Times
+
 Location of the major trading economies
 Maritime trade is dominated by three economic centres, North America, Europe and
 Asia, strung out along the ‘Westline' we studied in Chapter 1 (see Figure 9.1). The
@@ -11075,11 +11224,10 @@ Figure 9.1
 The world's major shipping routes, 2007
 Source: Martin Stopford 2007
 
-## OCEANS,DISTANCES AND TRANSIT TIMES 9.2
+### 9.2 Oceans, Distances and Transit Times
 
-If we take imports as the yardstick, these three areas imported 88% of the 7 billion tons P
-of cargo transported by sea in 2005. The detailed export and import statistics are summa- T
-rized in Table 9.1, whilst the map in Figure 9.2 shows the share of each region in total
+If we take imports as the yardstick, these three areas imported 88% of the 7 billion tons
+of cargo transported by sea in 2005. The detailed export and import statistics are summarized in Table 9.1, whilst the map in Figure 9.2 shows the share of each region in total
 imports and exports. This is the physical framework within which the shipping business operates, and analysing the efficient movement of cargo between the points on this map
 is the business of maritime economists, so we need to study it carefully. But before doing
 this, a word is needed about regional definitions, a source of endless difficulty for trade
@@ -11147,8 +11295,8 @@ Around the world in 80 days
 Corporations and traders work on margins and are constantly scouring the regions of
 the world for cheaper suppliers and new markets where they can sell their products.
 
-Distance, speed and the cost of sea transport all play a part in their calculations, and we P
-will come across these variables time and again in our study of sea trade, ship design, T
+Distance, speed and the cost of sea transport all play a part in their calculations, and we
+will come across these variables time and again in our study of sea trade, ship design,
 and the market for sea transport. So it makes sense to start with two fundamental issues:
 how long does it take for cargo to move around the world, and how much does it cost?
 In fact sea transport is relatively slow, as we can see if we follow the round-the-world
@@ -11194,7 +11342,7 @@ cBased on 4,048 TEU containership, 23 knots on 117 tonnes/day of heavy fuel oil 
 per TEU in a vessel chartered at $25,000/day
 
 Phigher bunkers and the greater cost of chartering a container-ship capable of travelling
-Tat 23 knots.2Broadly speaking, 13.6 knots to 23 knots is the speed range within which
+at 23 knots.2Broadly speaking, 13.6 knots to 23 knots is the speed range within which
 merchant ships operate, though to trade efficiently at the opposite ends of this speed
 band requires significantly different hull and machinery designs. We reviewed these costs in detail in Chapter 6.
 The average voyage on this journey is 3270 miles. However, there are some
@@ -11231,8 +11379,8 @@ Canada, USA, South America, Africa, the Black Sea and Europe. Although this matr
 is a great oversimplification, it still has 90 elements and there is a lot of detail to absorb.
 The shortest voyage in Table 9.3(a) is from Algiers to Fos (Marseilles) which is only
 400 miles, and the voyage time matrix in Table 9.3(b) shows it takes only 1.3 days.
-Allowing for two days in port at either end of the voyage, a ship could complete more cargo, which may be an issue. For example, a 300,000 dwt tanker (we discussed P
-economies of scale in Chapter 2) delivers 1.25 million tons a year on the Arabian Gulf T
+Allowing for two days in port at either end of the voyage, a ship could complete more cargo, which may be an issue. For example, a 300,000 dwt tanker (we discussed
+economies of scale in Chapter 2) delivers 1.25 million tons a year on the Arabian Gulf
 to USA route, but trading between the Arabian Gulf and Mumbai it transports 8.3 million tons a year. Speed determines the journey time, the bunker cost and the design of the ship. A 19-day transit from Los Angeles to Shanghai at 13 knots shrinks to 10 days
 at 24 knots, but fuel costs increase (see the discussion of the cube rule in Section 6.3);
 the 24 knot ship costs more; but it delivers more cargo by going faster, so there is a capital saving. Finally, ship typecan affect logistical efficiency. A flexible ship can pick up
@@ -11284,7 +11432,9 @@ market, but operating specialized vessels usually goes much further than just ow
 ships. But there are no rules about this. It took a trucker, Malcolm McLean, to break the
 logistics mould of liner shipping and introduce containerization, a radically different
 logistics solution (see Chapter 13).
-9.3 THE MARITIME TRADING NETWORK
+
+### 9.3 The Maritime Trading Network
+
 At the heart of the maritime logistics model are the oceans and seas where the merchant
 ships operate. The Atlantic, the Pacific and the Indian Ocean cover 71% of the globe -
 361 million square kilometres of the globe's surface area of 509 million square
@@ -11309,10 +11459,10 @@ slope gently towards its shores, it is well served by navigable rivers which pro
 transport into the interior of the continents. In fact the 5.8 million hectares of land which
 drain into the Atlantic is only 20% less than the 7.1 million hectares draining into the
 
-## THE MARITIME TRADING NETWORK 9.3
+### 9.3 The Maritime Trading Network
 
 In 2005 the Atlantic region had a population of 2.1 billion and $31 trillion GDP P
-(see Table 9.4). T
+(see Table 9.4).
 There is heavy maritime traffic in both directions across the North-Atlantic, with
 smaller North-South liner trades. Containers are now one of the most important trades, but there are also substantial movements of oil and raw materials, with exports of grain,
 coal, iron ore and forest products from North America. In the east, the Suez Canal provides access to the Indian Ocean, via the Red Sea, and the Panama Canal provides a short
@@ -11375,7 +11525,7 @@ Starting at the bottom left of Figure 9.6, the East African coast has few deep s
 This stretch of coastline runs from South Africa up to the Red Sea, and includes
 
 P 12,000 miles from the USA and 6,000 miles from Asia, flanked by Egypt and Sudan
-Tto the west and Saudi Arabia to the east. Turning right past the entrance to the Gulf
+to the west and Saudi Arabia to the east. Turning right past the entrance to the Gulf
 we come to Pakistan, India, Bangladesh, Myanmar (Burma) and various smaller
 countries. These densely populated countries have an area of 0.5 billion hectares and a population of 1.1 billion. They produce 254 mt of cereals, much the same as the USA
 as well as 229 mt of coal and 57 mt of iron ore. However, most of these commodities
@@ -11424,7 +11574,7 @@ Singapore 12,500 10,200 18% It is calculated by either
 Ras Tanura 11,765 9,543 19%
 the classification society
 
-Pby its developed economy and large population which stretches its domestic resources,
+by its developed economy and large population which stretches its domestic resources,
 Twith the result that the region relies heavily on trade. The population of 353 million
 (excluding the Baltic, Mediterranean and Black Sea countries) produced a GDP of
 $11.8 trillion in 2005. The cereals crop is typically about 260 mt, slightly less than
@@ -11441,8 +11591,8 @@ Figure 9.8
 The major seas and ports of Europe
 Source: Martin Stopford, 2007
 
-## EUROPE'S SEABORNE TRADE 9.4 of Figure 9.8, we find the north coast of Russia and Scandinavia. Narvik, the most P
-northerly port, exports iron ore, and the opening of Russian oil trade in the 1990s T
+of Figure 9.8, we find the north coast of Russia and Scandinavia. Narvik, the most 
+northerly port, exports iron ore, and the opening of Russian oil trade in the 1990s
 gave Murmansk a new significance. Russia and eastern Europe, only account for
 about 3% of seaborne trade, but this is an important area of development and change.
 The opening up of the countries in this region to the global economy and free trade
@@ -11484,10 +11634,10 @@ generating a large volume of seaborne trade. With the maturing of the economy th
 growth has moved from raw material imports to a more balanced trade in manufactures
 and semi-manufactures.
 
-## NORTH AMERICA'S SEABORNE TRADE 9.5
+### 9.5 North America's Seaborne Trade
 
-Depletion of domestic oil reserves means that crude oil and products are the most P
-important import, along with containers. Dry bulk exports include coal, grain, forest T
+Depletion of domestic oil reserves means that crude oil and products are the most
+important import, along with containers. Dry bulk exports include coal, grain, forest
 products, sulphur and various minor bulks such as steel scrap. North America is the
 world's largest grain exporter, with production from two grain belts running through the US Midwest and the Canadian Prairies, and the grain is exported through the Gulf,
 the Great Lakes or the Pacific Coast. Coal, mainly from Appalachian coalfields on the
@@ -11561,10 +11711,10 @@ UNCTAD regional definitions, East Coast South America stretches along the
 Atlantic coast from Venezuela, Guyana and Surinam in the north through Brazil
 to Argentina in the south. With an area of 1.8 billion hectares and a population of
 
-## ASIA'S SEABORNE TRADE 9.7
+### 9.7 Asia's Seaborne Trade
 
-302 million, it is the same size as North America and drains into the Atlantic through P
-three major river systems, the Orinoco, the Amazon and the River Plate. It is, however, T
+302 million, it is the same size as North America and drains into the Atlantic through
+three major river systems, the Orinoco, the Amazon and the River Plate. It is, however,
 a much smaller economy. South America's GDP of $0.6 trillion is only 5% of
 North America's. With so much space and so little economic activity, we would expect primary exports to predominate, and this is exactly what has happened. The
 trade of this very long coastline is dominated by exports of raw materials and
@@ -11593,7 +11743,9 @@ largest coalmining operation in Latin America, El Cerrejón Norte. The mine is
 connected by a 150 km railway to Puerto Bolivar on Columbia's Caribbean coast, and
 unit trains are used to transport crushed coal from the mine to the port, which can
 handle 150,000 dwt ships.
-9.7 ASIA'S SEABORNE TRADE
+
+### 9.7 Asia's Seaborne Trade
+
 Geographically Asia stretches from Japan in the north down to Indonesia in the
 south and to India and Pakistan in the west (see Figure 9.13). Economically these
 countries cluster into four groups. The first consists of Japan and its near neighbour,
@@ -11688,8 +11840,8 @@ chemical production.
 Situated in the south of the Pearl River Delta in China's Guangdong province,
 Shenzhen Port is adjacent to Hong Kong. In 2004, the cargo throughput was
 135 million tons, with 88.5 million tons of foreign trade. In 2006 the container throughput was 18.66 million TEU. The other major container port is Qindao. Major iron
-ore ports include Tianjin and the nearby Xingang, Qindao, Beilun, Dalian and Guangzho. Oil is mainly shipped in through Qindao, Huangpu, Xiamen and P
-Tianjin. T
+ore ports include Tianjin and the nearby Xingang, Qindao, Beilun, Dalian and Guangzho. Oil is mainly shipped in through Qindao, Huangpu, Xiamen and
+Tianjin.
 Southern and eastern Asia 9
 In 2005 southern and eastern Asia7handled 934 mt of exports and 1384 mt of imports,
 making it a major maritime area. Between 1990 and 2005 exports grew by 5.3% per
@@ -11730,7 +11882,8 @@ oil export trade from Indonesia and dry cargo exports include substantial quanti
 of forest products from Indonesia and the Philippines, and various manufactures and
 semi-manufactures.
 
-P 9.8 AFRICA'S SEABORNE TRADE
+### 9.8 Africa's Seaborne Trade
+
 E Africa (see Figure 9.15) is a large continent covering 1.8 billion hectares, but its trade
 is smaller than might be expected from such a large continent. It is a poor region of the
 9 world, and in 2005 GDP was $758 per capita. Forty countries are engaged in seaborne
@@ -11753,7 +11906,7 @@ Figure 9.17
 The countries and ports of the Middle East
 Source: United Nations and UNCTAD
 
-Pthe transport volume, freTquencyand cost per unit of
+the transport volume, freTquencyand cost per unit of
 transport. The four variables in the model are dis- tance, speed, ship size and
 ship type, each of which
 has a part in determining
@@ -11792,13 +11945,17 @@ This is the world within which the ships delivered today will earn their living 
 the next 25 years or so, and the political, geographical and economic environment that
 will determine the fortunes of shipowners.
 
-The Principles of
-Maritime Trade
+---
+
+## Chapter 10: The Theory of Maritime Trade
+
 A kingdom, that has a large import and export, must abound more with industry, and that
 employed upon delicacies and luxuries, than a kingdom that rests contented with its native
 commodities. It is, therefore, more powerful as well as richer and happier.
 (David Hume, Essay of Commerce, 1752)
-10.1 THE BUILDING-BLOCKS OF SEA TRADE
+
+### 0.1 The Building-blocks of Sea Trade
+
 Seaborne trade has a central place in our lives in the twenty-first century. Walk
 into any shop, and much of what you see will have come from overseas. Between
 1950 and 2005 sea trade grew from 0.55 billion tons to 7.2 billion tons, an average
@@ -11846,8 +12003,8 @@ the biggest trading regions, western Europe and Japan, went through a cycle of g
 until the early 1970s and stagnation for the next decade. New high growth economies
 emerged in other areas, notably in Asia and North America. Finally, although on average
 
-## BUILDING-BLOCKS OF SEA TRADE 10.1 trade grew rapidly, its path was sometimes irregular, with deep recessions in the 1970s P
-and 1980s. T
+trade grew rapidly, its path was sometimes irregular, with deep recessions in the 1970s 
+and 1980s.
 The theory of maritime trade 10
 Changing trade flows set the framework for the sea transport business, and in this chapter
 our aim is to understand what
@@ -11932,9 +12089,10 @@ for the inhabitants of the developed countries, this would be very bad for shipp
 where trade is relatively open, many countries protect inefficient industries whose
 output in a free market would be replaced by trade.
 
-## THE COUNTRIES THAT TRADE BY SEA 10.2
+### 10.2 The Countries That Trade by Sea
 
-10.2 THE COUNTRIES THAT TRADE BY SEA
+### 10.2 The Countries That Trade by Sea
+
 The differences in maritime trade by country E
 There are currently about 100 countries which trade by sea. If every country is included, down to the smallest Pacific island, there are many more, possibly as many as 170. To
 explain their trade the starting point is to take a close look at the economic differences
@@ -12073,7 +12231,7 @@ Figure 10.4
 Seaborne imports and land area, 2004 to the domestic market, whereas
 
 Pthough both have some influence. The countries that trade more than others generally
-Thave bigger economies (GDP), but trade volumes are also a matter of supply and
+have bigger economies (GDP), but trade volumes are also a matter of supply and
 demand. The USA, a major oil producer, imports oil because demand has outstripped
 supply. Similarly, China suddenly imported 60 mt of steel products in 2003 because local demand surged ahead of local steel production. That is fine for raw materials, and
 the bulk shipping industry, but what about manufactures? Why is the Japanese export
@@ -12114,10 +12272,10 @@ cost of recovering natural resources is important, too. If a country has no oil 
 there is a demand for motor cars, it has to import. But where there are local
 supplies, trade is determined by relative delivered costs of domestic and imported oil.
 
-## DIFFERENCES IN PRODUCTION COSTS 10.4
+### 10.4 Differences in Production Costs
 
-3. Temporary imbalances. A third category of trade is a subset of item 2 which is P
-important for shipping. Temporary local imbalances create a price differential T
+3. Temporary imbalances. A third category of trade is a subset of item 2 which is
+important for shipping. Temporary local imbalances create a price differential
 between local and overseas products. This type of trade often happens during
 business cycles when, for example, shortages of chemicals, petroleum products or steel products result in imports of commodities, even if they can normally be
 manufactured competitively at home. However, cyclical patterns of trade also occur
@@ -12137,7 +12295,9 @@ does what. From a shipping viewpoint the manufactures trade offers endless oppor
 have made several voyages and most are shipped in general cargo, which is discussed
 in Chapter 13. The specialized cargoes discussed in Chapter 12 fall somewhere
 between the two.
-10.4 DIFFERENCES IN PRODUCTION COSTS
+
+### 0.4 Differences in Production Costs
+
 Interest in the ‘who does what'aspect of trade was initially sparked during the industrial
 revolution in Britain because various parties stood to gain or lose a great deal of money
 from opening global free trade (there is nothing like hard cash to create economic controversy!). In the seventeenth and eighteenth centuries the dominant economic argument
@@ -12225,8 +12385,8 @@ improved international banking, and more recently e-commerce have made global tr
 easier, especially for smaller companies.
 Armed with these new services, industry can migrate to the remote corners of the
 globe where costs are low and many more towns and cities in these areas are continuously being drawn into the global trading system. Today trade growth in manufactures
-is driven by exploiting differences in labour costs between regions, but it does not rely exclusively on inter-country differences. Michael Porter's model of world trade attributes P
-comparative advantage not only to local resources such as cheap labour, but also to T
+is driven by exploiting differences in labour costs between regions, but it does not rely exclusively on inter-country differences. Michael Porter's model of world trade attributes
+comparative advantage not only to local resources such as cheap labour, but also to
 expertise. He argues that clusters of companies specializing in a particular item, say
 ski boot clamps, develop a ‘comparative advantage'in that product. With the right com- munications and transport, these clusters can exploit their advantage globally, leading
 to a broader trade matrix and improved global efficiency and trade growth even if wage
@@ -12254,7 +12414,9 @@ supplied by UK manufacturers, there could only be a small number of different de
 and costs would almost certainly be higher. Similarly, if oil refineries are technically
 restricted to producing a mix of petroleum products which does not exactly match local
 demand, they will seek to export the products not needed locally.
-10.5 TRADE DUE TO DIFFERENCES IN NATURAL RESOURCES
+
+### 0.5 Trade Due to Differences in Natural Resources
+
 The classical economists were mainly interested in trade theory from a normative
 viewpoint and the theory of comparative advantage was a response to the political
 debate over free trade. Ricardo and other classical economists did not pay much
@@ -12300,8 +12462,8 @@ relative factor endowment. The precise definition of ‘natural resources'raises
 of questions. In Chapter 1 we showed that the trading world is constantly on the move,
 so we should not rely too heavily on static models. However, the Heckscher-Ohlin
 theory suggests that in a free world market, countries must make the best of whatever
-resources they have, and this theory goes a long way towards explaining the diversity of trade in Figure 10.2. The countries on the left of the dotted line are like island A and the P
-countries on the right of it are like island B. T
+resources they have, and this theory goes a long way towards explaining the diversity of trade in Figure 10.2. The countries on the left of the dotted line are like island A and the
+countries on the right of it are like island B.
 The commodity trade supply-demand model 10
 This is a good point at which to discuss the commodity trade model. Raw materials
 account for a large part of seaborne cargo, and one of the main tasks of the bulk
@@ -12379,7 +12541,7 @@ power stations, switched from high-priced oil to cheaper coal and gas and the cr
 trade fell sharply (see Figure 4.5 which shows how the oil trade declined), providing
 another different example of the two components of the Slutsky equation at work.
 
-## TRADE DUE TO DIFFERENCES IN NATURAL RESOURCES 10.5
+### 10.5 Trade Due to Differences in Natural Resources
 
 Derived demand for a commodity
 The next step in the commodity trade model is to reproduce the relationship between
@@ -12390,12 +12552,12 @@ are major users of raw materials, as is the transport industry (e.g. ships'bunke
 industries will be concerned with minimizing their costs, and their demand for raw materials is derived from the underlying demand for the commodities the industry produces.
 The starting point is the cost function. For a given output level the cost function is
 C= P X + P X + b (10.6)
-1 1 2 2
+1 1 2
 where C is the cost of production, P is the price of each commodity, X represents the
 quantities of factor inputs required at that price level and b is capital cost, which is
 assumed to be fixed. Faced with a change in the price of raw material (P ) and a fixed capital stock, the key issue for the industrialist will be whether it is cheaper to use less
 of one input (X ) and more of some other input (X ). The answer to this question is
-1 2
+1
 provided by the rate of technical substitution (RTS) which represents the extent to which
 commodity inputs can be substituted for each other with the available industry technology.
 It can be defined as
@@ -12443,7 +12605,9 @@ example, the rise of ‘mini-mills'using cheap scrap in Asia provides direct com
 for blast furnace steel, changing the pattern of the iron ore trade. Similarly, new technology which reduced the cost of offshore production enabled Europe to increase its
 domestic oil production in the 1990s. Whilst these relationships are not easy to quantify, they illustrate the importance of gaining a thorough understanding of the demand
 relationships underlying the demand function for a commodity.
-10.6 COMMODITY TRADE CYCLES
+
+### 0.6 Commodity Trade Cycles
+
 Another aspect we need to get to grips with in analysing trade is the trade cycle. When
 we discussed shipping cycles in Chapters 3 and 4, we saw that part of the cyclical effect
 filters through from the demand side of the shipping model. Trade is subject to cycles
@@ -12452,8 +12616,8 @@ short-term cycles which accompany the international business cycle; and long-ter
 waves arising from structural developments in the international economies.
 Seasonal and short-term cyclical trade
 Seasonal cycles are well known in shipping and may arise from seasonal effects on the
-supply or demand side of the commodity market. An example of a supply-driven seasonal cycle is the summer lull in the bulk carrier market caused by the slow down of stages of industrialization and the economy was dominated by agriculture, which P
-accounted for 28% of GDP, while manufacturing was only 16% of GDP. But in the T
+supply or demand side of the commodity market. An example of a supply-driven seasonal cycle is the summer lull in the bulk carrier market caused by the slow down of stages of industrialization and the economy was dominated by agriculture, which
+accounted for 28% of GDP, while manufacturing was only 16% of GDP. But in the
 following decades agriculture declined to 3%, whilst manufacturing, construction and
 other service activities increased their share of GDP, changing South Korea from a rural society to a modern industrial economy.As a result, seaborne imports grew very rapidly
 at 11% per annum. But in the mid-1980s manufacturing's share stabilized at 25% and
@@ -12537,9 +12701,9 @@ sectors of industry towards durable consumer goods and services. A large proport
 clothing, and this brings about changes in the structure of the working population,
 including a progressive movement into office and service work.
 
-## COMMODITY TRADE CYCLES 10.6
+### 10.6 Commodity Trade Cycles
 
-Maizels, who made a very long-term study of this hypothesis, explained it in the P
+Maizels, who made a very long-term study of this hypothesis, explained it in the
 following terms: T
 as a country becomes progressively more industrialised the proportion of the occupied population engaged in manufacturing does not rise indefinitely - there
 is an effective limit which may have been reached in a number of countries. This
@@ -12613,10 +12777,12 @@ East Asia and China between 1950 and 2005. The pattern is surprisingly similar c
 changed more dramatically than Europe's has done yet, probably because Europe is a
 much bigger economic unit with more domestic resources. Clearly there is much to
 
-## ROLE OF SEA TRANSPORT IN TRADE 10.7 consider in explaining the precise shape of these curves, but what we can be sure of is P
-that economies are constantly changing and these changes have a major impact on the T
+consider in explaining the precise shape of these curves, but what we can be sure of is 
+that economies are constantly changing and these changes have a major impact on the
 international transport industry.
-10.7 THE ROLE OF SEA TRANSPORT IN TRADE
+
+### 0.7 The Role of Sea Transport in Trade
+
 Long-term price elasticity of sea transport demand
 Finally, we should be aware of the part played by sea transport in facilitating trade. In
 the short term demand for sea transport is generally price inelastic, since once the cargo
@@ -12730,9 +12896,10 @@ to very large ships, with new investment in every category. We also find that in
 trades there is a steady upward drift as bigger ships slowly become substituted for
 smaller ships.
 
-## SUMMARY 10.8
+### 10.8 Summary
 
-10.8 SUMMARY P
+### 10.8 Summary P
+
 In this chapter we have looked at sea trade from the viewpoint of the countries which
 trade. There are 100 countries and regions that trade by sea, but some are much bigger than others. In 2004 north-west Europe headed the list with 1.9 billion tonnes of imports
 and exports, while Brunei, the smallest, reported trade for only 2 million tonnes. When
@@ -12787,12 +12954,16 @@ different implications for the bulk and liner businesses.
 Finally, we explored some of the economics of shipping logistics that will enter into
 the discussion of the bulk, specialized and liner trades in the following chapters.
 
-The Transport of
-Bulk Cargoes
+---
+
+## Chapter 11: Bulk Cargo and the Economics of Bulk Shipping
+
 God must have been a shipowner. He placed the raw materials far from where they were needed
 and covered two thirds of the earth with water.
 (Erling Naess)
-11.1 THE COMMERCIAL ORIGINS OF BULK SHIPPING
+
+### 1.1 The Commercial Origins of Bulk Shipping
+
 There is nothing particularly new about bulk shipping. Cutting transport costs by
 carrying cargo in shiploads is a strategy that has been around for millennia. The
 grain fleet of ancient Rome,1 the Dutch ‘fly boats' of the sixteenth century, and the
@@ -12820,7 +12991,9 @@ shipped across the world for much the same money price per ton as it would have 
 
 P Our aim in this chapter is to discuss the bulk fleet, the commodities traded, the genTeral principles which drive bulk transport systems, and the transport of liquid and dry
 bulk commodities.
-11.2 THE BULK FLEET
+
+### 1.2 The Bulk Fleet
+
 In July 2007 the bulk fleet consisted of 14,756 vessels divided into the segments shown
 in Figure 11.1. The two main fleets are tankers (8040 ships) and bulk carriers (6631
 ships), with a smaller fleet
@@ -12859,10 +13032,10 @@ them, there is much overlap. Since the trend in size is generally upwards, typic
 fleet segments with bigger ships grow faster as port improvements and increasing trade
 volumes widen their market, whilst the segments of smaller ships grow more slowly.
 
-## THE BULK TRADES 11.3
+### 11.3 The Bulk Trades
 
-The dry bulk carrier fleet is divided into four main size segments ‘Capesize, Panamax, P
-Handymax and Handy', plus five groups of specialist bulk carriers, open hatch vessels, T
+The dry bulk carrier fleet is divided into four main size segments ‘Capesize, Panamax,
+Handymax and Handy', plus five groups of specialist bulk carriers, open hatch vessels,
 designed for unit loads; ore carriers, designed to carry high-density iron ore; woodchip
 carriers, designed for low-density wood chips; cement carriers, designed to handle cement efficiently; and self-unloaders capable of discharging cargo at very high rates
 using conveyor belts'. Finally, there is the swing tonnage. The small fleet of combined
@@ -12892,7 +13065,9 @@ vessel, was shipped in 440,000 dwt ULCCs. So the segments are a convenient way o
 recognizing demand differences within the trades, but not impenetrable barriers. If that
 was not the case, managing investment in bulk shipping would be far more difficult than
 it already is.
-11.3 THE BULK TRADES
+
+### 1.3 The Bulk Trades
+
 Our first task is to distinguish a ‘bulk commodity'from a ‘bulk cargo'. In the shipping
 industry a bulk commodity is a substance like grain, iron ore and coal which is traded
 in large quantities and has a physical character which makes it easy to handle and
@@ -12902,7 +13077,7 @@ cargo'. So, strictly speaking, ‘bulk cargo'describes the transport mode not th
 in bulk so the terms are often used synonymously - iron ore is referred to as a bulk
 
 Pcargo or a bulk commodity. But non-ferrous metal ores, for example, are often bagged
-Tand containerized, so the volume of cargo is different from the commodity trade. The
+and containerized, so the volume of cargo is different from the commodity trade. The
 distinction is even more blurred when we turn to commodities which can only be
 shipped in bulk if a special ship is constructed - for example, such diverse trades as meat, bananas, motor cars, chemicals and live animals. We refer to these as ‘specialized
 cargoes'and discuss them in Chapter 12. This distinction between commodity and cargo
@@ -12976,11 +13151,13 @@ account for 17% of the bulk commodities. But the size of vessel required is also
 central issue and in Chapter 2 we explored how the parcel size distribution function is
 determined by the commodity's economic and physical characteristics which influence
 the size and type of ship used to transport the cargo.
-11.4 THE PRINCIPLES OF BULK TRANSPORT
+
+### 1.4 The Principles of Bulk Transport
+
 At the heart of this analysis are the ships used by the transport system. A transport
 system is designed so that its parts work together as efficiently as possible, and sea
-transport is just one stage in the transport chain moving bulk commodities between producers and consumers. Cargo flows through the system as a series of discrete P
-shipments, with the storage areas acting as buffers to allow for timing differences in the T
+transport is just one stage in the transport chain moving bulk commodities between producers and consumers. Cargo flows through the system as a series of discrete
+shipments, with the storage areas acting as buffers to allow for timing differences in the
 arrival and despatch of the commodity. For example in a grain system barges may be
 delivering grain every day, but the grain elevator may only load two ships a week.
 The stages in a typical bulk transport system are shown in Figure 11.2. It consists of
@@ -13035,8 +13212,8 @@ as possible. Inevitably this involves compromises. Each commodity and industry h
 specific transport requirements and no single system is ideal for every situation.
 But there are certain principles which make a useful ‘checklist'when thinking about
 the transport systems in which bulk shipping plays a part. In this context there are
-four issues to consider: first, gaining maximum economies of scale by using a bigger ship; second, reducing the number of times the cargo is handled; third, making the P
-cargo-handling operation more efficient; and fourth, reducing the size of stocks held. The T
+four issues to consider: first, gaining maximum economies of scale by using a bigger ship; second, reducing the number of times the cargo is handled; third, making the
+cargo-handling operation more efficient; and fourth, reducing the size of stocks held. The
 problem for the system designer is that each of these objectives has a capital cost and some
 work in opposition. The challenge is to develop a system which gives the best overall outcome in terms of the transport user's priorities which are not only determined by cost.
 PRINCIPLE 1: EFFICIENT CARGO HANDLING
@@ -13073,7 +13250,7 @@ Many of the bulk commodity trades discussed in this chapter travel partly in bul
 partly as general cargo, depending on the size of the individual trade flow. For example,
 
 P 50,000 tons of wheat transported from New Orleans to Rotterdam would certainly travel
-Tin a bulk carrier, but 500 tons of malting barley shipped from Tilbury to West Africa
+in a bulk carrier, but 500 tons of malting barley shipped from Tilbury to West Africa
 would probably travel bagged on pallets or in containers. Because this depends on a
 commercial decision, there is no specific size at which a trade flow ‘goes bulk'. In effect, the smallest practical bulk unit is a single bulk carrier hold; as the size of parcel
 falls below 3,000 tons it becomes increasingly difficult to arrange bulk transport. One
@@ -13110,10 +13287,10 @@ whether it be a ship, lorry or rail truck. Containerization of general cargo is 
 to the lorry. In bulk shipping, intermediate units such as large bags, packaged lumber
 and pallets can be used to reduce handling costs.
 
-## PRACTICAL ASPECTS OF BULK TRANSPORT 11.5
+### 11.5 Practical Aspects of Bulk Transport
 
-Another is to design a system which covers all stages in the transport operation. This P
-approach is used in many large industrial projects involving raw materials systems. T
+Another is to design a system which covers all stages in the transport operation. This
+approach is used in many large industrial projects involving raw materials systems.
 Ships, terminal facilities, storage areas and land transport are integrated into a balanced
 system. The first integrated bulk transport system was probably in the iron ore trade.
 Through-transport from the iron ore mine to the steel plant was planned in detail at the
@@ -13146,7 +13323,9 @@ some is transported in ships owned by the steel mills; another proportion by shi
 time charter to the steel mills; a third segment is moved on COA; and the remainder gets
 shipped through the spot market. Naturally the form which a particular commodity
 market takes makes a big difference to the shipowners offering transport.
-11.5 PRACTICAL ASPECTS OF BULK TRANSPORT
+
+### 1.5 Practical Aspects of Bulk Transport
+
 Participants in the transport system
 The bulk transport system has four main participants. First there are the ‘cargo owners',
 the businesses with bulk cargo to transport on a regular basis. Their approach to the
@@ -13191,8 +13370,8 @@ For most bulk shipping investors the market is a changeable mix of the cargoes l
 Table 11.1 and the variety is extreme.
 Investors must look ahead and balance such issues as ship size, utilization of cargo
 space, backhaul, speed, cargo-handling gear and cargo access in a way that will work
-over whatever period the ship will be retained in the fleet. Developing a profitable fleet of bulk ships has at least three different dimensions. Size, as we saw earlier in the P
-chapter, imposes many different constraints on the ship's operations, including the T
+over whatever period the ship will be retained in the fleet. Developing a profitable fleet of bulk ships has at least three different dimensions. Size, as we saw earlier in the
+chapter, imposes many different constraints on the ship's operations, including the
 size of parcels of the commodities it is carrying, storage facilities, port draft, and trader
 preference. Utilization is another issue. Very big ships or specialized ships may be unable to get backhaul cargoes, so what they gain on economies of scale, they may lose
 on vessel utilization.
@@ -13297,14 +13476,16 @@ varieties of bean and nut kernels. Pneumatic systems are suitable for handling b
 cargo of low specific gravity and viscosity such as grains, cement and powdered coal.
 Pneumatic equipment is classified into vacuum, or suction types and pressure, or
 blowing types.
-11.6 LIQUID BULK TRANSPORT
+
+### 1.6 Liquid Bulk Transport
+
 Transporting liquids by sea raises a whole set of special challenges. There is a diverse
 fleet of tankers which transport crude oil, oil products, chemicals, liquid gases and specialistcargoes. Figure 11.6 shows how these ships serve the energy, chemical and agricultural businesses which are their main customers. The primary material production
 is shown in column 1, the primary sea transport in column 2, industrial processing
 in column 3, and secondary sea transport in column 4. The industrial processing plants
 are power stations, organic chemicals plants, inorganic chemicals plants, oil refineries,
 
-Pand other processing plants. The purpose of Figure 11.6 is to summarize the part tankers
+and other processing plants. The purpose of Figure 11.6 is to summarize the part tankers
 Tplay in these industries, making it clear why this is not an easy business to understand
 in detail.
 Tankers are mainly employed carrying cargo between these three groups, ferrying in the raw materials and shipping out the product, as shown in columns 2 and 4. LNG tankers
@@ -13327,7 +13508,9 @@ discussed in Section 11.2 and ranging in size from the biggest crude oil tankers
 of shipping investors is to improve the efficiency of this transport business by improving
 the productivity of the transport system by means of better ships, greater flexibility and,
 where appropriate, specialized investment.
-11.7 THE CRUDE OIL TRADE
+
+### 1.7 The Crude Oil Trade
+
 Origins of the seaborne oil trade
 Crude oil was first produced commercially in 1859 when Colonel Edwin Drake struck
 oil at Titusville, Pennsylvania.7 The first oil cargo was shipped two years later. Peter
@@ -13343,8 +13526,8 @@ these could be shipped as general cargo and for some years they became the stand
 cargo unit. As the trade grew, sailing ships were fitted with tanks, and some with cargo
 pumps, to carry petroleum ‘without the aid of casks'. A few such as the Ramsay(1863)
 
-## THE CRUDE OIL TRADE 11.7 and the Charles(1869) were built for the trade but most were converted. The Vaderland, P
-built in Jarrow in 1872 for Belgian owners, was the first effort to build an ocean-going T
+and the Charles(1869) were built for the trade but most were converted. The Vaderland, 
+built in Jarrow in 1872 for Belgian owners, was the first effort to build an ocean-going
 tank steamer. It was designed to carry passengers to the USA and return with oil in tanks.10
 The first purpose-built tanker to use the outer skin as the containment vessel was the
 Glückauf, 2307 tons, built for the German-American Petroleum Company and launched
@@ -13445,7 +13628,7 @@ Figure 11.9
 Major crude oil exporters, 2005
 Source: BP Annual Review
 
-Table 11.4 Crude oil seaborne trade 2004 (million tonnes) P
+Table 11.4 Crude oil seaborne trade 2004 (million tonnes)
 To: Western North South Other Total 2004 E
 From: Europe America America Japan Asia Others mt % R
 Middle East 129 130 11 180 353 30 832 47%
@@ -13523,8 +13706,8 @@ Aviation spirit 0.71 67.65 3% Clean Clean tanks 30,000 45.1 1.28
 Naphtha 0.69 73.43 4% Clean Clean tanks 30,000 46.4 1.31
 Source: Packard (1985, p. 129)
 
-gravity close to 1, followed by heavy crude oil, diesel, and light crude oil. These are P
-essentially the ‘dirty'tanker products. Gas oil is a transitional product, in the sense that T
+gravity close to 1, followed by heavy crude oil, diesel, and light crude oil. These are
+essentially the ‘dirty'tanker products. Gas oil is a transitional product, in the sense that
 carrying several cargoes of gas oil helps to clean up the tanks after carrying a dirty
 cargo. Finally the lighter products fall into the ‘clean'category, which simply means that the shippers are very sensitive that these products should not be polluted by any
 traces of the previous cargo. At the bottom of the table are petrol and naphtha, both of
@@ -13566,7 +13749,7 @@ crude oil shipped from the Middle East to western Europe. At that time the draug
 11 metres, restricting the canal to loaded vessels of less than 50,000 dwt. The closure
 of the canal during the Six Day War in 1967 coincided with the trend to build VLCCs
 
-Pfor the oil trade and as a result the imports of western Europe and the United States from
+for the oil trade and as a result the imports of western Europe and the United States from
 Tthe Middle East were diverted around the Cape of Good Hope.
 After the Suez Canal was reopened in 1975, it was deepened to 16.2 metres, allowing
 vessels of up to 150,000 dwt to transit fully loaded, or larger vessels in ballast. As a result, shipments of oil through the canal edged up from 30 mt in 1976 to about 40 mt
@@ -13574,7 +13757,9 @@ in 1995 and 85 mt in 2004, but remained well below the peak of 167 mt achieved b
 the canal was closed in 1967. This reflects the availability of bigger ships which cannot
 transit the canal fully loaded. One effect of the reopening of the Suez Canal was to
 generate a demand for intermediate-sized tankers of 100,000-150,000 dwt.
-11.8 THE OIL PRODUCTS TRADE
+
+### 1.8 The Oil Products Trade
+
 The oil productstrade is very different from the trade in crude oil. In 2005 about 500 mt
 of oil products were shipped by sea, about half of which were clean products and the
 other half dirty products. Clean products consist of the lighter distillates, principally
@@ -13604,9 +13789,9 @@ exporter, with a trade of 117 million tonnes, but India was also expanding its e
 ● Balancing trades. The mix of products refined from a barrel of oil does not
 always meet the precise market structure of the market adjacent to the refinery.
 
-## THE OIL PRODUCTS TRADE 11.8
+### 11.8 The Oil Products Trade
 
-Table 11.6 Oil products imports and exports, 2006 (million tonnes) P
+Table 11.6 Oil products imports and exports, 2006 (million tonnes)
 Imports % Exports % E
 USA 168.2 26% 60.4 26% 11
 Canada 13.5 2% 26.1 2%
@@ -13650,11 +13835,11 @@ economic and political factors. Figure 11.10 shows that a major change came in t
 Asia accounts for two-thirds of this trade, in particular China, Korea and the many
 growing Asian economies which have a shortfall of particular product types.
 
-## THE MAJOR DRY BULK TRADES 11.9
+### 11.9 The Major Dry Bulk Trades
 
-Table 11.7 Oil products cargo types Jan 2005 to July 2006 P
+Table 11.7 Oil products cargo types Jan 2005 to July 2006
 Ships fixed E
-Cargo Cargo Av. cargo Av. ship R
+Cargo Cargo Av. cargo Av. ship
 Number Mill. dwt Mill. (t) % dwt ‘000 t ‘000 dwt 11
 Gasoline 5,390 254.5 198.5 78% 36.8 47.2
 Fuel oil 3,431 216.6 192.7 89% 56.2 63.1
@@ -13680,7 +13865,9 @@ carry several different products or to trade in the easy chemicals market. A tra
 operation of this type is inevitably more complex, involving carefully planned investment decisions supported by a professional operating service to schedule the cargo and
 ensure that high utilization levels are achieved. The carriage of chemicals and other
 specialized liquid cargoes is discussed more fully in Chapter 12.
-11.9 THE MAJOR DRY BULK TRADES
+
+### 1.9 The Major Dry Bulk Trades
+
 If oil is the energy of modern industrial society, the major bulks are the building-blocks
 from which it is constructed. Iron ore and coking coal are the raw materials of steelmaking, and steel is the principal material used in the construction of industrial and
 domestic buildings, motor cars, merchant ships, machinery and the great majority of
@@ -13729,8 +13916,8 @@ Today developments in bulk shipping technology mean that steel plants located ne
 to raw material supplies no longer have a significant cost advantage, particularly when
 land transport is required. For example, in the United Kingdom, Northamptonshire ores
 
-## MAJOR DRY BULK TRADES 11.9 were trebled in cost by transport to Middlesbrough, making them unable to compete P
-with high-grade ore shipped from Brazil to Middlesbrough by sea for around $7 per T
+were trebled in cost by transport to Middlesbrough, making them unable to compete 
+with high-grade ore shipped from Brazil to Middlesbrough by sea for around $7 per
 tonne. 26As the demand for steel expanded in the twentieth century, the industry gravitated towards coastal steel plants, which could import raw materials at minimum cost by using a carefully planned integrated bulk shipping operation. This had the advantage
 that, with the resources of the world accessible by sea, it was possible to find higherquality raw materials than were available locally, particularly in the traditional steelmaking areas of western Europe where the better-quality ores were already depleted.
 The prototype for the modern integrated dry bulk transport operation was the steel
@@ -13768,7 +13955,7 @@ materials. In Japan there was little choice since there were no domestic reserve
 ore, but even in Europe where extensive iron ore reserves are available these were of
 
 P The remaining third of the iron ore trade is supplied from a variety of smaller exporters,
-Tof whom the most important are India, South Africa, Liberia and Sweden.
+of whom the most important are India, South Africa, Liberia and Sweden.
 11 The transport system for iron ore
 Iron ore is a low value commodity worth about $40 per tonne and very dense, with a
 stowage factor of 0.3 cubic metres per ton. It is almost always transported in bulk and
@@ -13805,8 +13992,8 @@ in recent decades the two trades have followed very different growth paths, with
 thermal coal trade growing rapidly at 9% per annum between 1980 and 2005, whilst the
 coking coal trade only managed 2% per annum.
 Coking coal is a major raw material of the steel industry. The coal is first converted
-into coke in a coke oven, and then mixed with iron ore and limestone to form a charge increase its coal imports. On the export side, Australia exported 225 mt of coal in 2004, P
-accounting for one-third of the coal export trade, followed by Indonesia with exports of T
+into coke in a coke oven, and then mixed with iron ore and limestone to form a charge increase its coal imports. On the export side, Australia exported 225 mt of coal in 2004,
+accounting for one-third of the coal export trade, followed by Indonesia with exports of
 106 mt and China with 85 mt, whilst South Africa, Colombia and Poland all supplied
 about 50 mt. In Australia, the major coal reserves are in Queensland and New South
 Wales which in 2004 produced 169 mt and 117 mt of coal respectively. South African
@@ -13847,9 +14034,8 @@ growth in the volume of seaborne imports came from the entry of eastern Europe,
 including the USSR, and the developing countries into the market. After 1980 the trade
 grew more slowly and by 2005 the trade shares of Europe and Japan had fallen to 10%
 
-The relationship between income and food demand is particularly important. The P
-nineteenth-century statistician Ernst Engel discovered that as incomes rise the propor- T
-tion spent on food declines.36 He also found that within the food budget, the type of
+The relationship between income and food demand is particularly important. The
+nineteenth-century statistician Ernst Engel discovered that as incomes rise the proportion spent on food declines.36 He also found that within the food budget, the type of
 food purchased changes with income. At low income levels demand is for necessities such as rice, cereals and vegetables, but as income rises there is a tendency to substitute
 animal products such as meat and dairy for basic commodities such as cereals, root
 crops and rice. If we define ‘income elasticity'as the percentage increase in demand for
@@ -13928,7 +14114,7 @@ carefully planned way as the industrial commodities. Because the trade is season
 and fluctuates with the harvest in the exporting and importing regions, shippers rely heavily on the spot market, using the ships that are available. These fluctuations are not pre-dictable, so planning transport is very difficult and complex. To load cargoes upwards of
 70,000 tons involves careful scheduling of input barges or box cars from many different
 
-## THE MINOR BULK TRADES 11.10
+### 11.10 The Minor Bulk Trades
 
 FIGURE 11.16
 Major grain exporters and ports, 2005
@@ -13945,7 +14131,9 @@ Coast ports serve the southern end of the US grain belt, while the Great Lakes a
 St Lawrence serve the north-east. Production from Saskatchewan and Alberta is shipped
 mainly through West Coast ports, especially Vancouver. Size limitations vary considerably, though ports on the lower St Lawrence and New Orleans can load vessels over
 100,000 dwt. Argentina, Australia and the EU were the three other major exporters.
-11.10 THE MINOR BULK TRADES
+
+### 1.10 The Minor Bulk Trades
+
 The third and most diverse sector of the bulk trades are the minor bulks, a mix of
 commodities which generated a billion tons of cargo in 2005, carried mainly by the
 
@@ -13997,8 +14185,7 @@ Average % pa 1.3% 2.7% 0.9% 3.7%
 Source: CRSL, USDA, IISI, IBJ and various
 aDry reduced/hot briquetted iron.
 
-the growth trends. Not all of this cargo is shipped in bulk carriers. Shippers use what- P
-ever type of shipping operation is most economic for their particular cargo; usually they T
+the growth trends. Not all of this cargo is shipped in bulk carriers. Shippers use whatever type of shipping operation is most economic for their particular cargo; usually they
 use bulk carriers, but containers or MPP services compete for smaller parcels. This variety
 of transport mode, combined with the fact that many of the minor bulk commodities are semi-processed, makes analysis more complex than for the major bulk trades.
 The agribulk trades
@@ -14036,8 +14223,8 @@ determine the split between these two sources. For example, in 2004 the EU produ
 22 million tonnes of sugar, imported 2.4 million tonnes, exported 4.3 million tonnes and
 consumed 17.7 million tonnes. This situation makes trade forecasting tricky.
 
-These manufacturing processes can take place at source, near the market or at some P
-intermediate location, and the location of these activities is subject to political as well T
+These manufacturing processes can take place at source, near the market or at some
+intermediate location, and the location of these activities is subject to political as well
 as economic factors. Also the four intermediate products are toxic chemicals, usually
 carried in chemical or gas tankers (in the case of ammonia), as discussed in Chapter 12.
 Here we are mainly concerned with phosphate rock, phosphates, potash, sulphur and
@@ -14112,8 +14299,8 @@ predominantly in the 10,000-18,000 dwt size group of vessels, while part still t
 by container.
 UREA
 Urea is a widely traded nitrogen fertilizer with 46.4% nitrogen content. About 100 mt
-is produced annually from synthetic ammonia and carbon dioxide and it can be shipped as prills, granules, flakes, pellets, crystals or in solution. More than 90% of world P
-production is used as a fertilizer, and in 2005 the sea trade was 12.7 million tons. T
+is produced annually from synthetic ammonia and carbon dioxide and it can be shipped as prills, granules, flakes, pellets, crystals or in solution. More than 90% of world
+production is used as a fertilizer, and in 2005 the sea trade was 12.7 million tons.
 The metals and minerals trade 11
 This important and diverse group of minor bulks includes a mixture of metal industry
 related products and other industrial materials. In 2005 the trade was 310 million
@@ -14192,8 +14379,8 @@ for large contracts shipped on deep sea routes - for example, structural steel
 sections or tin plate exported to the Far East or the US West Coast - bulk carriers
 of 25,000-30,000 dwt would be chartered; in minor trades over long distances
 where the market volume fluctuates from year to year, liner services would generally be used depending on availability, or small conventional vessels chartered
-if sufficient cargo is available; in the short sea trades - for example, involving exports to continental Europe - small coasters of 500-3,000 dwt would be P
-chartered; very small consignments on the short sea trades would be shipped T
+if sufficient cargo is available; in the short sea trades - for example, involving exports to continental Europe - small coasters of 500-3,000 dwt would be
+chartered; very small consignments on the short sea trades would be shipped
 on trailers using conventional ro-ro services; on deep sea routes, medium-size
 trades of, say, 50,000 tons per year may be sent by container or ro-ro service using half-size containers or other specially constructed stowage devices.39
 The forest products trade
@@ -14240,7 +14427,9 @@ In conclusion, the minor bulk trades form an important source of bulk carrier
 employment, particularly for smaller sizes of vessels. Because of the physical characteristics of some cargoes and the low volume, they offer many more opportunities for
 innovative shipping operations than the major bulk cargoes, but are subject to many
 constraints that limit them to small ships.
-11.11 SUMMARY
+
+### 1.11 Summary
+
 The sophisticated transport system for bulk commodities is one of the great innovations
 in world trade over the last 50 years. As a result of investment in integrated systems, the
 size of parcel in many commodities has increased very substantially and, as we noted in
@@ -14272,8 +14461,8 @@ in crude oil, as well as the transport system. Crude oil uses very large vessels
 well-defined trade with relatively few loading and discharge zones. In contrast, the oil
 products trade is a semi-manufactured commodity and more complex, depending on
 
-## SUMMARY 11.11 refinery locations, balancing trades and deficit traits. Cargo parcels of oil products are P
-much smaller than for crude oil, occupying the fleet below 60,000 dwt, though a few T
+refinery locations, balancing trades and deficit traits. Cargo parcels of oil products are 
+much smaller than for crude oil, occupying the fleet below 60,000 dwt, though a few
 big ships are used.
 The major dry bulk trades reviewed included iron ore, coal and grain. These are the building-blocks of the world economy, and each has a very different economic model
 and different transport systems. Finally, there are a large number of minor dry bulk
@@ -14287,15 +14476,18 @@ result for the particular industrial operation. These systems were broadly revie
 this chapter, and the transport of the more specialized commodities is discussed more
 fully in Chapter 12.
 
-The Transport of
-Specialized
-Cargoes
+---
+
+## Chapter 12: The Transport of Specialized Cargoes
+
 It is difficult though not impossible to be both lower cost and differentiated with respect to
 competitors. Achieving both is difficult because providing unique performance, quality, or
 service is inherently more costly, in most instances, than seeking only to be comparable to
 competitors in such attributes.
 (Michael Porter, The Competitive Advantage of Nations, 1990, p.38)
-12.1 INTRODUCTION TO SPECIALIZED SHIPPING
+
+### 2.1 Introduction to Specialized Shipping
+
 What is specialized shipping?
 Companies transporting the bulk cargoes discussed in Chapter 11 trade in perfectly
 competitive markets where hundreds of similar ships compete for homogeneous
@@ -14317,8 +14509,8 @@ provide and to explain how their various markets work.
 Each specialized trade has its own distinctive features arising from the character of the
 cargo and the way transport providers have adapted to improve their performance in carrying it. Chemical parcel tankers transport specialized liquid cargoes including chemicals,
 
-## INTRODUCTION TO SPECIALIZED SHIPPING 12.1 related possibilities. Third, the system can be adapted to integrate with the customer's P
-inland transport operation. For example, a shipping company transporting cars is a vital T
+related possibilities. Third, the system can be adapted to integrate with the customer's 
+inland transport operation. For example, a shipping company transporting cars is a vital
 link in the manufacturer's distribution chain and this has resulted in some specialist
 shipping companies entering the terminal and storage business. Providing these services requires an appropriate management structure and proven sector-specific
 expertise which acts as a barrier to entry, often leading to a higher concentration of
@@ -14354,13 +14546,15 @@ be achieved, compared with 250 tonnes per hour for a conventional bulk carrier.1
 However these improvements increase the capital cost by 25-50% above a conventional
 bulk carrier of the same deadweight capacity. Is it worth the money?
 Figure 12.1 compares the cost per tonne of transporting packaged forest products
-in a conventional 47,000 deadweight bulk carrier (the dashed line) and a 47,000 dead-weight FPC (the solid line), assuming the performance levels listed at the bottom of the conventional bulk carrier's cost the FPC operator must run a tight voyage schedule, P
-with only six days allowed for cargo handling. But success also depends on the T
+in a conventional 47,000 deadweight bulk carrier (the dashed line) and a 47,000 dead-weight FPC (the solid line), assuming the performance levels listed at the bottom of the conventional bulk carrier's cost the FPC operator must run a tight voyage schedule,
+with only six days allowed for cargo handling. But success also depends on the
 customer's willingness to pay for the service offered, which is where the high value and
 delicacy of the cargo come into play. With cargo worth $1,000 per tonne, exporters may be willing to pay a freight premium for a fast service with good-quality ships and minimal damage risk. Arguably, specialized shipping sectors are the ones where shippers
 are prepared to pay this freight premium. This is the perspective from which we will
 approach the specialist segments in the following sections.
-12.2 THE SEA TRANSPORT OF CHEMICALS
+
+### 2.2 The Sea Transport of Chemicals
+
 The demand for chemical transport
 The major chemical trades are between the USA, Europe and Asia, India, the Middle
 East and South America. Most specialist chemicals are used locally, but some are
@@ -14393,7 +14587,7 @@ and soya bean oil.
 ## THE TRANSPORT OF SPECIALIZED CARGOES
 
 P Molasses, a by-product of the sugar refining operations, is a thick brown syrup which
-Tis fermented into alcohols such as rum but is traded mainly as an animal feed or in the
+is fermented into alcohols such as rum but is traded mainly as an animal feed or in the
 production of organic chemicals.
 These chemicals, especially the organics, often move in small parcels which must be handled separately and transported in segregated tanks which are meticulously
 cleaned between cargoes. An idea of what this means in practice is provided by
@@ -14454,10 +14648,10 @@ in some cases covers a range of related products 3) The cargo % ship was complex
 calculated by dividing each cargo parcel by the dwt of the ship which carried
 it and averaging the resulting percentage over the cargo group. loading in the Middle East,
 
-## THE SEA TRANSPORT OF CHEMICALS 12.2
+### 12.2 The Sea Transport of Chemicals
 
-Singapore, US Gulf, West coast North America, NW Europe and Asia and distributed P
-to a large number of importers around the world. The cargo flow on individual routes is T
+Singapore, US Gulf, West coast North America, NW Europe and Asia and distributed
+to a large number of importers around the world. The cargo flow on individual routes is
 often small, which adds to the complexity of the transport operation. Finally, chemicals
 may explode, corrode, pollute, taint, and be toxic to the crew or marine life, so the trans- port of products with these characteristics is regulated under the IMO Code on the
 Carriage of Hazardous Cargoes. All these features of the trade make chemical transport
@@ -14518,8 +14712,8 @@ spot market, and the liner business, with its tightly planned schedules. Transpo
 provided by three groups of shipping companies, each of which approaches the task in
 a different way. The first group, shown at the top of the figure, are the parcel tanker
 Figure 12.3
-Chemical tanker sea transport system model, 2006 pools, operated by companies like Stolt and Odfjell. They offer liner services for small P
-parcels, using fleets of parcel tankers. Transport is often arranged on a COA basis, with T
+Chemical tanker sea transport system model, 2006 pools, operated by companies like Stolt and Odfjell. They offer liner services for small
+parcels, using fleets of parcel tankers. Transport is often arranged on a COA basis, with
 regular port itineraries worked out to meet the needs of the trade. However, they also
 take cargoes from the spot market where these are available at an acceptable rate and when the destination fits in with available capacity and the vessel operating pattern. The
 second group are tramp operators using medium-sized bulk chemical tankers, often
@@ -14564,7 +14758,9 @@ business. The distinction between these segments is fuzzy, but each group caters
 a slightly different mix of cargoes. The design of these ships is discussed further in Chapter 14 (see Figure 14.7) which describes an 11,340 dwt chemical tanker of
 sophisticated design. The regulatory regime for carrying hazardous cargoes is discussed
 in Chapter 16.
-12.3 THE LIQUEFIED PETROLEUM GAS TRADE
+
+### 2.3 The Liquefied Petroleum Gas Trade
+
 The transport of LPG by sea
 The LPG business has many similarities with the chemical trades discussed in the
 previous section. It supplies feed stock gases to the chemical industry and transports the
@@ -14577,11 +14773,11 @@ may be transported by a COA, time charter or consecutive voyage charter. There i
 Figure 12.4
 The LPG sea transport system model
 
-## THE LIQUEFIED PETROLEUM GAS TRADE 12.3
+### 12.3 The Liquefied Petroleum Gas Trade
 
-Table 12.4 Some major traded liquified gas commodities P
+Table 12.4 Some major traded liquified gas commodities
 Boiling Specific E
-point ºC Gravity Ship Type Primary Markets R
+point ºC Gravity Ship Type Primary Markets
 1. Liquified petroleum gas
 Propane −42.3 0.58 LPG tanker Feedstock & heating
 Ethane −88.6 0.55 LPG tanker Feedstock & heating
@@ -14653,10 +14849,10 @@ Ethylene 78 42 37 32 Plastic bags, antifreeze, plastic packaging, etc.
 Propylene 2 16 17 16 Polyurethane foam, plastic coatings, moulded plastics
 Butadiene, etc.a 3 11 19 30 Tyres, nylon, detergents, fibreglass, pesticides
 Fuel oil 15 29 25 20 heating, etc
-Loss 2 2 2 2
+Loss 2 2 2
 Total 100 100 100 100
-a Includes Butylene, benzene, toluene, raffinate power stations. In Europe the principal market is as a chemical feedstock, though there P
-is a significant secondary market for butane and propane gas in domestic heating. In the T
+a Includes Butylene, benzene, toluene, raffinate power stations. In Europe the principal market is as a chemical feedstock, though there
+is a significant secondary market for butane and propane gas in domestic heating. In the
 absence of a pipeline distribution system, the LPG moves from import terminals in
 small coastal tankers of around 3,000 dwt, barges and railcars which use 100 cubic metre tank cars, or 50 cubic metre trucks which load 20 tonnes of LPG. In northern Europe
 LPG is frequently moved by barges along the Rhine. In the USA the main distribution
@@ -14782,7 +14978,9 @@ R LNG business is still built around major projects which can take as much as a 
 12 to develop, it is relatively easy to see where the next tranches of business will come
 from. Since large sums of money are involved, the progress of these schemes is fraught
 with difficulty. The design of LNG tankers is discussed in Section 14.6.
-12.5 THE TRANSPORT OF REFRIGERATED CARGO
+
+### 2.5 The Transport of Refrigerated Cargo
+
 Demand for refrigerated transport
 Refrigerated transport is another example of a trade created by transport technology.
 Perishable commodities could only be shipped between regions when it was possible to
@@ -14809,8 +15007,8 @@ demand in Europe and meat supplies available overseas, all that was needed was a
 canning company started in 1847, and in 1863 the Liebig beef extract process was
 established at Fray Bentos in Uruguay. Between 1868 and 1876 there were various
 
-## THE TRANSPORT OF REFRIGERATED CARGO 12.5 experiments in shipping frozen meat, but the refrigeration equipment was unreliable P
-and, even when it worked, the quality of the meat was poor. T
+experiments in shipping frozen meat, but the refrigeration equipment was unreliable 
+and, even when it worked, the quality of the meat was poor.
 By the end of the 1870s refrigeration technology was improving and the Paraguay,
 fitted with a Carre ammonia machine, carried a frozen cargo from France to Buenos
 Aires, returning to Le Havre with 80 tons of mutton which arrived in excellent condition. This marked the beginning of the seaborne reefer business. Two years later in 1880
@@ -14921,7 +15119,9 @@ the mid-1990s and the container-ship fleet was expanding with capacity to carry
 939 million cubic feet of containerized cargo, though how much of this is in use is
 not statistically recorded. It is, however, an excellent example of the continuous
 competition between different shipping services.
-12.6 UNIT LOAD CARGO TRANSPORT
+
+### 2.6 Unit Load Cargo Transport
+
 There are many large physical units such as package timber, bales of pulp, spools of paper,
 motor vehicles, heavy lift cargoes such as components for a petrol refinery, heavy units
 such as container cranes, earth-moving equipment, and the host of other large and awkward physical objects which need to move from one part of the world to another. Where
@@ -14931,8 +15131,7 @@ fleets totalling over 3,000 ships have developed to service these trades (see Ta
 The five we will cover are deep sea ro-ros used for a mix of cargoes including containers,
 forest products and wheeled cargo; open hatch bulk carriers, used principally in the forest
 products trades; PCCs and PCTCs; MPP vessels used for mixed cargoes and increasingly
-for heavy lift; and heavy lift vessels which focus on the transport of very large unit cargoes, sometimes weighing thousands of tons. All these vessel types are to some extent compet- P
-ing with each other, and the cargo flows are not clearly defined in statistical terms. So the T
+for heavy lift; and heavy lift vessels which focus on the transport of very large unit cargoes, sometimes weighing thousands of tons. All these vessel types are to some extent competing with each other, and the cargo flows are not clearly defined in statistical terms. So the
 following notes concentrate mainly on the development of the various fleets.
 Deep-sea ro-ros
 Deep sea ro-ros were one of the first unit load cargo carriers to be developed. These
@@ -15018,10 +15217,10 @@ Car manufacturing is subject to scale economies, but consumers like variety and 
 traded in volume. The growth of international consumer markets in the 1970s and 1980s
 encouraged a rapidly growing interregional trade in vehicles. The trade is principally
 from Japan and South Korea to the USA and Europe, with a much smaller trade from
-Europe to North America. In 1996 the trade was 6.9 million vehicles, but in the next decade it grew rapidly, reach- Table 12.11 The pure car carrier fleet, 1996-2006 P
-ing 15 million units in 2005. T
+Europe to North America. In 1996 the trade was 6.9 million vehicles, but in the next decade it grew rapidly, reach- Table 12.11 The pure car carrier fleet, 1996-2006
+ing 15 million units in 2005.
 The major import trades were Growth E
-1 Jan. No. Dwt % p.a. Av. dwt R
+1 Jan. No. Dwt % p.a. Av. dwt
 2.5 million units to Europe,
 6.4 million units to USA and
 1996 379 4,552 12,011
@@ -15107,10 +15306,10 @@ the different ways operators seek to differentiate their service:
 Star has more than 40 highly specialized Open Hatch vessels that are tailor
 made for the carriage of wood pulp, rolled paper and other forestry products.
 
-## UNIT LOAD CARGO TRANSPORT 12.6
+### 12.6 Unit Load Cargo Transport
 
-In addition we carry a wide range of other unitized cargoes, project cargoes and P
-containers. … Our vessels have box shaped holds, gantry cranes with rain protection, T
+In addition we carry a wide range of other unitized cargoes, project cargoes and
+containers. … Our vessels have box shaped holds, gantry cranes with rain protection,
 dehumidification systems and state-of-the-art cargo handling equipment. This
 enables us to load and discharge the cargo with minimum handling, ensuring safe stowage and minimum delays. Additionally our latest generation will also
 be equipped with 'tween decks in some of the holds, enabling a mix of various
@@ -15134,7 +15333,7 @@ Cargo is loaded from two berths, Berth 1 of 11.6 metres draft and Berth 2 of
 12.2 metres draft. Because the terminal is serviced by a fleet of geared bulk carriers
 there is no need for cranes on the quayside. Ships come alongside the apron and cargo
 is loaded with the ship's gantry cranes. Berth 1 can handle ships up to 195 metres, with
-an apron 135 metres long, which is sufficient to give access to the cargo holds. Berth 2
+an apron 135 metres long, which is sufficient to give access to the cargo holds. Berth
 handles ships up to 212 metres, with an apron of 153 metres.17
 Heavy lift
 One of the most difficult segments for the shipping industry to deal with are the large
@@ -15147,7 +15346,7 @@ other pieces of offshore equipment, for example single point moorings or a 56 me
 jacket, that need to be moved around the world. Thirdly, there are small ships or dredgers,
 
 Pferries, or yachts and small cargo ships where it is cheaper and safer to move the vessel
-Ton a heavy lift ship than take it under its own steam.
+on a heavy lift ship than take it under its own steam.
 Heavy lift ships are concerned with the transport of all these cargoes. Broadly speaking,
 they fall into three categories: first, powerful tug barge systems which tow large structures around the world on barges; second, semi-submersible heavy lift ships which
 can be ballasted down, allowing the heavy cargo to be floated onto the deck on a
@@ -15189,9 +15388,9 @@ This is a convenient point to mention the multi-purpose and tramp fleetsshown in
 12.12 because these ships play an important part in servicing the smaller end of the heavy
 lift market. The vessels in this table are divided into three categories: the MPP fleet;
 
-## PASSENGER SHIPPING 12.7
+### 12.7 Passenger Shipping
 
-Table 12.12 Multi-purpose and tramp fleet P
+Table 12.12 Multi-purpose and tramp fleet
 1st MPP fleet Tramp fleet Liner fleet Total fleet E
 Jan No. m dwt No. m dwt No. m dwt No. m dwt % growth
 1996 1,955 19.8 678 7.5 1,111 15.9 3,744 43.2
@@ -15213,7 +15412,9 @@ capacity of 22.8 m.dwt though many of these are below 10,000 dwt. Typically thes
 carry a mix of unit load cargoes, including containers, heavy lift, motor vehicles, forest products and steel products. The size of cranes varies enormously: 30-60 ton cranes are common
 but some can lift 100 tons (see Figure 14.4). This MPP fleet is growing slowly, increasing
 from 19.8 m.dwt in 1996 to 22.8 m.dwt in 2006. In contrast, the tramp and liner fleets are declining, since during the last 20 years most new investment has focused on the MPP segment.
-12.7 PASSENGER SHIPPING
+
+### 2.7 Passenger Shipping
+
 Development history
 The passenger business has changed a good deal over the years. Until the 1950s passenger
 ships were the only way of crossing water, and in the early twentieth century passengers
@@ -15229,7 +15430,7 @@ diversified into the cruise business. But although aircraft had a decisive econo
 long-haul advantage, for short-sea voyages sea transport remained competitive, especially
 for cars, lorries and wheeled cargo. As motor transport flourished in the 1950s
 
-Pand 1960s, so did the ferry
+and 1960s, so did the ferry
 Tbusiness. Today we have a whole
 spectrum of passenger vessels,
 ranging from commuter ferries to the luxurious ‘resort'cruise liners
@@ -15353,10 +15554,10 @@ Figure 12.10 market share. Its market
 The North American cruise market capitalization in 2007 was
 Source CLIA
 
-## SUMMARY 12.8
+### 12.8 Summary
 
-$40 billion, making it the second biggest public shipping company after A.P. Møller-Maersk. P
-The top five cruise companies owned 55% of the capacity and the top 10 have 74% of T
+$40 billion, making it the second biggest public shipping company after A.P. Møller-Maersk.
+The top five cruise companies owned 55% of the capacity and the top 10 have 74% of
 the capacity. This is a much higher concentration than is found elsewhere in the marine
 business and suggests that in the cruise business size brings a greater commercial advantage than in other segments of shipping. Concentration is even higher when
 considered on the basis of owning groups. The top three groups, Carnival, Royal
@@ -15389,14 +15590,16 @@ devoted to passenger cabins, without balconies on the outside cabins. Passenger
 services (purser, shore excursions, forward bookings) are generally clustered on one of
 the lower decks around a central atrium that may extend up several decks and which
 often serves as the principal embarkation/debarkation area.
-12.8 SUMMARY
+
+### 2.8 Summary
+
 Transport of specialized cargoes is one of the most challenging segments of the shipping
 market. Designing ships or whole transport systems to carry specific cargoes is not
 a recent development, but in the second half of the twentieth century the global
 economy developed in a way that has created many new opportunities for shipowners
 to offer specialized services which cut costs, improve quality and often make it economic
 
-Pto transport cargoes that otherwise could not be traded. The result is the fleet of over
+to transport cargoes that otherwise could not be traded. The result is the fleet of over
 T 10,000 specialized ships discussed in this chapter.
 Specialist trades are often more difficult to analyse than bulk trades (see Chapter 11)
 because most are manufactures or semi-manufactures. In Chapter 10 we discussed why the economic model of the manufactures trade raises difficulties for the analyst. Competitive
@@ -15438,13 +15641,17 @@ Shipowners invest to meet a market need, and many of them work off very tight
 margins. But there can be little doubt that the businesses discussed in this section differ
 substantially from the rough and tumble of the bulk markets discussed in Chapter 11.
 
-The Transport of
-General Cargo
+---
+
+## Chapter 13: The Economics of Liner Shipping
+
 The growing intricacy and variety of commerce is adding to the advantages which a large fleet
 of ships under one management derives from its power of delivering goods promptly, and without breech of responsibility, in many different ports; and as regards the vessels themselves time
 is on the side of large ships.
 (Alfred Marshall, Principle of Economics, 8th edition, 1890)
-13.1 INTRODUCTION
+
+### 3.1 Introduction
+
 General cargo accounts for about 60% of the value of goods shipped by sea, so it
 deserves special attention.1 Most of this cargo is transported by containerized liner
 services which provide fast, frequent and reliable transport for almost any cargo to
@@ -15468,7 +15675,8 @@ the Glossary.
 
 ## TRANSPORT OF GENERAL CARGO
 
-P 13.2 THE ORIGINS OF THE LINER SERVICE
+### 13.2 The Origins of the Liner Service
+
 Liners are a comparatively recent addition to the shipping business and we reviewed
 their development in Chapter 1. From the 1870s improving steamship technology made it possible for shipowners to offer scheduled services. Until that time a few shipowners
 such as the Black Ball Line had tried to run regular services with sailing ships, but most
@@ -15509,11 +15717,10 @@ with 'tween decks and good speeds, which would fit conveniently into liner compa
 schedules. Since the ships used in the bulk and liner markets were roughly the same
 size, this system of risk management worked well for both parties.
 
-## ORIGINS OF THE LINER SERVICE 13.2
+### 13.2 Origins of the Liner Service
 
-As trade grew in the twentieth century, the system was refined and developed. P
-To improve productivity and widen their cargo base, liner companies built more sophis- T
-ticated cargo liners, adding features such as tanks for vegetable oils, refrigerated holds,
+As trade grew in the twentieth century, the system was refined and developed.
+To improve productivity and widen their cargo base, liner companies built more sophisticated cargo liners, adding features such as tanks for vegetable oils, refrigerated holds,
 extensive cargo-handling gear, ro-ro decks and much automated equipment. They became increasingly complex and expensive. The Pointe Sans Souci class built in the
 early 1970s by Compagnie Générale Maritime (CGM) for their Europe-Caribbean
 service illustrates the extremes to which liner companies would go in their search for a
@@ -15592,8 +15799,8 @@ Year-end fleet (TEU) fleet (TEU capacity) Per slot
 2000 14,850,000 4,812,286 3.1
 2005 28,486,000 8,116,900 3.5
 Sources: US Steel Commercial Research Division and CI Market Analysis, MTR (1976), Vol 6 Table 51, CRSL
-*estimate the Ideal-X loaded 58 containers in New Jersey, and sailed for Houston, the first P
-seaborne shipment of modern containers (although there are many earlier cases of cargo T
+*estimate the Ideal-X loaded 58 containers in New Jersey, and sailed for Houston, the first
+seaborne shipment of modern containers (although there are many earlier cases of cargo
 being shipped in standard boxes). The boxes weathered the 3,000-mile journey and handling costs were 16 cents per ton, compared with $5.83 per tonne for break-bulk cargo handling so it was a commercial success.8 A second tanker was converted and on
 4 October, 1957 the maiden voyage of the first fully cellular vessel the 226 TEU
 Gateway City,from Newark to Miami was watched by a crowd of 400 (including New
@@ -15634,7 +15841,7 @@ Bay class ships. They had open holds with cell guides so that the containers cou
 slotted in without clamping. Steel hatch covers fitted flush and provided a platform on
 
 Pwhich containers could be stacked four high and clamped in place. Although the ships
-Twere not big by the standards of tankers and bulk carriers, the open hold technology and
+were not big by the standards of tankers and bulk carriers, the open hold technology and
 cell guides were new and raised various technical problems. For the inland leg the
 investment in container-friendly trailers progressed rapidly and for their first service in
 April 1966 over 300 European truckers were signed up.11
@@ -15687,7 +15894,9 @@ around 83 cents per unit, whilst Scotch whisky could be shipped from Europe to J
 for 4.7 cents per bottle.14 As a result, distance from the market and transport costs
 became a less important consideration in the location of manufacturing industry. As the
 container network grew in the 1980s and the 1990s, so did globalization.
-13.3 ECONOMIC PRINCIPLES OF LINER OPERATION
+
+### 3.3 Economic Principles of Liner Operation
+
 Now it is time to take a closer look at the economics of the liner business. We start with
 a strict definition:
 A liner service is a fleet of ships, with a common ownership or management,
@@ -15741,14 +15950,15 @@ bottom of Figure 13.1. This is a separate market with independent shipowners on 
 side and liner companies on the other, and it deals in ships rather than cargo transport.
 In the following four sections we will discuss each of these four segments of the liner
 business in more detail.
-13.4 GENERAL CARGO AND LINER TRANSPORT DEMAND
+
+### 3.4 General Cargo and Liner Transport Demand
+
 General cargo and container movements
 Between 1975 and 2007 the containerized cargo grew much faster than other parts of
 the shipping business. The number of containers lifted increased from 14.1 million TEU
 to 466 million TEU (Figure 13.2) and the average growth rate between 1990 and 2007
-was 10.4% per annum. Analysing the trade presents many difficulties because anything that can physically go in a P
-container is potential con- T
-tainer cargo, and often other
+was 10.4% per annum. Analysing the trade presents many difficulties because anything that can physically go in a
+container is potential container cargo, and often other
 transport modes are com- peting for the same cargo.
 This means commodity
 analysis, even when it is
@@ -15772,7 +15982,7 @@ cargo grew by 10.0 per cent (column 6). By 2005 the tonnage of containerized car
 had reached 1 billion tonnes16 and the average tonnage per container lift in 2005 was
 only 2.7 tonnes per TEU, which reveals the underlying weakness of the container lift
 statistics as a measure of transport capacity. Container lifts include all container movements through ports, including double lifts when a container is trans-shipped from a
-deep-sea service to a feeder ship and containers returned empty on unbalanced trades. A
+deep-sea service to a feeder ship and containers returned empty on unbalanced trades.
 20 ft container can carry up to 24 tons, and 10 tons would be a more normal average.
 Different shipping services compete for cargoes. Some cargoes, such as manufactured
 and semi-manufactured products, consumer goods, machinery, textiles, chemicals and
@@ -15880,7 +16090,7 @@ customers it is not practical to negotiate a rate for every cargo. This combinat
 fixed prices and inflexible capacity leaves liner companies with a pricing problem
 which has dominated the industry since it started.
 
-## GENERAL CARGO AND LINER TRANSPORT DEMAND 13.4
+### 13.4 General Cargo and Liner Transport Demand
 
 Price, service and the demand for liner transport
 Pricing is a central issue for liner service operators and we need to be aware of the total
@@ -15928,7 +16138,7 @@ companies have now adopted standard bale sizes and pack the bales in shrinkfilm
 rather than timber crates. Latex is shipped in drums packed in containers.
 
 P However, for many cargoes, particularly those of high value, the shippers have more
-Tto lose if the service is poor than they could possibly gain from squeezing the price
+to lose if the service is poor than they could possibly gain from squeezing the price
 down a few per cent. For example a motor cycle manufacturer exporting components
 world-wide must be able to meet delivery schedules to its dealer network. Frequent services, sufficient volume of available shipping space, reliable advance information
 about vessel arrival and departure times, speed, and responsible management of cargo
@@ -15964,8 +16174,8 @@ still follow the same strategy. Similarly, passenger airlines segment their mark
 putting premium passengers at the front of the plane and calling it ‘Business Class'and
 charging more for flexible tickets.
 
-An example in the transport business is the parcel post market. In the 1970s FedEx P
-segmented the parcel market by taking away the delivery of urgent and high-value T
+An example in the transport business is the parcel post market. In the 1970s FedEx
+segmented the parcel market by taking away the delivery of urgent and high-value
 merchandise from the US Postal Service which, preoccupied with the rapid growth of
 volume, had overlooked what seemed to be a minor niche.21 At the time the big air freight operators like Pan Am were also convinced that shippers wanted cheaper transport using big cargo planes or traditional trucking lines such as UPS. The founder of
 FedEx, Fred Smith, studied each step in the collecting, transporting and delivering of
@@ -16039,8 +16249,8 @@ Minor bulk commodities such as forest products, steel products, minor ores, soya
 scrap metal and cotton are all potential cargoes for containerization, but each presents
 its own difficulties. This is a very different business. The low unit costs required to
 compete in these trades call for bigger ships which in turn need bigger arterial hubs.
-Inevitably this slows the transit times, especially for the unfortunate customers at the extremities of the feeder network. That is fine for the lower-value cargoes, but may not P
-suit the shippers of premium cargoes who need speed and certainty. From the service T
+Inevitably this slows the transit times, especially for the unfortunate customers at the extremities of the feeder network. That is fine for the lower-value cargoes, but may not
+suit the shippers of premium cargoes who need speed and certainty. From the service
 operator's point of view it can be a slippery slope, putting container-ship operators on
 the same ‘bottom cargo'treadmill that was such a problem for liner operators before containerization. The economic benefits of very big ships are surprisingly slim,
 and because ship-related costs can be less than a quarter of the total service cost, the
@@ -16081,7 +16291,7 @@ an operation taking about 11⁄ minutes in a purpose-built container vessel. The
 and ‘unstuff' containers with 60 kg bags. Eventually they developed a new cargohandling system which loaded the container by gravity feed and discharged by a special
 chute, taking only a few minutes, compared with several hours and much more labour
 
-Pfor manual handling. This example illustrates the important point that containerization
+for manual handling. This example illustrates the important point that containerization
 Tdoes not just save transport costs. It has an impact on packaging costs and cargo-handling
 costs at either end of the cargo leg.
 Finally, there is project cargo. Some specific items shipped by liners include, for example, equipment for two cement plants, electrification projects for Singapore
@@ -16090,7 +16300,9 @@ the Philippines, a telecommunications project for Malaysia and equipment for a m
 transit railway system in Hong Kong. These cargoes can only be stowed on deck by
 container-ships and are generally transported by the MPP and heavy lift fleets discussed
 in Chapter 12.
-13.5 THE LINER SHIPPING ROUTES
+
+### 3.5 The Liner Shipping Routes
+
 Providing liner services that cover the globe is a daunting task. In its annual Maritime
 Transport Study the United Nations identified 32 maritime coastal regions. There are
 1024 potential liner routes between these areas, and some of the coastal regions cover
@@ -16241,7 +16453,7 @@ further studying the market, as a space charterer from Mediterranean Shipping
 
 P Intraregional trades and feeder services
 E In addition to the deep-sea trades, the short-sea services are playing an increasingly
-Rimportant part in the business, especially for the distribution of containers brought into
+important part in the business, especially for the distribution of containers brought into
 13 hubs such as Hong Kong, Singapore and Rotterdam. These have grown very rapidly as
 deep sea operators have moved to bigger ships and reduced their port calls, preferring to
 distribute cargo from base ports to out ports. Movement of cargoes between local ports is
@@ -16260,7 +16472,9 @@ lift cargoes up to 120 tonnes. The vessels operate between New Zealand and South
 East Asia. Services like this tend to be very fluid, constantly adjusting to the cargo flow.
 This is just one of many small and highly specialized liner services which serve the
 borders of the liner trades.
-13.6 THE LINER COMPANIES
+
+### 3.6 The Liner Companies
+
 The liner companies which operate the services we discussed in the previous section
 are the third element in the container market model shown in box 3 of Figure 13.1.
 They have to decide which services to operate, which ships to use and whether to buy
@@ -16277,9 +16491,9 @@ companies do not offer liner services themselves, and have more in common with
 the bulk shipping companies discussed in Chapter 11. A list of the 20 largest liner
 companies is shown in Table 13.7.
 
-## THE LINER COMPANIES 13.6
+### 13.6 The Liner Companies
 
-Table 13.7 Twenty largest container fleet operators 1980, 2001, 2005 (year end) P
+Table 13.7 Twenty largest container fleet operators 1980, 2001, 2005 (year end)
 1980 container fleet 2001 container fleet 2005 container fleet E
 Company No ‘000 TEU % No TEU % No‘000 TEU % 13
 1 Sea-Land 63 70 9.6% Maersk-SL + 297 694 9.4% Maersk 586 1,665 16.4%
@@ -16329,7 +16543,7 @@ Table 13.7, which compares the market shares of the 20 largest container compani
 changed. In 1980 the biggest operator was Sea-Land with a market share of 9.6% and
 the other 19 big players had shares ranging from 1.4% to 5.6%, with an average share
 
-Pfor the top 20 of 3%. By 2001 Maersk had become the biggest liner company, with a
+for the top 20 of 3%. By 2001 Maersk had become the biggest liner company, with a
 Tshare of 9.4%, having taken over Sea-Land in the late 1990s. P&O Nedlloyd was second
 with a fleet share of 4.6% and at the bottom of the top 20 was Hamburg-Süd with a fleet
 share of 1%. In fact during this period the share of the top 20 companies fell from 60% to 53% so the business was not consolidating and the average company had a market
@@ -16369,8 +16583,8 @@ alliances in operation, the Grand Alliance, the New World Alliance and CKYH. The
 Grand Alliance, with 152 ships, offered eight services between Europe and the Far East;
 11 transpacific services, and four on the North Atlantic.35Its members controlled 17%
 
-Pand alliances which were tolerated by regulators because they seemed to offer a degree
-Tof stability in a volatile business environment. However, new companies can enter the
+and alliances which were tolerated by regulators because they seemed to offer a degree
+of stability in a volatile business environment. However, new companies can enter the
 market with increasing ease (see (a2)). The container-ship charter market and a pool of
 skilled labour make setting up a new service relatively straightforward and the frag- mented geographical route structure provides plenty of opportunities to compete against
 established companies on relatively equal terms. Finally, other service providers (see
@@ -16448,15 +16662,16 @@ Figure 13.9
 Figure 13.9 shows the segContainer-ship fleet by ship size, 1980-2005
 ments developed between Source: Clarkson Research Services Ltd
 
-## PRINCIPLES OF LINER SERVICE ECONOMICS 13.8
+### 13.8 Principles of Liner Service Economics
 
-1980 and 2005. The smaller sizes (Feeder, Feedermax and Handy) are mainly used in the P
-short-sea trades and in draught-restricted ports on the North-South routes. The medium- T
-sized vessels of 1,000-2,000 TEU are flexible enough for short-sea operations, large
+1980 and 2005. The smaller sizes (Feeder, Feedermax and Handy) are mainly used in the
+short-sea trades and in draught-restricted ports on the North-South routes. The mediumsized vessels of 1,000-2,000 TEU are flexible enough for short-sea operations, large
 feeder services and North-South trading. The larger segments (sub-Panamax, Panamax, and post-Panamax) serve the long-haul deep-sea business. At the upper end, the Panamax
 fleet (over 3,000 TEU and able to transit Panama) has grown most rapidly in recent years,
 with a new generation of post-Panamax vessels appearing in the 1990s.
-13.8 THE PRINCIPLES OF LINER SERVICE ECONOMICS
+
+### 3.8 The Principles of Liner Service Economics
+
 The building-blocks of liner service economics
 Liner service economics lies at the heart of the issues discussed in this chapter and a
 practical example helps put things into perspective. We will proceed in two stages, starting
@@ -16485,8 +16700,8 @@ design fuel consumption shown in the next row is 460% higher for the 6500 TEU sh
 In the past a few container-ships were built with speeds over 30 knots, but the industry
 seems to have settled down at a 25 knot peak. The operating speed shown in the
 next row can be varied by service planners to leave a margin for weather and delays
-and also to fine-tune the voyage time to fit with the weekly sailing schedule adopted in section 2 of the table. In this case as a neutral assumption the operating speed P
-is set 5% below the design speed. Finally, the time per call shown in the last row of T
+and also to fine-tune the voyage time to fit with the weekly sailing schedule adopted in section 2 of the table. In this case as a neutral assumption the operating speed
+is set 5% below the design speed. Finally, the time per call shown in the last row of
 section 1 assumes half a day for entering and leaving port, plus one minute per lift,
 with 25% of the cargo being handled on each call. These assumptions will differ widely in practice.
 THE SERVICE SCHEDULE
@@ -16601,8 +16816,8 @@ Terminal and through transport costs vary enormously from port to port. Handling
 container in the terminal includes the lift on or off the ship and the associated costs of
 moving, stacking and storing the container within the terminal. These costs depend on the
 facilities available and local stevedoring conditions. For simplicity the handling charges in
-Table 13.8 are limited to a single rate of $200 per lift. Refrigerated containers also require special terminal services which are costed here at $150 per unit. The on-shipment of the P
-container is dealt with under three headings: trans-shipment by sea, inland inter-modal T
+Table 13.8 are limited to a single rate of $200 per lift. Refrigerated containers also require special terminal services which are costed here at $150 per unit. The on-shipment of the
+container is dealt with under three headings: trans-shipment by sea, inland inter-modal
 transport and inter-zone repositioning. These costs depend specifically on the trade and
 the method of pricing adopted by the company. Some operators charge separately for delivery, in which case the freight rate does not include the cost of on-transport. Other
 carriers offer ‘door-to-door'rates. Since some cost will certainly be incurred, Table 13.8
@@ -16662,8 +16877,8 @@ on the voyage at a daily cost of $3,797 per day).
 The liner voyage cash flow model
 Now we can combine the costs with revenue to calculate the financial performance of
 the liner service just as we did for bulk shipping in Chapter 7 (see Table 7.11). The
-voyage cashflow model shown in Table 13.9 uses the cost information from Table 13.8 to calculate the cost of the ships (section 1), the cost of the containers (section 2), P
-the administration cost (section 3) and the cargo-handling and onward transport cost T
+voyage cashflow model shown in Table 13.9 uses the cost information from Table 13.8 to calculate the cost of the ships (section 1), the cost of the containers (section 2),
+the administration cost (section 3) and the cargo-handling and onward transport cost
 (section 4). From these items we calculate the voyage cost per TEU in section 5 and add
 the voyage revenue based on the freight rate on each leg (section 6) to obtain the voyage profit or loss in section 7. Finally, to give a sense of how costs and profits can vary with
 ship size, Table 13.9 compares the results for the six vessel sizes. We will now discuss
@@ -16702,7 +16917,7 @@ limitations imposed by using the bigger ship.
 Conclusion
 In this section we have focused on costs and revenues for a range of different ship sizes
 and in Tables 13.8 and 13.9 looked at a simplified example of the economics of running a liner service. We found that although there are strong economies of scale in some aspects
-Tof the liner shipping business, especially in the ships and their operating costs, economies
+of the liner shipping business, especially in the ships and their operating costs, economies
 of scale are not so strong in other areas, especially the deployment of containers and
 the costs of container handling and through transport. Since these account for up to two-thirds of the total cost budget, the benefit of using bigger ships is heavily diluted
 and the analysis demonstrates that economies of scale diminish with size and are more
@@ -16713,7 +16928,9 @@ which diseconomies of scale such as feedering can be overcome are likely to be m
 decisive than the bottom-line ‘theoretical' profitability of the different sizes. Liner
 investment decisions are a tough call and making these judgements is precisely what
 shipping companies get paid for.
-13.9 PRICING LINER SERVICES
+
+### 3.9 Pricing Liner Services
+
 Practical aspects of liner pricing
 Now we come to the question of pricing for liner services. Ultimately liner prices, like
 bulk freight rates, are determined by competition in the market place. Shipping is a
@@ -16735,8 +16952,8 @@ the service or a major change in the underlying unit costs. The case for commodi
 discrimination is equally obvious. Charge higher rates for commodities which can bear
 the cost, and discount low value commodities to attract a wider range of cargoes than
 would be economic if there was a single standard freight charge. By increasing the
-volume, this permits larger ships and more regular sailings. In this way the pricing policy supports the provision of a better service package for all customers, though P
-the role of cross-subsidization remains one of active debate. The second type of price T
+volume, this permits larger ships and more regular sailings. In this way the pricing policy supports the provision of a better service package for all customers, though
+the role of cross-subsidization remains one of active debate. The second type of price
 discrimination is between customers. Large customers, with whom it is worth negotiating,
 can be offered special discounts through service agreements.
 For many years liner companies would set tariff classes and produce a rate book listing
@@ -16777,9 +16994,7 @@ different charges. Some operators absorb such changes into the through freight r
 for example, storage of goods, customs clearance or trans-shipment - there would
 be an additional charge for this.
 
-## PRICING LINER SERVICES 13.9 service regardless of cargo volume, while the cargo-handling costs can be termed vari- P
-able costsbecause these are not incurred if there is no cargo. This is a great simplifica- T
-tion, but serves to illustrate the principle.
+service regardless of cargo volume, while the cargo-handling costs can be termed variable costsbecause these are not incurred if there is no cargo. This is a great simplification, but serves to illustrate the principle. 
 Because the company is already committed to the costs of the voyage, when the ship is part empty the only additional cost of accepting another container is the $400 per
 container cost of cargo handling. This is known as the marginal cost (MC). Once the
 ship is full the marginal cost rises sharply to, say, $2,500 per container, the cost of
@@ -16860,7 +17075,7 @@ Prisoner's Dilemma.44
 
 CASE 3: PRICE DISCRIMINATION P
 The third pricing option is price discrimination. One of the benefits of marginal cost
-pricing is that flexible prices help to coordinate cargo volume with the available capacity. R
+pricing is that flexible prices help to coordinate cargo volume with the available capacity.
 Thus the low price during the recession in Figure 13.13 draws in marginal cargoes such 13
 as waste paper, hay or building-blocks, helping to fill up empty ships and generate extra
 revenue. As a result the cargo volume in the recession is 3,400 TEU compared with only
@@ -16887,7 +17102,9 @@ shippers the right to confidential service agreements and private shipper servic
 the level of definition of these contracts is generally very low. Only 44% of the respondents had a formal freight contract, the rest relying on informal arrangements and
 ‘referring to conference [general rate increases] in various trades, instead of setting a
 rate for the movement of containers from A to B'.45
-13.10 LINER CONFERENCES AND COOPERATIVE AGREEMENTS
+
+### 3.10 Liner Conferences and Cooperative Agreements
+
 The economic analysis in the previous section suggests that the managers of liner
 companies are ‘between a rock and a hard place'in trying to meet the varying needs of
 a diverse customer base whilst operating regular schedules with relatively inflexible
@@ -16932,8 +17149,8 @@ Swire, ‘the companies may not ruin each other'.47
 The first conference was formed in August 1875 by the lines trading between the
 United Kingdom and Calcutta. It was agreed to charge similar rates, to limit the number
 
-## LINER CONFERENCES AND COOPERATIVE AGREEMENTS 13.10 of sailings, to grant no preferences or concessions to any shippers and to sail on a given P
-date regardless of whether they had a full load of cargo.48 However, because of the T
+of sailings, to grant no preferences or concessions to any shippers and to sail on a given 
+date regardless of whether they had a full load of cargo.48 However, because of the
 over-tonnaging situation, this simply resulted in the major shippers, particularly the
 powerful Manchester merchants, threatening to use vessels outside the conference that would offer lower rates.49A custom already existed that the charge made for the use of
 ship's gear in loading and unloading was remitted to merchants who shipped regularly
@@ -17012,10 +17229,10 @@ and confidential basis.
 protect key terms in negotiated service contracts including information regarding
 rates.
 
-## CONTAINER PORTS AND TERMINALS 13.11
+### 13.11 Container Ports and Terminals
 
-● Freedom to coordinate operations. Carriers should be able to pursue operational P
-agreements with other carriers so long as these do not include price fixing or T
+● Freedom to coordinate operations. Carriers should be able to pursue operational
+agreements with other carriers so long as these do not include price fixing or
 conferring market power on the parties involved.
 If followed, these principles would, they argued, help to establish the right and equitable
 balance between the market power of shippers and shipowners. The regulation of liner
@@ -17025,7 +17242,9 @@ industry's block exemption from Articles 81 and 82 of the Treaty of Rome will ta
 effect and conferences will be subject to these regulations. This change in the regulations governing liner services operating in and out of the EU will have a major impact
 on conferences such as the Far East Freight Conference. The regulatory issues are
 discussed in Section 16.10.
-13.11 CONTAINER PORTS AND TERMINALS
+
+### 3.11 Container Ports and Terminals
+
 Port calls and liner pricing
 Containerization changed the way the liner business managed its port itineraries.
 Previously cargo liners operated a port-to-port service, ‘equalizing'prices by charging
@@ -17090,7 +17309,7 @@ cases, even small ports need to be equipped to handle containers. This generally
 involves developing an existing berth for container handling, undertaking any necessary
 strengthening of the quay, the purchase of a suitable crane, often a mobile unit, and
 
-Table 13.10 Container traffic of 36 major ports, 1994 and 2005 P
+Table 13.10 Container traffic of 36 major ports, 1994 and 2005
 Traffic (lifts) M TEU E
 World
 rank 2005 Country 1994 2005 % pa Region 13
@@ -17145,7 +17364,9 @@ Source:CRSL, Containerisation International
 Pstraddle carriers or fork-lift trucks and the provision of a container-packing service for
 Tbreak-bulk cargo not delivered to the port in a container. The containers are then stacked
 in a suitable location.
-13.12 SUMMARY
+
+### 3.12 Summary
+
 As we have seen in this chapter, liner companies carry ‘general cargo'and operate in a
 market which has all the competitive edge of the bulk shipping market, but with two major
 differences which alter the market and the competitive process. First, the need to run a regular service makes liner capacity inflexible. Second, with so many customers, price negotiation is more restricted. With these restrictions the free market mechanism which
@@ -17176,8 +17397,8 @@ Hong Kong and Singapore to the many minor local ports which serve the feeder tra
 We examined the structure of liner costs and identified eight ‘building-blocks'which
 contribute to the economics of a liner service: the ship characteristics, the service
 
-## SUMMARY 13.12 schedule, capacity utilization, ship cost per day, port charges, deployment of containers, P
-container costs and administrative costs. The choices made by the liner company for T
+schedule, capacity utilization, ship cost per day, port charges, deployment of containers, 
+container costs and administrative costs. The choices made by the liner company for
 each of these determines the cost profile of the operation. On the revenue side, the key
 principles are price stability and price discrimination. The pricing system, which involves differing degrees of discrimination by commodity and owner, has now been
 substantially modified by the widespread use of service contracts negotiated bilaterally
@@ -17187,9 +17408,10 @@ world to a market for the produce of every sort of labour'. The financial return
 companies may not be spectacular, but their contribution to the global trading economy
 is beyond question.
 
-The Ships that
-Provide the
-Transport
+---
+
+## Chapter 14: The Ships that Supply the Transport
+
 Managers may believe that industry structures are ordained by the Good Lord, but they can -
 and often do - change overnight. Such changes create tremendous opportunities for innovation.
 (Peter Drucker, The Profession of Management, 1998, p. 58)
@@ -17257,7 +17479,7 @@ The fleet by ship type
 Since few ships are truly identical, one problem in discussing ship design is the sheer
 number of vessels involved.1 So our first task is to classify the designs into types with
 
-## WHAT TYPE OF SHIP? 14.1 common features, which we do in Figure 14.1. The world's 74,398 maritime vessels P
+## WHAT TYPE OF SHIP? 14.1 common features, which we do in Figure 14.1. The world's 74,398 maritime vessels
 (Table 2.5) are first divided into the three groups of structures operating on the oceans: T
 cargo shipping (group 1), offshore oil and gas structures (group 2) and non-cargo ships
 (group 3). Cargo ships, our main focus here, are split into four sectors based on eco- nomic activity: general cargo transport; dry bulk transport; oil and chemical transport;
@@ -17330,10 +17552,12 @@ reniatnoC
 reirrac
 edurC
 
-## SEVEN QUESTIONS THAT DEFINE A DESIGN 14.2 rates, with LNG tankers expanding fastest and the reefer fleet declining. All of which P
-demonstrates the dynamic way the fleet structure evolves over time in response to the T
+rates, with LNG tankers expanding fastest and the reefer fleet declining. All of which 
+demonstrates the dynamic way the fleet structure evolves over time in response to the
 changing trade flows. This makes selecting the right type even more tricky.
-14.2 SEVEN QUESTIONS THAT DEFINE A DESIGN
+
+### 4.2 Seven Questions That Define a Design
+
 Broadly speaking, each ship is a bundle of features blended to achieve a specific objective,
 but, for the reasons discussed in the last section, the design parameters are not always
 clear-cut and designing a ship is not a precise science that can be reduced to purely
@@ -17367,7 +17591,7 @@ of the different angles from which investors may approach commissioning a new sh
 Example 1. A steel plant purchasing an iron ore carrier to service a long-term iron ore
 supply contract between Brazil and China. In this case, the cargo, the cargo volume and
 
-Pthe trade route are all known in advance, and the ship will be dedicated to the trade over
+the trade route are all known in advance, and the ship will be dedicated to the trade over
 Tits life, so the design can be optimized to the shipping operation in terms of the cargo
 to be carried, the parcel size, the ports to be utilized and the opportunities for exploiting
 economies of scale. In addition, since the vessel is to be operated over a number of years, the shipowner is likely to take a close interest in any technology that will reduce
@@ -17490,8 +17714,8 @@ a special need, for example in the refrigerated cargo trade. The cargo is loaded
 pallet, of which there are a variety of sizes, and secured with bands or a plastic cover
 shrunk to protect the cargo. Loading and discharge are still labour-intensive operations
 and rely on the skill of stevedores to pack the pallets into the ship efficiently. It is, however, dramatically more efficient than the handling of individual boxes, drums, sacks or
-bales. Finally, barges were introduced in the 1960s in an attempt to cater for the small bulk packages of medium-value cargoes, especially where an inland waterway system P
-allows through water transport to inland destinations, but were never widely adopted. T
+bales. Finally, barges were introduced in the 1960s in an attempt to cater for the small bulk packages of medium-value cargoes, especially where an inland waterway system
+allows through water transport to inland destinations, but were never widely adopted.
 How should the cargo be stowed? 14
 The next issue is how best to tailor the cargo spaces to fit the cargo units the ship will
 carry. This presents more difficult choices because optimizing stowage often has
@@ -17531,8 +17755,8 @@ dimensions of the units they are carrying and provide vertical access. For examp
 ‘pallet-friendly' reefer vessels are designed with decks tailored to accommodate the
 maximum payload of standard pallets.
 
-is part of a wider integrated transport network. There are many ways ship designs can P
-be developed to improve cargo-handling efficiency, provided the dimensions of the T
+is part of a wider integrated transport network. There are many ways ship designs can
+be developed to improve cargo-handling efficiency, provided the dimensions of the
 units are known in advance. Some of the most important are as follows:
 ● Cargo-handling gear. Jib cranes, heavy lift derricks, or other cargo-handling gear
 such as gantry cranes may be fitted to speed up the loading and discharge of dry
@@ -17608,7 +17832,7 @@ TV sets 43,076 - -
 World imports 1,341 6,893 9,244,700
 Source: UNCTAD (2006) Table 41 and Annex 2 and various
 
-Pbe traded on the spot market the investor may specify a design speed above this
+be traded on the spot market the investor may specify a design speed above this
 Tminimum so that he can complete more voyages during periods of high freight rates
 when he is making premium profits.
 How flexible should the ship be?
@@ -17652,9 +17876,9 @@ Note: Lateral cargo mobility (LCM) rating reflects the number of different desig
 types of cargo units that the vessel can carry, i.e. its flexibility. The
 higher the number, the greater the flexibility. the flexible ship is more expensive
 
-## SHIPS FOR THE GENERAL CARGO TRADES 14.3
+### 14.3 Ships for the General Cargo Trades
 
-Table 14.6 Principal dimensions of flat roof steel containers P
+Table 14.6 Principal dimensions of flat roof steel containers
 Dimensions E
 20′¥8′¥8′6′′ 40′¥8′¥8′6′′
 Length (metres) 6.1 12.2
@@ -17675,7 +17899,9 @@ have recently been noticeably sluggish or in retreat. This suggests that in the 
 shipping industry the economic benefits of specialization outweigh the economic benefits from flexibility - a useful reminder that simplicity is a guiding principle of
 successful ship design. Sophisticated ships make interesting conference papers, but in
 the harsh commercial world simple vessels which do one job well seem to do better.
-14.3 SHIPS FOR THE GENERAL CARGO TRADES
+
+### 4.3 Ships for the General Cargo Trades
+
 This is the trade segment where ships have changed most in the last fifty years. Indeed,
 it is rare in shipping to find such a radical change as the substitution of container-ships
 for the flexible cargo liners which started in the 1960s. Like the switch from sail to steel,
@@ -17766,8 +17992,8 @@ control through the journey and a better-quality product, which in the case of f
 vegetables may result in a higher selling price.4
 Finally, there has also been much research into containers for transporting small
 bulk cargoes. These include the use of ventilated containers for agricultural commodities such as coffee and cocoa beans, tank containers for bulk liquids, and containers
-with special loading and discharging facilities for the fast automated handling of minor bulk commodities. As we saw in Chapter 13, bulk cargoes such as wool, rubber, latex, P
-cotton and some forest products can now be containerized. T
+with special loading and discharging facilities for the fast automated handling of minor bulk commodities. As we saw in Chapter 13, bulk cargoes such as wool, rubber, latex,
+cotton and some forest products can now be containerized.
 Other general cargo ships 14
 Although container-ships dominate the transport of general cargo, in 2006 there was a
 fleet of 4717 other general cargo ship types operating in this market segment. The
@@ -17838,8 +18064,8 @@ demand which has become more apparent as the container business has matured.
 In economic terms, MPP vessels are a compromise for use in trades that are partly
 containerized, especially for heavy and awkward cargoes which cannot be containerized, and their ability to pick up bulk cargoes helps to increase deadweight utilization.
 
-The downside is reduced efficiency handling containers, since they do not have cell P
-guides and they are expensive to build. However, even basic MPPs often have a lateral T
+The downside is reduced efficiency handling containers, since they do not have cell
+guides and they are expensive to build. However, even basic MPPs often have a lateral
 cargo mobility rating of 5, with the ability to carry pre-slung cargo, palletized cargo,
 flats, containers, heavy and awkward cargo, and wheeled vehicles, but designs vary a great deal. Since there are many permutations it is useful to review some examples
 which illustrate the principal features of this ship type and how they can be varied.
@@ -17949,7 +18175,7 @@ cargoes previously carried as bottom cargo. The concept involved grouping ‘flo
 holds'(i.e. barges), generally of 400-1,000 tonnes, within a single ship. These barges
 
 Pcould be filled with general cargo or small bulk parcels, making barge systems at least
-Tas flexible as the traditional cargo liner in terms of range of cargoes carried. The main
+as flexible as the traditional cargo liner in terms of range of cargoes carried. The main
 design feature is the method employed for getting the heavy barges into the barge
 carrier - the LASH system used a shipboard crane, and the BACAT system floated the barges on to the ship. The barge carrier system has not been widely adopted. In 2006
 there were only ten barge carriers, but not all were operating.
@@ -17971,7 +18197,9 @@ in terms of cargo handling. Cars are often carried as a backhaul.
 Although reefers dominated the refrigerated cargo trade, the fleet of 1,800 vessels is
 now very old, with an average age of 23.9 years (see Table 2.5). Refrigerated foods are
 increasingly transported in reefer containers.
-14.4 SHIPS FOR THE DRY BULK TRADES
+
+### 4.4 Ships for the Dry Bulk Trades
+
 In the bulk cargo market, the focus is on low-cost transport. The bulk carrier fleet
 (Table 14.9) consists of over 6,000 vessels of 369 m.dwt. The fleet falls into four main
 parts generally referred to as Handy bulk carriers (10,000-39,999 dwt), Handymax
@@ -17985,9 +18213,9 @@ transported in bulk carriers. These are all single-deck ships with a double bott
 cargo access through hatches in the weather deck and speeds generally in the range of
 13-16 knots, though the average for most sizes is about 14.5 knots. Since the mid-1960s
 
-## SHIPS FOR THE DRY BULK TRADES 14.4
+### 14.4 Ships for the Dry Bulk Trades
 
-Table 14.9 Bulk carrier fleet, February 2007, by size and hull characteristics P
+Table 14.9 Bulk carrier fleet, February 2007, by size and hull characteristics
 Bulk carrier fleet size Hull characteristics E
 Av.dwt Total Length Beam Draft Speed Cons. Cubic % 14
 Size No 000s dwt m. m. m. knots t/day m3/tonne geared
@@ -18174,8 +18402,10 @@ Aeration panels in the tank top of each hold fluidize the cargo, allowing it to 
 out of the hold by blow pumps located in a pump room amidships and discharged to
 
 Pshore-based reception facilities using the ship's boom conveyor. In principle, ships like
-Tthis can be used to carry any cargo with a fine particle size.
-14.5 SHIPS FOR LIQUID BULK CARGOES
+this can be used to carry any cargo with a fine particle size.
+
+### 4.5 Ships for Liquid Bulk Cargoes
+
 The transportation of bulk liquids by sea generally requires the use of tankers. The main
 types of tanker are for the transport of crude oil, oil products, chemicals, LPG and LNG.
 Crude oil tankers
@@ -18211,10 +18441,10 @@ VLCC
 Total/Av. 6,301 377 59,834 12.9 31.7 11.9 518 13.9 14.4 37.8
 Source: Clarkson Research Studies, Tanker Register2006, London
 
-## SHIPS FOR LIQUID BULK CARGOES 14.5
+### 14.5 Ships for Liquid Bulk Cargoes
 
-The Handy tankers under 50,000 dwt are mainly used for the transport of oil products P
-(see the next section for details) and the larger vessels for the transport of crude oil. T
+The Handy tankers under 50,000 dwt are mainly used for the transport of oil products
+(see the next section for details) and the larger vessels for the transport of crude oil.
 There are two different designs for oil tankers, single hull and double hull. Until the
 1990s most crude tankers had a single skin, using the hull as the main containment vessel. The single hull design had longitudinal bulkheads running the length of the ship
 from the bow to the engine room, dividing the hull into three sets of tanks, the port wing
@@ -18223,7 +18453,7 @@ across the ship divide these three sets of tanks into separate cargo compartment
 single-hull vessels two or more sets of wing tanks act as ‘segregated ballast tanks',
 which means they are only used for ballast water.
 Single-hull tankers are now obsolete. IMO Regulation 13F required tankers ordered
-after 6 July 1993 to have double hulls as a protective measure against oil loss. A
+after 6 July 1993 to have double hulls as a protective measure against oil loss.
 typical arrangement is shown in Figure 14.6. The regulations lay down precise rules
 regarding the width of the double sides and the double bottom, but the principle is
 simple enough. There must be a second skin to limit the outflow of oil in the event of
@@ -18259,12 +18489,12 @@ the structure was designed for a fatigue life of 40 years, with particular atten
 Suezmax 157,800 dwt crude oil tanker (87,167 gt)
 HULL MACHINERY OTHER
 Main Dimensions (m) Speed & Main Engine Navigation Equipment
-Deadweight (design) 145,900 dwt Speed, 15.2 kts 15% sea margin Radar plant 2
-Scantling (scantling) 157,800 dwt Engine Type Man B&W 6S70MC-C Auto pilot/Gyro compass 1
-Length over all (m) 274 Power output 22,920 bhp×91 rpm (16.8 MW) DGPS navigator 2
+Deadweight (design) 145,900 dwt Speed, 15.2 kts 15% sea margin Radar plant
+Scantling (scantling) 157,800 dwt Engine Type Man B&W 6S70MC-C Auto pilot/Gyro compass
+Length over all (m) 274 Power output 22,920 bhp×91 rpm (16.8 MW) DGPS navigator
 Length between perp. 264 NCR (90% DMCR) 20,630 bhp×87.9 rpm (15.2 MW) Painting System
 Breadth, moulded (m) 48 D.F.O.C at NCR 60.5 MT/day Under water hull: epoxy anti-corrosive
-Depth, moulded (m) 23.2 Cruising range 22,900 NM Antifouling +Tin free SPC
+Depth, moulded (m) 23.2 Cruising range 22,900 NM Antifouling +in free SPC
 Draught (design) (m) 16 Power Supply Cargo tanks Tar free epoxy
 Draught (scantling) (m) 17 Main generators Diesel: 3 Sets ×950 kW Water ballast tanks:Tar free epoxy
 Tank Capacity (m3) Emergency generator 1 Set×300 kW (Bottom & up to 0.5 m deck head
@@ -18284,8 +18514,8 @@ to known areas of weakness such as the end connections of the longitudinal stiff
 to the transverse webs and bulkheads. It has 12 cargo tanks plus two slop tanks,
 arranged in three segregations. Three steam turbine pumps are located in the pump
 room between the engine room and the cargo tanks. Each pump serves a separate
-segregation, allowing the ship to handle three grades of cargo simultaneously, which is useful for carrying a combination of smaller parcels and for multi-port discharge. P
-The cargo tanks are coated with tar-free epoxy, another useful extra. T
+segregation, allowing the ship to handle three grades of cargo simultaneously, which is useful for carrying a combination of smaller parcels and for multi-port discharge.
+The cargo tanks are coated with tar-free epoxy, another useful extra.
 The speed of 15.2 knots on 60.5 tonnes per day is typical for a ship of the size, as
 can be seen from Table 14.10. Electrical supplies are obtained from three 950kW diesel generator sets, with one smaller emergency back-up generator and two auxiliary
 boilers. In addition, a waste heat economizer is fitted, another useful extra to improve
@@ -18323,7 +18553,7 @@ industrial chemical trades such as caustic soda and MTBE which travel in parcels
 of up to 40,000 tonnes.
 
 P ● Small parcels are frequently traded interregionally, and if a small chemical tanker
-Tof the appropriate size is used, the freight cost is very high, on a long journey from
+of the appropriate size is used, the freight cost is very high, on a long journey from
 Europe to the Far East reaching as much as $150 per tonne.
 ● Some chemicals are corrosive and require special cargo handling and tank characteristics.
 ● Some chemicals are subject to the IMO regulations on the transport of hazardous
@@ -18360,8 +18590,8 @@ carry many small chemical parcels on a single voyage. Vessels operating in liner
 wide range of regulated cargoes. Tank coatings are used to deal with corrosivity and
 reactivity and three different tank protection methods are used - stainless steel for
 corrosive cargo and zinc silicate or epoxy coatings which suit most others. Tanks for the
-most toxic and pervasive substances classified as Type 1 by IMO must be located not less than one-fifth of the ship's breadth from the ship's sides, measured at the water line. P
-All in all it is a complex business for both the investor, who must decide what level of T
+most toxic and pervasive substances classified as Type 1 by IMO must be located not less than one-fifth of the ship's breadth from the ship's sides, measured at the water line.
+All in all it is a complex business for both the investor, who must decide what level of
 sophistication makes commercial sense, and the designer, who must create a ship which
 will operate successfully for 20-30 years.
 The main features of the sophisticated chemical tanker illustrated in Figure 14.7
@@ -18424,13 +18654,13 @@ Diesel oil tanks 162 3×600 kW at 900 rpmRatings 8
 Ballast water tanks 4300 Power take-in on gearbox can drive ship at 7 kts Spare 3
 Paint System Boilers 2×6 ton/h Total 17
 Under water hull: epoxy anti-corrosion Class: Ice Class 1A
-Antifouling + Tin free SPC Bow thruster 1×600 kW High tensile steel 8%
+Antifouling + in free SPC Bow thruster 1×600 kW High tensile steel 8%
 Cargo tanks Tar free epoxy
 Water ballast tanks: Tar free epoxy bottom & up to 0.5m, deck head and down to 1.7 m only
 Figure 14.7
 Chemical parcel tanker, 11,340 dwt
-Source: Drawing by Martin Stopford, based on vessel built by INP Heavy Industries Co. Ltd, S. Korea triangulate, for example shipping oil from the Middle East to Europe and returning to P
-Asia with a cargo of Polish coal. They could also switch between the tanker and dry T
+Source: Drawing by Martin Stopford, based on vessel built by INP Heavy Industries Co. Ltd, S. Korea triangulate, for example shipping oil from the Middle East to Europe and returning to
+Asia with a cargo of Polish coal. They could also switch between the tanker and dry
 bulk markets to take advantage of a rate differential, or to reduce ballast time by carrying dry and liquid cargoes on alternate legs (‘triangulation voyages'). In practice, the rewards for flexibility have been slim.
 The concept of flexible ships carrying oil on the main leg and returning with a
 different cargo date back to the early days of the oil trade and in general has not been
@@ -18466,7 +18696,8 @@ few new ships were ordered and by 2007 the combined carrier fleet had fallen to
 do with the concept, which was perfectly sound, than with the economic obstacles it
 faced in a competitive market such as shipping.
 
-14.6 GAS TANKERS
+### 14.6 Gas Tankers
+
 Basic gas tanker technology
 Transporting liquid gas by sea presents many complexities, one of which is the number of different cargo systems which are currently in use. So at the outset it is useful to
 define the various options available. The starting point is the containment system, and
@@ -18504,9 +18735,8 @@ tankers. In 2006 there were 540 pressurized vessels in the gas fleet, ranging in
 design pressure is optimized for propane at about 18 bar. Pressurized tankers have two
 to six cylindrical carbon steel pressure vessels resting on saddles built into the hull, or
 
-## GAS TANKERS 14.6 on deck. Cargo is carried at ambient temperature, and a compressor is usually provided P
-to pressurize the cargo tanks during discharge or to transfer the cargo vapour when load- T
-ing or discharging. Cargo handling is important because these short-haul ships make
+on deck. Cargo is carried at ambient temperature, and a compressor is usually provided 
+to pressurize the cargo tanks during discharge or to transfer the cargo vapour when loading or discharging. Cargo handling is important because these short-haul ships make
 many port calls in a year. Because the cylindrical pressure tanks use the under-deck space inefficiently and are heavy, with a cargo to tank weight ratio of about 2:1, this
 system is mainly used for smaller ships.
 Semi-refrigerated vessels have pressurized tanks constructed of carbon steel
@@ -18596,7 +18826,9 @@ diesel electric systems are also used.
 This LNG tanker is a very sophisticated and expensive vessel, but the broad features
 are similar to the other tankers discussed in this chapter. The big difference is the engineering skills, materials and technology required to load, transport and discharge a
 liquid cargo at a temperature of −161.5∞C.
-14.7 NON-CARGO SHIPS
+
+### 4.7 Non-cargo Ships
+
 Non-cargo and service vessels cover a wide variety of ships from a 200 grt tug to a
 100,000 gt cruise liner. This makes it difficult to analyse the demand for each type with
 any authority. Although these vessels represent only 7% of the fleet in gross tonnage
@@ -18619,9 +18851,11 @@ Tugs, dredgers and research craft form part of the fleet related to the coastal 
 activity, and there has also been a growing demand from harbour and canal authorities.
 One of the reasons for the faster growth was the change in trading patterns towards the
 
-## ECONOMIC CRITERIA FOR EVALUATING SHIP DESIGNS 14.8 developing countries and the use of larger ships. The growing interest in the resources of P
-the seabed also generated a growing market for research, survey vessels and icebreakers. T
-14.8 ECONOMIC CRITERIA FOR EVALUATING SHIP DESIGNS
+developing countries and the use of larger ships. The growing interest in the resources of 
+the seabed also generated a growing market for research, survey vessels and icebreakers.
+
+### 4.8 Economic Criteria for Evaluating Ship Designs
+
 So far we have discussed the options that may confront a shipowner contemplating an
 investment decision. For the many practical reasons discussed, it is not easy to evaluate
 these options in financial or economic terms, and there is a temptation to suggest that
@@ -18690,12 +18924,14 @@ There are several variations on these two methods, notably the yield or internal
 of return, which is closely related to the NPV method (being the interest rate that
 produces an NPV of zero), and the permissible price (i.e. the maximum price payable
 for a ship to yield the required rate of return), which can be derived from either method.
-14.9 SUMMARY
+
+### 4.9 Summary
+
 This chapter has reviewed the ships used in the shipping business. We started with two
 important observations. First, because the demand for merchant ships is derived from
 
-## SUMMARY 14.9 the demand for transport, we cannot determine the demand for merchant ships simply P
-by examining the cargo flows. Shipowners are free to use whatever ships they think will T
+the demand for transport, we cannot determine the demand for merchant ships simply 
+by examining the cargo flows. Shipowners are free to use whatever ships they think will
 provide the service most profitably. We must consider a wider range of
 economic factors which include the type of cargo, the type of shipping operation and the owner's commercial philosophy. Second, ship types should not be viewed in terms
 of physical design characteristics. From the shipowner's point of view, ships of the same
@@ -18747,6 +18983,11 @@ Till, framed with perfect symmetry,
 A skeleton ship arose to view!
 And around the bows and along the side
 The heavy hammers and mallets plied,
+
+---
+
+## Chapter 15: The Economics of Merchant Shipbuilding and Scrapping
+
 Till after many a week, at length,
 Wonderful for form and strength,
 Sublime in its enormous bulk,
@@ -18754,7 +18995,9 @@ Loomed aloft the shadowy hulk!
 (‘The Building of the Ship', Henry Wadsworth Longfellow,
 The Poetical Works of Longfellow, Frederick Warne & Co.,
 London 1899, p. 143)
-15.1 THE ROLE OF THE MERCHANT SHIPBUILDING AND
+
+### 5.1 The Role of the Merchant Shipbuilding and
+
 SCRAPPING INDUSTRIES
 The shipbuilding industry supplies new ships, while shipbreakers (‘recyclers') are
 the last-resort buyers of old ships which cannot be operated profitably in the
@@ -18782,7 +19025,9 @@ unit of measurement, the compensated gross ton (cgt). The compensated gross
 tonnage of a ship is derived from its gross tonnage (gt), but weighted to take account
 of the work content of that particular ship type - detailed definitions can be found
 in Appendix B.
-15.2 THE REGIONAL STRUCTURE OF WORLD SHIPBUILDING
+
+### 5.2 The Regional Structure of World Shipbuilding
+
 Who builds the world's merchant ships?
 About 30 countries have a significant merchant shipbuilding industry (see Table 15.1),
 and it has a changeable history. Ship production trebled from 8.4 million gt in 1960 to
@@ -18825,10 +19070,10 @@ The decline of British shipbuilding
 In the early 1890s Britain dominated the maritime industry, producing over 80% of the
 world's ships and owning half the world fleet. In 1918 the Board of Trade Departmental
 
-## REGIONAL STRUCTURE OF WORLD SHIPBUILDING 15.2
+### 15.2 Regional Structure of World Shipbuilding
 
-Committee on Shipping and Shipbuilding commented: ‘there are few important industries P
-where the predominance of British manufacture has been more marked than shipbuilding T
+Committee on Shipping and Shipbuilding commented: ‘there are few important industries
+where the predominance of British manufacture has been more marked than shipbuilding
 and marine engineering'.2Britain held this dominant position until 1950 when it started
 to lose market share. The downward trend is apparent in Figure 15.2, as is the close correlation with the decline of the UK merchant fleet. At the beginning of the twentieth
 century, the UK merchant fleet had a 45% market share and shipbuilding about 55%,
@@ -18875,9 +19120,8 @@ Source: Lloyd's Register of Shipping
 Note: This figure shows, for each region, the merchant fleet as a percentage of the world fleet and shipyard output as a
 percentage of world output.
 
-Second World War. The battle was probably lost in the 1960s when British manufacturing P
-industry as a whole was struggling with entrenched management practices and con- T
-frontational labour relations. Despite considerable capital investment, the British yards
+Second World War. The battle was probably lost in the 1960s when British manufacturing
+industry as a whole was struggling with entrenched management practices and confrontational labour relations. Despite considerable capital investment, the British yards
 never achieved the high productivity levels of the German or Scandinavian yards.
 Typically it took twice as many man-hours to build a ship in the United Kingdom as in
 Scandinavia or Japan. A major strategic loss was the first container-ship which was
@@ -18957,8 +19201,8 @@ World War. Production on this scale was achieved by using standard ships and
 standard production methods at the Hog Island complex which consisted of 50 building
 berths in five groups of ten along the Delaware River. The complex built a standard
 merchant ship in three sizes constructed as far as possible from flat plate. The building
-time was approximately 275 days. This was the first step towards standardized shipbuilding practices, though the yards did not achieve the degree of prefabrication P
-introduced later. T
+time was approximately 275 days. This was the first step towards standardized shipbuilding practices, though the yards did not achieve the degree of prefabrication
+introduced later.
 The Second World War saw an even more extensive shipbuilding programme for the
 American Liberty ship, which was a standard dry cargo vessel of 10,902 dwt, and the
 T2 tanker of 16,543 dwt. These ships were mass-produced, with major sub-assemblies
@@ -19040,9 +19284,9 @@ increased productivity and in 2005 Japan was still the market leader, producing
 16.1 million gross tons of ships, compared with South Korea's 15.4 million gross tons
 (see Table 15.1).
 
-The rise of South Korean shipbuilding P
+The rise of South Korean shipbuilding
 The entry of South Korea into the world shipbuilding market was, like that of its near- E
-neighbour Japan, the result of a carefully planned industrial programme. In the early R
+neighbour Japan, the result of a carefully planned industrial programme. In the early
 1970s a major investment programme was planned, starting with the construction of the 15
 world's largest shipbuilding facility by Hyundai at Ulsan, designed in the UK, with a
 380 metre dry dock capable of taking vessels up to 400,000 dwt. Later in the decade a
@@ -19077,8 +19321,8 @@ The major expansion of China's shipbuilding capacity gathered speed in the late
 existing shipbuilding facilities, with just one major new shipyard built, the Dalian New
 yard. However expansion of the existing Chinese shipyards allowed shipbuilding production to increase from 784,000 gt in 1995 to 5.7 million gt in 2005 and 11 million gt
 
-Pin 2007. At that stage over 90 established shipyards in China were building a wide range
-Tof vessel sizes and types and about 30 major new shipyards were under construction, or
+in 2007. At that stage over 90 established shipyards in China were building a wide range
+of vessel sizes and types and about 30 major new shipyards were under construction, or
 at an advanced stage of planning. Shipbuilding is in three areas spread around the Bohai
 Rim in the North, Shanghai, and with a few shipyards in the Pearl River in the South.
 It is widely anticipated in the shipbuilding market that the Chinese industry will take
@@ -19115,9 +19359,11 @@ costs and large, efficient facilities, South Korea was the first to build its bu
 primarily around the export market, with a product range focused on large vessels.
 China followed on with many more yards but much the same formula.
 So there are many permutations, but the common theme is that newcomers combine
-low labour costs and decent capital investment with the capacity to work hard and move with the market. Whatever the technology, shipbuilding remains a business where P
-someone has to get their hands dirty. T
-15.3 SHIPBUILDING MARKET CYCLES
+low labour costs and decent capital investment with the capacity to work hard and move with the market. Whatever the technology, shipbuilding remains a business where
+someone has to get their hands dirty.
+
+### 5.3 Shipbuilding Market Cycles
+
 From a commercial viewpoint, these changes in the regional structure were accompanied
 by long periods of intense competition as each new entrant, Continental Europe,
 Scandinavia, Japan and then South Korea, fought for market share. This harsh commercialclimate was intensified by the cyclical nature of shipbuilding demand. Over the last
@@ -19176,9 +19422,9 @@ devoted public funds to building up their industries. When combined with volatil
 this capacity pressure contributed to two decades of almost continuous problems in the
 shipping market, with slumps interspersed by periods of moderate market improvement.
 Contemporary press statements illustrate the mood of the period. For example:
-In the early part of 1924 it was generally believed that depression in the shipbuilding industry had touched its lowest point. It could not be imagined that the signs of revival would be so short lived … the immediate outlook is now P
-exceedingly grave.12 T
-The year 1926 was one of great depression in shipbuilding.13 R
+In the early part of 1924 it was generally believed that depression in the shipbuilding industry had touched its lowest point. It could not be imagined that the signs of revival would be so short lived … the immediate outlook is now
+exceedingly grave.12
+The year 1926 was one of great depression in shipbuilding.13
 As far as shipbuilding is concerned 1930 has been a most trying time … only one 15
 berth in four occupied.14
 The year 1935 in the shipbuilding industry may be regarded as a year of marking
@@ -19252,11 +19498,13 @@ in all shapes and sizes, driven by long-term swings in trade growth, combined wi
 capacity imbalances caused by shipping market cycles. Add a constantly changing
 competitive structure and we can only conclude that shipbuilding is not a business for
 the faint hearted.
-15.4 THE ECONOMIC PRINCIPLES
+
+### 5.4 The Economic Principles
+
 Causes of the shipbuilding cycle
 It is easy to understand why the shipbuilding market is so volatile. The market mechanism
-uses the volatility to balance the supply and demand for ships, whilst at the same time drawing in new low-cost shipbuilders and driving out high-cost capacity. This mechanism P
-is basically unstable, as can be illustrated with a simple example. If the merchant fleet T
+uses the volatility to balance the supply and demand for ships, whilst at the same time drawing in new low-cost shipbuilders and driving out high-cost capacity. This mechanism
+is basically unstable, as can be illustrated with a simple example. If the merchant fleet
 is 1,000 m.dwt and sea trade grows by 5%, an extra 50 m.dwt of ships are needed. If,
 in addition, 20 m.dwt of ships are scrapped, the total shipbuilding demand is 70 m.dwt.
 But if sea trade does not grow, no extra ships are needed and shipbuilding demand falls
@@ -19341,10 +19589,10 @@ the available supply of newbuilding berths for that particular ship type. If the
 potential orders than berths, the price rises until some investors drop out, and if there
 are more berths than orders, prices fall until new buyers are tempted into the market.
 
-## ECONOMIC PRINCIPLES 15.4
+### 15.4 Economic Principles
 
-So explaining price movements depends on understanding what determines the demand P
-for building slots and the supply of berths. T
+So explaining price movements depends on understanding what determines the demand
+for building slots and the supply of berths.
 Because shipbuilding is a capital goods industry selling to an international market,
 its price model is more complex than the freight rate model we discussed in Chapter 4.
 However, the experience of the last two decades tells us that, for a given price, shipbuilding demand is influenced by shipping freight rates, second-hand prices, market
@@ -19428,7 +19676,7 @@ axis in million cgt of ships supplied, and the price. The bars show the capacity
 in each of the shipbuilding areas, China, South Korea, Japan and Europe. They all have
 different cost levels. In China the average ship costs $34 million, compared with
 
-Pby perhaps extending the life of their existing ships, especially since rising prices are
+by perhaps extending the life of their existing ships, especially since rising prices are
 Tgenerally associated with a long delivery date. Conversely, as the price falls the financial
 case for new orders improves and the demand for new ships increases until, at some
 point, constraints on finance or market expectations limit the number of new orders placed and no further ships are ordered however low the price falls.
@@ -19528,7 +19776,9 @@ calculation, and these dynamic issues need to be taken into account. Finally, ac
 shipbuilding deliveries in column 9 provide a ‘reality check'to see how the estimated
 demand compares with actual deliveries. It looks as though deliveries were below
 demand for the first half of the period, but drawing ahead towards the end.
-15.5 THE SHIPBUILDING PRODUCTION PROCESS
+
+### 5.5 The Shipbuilding Production Process
+
 For a better understanding of the shipbuilding supply model, we must now turn to the
 production process. In 2006 there were over 250 major merchant shipyards world-wide.
 The number of docks/berths and the layout and equipment of the shipyard place an
@@ -19562,8 +19812,8 @@ efficient paint system, offering a long working life with minimum maintenance.
 The shipbuilding production process
 To build ships the shipyard must accomplish three main tasks - the design and planning
 of the ship, the construction of the steel hull, and the outfitting of the hull with machinery,
-equipment, services and furnishings. These operations are not necessarily sequential and there is much overlap. An example of a shipyard layout is shown in Figure 15.10, P
-with arrows indicating how work flows from the delivery of materials to the steel stockyard T
+equipment, services and furnishings. These operations are not necessarily sequential and there is much overlap. An example of a shipyard layout is shown in Figure 15.10,
+with arrows indicating how work flows from the delivery of materials to the steel stockyard
 through to the assembly of the ship in the dock. This shipyard layout illustrates the
 different stages unusually well, though not all shipyards are designed in such a logical way. It is common to find these facilities spread around the yard, with units moved from
 one location to another on low loaders. The ten manufacturing stages are itemized in
@@ -19639,7 +19889,7 @@ The blocks and sub-assemblies are taken to the block surface preparation unit (1
 where surfaces are prepared and coatings applied under controlled conditions.
 Depending on the coatings used they will then be taken to the accelerated
 
-## SHIPBUILDING PRODUCTION PROCESS 15.5
+### 15.5 Shipbuilding Production Process
 
 Figure 15.10
 Shipyard layout plan
@@ -19678,7 +19928,9 @@ The major advances in shipbuilding techniques have been in planning and managing
 this process - for example, the introduction of pallets for material handling; the pre-outfitting and painting of assemblies before installation in the ship; and information
 systems to support these processes. The application of these techniques can yield
 dramatic results in terms of the man-hours required to build the ship.
-15.6 SHIPBUILDING COSTS AND COMPETITIVENESS
+
+### 5.6 Shipbuilding Costs and Competitiveness
+
 In practice the level of efficiency and costs varies considerably from one yard to
 another. Although attention often focuses on the facilities as the main determinant of
 competitiveness, in reality there are many factors to consider. Broadly speaking,
@@ -19763,11 +20015,13 @@ league table in a matter of months. All of this combines to make shipbuilding a 
 business that requires great management skill. Despite all these problems, or perhaps
 because of them, shipbuilders are some of the most tenacious businessmen in the
 maritime industry.
-15.7 THE SHIP RECYCLING INDUSTRY
+
+### 5.7 The Ship Recycling Industry
+
 Compared with shipbuilding, shipbreaking (sometimes referred to as ‘demolition'
 or ‘recycling') is a rough business. The ships are sold at a negotiated price per lightweight ton (see Section 5.7 for a discussion of the commercial process). Shipbreakers
-mainly rely on manual labour to dismantle ships in whatever facilities are available, often a suitable beach. Although it is possible to increase productivity by using P
-mechanized shipbreaking methods, these are capital-intensive and the investment has T
+mainly rely on manual labour to dismantle ships in whatever facilities are available, often a suitable beach. Although it is possible to increase productivity by using
+mechanized shipbreaking methods, these are capital-intensive and the investment has
 not generally been thought economic, given the volatility and small margins in the
 shipbreaking business.
 The process of non-mechanized shipbreaking falls into three stages. At the preparatory
@@ -19841,8 +20095,8 @@ recent entrant to the Far East scrapping business, but the story is much the sam
 carried out in two demolition yards owned by Hyundai. As wages rose in the late 1980s
 and the shipbuilding industry expanded, the demolition yards were closed.
 The People's Republic of China entered the ship demolition market in the early 1980s
-and rapidly became the world's second largest buyer of ships for scrap. There was a considerable domestic demand for steel products and, in fact, the China Steel P
-Corporation was already importing a considerable amount of scrap steel from Taiwan. T
+and rapidly became the world's second largest buyer of ships for scrap. There was a considerable domestic demand for steel products and, in fact, the China Steel
+Corporation was already importing a considerable amount of scrap steel from Taiwan.
 Although China continued to operate demolition yards in the 1990s, the scale of the
 business was restricted by government regulations controlling currency for the purchase of ships and strict environmental regulations, and China's market share fell from
 23% in 1986 to 9% in 1995 and 3% in 2005.
@@ -19895,7 +20149,9 @@ ship recycling will include regulations for the design, construction, operation 
 preparation of ships so as to facilitate safe and environmentally sound recycling, without compromising the safety and operational efficiency of ships; the operation of ship
 recycling facilities in a safe and environmentally sound manner; and the establishment
 of an appropriate enforcement mechanism for ship recycling.
-15.8 SUMMARY
+
+### 5.8 Summary
+
 In this chapter we have discussed the international shipbuilding and scrapping industries.
 Although shipbuilders face the same market volatility as their customers, the shipowners,
 it is a very different business with large fixed overheads and many employees.
@@ -19923,8 +20179,8 @@ from one country to another.
 Finally, we discussed the shipbreaking industry, a very different industry from
 shipbuilding. Although ideally demolition takes place in a dry dock, gently sloping
 
-## SUMMARY 15.8 sandy beaches are often used. The industry at the beginning of the twenty-first century P
-was mainly located in areas with plentiful cheap labour and a market for the steel and T
+sandy beaches are often used. The industry at the beginning of the twenty-first century 
+was mainly located in areas with plentiful cheap labour and a market for the steel and
 equipment recovered from the ship. India, Pakistan and currently Bangladesh undertake
 most of the ship demolition. Regulation governing health and safety in the recycling yards and the construction of ships from recyclable materials is increasing.
 In conclusion, shipbuilding and demolition are fascinating industries, in some ways
@@ -19934,14 +20190,17 @@ business. But the shipbuilders, who are tough people themselves, do not seem to 
 that, and as long as there is seaborne trade and salt water, they will remain a distinctive
 and essential part of the maritime business.
 
-The Regulation of
-the Maritime
-Industry
+---
+
+## Chapter 16: The Regulation of the Maritime Industry
+
 Whosoever commands the sea commands the trade; whosoever commands the trade of the world
 commands the riches of the world and consequently the world itself.
 (Judicious and Select Essays and Observations by the Renowned and Learned Knight Sir
 Walter Raleigh, upon the First Invention of Shipping, H. Moseley, 1650)
-16.1 HOW REGULATIONS AFFECT MARITIME ECONOMICS
+
+### 6.1 How Regulations Affect Maritime Economics
+
 Shipowners, like most businessmen, find that regulation often conflicts with their
 efforts to earn a reasonable return on their investment. When Samuel Plimsoll first
 started his campaign against the notorious ‘coffin ships'in the 1870s, British shipowners
@@ -19976,7 +20235,9 @@ emphasis changes and during the last decade the environment, emissions by ships,
 ballast water, and ship recycling have all received more attention. Needless to say, all of
 this has economic consequences and a knowledge of maritime regulation is an essential
 part of the maritime economist's toolkit.
-16.2 OVERVIEW OF THE REGULATORY SYSTEM
+
+### 6.2 Overview of the Regulatory System
+
 The aim of this chapter is to discuss the international regulatory system and the legal
 and political issues that have influenced, and in some cases dominated, the maritime
 scene since the mid-1960s. The chapter seeks to answer three questions: Whoregulates
@@ -20005,7 +20266,7 @@ Each maritime state has two different roles, first as a ‘flag state' and secon
 ‘coastal state'(see centre of Figure 16.1). As a ‘flag state'it makes and enforces laws
 governing ships registered under its flag. For example, as a flag state Greece is legally
 
-## OVERVIEW OF THE REGULATORY SYSTEM 16.2
+### 16.2 Overview of the Regulatory System
 
 Figure 16.1
 The maritime regulatory system showing the role of the 166 maritime states
@@ -20027,7 +20288,7 @@ participants in the regulatory process:
 ● The classification societies: the shipping industry's own system for regulating the
 technical and operational standard of ships. The classification societies make rules
 
-Pfor ship construction and maintenance and issue a classification certificate to
+for ship construction and maintenance and issue a classification certificate to
 Treflect compliance.
 ● The United Nations, which sets the broad framework of maritime law.
 ● The flag states. The primary legal authority governing the activities of merchant ships is the state in which the ship is registered, the flag state. By custom this state
@@ -20039,7 +20300,9 @@ regulation vary from one country to another.
 ● The IMO, the UN agency responsible for safety, the environment and security.
 ● The ILO, responsible for regulations governing people on board ship.
 In the following sections we will consider each of these regulatory regimes.
-16.3 THE CLASSIFICATION SOCIETIES
+
+### 6.3 The Classification Societies
+
 The shipping industry's own regulatory system arose from the efforts of insurers to
 establish that the vessels for which they were writing insurance were sound. In the mideighteenth century they formed the first classification society and during the intervening period their activities have become so closely involved with the regulatory activities
 of governments that it is often difficult for laymen to understand the difference between
@@ -20059,10 +20322,10 @@ appointed surveyors'.5The condition of the hull was classified A, E, I, O or U, 
 otherwise). Equipment was graded G, M or B - good, middling or bad. Any ship classified AG was thus as sound as it could be, whilst one rated UB was obviously a bad risk
 from the underwriter's point of view. In time, G, M and B were replaced by 1, 2 or 3.6
 
-## CLASSIFICATION SOCIETIES 16.3
+### 16.3 Classification Societies
 
-The ‘green book', as it was known, was compiled by insurers for the sole use of P
-members of the society and contained details of 15,000 ships. All went well until the T
+The ‘green book', as it was known, was compiled by insurers for the sole use of
+members of the society and contained details of 15,000 ships. All went well until the
 1797-8 register introduced a new grading system which based the ship's class on its
 river of build, favouring ships built on the Thames. This was disputed by many shipowners, and in 1799 a rival register was published, the New Register Book of Shipping, known
 as the ‘red book'. A period of punitive competition followed, bringing both registers
@@ -20101,8 +20364,8 @@ societies today are managed by a Board drawn from all parts of the maritime
 industry - shipbuilders, shipowners, insurers, etc. Although underwriters still participate in general management through membership of these boards, the classification
 societies can no longer be seen as acting exclusively for the insurers.
 
-carry out statutory certification against international conventions, codes and protocols, P
-and offer a range of quality assurance, engineering and consultancy services. In 2007, T
+carry out statutory certification against international conventions, codes and protocols,
+and offer a range of quality assurance, engineering and consultancy services. In 2007,
 ABS and its affiliated companies had a global staff of more than 3,000 people, primarily
 surveyors, engineers and professionals in the areas of risk assessment and mitigation.
 ABS maintains offices or is represented in more than 80 countries. To put this into
@@ -20178,16 +20441,18 @@ between class societies. A related function is to collaborate with outside organ
 and in particular IMO. In 1969 IMO granted IACS ‘consultative status'. The fact that it
 is the only non-governmental organization with observer status at the IMO neatly illustrates the position of the classification societies as intermediaries between the commercial shipping industry and governments.
 
-## THE LAW OF THE SEA 16.4
+### 16.4 The Law of the Sea
 
-Over the last 30 years IACS has developed more than 160 sets of unified requirements. P
-These relate to many factors, of which a few are minimum longitudinal strength, loading T
+Over the last 30 years IACS has developed more than 160 sets of unified requirements.
+These relate to many factors, of which a few are minimum longitudinal strength, loading
 guidance information, and the use of steel grades for various hull members. However, a
 significant step forward came in December 2005 when the IACS Council adopted
 Common Structural Rules for tankers and bulk carriers. For the first time this integrated
 the rule-making activities of the societies into a single design standard. The Common
 Structural Rules were implemented on 1 April 2006.
-16.4 THE LAW OF THE SEA
+
+### 6.4 The Law of the Sea
+
 Why the law of the sea matters
 Since maritime law is made and enforced by nation states, the next task is to examine
 the legal framework which determines the rights and responsibilities of nations for their
@@ -20218,7 +20483,7 @@ Conservation of Fisheries.
 A second conference, UNCLOS II, was called in 1960 to follow up on some items
 not agreed in UNCLOS I. In the 1960s the growing awareness of the mineral wealth on
 
-Pthe sea bed placed new significance on the law of the sea, and in 1970 the United
+the sea bed placed new significance on the law of the sea, and in 1970 the United
 T Nations convened a third conference to produce a comprehensive Convention on the
 Law of the Sea. Work started in 1973 (UNCLOS III), attended by 150 states. With so
 many participants, discussion was extended. It was not until 1982 that the UNCLOS
@@ -20241,9 +20506,9 @@ Maritime zones
 Source: Martin Stopford 2007
 
 BOX 16.1 MARITIME ZONES RECOGNIZED BY THE UN
-CONVENTION ON THE LAW OF THE SEA 1982 P
+CONVENTION ON THE LAW OF THE SEA 1982
 The territorial sea E
-This is the strip of water closest to the shore. UNCLOS recognizes a maximum width R
+This is the strip of water closest to the shore. UNCLOS recognizes a maximum width
 of 12 nautical miles, but in practice countries use many different limits, as can be 16
 seen in Table 16.2. Three miles is the smallest limit, 12 miles the most common, while
 200 miles is the furthest. Ships have the right of innocent passage through territorial
@@ -20279,11 +20544,10 @@ the right to establish open registries. Since the Convention does not define wha
 constitutes a ‘genuine link' between state and ship, it was left to each state to define
 this link for itself.
 
-## REGULATORY ROLE OF THE FLAG STATE 16.5
+### 16.5 Regulatory Role of the Flag State
 
-3. Crewing and terms of employment. The company is subject to flag state regulations P
-concerning the selection of crew, their terms of employment and working condi- T
-tions. Some flag states, for example, insist on the employment of nationals.
+3. Crewing and terms of employment. The company is subject to flag state regulations
+concerning the selection of crew, their terms of employment and working conditions. Some flag states, for example, insist on the employment of nationals.
 4. Naval protection and political acceptability. Another reason for adopting a flag is to benefit from the protection and acceptability of the flag state. Although less
 important today, there were examples during the war between Iran and Iraq in the
 1980s when shipowners changed to the US flag to gain the protection of US naval
@@ -20372,8 +20636,7 @@ conventions on safety and pollution.
 Others followed.
 Source: Cooper (1986)
 
-somewhere between the two, requiring 50% ownership by Greek citizens or legal enti- P
-ties.10 Dual registration is also possible to deal with situations where, for example, the T
+somewhere between the two, requiring 50% ownership by Greek citizens or legal entities.10 Dual registration is also possible to deal with situations where, for example, the
 ship is financed under a different jurisdiction from its legal ownership (dual registration
 is discussed below).
 In 2004 the IMO adopted a scheme for issuing a unique number to each company and
@@ -20409,9 +20672,9 @@ register his vessels under the UK flag, provided he satisfies certain requiremen
 Confronted with a choice of flags under which to register, the shipowner must weigh up
 the relative advantages and disadvantages of each of the alternatives.
 
-The economic role of open registers P
+The economic role of open registers
 The movement towards open registers started in the 1920s, when US shipowners saw E
-registration under the Panamanian flag as a means of avoiding the high tax rates in the R
+registration under the Panamanian flag as a means of avoiding the high tax rates in the
 United States, while at the same time registering in a country within the stable political 16
 orbit of the United States. There was a spate of registrations during this period, but the
 real growth came after the Second World War when the US government sold off Liberty
@@ -20450,7 +20713,7 @@ legislation regarding the operational and environmental safety of ships register
 under their flag.
 
 P Figure 16.3 shows that
-Tby the late 1950s the
+by the late 1950s the
 Panamanian and Liberian
 fleets had reached 16 mil- lion grt and open registers
 were becoming a major
@@ -20530,11 +20793,13 @@ most of the benefits they would receive under an international flag. Several oth
 Danish International Registry, Singapore, Hong Kong, Marshall Islands (the United
 States), Isle of Man (UK), French Antarctic Territory, Netherlands Antilles, and
 Belgium. All of these were established with the specific intention of providing
-a national alternative for domestic shipowners on commercial terms comparable with those available from open registries. There is a stark contrast between the open P
-registries, which have few nationals using their flag, and the national registers shown T
+a national alternative for domestic shipowners on commercial terms comparable with those available from open registries. There is a stark contrast between the open
+registries, which have few nationals using their flag, and the national registers shown
 at the top of Table 16.4 where most of the registered tonnage belongs to domestic
 shipowners (though more is flagged out).
-16.6 HOW MARITIME LAWS ARE MADE
+
+### 6.6 How Maritime Laws Are Made
+
 The role of maritime laws
 There are good practical reasons for developing an internationally accepted body
 of maritime law. It is common sense that if ships are to trade efficiently, the maritime
@@ -20609,7 +20874,7 @@ important issues such as safety, most maritime countries now have the same marit
 law. The procedure for making or changing a maritime convention involves four steps,
 which are broadly summarized in Box 16.2.
 
-## HOW MARITIME LAWS ARE MADE 16.6
+### 16.6 How Maritime Laws Are Made
 
 BOX 16.2 FOUR STEPS IN MAKING A MARITIME T
 CONVENTION E
@@ -20648,7 +20913,8 @@ Considerable time and effort is required to organize conferences, draft conventi
 and resolve differences and misunderstandings. This work is carried out by the IMO and
 the ILO. Each deals with a particular range of maritime affairs, as detailed in the following sections.
 
-T 16.7 THE INTERNATIONAL MARITIME ORGANIZATION
+### 16.7 The International Maritime Organization
+
 R History and organization of IMO
 The IMCO came into operation in 1958, with responsibility for adopting legislation on
 matters relating to maritime safety and pollution prevention on a world-wide basis and
@@ -20729,10 +20995,10 @@ which includes:
 ● written procedures to ensure safe operation of ships and protection of the environment;
 ● defined levels of authority and lines of communication shore and shipboard personnel;
 
-## INTERNATIONAL MARITIME ORGANIZATION 16.7
+### 16.7 International Maritime Organization
 
-● procedures for reporting accidents and non-conformities (i.e. errors which occur); P
-● procedures to prepare for and respond to emergency situations. T
+● procedures for reporting accidents and non-conformities (i.e. errors which occur);
+● procedures to prepare for and respond to emergency situations.
 The ISM Code became mandatory for tankers, bulk carriers and passenger ships over
 500 gross tons on 1 July 1998 and for most other ships trading internationally on 1 July
 2002. Approximately 12,000 ships had to comply by the first deadline and the second
@@ -20808,8 +21074,8 @@ enough to hold all ballast water for normal voyages - oil tanks could only be us
 water ballast in extreme weather. At the next international conference on tanker safety
 and pollution prevention in 1978 additional measures were added in the form of a
 
-Protocol to the 1973 Convention. The lower limit for tankers to be fitted with segregated P
-ballast tanks was reduced from 70,000 dwt to 20,000 dwt and existing tankers were T
+Protocol to the 1973 Convention. The lower limit for tankers to be fitted with segregated
+ballast tanks was reduced from 70,000 dwt to 20,000 dwt and existing tankers were
 required to fit crude oil washing equipment.
 Following a number of major oil pollution incidents, in particular the Exxon Valdes, in the early 1990s attention turned to tanker regulations to reduce the risk of oil spills
 resulting from tanker collisions and groundings. A new Annex I to MARPOL (73/78)
@@ -20850,7 +21116,8 @@ and existing engines; sulphur and fuel oil quality; emission trading; and emissi
 volatile organic compounds from tankers. The aim was to propose amendments to
 existing regulations for implementation in 2008.
 
-P 16.8 THE INTERNATIONAL LABOUR ORGANIZATION
+### 16.8 The International Labour Organization
+
 Since the 1920s the terms and conditions of employment for seafarers have been dealt
 with by the International Labour Organization (ILO), making it one of the oldest inter- governmental agencies now operating under the United Nations. Its principal concern
 is with the welfare of the 1.2 million people who work at sea. It was originally set up in
@@ -20926,10 +21193,10 @@ additional port state control MOUs have been established in the following areas:
 ● the Mediterranean MOU (10 participating countries);
 ● the Tokyo MOU (18 participants);
 
-## REGULATORY ROLE OF THE COASTAL AND PORT STATES 16.9
+### 16.9 Regulatory Role of the Coastal and Port States
 
-● the Caribbean MOU (11 participants); P
-● the Latin American agreement (12 participants); T
+● the Caribbean MOU (11 participants);
+● the Latin American agreement (12 participants);
 ● the Indian Ocean MOU (11 participants).
 The United States controls its own programme. 16
 Port state control inspections
@@ -20985,7 +21252,9 @@ far more rigorously on the risks associated with oil pollution. In particular, f
 time, shipowners were faced with the possibility of unlimited liability for the cost of any
 oil spill they are involved in. The high cost of cleaning up after the Exxon Valdez spill
 put a financial dimension on the possible scale of this problem.
-16.10 THE REGULATION OF COMPETITION IN SHIPPING
+
+### 6.10 The Regulation of Competition in Shipping
+
 The final regulatory issue we will mention in this chapter is competition. Although the
 shipping industry is very competitive, parts of the business have a history of collusion,
 notably the liner business (Chapter 13) and some of the specialist shipping segments
@@ -21004,8 +21273,8 @@ to shippers using Mogul vessels. The background was that when in 1885 Mogul Line
 had applied for admission to the conference, it was refused because it did not bear a full
 share of running regular services during off-peak periods. This led to a rate war and the
 Conference's Shanghai agents issued a circular warning that shippers who used Mogul
-ships would forfeit their rebates. Mogul applied for an injunction to stop the Conference refusing the rebates, but it was refused, confirming the legality of the Conference. Some P
-years later, however, a British Royal Commission on Shipping Rings was set up to T
+ships would forfeit their rebates. Mogul applied for an injunction to stop the Conference refusing the rebates, but it was refused, confirming the legality of the Conference. Some
+years later, however, a British Royal Commission on Shipping Rings was set up to
 investigate the rebate system. Its report in 1909 again confirmed that the commercial
 relationship between shippers and conferences was justified and that the possible abuses of the deferred rebate system should be tolerated in the interests of achieving a
 strong liner system.26
@@ -21045,7 +21314,7 @@ US regulation of liner shipping, 1983-2006
 From the 1970s onwards the USA became determined to open the newly containerized
 liner services to market forces and to curb, but not entirely prohibit, the activities
 
-Pof conferences. Under US anti-trust laws, agreements which restrict competition are
+of conferences. Under US anti-trust laws, agreements which restrict competition are
 Tillegal, but the US Merchant Shipping Act 1984 excluded liner conferences from US
 anti-trust legislation and allowed inter-modal rate making. However, the legislation
 placed severe limitations on conference activities, making closed conferences and loyalty rebates illegal. In addition, tariffs fixed by conferences operating into the USA
@@ -21085,10 +21354,10 @@ than those which the council has decided should apply to all sectors. On that ba
 the intention would be to bring maritime cabotage and tramp vessels services
 within the scope of the general enforcement rules.28
 
-## REGULATION OF COMPETITION IN SHIPPING 16.10
+### 16.10 Regulation of Competition in Shipping
 
-In September 2006, Regulation 4056/86 was repealed. The tramp shipping exemption P
-lapsed on 18 October 2006, facing companies with the possibility that Articles 81 and T
+In September 2006, Regulation 4056/86 was repealed. The tramp shipping exemption
+lapsed on 18 October 2006, facing companies with the possibility that Articles 81 and
 82 of the Treaty of Rome might be enforced against shipping pools, of which a number
 were operating in the tanker, dry bulk and specialist markets.
 For the rapidly growing container industry the Commission's discussion paper
@@ -21128,7 +21397,8 @@ the EU published draft guidelines setting out the principles that the EU will fo
 when defining markets and assessing cooperation agreements in the maritime transport
 services sectors affected by the repeal of Regulation 4056/86.31
 
-P 16.11 SUMMARY
+### 16.11 Summary
+
 In this chapter we have moved outside the conventional framework of market economics
 to examine the regulatory system that plays such a vital part in the economics of the shipping industry. We started by identifying three regulatory regimes which operate in
 the shipping industry: the classification societies, the flag states and the coastal states.
@@ -21170,8 +21440,8 @@ convention, but they are still subject to a third form of regulation, by the coa
 whose waters their ship is trading. The Law of the Sea permits coastal states to pass
 legislation concerning the ‘good conduct'of ships in its territorial waters. One important
 
-## SUMMARY 16.11 area of legislation is pollution control, notably the US Oil Pollution Act 1990. In addition, P
-since the 1970s there has been a trend towards ‘port state control'. The movement T
+area of legislation is pollution control, notably the US Oil Pollution Act 1990. In addition, 
+since the 1970s there has been a trend towards ‘port state control'. The movement
 started with the Paris MOU under which a group of European states agreed to work
 together to ensure that ships visiting their ports complied with international conventions on safety and pollution. There are now similar MOUs covering most parts of the world
 and over 50,000 ships a year are inspected.
@@ -21184,15 +21454,18 @@ exempt the liner and tramp shipping industry from anti-trust regulations, and in
 for example, the EU made liner conferences and tramp shipping pools subject to its
 competition laws.
 
-Maritime
-Forecasting and
-Market Research
+---
+
+## Chapter 17: Maritime Forecasting and Market Research
+
 The wretched boatmen do not know,
 Their rudder gone at Yura Strait,
 Where will their drifting vessel go.
 And where my love, and to what fate?
 (Sone no Yoshitada, One Hundred Poems from One Hundred Poets)
-17.1 THE APPROACH TO MARITIME FORECASTING
+
+### 7.1 The Approach to Maritime Forecasting
+
 For most shipping investors forecasting is not optional. It is how they earn their living.
 Whether it is an investment decision like ordering a ship, or deciding which charter to
 take, the better they anticipate the future, the more profit they make. In fact if they
@@ -21250,8 +21523,8 @@ The challenge of dealing with the unknown
 The problem for maritime forecasters is that unfortunately Peter Drucker is right - there
 are important aspects of the future of the maritime industry that are not predictable.
 Future freight rates depend on how many ships are ordered, a behavioural variable
-which at the extremes of shipping cycles is totally unpredictable,3and developments in the world economy which, with its business cycles and crises, are far too complex for P
-mere mortals to predict with any degree of certainty. In these circumstances even the T
+which at the extremes of shipping cycles is totally unpredictable,3and developments in the world economy which, with its business cycles and crises, are far too complex for
+mere mortals to predict with any degree of certainty. In these circumstances even the
 most sophisticated scientific forecasting methods will have limited success.
 This is not a new problem, and leaders of the ancient world developed all sorts of prophetic techniques to help them with imponderable decisions about how to conduct
 their lives and their military campaigns. Two thousand years ago there were oracles
@@ -21291,7 +21564,7 @@ all the cargo'.9Once change has commenced we can sometimes tiptoe round it and g
 of the way, or even manipulate it in our direction if it appears favourable.
 
 P In conclusion, the problems of making decisions about an uncertain future are as old
-Tas the shipping industry, and even Alexander the Great, a man of action whom any
+as the shipping industry, and even Alexander the Great, a man of action whom any
 shipping magnate can admire, took divination very seriously.10 Today's analysts with
 their computer models are the latest in a long line of intelligent individuals who minis- ter to the needs of the decision-makers and perhaps we should not be too dismissive of
 these ancient rituals (or at least be more clear-sighted about our own). Strange though
@@ -21327,8 +21600,8 @@ but, like flapping your arms in an attempt to fly, it is unlikely to succeed. Sh
 investors know very well that they are not dealing with certainty. In fact they are in
 much the same position as a poker player making an educated guess about his opponent's cards. The poker player knows he cannot identify the hand exactly, and the game
 would be pointless if he could. But a professional uses every scrap of information to
-make an educated guess about the range of possible hands. Although he will often be wrong, over a period of time this information helps him to come out ahead.12Shipping P
-investors play the odds in much the same way - they know they will not win every T
+make an educated guess about the range of possible hands. Although he will often be wrong, over a period of time this information helps him to come out ahead.12Shipping
+investors play the odds in much the same way - they know they will not win every
 hand but they also know that the right information plays an essential part in narrowing
 the odds.
 That is where ‘forecasters'come in, and one final example illustrates how information
@@ -21368,7 +21641,7 @@ The importance of information
 All of the foregoing suggests that forecasting is not about the future, it is about obtaining
 and analysing the right information about the present. The right information is not
 always easy to come by, but it is important. Few investors would be rash enough to buy a ship without the information provided by a physical inspection, and exactly the same
-Tis true of decisions which depend on economic developments.
+is true of decisions which depend on economic developments.
 An example illustrates the point. In Chapter 8 we left Aristotle Onassis at the height of
 a winning streak in 1956, with a profit of $80 million in the bank, thanks to the closure of the Suez Canal. But that was not the end of the story. Believing that the Egyptian
 government was not capable of reopening the Canal, Onassis expected it to be closed for
@@ -21402,13 +21675,15 @@ example, ordering more ships than are needed they are punished. That is all ther
 it - the law of the economic jungle rules! Information can help decision-makers find
 their way through the jungle, so they need forecasts and analysts, despite the fact that
 they are often wrong.
-17.2 KEY ELEMENTS OF THE FORECAST
+
+### 7.2 Key Elements of the Forecast
+
 Three principles of forecasting
 So how do we set about producing the right information for decision-makers? The first
 point to recognize is that if the results of the study are to be used in making a decision,
 
-## KEY ELEMENTS OF THE FORECAST 17.2 and because there are so many different decisions to be made, no single methodology P
-will produce a useful result in every case. There are, however, three principles that can T
+and because there are so many different decisions to be made, no single methodology 
+will produce a useful result in every case. There are, however, three principles that can
 be used to judge whether a forecast is likely to be useful.
 1. Relevance. The first step in any forecast is to find out exactly what aspect of the
 future the decision-maker is interested in. For example, a forecast that predicts the
@@ -21447,7 +21722,7 @@ predict that trade will increase when the world economy recovers because this ha
 always happened in the past. This form of verbal reasoning is the basis of most economic
 
 Panalysis and we often extend the model by taking account of additional information -
-Tare some cloud types more likely to produce rain than others?
+are some cloud types more likely to produce rain than others?
 Once we start asking questions like this, the problem becomes more complex. The
 first step is to specify the precise nature of the model by identifying the variables which we believe are related to the subject of the forecast and, from what we know, guessing
 the nature of the relationship between them. In the case of the weather model, one
@@ -21483,15 +21758,17 @@ can change substantially over time. Thus forecasters confronted with the problem
 whether the automobile industry will be able to make vehicles more fuel efficient. The
 rate at which innovation could be introduced in response to a major price change is difficult to predict; nevertheless, with careful research, it is possible to form a reasoned view.
 Behavioural relationships depend on the way people behave. Suppose a forecasting
-agency predicts a boom in tanker freight rates. Shipowners see the forecast and order more tankers, and the resulting oversupply drives down freight rates. The forecast is P
-wrong simply because shipowners are free to change their behaviour after the forecast T
+agency predicts a boom in tanker freight rates. Shipowners see the forecast and order more tankers, and the resulting oversupply drives down freight rates. The forecast is
+wrong simply because shipowners are free to change their behaviour after the forecast
 has been made, so attempts to predict them can be are self-defeating. Consequently,
 behaviourals of this type are not reliably predictable.
 Finally, there are wild cards. There can be sudden departures from the established
 ‘norm', for example hurricanes or revolutions. By definition they are unpredictable
 and there is really very little that can be done about them - life is, by its nature, a risky
 business.
-17.3 PREPARING FOR THE FORECAST
+
+### 7.3 Preparing for the Forecast
+
 Three practical steps must precede the forecast. The first is to define the decision to be
 made; the second is to determine who is qualified to make the forecast; and the third is
 to establish that the things we are trying to forecast really are predictable.
@@ -21558,8 +21835,8 @@ Many shipping companies have a sole proprietor, the ‘shipowner', who makes the
 himself. These shipowners have so much riding on their decisions that they often do
 their own forecasting. Some have MBAs or degrees in economics and may even use the
 formal techniques discussed in this chapter, but most base their decisions on experience,
-common sense and ‘gut feelings'. They are constantly on the lookout for information which gives an insight into what is really going on. There are several reasons why this P
-approach works. Firstly, some key aspects of shipping markets are too subtle to capture T
+common sense and ‘gut feelings'. They are constantly on the lookout for information which gives an insight into what is really going on. There are several reasons why this
+approach works. Firstly, some key aspects of shipping markets are too subtle to capture
 in statistical models, for example the effect of congestion and supply shortages which
 disrupt the demand side of the model and cause unexpected changes in the market.
 Secondly, statistical data is limited and often arrives too late to be useful to a company
@@ -21644,9 +21921,10 @@ foreclose) must take a view on the risk. This involves appraising the future str
 of the market, freight rates and ship prices; a market forecast provides a good starting
 point for discussing loans that involve a degree of commercial risk.
 
-## MARKET FORECASTING METHODOLOGIES 17.4
+### 17.4 Market Forecasting Methodologies
 
-17.4 MARKET FORECASTING METHODOLOGIES
+### 17.4 Market Forecasting Methodologies
+
 The forecasting time-scale
 Time has a special place in forecasting and has major significance for the forecasting methodology adopted. Although decisions are made in the present,18 the distance their
 consequences stretch into the future affects the forecaster's task because important
@@ -21700,7 +21978,7 @@ Shipyard Budget Business Plan Strategy
 Equipment manufacturer Budget Business Plan Strategy
 Port/terminal Budget Business Plan Strategy
 Government Budget Policy Policy
-Total 4 8 7 1
+Total 4 8 7
 little more than a convenient way of presenting conclusions drawn from less formal
 analysis.
 A summary of how these different timescales apply to different decision makers is
@@ -21722,8 +22000,8 @@ is the competitive structure and who are the market leaders? How are things like
 develop? What are the risks? A report dealing with these issues is necessarily descriptive, but will generally include some statistical analysis and forecast tables, though not
 necessarily produced with an integrated model.
 A more structured approach is to model a segment of the maritime business mathematically. Several companies offer forecasting models of the whole shipping market,
-and shipping companies sometimes develop their own sector models, for example of the oil trade, the dry bulk trade or the shipbuilding market. Because models are easily P
-updated, sensitivity analysis can be used to show the responsiveness of the results to T
+and shipping companies sometimes develop their own sector models, for example of the oil trade, the dry bulk trade or the shipbuilding market. Because models are easily
+updated, sensitivity analysis can be used to show the responsiveness of the results to
 changes in key assumptions. However, they also have three disadvantages. First, however sophisticated the model, the forecast is no better than the assumptions - typing numbers into a computer does not, in itself, add much value. Second, when forecasting
 freight rates and prices, supply-demand models can be so sensitive to very small
 assumption changes that the link between the assumptions and the forecast can become
@@ -21770,15 +22048,16 @@ shown on the map. Of course, motorists going on long journeys do not have to con
 maps or prepare route plans Many just set off and follow the road signs, hoping not to
 get lost. Much the same is true of decision-makers in the shipping market.
 In the following sections we discuss each of the approaches in more detail.
-17.5 MARKET RESEARCH METHODOLOGY
+
+### 7.5 Market Research Methodology
+
 A market research report is as much about education as prediction. The aim is to summarize all the relevant facts about the market, examine trends, and draw conclusions
 about what might happen in the future.
 Preparing this type of study requires a combination of commercial and economic
 knowledge. The statistical techniques we discuss in later sections are useful, but the
 emphasis is on identifying the factors that will significantly influence the success or
 
-## MARKET RESEARCH METHODOLOGY 17.5 failure of the commer- P
-cial decision, gathering BOX 17.1 STAGES IN PREPARING T
+failure of the commercial decision, gathering BOX 17.1 STAGES IN PREPARING 
 information and assess- A SHIPPING MARKET REPORT E
 ing how these may
 1 Establish terms of reference 17
@@ -21892,10 +22171,10 @@ be comparatively robust against the surplus of VLCCs that developed early in the
 Step 5 singles out the factors that are likely to be most important in determining the
 future outcome for the project and draws conclusions about how these will develop.
 
-## FREIGHT RATE FORECASTING 17.6
+### 17.6 Freight Rate Forecasting
 
-Finally, Step 6is the crucial task of presenting the results. Usually a report is prepared P
-with an executive summary for busy decision-makers who do not want to read the whole T
+Finally, Step 6is the crucial task of presenting the results. Usually a report is prepared
+with an executive summary for busy decision-makers who do not want to read the whole
 thing. That does not mean they do not want the detail. The ability to have an independent
 expert check the methodology is important and a report setting out the detailed research gives credibility to the conclusions. The summary may include a risk analysis. For
 example, suppose some of the key influences on the market develop unfavourably, what
@@ -21905,7 +22184,9 @@ to develop. Would it matter? Is there any action that can be taken now to guard 
 such an event? This is not easy to carry out but it is a valuable addition to the ‘spot
 prediction' technique.20 In addition to the written report, a verbal presentation with
 slides is often provided.
-17.6 FREIGHT RATE FORECASTING
+
+### 7.6 Freight Rate Forecasting
+
 Probably the most common requirement is for a forecast of freight rates. Freight rate
 forecasts are extensively used by banks, shipping companies, civil servants and consultants
 commissioned to produce commercial studies. There are several market forecasting
@@ -21940,7 +22221,7 @@ Middle East, but it has happened
 seven times over the last 50 years
 (1952, 1956, 1967, 1973, 1979,
 1980 and 2001), so it is likely to
-happen again at some point. A
+happen again at some point.
 parallel example is designing a ship
 to deal with ‘super-waves'. The
 designer does not know when a ship
@@ -21969,8 +22250,8 @@ a model with many thousands of equations, though as we will see in what follows,
 does not necessarily make models more accurate.
 Five stages in developing a forecasting model
 In principle, supply-demand modelling can be applied to any segment of the shipping
-industry, but success depends on quantifying the variables at a significant level of desegregation, and in practice this is easier for some segments than others. Shipping segments such as crude oil tankers and bulk carriers which operate in well-documented markets P
-are the easiest to model, whilst specialist vessels such as container-ships, vehicle carriers T
+industry, but success depends on quantifying the variables at a significant level of desegregation, and in practice this is easier for some segments than others. Shipping segments such as crude oil tankers and bulk carriers which operate in well-documented markets
+are the easiest to model, whilst specialist vessels such as container-ships, vehicle carriers
 and chemical tankers are more difficult to model as a whole due to the lack of published
 information and the more complex relationships involved. Having said this, it is often possible to model parts of these complex sectors. The five stages in preparing a model
 are summarized below:
@@ -22005,8 +22286,8 @@ assumptions should be made about the way in which the world economy will develop
 during this period. Specific requirements of the forecasting model are an assumption
 about the rate of growth of gross domestic product (GDP) and industrial production in
 
-Pthe main economic regions. Deciding which regions to include and in how much detail
-Tis a key task. Oil prices may also play an important part, as will views on such issues as
+the main economic regions. Deciding which regions to include and in how much detail
+is a key task. Oil prices may also play an important part, as will views on such issues as
 political instability, passage through the Suez Canal, etc.
 STAGE 2: THE SEABORNE TRADE FORECAST
 The next step is to forecast seaborne trade during the period under review. The simplest
@@ -22085,9 +22366,8 @@ that might cause the average haul to increase or decrease. In the case of the cr
 trade, for example, an increase in the market share of Middle East oil producers would
 increase the average haul and vice versa.
 
-Another approach is to analyse the trade matrix for each commodity, and from P
-this to calculate the average haul. This is technically possible and probably worth- T
-while for some of the larger commodities such as oil, iron ore, coal and grain. For
+Another approach is to analyse the trade matrix for each commodity, and from
+this to calculate the average haul. This is technically possible and probably worthwhile for some of the larger commodities such as oil, iron ore, coal and grain. For
 others it is extremely difficult because the information about the trade matrix is dif- ficult to obtain, and the time taken to produce a matrix forecast is disproportionate to
 the small amount of trade involved. A compromise is to study the average haul of the
 major commodities in some detail, whilst extrapolating past trends for the remainder
@@ -22156,7 +22436,7 @@ help decision-makers to understand in simple graphic terms what could happen, bu
 when it comes to predicting what will actually happen to freight rates they are very blunt
 instruments.
 
-## DEVELOPING A SCENARIO ANALYSIS 17.7
+### 17.7 Developing a Scenario Analysis
 
 Sensitivity analysis
 Forecasting models can be used to develop sensitivity analyses which explore how
@@ -22177,7 +22457,9 @@ compensates for the lower growth in subsequent periods. Models are rarely capabl
 reflecting these behavioural interrelationships automatically and just changing one
 assumption whilst leaving everything else the same does not necessarily accurately
 reproduce the way the market mechanism works.
-17.7 DEVELOPING A SCENARIO ANALYSIS
+
+### 7.7 Developing a Scenario Analysis
+
 A third approach to forecasting is scenario analysis. The problem it deals with is
 communication between the analyst and the decision-maker. By the end of his market
 study the forecaster may be an expert, but how does he convey this knowledge to the
@@ -22223,7 +22505,9 @@ risks and opportunities. However, it is demanding in terms of time, calls for in
 energy, and the results are difficult to encapsulate and distribute. The risk of a single
 quantified model forecast is that it ignores key issues. The risk of a scenario analysis is
 that it becomes so blurred that it is of little value.
-17.8 ANALYTICAL TECHNIQUES
+
+### 7.8 Analytical Techniques
+
 We will now briefly review the analytical techniques which are available. Four of the
 most popular forecasting techniques are summarized in Table 17.2. A brief review of
 their different capabilities will help to give newcomers to forecasting an idea of what to
@@ -22234,9 +22518,9 @@ the Delphi technique or opinion surveys. This technique is particularly useful f
 picking up emerging trends that are obvious to specialists but are not apparent from
 past data. The approach can be formal, using a panel, or informal.
 
-## ANALYTICAL TECHNIQUES 17.8
+### 17.8 Analytical Techniques
 
-Table 17.2 Overview of five analytical techniques used in shipping P
+Table 17.2 Overview of five analytical techniques used in shipping
 Analytical technique Main characteristic E
 1 Opinion survey 17
 Delphi technique Discussion session in which group of experts make a consensus
@@ -22315,7 +22599,7 @@ in them. Trend extrapolation may be simplistic, but it is better than nothing.
 However, it is important to be aware of the pitfalls. A time series may look simple,
 but often there are several different components at work below the surface. Figure 17.5
 illustrates the point. The line A A shows the linear trend (T) in the data series; the curve
-1 2
+1
 shows the cycle (C) superimposed on the trend; and a small section of a seasonal cycle
 (S) is also shown. So at any point in time t, the value of variable Ywill be a mixture of
 
@@ -22359,8 +22643,7 @@ we can see how the actual rate shown by the dotted line fluctuates around the 12
 trend. Computation of a moving average helps to squeeze a little extra information out
 of the data by a separating the seasonal and the trend components.
 
-The next step is to cal- P
-culate the seasonal cycle T
+The next step is to calculate the seasonal cycle
 by averaging the deviation
 from the trend for each calendar month, to produce the pattern shown in
 Figure 17.7. By the magic
@@ -22434,7 +22717,7 @@ to the data to estimate the average
 relationship between the dependFigure 17.8
 Three steps in fitting a regression equation ent variable Y (the sale price) and
 the independent variable X(the age of the ship when it was sold). Thus we aim to reduce the relationship between Yand X P
-to an equation of the form T
+to an equation of the form
 Y =a+bX + e (17.5)
 t t t 17
 In this equation, which represents a straight line, ‘a' and ‘b' are parameters (i.e.
@@ -22511,7 +22794,7 @@ c
 shows the coefficients a(the intercept) and b, along with their test statistics.
 
 BOX 17.2 SUMMARY OF TEST STATISTICS T
-Test 1: Standard error.The standard error of the regression measures how well the R
+Test 1: Standard error.The standard error of the regression measures how well the
 curve fits the data by calculating the average dispersion of the Y values around the 17
 regression line. It is given by:
 ∑(Y −Y )2
@@ -22556,7 +22839,7 @@ average variation in Yfrom its mean as a proportion of the total variation in Y:
 ∑(Y −Y)
 R2 = c
 ∑(Y −Y)
-A little reflection will make it clear that the value of R will fall between 0 and 1
+A little reflection will make it clear that the value of R will fall between 0 and
 (or −1). This makes the statistic particularly easy to interpret, and probably accounts
 for its popularity. It can, however, be misleading in time series analysis, since the variances are calculated in relation to the mean and two time series which are changing
 rapidly will invariably give a higher value of Rthan two time series which are not growing. For this reason the correlation coefficient should be treated with some caution.
@@ -22588,7 +22871,7 @@ looked up in a table of the Fdistribution for the number of degrees of freedom f
 numerator and denominator.
 
 P However, there are two
-Timportant matters to consider before we risk using
+important matters to consider before we risk using
 this model for forecasting.
 The first is the specification of the model. We have
 assumed that new prices
@@ -22628,8 +22911,8 @@ Hopefully, this brief review has given readers who are not familiar with statist
 analysis a sense of the way it can be used for modelling purposes and the precautions
 which must sensibly be taken. Sometimes regression equations are used as part of a
 comprehensive model, but often they can be used in a piecemeal way in different parts
-of a market report. Or maybe just as a ‘rule of thumb'for making a quick forecast ‘on assumptions' - for example, to project iron ore imports into Japan, or US oil demand. P
-If nothingelse, this type of simple analysis illustrates relationships that have existed in T
+of a market report. Or maybe just as a ‘rule of thumb'for making a quick forecast ‘on assumptions' - for example, to project iron ore imports into Japan, or US oil demand.
+If nothingelse, this type of simple analysis illustrates relationships that have existed in
 the past, and that is bound to be helpful to the decision-maker who is trying to weigh
 up what might happen in future.
 Regression analysis is simple to apply, but a more thoughtful investigation reveals the
@@ -22668,8 +22951,8 @@ were $21,800 per day, whilst the average bulk carrier earnings were $10,900 per 
 Secondly, the earnings profile for tankers is much more widely distributed, ranging
 from $10,000 per day at the lower end to $68,000 per day at the upper end. In contrast,
 
-Pthe bulk carrier distribution
-Tranges from $4000 per day at
+the bulk carrier distribution
+ranges from $4000 per day at
 the bottom to $18,000 per day
 at the top. Third, the bulk car- rier at distribution is much
 more compact, with over
@@ -22699,10 +22982,12 @@ five-year period following the shipowner will default? Second, in the event of a
 what is the probability that the resale value of the ship will equal or exceed the outstanding loan? Third, are there any actions he can take now which will improve the chances
 of a successful outcome? In such cases probability analysis and more sophisticated uses
 of it, such as Monte Carlo analysis, can be helpful.
-17.9 FORECASTING PROBLEMS
+
+### 7.9 Forecasting Problems
+
 There are many obstacles to producing worthwhile forecasts and it is useful to round off
-our discussion of forecasting methods with a review of some of the errors that can easily trap the unwary, including behavioural issues, problems with model specification and P
-the difficulties of monitoring results:27 T
+our discussion of forecasting methods with a review of some of the errors that can easily trap the unwary, including behavioural issues, problems with model specification and
+the difficulties of monitoring results:27
 Problems with behavioural variables 17
 We will start with a few home truths about our own capabilities. It seems that most of
 us are programmed to feel overconfident in our ability to make accurate estimates and
@@ -22777,8 +23062,8 @@ leave a considerable margin of doubt as to how big the increase or decrease in
 output has been. The three measures of GDP (from expenditure, income and
 output) often give conflicting readings. Moreover the estimates are frequently
 revised, so that a forecast which originally appeared wrong may later appear right
-and vice versa. Another difficulty is that forecasts, which were pre-budget, were conditional on unchanged policies. Since policies often did change it would be P
-inappropriate to compare the forecasts directly with what actually happened. T
+and vice versa. Another difficulty is that forecasts, which were pre-budget, were conditional on unchanged policies. Since policies often did change it would be
+inappropriate to compare the forecasts directly with what actually happened.
 Assessing the accuracy of shipping forecasts presents just as many problems. In some cases we find that the forecasts are of ship demand, but there are no published statistics
 of ship demand with which we can compare the forecasts to judge their accuracy. In
 others, the statistical database has been so manipulated that it requires a considerable
@@ -22812,11 +23097,11 @@ built and relatively cheaper. In all these cases revolution was predicted, but t
 commercial world chose evolution. Yet some revolutions were overlooked. The
 potential of computers was recognized in the statement that ‘By 1984 the electronic computer will have come into its own', but the study did not anticipate the
 
-Prevolutionary impact which the microchip revolution has had on almost every
-Tarea of business.
+revolutionary impact which the microchip revolution has had on almost every
+area of business.
 ● Another area where problems arose was in the long-term projections of economic
 growth. The study predicted that UK productivity would increase by 21⁄% per
-17 2
+17
 annum, and taken together with a 17% rise in the labour force, it was expected that
 real GDP would double by 1984. As it turned out, the stagnation of demand during
 the 1970s and the failure of productivity increases to materialize meant that the
@@ -22829,7 +23114,9 @@ line of thought. A forecast in the mid-1960s that anticipated inflation rates of
 the virtual stagnation of the nuclear power programme, would have been extremely
 difficult to justify. The one certainty is that things will change and we must not be
 surprised by surprises.
-17.10 SUMMARY
+
+### 7.10 Summary
+
 Francis Bacon, the sixteenth century man of letters, said that ‘if a man will begin with
 certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall
 end in certainties'. How right he was. We began with doubts about whether it is sensible
@@ -22853,10 +23140,10 @@ concerned with days or even hours; short term, which is concerned with a period 
 and long term, which spans the life of a merchant ship. Each time-scale requires a
 different forecasting technique.
 
-## SUMMARY 17.10
+### 17.10 Summary
 
-There are three different types of analysis: the market report, a written study designed P
-to provide the client with enough information to form his own views about what might T
+There are three different types of analysis: the market report, a written study designed
+to provide the client with enough information to form his own views about what might
 happen in the future; the forecasting model, which uses economic analysis and a computer
 program to model some aspect of the business in numerical terms; and scenario analysis, which is designed to involve the decision-maker in the process of developing different
 scenarios about the future. We discussed each of these methodologies in some detail.
@@ -22894,10 +23181,10 @@ willingness to take a well-thought-out risk are what mark out the professional i
 He may not get his picture on the front of Forbes magazine, but he can still leave a
 sizeable fortune to his children!
 
-## A
-An Introduction
-to Shipping Market
-Modelling
+---
+
+## Appendix A: An Introduction to Shipping Market Modelling
+
 The early chapters of this book, and particularly Chapter 4, were devoted to a discussion
 of the economic principles that underlie the shipping market. With the increasing power
 of microcomputers it has become possible to develop shipping market models that can
@@ -22912,7 +23199,7 @@ t= t t
 SS =f(MF, P) (A.2)
 t t t
 where, for year t, DD is demand for seaborne transport, CT the tonnages of cargo
-transported, AHthe average haul of cargo, SSthe supply of seaborne transport, Pis ship
+transported, AHthe average haul of cargo, SSthe supply of seaborne transport, is ship
 productivity and MFthe size of the merchant fleet.
 Demand, measured in ton miles of transport required, is determined by the tonnage
 of cargo to be moved and the average distance in miles over which each ton of cargo is
@@ -22929,14 +23216,8 @@ the available transportation capacity is flexible. As we saw in Chapter 4, trans
 supply depends on fleet performance, which is in turn determined partly by market
 variables and partly by physical characteristics of the ships in the fleet.
 
-## INTRODUCTION TO SHIPPING MARKET MODELLING
-
-E Building on the definition of supply and demand in equations (A.1) and (A.2), we
-Ncan specify the basic structural equations of the macro model as follows. The demand
-D
-equations are:
-I
-X
+Building on the definition of supply and demand in equations (A.1) and (A.2), we
+can specify the basic structural equations of the macro model as follows. The demandequations are:
 CT = f(E,...) (A.3)
 tk t
 CT =∑(CT ) (A.4)
@@ -23016,8 +23297,6 @@ is calculated in billions of ton miles in column 3. A forecast would require pre
 E Table A.1 Supply-demand model, tanker fleet
 N
 D Tanker demand Tanker supply (m. dwt)
-I
-X
 Trade Av. Transport combined Total Fleet Active less: less: Total
 volume haul required carriers demand productivity tanker laid storage tanker
 Year mt miles btm btm btm tm dwt fleet up & grain fleet
@@ -23105,10 +23384,10 @@ market is close to balance, tiny changes in supply or demand send rates shooting
 down, which makes forecasting very difficult. Unfortunately, that is how the shipping
 market works. If it was easy to predict, there would be no need for a market!
 
-## B
-Tonnage
-Measurement and
-Conversion Factors
+---
+
+## Appendix B: Tonnage Measurement and Conversion Factors
+
 A problem that recurs frequently in the shipping industry is the need to measure the size
 of a ship or the size of a fleet of ships. One reason for doing this is to measure the
 cargo-carrying capacity, but there are many other commercial reasons. For example,
@@ -23134,14 +23413,9 @@ The 1969 IMO Tonnage Convention introduced a new simplified standard procedure f
 calculating gross tonnage (gt), and this is now used in all countries that are signatories
 to the convention. Instead of going through the laborious process of measuring every
 
-## TONNAGE MEASUREMENT AND CONVERSION FACTORS
-
-Eopen space in the ship, the gross tonnage is calculated from the total volume of all
-Nenclosed spaces, measured in cubic metres, using a standard formula. For some ship
-D
-types, especially those with complex hull forms, the gt and the grt may be significantly
-I
-Xdifferent.
+open space in the ship, the gross tonnage is calculated from the total volume of all
+enclosed spaces, measured in cubic metres, using a standard formula. For some shiptypes, especially those with complex hull forms, the gt and the grt may be significantly
+different.
 NET REGISTERED TONNAGE
 Under the existing rules, net registered tonnage is supposed to represent the
 cargo volume capacity of the ship and is obtained by deducting certain non-revenueearning spaces from the grt. The net registered tonnage is expressed in units of
@@ -23172,8 +23446,6 @@ registered tonnage, were unreliable because some ships had a higher work content
 E Table B.2 Approximate cgt coefficients calculated using the 2005 formula
 N
 D Parameters Ship size (gt)
-I
-X
 Ship type A B 4,000 10,000 30,000 50,000 80,000 100,000 150,000
 Crude oil tankers (double) 48 0.57 1.36 0.91 0.57 0.46 0.37 0.34 0.29
 Chemical tankers 84 0.55 1.48 1.46 1.42 1.41 1.40 1.39 1.38
@@ -23225,7 +23497,10 @@ islands 600-700 m from the mainland and 40 km south of Sidon, with an estimated
 population of 30,000 in its heyday. It had two ports, but lacked agricultural land and
 an adequate supply of fresh water and fuel.
 
-## NOTES
+---
+
+## Notes
+
 15 McEvedy (1967, p. 44).
 16 Haws and Hurst (1985, p. 36). Herodotus described the Greek trading methods in a
 detailed account written c.620 BC.
@@ -24141,7 +24416,10 @@ Box, G., Jenkins, G.M. and Reinsel, G. (1994) Time Series Analysis: Forecasting 
 *Braudel, F. (1982) Civilisation and Capitalism 15th-18th Century, Vol. 2: The Wheels of
 Commerce(London: Collins).
 
-## REFERENCES AND SUGGESTED READING
+---
+
+## References and Suggested Reading
+
 *Braudel, F. (1982) Civilisation and Capitalism 15th-18th Century, Vol. 3: The Perspective of
 the World(London: Collins).
 Briggs, M. and Jordan, P. (1954) The Economic History of England (London: University
@@ -24517,7 +24795,10 @@ United Nations, Monthly Bulletin of Statistics(New York: UN).
 *World Shipyard Monitor(CRSL St Magnus House, 3 Lower Thames St, London) - provides
 comprehensive monthly shipbuilding statistics and orderbook lists.
 
-## INDEX
+---
+
+## Index
+
 displacement 754; Suez and Panama transport of grain 455-7
 tonnages 754 transport of LPG by sea 478-80
 topics covered by maritime law 675-6 transport of oil products 444-5

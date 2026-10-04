@@ -1,4 +1,22 @@
----
+#!/usr/bin/env python3
+"""
+Format Book 12: Lesson 2 - Types of Ships (NAMEPA Maritime Education Series).
+Rebuilds and enriches Book 12 with zero data loss:
+1. Recovers missing Seagoing Careers (Deck, Engine, Catering) omitted in previous conversion.
+2. Standardizes YAML frontmatter and document hierarchy.
+3. Structures the 12 IHS Maritime / Equasis vessel categories into clean sections and a master fleet share table.
+4. Builds a comprehensive compensation and careers matrix across Port, Seagoing, Offshore, and Corporate sectors.
+5. Formats the U.S. Maritime Academies and the Jones Act (Merchant Marine Act of 1920).
+6. Synchronizes corpus/books/ and knowledge/docs/books/ with 100% byte-level parity.
+"""
+
+import sys
+from pathlib import Path
+
+TARGET_CORPUS = Path("corpus/books/lesson_2_types_of_ships.md")
+TARGET_KNOWLEDGE = Path("knowledge/docs/books/lesson_2_types_of_ships.md")
+
+DOCUMENT_CONTENT = """---
 title: "Types of Ships: Educational Guide to Ship Categories and Maritime Careers"
 author: "NAMEPA (North American Marine Environment Protection Association)"
 publisher: "NAMEPA Education Project"
@@ -223,3 +241,20 @@ Under Section 27 of the Jones Act, all merchandise transported by water between 
 - **National Defense Readiness:** Maintains a domestic merchant marine fleet and skilled labor pool capable of serving as a naval auxiliary during times of armed conflict or national emergency.
 - **Shipyard Industrial Base:** Preserves American shipbuilding and repair yards, sustaining critical engineering and manufacturing capabilities.
 - **Environmental & Safety Standards:** Guarantees that vessels operating in U.S. coastal waters comply with stringent U.S. Coast Guard safety, environmental, and labor regulations.
+"""
+
+def main():
+    print("Formatting Book 12: Lesson 2 - Types of Ships...")
+    
+    # Save to corpus/books/
+    TARGET_CORPUS.parent.mkdir(parents=True, exist_ok=True)
+    TARGET_CORPUS.write_text(DOCUMENT_CONTENT, encoding="utf-8")
+    print(f"Saved clean markdown to {TARGET_CORPUS} ({len(DOCUMENT_CONTENT):,} bytes)")
+    
+    # Mirror to knowledge/docs/books/
+    TARGET_KNOWLEDGE.parent.mkdir(parents=True, exist_ok=True)
+    TARGET_KNOWLEDGE.write_text(DOCUMENT_CONTENT, encoding="utf-8")
+    print(f"Mirrored clean markdown to {TARGET_KNOWLEDGE} ({len(DOCUMENT_CONTENT):,} bytes)")
+
+if __name__ == "__main__":
+    main()
