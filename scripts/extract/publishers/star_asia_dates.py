@@ -27,7 +27,7 @@ from __future__ import annotations
 import datetime as _dt
 import re
 import unicodedata
-from typing import Any, Dict, Tuple
+from typing import Any, Dict, Optional, Tuple
 
 STATUS_CANON = {
     "AWAITING": "AWAITING",
@@ -103,12 +103,52 @@ def normalise_date_cell(value: Any) -> Tuple[str, str, str, str]:
     return "", "", raw, "UNPARSED"
 
 
+def _parse_iso(value: Any) -> Optional[_dt.date]:
+    """Parse an already-normalised ISO cell; ``None`` when empty/unparseable."""
+    s = _clean(value)
+    if not s:
+        return None
+    try:
+        return _dt.date.fromisoformat(s)
+    except ValueError:
+        return None
+
+
+FUTURE_HORIZON_DAYS = 30
+
+
 def normalise_deal_dates(rec: Dict[str, Any]) -> Dict[str, Any]:
-    """Rewrite one deals record in place with ISO dates plus raw/status/note."""
+    """Rewrite one deals record in place with ISO dates plus raw/status/note.
+
+    Also FLAGS (never alters) internally impossible date pairs, measured
+    2026-10-04 on the delivered CSV: 23 arrival/beaching cells more than 30 days
+    after the issue date, and 44 rows whose beaching date precedes their arrival
+    date.  Both come from the PUBLISHER's own year typos and are page-faithful
+    (verified in the PDF text layer across eras), e.g. the 2025-W01 issue prints
+    ``MSC ESHA F  arrival 29.12.2025  beaching 04.01.2025`` - beaching before
+    arrival, arrived ~12 months after the report.  The value is kept exactly as
+    printed; only the ``*_note`` gains a ``|FUTURE_VS_ISSUE`` /
+    ``|ORDER_INVALID`` suffix so a downstream ISO join can exclude it instead of
+    silently trusting an impossible date.  No value is ever invented.
+    """
     for field in ("arrival_date", "beaching_date"):
         iso, status, raw, note = normalise_date_cell(rec.get(field))
         rec[field] = iso
         rec[f"{field}_raw"] = raw
         rec[f"{field}_status"] = status
         rec[f"{field}_note"] = note
+
+    issue = _parse_iso(rec.get("issue_date"))
+    if issue is not None:
+        for field in ("arrival_date", "beaching_date"):
+            value = _parse_iso(rec.get(field))
+            if value is not None and (value - issue).days > FUTURE_HORIZON_DAYS:
+                rec[f"{field}_note"] = f"{rec[f'{field}_note']}|FUTURE_VS_ISSUE".lstrip("|")
+
+    arrival = _parse_iso(rec.get("arrival_date"))
+    beaching = _parse_iso(rec.get("beaching_date"))
+    if arrival is not None and beaching is not None and beaching < arrival:
+        for field in ("arrival_date", "beaching_date"):
+            rec[f"{field}_note"] = f"{rec[f'{field}_note']}|ORDER_INVALID".lstrip("|")
+
     return rec
