@@ -2456,3 +2456,103 @@ counts understate them. Use `csv.DictReader`, not `wc -l`.
    intermodal_macro 4.3 (1,290 rows), ism agreement tail (1,178 rows), affinity
    WS-era md rounding (144 cells, display only), and the register sync for the
    athenian CSVs a sibling rewrote at 22:14 IST.
+
+
+## 2026-10-04 04:18 UTC (09:48 IST) - deep review: the xclusiv row builder folded an overprinted text layer into doubled cells (16 of 18 rows corrupted on ONE page; FIXED)
+
+State at entry: no extraction process running (only unrelated python: proxy_gateway,
+hermes, code_review_graph). `verify_extraction.py` reports the bulk pass COMPLETE
+(done 880/882, ok 876, error 3, no-extractable 1; state file 17,159 min old but 0
+docs remaining), golden 15/15, db 189,481 tables / 6,726,703 cells. `resume` is a
+no-op; `inventory_drift` 352 is informational. So this run is diagnosis + repair,
+not liveness.
+
+### What I looked at first (read-only)
+
+* Scanned all 170 delivered series CSVs for structural smells (logical-row counts vs
+  the register: only 2 mismatches, both `hellenic_vv_*`, in a sibling's live file; a
+  physical-`wc -l` count disagrees with both on 13 files because several cells carry
+  embedded newlines - count with `csv.reader`, not `wc -l`).
+* Located cells holding two numbers in one string (a number-space-number regex):
+  74 across the corpus. The largest non-benign cluster was `xclusiv_sales_series.csv`
+  (40), then `clarksons_sales_series.csv` (13).
+
+### Finding (reproduced on ONE document, then FIXED): a two-layer page yields doubled cells
+
+`xclusiv_sales_series.csv` held rows like
+  `NAME='CONRAD CONRAD'  DWT='207,647 207,647'  YEAR='2017 2017'`.
+Ground truth from the source PDF's OWN text layer
+(`pymupdf page.get_text()` on `corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_10_4.pdf`)
+is `CONRAD / 207,647 / 2017` - single. So the doubling is introduced by the parser.
+
+Root cause: that one page is drawn with every word TWICE at ~0.12pt offset
+(`get_text("words")` returns `CONRAD` at x0=31.20,y0=103.22 AND at x0=31.08,y0=103.33;
+195 of 533 words duplicated). The runner buckets words into rows by y within 5pt and
+appends every word in the bucket, so both copies land in the cell and `clean_str`
+joins them. Footprint measured by scanning all **271** xclusiv PDFs: exactly **one
+page** carries the overprint. 18 Bulk-Carrier rows on that page were affected (17
+doubled, plus `SHUANG XI`/`XIN HUA` interleaved into two fused rows).
+
+### What I changed
+
+Branch `auto/extract-fixes-2026-10-04`, one file
+(`scripts/extract/publishers/run_xclusiv_tables.py`, +37/-9): added `_dedupe_words()`
+and wrapped all 9 `get_text("words")` call sites with it. A word is dropped only when
+an IDENTICAL string already sits within 1.0pt in BOTH x and y - the overprint offset
+is ~0.12pt, real words never coincide that closely, and the same string elsewhere on
+the page is far apart and preserved. (A first attempt keyed on `round()` of the raw
+coordinates was abandoned: the 0.12pt offset straddles `.5` boundaries
+(`round(55.56)=56` vs `round(55.44)=55`), so it deduped some rows and not others.)
+
+### Evidence, isolated so the change is the only variable
+
+* **Before** (pre-fix module from `git show HEAD:...`): 19 bulk rows, 17 doubled.
+* **After**: 16 of 18 vessel rows are now exact ground truth
+  (`CONRAD/207,647/2017/SWS`, `AQUA HONOR/175,428/2012/JINHAI`,
+  `ROSCO MAPLE/181,453/2010/SASEBO`, ... `AMIRA ILHAM/28,434/2009/SHIMANAMI`).
+* **Regression**: pre-fix vs post-fix `extract_sales_tables` on 25 PDFs sampled
+  across 2021-2026 -> **25/25 identical**; the other five extractors
+  (`extract_demo_sales_tables`, `extract_indicative_demolition`,
+  `extract_secondhand_prices`, `extract_newbuilding_orders`,
+  `extract_newbuilding_prices`) on 14 PDFs -> **0 differences**. Only the known page
+  changes.
+* **Golden gate**: `scripts/analysis/golden_matrix.py` -> star_asia `plumber-text`
+  **15/15**, `pymupdf-text` **15/15**, camelot-stream 13/15, ssy_atlantic
+  camelot-stream 14/14 - identical to the recorded levels. No golden recall lost.
+
+### Deliberately NOT changed, and why
+
+* The delivered `xclusiv_sales_series.csv` still holds the 16 doubled + 2 fused rows.
+  Fixing the already-extracted CSV is a re-run of one publisher (human decision,
+  command below), not something to run unattended - and the runner writes fixed paths
+  with no `--out`.
+* The residual `SHUANG XIN HUA XI` / `XIN SHUANG HUA XI` pair on that page. It is a
+  DIFFERENT phenomenon: the two overprinted layers carry DIFFERENT vessels
+  (`SHUANG XI` vs `XIN HUA`), so a same-string dedupe cannot and should not merge
+  them. Left as-is and called out rather than guessed at.
+* `clarksons_sales_series.csv` (13 rows with a two-number DWT, e.g. `SAMSUNG` yard row
+  `114,858 114,795`, `HAFNIA KRONBORG` `73,708 50,346`) - these halves DIFFER, so they
+  are not an overprint but a possible two-vessel row-merge. NOT proven against the
+  source yet, so NOT touched.
+* The derived series-layer key model: the `(source, entity_key, measurement_key)` ->
+  >1 `series_id` collision is UNCHANGED at **764 triples** (2,686 series), and 43% of
+  5,241 series carry an empty `measurement_key`. Already a recorded human decision
+  (a data regeneration, not a code fix).
+* The hellenic VV dedup a sibling committed: independently VERIFIED. `2026-02-19` now
+  holds 78 matrix rows (was 234) and 5 benchmark sales (was 15) - the report-copy
+  tripling is gone. Residual on that source: `2026-01-28` carries 65 rows with a
+  duplicated age-10 row and missing age band, and `hellenic_vv_benchmark_sales_series.csv`
+  is 124 rows against the register's 141.
+
+### HUMAN DECISIONS
+
+1. To apply the xclusiv fix to the delivered data, re-run the ONE publisher (its own
+   runner, reads local PDFs, no LlamaParse credits):
+
+       python3 scripts/extract/publishers/run_xclusiv_tables.py
+
+   Expected: `xclusiv_sales_series.csv` Bulk-Carrier rows on `2021-10-04` move from
+   doubled to single values (16 rows); all other dates byte-identical.
+2. Still open from earlier runs, unchanged by this one: the lion series regeneration,
+   the Athenian demolition regeneration, the derived series-layer key model (764
+   collisions), and the `hellenic_vv` `2026-01-28` age-band defect above.

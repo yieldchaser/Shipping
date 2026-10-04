@@ -99,6 +99,34 @@ def clean_str(v: Any) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+def _dedupe_words(words):
+    """Drop words drawn twice at the same spot (an overprinted text layer).
+
+    One xclusiv page (2021-10-04) carries every word twice at almost identical
+    coordinates (~0.12pt apart), so get_text("words") returns each word twice
+    and the y-bucket row builder - which only groups by y - kept both copies
+    ('CONRAD CONRAD', '207,647 207,647'). Measured 2026-10-04 scanning all 271
+    xclusiv PDFs: exactly one page affected (195 duplicated of 533 words).
+
+    A word is dropped only when an identical string already sits within 1.0pt
+    in BOTH x and y. Real words never coincide that closely; two words that
+    merely share a string elsewhere on the page are far apart and preserved.
+    """
+    seen = {}
+    out = []
+    for w in words:
+        placed = False
+        for (px, py) in seen.get(w[4], ()):
+            if abs(px - w[0]) <= 1.0 and abs(py - w[1]) <= 1.0:
+                placed = True
+                break
+        if placed:
+            continue
+        seen.setdefault(w[4], []).append((w[0], w[1]))
+        out.append(w)
+    return out
+
+
 def parse_price_mill(p_str: str) -> Optional[float]:
     """Extract numeric million USD from a price string.
 
@@ -297,7 +325,7 @@ def extract_sales_tables(
     sales_rows: List[Dict[str, Any]] = []
 
     for pno, pg in enumerate(doc):
-        words = pg.get_text("words")
+        words = _dedupe_words(pg.get_text("words"))
         if not words:
             continue
 
@@ -487,7 +515,7 @@ def extract_demo_sales_tables(
     demo_sales: List[Dict[str, Any]] = []
 
     for pno, pg in enumerate(doc):
-        words = pg.get_text("words")
+        words = _dedupe_words(pg.get_text("words"))
         if not words:
             continue
 
@@ -592,7 +620,7 @@ def extract_indicative_demolition(
     for pno, pg in enumerate(doc):
         txt = pg.get_text()
         if "DRY DEMOLITION PRICES" in txt.upper() and "TANKER DEMOLITION PRICES" in txt.upper():
-            words = pg.get_text("words")
+            words = _dedupe_words(pg.get_text("words"))
             for sec_name, (y_min, y_max) in [("Bulkers", (100, 310)), ("Tankers", (340, 560))]:
                 sec_words = [w for w in words if y_min <= w[1] <= y_max and w[0] >= 320]
                 regions = [
@@ -628,7 +656,7 @@ def extract_indicative_demolition(
     # 2. Check Early Era (2021-2023): Page 1 Demolition Prices table
     if not records and len(doc) > 0:
         pg0 = doc[0]
-        words = pg0.get_text("words")
+        words = _dedupe_words(pg0.get_text("words"))
         dw = [w for w in words if "DEMOLITION" in w[4].upper()]
         if dw:
             dy = dw[0][1]
@@ -693,7 +721,7 @@ def extract_secondhand_prices(
 
         # Modern Dry
         if "DRY SECONDHAND PRICES" in txt.upper() and ("CAPESIZE" in txt.upper() or "KAMSARMAX" in txt.upper()):
-            words = pg.get_text("words")
+            words = _dedupe_words(pg.get_text("words"))
             sh_words = [w for w in words if 140 <= w[1] <= 415 and 80 <= w[0] <= 210]
             lines: Dict[float, List[Any]] = {}
             for w in sorted(sh_words, key=lambda x: x[1]):
@@ -733,7 +761,7 @@ def extract_secondhand_prices(
 
         # Modern Tanker
         if "TANKER SECONDHAND PRICES" in txt.upper() and ("VLCC" in txt.upper() or "SUEZMAX" in txt.upper()):
-            words = pg.get_text("words")
+            words = _dedupe_words(pg.get_text("words"))
             sh_words = [w for w in words if 140 <= w[1] <= 415 and 80 <= w[0] <= 210]
             lines = {}
             for w in sorted(sh_words, key=lambda x: x[1]):
@@ -785,7 +813,7 @@ def extract_secondhand_prices(
             sector = "Tanker"
 
         if sector:
-            words = pg.get_text("words")
+            words = _dedupe_words(pg.get_text("words"))
             sh_words = [w for w in words if w[0] >= 350 and w[1] <= 320]
             lines = {}
             for w in sorted(sh_words, key=lambda x: x[1]):
@@ -844,7 +872,7 @@ def extract_newbuilding_orders(
     orders: List[Dict[str, Any]] = []
 
     for pno, pg in enumerate(doc):
-        words = pg.get_text("words")
+        words = _dedupe_words(pg.get_text("words"))
         for i, w in enumerate(words):
             if w[4].upper() == "NEWBUILDING" and i + 1 < len(words) and words[i + 1][4].upper() == "ORDERS":
                 ty = w[1]
@@ -934,7 +962,7 @@ def extract_newbuilding_prices(
         pg = doc[pno]
         txt = pg.get_text()
         if "NEWBUILDING PRICES" in txt.upper() or "NEWBUILDING  PRICES" in txt.upper():
-            words = pg.get_text("words")
+            words = _dedupe_words(pg.get_text("words"))
             dry_types = ["Capesize", "Kamsarmax", "Ultramax", "Handysize"]
             for vt in dry_types:
                 for w in words:
