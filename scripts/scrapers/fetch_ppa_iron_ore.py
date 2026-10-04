@@ -122,7 +122,9 @@ def generate_destination_pattern_urls() -> list[str]:
             "port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/"
             "port%20statistics%20and%20reports/cargo%20by%20destination")
     urls = []
-    for y in range(2024, 2027):
+    current_year = datetime.now(timezone.utc).year
+    max_year = max(current_year + 1, 2027)
+    for y in range(2024, max_year + 1):
         for m in months:
             urls.append(f"{base}/{y}/cargo-stats-by-destination_origin_{m}{y}.pdf")
             urls.append(f"{base}/{y}/cargo-stats-by-destination_origin-{m}{y}.pdf")

@@ -696,7 +696,8 @@ def run_pipeline():
     # Clean up legacy non-prefixed files in year directories
     valid_filenames = {os.path.basename(r["source_file"]) for r in all_results}
     removed_legacy = 0
-    for y in range(2017, 2027):
+    max_year = max(datetime.now().year + 1, 2027)
+    for y in range(2017, max_year + 1):
         for base in [OPINIONS_DIR, OUT_MD_BASE]:
             ydir = os.path.join(base, str(y))
             if os.path.exists(ydir):

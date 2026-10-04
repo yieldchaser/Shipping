@@ -7,7 +7,7 @@ Handles:
    across top-level metadata, cards, and typed record objects.
 3. Stacking series datasets into:
    - data/extracted/series/affinity_tce_series.csv
-     schema: issue_date,report_week,sector,route,description,quantity_mt,tce_usd_per_day,trend_wow,source_file
+     schema: issue_date,report_week,sector,route,description,quantity_mt,tce_usd_per_day,unit,trend_wow,source_file
    - data/extracted/series/affinity_bda_series.csv
      schema: issue_date,report_week,segment,price_usd_per_ldt,change_wow,source_file
 4. Verifying negative TCE values (e.g. TC2 -$4,273 parsed as -4273.0).
@@ -180,6 +180,19 @@ def parse_quantity_mt(val: Any) -> Optional[float]:
         return None
 
 
+def cell_unit(value_raw: Any) -> str:
+    """Per-cell unit for a TCE card row.
+
+    The BALTIC TCE CLEAN card prints most routes as a $/day TCE but TC6/TC8/TC9 as a
+    Worldscale number with an explicit prefix ("WS 130.63"). Measured 2026-10-05: 161
+    of 4,058 card rows carry such a prefix (TC6 68, TC8 25, TC9 68). The card HEADER
+    ("$ / Day" in 2026, "$ / WS" in parts of 2021-2022) is not a reliable unit for the
+    cells, so the unit is taken from the cell itself: a "WS" prefix means Worldscale,
+    anything else is USD/day.
+    """
+    return "WS" if re.match(r"\s*WS\b", str(value_raw or ""), re.I) else "USD/day"
+
+
 def stamp_and_stack() -> Dict[str, Any]:
     """Update all 250 tables.json sidecars and stack series CSVs."""
     sidecar_files = sorted(OUT_MD.rglob("*.tables.json"))
@@ -249,6 +262,7 @@ def stamp_and_stack() -> Dict[str, Any]:
                     "description": desc,
                     "quantity_mt": qty,
                     "tce_usd_per_day": val,
+                    "unit": cell_unit(r.get("value_raw")),
                     "trend_wow": trend,
                     "source_file": source_file,
                 })
@@ -281,6 +295,7 @@ def stamp_and_stack() -> Dict[str, Any]:
                     "description": desc,
                     "quantity_mt": qty,
                     "tce_usd_per_day": val,
+                    "unit": cell_unit(r.get("value_raw")),
                     "trend_wow": trend,
                     "source_file": source_file,
                 })
@@ -332,7 +347,7 @@ def stamp_and_stack() -> Dict[str, Any]:
     # Write affinity_tce_series.csv
     tce_headers = [
         "issue_date", "report_week", "sector", "route", "description",
-        "quantity_mt", "tce_usd_per_day", "trend_wow", "source_file"
+        "quantity_mt", "tce_usd_per_day", "unit", "trend_wow", "source_file"
     ]
     with open(TCE_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=tce_headers)

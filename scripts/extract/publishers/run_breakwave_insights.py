@@ -17,6 +17,8 @@ import re
 import glob
 import time
 import csv
+from datetime import datetime, timezone
+from pathlib import Path
 from concurrent.futures import ProcessPoolExecutor
 from bs4 import BeautifulSoup, NavigableString, Tag
 
@@ -505,7 +507,15 @@ def process_single_article(html_path):
 
 def run_pipeline(target_years=None):
     t_start = time.time()
-    years = target_years or [str(y) for y in range(2020, 2027)]
+    if target_years:
+        years = target_years
+    else:
+        insights_dir = Path('corpus/03-breakwave/insights')
+        if insights_dir.exists():
+            discovered = sorted([p.name for p in insights_dir.iterdir() if p.is_dir() and p.name.isdigit() and len(p.name) == 4])
+            years = discovered if discovered else [str(y) for y in range(2020, datetime.now(timezone.utc).year + 2)]
+        else:
+            years = [str(y) for y in range(2020, datetime.now(timezone.utc).year + 2)]
 
     os.makedirs('data/extracted/series', exist_ok=True)
     all_files = []

@@ -57,7 +57,7 @@ CHARTS_DIR = ROOT / "data" / "extracted" / "charts"
 SERIES_DIR = ROOT / "data" / "extracted" / "series"
 UNTRACKED_CHARTS_LOG = CHARTS_DIR / "untracked_chart_candidates.json"
 
-YEAR_RX = re.compile(r"(201\d|202\d)")
+YEAR_RX = re.compile(r"(20\d{2})")
 DATE_ISO_RX = re.compile(r"(\d{4})[-_](\d{2})[-_](\d{2})")
 DATE_EU_RX = re.compile(r"(\d{1,2})[-_](\d{1,2})[-_](\d{4})")
 
@@ -170,7 +170,13 @@ def resolve_document_date_and_year(doc: fitz.Document, file_path: Path) -> Tuple
         if y.isdigit() and int(y) >= 2000:
             return f"{y}-{m}-{d}", y
 
-    return "2026-01-01", "2026"
+    # Check parent directory name if it is a 4-digit year (e.g. corpus/01-brokers/<slug>/2027/)
+    parent_name = file_path.parent.name
+    if parent_name.isdigit() and len(parent_name) == 4 and int(parent_name) >= 2000:
+        return f"{parent_name}-01-01", parent_name
+
+    now_y = str(time.gmtime().tm_year)
+    return f"{now_y}-01-01", now_y
 
 
 # ---------------------------------------------------------------------------

@@ -1,3 +1,17 @@
+**THIS RUN (2026-10-04 23:5x) - TEXT-AUDIT REFRESH: corpus text COMPLETE and unchanged; the knowledge CHUNK TIER is the open item (17,338-chunk shortfall, 11 empty + 6 partial hellenic shards, all app-referenced). Evidence `docs/text_audit_recheck_verdict.md`, `data/extracted/text_audit_recheck.json`.**
+
+No extraction job of ours was running (live python.exe set = Hermes gateway + litellm + code_review_graph serve; no delegation task-log newer than 2026-09-22). Audit job #1 (`data/extracted/text_audit.json`) still carried its 2026-09-23 stamp while table/gap audits were refreshed 2026-10-04, so it was re-measured against the current corpus + knowledge tier.
+
+**Corpus text: COMPLETE.** 16,803 `text.jsonl` on disk, 124 zero-byte (image-only/scanned), same population as the Sep-23 audit. No new empty or missing text.
+
+**Knowledge chunk tier: OPEN, quantified.** Manifest declares 106,489 chunks / 93 shards; on disk 89,151 / 104 shards = **17,338 shortfall (16.3 pct), all hellenic**. 11 shards declared>0 but 0 bytes (2,456 chunks: hellenic_shipbuilding_2014/2021-2024, hellenic_vessel_valuations_2014/2021-2025) plus 6 partial shards (iron_ore 2021/2022/2026, shipbuilding 2025/2026, vessel_valuations 2026). All 11 empty shards are referenced by `index.html` QA_CHUNK_FILES (hellenic / ironOre / shipbuilding tabs, historical + deep_historical), so the app Q&A silently returns nothing for those years.
+
+**Correction to a stale remediation:** the Sep-23 note said to "re-run the chunk compiler". That is wrong now - the `reports/hellenic -> corpus/02-hellenic` migration left `documents.jsonl` `source_path` stale (2,702 of 3,214 hellenic rows point at a missing `reports/hellenic/...` path; the `corpus/02-hellenic/...` alt exists for all 2,702). `process_knowledge.py --source hellenic` and the `repair_iron_ore_shards.py` template both resolve via that stale path and would SKIP every such doc. Correct fix: give the repair a `corpus/02-hellenic` source override, LLM off, then compact. (The prune risk of the stale paths was already measured and found non-firing prior; unchanged.)
+
+**Nothing was mutated this run** (knowledge tier untouched; read-only audit). Next-run target: the hellenic chunk heal above (bounded, non-paid), after confirming a re-ingest does not DOWNGRADE the existing `knowledge/docs/hellenic/...` md.
+
+---
+
 **THIS RUN (2026-10-04 23:5x, source-by-source, 30m job) - IRON-ORE FAULT 2 BLAST RADIUS MEASURED: the reserved option (a) alone would inject ~2,707 WRONG values. Evidence `docs/iron_ore_fault2_blast_radius_verdict.md`.**
 
 No extraction job of OURS was running (live python.exe set = Hermes gateway + litellm + code_review_graph; no broker/extraction runner). Branch is `main`; a parallel automation is active (last commit e91f66056 23:46). All named sources CLOSED and CURRENT - measured this run: across the 14 `corpus/01-brokers/*` publishers, **0 PDFs are newer than that source's newest md** (nothing newly collected is unextracted). md counts still >= distinct PDFs.

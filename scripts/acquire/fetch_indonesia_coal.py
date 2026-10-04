@@ -103,9 +103,10 @@ def build_dataset():
 
     rows = []
 
-    # 1. Comtrade historical monthly series (2020-01 to 2025-12)
+    # 1. Comtrade historical monthly series
     # Using strict comtrade client select_total
-    for y in range(2020, 2026):
+    end_year = max(datetime.now(timezone.utc).year, 2026)
+    for y in range(2020, end_year):
         for m in range(1, 13):
             p = f"{y}{m:02d}"
             date_str = f"{y}-{m:02d}-01"
