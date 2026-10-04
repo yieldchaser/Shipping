@@ -18,8 +18,18 @@ parquet-writer sibling (`run_lion.py`) still globbing without dedup.
    `lion_deals.parquet` 1,145 rows / 43 issues / 0 dup; `lion_demometer.parquet` 516 / 43 / 0.
 3. Committed (current branch): `run_lion_tables.py` dedup + `run_lion.py` dedup + this doc.
 
-**Next-run target:** unchanged carried human/display calls - hellenic VesselsValue date convention;
-VV-matrix image-recall residual (paid). The ledger defect list remains EMPTY.
+**ALSO THIS RUN - the carried "hellenic VesselsValue date convention" item is now MEASURED and
+decision-ready (`docs/hellenic_vv_date_verdict.md`), not applied.** Both VV runners stamp the
+report date from the FILENAME (crawl date), but 78 of 261 VV report pages carry a DIFFERENT own
+date in their `<title>` (69 at -1d, 8 at -2d, 1 at +10d). The delivered series carry the crawl
+date (77/78 differing dates present in `hellenic_vv_sales_series.csv`). Switching to the page's
+own date is LOSSLESS: the 235 resolvable series files map to 235 DISTINCT page dates, 0
+collisions. The exact one-expression fix is named for both runners, with the
+`docs/intermodal_issue_date_verdict.md` precedent. Left unapplied (it shifts published dates =
+recorded human call); matrix-image parses are already cached so applying it is API-free.
+
+**Next-run target:** unchanged carried human/display calls - the VV date convention (now measured,
+one command away); VV-matrix image-recall residual (paid). The ledger defect list remains EMPTY.
 
 ---
 
