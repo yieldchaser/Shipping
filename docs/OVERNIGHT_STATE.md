@@ -12,6 +12,8 @@ No extraction job was running (the python.exe set is the Hermes gateway). No sou
 
 **NOT APPLIED (human design call):** two prior runs deferred this; a wrong schema choice writes wrong values. Options in the verdict: (A) namespace-split the SMM writer (`hellenic_smm_*`, precedent `hellenic_smm_market_drivers_series.csv`) then re-run MMi offline from its 1,190 cached md; (B) unify the MMi writer onto the SMM schema + upsert (`price`->`value`, `market`->`market_type`). No data or code changed this run.
 
+**ALSO FIXED + a new drift hazard:** the cadence-audit md AND its generator (`scripts/audit/generate_cadence_audit.py`) hardcoded stale hellenic counts - corrected to measured (athenian 3,052->2,916; Best Oasis 882/859->887/863), committed as `3da98f693` (code) + `985028792` (doc). **NEW HAZARD:** the 10:51 books commit (`8c7271edc`) added the 'Maritime Reference Literature (12 Books)' section to `corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md` DIRECTLY, but did NOT add it to the generator - so re-running `generate_cadence_audit.py` DROPS the entire books section (measured: 25 lines removed, restored). Anyone regenerating must re-add it, or the section must be added to the generator.
+
 **STILL OPEN (all human/display calls):** cadence-audit md hardcodes BO 882/859 + athenian 3,052 (measured 887/863, 2,916); hellenic VesselsValue date convention; lion regeneration (re-run changes values = non-determinism, uninvestigated); affinity WS-era md rounding (display only); DB `label_series`.
 
 **THIS RUN (2026-10-04 10:1x-10:4x, source-by-source, 30m job) - HELLENIC DEMOLITION FAMILY: OWNERSHIP RESOLVED, single writer per file, 4 series RESTORED, guard test GREEN. Evidence `docs/hellenic_gms_owner_verdict.md`.**
