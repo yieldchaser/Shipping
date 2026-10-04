@@ -378,7 +378,7 @@ REGISTRY_DATA = [
         "total_files": 4149,
         "charts_extracted": "Yes (Port position queue charts, cash buyer price matrices)",
         "chart_engine": "BeautifulSoup HTML + PyMuPDF spatial coordinate table parser",
-        "series_csvs": "hellenic_athenian_demolition_series.csv (3,052 rows), hellenic_gms_port_positions_series.csv (2,905 rows), hellenic_gms_demolition_series.csv (1,092 rows), hellenic_best_oasis_deals_series.csv (882 rows), hellenic_best_oasis_demolition_series.csv (859 rows)",
+        "series_csvs": "hellenic_athenian_demolition_series.csv (2,916 rows), hellenic_gms_port_positions_series.csv (2,905 rows), hellenic_gms_demolition_series.csv (1,092 rows), hellenic_best_oasis_deals_series.csv (887 rows), hellenic_best_oasis_demolition_series.csv (863 rows)",
         "primary_script": "run_hellenic_demolition.py",
         "notes": "Distinguishes Athenian, Best Oasis, GMS cash buyer reports and port queue tables."
     },
@@ -879,7 +879,7 @@ SUBSECTOR_DATA = [
         "format": "HTML / PDF",
         "metrics": "Scrap indicative prices ($/LDT) for Bangladesh, India, Pakistan, Turkey",
         "series_csv": "hellenic_athenian_demolition_series.csv",
-        "data_points": "3,052 rows",
+        "data_points": "2,916 rows",
         "script": "run_athenian_demolition.py",
         "output_path": "data/extracted/md/hellenic/demolition/"
     },
@@ -912,7 +912,7 @@ SUBSECTOR_DATA = [
         "format": "HTML / PDF",
         "metrics": "Subcontinent scrap rates and beaching transaction fixtures",
         "series_csv": "hellenic_best_oasis_deals_series.csv",
-        "data_points": "882 rows (deals), 859 rows (rates)",
+        "data_points": "887 rows (deals), 863 rows (rates)",
         "script": "run_best_oasis_demolition.py",
         "output_path": "data/extracted/md/hellenic/demolition/"
     },
