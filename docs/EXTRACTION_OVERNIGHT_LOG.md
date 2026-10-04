@@ -2556,3 +2556,97 @@ coordinates was abandoned: the 0.12pt offset straddles `.5` boundaries
 2. Still open from earlier runs, unchanged by this one: the lion series regeneration,
    the Athenian demolition regeneration, the derived series-layer key model (764
    collisions), and the `hellenic_vv` `2026-01-28` age-band defect above.
+
+
+## 2026-10-04 08:06 UTC (13:36 IST) - deep review: star_asia deal dates carry the publisher's year typos unflagged (23 future-vs-issue, 44 beaching-before-arrival; FIXED - flags added)
+
+State at entry: no extraction process running (`Get-CimInstance Win32_Process` for
+run_batch/batch_worker returned nothing). `verify_extraction.py` reports the bulk
+pass COMPLETE (done 880/882, ok 876, error 3, no-extractable 1; state file 17,382
+min old but 0 docs remaining), `actions: []`, inventory_drift 357 (informational,
+unchanged). Golden gate re-run this session: star_asia `plumber-text` 15/15,
+`pymupdf-text` 15/15; ssy_atlantic 14/14; breakwave_dry 6/6 - identical to the
+recorded levels. So this run is diagnosis + repair, not liveness.
+
+### What I looked at (read-only, in this order)
+
+* Broad structural scan of all 170 `data/extracted/series/*.csv`: ragged rows = 0
+  everywhere; the only >50%-empty columns are schema-union placeholders (e.g.
+  `bancosta_newbuilding_series.csv` `owner`/`size`/`yard` are 100% empty by
+  construction - the content lives in `comments`). Not defects.
+* Number-format sweep (cells holding BOTH `,` and `.`): all legitimate US-convention
+  values (`12,755.50`, `34,000,000`). No 1000x locale error found in the delivered
+  CSVs.
+* Cross-series date-plausibility sweep (any ISO date cell >60 days after its
+  issue/report date, across every series CSV): EXACTLY ONE source fires -
+  `star_asia_deals_series.csv`. So the defect is per-source, not systemic.
+
+### Finding (measured + verified page-faithful): star_asia's own date typos pass every validation
+
+`star_asia_deals_series.csv` (3,349 rows) holds:
+* **23** arrival/beaching cells more than 30 days AFTER the issue date; and
+* **44** rows whose `beaching_date` PRECEDES `arrival_date` (impossible ordering).
+
+These are the PUBLISHER's own year typos, and the raw strings are faithful to the
+page - verified in the PDF text layer (`fitz`), not by trusting the extractor:
+* `corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf`
+  prints `MSC ESHA F  CONTAINER  4,950  29.12.2025  04.01.2025` - beaching (04 Jan
+  2025) three days BEFORE arrival (29 Dec 2025), arrived ~12 months after the report.
+* `.../2023/star_asia_2023_W01_Market-report-Week-1.pdf` prints `CHANG FA HAI ...
+  31.012.2022`; `.../2023/...W01...` prints `CHANG FA HAI ... 30.12.2023` in a
+  Jan-2023 issue.
+* `.../2023/...W01...` prints the 3-digit-middle typo `31.012.2022` verbatim, which
+  is why `star_asia_dates.py` correctly leaves it `UNPARSED` (not a bug).
+
+Before this run the normaliser marked all 44/23 rows `EU_DDMMYYYY` with an EMPTY
+`*_status` - i.e. clean - so an ISO join would silently accept an impossible date.
+This is the skill's documented class: a well-formed value that no validation catches.
+
+### What I changed
+
+Branch `auto/extract-fixes-2026-10-04`, one file
+(`scripts/extract/publishers/star_asia_dates.py`, +42/-2): `normalise_deal_dates`
+now appends `|FUTURE_VS_ISSUE` (>30 days after `issue_date`) and/or `|ORDER_INVALID`
+(`beaching_date < arrival_date`) to the `*_note` column ONLY. `_parse_iso` +
+`FUTURE_HORIZON_DAYS=30` added.
+
+### Evidence, isolated so the change is the only variable
+
+* Re-normalised all **3,349** delivered rows from their page-faithful `*_raw` cells
+  through the patched module: **0 ISO-value differences** vs the delivered CSV, **0
+  `*_raw` differences** - values are untouched, only notes gain the suffix.
+* New note distribution: 23 cells `FUTURE_VS_ISSUE` (4 alone + 19 with
+  `ORDER_INVALID`), 44 rows / 88 cells `ORDER_INVALID`; every pre-existing note
+  (`EU_DDMMYYYY` 4,337, `STATUS` 980, `UNPARSED` 65, `RECONSTRUCTED_8DIGIT` 14,
+  `EMPTY_DASH` 6) is unchanged.
+* `py_compile` OK. Golden gate re-run: **star_asia 15/15 on both text engines**, no
+  other cell moved.
+
+### Deliberately NOT changed, and why
+
+* The delivered `star_asia_deals_series.csv` is NOT rewritten (prohibition #4 - the
+  fix is code-only and takes effect on documents processed afterwards, exactly like
+  the xclusiv fix). Applying it is a one-publisher re-run, a human decision:
+
+      python3 scripts/extract/apply_star_asia_deals_dates.py --apply
+
+  Expected: the 23 `FUTURE_VS_ISSUE` cells and 44 `ORDER_INVALID` rows gain their
+  note suffix; every ISO value and every `*_raw` stays byte-identical (proven above).
+* The date VALUES are not corrected. `30.12.2023` is provably impossible in a
+  Jan-2023 issue but the correct value (2022-12-30?) is not provable from the page,
+  and this module's contract is to never invent a value.
+* `07.07.2026` on VIGO in the 2026-W01 issue is flagged `FUTURE_VS_ISSUE` (179 days
+  after the issue date) but its VALUE is kept: a 2026 report may legitimately list an
+  AWAITING vessel's expected future arrival, so the value is not provably wrong - the
+  flag lets a consumer decide, rather than the parser guessing a correction.
+
+### HUMAN DECISIONS
+
+1. To apply the star-asia flag fix to the delivered CSV: run the command above
+   (`apply_star_asia_deals_dates.py --apply`). Values do not change; two note
+   columns gain a suffix on 67 rows.
+2. Still open from earlier runs, unchanged by this one: the xclusiv `2021-10-04`
+   doubled-cell CSV re-run; the `hellenic_iron_ore_pdf_*` two-writer family (5 files,
+   2 with 11,553/2,207 empty values); hellenic VesselsValue date convention; lion
+   series regeneration; affinity WS-era md rounding; DB `label_series`; intermodal_macro
+   ism agreement tail.
