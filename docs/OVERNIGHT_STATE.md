@@ -1,3 +1,22 @@
+**THIS RUN (2026-10-04 12:0x, source-by-source, 30m job) - CADENCE-AUDIT GENERATOR DRIFT CLOSED: the 12-book block is now EMITTED by the generator, so regeneration is a byte no-op. Commit `d1e458876` (code + doc).**
+
+No extraction job was running (the python.exe set is the Hermes gateway). No source is left to extract - all named sources CLOSED. This run closed the NEW HAZARD the 11:4x run flagged and could not fix.
+
+**Reproduced the hazard (measured):** `python scripts/audit/generate_cadence_audit.py` rewrites `corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md` WHOLESALE. Diff vs the committed file was `122,141d120` + `53d52` = the entire books block (master-matrix row at line 53 + section 3.5, 12 rows, 20 lines) MISSING from the generator, plus a CRLF/LF flip (Python text-mode translated `
+`->`
+`; the committed file is LF). Net: 697 -> 676 lines on regeneration.
+
+**Fix (source only):** added a `md_lines.append(<books matrix row>)` after the REGISTRY_DATA loop and a `md_lines.extend([...])` emitting section 3.5 (both read VERBATIM from the committed md, so byte-faithful), and made the writer `newline="
+"` so output stays LF. `py_compile` OK.
+
+**Control (measured):** re-run vs the committed baseline now differs on exactly ONE line - `hellenic_athenian_demolition_series.csv (3` -> `(2` (the generator holds the refreshed 2,916; 3,052 was the pre-dedup value; the cell truncates at the thousands comma by design). That line is a CORRECT refresh, so the regenerated file was accepted. Re-running again is a **byte no-op** (idempotent). `git status` clean on both files after commit.
+
+**So the earlier STILL-OPEN item `cadence-audit md hardcodes ... athenian 3,052` and the books-drop hazard are BOTH closed.** The remaining `STILL-OPEN` list is unchanged and all human/display calls: `hellenic_iron_ore_pdf_*` two-writer family (5 files, 2 with 11,553/2,207 empty values - data NOT lost, no consumers; schema-choice = human call), hellenic VesselsValue date convention, lion regeneration, affinity WS-era md rounding (display only), DB `label_series`.
+
+**Also checked + CLOSED this run (do NOT re-chase):** the `signal_vessel_counts_series.csv` HEADER-ONLY lead from the 10-03 16:xx run is already fixed - the file is now 16,058 bytes / 106 data rows (mtime 10-03 17:21) via the dedicated `run_signal_vessel_counts.py`. No action needed.
+
+---
+
 **THIS RUN (2026-10-04 11:1x-11:4x, source-by-source, 30m job) - IRON-ORE TWO-WRITER HAZARD MEASURED IN FULL: it is FIVE files, not one, and two are already silently damaged (11,553 + 2,207 empty values). Evidence `docs/iron_ore_two_writer_verdict.md`.**
 
 No extraction job was running (the python.exe set is the Hermes gateway). No source is left to extract: every named source is closed, and the remaining corpus units are knowledge-tier only (`corpus/10-companies` = 1,310 md SEC filings, `corpus/11-other/panama-canal` = 1 md, `corpus/books` = md, `corpus/09-ppa` done 09-28 families A/B/C). So this run worked the last measured open hazard instead of starting a non-existent source.
