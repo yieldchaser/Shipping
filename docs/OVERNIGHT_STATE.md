@@ -1,3 +1,42 @@
+**THIS RUN (2026-10-04 16:4x-18:0x, source-by-source, 30m job) - THE EMPTY `measurement_key` IS FIXED AND SHIPPED. The series layer now has 5,743 series / 1,193,579 points (was 5,241 / 1,167,616) and 118,850 fewer headerless data cells. Evidence `docs/measurement_key_verdict.md`.**
+
+No extraction job was running (only the Hermes gateway / litellm proxies). All named
+sources CLOSED. This run took the item the 15:4x run root-caused and left as "a design
+decision with numbers" and made it a measured, ground-truthed fix that is now LIVE.
+Branch unchanged (`auto/extract-fixes-2026-10-04`).
+
+**The fix (3 parts, in `scripts/extract/build_series_sql.py` `col_headers`):**
+1. PER-COLUMN header (above THIS column's first numeric row) - the skill doctrine - so a
+   chart's tick numbers / prose higher on the page can no longer drag the table's first
+   numeric row up and hide the real header row.
+2. TABLE-WIDE FALLBACK for a column with no numeric cell of its own (else Clarkson
+   Platou's `BUNKER PRICES` is lost - measured).
+3. DATE/PERIOD GUARD: a bare date/week header (`01 Oct`, `Nov. 21`, `2021`, `Week 31`) is
+   a PERIOD, not a measurement name - blanked so it cannot fragment a weekly series into
+   one series per issue. MONTH-SCOPED only, so `5 YEARS`/`12 mos`/`IFO380` are not
+   mistaken for dates (a looser rule wrongly blanked 8,600+ of those).
+
+**Ablation (scratch DB copies; control = old script reproduces live 5,241/1,167,616/942,263 exactly):**
+| variant | series | series_points | empty_mk |
+|---|---|---|---|
+| live baseline | 5,241 | 1,167,616 | 2,247 (42.9%) |
+| per-column only | 5,250 | 1,106,207 (-61,409) | 1,233 |
+| + loose date rule (rejected) | 5,692 | 1,193,726 | 1,839 |
+| **SHIPPED (per-col + fallback + month rule)** | **5,743** | **1,193,579** | **1,796 (31.3%)** |
+
+Cell level (population 1,635,971 labelled-numeric cells): headerless 454,396 (27.8%) ->
+335,546 (20.5%); +168,381 recovered; 49,531 date-blanks; **0 non-date labels lost**.
+Ground truth: Allied 03-10-2021 p9 (pymupdf word positions) recovers ±%/Min/Avg/Max and
+blanks the two date columns; Clarkson Platou p2 keeps BALTIC INDEX/EXCHANGE RATE/BUNKER
+PRICES and recovers FUJAIRAH. Live rebuild verified by read-back: 5,743/1,193,579/970,291,
+`orphans=0 mismatched=0`. Residual: 838 cells (0.05%) net-new prose-like headers, accepted.
+Pre-change live DB backed up at `scratch/meas_20261004/corpus.pre_v3.duckdb`.
+
+**Still open (unchanged, human/display calls):** hellenic VesselsValue date convention; lion
+regeneration; the VV-matrix image-recall residual (paid); the two-writer hellenic_iron_ore_pdf_*
+family; date-vs-measurement classifier is now DONE (this run).
+
+---
 **THIS RUN (2026-10-04 16:5x-17:1x, overnight supervisor cron) - TABLE-AUDIT 20-DOC PROBES RECOMPUTED ON THE CURRENT DB (the two subsections the 15:4x re-derive left stale). Evidence docs/table_audit_recompute_verdict.md.**
 
 No extraction job was running (live python.exe set = Hermes gateway + litellm proxy + code_review_graph serve). All named sources CLOSED. This run took the SPECIFIC gap flagged in table_audit_rederive.json and re-ran table_audit.json's "reproducibility_20" and "text_layer_reconciliation_20" against the current corpus.duckdb (rebuilt 2026-10-03), the phase job #2 requirement.
