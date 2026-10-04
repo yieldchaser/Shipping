@@ -1,3 +1,19 @@
+**THIS RUN (2026-10-04 11:1x-11:4x, source-by-source, 30m job) - IRON-ORE TWO-WRITER HAZARD MEASURED IN FULL: it is FIVE files, not one, and two are already silently damaged (11,553 + 2,207 empty values). Evidence `docs/iron_ore_two_writer_verdict.md`.**
+
+No extraction job was running (the python.exe set is the Hermes gateway). No source is left to extract: every named source is closed, and the remaining corpus units are knowledge-tier only (`corpus/10-companies` = 1,310 md SEC filings, `corpus/11-other/panama-canal` = 1 md, `corpus/books` = md, `corpus/09-ppa` done 09-28 families A/B/C). So this run worked the last measured open hazard instead of starting a non-existent source.
+
+**What the prior run flagged (commit 7f83a1ec6) was ONE file (`..._dashboard_series.csv`, wide-vs-long); the sweep under-measured.** `run_hellenic_iron_ore_pdf.py` (MMi) and `run_smm_iron_ore_daily.py` (SMM) both write **five** `data/extracted/series/hellenic_iron_ore_pdf_*.csv`: dashboard, indices, brands, futures, averages. The MMi runner FULL-OVERWRITES with its own fieldnames; the SMM runner reads the whole file and rewrites it under its own fieldnames (`upsert_rows_to_csv`, :605). Three of the five schemas are incompatible (MMi uses `price`/`market`, SMM uses `value`/`market_type`), so the SMM upsert's DictWriter DROPS the foreign keys and writes empty cells.
+
+**Realized damage (measured):** `..._indices_series.csv` 11,625 rows, **11,553 empty `value`** (every MMi-era index row); `..._futures_series.csv` 2,233 rows, **2,207 empty `price`**; brands 0 empty (names align); averages 172 empty `m_minus_1`; dashboard 1.
+
+**Ground truth (rendered PDF text layer, not another extractor):** `corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-19_..._1841ecdb3610.pdf` p0 prints `IOPI58 58% Fe Fines RMB/t = 1197` (change -11, -0.91%). Delivered CSV row keeps `change=-11.0, pct=-0.9` but `value=''`. The level is absent.
+
+**Three-baseline check - the data is NOT lost:** `hellenic_iron_ore_table_series.csv` (HTML pipeline) holds the same indices with the level intact and byte-matching the PDF (`fot_rmb_wmt=1197.0`). So re-filling `indices_series` would be worth ~zero for the KB. **No consumers:** index.html reads `data/futures|commodities|derived/` only; no script/test/app reads any `hellenic_iron_ore_pdf_*` series. The disk-driven register echoes the damaged SMM state (11,625 rows, SMM columns).
+
+**NOT APPLIED (human design call):** two prior runs deferred this; a wrong schema choice writes wrong values. Options in the verdict: (A) namespace-split the SMM writer (`hellenic_smm_*`, precedent `hellenic_smm_market_drivers_series.csv`) then re-run MMi offline from its 1,190 cached md; (B) unify the MMi writer onto the SMM schema + upsert (`price`->`value`, `market`->`market_type`). No data or code changed this run.
+
+**STILL OPEN (all human/display calls):** cadence-audit md hardcodes BO 882/859 + athenian 3,052 (measured 887/863, 2,916); hellenic VesselsValue date convention; lion regeneration (re-run changes values = non-determinism, uninvestigated); affinity WS-era md rounding (display only); DB `label_series`.
+
 **THIS RUN (2026-10-04 10:1x-10:4x, source-by-source, 30m job) - HELLENIC DEMOLITION FAMILY: OWNERSHIP RESOLVED, single writer per file, 4 series RESTORED, guard test GREEN. Evidence `docs/hellenic_gms_owner_verdict.md`.**
 
 No extraction job was running (the four `python.exe` are the Hermes gateway). This closes the previous run's OPEN "resolve the GMS owner (A or B)" decision item AND the whole `hellenic_*` demolition two-writer family.
