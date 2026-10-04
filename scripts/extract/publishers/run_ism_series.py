@@ -150,27 +150,42 @@ def pick_observation(obs, iso_dt: str):
 
 
 def unit_for(title: str, labels: List[str]) -> str:
-    """Unit of a chart, derived from the PAGE (label suffix, else title).
+    """Unit of a SERIES: the chart TITLE's declared unit governs; else the label's.
+
+    The chart title states the unit printed on the chart (e.g. "Average round
+    voyage TCE (given backhaul leg in ballast), $/day"). A series LABEL can pick
+    up a caption fragment from a NEIGHBOURING panel's legend: measured 2 reports
+    (ism_2023_W16 and _W22) carried "$/t" inside a $/day TCE legend entry, which
+    made 52 rows of a $/day chart ship as $/t (values 2392-4871 $/day - the same
+    magnitude as their $/day sibling series on that chart).
+
+    So: if the title names a unit, that unit wins; only when the title is silent
+    (the CFR-weight charts, whose title carries no unit) is the per-label unit
+    used. Verified across all 115 ism sidecars: this changes the unit of exactly
+    the 2 polluted labels, no other series.
 
     The old code read a leaked loop variable `title` inside build_rows, so the
     unit came from whichever chart happened to be processed LAST: measured
     16,985 of 29,948 rows (57%) carried unit='$/day' on a chart whose own title
     and series label both end in '$/t'.
     """
-    joined = " ".join(labels)
-    if "%" in joined:
-        return "%"
     low = title.lower()
-    if "$/day" in joined:
-        return "$/day"
-    if "$/t" in joined or "eur/t" in joined.lower():
-        return "EUR/t" if "eur/t" in joined.lower() else "$/t"
+    if "%" in title:
+        return "%"
     if "$/day" in low or "tce" in low or "tct" in low or "rates dynamics" in low:
         return "$/day"
     if "eur" in low or "€" in title:
         return "EUR/t"
     if "$/t" in low:
         return "$/t"
+    # Title names no unit -> fall back to the label's own unit.
+    joined = " ".join(labels)
+    if "%" in joined:
+        return "%"
+    if "$/day" in joined:
+        return "$/day"
+    if "$/t" in joined or "eur/t" in joined.lower():
+        return "EUR/t" if "eur/t" in joined.lower() else "$/t"
     return "$/t"
 
 

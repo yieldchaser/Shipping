@@ -2650,3 +2650,84 @@ now appends `|FUTURE_VS_ISSUE` (>30 days after `issue_date`) and/or `|ORDER_INVA
    2 with 11,553/2,207 empty values); hellenic VesselsValue date convention; lion
    series regeneration; affinity WS-era md rounding; DB `label_series`; intermodal_macro
    ism agreement tail.
+
+## 2026-10-04 11:50 UTC (17:20 IST) - deep review: 104 ISM coaster rows carried unit `$/t` on a `$/day` TCE chart (legend-label pollution; FIXED)
+
+### What I measured first (read-only)
+
+* `verify_extraction.py` -> run COMPLETE (7,816/7,816 recorded; state 17,608 min old,
+  0 remaining). No `run_batch`/`batch_worker` alive. db 189,481 tables / 6,726,703 cells;
+  mean `text_verified` 0.861; 249 crash-recovered docs; disk 14.7 GB free. No action.
+* Swept all 170 series CSVs for structural smells (all-empty cols, constant cols,
+  exact-duplicate rows, numeric min/max/median per column). The all-empty columns are
+  schema placeholders populated by other record types (verified per `record_type`), the
+  duplicate counts are 1-60 rows (not a systematic bug), and the apparent 1000x outliers
+  were checked against their sources (below).
+
+### Findings checked against the SOURCE (not assumed)
+
+* `baltic_ncfi` 2026-05-29 `Ningbo - Middle East` prev=33943.74: the HTML itself prints
+  `<td>4089.10</td><td>33943.74</td><td>3.69</td>` - a publisher typo, we are faithful.
+* `affinity_bda` 2023-04-21 `TKR/LRG` 382.3 / -185.2: the PDF text layer prints
+  `This week 382.3 ... Δ W-O-W -185.2` verbatim - publisher value, we are faithful.
+* `affinity_tce` 2026-09-18 `TD3C` 1,241,097 USD/day: the report's prose reads
+  "rates for vessels loading inside the AG have surpassed USD 1 Mn per day" - the
+  scenario's value, we are faithful.
+* `baltic_ncfi` 2022-02-11 `Ningbo - Europe` change `-1,38` (European decimal comma)
+  parsed as `-138.0` by `run_baltic.parse_float`'s blanket `replace(',','')`. This IS a
+  real parser bug, but the pattern occurs in **exactly 1 cell** across all 3,043 baltic
+  HTML files (grep-verified), so it is documented, not force-fixed this run.
+
+### Finding (reproduced on ONE document, then FIXED): a polluted legend label mislabels the unit
+
+`ism_2023_W22_ISM_coaster_week-22.pdf` page 1 holds a chart titled
+**"Average round voyage TCE (given backhaul leg in ballast), $/day"**. Its second series
+legend entry read `Azov - Marmara RV, 3,000 DWCC sea-river Price / Freight rate, $/t vsl`
+- a caption fragment from the *neighbouring* chart ("Russian wheat: weight of freight in
+CFR Marmara price", whose legend is `Freight rate, wheat, 3,000t, Rostov - Marmara, $/t`)
+blended into it. `unit_for()` read that `$/t` off the label, so the series shipped as
+`$/t` though it is a `$/day` TCE line whose values (2,392-4,871) match its `$/day`
+sibling on the same axis.
+
+### What I changed
+
+Branch `auto/extract-fixes-2026-10-04`, one file
+(`scripts/extract/publishers/run_ism_series.py`): `unit_for()` now takes the chart
+TITLE's declared unit first (`$/day` / `%` / `EUR/t` / `$/t`), and only falls back to the
+per-label unit when the title names none (the CFR-weight charts, whose title carries no
+unit). ~40 lines, comment-documented.
+
+### Evidence, isolated so the change is the only variable
+
+* Re-ran the stacking to `data/extracted/scratch_review/` with the patched module over
+  the same 115 sidecars: **104 rows change, all of them the `unit` field, `$/t` ->
+  `$/day`**; **0 rows change in any other column** (values, dates, min/max/sd byte-identical);
+  `ism_handy` **0 rows change**. Affected reports: `ism_2023_W16` (52) and `ism_2023_W22` (52).
+* Cross-checked the whole corpus: of 115 deduped ism sidecars, this title-vs-label unit
+  precedence changes the unit of **exactly the 2 polluted labels and no other series**
+  (simulated both functions over every series label).
+* `py_compile` OK. Golden gate re-run: **star_asia 15/15 on both text engines**, no other cells moved.
+
+### Deliberately NOT changed, and why
+
+* The delivered `ism_coaster_freight_series.csv` is NOT rewritten (prohibition #4). The fix
+  is code-only and takes effect on the next ism re-run, a human decision:
+
+      python3 scripts/extract/publishers/run_ism_series.py
+
+  Expected: 104 `unit` cells flip `$/t` -> `$/day`; every value stays as delivered.
+* `run_baltic.parse_float`'s comma handling: real but 1 cell corpus-wide; the principled
+  fix (comma = thousands only when a period is also present, else decimal when 1-2 trailing
+  digits) would change that cell to `-1.38`. Left for a human because the impact is one
+  cell in one 2022 file.
+* The affinity BDA / NCFI anomalies are publisher errors, reproduced verbatim from the
+  page; not rewritten.
+
+### HUMAN DECISIONS
+
+1. To apply the ISM unit fix: run `run_ism_series.py` (command above). 104 `unit` cells
+   change; no values change.
+2. Still open from earlier runs, unchanged by this one: the star-asia flag apply; the
+   xclusiv `2021-10-04` doubled-cell CSV re-run; the `hellenic_iron_ore_pdf_*` two-writer
+   family; hellenic VesselsValue date convention; lion series regeneration; affinity
+   WS-era md rounding; DB `label_series`; intermodal_macro ism agreement tail.
