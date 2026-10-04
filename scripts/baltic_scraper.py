@@ -809,6 +809,17 @@ def mirror_asset(
     destination = assets_dir / filename
     if not destination.exists():
         destination.write_bytes(payload)
+
+    # Dual-save: mirror asset to legacy REPORTS_ROOT / "baltic"
+    try:
+        rel = destination.relative_to(OUTPUT_ROOT)
+        legacy_dest = LEGACY_OUTPUT_ROOT / rel
+        legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+        if not legacy_dest.exists():
+            legacy_dest.write_bytes(payload)
+    except Exception:
+        pass
+
     time.sleep(ASSET_DELAY)
     return relative_asset_href(html_path, destination), absolute
 
@@ -934,6 +945,17 @@ def save_as_html_snapshot(html: str, dest: Path) -> bool:
     with out.open("w", encoding="utf-8", newline="\n") as handle:
         handle.write(html)
     print(f"    ↓ {out.name}  ({out.stat().st_size // 1024} KB)")
+
+    # Dual-save: also mirror to legacy REPORTS_ROOT / "baltic"
+    try:
+        rel = out.relative_to(OUTPUT_ROOT)
+        legacy_out = LEGACY_OUTPUT_ROOT / rel
+        legacy_out.parent.mkdir(parents=True, exist_ok=True)
+        with legacy_out.open("w", encoding="utf-8", newline="\n") as handle:
+            handle.write(html)
+    except Exception:
+        pass
+
     return True
 
 

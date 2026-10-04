@@ -399,6 +399,17 @@ def mirror_asset(
     destination = assets_dir / filename
     if not destination.exists():
         destination.write_bytes(payload)
+
+    # Dual-save: mirror asset to legacy REPORTS_ROOT / "hellenic"
+    try:
+        rel = destination.relative_to(OUTPUT_ROOT)
+        legacy_dest = LEGACY_OUTPUT_ROOT / rel
+        legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+        if not legacy_dest.exists():
+            legacy_dest.write_bytes(payload)
+    except Exception:
+        pass
+
     time.sleep(ASSET_DELAY)
     return relative_asset_href(html_path, destination), absolute
 
@@ -662,6 +673,16 @@ def extract_and_save(
     dest_html.parent.mkdir(parents=True, exist_ok=True)
     dest_html.write_text(html_doc, encoding="utf-8", newline="\n")
     print(f"    saved: {dest_html.name}  ({dest_html.stat().st_size // 1024} KB)")
+
+    # Dual-save: mirror to legacy REPORTS_ROOT / "hellenic"
+    try:
+        rel = dest_html.relative_to(OUTPUT_ROOT)
+        legacy_dest = LEGACY_OUTPUT_ROOT / rel
+        legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+        legacy_dest.write_text(html_doc, encoding="utf-8", newline="\n")
+    except Exception:
+        pass
+
     return True
 
 

@@ -106,6 +106,16 @@ def download_file(url, target_path):
                 if len(data) > 500:
                     with open(target_path, "wb") as f:
                         f.write(data)
+                    # Dual-save mirror if under corpus/02-hellenic
+                    try:
+                        rel = target_path.relative_to(ROOT / "corpus" / "02-hellenic")
+                        legacy_dest = ROOT / "reports" / "hellenic" / rel
+                        legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+                        if not legacy_dest.exists():
+                            with open(legacy_dest, "wb") as lf:
+                                lf.write(data)
+                    except Exception:
+                        pass
                     return True, "downloaded"
         except Exception as e:
             time.sleep(1.0)

@@ -282,6 +282,17 @@ def mirror_asset(
     destination = assets_dir / filename
     if not destination.exists():
         destination.write_bytes(payload)
+
+    # Dual-save mirror to legacy reports/breakwave
+    try:
+        rel = destination.relative_to(OUTPUT_ROOT)
+        legacy_dest = LEGACY_OUTPUT_ROOT / rel
+        legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+        if not legacy_dest.exists():
+            legacy_dest.write_bytes(payload)
+    except Exception:
+        pass
+
     time.sleep(IMAGE_DELAY)
     return relative_asset_href(html_path, destination), absolute
 

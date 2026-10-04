@@ -295,6 +295,29 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
                 "file_path": f"corpus/06-drewry/opinions/{slug}.md",
             }
             append_to_manifest(manifest_entry)
+
+            # Dual-save mirror to legacy reports/drewry/opinions
+            try:
+                LEGACY_OPINIONS_DIR.mkdir(parents=True, exist_ok=True)
+                legacy_md_path = LEGACY_OPINIONS_DIR / f"{slug}.md"
+                with open(legacy_md_path, "w", encoding="utf-8", newline="\n") as f:
+                    f.write(f"# {data['title']}\n\n")
+                    if data["date"]:
+                        f.write(f"*{data['date']}*\n\n")
+                    f.write(data["body"] + "\n")
+
+                legacy_manifest_path = LEGACY_OPINIONS_DIR / "_manifest.csv"
+                legacy_entry = dict(manifest_entry)
+                legacy_entry["file_path"] = f"reports/drewry/opinions/{slug}.md"
+                write_header = not legacy_manifest_path.exists()
+                with open(legacy_manifest_path, "a", encoding="utf-8", newline="\n") as f:
+                    writer = csv.DictWriter(f, fieldnames=list(manifest_entry.keys()))
+                    if write_header:
+                        writer.writeheader()
+                    writer.writerow(legacy_entry)
+            except Exception as lexc:
+                print(f"  [!] Legacy mirror skipped: {lexc}", flush=True)
+
             saved_count += 1
             print(f"  -> Saved {md_path.name} ({data['paragraphs']} paragraphs)", flush=True)
         else:
