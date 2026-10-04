@@ -380,6 +380,66 @@ async def process_vv_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[D
     return summary, matrix_records, sales
 
 
+
+_MONTH_NAMES = ("january", "february", "march", "april", "may", "june", "july",
+                "august", "september", "october", "november", "december")
+
+
+def page_title(h_path: Path) -> str:
+    """The report page's own <title>, or "" - an identity the filename lacks."""
+    try:
+        text = h_path.read_text(encoding="utf-8", errors="ignore")
+    except OSError:
+        return ""
+    m = re.search(r"<title>([^<]*)", text)
+    return m.group(1).strip() if m else ""
+
+
+def _title_date_token(title: str) -> str:
+    """'Weekly Vessel Valuations Report, February 17 2026' -> 'february-17-2026'."""
+    m = re.search(r"Report,?\s*([A-Za-z]+)\s+(\d{1,2})\s+(\d{4})", title or "")
+    if not m:
+        return ""
+    month = m.group(1).lower()
+    if month not in _MONTH_NAMES:
+        return ""
+    return "%s-%02d-%s" % (month, int(m.group(2)), m.group(3))
+
+
+def dedupe_report_copies(html_files: List[Path]) -> List[Path]:
+    """One file per report page, keyed on the publisher's own title.
+
+    The collector stores the SAME report several times under different names.
+    Measured 2026-10-03: of 261 VV report pages, 6 are such copies - three
+    copies of the February 17 2026 report (all saved 2026-02-19) and five of
+    the March 31 2026 report (all saved 2026-04-01). No two of a group are
+    byte-identical (each fetch rewrites the asset paths), so a hash dedup
+    misses them, and each copy was parsed independently - which put one
+    report's table into the series 3x and 5x. Delivered
+    `hellenic_vv_matrix_series.csv` holds 234 rows on issue_date 2026-02-19
+    against 78 for the modal week (156 excess = 2 extra copies x 78), and
+    `hellenic_vv_benchmark_sales_series.csv` holds 15 rows for that date
+    where a single copy yields 5.
+
+    Keeps, per title, the copy whose own filename names that report - so the
+    file that OWNS the companion matrix image wins, and the fetch-date
+    duplicates (which carry no image and would otherwise adopt another
+    report's image through the <img src> fallback in find_companion_image)
+    are dropped. The date CONVENTION is deliberately untouched: the kept copy
+    keeps the issue_date the runner already derives from its filename.
+    """
+    best: Dict[str, Tuple[Path, bool]] = {}
+    for hp in html_files:
+        title = page_title(hp)
+        key = title or hp.name
+        token = _title_date_token(title)
+        owns = bool(token) and token in hp.stem.lower().replace("_", "-")
+        cur = best.get(key)
+        if cur is None or (owns and not cur[1]):
+            best[key] = (hp, owns)
+    return sorted(hp for hp, _owns in best.values())
+
+
 async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     OUT_MD_DIR.mkdir(parents=True, exist_ok=True)
     OUT_SERIES_DIR.mkdir(parents=True, exist_ok=True)
@@ -388,6 +448,11 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     sem = asyncio.Semaphore(4)
 
     html_files = sorted(list(INPUT_DIR.glob("**/*weekly-vessel-valuations-report*.html")))
+    n_input = len(html_files)
+    html_files = dedupe_report_copies(html_files)
+    if len(html_files) != n_input:
+        print(f"[VV] dropped {n_input - len(html_files)} duplicate copies of the "
+              f"same report page ({n_input} -> {len(html_files)})", flush=True)
     if limit:
         html_files = html_files[:limit]
 

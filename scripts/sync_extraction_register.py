@@ -169,6 +169,22 @@ def sync_register():
     updated_md = re.sub(r"`best_oasis_demolition_series\.csv` \([0-9,]+ rows\)", f"`best_oasis_demolition_series.csv` ({bo_demo_rows:,} rows)", updated_md)
     updated_md = re.sub(r"`best_oasis_deals_series\.csv` \([0-9,]+ rows\)", f"`best_oasis_deals_series.csv` ({bo_deals_rows:,} rows)", updated_md)
 
+    # Update Star Asia (measured from disk 2026-10-03)
+    sa_snp_rows = disk_inventory.get("star_asia_snp_sales_series.csv", 0)
+    sa_deals_rows = disk_inventory.get("star_asia_deals_series.csv", 0)
+    sa_demo_rows = disk_inventory.get("star_asia_demolition_series.csv", 0)
+    updated_md = re.sub(r"`star_asia_snp_sales_series\.csv` \([0-9,]+ rows\)", f"`star_asia_snp_sales_series.csv` ({sa_snp_rows:,} rows)", updated_md)
+    updated_md = re.sub(r"`star_asia_deals_series\.csv` \([0-9,]+ rows\)", f"`star_asia_deals_series.csv` ({sa_deals_rows:,} rows)", updated_md)
+    updated_md = re.sub(r"`star_asia_demolition_series\.csv` \([0-9,]+ rows\)", f"`star_asia_demolition_series.csv` ({sa_demo_rows:,} rows)", updated_md)
+
+    sa_total = sum(disk_inventory.get(f"star_asia_{n}.csv", 0) for n in
+                   ["snp_sales_series", "deals_series", "valuation_matrix_series", "demolition_series",
+                    "metals_energy_series", "ferrous_scrap_series", "5y_history_series",
+                    "scrap_price_trends_series", "iron_ore_series", "ldt_comparison_series"])
+    updated_md = re.sub(
+        r"(`star_asia_ldt_comparison_series\.csv` \([0-9,]+ rows\)<br>194 `\.tables\.json` \+ 195 `\.md` files \()([0-9,]+)( rows total across 10 series\))",
+        rf"\g<1>{sa_total:,}\g<3>", updated_md)
+
     # Write updated EXTRACTION_REGISTER.md
     REGISTER_MD.write_text(updated_md, encoding="utf-8")
     print(f"Successfully synchronized {REGISTER_MD}")

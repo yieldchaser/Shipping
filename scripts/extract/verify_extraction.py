@@ -495,18 +495,39 @@ def check_golden(out_root, actions, info):
         actions.append(f"GOLDEN REGRESSION: {found}/{len(GOLDEN)} Star Asia cells present")
 
 
+def find_db_dir(out_root):
+    """Locate the derived table DB under the run root.
+
+    build_table_db writes to <out>/db, and the corpus tree lives at
+    <out>/corpus; the build that produced the current DB was invoked as
+    `--out <out>/corpus`, so the DB sits at <out>/corpus/db. Checking only
+    <out>/db reported "not built yet" (measured 2026-10-03) while a
+    189,481-table / 6,726,703-cell DB sat one level down - the check was blind
+    to the very artefact it exists to guard. Prefer the newest catalogue.
+    """
+    cands = [os.path.join(out_root, "db"),
+             os.path.join(out_root, "corpus", "db")]
+    found = [(os.path.getmtime(os.path.join(d, "catalogue.parquet")), d)
+             for d in cands
+             if os.path.exists(os.path.join(d, "catalogue.parquet"))]
+    if not found:
+        return None
+    return max(found)[1]
+
+
 def check_db(out_root, actions, info):
-    db_dir = os.path.join(out_root, "db")
-    cat = os.path.join(db_dir, "catalogue.parquet")
-    cells = os.path.join(db_dir, "tables.parquet")
-    if not os.path.exists(cat):
+    db_dir = find_db_dir(out_root)
+    if db_dir is None:
         info["db"] = "not built yet"
         return
+    cat = os.path.join(db_dir, "catalogue.parquet")
+    cells = os.path.join(db_dir, "tables.parquet")
     try:
         import pandas as pd
         c = pd.read_parquet(cat)
         n = len(pd.read_parquet(cells, columns=["doc"]))
         info["db"] = f"{len(c)} tables, {n} cells"
+        info["db_dir"] = os.path.relpath(db_dir, out_root).replace(os.sep, "/")
         if len(c) == 0 or n == 0:
             actions.append("db parquet exists but is empty")
     except Exception as exc:
