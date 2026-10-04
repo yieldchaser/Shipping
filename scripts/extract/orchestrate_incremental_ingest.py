@@ -376,6 +376,14 @@ def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
     
     if not dry_run:
         dest_dir.mkdir(parents=True, exist_ok=True)
+        # Generate markdown report
+        try:
+            import run_star_asia
+            md_text = run_star_asia.build_md(pdf_path)
+            (dest_dir / f"{pdf_path.stem}.md").write_text(md_text, encoding="utf-8")
+        except Exception as e:
+            logger.warning(f"Could not generate Star Asia MD for {pdf_path.stem}: {e}")
+
         sidecar_data = {
             "stem": pdf_path.stem,
             "issue_date": issue_date,
@@ -971,6 +979,14 @@ def process_single_pdf(
             specialized_result = extract_clarksons(pdf_path, dry_run=dry_run)
         except Exception as e:
             print(f"  [!] Note: specialized clarksons failed ({e}), falling back to universal pipeline.")
+    elif pub == "gibson":
+        try:
+            from publishers import run_gibson_pdf
+            specialized_result = run_gibson_pdf.extract_gibson_single_pdf(pdf_path, dry_run=dry_run)
+            if specialized_result:
+                specialized_result["specialized"] = True
+        except Exception as e:
+            print(f"  [!] Note: specialized gibson failed ({e}), falling back to universal pipeline.")
     elif pub == "ism":
         try:
             import run_ism
@@ -990,19 +1006,30 @@ def process_single_pdf(
             print(f"  [!] Note: specialized intermodal failed ({e}), falling back to universal pipeline.")
     elif pub in ("banchero_costa", "bancosta"):
         try:
-            import run_banchero_costa_tables
-            res = run_banchero_costa_tables.process_banchero_costa_report(pdf_path)
-            iss_dt = res["sidecar"].get("issue_date") or "2026-01-01"
-            year_str_b = str(int(iss_dt[:4])) if iss_dt else "2026"
+            import shutil
+            import run_banchero_world_class_llama as rb_llama
+            wk_b, iss_dt = rb_llama.parse_date_and_week(pdf_path)
+            year_str_b = iss_dt[:4] if iss_dt else "2026"
             target_dir_b = MD_DIR / "banchero_costa" / year_str_b
             target_dir_b.mkdir(parents=True, exist_ok=True)
             target_md_b = target_dir_b / f"{stem}.md"
             target_tables_b = target_dir_b / f"{stem}.tables.json"
             if not dry_run:
-                target_md_b.write_text(res["markdown"], encoding="utf-8")
-                target_tables_b.write_text(json.dumps(res["sidecar"], indent=2), encoding="utf-8")
-                (MD_DIR / "banchero_costa" / f"{stem}.md").write_text(res["markdown"], encoding="utf-8")
-                (MD_DIR / "banchero_costa" / f"{stem}.tables.json").write_text(json.dumps(res["sidecar"], indent=2), encoding="utf-8")
+                extra_accs = [
+                    {"id": "main_active", "name": "Main Key", "api_key": os.environ.get("LLAMA_CLOUD_API_KEY", "llx-p1IAIhBMQdXo21E9Wz2jgW6hoTPJ8Xs2VvxJMd7S7b8aXYUR")},
+                    {"id": "account_2", "name": "Account 2", "api_key": "llx-hM8tERqfFZk1JGzLdPcuSgcaBctblBqm76nIieMxIx6AnAgB"},
+                    {"id": "account_1", "name": "Account 1", "api_key": "llx-AVMBvb0UULqQGzWhFFJScQpwhrTM8hSVMZvjz4PEGQ9utg1P"},
+                ]
+                pool = extra_accs + rb_llama.ACCOUNTS
+                ok, _, err = rb_llama.parse_single_pdf(pdf_path, pool[0], pool[1:])
+                if ok:
+                    rb_llama.build_final_md_and_tables(stem, pdf_path)
+                root_md = MD_DIR / "banchero_costa" / f"{stem}.md"
+                root_json = MD_DIR / "banchero_costa" / f"{stem}.tables.json"
+                if root_md.exists():
+                    shutil.copy2(root_md, target_md_b)
+                if root_json.exists():
+                    shutil.copy2(root_json, target_tables_b)
             specialized_result = {"stem": stem, "pub": "banchero_costa", "issue_date": iss_dt, "target_md": str(target_md_b), "specialized": True}
         except Exception as e:
             print(f"  [!] Note: specialized banchero_costa failed ({e}), falling back to universal pipeline.")
@@ -1317,12 +1344,12 @@ def run_orchestration(
             except Exception:
                 skip_stems = set()
 
+            existing_stems = {f.stem for f in (MD_DIR / pub_dir.name).rglob("*.md")} if (MD_DIR / pub_dir.name).exists() else set()
             for pdf in pub_dir.rglob("*.pdf"):
                 stem = pdf.stem
                 if stem in skip_stems:
                     continue
-                extracted = list((MD_DIR / pub_dir.name).rglob(f"{stem}.md"))
-                if not extracted or force:
+                if stem not in existing_stems or force:
                     pdfs_to_process.append((pub_dir.name, pdf))
 
     print(f"Discovered {len(pdfs_to_process)} document(s) requiring extraction/update.")

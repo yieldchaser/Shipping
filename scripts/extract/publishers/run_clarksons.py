@@ -138,33 +138,36 @@ def infer_vessel_type(name: str, dwt_str: str, section: str, commentary: str) ->
     comm_lower = commentary.lower()
     name_lower = name.lower()
 
-    # Check commentary context for explicit vessel class mentions
+    # Check commentary context for explicit vessel class mentions at sentence level
     for para in commentary.split("\n\n"):
         if name_lower in para.lower():
-            plow = para.lower()
-            if "capesize" in plow or "cape" in plow:
-                return "Capesize"
-            if "kamsarmax" in plow:
-                return "Kamsarmax"
-            if "panamax" in plow:
-                return "Panamax"
-            if "ultramax" in plow:
-                return "Ultramax"
-            if "supramax" in plow:
-                return "Supramax"
-            if "handysize" in plow or "handy" in plow:
-                return "Handysize"
-            if "vlcc" in plow:
-                return "VLCC"
-            if "suezmax" in plow:
-                return "Suezmax"
-            if "aframax" in plow or "lr2" in plow:
-                return "LR2" if "lr2" in plow else "Aframax"
-            if "mr" in plow or "product" in plow:
-                return "MR"
+            sentences = re.split(r"[.!?]\s+", para)
+            for s in sentences:
+                if name_lower in s.lower():
+                    slow = s.lower()
+                    if "handysize" in slow or "handy" in slow:
+                        return "Handysize"
+                    if "kamsarmax" in slow:
+                        return "Kamsarmax"
+                    if "ultramax" in slow:
+                        return "Ultramax"
+                    if "supramax" in slow:
+                        return "Supramax"
+                    if "panamax" in slow:
+                        return "Panamax"
+                    if "capesize" in slow or "cape" in slow or "newcastlemax" in slow:
+                        return "Capesize"
+                    if "vlcc" in slow:
+                        return "VLCC"
+                    if "suezmax" in slow:
+                        return "Suezmax"
+                    if "aframax" in slow or "lr2" in slow:
+                        return "LR2" if "lr2" in slow else "Aframax"
+                    if "mr" in slow or "product" in slow:
+                        return "MR"
 
     # Default to standard DWT boundaries
-    if "bulk" in section.lower():
+    if "bulk" in section.lower() or (dwt_num and dwt_num < 45000 and "tank" not in name_lower):
         if dwt_num:
             if dwt_num >= 120000:
                 return "Capesize"
@@ -189,6 +192,8 @@ def infer_vessel_type(name: str, dwt_str: str, section: str, commentary: str) ->
                 return "Aframax"
             if dwt_num >= 60000:
                 return "Panamax"
+            if dwt_num <= 40000 and "bulk" in commentary.lower():
+                return "Handysize"
             return "MR"
         return "Tanker"
 
@@ -246,7 +251,15 @@ def extract_desk_commentary(doc: pymupdf.Document) -> str:
                 if cleaned:
                     all_paras.append(cleaned)
 
-    return "\n\n".join(all_paras).strip()
+    # Prune consecutive or trailing empty headings without prose
+    pruned_paras = []
+    for idx, p in enumerate(all_paras):
+        if p.startswith("### "):
+            if idx + 1 >= len(all_paras) or all_paras[idx + 1].startswith("### "):
+                continue
+        pruned_paras.append(p)
+
+    return "\n\n".join(pruned_paras).strip()
 
 
 BANNER_KEYWORDS = [
@@ -537,23 +550,32 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
         commentary = extract_desk_commentary(doc)
         sales_recs, demo_recs = extract_all_transactions(doc, pdf_path, issue_date)
 
-        # 1. Write <stem>.tables.json
+        # 1. Write <stem>.tables.json (both flat root and year subfolder)
+        payload_json = {
+            "issue_date": issue_date,
+            "printed_date": printed_date,
+            "source_file": fname,
+            "sales_count": len(sales_recs),
+            "demo_count": len(demo_recs),
+            "sales": sales_recs,
+            "demolitions": demo_recs
+        }
         tab_json_path = OUT_MD / f"{stem}.tables.json"
         with open(tab_json_path, "w", encoding="utf-8") as f:
-            json.dump({
-                "issue_date": issue_date,
-                "printed_date": printed_date,
-                "source_file": fname,
-                "sales_count": len(sales_recs),
-                "demo_count": len(demo_recs),
-                "sales": sales_recs,
-                "demolitions": demo_recs
-            }, f, indent=2, ensure_ascii=False)
+            json.dump(payload_json, f, indent=2, ensure_ascii=False)
 
-        # 2. Write <stem>.md
+        yr_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+        yr_dir = OUT_MD / yr_str
+        yr_dir.mkdir(parents=True, exist_ok=True)
+        with open(yr_dir / f"{stem}.tables.json", "w", encoding="utf-8") as f:
+            json.dump(payload_json, f, indent=2, ensure_ascii=False)
+
+        # 2. Write <stem>.md (both flat root and year subfolder)
         md_content = build_markdown_document(pdf_path, issue_date, printed_date, commentary, sales_recs, demo_recs)
         md_path = OUT_MD / f"{stem}.md"
         with open(md_path, "w", encoding="utf-8") as f:
+            f.write(md_content)
+        with open(yr_dir / f"{stem}.md", "w", encoding="utf-8") as f:
             f.write(md_content)
 
         report_summaries.append({

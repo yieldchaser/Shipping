@@ -481,6 +481,23 @@ def polish_markdown_tables(md_text: str) -> str:
             for r_line in data_rows:
                 r_cells = [c.strip() for c in r_line.split('|')[1:-1]]
                 rows.append(r_cells)
+
+            # Prune duplicate/hallucinated commodity chart tables (e.g. BUNKER PRICES @ SINGAPORE with empty Item/Unit)
+            table_text_upper = ' '.join(raw_headers + [cell for r in rows for cell in r]).upper()
+            is_commodity_chart_fake = (
+                any(k in table_text_upper for k in ['COAL & IRON ORE PRICE', 'BUNKER PRICES @ SINGAPORE', 'BRENT & WTI OIL PRICE', 'HENRY HUB PRICE', 'STEEL PRICES IN CHINA', 'WHEAT & CORN PRICES'])
+                and any(h.lower() == 'item' for h in raw_headers)
+                and any(h.lower() == 'unit' for h in raw_headers)
+            )
+            if is_commodity_chart_fake:
+                item_idx = next((idx for idx, h in enumerate(raw_headers) if h.lower() == 'item'), -1)
+                unit_idx = next((idx for idx, h in enumerate(raw_headers) if h.lower() == 'unit'), -1)
+                if item_idx != -1 and unit_idx != -1:
+                    item_empty = all(len(r) <= item_idx or r[item_idx] == '' for r in rows)
+                    unit_empty = all(len(r) <= unit_idx or r[unit_idx] == '' for r in rows)
+                    if item_empty and unit_empty:
+                        i = j
+                        continue
                 
             num_cols = len(raw_headers)
             cols_with_data = []
@@ -648,11 +665,58 @@ def polish_markdown_tables(md_text: str) -> str:
     return merge_split_sales_table(polished)
 
 
+def clean_banchero_document_text(text: str, report_week: int, issue_date: str) -> str:
+    """
+    Cleans running banners, footers, logo markers, and structures the top macro insight.
+    """
+    # 1. Strip running headers and footer artifacts
+    text = re.sub(r'(?m)^[ \t]*#+\s*COMMENT(?:\s+MARKET\s+REPORT.*)?\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*#+\s*(?:[A-Z\s]+)?MARKET REPORT\s*[-–]\s*WEEK\s*\d+/\d{4}(?:\s+\d+)?\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*(?:CHARTERING|DERIVATIVES|COMMODITIES|NEWS)\s+\d+\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*#+\s*RESEARCH\s*[IVX\d]*\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*RESEARCH\s*[IVX\d]*\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*<!--\s*page\s*\d+\s*-->\s*$', '', text)
+    text = re.sub(r'(?m)^[ \t]*\[?\s*banchero\s+costa\s+RESEARCH\s*\]?[ \t]*$', '', text, flags=re.I)
+    text = re.sub(r'(?m)\[?\s*banchero\s+costa\s+RESEARCH\s*\]?', '', text, flags=re.I)
+    text = re.sub(r'(?m)\bebc\s+banchero\s+costa\s+RESEARCH\b', '', text, flags=re.I)
+    text = re.sub(r'(?m)^[ \t]*#+\s*ebc\s*$', '', text, flags=re.I)
+    text = re.sub(r'(?m)^[ \t]*ebc\s*$', '', text, flags=re.I)
+
+    # 2. Fix typos/spacing
+    text = re.sub(r'\bmln tin\b', 'mln t in', text)
+    text = re.sub(r'\blaycan(\d+)', r'laycan \1', text)
+    text = re.sub(r'y-\s*o-y', 'y-o-y', text)
+
+    # 3. Structure top Macro Thematic Essay header
+    # Check if text begins with article header (e.g. # CHINA SOYBEAN IMPORTS)
+    m_art = re.search(r'^\s*#+\s+([A-Z0-9\s,\-\'\/\&]{4,80})\n', text)
+    if m_art:
+        art_title = m_art.group(1).strip()
+        text = text[m_art.end():].lstrip()
+        top_header = f"# Banchero Costa Weekly Market Report - Week {report_week:02d}, {issue_date[:4]}\n\n## Weekly Macro Insight: {art_title.title()}\n\n"
+        text = top_header + text
+    else:
+        # Check first 5 lines
+        lines = text.splitlines()
+        for idx in range(min(5, len(lines))):
+            m_l = re.match(r'^\s*#+\s+([A-Z0-9\s,\-\'\/\&]{4,80})$', lines[idx])
+            if m_l and not any(k in m_l.group(1).upper() for k in ['NEWS', 'COMMODITY', 'CAPESIZE', 'MARKET', 'WEEK']):
+                art_title = m_l.group(1).strip()
+                lines[idx] = f"# Banchero Costa Weekly Market Report - Week {report_week:02d}, {issue_date[:4]}\n\n## Weekly Macro Insight: {art_title.title()}"
+                text = '\n'.join(lines)
+                break
+
+    # Clean multiple blank lines
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip() + '\n'
+
+
 def build_final_md_and_tables(stem: str, pdf_path: Path):
     """
     Reads LlamaParse markdown and creates:
     1. data/extracted/md/banchero_costa/<stem>.md with YAML frontmatter (HTML tables converted to markdown)
     2. data/extracted/md/banchero_costa/<stem>.tables.json
+    3. Mirrored into data/extracted/md/banchero_costa/<year>/
     """
     raw_path = RAW_OUT_DIR / f"{stem}.md"
     if not raw_path.exists():
@@ -662,7 +726,7 @@ def build_final_md_and_tables(stem: str, pdf_path: Path):
     if "<table" in content.lower():
         content = re.sub(r"<table[\s\S]*?</table>", html_table_to_markdown, content, flags=re.I)
 
-    # Polish all markdown tables (unpack <br/> headers, prune dummy columns, normalize headers)
+    # Polish all markdown tables (unpack <br/> headers, prune dummy columns, prune fake chart tables, normalize headers)
     content = polish_markdown_tables(content)
 
     report_week, issue_date = parse_date_and_week(pdf_path)
@@ -679,15 +743,23 @@ parsed_engine: "LlamaParse tier=cost_effective version=latest"
 ---
 
 """
-    full_md = frontmatter + content
+    cleaned_body = clean_banchero_document_text(content, report_week, issue_date)
+    full_md = frontmatter + cleaned_body
+
+    # Save to both flat root and year subfolder
     MD_OUT_DIR.mkdir(parents=True, exist_ok=True)
     out_md_path = MD_OUT_DIR / f"{stem}.md"
     out_md_path.write_text(full_md, encoding="utf-8")
 
+    year_dir = MD_OUT_DIR / issue_date[:4]
+    year_dir.mkdir(parents=True, exist_ok=True)
+    (year_dir / f"{stem}.md").write_text(full_md, encoding="utf-8")
+
     # Extract tables into .tables.json sidecar
-    tables_data = extract_structured_tables_from_md(content, issue_date, report_week, pdf_path.name)
+    tables_data = extract_structured_tables_from_md(cleaned_body, issue_date, report_week, pdf_path.name)
     out_json_path = MD_OUT_DIR / f"{stem}.tables.json"
     out_json_path.write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
+    (year_dir / f"{stem}.tables.json").write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
 
 
 # --- commodity-table anchors (layout-independent; see the commodity branch below) ---
