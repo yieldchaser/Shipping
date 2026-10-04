@@ -222,6 +222,10 @@ def parse_hedland(path):
         tables.append({"direction": direction, "header": header,
                        "rows": [r for r in country_rows if r[0].strip()], "total": total_row})
     doc.close()
+    if not tables:
+        # e.g. the "Cargo Stats by Destination - Detailed" per-vessel listings:
+        # the title matches family A but there is no country x commodity grid.
+        return None, "no-cargo-grid"
     return {"date": date, "kind": kind, "tables": tables, "checks": checks}, None
 
 
@@ -460,7 +464,12 @@ def main():
     if args.files:
         files = [Path(f) if Path(f).is_absolute() else ROOT / f for f in args.files]
     else:
-        files = sorted(CORPUS.glob("_root_pdfs/*.pdf")) + sorted(CORPUS.glob("ppa_pdf/*.pdf"))
+        # Corpus reorg (2026-10) moved 110 PPA PDFs from the two subdirs to the
+        # corpus root; without the third glob those files are invisible to the
+        # extractor.  Top-level last so the existing jsonl/CSV row order is kept.
+        files = (sorted(CORPUS.glob("_root_pdfs/*.pdf"))
+                 + sorted(CORPUS.glob("ppa_pdf/*.pdf"))
+                 + sorted(CORPUS.glob("*.pdf")))
     if args.limit:
         files = files[:args.limit]
 
