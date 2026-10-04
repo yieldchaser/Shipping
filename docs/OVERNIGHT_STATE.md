@@ -1,3 +1,19 @@
+**THIS RUN (2026-10-04 16:5x-17:1x, overnight supervisor cron) - TABLE-AUDIT 20-DOC PROBES RECOMPUTED ON THE CURRENT DB (the two subsections the 15:4x re-derive left stale). Evidence docs/table_audit_recompute_verdict.md.**
+
+No extraction job was running (live python.exe set = Hermes gateway + litellm proxy + code_review_graph serve). All named sources CLOSED. This run took the SPECIFIC gap flagged in table_audit_rederive.json and re-ran table_audit.json's "reproducibility_20" and "text_layer_reconciliation_20" against the current corpus.duckdb (rebuilt 2026-10-03), the phase job #2 requirement.
+
+**Blocker found and fixed.** doc_source_map.json pointed at the PRE-migration reports/<src>/... paths; the corpus is now corpus/<NN-group>/... so all 20 sampled docs errno-2 on the first attempt. Re-resolved by basename over corpus/**.pdf -> scratch/table_audit/doc_source_map_current.json (7,539/8,144 mapped; 605 unmapped = non-PDF image-only/html docs). All 20 then resolved.
+
+**reproducibility_20 (pdfplumber re-read, seed 20260922, 20 docs, 0 errors):** median_jaccard_distinct 0.3666, median_recall_db_in_ind 0.2895, median_numeric_recall 0.3182, median_precision_ind_in_db 1.0, db_cells 20,010 vs independent 5,380. Verdict NO FABRICATED VALUES (precision 1.0). Materially better than 2026-09-23 (numeric_recall 0.0034 -> 0.3182) post parser rebuild. CAVEAT: the 20-doc sample was REDRAWN (candidate list changed after path re-resolution) - delta is directional, not same-docs before/after.
+
+**text_layer_reconciliation_20 (PyMuPDF, same 20 docs):** db_numeric_cells 8,061, found in text 8,061, verify_ratio 1.0 (min 1.0), 0 unreadable. Dropped-but-recoverable text tokens 1,795. Every stored numeric cell is text-backed.
+
+**Also re-verified on the current DB (job #3 spot-check, no change):** ssy Capesize PRESENT (509 ssy docs carry Capesize labels; "SSY Atlantic/Pacific Capesize Index" across 113-114 issues, "Atlantic Capesize Index" 129); carriers composite indices PRESENT (127 carriers docs; "Index"/"Baltic CAPE Index"/"Baltic DIRTY Tanker Index" across ~125 issues). Both gap_verify CONSTRUCT survivors remain FALSE CONSTRUCTS.
+
+**Next-run target:** unchanged - units_fixed / per_doc_health still against the 2026-09-23 DB; plus the carried-open human/display calls (hellenic VV date convention; lion; VV-matrix image recall; date-vs-measurement series header classifier).
+
+---
+
 **THIS RUN (2026-10-04 15:4x-16:0x, source-by-source, 30m job) - SERIES-LAYER KEY MODEL: TWO PHANTOMS CLOSED, THE 43% EMPTY `measurement_key` ROOT-CAUSED (and its one-line "fix" measured as WORSE). Evidence `docs/series_key_phantom_verdict.md`.**
 
 No extraction job was running (the live `python.exe` set is the Hermes gateway). All named sources are CLOSED - the prompt's "next source" list is stale (xclusiv is DONE at 271 md; every broker/non-broker unit has md >= distinct PDFs). So this run took the state file's recurring "derived 764-key collisions / 43% empty `measurement_key` / DB `label_series`" item, filed as "a recorded human decision" by several prior runs, and MEASURED it. Result: two of the three are phantoms; the third is a real design call now root-caused.

@@ -62,20 +62,60 @@ def resolve_date(stem: str):
     return None
 
 
-SETUP = """
+SETUP = r"""
+-- Per-column header, with a table-wide fallback and a date/period guard.
+--  (1) per-column: the header above THIS column's own first numeric row, so a
+--      chart's axis numbers or prose higher up on the page no longer drag the
+--      table's first_numeric row up and hide the real header row (measured:
+--      Allied 03-10-2021 p9 recovers 01 Oct/+-%/Min/Avg/Max).
+--  (2) fallback: if a column carries no numeric cell of its own (so per-column
+--      finds nothing) use the table-wide header; this preserves e.g. Clarkson
+--      Platou's BUNKER PRICES which the pure per-column lookup dropped.
+--  (3) date guard: a header that is a bare date/week (01 Oct, Nov. 21, 2021,
+--      Week 31) is a PERIOD, not a measurement name - the observation date in
+--      series_points already carries it, and letting it into the key fragments a
+--      weekly series into one series per issue. Blanked (month names only, so
+--      "5 YEARS"/"12 mos"/"IFO380" are NOT mistaken for dates).
 create or replace temp view col_headers as
-with numeric_rows as (
-    select doc, page, table_idx, engine, min(row_idx) as first_num
+with nr as (
+    select doc, page, table_idx, engine, min(row_idx) as fn
     from cells where is_numeric group by 1,2,3,4
+),
+nrcol as (
+    select doc, page, table_idx, engine, col_idx, min(row_idx) as fn
+    from cells where is_numeric group by 1,2,3,4,5
+),
+ht_all as (
+    select c.doc, c.page, c.table_idx, c.engine, c.col_idx,
+           string_agg(trim(c.value), ' ') as header
+    from cells c join nr n
+      on n.doc=c.doc and n.page=c.page and n.table_idx=c.table_idx and n.engine=c.engine
+    where not c.is_numeric and c.row_idx < n.fn
+      and c.value is not null and length(trim(c.value)) between 1 and 40
+    group by 1,2,3,4,5
+),
+hc_col as (
+    select c.doc, c.page, c.table_idx, c.engine, c.col_idx,
+           string_agg(trim(c.value), ' ') as header
+    from cells c join nrcol n
+      on n.doc=c.doc and n.page=c.page and n.table_idx=c.table_idx and n.engine=c.engine
+     and n.col_idx=c.col_idx
+    where not c.is_numeric and c.row_idx < n.fn
+      and c.value is not null and length(trim(c.value)) between 1 and 40
+    group by 1,2,3,4,5
 )
-select c.doc, c.page, c.table_idx, c.engine, c.col_idx,
-       string_agg(trim(c.value), ' ') as header
-from cells c
-join numeric_rows n
-  on n.doc=c.doc and n.page=c.page and n.table_idx=c.table_idx and n.engine=c.engine
-where not c.is_numeric and c.row_idx < n.first_num
-  and c.value is not null and length(trim(c.value)) between 1 and 40
-group by 1,2,3,4,5
+select coalesce(hc.doc, ht.doc)             as doc,
+       coalesce(hc.page, ht.page)           as page,
+       coalesce(hc.table_idx, ht.table_idx) as table_idx,
+       coalesce(hc.engine, ht.engine)       as engine,
+       coalesce(hc.col_idx, ht.col_idx)     as col_idx,
+       case when regexp_matches(lower(coalesce(nullif(hc.header,''), ht.header, '')),
+                                '^(week|wk)\s*[0-9]{1,2}$|^[0-9]{1,2}\s*[-/. ]\s*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?$|^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*[-/. ]?\s*[0-9]{1,4}$|^[0-9]{1,2}/[0-9]{1,2}(/[0-9]{2,4})?$') then ''
+            else coalesce(nullif(hc.header,''), ht.header, '') end as header
+from hc_col hc
+full join ht_all ht
+  on ht.doc=hc.doc and ht.page=hc.page and ht.table_idx=hc.table_idx
+ and ht.engine=hc.engine and ht.col_idx=hc.col_idx
 """
 
 # block_no separates repeated (entity, measurement) column pairs inside one table
