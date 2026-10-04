@@ -129,14 +129,18 @@ jobs:
 
           if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "core" ] || [ "$SOURCE" = "baltic" ]; then
             run_by_year "scripts/baltic_scraper.py" "" "true"
+            python scripts/extract/publishers/run_baltic.py || true
           fi
 
           if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "extended" ] || [ "$SOURCE" = "breakwave_insights" ]; then
             run_by_year "scripts/breakwave_insights_scraper.py" "" "true"
+            python scripts/extract/publishers/run_breakwave_insights.py "$YEAR" || true
           fi
 
           if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "extended" ] || [ "$SOURCE" = "hellenic" ]; then
             run_by_year "scripts/hellenic_scraper.py" "--category $HELLENIC_CATEGORY" "true"
+            python scripts/extract/publishers/run_hellenic_demolition.py || true
+            python scripts/extract/publishers/run_hellenic_alibra_tc.py || true
           fi
 
       - name: Guardrail - verify Breakwave scrape freshness
@@ -184,6 +188,7 @@ jobs:
           git config user.name "report-bot"
           git config user.email "bot@shipping"
           git add -f reports/
+          git add corpus/03-breakwave/insights/ corpus/08-baltic/ corpus/02-hellenic/ || true
           if git diff --staged --quiet; then
             echo "No report changes to commit."
             exit 0

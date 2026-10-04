@@ -47,10 +47,11 @@ jobs:
       - name: Download & Localize Chart Images
         run: |
           python scripts/scrapers/download_signal_images.py
+          python scripts/extract/publishers/run_signal.py || true
 
       - name: Commit & Push New Signal Intelligence
         run: |
-          git add corpus/07-signal/
+          git add corpus/07-signal/ data/extracted/md/signal/ data/extracted/series/signal_*.csv || true
           if git diff --staged --quiet; then
             echo "No new Signal Ocean reports or chart images to commit."
           else

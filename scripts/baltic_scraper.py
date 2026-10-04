@@ -71,6 +71,8 @@ from bs4 import BeautifulSoup
 
 from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
+    CORPUS_ROOT,
+    REPO_ROOT,
     REPORTS_ROOT,
     asset_kind,
     clean_node_text,
@@ -89,7 +91,8 @@ from source_archive_utils_v2 import (
 
 BASE_URL    = "https://www.balticexchange.com"
 LISTING_URL = "https://www.balticexchange.com/en/data-services/WeeklyRoundup.html"
-OUTPUT_ROOT = REPORTS_ROOT / "baltic"
+OUTPUT_ROOT = CORPUS_ROOT / "08-baltic"
+LEGACY_OUTPUT_ROOT = REPORTS_ROOT / "baltic"
 TAB_DIRECT_URLS = {
     "dry":       LISTING_URL,  # dry is default tab; hash fragment breaks it,
     "tanker":    LISTING_URL + "#tanker",

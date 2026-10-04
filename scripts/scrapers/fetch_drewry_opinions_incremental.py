@@ -28,7 +28,8 @@ import requests
 from bs4 import BeautifulSoup
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-OPINIONS_DIR = REPO_ROOT / "reports" / "drewry" / "opinions"
+OPINIONS_DIR = REPO_ROOT / "corpus" / "06-drewry" / "opinions"
+LEGACY_OPINIONS_DIR = REPO_ROOT / "reports" / "drewry" / "opinions"
 MANIFEST_PATH = OPINIONS_DIR / "_manifest.csv"
 CHECKPOINT_PATH = REPO_ROOT / "data" / "derived" / "drewry_opinions_checkpoint.json"
 
@@ -71,15 +72,22 @@ def scrape_with_monid(url):
 def load_known_slugs():
     """Load existing article slugs from disk and manifest."""
     slugs = set()
-    if OPINIONS_DIR.exists():
-        for p in OPINIONS_DIR.glob("*.md"):
-            slugs.add(p.stem)
-    if MANIFEST_PATH.exists():
-        with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                if row.get("slug"):
-                    slugs.add(row["slug"])
+    for d in (OPINIONS_DIR, LEGACY_OPINIONS_DIR):
+        if d.exists():
+            for p in d.rglob("*.md"):
+                if p.name.startswith("_"):
+                    continue
+                slugs.add(p.stem)
+                clean_stem = re.sub(r"^\d{4}-\d{2}-\d{2}[_-]", "", p.stem)
+                slugs.add(clean_stem)
+    for mp in (MANIFEST_PATH, LEGACY_OPINIONS_DIR / "_manifest.csv"):
+        if mp.exists():
+            with open(mp, "r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if row.get("slug"):
+                        slugs.add(row["slug"])
+                        slugs.add(re.sub(r"^\d{4}-\d{2}-\d{2}[_-]", "", row["slug"]))
     return slugs
 
 
@@ -295,6 +303,11 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
         time.sleep(REQUEST_DELAY)
 
     print(f"Completed incremental ingest: {saved_count} new article(s) saved.", flush=True)
+    if saved_count > 0:
+        try:
+            subprocess.run([sys.executable, str(REPO_ROOT / "scripts" / "extract" / "publishers" / "run_drewry_opinions.py")], check=False)
+        except Exception as exc:
+            print(f"[WARN] Could not run run_drewry_opinions.py: {exc}", flush=True)
 
 
 def main():

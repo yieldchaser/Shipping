@@ -19,7 +19,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any, Optional, Tuple, List
 
-BASE_DIR = Path(r"c:\Users\Dell\Github\Shipping").resolve()
+BASE_DIR = Path(__file__).resolve().parents[2]
 DERIVED_CSV = BASE_DIR / "data" / "derived" / "fearnleys_broker_comments.csv"
 VOICE_CORPUS_ROOT = BASE_DIR / "corpus" / "01-brokers" / "fearnleys" / "voice"
 

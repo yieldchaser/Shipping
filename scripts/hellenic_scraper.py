@@ -26,6 +26,8 @@ from bs4 import BeautifulSoup
 
 from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
+    CORPUS_ROOT,
+    REPO_ROOT,
     REPORTS_ROOT,
     asset_kind,
     clean_node_text,
@@ -48,7 +50,8 @@ from source_archive_utils_v2 import (
 
 
 BASE_URL = "https://www.hellenicshippingnews.com"
-OUTPUT_ROOT = REPORTS_ROOT / "hellenic"
+OUTPUT_ROOT = CORPUS_ROOT / "02-hellenic"
+LEGACY_OUTPUT_ROOT = REPORTS_ROOT / "hellenic"
 
 CATEGORIES = {
     "dry_charter": (

@@ -39,7 +39,7 @@ HEADERS = {
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DERIVED_DIR = os.path.join(BASE_DIR, "data", "derived")
-REPORTS_DIR = os.path.join(BASE_DIR, "reports", "fearnleys")
+REPORTS_DIR = os.path.join(BASE_DIR, "corpus", "01-brokers", "fearnleys-md")
 DATA_REPORTS_DIR = os.path.join(BASE_DIR, "data", "reports", "fearnleys")
 
 FIXTURES_CSV = os.path.join(DERIVED_DIR, "fearnleys_fixtures_full.csv")

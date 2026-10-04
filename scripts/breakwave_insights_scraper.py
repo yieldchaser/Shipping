@@ -14,7 +14,9 @@ Output:
 from __future__ import annotations
 
 import argparse
+import os
 import re
+import sys
 import time
 from datetime import datetime
 from pathlib import Path
@@ -25,6 +27,8 @@ from bs4 import BeautifulSoup
 
 from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
+    CORPUS_ROOT,
+    REPO_ROOT,
     REPORTS_ROOT,
     asset_kind,
     clean_node_text,
@@ -49,7 +53,9 @@ from source_archive_utils_v2 import (
 
 BASE_URL = "https://www.breakwaveadvisors.com"
 START_URL = f"{BASE_URL}/insights"
-OUTPUT_ROOT = REPORTS_ROOT / "breakwave"
+CORPUS_BREAKWAVE = CORPUS_ROOT / "03-breakwave" / "insights"
+OUTPUT_ROOT = CORPUS_BREAKWAVE
+LEGACY_OUTPUT_ROOT = REPORTS_ROOT / "breakwave"
 
 HEADERS = {
     "User-Agent": (
@@ -177,12 +183,15 @@ def get_older_posts_url(page_soup: BeautifulSoup) -> str | None:
     return None
 
 
-def collect_all_article_urls(year_filter: int | None = None) -> list[str]:
+def collect_all_article_urls(year_filter: int | None = None, max_pages: int | None = 5) -> list[str]:
     all_links: set[str] = set()
     page_url = START_URL
     page_num = 1
 
     while page_url:
+        if max_pages and page_num > max_pages:
+            print(f"  Reached max listing pages limit ({max_pages}); stopping pagination")
+            break
         print(f"  Listing page {page_num}: {page_url[-80:]}")
         page_soup = soup(page_url)
         if page_soup is None:
@@ -520,6 +529,22 @@ def build_html(info: dict, dest_html: Path) -> str:
     )
 
 
+_EXISTING_SLUGS_CACHE = None
+
+def get_existing_slugs() -> dict[str, Path]:
+    global _EXISTING_SLUGS_CACHE
+    if _EXISTING_SLUGS_CACHE is None:
+        _EXISTING_SLUGS_CACHE = {}
+        if OUTPUT_ROOT.exists():
+            for p in OUTPUT_ROOT.rglob("*.html"):
+                if p.stat().st_size > 500:
+                    parts = p.name.split("_", 1)
+                    slug_part = parts[1].replace(".html", "") if len(parts) > 1 else parts[0].replace(".html", "")
+                    _EXISTING_SLUGS_CACHE[slug_part] = p
+                    _EXISTING_SLUGS_CACHE[p.stem] = p
+    return _EXISTING_SLUGS_CACHE
+
+
 def make_dest(info: dict, slug: str) -> Path:
     year = info["date_obj"].year if info["date_obj"] else "unknown"
     date_stamp = info["date_obj"].strftime("%Y-%m-%d") if info["date_obj"] else "0000-00-00"
@@ -528,6 +553,13 @@ def make_dest(info: dict, slug: str) -> Path:
 
 def process_article(url: str, dry_run: bool, overwrite: bool) -> bool:
     slug = slugify(url.rstrip("/").split("/")[-1])
+    
+    if not overwrite:
+        cache = get_existing_slugs()
+        if slug in cache:
+            print(f"    skip (cached): {cache[slug].name}")
+            return True
+
     time.sleep(ARTICLE_DELAY)
 
     page_soup = soup(url)
@@ -550,19 +582,38 @@ def process_article(url: str, dry_run: bool, overwrite: bool) -> bool:
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(html_doc, encoding="utf-8", newline="\n")
     print(f"    saved: {dest.name}  ({dest.stat().st_size // 1024} KB)")
+
+    # Dual-write to legacy reports/breakwave for backwards compatibility
+    legacy_dest = LEGACY_OUTPUT_ROOT / str(info["date_obj"].year if info["date_obj"] else "unknown") / dest.name
+    try:
+        legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+        legacy_dest.write_text(html_doc, encoding="utf-8", newline="\n")
+    except Exception:
+        pass
+
+    # Immediately convert HTML to publication-grade Markdown with linked images
+    try:
+        sys.path.insert(0, str(REPO_ROOT / "scripts" / "extract" / "publishers"))
+        import run_breakwave_insights as rbi
+        rbi.process_single_article(str(dest.relative_to(REPO_ROOT)).replace("\\", "/"))
+        print(f"    markdown extracted: {dest.stem}.md")
+    except Exception as e:
+        print(f"    ! failed markdown extraction: {e}")
+
     return True
 
 
-def run(dry_run: bool, year_filter: int | None, overwrite: bool) -> None:
+def run(dry_run: bool, year_filter: int | None, overwrite: bool, max_pages: int | None = 5) -> None:
     print("\n" + "=" * 64)
     print("  Breakwave Advisors Insights Scraper")
-    print(f"  Mode  : {'DRY RUN' if dry_run else 'DOWNLOAD'}")
+    print(f"  Mode      : {'DRY RUN' if dry_run else 'DOWNLOAD'}")
     if year_filter:
-        print(f"  Year  : {year_filter}")
+        print(f"  Year      : {year_filter}")
+    print(f"  Max Pages : {max_pages if max_pages else 'ALL'}")
     print("=" * 64 + "\n")
 
     print("  Collecting article URLs...\n")
-    urls = collect_all_article_urls(year_filter)
+    urls = collect_all_article_urls(year_filter, max_pages=max_pages)
     print(f"\n  {len(urls)} articles to process\n")
     print("-" * 64)
 
@@ -578,14 +629,25 @@ def run(dry_run: bool, year_filter: int | None, overwrite: bool) -> None:
     print(f"  DONE  ok={ok}  failed={fail}")
     print("=" * 64 + "\n")
 
+    if not dry_run:
+        try:
+            sys.path.insert(0, str(REPO_ROOT / "scripts" / "extract" / "publishers"))
+            import run_breakwave_insights as rbi
+            print("\n  Updating master Breakwave metadata catalog...")
+            rbi.run_pipeline([str(year_filter)] if year_filter else None)
+        except Exception as e:
+            print(f"  ! failed updating metadata catalog: {e}")
+
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Breakwave Advisors Insights Scraper")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--year", type=int, default=None)
     parser.add_argument("--overwrite", action="store_true")
+    parser.add_argument("--max-pages", type=int, default=5, help="Max listing pages to check (default 5, 0 for all)")
     args = parser.parse_args()
-    run(args.dry_run, args.year, args.overwrite)
+    max_pages = None if args.max_pages <= 0 else args.max_pages
+    run(args.dry_run, args.year, args.overwrite, max_pages=max_pages)
 
 
 if __name__ == "__main__":

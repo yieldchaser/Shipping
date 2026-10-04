@@ -26,7 +26,7 @@ import urllib.parse
 from pathlib import Path
 from typing import Dict, List, Any, Optional, Tuple
 
-ROOT = Path(r"c:\Users\Dell\Github\Shipping")
+ROOT = Path(__file__).resolve().parents[3]
 CATALOG_PATH = ROOT / "data" / "reports" / "fearnleys_reports_catalog.json"
 FMD_DIR = ROOT / "corpus" / "01-brokers" / "fearnleys-md"
 IMG_BASE_DIR = FMD_DIR / "images"

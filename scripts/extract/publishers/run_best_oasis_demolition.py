@@ -33,7 +33,7 @@ from typing import Dict, List, Any, Optional, Tuple
 import pymupdf as fitz
 
 
-REPO_ROOT = Path("c:/Users/Dell/Github/Shipping")
+REPO_ROOT = Path(__file__).resolve().parents[3]
 SOURCE_DIR = REPO_ROOT / "corpus/02-hellenic/demolition/pdfs/best_oasis"
 MD_BASE_DIR = REPO_ROOT / "data/extracted/md/hellenic/demolition/best_oasis"
 SERIES_DIR = REPO_ROOT / "data/extracted/series"

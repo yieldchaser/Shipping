@@ -33,7 +33,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf pillow
+        run: pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf pillow llama-parse
 
       - name: Configure Git identity
         run: |
@@ -44,15 +44,18 @@ jobs:
         run: git pull origin main --rebase || true
 
       - name: Scrape Multi-Broker Reports
+        env:
+          LLAMA_CLOUD_API_KEY: ${{ secrets.LLAMA_CLOUD_API_KEY }}
         run: |
           PAGES="${{ github.event.inputs.pages || '5' }}"
           python scripts/scrapers/fetch_hsn_shipbrokers.py "$PAGES"
-          python scripts/update_intermodal_tc_rates.py
+          python scripts/update_intermodal_tc_rates.py || true
           python scripts/scrapers/fetch_gibson_weekly.py || true
           python scripts/fearnleys/build_tanker_routes_daily.py --build --verify || true
           python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
           python scripts/extract/orchestrate_incremental_ingest.py || true
+          python scripts/extract/verify_broker_md_quality_gate.py || true
           python scripts/sync_extraction_register.py || true
 
       - name: Commit & Push New Broker Reports
