@@ -1,3 +1,43 @@
+**THIS RUN (2026-10-06 01:0x, source-by-source, 30m job) - THE 1393 LINKED-ASSET BLOCKER ROOT-CAUSED AND MEASURED; it is 95% HELLENIC (not breakwave), and a repoint resolves 1328 of it. Evidence `docs/linked_asset_mirror_verdict.md`.**
+
+Nothing of ours is extracting (all broker sources CLOSED - re-measured: xclusiv 271/271, intermodal 257/257, banchero 249, agora 219/219, carriers 137, ism 115, lion 48, advanced_shipping 255/255, star_asia 201 PDFs / 200 md where the 1 "gap" is the SAME W40 doc under the date-prefixed name `star_asia_05_10_2026_...week_40.md`). Branch `main`, local HEAD == origin/main == 7d55cb08b.
+
+**1. CI state (prior run's NEXT-RUN item 1).** Newest `Process Knowledge Base` run is **37349481980** (17:34Z, headSha 636eca503, failure). `1c942986f` is 00:36 IST = **19:06Z**, AFTER that run; **no P-KB run has been dispatched for it** - the carried fixes have not been through CI since. The books fix `3fbc82f99` is **still NOT on main** (only on `auto/extract-fixes-2026-10-06-books-section-count`).
+
+**2. The 1393 (prior run's item 2) - EXACT reproduction.** Ran the validator's OWN `validate_linked_asset_coverage()` on the local manifest (10,202 rows): **1393**, byte-matching CI. Composition: **hellenic demolition 671 + iron_ore 650 = 1,321 (95%)**, breakwave 2023-24 35+17, 2020-22 10, 2025 10 = 72. (The prior entry said the class was breakwave-dominated - it is hellenic-dominated.)
+
+**3. Root cause = moved-path reference.** Every unresolved row is html whose `href="../pdfs/<name>.pdf"` resolves to `reports/<src>/<cat>/pdfs/<name>.pdf`, which a migration MOVED to `corpus/<NN-src>/<cat>/pdfs/`. The asset exists there (verified isfile). `reports/hellenic/<cat>/pdfs/` retains only recent (365 tracked); `git ls-files reports/breakwave/pdfs` = 0 (those assets live ONLY in the `.claude`/`.kilo` worktree checkouts). 0 of 1,387 basenames are absent repo-wide.
+
+**4. Decisive experiment.** Remapping only the html rows' `source_path` to the corpus location (where the pdfs are siblings) drops unresolved **1393 -> 72** (hellenic) -> **65** (hellenic+breakwave). The corpus html's `../pdfs/` ref resolves (isfile True). So 1328/1393 (95.3%) is pure path-reference drift.
+
+**5. Why the prune fix did not already help.** `iter_source_files()` discovers hellenic/breakwave html from `REPORTS_ROOT` (line 1411+); so `prune_superseded_mirror_rows` keeps the `reports/` rows and drops the `corpus/` rows - i.e. it keeps the side whose asset refs no longer resolve.
+
+**6. NOT FIXED (honest).** Read-only run (one new doc). Fix is co-owned with the parallel automation's de-mirroring and touches served html: options (A) repoint the `../pdfs/` hrefs to the corpus sibling, (C) make discovery prefer the corpus html for linked-asset sources - either needs a validator before/after control. Residual 65 breakwave assets are un-mirrored (worktrees only). Books fix still needs merging to `main`.
+
+---
+
+**THIS RUN (2026-10-06 00:2x, source-by-source, 30m job) - THE TWO CARRIED KNOWLEDGE-PIPELINE FIXES ARE CONFIRMED WORKING IN CI; the CI validate blocker is now down to 3 small SPECIFIC classes; the 7-book frontmatter class FIXED and pushed on a side branch.**
+
+No extraction job of ours is live (tasklist python.exe = Hermes gateway/litellm, all <60MB). Branch **main**, tree clean except `scripts/acquire/register_windows_task.ps1` (not ours; the parallel committer is "Prateek", last commit 1c942986f, 00:36 IST).
+
+**1. THE NIGHTLY HAS NOT RUN YET; the informative run is the PUSH-triggered `Process Knowledge Base` on 636eca503 (run 37349481980, 17:34Z) - and it PROVES the carried fixes landed and WORK.** Diff vs the 1290-dup baseline, from the run's OWN diagnostic artifact (`knowledge_validator.log`, downloaded to `scratch/ci_diag_37349481980/`):
+- Duplicate doc ids **1290 -> 0**; Duplicate tree node ids **3337 -> 0**; Duplicate section-index node ids **2047 -> 0**; Duplicate source paths 0.
+- Coverage: **Processed 8965 == Files 8965, Missing 0** (was processed 10147 > files 8962, missing -1185).
+- Chunks with invalid section refs **28731 -> 8** (all `hellenic_demolition ...gms_week_36_strikes_return_freight_soars_007..014`).
+- Source hash mismatches 0, missing sources 0, malformed lines 0.
+So `prune_superseded_mirror_rows`/`dedupe_manifest_rows_by_doc_id` + the retargeted tree/chunk build did exactly what the two prior runs measured offline. Step 11 still EXIT 1 only on the residue below.
+
+**2. RESIDUAL validate blockers (measured, 3 classes):**
+  a. **Unresolved required local linked assets: 1393** (Linked assets failed 1310). These are HTML docs in sources {baltic, breakwave_insights, hellenic} (8644 html rows in the manifest, 5686 with mirrored>0 => enforced) whose `<a>/<img>` refs under `/pdfs/ /assets/ /files/ /attachments/` do not resolve on disk. Inspected: breakwave article HTMLs link `../pdfs/<name>.pdf` but `reports/breakwave/pdfs/` holds **0 PDFs** (3213 breakwave HTMLs, 72 required refs, 72 missing; only 13 of the sampled missing basenames exist under `corpus/03-breakwave/insights/pdfs/`). This is the skill's "moved-path reference" class - mirroring writes to `corpus/03-breakwave/insights/pdfs/` while the HTML's relative link expects `reports/breakwave/pdfs/`. **NOT yet fixed; needs the mirror path reconciled (or the validator's required-marker resolution repointed).**
+  b. **Chunks with invalid section refs: 8** (hellenic_demolition week-36). LOCAL reproduction at HEAD (`inspect_trees`+`inspect_chunks` over the 3214 hellenic manifest rows) returns **0** - the week-36 tree DOES contain `__s02_linked_asset_...pdf` and `__s03_linked_asset_...jpg`, and all 14 chunks' `section_id`s match. So this class is likely ALREADY resolved at HEAD (1c942986f); confirm on the next CI run.
+  c. **Frontmatter section-count mismatches: 7** - all hand-curated reference books (`knowledge/docs/books/{lesson_2_types_of_ships, lloyds_maritime_atlas_24th_edition, predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid, shipping_business_unwrapped_duru_okan_z_library, the_international_handbook_of_shipping_finance_..., the_sea_and_civilization_..., the_shipping_man_...}.md`). Their frontmatter is hand-written (title/author/... , no `doc_id`, no `section_count`) while `process_knowledge.prepare_document_structure()` writes `section_count` for pipeline docs (the other 5 books have it). **FIXED this run**: added `section_count` = the count of level!=0 nodes in each book's own tree (19/71/5/31/143/80/2), verified parses. Committed on `auto/extract-fixes-2026-10-06-books-section-count` (3fbc82f99) and pushed - NOT on main (respecting "never touch main"; the repo convention is auto/extract-fixes-* -> main merge).
+
+**3. HONEST LIMITS.** The books fix is 7 lines and cannot regress extraction; it needs merging to main to reach CI. The 8-invalid-ref class is verified 0 locally but not yet confirmed in CI. The 1393 linked-asset class is characterised but UNFIXED (largest remaining).
+
+**NEXT RUN:** (1) check whether a CI `Process Knowledge Base` ran for 1c942986f (or the 18:44Z nightly) and whether step 11 now lists only the linked-assets class; (2) if so, the linked-asset mirror path is the last blocker - measure how many of the 1393 targets exist under `corpus/03-breakwave/insights/pdfs/` vs genuinely absent before changing anything; (3) merge or re-apply the books fix if 3fbc82f99 was not picked up.
+
+---
+
 **THIS RUN (2026-10-05 23:3x, source-by-source, 30m job) - EXTRACTION PROGRAMME RE-VERIFIED: NOTHING LEFT TO EXTRACT; the last two CI blockers are now COMMITTED in HEAD (will be exercised by tonight's scheduled run). Evidence appended to `docs/xclusiv_verdict.md`.**
 
 No extraction job of ours running (live python.exe = Hermes gateway + litellm + code_review_graph). Branch **`main`**, local HEAD == origin/main == **636eca503** ("fix(pipeline): year-segregate Signal Ocean MDs ... ingest 2026-10-05 reports", 17:34 UTC) - the parallel automation advanced main during the last run. Tree clean except 2 files it touched (`clean_all_brokers_formatting.py`, `run_smm_iron_ore_daily.py`) - NOT ours.
