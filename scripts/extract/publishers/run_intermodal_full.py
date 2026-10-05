@@ -50,16 +50,22 @@ import pymupdf
 from bs4 import BeautifulSoup
 from llama_parse import LlamaParse
 
+ROOT = pathlib.Path(__file__).resolve().parents[3]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from scripts.extract.llama_manager import manager
+
 # ---------------------------------------------------------------------------
 # Credentials and Configuration
 # ---------------------------------------------------------------------------
-DEFAULT_API_KEY = "llx-p1IAIhBMQdXo21E9Wz2jgW6hoTPJ8Xs2VvxJMd7S7b8aXYUR"
-API_KEY = os.environ.get("LLAMA_CLOUD_API_KEY", DEFAULT_API_KEY)
-if API_KEY == "llx-hM8tERqfFZk1JGzLdPcuSgcaBctblBqm76nIieMxIx6AnAgB":
-    API_KEY = DEFAULT_API_KEY
+DEFAULT_API_KEY = "llx-fG69hL0uyEZJeLOYK2PtCey3yHuZPrM6qhIWTPVqmbJtBh1T"
+try:
+    API_KEY = manager.get_current_key()
+except Exception:
+    API_KEY = os.environ.get("LLAMA_CLOUD_API_KEY", DEFAULT_API_KEY)
 os.environ["LLAMA_CLOUD_API_KEY"] = API_KEY
 
-ROOT = pathlib.Path(__file__).resolve().parents[3]
 PUB = "intermodal"
 CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
 OUT_FULL_DIR = ROOT / "data" / "extracted" / "llamaparse_intermodal_full"
@@ -1165,27 +1171,43 @@ def process_single_pdf(
         if quota_exceeded_event.is_set():
             raise RuntimeError("LlamaParse quota exceeded. Processing halted for key rotation.")
 
-        try:
-            parser = LlamaParse(
-                api_key=API_KEY,
-                result_type="markdown",
-                tier=tier,
-                version="latest",
-                verbose=False
-            )
-            docs = parser.load_data(str(pdf_path))
-            pages_count = len(docs)
-            full_text = "\n\n--- PAGE BREAK ---\n\n".join(d.text for d in docs)
-            if not full_text.strip():
-                raise RuntimeError(f"LlamaParse returned empty result for {pdf_path.name}")
-            OUT_FULL_DIR.mkdir(parents=True, exist_ok=True)
-            out_md.write_text(full_text, encoding="utf-8")
-        except Exception as e:
-            err_str = str(e).lower()
-            if any(x in err_str for x in ["quota", "limit", "429", "payment", "credits"]):
-                quota_exceeded_event.set()
-                print(f"\n[ALERT] Quota limit encountered on {pdf_path.name}: {e}")
-            raise e
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                curr_key = manager.get_current_key()
+            except Exception:
+                curr_key = API_KEY
+            try:
+                parser = LlamaParse(
+                    api_key=curr_key,
+                    result_type="markdown",
+                    tier=tier,
+                    version="latest",
+                    verbose=False
+                )
+                docs = parser.load_data(str(pdf_path))
+                pages_count = len(docs)
+                full_text = "\n\n--- PAGE BREAK ---\n\n".join(d.text for d in docs)
+                if not full_text.strip():
+                    raise RuntimeError(f"LlamaParse returned empty result for {pdf_path.name}")
+                OUT_FULL_DIR.mkdir(parents=True, exist_ok=True)
+                out_md.write_text(full_text, encoding="utf-8")
+                try:
+                    manager.record_success(pages_count, used_key=curr_key)
+                except Exception:
+                    pass
+                break
+            except Exception as e:
+                err_str = str(e).lower()
+                if any(x in err_str for x in ["quota", "limit", "429", "402", "payment", "credits", "exceeded"]):
+                    try:
+                        new_key = manager.mark_key_exhausted(reason=str(e), failed_key=curr_key)
+                        print(f"\n[ROTATE] Key exhausted on {pdf_path.name}; rotated to {new_key[:12]}...")
+                        continue
+                    except RuntimeError:
+                        quota_exceeded_event.set()
+                        print(f"\n[ALERT] All LlamaParse keys exhausted on {pdf_path.name}: {e}")
+                raise e
 
     # 2. Extract tables across all pages
     parsed = parse_all_intermodal_tables(full_text, issue_date, wk, pdf_path.name)

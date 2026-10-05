@@ -1,12 +1,13 @@
 ---
-title: "Shipping Business Unwrapped"
-author: "Okan Duru"
-publisher: "Routledge"
-year: 2018
-isbn: "978-1-138-04336-7"
+author: Okan Duru
+category: Shipping Management / Maritime Economics
+isbn: 978-1-138-04336-7
 pages: 141
-source: "corpus/books/shipping_business_unwrapped_duru_okan_z_library.md"
-category: "Shipping Management / Maritime Economics"
+publisher: Routledge
+section_count: 31
+source: corpus/books/shipping_business_unwrapped_duru_okan_z_library.md
+title: Shipping Business Unwrapped
+year: 2018
 ---
 
 # Shipping Business Unwrapped

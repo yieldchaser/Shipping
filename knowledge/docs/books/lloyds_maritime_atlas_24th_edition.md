@@ -1,14 +1,15 @@
 ---
-title: "Lloyd's Maritime Atlas of World Ports and Shipping Places"
-edition: "24th Edition"
-author: "Lloyd's Marine Intelligence Unit"
-publisher: "Informa UK Ltd."
-year: 2007
-isbn: "978-1-84311-660-8"
+author: Lloyd's Marine Intelligence Unit
+category: Maritime Cartography / Port Directory / Geographical Index
+edition: 24th Edition
+isbn: 978-1-84311-660-8
 pages: 184
-source: "corpus/books/lloyds_maritime_atlas_24th_edition.md"
-raw_pdf: "corpus/books/Lloyds_Maritime_Atlas_24th_Edition.pdf"
-category: "Maritime Cartography / Port Directory / Geographical Index"
+publisher: Informa UK Ltd.
+raw_pdf: corpus/books/Lloyds_Maritime_Atlas_24th_Edition.pdf
+section_count: 71
+source: corpus/books/lloyds_maritime_atlas_24th_edition.md
+title: Lloyd's Maritime Atlas of World Ports and Shipping Places
+year: 2007
 ---
 
 # Lloyd's Maritime Atlas of World Ports and Shipping Places (24th Edition)

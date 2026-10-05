@@ -1,12 +1,13 @@
 ---
-title: "The Shipping Man"
-author: "Matthew McCleery"
-publisher: "Marine Money, Inc."
-year: 2011
-isbn: "978-0-9847144-0-7"
+author: Matthew McCleery
+category: Maritime Finance / Industry Narrative
+isbn: 978-0-9847144-0-7
 pages: 288
-source: "corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md"
-category: "Maritime Finance / Industry Narrative"
+publisher: Marine Money, Inc.
+section_count: 2
+source: corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md
+title: The Shipping Man
+year: 2011
 ---
 
 # The Shipping Man

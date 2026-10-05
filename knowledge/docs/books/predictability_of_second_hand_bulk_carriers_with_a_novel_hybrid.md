@@ -1,29 +1,30 @@
 ---
-title: "Predictability of Second-Hand Bulk Carriers with a Novel Hybrid Algorithm"
-author: "Okan Duru, Emrah Gulay, Sinem Celik Girgin"
-journal: "The Asian Journal of Shipping and Logistics"
-year: 2021
-accepted_date: "2021-07-21"
-pages: 10
-source: "corpus/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md"
-raw_pdf: "corpus/books/Predictability of second-hand bulk carriers with a novel hybrid.pdf"
-category: "Maritime Economics / Econometric Forecasting / Asset Play / Machine Learning"
-vessel_classes:
-  - capesize
-  - panamax
-  - handymax
-  - supramax
-  - handysize
+accepted_date: '2021-07-21'
+author: Okan Duru, Emrah Gulay, Sinem Celik Girgin
+category: Maritime Economics / Econometric Forecasting / Asset Play / Machine Learning
+journal: The Asian Journal of Shipping and Logistics
 models_evaluated:
-  - ARDL
-  - EMD
-  - ANN
-  - ARIMA
-  - Holt-Winters
-  - ETS
-  - TBATS
-  - regARIMA
-  - VAR
+- ARDL
+- EMD
+- ANN
+- ARIMA
+- Holt-Winters
+- ETS
+- TBATS
+- regARIMA
+- VAR
+pages: 10
+raw_pdf: corpus/books/Predictability of second-hand bulk carriers with a novel hybrid.pdf
+section_count: 5
+source: corpus/books/predictability_of_second_hand_bulk_carriers_with_a_novel_hybrid.md
+title: Predictability of Second-Hand Bulk Carriers with a Novel Hybrid Algorithm
+vessel_classes:
+- capesize
+- panamax
+- handymax
+- supramax
+- handysize
+year: 2021
 ---
 
 # Predictability of Second-Hand Bulk Carriers with a Novel Hybrid Algorithm

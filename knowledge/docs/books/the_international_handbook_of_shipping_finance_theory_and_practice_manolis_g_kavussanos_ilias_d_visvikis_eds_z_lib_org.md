@@ -1,16 +1,17 @@
 ---
-title: "The International Handbook of Shipping Finance: Theory and Practice"
 authors:
-  - "Manolis G. Kavussanos"
-  - "Ilias D. Visvikis"
-editors: "Manolis G. Kavussanos and Ilias D. Visvikis"
-publisher: "Palgrave Macmillan"
-year: 2016
-isbn: "978-1-137-46545-0"
-doi: "10.1057/978-1-137-46546-7"
+- Manolis G. Kavussanos
+- Ilias D. Visvikis
+category: Shipping Finance / Theory & Practice
+doi: 10.1057/978-1-137-46546-7
+editors: Manolis G. Kavussanos and Ilias D. Visvikis
+isbn: 978-1-137-46545-0
 pages: 440
-source: "corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md"
-category: "Shipping Finance / Theory & Practice"
+publisher: Palgrave Macmillan
+section_count: 143
+source: corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md
+title: 'The International Handbook of Shipping Finance: Theory and Practice'
+year: 2016
 ---
 
 # The International Handbook of Shipping Finance: Theory and Practice

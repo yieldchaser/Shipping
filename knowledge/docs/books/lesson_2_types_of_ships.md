@@ -1,26 +1,27 @@
 ---
-title: "Types of Ships: Educational Guide to Ship Categories and Maritime Careers"
-author: "NAMEPA (North American Marine Environment Protection Association)"
-publisher: "NAMEPA Education Project"
-year: 2016
+author: NAMEPA (North American Marine Environment Protection Association)
+category: Vessel Classification / Maritime Careers / Industry Education
 pages: 39
-source: "corpus/books/lesson_2_types_of_ships.md"
-raw_pdf: "corpus/books/Lesson-2-Types-of-Ships.pdf"
-category: "Vessel Classification / Maritime Careers / Industry Education"
+publisher: NAMEPA Education Project
+raw_pdf: corpus/books/Lesson-2-Types-of-Ships.pdf
+section_count: 19
+source: corpus/books/lesson_2_types_of_ships.md
+title: 'Types of Ships: Educational Guide to Ship Categories and Maritime Careers'
 vessel_classes:
-  - general_cargo
-  - specialized_heavy_lift
-  - container
-  - roro
-  - dry_bulk
-  - crude_tanker
-  - product_tanker
-  - lng
-  - lpg
-  - passenger
-  - offshore_supply
-  - service_vessels
-  - tugs
+- general_cargo
+- specialized_heavy_lift
+- container
+- roro
+- dry_bulk
+- crude_tanker
+- product_tanker
+- lng
+- lpg
+- passenger
+- offshore_supply
+- service_vessels
+- tugs
+year: 2016
 ---
 
 # Types of Ships: Educational Guide to Ship Categories and Maritime Careers

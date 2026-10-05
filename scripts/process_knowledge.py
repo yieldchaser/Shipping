@@ -2126,16 +2126,32 @@ def resolve_archive_link_path(html_path: Path, href: str) -> Path | None:
         return None
 
     try:
-        candidate.relative_to(REPO_ROOT_RESOLVED)
+        rel = candidate.relative_to(REPO_ROOT_RESOLVED).as_posix()
     except ValueError:
         return None
 
     try:
-        if not candidate.exists() or not candidate.is_file():
-            return None
+        if candidate.exists() and candidate.is_file():
+            return candidate
+        mappings = (
+            ("reports/breakwave/", "corpus/03-breakwave/insights/"),
+            ("reports/baltic/", "corpus/08-baltic/"),
+            ("reports/hellenic/", "corpus/02-hellenic/"),
+        )
+        for prefix, replacement in mappings:
+            if rel.startswith(prefix):
+                alt = REPO_ROOT / (replacement + rel[len(prefix):])
+                if alt.exists() and alt.is_file():
+                    return alt
+                fname = candidate.name
+                yr = fname[:4]
+                if yr.isdigit():
+                    alt2 = REPO_ROOT / replacement / yr / candidate.parent.name / fname
+                    if alt2.exists() and alt2.is_file():
+                        return alt2
+        return None
     except OSError:
         return None
-    return candidate
 
 
 def extract_linked_pdf_ocr_text(pdf_path: Path) -> str:
@@ -4609,6 +4625,8 @@ def main():
             try:
                 existing_metadata = existing_metadata_cache.get(source_rel) or existing_metadata_index.get(source_rel) or {}
                 adapted = adapt_source_file(source, category, path, llm_enabled, existing_metadata=existing_metadata)
+                if existing_row and existing_row.get("chunk_file") and existing_row.get("doc_id"):
+                    rewrite_chunk_file(REPO_ROOT / existing_row["chunk_file"], {existing_row["doc_id"]})
                 metadata, _, manifest_row = process_file(path, adapted, source_hash_value=current_hash)
                 processed_index[source_rel] = manifest_row
                 processed_count += 1

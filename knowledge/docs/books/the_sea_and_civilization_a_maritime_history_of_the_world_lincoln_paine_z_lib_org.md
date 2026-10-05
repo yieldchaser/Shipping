@@ -1,12 +1,13 @@
 ---
-title: "The Sea and Civilization: A Maritime History of the World"
-author: "Lincoln Paine"
-publisher: "Alfred A. Knopf"
-year: 2013
-isbn: "978-1-4000-4409-2"
+author: Lincoln Paine
+category: Maritime History / Global Commerce
+isbn: 978-1-4000-4409-2
 pages: 744
-source: "corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md"
-category: "Maritime History / Global Commerce"
+publisher: Alfred A. Knopf
+section_count: 80
+source: corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md
+title: 'The Sea and Civilization: A Maritime History of the World'
+year: 2013
 ---
 
 # The Sea and Civilization: A Maritime History of the World
@@ -17459,4 +17460,3 @@ For more information, please visit www.aaknopf.com
 25. A huge catch aboard a trawler in the Gulf of Alaska. Judging from the two members of the crew seen toward the bow, the bulging trawl net is at least ten feet across. This picture illustrates the strain that modern industrial fishing with its sophisticated electronic tracking devices, mechanical efficiency, and phenomenally strong gear like nylon netting has put on fish stocks worldwide. Photograph by the Alaska Fisheries Science Center, Marine Observer Program; courtesy of the National Oceanic and Atmospheric Administration, Washington, D.C.
 
 26. The Nimitz-class aircraft carrier USS Dwight D. Eisenhower being replenished by the fleet oiler USNS Big Horn. The Eisenhower is nuclear-powered and the hoses leading from the Big Horn supply jet fuel for the carrier's air wing, while helicopters transship dry goods, including mail for the crew. The U.S. Navy has long been in the vanguard of underway replenishment, which is essential to long-distance overseas operations such as those shown here in the Arabian Sea. Photograph by Darien G. Kennedy; courtesy of the U.S. Navy.
-

@@ -127,6 +127,15 @@ def get_api_key():
     k = os.environ.get('LLAMA_CLOUD_API_KEY', '').strip()
     if k:
         return k, 'environment'
+    try:
+        if str(ROOT) not in sys.path:
+            sys.path.insert(0, str(ROOT))
+        from scripts.extract.llama_manager import manager as _llama_mgr
+        mk = _llama_mgr.get_current_key()
+        if mk:
+            return mk, 'llama_manager'
+    except Exception:
+        pass
     for p in _hermes_env_paths():
         try:
             if not p.exists():
