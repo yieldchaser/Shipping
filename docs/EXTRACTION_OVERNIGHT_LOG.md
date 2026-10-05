@@ -3233,3 +3233,107 @@ branch so the fix applies to future extractions; main untouched, not pushed).
    data/extracted/corpus --rebuild` + series rebuild).
 3. Hellenic chunk-shard shortfall (17,338 chunks, all hellenic) with the
    corrected remediation note in `text_audit_recheck.json`.
+
+## 2026-10-06 00:55 IST (2026-10-05 19:25 UTC) - deep review
+
+Verdict: **HEALTHY** (no defect found; nothing changed; no re-run, no code edit).
+
+### Run state and honest liveness
+
+`verify_extraction.py` (same flags as the runbook): `done 880 / planned 882`,
+`ok 876`, `error 3`, `no-extractable-content 1`, `checkpoint_rows 7816` all
+unique, `crash_recovered_docs 249`, `golden 15/15`, `db 189481 tables /
+6726703 cells`, `disk_free_gb 16.4`, `actions: []`. `state_age_min 19775` is the
+known COMPLETE-not-dead case (the queue came from the 2026-09-21 inventory;
+0 documents remained). The batch itself finished 2026-09-22; no `run_batch` /
+`batch_worker` is alive, so there is nothing to supervise.
+
+Liveness checked honestly, not assumed. `Win32_Process` lists 7 `python.exe`,
+none of them extraction: `code_review_graph serve` (17108), two `hermes_cli
+gateway run` (21004/19268), two `litellm` proxy workers (13204/22588),
+`scripts/acquire/run_master_pipeline.py` (11716, the acquisition pipeline, not
+this job's), and `-m http.server 8765` (23604, the preview pane). Nothing killed.
+
+### Measurements taken this run
+
+`table_shape_report.py --json`: 192,555 table records -> `grid 140,489`,
+`onecol 22,854`, `empty 14,552`, `single_cell 7,761`, `blob 6,899`; noise share
+15.2%. This is the honest denominator; the checkpoint `tables` count (which
+`verify_extraction` reports as `quality_median_tables 37`) overstates real
+schema because it counts the onecol/blob records too - already documented, not
+re-opened.
+
+`golden_matrix.py` still reproduces the committed `golden_matrix.json`:
+star_asia plumber-text 15/15, pymupdf-text 15/15, camelot-stream 13/15;
+ssy_atlantic camelot 14/14; breakwave plumber-text 6/6; tabula-stream 13/14 SSY
+(JRE present). No regression.
+
+The 2026-10-05 `harvest_images` de-dup fix is present in the working tree
+(`extract_all.py` lines 411-448): `(xref, bbox)` repeats on a page are skipped,
+so `charts/meta.jsonl` no longer gains identical twin rows on new documents.
+Documented drewry LR2 W33 xref census (page1 3 entries/2 unique, page5 7/2)
+matches the fix's rationale.
+
+### Documents opened (content, not counts)
+
+* `shipbrokers/star_asia_2022_W29_Market-report-Week-29` - text.jsonl reads as
+  the report body ("Europe raises rates for the first time in 11 years...");
+  camelot page-0 record is the masthead/lede prose grid (a `blob`/`onecol`
+  class record, correctly classified as noise by the shape report, not a table).
+* `shipbrokers/xclusiv_2026_xclusiv-2026_08_03` - page 0 block text is the
+  "Crude Trade's Great Rebalancing" essay; `pages.jsonl` carries
+  `values_only_in_text: ["03","2026","36,203","20,0000","95,000","115,000"]`
+  on p2, i.e. the reconciliation residual is populated and plausible.
+* `shipbrokers/carriers_2026_W26_WK-26-26-CARRIERS_SP-MARKET-REPORT` - used for
+  the reproduction below.
+* `hellenic/2014-03-28_worldwidetraffic` - a bespoke-runner output
+  (`meta.json`/`images.jsonl` + `{"idx","kind","text"}` text schema, empty
+  tables.jsonl). Different producer, by design; not an extract_all defect.
+
+### Candidate defect investigated and DELIBERATELY NOT changed
+
+`extract_all.text_values_not_in_tables()` compares a text number against the
+concatenated table blob with a **substring** test (`n.casefold() not in blob`),
+unlike its sibling `cell_confirmed()`, which was moved to exact-token
+membership (2026-09-23). I reproduced the difference on
+`carriers_2026_W26` (page text via pymupdf, stored tables.jsonl for the same
+pages): old (substring) yields 20 orphan tokens, token-membership yields 35,
+i.e. 15 text values are currently masked - including `'7.50'` on page 0, which
+the file's own docstring cites as the NJORD sale price that is in no cell.
+
+This is **not** a new defect: the 2026-09-23 entry on this same file records it
+as a measured decision - "measured on the same 2,566 pages, token membership
+adds 2,286 short (<=3 digit) tokens to the orphan lists for only +52 long
+values, i.e. it floods the diagnostic with page-number noise... it stays
+conservative". Re-measuring confirms the conservative direction: this run's new
+tokens are `['7','80','30','210','1','7.50']` (short page/list numbers plus one
+real price), consistent with the prior finding. The decision stands; no change.
+
+### Other smells checked and cleared
+
+* 966 doc dirs hold no `text.jsonl` and no `tables.jsonl`. 821 of the 3038
+  `corpus/baltic/*` dirs contain only `meta.json` with
+  `{"junk": true, "reason": "bot-wall asset placeholder"}` - the strategy doc's
+  "skip 820 bot-wall assets/" population; benign by construction.
+* `garbled_blocks > 0` on only 2 of 7816 checkpoint rows (169 blocks total:
+  fearnleys 2018 W29 = 159, poten 2011 = 10).
+* inventory drift 383 PDFs on disk absent from the 2026-09-21 inventory (was
+  380, 338, 274...; growing). Informational per the runbook - the bespoke
+  runners read the corpus directly; not an action.
+
+### Deliberately NOT changed (unchanged this run)
+
+The orphan-detector substring test (above); the 24,689 all-zero dhash rows in
+charts/meta.jsonl; the derived `corpus/db`; and every already-extracted
+`pages.jsonl` in `data/extracted/corpus/**`. No file under `data/extracted/`
+was written. `data/extracted/scratch_review` scratch dir deleted at the end of the run.
+
+### Inherited, still pending human decision (unchanged)
+
+1. Inventory drift (now 383) - re-run `build_inventory.py` only if the
+   `extract_all` tree is wanted current.
+2. DB/series rebuild so the parser fixes since 2026-09-21 reach the derived
+   layer: `python scripts/extract/build_table_db.py --out data/extracted/corpus
+   --rebuild` then the series build + QA.
+3. Hellenic chunk-shard shortfall (all hellenic) with the corrected
+   remediation note in `text_audit_recheck.json`.
