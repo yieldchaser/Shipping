@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-05T12:07:15Z",
+    "generated_at": "2026-10-05T13:32:33Z",
     "as_of": "2026-10-05",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-10-05T12:07:15Z",
+      "generated_at": "2026-10-05T13:32:33Z",
       "as_of": "2026-10-05",
       "total_datasets": 17,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -159,9 +159,9 @@
         "source_url": "https://www.bps.go.id/",
         "span": "2018\u20132026",
         "min_date": "2018-01",
-        "max_date": "2026-07",
-        "as_of": "2026-07",
-        "row_count": 103,
+        "max_date": "2026-08",
+        "as_of": "2026-08",
+        "row_count": 104,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
       },
@@ -227,10 +227,10 @@
         "min_date": "2024-01",
         "max_date": "2026-09",
         "as_of": "2026-09",
-        "row_count": 558597,
-        "total_fixtures": 558597,
-        "classified_fixtures": 420014,
-        "unclassified_fixtures": 138583,
+        "row_count": 558625,
+        "total_fixtures": 558625,
+        "classified_fixtures": 420030,
+        "unclassified_fixtures": 138595,
         "unclassified_pct": 24.81,
         "fixtures_with_parsed_qty": 27461,
         "parsed_qty_pct": 4.92,
@@ -257,9 +257,9 @@
   "commodity_flow_matrix": {
     "metadata": {
       "source": "Fearnleys Fixtures Ledger (data/derived/fearnleys_fixtures_full.csv)",
-      "total_fixtures": 558597,
-      "classified_fixtures": 420014,
-      "unclassified_fixtures": 138583,
+      "total_fixtures": 558625,
+      "classified_fixtures": 420030,
+      "unclassified_fixtures": 138595,
       "unclassified_pct": 24.81,
       "fixtures_with_parsed_qty": 27461,
       "parsed_qty_pct": 4.92,
@@ -309,7 +309,7 @@
         "2023": 6998,
         "2024": 19052,
         "2025": 287334,
-        "2026": 214986
+        "2026": 215014
       },
       "recent_months": [
         "2024-01",
@@ -351,15 +351,15 @@
     "groups": {
       "Unclassified": {
         "group": "Unclassified",
-        "fixture_count": 138583,
+        "fixture_count": 138595,
         "parsed_qty_count": 2645,
         "parsed_qty_pct": 1.91,
-        "coverage_label": "2,645 / 138,583 fixtures (1.91% volume coverage)",
+        "coverage_label": "2,645 / 138,595 fixtures (1.91% volume coverage)",
         "total_qty_mt": 125479554.0,
         "top_commodities": [
           {
             "name": "Unclassified / General Fixture",
-            "count": 138583
+            "count": 138595
           }
         ],
         "top_trade_lanes": [
@@ -668,19 +668,19 @@
       },
       "General & Breakbulk": {
         "group": "General & Breakbulk",
-        "fixture_count": 71930,
+        "fixture_count": 71933,
         "parsed_qty_count": 4321,
         "parsed_qty_pct": 6.01,
-        "coverage_label": "4,321 / 71,930 fixtures (6.01% volume coverage)",
+        "coverage_label": "4,321 / 71,933 fixtures (6.01% volume coverage)",
         "total_qty_mt": 214755268.0,
         "top_commodities": [
           {
             "name": "Bulk Unspecified",
-            "count": 48428
+            "count": 48430
           },
           {
             "name": "General Cargo / Breakbulk",
-            "count": 22630
+            "count": 22631
           },
           {
             "name": "Vehicles / Ro-Ro Cargo",
@@ -763,10 +763,10 @@
       },
       "Other Classified Cargo": {
         "group": "Other Classified Cargo",
-        "fixture_count": 56981,
+        "fixture_count": 56983,
         "parsed_qty_count": 2294,
         "parsed_qty_pct": 4.03,
-        "coverage_label": "2,294 / 56,981 fixtures (4.03% volume coverage)",
+        "coverage_label": "2,294 / 56,983 fixtures (4.03% volume coverage)",
         "total_qty_mt": 129623014.6,
         "top_commodities": [
           {
@@ -878,19 +878,19 @@
       },
       "Energy": {
         "group": "Energy",
-        "fixture_count": 30525,
+        "fixture_count": 30534,
         "parsed_qty_count": 641,
         "parsed_qty_pct": 2.1,
-        "coverage_label": "641 / 30,525 fixtures (2.1% volume coverage)",
+        "coverage_label": "641 / 30,534 fixtures (2.1% volume coverage)",
         "total_qty_mt": 34827573.9,
         "top_commodities": [
           {
             "name": "Coal",
-            "count": 26074
+            "count": 26082
           },
           {
             "name": "Petcoke",
-            "count": 2887
+            "count": 2888
           },
           {
             "name": "Coke",
@@ -1088,15 +1088,15 @@
       },
       "Minerals and Metals": {
         "group": "Minerals and Metals",
-        "fixture_count": 19395,
+        "fixture_count": 19396,
         "parsed_qty_count": 1478,
         "parsed_qty_pct": 7.62,
-        "coverage_label": "1,478 / 19,395 fixtures (7.62% volume coverage)",
+        "coverage_label": "1,478 / 19,396 fixtures (7.62% volume coverage)",
         "total_qty_mt": 45090551.3,
         "top_commodities": [
           {
             "name": "Steel Products",
-            "count": 16531
+            "count": 16532
           },
           {
             "name": "Scrap Metal",
@@ -1187,10 +1187,10 @@
       },
       "Cement and Other Solids": {
         "group": "Cement and Other Solids",
-        "fixture_count": 8843,
+        "fixture_count": 8844,
         "parsed_qty_count": 158,
         "parsed_qty_pct": 1.79,
-        "coverage_label": "158 / 8,843 fixtures (1.79% volume coverage)",
+        "coverage_label": "158 / 8,844 fixtures (1.79% volume coverage)",
         "total_qty_mt": 7309119.5,
         "top_commodities": [
           {
@@ -1203,7 +1203,7 @@
           },
           {
             "name": "Slag",
-            "count": 1631
+            "count": 1632
           }
         ],
         "top_trade_lanes": [
@@ -1472,15 +1472,15 @@
         "canonical": "Unclassified / General Fixture",
         "group": "Unclassified",
         "subgroup": "Unclassified / General Fixture",
-        "fixture_count": 138583,
+        "fixture_count": 138595,
         "parsed_qty_count": 2645,
         "parsed_qty_pct": 1.91,
-        "coverage_label": "2,645 / 138,583 fixtures (1.91% volume coverage)",
+        "coverage_label": "2,645 / 138,595 fixtures (1.91% volume coverage)",
         "total_qty_mt": 125479554.0,
         "avg_cargo_size_mt": 47440.3,
         "periods": {
           "all_time": {
-            "fixtures": 138583,
+            "fixtures": 138595,
             "qty_mt": 125479554.0
           },
           "last_12m": {
@@ -1501,19 +1501,19 @@
         },
         "vessel_breakdown": {
           "Capesize": {
-            "fixtures": 9606,
+            "fixtures": 9608,
             "qty_mt": 5376048.7
           },
           "Supramax": {
-            "fixtures": 34834,
+            "fixtures": 34836,
             "qty_mt": 23885779.8
           },
           "Panamax": {
-            "fixtures": 49773,
+            "fixtures": 49775,
             "qty_mt": 25162863.5
           },
           "Handysize": {
-            "fixtures": 44337,
+            "fixtures": 44343,
             "qty_mt": 71054862.0
           },
           "Lme": {
@@ -1565,19 +1565,19 @@
         "top_vessel_classes": [
           {
             "class": "Panamax",
-            "count": 49773
+            "count": 49775
           },
           {
             "class": "Handysize",
-            "count": 44337
+            "count": 44343
           },
           {
             "class": "Supramax",
-            "count": 34834
+            "count": 34836
           },
           {
             "class": "Capesize",
-            "count": 9606
+            "count": 9608
           }
         ],
         "recent_monthly_fixtures": [
@@ -1768,15 +1768,15 @@
         "canonical": "Bulk Unspecified",
         "group": "General & Breakbulk",
         "subgroup": "Dry Bulk",
-        "fixture_count": 48428,
+        "fixture_count": 48430,
         "parsed_qty_count": 2899,
         "parsed_qty_pct": 5.99,
-        "coverage_label": "2,899 / 48,428 fixtures (5.99% volume coverage)",
+        "coverage_label": "2,899 / 48,430 fixtures (5.99% volume coverage)",
         "total_qty_mt": 129193815.6,
         "avg_cargo_size_mt": 44565.0,
         "periods": {
           "all_time": {
-            "fixtures": 48428,
+            "fixtures": 48430,
             "qty_mt": 129193815.6
           },
           "last_12m": {
@@ -1809,7 +1809,7 @@
             "qty_mt": 30821928.7
           },
           "Handysize": {
-            "fixtures": 13778,
+            "fixtures": 13780,
             "qty_mt": 52368606.9
           },
           "Tankers & Gas": {
@@ -1869,7 +1869,7 @@
           },
           {
             "class": "Handysize",
-            "count": 13778
+            "count": 13780
           },
           {
             "class": "Capesize",
@@ -2212,15 +2212,15 @@
         "canonical": "Coal",
         "group": "Energy",
         "subgroup": "Coal",
-        "fixture_count": 26074,
+        "fixture_count": 26082,
         "parsed_qty_count": 493,
         "parsed_qty_pct": 1.89,
-        "coverage_label": "493 / 26,074 fixtures (1.89% volume coverage)",
+        "coverage_label": "493 / 26,082 fixtures (1.89% volume coverage)",
         "total_qty_mt": 24516538.5,
         "avg_cargo_size_mt": 49729.3,
         "periods": {
           "all_time": {
-            "fixtures": 26074,
+            "fixtures": 26082,
             "qty_mt": 24516538.5
           },
           "last_12m": {
@@ -2241,11 +2241,11 @@
         },
         "vessel_breakdown": {
           "Panamax": {
-            "fixtures": 22266,
+            "fixtures": 22269,
             "qty_mt": 17560794.5
           },
           "Supramax": {
-            "fixtures": 2753,
+            "fixtures": 2758,
             "qty_mt": 4502729.6
           },
           "Capesize": {
@@ -2305,11 +2305,11 @@
         "top_vessel_classes": [
           {
             "class": "Panamax",
-            "count": 22266
+            "count": 22269
           },
           {
             "class": "Supramax",
-            "count": 2753
+            "count": 2758
           },
           {
             "class": "Capesize",
@@ -2360,15 +2360,15 @@
         "canonical": "General Cargo / Breakbulk",
         "group": "General & Breakbulk",
         "subgroup": "General Cargo",
-        "fixture_count": 22630,
+        "fixture_count": 22631,
         "parsed_qty_count": 1422,
         "parsed_qty_pct": 6.28,
-        "coverage_label": "1,422 / 22,630 fixtures (6.28% volume coverage)",
+        "coverage_label": "1,422 / 22,631 fixtures (6.28% volume coverage)",
         "total_qty_mt": 85561452.4,
         "avg_cargo_size_mt": 60169.8,
         "periods": {
           "all_time": {
-            "fixtures": 22630,
+            "fixtures": 22631,
             "qty_mt": 85561452.4
           },
           "last_12m": {
@@ -2397,7 +2397,7 @@
             "qty_mt": 67698453.1
           },
           "Panamax": {
-            "fixtures": 9067,
+            "fixtures": 9068,
             "qty_mt": 8215811.1
           },
           "Capesize": {
@@ -2450,7 +2450,7 @@
           },
           {
             "class": "Panamax",
-            "count": 9067
+            "count": 9068
           },
           {
             "class": "Supramax",
@@ -2501,15 +2501,15 @@
         "canonical": "Steel Products",
         "group": "Minerals and Metals",
         "subgroup": "Steel",
-        "fixture_count": 16531,
+        "fixture_count": 16532,
         "parsed_qty_count": 1380,
         "parsed_qty_pct": 8.35,
-        "coverage_label": "1,380 / 16,531 fixtures (8.35% volume coverage)",
+        "coverage_label": "1,380 / 16,532 fixtures (8.35% volume coverage)",
         "total_qty_mt": 42453074.1,
         "avg_cargo_size_mt": 30763.1,
         "periods": {
           "all_time": {
-            "fixtures": 16531,
+            "fixtures": 16532,
             "qty_mt": 42453074.1
           },
           "last_12m": {
@@ -2542,7 +2542,7 @@
             "qty_mt": 0.0
           },
           "Panamax": {
-            "fixtures": 10502,
+            "fixtures": 10503,
             "qty_mt": 7779156.0
           },
           "Tankers & Gas": {
@@ -2594,7 +2594,7 @@
         "top_vessel_classes": [
           {
             "class": "Panamax",
-            "count": 10502
+            "count": 10503
           },
           {
             "class": "Supramax",
@@ -4162,15 +4162,15 @@
         "canonical": "Petcoke",
         "group": "Energy",
         "subgroup": "Other Energy",
-        "fixture_count": 2887,
+        "fixture_count": 2888,
         "parsed_qty_count": 94,
-        "parsed_qty_pct": 3.26,
-        "coverage_label": "94 / 2,887 fixtures (3.26% volume coverage)",
+        "parsed_qty_pct": 3.25,
+        "coverage_label": "94 / 2,888 fixtures (3.25% volume coverage)",
         "total_qty_mt": 3126248.1,
         "avg_cargo_size_mt": 33258.0,
         "periods": {
           "all_time": {
-            "fixtures": 2887,
+            "fixtures": 2888,
             "qty_mt": 3126248.1
           },
           "last_12m": {
@@ -4195,7 +4195,7 @@
             "qty_mt": 1467785.4
           },
           "Panamax": {
-            "fixtures": 1877,
+            "fixtures": 1878,
             "qty_mt": 586246.0
           },
           "Handysize": {
@@ -4251,7 +4251,7 @@
         "top_vessel_classes": [
           {
             "class": "Panamax",
-            "count": 1877
+            "count": 1878
           },
           {
             "class": "Handysize",
@@ -5393,15 +5393,15 @@
         "canonical": "Slag",
         "group": "Cement and Other Solids",
         "subgroup": "Cement and Aggregates",
-        "fixture_count": 1631,
+        "fixture_count": 1632,
         "parsed_qty_count": 14,
         "parsed_qty_pct": 0.86,
-        "coverage_label": "14 / 1,631 fixtures (0.86% volume coverage)",
+        "coverage_label": "14 / 1,632 fixtures (0.86% volume coverage)",
         "total_qty_mt": 438077.3,
         "avg_cargo_size_mt": 31291.2,
         "periods": {
           "all_time": {
-            "fixtures": 1631,
+            "fixtures": 1632,
             "qty_mt": 438077.3
           },
           "last_12m": {
@@ -5430,7 +5430,7 @@
             "qty_mt": 89326.6
           },
           "Panamax": {
-            "fixtures": 1236,
+            "fixtures": 1237,
             "qty_mt": 95000.0
           },
           "Capesize": {
@@ -5482,7 +5482,7 @@
         "top_vessel_classes": [
           {
             "class": "Panamax",
-            "count": 1236
+            "count": 1237
           },
           {
             "class": "Supramax",
@@ -9029,15 +9029,15 @@
         "canonical": "Granite Blocks",
         "group": "Other Classified Cargo",
         "subgroup": "Specialized / Niche",
-        "fixture_count": 311,
+        "fixture_count": 312,
         "parsed_qty_count": 1,
         "parsed_qty_pct": 0.32,
-        "coverage_label": "1 / 311 fixtures (0.32% volume coverage)",
+        "coverage_label": "1 / 312 fixtures (0.32% volume coverage)",
         "total_qty_mt": 30000.0,
         "avg_cargo_size_mt": 30000.0,
         "periods": {
           "all_time": {
-            "fixtures": 311,
+            "fixtures": 312,
             "qty_mt": 30000.0
           },
           "last_12m": {
@@ -9062,7 +9062,7 @@
             "qty_mt": 0.0
           },
           "Panamax": {
-            "fixtures": 300,
+            "fixtures": 301,
             "qty_mt": 0.0
           },
           "Supramax": {
@@ -9078,7 +9078,7 @@
         "top_vessel_classes": [
           {
             "class": "Panamax",
-            "count": 300
+            "count": 301
           },
           {
             "class": "Supramax",
@@ -35211,6 +35211,86 @@
           0
         ]
       },
+      "Wire Rods": {
+        "canonical": "Wire Rods",
+        "group": "Other Classified Cargo",
+        "subgroup": "Specialized / Niche",
+        "fixture_count": 32,
+        "parsed_qty_count": 0,
+        "parsed_qty_pct": 0.0,
+        "coverage_label": "0 / 32 fixtures (0.0% volume coverage)",
+        "total_qty_mt": 0.0,
+        "avg_cargo_size_mt": null,
+        "periods": {
+          "all_time": {
+            "fixtures": 32,
+            "qty_mt": 0.0
+          },
+          "last_12m": {
+            "fixtures": 31,
+            "qty_mt": 0.0
+          },
+          "last_4w": {
+            "fixtures": 2,
+            "qty_mt": 0.0
+          },
+          "prior_12m": {
+            "fixtures": 0,
+            "qty_mt": 0.0
+          },
+          "yoy_pct": null,
+          "prior_comparable": false,
+          "coverage_affected": true
+        },
+        "vessel_breakdown": {
+          "Panamax": {
+            "fixtures": 32,
+            "qty_mt": 0.0
+          }
+        },
+        "top_trade_lanes": [],
+        "top_vessel_classes": [
+          {
+            "class": "Panamax",
+            "count": 32
+          }
+        ],
+        "recent_monthly_fixtures": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          4,
+          4,
+          0,
+          13,
+          2,
+          1,
+          3,
+          2
+        ]
+      },
       "1,650 MT RGP": {
         "canonical": "1,650 MT RGP",
         "group": "Other Classified Cargo",
@@ -35621,86 +35701,6 @@
           0,
           0,
           0
-        ]
-      },
-      "Wire Rods": {
-        "canonical": "Wire Rods",
-        "group": "Other Classified Cargo",
-        "subgroup": "Specialized / Niche",
-        "fixture_count": 31,
-        "parsed_qty_count": 0,
-        "parsed_qty_pct": 0.0,
-        "coverage_label": "0 / 31 fixtures (0.0% volume coverage)",
-        "total_qty_mt": 0.0,
-        "avg_cargo_size_mt": null,
-        "periods": {
-          "all_time": {
-            "fixtures": 31,
-            "qty_mt": 0.0
-          },
-          "last_12m": {
-            "fixtures": 31,
-            "qty_mt": 0.0
-          },
-          "last_4w": {
-            "fixtures": 2,
-            "qty_mt": 0.0
-          },
-          "prior_12m": {
-            "fixtures": 0,
-            "qty_mt": 0.0
-          },
-          "yoy_pct": null,
-          "prior_comparable": false,
-          "coverage_affected": true
-        },
-        "vessel_breakdown": {
-          "Panamax": {
-            "fixtures": 31,
-            "qty_mt": 0.0
-          }
-        },
-        "top_trade_lanes": [],
-        "top_vessel_classes": [
-          {
-            "class": "Panamax",
-            "count": 31
-          }
-        ],
-        "recent_monthly_fixtures": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          4,
-          4,
-          0,
-          13,
-          2,
-          1,
-          3,
-          2
         ]
       },
       "gas": {
@@ -81783,7 +81783,7 @@
         "group": "Energy",
         "status": "LIVE_NATIONAL",
         "source": "Port of Newcastle Coal Terminal, Australia DISR REQ & Indonesia BPS Coal Series",
-        "fixtures": 26074,
+        "fixtures": 26082,
         "has_national": true
       },
       {
@@ -81807,7 +81807,7 @@
         "group": "Minerals and Metals",
         "status": "LIVE_NATIONAL",
         "source": "World Steel Association & TurkStat General Trade (Scrap)",
-        "fixtures": 17918,
+        "fixtures": 17919,
         "has_national": true
       },
       {
@@ -81823,7 +81823,7 @@
         "group": "Energy",
         "status": "FIXTURE_DERIVED",
         "source": "Fearnleys Fixture Ledger (Broker Reported)",
-        "fixtures": 4451,
+        "fixtures": 4452,
         "has_national": false
       },
       {
@@ -107049,9 +107049,9 @@
       "source_url": "https://www.bps.go.id/",
       "span": "2018\u20132026",
       "min_date": "2018-01",
-      "max_date": "2026-07",
-      "as_of": "2026-07",
-      "row_count": 103,
+      "max_date": "2026-08",
+      "as_of": "2026-08",
+      "row_count": 104,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -107240,7 +107240,7 @@
           40.49,
           40.07,
           38.94,
-          null,
+          36.47,
           null,
           null,
           null,
@@ -107352,7 +107352,8 @@
       "2026-04": 37.33,
       "2026-05": 40.49,
       "2026-06": 40.07,
-      "2026-07": 38.94
+      "2026-07": 38.94,
+      "2026-08": 36.47
     },
     "stacked_groups": {
       "2018-01": {
@@ -108075,11 +108076,18 @@
         "lignite": 9.91,
         "headline_coal": 29.02,
         "total": 38.94
+      },
+      "2026-08": {
+        "bituminous": 4.27,
+        "other_coal": 21.96,
+        "lignite": 10.24,
+        "headline_coal": 26.23,
+        "total": 36.47
       }
     },
-    "latest_volume_mt": 38.94,
-    "latest_date": "2026-07",
-    "yoy_pct": -6.62,
+    "latest_volume_mt": 36.47,
+    "latest_date": "2026-08",
+    "yoy_pct": -25.83,
     "annotations": [
       {
         "date": "2022-01",
@@ -118134,73 +118142,145 @@
           "tonnes_mt": 0.0,
           "share_pct": 0.0
         }
+      ],
+      "2026-08": [
+        {
+          "destination": "China",
+          "tonnes_mt": 14.16,
+          "share_pct": 38.8
+        },
+        {
+          "destination": "India",
+          "tonnes_mt": 6.86,
+          "share_pct": 18.8
+        },
+        {
+          "destination": "Philippines",
+          "tonnes_mt": 3.08,
+          "share_pct": 8.4
+        },
+        {
+          "destination": "Malaysia",
+          "tonnes_mt": 2.45,
+          "share_pct": 6.7
+        },
+        {
+          "destination": "Japan",
+          "tonnes_mt": 2.19,
+          "share_pct": 6.0
+        },
+        {
+          "destination": "Viet Nam",
+          "tonnes_mt": 1.75,
+          "share_pct": 4.8
+        },
+        {
+          "destination": "South Korea",
+          "tonnes_mt": 1.7,
+          "share_pct": 4.7
+        },
+        {
+          "destination": "Bangladesh",
+          "tonnes_mt": 1.66,
+          "share_pct": 4.6
+        },
+        {
+          "destination": "Thailand",
+          "tonnes_mt": 0.95,
+          "share_pct": 2.6
+        },
+        {
+          "destination": "Taiwan",
+          "tonnes_mt": 0.9,
+          "share_pct": 2.5
+        },
+        {
+          "destination": "Hong Kong",
+          "tonnes_mt": 0.42,
+          "share_pct": 1.2
+        },
+        {
+          "destination": "Brunei Darussalam",
+          "tonnes_mt": 0.1,
+          "share_pct": 0.3
+        },
+        {
+          "destination": "Pakistan",
+          "tonnes_mt": 0.1,
+          "share_pct": 0.3
+        },
+        {
+          "destination": "Cambodia",
+          "tonnes_mt": 0.09,
+          "share_pct": 0.2
+        },
+        {
+          "destination": "Singapore",
+          "tonnes_mt": 0.05,
+          "share_pct": 0.1
+        },
+        {
+          "destination": "Australia",
+          "tonnes_mt": 0.0,
+          "share_pct": 0.0
+        }
       ]
     },
     "latest_destinations": [
       {
         "destination": "China",
-        "tonnes_mt": 14.17,
-        "share_pct": 36.4
+        "tonnes_mt": 14.16,
+        "share_pct": 38.8
       },
       {
         "destination": "India",
-        "tonnes_mt": 6.42,
-        "share_pct": 16.5
+        "tonnes_mt": 6.86,
+        "share_pct": 18.8
       },
       {
         "destination": "Philippines",
-        "tonnes_mt": 3.39,
-        "share_pct": 8.7
-      },
-      {
-        "destination": "Viet Nam",
-        "tonnes_mt": 3.09,
-        "share_pct": 7.9
-      },
-      {
-        "destination": "Japan",
-        "tonnes_mt": 2.35,
-        "share_pct": 6.0
+        "tonnes_mt": 3.08,
+        "share_pct": 8.4
       },
       {
         "destination": "Malaysia",
-        "tonnes_mt": 2.32,
+        "tonnes_mt": 2.45,
+        "share_pct": 6.7
+      },
+      {
+        "destination": "Japan",
+        "tonnes_mt": 2.19,
         "share_pct": 6.0
       },
       {
+        "destination": "Viet Nam",
+        "tonnes_mt": 1.75,
+        "share_pct": 4.8
+      },
+      {
         "destination": "South Korea",
-        "tonnes_mt": 1.93,
-        "share_pct": 4.9
+        "tonnes_mt": 1.7,
+        "share_pct": 4.7
       },
       {
         "destination": "Bangladesh",
-        "tonnes_mt": 1.56,
-        "share_pct": 4.0
+        "tonnes_mt": 1.66,
+        "share_pct": 4.6
       },
       {
         "destination": "Thailand",
-        "tonnes_mt": 1.18,
-        "share_pct": 3.0
+        "tonnes_mt": 0.95,
+        "share_pct": 2.6
       },
       {
         "destination": "Taiwan",
-        "tonnes_mt": 1.08,
-        "share_pct": 2.8
+        "tonnes_mt": 0.9,
+        "share_pct": 2.5
       },
       {
         "destination": "Hong Kong",
-        "tonnes_mt": 0.55,
-        "share_pct": 1.4
-      },
-      {
-        "destination": "Cambodia",
-        "tonnes_mt": 0.38,
-        "share_pct": 1.0
-      },
-      {
-        "destination": "Pakistan",
-        "tonnes_mt": 0.26,
-        "share_pct": 0.7
+        "tonnes_mt": 0.42,
+        "share_pct": 1.2
       },
       {
         "destination": "Brunei Darussalam",
@@ -118208,18 +118288,18 @@
         "share_pct": 0.3
       },
       {
-        "destination": "Montenegro",
-        "tonnes_mt": 0.07,
+        "destination": "Pakistan",
+        "tonnes_mt": 0.1,
+        "share_pct": 0.3
+      },
+      {
+        "destination": "Cambodia",
+        "tonnes_mt": 0.09,
         "share_pct": 0.2
       },
       {
         "destination": "Singapore",
         "tonnes_mt": 0.05,
-        "share_pct": 0.1
-      },
-      {
-        "destination": "New Zealand",
-        "tonnes_mt": 0.03,
         "share_pct": 0.1
       },
       {

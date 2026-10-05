@@ -24966,5 +24966,216 @@
         "share_pct": 0.0
       }
     ]
+  },
+  "2026-08-01": {
+    "total_seaborne_mt": 36.47,
+    "headline_coal_mt": 26.23,
+    "bituminous_mt": 4.27,
+    "other_coal_mt": 21.96,
+    "lignite_mt": 10.24,
+    "top_destinations": [
+      {
+        "destination": "China",
+        "tonnes_mt": 14.16,
+        "share_pct": 38.8
+      },
+      {
+        "destination": "India",
+        "tonnes_mt": 6.86,
+        "share_pct": 18.8
+      },
+      {
+        "destination": "Philippines",
+        "tonnes_mt": 3.08,
+        "share_pct": 8.4
+      },
+      {
+        "destination": "Malaysia",
+        "tonnes_mt": 2.45,
+        "share_pct": 6.7
+      },
+      {
+        "destination": "Japan",
+        "tonnes_mt": 2.19,
+        "share_pct": 6.0
+      },
+      {
+        "destination": "Viet Nam",
+        "tonnes_mt": 1.75,
+        "share_pct": 4.8
+      },
+      {
+        "destination": "South Korea",
+        "tonnes_mt": 1.7,
+        "share_pct": 4.7
+      },
+      {
+        "destination": "Bangladesh",
+        "tonnes_mt": 1.66,
+        "share_pct": 4.6
+      },
+      {
+        "destination": "Thailand",
+        "tonnes_mt": 0.95,
+        "share_pct": 2.6
+      },
+      {
+        "destination": "Taiwan",
+        "tonnes_mt": 0.9,
+        "share_pct": 2.5
+      },
+      {
+        "destination": "Hong Kong",
+        "tonnes_mt": 0.42,
+        "share_pct": 1.2
+      },
+      {
+        "destination": "Brunei Darussalam",
+        "tonnes_mt": 0.1,
+        "share_pct": 0.3
+      },
+      {
+        "destination": "Pakistan",
+        "tonnes_mt": 0.1,
+        "share_pct": 0.3
+      },
+      {
+        "destination": "Cambodia",
+        "tonnes_mt": 0.09,
+        "share_pct": 0.2
+      },
+      {
+        "destination": "Singapore",
+        "tonnes_mt": 0.05,
+        "share_pct": 0.1
+      },
+      {
+        "destination": "Australia",
+        "tonnes_mt": 0.0,
+        "share_pct": 0.0
+      }
+    ],
+    "top_ports": [
+      {
+        "port": "Banjarmasin",
+        "tonnes_mt": 5.32,
+        "share_pct": 14.6
+      },
+      {
+        "port": "Satui",
+        "tonnes_mt": 4.45,
+        "share_pct": 12.2
+      },
+      {
+        "port": "Samarinda",
+        "tonnes_mt": 4.31,
+        "share_pct": 11.8
+      },
+      {
+        "port": "Musi River/Boom Baru",
+        "tonnes_mt": 3.93,
+        "share_pct": 10.8
+      },
+      {
+        "port": "Tanjung Bara, Kl",
+        "tonnes_mt": 3.65,
+        "share_pct": 10.0
+      },
+      {
+        "port": "Balikpapan",
+        "tonnes_mt": 2.73,
+        "share_pct": 7.5
+      },
+      {
+        "port": "Kotabaru",
+        "tonnes_mt": 2.49,
+        "share_pct": 6.8
+      },
+      {
+        "port": "Tanjung Redep",
+        "tonnes_mt": 2.14,
+        "share_pct": 5.9
+      },
+      {
+        "port": "Adang Bay",
+        "tonnes_mt": 1.26,
+        "share_pct": 3.5
+      },
+      {
+        "port": "Tarahan",
+        "tonnes_mt": 1.22,
+        "share_pct": 3.3
+      },
+      {
+        "port": "Meulaboh",
+        "tonnes_mt": 1.04,
+        "share_pct": 2.8
+      },
+      {
+        "port": "Sangkulirang",
+        "tonnes_mt": 0.71,
+        "share_pct": 2.0
+      },
+      {
+        "port": "Asam Asam",
+        "tonnes_mt": 0.64,
+        "share_pct": 1.7
+      },
+      {
+        "port": "Lingkas Tarakan",
+        "tonnes_mt": 0.63,
+        "share_pct": 1.7
+      },
+      {
+        "port": "Kaliorang",
+        "tonnes_mt": 0.47,
+        "share_pct": 1.3
+      },
+      {
+        "port": "North Pulau Laut",
+        "tonnes_mt": 0.39,
+        "share_pct": 1.1
+      },
+      {
+        "port": "Bonthan Bay, Sulawesi",
+        "tonnes_mt": 0.35,
+        "share_pct": 1.0
+      },
+      {
+        "port": "Bunyu",
+        "tonnes_mt": 0.23,
+        "share_pct": 0.6
+      },
+      {
+        "port": "Tanjung Selor",
+        "tonnes_mt": 0.2,
+        "share_pct": 0.5
+      },
+      {
+        "port": "Pulau Baai",
+        "tonnes_mt": 0.17,
+        "share_pct": 0.5
+      },
+      {
+        "port": "Muara Sabak",
+        "tonnes_mt": 0.05,
+        "share_pct": 0.1
+      },
+      {
+        "port": "Pulang Pisau",
+        "tonnes_mt": 0.04,
+        "share_pct": 0.1
+      },
+      {
+        "port": "Jambi",
+        "tonnes_mt": 0.03,
+        "share_pct": 0.1
+      },
+      {
+        "port": "Soekarno-Hatta (U)",
+        "tonnes_mt": 0.0,
+        "share_pct": 0.0
+      }
+    ]
   }
 }
