@@ -11,6 +11,7 @@ doi: "10.1057/978-1-137-46546-7"
 pages: 440
 source: "corpus/books/the_international_handbook_of_shipping_finance_theory_and_practice_manolis_g_kavussanos_ilias_d_visvikis_eds_z_lib_org.md"
 category: "Shipping Finance / Theory & Practice"
+section_count: 143
 ---
 
 # The International Handbook of Shipping Finance: Theory and Practice

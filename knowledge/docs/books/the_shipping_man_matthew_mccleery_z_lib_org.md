@@ -7,6 +7,7 @@ isbn: "978-0-9847144-0-7"
 pages: 288
 source: "corpus/books/the_shipping_man_matthew_mccleery_z_lib_org.md"
 category: "Maritime Finance / Industry Narrative"
+section_count: 2
 ---
 
 # The Shipping Man

@@ -21,6 +21,7 @@ vessel_classes:
   - offshore_supply
   - service_vessels
   - tugs
+section_count: 19
 ---
 
 # Types of Ships: Educational Guide to Ship Categories and Maritime Careers

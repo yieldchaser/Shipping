@@ -7,6 +7,7 @@ isbn: "978-1-138-04336-7"
 pages: 141
 source: "corpus/books/shipping_business_unwrapped_duru_okan_z_library.md"
 category: "Shipping Management / Maritime Economics"
+section_count: 31
 ---
 
 # Shipping Business Unwrapped

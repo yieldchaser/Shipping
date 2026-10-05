@@ -7,6 +7,7 @@ isbn: "978-1-4000-4409-2"
 pages: 744
 source: "corpus/books/the_sea_and_civilization_a_maritime_history_of_the_world_lincoln_paine_z_lib_org.md"
 category: "Maritime History / Global Commerce"
+section_count: 80
 ---
 
 # The Sea and Civilization: A Maritime History of the World

@@ -24,6 +24,7 @@ models_evaluated:
   - TBATS
   - regARIMA
   - VAR
+section_count: 5
 ---
 
 # Predictability of Second-Hand Bulk Carriers with a Novel Hybrid Algorithm

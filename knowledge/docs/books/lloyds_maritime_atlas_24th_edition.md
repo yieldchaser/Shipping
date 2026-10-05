@@ -9,6 +9,7 @@ pages: 184
 source: "corpus/books/lloyds_maritime_atlas_24th_edition.md"
 raw_pdf: "corpus/books/Lloyds_Maritime_Atlas_24th_Edition.pdf"
 category: "Maritime Cartography / Port Directory / Geographical Index"
+section_count: 71
 ---
 
 # Lloyd's Maritime Atlas of World Ports and Shipping Places (24th Edition)
