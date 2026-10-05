@@ -7,11 +7,11 @@
 
 ## 1. Executive Summary & Fleet Publication Status
 
-- **Total Raw Corpus Assets Cataloged:** Over 63,972 documents across 31 discrete publishers and categories in `corpus/`.
+- **Total Raw Corpus Assets Cataloged:** Over 63,972 documents across 32 discrete publishers and categories in `corpus/`.
 - **Raw Ingested Formats in Corpus:** 13,440 PDFs, 8,986 HTML files, 23,044 JPG/PNG images, 18,069 Native Markdown files.
 - **Normalized Extracted Markdown Dossiers:** Over 39,912 cover-to-cover Markdown files in `data/extracted/md/` (accompanied by structured `.tables.json` sidecars and 98+ stacked relational CSV series).
 - **Status as of 2026-10-05:**
-  - **Current & Up to Date (<= 7 days ago):** 26 publishers/categories have their latest reports and filings fully digested.
+  - **Current & Up to Date (<= 7 days ago):** 27 publishers/categories have their latest reports and filings fully digested.
   - **Week 40 Comprehensive Ingest:** Clarksons Hellas, Lion Shipbrokers, Agora Shipbroking, Advanced Shipping, Affinity Tankers, GMS Demolition, Best Oasis, Fearnleys Weekly, and Fearnleys Broker Voice (4,742 weekly desk comment files) have been harvested, parsed, and stacked into production series.
   - **Reference Literature:** 12 foundational maritime textbooks and handbooks fully normalized and audited with 100% byte parity in `corpus/books/` and `knowledge/docs/books/`.
   - **Normal Interval / Monthly Reporting Lag:** Seabrokers, PPA, and Drewry AIS operate on 30-to-60 day reporting cycles where August figures are published in late September or early October.
@@ -53,8 +53,8 @@
 | **Signal Ocean (Fleet Telemetry & Monitors)** | Weekly (Friday) & Live Telemetry | `2026-09-24` | 11d | **CURRENT (11d ago)** | 10 PDF, 515 HTML, 1,494 IMG, 451 MD | [`data/extracted/md/signal`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/signal) | Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps) | `signal_reports_metadata.csv (446 rows), data/views/signal/live_fleet_positions.json (9,082 tracked hulls), data/views/signal/port_queues_active.json (1,932 ports)` |
 | **Baltic Exchange Weekly** | Weekly (Friday) | `2026-10-02` | 3d | **CURRENT (3d ago)** | 3,047 HTML, 2,227 MD | [`corpus/08-baltic`](file:///C:/Users/Dell/Github/Shipping/corpus/08-baltic) | No (Detailed fixture narratives and route earnings) | `baltic_reports_metadata.csv (2,227 rows)` |
 | **Pilbara Ports Authority (PPA)** | Monthly (20th of Month) | `2026-09-01` | 34d | **NORMAL INTERVAL (34d ago)** | 518 PDF | [`data/commodities`](file:///C:/Users/Dell/Github/Shipping/data/commodities) | No (Port Hedland & Dampier iron ore export tonnage tables) | `australia_ppa_iron_ore.csv (423 rows)` |
-| **SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)** | Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) | `2026-10-02` | 3d | **CURRENT (3d ago)** | 1,310 MD | [`corpus/10-companies`](file:///C:/Users/Dell/Github/Shipping/corpus/10-companies) | No (Complete tabular statutory financials, fleet lists, debt notes) | `Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories` |
-| **Maritime Reference Literature & Academic Textbooks (12 Books)** | Static Reference Corpus | `2026-10-04` | 0d | **NORMALIZED & INDEXED (12 Books, 24 Assets)** | 12 PDF, 0 HTML, 0 IMG, 12 MD | [`corpus/books`](file:///C:/Users/Dell/Github/Shipping/corpus/books) | Yes (LaTeX math formulas, figures, port facilities) | `Clean Markdown in corpus/books/*.md and knowledge/docs/books/*.md` |
+| **SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)** | Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) | `2026-10-02` | 3d | **CURRENT (3d ago)** | 1,310 MD | [`data/extracted/md/companies`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/companies) | No (Complete tabular statutory financials, fleet lists, debt notes) | `Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories` |
+| **Maritime Reference Literature & Academic Textbooks (12 Books)** | Static Reference Corpus | `2026-10-04` | 1d | **CURRENT (1d ago)** | 12 PDF, 12 MD | [`data/extracted/md/books`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/books) | Yes (LaTeX math formulas, figures, port facilities) | `Clean Markdown in data/extracted/md/books/*.md and knowledge/docs/books/*.md` |
 
 ---
 
@@ -673,12 +673,12 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 
 ### SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)
 - **Corpus Directory (Raw Source):** [`corpus/10-companies`](file:///C:/Users/Dell/Github/Shipping/corpus/10-companies)
-- **Extracted Markdown Path (Normalized Dossiers):** [`corpus/10-companies`](file:///C:/Users/Dell/Github/Shipping/corpus/10-companies)
+- **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/companies`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/companies)
 - **Publication Cadence:** Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) (Expected day: Continuous)
 - **Coverage Span:** `2014-01-01` to `2026-10-02`
 - **Latest Ingested Document:** `SB_6-K_2026-10-02_0001317861-26-000049.md` (Status: **CURRENT (3d ago)**)
 - **Sample Ingested Report (Corpus):** [`VALE_6-K_2026-10-02_0001292814-26-004828.md`](file:///C:/Users/Dell/Github/Shipping/corpus/10-companies/VALE/6-K/VALE_6-K_2026-10-02_0001292814-26-004828.md)
-- **Sample Extracted Markdown (Digest):** [`VALE_6-K_2026-10-02_0001292814-26-004828.md`](file:///C:/Users/Dell/Github/Shipping/corpus/10-companies/VALE/6-K/VALE_6-K_2026-10-02_0001292814-26-004828.md)
+- **Sample Extracted Markdown (Digest):** [`VALE_6-K_2026-10-02_0001292814-26-004828.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/companies/VALE/6-K/VALE_6-K_2026-10-02_0001292814-26-004828.md)
 - **Raw Corpus Inventory:** 1,310 Native Markdown files
 - **Extracted Markdown Dossiers:** 1,310 Markdown files
 - **Chart Extraction:** No (Complete tabular statutory financials, fleet lists, debt notes)
@@ -725,6 +725,22 @@ All corporate filings are organized under `corpus/10-companies/{TICKER}/{FORM}/`
 - **Automated Acquisition & Conversion:** [`scripts/acquire/fetch_sec_filings.py`](file:///C:/Users/Dell/Github/Shipping/scripts/acquire/fetch_sec_filings.py) — autonomous incremental ingestion via `edgartools` + `sec2md` with frontmatter generation.
 - **Markdown Standardization Engine:** [`scripts/acquire/standardize_sec_markdown.py`](file:///C:/Users/Dell/Github/Shipping/scripts/acquire/standardize_sec_markdown.py) — enforces uniform YAML frontmatter, cleans HTML/DOM artifacts, normalizes tables.
 - **Zero-Defect Quality Audit:** [`scripts/acquire/audit_sec_corpus.py`](file:///C:/Users/Dell/Github/Shipping/scripts/acquire/audit_sec_corpus.py) — validates all 1,310 filings for valid YAML frontmatter, minimum byte length, and zero conversion defects.
+
+### Maritime Reference Literature & Academic Textbooks (12 Books)
+- **Corpus Directory (Raw Source):** [`corpus/books`](file:///C:/Users/Dell/Github/Shipping/corpus/books)
+- **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/books`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/books)
+- **Publication Cadence:** Static Reference Corpus (Expected day: Static)
+- **Coverage Span:** `2026-10-04` to `2026-10-04`
+- **Latest Ingested Document:** `Maritime economics 3rd edition.pdf` (Status: **CURRENT (1d ago)**)
+- **Sample Ingested Report (Corpus):** [`The World’s Key Industry History and Economics of International Shipping (G. Harlaftis, S. Tenold, J. Valdaliso) (z-lib.org).pdf`](file:///C:/Users/Dell/Github/Shipping/corpus/books/The World’s Key Industry History and Economics of International Shipping (G. Harlaftis, S. Tenold, J. Valdaliso) (z-lib.org).pdf)
+- **Sample Extracted Markdown (Digest):** [`the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/books/the_world_s_key_industry_history_and_economics_of_international_shipping_g_harlaftis_s_tenold_j_valdaliso_z_lib_org.md)
+- **Raw Corpus Inventory:** 12 PDFs, 12 Native Markdown files
+- **Extracted Markdown Dossiers:** 12 Markdown files
+- **Chart Extraction:** Yes (LaTeX math formulas, figures, port facilities)
+- **Chart Engine / Technique:** Native GFM normalizer + LaTeX math blocks ($$...$$)
+- **Stacked Series CSVs:** Clean Markdown in data/extracted/md/books/*.md and knowledge/docs/books/*.md
+- **Extraction Script:** `normalize_maritime_books.py`
+- **Notes & Rules Applied:** 12 foundational academic textbooks and handbooks fully normalized and audited with 100% byte parity in corpus/books/, data/extracted/md/books/, and knowledge/docs/books/.
 
 ---
 

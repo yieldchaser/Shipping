@@ -40,6 +40,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 CORPUS_DIR = REPO_ROOT / "corpus" / "10-companies"
+EXTRACTED_MD_DIR = REPO_ROOT / "data" / "extracted" / "md" / "companies"
 
 # Target companies in exact order
 TARGET_COMPANIES = [
@@ -337,12 +338,18 @@ def process_filing(
 
     full_markdown = frontmatter + md_content + "\n"
 
-    # Write final markdown file atomically
+    # Write final markdown file atomically to corpus and extracted mirrors
     temp_path = target_path.with_suffix(".tmp")
     try:
         with open(temp_path, "w", encoding="utf-8") as f:
             f.write(full_markdown)
         temp_path.replace(target_path)
+
+        # Dual-save mirror to data/extracted/md/companies/
+        ext_target_path = EXTRACTED_MD_DIR / ticker / form_dir.name / filename
+        ext_target_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(ext_target_path, "w", encoding="utf-8") as f:
+            f.write(full_markdown)
     except Exception as e:
         if temp_path.exists():
             temp_path.unlink()

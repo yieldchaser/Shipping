@@ -750,7 +750,7 @@ REGISTRY_DATA = [
         "category_id": "companies_sec_filings",
         "publisher": "SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)",
         "folder": "corpus/10-companies",
-        "md_dir": "corpus/10-companies",
+        "md_dir": "data/extracted/md/companies",
         "cadence": "Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K)",
         "pub_day": "Continuous",
         "frequency": "Continuous / Periodic",
@@ -769,6 +769,32 @@ REGISTRY_DATA = [
         "series_csvs": "Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories",
         "primary_script": "fetch_sec_filings.py & audit_sec_corpus.py",
         "notes": "100% clean Markdown across 26 tickers (VALE, RIO, BHP, FSUGY, SBLK, GOGL, GNK, SB, DSX, SHIP, CTRM, GLBS, EDRY, FRO, INSW, STNG, DHT, TNK, TRMD, ECO, NAT, TNP, ASC, SFL, NVGS, LPG). Zero conversion artifacts. Standardized YAML frontmatter."
+    },
+
+    # --- Maritime Reference Literature (12 Foundational Books) ---
+    {
+        "category_id": "maritime_books",
+        "publisher": "Maritime Reference Literature & Academic Textbooks (12 Books)",
+        "folder": "corpus/books",
+        "md_dir": "data/extracted/md/books",
+        "cadence": "Static Reference Corpus",
+        "pub_day": "Static",
+        "frequency": "Static / Reference",
+        "earliest_date": "2026-10-04",
+        "latest_date": "2026-10-04",
+        "latest_report": "Maritime economics 3rd edition.pdf",
+        "days_ago": 0,
+        "status": "NORMALIZED & INDEXED (12 Books, 24 Assets)",
+        "pdf_count": 12,
+        "html_count": 0,
+        "image_count": 0,
+        "md_count": 12,
+        "total_files": 24,
+        "charts_extracted": "Yes (LaTeX math formulas, figures, port facilities)",
+        "chart_engine": "Native GFM normalizer + LaTeX math blocks ($$...$$)",
+        "series_csvs": "Clean Markdown in data/extracted/md/books/*.md and knowledge/docs/books/*.md",
+        "primary_script": "normalize_maritime_books.py",
+        "notes": "12 foundational academic textbooks and handbooks fully normalized and audited with 100% byte parity in corpus/books/, data/extracted/md/books/, and knowledge/docs/books/."
     }
 ]
 
@@ -1490,12 +1516,12 @@ def generate_markdown_audit():
     refresh_registry_data(TODAY)
     today_str = TODAY.strftime("%Y-%m-%d")
 
-    total_pdfs = sum(item["pdf_count"] for item in REGISTRY_DATA) + 12
+    total_pdfs = sum(item["pdf_count"] for item in REGISTRY_DATA)
     total_html = sum(item["html_count"] for item in REGISTRY_DATA)
     total_imgs = sum(item["image_count"] for item in REGISTRY_DATA)
-    total_corpus_mds = sum(item.get("corpus_md_count", 0) for item in REGISTRY_DATA) + 12
-    total_extracted_mds = sum(item["md_count"] for item in REGISTRY_DATA) + 12
-    total_assets = sum(item["total_files"] for item in REGISTRY_DATA) + 24
+    total_corpus_mds = sum(item.get("corpus_md_count", 0) for item in REGISTRY_DATA)
+    total_extracted_mds = sum(item["md_count"] for item in REGISTRY_DATA)
+    total_assets = sum(item["total_files"] for item in REGISTRY_DATA)
     current_count = sum(1 for item in REGISTRY_DATA if item["days_ago"] <= 7)
 
     md_lines = [
@@ -1508,7 +1534,7 @@ def generate_markdown_audit():
         "",
         "## 1. Executive Summary & Fleet Publication Status",
         "",
-        f"- **Total Raw Corpus Assets Cataloged:** Over {total_assets:,} documents across 31 discrete publishers and categories in `corpus/`.",
+        f"- **Total Raw Corpus Assets Cataloged:** Over {total_assets:,} documents across {len(REGISTRY_DATA)} discrete publishers and categories in `corpus/`.",
         f"- **Raw Ingested Formats in Corpus:** {total_pdfs:,} PDFs, {total_html:,} HTML files, {total_imgs:,} JPG/PNG images, {total_corpus_mds:,} Native Markdown files.",
         f"- **Normalized Extracted Markdown Dossiers:** Over {total_extracted_mds:,} cover-to-cover Markdown files in `data/extracted/md/` (accompanied by structured `.tables.json` sidecars and 98+ stacked relational CSV series).",
         f"- **Status as of {today_str}:**",
@@ -1542,8 +1568,6 @@ def generate_markdown_audit():
         md_lines.append(
             f"| **{item['publisher']}** | {item['cadence']} | `{item['latest_date']}` | {item['days_ago']}d | **{item['status']}** | {formats_str} | [`{item['md_dir']}`](file:///{str(ROOT / item['md_dir']).replace(chr(92), '/')}) | {item['charts_extracted']} | `{first_csv}` |"
         )
-
-    md_lines.append("| **Maritime Reference Literature & Academic Textbooks (12 Books)** | Static Reference Corpus | `2026-10-04` | 0d | **NORMALIZED & INDEXED (12 Books, 24 Assets)** | 12 PDF, 0 HTML, 0 IMG, 12 MD | [`corpus/books`](file:///C:/Users/Dell/Github/Shipping/corpus/books) | Yes (LaTeX math formulas, figures, port facilities) | `Clean Markdown in corpus/books/*.md and knowledge/docs/books/*.md` |")
 
     md_lines.extend([
         "",
