@@ -333,7 +333,7 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
     # 4. Strip broken image links (no local images exist)
     txt = re.sub(r'!\[.*?\]\([^\)]*img_[^\)]*\)', '', txt)
 
-    # 4. Prune pseudo-tables with empty/blank header cells
+    # 4. Prune pseudo-tables ONLY when header cells are empty/blank (never strip valid named columns with '-' values)
     def _clean_sa_tables(tbl_match):
         block = tbl_match.group(0).strip()
         lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
@@ -343,20 +343,13 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
         empty_hdrs = [c for c in header_cells if not c]
         if empty_hdrs and len(empty_hdrs) >= len(header_cells) // 2:
             return ""
-        row_lines = lines[2:]
-        col_has_val = [False] * len(header_cells)
-        for r in row_lines:
-            cells = [c.strip() for c in r.split('|')[1:-1]]
-            for idx in range(min(len(cells), len(col_has_val))):
-                if cells[idx] and cells[idx] != '-':
-                    col_has_val[idx] = True
-        active_indices = [i for i, has_v in enumerate(col_has_val) if has_v]
-        if not active_indices or len(active_indices) < len(header_cells):
-            new_hdrs = [header_cells[i] for i in active_indices]
-            if not new_hdrs:
+        if empty_hdrs:
+            active_indices = [i for i, h in enumerate(header_cells) if h]
+            if not active_indices:
                 return ""
+            new_hdrs = [header_cells[i] for i in active_indices]
             out_lines = ['| ' + ' | '.join(new_hdrs) + ' |', '| ' + ' | '.join(['---'] * len(new_hdrs)) + ' |']
-            for r in row_lines:
+            for r in lines[2:]:
                 cells = [c.strip() for c in r.split('|')[1:-1]]
                 new_cells = [cells[i] if i < len(cells) else '' for i in active_indices]
                 out_lines.append('| ' + ' | '.join(new_cells) + ' |')
@@ -364,6 +357,29 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
         return block
 
     txt = re.sub(r'(\|(?:[^\n]+\|)+\n\|(?:\s*[-:]+[-| :]*)\|\n(?:\|(?:[^\n]+\|)*(?:\n|$))+)', _clean_sa_tables, txt)
+
+    # 4b. Normalize LiteParse first-line bolding on paragraphs:
+    # Pattern 1: **TIDE DATES 2026 | Chattogram: 09 ~** 12 October -> **TIDE DATES 2026 | Chattogram:** 09 ~ 12 October
+    txt = re.sub(r'\*\*((?:TIDE DATES[^\n:]*|Alang|Chattogram|Gaddani):)\s*([^\n\*]+?)\*\*[ \t]*([^\n]*)', r'**\1** \2 \3', txt)
+
+    # Pattern 2: **Capesize: Capesize softened noticeably...**\n\nballast tonnage... -> **Capesize:** Capesize softened noticeably... ballast tonnage...
+    txt = re.sub(
+        r'\*\*([A-Za-z][A-Za-z0-9\s,/&\-]{1,35}:)\s*([^\n\*]+)\*\*\n+(?=[A-Za-z0-9\(\$"\'])',
+        r'**\1** \2 ',
+        txt
+    )
+    txt = re.sub(
+        r'\*\*([A-Za-z][A-Za-z0-9\s,/&\-]{1,35}:)\s*([^\n\*]+)\*\*',
+        r'**\1** \2',
+        txt
+    )
+
+    # Pattern 3: **Steel rebar futures climbed to roughly...**\n\nAssociation reported... (first line of paragraph bolded by LiteParse without colon)
+    txt = re.sub(
+        r'\*\*([A-Z][^\n\*:]{45,})\*\*\n+(?=[a-z0-9]|Association\b|Factory\b|Meanwhile\b|However\b|Overall\b|Compounding\b|Sellers\b|Tradable\b)',
+        r'\1 ',
+        txt
+    )
 
     # 5. Clean dangling single headers and malformed numbers as headers
     txt = re.sub(r'(?m)^#+\s*[\d,.]+\s*$', '', txt)

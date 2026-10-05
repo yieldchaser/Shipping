@@ -1134,7 +1134,7 @@ def process_single_pdf(
                     "signature": sig.slug,
                     "title": sig.title,
                     "page": pno + 1,
-                    "image_rel": f"../../charts/{pub}/{year_str}/{chart_filename}",
+                    "image_rel": f"../../../charts/{pub}/{year_str}/{chart_filename}",
                     "target_csv": str(sig.target_csv)
                 })
                 page_matched = True
@@ -1153,7 +1153,7 @@ def process_single_pdf(
                 "file": stem,
                 "page": pno + 1,
                 "drawings": num_drawings,
-                "image_rel": f"../../charts/{pub}/{year_str}/{chart_filename}",
+                "image_rel": f"../../../charts/{pub}/{year_str}/{chart_filename}",
                 "text_snippet": text[:200].replace("\n", " ")
             })
 

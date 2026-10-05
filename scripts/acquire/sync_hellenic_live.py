@@ -282,8 +282,12 @@ def sync_html_articles():
             title = p["title"]["rendered"]
             date_iso = p["date"][:10]
             year = date_iso[:4]
+            if not re.match(r"^20\d{2}-\d{2}-\d{2}$", date_iso):
+                continue
             slug = p.get("slug") or re.sub(r'[^a-zA-Z0-9]+', '-', title).strip('-').lower()
             content = p.get("content", {}).get("rendered", "")
+            if len(content.strip()) < 80 or any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can't be reached", "This site can\u2019t be reached")):
+                continue
             
             dest = ROOT / "corpus" / "02-hellenic" / cat_slug / year / f"{date_iso}_{slug}.html"
             if not dest.exists():

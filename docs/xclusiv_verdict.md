@@ -48,3 +48,32 @@ Fewer labels, correct ones. A wrong label is worse than a missing one.
 Verification against a rendered page is what caught the defect. The metric that
 looked healthy (85% labelled) was the metric that was hiding the problem.
 Never accept a coverage percentage without reading examples against the page.
+
+---
+
+## 2026-10-05 RE-VERIFICATION (271/271 now, typed layer confirmed)
+
+The source grew from 266 -> **271 documents** (2026: 45, all other years unchanged).
+**1:1 per year, zero gaps:** 2021:23, 2022:51, 2023:50, 2024:51, 2025:51, 2026:45
+= 271 md against 271 PDFs. 271 .tables.json sidecars.
+
+Verification method: this session has NO vision tool, so the check was done against the
+**PDF's own text layer** (pymupdf get_text), not by eye. PNGs were still rendered for a
+human look (scratch/xclusiv_verify/xclusiv_w39_p1..p3.png, dpi=115).
+
+Spot-check doc: xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026.pdf
+(W39, 9 pages). **15/15 values present VERBATIM in the PDF text, each exactly once:**
+- Baltic indices: BDI 3,426 / BCI 5,784 / BPI 2,407 / BSI 1,786 / BHSI 1,011 / BDTI 5,366 / BCTI 2,160
+- Dry freight: Capesize C5TC 48,954 / Kamsarmax P5TC 21,662 / Ultramax S11TC 22,579 / Supramax S10TC 20,545 / Handysize 18,190
+- Tanker: VLCC 714,143 / Suezmax 299,424 / Aframax 234,370
+
+TYPED LAYER (tables.json) CONFIRMED CONSISTENT with both md and PDF: structured schema
+(`baltic_indices`, `reported_sales`, `newbuilding_orders`, `indicative_*_prices`).
+Sampled row `GCL HAZIRA | Kamsarmax | 81,986 DWT | 2021 | NACKS | GERMANS | 39 | SURVEYS PASSED`
+- all 5 tokens verbatim in the PDF. Baltic typed values match md exactly
+(BDI 3426/3370/1.7%, BCI 5784/5768/0.3%). Counts match frontmatter (sales 20, demo 1,
+NB orders 10, secondhand 32, NB prices 9, demolition 8). So the typed layer is NOT merely
+best-effort on this doc - it reconciles with the page; the .md remains the primary deliverable.
+
+Chart layer present: data/derived/xclusiv_chart_series.csv (937 rows), 8 PNG charts for W39.
+DISPLAY: still KB-only - **0 fetch paths / 0 series refs for xclusiv in index.html**.

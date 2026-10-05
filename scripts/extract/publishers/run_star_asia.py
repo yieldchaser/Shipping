@@ -212,172 +212,218 @@ def drop_prose_rows(tables):
     return [t for t in tables if t["rows"]]
 
 
-def build_star_asia_clean_page(page: pymupdf.Page) -> str:
+def _parse_sp_fixtures_block(sp_text: str, valid_types: list[str]) -> list[str]:
+    """Parse Sale & Purchase reported fixtures table rows cleanly, handling multi-line vessel & buyer names."""
+    sp_lines = [l.strip() for l in sp_text.splitlines() if l.strip()]
+    i = 0
+    while i < len(sp_lines) and not (sp_lines[i].startswith("BUYER") or sp_lines[i].startswith("PRICE")):
+        i += 1
+    if i < len(sp_lines) and sp_lines[i].startswith("PRICE"):
+        i += 1
+        if i < len(sp_lines) and sp_lines[i].startswith("BUYER"):
+            i += 1
+    else:
+        i += 1
+
+    stop_markers = ("snp@starasiasg.com", "Member of BIMCO", "Page ", "Vessel Values", "Baltic ")
+    rows_out: list[str] = []
+
+    def _is_type_token(idx: int) -> tuple[str, int]:
+        if idx >= len(sp_lines):
+            return "", 0
+        tok = sp_lines[idx].upper()
+        if tok == "POST" and idx + 1 < len(sp_lines) and sp_lines[idx + 1].upper() == "PMAX":
+            return "POST PMAX", 2
+        if tok in valid_types:
+            return tok, 1
+        return "", 0
+
+    while i < len(sp_lines):
+        if any(m in sp_lines[i] for m in stop_markers):
+            break
+        v_parts = [sp_lines[i]]
+        i += 1
+        while i < len(sp_lines):
+            if any(m in sp_lines[i] for m in stop_markers):
+                break
+            t_match, _ = _is_type_token(i)
+            if t_match:
+                break
+            v_parts.append(sp_lines[i])
+            i += 1
+        v_name = " ".join(v_parts).strip()
+        v_name = re.sub(r"^BUYER\s+", "", v_name)
+        v_type, consumed = _is_type_token(i)
+        if not v_type:
+            break
+        i += consumed
+
+        v_dwt = ""
+        if i < len(sp_lines) and re.match(r"^[\d,]+(?:\s*/\s*[\d,]+)?$", sp_lines[i]):
+            v_dwt = sp_lines[i]
+            i += 1
+            if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
+                v_dwt = f"{v_dwt} / {sp_lines[i]}"
+                i += 1
+
+        v_built = ""
+        if i < len(sp_lines) and re.search(r"\b(19\d\d|20\d\d)\b", sp_lines[i]):
+            v_built = sp_lines[i]
+            i += 1
+            if i < len(sp_lines) and re.match(r"^/\s*[A-Z]+$", sp_lines[i]):
+                v_built = f"{v_built} {sp_lines[i]}"
+                i += 1
+
+        v_price = ""
+        if i < len(sp_lines) and (re.search(r"\d", sp_lines[i]) or sp_lines[i] in ["-", "N/A", "UNDISCLOSED"]):
+            v_price = sp_lines[i]
+            i += 1
+
+        # Buyer: consume lines until the next vessel row (which is followed within 1-2 lines by a valid_type + DWT)
+        buyer_suffixes = {
+            "BUYER", "BUYERS", "CLIENTS", "HOLDINGS", "HOLDING", "LIMITED", "LTD", "LTD.",
+            "INC", "INC.", "CORP", "CORP.", "CORPORATION", "SHIPPING", "LINES", "LINE",
+            "NAVIGATION", "MARITIME", "GROUP", "COMPANY", "CO", "CO.", "CONTAINER",
+            "LOGISTICS", "INVEST", "INVESTMENT", "INVESTMENTS", "TRANSPORT", "TRADING", "SA", "S.A.", "LLC"
+        }
+        b_parts: list[str] = []
+        while i < len(sp_lines):
+            if any(m in sp_lines[i] for m in stop_markers):
+                break
+            tok_up = sp_lines[i].upper().rstrip(",.")
+            t1, c1 = _is_type_token(i + 1)
+            t2, c2 = _is_type_token(i + 2)
+            # If sp_lines[i+1] is a valid vessel type AND followed by a DWT number, sp_lines[i] is the next vessel
+            if t1 and (i + 1 + c1 < len(sp_lines)) and re.match(r"^[\d,]+", sp_lines[i + 1 + c1]):
+                break
+            if not b_parts:
+                b_parts.append(sp_lines[i])
+                i += 1
+            elif tok_up in buyer_suffixes:
+                b_parts.append(sp_lines[i])
+                i += 1
+                if t1 and (i + c1 < len(sp_lines)) and re.match(r"^[\d,]+", sp_lines[i + c1]):
+                    break
+            elif t2 and (i + 2 + c2 < len(sp_lines)) and re.match(r"^[\d,]+", sp_lines[i + 2 + c2]):
+                break
+            else:
+                if t2:
+                    break
+                b_parts.append(sp_lines[i])
+                i += 1
+
+        v_buyer = " ".join(b_parts).strip()
+        if v_name and v_type and (v_dwt or v_built):
+            rows_out.append(f"| {v_name} | {v_type} | {v_dwt} | {v_built} | {v_price} | {v_buyer} |")
+
+    return rows_out
+
+
+def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
     """Reconstructs clean markdown for tabular pages with proper headers and complete columns."""
     text = page.get_text("text").replace("\ufffd", "-").replace("\u2013", "-").replace("\u2014", "-")
 
-    # 1. PAGE: Dry Bulk
-    if "Baltic Dry Indices" in text:
-        out_lines = ["### Baltic Dry Index (BDI)\n"]
-        m_bdi = re.search(r"BDI\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
-        if m_bdi:
-            bdi_val, bdi_wow, bdi_yoy = m_bdi.groups()
-            out_lines.append(f"**BDI: {bdi_val}** (WoW: {bdi_wow.strip()} | YoY: {bdi_yoy.strip()})\n")
+    # 1 & 2. PAGES: Dry Bulk & Tankers (Indices, Vessel Values, and/or Sale & Purchase, even when split across pages)
+    has_dry_idx = "Baltic Dry Indices" in text
+    has_tkr_idx = "Baltic Tanker Indices" in text
+    has_vv = ("Vessel Values" in text) and ("CONTAINERS" not in text)
+    has_sp = ("Sale & Purchase" in text) and ("CONTAINERS" not in text) and ("SHIP RECYCLING" not in text)
 
-        sub_hdrs = ["BCI", "BPI", "BSI", "BHSI"]
-        vals, wows, yoys = [], [], []
-        for h in sub_hdrs:
-            m = re.search(rf"{h}\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
-            if m:
-                v, w, y = m.groups()
-                vals.append(v)
-                wows.append(w.strip())
-                yoys.append(y.strip())
-            else:
-                vals.append("-"); wows.append("-"); yoys.append("-")
-        out_lines.append("| " + " | ".join(sub_hdrs) + " |")
-        out_lines.append("| " + " | ".join([":---:"] * 4) + " |")
-        out_lines.append("| " + " | ".join(vals) + " |")
-        out_lines.append("| " + " | ".join(f"WoW: {w}" for w in wows) + " |")
-        out_lines.append("| " + " | ".join(f"YoY: {y}" for y in yoys) + " |\n")
+    if has_dry_idx or has_tkr_idx or has_vv or has_sp:
+        out_lines: list[str] = []
 
-        # Vessel Values
-        out_lines.append("### Vessel Values (USD Million)\n")
-        out_lines.append("| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |")
-        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: | :---: |")
-        for v_type in ["CAPESIZE", "KAMSARMAX", "ULTRAMAX", "HANDY"]:
-            m_vv = re.search(rf"{v_type}\s*\n\s*([\d,]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", text)
-            if m_vv:
-                dwt, nb_c, nb_p, y5, y10, y15 = [x.strip() for x in m_vv.groups()]
-                out_lines.append(f"| {v_type} | {dwt} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
-        out_lines.append("")
+        # Preserve narrative commentary if the page has prose above the tables (e.g. Tankers Page 5)
+        if lp_md:
+            cut_markers = [
+                "Baltic Dry Indices", "Baltic Tanker Indices", "### Baltic", "## Baltic",
+                "Vessel Values", "## Vessel Values", "\n| BDTI", "\n| BDI", "\n| TYPE | DWT"
+            ]
+            prose_part = lp_md
+            for cm in cut_markers:
+                pos = prose_part.find(cm)
+                if pos != -1:
+                    prose_part = prose_part[:pos]
+            # Strip trailing standalone index names or table remnants at the bottom of prose_part
+            prose_part = re.sub(r"(?m)^#*\s*(?:BDTI|BCTI|BDI|BCI|BPI|BSI|BHSI|Sale & Purchase.*)\s*$", "", prose_part).strip()
+            prose_part = re.sub(r"(?s)\n+#*\s*(?:BDTI|BCTI|BDI)\b.*$", "", prose_part).strip()
+            prose_part = re.sub(r"(?m)^#+\s*$", "", prose_part).strip()
+            if len(prose_part) > 120:
+                out_lines.append(prose_part + "\n")
 
-        # S&P Fixtures
-        out_lines.append("### Sale & Purchase - Reported Fixtures\n")
-        out_lines.append("| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |")
-        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
-        sp_start = text.find("Sale & Purchase")
-        if sp_start != -1:
-            sp_lines = [l.strip() for l in text[sp_start:].splitlines() if l.strip()]
-            i = 0
-            while i < len(sp_lines) and not sp_lines[i].startswith("BUYER"):
-                i += 1
-            i += 1
-            while i < len(sp_lines):
-                if "snp@starasiasg.com" in sp_lines[i] or "Member of BIMCO" in sp_lines[i] or "Page" in sp_lines[i]:
-                    break
-                v_parts = [sp_lines[i]]
-                i += 1
-                while i < len(sp_lines) and sp_lines[i] not in ["CAPE", "POST", "PMAX", "KMAX", "UMAX", "SMAX", "HANDY", "POST PMAX"]:
-                    if sp_lines[i].isdigit() or "CHINA" in sp_lines[i] or "JAPAN" in sp_lines[i] or "snp@" in sp_lines[i]:
-                        break
-                    v_parts.append(sp_lines[i])
-                    i += 1
-                v_name = " ".join(v_parts).strip()
-                v_name = re.sub(r"^BUYER\s+", "", v_name)
-                v_type = ""
-                if i < len(sp_lines) and sp_lines[i] in ["CAPE", "POST", "PMAX", "KMAX", "UMAX", "SMAX", "HANDY"]:
-                    v_type = sp_lines[i]; i += 1
-                    if v_type == "POST" and i < len(sp_lines) and sp_lines[i] == "PMAX":
-                        v_type = "POST PMAX"; i += 1
-                v_dwt = ""
-                if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
-                    v_dwt = sp_lines[i]; i += 1
-                    if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
-                        v_dwt = f"{v_dwt} / {sp_lines[i]}"; i += 1
-                v_built = ""
-                if i < len(sp_lines) and re.search(r"\b(19\d\d|20\d\d)\b", sp_lines[i]):
-                    v_built = sp_lines[i]; i += 1
-                v_price = ""
-                if i < len(sp_lines) and (re.search(r"\d", sp_lines[i]) or sp_lines[i] == "-"):
-                    v_price = sp_lines[i]; i += 1
-                v_buyer = ""
-                if i < len(sp_lines) and any(w in sp_lines[i].upper() for w in ["BUYER", "UNDISCLOSED", "GREEK", "CHINESE", "EUROPEAN", "TURKISH", "MIDDLE EAST", "FAR EAST"]):
-                    b_parts = [sp_lines[i]]; i += 1
-                    if i < len(sp_lines) and sp_lines[i] == "BUYER":
-                        b_parts.append(sp_lines[i]); i += 1
-                    v_buyer = " ".join(b_parts)
-                if v_name and v_type:
-                    out_lines.append(f"| {v_name} | {v_type} | {v_dwt} | {v_built} | {v_price} | {v_buyer} |")
+        if has_dry_idx:
+            out_lines.append("### Baltic Dry Index (BDI)\n")
+            m_bdi = re.search(r"BDI\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
+            if m_bdi:
+                bdi_val, bdi_wow, bdi_yoy = m_bdi.groups()
+                out_lines.append(f"**BDI: {bdi_val}** (WoW: {bdi_wow.strip()} | YoY: {bdi_yoy.strip()})\n")
 
-        return "\n".join(out_lines)
+            sub_hdrs = ["BCI", "BPI", "BSI", "BHSI"]
+            vals, wows, yoys = [], [], []
+            for h in sub_hdrs:
+                m = re.search(rf"{h}\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
+                if m:
+                    v, w, y = m.groups()
+                    vals.append(v)
+                    wows.append(w.strip())
+                    yoys.append(y.strip())
+                else:
+                    vals.append("-"); wows.append("-"); yoys.append("-")
+            out_lines.append("| " + " | ".join(sub_hdrs) + " |")
+            out_lines.append("| " + " | ".join([":---:"] * 4) + " |")
+            out_lines.append("| " + " | ".join(vals) + " |")
+            out_lines.append("| " + " | ".join(f"WoW: {w}" for w in wows) + " |")
+            out_lines.append("| " + " | ".join(f"YoY: {y}" for y in yoys) + " |\n")
 
-    # 2. PAGE: Tankers
-    elif "Baltic Tanker Indices" in text:
-        out_lines = ["### Baltic Tanker Indices\n"]
-        sub_hdrs = ["BDTI", "BCTI"]
-        vals, wows, yoys = [], [], []
-        for h in sub_hdrs:
-            m = re.search(rf"{h}\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
-            if m:
-                v, w, y = m.groups()
-                vals.append(v)
-                wows.append(w.strip())
-                yoys.append(y.strip())
-            else:
-                vals.append("-"); wows.append("-"); yoys.append("-")
-        out_lines.append("| " + " | ".join(sub_hdrs) + " |")
-        out_lines.append("| " + " | ".join([":---:"] * 2) + " |")
-        out_lines.append("| " + " | ".join(vals) + " |")
-        out_lines.append("| " + " | ".join(f"WoW: {w}" for w in wows) + " |")
-        out_lines.append("| " + " | ".join(f"YoY: {y}" for y in yoys) + " |\n")
+        if has_tkr_idx:
+            out_lines.append("### Baltic Tanker Indices\n")
+            sub_hdrs = ["BDTI", "BCTI"]
+            vals, wows, yoys = [], [], []
+            for h in sub_hdrs:
+                m = re.search(rf"{h}\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
+                if m:
+                    v, w, y = m.groups()
+                    vals.append(v)
+                    wows.append(w.strip())
+                    yoys.append(y.strip())
+                else:
+                    vals.append("-"); wows.append("-"); yoys.append("-")
+            out_lines.append("| " + " | ".join(sub_hdrs) + " |")
+            out_lines.append("| " + " | ".join([":---:"] * 2) + " |")
+            out_lines.append("| " + " | ".join(vals) + " |")
+            out_lines.append("| " + " | ".join(f"WoW: {w}" for w in wows) + " |")
+            out_lines.append("| " + " | ".join(f"YoY: {y}" for y in yoys) + " |\n")
 
-        # Vessel Values
-        out_lines.append("### Vessel Values (USD Million)\n")
-        out_lines.append("| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |")
-        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: | :---: |")
-        for v_type in ["VLCC", "SUEZMAX", "AFRAMAX", "LR1", "MR"]:
-            m_vv = re.search(rf"{v_type}\s*\n\s*([\d,]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", text)
-            if m_vv:
-                dwt, nb_c, nb_p, y5, y10, y15 = [x.strip() for x in m_vv.groups()]
-                out_lines.append(f"| {v_type} | {dwt} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
-        out_lines.append("")
+        if has_vv:
+            vv_search_text = text[:text.find("Sale & Purchase")] if "Sale & Purchase" in text else text
+            vv_rows: list[str] = []
+            for v_type in ["CAPESIZE", "KAMSARMAX", "ULTRAMAX", "HANDY", "VLCC", "SUEZMAX", "AFRAMAX", "LR1", "MR"]:
+                m_vv = re.search(rf"{v_type}\s*\n\s*([\d,]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", vv_search_text)
+                if m_vv:
+                    dwt, nb_c, nb_p, y5, y10, y15 = [x.strip() for x in m_vv.groups()]
+                    vv_rows.append(f"| {v_type} | {dwt} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
+            if vv_rows:
+                out_lines.append("### Vessel Values (USD Million)\n")
+                out_lines.append("| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |")
+                out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: | :---: |")
+                out_lines.extend(vv_rows)
+                out_lines.append("")
 
-        # S&P Fixtures
-        out_lines.append("### Sale & Purchase - Reported Fixtures\n")
-        out_lines.append("| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |")
-        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
-        sp_start = text.find("Sale & Purchase")
-        if sp_start != -1:
-            sp_lines = [l.strip() for l in text[sp_start:].splitlines() if l.strip()]
-            i = 0
-            while i < len(sp_lines) and not (sp_lines[i].startswith("BUYER") or sp_lines[i].startswith("PRICE")):
-                i += 1
-            i += 1
-            while i < len(sp_lines):
-                if "snp@starasiasg.com" in sp_lines[i] or "Member of BIMCO" in sp_lines[i] or "Page" in sp_lines[i]:
-                    break
-                v_parts = [sp_lines[i]]
-                i += 1
-                while i < len(sp_lines) and sp_lines[i] not in ["VLCC", "SUEZ", "AFRA", "LR2", "LR1", "MR", "SMALL"]:
-                    if sp_lines[i].isdigit() or "CHINA" in sp_lines[i] or "JAPAN" in sp_lines[i] or "snp@" in sp_lines[i]:
-                        break
-                    v_parts.append(sp_lines[i])
-                    i += 1
-                v_name = " ".join(v_parts).strip()
-                v_name = re.sub(r"^BUYER\s+", "", v_name)
-                v_type = ""
-                if i < len(sp_lines) and sp_lines[i] in ["VLCC", "SUEZ", "AFRA", "LR2", "LR1", "MR", "SMALL"]:
-                    v_type = sp_lines[i]; i += 1
-                v_dwt = ""
-                if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
-                    v_dwt = sp_lines[i]; i += 1
-                v_built = ""
-                if i < len(sp_lines) and re.search(r"\b(19\d\d|20\d\d)\b", sp_lines[i]):
-                    v_built = sp_lines[i]; i += 1
-                v_price = ""
-                if i < len(sp_lines) and (re.search(r"\d", sp_lines[i]) or sp_lines[i] == "-"):
-                    v_price = sp_lines[i]; i += 1
-                v_buyer = ""
-                if i < len(sp_lines) and any(w in sp_lines[i].upper() for w in ["BUYER", "UNDISCLOSED", "GREEK", "CHINESE", "EUROPEAN", "TURKISH", "MIDDLE EAST", "FAR EAST"]):
-                    b_parts = [sp_lines[i]]; i += 1
-                    if i < len(sp_lines) and sp_lines[i] == "BUYER":
-                        b_parts.append(sp_lines[i]); i += 1
-                    v_buyer = " ".join(b_parts)
-                if v_name and v_type:
-                    out_lines.append(f"| {v_name} | {v_type} | {v_dwt} | {v_built} | {v_price} | {v_buyer} |")
+        if has_sp:
+            sp_start = text.find("Sale & Purchase")
+            if sp_start != -1:
+                all_sp_types = [
+                    "CAPE", "POST", "PMAX", "KMAX", "UMAX", "SMAX", "HANDY", "POST PMAX",
+                    "VLCC", "SUEZ", "AFRA", "LR2", "LR1", "MR", "SMALL", "CHEM", "PROD"
+                ]
+                sp_rows = _parse_sp_fixtures_block(text[sp_start:], all_sp_types)
+                if sp_rows:
+                    out_lines.append("### Sale & Purchase - Reported Fixtures\n")
+                    out_lines.append("| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |")
+                    out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+                    out_lines.extend(sp_rows)
 
-        return "\n".join(out_lines)
+        if out_lines:
+            return "\n".join(out_lines)
 
     # 3. PAGE: Containers
     elif "CONTAINERS" in text and "Vessel Values" in text:
@@ -397,27 +443,14 @@ def build_star_asia_clean_page(page: pymupdf.Page) -> str:
             out_lines.append(f"| {sz} | {tp} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
         out_lines.append("")
 
-        out_lines.append("### Sale & Purchase - Reported Fixtures\n")
-        out_lines.append("| VESSEL | TYPE | TEU | YEAR / BUILT | PRICE (USD M) | BUYER |")
-        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
         sp_start = text.find("Sale & Purchase")
         if sp_start != -1:
-            sp_lines = [l.strip() for l in text[sp_start:].splitlines() if l.strip()]
-            i = 0
-            while i < len(sp_lines) and not sp_lines[i].startswith("BUYER"):
-                i += 1
-            i += 1
-            while i < len(sp_lines):
-                if "snp@starasiasg.com" in sp_lines[i] or "Member of BIMCO" in sp_lines[i] or "Page" in sp_lines[i]:
-                    break
-                v_name = sp_lines[i]; i += 1
-                v_type = sp_lines[i] if i < len(sp_lines) else ""; i += 1
-                v_teu = sp_lines[i] if i < len(sp_lines) else ""; i += 1
-                v_built = sp_lines[i] if i < len(sp_lines) else ""; i += 1
-                v_price = sp_lines[i] if i < len(sp_lines) else ""; i += 1
-                v_buyer = sp_lines[i] if i < len(sp_lines) else ""; i += 1
-                if v_name and v_type:
-                    out_lines.append(f"| {v_name} | {v_type} | {v_teu} | {v_built} | {v_price} | {v_buyer} |")
+            sp_rows = _parse_sp_fixtures_block(text[sp_start:], ["FEEDER", "CONTAINER", "SUB-PMAX", "PMAX", "POST PMAX", "NEOPANAMAX"])
+            if sp_rows:
+                out_lines.append("### Sale & Purchase - Reported Fixtures\n")
+                out_lines.append("| VESSEL | TYPE | TEU | YEAR / BUILT | PRICE (USD M) | BUYER |")
+                out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+                out_lines.extend(sp_rows)
 
         return "\n".join(out_lines)
 
@@ -426,19 +459,126 @@ def build_star_asia_clean_page(page: pymupdf.Page) -> str:
         out_lines = ["### Ship Recycling - Current Market Snapshot (USD / LDT)\n"]
         out_lines.append("| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |")
         out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: |")
-        for dest in ["ALANG, INDIA", "CHATTOGRAM, BANGLADESH", "GADDANI, PAKISTAN", "ALIAGA, TURKEY"]:
-            dest_pat = dest.split(",")[0]
-            m = re.search(rf"{dest_pat}[^\n]*\n\s*(\$[\d\s-]+)\s*\n\s*(\$[\d\s-]+)\s*\n\s*(\$[\d\s-]+)\s*\n\s*(\$[\d\s-]+)\s*\n\s*([A-Z\s/]+)", text)
+        dest_defs = [
+            ("ALANG, INDIA", r"ALANG\s*,\s*INDIA\*?"),
+            ("CHATTOGRAM, BANGLADESH", r"CHATTOGRAM\s*,\s*BANGLADESH\*?"),
+            ("GADDANI, PAKISTAN", r"GADDANI\s*,\s*PAKISTAN\*?"),
+            ("ALIAGA, TURKEY", r"ALIAGA\s*,\s*T[UÜ]RK(?:EY|[Iİ]YE)\*?"),
+        ]
+        # Split text at '5-Year Historical' if present so Current Snapshot and 5-Year Average don't collide
+        snap_text = text
+        hist_text = ""
+        m_hist_hdr = re.search(r"5-Year Historical Average[^\n]*", text, re.IGNORECASE)
+        if m_hist_hdr:
+            snap_text = text[:m_hist_hdr.start()]
+            rs_cut = text.find("Reported Sales", m_hist_hdr.start())
+            hist_text = text[m_hist_hdr.start():rs_cut] if rs_cut != -1 else text[m_hist_hdr.start():]
+
+        for dest, dest_pat in dest_defs:
+            m = re.search(
+                rf"{dest_pat}\s*\n\s*(\$[\d\s\-]+)\s*\n\s*(\$[\d\s\-]+)\s*\n\s*(\$[\d\s\-]+)\s*\n\s*(\$[\d\s\-]+)\s*\n\s*([A-Z /]+(?:\n\s*(?:FIRM|SOFT|WEAK|STEADY|STABLE|MIXED|QUIET|POSITIVE|NEGATIVE|CAUTIOUS|UNCHANGED))?)",
+                snap_text
+            )
             if m:
                 t, b, g, c, s = [x.strip() for x in m.groups()]
-                out_lines.append(f"| {dest} | {t} | {b} | {g} | {c} | {s} |")
+                s_clean = " ".join(s.split()).rstrip("/").strip()
+                out_lines.append(f"| {dest} | {t} | {b} | {g} | {c} | {s_clean} |")
         out_lines.append("")
+
+        if hist_text:
+            # Extract the 5 historical year column headers (e.g. 2021, 2022, 2023, 2024, 2025)
+            yr_hdrs = re.findall(r"\b(20\d{2})\b", hist_text[:250])
+            if len(yr_hdrs) >= 4:
+                n_yrs = min(len(yr_hdrs), 5)
+                yr_hdrs = yr_hdrs[:n_yrs]
+                val_pat = r"\s*\n\s*".join([r"(\$?[\d \-,]+)"] * n_yrs)
+                hist_rows: list[str] = []
+                for dest, dest_pat in dest_defs:
+                    mh = re.search(rf"{dest_pat}\s*\n\s*{val_pat}", hist_text)
+                    if mh:
+                        hvals = [x.strip() for x in mh.groups()]
+                        hist_rows.append(f"| {dest} | " + " | ".join(hvals) + " |")
+                if hist_rows:
+                    out_lines.append("### 5-Year Historical Average Prices (USD / LDT)\n")
+                    out_lines.append("| DESTINATION | " + " | ".join(yr_hdrs) + " |")
+                    out_lines.append("| :--- | " + " | ".join([":---:"] * len(yr_hdrs)) + " |")
+                    out_lines.extend(hist_rows)
+                    out_lines.append("")
 
         if "Reported Sales" in text or "SHIPS SOLD FOR RECYCLING" in text:
             out_lines.append("### Demolition - Reported Sales\n")
             out_lines.append("| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |")
             out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
-            out_lines.append("| - | - | - | - | - | No reported sales this week |")
+            rs_pos = text.find("Reported Sales")
+            if rs_pos == -1:
+                rs_pos = text.find("SHIPS SOLD FOR RECYCLING")
+            rs_sub = text[rs_pos:] if rs_pos != -1 else ""
+            rs_lines = [l.strip() for l in rs_sub.splitlines() if l.strip()]
+            idx_r = 0
+            while idx_r < len(rs_lines) and not any(rs_lines[idx_r].startswith(h) for h in ["DELIVERY", "TERMS", "REMARKS", "COMMENTS"]):
+                idx_r += 1
+            idx_r += 1
+
+            demo_rows: list[str] = []
+            stop_demo = ("snp@starasiasg.com", "Member of BIMCO", "Page ", "5-Year Historical", "Price Trends", "*Above tables")
+            demo_types = {
+                "BULKER", "TANKER", "CONTAINER", "GENERAL CARGO", "GC", "GEN CARGO",
+                "MPP", "ROPAX", "RORO", "LNG", "LPG", "REEFER", "FERRY", "OFFSHORE",
+                "TUG", "BARGE", "DRILLSHIP", "FPSO", "FSO", "VLOC", "PCC", "PCTC", "CHEM"
+            }
+            while idx_r < len(rs_lines):
+                line_cur = rs_lines[idx_r]
+                if any(m in line_cur for m in stop_demo):
+                    break
+                if "NO REPORTED SALES" in line_cur.upper() or line_cur.upper() == "NIL":
+                    break
+                # Vessel name until we hit a known demo type or LDT
+                v_parts = [line_cur]
+                idx_r += 1
+                while idx_r < len(rs_lines) and rs_lines[idx_r].upper() not in demo_types and not re.match(r"^[\d,]+$", rs_lines[idx_r]):
+                    if any(m in rs_lines[idx_r] for m in stop_demo):
+                        break
+                    v_parts.append(rs_lines[idx_r])
+                    idx_r += 1
+                v_name = " ".join(v_parts).strip()
+                v_type = ""
+                if idx_r < len(rs_lines) and rs_lines[idx_r].upper() in demo_types:
+                    v_type = rs_lines[idx_r].upper()
+                    idx_r += 1
+                v_ldt = ""
+                if idx_r < len(rs_lines) and re.match(r"^[\d,]+$", rs_lines[idx_r]):
+                    v_ldt = rs_lines[idx_r]
+                    idx_r += 1
+                v_built = ""
+                if idx_r < len(rs_lines) and re.search(r"\b(19\d\d|20\d\d)\b", rs_lines[idx_r]):
+                    v_built = rs_lines[idx_r]
+                    idx_r += 1
+                    if idx_r < len(rs_lines) and re.match(r"^/\s*[A-Z]+$", rs_lines[idx_r]):
+                        v_built = f"{v_built} {rs_lines[idx_r]}"
+                        idx_r += 1
+                v_price = ""
+                if idx_r < len(rs_lines) and (re.match(r"^\$?[\d,\.]+$", rs_lines[idx_r]) or rs_lines[idx_r].upper() in ["UNDISCLOSED", "PRIVATE", "-"]):
+                    v_price = rs_lines[idx_r]
+                    idx_r += 1
+                deliv_parts: list[str] = []
+                while idx_r < len(rs_lines):
+                    if any(m in rs_lines[idx_r] for m in stop_demo):
+                        break
+                    # Check if rs_lines[idx_r] is the next vessel (followed by a demo_type in 1-2 lines)
+                    if idx_r + 1 < len(rs_lines) and rs_lines[idx_r + 1].upper() in demo_types:
+                        break
+                    if idx_r + 2 < len(rs_lines) and rs_lines[idx_r + 2].upper() in demo_types:
+                        break
+                    deliv_parts.append(rs_lines[idx_r])
+                    idx_r += 1
+                v_deliv = " ".join(deliv_parts).strip()
+                if v_name and (v_type or v_ldt):
+                    demo_rows.append(f"| {v_name} | {v_type or '-'} | {v_ldt or '-'} | {v_built or '-'} | {v_price or '-'} | {v_deliv or '-'} |")
+
+            if demo_rows:
+                out_lines.extend(demo_rows)
+            else:
+                out_lines.append("| NIL | NIL | NIL | NIL | NIL | No reported sales this week |")
 
         return "\n".join(out_lines)
 
@@ -667,6 +807,68 @@ def build_star_asia_clean_page(page: pymupdf.Page) -> str:
             out.append("")
         return "\n".join(out)
 
+    # 8. PAGE: Market Insights & Anchorage / Beaching Positions (Pages 12 & 13)
+    elif "Anchorage & Beaching Position" in text and lp_md:
+        augmented_md = lp_md
+        demo_types_set = {
+            "BULKER", "TANKER", "CONTAINER", "GENERAL CARGO", "GC", "GEN CARGO",
+            "MPP", "ROPAX", "RORO", "LNG", "LPG", "REEFER", "FERRY", "OFFSHORE",
+            "TUG", "BARGE", "DRILLSHIP", "FPSO", "FSO", "VLOC", "PCC", "PCTC", "CHEM"
+        }
+        for port_lbl, next_anchor in [
+            ("Alang", "**Chattogram"),
+            ("Chattogram", "**Gaddani"),
+            ("Gaddani", "**Aliaga"),
+        ]:
+            m_ab = re.search(rf"({port_lbl}\s+Anchorage\s*&\s*Beaching\s+Position[^\n]*)\n(.*?)(?=(?:Chattogram,\s*Bangladesh:|Gaddani,\s*Pakistan:|Aliaga,\s*Turkey:|SUB-CONTINENT|TIDE DATES|\Z))", text, re.DOTALL)
+            if m_ab and f"{port_lbl} Anchorage" not in augmented_md:
+                hdr_title = m_ab.group(1).strip()
+                ab_body = m_ab.group(2).strip()
+                ab_lines = [l.strip() for l in ab_body.splitlines() if l.strip()]
+                # Advance past BEACHING header
+                k = 0
+                while k < len(ab_lines) and ab_lines[k].upper() != "BEACHING":
+                    k += 1
+                k += 1
+                rem = ab_lines[k:]
+                tbl_md_lines = [
+                    f"\n### {hdr_title}\n",
+                    "| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |",
+                    "| :--- | :---: | :---: | :---: | :---: |",
+                ]
+                if not rem or all(x == "-" for x in rem):
+                    tbl_md_lines.append("| NIL | NIL | NIL | NIL | No vessels reported |")
+                else:
+                    r_idx = 0
+                    while r_idx < len(rem):
+                        v_p = [rem[r_idx]]
+                        r_idx += 1
+                        while r_idx < len(rem) and rem[r_idx].upper() not in demo_types_set:
+                            v_p.append(rem[r_idx])
+                            r_idx += 1
+                        v_n = " ".join(v_p).strip()
+                        v_t = rem[r_idx].upper() if r_idx < len(rem) else "-"
+                        r_idx += 1
+                        v_l = rem[r_idx] if (r_idx < len(rem) and re.match(r"^[\d,]+$", rem[r_idx])) else "-"
+                        if v_l != "-":
+                            r_idx += 1
+                        v_arr = rem[r_idx] if (r_idx < len(rem) and re.match(r"^\d{2}\.\d{2}\.\d{4}$", rem[r_idx])) else "-"
+                        if v_arr != "-":
+                            r_idx += 1
+                        v_bch = "AWAITING"
+                        if r_idx < len(rem) and (re.match(r"^\d{2}\.\d{2}\.\d{4}$", rem[r_idx]) or rem[r_idx].upper() in ["AWAITING", "BEACHED", "DELIVERED", "-"]):
+                            v_bch = rem[r_idx]
+                            r_idx += 1
+                        if v_n:
+                            tbl_md_lines.append(f"| {v_n} | {v_t} | {v_l} | {v_arr} | {v_bch} |")
+                tbl_block = "\n".join(tbl_md_lines) + "\n\n"
+                ins_pos = augmented_md.find(next_anchor)
+                if ins_pos != -1:
+                    augmented_md = augmented_md[:ins_pos] + tbl_block + augmented_md[ins_pos:]
+                else:
+                    augmented_md = augmented_md + "\n" + tbl_block
+        return augmented_md
+
     return ""
 
 
@@ -712,13 +914,35 @@ def build_md(pdf: Path):
     with pymupdf.open(pdf) as doc:
         for i in range(1, res.num_pages + 1):
             lines.append(f"\n## Page {i}\n")
-            clean_tbl = build_star_asia_clean_page(doc[i - 1])
+            lp_page_md = (res.get_page(i).markdown or "").strip()
+            clean_tbl = build_star_asia_clean_page(doc[i - 1], lp_page_md)
             if clean_tbl:
                 lines.append(clean_tbl)
             else:
-                lines.append((res.get_page(i).markdown or "").strip())
+                lines.append(lp_page_md)
     raw_md = "\n".join(lines)
     cleaned_md, _ = cabf.clean_star_asia(raw_md)
+
+    # Append vector chart links if chart PNGs exist in data/extracted/charts/star_asia/<year>/
+    charts_dir = ROOT / "data" / "extracted" / "charts" / "star_asia" / year_str
+    if charts_dir.exists():
+        chart_pngs = sorted(charts_dir.glob(f"{pdf.stem}_scrap_trends_*.png"))
+        if chart_pngs and "## Market Charts & Quantitative Vectors" not in cleaned_md:
+            chart_lines = ["", "## Market Charts & Quantitative Vectors", ""]
+            for cp in chart_pngs:
+                m_pg = re.search(r"_p(\d+)\.png$", cp.name)
+                pg_lbl = f" (Page {int(m_pg.group(1))})" if m_pg else ""
+                rel_cp = f"../../../charts/star_asia/{year_str}/{cp.name}"
+                chart_lines.extend([
+                    f"### Star Asia Demolition Price Trends{pg_lbl}",
+                    "",
+                    f"![Star Asia Demolition Price Trends]({rel_cp})",
+                    "",
+                    "*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*",
+                    ""
+                ])
+            cleaned_md = cleaned_md.rstrip() + "\n" + "\n".join(chart_lines)
+
     return cleaned_md
 
 
@@ -748,7 +972,11 @@ def chart_pages(pdf: Path):
 
 def process(pdf: Path):
     stem = pdf.stem
-    sidecar = OUT / f"{stem}.tables.json"
+    year_dir = pdf.parent.name
+    target_dir = (OUT / year_dir) if (year_dir.isdigit() and len(year_dir) == 4) else OUT
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    sidecar = target_dir / f"{stem}.tables.json"
     tables = []
     if sidecar.exists():
         try:
@@ -769,28 +997,19 @@ def process(pdf: Path):
     charts = chart_pages(pdf)
     with pymupdf.open(pdf) as d:
         npages = d.page_count
-    
-    # Save to root md directory
-    (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
-    chart_file = OUT / f"{stem}.charts.json"
+
+    (target_dir / f"{stem}.md").write_text(md, encoding="utf-8")
+    chart_file = target_dir / f"{stem}.charts.json"
     if not chart_file.exists():
         chart_file.write_text(
             json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
-            
-    # Also synchronize to year subdirectory if present
-    year_dir = pdf.parent.name
-    if year_dir.isdigit() and len(year_dir) == 4:
-        yd = OUT / year_dir
-        yd.mkdir(parents=True, exist_ok=True)
-        (yd / f"{stem}.md").write_text(md, encoding="utf-8")
-        yd_sidecar = yd / f"{stem}.tables.json"
-        if not yd_sidecar.exists():
-            yd_sidecar.write_text(
-                json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
-        yd_chart = yd / f"{stem}.charts.json"
-        if not yd_chart.exists():
-            yd_chart.write_text(
-                json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    # Remove any legacy flat duplicate in OUT root if target_dir is a year subdirectory
+    if target_dir != OUT:
+        for ext in (".md", ".tables.json", ".charts.json"):
+            flat_f = OUT / f"{stem}{ext}"
+            if flat_f.exists():
+                flat_f.unlink()
 
     return {"pages": npages, "tables": len(tables),
             "graphic_pages": sorted(charts, key=int), "md_bytes": len(md)}

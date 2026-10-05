@@ -197,7 +197,13 @@ async def process_gms_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[
     issue_date = m_date.group(1) if m_date else "UNKNOWN"
     year = issue_date[:4]
 
+    if issue_date == "UNKNOWN" or year == "0000" or "unknown" in [p.lower() for p in h_path.parts]:
+        raise ValueError(f"Skipping undated or 0000 stub file: {h_path}")
+
     content = h_path.read_text(encoding="utf-8", errors="ignore")
+    if any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can\u2019t be reached", "This site can't be reached")):
+        raise ValueError(f"Skipping Cloudflare/DNS error HTML page: {h_path}")
+
     soup = BeautifulSoup(content, "html.parser")
     title = soup.title.string.strip() if soup.title and soup.title.string else f"GMS Weekly Demolition Report - {issue_date}"
 

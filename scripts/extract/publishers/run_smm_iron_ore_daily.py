@@ -87,8 +87,8 @@ def extract_chart_images(page: pymupdf.Page, issue_date: str) -> Dict[str, str]:
         img_name = f"{issue_date}_{name}.png"
         img_file = date_chart_dir / img_name
         pix.save(str(img_file))
-        # Relative path for Markdown embedding
-        rel_path = f"../../../charts/hellenic_iron_ore/{issue_date}/{img_name}"
+        # Relative path for Markdown embedding (from data/extracted/md/hellenic/iron_ore_pdf/<year>/)
+        rel_path = f"../../../../charts/hellenic_iron_ore/{issue_date}/{img_name}"
         chart_paths[name] = rel_path
 
     return chart_paths
@@ -154,41 +154,53 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
     }
 
     # 2. Futures Contracts (SGX & DCE)
-    sgx_m = re.search(r'SGX Iron Ore Most-traded Contract.*?\n\s*([\d\.]+)\s*USD/dmt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', text, re.DOTALL)
+    sgx_m = re.search(
+        r'SGX Iron Ore Most-traded Contract.*?\n\s*([\d\.]+)\s*USD/dmt\s*\n\s*(?:([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\))[^\n]*\n\s*(?:as of [\d\-]+\s*·\s*)?MTD avg\s*([\d\.]+)',
+        text, re.DOTALL
+    )
     if sgx_m:
         extracted["futures_contracts"].append({
             "exchange": "SGX",
             "contract": "SGX Iron Ore Most-traded",
             "price": float(sgx_m.group(1)),
             "unit": "USD/dmt",
-            "change": parse_change_val(sgx_m.group(2)),
-            "change_pct": sgx_m.group(3).strip(),
+            "change": parse_change_val(sgx_m.group(2)) if sgx_m.group(2) else 0.0,
+            "change_pct": sgx_m.group(3).strip() if sgx_m.group(3) else "0.00% (Holiday)",
             "mtd_avg": float(sgx_m.group(4))
         })
 
-    dce_m = re.search(r'DCE Iron Ore Most-traded\s+([A-Za-z0-9]+).*?\n\s*([\d\.]+)\s*yuan/mt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', text, re.DOTALL)
+    dce_m = re.search(
+        r'DCE Iron Ore Most-traded(?:\s+([A-Za-z0-9]+)|[^\n]*?)\n[^\n]*?\n\s*([\d\.]+)\s*yuan/mt\s*\n\s*(?:([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\))[^\n]*\n\s*(?:as of [\d\-]+\s*·\s*)?MTD avg\s*([\d\.]+)',
+        text, re.DOTALL
+    )
     if dce_m:
+        c_code = dce_m.group(1) or "Contract"
         extracted["futures_contracts"].append({
             "exchange": "DCE",
-            "contract": f"DCE Iron Ore Most-traded {dce_m.group(1)}",
-            "contract_code": dce_m.group(1),
+            "contract": f"DCE Iron Ore Most-traded {c_code}".strip(),
+            "contract_code": c_code,
             "price": float(dce_m.group(2)),
             "unit": "yuan/mt",
-            "change": parse_change_val(dce_m.group(3)),
-            "change_pct": dce_m.group(4).strip(),
+            "change": parse_change_val(dce_m.group(3)) if dce_m.group(3) else 0.0,
+            "change_pct": dce_m.group(4).strip() if dce_m.group(4) else "0.00% (Holiday)",
             "mtd_avg": float(dce_m.group(5))
         })
 
-    # 3. SMM Iron Ore Price Index (top 6 cards)
-    idx_patterns = [
-        ("MMi 61% Port Spot", r'MM[iI] 61% Port Spot.*?\n\s*([\d\.]+)\s*yuan/wmt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', "yuan/wmt", 61.0, "port_spot"),
-        ("MMi 58% Port Spot", r'MM[iI] 58% Port Spot.*?\n\s*([\d\.]+)\s*yuan/wmt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', "yuan/wmt", 58.0, "port_spot"),
-        ("MMi 65% Port Spot", r'MM[iI] 65% Port Spot.*?\n\s*([\d\.]+)\s*yuan/wmt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', "yuan/wmt", 65.0, "port_spot"),
-        ("MMi 61% Seaborne Index", r'MM[iI] 61% Seaborne Index.*?\n\s*([\d\.]+)\s*USD/dmt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', "USD/dmt", 61.0, "seaborne"),
-        ("MMi 65% Seaborne Index", r'MM[iI] 65% Seaborne Index.*?\n\s*([\d\.]+)\s*USD/dmt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', "USD/dmt", 65.0, "seaborne"),
-        ("SMM Domestic Ore Composite Index", r'SMM Domestic Ore Composite Index.*?\n\s*(?:Daily\s*\n\s*)?([\d\.]+)\s*yuan/mt\s*\n\s*([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*MTD avg\s*([\d\.]+)', "yuan/mt", 66.0, "domestic_composite")
+    # 3. SMM Iron Ore Price Index (top 6 cards - supports both active trading days and holiday freeze)
+    idx_defs = [
+        ("MMi 61% Port Spot", r'MM[iI] 61% Port Spot', "yuan/wmt", 61.0, "port_spot"),
+        ("MMi 58% Port Spot", r'MM[iI] 58% Port Spot', "yuan/wmt", 58.0, "port_spot"),
+        ("MMi 65% Port Spot", r'MM[iI] 65% Port Spot', "yuan/wmt", 65.0, "port_spot"),
+        ("MMi 61% Seaborne Index", r'MM[iI] 61% Seaborne Index', "USD/dmt", 61.0, "seaborne"),
+        ("MMi 65% Seaborne Index", r'MM[iI] 65% Seaborne Index', "USD/dmt", 65.0, "seaborne"),
+        ("SMM Domestic Ore Composite Index", r'SMM Domestic Ore Composite Index', "yuan/mt", 66.0, "domestic_composite")
     ]
-    for name, pat, unit, fe, mkt in idx_patterns:
+    for name, title_pat, unit, fe, mkt in idx_defs:
+        pat = (
+            rf'{title_pat}(?:[^\n]*\n){{1,3}}?\s*([\d\.]+)\s*{re.escape(unit)}\s*\n\s*'
+            rf'(?:([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\))\s*'
+            rf'(?:as of [\d\-]+\s*(?:·\s*)?)?MTD avg\s*([\d\.]+)'
+        )
         m = re.search(pat, text, re.DOTALL)
         if m:
             extracted["smm_price_index_summary"].append({
@@ -197,38 +209,136 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
                 "fe_content": fe,
                 "price": float(m.group(1)),
                 "unit": unit,
-                "change": parse_change_val(m.group(2)),
-                "change_pct": m.group(3).strip(),
+                "change": parse_change_val(m.group(2)) if m.group(2) else 0.0,
+                "change_pct": m.group(3).strip() if m.group(3) else "0.00% (Holiday)",
                 "mtd_avg": float(m.group(4))
             })
 
-    # 4. Key View
+    # 4. Key View (preserve multi-line bold headlines and join wrapped body lines into clean paragraphs)
     m_kv = re.search(r'Key View\s*\n(.*?)\nToday\'s Highlights', text, re.DOTALL)
     if m_kv:
-        kv_raw = m_kv.group(1).strip()
-        kv_lines = [l.strip() for l in kv_raw.split("\n") if l.strip()]
-        if kv_lines:
-            extracted["key_view"]["headline"] = kv_lines[0]
-            extracted["key_view"]["body"] = "\n\n".join(kv_lines[1:])
+        # Use PyMuPDF dict spans inside the Key View y-band to accurately separate headline vs body paragraphs
+        page_dict = page.get_text("dict")
+        kv_y0, kv_y1 = None, None
+        for b in blocks_sorted:
+            bt = b[4].strip()
+            if bt.startswith("Key View"):
+                kv_y0 = b[1]
+            elif bt.startswith("Today's Highlights"):
+                kv_y1 = b[1]
+                break
+
+        headline_parts: List[str] = []
+        body_paragraphs: List[str] = []
+        if kv_y0 is not None and kv_y1 is not None:
+            prev_kv_y1 = None
+            for b in page_dict.get("blocks", []):
+                if b.get("type") != 0:
+                    continue
+                by0 = b["bbox"][1]
+                if by0 < kv_y0 - 2 or by0 >= kv_y1 - 2:
+                    continue
+                for line in b.get("lines", []):
+                    line_txt = "".join(sp.get("text", "") for sp in line.get("spans", [])).strip()
+                    if not line_txt or line_txt == "Key View":
+                        continue
+                    ly0, ly1 = line["bbox"][1], line["bbox"][3]
+                    l_height = ly1 - ly0
+                    first_color = line["spans"][0].get("color", 0) if line.get("spans") else 0
+                    is_hl_line = (l_height >= 14.0 or first_color == 16777215) and not body_paragraphs
+                    if is_hl_line and prev_kv_y1 is not None and (ly0 - prev_kv_y1) > 18.0 and headline_parts:
+                        is_hl_line = False
+                    if is_hl_line:
+                        headline_parts.append(line_txt)
+                    else:
+                        body_paragraphs.append(line_txt)
+                    prev_kv_y1 = ly1
+
+        if headline_parts and body_paragraphs:
+            extracted["key_view"]["headline"] = " ".join(headline_parts)
+            extracted["key_view"]["body"] = " ".join(body_paragraphs)
+        else:
+            kv_raw = m_kv.group(1).strip()
+            kv_lines = [l.strip() for l in kv_raw.split("\n") if l.strip()]
+            if kv_lines:
+                if len(kv_lines) > 2 and (
+                    len(kv_lines[1]) < 105
+                    and not kv_lines[0].endswith(".")
+                    and re.search(r'(\b(?:of|to|in|on|at|for|with|and|or|as|by|from|that|than|the|a|an)|,)\s*$', kv_lines[0], re.IGNORECASE)
+                ):
+                    extracted["key_view"]["headline"] = f"{kv_lines[0]} {kv_lines[1]}"
+                    extracted["key_view"]["body"] = " ".join(kv_lines[2:])
+                else:
+                    extracted["key_view"]["headline"] = kv_lines[0]
+                    extracted["key_view"]["body"] = " ".join(kv_lines[1:])
 
     # 5. Today's Highlights
-    m_th = re.search(r'Today\'s Highlights\s*\n(.*?)\nQingdao Port Imported Ore Spot Prices', text, re.DOTALL)
+    m_th = re.search(r'Today\'s Highlights\s*\n(.*?)\nQingdao Port Imported Ore Spot\s+Prices', text, re.DOTALL)
     if m_th:
         th_raw = m_th.group(1).strip()
-        bullets = re.split(r'\n(?=[◆•\-\*]\s*|\b(?:High grade|Hot metal|SMM warns|The rebound|DCE|Spot|Import margins|Port stocks)\b)', th_raw)
+        if re.search(r'[◆•]', th_raw):
+            bullets = re.split(r'\n\s*[◆•]\s*', th_raw)
+        else:
+            # Group lines between 'Today's Highlights' and 'Qingdao Port Imported Ore Spot' using y-gap (>11pt) or lead color (1185565)
+            th_y0, th_y1 = None, None
+            for b in blocks_sorted:
+                bt = b[4].strip()
+                if bt.startswith("Today's Highlights"):
+                    th_y0 = b[1]
+                elif bt.startswith("Qingdao Port Imported Ore Spot"):
+                    th_y1 = b[1]
+                    break
+            grouped_bullets: List[str] = []
+            if th_y0 is not None and th_y1 is not None:
+                cur_b: List[str] = []
+                prev_ly1 = None
+                for b in page_dict.get("blocks", []):
+                    if b.get("type") != 0:
+                        continue
+                    by0 = b["bbox"][1]
+                    if by0 < th_y0 - 2 or by0 >= th_y1 - 2:
+                        continue
+                    for line in b.get("lines", []):
+                        spans = [sp for sp in line.get("spans", []) if sp.get("text", "").strip()]
+                        if not spans:
+                            continue
+                        line_txt = "".join(sp.get("text", "") for sp in line.get("spans", [])).strip()
+                        line_txt = re.sub(r'^[◆•\-\*]\s*', '', line_txt).strip()
+                        if not line_txt or line_txt.startswith("Today's Highlights"):
+                            continue
+                        ly0, ly1 = line["bbox"][1], line["bbox"][3]
+                        y_gap = (ly0 - prev_ly1) if prev_ly1 is not None else 99.0
+                        first_color = spans[0].get("color", 0)
+                        is_new_bullet = (not cur_b) or (y_gap > 11.0) or (first_color == 1185565 and cur_b[-1].rstrip().endswith("."))
+                        if is_new_bullet:
+                            if cur_b:
+                                grouped_bullets.append(" ".join(cur_b))
+                            cur_b = [line_txt]
+                        else:
+                            cur_b.append(line_txt)
+                        prev_ly1 = ly1
+                if cur_b:
+                    grouped_bullets.append(" ".join(cur_b))
+            bullets = grouped_bullets if grouped_bullets else re.split(r'\n(?=[◆•]\s*)', th_raw)
         for b in bullets:
-            b_clean = re.sub(r'^[◆•\-\*]\s*', '', b.strip()).replace('\n', ' ')
+            b_clean = re.sub(r'^[◆•\-\*]\s*', '', b.strip()).replace('-\n', '-').replace('\n', ' ')
+            b_clean = re.sub(r'\s{2,}', ' ', b_clean)
             if len(b_clean) > 20:
                 extracted["todays_highlights"].append(b_clean)
 
     # 6. Qingdao Port Imported Ore Spot Prices (CNY)
-    m_qd = re.search(r'Qingdao Port Imported Ore Spot Prices.*?\nProduct\s+.*?Last 12 months\s*\n(.*?)\nImported Ore USD Prices', text, re.DOTALL)
+    m_qd = re.search(
+        r'Qingdao Port Imported Ore Spot\s+Prices.*?\nProduct\s+.*?Last 12 months\s*\n(.*?)\nImported Ore USD Prices',
+        text, re.DOTALL
+    )
     if m_qd:
         qd_raw = m_qd.group(1).strip()
-        row_pat = re.compile(r'([A-Za-z0-9\s\(\)]+?\d+(?:\.\d+)?%)\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*([▲▼—\-]?\s*[\+\-\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*([\d\.]+)')
+        row_pat = re.compile(
+            r'([A-Za-z0-9\s\(\)\-]+?\d+(?:\.\d+)?%)\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*'
+            r'(?:([▲▼—\-]?\s*[\+\-\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\)\s*\n\s*as of [\d\-]+)\s*\n\s*([\d\.]+)'
+        )
         for m in row_pat.finditer(qd_raw):
-            prod = m.group(1).strip()
-            # extract Fe %
+            prod = " ".join(m.group(1).split())
             m_fe = re.search(r'(\d+(?:\.\d+)?)%', prod)
             fe_val = float(m_fe.group(1)) if m_fe else 62.0
             prod_type = "Lump" if "Lump" in prod else "Fines"
@@ -237,29 +347,42 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
                 "fe_pct": fe_val,
                 "product_type": prod_type,
                 "price_yuan_wmt": float(m.group(2)),
-                "change": parse_change_val(m.group(3)),
-                "change_pct": m.group(4).strip(),
+                "change": parse_change_val(m.group(3)) if m.group(3) else 0.0,
+                "change_pct": m.group(4).strip() if m.group(4) else "0.00% (Holiday)",
                 "mtd_avg": float(m.group(5)),
                 "unit": "yuan/wmt"
             })
 
-    # 7. Imported Ore USD Prices & MMi Indices (USD)
-    m_usd = re.search(r'Imported Ore USD Prices & MMi Indices.*?\nProduct\s+.*?Last 12 months\s*\n(.*?)\nSMM Iron Ore Price Index\s+weekly', text, re.DOTALL)
+    # 7. Imported Ore USD Prices & MMi Indices (USD, including Seaborne Fines Prices sub-table)
+    m_usd = re.search(
+        r'Imported Ore USD Prices & MMi\s+Indices.*?\nProduct\s+.*?Last 12 months\s*\n(.*?)\nSMM Iron Ore Price Index\s+weekly',
+        text, re.DOTALL
+    )
     if m_usd:
         usd_raw = m_usd.group(1).strip()
-        row_pat = re.compile(r'([A-Za-z0-9\s\(\)]+?\d+(?:\.\d+)?%)\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*([▲▼—\-]?\s*[\+\-\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)\s*\n\s*([\d\.]+)')
-        for m in row_pat.finditer(usd_raw):
-            prod = m.group(1).strip()
+        # Remove sub-table header lines so rows parse uniformly
+        usd_raw_clean = re.sub(
+            r'Seaborne Fines Prices in USD[^\n]*\n(?:[^\n]*\n){0,3}?Product\s+.*?(?:Last 12 months|MTD avg)\s*\n',
+            '\n',
+            usd_raw,
+            flags=re.DOTALL
+        )
+        row_pat = re.compile(
+            r'([A-Za-z0-9\s\(\)\-]+?\d+(?:\.\d+)?%(?:\s+[A-Za-z\s]+?Index)?)\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*'
+            r'(?:([▲▼—\-]?\s*[\+\-\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\)\s*\n\s*as of [\d\-]+)\s*\n\s*([\d\.]+)'
+        )
+        for m in row_pat.finditer(usd_raw_clean):
+            prod = " ".join(m.group(1).split())
             m_fe = re.search(r'(\d+(?:\.\d+)?)%', prod)
             fe_val = float(m_fe.group(1)) if m_fe else 62.0
-            prod_type = "Lump" if "Lump" in prod else "Fines"
+            prod_type = "Index" if "Index" in prod else ("Lump" if "Lump" in prod else "Fines")
             extracted["imported_ore_usd_prices"].append({
                 "product": prod,
                 "fe_pct": fe_val,
                 "product_type": prod_type,
                 "price_usd_dmt": float(m.group(2)),
-                "change": parse_change_val(m.group(3)),
-                "change_pct": m.group(4).strip(),
+                "change": parse_change_val(m.group(3)) if m.group(3) else 0.0,
+                "change_pct": m.group(4).strip() if m.group(4) else "0.00% (Holiday)",
                 "mtd_avg": float(m.group(5)),
                 "unit": "USD/dmt"
             })
@@ -270,7 +393,7 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
         stat_raw = m_stat.group(1).strip()
         stat_pat = re.compile(r'([A-Za-z0-9\s%]+?(?:Index|Price Index))\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*([\+\-\d\.]+%)\s*\n\s*([\+\-\d\.]+%)\s*\n\s*([A-Za-z/]+)')
         for m in stat_pat.finditer(stat_raw):
-            idx_name = m.group(1).strip()
+            idx_name = " ".join(m.group(1).split())
             extracted["index_statistics_weekly_monthly"].append({
                 "index_name": idx_name,
                 "mtd_avg": float(m.group(2)),
@@ -284,92 +407,101 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
     if m_imp_comm:
         raw_c = m_imp_comm.group(1).strip()
         sub_headers = [
-            ("Futures & Spot", r'Futures & Spot\s*\n(.*?)(?=\b(?:Driver|Demand|Inventory|Cost & Margin)\b)'),
-            ("Driver", r'Driver\s*\n(.*?)(?=\b(?:Demand|Inventory|Cost & Margin)\b)'),
-            ("Demand", r'Demand\s*\n(.*?)(?=\b(?:Inventory|Cost & Margin)\b)'),
-            ("Inventory & Supply", r'Inventory\s*&\s*\n?Supply\s*\n(.*?)(?=\b(?:Cost & Margin)\b)'),
-            ("Cost & Margin", r'Cost & Margin\s*\n(.*?)$')
+            ("Futures & Spot", r'Futures\s*&\s*spot\s*\n(.*?)(?=\n\s*(?:Drivers?|Demand|Inventory|Cost\s*&\s*margin)\b)'),
+            ("Driver", r'Drivers?\s*\n(.*?)(?=\n\s*(?:Demand|Inventory|Cost\s*&\s*margin)\b)'),
+            ("Demand", r'Demand\s*\n(.*?)(?=\n\s*(?:Inventory|Cost\s*&\s*margin)\b)'),
+            ("Inventory & Supply", r'Inventory\s*&\s*\n?supply\s*\n(.*?)(?=\n\s*(?:Cost\s*&\s*margin)\b)'),
+            ("Cost & Margin", r'Cost\s*&\s*\n?margin\s*\n(.*?)$')
         ]
         for name, p_sub in sub_headers:
-            m_s = re.search(p_sub, raw_c, re.DOTALL)
+            m_s = re.search(p_sub, raw_c, re.DOTALL | re.IGNORECASE)
             if m_s:
-                extracted["market_commentary_imported"][name] = m_s.group(1).strip().replace("\n", " ")
+                extracted["market_commentary_imported"][name] = re.sub(r'\s{2,}', ' ', m_s.group(1).strip().replace("\n", " "))
 
     # 10. Market Commentary (Domestic Ore)
     m_dom_comm = re.search(r'Market Commentary · Domestic Ore\s*\n(.*?)\nMarket Factors', text, re.DOTALL)
     if m_dom_comm:
         raw_d = m_dom_comm.group(1).strip()
         sub_headers_dom = [
-            ("Prices", r'Prices\s*\n(.*?)(?=\b(?:Supply|Outlook)\b)'),
-            ("Supply & Demand", r'Supply(?:\s*&\s*\n?Demand)?\s*\n(.*?)(?=\b(?:Outlook)\b)'),
+            ("Prices", r'Prices\s*\n(.*?)(?=\n\s*(?:Supply|Outlook)\b)'),
+            ("Supply & Demand", r'Supply(?:\s*&\s*\n?demand)?\s*\n(.*?)(?=\n\s*(?:Outlook)\b)'),
             ("Outlook", r'Outlook\s*\n(.*?)$')
         ]
         for name, p_sub in sub_headers_dom:
-            m_s = re.search(p_sub, raw_d, re.DOTALL)
+            m_s = re.search(p_sub, raw_d, re.DOTALL | re.IGNORECASE)
             if m_s:
-                extracted["market_commentary_domestic"][name] = m_s.group(1).strip().replace("\n", " ")
+                extracted["market_commentary_domestic"][name] = re.sub(r'\s{2,}', ' ', m_s.group(1).strip().replace("\n", " "))
 
     # 11. Market Factors
     m_fac = re.search(r'Market Factors\s*\n(.*?)\nFlash News', text, re.DOTALL)
     if m_fac:
         raw_fac = m_fac.group(1)
-        m_sup = re.search(r'▲\s*Supportive factors\s*\n(.*?)(?=▼\s*Bearish factors)', raw_fac, re.DOTALL)
-        m_bear = re.search(r'▼\s*Bearish factors\s*\n(.*?)$', raw_fac, re.DOTALL)
+        m_sup = re.search(r'▲\s*Supportive factors\s*\n(.*?)(?=▼\s*Bearish factors)', raw_fac, re.DOTALL | re.IGNORECASE)
+        m_bear = re.search(r'▼\s*Bearish factors\s*\n(.*?)$', raw_fac, re.DOTALL | re.IGNORECASE)
+        def _split_factor_bullets(raw_str: str) -> List[str]:
+            if re.search(r'[•◆]', raw_str):
+                return [re.sub(r'\s{2,}', ' ', b.replace('-\n', '-').replace('\n', ' ').strip()) for b in re.split(r'[•◆]\s*', raw_str) if len(b.strip()) > 10]
+            # When bullet glyphs are vector shapes, each bullet ends with a period at the end of a line followed by a newline and uppercase start
+            parts = re.split(r'(?<=\.)\s*\n\s*(?=[A-Z0-9])', raw_str)
+            return [re.sub(r'\s{2,}', ' ', re.sub(r'^[•\-\*]\s*', '', p.strip()).replace('-\n', '-').replace('\n', ' ')) for p in parts if len(p.strip()) > 10]
+
         if m_sup:
-            sup_bullets = [re.sub(r'^[•\-\*]\s*', '', b.strip()).replace('\n', ' ') for b in m_sup.group(1).split('\n\n') if b.strip()]
-            if not sup_bullets:
-                sup_bullets = [re.sub(r'^[•\-\*]\s*', '', b.strip()).replace('\n', ' ') for b in m_sup.group(1).split('\n') if len(b.strip()) > 15]
-            extracted["market_factors"]["supportive"] = sup_bullets
+            extracted["market_factors"]["supportive"] = _split_factor_bullets(m_sup.group(1).strip())
         if m_bear:
-            bear_bullets = [re.sub(r'^[•\-\*]\s*', '', b.strip()).replace('\n', ' ') for b in m_bear.group(1).split('\n\n') if b.strip()]
-            if not bear_bullets:
-                bear_bullets = [re.sub(r'^[•\-\*]\s*', '', b.strip()).replace('\n', ' ') for b in m_bear.group(1).split('\n') if len(b.strip()) > 15]
-            extracted["market_factors"]["bearish"] = bear_bullets
+            extracted["market_factors"]["bearish"] = _split_factor_bullets(m_bear.group(1).strip())
 
     # 12. Key Price Drivers metrics (from text & charts)
-    m_fr = re.search(r'C3 Brazil→China at USD ([\d\.]+)/mt and C5 Australia→China at ([\d\.]+)/mt', text)
-    if m_fr:
-        extracted["key_price_drivers"]["freight_c3_usd_mt"] = float(m_fr.group(1))
-        extracted["key_price_drivers"]["freight_c5_usd_mt"] = float(m_fr.group(2))
-    m_hm = re.search(r'hot metal (?:output )?at ([\d\.]+) million mt', text)
+    m_fr_c3 = re.search(r'(?:C3(?:\s+Brazil[→–\-]China)?\s+(?:freight\s+)?(?:at|was|stood at|slid[^\n]*?to)?\s*(?:USD\s*)?([\d\.]+)\s*(?:USD)?/mt|USD\s*([\d\.]+)/mt\s+for\s+C3|C3\s+([\d\.]+))', text, re.IGNORECASE)
+    if m_fr_c3:
+        val_c3 = m_fr_c3.group(1) or m_fr_c3.group(2) or m_fr_c3.group(3)
+        extracted["key_price_drivers"]["freight_c3_usd_mt"] = float(val_c3)
+    m_fr_c5 = re.search(r'(?:C5(?:\s+Australia[→–\-]China)?\s+(?:freight\s+)?(?:at|was|stood at)?\s*(?:USD\s*)?([\d\.]+)\s*(?:USD)?/mt|([\d\.]+)(?:/mt)?\s+for\s+C5|C5\s+([\d\.]+))', text, re.IGNORECASE)
+    if m_fr_c5:
+        val_c5 = m_fr_c5.group(1) or m_fr_c5.group(2) or m_fr_c5.group(3)
+        extracted["key_price_drivers"]["freight_c5_usd_mt"] = float(val_c5)
+    m_hm = re.search(r'(?:hot metal(?:\s+output)?(?:\s+across\s+242\s+mills)?\s+(?:was|at|stood at|remained at|fell[^\n]*?to|rose[^\n]*?to)\s+([\d\.]+)\s*million\s*mt|Hot metal\s*\(([\d\.]+)\s*million\s*mt\))', text, re.IGNORECASE)
     if m_hm:
-        extracted["key_price_drivers"]["hot_metal_daily_avg_mt_million"] = float(m_hm.group(1))
-    m_bf = re.search(r'blast furnace operating rate (?:was|at) ([\d\.]+)%', text)
+        extracted["key_price_drivers"]["hot_metal_daily_avg_mt_million"] = float(m_hm.group(1) or m_hm.group(2))
+    m_bf = re.search(r'blast furnace operating rate\s+(?:was|at|stood at|of)\s+([\d\.]+)%', text, re.IGNORECASE)
     if m_bf:
         extracted["key_price_drivers"]["bf_operating_rate_pct"] = float(m_bf.group(1))
-    m_cap = re.search(r'capacity utilisation (?:was|at) ([\d\.]+)%', text)
+    m_cap = re.search(r'capacity utilisation\s+(?:was|at|stood at|of)\s+([\d\.]+)%', text, re.IGNORECASE)
     if m_cap:
         extracted["key_price_drivers"]["bf_capacity_utilisation_pct"] = float(m_cap.group(1))
-    m_p10 = re.search(r'10-port total was ([\d\.]+) million mt', text)
+    m_p10 = re.search(r'(?:(?:10-port\s+(?:total|inventory|iron ore inventory|stocks)|inventory across the 10 major ports)\s*(?:was|at|stood at|reached|fell[^\n]*?to|rose[^\n]*?to|\()?\s*([\d\.]+)\s*million\s*mt|([\d\.]+)\s*million\s*mt\s+across\s+10\s+ports)', text, re.IGNORECASE)
     if m_p10:
-        extracted["key_price_drivers"]["port_inventory_10_ports_mt_million"] = float(m_p10.group(1))
-    m_p35 = re.search(r'35-port inventory ([\d\.]+) million mt', text)
+        extracted["key_price_drivers"]["port_inventory_10_ports_mt_million"] = float(m_p10.group(1) or m_p10.group(2))
+    m_p35 = re.search(r'(?:35-port\s+(?:inventory|total|stocks)\s+(?:was|at|stood at|reached|fell[^\n]*?to|rose[^\n]*?to)?\s*([\d\.]+)\s*million\s*mt|([\d\.]+)\s*million\s*mt\s+across\s+35\s+ports)', text, re.IGNORECASE)
     if m_p35:
-        extracted["key_price_drivers"]["port_inventory_35_ports_mt_million"] = float(m_p35.group(1))
-    m_out = re.search(r'daily outbound volume ([\d\.]+) million mt', text)
+        extracted["key_price_drivers"]["port_inventory_35_ports_mt_million"] = float(m_p35.group(1) or m_p35.group(2))
+    m_out = re.search(r'daily outbound volume\s+(?:was|at|stood at|averaged)?\s*([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
     if m_out:
         extracted["key_price_drivers"]["daily_outbound_volume_mt_million"] = float(m_out.group(1))
-    m_mstk = re.search(r'imported ore stocks at 242 mills ([\d\.]+) million mt', text)
+    m_mstk = re.search(r'imported ore stocks at 242(?:\s+steel)?\s+mills\s+(?:were|was|at|stood at)?\s*([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
     if m_mstk:
         extracted["key_price_drivers"]["mill_imported_stocks_242_mills_mt_million"] = float(m_mstk.group(1))
-    m_mday = re.search(r'with ([\d\.]+) days of cover', text)
+    m_mday = re.search(r'with\s+([\d\.]+)\s+days of cover', text, re.IGNORECASE)
     if m_mday:
         extracted["key_price_drivers"]["mill_stocks_cover_days"] = float(m_mday.group(1))
-    m_ship = re.search(r'Global shipments last week were ([\d\.]+) million mt', text)
+    m_ship = re.search(r'Global\s+(?:iron ore\s+)?shipments[^\n]*?(?:were|at|totaled|reached|to)\s+([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
     if m_ship:
         extracted["key_price_drivers"]["global_shipments_mt_million"] = float(m_ship.group(1))
-    m_arr = re.search(r'arrivals at Chinese ports ([\d\.]+) million mt', text)
+    m_arr = re.search(r'arrivals\s+(?:at Chinese ports|in China)[^\n]*?(?:were|at|totaled|reached|to|fell[^\n]*?to|rose[^\n]*?to)?\s+([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
     if m_arr:
         extracted["key_price_drivers"]["arrivals_chinese_ports_mt_million"] = float(m_arr.group(1))
-    m_dom_u = re.search(r'domestic mine capacity utilisation (?:rose to|was) ([\d\.]+)%', text)
+    m_dom_u = re.search(r'(?:domestic mine capacity utilisation\s+(?:rose to|fell to|was|at|stood at)\s+([\d\.]+)%|([\d\.]+)%\s+mine capacity utilisation rate)', text, re.IGNORECASE)
     if m_dom_u:
-        extracted["key_price_drivers"]["domestic_mine_capacity_utilisation_pct"] = float(m_dom_u.group(1))
+        extracted["key_price_drivers"]["domestic_mine_capacity_utilisation_pct"] = float(m_dom_u.group(1) or m_dom_u.group(2))
 
-    # 13. Flash News
-    m_fn = re.search(r'Flash News.*?\nLast 2 days[^\n]*\n(.*?)\nContact Us', text, re.DOTALL)
+    # 13. Flash News (handles both 'Last 2 days' and holiday subheaders, joining wrapped lines per item)
+    m_fn = re.search(r'Flash News\s*\n(?:Last \d+ days[^\n]*|No SMM items[^\n]*)\n(.*?)\nContact Us', text, re.DOTALL)
     if m_fn:
         fn_raw = m_fn.group(1).strip()
-        fn_lines = [re.sub(r'^[•\-\*]\s*', '', l.strip().replace('↗', '').strip()) for l in fn_raw.split('\n') if len(l.strip()) > 15]
+        if '↗' in fn_raw:
+            fn_items = [item.strip() for item in fn_raw.split('↗') if item.strip()]
+            fn_lines = [re.sub(r'\s{2,}', ' ', re.sub(r'^[•\-\*]\s*', '', item.replace('\n', ' ').strip())) for item in fn_items if len(item.strip()) > 15]
+        else:
+            fn_lines = [re.sub(r'^[•\-\*]\s*', '', l.strip()) for l in fn_raw.split('\n') if len(l.strip()) > 15]
         extracted["flash_news"] = fn_lines
 
     doc.close()
@@ -519,6 +651,21 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
 
     kpd = data.get("key_price_drivers", {})
     if kpd:
+        kpd_label_map = {
+            "freight_c3_usd_mt": ("C3 Freight (Brazil to China)", "USD/mt"),
+            "freight_c5_usd_mt": ("C5 Freight (Australia to China)", "USD/mt"),
+            "hot_metal_daily_avg_mt_million": ("Daily Avg Hot Metal Output (242 Mills)", "Million MT"),
+            "bf_operating_rate_pct": ("Blast Furnace Operating Rate (242 Mills)", "%"),
+            "bf_capacity_utilisation_pct": ("Blast Furnace Capacity Utilisation (242 Mills)", "%"),
+            "port_inventory_10_ports_mt_million": ("Iron Ore Port Inventory (10 Major Ports)", "Million MT"),
+            "port_inventory_35_ports_mt_million": ("Iron Ore Port Inventory (35 Major Ports)", "Million MT"),
+            "daily_outbound_volume_mt_million": ("Daily Avg Port Outbound Volume", "Million MT"),
+            "mill_imported_stocks_242_mills_mt_million": ("Imported Ore Stocks (242 Steel Mills)", "Million MT"),
+            "mill_stocks_cover_days": ("Steel Mill Imported Ore Inventory Cover", "Days"),
+            "global_shipments_mt_million": ("Global Iron Ore Shipments (Weekly)", "Million MT"),
+            "arrivals_chinese_ports_mt_million": ("Chinese Port Arrivals (Weekly)", "Million MT"),
+            "domestic_mine_capacity_utilisation_pct": ("Domestic Mine Capacity Utilisation", "%"),
+        }
         lines.extend([
             "### Operational Fundamentals Snapshot",
             "",
@@ -526,8 +673,11 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
             "|:---|:---:|:---:|"
         ])
         for k, v in kpd.items():
-            label = k.replace("_", " ").title()
-            unit = "%" if "pct" in k else ("USD/mt" if "usd" in k else "Million MT")
+            if k in kpd_label_map:
+                label, unit = kpd_label_map[k]
+            else:
+                label = k.replace("_", " ").title()
+                unit = "%" if "pct" in k else ("USD/mt" if "usd" in k else ("Days" if "days" in k else "Million MT"))
             lines.append(f"| {label} | {v} | {unit} |")
 
     # Market Commentary - Imported Ore
