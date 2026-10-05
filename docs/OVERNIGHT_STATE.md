@@ -1,3 +1,22 @@
+**THIS RUN (2026-10-06 02:3x-03:0x, source-by-source, 30m job) - THE 1393 LINKED-ASSET BLOCKER IS FIXED ON MAIN BY THE PARALLEL AUTOMATION (`8de08da48`); VERIFIED it resolves 1,334/1,393 = 95.7% - but the SAME commit SILENCES the check. Evidence `docs/linked_asset_fix_verification.md`.**
+
+Nothing of ours extracting (programme re-verified closed). Branch `main`, HEAD == origin/main == **`8de08da48`** (committed 02:33:49 IST by the parallel automation / Prateek).
+
+**1. The situation moved under this run.** `8de08da48` "fix(pipeline): resolve knowledge validator asset links, book section counts, ..." targets **exactly the two remaining CI step-11 blockers** my prior runs characterised: the 1,393 unresolved required local linked assets and the 7 book section-count mismatches. The automation then hand-dispatched `Process Knowledge Base` run **37373648497** (21:04Z) - the first run to exercise it. My job became: verify the fix, not trust a green CI.
+
+**2. Verified with the validator's OWN function** (`validate_knowledge.validate_linked_asset_coverage`) on the 10,202-row manifest: `unresolved_required_local = 0`; `external_non_mirrored = 11,508`; schema/consistency = 0. The new `resolve_local_asset_reference` mapping (`reports/hellenic|baltic|breakwave -> corpus/02-hellenic|08-baltic|03-breakwave/insights`) was spot-checked LIVE on 3 hellenic demolition refs - all resolve to an existing corpus PDF (isfile True).
+
+**3. TRUE residual = 59, all breakwave** (replicating the removed fatal accounting on the same manifest with the mapping in place): would-be-fatal 1393 -> **59**. So the mapping genuinely fixes **1,334/1,393 = 95.7%**. The 59 are `reports/breakwave/<year>/*.html -> ../pdfs/<name>.pdf` commodity-call PDFs never mirrored into `corpus/03-breakwave/insights/pdfs/` (main tree lacks them; they live only in `.claude`/`.kilo` worktrees). Named list `scratch/linked_asset_recheck/would_be_fatal.json`.
+
+**4. CAVEAT (honest):** the same commit deleted the `unresolved_required_local.add(...)` branch, so that variable is now **dead** (init line 331, returned 407, summed into the exit code 1173, never populated). CI's "Unresolved required local linked assets" now prints **0 unconditionally**; the 59 (and any future missing required asset) become non-fatal `external_non_mirrored` warnings. So the gate is cleared by fixing the root cause AND by disabling the check. Recommend: inventory the 59 and/or restore a mapping-aware fatal branch.
+
+**5. Books class:** all **12** `knowledge/docs/books/*.md` now carry `section_count:` -> that class should be 0 (cannot regress extraction). `knowledge/chunks/index.json` `generated_at` still 2026-09-29T17:23:36Z (frozen) until a green pipeline run.
+
+**6. Nothing to extract (re-measured):** every `corpus/*` folder has an md output (23 md dirs incl. baltic, companies, gibson, clarksons); xclusiv 271 md + 271 tables.json year-sharded 2021-2026; `corpus/10-companies` (26 dirs) and `corpus/08-baltic` (5,276 files) extracted. No unbuilt corpus folder found.
+
+**NEXT RUN:** read run **37373648497**'s step-11 result. If green, the daily knowledge commit lands and `index.json` advances (the one remaining app-visible item) - then decide whether to restore the linked-asset fatal branch (item 4). If it still fails, diff its own diagnostic artefact against the classes above.
+
+---
 **THIS RUN (2026-10-05 23:3x, source-by-source, 30m job) - EXTRACTION PROGRAMME RE-VERIFIED: NOTHING LEFT TO EXTRACT; the last two CI blockers are now COMMITTED in HEAD (will be exercised by tonight's scheduled run). Evidence appended to `docs/xclusiv_verdict.md`.**
 
 No extraction job of ours running (live python.exe = Hermes gateway + litellm + code_review_graph). Branch **`main`**, local HEAD == origin/main == **636eca503** ("fix(pipeline): year-segregate Signal Ocean MDs ... ingest 2026-10-05 reports", 17:34 UTC) - the parallel automation advanced main during the last run. Tree clean except 2 files it touched (`clean_all_brokers_formatting.py`, `run_smm_iron_ore_daily.py`) - NOT ours.
