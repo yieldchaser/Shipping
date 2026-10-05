@@ -1,3 +1,22 @@
+**THIS RUN (2026-10-06 04:0x, source-by-source, 30m job) - THE 59 BREAKWAVE WOULD-BE-FATAL LINKED ASSETS ARE NOW CLOSED (0 residual, measured with the validator's own accounting). Evidence `docs/breakwave_pdf_mirror_verdict.md`.**
+
+Nothing of ours extracting (programme re-verified closed). Branch `auto/extract-fixes-2026-10-06-linkedasset-verify`, HEAD `77c0270d7` (2 doc-only commits ahead of origin/main `8de08da48`).
+
+**1. The one open item from last run, fixed.** `8de08da48`'s mapping resolved 1,334/1,393 unresolved required local linked assets, leaving **59 all breakwave**. Measured: `corpus/03-breakwave/insights/pdfs/` held only **13 PDFs**; the 59 referenced `../pdfs/<name>.pdf` were never mirrored. They are NOT lost - they sit in the gitignored `reports/breakwave/pdfs/` of the two worktrees (`.kilo/worktrees/grizzled-opportunity` and `.claude/worktrees/maritime-audit-docs-review-a8b612`, 81 PDFs each, all 59 present). The MAIN tree's `reports/breakwave/pdfs/` is empty (`.gitignore:69`).
+
+**2. Action (additive).** `cp -n` all 81 worktree PDFs into `corpus/03-breakwave/insights/pdfs/` (13 already there were identical, nothing clobbered). Mirror 13 -> **81 files (21 MB)**, gitignored bulk PDFs per convention. Only `logs/fleet_sync.log` shows in `git status` (not ours).
+
+**3. VERIFIED with the validator's OWN code.** `validate_knowledge.resolve_local_asset_reference`: **59/59 resolve to an existing file** (was 0). Full-corpus fatal-accounting replication (`scratch/linked_asset_recheck/check2.py`): unresolved required-marker local refs **59 -> 0**; would-be-fatal **59 -> 0**. Combined with `8de08da48`: 1,393 -> **0**.
+
+**4. HONEST CAVEAT - the GATE is still dead in HEAD.** `unresolved_required_local` in `scripts/validate_knowledge.py` is init (331) / returned (407) / summed into the exit code (1173) but **never populated** (no `.add`), so line 1114 prints 0 unconditionally. This run restored the DATA, not the check. Owner action (trunk code, NOT done here): restore a mapping-aware fatal branch.
+
+**5. CI still unresolved at run time.** `Process Knowledge Base` **37375284821** (21:20Z, on `8de08da48`) was still `in_progress`, stuck in step 9 `Run processor` since 21:28Z (>70 min vs ~3 min on the 2026-09-28 success) - hung or genuinely heavy, unjudgeable without its log. `Daily Knowledge Update` **37380480306** (22:08Z) pending; the daily workflow has failed 7 runs straight (09-29..10-05), last green 09-28. Did NOT re-dispatch (avoid double paid CI).
+
+**6. Nothing to extract - 4th measurement, md5-verified.** affinity 256 pdf/249 md -> the 7 "missing" are md5 twins of extracted files; star_asia 201/200 -> the 1 missing (W40) is an md5 twin too. All other brokers 1:1. No gap.
+
+**7. Ledger residual (quick scan).** exact-duplicate rows across all `*_series.csv`: **28 total** in 7 files (hellenic_vv_matrix 15/12,350 worst); the bancosta 106-row case is gone. Small; not chased (unverified vs source).
+
+---
 **THIS RUN (2026-10-06 02:3x-03:0x, source-by-source, 30m job) - THE 1393 LINKED-ASSET BLOCKER IS FIXED ON MAIN BY THE PARALLEL AUTOMATION (`8de08da48`); VERIFIED it resolves 1,334/1,393 = 95.7% - but the SAME commit SILENCES the check. Evidence `docs/linked_asset_fix_verification.md`.**
 
 Nothing of ours extracting (programme re-verified closed). Branch `main`, HEAD == origin/main == **`8de08da48`** (committed 02:33:49 IST by the parallel automation / Prateek).
