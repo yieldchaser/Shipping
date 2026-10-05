@@ -1,3 +1,27 @@
+**THIS RUN (2026-10-05 14:1x, hourly supervisor) - `parse_number` x1000 REGRESSION FIXED at the root (shape-gated), validated 18/18. Evidence `docs/parse_number_shape_fix_verdict.md`.**
+
+No extraction job was running (live python.exe set = Hermes gateway x2 + litellm x2 + code_review_graph serve; the 13:44-13:46 mtime on the iron-ore chunk shards is the 13:3x run's heal, not a live job). The prior run's named NEXT-RUN item ("make parse_number's x1000 rule SHAPE-based") is now DONE and measured.
+
+**Fix:** `scripts/process_knowledge.py::parse_number` rescaled ANY dotted value in [5,100) by 1000, so the iron-ore re-ingest turned 30.43 -> 30430.0 / 13.21 -> 13210.0 (the md was reverted last run). The rescale is now gated on shape - only a dot followed by EXACTLY three digits (thousands signature): `re.fullmatch(r"-?\d+\.\d{3}", token)`. py_compile OK; diff 8+/5-. Validated on the ACTUAL function (AST-extracted): 18/18 cases - 9.750->9750, 60.000->60000, 82.900->82900, 8.700->8700 preserved; 30.43, 13.21, 8.7, 4.999, 1.234 left untouched. Only process_knowledge.py carried the rule (the per-source copies do not) - not touched.
+
+**Also verified this run (closes the text-audit chunk item):** manifest declares 106,174 chunks across 93 chunk files; on disk 106,503 across 93 - **SHORT files 0**. The 11 empty + 6 partial hellenic shards reported 2026-10-04 are fully healed (iron_ore 2022 17,381 / 2026 4,911; shipbuilding + vessel_valuations shards non-empty).
+
+**NOT done:** no iron-ore md re-ingest - the fix is inert until regeneration and re-ingest is the exact operation that caused the regression; left for a controlled pass. Changes UNCOMMITTED.
+
+---
+
+**THIS RUN (2026-10-05 13:3x, source-by-source, 30m job) - IRON-ORE CHUNK GAP HEALED (app-visible), AND A `parse_number` x1000 REGRESSION FOUND + REVERTED. Evidence `docs/iron_ore_chunk_heal_verdict.md`.**
+
+No extraction job was running (live python.exe set = Hermes gateway + litellm + code_review_graph serve; the 13:02 mtime churn on knowledge/ was a sibling's checkout, not a job). All named sources remain CLOSED: across corpus/01-brokers, every source's md is NEWER than its newest PDF (0 newly-collected-unextracted).
+
+**The 2026-10-04 23:5x target is done.** The 11 empty hellenic shards were already healed by commit 0924975de (shipbuilding/vessel_valuations). The ONLY short shards left were 3 iron-ore ones; ran `scripts/repair_hellenic_shards.py --categories iron_ore` (corpus/02-hellenic override, LLM off): **533/533 docs, 0 errors**. Chunks 92,299 -> 106,514; 2022 shard 6,544 -> 17,381 (155 missing docs recovered), 2026 1,752 -> 4,911 (116 recovered). Re-audit: **short shards 0, docs-with-zero-chunks 0**. Chunk text verified against the PDF (30.43 C3, 13.21 C5) - raw values CORRECT, no x1000 in any shard.
+
+**REGRESSION (reverted):** the same run regenerated `knowledge/docs|trees/hellenic/iron_ore/**` through `process_knowledge.parse_number`, whose global rule (`35b468aa6`, 2026-06-23) multiplies any decimal in [5,100) by 1000 - RIGHT for the OCR `9.750`->9750 case, WRONG for iron ore (30.43 -> 30430.0). Verified against the rendered PDF; control doc 2022-01-04 HEAD md 87400=0 -> regenerated 87400=2. **Action:** `git checkout HEAD -- knowledge/docs/hellenic/iron_ore knowledge/trees/hellenic/iron_ore` (kept the correct CHUNK heal - that is what the app serves). Manifest kept (533 iron_ore rows: source_path reports->corpus, counts updated; 10,202 rows, 0 dup).
+
+**OPEN / NEXT-RUN (do NOT blindly re-run the iron-ore repair - it re-corrupts md):** make `parse_number`'s x1000 rule SHAPE-based (exactly 3 decimals after the dot) or source-scoped, validated per source, then optionally re-ingest the iron-ore md. Changes this run are LEFT UNCOMMITTED (intentional vs "NEVER touch main"; sibling's run_fearnleys_normalized.py edit untouched). Ledger defect list still EMPTY.
+
+---
+
 **THIS RUN (2026-10-04 23:5x) - TEXT-AUDIT REFRESH: corpus text COMPLETE and unchanged; the knowledge CHUNK TIER is the open item (17,338-chunk shortfall, 11 empty + 6 partial hellenic shards, all app-referenced). Evidence `docs/text_audit_recheck_verdict.md`, `data/extracted/text_audit_recheck.json`.**
 
 No extraction job of ours was running (live python.exe set = Hermes gateway + litellm + code_review_graph serve; no delegation task-log newer than 2026-09-22). Audit job #1 (`data/extracted/text_audit.json`) still carried its 2026-09-23 stamp while table/gap audits were refreshed 2026-10-04, so it was re-measured against the current corpus + knowledge tier.

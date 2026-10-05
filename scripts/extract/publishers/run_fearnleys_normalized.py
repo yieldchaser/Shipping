@@ -90,7 +90,14 @@ def clean_encoding(text: str) -> str:
     text = text.replace("\ufb00", "ff").replace("\ufb01", "fi").replace("\ufb02", "fl").replace("\ufb03", "ffi").replace("\ufb04", "ffl")
     text = re.sub(r"(\w)\ufffd(\w)", r"\1'\2", text)
     text = text.replace("\ufffd", " ")
+    text = text.replace("\u2060", "")
     return text
+
+
+def normalize_section_header(ln: str) -> str:
+    cleaned = re.sub(r"0[1-6]", " ", ln).strip()
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned
 
 
 def extract_date_and_week(pdf_path: Path, first_page_text: str) -> Tuple[str, int, int]:
@@ -217,31 +224,45 @@ def extract_clean_commentary(doc: pymupdf.Document) -> List[Tuple[str, str, str]
     sections = {
         "Tankers": ["VLCC", "Suezmax", "Aframax", "NORTH SEA", "MEDITERRANEAN"],
         "Dry Bulk": ["Capesize", "Panamax", "Supramax", "Handysize"],
-        "Gas": ["East", "West", "LPG", "LNG"]
+        "Gas": ["Chartering", "East", "West", "LPG", "LNG"]
     }
 
     current_sec = "Tankers"
     current_sub = "General"
+    in_rates_mode = False
     current_p_lines = []
     paragraphs = []
+
+    def flush_current():
+        nonlocal current_p_lines
+        if current_p_lines:
+            full_text = " ".join(current_p_lines).strip()
+            if full_text:
+                paragraphs.append((current_sec, current_sub, full_text))
+            current_p_lines = []
 
     # Commentary lives on pages 1 to 14
     max_pages = min(14, len(doc))
     for pno in range(max_pages):
-        raw_text = clean_encoding(doc[pno].get_text("text"))
+        raw_text = clean_encoding(doc[pno].get_text("text", sort=True))
         lines = [l.strip() for l in raw_text.splitlines() if l.strip()]
 
         for ln in lines:
+            sec_cand = normalize_section_header(ln)
+            if sec_cand in ["Tankers", "Dry Bulk", "Gas"]:
+                flush_current()
+                current_sec = sec_cand
+                current_sub = "General"
+                in_rates_mode = False
+                continue
+
             if is_garbage_line(ln):
                 continue
 
-            # Check chapter transitions
-            if ln in ["Tankers", "Dry Bulk", "Gas"]:
-                if current_p_lines:
-                    paragraphs.append((current_sec, current_sub, " ".join(current_p_lines)))
-                    current_p_lines = []
-                current_sec = ln
-                current_sub = "General"
+            # Stop scanning if rate table encountered
+            if ln.lower() in ["rates", "lpg rates", "lng rates"] or any(k in ln for k in ["MEG/WEST", "TCE Cont/Far East", "VLGC", "1 Year T/C Crude", "1 Year T/C Dry Bulk"]):
+                flush_current()
+                in_rates_mode = True
                 continue
 
             # Check sub-headings
@@ -249,36 +270,28 @@ def extract_clean_commentary(doc: pymupdf.Document) -> List[Tuple[str, str, str]
             if current_sec in sections:
                 for sub in sections[current_sec]:
                     if ln.lower() == sub.lower():
-                        if current_p_lines:
-                            paragraphs.append((current_sec, current_sub, " ".join(current_p_lines)))
-                            current_p_lines = []
+                        flush_current()
                         current_sub = sub.title()
                         is_sub = True
+                        in_rates_mode = False
                         break
             if is_sub:
                 continue
 
-            # Stop scanning if rate table encountered
-            if any(k in ln for k in ["MEG/WEST", "TCE Cont/Far East", "VLGC", "1 Year T/C Crude", "1 Year T/C Dry Bulk"]):
+            if in_rates_mode:
                 continue
 
             # Add prose line
             if len(ln.split()) >= 3 or (current_p_lines and ln.endswith(".")):
                 current_p_lines.append(ln)
-                if ln.endswith((".", '."', "!'", "?'")) and len(" ".join(current_p_lines)) > 120:
-                    paragraphs.append((current_sec, current_sub, " ".join(current_p_lines)))
-                    current_p_lines = []
 
-    if current_p_lines and len(" ".join(current_p_lines)) > 40:
-        paragraphs.append((current_sec, current_sub, " ".join(current_p_lines)))
+    flush_current()
 
     # Filter genuine prose paragraphs
     clean_paragraphs = []
     for sec, sub, text in paragraphs:
         t = text.strip()
-        if len(t) < 80:
-            continue
-        if not t.endswith((".", '."', ".'", "?", "!")):
+        if len(t) < 40:
             continue
         if any(kw.lower() in t.lower() for kw in TABLE_KEYWORDS):
             continue

@@ -77,6 +77,8 @@ SALES_SERIES_CSV = OUT_SERIES / "xclusiv_sales_series.csv"
 DEMO_SERIES_CSV = OUT_SERIES / "xclusiv_demolition_series.csv"
 SECONDHAND_SERIES_CSV = OUT_SERIES / "xclusiv_secondhand_series.csv"
 DEMO_SALES_SERIES_CSV = OUT_SERIES / "xclusiv_demo_sales_series.csv"
+BALTIC_SERIES_CSV = OUT_SERIES / "xclusiv_baltic_indices_series.csv"
+NB_PRICES_SERIES_CSV = OUT_SERIES / "xclusiv_newbuilding_series.csv"
 
 MONTH_MAP = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
@@ -324,7 +326,9 @@ def extract_sales_tables(
 ) -> List[Dict[str, Any]]:
     sales_rows: List[Dict[str, Any]] = []
 
-    for pno, pg in enumerate(doc):
+    max_pages = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+    for pno in range(max_pages):
+        pg = doc[pno]
         words = _dedupe_words(pg.get_text("words"))
         if not words:
             continue
@@ -514,7 +518,9 @@ def extract_demo_sales_tables(
 ) -> List[Dict[str, Any]]:
     demo_sales: List[Dict[str, Any]] = []
 
-    for pno, pg in enumerate(doc):
+    max_pages = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+    for pno in range(max_pages):
+        pg = doc[pno]
         words = _dedupe_words(pg.get_text("words"))
         if not words:
             continue
@@ -616,8 +622,9 @@ def extract_indicative_demolition(
 ) -> List[Dict[str, Any]]:
     records: List[Dict[str, Any]] = []
 
-    # 1. Check Modern Era (2024-2026): Page with Dry Demolition Prices & Tanker Demolition Prices
-    for pno, pg in enumerate(doc):
+    max_pages = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+    for pno in range(max_pages):
+        pg = doc[pno]
         txt = pg.get_text()
         if "DRY DEMOLITION PRICES" in txt.upper() and "TANKER DEMOLITION PRICES" in txt.upper():
             words = _dedupe_words(pg.get_text("words"))
@@ -715,8 +722,9 @@ def extract_secondhand_prices(
 ) -> List[Dict[str, Any]]:
     records: List[Dict[str, Any]] = []
 
-    # 1. Check Modern Era (2024-2026): Left box on Dry (Page 5) and Tanker (Page 6)
-    for pno, pg in enumerate(doc):
+    max_pages = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+    for pno in range(max_pages):
+        pg = doc[pno]
         txt = pg.get_text()
 
         # Modern Dry
@@ -871,7 +879,9 @@ def extract_newbuilding_orders(
 ) -> List[Dict[str, Any]]:
     orders: List[Dict[str, Any]] = []
 
-    for pno, pg in enumerate(doc):
+    max_pages = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+    for pno in range(max_pages):
+        pg = doc[pno]
         words = _dedupe_words(pg.get_text("words"))
         for i, w in enumerate(words):
             if w[4].upper() == "NEWBUILDING" and i + 1 < len(words) and words[i + 1][4].upper() == "ORDERS":
@@ -958,7 +968,8 @@ def extract_newbuilding_prices(
 ) -> List[Dict[str, Any]]:
     records: List[Dict[str, Any]] = []
 
-    for pno in range(min(5, len(doc))):
+    max_pages = min(5, len(doc) - 2) if len(doc) >= 6 else min(5, len(doc))
+    for pno in range(max_pages):
         pg = doc[pno]
         txt = pg.get_text()
         if "NEWBUILDING PRICES" in txt.upper() or "NEWBUILDING  PRICES" in txt.upper():
@@ -1009,14 +1020,15 @@ def extract_newbuilding_prices(
 # Market & Freight Commentary Extraction (Column-Aware)
 # ---------------------------------------------------------------------------
 
-def extract_market_overview(doc: pymupdf.Document) -> Tuple[List[str], List[str]]:
-    """Extract In a Nutshell bullets and Market Commentary prose without column collisions."""
+def extract_market_overview(doc: pymupdf.Document) -> Tuple[str, List[str], List[str]]:
+    """Extract Editorial title, In a Nutshell bullets and Market Commentary prose without column collisions."""
     if len(doc) == 0:
-        return [], []
+        return "", [], []
     p1 = doc[0]
     blocks = p1.get_text("blocks")
-    w = p1.rect.width
+    w, h = p1.rect.width, p1.rect.height
     
+    title = ""
     nutshell: List[str] = []
     commentary: List[str] = []
     
@@ -1024,55 +1036,207 @@ def extract_market_overview(doc: pymupdf.Document) -> Tuple[List[str], List[str]
     
     if is_recent:
         for b in blocks:
-            x0, y0, x1, y1, text, _, btype = b
-            if btype != 0:
+            if b[6] != 0:
                 continue
-            txt = text.strip()
-            if not txt or y0 < 150:
+            txt = b[4].strip()
+            if not txt:
                 continue
-            # Ignore Baltic table blocks and running URLs
-            if "BALTIC" in txt.upper() or "BDI" in txt or "Average Indices" in txt or "www.xclusiv.gr" in txt:
+            x0, y0, x1, y1 = b[:4]
+            
+            # Skip page header, dates, URLs
+            if y0 < 130 or "www.xclusiv.gr" in txt:
+                continue
+            if "All data as of" in txt or re.match(r"^Week\s+\d+", txt, re.I):
+                continue
+            
+            # Identify Baltic index block: sits on lower-right (x0 >= 280, y0 >= 580) or contains DRY/WET label
+            if (x0 >= 280 and y0 >= 580) or "DRY\nWET" in txt or "WET\nDRY" in txt:
+                continue
+            if re.search(r"\b(BDI|BCI|BDTI|BCTI)\s+\d", txt) and len(txt) < 350:
+                continue
+            if "Average Indices" in txt and len(txt) < 100:
                 continue
                 
-            if (x0 >= w * 0.48 and y0 < 360) or "IN A NUTSHELL:" in txt.upper():
+            # Nutshell block
+            if "IN A NUTSHELL:" in txt.upper() or (x0 >= w * 0.45 and y0 < 380 and ("•" in txt or "-" in txt or len(txt) < 400)):
                 clean_n = txt.replace("IN A NUTSHELL:", "").strip()
                 for line in clean_n.splitlines():
                     line = line.strip()
                     if line and not line.startswith("All data as of") and not line.startswith("Week "):
-                        line = re.sub(r'^[•\-\*\u2022\ufffd\s]+', '- ', line)
-                        if not line.startswith('- '):
-                            line = '- ' + line
-                        line = line.replace('\ufffd', "'")
+                        line = re.sub(r"^[•\-\*\u2022\ufffd\s]+", "- ", line)
+                        if not line.startswith("- "):
+                            line = "- " + line
+                        line = line.replace("\ufffd", "'")
                         nutshell.append(line)
-            elif (x1 <= w * 0.55 or (y0 >= 300 and y0 < 590)) and y1 <= 840:
+            # Editorial title
+            elif y0 < 200 and len(txt) < 80 and not txt.startswith("-"):
+                clean_t = txt.replace("\ufffd", "'").replace("\n", " ").strip()
+                if clean_t and clean_t.upper() != "MARKET OVERVIEW":
+                    title = clean_t
+            else:
+                # Editorial / commentary paragraphs
                 clean_c = txt.replace("MARKET COMMENTARY:", "").strip()
-                if clean_c and not clean_c.startswith("Week") and "www.xclusiv.gr" not in clean_c:
-                    if not re.search(r'^\d{1,2}\s+\d{1,2}\s+[\d\.\-%]+', clean_c) and not clean_c.startswith("DRY") and not clean_c.startswith("WET"):
-                        clean_c = clean_c.replace('\ufffd', "'")
-                        clean_c = re.sub(r'\s+', ' ', clean_c).strip()
-                        commentary.append(clean_c)
-            elif y0 >= 590 and x1 <= w * 0.55:
-                clean_c = txt.replace('\ufffd', "'")
-                clean_c = re.sub(r'\s+', ' ', clean_c).strip()
-                if clean_c and "xclusiv.gr" not in clean_c and not re.search(r'^\d{1,2}\s*$', clean_c):
+                clean_c = clean_c.replace("\ufffd", "'")
+                clean_c = re.sub(r"\s+", " ", clean_c).strip()
+                if len(clean_c) > 60 and not clean_c.startswith("Week") and "www.xclusiv.gr" not in clean_c:
                     commentary.append(clean_c)
     else:
         # 2021-2023 layout: Left column (x1 < w * 0.55) contains prose
         for b in blocks:
-            x0, y0, x1, y1, text, _, btype = b
-            if btype != 0:
+            if b[6] != 0:
                 continue
-            txt = text.strip()
-            if not txt or y0 < 60:
+            txt = b[4].strip()
+            x0, y0, x1, y1 = b[:4]
+            if not txt or y0 < 60 or y1 > h - 40:
                 continue
-            if x1 <= w * 0.55 and y0 < p1.rect.height - 80:
+            if "XCLUSIV SHIPBROKERS" in txt or "Kifissias" in txt or "www.xclusiv.gr" in txt:
+                continue
+            if any(idx in txt for idx in ["NEWBUILDING PRICES", "DEMOLITION PRICES"]):
+                continue
+            if (x0 >= 280 and y0 >= 580) or re.search(r"\b(BDI|BCI|BDTI|BCTI)\s+\d", txt):
+                continue
+            if x1 <= w * 0.55:
                 clean_c = txt.replace("Market Commentary:", "").strip()
-                if clean_c and "XCLUSIV SHIPBROKERS" not in clean_c and "Kifissias" not in clean_c:
-                    clean_c = clean_c.replace('\ufffd', "'")
-                    clean_c = re.sub(r'\s+', ' ', clean_c).strip()
+                clean_c = clean_c.replace("\ufffd", "'")
+                clean_c = re.sub(r"\s+", " ", clean_c).strip()
+                if len(clean_c) > 40:
                     commentary.append(clean_c)
+                    
+    return title, nutshell, commentary
 
-    return nutshell, commentary
+
+def extract_baltic_indices(
+    doc: pymupdf.Document, issue_date: str, report_week: int, source_file: str
+) -> List[Dict[str, Any]]:
+    """Extract Baltic dry and wet freight indices from Page 1."""
+    records = []
+    if len(doc) == 0:
+        return records
+    p1 = doc[0]
+    txt = p1.get_text()
+    
+    pattern = re.compile(
+        r"\b(BDI|BCI|BPI|BSI|BHSI|BDTI|BCTI)\s+([\d,]+)\s+([\d,]+)\s+([\+\-]?[\d\.]+%?)(?:\s+([\d,]+))?(?:\s+([\d,]+))?(?:\s+([\d,]+))?"
+    )
+    for m in pattern.finditer(txt):
+        idx_name = m.group(1)
+        val_curr = float(m.group(2).replace(",", ""))
+        val_prev = float(m.group(3).replace(",", ""))
+        chg_pct = m.group(4)
+        avg_1 = float(m.group(5).replace(",", "")) if m.group(5) else None
+        avg_2 = float(m.group(6).replace(",", "")) if m.group(6) else None
+        avg_3 = float(m.group(7).replace(",", "")) if m.group(7) else None
+        
+        sector = "Wet" if idx_name in ["BDTI", "BCTI"] else "Dry"
+        records.append({
+            "issue_date": issue_date,
+            "report_week": report_week,
+            "sector": sector,
+            "index_name": idx_name,
+            "index_value": val_curr,
+            "prev_value": val_prev,
+            "change_pct": chg_pct,
+            "avg_year_1": avg_1,
+            "avg_year_2": avg_2,
+            "avg_year_3": avg_3,
+            "source_file": source_file,
+        })
+        
+    return records
+
+
+def extract_snp_activity(doc: pymupdf.Document) -> Tuple[str, str]:
+    """Extract narrative commentary text boxes for Dry S&P Activity and Tanker S&P Activity."""
+    dry_activity: List[str] = []
+    wet_activity: List[str] = []
+    
+    max_pages = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+    for pno in range(max_pages):
+        pg = doc[pno]
+        txt = pg.get_text()
+        blocks = pg.get_text("blocks")
+        
+        # Check for Dry S&P Activity
+        if "Dry S&P Activity:" in txt or "Dry SnP Activity:" in txt:
+            hdr_y = None
+            for b in blocks:
+                if "Dry S&P Activity:" in b[4] or "Dry SnP Activity:" in b[4]:
+                    hdr_y = b[1]
+                    rem = re.sub(r"Dry S[&n]P Activity:\s*", "", b[4], flags=re.I).strip()
+                    if len(rem) > 10:
+                        dry_activity.append(rem)
+                    break
+            if hdr_y is not None:
+                for b in blocks:
+                    if b[6] != 0:
+                        continue
+                    btxt = b[4].strip()
+                    if not btxt:
+                        continue
+                    if hdr_y < b[1] < 500:
+                        if any(term in btxt.upper() for term in ["BULK CARRIER SALES", "DRY SECONDHAND", "WWW.XCLUSIV.GR", "PAGE"]):
+                            continue
+                        if re.search(r"^(?:Resale|5 Year|10 Year|15 Year|Capesize|Kamsarmax|Ultramax|Handysize|\d+[\.,]\d+)", btxt):
+                            continue
+                        clean = re.sub(r"\s+", " ", btxt.replace("\ufffd", "'")).strip()
+                        if any(term in clean for term in ["Average Prices", "Resale prices refer", "second-hand prices refer", "±%"]):
+                            continue
+                        if len(clean) > 25 and clean not in dry_activity:
+                            dry_activity.append(clean)
+
+        # Check for Tanker S&P Activity
+        if "Tanker S&P Activity:" in txt or "Tanker SnP Activity:" in txt:
+            hdr_y = None
+            for b in blocks:
+                if "Tanker S&P Activity:" in b[4] or "Tanker SnP Activity:" in b[4]:
+                    hdr_y = b[1]
+                    rem = re.sub(r"Tanker S[&n]P Activity:\s*", "", b[4], flags=re.I).strip()
+                    if len(rem) > 10:
+                        wet_activity.append(rem)
+                    break
+            if hdr_y is not None:
+                for b in blocks:
+                    if b[6] != 0:
+                        continue
+                    btxt = b[4].strip()
+                    if not btxt:
+                        continue
+                    if hdr_y < b[1] < 500:
+                        if any(term in btxt.upper() for term in ["TANKER SALES", "TANKER SECONDHAND", "WWW.XCLUSIV.GR", "PAGE"]):
+                            continue
+                        if re.search(r"^(?:Resale|5 Year|10 Year|15 Year|VLCC|Suezmax|Aframax|MR2|\d+[\.,]\d+)", btxt):
+                            continue
+                        clean = re.sub(r"\s+", " ", btxt.replace("\ufffd", "'")).strip()
+                        if any(term in clean for term in ["Average Prices", "Resale prices refer", "second-hand prices refer", "±%"]):
+                            continue
+                        if len(clean) > 25 and clean not in wet_activity:
+                            wet_activity.append(clean)
+                            
+        # 2021-2023 reports where sales commentary is on S&P pages without "S&P Activity:" banner
+        if not dry_activity and "BULK CARRIER SALES" in txt.upper() and pno in [3, 4]:
+            for b in blocks:
+                if b[6] != 0:
+                    continue
+                btxt = b[4].strip()
+                if 80 < b[1] < 250 and len(btxt) > 50:
+                    if not any(term in btxt.upper() for term in ["BULK CARRIER SALES", "WWW.XCLUSIV.GR", "PAGE", "NAME", "DWT"]):
+                        clean = re.sub(r"\s+", " ", btxt.replace("\ufffd", "'")).strip()
+                        if clean not in dry_activity and not any(term in clean for term in ["Average Prices", "Resale prices refer"]):
+                            dry_activity.append(clean)
+                            
+        if not wet_activity and "TANKER SALES" in txt.upper() and pno in [4, 5]:
+            for b in blocks:
+                if b[6] != 0:
+                    continue
+                btxt = b[4].strip()
+                if 80 < b[1] < 250 and len(btxt) > 50:
+                    if not any(term in btxt.upper() for term in ["TANKER SALES", "WWW.XCLUSIV.GR", "PAGE", "NAME", "DWT"]):
+                        if not re.search(r"\b\d{2,3},\d{3}\b", btxt):
+                            clean = re.sub(r"\s+", " ", btxt.replace("\ufffd", "'")).strip()
+                            if clean not in wet_activity and not any(term in clean for term in ["Average Prices", "Resale prices refer"]):
+                                wet_activity.append(clean)
+
+    return "\n\n".join(dry_activity), "\n\n".join(wet_activity)
 
 
 def extract_freight_commentary(doc: pymupdf.Document) -> Dict[str, str]:
@@ -1116,15 +1280,22 @@ def generate_markdown(
     doc: pymupdf.Document,
     issue_date: str,
     report_week: int,
-    sales: List[Dict[str, Any]],
-    demo_sales: List[Dict[str, Any]],
+    editorial_title: str,
+    nutshell: List[str],
+    commentary: List[str],
+    baltic_indices: List[Dict[str, Any]],
+    freight: Dict[str, str],
+    nb_prices: List[Dict[str, Any]],
     nb_orders: List[Dict[str, Any]],
-    demo_prices: List[Dict[str, Any]],
     sh_prices: List[Dict[str, Any]],
+    dry_activity: str,
+    wet_activity: str,
+    sales: List[Dict[str, Any]],
+    demo_prices: List[Dict[str, Any]],
+    demo_sales: List[Dict[str, Any]],
 ) -> str:
     year = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
-    nutshell, commentary = extract_market_overview(doc)
-    freight = extract_freight_commentary(doc)
+    max_useful = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
     
     # Frontmatter
     lines = [
@@ -1137,10 +1308,14 @@ def generate_markdown(
         'source: "xclusiv"',
         f'source_file: "corpus/01-brokers/xclusiv/{year}/{pdf_path.name}"',
         f'pages: {len(doc)}',
+        f'useful_pages: {max_useful}',
+        f'editorial_title: "{editorial_title}"' if editorial_title else 'editorial_title: null',
         f'sales_count: {len(sales)}',
         f'demo_sales_count: {len(demo_sales)}',
         f'secondhand_prices_count: {len(sh_prices)}',
+        f'newbuilding_prices_count: {len(nb_prices)}',
         f'demolition_prices_count: {len(demo_prices)}',
+        f'baltic_indices_count: {len(baltic_indices)}',
         "---",
         "",
         f"# Xclusiv Shipbrokers Weekly Market Report - Week {report_week}, {year}",
@@ -1148,7 +1323,7 @@ def generate_markdown(
         f"- **Publisher**: Xclusiv Shipbrokers Inc.",
         f"- **Issue Date**: {issue_date} (Week {report_week})",
         f"- **Source**: `corpus/01-brokers/xclusiv/{year}/{pdf_path.name}`",
-        f"- **Pages**: {len(doc)}",
+        f"- **Pages**: {len(doc)} (Cover-to-cover extraction of useful pages 1 to {max_useful}; final 2 pages discarded per notes)",
         "",
         "---",
         "",
@@ -1156,16 +1331,39 @@ def generate_markdown(
         "",
     ]
     
+    if editorial_title:
+        lines.append(f"### Editorial: {editorial_title}\n")
+    elif commentary:
+        lines.append("### Desk Commentary\n")
+        
+    if commentary:
+        for para in commentary:
+            lines.append(f"{para}\n")
+            
     if nutshell:
         lines.append("### In a Nutshell\n")
         lines.extend(nutshell)
         lines.append("")
         
-    if commentary:
-        lines.append("### Desk Commentary\n")
-        for para in commentary:
-            lines.append(f"{para}\n")
-            
+    if baltic_indices:
+        lines.extend([
+            "### Baltic Exchange Freight Indices",
+            "",
+            "| Index | Current | Previous | Change (%) | 3Y Trend / Historical Averages |",
+            "|---|---|---|---|---|",
+        ])
+        for b in baltic_indices:
+            val_c = f"{b['index_value']:,.0f}" if b.get('index_value') else "-"
+            val_p = f"{b['prev_value']:,.0f}" if b.get('prev_value') else "-"
+            chg = b.get('change_pct', '-')
+            hist_parts = []
+            if b.get('avg_year_1'): hist_parts.append(f"2026: {b['avg_year_1']:,.0f}")
+            if b.get('avg_year_2'): hist_parts.append(f"2025: {b['avg_year_2']:,.0f}")
+            if b.get('avg_year_3'): hist_parts.append(f"2024: {b['avg_year_3']:,.0f}")
+            hist_str = " / ".join(hist_parts) if hist_parts else "-"
+            lines.append(f"| {b.get('index_name')} | {val_c} | {val_p} | {chg} | {hist_str} |")
+        lines.append("")
+
     if freight:
         lines.extend(["---", "", "## Freight Market Analysis", ""])
         for sec_name, sec_text in freight.items():
@@ -1174,15 +1372,66 @@ def generate_markdown(
     lines.extend([
         "---",
         "",
-        "## S&P Transaction Tables",
+        "## Newbuilding Market",
         "",
     ])
     
-    # Separate Bulk Carriers and Tankers
-    bulker_sales = [s for s in sales if "bulk" in s.get("section", "").lower()]
-    tanker_sales = [s for s in sales if "tank" in s.get("section", "").lower()]
-    other_sales = [s for s in sales if s not in bulker_sales and s not in tanker_sales]
+    if nb_prices:
+        lines.extend([
+            "### Indicative Newbuilding Prices ($ mills)",
+            "",
+            "| Sector | Vessel Type | Price ($M) |",
+            "|---|---|---|",
+        ])
+        for np in nb_prices:
+            lines.append(f"| {np.get('sector', '')} | {np.get('vessel_type', '')} | ${np.get('price_usd_mill', '')}M |")
+        lines.append("")
+        
+    if nb_orders:
+        lines.extend([
+            "### Newbuilding Orders",
+            "",
+            "| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |",
+            "|---|---|---|---|---|---|---|---|",
+        ])
+        for o in nb_orders:
+            lines.append(
+                f"| {o.get('type', '')} | {o.get('units', '')} | {o.get('size', '')} | {o.get('yard', '')} | {o.get('buyer', '')} | {o.get('price', '')} | {o.get('delivery', '')} | {o.get('comments', '')} |"
+            )
+        lines.append("")
+
+    lines.extend([
+        "---",
+        "",
+        "## Sale & Purchase Market",
+        "",
+    ])
     
+    # Secondhand Prices Dry & Wet
+    dry_sh = [s for s in sh_prices if s.get("sector") == "Dry"]
+    wet_sh = [s for s in sh_prices if s.get("sector") == "Tanker"]
+    
+    if dry_sh:
+        lines.extend([
+            "### Dry Secondhand Prices ($ mills)",
+            "",
+            "| Vessel Type | Tenor | Price ($M) |",
+            "|---|---|---|",
+        ])
+        for ds in dry_sh:
+            lines.append(f"| {ds.get('vessel_type', '')} | {ds.get('tenor', '')} | ${ds.get('price_usd_mill', '')}M |")
+        lines.append("")
+        
+    if dry_activity:
+        lines.extend([
+            "### Dry S&P Activity Commentary",
+            "",
+            dry_activity,
+            "",
+        ])
+        
+    # Bulker sales
+    bulker_sales = [s for s in sales if "bulk" in s.get("section", "").lower()]
     lines.extend([
         "### Bulk Carrier Sales",
         "",
@@ -1200,7 +1449,27 @@ def generate_markdown(
     else:
         lines.append("| Bulk Carriers | - | - | - | - | - | - | - | - | No bulker sales reported |")
     lines.append("")
-
+    
+    if wet_sh:
+        lines.extend([
+            "### Tanker Secondhand Prices ($ mills)",
+            "",
+            "| Vessel Type | Tenor | Price ($M) |",
+            "|---|---|---|",
+        ])
+        for ws in wet_sh:
+            lines.append(f"| {ws.get('vessel_type', '')} | {ws.get('tenor', '')} | ${ws.get('price_usd_mill', '')}M |")
+        lines.append("")
+        
+    if wet_activity:
+        lines.extend([
+            "### Tanker S&P Activity Commentary",
+            "",
+            wet_activity,
+            "",
+        ])
+        
+    tanker_sales = [s for s in sales if "tank" in s.get("section", "").lower()]
     lines.extend([
         "### Tanker Sales",
         "",
@@ -1219,6 +1488,7 @@ def generate_markdown(
         lines.append("| Tankers | - | - | - | - | - | - | - | - | No tanker sales reported |")
     lines.append("")
 
+    other_sales = [s for s in sales if s not in bulker_sales and s not in tanker_sales]
     if other_sales:
         lines.extend([
             "### Other Reported Sales (Gas / Containers)",
@@ -1273,36 +1543,6 @@ def generate_markdown(
     lines.extend([
         "---",
         "",
-        "## Indicative Secondhand Prices ($ mills)",
-        "",
-        "| Sector | Vessel Type | Tenor | Price ($M) |",
-        "|---|---|---|---|",
-    ])
-    if sh_prices:
-        for sh in sh_prices:
-            lines.append(f"| {sh.get('sector', '')} | {sh.get('vessel_type', '')} | {sh.get('tenor', '')} | ${sh.get('price_usd_mill', '')}M |")
-    else:
-        lines.append("| - | - | - | No indicative secondhand prices |")
-    lines.append("")
-
-    if nb_orders:
-        lines.extend([
-            "---",
-            "",
-            "## Newbuilding Orders",
-            "",
-            "| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |",
-            "|---|---|---|---|---|---|---|---|",
-        ])
-        for o in nb_orders:
-            lines.append(
-                f"| {o.get('type', '')} | {o.get('units', '')} | {o.get('size', '')} | {o.get('yard', '')} | {o.get('buyer', '')} | {o.get('price', '')} | {o.get('delivery', '')} | {o.get('comments', '')} |"
-            )
-        lines.append("")
-
-    lines.extend([
-        "---",
-        "",
         "## Legal Disclaimer",
         "",
         "> *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*",
@@ -1321,6 +1561,11 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     stem = pdf_path.stem
     issue_date, report_week = extract_meta(doc, pdf_path)
 
+    editorial_title, nutshell, commentary = extract_market_overview(doc)
+    baltic = extract_baltic_indices(doc, issue_date, report_week, pdf_path.name)
+    dry_act, wet_act = extract_snp_activity(doc)
+    freight = extract_freight_commentary(doc)
+
     sales = extract_sales_tables(doc, issue_date, report_week, pdf_path.name)
     demo_sales = extract_demo_sales_tables(doc, issue_date, report_week, pdf_path.name)
     demo_prices = extract_indicative_demolition(doc, issue_date, report_week, pdf_path.name)
@@ -1328,12 +1573,22 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     nb_orders = extract_newbuilding_orders(doc, issue_date, report_week, pdf_path.name)
     nb_prices = extract_newbuilding_prices(doc, issue_date, report_week, pdf_path.name)
 
+    max_useful = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
+
     sidecar_json = {
         "stem": stem,
         "source_file": pdf_path.name,
         "issue_date": issue_date,
         "report_week": report_week,
         "pages": len(doc),
+        "useful_pages": max_useful,
+        "editorial_title": editorial_title,
+        "nutshell": nutshell,
+        "market_commentary": commentary,
+        "baltic_indices": baltic,
+        "freight_commentary": freight,
+        "dry_snp_activity": dry_act,
+        "wet_snp_activity": wet_act,
         "reported_sales": sales,
         "demo_sales": demo_sales,
         "newbuilding_orders": nb_orders,
@@ -1344,7 +1599,9 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
 
     md_content = generate_markdown(
         stem, pdf_path, doc, issue_date, report_week,
-        sales, demo_sales, nb_orders, demo_prices, sh_prices
+        editorial_title, nutshell, commentary, baltic, freight,
+        nb_prices, nb_orders, sh_prices, dry_act, wet_act,
+        sales, demo_prices, demo_sales
     )
 
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
@@ -1372,6 +1629,8 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
         "demo_prices": demo_prices,
         "sh_prices": sh_prices,
         "nb_orders": nb_orders,
+        "nb_prices": nb_prices,
+        "baltic": baltic,
     }
 
 
@@ -1398,11 +1657,23 @@ DEMO_SALES_COLUMNS = [
 ]
 
 
+BALTIC_COLUMNS = [
+    "issue_date", "report_week", "sector", "index_name", "index_value", "prev_value",
+    "change_pct", "avg_year_1", "avg_year_2", "avg_year_3", "source_file"
+]
+
+NB_PRICES_COLUMNS = [
+    "issue_date", "report_week", "sector", "vessel_type", "price_usd_mill", "source_file"
+]
+
+
 def write_series_csvs(
     all_sales: List[Dict[str, Any]],
     all_demo_prices: List[Dict[str, Any]],
     all_sh_prices: List[Dict[str, Any]],
     all_demo_sales: List[Dict[str, Any]],
+    all_baltic: List[Dict[str, Any]],
+    all_nb_prices: List[Dict[str, Any]],
 ) -> None:
     OUT_SERIES.mkdir(parents=True, exist_ok=True)
 
@@ -1429,6 +1700,20 @@ def write_series_csvs(
         writer.writeheader()
         for r in all_demo_sales:
             writer.writerow({k: r.get(k, "") for k in DEMO_SALES_COLUMNS})
+
+    if all_baltic:
+        with open(BALTIC_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=BALTIC_COLUMNS)
+            writer.writeheader()
+            for r in all_baltic:
+                writer.writerow({k: r.get(k, "") for k in BALTIC_COLUMNS})
+
+    if all_nb_prices:
+        with open(NB_PRICES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=NB_PRICES_COLUMNS)
+            writer.writeheader()
+            for r in all_nb_prices:
+                writer.writerow({k: r.get(k, "") for k in NB_PRICES_COLUMNS})
 
 
 def main() -> None:
@@ -1467,6 +1752,8 @@ def main() -> None:
     total_demo_prices: List[Dict[str, Any]] = []
     total_sh_prices: List[Dict[str, Any]] = []
     total_demo_sales: List[Dict[str, Any]] = []
+    total_baltic: List[Dict[str, Any]] = []
+    total_nb_prices: List[Dict[str, Any]] = []
 
     t0 = time.time()
     ok_count = 0
@@ -1480,12 +1767,15 @@ def main() -> None:
                 total_demo_prices.extend(res["demo_prices"])
                 total_sh_prices.extend(res["sh_prices"])
                 total_demo_sales.extend(res["demo_sales"])
+                total_baltic.extend(res.get("baltic", []))
+                total_nb_prices.extend(res.get("nb_prices", []))
                 ok_count += 1
                 if idx % 25 == 0 or idx == len(target_pdfs) or args.sample:
                     print(
                         f"  [{idx}/{len(target_pdfs)}] {pth.stem[:48]:<48} "
                         f"sales={len(res['sales']):>2} demo_p={len(res['demo_prices']):>2} "
                         f"sh={len(res['sh_prices']):>2} demo_s={len(res['demo_sales']):>2} "
+                        f"baltic={len(res.get('baltic', [])):>1} "
                         f"({time.time()-t0:.1f}s)",
                         flush=True,
                     )
@@ -1505,12 +1795,15 @@ def main() -> None:
                     total_demo_prices.extend(res["demo_prices"])
                     total_sh_prices.extend(res["sh_prices"])
                     total_demo_sales.extend(res["demo_sales"])
+                    total_baltic.extend(res.get("baltic", []))
+                    total_nb_prices.extend(res.get("nb_prices", []))
                     ok_count += 1
                     if idx % 25 == 0 or idx == len(target_pdfs):
                         print(
                             f"  [{idx}/{len(target_pdfs)}] {pth.stem[:48]:<48} "
                             f"sales={len(res['sales']):>2} demo_p={len(res['demo_prices']):>2} "
                             f"sh={len(res['sh_prices']):>2} demo_s={len(res['demo_sales']):>2} "
+                            f"baltic={len(res.get('baltic', [])):>1} "
                             f"({time.time()-t0:.1f}s)",
                             flush=True,
                         )
@@ -1523,9 +1816,11 @@ def main() -> None:
     total_demo_prices.sort(key=lambda x: (x.get("issue_date", ""), x.get("segment", ""), x.get("country", "")))
     total_sh_prices.sort(key=lambda x: (x.get("issue_date", ""), x.get("sector", ""), x.get("vessel_type", ""), x.get("tenor", "")))
     total_demo_sales.sort(key=lambda x: (x.get("issue_date", ""), x.get("NAME", "")))
+    total_baltic.sort(key=lambda x: (x.get("issue_date", ""), x.get("sector", ""), x.get("index_name", "")))
+    total_nb_prices.sort(key=lambda x: (x.get("issue_date", ""), x.get("sector", ""), x.get("vessel_type", "")))
 
     # Write series CSVs
-    write_series_csvs(total_sales, total_demo_prices, total_sh_prices, total_demo_sales)
+    write_series_csvs(total_sales, total_demo_prices, total_sh_prices, total_demo_sales, total_baltic, total_nb_prices)
 
     print("\n" + "=" * 70)
     print(f"[{PUB}] EXTRACTION SUMMARY:")
@@ -1534,11 +1829,15 @@ def main() -> None:
     print(f"  Total Indicative Demolition Price points: {len(total_demo_prices)}")
     print(f"  Total Indicative Secondhand Price points: {len(total_sh_prices)}")
     print(f"  Total Demolition Sales deals: {len(total_demo_sales)}")
+    print(f"  Total Baltic Index points: {len(total_baltic)}")
+    print(f"  Total Indicative Newbuilding points: {len(total_nb_prices)}")
     print(f"  CSV Series Outputs:")
     print(f"    - {SALES_SERIES_CSV}")
     print(f"    - {DEMO_SERIES_CSV}")
     print(f"    - {SECONDHAND_SERIES_CSV}")
     print(f"    - {DEMO_SALES_SERIES_CSV}")
+    print(f"    - {BALTIC_SERIES_CSV}")
+    print(f"    - {NB_PRICES_SERIES_CSV}")
     print(f"  Elapsed time: {time.time()-t0:.1f}s")
     print("=" * 70, flush=True)
 

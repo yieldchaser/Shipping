@@ -84,9 +84,20 @@ def save_state(st):
 
 
 def tables_from_pdfinspector(pdf: Path):
-    import pdf_inspector as pi
-    out = pi.process_pdf(str(pdf))
-    md = out if isinstance(out, str) else getattr(out, "markdown", None) or str(out)
+    try:
+        import pdf_inspector as pi
+        out = pi.process_pdf(str(pdf))
+        md = out if isinstance(out, str) else getattr(out, "markdown", None) or str(out)
+    except (ImportError, Exception):
+        sidecar = OUT / f"{pdf.stem}.tables.json"
+        if sidecar.exists():
+            try:
+                loaded = json.loads(sidecar.read_text(encoding="utf-8"))
+                if isinstance(loaded, list):
+                    return loaded, ""
+            except Exception:
+                pass
+        return [], ""
     tables, cur = [], None
     for line in md.splitlines():
         if line.strip().startswith("|"):
@@ -110,6 +121,7 @@ def tables_from_pdfinspector(pdf: Path):
         if len(re.findall(r"\d", flat)) >= 4:
             keep.append(t)
     return keep, md
+
 
 
 def merge_missing_labels(tables, pdf: Path):
@@ -200,6 +212,239 @@ def drop_prose_rows(tables):
     return [t for t in tables if t["rows"]]
 
 
+def build_star_asia_clean_page(page: pymupdf.Page) -> str:
+    """Reconstructs clean markdown for tabular pages with proper headers and complete columns."""
+    text = page.get_text("text").replace("\ufffd", "-").replace("\u2013", "-").replace("\u2014", "-")
+
+    # 1. PAGE: Dry Bulk
+    if "Baltic Dry Indices" in text:
+        out_lines = ["### Baltic Dry Index (BDI)\n"]
+        m_bdi = re.search(r"BDI\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
+        if m_bdi:
+            bdi_val, bdi_wow, bdi_yoy = m_bdi.groups()
+            out_lines.append(f"**BDI: {bdi_val}** (WoW: {bdi_wow.strip()} | YoY: {bdi_yoy.strip()})\n")
+
+        sub_hdrs = ["BCI", "BPI", "BSI", "BHSI"]
+        vals, wows, yoys = [], [], []
+        for h in sub_hdrs:
+            m = re.search(rf"{h}\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
+            if m:
+                v, w, y = m.groups()
+                vals.append(v)
+                wows.append(w.strip())
+                yoys.append(y.strip())
+            else:
+                vals.append("-"); wows.append("-"); yoys.append("-")
+        out_lines.append("| " + " | ".join(sub_hdrs) + " |")
+        out_lines.append("| " + " | ".join([":---:"] * 4) + " |")
+        out_lines.append("| " + " | ".join(vals) + " |")
+        out_lines.append("| " + " | ".join(f"WoW: {w}" for w in wows) + " |")
+        out_lines.append("| " + " | ".join(f"YoY: {y}" for y in yoys) + " |\n")
+
+        # Vessel Values
+        out_lines.append("### Vessel Values (USD Million)\n")
+        out_lines.append("| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: | :---: |")
+        for v_type in ["CAPESIZE", "KAMSARMAX", "ULTRAMAX", "HANDY"]:
+            m_vv = re.search(rf"{v_type}\s*\n\s*([\d,]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", text)
+            if m_vv:
+                dwt, nb_c, nb_p, y5, y10, y15 = [x.strip() for x in m_vv.groups()]
+                out_lines.append(f"| {v_type} | {dwt} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
+        out_lines.append("")
+
+        # S&P Fixtures
+        out_lines.append("### Sale & Purchase - Reported Fixtures\n")
+        out_lines.append("| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+        sp_start = text.find("Sale & Purchase")
+        if sp_start != -1:
+            sp_lines = [l.strip() for l in text[sp_start:].splitlines() if l.strip()]
+            i = 0
+            while i < len(sp_lines) and not sp_lines[i].startswith("BUYER"):
+                i += 1
+            i += 1
+            while i < len(sp_lines):
+                if "snp@starasiasg.com" in sp_lines[i] or "Member of BIMCO" in sp_lines[i] or "Page" in sp_lines[i]:
+                    break
+                v_parts = [sp_lines[i]]
+                i += 1
+                while i < len(sp_lines) and sp_lines[i] not in ["CAPE", "POST", "PMAX", "KMAX", "UMAX", "SMAX", "HANDY", "POST PMAX"]:
+                    if sp_lines[i].isdigit() or "CHINA" in sp_lines[i] or "JAPAN" in sp_lines[i] or "snp@" in sp_lines[i]:
+                        break
+                    v_parts.append(sp_lines[i])
+                    i += 1
+                v_name = " ".join(v_parts).strip()
+                v_name = re.sub(r"^BUYER\s+", "", v_name)
+                v_type = ""
+                if i < len(sp_lines) and sp_lines[i] in ["CAPE", "POST", "PMAX", "KMAX", "UMAX", "SMAX", "HANDY"]:
+                    v_type = sp_lines[i]; i += 1
+                    if v_type == "POST" and i < len(sp_lines) and sp_lines[i] == "PMAX":
+                        v_type = "POST PMAX"; i += 1
+                v_dwt = ""
+                if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
+                    v_dwt = sp_lines[i]; i += 1
+                    if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
+                        v_dwt = f"{v_dwt} / {sp_lines[i]}"; i += 1
+                v_built = ""
+                if i < len(sp_lines) and re.search(r"\b(19\d\d|20\d\d)\b", sp_lines[i]):
+                    v_built = sp_lines[i]; i += 1
+                v_price = ""
+                if i < len(sp_lines) and (re.search(r"\d", sp_lines[i]) or sp_lines[i] == "-"):
+                    v_price = sp_lines[i]; i += 1
+                v_buyer = ""
+                if i < len(sp_lines) and any(w in sp_lines[i].upper() for w in ["BUYER", "UNDISCLOSED", "GREEK", "CHINESE", "EUROPEAN", "TURKISH", "MIDDLE EAST", "FAR EAST"]):
+                    b_parts = [sp_lines[i]]; i += 1
+                    if i < len(sp_lines) and sp_lines[i] == "BUYER":
+                        b_parts.append(sp_lines[i]); i += 1
+                    v_buyer = " ".join(b_parts)
+                if v_name and v_type:
+                    out_lines.append(f"| {v_name} | {v_type} | {v_dwt} | {v_built} | {v_price} | {v_buyer} |")
+
+        return "\n".join(out_lines)
+
+    # 2. PAGE: Tankers
+    elif "Baltic Tanker Indices" in text:
+        out_lines = ["### Baltic Tanker Indices\n"]
+        sub_hdrs = ["BDTI", "BCTI"]
+        vals, wows, yoys = [], [], []
+        for h in sub_hdrs:
+            m = re.search(rf"{h}\s*\n\s*([\d,]+)\s*\n\s*WoW:\s*([^\n]+)\s*\n\s*YoY:\s*([^\n]+)", text)
+            if m:
+                v, w, y = m.groups()
+                vals.append(v)
+                wows.append(w.strip())
+                yoys.append(y.strip())
+            else:
+                vals.append("-"); wows.append("-"); yoys.append("-")
+        out_lines.append("| " + " | ".join(sub_hdrs) + " |")
+        out_lines.append("| " + " | ".join([":---:"] * 2) + " |")
+        out_lines.append("| " + " | ".join(vals) + " |")
+        out_lines.append("| " + " | ".join(f"WoW: {w}" for w in wows) + " |")
+        out_lines.append("| " + " | ".join(f"YoY: {y}" for y in yoys) + " |\n")
+
+        # Vessel Values
+        out_lines.append("### Vessel Values (USD Million)\n")
+        out_lines.append("| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: | :---: |")
+        for v_type in ["VLCC", "SUEZMAX", "AFRAMAX", "LR1", "MR"]:
+            m_vv = re.search(rf"{v_type}\s*\n\s*([\d,]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", text)
+            if m_vv:
+                dwt, nb_c, nb_p, y5, y10, y15 = [x.strip() for x in m_vv.groups()]
+                out_lines.append(f"| {v_type} | {dwt} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
+        out_lines.append("")
+
+        # S&P Fixtures
+        out_lines.append("### Sale & Purchase - Reported Fixtures\n")
+        out_lines.append("| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+        sp_start = text.find("Sale & Purchase")
+        if sp_start != -1:
+            sp_lines = [l.strip() for l in text[sp_start:].splitlines() if l.strip()]
+            i = 0
+            while i < len(sp_lines) and not (sp_lines[i].startswith("BUYER") or sp_lines[i].startswith("PRICE")):
+                i += 1
+            i += 1
+            while i < len(sp_lines):
+                if "snp@starasiasg.com" in sp_lines[i] or "Member of BIMCO" in sp_lines[i] or "Page" in sp_lines[i]:
+                    break
+                v_parts = [sp_lines[i]]
+                i += 1
+                while i < len(sp_lines) and sp_lines[i] not in ["VLCC", "SUEZ", "AFRA", "LR2", "LR1", "MR", "SMALL"]:
+                    if sp_lines[i].isdigit() or "CHINA" in sp_lines[i] or "JAPAN" in sp_lines[i] or "snp@" in sp_lines[i]:
+                        break
+                    v_parts.append(sp_lines[i])
+                    i += 1
+                v_name = " ".join(v_parts).strip()
+                v_name = re.sub(r"^BUYER\s+", "", v_name)
+                v_type = ""
+                if i < len(sp_lines) and sp_lines[i] in ["VLCC", "SUEZ", "AFRA", "LR2", "LR1", "MR", "SMALL"]:
+                    v_type = sp_lines[i]; i += 1
+                v_dwt = ""
+                if i < len(sp_lines) and re.match(r"^[\d,]+$", sp_lines[i]):
+                    v_dwt = sp_lines[i]; i += 1
+                v_built = ""
+                if i < len(sp_lines) and re.search(r"\b(19\d\d|20\d\d)\b", sp_lines[i]):
+                    v_built = sp_lines[i]; i += 1
+                v_price = ""
+                if i < len(sp_lines) and (re.search(r"\d", sp_lines[i]) or sp_lines[i] == "-"):
+                    v_price = sp_lines[i]; i += 1
+                v_buyer = ""
+                if i < len(sp_lines) and any(w in sp_lines[i].upper() for w in ["BUYER", "UNDISCLOSED", "GREEK", "CHINESE", "EUROPEAN", "TURKISH", "MIDDLE EAST", "FAR EAST"]):
+                    b_parts = [sp_lines[i]]; i += 1
+                    if i < len(sp_lines) and sp_lines[i] == "BUYER":
+                        b_parts.append(sp_lines[i]); i += 1
+                    v_buyer = " ".join(b_parts)
+                if v_name and v_type:
+                    out_lines.append(f"| {v_name} | {v_type} | {v_dwt} | {v_built} | {v_price} | {v_buyer} |")
+
+        return "\n".join(out_lines)
+
+    # 3. PAGE: Containers
+    elif "CONTAINERS" in text and "Vessel Values" in text:
+        out_lines = ["# CONTAINERS\n"]
+        m_comm = re.search(r"CONTAINERS\s*\n\s*(.*?)\s*\n\s*Vessel Values", text, re.DOTALL)
+        if m_comm:
+            para = re.sub(r"\s+", " ", m_comm.group(1)).strip()
+            out_lines.append(f"{para}\n")
+
+        out_lines.append("### Vessel Values (USD Million)\n")
+        out_lines.append("| SIZE (TEU) | TYPE | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: | :---: |")
+        vv_part = text[text.find("Vessel Values"):]
+        m_rows = re.findall(r"([\d,]+\s*[-–—]\s*[\d,]+)\s*\n\s*(Geared|Gearless)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", vv_part)
+        for r in m_rows:
+            sz, tp, nb_c, nb_p, y5, y10, y15 = [x.strip() for x in r]
+            out_lines.append(f"| {sz} | {tp} | {nb_c} | {nb_p} | {y5} | {y10} | {y15} |")
+        out_lines.append("")
+
+        out_lines.append("### Sale & Purchase - Reported Fixtures\n")
+        out_lines.append("| VESSEL | TYPE | TEU | YEAR / BUILT | PRICE (USD M) | BUYER |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+        sp_start = text.find("Sale & Purchase")
+        if sp_start != -1:
+            sp_lines = [l.strip() for l in text[sp_start:].splitlines() if l.strip()]
+            i = 0
+            while i < len(sp_lines) and not sp_lines[i].startswith("BUYER"):
+                i += 1
+            i += 1
+            while i < len(sp_lines):
+                if "snp@starasiasg.com" in sp_lines[i] or "Member of BIMCO" in sp_lines[i] or "Page" in sp_lines[i]:
+                    break
+                v_name = sp_lines[i]; i += 1
+                v_type = sp_lines[i] if i < len(sp_lines) else ""; i += 1
+                v_teu = sp_lines[i] if i < len(sp_lines) else ""; i += 1
+                v_built = sp_lines[i] if i < len(sp_lines) else ""; i += 1
+                v_price = sp_lines[i] if i < len(sp_lines) else ""; i += 1
+                v_buyer = sp_lines[i] if i < len(sp_lines) else ""; i += 1
+                if v_name and v_type:
+                    out_lines.append(f"| {v_name} | {v_type} | {v_teu} | {v_built} | {v_price} | {v_buyer} |")
+
+        return "\n".join(out_lines)
+
+    # 4. PAGE: Ship Recycling
+    elif "SHIP RECYCLING" in text and "Current Market Snapshot" in text:
+        out_lines = ["### Ship Recycling - Current Market Snapshot (USD / LDT)\n"]
+        out_lines.append("| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |")
+        out_lines.append("| :--- | :---: | :---: | :---: | :---: | :---: |")
+        for dest in ["ALANG, INDIA", "CHATTOGRAM, BANGLADESH", "GADDANI, PAKISTAN", "ALIAGA, TURKEY"]:
+            dest_pat = dest.split(",")[0]
+            m = re.search(rf"{dest_pat}[^\n]*\n\s*(\$[\d\s-]+)\s*\n\s*(\$[\d\s-]+)\s*\n\s*(\$[\d\s-]+)\s*\n\s*(\$[\d\s-]+)\s*\n\s*([A-Z\s/]+)", text)
+            if m:
+                t, b, g, c, s = [x.strip() for x in m.groups()]
+                out_lines.append(f"| {dest} | {t} | {b} | {g} | {c} | {s} |")
+        out_lines.append("")
+
+        if "Reported Sales" in text or "SHIPS SOLD FOR RECYCLING" in text:
+            out_lines.append("### Demolition - Reported Sales\n")
+            out_lines.append("| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |")
+            out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+            out_lines.append("| - | - | - | - | - | No reported sales this week |")
+
+        return "\n".join(out_lines)
+
+    return ""
+
+
 def build_md(pdf: Path):
     import liteparse
     import clean_all_brokers_formatting as cabf
@@ -211,7 +456,7 @@ def build_md(pdf: Path):
         src_ref = pdf.resolve().relative_to(ROOT).as_posix()
     except ValueError:
         src_ref = pdf.as_posix()
-        
+
     try:
         with pymupdf.open(pdf) as d:
             report_week, issue_date = sa.extract_meta(d, pdf)
@@ -239,9 +484,14 @@ def build_md(pdf: Path):
         "---",
         ""
     ]
-    for i in range(1, res.num_pages + 1):
-        lines.append(f"\n## Page {i}\n")
-        lines.append((res.get_page(i).markdown or "").strip())
+    with pymupdf.open(pdf) as doc:
+        for i in range(1, res.num_pages + 1):
+            lines.append(f"\n## Page {i}\n")
+            clean_tbl = build_star_asia_clean_page(doc[i - 1])
+            if clean_tbl:
+                lines.append(clean_tbl)
+            else:
+                lines.append((res.get_page(i).markdown or "").strip())
     raw_md = "\n".join(lines)
     cleaned_md, _ = cabf.clean_star_asia(raw_md)
     return cleaned_md
@@ -272,43 +522,61 @@ def chart_pages(pdf: Path):
 
 
 def process(pdf: Path):
-    tables, _md = tables_from_pdfinspector(pdf)
-    tables = merge_missing_labels(tables, pdf)
-    tables = drop_prose_rows(tables)
+    stem = pdf.stem
+    sidecar = OUT / f"{stem}.tables.json"
+    tables = []
+    if sidecar.exists():
+        try:
+            loaded = json.loads(sidecar.read_text(encoding="utf-8"))
+            if isinstance(loaded, list):
+                tables = loaded
+        except Exception:
+            pass
+    if not tables:
+        tables, _md = tables_from_pdfinspector(pdf)
+        if tables:
+            tables = merge_missing_labels(tables, pdf)
+            tables = drop_prose_rows(tables)
+        sidecar.write_text(
+            json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
+
     md = build_md(pdf)
     charts = chart_pages(pdf)
     with pymupdf.open(pdf) as d:
         npages = d.page_count
-    stem = pdf.stem
     (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
-    (OUT / f"{stem}.tables.json").write_text(
-        json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
-    (OUT / f"{stem}.charts.json").write_text(
-        json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+    chart_file = OUT / f"{stem}.charts.json"
+    if not chart_file.exists():
+        chart_file.write_text(
+            json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
     return {"pages": npages, "tables": len(tables),
             "graphic_pages": sorted(charts, key=int), "md_bytes": len(md)}
 
 
+
 def main():
+    import sys as _s
     pdfs = sorted(SRC.rglob("*.pdf"))
     st = load_state()
-    todo = [p for p in pdfs if p.stem not in st["done"]]
-    print(f"[{PUB}] total={len(pdfs)}  done={len(st['done'])}  todo={len(todo)}", flush=True)
+    force = "--all" in _s.argv or "--force" in _s.argv
+    todo = pdfs if force else [p for p in pdfs if p.stem not in st["done"]]
+    print(f"[{PUB}] total={len(pdfs)}  done={len(st['done'])}  todo={len(todo)} (force={force})", flush=True)
     t0 = time.time()
     for n, p in enumerate(todo, start=1):
         try:
             r = process(p)
             st["done"][p.stem] = r
             st["failed"].pop(p.stem, None)
-            print(f"  [{n}/{len(todo)}] {p.stem[:56]:<56} pages={r['pages']:>2} "
-                  f"tables={r['tables']:>2} graphics={r['graphic_pages']} "
-                  f"({time.time()-t0:.0f}s)", flush=True)
+            if n % 10 == 0 or n == len(todo):
+                print(f"  [{n}/{len(todo)}] {p.stem[:56]:<56} pages={r['pages']:>2} "
+                      f"tables={r['tables']:>2} graphics={r['graphic_pages']} "
+                      f"({time.time()-t0:.0f}s)", flush=True)
         except Exception as e:
             st["failed"][p.stem] = f"{type(e).__name__}: {str(e)[:180]}"
             print(f"  [{n}/{len(todo)}] {p.stem[:56]:<56} FAILED {type(e).__name__}",
                   flush=True)
             traceback.print_exc(limit=2)
-        if n % 5 == 0:
+        if n % 10 == 0:
             save_state(st)
     save_state(st)
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(pdfs)} "
@@ -319,8 +587,9 @@ def main():
 
 if __name__ == "__main__":
     import sys as _s
-    if len(_s.argv) > 1:
-        for a in _s.argv[1:]:
+    files = [a for a in _s.argv[1:] if not a.startswith("-")]
+    if files:
+        for a in files:
             print(json.dumps(process(Path(a)), indent=2, default=str))
     else:
         main()

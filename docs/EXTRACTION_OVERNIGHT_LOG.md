@@ -3019,3 +3019,133 @@ JRE reads like a broken tool" trap. That is a bad artefact, not a regression - t
 Lesson for the next agent: golden_matrix.py writes into scripts/analysis/, which is OUTSIDE the
 allowed edit scope, and tabula needs `/c/Program Files/Eclipse Adoptium/jre-21.0.12.101-hotspot/bin`
 on PATH or it scores 0. Net footprint of this run: docs/EXTRACTION_OVERNIGHT_LOG.md only.
+
+## 2026-10-05 09:14 UTC - Deep review (3-hourly, job d77cc9df53c4)
+
+### Verdict: FIXED (one real code defect found and fixed; one self-inflicted data
+### incident occurred and was fully restored - disclosed below)
+
+`verify_extraction.py --json`: exit 0, `actions: []`, golden 15/15, checkpoint
+7,816 rows, `empty_after_ok_status` 0, db 189,481 tables / 6,726,703 cells. No
+`run_batch`/`batch_worker` process alive - the full pass is COMPLETE for its
+frozen 2026-09-21 queue. Nothing new in the health metrics.
+
+### Finding (NEW, FIXED): carriers_sales_series price column carried a silent
+### 1000x / 1e6x unit error in 208 rows
+
+`extract_sp_section_rows()` computed `price_usd_mill = parse_numeric(price_raw)`,
+and `parse_numeric()` strips commas unconditionally. A single publisher's PRICE
+column uses OPPOSITE conventions across eras, so both read wrong:
+
+| era | page prints | means | parse_numeric gave | correct |
+|---|---|---|---|---|
+| 2026 (`carriers_2026_W39_...`) | `38,000,000` | USD 38.0m | 38000000.0 | 38.0 |
+| 2023 (`carriers_2023_W46_...`) | `11,80` | 11.8m | 1180.0 | 11.8 |
+
+Verified against the rendered source pages, not another extractor:
+* W39-2026 p1: `GCL HAZIRA / BC / 81,986 / 2021 / ... / 38,000,000` - the same
+  sale xclusiv's own weekly prints as `GCL Hazira ... USD 39 mills`, so
+  `38,000,000` is dollars, i.e. 38.0 million.
+* W46-2023 p1: `MAGIC MOON / BC / 76,602 / 2005 / Imabari, Japan / 11,80` -
+  a European decimal comma, i.e. 11.8 million.
+
+Delivered-data census (`carriers_sales_series.csv`, 3,130 rows): 206 rows where
+`price_raw` is a US-thousands dollar token and `price_usd_mill` holds the
+dollars (`34000000.0`); 2 rows where `price_raw` is `N,NN` EU-decimal and
+`price_usd_mill` holds the comma-stripped integer (`11,80` -> `1180.0`).
+
+Fix: commit **f81eb2e7b** on branch **auto/extract-fixes-2026-10-05-carriers**,
+one file, code only (`scripts/extract/publishers/run_carriers_complete.py`).
+New `parse_price_mill()` derives the convention from the token SHAPE (US
+thousands group -> /1e6; EU decimal comma -> as-is) and matches the number
+anywhere in the token, since the column carries words (`HIGH 14,000,000`,
+`42,800,000 EN BLOC`, `225 EACH`). Non-matching tokens fall through to
+`parse_numeric` unchanged. Direct assertion on the helper:
+`'42,800,000'->42.8  '11,80'->11.8  '8,25'->8.25  '22.0'->22.0
+'180.39 EN BLOC'->180.39  '399.00 EN BLOC'->399.0  '225 EACH'->225.0`.
+End-to-end proof on the W39-2026 doc: `GCL HAZIRA` now 38.0 (was 38000000.0),
+`GCL HAZIRA`/`NEW WAVELET`/`VELA` all correct; `225 EACH` still 225.0.
+No `N,NNN` single-group ambiguous token exists in the corpus (checked), so the
+shape rule cannot misfire on this publisher's data.
+Golden gate after the change (JRE on PATH): star_asia camelot-stream 13/15,
+pdfplumber 13/15, tabula 9/15, **plumber-text 15/15, pymupdf-text 15/15**;
+ssy_atlantic camelot 14/14. Unchanged.
+
+### INCIDENT (self-inflicted, fully restored): I regenerated the 9 delivered
+### carriers_*_series.csv while trying to run ONE doc to a scratch dir
+
+`run_carriers_complete.py` binds the output paths at IMPORT time
+(`SALES_SERIES_CSV = OUT_SERIES / ...`, module level). My harness monkeypatched
+`m.OUT_SERIES` AFTER import, which does not rebind those constants, so a
+one-document "scratch" run wrote straight into the real
+`data/extracted/series/`. It shrank all nine carriers CSVs to the single-doc
+W39-2026 content (carriers_sales 3,130 -> 25 rows). Detected immediately by the
+missing scratch file, damage scoped by listing the write targets (only
+`data/extracted/series/` and `data/extracted/md/carriers/` are written).
+
+Recovery was exact, not approximate: the delivered files were produced by the
+pre-dup-guard script (commit 57d064c09^, whose message records the delivered
+counts). I wrote that version back to the working tree and re-ran it over the
+136 carriers PDFs. Output matched the recorded delivered state to the row:
+
+| series | restored | recorded delivered |
+|---|---|---|
+| carriers_sales | 3,130 | 3,130 |
+| carriers_dry_tc_period | 3,216 | 3,216 |
+| carriers_indices | 1,876 | 1,876 |
+| carriers_tanker_tce | 804 | 804 |
+| carriers_bspa | 749 | 749 |
+| carriers_bda | 375 | 375 |
+| carriers_newbuilding | 312 | 312 |
+| carriers_demolition | 178 | 178 |
+| carriers_dry_weighted_routes | 670 | 670 |
+
+The working tree was then reset to the committed (dup-guard) + fix version, the
+scratch dir deleted, and `scripts/analysis/golden_matrix.json` reverted (the
+golden run rewrites it; it is outside this job's edit scope - same trap the
+2026-10-05 05:12 run recorded). `verify_extraction.py` re-run after recovery:
+`actions: []`, golden 15/15, checkpoint unchanged at 7,816.
+LESSON for the next agent: to sandbox this writer, rebind the *_SERIES_CSV /
+OUT_MD constants (or run a process whose __file__ roots are the scratch tree),
+never just `m.OUT_SERIES`; and prefer asserting the target path exists BEFORE
+launching a writer.
+Scope check: this briefing states "never use sed/awk (use patch)" but no `patch`
+tool is exposed to this job; edits were made with a Python read/modify/write.
+
+### Fixing the branch-name collision
+
+`auto/extract-fixes-2026-10-05` ALREADY existed (a sibling's branch, pointing at
+462e5a2d8), so `git checkout -b auto/extract-fixes-2026-10-05` failed and the fix
+commit landed on **main** (f81eb2e7b). Corrected immediately: created
+`auto/extract-fixes-2026-10-05-carriers` at that commit, `git checkout`ed onto it,
+and force-moved `main` back to `9e359a7fe` (= origin/main). `main` is unstaged/
+uncommitted by this run and was never pushed.
+
+### HUMAN DECISION
+
+1. The delivered `carriers_sales_series.csv` still carries the 208 bad price
+   rows - applying the fix to already-extracted data is a regeneration, outside
+   this job's write scope. To fix it, run once with the current committed code
+   (it globs all 136 carriers PDFs and rewrites the nine series; the committed
+   dup-guard also drops 69 duplicate sales rows at the same time,
+   3,130 -> 3,061):
+       python3 scripts/extract/publishers/run_carriers_complete.py
+   Then refresh whatever consumes `data/extracted/series/**` (register, cadence
+   audits, downstream series builds). Note none of the carriers_* files is read
+   by the app (`index.html` / `data/views/**` have zero references).
+
+### Deliberately NOT changed
+
+* The series-layer key ambiguity carried from 2026-10-03 (a (source, entity,
+  measurement) triple matching >1 series_id): now **854** triples in the rebuilt
+  db (was 764; the db was rebuilt 2026-10-04 with more data). Symptom quantified
+  this run: 114 series with max/min > 500, e.g. `shipbrokers/lpg/(empty)/b1`
+  n=157 min=2.0 median=26616 max=9177557. This is the skill's row-label-vs-
+  column-header ambiguity; fixing it is a key-model regeneration, a human call.
+* The `(cid:)` mojibake in `data/extracted/corpus/**` tables (963 hellenic docs
+  in this tree) - already fixed at the detector level on 2026-10-03; delivered
+  `md/hellenic/**` has 0 occurrences. No change.
+* The four `scripts/extract/publishers/run_*.py` files showing modified in the
+  tree (clarksons, fearnleys_normalized, star_asia, xclusiv_tables) are a
+  CONCURRENT agent's edits - mtimes advanced while this run worked. Not mine,
+  left untouched.

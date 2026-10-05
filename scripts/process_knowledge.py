@@ -322,11 +322,14 @@ def parse_number(value):
     if not match:
         return None
     try:
-        val = float(match.group(0))
-        # Scale correction for OCR dot-instead-of-comma errors
-        # e.g., 9.750 -> 9.75 -> 9750
-        # If it has a dot and is in a reasonable range (5.0 <= val < 100.0)
-        if "." in match.group(0) and 5.0 <= val < 100.0:
+        token = match.group(0)
+        val = float(token)
+        # Scale correction for OCR dot-instead-of-comma errors (9.750 -> 9750).
+        # SHAPE-gated: only when the dot is followed by EXACTLY three digits (a
+        # thousands-separator signature) and the value sits in [5,100). This
+        # prevents the 2026-10-05 regression where iron-ore prices with 1-2
+        # decimals (30.43, 13.21) were multiplied by 1000.
+        if re.fullmatch(r"-?\d+\.\d{3}", token) and 5.0 <= val < 100.0:
             val *= 1000.0
         return val
     except ValueError:

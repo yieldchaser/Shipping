@@ -201,13 +201,15 @@ def infer_vessel_type(name: str, dwt_str: str, section: str, commentary: str) ->
 
 
 def extract_desk_commentary(doc: pymupdf.Document) -> str:
-    """Extract narrative commentary across all pages in reading order."""
-    all_paras = []
+    """Extract narrative commentary across all pages with proper section association and labeling."""
+    sections = []
+    current_sec = "Desk Talk"
 
-    for pno in range(len(doc)):
+    for pno in range(min(2, len(doc))):
         page = doc[pno]
-        blocks = sorted(page.get_text("blocks"), key=lambda b: (b[1], b[0]))
+        blocks = page.get_text("blocks")
 
+        # 1. Find table cutoff y
         table_y = 9999.0
         for b in blocks:
             u = b[4].strip().upper()
@@ -215,51 +217,96 @@ def extract_desk_commentary(doc: pymupdf.Document) -> str:
                 if b[1] < table_y:
                     table_y = b[1]
 
+        # 2. Extract banners and narrative blocks
+        banners = []
+        narratives = []
+
         for b in blocks:
             txt = b[4].strip()
-            if not txt:
+            if not txt or b[1] >= table_y - 5:
                 continue
-            # Skip anything at or below the transaction table start
-            if b[1] >= table_y - 5:
-                continue
-            # Skip page headers / contact banners / disclaimers
             if b[1] < 120 and ("Clarkson" in txt or "Weekly Bulletin" in txt or "Sale and Purchase" in txt):
                 continue
-            if b[1] > 800 and ("Page " in txt):
-                continue
-            if "The material and the information" in txt or "Direct  +" in txt or "Kifissias Avenue" in txt or "clarksons.gr" in txt.lower():
+            if b[1] > 800 or "Page " in txt or "The material and the information" in txt or "Direct  +" in txt or "Kifissias Avenue" in txt or "clarksons.gr" in txt.lower():
                 continue
             if "BALTIC INDEX" in txt or "EXCHANGE RATE" in txt or "BUNKER PRICES" in txt:
                 continue
-
-            # Skip table headers
             u = txt.upper()
             if "VESSEL" in u and "DWT" in u and ("BLT" in u or "BUILT" in u):
                 continue
             if u in ("BULK CARRIERS", "TANKERS - CHEMICALS - LPG/LNGS", "BULKER SALES", "TANKER SALES", "DEMOLITION"):
                 continue
 
-            # Identify major section headings
-            if txt in ("Desk Talk", "Dry Cargo", "Tanker", "NEW BUILDING", "RECYCLING", "Mixed Messages!"):
-                all_paras.append(f"### {txt}")
-                continue
+            clean_name = txt.strip()
+            if b[0] < 120 and clean_name in ("Desk Talk", "Dry Cargo", "Tanker", "NEW BUILDING", "RECYCLING", "Mixed Messages!"):
+                banners.append((b[1], clean_name))
+            else:
+                lines = [l.strip() for l in txt.split("\n") if l.strip()]
+                if len(lines) >= 2 or len(txt) > 80:
+                    cleaned = clean_text(txt.replace("\n", " "))
+                    if cleaned:
+                        narratives.append((b[1], cleaned, txt))
 
-            # Keep multi-sentence paragraphs
-            lines = [l.strip() for l in txt.split("\n") if l.strip()]
-            if len(lines) >= 2 or len(txt) > 80:
-                cleaned = clean_text(txt.replace("\n", " "))
-                if cleaned:
-                    all_paras.append(cleaned)
+        banners.sort(key=lambda x: x[0])
+        narratives.sort(key=lambda x: x[0])
 
-    # Prune consecutive or trailing empty headings without prose
-    pruned_paras = []
-    for idx, p in enumerate(all_paras):
-        if p.startswith("### "):
-            if idx + 1 >= len(all_paras) or all_paras[idx + 1].startswith("### "):
-                continue
-        pruned_paras.append(p)
+        for n_y, n_clean, raw_txt in narratives:
+            # Match to banner
+            for b_y, b_name in reversed(banners):
+                if b_y <= n_y + 35:
+                    current_sec = b_name
+                    break
 
-    return "\n\n".join(pruned_paras).strip()
+            if current_sec == "Desk Talk":
+                raw_paras = [clean_text(p) for p in re.split(r"\n\s*\n", raw_txt) if clean_text(p)]
+                tanker_paras = []
+                dry_paras = []
+                general_paras = []
+                for p in raw_paras:
+                    low = p.lower()
+                    if low.startswith("on dry") or "bdi " in low or "dry bulk" in low or "dry space" in low:
+                        dry_paras.append(p)
+                    elif "tanker" in low or "vlcc" in low or "suezmax" in low or "clean earnings" in low or "crude carriers" in low:
+                        tanker_paras.append(p)
+                    else:
+                        general_paras.append(p)
+
+                sections.append(("Desk Talk", general_paras, tanker_paras, dry_paras))
+            else:
+                sections.append((current_sec, [n_clean], [], []))
+
+    # Format into markdown
+    md_lines = []
+    desk_talk_emitted = False
+    for sec_name, gen_p, tkr_p, dry_p in sections:
+        if sec_name == "Desk Talk" and not desk_talk_emitted:
+            desk_talk_emitted = True
+            md_lines.append("### Desk Talk\n")
+            if tkr_p:
+                md_lines.append("#### Tankers\n")
+                for p in tkr_p:
+                    md_lines.append(f"{p}\n")
+            if dry_p:
+                md_lines.append("#### Dry Cargo\n")
+                for p in dry_p:
+                    md_lines.append(f"{p}\n")
+            if gen_p:
+                for p in gen_p:
+                    md_lines.append(f"{p}\n")
+        elif sec_name == "Dry Cargo":
+            md_lines.append("### Dry Cargo S&P\n")
+            for p in gen_p:
+                md_lines.append(f"{p}\n")
+        elif sec_name == "Tanker":
+            md_lines.append("### Tanker S&P\n")
+            for p in gen_p:
+                md_lines.append(f"{p}\n")
+        elif sec_name not in ("Desk Talk",):
+            md_lines.append(f"### {sec_name}\n")
+            for p in gen_p:
+                md_lines.append(f"{p}\n")
+
+    return "\n".join(md_lines).strip()
 
 
 BANNER_KEYWORDS = [
