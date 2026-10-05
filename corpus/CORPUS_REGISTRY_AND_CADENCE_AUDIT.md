@@ -7,7 +7,7 @@
 
 ## 1. Executive Summary & Fleet Publication Status
 
-- **Total Corpus Assets Cataloged:** Over 63,973 documents across 31 discrete publishers and categories.
+- **Total Corpus Assets Cataloged:** Over 63,972 documents across 31 discrete publishers and categories.
 - **Active Document Formats:** 13,440 PDFs, 8,986 HTML files, 23,044 JPG/PNG images, 39,912 Markdown files.
 - **Status as of 2026-10-05:**
   - **Current & Up to Date (<= 7 days ago):** 26 publishers/categories have their latest reports and filings fully digested.
@@ -518,7 +518,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2004-01-02` to `2026-09-28`
 - **Latest Ingested Document:** `Weekly Opinion - 11 September 2026 - A Tanker Market On Steroids, Will It Last.pdf` (Status: **CURRENT (7d ago)**)
-- **Sample Ingested Report (Corpus):** [`README_STASHED.md`](file:///C:/Users/Dell/Github/Shipping/corpus/04-poten/README_STASHED.md)
+- **Sample Ingested Report (Corpus):** [`Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf`](file:///C:/Users/Dell/Github/Shipping/corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf)
 - **Sample Extracted Markdown (Digest):** [`poten_2026-09-18_running-out-of-options.md`](file:///C:/Users/Dell/Github/Shipping/data/extracted/md/poten/2026/poten_2026-09-18_running-out-of-options.md)
 - **Inventory by Format:** 1087 PDFs, 0 HTML files, 0 Images, 1087 Markdown files
 - **Chart Extraction:** Yes (Top Charterers annual/biannual volume rankings)

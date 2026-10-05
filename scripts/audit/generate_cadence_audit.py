@@ -1267,12 +1267,12 @@ def find_sample_file(base_dir: Path, extensions: Tuple[str, ...]) -> Optional[Pa
     # 1. Check 2026 subfolder if present
     if (base_dir / "2026").exists():
         for ext in extensions:
-            matches = [f for f in (base_dir / "2026").glob(f"*{ext}") if not f.name.startswith(".")]
+            matches = [f for f in (base_dir / "2026").glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
             if matches:
                 return sorted(matches)[-1]
     # 2. Check direct files
     for ext in extensions:
-        matches = [f for f in base_dir.glob(f"*{ext}") if not f.name.startswith(".")]
+        matches = [f for f in base_dir.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
         if matches:
             return sorted(matches)[-1]
     # 3. Check 1 level of subdirectories
@@ -1280,18 +1280,18 @@ def find_sample_file(base_dir: Path, extensions: Tuple[str, ...]) -> Optional[Pa
         if sub.is_dir() and not sub.name.startswith("."):
             if (sub / "2026").exists():
                 for ext in extensions:
-                    matches = [f for f in (sub / "2026").glob(f"*{ext}") if not f.name.startswith(".")]
+                    matches = [f for f in (sub / "2026").glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
                     if matches:
                         return sorted(matches)[-1]
             for ext in extensions:
-                matches = [f for f in sub.glob(f"*{ext}") if not f.name.startswith(".")]
+                matches = [f for f in sub.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
                 if matches:
                     return sorted(matches)[-1]
             # 4. Check 2 levels of subdirectories
             for subsub in sorted(sub.iterdir(), reverse=True):
                 if subsub.is_dir() and not subsub.name.startswith("."):
                     for ext in extensions:
-                        matches = [f for f in subsub.glob(f"*{ext}") if not f.name.startswith(".")]
+                        matches = [f for f in subsub.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
                         if matches:
                             return sorted(matches)[-1]
     return None
