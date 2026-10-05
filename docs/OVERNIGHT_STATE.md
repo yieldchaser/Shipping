@@ -1,3 +1,18 @@
+**THIS RUN (2026-10-06 05:0x, source-by-source, 30m job) - THE KNOWLEDGE/QA CI BLOCKER IS CLOSED: P-KB run 37375284821 step 11 `Validate knowledge artifacts` = SUCCESS (first time), the daily knowledge commit LANDED, and `knowledge/chunks/index.json` `generated_at` ADVANCED 2026-09-29T17:23:36Z -> 2026-10-05T23:11:23Z. The app-visible QA tier is UNFROZEN after 7 days.**
+
+**1. Headline (measured).** This answers the prior run's explicit "NEXT RUN: read 37375284821's step-11 result". `gh api .../jobs/111982292932`: step 9 `Run processor` success, step 10 `Guardrail - verify Breakwave signals freshness` success, **step 11 `Validate knowledge artifacts` = success**, step 14 `Commit knowledge artifacts` = success -> commit `dc76c6906` "knowledge: update 2026-10-05". The step-11 blocker carried for 3 runs (dup doc ids 1290 / invalid section refs 28731 / dup tree nodes 3337 / unresolved required local assets 1393) is now GREEN on `main`.
+
+**2. The daily schedule is healthy again.** `Daily Knowledge Update` run **37380480306** (22:08Z, schedule) = **success** (3m34s) - first green daily since 2026-09-28 (7 prior consecutive failures 09-29..10-05). NOTE it exercised only steps 1-8: step 8 `Check for new reports` found nothing new, so steps 9-14 `SKIPPED`. The actual knowledge update that unfroze the tier came from the hand-dispatched **P-KB 37375284821** (1h52m), not the daily.
+
+**3. Tier freshness verified on origin/main directly** (not the stale local copy): `git show origin/main:knowledge/chunks/index.json` -> `generated_at 2026-10-05T23:11:23Z`. `dc76c6906` rewrote 20+ chunk shards (baltic_*, hellenic_iron_ore_2026 9,510 lines, hellenic_demolition_2026 1,766, broker_reports_broker_report_2026 1,966) - the compact-in-place shards the 10-05 recovery restored now in a committed, validator-passing state.
+
+**4. Nothing left to extract - 5th measurement (md counts per source, all built):** advanced_shipping 255, affinity 249, agora 219, banchero_costa 249, carriers 137, clarksons 188, fearnleys 12000 (record-only), gibson 264, intermodal 257, ism 115, lion 48, ssy 530, star_asia 200, xclusiv 271, poten 1087, drewry 849, seabrokers 98, signal 446, hellenic 3781, breakwave 3504, companies 1310, baltic 2228, books 12. Every corpus folder has an md output. `xclusiv 271/271` (confirms the 30m prompt is stale).
+
+**5. Local tree:** only `logs/fleet_sync.log` modified (automation-owned, not ours). Local `auto/extract-fixes-2026-10-06-linkedasset-verify` f6a56cb79 is 5 behind origin/main 0e65f3a61 (all automation pushes: knowledge update, broker-voice sync, daily brief).
+
+**STILL OPEN (not this run):** the linked-asset fatal gate remains DEAD in HEAD (`unresolved_required_local` never populated; line 1114 prints 0 unconditionally) - restoring it must be mapping-aware to spare the 59 permanently-unfetchable breakwave assets (`docs/breakwave_pdf_mirror_verdict.md`). Residual ledger defects: `intermodal_macro_series.csv` 4.3 (1,290/3,739 non-reproducible stated change, verify-vs-page first) and the residual ism agreement tail (1,178 rows).
+
+---
 **THIS RUN (2026-10-06 04:0x, source-by-source, 30m job) - THE 59 BREAKWAVE "UNRESOLVED LINKED ASSETS" ARE BOT-WALL JUNK, NOT A MIRRORING GAP (measured; a copy "fix" was TRIED and REVERTED). Evidence `docs/breakwave_pdf_mirror_verdict.md`.**
 
 Nothing of ours extracting (programme re-verified closed). Branch `auto/extract-fixes-2026-10-06-linkedasset-verify`.
