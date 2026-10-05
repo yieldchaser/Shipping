@@ -14,7 +14,7 @@ Nothing of ours extracting (programme re-verified closed). Branch `main`, HEAD =
 
 **6. Nothing to extract (re-measured):** every `corpus/*` folder has an md output (23 md dirs incl. baltic, companies, gibson, clarksons); xclusiv 271 md + 271 tables.json year-sharded 2021-2026; `corpus/10-companies` (26 dirs) and `corpus/08-baltic` (5,276 files) extracted. No unbuilt corpus folder found.
 
-**NEXT RUN:** read run **37373648497**'s step-11 result. If green, the daily knowledge commit lands and `index.json` advances (the one remaining app-visible item) - then decide whether to restore the linked-asset fatal branch (item 4). If it still fails, diff its own diagnostic artefact against the classes above.
+**NEXT RUN:** read run **37375284821**'s step-11 result (I re-dispatched P-KB by hand because the automation's own dispatch 37373648497 was LOST to a GitHub-hosted runner-acquisition failure at 21:04Z - it never executed a step; the Weekly Broker Reports Ingest dispatch failed the same way). 37375284821 acquired a runner and was still in step 9 'Run processor' after ~38 min at 22:00Z. If green, the daily knowledge commit lands and `index.json` advances (the one remaining app-visible item) - then decide whether to restore the linked-asset fatal branch (item 4). If it still fails, diff its own diagnostic artefact against the classes above.
 
 ---
 **THIS RUN (2026-10-05 23:3x, source-by-source, 30m job) - EXTRACTION PROGRAMME RE-VERIFIED: NOTHING LEFT TO EXTRACT; the last two CI blockers are now COMMITTED in HEAD (will be exercised by tonight's scheduled run). Evidence appended to `docs/xclusiv_verdict.md`.**
